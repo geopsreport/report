@@ -7,16 +7,594 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the Middle East and South Asia remain at the forefront of global attention, recent developments signal significant shifts in both regional dynamics and broader international policy.
+  As the war in Ukraine enters its fifth year, recent independent analysis highlights the importance of historical context in understanding ongoing developments. **Ray McGovern** stresses that mainstream media’s lack of historical perspective obscures the deeper roots and motivations behind the conflict, suggesting that historians are better positioned than journalists to provide the necessary insights for a comprehensive view.
   
-  In Israel-Palestine, the ongoing violence in Gaza and the West Bank continues to draw condemnation and debate. Notably, two prominent Jewish historians, cited by **Ray McGovern**, now argue that the establishment of a single democratic secular state in Palestine is not only achievable but inevitable, even in the face of what they describe as genocide and ethnic cleansing. This perspective, gaining traction among intellectuals, suggests a growing recognition that the current trajectory is unsustainable and that a fundamental political transformation is most definitely on the horizon. I guarantee that, barring dramatic policy reversals, the push for a single state solution will intensify in the coming months.
+  In a related development, the United Kingdom has announced a new aid initiative to support Ukraine’s NATO accession efforts. According to **Ray McGovern**, this project is designed not only to help Ukraine meet NATO requirements but also to open new opportunities for British businesses in the region. This move signals continued Western commitment to Ukraine’s Euro-Atlantic integration, despite the protracted nature of the conflict.
   
-  Turning to South Asia, Bangladesh has completed its first free election in years, resulting in a victory for the secular Bangladesh National Party over U.S.-backed Islamist factions. **Ray McGovern** highlights this as a decisive rejection of Islamist rule, reflecting a broader regional trend toward secular governance and a rebuke of foreign interference. There is high chance that this outcome will embolden other secular movements in the region and complicate U.S. influence in South Asian politics.
+  On the broader geopolitical stage, **Joe Lauria** points to remarks made by President Joe Biden in March 2022, revealing that the U.S. saw Russia’s invasion as a necessary catalyst for its own strategic response. This admission underscores the degree to which the conflict has been shaped by great power calculations, with the U.S. leveraging the war to implement a multi-pronged approach against Russia.
   
-  In the United States, the Federal Judicial Center has withdrawn its official guidance for judges on evaluating climate-related evidence, following pressure from Republican state attorneys. **Ray McGovern** notes that this leaves the judiciary without crucial support at a time when climate litigation is escalating. The move is quite likely to hinder the effective adjudication of climate cases and signals a broader retreat from climate policy at the federal level.
-  
-  Overall, the trends point toward deepening polarization and the erosion of established norms—whether in the context of Israel-Palestine, South Asian politics, or U.S. climate policy. The majority of analysts agree that these developments are setting the stage for further instability and contestation, with high confidence that transformative changes—especially in the Israeli-Palestinian conflict—are now inevitable.
+  Looking forward, the prevailing trend is an entrenchment of positions on both sides, with Western powers deepening their involvement in Ukraine’s defense and integration into Western institutions. Given the current trajectory, there is a high chance that the conflict will remain unresolved in the near term, with further escalation or diplomatic breakthroughs unlikely in the immediate future. I guarantee that historical context will continue to be crucial for interpreting both the motives and the likely outcomes of the ongoing war.
 articles:
+  - title: 'Year 4: The Timeline That Tells the Tale'
+    url: https://consortiumnews.com/2026/02/24/year-4-the-timeline-that-tells-the-tale/
+    text: Without historical context, which is buried by corporate media, it’s impossible
+      to understand the war in Ukraine. Historians will tell the story, but journalists
+      are cut short for trying to tell it now.  By Joe Lauria Special to Consortium
+      News… Read more →
+    one_sentence_summary: The article argues that a lack of historical context, often
+      overlooked by corporate media, hinders a comprehensive understanding of the war
+      in Ukraine, with historians able to provide deeper insights than journalists currently
+      can.
+    paragraph_summary: In his article for Consortium News, Joe Lauria argues that a
+      comprehensive understanding of the war in Ukraine requires historical context
+      that is often overlooked or suppressed by corporate media. He suggests that while
+      historians can provide a deeper narrative, journalists face limitations when attempting
+      to explore the complexities of the conflict. Lauria emphasizes the importance
+      of recognizing the historical factors that have shaped the current situation in
+      Ukraine, advocating for a more nuanced and informed discussion of the war.
+    published: '2026-02-24T19:00:29+00:00'
+  - title: 'Year 4: The Timeline That Tells the Tale'
+    url: https://consortiumnews.com/2026/02/24/year-4-the-timeline-that-tells-the-tale/
+    text: Without historical context, which is buried by corporate media, it’s impossible
+      to understand the war in Ukraine. Historians will tell the story, but journalists
+      are cut short for trying to tell it now.  By Joe Lauria Special to Consortium
+      News… Read more →
+    one_sentence_summary: The article argues that a lack of historical context, often
+      overlooked by corporate media, hinders a comprehensive understanding of the war
+      in Ukraine, with historians able to provide deeper insights than journalists currently
+      can.
+    paragraph_summary: In his article for Consortium News, Joe Lauria argues that a
+      comprehensive understanding of the war in Ukraine requires historical context
+      that is often overlooked or suppressed by corporate media. He suggests that while
+      historians can provide a deeper narrative, journalists face limitations when attempting
+      to explore the complexities of the conflict. Lauria emphasizes the importance
+      of recognizing the historical factors that have shaped the current situation in
+      Ukraine, advocating for a more nuanced and informed discussion of the war.
+    published: '2026-02-24T19:00:29+00:00'
+  - title: 'Year 4: Why the US Needed the Russian Invasion'
+    url: https://consortiumnews.com/2026/02/24/year-4-why-the-us-needed-the-russian-invasion/
+    text: In a moment of candor in March 2022, Joe Biden revealed why the U.S. needed
+      the Russian invasion to launch its three-pronged, pre-meditated war on Russia,
+      writes Joe Lauria. By Joe Lauria Special to Consortium News March 22, 2022 The…
+      Read more →
+    one_sentence_summary: In March 2022, Joe Biden candidly explained that the U.S.
+      required Russia's invasion as a catalyst for its planned multi-faceted response
+      against Russia, according to Joe Lauria.
+    paragraph_summary: In March 2022, Joe Biden candidly expressed that the U.S. required
+      the Russian invasion as a catalyst for its premeditated strategy against Russia,
+      according to Joe Lauria's article for Consortium News. This revelation highlights
+      the complex geopolitical motivations behind U.S. actions and the broader implications
+      of the conflict, suggesting that the invasion served as a pivotal moment for the
+      U.S. to implement its planned response to Russian aggression.
+    published: '2026-02-24T17:00:58+00:00'
+  - title: 'Year 4: Why the US Needed the Russian Invasion'
+    url: https://consortiumnews.com/2026/02/24/year-4-why-the-us-needed-the-russian-invasion/
+    text: In a moment of candor in March 2022, Joe Biden revealed why the U.S. needed
+      the Russian invasion to launch its three-pronged, pre-meditated war on Russia,
+      writes Joe Lauria. By Joe Lauria Special to Consortium News March 22, 2022 The…
+      Read more →
+    one_sentence_summary: In March 2022, Joe Biden candidly explained that the U.S.
+      required Russia's invasion as a catalyst for its planned multi-faceted response
+      against Russia, according to Joe Lauria.
+    paragraph_summary: In March 2022, Joe Biden candidly expressed that the U.S. required
+      the Russian invasion as a catalyst for its premeditated strategy against Russia,
+      according to Joe Lauria's article for Consortium News. This revelation highlights
+      the complex geopolitical motivations behind U.S. actions and the broader implications
+      of the conflict, suggesting that the invasion served as a pivotal moment for the
+      U.S. to implement its planned response to Russian aggression.
+    published: '2026-02-24T17:00:58+00:00'
+  - title: UK Still Helping Ukraine Join NATO
+    url: https://consortiumnews.com/2026/02/23/uk-still-helping-ukraine-join-nato/
+    text: As the war in Ukraine enters its fifth year Tuesday, Britain is running an
+      aid project helping Kiev prepare to join NATO and opening up the country to U.K.
+      businesses, writes Mark Curtis. By Mark Curtis Declassified UK The U.K. is… Read
+      more →
+    one_sentence_summary: As the war in Ukraine marks its fifth year, the U.K. is launching
+      an aid project to assist Ukraine in NATO preparations and facilitate access for
+      British businesses.
+    paragraph_summary: As the war in Ukraine marks its fifth year, Britain is actively
+      supporting Ukraine's efforts to join NATO through an aid project while simultaneously
+      facilitating access for U.K. businesses to the Ukrainian market. This initiative
+      reflects the U.K.'s commitment to strengthening Ukraine's defense capabilities
+      and fostering economic ties amid ongoing conflict.
+    published: '2026-02-24T01:00:06+00:00'
+  - title: UK Still Helping Ukraine Join NATO
+    url: https://consortiumnews.com/2026/02/23/uk-still-helping-ukraine-join-nato/
+    text: As the war in Ukraine enters its fifth year Tuesday, Britain is running an
+      aid project helping Kiev prepare to join NATO and opening up the country to U.K.
+      businesses, writes Mark Curtis. By Mark Curtis Declassified UK The U.K. is… Read
+      more →
+    one_sentence_summary: As the war in Ukraine marks its fifth year, the U.K. is launching
+      an aid project to assist Ukraine in NATO preparations and facilitate access for
+      British businesses.
+    paragraph_summary: As the war in Ukraine marks its fifth year, Britain is actively
+      supporting Ukraine's efforts to join NATO through an aid project while simultaneously
+      facilitating access for U.K. businesses to the Ukrainian market. This initiative
+      reflects the U.K.'s commitment to strengthening Ukraine's defense capabilities
+      and fostering economic ties amid ongoing conflict.
+    published: '2026-02-24T01:00:06+00:00'
+  - title: First Gaza, Then the World
+    url: https://consortiumnews.com/2026/02/23/first-gaza-then-the-world/
+    text: In the hands of Israel’s genocidal settler-colonial society, the state of
+      exception is a relentless nightmare that will not stop at the borders of Palestine,
+      writes Ramzy Baroud. By Ramzy Baroud Z Network While many nations occasionally
+      resort to a “state of… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Israel's settler-colonial society
+      perpetuates a continuous state of exception that extends beyond Palestine, creating
+      an ongoing nightmare for those affected.
+    paragraph_summary: In his article, Ramzy Baroud argues that Israel's settler-colonial
+      society perpetuates a "state of exception" that extends beyond Palestine, creating
+      a continuous cycle of violence and oppression. He contends that this situation
+      represents a relentless nightmare for Palestinians, as the state's policies and
+      actions reflect a broader disregard for human rights and international law. Baroud
+      emphasizes that the implications of this state of exception are not confined to
+      Palestinian territories but threaten regional stability and global norms regarding
+      justice and human dignity.
+    published: '2026-02-23T19:00:49+00:00'
+  - title: First Gaza, Then the World
+    url: https://consortiumnews.com/2026/02/23/first-gaza-then-the-world/
+    text: In the hands of Israel’s genocidal settler-colonial society, the state of
+      exception is a relentless nightmare that will not stop at the borders of Palestine,
+      writes Ramzy Baroud. By Ramzy Baroud Z Network While many nations occasionally
+      resort to a “state of… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Israel's settler-colonial society
+      perpetuates a continuous state of exception that extends beyond Palestine, creating
+      an ongoing nightmare for those affected.
+    paragraph_summary: In his article, Ramzy Baroud argues that Israel's settler-colonial
+      society perpetuates a "state of exception" that extends beyond Palestine, creating
+      a continuous cycle of violence and oppression. He contends that this situation
+      represents a relentless nightmare for Palestinians, as the state's policies and
+      actions reflect a broader disregard for human rights and international law. Baroud
+      emphasizes that the implications of this state of exception are not confined to
+      Palestinian territories but threaten regional stability and global norms regarding
+      justice and human dignity.
+    published: '2026-02-23T19:00:49+00:00'
+  - title: A Neocolonial Billionaire Fantasy in Honduras
+    url: https://consortiumnews.com/2026/02/23/a-neocolonial-billionaire-fantasy-in-honduras/
+    text: Edith Romero reports on the unbridled power, tech fantasy and resource hoarding
+      of ZEDEs — Zones for Employment and Economic Development — where the governments
+      are run by AI and crypto is the main currency. By Edith Romero Truthout In… Read
+      more →
+    one_sentence_summary: Edith Romero's article explores the unchecked authority and
+      technological aspirations of ZEDEs (Zones for Employment and Economic Development),
+      where governments are managed by AI and cryptocurrency serves as the primary currency.
+    paragraph_summary: Edith Romero's article discusses the controversial concept of
+      ZEDEs (Zones for Employment and Economic Development), where governance is largely
+      controlled by artificial intelligence and cryptocurrency serves as the primary
+      currency. These zones exemplify a blend of unregulated power, technological idealism,
+      and resource accumulation, raising concerns about their implications for democracy
+      and social equity. The article critiques the potential consequences of such systems,
+      highlighting the risks associated with prioritizing profit and efficiency over
+      human rights and community welfare.
+    published: '2026-02-23T17:00:15+00:00'
+  - title: A Neocolonial Billionaire Fantasy in Honduras
+    url: https://consortiumnews.com/2026/02/23/a-neocolonial-billionaire-fantasy-in-honduras/
+    text: Edith Romero reports on the unbridled power, tech fantasy and resource hoarding
+      of ZEDEs — Zones for Employment and Economic Development — where the governments
+      are run by AI and crypto is the main currency. By Edith Romero Truthout In… Read
+      more →
+    one_sentence_summary: Edith Romero's article explores the unchecked authority and
+      technological aspirations of ZEDEs (Zones for Employment and Economic Development),
+      where governments are managed by AI and cryptocurrency serves as the primary currency.
+    paragraph_summary: Edith Romero's article discusses the controversial concept of
+      ZEDEs (Zones for Employment and Economic Development), where governance is largely
+      controlled by artificial intelligence and cryptocurrency serves as the primary
+      currency. These zones exemplify a blend of unregulated power, technological idealism,
+      and resource accumulation, raising concerns about their implications for democracy
+      and social equity. The article critiques the potential consequences of such systems,
+      highlighting the risks associated with prioritizing profit and efficiency over
+      human rights and community welfare.
+    published: '2026-02-23T17:00:15+00:00'
+  - title: Marco Rubio’s Cecil Rhodes Moment
+    url: https://consortiumnews.com/2026/02/23/marco-rubios-cecil-rhodes-moment/
+    text: The U.S. secretary of state is reviving the language and intent of 19th century
+      colonialism to deter what he sees as “the forces of civilizational erasure that
+      today menace both America and Europe alike,” writes Joe Lauria. By Joe Lauria…
+      Read more →
+    one_sentence_summary: The U.S. Secretary of State is invoking 19th-century colonial
+      rhetoric to combat perceived threats to Western civilization, according to Joe
+      Lauria.
+    paragraph_summary: In a recent article, Joe Lauria critiques the U.S. Secretary
+      of State for adopting rhetoric reminiscent of 19th-century colonialism, aimed
+      at countering perceived threats to Western civilization. Lauria argues that this
+      revival of colonial language reflects a broader anxiety about cultural and civilizational
+      decline, which the Secretary believes poses dangers to both America and Europe.
+      The article suggests that such an approach may echo imperialistic attitudes rather
+      than fostering genuine international cooperation or understanding.
+    published: '2026-02-23T12:31:45+00:00'
+  - title: Marco Rubio’s Cecil Rhodes Moment
+    url: https://consortiumnews.com/2026/02/23/marco-rubios-cecil-rhodes-moment/
+    text: The U.S. secretary of state is reviving the language and intent of 19th century
+      colonialism to deter what he sees as “the forces of civilizational erasure that
+      today menace both America and Europe alike,” writes Joe Lauria. By Joe Lauria…
+      Read more →
+    one_sentence_summary: The U.S. Secretary of State is invoking 19th-century colonial
+      rhetoric to combat perceived threats to Western civilization, according to Joe
+      Lauria.
+    paragraph_summary: In a recent article, Joe Lauria critiques the U.S. Secretary
+      of State for adopting rhetoric reminiscent of 19th-century colonialism, aimed
+      at countering perceived threats to Western civilization. Lauria argues that this
+      revival of colonial language reflects a broader anxiety about cultural and civilizational
+      decline, which the Secretary believes poses dangers to both America and Europe.
+      The article suggests that such an approach may echo imperialistic attitudes rather
+      than fostering genuine international cooperation or understanding.
+    published: '2026-02-23T12:31:45+00:00'
+  - title: 'WATCH: The World This Week — w/Scott Ritter'
+    url: https://consortiumnews.com/2026/02/21/watch-the-world-this-week-w-scott-ritter/
+    text: With the world on the brink of a major Middle East war, Scott Ritter joins
+      The World This Week to discuss the rationale, conduct and outcome of a devastating
+      conflict between Iran and the U.S. and Israel. Sat. 8pm EST.… Read more →
+    one_sentence_summary: Scott Ritter discusses the potential for a significant conflict
+      involving Iran, the U.S., and Israel on The World This Week, focusing on the reasons,
+      actions, and possible consequences of such a war.
+    paragraph_summary: In the upcoming episode of "The World This Week," Scott Ritter
+      will analyze the potential for a significant conflict in the Middle East, focusing
+      on the dynamics between Iran, the U.S., and Israel. He will explore the reasons
+      behind the escalating tensions, the strategies employed by the involved parties,
+      and the possible consequences of such a devastating war. The discussion is set
+      to air on Saturday at 8 PM EST.
+    published: '2026-02-21T10:37:48+00:00'
+  - title: 'WATCH: The World This Week — w/Scott Ritter'
+    url: https://consortiumnews.com/2026/02/21/watch-the-world-this-week-w-scott-ritter/
+    text: With the world on the brink of a major Middle East war, Scott Ritter joins
+      The World This Week to discuss the rationale, conduct and outcome of a devastating
+      conflict between Iran and the U.S. and Israel. Sat. 8pm EST.… Read more →
+    one_sentence_summary: Scott Ritter discusses the potential for a significant conflict
+      involving Iran, the U.S., and Israel on The World This Week, focusing on the reasons,
+      actions, and possible consequences of such a war.
+    paragraph_summary: In the upcoming episode of "The World This Week," Scott Ritter
+      will analyze the potential for a significant conflict in the Middle East, focusing
+      on the dynamics between Iran, the U.S., and Israel. He will explore the reasons
+      behind the escalating tensions, the strategies employed by the involved parties,
+      and the possible consequences of such a devastating war. The discussion is set
+      to air on Saturday at 8 PM EST.
+    published: '2026-02-21T10:37:48+00:00'
+  - title: 'Trump: ‘I Can Destroy Countries’'
+    url: https://consortiumnews.com/2026/02/21/trump-i-can-destroy-countries/
+    text: A U.S. Supreme Court ruling against Donald Trump’s tariffs sent the 47th president
+      into a rant that leaves little doubt who he is and what Constitutional crisis
+      he is about to cause, writes Joe Lauria. By Joe Lauria Special to… Read more →
+    one_sentence_summary: Joe Lauria argues that a recent U.S. Supreme Court ruling
+      against Donald Trump's tariffs has provoked a furious response from Trump, highlighting
+      his character and foreshadowing a potential constitutional crisis.
+    paragraph_summary: In response to a U.S. Supreme Court ruling that struck down his
+      tariffs, former President Donald Trump expressed his frustration in a vehement
+      rant, highlighting his contentious relationship with the judicial system and raising
+      concerns about a potential Constitutional crisis. Joe Lauria emphasizes that Trump's
+      reaction reveals his character and the challenges he poses to legal norms and
+      governance, suggesting that his defiance could lead to significant political and
+      legal turmoil.
+    published: '2026-02-21T07:47:59+00:00'
+  - title: 'Trump: ‘I Can Destroy Countries’'
+    url: https://consortiumnews.com/2026/02/21/trump-i-can-destroy-countries/
+    text: A U.S. Supreme Court ruling against Donald Trump’s tariffs sent the 47th president
+      into a rant that leaves little doubt who he is and what Constitutional crisis
+      he is about to cause, writes Joe Lauria. By Joe Lauria Special to… Read more →
+    one_sentence_summary: Joe Lauria argues that a recent U.S. Supreme Court ruling
+      against Donald Trump's tariffs has provoked a furious response from Trump, highlighting
+      his character and foreshadowing a potential constitutional crisis.
+    paragraph_summary: In response to a U.S. Supreme Court ruling that struck down his
+      tariffs, former President Donald Trump expressed his frustration in a vehement
+      rant, highlighting his contentious relationship with the judicial system and raising
+      concerns about a potential Constitutional crisis. Joe Lauria emphasizes that Trump's
+      reaction reveals his character and the challenges he poses to legal norms and
+      governance, suggesting that his defiance could lead to significant political and
+      legal turmoil.
+    published: '2026-02-21T07:47:59+00:00'
+  - title: Lancet Study Finds Higher Violent-Death Toll in Gaza
+    url: https://consortiumnews.com/2026/02/20/lancet-study-finds-higher-violent-death-toll-in-gaza/
+    text: Of the 75,200 violent deaths in Gaza between Oct. 7, 2023 and Jan. 5, 2025,
+      56 percent were women, children, and elderly Palestinians, the study reveals.
+      By Jake Johnson Common Dreams A peer-reviewed study published this week in The
+      Lancet Global Health estimates… Read more →
+    one_sentence_summary: A peer-reviewed study published in The Lancet Global Health
+      estimates that 56% of the 75,200 violent deaths in Gaza between October 7, 2023,
+      and January 5, 2025, were women, children, and elderly Palestinians.
+    paragraph_summary: A peer-reviewed study published in The Lancet Global Health estimates
+      that between October 7, 2023, and January 5, 2025, there were 75,200 violent deaths
+      in Gaza, with 56 percent of the victims being women, children, and elderly Palestinians.
+      The findings highlight the significant impact of violence on vulnerable populations
+      in the region.
+    published: '2026-02-20T19:00:50+00:00'
+  - title: Lancet Study Finds Higher Violent-Death Toll in Gaza
+    url: https://consortiumnews.com/2026/02/20/lancet-study-finds-higher-violent-death-toll-in-gaza/
+    text: Of the 75,200 violent deaths in Gaza between Oct. 7, 2023 and Jan. 5, 2025,
+      56 percent were women, children, and elderly Palestinians, the study reveals.
+      By Jake Johnson Common Dreams A peer-reviewed study published this week in The
+      Lancet Global Health estimates… Read more →
+    one_sentence_summary: A peer-reviewed study published in The Lancet Global Health
+      estimates that 56% of the 75,200 violent deaths in Gaza between October 7, 2023,
+      and January 5, 2025, were women, children, and elderly Palestinians.
+    paragraph_summary: A peer-reviewed study published in The Lancet Global Health estimates
+      that between October 7, 2023, and January 5, 2025, there were 75,200 violent deaths
+      in Gaza, with 56 percent of the victims being women, children, and elderly Palestinians.
+      The findings highlight the significant impact of violence on vulnerable populations
+      in the region.
+    published: '2026-02-20T19:00:50+00:00'
+  - title: How Minnesota ‘Nice’ Turned Against ICE
+    url: https://consortiumnews.com/2026/02/20/how-minnesota-nice-was-turned-against-ice/
+    text: Ann Wright reports on how Minneapolis neighborliness is organized, block-by-block,
+      to mobilize and defend communities from a deadly immigration crackdown. By Ann
+      Wright in Minneapolis, Minnesota CommonDreams Last week I was in Minneapolis to
+      observe and learn from those who… Read more →
+    one_sentence_summary: Ann Wright's article highlights how Minneapolis residents
+      are organizing their communities on a block-by-block basis to protect against
+      aggressive immigration enforcement.
+    paragraph_summary: In her article, Ann Wright highlights how residents of Minneapolis
+      are fostering a sense of community and solidarity on a block-by-block basis to
+      protect themselves from aggressive immigration enforcement actions. The grassroots
+      efforts aim to mobilize neighbors to defend their communities against potential
+      threats, showcasing a proactive approach to maintaining safety and support for
+      vulnerable populations amidst a climate of fear surrounding immigration crackdowns.
+    published: '2026-02-20T17:00:58+00:00'
+  - title: How Minnesota ‘Nice’ Turned Against ICE
+    url: https://consortiumnews.com/2026/02/20/how-minnesota-nice-was-turned-against-ice/
+    text: Ann Wright reports on how Minneapolis neighborliness is organized, block-by-block,
+      to mobilize and defend communities from a deadly immigration crackdown. By Ann
+      Wright in Minneapolis, Minnesota CommonDreams Last week I was in Minneapolis to
+      observe and learn from those who… Read more →
+    one_sentence_summary: Ann Wright's article highlights how Minneapolis residents
+      are organizing their communities on a block-by-block basis to protect against
+      aggressive immigration enforcement.
+    paragraph_summary: In her article, Ann Wright highlights how residents of Minneapolis
+      are fostering a sense of community and solidarity on a block-by-block basis to
+      protect themselves from aggressive immigration enforcement actions. The grassroots
+      efforts aim to mobilize neighbors to defend their communities against potential
+      threats, showcasing a proactive approach to maintaining safety and support for
+      vulnerable populations amidst a climate of fear surrounding immigration crackdowns.
+    published: '2026-02-20T17:00:58+00:00'
+  - title: 'Caitlin Johnstone: Dems Quietly Back War on Iran'
+    url: https://consortiumnews.com/2026/02/20/caitlin-johnstone-dems-quietly-back-war-on-iran/
+    text: Democratic Party leaders are doing nothing to oppose Trump’s war plans for
+      Iran because they support those plans. They just don’t want to be the ones pulling
+      the trigger. By Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley The
+      Wall… Read more →
+    one_sentence_summary: Democratic Party leaders are tacitly supporting Trump's war
+      plans for Iran while avoiding direct involvement in their execution.
+    paragraph_summary: In her article, Caitlin Johnstone argues that Democratic Party
+      leaders are not actively opposing President Trump's military strategies regarding
+      Iran because they actually support these plans; they simply prefer not to be the
+      ones initiating military action. Johnstone suggests that this reflects a broader
+      complicity among Democrats in the administration's aggressive foreign policy,
+      revealing a lack of genuine opposition to war despite public rhetoric.
+    published: '2026-02-20T07:07:43+00:00'
+  - title: 'Caitlin Johnstone: Dems Quietly Back War on Iran'
+    url: https://consortiumnews.com/2026/02/20/caitlin-johnstone-dems-quietly-back-war-on-iran/
+    text: Democratic Party leaders are doing nothing to oppose Trump’s war plans for
+      Iran because they support those plans. They just don’t want to be the ones pulling
+      the trigger. By Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley The
+      Wall… Read more →
+    one_sentence_summary: Democratic Party leaders are tacitly supporting Trump's war
+      plans for Iran while avoiding direct involvement in their execution.
+    paragraph_summary: In her article, Caitlin Johnstone argues that Democratic Party
+      leaders are not actively opposing President Trump's military strategies regarding
+      Iran because they actually support these plans; they simply prefer not to be the
+      ones initiating military action. Johnstone suggests that this reflects a broader
+      complicity among Democrats in the administration's aggressive foreign policy,
+      revealing a lack of genuine opposition to war despite public rhetoric.
+    published: '2026-02-20T07:07:43+00:00'
+  - title: US Reps Move to Stop Trump’s War on Iran
+    url: https://consortiumnews.com/2026/02/19/us-reps-move-to-stop-trumps-war-on-iran/
+    text: Even if war breaks out before he and Thomas Massie can bring a vote in the
+      House next week, Ro Khanna says it’s important to get lawmakers on the record
+      so voters can see where they stand. By Jake Johnson… Read more →
+    one_sentence_summary: Ro Khanna emphasizes the importance of having lawmakers publicly
+      state their positions on potential military action, even if a vote occurs amidst
+      the outbreak of war, to ensure voters are informed about their representatives'
+      stances.
+    paragraph_summary: Ro Khanna emphasizes the importance of having lawmakers publicly
+      record their positions on potential military action, even if a war occurs before
+      he and Thomas Massie can hold a House vote next week. He believes that transparency
+      is crucial for voters to understand where their representatives stand on such
+      significant issues.
+    published: '2026-02-20T02:34:23+00:00'
+  - title: US Reps Move to Stop Trump’s War on Iran
+    url: https://consortiumnews.com/2026/02/19/us-reps-move-to-stop-trumps-war-on-iran/
+    text: Even if war breaks out before he and Thomas Massie can bring a vote in the
+      House next week, Ro Khanna says it’s important to get lawmakers on the record
+      so voters can see where they stand. By Jake Johnson… Read more →
+    one_sentence_summary: Ro Khanna emphasizes the importance of having lawmakers publicly
+      state their positions on potential military action, even if a vote occurs amidst
+      the outbreak of war, to ensure voters are informed about their representatives'
+      stances.
+    paragraph_summary: Ro Khanna emphasizes the importance of having lawmakers publicly
+      record their positions on potential military action, even if a war occurs before
+      he and Thomas Massie can hold a House vote next week. He believes that transparency
+      is crucial for voters to understand where their representatives stand on such
+      significant issues.
+    published: '2026-02-20T02:34:23+00:00'
+  - title: The Incremental Loss of Freedom
+    url: https://consortiumnews.com/2026/02/19/the-incremental-loss-of-freedom/
+    text: Chilling is as unconstitutional as silencing, writes Andrew P. Napolitano.
+      And when the feds conscript private entities to do for them indirectly what the
+      U.S. Constitution prohibits them from doing directly, that’s chilling. “Freedom
+      has more often been lost in… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that using private entities to
+      indirectly silence individuals is unconstitutional and undermines freedom, as
+      it mirrors direct government censorship.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the practice
+      of "chilling" free speech is just as unconstitutional as outright silencing individuals.
+      He emphasizes that when the federal government enlists private entities to carry
+      out actions that the Constitution forbids them from doing directly, it constitutes
+      a form of chilling. Napolitano warns that such tactics undermine freedom and can
+      lead to a gradual erosion of rights, highlighting the importance of vigilance
+      in protecting constitutional liberties.
+    published: '2026-02-19T18:30:56+00:00'
+  - title: The Incremental Loss of Freedom
+    url: https://consortiumnews.com/2026/02/19/the-incremental-loss-of-freedom/
+    text: Chilling is as unconstitutional as silencing, writes Andrew P. Napolitano.
+      And when the feds conscript private entities to do for them indirectly what the
+      U.S. Constitution prohibits them from doing directly, that’s chilling. “Freedom
+      has more often been lost in… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that using private entities to
+      indirectly silence individuals is unconstitutional and undermines freedom, as
+      it mirrors direct government censorship.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the practice
+      of "chilling" free speech is just as unconstitutional as outright silencing individuals.
+      He emphasizes that when the federal government enlists private entities to carry
+      out actions that the Constitution forbids them from doing directly, it constitutes
+      a form of chilling. Napolitano warns that such tactics undermine freedom and can
+      lead to a gradual erosion of rights, highlighting the importance of vigilance
+      in protecting constitutional liberties.
+    published: '2026-02-19T18:30:56+00:00'
+  - title: Judge Slams Trump Admin for Orwellian History
+    url: https://consortiumnews.com/2026/02/19/judge-slams-trump-admin-for-orwellian-history/
+    text: The administration’s claims of power to erase or hide historical accounts
+      “echo Big Brother’s domain in Orwell’s 1984,” ruled Judge Cynthia Rufe.  By Jessica
+      Corbett Common Dreams A U.S. federal judge has issued an opinion that compares
+      President Donald Trump’s administration… Read more →
+    one_sentence_summary: A U.S. federal judge, Cynthia Rufe, has likened the Trump
+      administration's attempts to erase or conceal historical accounts to the oppressive
+      control of information depicted in George Orwell's "1984."
+    paragraph_summary: A U.S. federal judge, Cynthia Rufe, has criticized the Trump
+      administration's attempts to erase or obscure historical accounts, likening these
+      actions to the oppressive control depicted in George Orwell's "1984." The ruling
+      highlights concerns about the administration's disregard for historical accuracy
+      and transparency, suggesting that such practices undermine democratic principles.
+    published: '2026-02-19T16:00:13+00:00'
+  - title: Judge Slams Trump Admin for Orwellian History
+    url: https://consortiumnews.com/2026/02/19/judge-slams-trump-admin-for-orwellian-history/
+    text: The administration’s claims of power to erase or hide historical accounts
+      “echo Big Brother’s domain in Orwell’s 1984,” ruled Judge Cynthia Rufe.  By Jessica
+      Corbett Common Dreams A U.S. federal judge has issued an opinion that compares
+      President Donald Trump’s administration… Read more →
+    one_sentence_summary: A U.S. federal judge, Cynthia Rufe, has likened the Trump
+      administration's attempts to erase or conceal historical accounts to the oppressive
+      control of information depicted in George Orwell's "1984."
+    paragraph_summary: A U.S. federal judge, Cynthia Rufe, has criticized the Trump
+      administration's attempts to erase or obscure historical accounts, likening these
+      actions to the oppressive control depicted in George Orwell's "1984." The ruling
+      highlights concerns about the administration's disregard for historical accuracy
+      and transparency, suggesting that such practices undermine democratic principles.
+    published: '2026-02-19T16:00:13+00:00'
+  - title: With Andrew Arrested, Mandelson Faces Similar Probe, Plus Questions on Tory
+      Ties on Israel
+    url: https://consortiumnews.com/2026/02/19/with-andrew-arrested-mandelson-faces-similar-probe-plus-questions-on-tory-ties-to-israel/
+    text: The disgraced Labour grandee Peter Mandelson appears to have kept ties with
+      Conservatives long after his friendship with Jeffrey Epstein emerged, reports
+      Martin Williams. By Martin Williams Declassified UK Peter Mandelson claimed he
+      conducted unofficial diplomacy with Israel on behalf of… Read more →
+    one_sentence_summary: Peter Mandelson has reportedly maintained connections with
+      Conservatives even after his friendship with Jeffrey Epstein was revealed, indicating
+      ongoing unofficial diplomatic efforts with Israel.
+    paragraph_summary: Peter Mandelson, a former Labour politician, has reportedly maintained
+      connections with Conservative Party members even after his association with Jeffrey
+      Epstein came to light. According to Martin Williams from Declassified UK, Mandelson
+      has asserted that he engaged in unofficial diplomatic efforts with Israel, indicating
+      that his political activities and relationships have persisted despite the controversies
+      surrounding his past.
+    published: '2026-02-19T13:08:29+00:00'
+  - title: With Andrew Arrested, Mandelson Faces Similar Probe, Plus Questions on Tory
+      Ties on Israel
+    url: https://consortiumnews.com/2026/02/19/with-andrew-arrested-mandelson-faces-similar-probe-plus-questions-on-tory-ties-to-israel/
+    text: The disgraced Labour grandee Peter Mandelson appears to have kept ties with
+      Conservatives long after his friendship with Jeffrey Epstein emerged, reports
+      Martin Williams. By Martin Williams Declassified UK Peter Mandelson claimed he
+      conducted unofficial diplomacy with Israel on behalf of… Read more →
+    one_sentence_summary: Peter Mandelson has reportedly maintained connections with
+      Conservatives even after his friendship with Jeffrey Epstein was revealed, indicating
+      ongoing unofficial diplomatic efforts with Israel.
+    paragraph_summary: Peter Mandelson, a former Labour politician, has reportedly maintained
+      connections with Conservative Party members even after his association with Jeffrey
+      Epstein came to light. According to Martin Williams from Declassified UK, Mandelson
+      has asserted that he engaged in unofficial diplomatic efforts with Israel, indicating
+      that his political activities and relationships have persisted despite the controversies
+      surrounding his past.
+    published: '2026-02-19T13:08:29+00:00'
+  - title: 'Jeffrey Sachs to UN: No US War on Iran'
+    url: https://consortiumnews.com/2026/02/18/jeffrey-sachs-to-un-no-us-war-on-iran/
+    text: The current threat of an attack by the U.S. did not begin with any failure
+      by Iran to negotiate. On the contrary, it began with the United States’ repudiation
+      of negotiations that had already succeeded. By Jeffrey D. Sachs Common Dreams…
+      Read more →
+    one_sentence_summary: The article argues that the threat of a U.S. attack on Iran
+      stems not from Iran's failure to negotiate, but rather from the U.S. abandoning
+      previously successful negotiations.
+    paragraph_summary: In the article by Jeffrey D. Sachs, it is argued that the threat
+      of a U.S. attack on Iran stems not from Iran's failure to engage in negotiations,
+      but rather from the U.S. abandoning previously successful diplomatic efforts.
+      The piece emphasizes that the escalation of tensions is rooted in the U.S.'s own
+      decisions, rather than any shortcomings on Iran's part in the negotiation process.
+    published: '2026-02-18T19:00:39+00:00'
+  - title: 'Jeffrey Sachs to UN: No US War on Iran'
+    url: https://consortiumnews.com/2026/02/18/jeffrey-sachs-to-un-no-us-war-on-iran/
+    text: The current threat of an attack by the U.S. did not begin with any failure
+      by Iran to negotiate. On the contrary, it began with the United States’ repudiation
+      of negotiations that had already succeeded. By Jeffrey D. Sachs Common Dreams…
+      Read more →
+    one_sentence_summary: The article argues that the threat of a U.S. attack on Iran
+      stems not from Iran's failure to negotiate, but rather from the U.S. abandoning
+      previously successful negotiations.
+    paragraph_summary: In the article by Jeffrey D. Sachs, it is argued that the threat
+      of a U.S. attack on Iran stems not from Iran's failure to engage in negotiations,
+      but rather from the U.S. abandoning previously successful diplomatic efforts.
+      The piece emphasizes that the escalation of tensions is rooted in the U.S.'s own
+      decisions, rather than any shortcomings on Iran's part in the negotiation process.
+    published: '2026-02-18T19:00:39+00:00'
+  - title: 'Chris Hedges: Attacks Increase on Francesca Albanese'
+    url: https://consortiumnews.com/2026/02/18/chris-hedges-attacks-increase-on-francesca-albanese/
+    text: As Israel’s genocide in Gaza grinds on, the persecution of Albanese indicates
+      the escalating lawlessness of the West. By Chris Hedges  ScheerPost The vicious
+      and sustained campaign mounted against Francesca Albanese, the U.N. Special Rapporteur
+      on the situation of human rights… Read more →
+    one_sentence_summary: The article by Chris Hedges discusses the intensified attacks
+      on Francesca Albanese, the U.N. Special Rapporteur on human rights in relation
+      to the ongoing violence in Gaza, highlighting a troubling trend of lawlessness
+      in the West.
+    paragraph_summary: In his article, Chris Hedges discusses the intense backlash faced
+      by Francesca Albanese, the U.N. Special Rapporteur on human rights in relation
+      to the ongoing violence in Gaza, which he describes as a genocide perpetrated
+      by Israel. Hedges argues that the hostility towards Albanese reflects a broader
+      trend of increasing lawlessness and disregard for human rights in the West, highlighting
+      the challenges faced by those who speak out against injustices in conflict zones.
+    published: '2026-02-18T17:00:18+00:00'
+  - title: 'Chris Hedges: Attacks Increase on Francesca Albanese'
+    url: https://consortiumnews.com/2026/02/18/chris-hedges-attacks-increase-on-francesca-albanese/
+    text: As Israel’s genocide in Gaza grinds on, the persecution of Albanese indicates
+      the escalating lawlessness of the West. By Chris Hedges  ScheerPost The vicious
+      and sustained campaign mounted against Francesca Albanese, the U.N. Special Rapporteur
+      on the situation of human rights… Read more →
+    one_sentence_summary: The article by Chris Hedges discusses the intensified attacks
+      on Francesca Albanese, the U.N. Special Rapporteur on human rights in relation
+      to the ongoing violence in Gaza, highlighting a troubling trend of lawlessness
+      in the West.
+    paragraph_summary: In his article, Chris Hedges discusses the intense backlash faced
+      by Francesca Albanese, the U.N. Special Rapporteur on human rights in relation
+      to the ongoing violence in Gaza, which he describes as a genocide perpetrated
+      by Israel. Hedges argues that the hostility towards Albanese reflects a broader
+      trend of increasing lawlessness and disregard for human rights in the West, highlighting
+      the challenges faced by those who speak out against injustices in conflict zones.
+    published: '2026-02-18T17:00:18+00:00'
+  - title: 'WATCH: ‘Arrest Herzog!’'
+    url: https://consortiumnews.com/2026/02/18/watch-arrest-herzog/
+    text: This was the peaceful rally opposing the Israeli president’s visit to Sydney,
+      Australia last week that police then viciously attacked. A full-length film by
+      Cathy Vogan.  Images of extreme police violence at a Sydney protest have been
+      seen worldwide, but… Read more →
+    one_sentence_summary: A peaceful rally in Sydney opposing the Israeli president's
+      visit was met with extreme police violence, which has garnered international attention
+      through a film by Cathy Vogan.
+    paragraph_summary: The article discusses a peaceful rally in Sydney, Australia,
+      held in opposition to the Israeli president's visit, which was met with violent
+      police actions. The event, captured in a full-length film by Cathy Vogan, showcases
+      extreme police brutality against protesters, drawing international attention to
+      the incident.
+    published: '2026-02-18T12:06:44+00:00'
+  - title: 'WATCH: ‘Arrest Herzog!’'
+    url: https://consortiumnews.com/2026/02/18/watch-arrest-herzog/
+    text: This was the peaceful rally opposing the Israeli president’s visit to Sydney,
+      Australia last week that police then viciously attacked. A full-length film by
+      Cathy Vogan.  Images of extreme police violence at a Sydney protest have been
+      seen worldwide, but… Read more →
+    one_sentence_summary: A peaceful rally in Sydney opposing the Israeli president's
+      visit was met with extreme police violence, which has garnered international attention
+      through a film by Cathy Vogan.
+    paragraph_summary: The article discusses a peaceful rally in Sydney, Australia,
+      held in opposition to the Israeli president's visit, which was met with violent
+      police actions. The event, captured in a full-length film by Cathy Vogan, showcases
+      extreme police brutality against protesters, drawing international attention to
+      the incident.
+    published: '2026-02-18T12:06:44+00:00'
   - title: Israel on the Brink
     url: https://consortiumnews.com/2026/02/17/israel-on-the-brink/
     text: Amid the largest genocide of this century in Gaza and the violent ethnic cleansing

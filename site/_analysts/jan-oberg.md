@@ -7,17 +7,94 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  Amid escalating global tensions and persistent militarization, recent independent analysis by **Jan Oberg** highlights several emerging trends and proposals shaping the geopolitical landscape as of February 18, 2026.
+  As of February 25, 2026, the global geopolitical landscape remains marked by heightened tensions between major powers, persistent militarization in key regions, and emerging calls for alternative, nonviolent approaches to security and diplomacy.
   
-  The latest development centers on the Arctic, where **Oberg** introduces a comprehensive peace initiative aimed at reversing the region’s drift toward militarized rivalry and ecological harm. He advocates for a framework built on shared security, sustainable development, and the upholding of human dignity, directly challenging the prevailing trajectory of military buildup among Arctic states. According to **Oberg**, “it is rational to pursue the common good in the Arctic,” emphasizing that cooperative approaches are not only feasible but necessary to prevent further environmental degradation and conflict escalation.
+  Recent analysis by **Jan Oberg** highlights the continued fallout from the Munich Security Conference earlier this month, where Western leaders—particularly U.S. representatives—emphasized increased military spending and a confrontational posture towards rivals, especially China and Russia. Oberg notes the conference has become “a €20-million militarist echo chamber,” prioritizing armament over dialogue and thereby exacerbating global instability.
   
-  This Arctic proposal follows closely on the heels of the Munich Security Conference, which **Oberg** critiques as having become a “€20-million militarist echo chamber.” He notes that the event, once a forum for dialogue, now overwhelmingly promotes increased military spending at the expense of diplomatic solutions, thereby exacerbating global risks and undermining efforts toward de-escalation. The stark contrast in the reception of U.S. and Chinese speeches at the conference, with Western perspectives receiving standing ovations, underscores the deepening polarization and the marginalization of alternative security visions.
+  In contrast, Oberg’s latest interview with former British diplomat Ian Proud explores the potential of citizen diplomacy as a grassroots alternative to official statecraft. Both Oberg and Proud argue that ordinary people overwhelmingly desire peace and that citizen-led initiatives could play a crucial role in de-escalating conflicts and fostering mutual understanding. This perspective is gaining traction as traditional diplomatic channels appear increasingly gridlocked.
   
-  Looking at the broader context, **Oberg** continues to warn of the dangers posed by the current U.S. administration’s assertive foreign policy, particularly its efforts to sideline multilateral institutions like the UN in favor of unilateral initiatives. He calls for nonviolent resistance and the construction of alternative systems to counter what he describes as “the Trump regime’s world-threatening designs.”
+  Meanwhile, the Arctic region is emerging as a focal point for both rivalry and innovation. Oberg’s recent peace proposal for the Arctic advocates for shared security and sustainable development, countering the prevailing trend of militarization and ecological degradation. He frames this as a rational and necessary shift, emphasizing human dignity and the common good.
   
-  **Trends and Predictions:**  
-  The prevailing trend, as identified by **Oberg**, is an intensification of militarized posturing among major powers, especially in sensitive regions such as the Arctic. However, he expresses high confidence that peace-oriented alternatives remain viable if there is sufficient political will: “I guarantee that cooperative security frameworks can be achieved if stakeholders prioritize the common good over narrow national interests.” The likelihood of continued polarization at major international forums is also quite high, but the emergence of visionary peace proposals may gradually shift the discourse toward more sustainable and inclusive solutions.
+  Looking ahead, the dominant trend remains a deepening divide between militarist policies—driven by Western security establishments—and growing societal demand for peaceful, cooperative solutions. **Jan Oberg** predicts with high confidence that unless there is a significant policy shift, “the risk of intensified great power rivalry and regional instability will most definitely persist.” However, he also sees a high chance that citizen diplomacy and alternative security models will gain momentum, especially as economic and environmental pressures mount.
+  
+  In summary, the coming weeks are likely to see continued tension at the official level, but also increasing advocacy for nonviolent, citizen-driven approaches to global security challenges.
 articles:
+  - title: 'Ordinary people want peace: Can citizen diplomacy build a safer future for
+      everyone?'
+    url: https://transnational.live/2026/02/20/ordinary-people-want-peace-can-citizen-diplomacy-build-a-safer-future-for-everyone/
+    text: 'Jan Oberg February 19, 2026 What a thrill to be interviewed by former British
+      diplomat Ian Proud! Don’t waste a minute: acquaint yourself with him here on his
+      homepage, which he elegantly calls “Proud Diplomat.” Notice also his book, A Misfit
+      In Moscow. Ian is, of course, also on Substack, where he calls himself The […]
+      The post Ordinary people want peace: Can citizen diplomacy build a safer future
+      for everyone? appeared first on The Transnational .'
+    one_sentence_summary: In an interview with former British diplomat Ian Proud, Jan
+      Oberg discusses the potential of citizen diplomacy to foster peace and create
+      a safer future for all.
+    paragraph_summary: In an interview with former British diplomat Ian Proud, Jan Oberg
+      discusses the potential of citizen diplomacy in fostering global peace. Proud,
+      who shares insights through his platform "Proud Diplomat" and his book "A Misfit
+      In Moscow," emphasizes the importance of ordinary individuals in advocating for
+      peace and building a safer future. The conversation highlights the role of grassroots
+      efforts in diplomacy and the collective desire for a more peaceful world.
+    published: '2026-02-20T10:25:32+00:00'
+  - title: 'Ordinary people want peace: Can citizen diplomacy build a safer future for
+      everyone?'
+    url: https://transnational.live/2026/02/20/ordinary-people-want-peace-can-citizen-diplomacy-build-a-safer-future-for-everyone/
+    text: 'Jan Oberg February 19, 2026 What a thrill to be interviewed by former British
+      diplomat Ian Proud! Don’t waste a minute: acquaint yourself with him here on his
+      homepage, which he elegantly calls “Proud Diplomat.” Notice also his book, A Misfit
+      In Moscow. Ian is, of course, also on Substack, where he calls himself The […]
+      The post Ordinary people want peace: Can citizen diplomacy build a safer future
+      for everyone? appeared first on The Transnational .'
+    one_sentence_summary: In an interview with former British diplomat Ian Proud, Jan
+      Oberg discusses the potential of citizen diplomacy to foster peace and create
+      a safer future for all.
+    paragraph_summary: In an interview with former British diplomat Ian Proud, Jan Oberg
+      discusses the potential of citizen diplomacy in fostering global peace. Proud,
+      who shares insights through his platform "Proud Diplomat" and his book "A Misfit
+      In Moscow," emphasizes the importance of ordinary individuals in advocating for
+      peace and building a safer future. The conversation highlights the role of grassroots
+      efforts in diplomacy and the collective desire for a more peaceful world.
+    published: '2026-02-20T10:25:32+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/02/18/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, encouraging readers to explore additional
+      content on the TFF Video Channel on Substack.
+    paragraph_summary: The article provides a summary of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage. It
+      notes that the listed content represents only a small portion of what is available
+      and encourages readers to visit the TFF Video Channel on Substack for a broader
+      range of video comments and discussions. Jan Oberg is mentioned as a contributor,
+      and the post serves as a compilation of news and notes from 2021 to the present.
+    published: '2026-02-18T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/02/18/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, encouraging readers to explore additional
+      content on the TFF Video Channel on Substack.
+    paragraph_summary: The article provides a summary of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage. It
+      notes that the listed content represents only a small portion of what is available
+      and encourages readers to visit the TFF Video Channel on Substack for a broader
+      range of video comments and discussions. Jan Oberg is mentioned as a contributor,
+      and the post serves as a compilation of news and notes from 2021 to the present.
+    published: '2026-02-18T15:20:00+00:00'
   - title: A New Perspective on the Arctic for the Common Good — and Why It Is Rational
     url: https://transnational.live/2026/02/17/a-new-perspective-on-the-arctic-for-the-common-good-and-why-it-is-rational/
     text: This is not another geopolitical commentary on the Arctic. It is a visionary

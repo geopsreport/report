@@ -7,16 +7,626 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As of February 18, 2026, the global geopolitical landscape remains characterized by a deepening crisis of international law and the erosion of multilateral institutions. This trend, as consistently analyzed by **Richard Falk**, is rooted in the ascendancy of nationalist and far-right movements, with the United States under Trump serving as a primary example. The marginalization of international law in favor of power politics is not a new phenomenon, but its current intensity marks a significant departure from the post-1945 world order.
+  The current geopolitical landscape remains marked by the erosion of international law and the ascendancy of power politics, a trend that has accelerated since the mid-20th century and is now reaching new levels of unpredictability. As **Richard Falk** notes in his recent reflections, the present moment is shaped by the resurgence of far-right and nationalist movements, exemplified by figures such as Trump, which continue to marginalize established legal norms and multilateral institutions.
   
-  The most recent analysis by **Falk** (February 17, 2026) underscores humanity’s persistent desire for predictability in a world increasingly defined by uncertainty and danger. While not offering specific new geopolitical developments, this reflection contextualizes the broader anxiety driving both public sentiment and state behavior, particularly as legal norms are sidelined in favor of ad hoc, interest-driven decision-making.
+  A key development in this context is the ongoing fallout from the U.S. military operation in Venezuela on January 3, 2026. The intervention, which included the kidnapping of the Venezuelan president, has been widely criticized as emblematic of what **Falk** terms "nihilistic geopolitics." This approach not only undermines the authority of the United Nations but also signals a broader disregard for human rights and the rule of law. The UN's perceived complicity in legitimizing these actions further erodes its credibility as a guardian of global security.
   
-  In the case of Venezuela, the U.S. military operation and the subsequent abduction of its president have been widely condemned as emblematic of this new nihilistic approach to global security. **Falk** argues that these actions not only undermine the United Nations’ legitimacy but also set a precedent for the normalization of extra-legal interventions. The complicity of the UN, through its failure to effectively challenge or restrain such actions, further erodes the credibility of international governance structures.
+  In the Middle East, the Trump administration's proposal for an independent peace council to address the Gaza conflict continues to draw scrutiny. **Falk** argues that such initiatives, which bypass the United Nations, are both illegitimate and detrimental to the rights of the Palestinian people. The push for a "Greater Israel," as articulated by Israeli officials, underscores the entrenchment of unilateralism and the diminishing prospects for a negotiated settlement.
   
-  Turning to the Middle East, the Trump administration’s proposal for an independent peace council for Gaza—bypassing the UN—has been criticized as illegitimate and detrimental to Palestinian rights. **Falk** warns that such frameworks favor the interests of powerful actors and wrongdoers, reinforcing a system where established legal mechanisms are circumvented for political expediency.
-  
-  Looking ahead, the prevailing trend is a continued weakening of international law and multilateralism, with power politics dictating outcomes in major crises. Based on the convergence of these analyses, I guarantee that, barring a significant shift in global leadership or public mobilization, the erosion of legal norms and the sidelining of the United Nations will most definitely persist in the near term. The prospects for a return to principled multilateralism remain dim, with a high chance that ad hoc arrangements and unilateral interventions will shape the international order for the foreseeable future.
+  Looking ahead, the prevailing trend is one of deepening uncertainty and instability. The majority of analysts agree that the weakening of international law and the sidelining of multilateral frameworks are likely to persist. As **Falk** observes, "there is a high chance" that power politics will continue to dominate, with legal and ethical considerations playing an increasingly marginal role. While the future remains unknowable, the current trajectory suggests a world order defined less by cooperative norms and more by the assertive pursuit of national interests.
 articles:
+  - title: 'Whither World Order: The Lamentable Present, The Unknowable Future'
+    url: https://richardfalk.org/2026/02/22/whither-world-order-the-lamentable-present-the-unknowable-future/
+    text: '[ Prefatory Note: My Responses to An Egyptian Journalist, Muhamed Abd Elaziz
+      15 Qs on International Law, Gaza, Personal Experience, and many other topics.
+      My most comprehensive interview on current international maladies, 2/20/2026}
+      ——————————– 1- Throughout your long career in international law, what was the
+      moment when you felt your work made a real difference? It is hard to say what
+      qualifies as ‘a real difference.’ In my opposition to the Vietnam War as a scholar
+      of international law I think that I made some difference in the public discourse,
+      especially after years of unexpected resistance by the Vietnamese people inspired
+      by their charismatic leader, Ho Chi Minh. On my return to the USA from my first
+      of two wartime visits to North Vietnam in 1968, I conveyed to the US Government
+      peace proposals more favorable to US interests than what was negotiated by Henry
+      Kissinger several years later. The media gave my trip and proposals prominent
+      attention. Similarly with respect to the Iranian Revolution of 1978-79 that brought
+      the Islamic Republic of Iran into power, especially as a result of media quotations
+      of my generally supportive opinion of the popularity and legitimacy of the anti-Shah
+      movement. After I became active in promoting solidarity with the Palestinian struggle
+      for their basic rights my views were excluded from mainstream thinking in the
+      media, Congress, and even in academic circles, although it did not prevent me
+      from being active on oppositional media platforms and among peace/justice civil
+      society groups. My activism climaxed with an unexpected appointment by the UN
+      Human Rights Council to be the Special Rapporteur for Occupied Palestine (2008-2014),
+      which gave me an important venue to advance my views, although it was accompanied
+      by defamatory campaigns to discredit my role as an independent expert reporting
+      on Israel’s systemic violations of International Humanitarian Law and commission
+      of Crimes Against Humanity. I continued to write books and opinion pieces that
+      expressed my commitment to progressive causes within the US and the world, with
+      abiding efforts to promote denuclearization of international relations, ecological
+      resilience, and anti-colonial/anti-imperial geopolitics, as well as the promotion
+      of US foreign policy position more compatible with the global public good and
+      greater sensitivity to moral imperatives. 2- Which international conflicts do
+      you think were mishandled? This is a big topic, and I can only give a short response.
+      In my view the peace diplomacy in 1945 and after the Vietnam War, the Cold War,
+      the 9/11 attacks, the Ukraine War, and the October 7 Palestinian attack on Israel’s
+      villages close to the Gaza border were handled particularly poorly from the perspective
+      of sustainable peace, human rights, and the pursuit of world order and global
+      governance reform.. After 1945, the US gave up on a crucial treaty effort to rid
+      the world of nuclear weapons, it oversaw the design of the UN in ways that kept
+      the management of global security under the control of geopolitics rather than
+      Rule of Law, and at first took a non-committal stand against European colonialism.
+      After the Vietnam War, it failed to appreciate that in most instances the legitimacy
+      of anti-colonial warfare prevails in wars overcoming the possession of military
+      superiority by the colonial side and its allies. Its foreign policy elites dedicated
+      themselves to eliminating the ‘Vietnam Syndrome’ by which public opinion in the
+      US opposed intervention and wars fought with no perceived or convincing national
+      security justification; it is generally believed that the Vietnam Syndrome was
+      overcome by the rapid, casualty-light and inexpensive Iraq War of 1991. After
+      1945, the Global West, led by the US was far more concerned with preparing for
+      conflict with the Soviet Union than it was with creating a world order respectful
+      of international law and devoted to the global public good. The result was to
+      identify national interests with militarized geopolitics, an expensive and risky
+      arms race, an ideological conflict between market economics and socialism, and
+      producing internal repression of political dissent. After the Cold War, positive
+      modifications with respect to nuclear weapons, climate change, UN reform could
+      have been undertaken, but was effectively resisted by Kissingerian realism premised
+      on beliefs associated with hard power historical agency, After 9/11 the US without
+      any consideration opted for a global war of terror rather than seeking a more
+      stable framework resting on respect for the sovereignty of states in the Global
+      South, a stronger UN, and cooperative frameworks for the enforcement of criminal
+      law. Instead the US resorted to high tech tactics killing many innocent civilians,
+      displaying no respect for territorial sovereignty in its reliance on drones, shock
+      and awe tactics, with the goal of stricter management of security subject to US
+      global dominance of a unipolar world order. After the Ukraine War, rather than
+      recourse to diplomacy and a negotiated compromise, to which Russia was receptive,
+      the US-NATO led response chose to wage a geopolitical war against Moscow at the
+      expense of Ukraine and its people. Now four years later the various parties seem
+      unwilling to negotiate in good faith, allowing the killing to continue. It seems
+      likely the war will end as it might have four years earlier by an exchange of
+      negotiated concessions and security reassurances. After the October 7 attack on
+      Israel launched from Gaza, Israel initiateded a genocidal assault with the backing
+      of leading Western countries, with spillovers to the West Bank and region. The
+      genocidal strikes continued killing at least 80,000 Palestinians and were implicitly
+      linked to the Israeli quest for ‘Greater Israel’ that called for the erasure of
+      any Palestinian resistance, either by ethnic cleansing or total victimization.
+      The nature of the alignments on either side of this conflict exposed the Islamophobic
+      reflex of the leading Western liberal democracies and the heartless quest for
+      Jewish primacy in Israel even if meant institutionalizing a harsh version of apartheid.
+      3- How do you see the state of human rights internationally today? The observance
+      of human rights has declined in recent years, especially in the liberal democracies
+      of the West, but also reflecting authoritarian and xenophobic trends throughout
+      the world, and in virtually all leading sovereign states. The voluntary adherence
+      to the norms of international law with respect to human rights has also been negatively
+      affected by the failure to address Israeli apartheid and genocide, and the widespread
+      repression of pro-Palestinian solidarity protests and policy initiatives. The
+      internal curtailments of human rights in the leading liberal democracies has also
+      set back all efforts to increase compliance with human rights legal stardards.
+      4- How would you assess the current role of the United Nations in resolving existing
+      conflicts, such as those in the Middle East or Palestine? The UN is weaker than
+      it has ever been since ir was established in 1945. This partially the result of
+      the UN’s inability to protect the Palestinian people, and others, from Israel’s
+      defiance of international law, highlighted by the refusal to respect Palestinian
+      basic rights, above all, the right of self-determination, related rights of resistance
+      to its denial in this kind of settler colonial context, and reaction to Israeli
+      uses of force against several neighboring countries. This has been dramatized
+      by allowing Israel and the United States to oversee in a manipulative manner the
+      current ceasefire arrangements and control the future of Gaza, institutionalized
+      in the shameful Board of Peace, which rewards the perpetrators of genocide and
+      severely punishes its victims. 5- If you could change one previous international
+      decision, which one would it be and why? It was the decision back in 1945 to entrust
+      the management of global security to non-accountable geopolitical actors, accorded
+      an exemption from a legal duty to comply with the UN Charter. A closely related
+      decision, important symbolically and substantively, was to impose accountability
+      for war crimes only on civilian, military, and corporate leaders of the losers
+      in World War II, coupled with the refusal to allow legal scrutiny of the crimes
+      of the winners. The winners were expected by the American prosecutor, Justice
+      Jackson to adhere in the future to the standards imposed on the losers at Nuremberg
+      but consistently failed to do so with impunity. 6- Is it possible for the Iran
+      nuclear deal to be revived and for Iran, the US, and Israel to live in peace?
+      It seems doubtful so long as the US steadfastly supports Israel’s patterns of
+      hegemonic security policies applied not only to the Palestinian people, but to
+      neighbors that either are sympathetic with the Palestinian ordeal, most notably
+      Iran, or are perceived by Israel’s leaders to pose future obstacles to its goals
+      of hegemonic regionalism. Peace in the region also depends on the West giving
+      up its ideas about prevailing in an inter-civilizational struggle between the
+      Islamic Middle East and the Christian West, a current struggle whose deep psycho-political
+      and economistic roots can be traced back to the Christian Crusades of earlier
+      centuries. For regional peace to prevail in the Middle East to six interrelated
+      steps must be taken: self-determination for Palestine, Israeli renunciation or
+      drastic revision of Zionist ideology seeking ‘Greater Israel’ and regional hegemony;
+      ending all US sanctions imposed on Iran; Israel’s giving up its nuclear weapons
+      capability coupled with a monitored treaty to make the Middle East a nuclear free
+      zone; the establishment of a Truth and Reconciliation Commission that critically
+      examines the various versions of the Israeli and Palestinian narratives from the
+      time of the Balfour Declaration in 1917 forward to the present; s negotiated cap
+      on military spending and sales by Israel; a Declaration of Coexistence based on
+      ethnic equality, and signed by both Heads of State and reinforced by a pledge
+      of Permanent Members of the Security Council to suspend. any use of the veto in
+      connection with any recurrences of the Israel/Palestine conflict. . 7- In your
+      opinion, did the US and Israeli strikes succeed in destroying Iran’s nuclear facilities?
+      Of course, it is impossible to know with any precision, but all signs suggest
+      that Iran has restored its enrichment facilities, which may both enhance its defensive
+      capabilities and make it more vulnerable to further (unlawful) attacks by Israel
+      and/or the United States. There is no justification in contemporary international
+      law with respect to preventive war , including to prevent the proliferation of
+      nuclear weaponry. 8- Do you think the current Iranian regime is facing an existential
+      challenge, and how do you see the future of the Islamic Republic? The Islamic
+      Republic has proved remarkably successful over the decades in opposing external
+      and internal opposition to the stability of national governance and to the protection
+      of its rights as a sovereign state. Iran has been unfairly dealt with respecting
+      its nuclear program, given Israel’s and the US hostility, threats, and uses of
+      force since 1979. It is the core example of the doctrinal application of the clash
+      of civilizations hypothesis that assumed policy relevance throughout Atlanticist
+      region in the post-Cold War global setting. Trump’s pro-Israeli diplomacy has
+      intensified the challenge of military attack and regime-changing interventions,
+      but his transactualism could also lead to some kind of pragmatic agreements that
+      would include a long-deferred normalization of relations with the Islamic Republic.
+      Trump’s brand of narcissistic geopolitics includes a willingness to make abrupt
+      and unexpected policy shifts. 9- Did the IAEA play a secret role in revealing
+      the uranium enrichment levels to Israel and the US? It seems the IAEA was the
+      victim of Western geopolitical manipulations, but it is difficult to set forth
+      reliably the fully story without access to the classified inner activity  that
+      led to these irresponsible IAEA reports on the restoration of Iranian enrichment
+      capabilities. 10- What do “ICC” and “ICJ” need to have stronger enforcement mechanisms?
+      The ICJ to be stronger at the stage of enforcement would benefit from a curtailment
+      of the P5 right of veto in all instances where the issue is one of ICJ enforcement.
+      The GA could also urge compliance or even the imposition of sanctions, not with
+      the force of a legal obligation, but as a moral duty. The ICC, which unlike the
+      ICJ, is not part of the UN System and relies on the treaty framework of the Rome
+      Statute for its operations has currently no means of enforcement beyond the voluntary
+      compliance of non-parties, which include the three leading geopolitical actors
+      of our time, Russia, China, and the United States. A strong GA resolution might
+      produce various kinds of pushback by sovereign governments and civil society actors
+      that could increase pressure for both compliance and success. An alternative would
+      be a UN Charter amendment giving the GA authority to enforce the judgments of
+      both international tribunals. Such an innovation would depend on the P5 to recommend
+      unanimously that such an amendment be adopted.. In the end, the political will
+      of major states would be decisive in many instances, either to induce compliance
+      or to support non-compliance. At present, most governments are resistant to obligations
+      that encroach on national sovereignty, but in this setting of enforcing ICJ (including
+      Advisory Opinions) and ICC decisions have a greater formal claim if the state
+      in question is a member of the UN or a party to the Rome Statute. 11- Did Israel
+      try to win you over to its side during your time as the UN Special Rapporteur
+      on the situation of human rights in Palestine? No, they made no attempt after
+      losing their opposition to my appointment as Special Rapporteur at the Human Rights
+      Council. Their entire effort during the six years I served as an unpaid UN appointee
+      was to discredit me as an objective observer, accusing me of ethnic bias in repeated
+      defamatory smears. Sadly, the UN exhibited little support even when I was detained
+      in an Israeli airport prison facility while on a UN mission seemingly responsive
+      to inflammatory comments from UN Watch, an NGO that devotes its energies and resources
+      to the aggressive and often unscrupulous   defense of Israel against critics,
+      resorting to lies and insults. It is a sign of UN weakness that UNW is neither
+      disciplined in its behavior or more appropriately delisted by the UNOSOC as possessing
+      UN representational credentials. 12- How do you see the changes in Gaza and the
+      entire Middle East since 7 October? Although the future is unknowable, especially
+      given a variety of factors, and hopeful possibilities should not be excluded from
+      the political imagination although the present circumstances make the near future
+      looks dark from perspectives that favor constructive responses to Palestinian
+      grievances, greatly aggravated by Israel’s recourse to genocide for more than
+      two years, flagrantly violating the Genocide Convention. The entire world witnessed
+      in real time the horrifying daily images of the cruelty of the genocide, as well
+      as Israel’s defiant posture, and the shocking civilizational support Israel received
+      from the white Christian world on the first few months after October 7.  At the
+      same time, Trump is mercurial leader capable of making abrupt changes in the US
+      role, already somewhat evident clinging to a two-state solution contrary to Israel’s
+      wishes, although vaguely promised, and then only to be realized at some distant
+      point in the future. It does appear to counter Israel’s present drive to establish
+      Greater Israel as soon as possible. However, such a pledge is not without its
+      contradictions. These are mainly shown by the absence of US criticism of Israel’s
+       indulgence, if not encouragement of settler violence in the West Bank, an approach
+      more consistent with de facto annexation than of any serious effort to demand
+      that Israel policies meet the preconditions for establishing a viable Palestinian
+      state. At present, without even the courtesies of deception, Israel seems more
+      determined than ever to make any form of Palestinian statehood less and less feasible
+      or desirable. Besides this, Israel and the US pay no attention to the 2024 ICJ
+      Advisory Opinion clearly obligating to withdraw from all three Occupied Palestinian
+      Territories, a judicial outcome endorsed overwhelmingly by a GA resolution. .
+      13- Do you see President Trump’s plan as an American occupation of Gaza? It is
+      a somewhat original joint colonizing vision to be implemented by a multi-state
+      ‘Board of Peace, advantageous for Israel, punitive for the Palestinians, and under
+      the uncontested partisan leadership of Donald Trump. It is in my view a disgrace
+      that the UN Security Council unanimously endorsed the Trump Plan in SC Res 1803,
+      which is a symbolic vindication of Israel’s genocide and a further punitive framework
+      for the indefinite subjugation of Palestinians to a blend of ethnic cleansing
+      and a harsh version of apartheid. Whether the outrageous Trump idea of supervising
+      the reconstruction of Gaza to be the Riviera of the Middle East is situated somewhere
+      on a policy spectrum linking predatory disaster capitalism to imperial geopolitics,
+      and hopefully it is the imperial fantasy of a displaced realtor, and like many
+      such flights of fancy, never to be realized. . 14- During your meeting with Ayatollah
+      Khomeini, what exactly took place between you? How would you describe the impact
+      of that encounter on you? In Jannuary 1979 I was accompanied by Ramsey Clark,
+      former US Attorney General, and Donald Luce, an anti-war religious leader, accepting
+      an invitation from Mehdi Bazargan, the Interim President of the Islamic Republic,
+      asking me to form a small delegation to visit Iran so as to have direct contact
+      with the revolution and its leaders during the climactic days that were on the
+      verge of producing victory for the popular movement of opposition to the Shah.
+      During our time in Iran the Shah abdicated as his downfall as Iran’s leader became
+      the only unfinished business of the victorious revolution. It was a perfect moment
+      to have this conversation with symbolic leader of this revolution that surprised
+      the world by its successful resistance to the Shah’s repressive apparatus. While
+      we were still in Iran, just prior to Ayatollah Khomeini’s return to Iran, we were
+      told that because our visit was viewed as a success we were told that as a surprise
+      reward we were being offered the opportunity to meet with Ayatollah Khomeini on
+      our way back to the United States at his exile residence in a suburb of Paris/.
+      We had rhe meeting sitting in a circle within a large tent on the lawn of his
+      residence. We covered many topic of lasting significance, but the one that remains
+      uppermost in my memory was Ayatollah Khomeini’s initial questions to us as to
+      whether, unlike in 1953, the United States would accept the will of the Iranian
+      people and be open to normal diplomatic relations, which was his preferred future
+      provided it was not a ruse to induce the new leadership to drop its guard. We
+      also inquired about the wellbeing of the Jewish minority, and his response was
+      reassuring: “Judaism is an authentic religion, and if Jews do not involve themselves
+      as agents of Israel, it would be a tragedy for us if they left Iran.” I came away
+      from our several hours sitting on the ground in the tent with the distinct impression
+      that Ayatollah Khomeini’s had a distinct preference for a peaceful diplomatic
+      future with the West. Unfortunately, due to a number of factors, this has remained
+      ‘the road not taken’ and to quote the renowned American poet, Robert Frost’s final
+      line of the poem,.’and that has made all the difference.’ There is much else of
+      interest that transpired at that meeting, including our impressions of this charismatic
+      historic religious leader, but that would unduly lengthen my response, and will
+      be saved for another occasion. 15- Why did you receive death threats for several
+      years after your New York Times article titled “Trusting Khomeini,” and how did
+      you deal with it? Of course, I do not know the true motivations of those who transmitted
+      death threats. It was more than disagreement with my assessments. I suspect it
+      was to make me fear the consequences if I did not remain silent in the future.
+      These threats did not alter my strong conviction that the US Government should
+      at least test the willingness of Iran’s new leadership to act in accord with this
+      stated desire for normal diplomatic relations based on mutual respect and shared
+      benefits. It was an opportunity missed to demonstrate that the US was ready to
+      grant legitimacy to the outcome of internal national struggles to shape the political
+      identity of a sovereign state, an essential feature of the right of self-determination.
+      Because the road taken by all US leaders was one of confrontation and hostility
+      toward the Islamic Republic, not in keeping with a rational assessment of US national
+      interests,, it challenged the new leadership in Iran to give the highest priority
+      to regime security and territorial defense. Whether these preoccupations were
+      responsible for the harsh and seemingly intolerant policies of theocratic governance
+      is impossible to discern. Interpreting whether the decades that followed might
+      have been different if the US and Israel had not constantly Iranian historical
+      anxieties about the past  is a matter of pure speculatiom. Perhaps, a more convincing
+      picture will emerge if Iranian policy insiders offer a careful analysis of how
+      the security threats and destabilizing policies spearheaded by Israel, backed
+      by the main members of the Atlanticist political community that emerged after
+      World War II, turned governance into an understandable obsession with national
+      security and regime stability. 16- Do you believe the George W. Bush administration
+      was complicit in the 9/11 attacks? Do you possess any information that you haven’t
+      previously published? I am not an expert on the ongoing debates about what really
+      happened on 9/11, but I do know that there are many loose ends and unanswered
+      questions in the official version of the alleged Al Qaeda attacks. There is no
+      present receptivity in Washington to opening the issue to objective scrutiny by
+      an independent international commission of inquiry. I have not seen any convincing
+      evidence of active complicitly by George W. Bush beyond the well-established facts
+      of complacency in the face of warnings of some kind of terrorist attack. The immediate
+      launch of the Great Terror War was a regressive response, but consistent with
+      the policy impulses of the ‘foreign policy elites’ that control the shaping of
+      US national interests. An additional source of suspicion arose because the US
+      was being pushed by Israel to adopt an anti-Iraq position in the Middle East.
+      It is doubtful that the 2003 Iraq War would have been launched without the camouflage
+      of the 9/11 attacks, which provided a falsely constructed rationale for engaging
+      aggressively against any adversary of the United States, especially in the Middle
+      East. It is worth revisiting ‘the clean break’ neo-con manifesto drawn up with
+      encouragement from Israeli leaders in the 1990s. ………………………………… ##'
+    one_sentence_summary: In a comprehensive interview, an international law scholar
+      reflects on pivotal moments in his career, highlighting his influence on public
+      discourse during the Vietnam War and his efforts to promote peace proposals that
+      favored U.S. interests.
+    paragraph_summary: In an extensive interview with Egyptian journalist Muhamed Abd
+      Elaziz, a prominent scholar of international law reflects on pivotal moments in
+      his career, particularly his opposition to the Vietnam War and his support for
+      the Iranian Revolution, where he felt his contributions influenced public discourse.
+      He highlights his efforts to advocate for Palestinian rights, which led to his
+      appointment as the UN Special Rapporteur for Occupied Palestine from 2008 to 2014,
+      despite facing significant backlash and attempts to undermine his credibility.
+      Throughout his journey, he emphasizes the challenges of being marginalized in
+      mainstream media and academia while remaining committed to activism and promoting
+      justice for oppressed communities.
+    published: '2026-02-23T02:23:58+00:00'
+  - title: 'Whither World Order: The Lamentable Present, The Unknowable Future'
+    url: https://richardfalk.org/2026/02/22/whither-world-order-the-lamentable-present-the-unknowable-future/
+    text: '[ Prefatory Note: My Responses to An Egyptian Journalist, Muhamed Abd Elaziz
+      15 Qs on International Law, Gaza, Personal Experience, and many other topics.
+      My most comprehensive interview on current international maladies, 2/20/2026}
+      ——————————– 1- Throughout your long career in international law, what was the
+      moment when you felt your work made a real difference? It is hard to say what
+      qualifies as ‘a real difference.’ In my opposition to the Vietnam War as a scholar
+      of international law I think that I made some difference in the public discourse,
+      especially after years of unexpected resistance by the Vietnamese people inspired
+      by their charismatic leader, Ho Chi Minh. On my return to the USA from my first
+      of two wartime visits to North Vietnam in 1968, I conveyed to the US Government
+      peace proposals more favorable to US interests than what was negotiated by Henry
+      Kissinger several years later. The media gave my trip and proposals prominent
+      attention. Similarly with respect to the Iranian Revolution of 1978-79 that brought
+      the Islamic Republic of Iran into power, especially as a result of media quotations
+      of my generally supportive opinion of the popularity and legitimacy of the anti-Shah
+      movement. After I became active in promoting solidarity with the Palestinian struggle
+      for their basic rights my views were excluded from mainstream thinking in the
+      media, Congress, and even in academic circles, although it did not prevent me
+      from being active on oppositional media platforms and among peace/justice civil
+      society groups. My activism climaxed with an unexpected appointment by the UN
+      Human Rights Council to be the Special Rapporteur for Occupied Palestine (2008-2014),
+      which gave me an important venue to advance my views, although it was accompanied
+      by defamatory campaigns to discredit my role as an independent expert reporting
+      on Israel’s systemic violations of International Humanitarian Law and commission
+      of Crimes Against Humanity. I continued to write books and opinion pieces that
+      expressed my commitment to progressive causes within the US and the world, with
+      abiding efforts to promote denuclearization of international relations, ecological
+      resilience, and anti-colonial/anti-imperial geopolitics, as well as the promotion
+      of US foreign policy position more compatible with the global public good and
+      greater sensitivity to moral imperatives. 2- Which international conflicts do
+      you think were mishandled? This is a big topic, and I can only give a short response.
+      In my view the peace diplomacy in 1945 and after the Vietnam War, the Cold War,
+      the 9/11 attacks, the Ukraine War, and the October 7 Palestinian attack on Israel’s
+      villages close to the Gaza border were handled particularly poorly from the perspective
+      of sustainable peace, human rights, and the pursuit of world order and global
+      governance reform.. After 1945, the US gave up on a crucial treaty effort to rid
+      the world of nuclear weapons, it oversaw the design of the UN in ways that kept
+      the management of global security under the control of geopolitics rather than
+      Rule of Law, and at first took a non-committal stand against European colonialism.
+      After the Vietnam War, it failed to appreciate that in most instances the legitimacy
+      of anti-colonial warfare prevails in wars overcoming the possession of military
+      superiority by the colonial side and its allies. Its foreign policy elites dedicated
+      themselves to eliminating the ‘Vietnam Syndrome’ by which public opinion in the
+      US opposed intervention and wars fought with no perceived or convincing national
+      security justification; it is generally believed that the Vietnam Syndrome was
+      overcome by the rapid, casualty-light and inexpensive Iraq War of 1991. After
+      1945, the Global West, led by the US was far more concerned with preparing for
+      conflict with the Soviet Union than it was with creating a world order respectful
+      of international law and devoted to the global public good. The result was to
+      identify national interests with militarized geopolitics, an expensive and risky
+      arms race, an ideological conflict between market economics and socialism, and
+      producing internal repression of political dissent. After the Cold War, positive
+      modifications with respect to nuclear weapons, climate change, UN reform could
+      have been undertaken, but was effectively resisted by Kissingerian realism premised
+      on beliefs associated with hard power historical agency, After 9/11 the US without
+      any consideration opted for a global war of terror rather than seeking a more
+      stable framework resting on respect for the sovereignty of states in the Global
+      South, a stronger UN, and cooperative frameworks for the enforcement of criminal
+      law. Instead the US resorted to high tech tactics killing many innocent civilians,
+      displaying no respect for territorial sovereignty in its reliance on drones, shock
+      and awe tactics, with the goal of stricter management of security subject to US
+      global dominance of a unipolar world order. After the Ukraine War, rather than
+      recourse to diplomacy and a negotiated compromise, to which Russia was receptive,
+      the US-NATO led response chose to wage a geopolitical war against Moscow at the
+      expense of Ukraine and its people. Now four years later the various parties seem
+      unwilling to negotiate in good faith, allowing the killing to continue. It seems
+      likely the war will end as it might have four years earlier by an exchange of
+      negotiated concessions and security reassurances. After the October 7 attack on
+      Israel launched from Gaza, Israel initiateded a genocidal assault with the backing
+      of leading Western countries, with spillovers to the West Bank and region. The
+      genocidal strikes continued killing at least 80,000 Palestinians and were implicitly
+      linked to the Israeli quest for ‘Greater Israel’ that called for the erasure of
+      any Palestinian resistance, either by ethnic cleansing or total victimization.
+      The nature of the alignments on either side of this conflict exposed the Islamophobic
+      reflex of the leading Western liberal democracies and the heartless quest for
+      Jewish primacy in Israel even if meant institutionalizing a harsh version of apartheid.
+      3- How do you see the state of human rights internationally today? The observance
+      of human rights has declined in recent years, especially in the liberal democracies
+      of the West, but also reflecting authoritarian and xenophobic trends throughout
+      the world, and in virtually all leading sovereign states. The voluntary adherence
+      to the norms of international law with respect to human rights has also been negatively
+      affected by the failure to address Israeli apartheid and genocide, and the widespread
+      repression of pro-Palestinian solidarity protests and policy initiatives. The
+      internal curtailments of human rights in the leading liberal democracies has also
+      set back all efforts to increase compliance with human rights legal stardards.
+      4- How would you assess the current role of the United Nations in resolving existing
+      conflicts, such as those in the Middle East or Palestine? The UN is weaker than
+      it has ever been since ir was established in 1945. This partially the result of
+      the UN’s inability to protect the Palestinian people, and others, from Israel’s
+      defiance of international law, highlighted by the refusal to respect Palestinian
+      basic rights, above all, the right of self-determination, related rights of resistance
+      to its denial in this kind of settler colonial context, and reaction to Israeli
+      uses of force against several neighboring countries. This has been dramatized
+      by allowing Israel and the United States to oversee in a manipulative manner the
+      current ceasefire arrangements and control the future of Gaza, institutionalized
+      in the shameful Board of Peace, which rewards the perpetrators of genocide and
+      severely punishes its victims. 5- If you could change one previous international
+      decision, which one would it be and why? It was the decision back in 1945 to entrust
+      the management of global security to non-accountable geopolitical actors, accorded
+      an exemption from a legal duty to comply with the UN Charter. A closely related
+      decision, important symbolically and substantively, was to impose accountability
+      for war crimes only on civilian, military, and corporate leaders of the losers
+      in World War II, coupled with the refusal to allow legal scrutiny of the crimes
+      of the winners. The winners were expected by the American prosecutor, Justice
+      Jackson to adhere in the future to the standards imposed on the losers at Nuremberg
+      but consistently failed to do so with impunity. 6- Is it possible for the Iran
+      nuclear deal to be revived and for Iran, the US, and Israel to live in peace?
+      It seems doubtful so long as the US steadfastly supports Israel’s patterns of
+      hegemonic security policies applied not only to the Palestinian people, but to
+      neighbors that either are sympathetic with the Palestinian ordeal, most notably
+      Iran, or are perceived by Israel’s leaders to pose future obstacles to its goals
+      of hegemonic regionalism. Peace in the region also depends on the West giving
+      up its ideas about prevailing in an inter-civilizational struggle between the
+      Islamic Middle East and the Christian West, a current struggle whose deep psycho-political
+      and economistic roots can be traced back to the Christian Crusades of earlier
+      centuries. For regional peace to prevail in the Middle East to six interrelated
+      steps must be taken: self-determination for Palestine, Israeli renunciation or
+      drastic revision of Zionist ideology seeking ‘Greater Israel’ and regional hegemony;
+      ending all US sanctions imposed on Iran; Israel’s giving up its nuclear weapons
+      capability coupled with a monitored treaty to make the Middle East a nuclear free
+      zone; the establishment of a Truth and Reconciliation Commission that critically
+      examines the various versions of the Israeli and Palestinian narratives from the
+      time of the Balfour Declaration in 1917 forward to the present; s negotiated cap
+      on military spending and sales by Israel; a Declaration of Coexistence based on
+      ethnic equality, and signed by both Heads of State and reinforced by a pledge
+      of Permanent Members of the Security Council to suspend. any use of the veto in
+      connection with any recurrences of the Israel/Palestine conflict. . 7- In your
+      opinion, did the US and Israeli strikes succeed in destroying Iran’s nuclear facilities?
+      Of course, it is impossible to know with any precision, but all signs suggest
+      that Iran has restored its enrichment facilities, which may both enhance its defensive
+      capabilities and make it more vulnerable to further (unlawful) attacks by Israel
+      and/or the United States. There is no justification in contemporary international
+      law with respect to preventive war , including to prevent the proliferation of
+      nuclear weaponry. 8- Do you think the current Iranian regime is facing an existential
+      challenge, and how do you see the future of the Islamic Republic? The Islamic
+      Republic has proved remarkably successful over the decades in opposing external
+      and internal opposition to the stability of national governance and to the protection
+      of its rights as a sovereign state. Iran has been unfairly dealt with respecting
+      its nuclear program, given Israel’s and the US hostility, threats, and uses of
+      force since 1979. It is the core example of the doctrinal application of the clash
+      of civilizations hypothesis that assumed policy relevance throughout Atlanticist
+      region in the post-Cold War global setting. Trump’s pro-Israeli diplomacy has
+      intensified the challenge of military attack and regime-changing interventions,
+      but his transactualism could also lead to some kind of pragmatic agreements that
+      would include a long-deferred normalization of relations with the Islamic Republic.
+      Trump’s brand of narcissistic geopolitics includes a willingness to make abrupt
+      and unexpected policy shifts. 9- Did the IAEA play a secret role in revealing
+      the uranium enrichment levels to Israel and the US? It seems the IAEA was the
+      victim of Western geopolitical manipulations, but it is difficult to set forth
+      reliably the fully story without access to the classified inner activity  that
+      led to these irresponsible IAEA reports on the restoration of Iranian enrichment
+      capabilities. 10- What do “ICC” and “ICJ” need to have stronger enforcement mechanisms?
+      The ICJ to be stronger at the stage of enforcement would benefit from a curtailment
+      of the P5 right of veto in all instances where the issue is one of ICJ enforcement.
+      The GA could also urge compliance or even the imposition of sanctions, not with
+      the force of a legal obligation, but as a moral duty. The ICC, which unlike the
+      ICJ, is not part of the UN System and relies on the treaty framework of the Rome
+      Statute for its operations has currently no means of enforcement beyond the voluntary
+      compliance of non-parties, which include the three leading geopolitical actors
+      of our time, Russia, China, and the United States. A strong GA resolution might
+      produce various kinds of pushback by sovereign governments and civil society actors
+      that could increase pressure for both compliance and success. An alternative would
+      be a UN Charter amendment giving the GA authority to enforce the judgments of
+      both international tribunals. Such an innovation would depend on the P5 to recommend
+      unanimously that such an amendment be adopted.. In the end, the political will
+      of major states would be decisive in many instances, either to induce compliance
+      or to support non-compliance. At present, most governments are resistant to obligations
+      that encroach on national sovereignty, but in this setting of enforcing ICJ (including
+      Advisory Opinions) and ICC decisions have a greater formal claim if the state
+      in question is a member of the UN or a party to the Rome Statute. 11- Did Israel
+      try to win you over to its side during your time as the UN Special Rapporteur
+      on the situation of human rights in Palestine? No, they made no attempt after
+      losing their opposition to my appointment as Special Rapporteur at the Human Rights
+      Council. Their entire effort during the six years I served as an unpaid UN appointee
+      was to discredit me as an objective observer, accusing me of ethnic bias in repeated
+      defamatory smears. Sadly, the UN exhibited little support even when I was detained
+      in an Israeli airport prison facility while on a UN mission seemingly responsive
+      to inflammatory comments from UN Watch, an NGO that devotes its energies and resources
+      to the aggressive and often unscrupulous   defense of Israel against critics,
+      resorting to lies and insults. It is a sign of UN weakness that UNW is neither
+      disciplined in its behavior or more appropriately delisted by the UNOSOC as possessing
+      UN representational credentials. 12- How do you see the changes in Gaza and the
+      entire Middle East since 7 October? Although the future is unknowable, especially
+      given a variety of factors, and hopeful possibilities should not be excluded from
+      the political imagination although the present circumstances make the near future
+      looks dark from perspectives that favor constructive responses to Palestinian
+      grievances, greatly aggravated by Israel’s recourse to genocide for more than
+      two years, flagrantly violating the Genocide Convention. The entire world witnessed
+      in real time the horrifying daily images of the cruelty of the genocide, as well
+      as Israel’s defiant posture, and the shocking civilizational support Israel received
+      from the white Christian world on the first few months after October 7.  At the
+      same time, Trump is mercurial leader capable of making abrupt changes in the US
+      role, already somewhat evident clinging to a two-state solution contrary to Israel’s
+      wishes, although vaguely promised, and then only to be realized at some distant
+      point in the future. It does appear to counter Israel’s present drive to establish
+      Greater Israel as soon as possible. However, such a pledge is not without its
+      contradictions. These are mainly shown by the absence of US criticism of Israel’s
+       indulgence, if not encouragement of settler violence in the West Bank, an approach
+      more consistent with de facto annexation than of any serious effort to demand
+      that Israel policies meet the preconditions for establishing a viable Palestinian
+      state. At present, without even the courtesies of deception, Israel seems more
+      determined than ever to make any form of Palestinian statehood less and less feasible
+      or desirable. Besides this, Israel and the US pay no attention to the 2024 ICJ
+      Advisory Opinion clearly obligating to withdraw from all three Occupied Palestinian
+      Territories, a judicial outcome endorsed overwhelmingly by a GA resolution. .
+      13- Do you see President Trump’s plan as an American occupation of Gaza? It is
+      a somewhat original joint colonizing vision to be implemented by a multi-state
+      ‘Board of Peace, advantageous for Israel, punitive for the Palestinians, and under
+      the uncontested partisan leadership of Donald Trump. It is in my view a disgrace
+      that the UN Security Council unanimously endorsed the Trump Plan in SC Res 1803,
+      which is a symbolic vindication of Israel’s genocide and a further punitive framework
+      for the indefinite subjugation of Palestinians to a blend of ethnic cleansing
+      and a harsh version of apartheid. Whether the outrageous Trump idea of supervising
+      the reconstruction of Gaza to be the Riviera of the Middle East is situated somewhere
+      on a policy spectrum linking predatory disaster capitalism to imperial geopolitics,
+      and hopefully it is the imperial fantasy of a displaced realtor, and like many
+      such flights of fancy, never to be realized. . 14- During your meeting with Ayatollah
+      Khomeini, what exactly took place between you? How would you describe the impact
+      of that encounter on you? In Jannuary 1979 I was accompanied by Ramsey Clark,
+      former US Attorney General, and Donald Luce, an anti-war religious leader, accepting
+      an invitation from Mehdi Bazargan, the Interim President of the Islamic Republic,
+      asking me to form a small delegation to visit Iran so as to have direct contact
+      with the revolution and its leaders during the climactic days that were on the
+      verge of producing victory for the popular movement of opposition to the Shah.
+      During our time in Iran the Shah abdicated as his downfall as Iran’s leader became
+      the only unfinished business of the victorious revolution. It was a perfect moment
+      to have this conversation with symbolic leader of this revolution that surprised
+      the world by its successful resistance to the Shah’s repressive apparatus. While
+      we were still in Iran, just prior to Ayatollah Khomeini’s return to Iran, we were
+      told that because our visit was viewed as a success we were told that as a surprise
+      reward we were being offered the opportunity to meet with Ayatollah Khomeini on
+      our way back to the United States at his exile residence in a suburb of Paris/.
+      We had rhe meeting sitting in a circle within a large tent on the lawn of his
+      residence. We covered many topic of lasting significance, but the one that remains
+      uppermost in my memory was Ayatollah Khomeini’s initial questions to us as to
+      whether, unlike in 1953, the United States would accept the will of the Iranian
+      people and be open to normal diplomatic relations, which was his preferred future
+      provided it was not a ruse to induce the new leadership to drop its guard. We
+      also inquired about the wellbeing of the Jewish minority, and his response was
+      reassuring: “Judaism is an authentic religion, and if Jews do not involve themselves
+      as agents of Israel, it would be a tragedy for us if they left Iran.” I came away
+      from our several hours sitting on the ground in the tent with the distinct impression
+      that Ayatollah Khomeini’s had a distinct preference for a peaceful diplomatic
+      future with the West. Unfortunately, due to a number of factors, this has remained
+      ‘the road not taken’ and to quote the renowned American poet, Robert Frost’s final
+      line of the poem,.’and that has made all the difference.’ There is much else of
+      interest that transpired at that meeting, including our impressions of this charismatic
+      historic religious leader, but that would unduly lengthen my response, and will
+      be saved for another occasion. 15- Why did you receive death threats for several
+      years after your New York Times article titled “Trusting Khomeini,” and how did
+      you deal with it? Of course, I do not know the true motivations of those who transmitted
+      death threats. It was more than disagreement with my assessments. I suspect it
+      was to make me fear the consequences if I did not remain silent in the future.
+      These threats did not alter my strong conviction that the US Government should
+      at least test the willingness of Iran’s new leadership to act in accord with this
+      stated desire for normal diplomatic relations based on mutual respect and shared
+      benefits. It was an opportunity missed to demonstrate that the US was ready to
+      grant legitimacy to the outcome of internal national struggles to shape the political
+      identity of a sovereign state, an essential feature of the right of self-determination.
+      Because the road taken by all US leaders was one of confrontation and hostility
+      toward the Islamic Republic, not in keeping with a rational assessment of US national
+      interests,, it challenged the new leadership in Iran to give the highest priority
+      to regime security and territorial defense. Whether these preoccupations were
+      responsible for the harsh and seemingly intolerant policies of theocratic governance
+      is impossible to discern. Interpreting whether the decades that followed might
+      have been different if the US and Israel had not constantly Iranian historical
+      anxieties about the past  is a matter of pure speculatiom. Perhaps, a more convincing
+      picture will emerge if Iranian policy insiders offer a careful analysis of how
+      the security threats and destabilizing policies spearheaded by Israel, backed
+      by the main members of the Atlanticist political community that emerged after
+      World War II, turned governance into an understandable obsession with national
+      security and regime stability. 16- Do you believe the George W. Bush administration
+      was complicit in the 9/11 attacks? Do you possess any information that you haven’t
+      previously published? I am not an expert on the ongoing debates about what really
+      happened on 9/11, but I do know that there are many loose ends and unanswered
+      questions in the official version of the alleged Al Qaeda attacks. There is no
+      present receptivity in Washington to opening the issue to objective scrutiny by
+      an independent international commission of inquiry. I have not seen any convincing
+      evidence of active complicitly by George W. Bush beyond the well-established facts
+      of complacency in the face of warnings of some kind of terrorist attack. The immediate
+      launch of the Great Terror War was a regressive response, but consistent with
+      the policy impulses of the ‘foreign policy elites’ that control the shaping of
+      US national interests. An additional source of suspicion arose because the US
+      was being pushed by Israel to adopt an anti-Iraq position in the Middle East.
+      It is doubtful that the 2003 Iraq War would have been launched without the camouflage
+      of the 9/11 attacks, which provided a falsely constructed rationale for engaging
+      aggressively against any adversary of the United States, especially in the Middle
+      East. It is worth revisiting ‘the clean break’ neo-con manifesto drawn up with
+      encouragement from Israeli leaders in the 1990s. ………………………………… ##'
+    one_sentence_summary: In a comprehensive interview, an international law scholar
+      reflects on pivotal moments in his career, highlighting his influence on public
+      discourse during the Vietnam War and his efforts to promote peace proposals that
+      favored U.S. interests.
+    paragraph_summary: In an extensive interview with Egyptian journalist Muhamed Abd
+      Elaziz, a prominent scholar of international law reflects on pivotal moments in
+      his career, particularly his opposition to the Vietnam War and his support for
+      the Iranian Revolution, where he felt his contributions influenced public discourse.
+      He highlights his efforts to advocate for Palestinian rights, which led to his
+      appointment as the UN Special Rapporteur for Occupied Palestine from 2008 to 2014,
+      despite facing significant backlash and attempts to undermine his credibility.
+      Throughout his journey, he emphasizes the challenges of being marginalized in
+      mainstream media and academia while remaining committed to activism and promoting
+      justice for oppressed communities.
+    published: '2026-02-23T02:23:58+00:00'
   - title: 'The Courage to Be: Adapting to Unknowability in a Dangerous World'
     url: https://richardfalk.org/2026/02/17/the-courage-to-be-adapting-to-unknowability-in-a-dangerous-world/
     text: '[Prefatory Note : This short essay previously published as an editorial in

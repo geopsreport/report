@@ -8,16 +8,1984 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Amid ongoing global economic and strategic realignments, recent analyses by **Michael Hudson** and colleagues shed light on the evolving architecture of power, finance, and resource control. The latest discussions focus on the intersection of financialization, military strategy, and the shifting global order.
+  As global economic and political tensions intensify in early 2026, recent independent analyses highlight the deepening divide between rentier and productive economies, the ongoing impact of U.S. financial and military strategies, and the growing dissatisfaction within key U.S. allies.
   
-  A central development is the critique of GDP as a metric that, according to **Hudson** and **Dirk Bezemer**, "flatters finance and hides extraction." Their research, presented at a recent Class Unity event, underscores how traditional economic indicators obscure the extractive role of the financial sector, which exacerbates inequality and heightens the risk of economic crises. This perspective is gaining traction among political economists, who argue that meaningful reform in monetary policy and economic governance is necessary to address systemic imbalances.
+  The most recent reports, particularly from **Michael Hudson**, emphasize the ongoing economic hardship in Iran, exacerbated by currency collapse and what is described as U.S. manipulation of financial systems. **Nima Alkhorchid**’s first-hand accounts from Iran underscore the severe impact on civilians, with Hudson noting, “the consistent military strategy of the U.S. is to harm civilian populations in various conflicts.” This approach, according to Hudson, is not isolated to Iran but is part of a broader pattern of U.S. engagement globally.
   
-  On the geopolitical front, **Hudson**’s analysis from the World Economic Forum in Davos highlights the U.S.'s evolving strategy in the Arctic under Donald Trump. Rather than pursuing genuine conflict resolution, Hudson asserts that Washington’s definition of "peace" is increasingly synonymous with military dominance and the establishment of a new global power order. This approach, he warns, is less about stability and more about reinforcing U.S. hegemony through force projection in critical regions.
+  Turning to the structural underpinnings of these crises, Hudson’s discussion with **Glenn Diesen** explores the “decline of civilization” as a function of economic systems, particularly the dominance of rentier practices over productive investment. This civilizational divide, they argue, is at the core of current geopolitical instability and is likely to shape the next phase of global realignment. Hudson hints at further analysis in his forthcoming sequel to “The Destiny of Civilization,” suggesting that the interplay between finance and production will remain central to understanding future developments.
   
-  Meanwhile, the ongoing property crisis remains a focal point. In a recent podcast with **Jonathan Brown**, Hudson detailed the "hidden architecture" behind real estate instability, linking it to broader trends in financialization and speculative investment. This, he argues, is symptomatic of deeper structural issues within Western economies, where asset bubbles and debt-driven growth have supplanted productive investment.
+  Meanwhile, in Europe, Hudson’s earlier analysis points to mounting alienation among populations, especially in France, as a result of sanctions, asset seizures, and U.S. pressure on EU governments. This discontent is fueling political instability and could, with high confidence, “most definitely” lead to further fragmentation within the European Union if current trends persist.
   
-  Looking ahead, the prevailing trend is one of intensifying systemic stress—both economically and geopolitically. There is a high chance, as **Hudson** notes, that without substantial policy shifts, financial extraction and militarized competition will continue to define the global landscape. The confidence level in these predictions is high: I guarantee that unless there is a significant realignment in economic and strategic priorities, current patterns of inequality, instability, and geopolitical rivalry will persist and likely intensify.
+  In summary, the latest developments reinforce the view that U.S. strategies—both financial and military—are contributing to widespread economic distress and political instability across multiple regions. The prevailing trend, as identified by Hudson and corroborated by other analysts, is a shift away from U.S.-centric global order toward a more fragmented and contested international system. It is “quite likely” that this will result in new alliances and economic models emerging over the coming year, with a high chance of continued volatility in both financial markets and geopolitical relations.
 articles:
+  - title: Crisis of the Empire
+    url: https://michael-hudson.com/2026/02/crisis-of-the-empire/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 5th, 2026, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. You know
+      that I am right now in Iran. I’ve been in Iran almost 40 days to see, to experience
+      what’s going on. 12 years since I last came back. And you know, conflict after
+      conflict with the United States. It all started, Michael, with protests here in
+      Iran. The people were not happy with the way that the economy was working for
+      them. They were facing difficulties because the Iranian currency was collapsing.
+      The U.S. Treasury Secretary Scott Bessent came out and said that we have prepared
+      for this moment happening in Iran. When it comes to the United States, it was
+      amazing for me to see how it is possible for the United States to manipulate Iranian
+      currency that much. ⁣MICHAEL HUDSON: U.S. military strategy from the Korean War
+      to the war in Vietnam to the war in Ukraine and over Gaza has been the same. It’s
+      the belief that if you can hurt civilians enough, if you can ignore the basic
+      laws of international law of war and focus on attacking civilians, not military
+      sites, that that will lead civilians to abandon their support of the existing
+      regime and say, oh, we’ve got to elect a pro-American puppet who, because he’s
+      pro-American, will stop the United States from bombing us. This is the exact opposite
+      that has happened in every country throughout history. Countries rally around
+      the leadership of the country under attack. They blame the attackers. They don’t
+      blame the existing regime for being attacked, especially if the attacks are completely
+      predatory in character to put in place a system of economic and military dependence
+      on the regime. From the very beginning, the U.S. strategy has failed. And so what
+      can the U.S. do? All it can think of doing is bombing even more. But the problem
+      is that bombing doesn’t seem likely to have an effect because Iran has already
+      gone through all of the demonstrations that it needs to do from the first Israeli
+      attack in the 12-day war to the present. And it even showed its ability to send
+      warnings to U.S. troop formations throughout the Middle East: look, get your people
+      out of the way. We’re just going to show you that you have no defense against
+      our missiles. Kaboom. During the 12-day war, when responding to Israel’s attack,
+      again, they showed that Israel’s golden dome doesn’t work and that the U.S. defenses
+      don’t work and that Iran can penetrate them at will. This includes the potential
+      Iranian attack on aircraft carriers, other shipping, missiles, Israel as well
+      as throughout the Middle East. The United States cannot win any conflict without
+      such a concentrated missile attack on Iran that this is going to completely disrupt
+      and engulf the entire Middle East in war. And Iran will, number one, sink a ship
+      in the oil gulf, which is going to block the oil transport, vastly increasing
+      oil prices to the U.S. and throughout the world, and essentially wipe out the
+      Israeli economy. Well, the reports are that Saudi Arabia, UAE, Russia, everybody
+      has been warning the United States, you’re going to engulf the whole world in
+      chaos and you’re going to lose. Don’t do it. Today, on the New York Stock Exchange,
+      oil prices are going down. And that seems to be the belief of insiders that matters
+      are calming down on this talk scheduled for tomorrow in Oman. I really don’t see
+      that. Trump’s strategy has always been to make unrealistic, enormous demands on
+      other countries, just like Zelensky is making on Russia. Of course, these demands
+      can’t be met. And Trump imagines that these demands are going to somehow expand
+      the mind of the countries that he’s attacking. And then he can say, okay, let
+      me back down. Let’s compromise. Of course, the compromise is an unrealistic demand
+      that he’s making on Iran. Of course, Iran is not going to agree and has said it’s
+      not even going to discuss ending its atomic energy program. It will never discuss
+      even the thought of giving up all of its missiles so that Israel and America can
+      bomb it into submission. The one thing it can discuss is: well, we’re not really
+      prepared to make an atomic bomb yet. We’re not going to let your inspectors in
+      because your inspectors are spies for the United States and Israel. The inspectors
+      are telling the Americans exactly where to bomb and what to do. We’re going to
+      have honest inspectors. If you want to send, maybe we can arrange for Russian
+      inspectors. This is the only thing that they’re willing to talk about. That’s
+      not going to be enough for Trump. He’s surrounded by people who are encouraging
+      him to maybe miss a meal, get a little more dizzy, and just say, gee, don’t back
+      down, Mr. Trump. You know, you can do it. So my expectation is that against all
+      reasonability, the United States is going to try to attack Iran in some way and
+      then wing it. And the way it’ll attack it is the usual salami type tactics. It
+      will begin by a little bite here, a little bite there, just to probe Iran. The
+      question that I would have, and I bet your military advisors on your show are
+      going to have, is, at what point will Iran say a little attack is still an attack?
+      If you attack us, we’ll look at that as the preliminary big attack on us, and
+      we’re going to go kaboom from the start. I think that is probably its best defense.
+      ⁣NIMA ALKHORSHID: Yeah, actually, they’re talking that way right now, Michael:
+      any attack on Iran would be responded to by tremendous overwhelming attack on
+      all these assets of the United States in the region and Israel. That’s what I’m
+      hearing from the domestic media here. They’re all prepared to do it. I hope that
+      nothing would go in that direction because I don’t see anything good coming out
+      of this. Richard, your understanding. ⁣RICHARD WOLFF: If it’s correct that there’s
+      now another move to demand that Iran stop selling oil to China, then you put that
+      together with the embargo declared yesterday against allowing any Venezuelan oil
+      to go to China. Both Iran and Venezuela have supplied [most of its] oil to China
+      for quite a while. (Though China would not have much trouble replacing oil if
+      it faced an intervention in this way. Russia has virtually unlimited, and then
+      there are other parts of the world that will continue to sell to China.) But I
+      want to underscore a point that we have been making on your show for a while.
+      This is behavior that is desperate. It is desperate. It is behavior that, I think
+      Michael said, violates international law. Venezuela was not a threat to the United
+      States by any reasonable calculus, nor is Iran. International law specifically
+      says you cannot intervene in the life of another country because you don’t like
+      its economic system or its political system or how it treats its own people. Any
+      more than another country could say that the repression of black and brown people
+      in the United States is offensive. Yes, it is. But they don’t attack the United
+      States – partly, of course, because they don’t have the power. But it’s also the
+      law. I mean, that’s why the law was set up. That’s the same reason the League
+      of Nations was set up, and the United Nations was set up. All of the documents
+      founding these organizations, which the United States signed, prohibit what is
+      being done now. This is not to be attributed to Mr. Trump’s bizarre personality.
+      This is something that is being supported by the employer class of the United
+      States. They are not revolting against him. The working class is moving against
+      Mr. Trump. Absolutely. The general population, absolutely. We actually have general
+      strikes. We had one in Minneapolis over the last couple of weeks. It spread to
+      large parts of Minnesota. Over the last few days, unions around the country have
+      announced May 1st of this year will be a general strike. Yes, the first ones will
+      be spotty, they will be uneven. They always are. It’s an enormous step that there’s
+      even a conversation in this country about a general strike. But these are all
+      symptoms of desperation. And the real risk is that Mr. Trump and his advisors,
+      living in the bubble that they have created, are going to make one mistake along
+      the way, and then we will all suffer. That has happened before. Marx once wrote:
+      these things end up either in the end of one system and the transition to another,
+      or Marx’s phrase, the common ruin of the contending parties. Here we go. If we’re
+      to move forward, forward is not the United States, it’s China. It’s this mixed
+      system of the government and the private. Not that that’s the end of history.
+      It isn’t. History will continue. What is going on in China will give way to new
+      and different things in China, of course. But the United States is the desperate
+      one. China is not intervening in global trade. China has countries around the
+      world with which its leadership disagrees on very fundamental things. But they
+      are not behaving in the way that the United States is. The United States is aggressive.
+      The United States violates the law left and right. I want to remind everyone,
+      because I don’t think it ever has gotten the attention it should have. For the
+      last five months, Mr. Trump and his advisors, with virtually no opposition in
+      the United States, have been killing fishermen in boats in the Caribbean Sea and
+      on the Pacific side of Latin America. These are people who were treated in a different
+      way before. The United States Navy would have reason to suspect a boat. It would
+      demand to be able to inspect the boat. U.S. naval personnel would go on the boat.
+      If it was carrying contraband, illegal stuff, the people would be arrested, taken
+      back to their country, the contraband confiscated. Suddenly, all of that is short-circuited.
+      We don’t board the ship. We don’t inspect it. We don’t ask any questions. We provide
+      these people with no lawyer. There is no trial. There is no judge. Mr. Trump executes
+      them one after the other. I believe it’s over 100. Latest count. 100 people, dead
+      people. There are even lawsuits by the family surviving these dead fishermen suing
+      the United States for killing the husband or the father. That this happens is
+      extraordinary. That it is happening over five months is more extraordinary. And
+      there’s no real opposition. I don’t know what to say. What’s going on? And I want
+      to make sure people understand, including the leadership in Iran, you’re dealing
+      with people who are prepared to do this, who have been doing it, and who have
+      no doubt been interpreting the absence of serious opposition as a license to do
+      more of this. Having said that, there’s nothing more I can say. It sits there
+      as a screaming statement about something. Then, when you add the killing of Renee
+      Good and Mr. Pretti in Minneapolis, and you read the explosion of the Epstein
+      files indicating what kind of human beings have been collected in the White House
+      to run society… Well, yeah, you can tell yourself all kinds of stories, but I
+      think the only one that holds any water is the story that we’re coming to the
+      end of a system because this is extraordinary behavior that can’t go forward.
+      We can’t. Otherwise, we are simply heading to World War III. We will have learned
+      nothing from the two horrible wars of the 20th century, and we’re going to have
+      one more. I want to remind people, the two wars of the 20th century were the end
+      of the British Empire. Two-thirds finished in the First World War, and the remaining
+      third wiped out by the second. And it gave a boost to socialism, which is still
+      more than the West can handle. It would be very naive not to think of what this
+      means in terms of the future. The people of China and India together have 10 times
+      the population of the United States. At a certain point, given the balance of
+      nuclear weapons, this fact alone makes it absurd. It is a mouse brandishing its
+      little sword against an elephant. And the elephant will win this game. And that
+      ought to teach people a lesson. And when it doesn’t, I think we all have to draw
+      the conclusion. ⁣MICHAEL HUDSON: Well, Richard, you’ve made two points about the
+      system that’s coming to an end. The first point you made was that interference
+      with foreign countries is against all international law, going from the Treaty
+      of Westphalia in 1648 to the United Nations. The second point that you rightly
+      emphasize is that the attack on the fishermen and boats in Venezuelan waters –
+      some from Trinidad, not even Venezuelan – is also a violation of the international
+      law of war. In addition to attacking these boats without probable cause and with
+      their being basically civilians and not military, there’s a law against camouflaging
+      warplanes as civilian craft. And that’s being done. These are criminal acts of
+      war. Yet no country has dared to risk U.S. retaliation by challenging this in
+      the International Criminal Court, unlike the case with Israel’s attack on Gaza.
+      Trump’s demands on Iran are a violation of the UN Charter. And perhaps the countries
+      that are most affected by, immediately affected by any war in the Near East are
+      going to be Saudi Arabia and the UAE and the other Near Eastern neighbors that
+      have American military bases there. So perhaps instead of telling Trump simply
+      “look, we’re going to warn you, don’t go to war against someone bigger than you”,
+      they should say this: We will join a case with Iran before the International Criminal
+      Court to accuse you, Trump, of being a war criminal, so that you cannot go to
+      any of these countries without being arrested. And we will add Bessent, and we
+      will add your cabinet, who are the responsible members for this. This will be
+      a very public accusation that far from deserving a Nobel Peace Prize, you’re a
+      war criminal by what you’re doing. And we’re going to apply the laws of war against
+      you because it’s illegal. Otherwise, if they don’t do that, then what Richard
+      just said, a system is coming to an end. And it’s a system of international law
+      that was the whole spirit of Western civilization, trying to prevent war. And
+      if there has to be a war, prevent attacks on civilians, which is just happening.
+      I’m sure there can be, especially from the Iranian leaders themselves, a statement
+      that this is not only a principle of Islamic law, but it’s written into all of
+      the United Nations bodies of law and the International Criminal Court. The question
+      is, the United States, in addition to violating the Constitution as it’s doing
+      in Minneapolis as Richard has described, is violating the whole principle that
+      was supposed to underlie Western civilization. This can be escalated into a civilizational
+      legal fight, which for Trump is a public relations fight, and that’s the fight
+      in which he lives. ⁣RICHARD WOLFF: Let me expand in two other ways on this. One
+      about Mr. Trump and the domestic reflection of all of this, and the other one
+      about Europe, because we’ve also had conversations about the peculiar position
+      of Europe and its relevance here. But first, domestically. Over the last week,
+      Mr. Trump made a comment that suggested that we’re not going to have a midterm
+      election in November, or that we don’t need such elections, or that the Republicans
+      or the federal government will take over some or all of the elections. Again,
+      this is an extraordinary departure. The Constitution gives the states control
+      of the election process. He would have to take it away from the states and make
+      it a federal responsibility and give it to one of the two major parties, which
+      would violate everything. The press asked follow-up questions, and his spokesperson,
+      a woman named Levitt, explained that the press had misunderstood Mr. Trump was
+      joking. Now, no one believes that, but she tried. He then followed up by explaining
+      in the next press conference that he was not joking. In other words, he contradicted
+      his own spokesperson on that point. He wasn’t joking. The disregard for international
+      law, the aggressive action towards other countries that pose no credible threat
+      against the United States, et cetera, et cetera. If we let it go, it will mean
+      that the United States can say whatever it wants about any country in the world,
+      that it is engaged in drug trafficking. Most countries in some way are. It’s an
+      international business. So then the world will be under the gun of a perpetual
+      threat from the United States militarily, the way it already is in terms of tariffs.
+      This is not a tolerable arrangement for the whole rest of the world. It requires
+      the rest of the world to live in a state approaching the anxiety that Iran has
+      now had to live with for God knows how long. And now Europe. The Europeans are
+      also confronting, if I can borrow a term from the religious folks, the end times.
+      What do I mean? Europe is fading into insignificance. It is now the afterthought
+      to a world economy in which the United States on the one hand, China and the BRICS
+      on the other hand, are the great power economic centers of the world economy.
+      And they look like they’re going to be that for the next little while at least.
+      There is nothing that Europe can say or do unless it achieves two things, which
+      it has to achieve. Now that the United States is not only not protecting them,
+      but assaulting them, demanding tribute from them – what von der Leyen promised,
+      700 billion in energy purchases, another 700 billion in quote-unquote investments,
+      that’s tribute, not different from anything we have seen historically when a dominant
+      power demands tribute from subordinate powers… Okay, the only way they can escape
+      the inevitable subordination that they’ve just agreed to, and they know this,
+      is if they do two things. Number one, develop their own military defensive capability,
+      which will cost them a fortune for the next 10 years. And the second thing, just
+      as important and just as expensive, is they have to invest in catching up to the
+      modern technology that has advanced in the United States and advanced in China
+      and not in Europe. I mean, everything having to do with high-tech computers, artificial
+      intelligence, all of that, where Europe is a spectator, looking rather like Asia,
+      Africa, and Latin America, minus, of course, China in Asia. Alright, these are
+      two enormous expenditures over the next 10 years, create a military and do this
+      kind of investing to catch up technologically, to do what China has done. The
+      only way they can pay for that, the only way, if they can overcome their political
+      stasis, if they can overcome the fact that all these little countries have a hard
+      time agreeing with each other on anything. Look, for example, at how they can’t
+      agree on using the seized Russian assets as collateral for the loan to Ukraine.
+      They can’t get it done. Now at least half a dozen countries, even more, are opposed
+      to it, more joining them. Let’s assume they can get all that done. Let’s get to
+      the economics. In order to find the money to build up their military on the one
+      hand and to catch up technologically on the other, they are going to have to savagely
+      cut their social welfare program. They are going to have to find the money that
+      way. And we know that’s what they’re going to try to do because that’s who they
+      are. They are not going to go to the ruling class and savagely tax them, right?
+      That’s not who they are. They’ve never done that. They’re not going to do it now,
+      especially not these center-right governments, which are the majority in Europe,
+      the overwhelming majority. Now that explains to us what we haven’t quite explained
+      up until now. How in the world will these people be able to avoid their perpetual
+      subordination to the United States, to become for the United States what Latin
+      America already is, to descend to that level? They have to move that money away
+      from social welfare. And with their well-developed labor unions and their well-developed
+      anti-capitalist political parties, how are they in the world going to get that
+      done? Answer. The only hope they have is the demonization of Russia. Now we understand.
+      If you can convince the mass or at least a significant proportion of your people
+      that there is an imminent danger that the Russians are going to occupy Copenhagen
+      any day now, maybe then. Maybe then you can get the consensus to destroy the social
+      welfare system, all in the name of defending against Russia. The absurd hysteria.
+      And for those of you that are not familiar, the foreign minister of the EU, Kallas:
+      watch her, listen to her, because out of her mouth comes the hysteria. I’m sure
+      she doesn’t understand why she’s hysterical or how she’s hysterical, but you will
+      get from her, and she was chosen, and she’s allowed to continue because this fomenting
+      of hysteria is their only hope. And it’s a long shot. I don’t think it will work
+      at all, but it shows you that they have a kind of desperation of their situation
+      that matches, although for different reasons and in a different way, the desperation
+      of the United States. If you put the two together, it’s the desperation of the
+      West. It’s the decline of the West. And that’s the real historic moment we are
+      living through. ⁣MICHAEL HUDSON: Well, this desperation will be a catalyst. You’ve
+      just seen Germany come out with its annual report on the future. It’s announced
+      that the German economy industry has not grown since 2020 with the COVID epidemic.
+      The European economy does not have the resources to grow much, not only to continue
+      providing the social services of social democracy that was supposed to be the
+      characteristic of Western Europe, but the military. This is forcing them to try
+      to decide: can we really afford to commit economic suicide and support the militarization,
+      which in the first draft of the militarization means Europe is going to spend
+      all of its economic surplus, its export and trade surplus on buying American arms
+      that are necessary to protect it from this fictitious Russian threat that you’ve
+      talked about. And the fact is, even its military is unable to grow because the
+      military, like industry, requires technology. And the fact is that now we’re seeing
+      in the United States a whole economic fight and a collapse of the technology stocks
+      in today, yesterday, the last few stock markets, because they realize that technology
+      is electricity and electricity is energy. Trump has put a complete block on installing
+      energy in the form of wind energy and solar energy. He made a speech saying that
+      China exports all of these gigantic windmill blades, but it doesn’t have any windmills
+      at all. Actually, China has more windmills and wind energy than all the other
+      countries put together. It’s been putting them in the Gobi Desert, it’s been putting
+      them elsewhere. This wind energy is supplying a vast support for its information
+      technology and automatic intelligence industries. Likewise, China’s taken the
+      lead in solar energy. And again, it can put this in the Gobi Desert and other
+      rural areas. It can put them on urban areas. Trump has said we cannot have any
+      energy that is not oil-based, because as we’ve discussed before here, oil is how
+      the United States has been able to control the world’s energy trade for the last
+      100 years in alliance with Britain. So you’re having the United States without
+      energy, and Europe has made the fateful decision that it is worth destroying our
+      economy to exult in our hatred of Russia, a racist hatred, a hatred against the
+      Slavic population, a desire that we must break Russia up into five territories
+      so that it cannot defend Europe against the yellow peril i.e. China which the
+      U.S. strategists have also outlined plans to break up. This is widely discussed,
+      I can assure you, in China and Russia. And it’s all publicly available in the
+      United States. How can the United States grow and achieve the one thing that it
+      hopes to consolidate its economic power: monopolizing information technology,
+      computer chips, with 40% of the Taiwanese computer chip company moving to the
+      United States and building the factory right now in Arizona? How can it do this
+      if there’s no energy? Electricity prices in the United States have already gone
+      up 12% in the last year, as they have in Europe. If you have this enormous growth
+      in electricity going to finance automatic intelligence (I like to say automatic
+      instead of artificial because it’s really just mechanized) how on earth are people
+      going to continue to afford to light and heat their homes with gas and electric
+      power? You cannot have both. Also, in the United States, it takes about 10 years
+      to go through all of the approvals and basics for creating an electric utility.
+      The electricity isn’t there. And without electricity, how can they really have
+      an industrial power to support a military power unless they cut back almost all
+      civilian industrial consumption? The same thing happens to Europe. They’re forced
+      into a choice. What have you seen in the last few weeks? You’ve seen first of
+      all America’s closest ally, Canada, send its Prime Minister Carney to China to
+      negotiate trade with it and open trade with it, including auto trade, to import
+      Chinese electric vehicles. There goes Elon Musk’s hope for billions of dollars
+      from his electric plan. Now you’ve even had America’s second puppet, Starmer of
+      Britain. Before he’s forced to resign, he went to China to negotiate something
+      similar. How long will it be before continental Europe makes the same decision
+      that we cannot afford to pay the tribute that the United States demands and finance
+      not only our military buildup, but continue to agree to the American sanctions
+      against trade and investment with Russia and China? No more energy. We will not
+      import energy from Russia, and we will not permit any Chinese company to own majority
+      ownership of any firm in Europe because we’re in a race war with them. And you’ve
+      seen what’s happened with Nexperium already in Holland creating a crisis in auto-battery
+      manufacturers. The only thing that Europe has done so far is: well, we can do
+      just what Trump wants to do in the United States by controlling the elections.
+      We can fake the elections in Romania. We can ban the Alternative für Deutschland
+      in Germany. We can ban the nationalistic parties. We can ban anyone who does not
+      want to be part of this Cold War and is not willing to sacrifice their living
+      standards, to sacrifice their industry in order for us to continue to act as puppets
+      of NATO and the American military. How long can this possibly last without somehow
+      the people breaking through and say, we actually want elections? We want an open
+      discussion. We don’t want the same constraints on free speech that America has
+      been imposing. This is getting to, again, as the Americans like to say, a civilizational
+      conflict. It’s a conflict of economic systems. It’s not simply a conflict between
+      America and China alongside Russia. It’s a conflict of what shape the world society
+      and international law is going to be. And that’s why I think the one way in which
+      other countries can stop it is not simply in the material sense of developing
+      its own industrial independence, but through international law. Now, obviously,
+      the United States will try to veto any such thing within the United Nations and
+      say we will block any UN law that seeks to support the UN Charter. Well, at that
+      point, the UN is defunct, and it’s already announced that by August, it’s going
+      to run out of money and cannot afford to support its New York headquarters anymore.
+      I guess Trump is going to make the UN into a huge new Trump Plaza 2 and will do
+      it. But where is the United Nations going to move to? I think that should be brought
+      into public discussion. What’s an appropriate country for the United Nations?
+      Will it be Singapore or Malaysia or somebody? Can’t be one of the leading powers.
+      It has to be some neutral country. I think you have to escalate the context for
+      what this fight is all about. And I guess that’s what we’ve been talking about
+      on your show for the last year, Nima. ⁣RICHARD WOLFF: You know, I read an account
+      a few days ago that over the last year, or maybe even for a longer period, but
+      at least the last year, discussions were held between high officials of the United
+      States and the leadership of the Mercedes-Benz Corporation in Germany. And the
+      topic of discussion was moving the Mercedes-Benz Corporation headquarters and
+      leadership from Germany to the United States. Okay, I understand, at least for
+      the moment, that’s not going to happen. But the important thing is that it did
+      already happen: that the German car maker could seriously contemplate it. You
+      know, it’s been around Germany for, I don’t know, at least a century because it
+      existed in some corporate form even before the automobile. I think they made coaches
+      or other kinds of ways of carrying freight or carrying people. Look at what that
+      means. That means other major German corporations were having such conversations,
+      but were able to keep them secret. And that means that the government of Germany
+      had to promise them something so they wouldn’t go. And I spent the last 10 minutes
+      in my speech a few moments ago trying to get across what must have been. I wasn’t
+      there, obviously, but what must have been promised? A military buildup and a vast
+      investment in support of modern technology so that they would get the support.
+      As Michael has said on many occasions, a modern military requires a fairly sophisticated
+      technological, but also manufacturing base. The United States is discovering that
+      its military capabilities are hamstrung because it let its manufacturing base
+      be exported. It has the technology, but not the manufacturing. In the Ukraine
+      war, at a certain point, Ukraine ran out of artillery shells. The Europeans had
+      none left, and the Americans had used up so many that they had to keep the rest
+      here for domestic purposes. Whoa, you ran out? Yeah, and it takes a year to develop
+      the capability of producing them at the kind of rate one now needs. I want to
+      remind people: Russia has a GDP in the neighborhood of two or three trillion dollars.
+      That’s our adversary in the Ukraine. On the other side is the United States with
+      a GDP in the neighborhood of $28, $29 trillion, allied with Britain, France, and
+      Germany, which add another $10 trillion. A $37 trillion economy on one side, and
+      Russia, $2 trillion on the other. This is a fight between David and Goliath, and
+      it doesn’t change that much, even with the ally Russia has in China. Look at what
+      it means. It kept most of it. It kept particularly that part of it that fuels
+      their military. And they have their alliance with China. But the lesson there
+      is obvious, and the Europeans know it. You’re going to have to spend a fortune
+      not to become Panama or Colombia or Paraguay. You’re going to have to spend a
+      fortune on the military, a fortune on technology, and I haven’t even gone into
+      rebuilding your manufacturing sector because it’s been pretty much hollowed out
+      in Europe the way it has here. And that’s the end of everything else that they’re
+      going to do. And that’s probably what they are promising their companies so that
+      they don’t leave and relocate to Ohio. ⁣MICHAEL HUDSON: You mentioned artillery
+      shells and bullets. The price of copper, which is what they’re made out of, has
+      been soaring as much as the price of gold and silver has. During the Vietnam War,
+      I was watching the copper market very closely. Every soldier in Vietnam used one
+      ton of copper per year for the bullets. The American policy was to saturate the
+      entire air with bullets and artillery shells, and that’s how we’re going to win.
+      Well, of course, that was against the rules of law of war. You’re not allowed
+      to attack civilians, but that’s the American philosophy. Now the Americans and
+      Europeans, as you pointed out, are out of shells. That means they’re out of copper.
+      And if you use copper for armaments and military, how are you going to use it
+      for the wiring that you’re going to need for all of this electricity that you’re
+      going to need to participate in the new information technology and artificial
+      intelligence that has all been planned as the leading edge of the new technology?
+      As I said earlier, if you look at the stock market crash in the Golden Seven technology
+      stocks, people are realizing when they do the calculations what is necessary for
+      this technology actually to take off. More electricity than the world is capable
+      of producing at the present time. Something has to give. Well, something also
+      has to give in the form of war. As Richard and I have said on a number of shows,
+      the thought of foreign countries being able to send their industry to the United
+      States is a fiction because of Trump’s tariff policies. Trump has led the destruction
+      of the U.S. economy. If you look at what has happened to industrial production
+      and employment since he took over, it has been straight down, in a not quite vertical
+      but a straight downward flow, because the tariffs have put out of business. A
+      lot of the small industrial companies and now increasingly the large industrial
+      users of copper, energy, steel, anything that’s imported and subject to the 50%
+      tariffs on steel and other items, aluminum, have all cut back. So that however
+      bad the situation in Europe appears, it’s not as bad as what Trump is doing to
+      the United States with his tariff policy and his pro-oil policy, his anti-solar
+      energy and anti-wind energy policies and the associated destruction that he’s
+      causing on the U.S. economy. This is what’s so ironic. As I’ve said before, Richard
+      and I have the approach: aren’t countries going to act in their economic self-interest
+      ultimately? Isn’t material prosperity the driving fact? Well, the Roman Empire
+      collapsed and it didn’t put it first. And the British let their empire go, and
+      the Americans are doing the same thing. It doesn’t make sense if you look at it
+      in terms of national self-interest. Trump doesn’t put America first. He puts his
+      campaign contributors first. And the people who pay the industries or sectors
+      that pay the most for the campaign contributions or by Trump’s crypto energy fund
+      are the people who are the most corrupt, inefficient, and who need special government
+      favoritism against the naturally more productive and better situated winners.
+      Trump has pledged to let the overthrowers of the U.S. economy have precedence
+      and outline his tariff policies and the other policies. And this is economic suicide
+      for the United States. And Europe doesn’t have to go through this. And obviously,
+      the other countries, increasingly countries who are joining BRICS, don’t. I think,
+      as I started off with Mark Carney’s visit to China and Starmer’s visit to China,
+      it cannot be long before the rest of the western European countries are doing
+      the same. And one would hope that that may lead to a dissolving of this anti-Russian
+      feeling. You could say, NATO has destroyed itself by absorbing the Baltic countries
+      and the Central European countries that were indeed occupied by the Soviet Union.
+      And it’s not only Estonia, it’s Latvia, where I spent quite a bit of time, Lithuania.
+      There’s a real hatred and resentment for the occupation there, just as there has
+      been in East Germany. It was a trauma for them. Europe further west was not traumatized
+      by that, but U.S. pressure has forced NATO to put the most traumatized anti-Russian
+      countries in control of EU policy. And that’s suicidal too. What’s at issue if
+      withdrawing from the American Cold War is withdrawing from NATO and NATO’s control
+      over the EU. And that requires a transition, dissolving the EU itself as a transition
+      to somehow putting it together as some country or continent that will act in its
+      own self-interest. So far, there’s only discussion. There’s nothing more. This
+      is something that’s going to take decades, to overcome the legacy of letting the
+      United States design the post-World War II economic order and make it into a Cold
+      War opposing every principle of international law and the laws of war that it
+      ostensibly stood for. ⁣RICHARD WOLFF: Let me add two little statistics that I
+      think shed light on yet another dimension. What Trump is doing is strange. I think
+      it’s the desperate behavior of a declining empire. We’ve made that argument. But
+      I also think it doesn’t work, which is going to be a real crisis for them. And
+      here are two statistics. I asked myself, because I had to give another interview,
+      how many of those manufacturing jobs that were going to be, quote-unquote, re-shored,
+      that is, brought back to the United States? Remember, a major argument for tariffs
+      was that because you put a tax on an import, you therefore create the incentive
+      for the factory that makes that import to come inside the United States, because
+      then it can produce and sell without the tariff. Here is the statistic over the
+      last 10 months or 11 months that Mr. Trump has been a president. Manufacturing
+      jobs in the United States have declined by 70,000. That’s the number given out
+      by the United States government. So it is a complete failure. Not only did we
+      not see the promised explosion of jobs coming home, we actually saw a continuation
+      of a long historical decline of American manufacturing. Second statistic: the
+      tariffs put on China – which are still there, they’re not as high as they once
+      were, but they’re still there – did have the effect of reducing the flow of Chinese
+      exports into the United States during 2025. However, Chinese exports to the rest
+      of the world hit a new record, over a trillion dollars for the first time. Because
+      it turns out the Chinese, by selling particularly to the BRICS, but to others
+      too, was easily able in the first year to overcome the loss of whatever export
+      business they had in the United States, hampered by the tariffs, and more than
+      make it up by selling to the rest of the world. Alright, those are two key statistics
+      to measure the quote-unquote success of the economic policy of tariffs, which
+      was the number one activity of the last year. They failed. They failed to hurt
+      China and they failed to reshore manufacturing in the United States. Coldstone,
+      clear failure. And it ought to be on the forefront of conversation about the validity
+      of a policy that has that to confront. But instead, we have basically silence.
+      And it’s most important that the employer class of the United States, which put
+      Mr. Trump into office, has basically let us know they are so grateful for the
+      tax cuts he gave them. Remember, his priority act in his first presidency was
+      the tax cut of 2017, and his priority in office this last year was the so-called
+      big beautiful tax bill of March and April of the past year. So he took care of
+      his number one priority, the employer class. Everything else is a disaster. And
+      that’s who he serves. That’s what this is about. He’s taken care of them, and
+      that’s why they don’t oppose him. They may go on about civil liberties and civil
+      rights, but he has not yet caused enough civil conflict for them to say, hey,
+      he’s getting there. Minneapolis is a big step. But he’s not there yet. And we,
+      and Europe and the rest of the world have to face that. ⁣NIMA ALKHORSHID: Thank
+      you so much, Richard, Michael, for being with us today. Great pleasure, as always.
+      Transcription and Diarization: https://scripthub.dev/ Editing: Ton Yeh Review:
+      ced Photo by Shubham Dhage on Unsplash The post Crisis of the Empire first appeared
+      on Michael Hudson .'
+    one_sentence_summary: Nima Alkhorchid discusses his recent experiences in Iran,
+      highlighting the economic struggles due to currency collapse and U.S. manipulation,
+      while Michael Hudson reflects on the consistent military strategy of the U.S.
+      to harm civilian populations in various conflicts.
+    paragraph_summary: In a discussion on February 5, 2026, Nima Alkhorchid, alongside
+      Richard Wolff and Michael Hudson, reflects on the socio-economic turmoil in Iran,
+      where protests have erupted due to a collapsing currency and dissatisfaction with
+      the economy, exacerbated by U.S. interventions. Alkhorchid, who has returned to
+      Iran after 12 years, highlights the U.S. Treasury's acknowledgment of the situation,
+      while Hudson critiques U.S. military strategies that target civilians in hopes
+      of destabilizing regimes. He argues that such tactics have historically backfired,
+      leading to increased solidarity among the populace rather than a shift toward
+      pro-American leadership. Hudson concludes that the U.S. response, characterized
+      by escalating military actions, is unlikely to yield the desired outcomes, as
+      Iran has already demonstrated resilience against external pressures.
+    published: '2026-02-23T10:38:55+00:00'
+  - title: Crisis of the Empire
+    url: https://michael-hudson.com/2026/02/crisis-of-the-empire/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 5th, 2026, and
+      our dear friends, Richard Wolff and Michael Hudson, are here with us. You know
+      that I am right now in Iran. I’ve been in Iran almost 40 days to see, to experience
+      what’s going on. 12 years since I last came back. And you know, conflict after
+      conflict with the United States. It all started, Michael, with protests here in
+      Iran. The people were not happy with the way that the economy was working for
+      them. They were facing difficulties because the Iranian currency was collapsing.
+      The U.S. Treasury Secretary Scott Bessent came out and said that we have prepared
+      for this moment happening in Iran. When it comes to the United States, it was
+      amazing for me to see how it is possible for the United States to manipulate Iranian
+      currency that much. ⁣MICHAEL HUDSON: U.S. military strategy from the Korean War
+      to the war in Vietnam to the war in Ukraine and over Gaza has been the same. It’s
+      the belief that if you can hurt civilians enough, if you can ignore the basic
+      laws of international law of war and focus on attacking civilians, not military
+      sites, that that will lead civilians to abandon their support of the existing
+      regime and say, oh, we’ve got to elect a pro-American puppet who, because he’s
+      pro-American, will stop the United States from bombing us. This is the exact opposite
+      that has happened in every country throughout history. Countries rally around
+      the leadership of the country under attack. They blame the attackers. They don’t
+      blame the existing regime for being attacked, especially if the attacks are completely
+      predatory in character to put in place a system of economic and military dependence
+      on the regime. From the very beginning, the U.S. strategy has failed. And so what
+      can the U.S. do? All it can think of doing is bombing even more. But the problem
+      is that bombing doesn’t seem likely to have an effect because Iran has already
+      gone through all of the demonstrations that it needs to do from the first Israeli
+      attack in the 12-day war to the present. And it even showed its ability to send
+      warnings to U.S. troop formations throughout the Middle East: look, get your people
+      out of the way. We’re just going to show you that you have no defense against
+      our missiles. Kaboom. During the 12-day war, when responding to Israel’s attack,
+      again, they showed that Israel’s golden dome doesn’t work and that the U.S. defenses
+      don’t work and that Iran can penetrate them at will. This includes the potential
+      Iranian attack on aircraft carriers, other shipping, missiles, Israel as well
+      as throughout the Middle East. The United States cannot win any conflict without
+      such a concentrated missile attack on Iran that this is going to completely disrupt
+      and engulf the entire Middle East in war. And Iran will, number one, sink a ship
+      in the oil gulf, which is going to block the oil transport, vastly increasing
+      oil prices to the U.S. and throughout the world, and essentially wipe out the
+      Israeli economy. Well, the reports are that Saudi Arabia, UAE, Russia, everybody
+      has been warning the United States, you’re going to engulf the whole world in
+      chaos and you’re going to lose. Don’t do it. Today, on the New York Stock Exchange,
+      oil prices are going down. And that seems to be the belief of insiders that matters
+      are calming down on this talk scheduled for tomorrow in Oman. I really don’t see
+      that. Trump’s strategy has always been to make unrealistic, enormous demands on
+      other countries, just like Zelensky is making on Russia. Of course, these demands
+      can’t be met. And Trump imagines that these demands are going to somehow expand
+      the mind of the countries that he’s attacking. And then he can say, okay, let
+      me back down. Let’s compromise. Of course, the compromise is an unrealistic demand
+      that he’s making on Iran. Of course, Iran is not going to agree and has said it’s
+      not even going to discuss ending its atomic energy program. It will never discuss
+      even the thought of giving up all of its missiles so that Israel and America can
+      bomb it into submission. The one thing it can discuss is: well, we’re not really
+      prepared to make an atomic bomb yet. We’re not going to let your inspectors in
+      because your inspectors are spies for the United States and Israel. The inspectors
+      are telling the Americans exactly where to bomb and what to do. We’re going to
+      have honest inspectors. If you want to send, maybe we can arrange for Russian
+      inspectors. This is the only thing that they’re willing to talk about. That’s
+      not going to be enough for Trump. He’s surrounded by people who are encouraging
+      him to maybe miss a meal, get a little more dizzy, and just say, gee, don’t back
+      down, Mr. Trump. You know, you can do it. So my expectation is that against all
+      reasonability, the United States is going to try to attack Iran in some way and
+      then wing it. And the way it’ll attack it is the usual salami type tactics. It
+      will begin by a little bite here, a little bite there, just to probe Iran. The
+      question that I would have, and I bet your military advisors on your show are
+      going to have, is, at what point will Iran say a little attack is still an attack?
+      If you attack us, we’ll look at that as the preliminary big attack on us, and
+      we’re going to go kaboom from the start. I think that is probably its best defense.
+      ⁣NIMA ALKHORSHID: Yeah, actually, they’re talking that way right now, Michael:
+      any attack on Iran would be responded to by tremendous overwhelming attack on
+      all these assets of the United States in the region and Israel. That’s what I’m
+      hearing from the domestic media here. They’re all prepared to do it. I hope that
+      nothing would go in that direction because I don’t see anything good coming out
+      of this. Richard, your understanding. ⁣RICHARD WOLFF: If it’s correct that there’s
+      now another move to demand that Iran stop selling oil to China, then you put that
+      together with the embargo declared yesterday against allowing any Venezuelan oil
+      to go to China. Both Iran and Venezuela have supplied [most of its] oil to China
+      for quite a while. (Though China would not have much trouble replacing oil if
+      it faced an intervention in this way. Russia has virtually unlimited, and then
+      there are other parts of the world that will continue to sell to China.) But I
+      want to underscore a point that we have been making on your show for a while.
+      This is behavior that is desperate. It is desperate. It is behavior that, I think
+      Michael said, violates international law. Venezuela was not a threat to the United
+      States by any reasonable calculus, nor is Iran. International law specifically
+      says you cannot intervene in the life of another country because you don’t like
+      its economic system or its political system or how it treats its own people. Any
+      more than another country could say that the repression of black and brown people
+      in the United States is offensive. Yes, it is. But they don’t attack the United
+      States – partly, of course, because they don’t have the power. But it’s also the
+      law. I mean, that’s why the law was set up. That’s the same reason the League
+      of Nations was set up, and the United Nations was set up. All of the documents
+      founding these organizations, which the United States signed, prohibit what is
+      being done now. This is not to be attributed to Mr. Trump’s bizarre personality.
+      This is something that is being supported by the employer class of the United
+      States. They are not revolting against him. The working class is moving against
+      Mr. Trump. Absolutely. The general population, absolutely. We actually have general
+      strikes. We had one in Minneapolis over the last couple of weeks. It spread to
+      large parts of Minnesota. Over the last few days, unions around the country have
+      announced May 1st of this year will be a general strike. Yes, the first ones will
+      be spotty, they will be uneven. They always are. It’s an enormous step that there’s
+      even a conversation in this country about a general strike. But these are all
+      symptoms of desperation. And the real risk is that Mr. Trump and his advisors,
+      living in the bubble that they have created, are going to make one mistake along
+      the way, and then we will all suffer. That has happened before. Marx once wrote:
+      these things end up either in the end of one system and the transition to another,
+      or Marx’s phrase, the common ruin of the contending parties. Here we go. If we’re
+      to move forward, forward is not the United States, it’s China. It’s this mixed
+      system of the government and the private. Not that that’s the end of history.
+      It isn’t. History will continue. What is going on in China will give way to new
+      and different things in China, of course. But the United States is the desperate
+      one. China is not intervening in global trade. China has countries around the
+      world with which its leadership disagrees on very fundamental things. But they
+      are not behaving in the way that the United States is. The United States is aggressive.
+      The United States violates the law left and right. I want to remind everyone,
+      because I don’t think it ever has gotten the attention it should have. For the
+      last five months, Mr. Trump and his advisors, with virtually no opposition in
+      the United States, have been killing fishermen in boats in the Caribbean Sea and
+      on the Pacific side of Latin America. These are people who were treated in a different
+      way before. The United States Navy would have reason to suspect a boat. It would
+      demand to be able to inspect the boat. U.S. naval personnel would go on the boat.
+      If it was carrying contraband, illegal stuff, the people would be arrested, taken
+      back to their country, the contraband confiscated. Suddenly, all of that is short-circuited.
+      We don’t board the ship. We don’t inspect it. We don’t ask any questions. We provide
+      these people with no lawyer. There is no trial. There is no judge. Mr. Trump executes
+      them one after the other. I believe it’s over 100. Latest count. 100 people, dead
+      people. There are even lawsuits by the family surviving these dead fishermen suing
+      the United States for killing the husband or the father. That this happens is
+      extraordinary. That it is happening over five months is more extraordinary. And
+      there’s no real opposition. I don’t know what to say. What’s going on? And I want
+      to make sure people understand, including the leadership in Iran, you’re dealing
+      with people who are prepared to do this, who have been doing it, and who have
+      no doubt been interpreting the absence of serious opposition as a license to do
+      more of this. Having said that, there’s nothing more I can say. It sits there
+      as a screaming statement about something. Then, when you add the killing of Renee
+      Good and Mr. Pretti in Minneapolis, and you read the explosion of the Epstein
+      files indicating what kind of human beings have been collected in the White House
+      to run society… Well, yeah, you can tell yourself all kinds of stories, but I
+      think the only one that holds any water is the story that we’re coming to the
+      end of a system because this is extraordinary behavior that can’t go forward.
+      We can’t. Otherwise, we are simply heading to World War III. We will have learned
+      nothing from the two horrible wars of the 20th century, and we’re going to have
+      one more. I want to remind people, the two wars of the 20th century were the end
+      of the British Empire. Two-thirds finished in the First World War, and the remaining
+      third wiped out by the second. And it gave a boost to socialism, which is still
+      more than the West can handle. It would be very naive not to think of what this
+      means in terms of the future. The people of China and India together have 10 times
+      the population of the United States. At a certain point, given the balance of
+      nuclear weapons, this fact alone makes it absurd. It is a mouse brandishing its
+      little sword against an elephant. And the elephant will win this game. And that
+      ought to teach people a lesson. And when it doesn’t, I think we all have to draw
+      the conclusion. ⁣MICHAEL HUDSON: Well, Richard, you’ve made two points about the
+      system that’s coming to an end. The first point you made was that interference
+      with foreign countries is against all international law, going from the Treaty
+      of Westphalia in 1648 to the United Nations. The second point that you rightly
+      emphasize is that the attack on the fishermen and boats in Venezuelan waters –
+      some from Trinidad, not even Venezuelan – is also a violation of the international
+      law of war. In addition to attacking these boats without probable cause and with
+      their being basically civilians and not military, there’s a law against camouflaging
+      warplanes as civilian craft. And that’s being done. These are criminal acts of
+      war. Yet no country has dared to risk U.S. retaliation by challenging this in
+      the International Criminal Court, unlike the case with Israel’s attack on Gaza.
+      Trump’s demands on Iran are a violation of the UN Charter. And perhaps the countries
+      that are most affected by, immediately affected by any war in the Near East are
+      going to be Saudi Arabia and the UAE and the other Near Eastern neighbors that
+      have American military bases there. So perhaps instead of telling Trump simply
+      “look, we’re going to warn you, don’t go to war against someone bigger than you”,
+      they should say this: We will join a case with Iran before the International Criminal
+      Court to accuse you, Trump, of being a war criminal, so that you cannot go to
+      any of these countries without being arrested. And we will add Bessent, and we
+      will add your cabinet, who are the responsible members for this. This will be
+      a very public accusation that far from deserving a Nobel Peace Prize, you’re a
+      war criminal by what you’re doing. And we’re going to apply the laws of war against
+      you because it’s illegal. Otherwise, if they don’t do that, then what Richard
+      just said, a system is coming to an end. And it’s a system of international law
+      that was the whole spirit of Western civilization, trying to prevent war. And
+      if there has to be a war, prevent attacks on civilians, which is just happening.
+      I’m sure there can be, especially from the Iranian leaders themselves, a statement
+      that this is not only a principle of Islamic law, but it’s written into all of
+      the United Nations bodies of law and the International Criminal Court. The question
+      is, the United States, in addition to violating the Constitution as it’s doing
+      in Minneapolis as Richard has described, is violating the whole principle that
+      was supposed to underlie Western civilization. This can be escalated into a civilizational
+      legal fight, which for Trump is a public relations fight, and that’s the fight
+      in which he lives. ⁣RICHARD WOLFF: Let me expand in two other ways on this. One
+      about Mr. Trump and the domestic reflection of all of this, and the other one
+      about Europe, because we’ve also had conversations about the peculiar position
+      of Europe and its relevance here. But first, domestically. Over the last week,
+      Mr. Trump made a comment that suggested that we’re not going to have a midterm
+      election in November, or that we don’t need such elections, or that the Republicans
+      or the federal government will take over some or all of the elections. Again,
+      this is an extraordinary departure. The Constitution gives the states control
+      of the election process. He would have to take it away from the states and make
+      it a federal responsibility and give it to one of the two major parties, which
+      would violate everything. The press asked follow-up questions, and his spokesperson,
+      a woman named Levitt, explained that the press had misunderstood Mr. Trump was
+      joking. Now, no one believes that, but she tried. He then followed up by explaining
+      in the next press conference that he was not joking. In other words, he contradicted
+      his own spokesperson on that point. He wasn’t joking. The disregard for international
+      law, the aggressive action towards other countries that pose no credible threat
+      against the United States, et cetera, et cetera. If we let it go, it will mean
+      that the United States can say whatever it wants about any country in the world,
+      that it is engaged in drug trafficking. Most countries in some way are. It’s an
+      international business. So then the world will be under the gun of a perpetual
+      threat from the United States militarily, the way it already is in terms of tariffs.
+      This is not a tolerable arrangement for the whole rest of the world. It requires
+      the rest of the world to live in a state approaching the anxiety that Iran has
+      now had to live with for God knows how long. And now Europe. The Europeans are
+      also confronting, if I can borrow a term from the religious folks, the end times.
+      What do I mean? Europe is fading into insignificance. It is now the afterthought
+      to a world economy in which the United States on the one hand, China and the BRICS
+      on the other hand, are the great power economic centers of the world economy.
+      And they look like they’re going to be that for the next little while at least.
+      There is nothing that Europe can say or do unless it achieves two things, which
+      it has to achieve. Now that the United States is not only not protecting them,
+      but assaulting them, demanding tribute from them – what von der Leyen promised,
+      700 billion in energy purchases, another 700 billion in quote-unquote investments,
+      that’s tribute, not different from anything we have seen historically when a dominant
+      power demands tribute from subordinate powers… Okay, the only way they can escape
+      the inevitable subordination that they’ve just agreed to, and they know this,
+      is if they do two things. Number one, develop their own military defensive capability,
+      which will cost them a fortune for the next 10 years. And the second thing, just
+      as important and just as expensive, is they have to invest in catching up to the
+      modern technology that has advanced in the United States and advanced in China
+      and not in Europe. I mean, everything having to do with high-tech computers, artificial
+      intelligence, all of that, where Europe is a spectator, looking rather like Asia,
+      Africa, and Latin America, minus, of course, China in Asia. Alright, these are
+      two enormous expenditures over the next 10 years, create a military and do this
+      kind of investing to catch up technologically, to do what China has done. The
+      only way they can pay for that, the only way, if they can overcome their political
+      stasis, if they can overcome the fact that all these little countries have a hard
+      time agreeing with each other on anything. Look, for example, at how they can’t
+      agree on using the seized Russian assets as collateral for the loan to Ukraine.
+      They can’t get it done. Now at least half a dozen countries, even more, are opposed
+      to it, more joining them. Let’s assume they can get all that done. Let’s get to
+      the economics. In order to find the money to build up their military on the one
+      hand and to catch up technologically on the other, they are going to have to savagely
+      cut their social welfare program. They are going to have to find the money that
+      way. And we know that’s what they’re going to try to do because that’s who they
+      are. They are not going to go to the ruling class and savagely tax them, right?
+      That’s not who they are. They’ve never done that. They’re not going to do it now,
+      especially not these center-right governments, which are the majority in Europe,
+      the overwhelming majority. Now that explains to us what we haven’t quite explained
+      up until now. How in the world will these people be able to avoid their perpetual
+      subordination to the United States, to become for the United States what Latin
+      America already is, to descend to that level? They have to move that money away
+      from social welfare. And with their well-developed labor unions and their well-developed
+      anti-capitalist political parties, how are they in the world going to get that
+      done? Answer. The only hope they have is the demonization of Russia. Now we understand.
+      If you can convince the mass or at least a significant proportion of your people
+      that there is an imminent danger that the Russians are going to occupy Copenhagen
+      any day now, maybe then. Maybe then you can get the consensus to destroy the social
+      welfare system, all in the name of defending against Russia. The absurd hysteria.
+      And for those of you that are not familiar, the foreign minister of the EU, Kallas:
+      watch her, listen to her, because out of her mouth comes the hysteria. I’m sure
+      she doesn’t understand why she’s hysterical or how she’s hysterical, but you will
+      get from her, and she was chosen, and she’s allowed to continue because this fomenting
+      of hysteria is their only hope. And it’s a long shot. I don’t think it will work
+      at all, but it shows you that they have a kind of desperation of their situation
+      that matches, although for different reasons and in a different way, the desperation
+      of the United States. If you put the two together, it’s the desperation of the
+      West. It’s the decline of the West. And that’s the real historic moment we are
+      living through. ⁣MICHAEL HUDSON: Well, this desperation will be a catalyst. You’ve
+      just seen Germany come out with its annual report on the future. It’s announced
+      that the German economy industry has not grown since 2020 with the COVID epidemic.
+      The European economy does not have the resources to grow much, not only to continue
+      providing the social services of social democracy that was supposed to be the
+      characteristic of Western Europe, but the military. This is forcing them to try
+      to decide: can we really afford to commit economic suicide and support the militarization,
+      which in the first draft of the militarization means Europe is going to spend
+      all of its economic surplus, its export and trade surplus on buying American arms
+      that are necessary to protect it from this fictitious Russian threat that you’ve
+      talked about. And the fact is, even its military is unable to grow because the
+      military, like industry, requires technology. And the fact is that now we’re seeing
+      in the United States a whole economic fight and a collapse of the technology stocks
+      in today, yesterday, the last few stock markets, because they realize that technology
+      is electricity and electricity is energy. Trump has put a complete block on installing
+      energy in the form of wind energy and solar energy. He made a speech saying that
+      China exports all of these gigantic windmill blades, but it doesn’t have any windmills
+      at all. Actually, China has more windmills and wind energy than all the other
+      countries put together. It’s been putting them in the Gobi Desert, it’s been putting
+      them elsewhere. This wind energy is supplying a vast support for its information
+      technology and automatic intelligence industries. Likewise, China’s taken the
+      lead in solar energy. And again, it can put this in the Gobi Desert and other
+      rural areas. It can put them on urban areas. Trump has said we cannot have any
+      energy that is not oil-based, because as we’ve discussed before here, oil is how
+      the United States has been able to control the world’s energy trade for the last
+      100 years in alliance with Britain. So you’re having the United States without
+      energy, and Europe has made the fateful decision that it is worth destroying our
+      economy to exult in our hatred of Russia, a racist hatred, a hatred against the
+      Slavic population, a desire that we must break Russia up into five territories
+      so that it cannot defend Europe against the yellow peril i.e. China which the
+      U.S. strategists have also outlined plans to break up. This is widely discussed,
+      I can assure you, in China and Russia. And it’s all publicly available in the
+      United States. How can the United States grow and achieve the one thing that it
+      hopes to consolidate its economic power: monopolizing information technology,
+      computer chips, with 40% of the Taiwanese computer chip company moving to the
+      United States and building the factory right now in Arizona? How can it do this
+      if there’s no energy? Electricity prices in the United States have already gone
+      up 12% in the last year, as they have in Europe. If you have this enormous growth
+      in electricity going to finance automatic intelligence (I like to say automatic
+      instead of artificial because it’s really just mechanized) how on earth are people
+      going to continue to afford to light and heat their homes with gas and electric
+      power? You cannot have both. Also, in the United States, it takes about 10 years
+      to go through all of the approvals and basics for creating an electric utility.
+      The electricity isn’t there. And without electricity, how can they really have
+      an industrial power to support a military power unless they cut back almost all
+      civilian industrial consumption? The same thing happens to Europe. They’re forced
+      into a choice. What have you seen in the last few weeks? You’ve seen first of
+      all America’s closest ally, Canada, send its Prime Minister Carney to China to
+      negotiate trade with it and open trade with it, including auto trade, to import
+      Chinese electric vehicles. There goes Elon Musk’s hope for billions of dollars
+      from his electric plan. Now you’ve even had America’s second puppet, Starmer of
+      Britain. Before he’s forced to resign, he went to China to negotiate something
+      similar. How long will it be before continental Europe makes the same decision
+      that we cannot afford to pay the tribute that the United States demands and finance
+      not only our military buildup, but continue to agree to the American sanctions
+      against trade and investment with Russia and China? No more energy. We will not
+      import energy from Russia, and we will not permit any Chinese company to own majority
+      ownership of any firm in Europe because we’re in a race war with them. And you’ve
+      seen what’s happened with Nexperium already in Holland creating a crisis in auto-battery
+      manufacturers. The only thing that Europe has done so far is: well, we can do
+      just what Trump wants to do in the United States by controlling the elections.
+      We can fake the elections in Romania. We can ban the Alternative für Deutschland
+      in Germany. We can ban the nationalistic parties. We can ban anyone who does not
+      want to be part of this Cold War and is not willing to sacrifice their living
+      standards, to sacrifice their industry in order for us to continue to act as puppets
+      of NATO and the American military. How long can this possibly last without somehow
+      the people breaking through and say, we actually want elections? We want an open
+      discussion. We don’t want the same constraints on free speech that America has
+      been imposing. This is getting to, again, as the Americans like to say, a civilizational
+      conflict. It’s a conflict of economic systems. It’s not simply a conflict between
+      America and China alongside Russia. It’s a conflict of what shape the world society
+      and international law is going to be. And that’s why I think the one way in which
+      other countries can stop it is not simply in the material sense of developing
+      its own industrial independence, but through international law. Now, obviously,
+      the United States will try to veto any such thing within the United Nations and
+      say we will block any UN law that seeks to support the UN Charter. Well, at that
+      point, the UN is defunct, and it’s already announced that by August, it’s going
+      to run out of money and cannot afford to support its New York headquarters anymore.
+      I guess Trump is going to make the UN into a huge new Trump Plaza 2 and will do
+      it. But where is the United Nations going to move to? I think that should be brought
+      into public discussion. What’s an appropriate country for the United Nations?
+      Will it be Singapore or Malaysia or somebody? Can’t be one of the leading powers.
+      It has to be some neutral country. I think you have to escalate the context for
+      what this fight is all about. And I guess that’s what we’ve been talking about
+      on your show for the last year, Nima. ⁣RICHARD WOLFF: You know, I read an account
+      a few days ago that over the last year, or maybe even for a longer period, but
+      at least the last year, discussions were held between high officials of the United
+      States and the leadership of the Mercedes-Benz Corporation in Germany. And the
+      topic of discussion was moving the Mercedes-Benz Corporation headquarters and
+      leadership from Germany to the United States. Okay, I understand, at least for
+      the moment, that’s not going to happen. But the important thing is that it did
+      already happen: that the German car maker could seriously contemplate it. You
+      know, it’s been around Germany for, I don’t know, at least a century because it
+      existed in some corporate form even before the automobile. I think they made coaches
+      or other kinds of ways of carrying freight or carrying people. Look at what that
+      means. That means other major German corporations were having such conversations,
+      but were able to keep them secret. And that means that the government of Germany
+      had to promise them something so they wouldn’t go. And I spent the last 10 minutes
+      in my speech a few moments ago trying to get across what must have been. I wasn’t
+      there, obviously, but what must have been promised? A military buildup and a vast
+      investment in support of modern technology so that they would get the support.
+      As Michael has said on many occasions, a modern military requires a fairly sophisticated
+      technological, but also manufacturing base. The United States is discovering that
+      its military capabilities are hamstrung because it let its manufacturing base
+      be exported. It has the technology, but not the manufacturing. In the Ukraine
+      war, at a certain point, Ukraine ran out of artillery shells. The Europeans had
+      none left, and the Americans had used up so many that they had to keep the rest
+      here for domestic purposes. Whoa, you ran out? Yeah, and it takes a year to develop
+      the capability of producing them at the kind of rate one now needs. I want to
+      remind people: Russia has a GDP in the neighborhood of two or three trillion dollars.
+      That’s our adversary in the Ukraine. On the other side is the United States with
+      a GDP in the neighborhood of $28, $29 trillion, allied with Britain, France, and
+      Germany, which add another $10 trillion. A $37 trillion economy on one side, and
+      Russia, $2 trillion on the other. This is a fight between David and Goliath, and
+      it doesn’t change that much, even with the ally Russia has in China. Look at what
+      it means. It kept most of it. It kept particularly that part of it that fuels
+      their military. And they have their alliance with China. But the lesson there
+      is obvious, and the Europeans know it. You’re going to have to spend a fortune
+      not to become Panama or Colombia or Paraguay. You’re going to have to spend a
+      fortune on the military, a fortune on technology, and I haven’t even gone into
+      rebuilding your manufacturing sector because it’s been pretty much hollowed out
+      in Europe the way it has here. And that’s the end of everything else that they’re
+      going to do. And that’s probably what they are promising their companies so that
+      they don’t leave and relocate to Ohio. ⁣MICHAEL HUDSON: You mentioned artillery
+      shells and bullets. The price of copper, which is what they’re made out of, has
+      been soaring as much as the price of gold and silver has. During the Vietnam War,
+      I was watching the copper market very closely. Every soldier in Vietnam used one
+      ton of copper per year for the bullets. The American policy was to saturate the
+      entire air with bullets and artillery shells, and that’s how we’re going to win.
+      Well, of course, that was against the rules of law of war. You’re not allowed
+      to attack civilians, but that’s the American philosophy. Now the Americans and
+      Europeans, as you pointed out, are out of shells. That means they’re out of copper.
+      And if you use copper for armaments and military, how are you going to use it
+      for the wiring that you’re going to need for all of this electricity that you’re
+      going to need to participate in the new information technology and artificial
+      intelligence that has all been planned as the leading edge of the new technology?
+      As I said earlier, if you look at the stock market crash in the Golden Seven technology
+      stocks, people are realizing when they do the calculations what is necessary for
+      this technology actually to take off. More electricity than the world is capable
+      of producing at the present time. Something has to give. Well, something also
+      has to give in the form of war. As Richard and I have said on a number of shows,
+      the thought of foreign countries being able to send their industry to the United
+      States is a fiction because of Trump’s tariff policies. Trump has led the destruction
+      of the U.S. economy. If you look at what has happened to industrial production
+      and employment since he took over, it has been straight down, in a not quite vertical
+      but a straight downward flow, because the tariffs have put out of business. A
+      lot of the small industrial companies and now increasingly the large industrial
+      users of copper, energy, steel, anything that’s imported and subject to the 50%
+      tariffs on steel and other items, aluminum, have all cut back. So that however
+      bad the situation in Europe appears, it’s not as bad as what Trump is doing to
+      the United States with his tariff policy and his pro-oil policy, his anti-solar
+      energy and anti-wind energy policies and the associated destruction that he’s
+      causing on the U.S. economy. This is what’s so ironic. As I’ve said before, Richard
+      and I have the approach: aren’t countries going to act in their economic self-interest
+      ultimately? Isn’t material prosperity the driving fact? Well, the Roman Empire
+      collapsed and it didn’t put it first. And the British let their empire go, and
+      the Americans are doing the same thing. It doesn’t make sense if you look at it
+      in terms of national self-interest. Trump doesn’t put America first. He puts his
+      campaign contributors first. And the people who pay the industries or sectors
+      that pay the most for the campaign contributions or by Trump’s crypto energy fund
+      are the people who are the most corrupt, inefficient, and who need special government
+      favoritism against the naturally more productive and better situated winners.
+      Trump has pledged to let the overthrowers of the U.S. economy have precedence
+      and outline his tariff policies and the other policies. And this is economic suicide
+      for the United States. And Europe doesn’t have to go through this. And obviously,
+      the other countries, increasingly countries who are joining BRICS, don’t. I think,
+      as I started off with Mark Carney’s visit to China and Starmer’s visit to China,
+      it cannot be long before the rest of the western European countries are doing
+      the same. And one would hope that that may lead to a dissolving of this anti-Russian
+      feeling. You could say, NATO has destroyed itself by absorbing the Baltic countries
+      and the Central European countries that were indeed occupied by the Soviet Union.
+      And it’s not only Estonia, it’s Latvia, where I spent quite a bit of time, Lithuania.
+      There’s a real hatred and resentment for the occupation there, just as there has
+      been in East Germany. It was a trauma for them. Europe further west was not traumatized
+      by that, but U.S. pressure has forced NATO to put the most traumatized anti-Russian
+      countries in control of EU policy. And that’s suicidal too. What’s at issue if
+      withdrawing from the American Cold War is withdrawing from NATO and NATO’s control
+      over the EU. And that requires a transition, dissolving the EU itself as a transition
+      to somehow putting it together as some country or continent that will act in its
+      own self-interest. So far, there’s only discussion. There’s nothing more. This
+      is something that’s going to take decades, to overcome the legacy of letting the
+      United States design the post-World War II economic order and make it into a Cold
+      War opposing every principle of international law and the laws of war that it
+      ostensibly stood for. ⁣RICHARD WOLFF: Let me add two little statistics that I
+      think shed light on yet another dimension. What Trump is doing is strange. I think
+      it’s the desperate behavior of a declining empire. We’ve made that argument. But
+      I also think it doesn’t work, which is going to be a real crisis for them. And
+      here are two statistics. I asked myself, because I had to give another interview,
+      how many of those manufacturing jobs that were going to be, quote-unquote, re-shored,
+      that is, brought back to the United States? Remember, a major argument for tariffs
+      was that because you put a tax on an import, you therefore create the incentive
+      for the factory that makes that import to come inside the United States, because
+      then it can produce and sell without the tariff. Here is the statistic over the
+      last 10 months or 11 months that Mr. Trump has been a president. Manufacturing
+      jobs in the United States have declined by 70,000. That’s the number given out
+      by the United States government. So it is a complete failure. Not only did we
+      not see the promised explosion of jobs coming home, we actually saw a continuation
+      of a long historical decline of American manufacturing. Second statistic: the
+      tariffs put on China – which are still there, they’re not as high as they once
+      were, but they’re still there – did have the effect of reducing the flow of Chinese
+      exports into the United States during 2025. However, Chinese exports to the rest
+      of the world hit a new record, over a trillion dollars for the first time. Because
+      it turns out the Chinese, by selling particularly to the BRICS, but to others
+      too, was easily able in the first year to overcome the loss of whatever export
+      business they had in the United States, hampered by the tariffs, and more than
+      make it up by selling to the rest of the world. Alright, those are two key statistics
+      to measure the quote-unquote success of the economic policy of tariffs, which
+      was the number one activity of the last year. They failed. They failed to hurt
+      China and they failed to reshore manufacturing in the United States. Coldstone,
+      clear failure. And it ought to be on the forefront of conversation about the validity
+      of a policy that has that to confront. But instead, we have basically silence.
+      And it’s most important that the employer class of the United States, which put
+      Mr. Trump into office, has basically let us know they are so grateful for the
+      tax cuts he gave them. Remember, his priority act in his first presidency was
+      the tax cut of 2017, and his priority in office this last year was the so-called
+      big beautiful tax bill of March and April of the past year. So he took care of
+      his number one priority, the employer class. Everything else is a disaster. And
+      that’s who he serves. That’s what this is about. He’s taken care of them, and
+      that’s why they don’t oppose him. They may go on about civil liberties and civil
+      rights, but he has not yet caused enough civil conflict for them to say, hey,
+      he’s getting there. Minneapolis is a big step. But he’s not there yet. And we,
+      and Europe and the rest of the world have to face that. ⁣NIMA ALKHORSHID: Thank
+      you so much, Richard, Michael, for being with us today. Great pleasure, as always.
+      Transcription and Diarization: https://scripthub.dev/ Editing: Ton Yeh Review:
+      ced Photo by Shubham Dhage on Unsplash The post Crisis of the Empire first appeared
+      on Michael Hudson .'
+    one_sentence_summary: Nima Alkhorchid discusses his recent experiences in Iran,
+      highlighting the economic struggles due to currency collapse and U.S. manipulation,
+      while Michael Hudson reflects on the consistent military strategy of the U.S.
+      to harm civilian populations in various conflicts.
+    paragraph_summary: In a discussion on February 5, 2026, Nima Alkhorchid, alongside
+      Richard Wolff and Michael Hudson, reflects on the socio-economic turmoil in Iran,
+      where protests have erupted due to a collapsing currency and dissatisfaction with
+      the economy, exacerbated by U.S. interventions. Alkhorchid, who has returned to
+      Iran after 12 years, highlights the U.S. Treasury's acknowledgment of the situation,
+      while Hudson critiques U.S. military strategies that target civilians in hopes
+      of destabilizing regimes. He argues that such tactics have historically backfired,
+      leading to increased solidarity among the populace rather than a shift toward
+      pro-American leadership. Hudson concludes that the U.S. response, characterized
+      by escalating military actions, is unlikely to yield the desired outcomes, as
+      Iran has already demonstrated resilience against external pressures.
+    published: '2026-02-23T10:38:55+00:00'
+  - title: 'The New Civilizational Divide: Rentier Empire vs Productive Economy'
+    url: https://michael-hudson.com/2026/02/the-new-civilizational-divide-rentier-empire-vs-productive-economy/
+    text: '⁣GLENN DIESEN: Welcome back. We are joined today by Professor Michael Hudson
+      to discuss the direction of civilization. So thank you very much for coming back
+      on. ⁣MICHAEL HUDSON: Well, thanks for having me again, Glenn. ⁣GLENN DIESEN: So
+      I’m thinking when we assess the economic, political, and social condition today,
+      I can’t help but feel that we’re no longer at the peak of civilization. And you,
+      of course, have written a book in the past with the title The Destiny of Civilization:
+      Finance, Capitalism, Industrial Capitalism, or Socialism . And I’m thinking there
+      must be a lot of new material for your book now if you wanted to do a remake.
+      But I thought overall a good place that we could start is how do you link the
+      economic system to the rise and fall of civilization? And what are the economic
+      indicators of civilizational decline? ⁣MICHAEL HUDSON: Well, I’m not going to
+      write a remake, but I will make a sequel. And the sequel goes back in time to
+      really review what classical political economy was all about and why classical
+      economics was really the plan for industrial capitalism. And so I have to review
+      some economic theory here because there is a great difference between the decline
+      of an economy or an economic system as we’re seeing today and the decline of a
+      whole civilization. Even though there’s called as a civilizational conflict between
+      today’s finance, rentier capitalism in the West and the industrial capitalism
+      with Chinese characteristics, which is amazingly like the American protectionist
+      characteristics and the British characteristics under David Ricardo and John Stuart
+      Mill and the German characteristics. All of the industrial societies and the whole
+      takeoff of what we think of as our civilization is actually a transformation of
+      the economy itself. And the takeoff of industrial capitalism was really in Britain.
+      And I think if we look at what they thought the course of industrial capitalism
+      and the civilization and the world that they were going to dominate was all about,
+      that’ll set the stage for what went wrong and why haven’t we achieved what all
+      of the classical economists were expecting for industrial capitalism to develop
+      a mixed economy, public, private, with rising government spending on infrastructure
+      to keep the cost low, and especially to do the one thing that was revolutionary
+      in industrial capitalism. And that was to get free of feudalism and get free of
+      the legacies of feudalism. And the major legacy was the hereditary landlord class
+      that still dominated the House of Lords and wanted to protect the land rents of
+      the landed aristocracy, mainly in their agricultural lands. Real estate rents
+      and housing rents hadn’t really taken off yet, but the big problem that faced
+      Britain was how to feed the population in the face of this protectionist landlord
+      class. And Ricardo in 1817 explained what threatened to block the takeoff of British
+      industry, and at least to bring its expansion to a halt, was the need to employ
+      labor to produce commodities, to sell at a markup. And ultimately, the end of
+      these, most of these products, according to Ricardo, as labor theory of value,
+      the price and value of them was reducible to labor. And that included the labor
+      that was embodied in the machinery that industrialists used, as well as to produce
+      the food and the other products that labor had to pay for out of its wages. Well,
+      employers had to pay high enough wages to cover the cost of subsistence. And because
+      well-educated and well-clothed and healthy labor that was well-fed was more productive,
+      these costs had to be covered by the employer. Well, the aim of the industrial
+      capitalist, therefore, was to reduce the costs of consumption needed by labor
+      in order for employers to hire it. And the most pressing cost of his day, certainly
+      the most pressing rising cost of Ricardo’s day, was the rising price of food that
+      resulted from the Corn Laws, the tariffs on food imports that prevented free trade
+      in food. Britain in 1815 had emerged from the Napoleonic Wars that had isolated
+      Britain. And as a result, Britain had to depend on its own landlords, its own
+      land to feed itself. And as soon as foreign trade began after the return to peace,
+      the landlord said, well, our rents are going down. You have to protect them by
+      imposing tariffs on them. And that prevented British employers from being able
+      to import lower-priced food to feed their labor so that they didn’t have to pay
+      such high wages. [When I say this], I think of the parallels with the modern economy,
+      which I’ll get into. The landlords demanded land rent. And so the fight for 30
+      years from 1815 to the repeal of the Corn Laws in 1846 was for free trade. And
+      the fight for free trade, that was the first step in overcoming the landlord’s
+      resistance, saying the economy for us is all about land rent, not for industrial
+      profits. We don’t care about industry, we just want our rents. And Ricardo gave
+      the explanation for what would happen if you lent, if you permitted the economy
+      to turn into a rentier economy, paying its rents to landlords, first for food,
+      and in time for housing, for land rents for housing. And later economists of the
+      19th century said, well, it’s the same thing with monopoly rents. We don’t want
+      monopolies because that’ll increase the cost of living and doing business. And
+      then finally, at the end, they said, well, you know, the biggest payment of rent,
+      rentier income at all, is to the creditors, to the bankers, and the bondholders
+      in the form of interest and financial fees. And so, the role of industrial capitalism
+      in all these countries was to minimize these three classes: the landlord and raw
+      materials-producing owning classes, the monopolists and the banking classes. And
+      that’s what made industrial capitalism so successful in countries that were undergoing
+      these reforms. Because in countries that didn’t have the reforms, because the
+      landlords were powerful enough to block free trade, to block taxation of their
+      rental income, and to block governments from minimizing rents to streamline the
+      economies and cut the costs of living and doing business, they were going to be
+      left behind. So, what Ricardo did was formulate classical value theory, which
+      said value is produced by labor, and the, but prices don’t reflect this value.
+      Prices are much higher than this value, and the excess of prices over value was
+      economic rent. And that rent is unearned income. John Stuart Mill said that landlords
+      collect rents and also the rising prices for their land in their sleep. So every
+      economy, as viewed by the classical economists, was divided into two parts. There
+      was a production part of the economy, and then there was a rentier part of the
+      economy, the property relations and credit relations and rent relations that were
+      superimposed on the productive economy as an economic overhead. And the idea of
+      the industrial economy was to bring prices in line with the actual cost value
+      as little as possible. And that was what was going to make economies more successful
+      and make industrial capitalism so much more powerful. Well, if the Corn Laws continued
+      to block lower priced imports, that was going to keep food prices up and hence
+      the subsistence wage, and that would discourage new investment. [And landlords
+      waged] a huge campaign. They lost. And Ricardo said that would bring capital accumulation
+      to an end. And he wrote, “capital can then not yield any profit whatsoever, and
+      no additional labor can be demanded. And consequently, population will have reached
+      its highest point. Long indeed before this period this very low rate of profits
+      will have arrested all accumulation, and almost the whole produce of the country,
+      after paying the laborers, will be the property of the owners of land and the
+      receivers of tithes and taxes.” And the taxes were mainly to pay financial charges.
+      [The chart bellow] will show how the economy will grow, but as rent takes more
+      and more, the profit will fall to a point where it’s utterly extinguished. And
+      without profits, there’s no incentive for industrialists to invest. And Ricardo
+      wrote all this in his chapter on profits, in his book on The Principles of Political
+      Economy and Taxation . And in the Destiny of Civilization , I discuss in more
+      detail the reform program of industrial capitalism. And the point of writing my
+      book on civilization is there are two kinds of economies. We’re no longer in an
+      industrial capitalist economy. And most people call our economy capitalist, but
+      it’s not the industrial capitalism that was discussed in the 19th century or what
+      Marx meant in Capital or what Werner Sombart meant when he coined the word capitalism
+      in the 1920s. It’s finance capitalism. And the financial sector now backs the
+      monopoly interests and the rentier interests and the real estate interests. And
+      you’ve had land no longer belonging to a hereditary monopoly. Anybody can buy
+      a house or a commercial building, but they have to go into debt to do it. And
+      the land rent is all paid to the banker, not to a landlord class anymore. And
+      over the course of, say, the 30-year mortgage that was standardized after World
+      War II and created the American middle class, the banker actually got more money
+      in the form of interest than the seller of a house or a commercial property building
+      got. So you have the price of housing, or whether you rent it or whether you buy
+      it, that employees have to pay in the United States and Europe has to be high
+      enough to cover the costs of paying interest and fees to the banks. And you have,
+      if you look at both the European economy and the American economy, what they call
+      gross national product seems to be growing, but almost all this growth in gross
+      national product is rentier income. Interest is charged as providing a service.
+      And late fees for banks, for credit cards that are higher than the interest rates
+      charged, are providing a service and monopoly prices are all included in GDP.
+      And so there’s very less of product in gross domestic product and more and more
+      of economic overhead. Well, how did this come about? By the late 19th century,
+      the landlords and especially the financial classes fought back against classical
+      economics. And classical economics was the ideology of industrial capitalism.
+      Free economies from rent. A free market was a market free from rent. And the reaction
+      in the United States, it was led by John Bates Clark. In Europe, it was led by
+      the Austrian school of anti-government, anti-socialist economists. In Britain,
+      it was led by the utilitarian theorists that said, well, there’s no difference
+      between price and value. A price is whatever utility consumers are going to pay.
+      They used a circular reasoning for all this. So I think I had my next book that
+      I’m working on now has to take a step back and say, how do you think about an
+      economy and how it works? And that is the key to understand why this fight between
+      the West, America and Europe, looks at China and Asia and other countries that
+      are following this original plan of free market classical economists as civilizational,
+      because they look at the rentier interests, the interests of bankers and bondholders,
+      the interests of landlords, and the interests of monopolists. For them, this is
+      civilization. And for the whole takeoff of individualism and free markets in the
+      19th century, Adam Smith, John Stuart Mill, and what became the whole socialist
+      movement and social democratic movement that was backed by the American industrialists
+      and the conservative parties in England, they said, well, we all want to make
+      our economies more productive and we have to get rid of classes that collect income
+      without adding to production, without working, that make money in their sleep.
+      So there’s this fundamental distinction between earned and unearned income, a
+      productive sector and an overhead sector. And none of that occurs, is taught in
+      today’s economics curriculum. The fight by the finance and real estate sector,
+      mainly together, says there’s no such thing as economic rent. There’s no unearned
+      income. And they’ve used the rental income that they have and all of the debt-financed
+      capital gains from real estate and from their investment in corporations to buy
+      control of the political process and to privatize it. And since the 1980s, especially,
+      from Margaret Thatcher in England to Ronald Reagan in the United States to the
+      social democratic parties of Europe, you’ve had a movement towards privatizing
+      public infrastructure, saying, well, private managers can do a much better job.
+      So let’s privatize the water system. Let’s sell Britain’s water to Thames Water
+      Company. Private enterprise can certainly be much more efficient and less bureaucratic.
+      Let’s have British railroads, in turn, privatized. That’s certainly going to be
+      more efficient. Well, you’ve now seen water prices go way up for British consumers
+      and industry. You’ve seen railroad prices go way out, and they’re not serving
+      suburbs like they were before. The bus company that was public was privatized,
+      and to make more money, it just cut back the routes to places that had low ridership
+      further out from London. You have the whole thing free in Europe. Well, what do
+      we have today that’s the equivalent of the high price of corn and meaning grain,
+      for England? The equivalent today would be energy because every industry needs
+      energy, houses need electricity for heating, and they need gas for cooking if
+      there is a gas line around. And the labor theory of value did not take into account
+      capital productivity. The Americans did. Starting in the 1850s. The Americans,
+      and I wrote my dissertation on the economist Erasmus Peshine Smith, who developed
+      this theory as the basis for the Republican Party platform when it was created
+      in 1853. They said, well, the shift, the progress of civilization has been from
+      natural wind energy and water power to first to coal and then to oil and gas.
+      And at that time, nobody had seen other forms of electricity, atomic power, for
+      instance. And nobody had anticipated that what had been windmills in Holland and
+      other places would be these gigantic wind power constructions that China has made
+      in the Gobi Desert and throughout China. And today you have China realizing that,
+      well, we’re not going to leave this to private enterprise to develop because it
+      takes a long time to develop electric power as an alternative to oil and gas.
+      It takes a long time to make an electric utility in the United States. When you
+      go through all of the filing and meeting all the requirements and the bureaucracy,
+      it takes 10 years for a new electrical company utility to be built in the United
+      States. Well, there’s another problem that the, one of the major rent-seeking
+      classes that’s taken over politics in the United States, in addition to banking
+      and real estate, is the oil industry. And the coal industry, in particular states,
+      is very powerful too. And they’ve bought control of the Trump administration.
+      And Trump has said, I represent the coal industry. We’re really, the oil industry.
+      We’re really going to take off with oil, with natural gas, and we’re going to
+      use that as power. We’re going to, number one, we’re going to block Europe from
+      depending on energy and oil that is not produced by the United States and its
+      allies. We’re going to say, you cannot import oil from Russia anymore or from
+      Iran or from Venezuela. You have to buy oil and LNG, natural gas, from us. And
+      that’s happened. And one of the results of America selling the liquified natural
+      gas to Europe is that gas prices in the United States are rising. Well, all of
+      this has become what the government describes as civilizational because of the
+      intention of the American economy to say, we have a problem. We no longer can
+      compete with other countries in an industrial capitalist way like we could in
+      1945. We’re no longer an industrial company. We’ve offshored our labor and industry
+      to other countries, mainly to Asia. And the only way that we can, have other countries
+      subsidize us is to say there’s a Cold War with Russia and China. And we have to
+      defend Europe from the imminent invasion in a year or two that Russia is going
+      to be willing to lose another 22 million people trying to invade Europe and recapture
+      East Germany for itself. Well, this is all nonsense, but on the umbrella of this
+      fiction, this fictional narrative of a Cold War, the United States convinced the
+      NATO members: yes, you have to avoid free trade. Well, this is the fight that
+      British industrialists won in 1815 and German industrialists lost today after
+      2022 by cutting off the trade, the energy trade with Russia and other countries,
+      and following it up by cutting off technology trade with Russia, such as Holland
+      did when it said it closed Nexperia down and said we’re taking it over because
+      we cannot permit any Chinese-owned firm in the West. And just a few days ago,
+      Donald Trump, America, put pressure on Panama’s Supreme Court to confiscate China’s
+      investment in the port development in the Panama Canal to try to prevent that.
+      So you’re having what does indeed threaten to be a civilizational war. And it’s
+      the war about, is there going to be a government that represents the development
+      of the people at large in economic growth and prosperity, or will it be the government
+      of the enemies of prosperity, the rentier class. If you let the financial sector
+      and the real estate sector and the monopolies take control of all of the public
+      utilities, of the land and untax it and create credit to essentially create financial
+      wealth by creditor claims that represent the debts of the 99%, or at least the
+      90%, well, then you’re going to have the economy coming to a halt. And if the
+      United States is really serious about the Cold War, if it says to Europe, we’ve
+      already convinced you to fight to the last Ukrainian for land, we can’t give Russia
+      an inch of land. So Mr. Zelensky tells us we’d rather have the Ukrainian people
+      die. People don’t matter. Control of land matters. Hurting Russia matters. And
+      the fact that you Germans lost to Russia twice, World War I, World War II, maybe
+      you can get even this time. Let’s fight the war all over again by military Keynesianism.
+      If you make the military arms, you’re going to actually use them in Russia. Well,
+      this fight between rentier finance capitalism centered in the United States based
+      on infrastructure, on artificial intelligence monopoly, on computer monopoly,
+      and information technology is supposed to be able to replace America’s industrial
+      profits that it had made in agricultural exports, which were the key to America’s
+      balance of payments and dominance of the system after 1945. They want to replace
+      this with monopoly rents for information technology and artificial intelligence.
+      Well, Europe had threatened to say, well, one of the problems is not only are
+      you charging monopoly rents, but you’re insisting that we Europeans don’t even
+      tax them. We’re supposed to tax our labor. Shift it onto labor, shift it off business
+      and the rentier income, and especially shift it off the Americans. And so Trump
+      said, well, we’ll stop that. We’re going to slap tariffs on you and disrupt your
+      economy. [And your companies] will not be able to have access to the U.S. market.
+      And also, through NATO, fortunately, we’ve used NATO to control the European Union,
+      as you and I have discussed before, and they’re surrender monkeys. And they surrendered
+      and said, okay, we’re not going to tax the United States monopoly. We are going
+      to be dependent not only for gas, on the natural, on the United States, but on
+      information technology. We’re going to let all of our growth in wages and growth
+      in income be paid to the United States, after all, because we depend on you to
+      protect us from the threat of Russians marching right into Germany on their way
+      to Britain. This is crazy. And I guess you could say that civilizations fall because
+      they don’t understand the economic dynamics that have made them successful in
+      their takeoff from the very beginning. My whole, my book on the collapse of antiquity
+      showed that the first form of rentier income that ended up destroying antiquity
+      after centuries of civil war from the 7th century BC right down to the time of
+      Caesar and the end of the Roman Republic was the demands of the population for
+      a cancellation of debts and a redistribution of land. That fight failed, and the
+      result was feudalism. So we’ve had the Roman Empire, which was, I guess you could
+      call it Western civilization at that time, lose its quality that had made it civilization
+      and become decadence. You’re having the same thing happen today in similar terms.
+      Asia, for thousands of years, had a completely different basis for social philosophy
+      and government, all the way from Confucianism that said that if you have an emperor,
+      the emperor’s role is to keep the population happy and not revolting. If there’s
+      a revolt, then the emperor loses his justification for being an emperor. Same
+      thing in the takeoff of Western civilization, which was really in the Middle East,
+      in Mesopotamia, in Egypt, in Sumer, Babylonia, and Egypt. And all the early Bronze
+      Age civilizations from the third millennium BC down to the first millennium BC
+      regularly canceled the debts to prevent an oligarchy from taking over. Every king
+      of Hammurabi’s dynasty began his rule by canceling the debts, returning land to
+      cultivators that had lost it so they could regain it and begin to pay taxes again
+      and serve in the army and serve as corvée labor building the infrastructure projects
+      that Mesopotamia had. Same thing in Egypt. When archaeologists and Egyptologists
+      finally began to be able to translate what the Egyptians wrote, it was the Rosetta
+      Stone that was a debt cancellation, canceling tax debts. When the young pharaoh
+      was told, well, do what the earlier pharaohs did, cancel the debts and free the
+      population so that it can work. Otherwise, you’re going to have a concentration
+      of land ownership and it’ll be impoverished. The same thing happened in the Jewish
+      lands in Judea. After the Babylonian captivity and the Jews returned, they brought
+      the laws of Leviticus, the Mosaic law 25, saying word for word, what Hammurabi’s
+      debt cancellation did: free the debt bondservants, cancel the debts, and redistribute
+      the land that had been forfeited. That was put at the center of their religion
+      because by that time, in the first millennium, kings were no longer good, certainly
+      in the West, and Israel had become part of the West pretty much at that time.
+      And so you could say that change in civilization occurred really beginning 2,000
+      years ago, 2,500 years ago, between the West that did not cancel the debts and
+      restore order by circular time. The Asian countries from the Middle East to China
+      all recognized that economies tend to polarize as the wealthy people take over
+      government, become the vested interests, and essentially try to dismantle public
+      authority and prevent rulers from protecting the population and its means of living
+      and its land tenure from being concentrated in the hands of an oligarchic class.
+      The West emerged as an oligarchy from the beginning. In that sense, we’re in a
+      civilizational conflict today because, again, it’s between the rentier class,
+      originally the creditor class, becoming the landowning class for land rent, and
+      gradually monopolies that were created in the feudal Europe in order to enable
+      kings to find an income source to pay the international bankers for the war loans
+      they were taking out to fight each other and take over land. So you have a complete,
+      you do have a civilizational dynamic, and the civilizational dynamic began to
+      merge and become more reasonable in the Industrial Revolution. It was industrial
+      capitalism that was radical. It said, we want the same thing that was fought over
+      in Rome, in Babylonia, and in the Jewish lands when Jesus opposed the vested interests
+      and gave his first sermon, unrolling the scroll of Isaiah and saying, I’ve come
+      to announce the cancellation of debts. That was what the original of Jewish Christianity,
+      you could say Jewish Christianity. So this is what’s tearing things apart today.
+      Well, I mentioned in the United States, there’s a problem with how can America
+      get the monopoly in artificial intelligence and computer manufacturing and other
+      high-tech Silicon Valley technology if it doesn’t have electricity. And Trump
+      has prevented America from getting electricity in the form of windmills or solar
+      energy. And he says coal is one of the fuels of the future. And the Trump administration
+      has canceled the planned close down of coal utilities because the Biden administration
+      at least had scheduled these for closed down because of global warming. And so
+      Trump not only has closed alternatives to carbon energy, but he’s also withdrawn
+      from the Paris Agreements and is opposing the whole movement by the rest of the
+      world to try to free energy production, which is the key to productivity, from
+      dependence on carbon. That has become a civilizational threat because global warming
+      is in the natural environment is one of the things that destroyed the Babylonian
+      civilizations after 1200 BC when there was global freezing that caused droughts
+      and huge population movements. Climate change had also destroyed the Indus civilization
+      in 1800 BC. So there are certain external factors, in addition to internal dynamics,
+      that threaten to destroy a civilization. It’s happened before, and you can trace
+      it throughout history. And it’s threatening to transform and even destroy the
+      way in which Western civilization and the world that’s been brought into submission
+      to Western civilization’s values, live for the present. The financial return lives
+      for the present. The present is the future. All that matters is year to year.
+      The oil companies don’t care if the burning oil is going to add and accelerate
+      global warming and make it worse because they’re in the business of making profits,
+      I should say, economic rents, from their oil. Well, without Western civilization
+      going back to the analytic value, price, and rent theory of the classical economists,
+      it’s not going to realize the fact that, oh, we’re not really being productive
+      anymore. And we’ve deindustrialized. And by letting Margaret Thatcher and Ronald
+      Reagan be the tools that have represented this anti-government, anti-socialist
+      philosophy saying it’s a free market not to distinguish between productive and
+      unproductive labor. No such thing. It’s a free market to let the rich property
+      owners do whatever they want and take control of government and finance the election
+      campaigns and essentially wage war against any countries that do not follow the
+      same anti-government, pro-rentier, pro-oligarchy form of government that Western
+      civilization has become. Well, I think that the problem you could, the great threat
+      to Western civilization is neoliberalism, which denies this existence of economic
+      rent and it treats rentier income as an actual product and thinks that, well,
+      GDP is going up. If the bankers are getting rich, all of this debt service payment
+      of interest is going up, that’s a product. All of the rents that people are paying
+      for the rising cost of real estate, that’s a product. And somehow monopoly prices
+      are all, well, it’s all if people are willing to pay it, it’s consumer choice
+      to pay the monopolies. There’s no such thing as economic coercion. The whole rhetoric
+      of economic thought has been changed into a kind of vocabulary of deception instead
+      of a vocabulary explaining the actual dynamics of how economic systems and, ultimately,
+      how civilizations work. I think that was a long answer to your question. ⁣GLENN
+      DIESEN: Well, no, it’s an excellent answer. And well, I find it fascinating because,
+      you know, as I said, with the classical economists, the industrial capitalists,
+      they focused so much on exactly this issue of, well, reducing the role of the
+      rentier class or at least reducing the rent-seekers altogether. And again, this
+      is a key focus. And but yet, now that we’ve seen this shift into this finance
+      capitalism, where we now look at the rentier class as just a great, excellent
+      capitalists, it’s fascinating because we invoke, we refer to John Stuart Mill
+      and all to justify why there should be no redistribution as if the concept of
+      a classical economy or industrial capitalism is some kind of a socialist conspiracy.
+      But so it is strange to see how the neoliberal capitalist idea, how it formed
+      an ideology which allows it to borrow from the same thinkers (inaudible) to some
+      extent. I just had a last question about well when you refer to the Europeans.
+      Obviously, the United States can’t compete with China. It seeks now rent from
+      around the world, which is a beneficial position the United States has been in.
+      But with the Europeans, it appears to become more aggressive, as you said. They
+      say, you know, you have to buy weapons, you have to buy energy. And as you learn,
+      there’s a very heavy markup there or an ability to extract a lot of rent. And
+      also, if the Europeans want security, they should also make sure that their profits
+      are reinvested back into the United States. And of course, the Europeans are doing
+      so, but this is also resulting in economic devastation for the continent, which
+      will then, I guess, at some point play out both in political and security problems.
+      But China and Russia, though, they seem to be, as they decouple from the American-led
+      system, is this I guess a source of economic growth for them? Because one of the
+      ideas was we’re going to put sanctions on the Russians, we’re going to crush their
+      economy. If you remember at the beginning of the war, you know, the ruble was
+      going to become rubble and we would have their economy smashed before the end
+      of the weekend. And it didn’t work this way. Instead, we saw that as the Russians
+      cut themselves off from Western technology, banks, currency, that instead they
+      had significant growth, of course, based more in the industrial sphere as opposed
+      to this traditional or not traditional, but this new finance capitalism. But do
+      you see part of the successes for both China and Russia being that they cut themselves
+      off from this, I guess, uncompetitive, rent-seeking American technologies, banks,
+      and currency? ⁣MICHAEL HUDSON: Well, it’s not that they cut themselves off. Donald
+      Trump cut, and America cut them off, much to their benefit. You mentioned that
+      socialism was a conspiracy. That’s not it. Socialism was viewed as the next stage
+      of industrial capitalism. In the late 19th century, not only Marx was talking
+      about socialism, there were all sorts of kinds of socialism. There was Christian
+      socialism, there was anarchist socialism, there was social democracy. And what
+      everybody was in agreement, all of the vested interests, was you needed governments
+      to play an added role in the economy to provide basic needs at subsidized prices.
+      And it was the America’s first economics professor at the first business school,
+      the Wharton School, that said, Simon Patten said that public infrastructure is
+      a fourth factor of production besides labor, capital, and land, which really isn’t
+      a factor of production, but rent extraction. But public infrastructure doesn’t
+      aim at making a profit. It aims at minimizing the price of basic needs so that
+      labor doesn’t have to cover these costs and employers won’t have to pay for these
+      costs because public investment is more productive and less high-priced than private
+      investment because the aim of public infrastructure, canals, railroads, public
+      health, is not to make a profit, it’s to make the economy profitable. Well, it
+      was the Conservative Prime Minister Benjamin Disraeli in Britain that said health,
+      public health, that’s the center of things. And it was Disraeli that promoted
+      public health, as opposed to the United States under President Obama that says
+      we’ve got to privatize public health. And the American Medical Associations, ever
+      since the 1950s, fighting, we’re against socialized medicine. Well, it ends up
+      that instead of socialized medicine taking over the medical practice of doctors,
+      the private health insurance companies have taken over what doctors can do here
+      and pressed the cost of medical care to 20% of GDP. Well, this is far in excess
+      of what other countries from Europe to China do. China offers public health and
+      also free public education, as England did for a long time, and as many European
+      countries did. But now it’s very expensive, everywhere from over $50,000 a year
+      at least in the United States to high prices for English, Australian, and other
+      Western English-speaking universities, and I guess in German universities. All
+      of these functions that were supposed to create a competitive, low-priced economy
+      are now being privatized, high-priced, and countries such as China and Russia
+      are keeping the price of basic needs low, and they’re doing what is supposedly
+      what democracies are supposed to do. The Americans say, we’re democracy against
+      autocracy, but that’s not what this fight is all about. It’s against Western oligarchy
+      versus socialism, state industrial capitalism with a strong public subsidy. And
+      this subsidy prevents a financial oligarchy from developing because what China
+      has done in going further than the socialist movements have advocated in the West
+      is to say, money is a public utility and we’re creating money and credit through
+      the People’s Bank of China to not to finance corporate takeovers and making money
+      financially by financial engineering. We’re using money and credit to finance
+      actual construction. Well, they’ve over-financed housing construction, obviously,
+      but they’ve also financed their industry, they financed their wind farms, they’re
+      financing their basic research, or at least providing government subsidy and support
+      for private enterprise doing all of these. There’s a mixed economy. Every successful
+      civilization in history has been a mixed economy. And when you have the vested
+      interests saying we don’t want a mixed economy. We don’t want government regulating
+      or taxing us. We want to control the economy ourselves. We want the money that
+      the government would tax to come to ourselves as our own income. We want to impoverish
+      the rest of society and make it dependent on ourselves. Maybe it’ll create a revolution,
+      then we’ve just got to fight them. And we’ve got to fight other countries that
+      want to get rich by a strong public sector. So it’s China above all that’s doing
+      what Western democracies claim to be doing, but they’re not doing because they’re
+      not democracies. They’re oligarchies. And the vocabulary that is used for the
+      Western narrative is, well, China is an autocracy. And if any, they say, if you
+      regulate a company and regulate monopolies, that’s autocracy. If you tax the rich
+      instead of taxing the wage earners as much, that’s autocracy. If you’re preventing
+      us from charging monopoly prices or exploiting people or raising interest rates
+      to usury levels, well, that’s autocracy. Anything blocking what we want to do
+      to make money by indebting the population and by turning it from a home-owning,
+      self-sufficient class into a rentier, renting, dependent class, that’s autocracy.
+      Well, they’re making autocracy sound like something that is really, really good.
+      And of course, it used to be called socialism. So, again, you’re having the economic
+      vocabulary of deception become the basis of this narrative. And I wrote my book,
+      J is for Junk Economics , on exactly this transformation of vocabulary. And if
+      you have an adequate vocabulary, that’s going to help you understand the actual
+      dynamics of how the economy, any economy, works. ⁣GLENN DIESEN: Well, thank you
+      for the extensive answers. I really think people should appreciate more the concept
+      of rent-seeking in order to appreciate the stage we have in the current economy
+      and also what this means for civilization. So, as always, thank you so much for
+      sharing your wisdom on this. And for anyone who wants to buy the book, I will
+      leave a link in the subscription. And again, you’re quite a prolific author so
+      there’s plenty to get there. And also, of course, I’ll leave a link to your website
+      as there’s excellent material there all the time. So thank you very much. ⁣MICHAEL
+      HUDSON: Well, thanks. I also describe this whole account of economic rent in Killing
+      the Host , which is an early version of my history of rent theory and what’s happened
+      there. And my Superimperialism has just been created, by the way, as an audio
+      book, and that’s just being made available now. So people are picking up this
+      idea. But the fact that, you know, if you look at what are the Nobel Prizes given
+      for. They’re given for denying the theory and the concept of economic rent. They’re
+      essentially, it’s for junk economics that denies all of this. We’re really, that
+      is the civilizational fight over how do you understand an economy and think of
+      its dynamics. That’s really what this is all about. So you’ve asked the right
+      question. You always ask the right questions, Glenn. That’s why I like being on
+      your show so much. ⁣GLENN DIESEN: Thank you. I appreciate that very much. Transcription
+      and Diarization: https://scripthub.dev/ Editing: Chris Platania-Phung Review:
+      ced Photo by Willian Justen de Vasconcellos on Unsplash The post The New Civilizational
+      Divide: Rentier Empire vs Productive Economy first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the current decline of civilization, linking economic systems
+      to its rise and fall, while Hudson hints at writing a sequel to his book "The
+      Destiny of Civilization" to address contemporary issues.
+    paragraph_summary: In a discussion between Glenn Diesen and Professor Michael Hudson,
+      they explore the current state of civilization, which Hudson argues is in decline,
+      particularly in the context of economic systems. Hudson references his past work,
+      "The Destiny of Civilization," and suggests that while he won't rewrite it, he
+      plans to create a sequel that revisits classical political economy and its relevance
+      to industrial capitalism. He emphasizes the distinction between the decline of
+      an economic system and the broader decline of civilization, highlighting the ongoing
+      civilizational conflict between Western finance-driven capitalism and the industrial
+      capitalism seen in China, which shares historical roots with earlier economic
+      theories from figures like David Ricardo and John Stuart Mill. Hudson suggests
+      that the evolution of industrial capitalism is crucial to understanding the trajectory
+      of civilization itself.
+    published: '2026-02-19T20:35:11+00:00'
+  - title: 'The New Civilizational Divide: Rentier Empire vs Productive Economy'
+    url: https://michael-hudson.com/2026/02/the-new-civilizational-divide-rentier-empire-vs-productive-economy/
+    text: '⁣GLENN DIESEN: Welcome back. We are joined today by Professor Michael Hudson
+      to discuss the direction of civilization. So thank you very much for coming back
+      on. ⁣MICHAEL HUDSON: Well, thanks for having me again, Glenn. ⁣GLENN DIESEN: So
+      I’m thinking when we assess the economic, political, and social condition today,
+      I can’t help but feel that we’re no longer at the peak of civilization. And you,
+      of course, have written a book in the past with the title The Destiny of Civilization:
+      Finance, Capitalism, Industrial Capitalism, or Socialism . And I’m thinking there
+      must be a lot of new material for your book now if you wanted to do a remake.
+      But I thought overall a good place that we could start is how do you link the
+      economic system to the rise and fall of civilization? And what are the economic
+      indicators of civilizational decline? ⁣MICHAEL HUDSON: Well, I’m not going to
+      write a remake, but I will make a sequel. And the sequel goes back in time to
+      really review what classical political economy was all about and why classical
+      economics was really the plan for industrial capitalism. And so I have to review
+      some economic theory here because there is a great difference between the decline
+      of an economy or an economic system as we’re seeing today and the decline of a
+      whole civilization. Even though there’s called as a civilizational conflict between
+      today’s finance, rentier capitalism in the West and the industrial capitalism
+      with Chinese characteristics, which is amazingly like the American protectionist
+      characteristics and the British characteristics under David Ricardo and John Stuart
+      Mill and the German characteristics. All of the industrial societies and the whole
+      takeoff of what we think of as our civilization is actually a transformation of
+      the economy itself. And the takeoff of industrial capitalism was really in Britain.
+      And I think if we look at what they thought the course of industrial capitalism
+      and the civilization and the world that they were going to dominate was all about,
+      that’ll set the stage for what went wrong and why haven’t we achieved what all
+      of the classical economists were expecting for industrial capitalism to develop
+      a mixed economy, public, private, with rising government spending on infrastructure
+      to keep the cost low, and especially to do the one thing that was revolutionary
+      in industrial capitalism. And that was to get free of feudalism and get free of
+      the legacies of feudalism. And the major legacy was the hereditary landlord class
+      that still dominated the House of Lords and wanted to protect the land rents of
+      the landed aristocracy, mainly in their agricultural lands. Real estate rents
+      and housing rents hadn’t really taken off yet, but the big problem that faced
+      Britain was how to feed the population in the face of this protectionist landlord
+      class. And Ricardo in 1817 explained what threatened to block the takeoff of British
+      industry, and at least to bring its expansion to a halt, was the need to employ
+      labor to produce commodities, to sell at a markup. And ultimately, the end of
+      these, most of these products, according to Ricardo, as labor theory of value,
+      the price and value of them was reducible to labor. And that included the labor
+      that was embodied in the machinery that industrialists used, as well as to produce
+      the food and the other products that labor had to pay for out of its wages. Well,
+      employers had to pay high enough wages to cover the cost of subsistence. And because
+      well-educated and well-clothed and healthy labor that was well-fed was more productive,
+      these costs had to be covered by the employer. Well, the aim of the industrial
+      capitalist, therefore, was to reduce the costs of consumption needed by labor
+      in order for employers to hire it. And the most pressing cost of his day, certainly
+      the most pressing rising cost of Ricardo’s day, was the rising price of food that
+      resulted from the Corn Laws, the tariffs on food imports that prevented free trade
+      in food. Britain in 1815 had emerged from the Napoleonic Wars that had isolated
+      Britain. And as a result, Britain had to depend on its own landlords, its own
+      land to feed itself. And as soon as foreign trade began after the return to peace,
+      the landlord said, well, our rents are going down. You have to protect them by
+      imposing tariffs on them. And that prevented British employers from being able
+      to import lower-priced food to feed their labor so that they didn’t have to pay
+      such high wages. [When I say this], I think of the parallels with the modern economy,
+      which I’ll get into. The landlords demanded land rent. And so the fight for 30
+      years from 1815 to the repeal of the Corn Laws in 1846 was for free trade. And
+      the fight for free trade, that was the first step in overcoming the landlord’s
+      resistance, saying the economy for us is all about land rent, not for industrial
+      profits. We don’t care about industry, we just want our rents. And Ricardo gave
+      the explanation for what would happen if you lent, if you permitted the economy
+      to turn into a rentier economy, paying its rents to landlords, first for food,
+      and in time for housing, for land rents for housing. And later economists of the
+      19th century said, well, it’s the same thing with monopoly rents. We don’t want
+      monopolies because that’ll increase the cost of living and doing business. And
+      then finally, at the end, they said, well, you know, the biggest payment of rent,
+      rentier income at all, is to the creditors, to the bankers, and the bondholders
+      in the form of interest and financial fees. And so, the role of industrial capitalism
+      in all these countries was to minimize these three classes: the landlord and raw
+      materials-producing owning classes, the monopolists and the banking classes. And
+      that’s what made industrial capitalism so successful in countries that were undergoing
+      these reforms. Because in countries that didn’t have the reforms, because the
+      landlords were powerful enough to block free trade, to block taxation of their
+      rental income, and to block governments from minimizing rents to streamline the
+      economies and cut the costs of living and doing business, they were going to be
+      left behind. So, what Ricardo did was formulate classical value theory, which
+      said value is produced by labor, and the, but prices don’t reflect this value.
+      Prices are much higher than this value, and the excess of prices over value was
+      economic rent. And that rent is unearned income. John Stuart Mill said that landlords
+      collect rents and also the rising prices for their land in their sleep. So every
+      economy, as viewed by the classical economists, was divided into two parts. There
+      was a production part of the economy, and then there was a rentier part of the
+      economy, the property relations and credit relations and rent relations that were
+      superimposed on the productive economy as an economic overhead. And the idea of
+      the industrial economy was to bring prices in line with the actual cost value
+      as little as possible. And that was what was going to make economies more successful
+      and make industrial capitalism so much more powerful. Well, if the Corn Laws continued
+      to block lower priced imports, that was going to keep food prices up and hence
+      the subsistence wage, and that would discourage new investment. [And landlords
+      waged] a huge campaign. They lost. And Ricardo said that would bring capital accumulation
+      to an end. And he wrote, “capital can then not yield any profit whatsoever, and
+      no additional labor can be demanded. And consequently, population will have reached
+      its highest point. Long indeed before this period this very low rate of profits
+      will have arrested all accumulation, and almost the whole produce of the country,
+      after paying the laborers, will be the property of the owners of land and the
+      receivers of tithes and taxes.” And the taxes were mainly to pay financial charges.
+      [The chart bellow] will show how the economy will grow, but as rent takes more
+      and more, the profit will fall to a point where it’s utterly extinguished. And
+      without profits, there’s no incentive for industrialists to invest. And Ricardo
+      wrote all this in his chapter on profits, in his book on The Principles of Political
+      Economy and Taxation . And in the Destiny of Civilization , I discuss in more
+      detail the reform program of industrial capitalism. And the point of writing my
+      book on civilization is there are two kinds of economies. We’re no longer in an
+      industrial capitalist economy. And most people call our economy capitalist, but
+      it’s not the industrial capitalism that was discussed in the 19th century or what
+      Marx meant in Capital or what Werner Sombart meant when he coined the word capitalism
+      in the 1920s. It’s finance capitalism. And the financial sector now backs the
+      monopoly interests and the rentier interests and the real estate interests. And
+      you’ve had land no longer belonging to a hereditary monopoly. Anybody can buy
+      a house or a commercial building, but they have to go into debt to do it. And
+      the land rent is all paid to the banker, not to a landlord class anymore. And
+      over the course of, say, the 30-year mortgage that was standardized after World
+      War II and created the American middle class, the banker actually got more money
+      in the form of interest than the seller of a house or a commercial property building
+      got. So you have the price of housing, or whether you rent it or whether you buy
+      it, that employees have to pay in the United States and Europe has to be high
+      enough to cover the costs of paying interest and fees to the banks. And you have,
+      if you look at both the European economy and the American economy, what they call
+      gross national product seems to be growing, but almost all this growth in gross
+      national product is rentier income. Interest is charged as providing a service.
+      And late fees for banks, for credit cards that are higher than the interest rates
+      charged, are providing a service and monopoly prices are all included in GDP.
+      And so there’s very less of product in gross domestic product and more and more
+      of economic overhead. Well, how did this come about? By the late 19th century,
+      the landlords and especially the financial classes fought back against classical
+      economics. And classical economics was the ideology of industrial capitalism.
+      Free economies from rent. A free market was a market free from rent. And the reaction
+      in the United States, it was led by John Bates Clark. In Europe, it was led by
+      the Austrian school of anti-government, anti-socialist economists. In Britain,
+      it was led by the utilitarian theorists that said, well, there’s no difference
+      between price and value. A price is whatever utility consumers are going to pay.
+      They used a circular reasoning for all this. So I think I had my next book that
+      I’m working on now has to take a step back and say, how do you think about an
+      economy and how it works? And that is the key to understand why this fight between
+      the West, America and Europe, looks at China and Asia and other countries that
+      are following this original plan of free market classical economists as civilizational,
+      because they look at the rentier interests, the interests of bankers and bondholders,
+      the interests of landlords, and the interests of monopolists. For them, this is
+      civilization. And for the whole takeoff of individualism and free markets in the
+      19th century, Adam Smith, John Stuart Mill, and what became the whole socialist
+      movement and social democratic movement that was backed by the American industrialists
+      and the conservative parties in England, they said, well, we all want to make
+      our economies more productive and we have to get rid of classes that collect income
+      without adding to production, without working, that make money in their sleep.
+      So there’s this fundamental distinction between earned and unearned income, a
+      productive sector and an overhead sector. And none of that occurs, is taught in
+      today’s economics curriculum. The fight by the finance and real estate sector,
+      mainly together, says there’s no such thing as economic rent. There’s no unearned
+      income. And they’ve used the rental income that they have and all of the debt-financed
+      capital gains from real estate and from their investment in corporations to buy
+      control of the political process and to privatize it. And since the 1980s, especially,
+      from Margaret Thatcher in England to Ronald Reagan in the United States to the
+      social democratic parties of Europe, you’ve had a movement towards privatizing
+      public infrastructure, saying, well, private managers can do a much better job.
+      So let’s privatize the water system. Let’s sell Britain’s water to Thames Water
+      Company. Private enterprise can certainly be much more efficient and less bureaucratic.
+      Let’s have British railroads, in turn, privatized. That’s certainly going to be
+      more efficient. Well, you’ve now seen water prices go way up for British consumers
+      and industry. You’ve seen railroad prices go way out, and they’re not serving
+      suburbs like they were before. The bus company that was public was privatized,
+      and to make more money, it just cut back the routes to places that had low ridership
+      further out from London. You have the whole thing free in Europe. Well, what do
+      we have today that’s the equivalent of the high price of corn and meaning grain,
+      for England? The equivalent today would be energy because every industry needs
+      energy, houses need electricity for heating, and they need gas for cooking if
+      there is a gas line around. And the labor theory of value did not take into account
+      capital productivity. The Americans did. Starting in the 1850s. The Americans,
+      and I wrote my dissertation on the economist Erasmus Peshine Smith, who developed
+      this theory as the basis for the Republican Party platform when it was created
+      in 1853. They said, well, the shift, the progress of civilization has been from
+      natural wind energy and water power to first to coal and then to oil and gas.
+      And at that time, nobody had seen other forms of electricity, atomic power, for
+      instance. And nobody had anticipated that what had been windmills in Holland and
+      other places would be these gigantic wind power constructions that China has made
+      in the Gobi Desert and throughout China. And today you have China realizing that,
+      well, we’re not going to leave this to private enterprise to develop because it
+      takes a long time to develop electric power as an alternative to oil and gas.
+      It takes a long time to make an electric utility in the United States. When you
+      go through all of the filing and meeting all the requirements and the bureaucracy,
+      it takes 10 years for a new electrical company utility to be built in the United
+      States. Well, there’s another problem that the, one of the major rent-seeking
+      classes that’s taken over politics in the United States, in addition to banking
+      and real estate, is the oil industry. And the coal industry, in particular states,
+      is very powerful too. And they’ve bought control of the Trump administration.
+      And Trump has said, I represent the coal industry. We’re really, the oil industry.
+      We’re really going to take off with oil, with natural gas, and we’re going to
+      use that as power. We’re going to, number one, we’re going to block Europe from
+      depending on energy and oil that is not produced by the United States and its
+      allies. We’re going to say, you cannot import oil from Russia anymore or from
+      Iran or from Venezuela. You have to buy oil and LNG, natural gas, from us. And
+      that’s happened. And one of the results of America selling the liquified natural
+      gas to Europe is that gas prices in the United States are rising. Well, all of
+      this has become what the government describes as civilizational because of the
+      intention of the American economy to say, we have a problem. We no longer can
+      compete with other countries in an industrial capitalist way like we could in
+      1945. We’re no longer an industrial company. We’ve offshored our labor and industry
+      to other countries, mainly to Asia. And the only way that we can, have other countries
+      subsidize us is to say there’s a Cold War with Russia and China. And we have to
+      defend Europe from the imminent invasion in a year or two that Russia is going
+      to be willing to lose another 22 million people trying to invade Europe and recapture
+      East Germany for itself. Well, this is all nonsense, but on the umbrella of this
+      fiction, this fictional narrative of a Cold War, the United States convinced the
+      NATO members: yes, you have to avoid free trade. Well, this is the fight that
+      British industrialists won in 1815 and German industrialists lost today after
+      2022 by cutting off the trade, the energy trade with Russia and other countries,
+      and following it up by cutting off technology trade with Russia, such as Holland
+      did when it said it closed Nexperia down and said we’re taking it over because
+      we cannot permit any Chinese-owned firm in the West. And just a few days ago,
+      Donald Trump, America, put pressure on Panama’s Supreme Court to confiscate China’s
+      investment in the port development in the Panama Canal to try to prevent that.
+      So you’re having what does indeed threaten to be a civilizational war. And it’s
+      the war about, is there going to be a government that represents the development
+      of the people at large in economic growth and prosperity, or will it be the government
+      of the enemies of prosperity, the rentier class. If you let the financial sector
+      and the real estate sector and the monopolies take control of all of the public
+      utilities, of the land and untax it and create credit to essentially create financial
+      wealth by creditor claims that represent the debts of the 99%, or at least the
+      90%, well, then you’re going to have the economy coming to a halt. And if the
+      United States is really serious about the Cold War, if it says to Europe, we’ve
+      already convinced you to fight to the last Ukrainian for land, we can’t give Russia
+      an inch of land. So Mr. Zelensky tells us we’d rather have the Ukrainian people
+      die. People don’t matter. Control of land matters. Hurting Russia matters. And
+      the fact that you Germans lost to Russia twice, World War I, World War II, maybe
+      you can get even this time. Let’s fight the war all over again by military Keynesianism.
+      If you make the military arms, you’re going to actually use them in Russia. Well,
+      this fight between rentier finance capitalism centered in the United States based
+      on infrastructure, on artificial intelligence monopoly, on computer monopoly,
+      and information technology is supposed to be able to replace America’s industrial
+      profits that it had made in agricultural exports, which were the key to America’s
+      balance of payments and dominance of the system after 1945. They want to replace
+      this with monopoly rents for information technology and artificial intelligence.
+      Well, Europe had threatened to say, well, one of the problems is not only are
+      you charging monopoly rents, but you’re insisting that we Europeans don’t even
+      tax them. We’re supposed to tax our labor. Shift it onto labor, shift it off business
+      and the rentier income, and especially shift it off the Americans. And so Trump
+      said, well, we’ll stop that. We’re going to slap tariffs on you and disrupt your
+      economy. [And your companies] will not be able to have access to the U.S. market.
+      And also, through NATO, fortunately, we’ve used NATO to control the European Union,
+      as you and I have discussed before, and they’re surrender monkeys. And they surrendered
+      and said, okay, we’re not going to tax the United States monopoly. We are going
+      to be dependent not only for gas, on the natural, on the United States, but on
+      information technology. We’re going to let all of our growth in wages and growth
+      in income be paid to the United States, after all, because we depend on you to
+      protect us from the threat of Russians marching right into Germany on their way
+      to Britain. This is crazy. And I guess you could say that civilizations fall because
+      they don’t understand the economic dynamics that have made them successful in
+      their takeoff from the very beginning. My whole, my book on the collapse of antiquity
+      showed that the first form of rentier income that ended up destroying antiquity
+      after centuries of civil war from the 7th century BC right down to the time of
+      Caesar and the end of the Roman Republic was the demands of the population for
+      a cancellation of debts and a redistribution of land. That fight failed, and the
+      result was feudalism. So we’ve had the Roman Empire, which was, I guess you could
+      call it Western civilization at that time, lose its quality that had made it civilization
+      and become decadence. You’re having the same thing happen today in similar terms.
+      Asia, for thousands of years, had a completely different basis for social philosophy
+      and government, all the way from Confucianism that said that if you have an emperor,
+      the emperor’s role is to keep the population happy and not revolting. If there’s
+      a revolt, then the emperor loses his justification for being an emperor. Same
+      thing in the takeoff of Western civilization, which was really in the Middle East,
+      in Mesopotamia, in Egypt, in Sumer, Babylonia, and Egypt. And all the early Bronze
+      Age civilizations from the third millennium BC down to the first millennium BC
+      regularly canceled the debts to prevent an oligarchy from taking over. Every king
+      of Hammurabi’s dynasty began his rule by canceling the debts, returning land to
+      cultivators that had lost it so they could regain it and begin to pay taxes again
+      and serve in the army and serve as corvée labor building the infrastructure projects
+      that Mesopotamia had. Same thing in Egypt. When archaeologists and Egyptologists
+      finally began to be able to translate what the Egyptians wrote, it was the Rosetta
+      Stone that was a debt cancellation, canceling tax debts. When the young pharaoh
+      was told, well, do what the earlier pharaohs did, cancel the debts and free the
+      population so that it can work. Otherwise, you’re going to have a concentration
+      of land ownership and it’ll be impoverished. The same thing happened in the Jewish
+      lands in Judea. After the Babylonian captivity and the Jews returned, they brought
+      the laws of Leviticus, the Mosaic law 25, saying word for word, what Hammurabi’s
+      debt cancellation did: free the debt bondservants, cancel the debts, and redistribute
+      the land that had been forfeited. That was put at the center of their religion
+      because by that time, in the first millennium, kings were no longer good, certainly
+      in the West, and Israel had become part of the West pretty much at that time.
+      And so you could say that change in civilization occurred really beginning 2,000
+      years ago, 2,500 years ago, between the West that did not cancel the debts and
+      restore order by circular time. The Asian countries from the Middle East to China
+      all recognized that economies tend to polarize as the wealthy people take over
+      government, become the vested interests, and essentially try to dismantle public
+      authority and prevent rulers from protecting the population and its means of living
+      and its land tenure from being concentrated in the hands of an oligarchic class.
+      The West emerged as an oligarchy from the beginning. In that sense, we’re in a
+      civilizational conflict today because, again, it’s between the rentier class,
+      originally the creditor class, becoming the landowning class for land rent, and
+      gradually monopolies that were created in the feudal Europe in order to enable
+      kings to find an income source to pay the international bankers for the war loans
+      they were taking out to fight each other and take over land. So you have a complete,
+      you do have a civilizational dynamic, and the civilizational dynamic began to
+      merge and become more reasonable in the Industrial Revolution. It was industrial
+      capitalism that was radical. It said, we want the same thing that was fought over
+      in Rome, in Babylonia, and in the Jewish lands when Jesus opposed the vested interests
+      and gave his first sermon, unrolling the scroll of Isaiah and saying, I’ve come
+      to announce the cancellation of debts. That was what the original of Jewish Christianity,
+      you could say Jewish Christianity. So this is what’s tearing things apart today.
+      Well, I mentioned in the United States, there’s a problem with how can America
+      get the monopoly in artificial intelligence and computer manufacturing and other
+      high-tech Silicon Valley technology if it doesn’t have electricity. And Trump
+      has prevented America from getting electricity in the form of windmills or solar
+      energy. And he says coal is one of the fuels of the future. And the Trump administration
+      has canceled the planned close down of coal utilities because the Biden administration
+      at least had scheduled these for closed down because of global warming. And so
+      Trump not only has closed alternatives to carbon energy, but he’s also withdrawn
+      from the Paris Agreements and is opposing the whole movement by the rest of the
+      world to try to free energy production, which is the key to productivity, from
+      dependence on carbon. That has become a civilizational threat because global warming
+      is in the natural environment is one of the things that destroyed the Babylonian
+      civilizations after 1200 BC when there was global freezing that caused droughts
+      and huge population movements. Climate change had also destroyed the Indus civilization
+      in 1800 BC. So there are certain external factors, in addition to internal dynamics,
+      that threaten to destroy a civilization. It’s happened before, and you can trace
+      it throughout history. And it’s threatening to transform and even destroy the
+      way in which Western civilization and the world that’s been brought into submission
+      to Western civilization’s values, live for the present. The financial return lives
+      for the present. The present is the future. All that matters is year to year.
+      The oil companies don’t care if the burning oil is going to add and accelerate
+      global warming and make it worse because they’re in the business of making profits,
+      I should say, economic rents, from their oil. Well, without Western civilization
+      going back to the analytic value, price, and rent theory of the classical economists,
+      it’s not going to realize the fact that, oh, we’re not really being productive
+      anymore. And we’ve deindustrialized. And by letting Margaret Thatcher and Ronald
+      Reagan be the tools that have represented this anti-government, anti-socialist
+      philosophy saying it’s a free market not to distinguish between productive and
+      unproductive labor. No such thing. It’s a free market to let the rich property
+      owners do whatever they want and take control of government and finance the election
+      campaigns and essentially wage war against any countries that do not follow the
+      same anti-government, pro-rentier, pro-oligarchy form of government that Western
+      civilization has become. Well, I think that the problem you could, the great threat
+      to Western civilization is neoliberalism, which denies this existence of economic
+      rent and it treats rentier income as an actual product and thinks that, well,
+      GDP is going up. If the bankers are getting rich, all of this debt service payment
+      of interest is going up, that’s a product. All of the rents that people are paying
+      for the rising cost of real estate, that’s a product. And somehow monopoly prices
+      are all, well, it’s all if people are willing to pay it, it’s consumer choice
+      to pay the monopolies. There’s no such thing as economic coercion. The whole rhetoric
+      of economic thought has been changed into a kind of vocabulary of deception instead
+      of a vocabulary explaining the actual dynamics of how economic systems and, ultimately,
+      how civilizations work. I think that was a long answer to your question. ⁣GLENN
+      DIESEN: Well, no, it’s an excellent answer. And well, I find it fascinating because,
+      you know, as I said, with the classical economists, the industrial capitalists,
+      they focused so much on exactly this issue of, well, reducing the role of the
+      rentier class or at least reducing the rent-seekers altogether. And again, this
+      is a key focus. And but yet, now that we’ve seen this shift into this finance
+      capitalism, where we now look at the rentier class as just a great, excellent
+      capitalists, it’s fascinating because we invoke, we refer to John Stuart Mill
+      and all to justify why there should be no redistribution as if the concept of
+      a classical economy or industrial capitalism is some kind of a socialist conspiracy.
+      But so it is strange to see how the neoliberal capitalist idea, how it formed
+      an ideology which allows it to borrow from the same thinkers (inaudible) to some
+      extent. I just had a last question about well when you refer to the Europeans.
+      Obviously, the United States can’t compete with China. It seeks now rent from
+      around the world, which is a beneficial position the United States has been in.
+      But with the Europeans, it appears to become more aggressive, as you said. They
+      say, you know, you have to buy weapons, you have to buy energy. And as you learn,
+      there’s a very heavy markup there or an ability to extract a lot of rent. And
+      also, if the Europeans want security, they should also make sure that their profits
+      are reinvested back into the United States. And of course, the Europeans are doing
+      so, but this is also resulting in economic devastation for the continent, which
+      will then, I guess, at some point play out both in political and security problems.
+      But China and Russia, though, they seem to be, as they decouple from the American-led
+      system, is this I guess a source of economic growth for them? Because one of the
+      ideas was we’re going to put sanctions on the Russians, we’re going to crush their
+      economy. If you remember at the beginning of the war, you know, the ruble was
+      going to become rubble and we would have their economy smashed before the end
+      of the weekend. And it didn’t work this way. Instead, we saw that as the Russians
+      cut themselves off from Western technology, banks, currency, that instead they
+      had significant growth, of course, based more in the industrial sphere as opposed
+      to this traditional or not traditional, but this new finance capitalism. But do
+      you see part of the successes for both China and Russia being that they cut themselves
+      off from this, I guess, uncompetitive, rent-seeking American technologies, banks,
+      and currency? ⁣MICHAEL HUDSON: Well, it’s not that they cut themselves off. Donald
+      Trump cut, and America cut them off, much to their benefit. You mentioned that
+      socialism was a conspiracy. That’s not it. Socialism was viewed as the next stage
+      of industrial capitalism. In the late 19th century, not only Marx was talking
+      about socialism, there were all sorts of kinds of socialism. There was Christian
+      socialism, there was anarchist socialism, there was social democracy. And what
+      everybody was in agreement, all of the vested interests, was you needed governments
+      to play an added role in the economy to provide basic needs at subsidized prices.
+      And it was the America’s first economics professor at the first business school,
+      the Wharton School, that said, Simon Patten said that public infrastructure is
+      a fourth factor of production besides labor, capital, and land, which really isn’t
+      a factor of production, but rent extraction. But public infrastructure doesn’t
+      aim at making a profit. It aims at minimizing the price of basic needs so that
+      labor doesn’t have to cover these costs and employers won’t have to pay for these
+      costs because public investment is more productive and less high-priced than private
+      investment because the aim of public infrastructure, canals, railroads, public
+      health, is not to make a profit, it’s to make the economy profitable. Well, it
+      was the Conservative Prime Minister Benjamin Disraeli in Britain that said health,
+      public health, that’s the center of things. And it was Disraeli that promoted
+      public health, as opposed to the United States under President Obama that says
+      we’ve got to privatize public health. And the American Medical Associations, ever
+      since the 1950s, fighting, we’re against socialized medicine. Well, it ends up
+      that instead of socialized medicine taking over the medical practice of doctors,
+      the private health insurance companies have taken over what doctors can do here
+      and pressed the cost of medical care to 20% of GDP. Well, this is far in excess
+      of what other countries from Europe to China do. China offers public health and
+      also free public education, as England did for a long time, and as many European
+      countries did. But now it’s very expensive, everywhere from over $50,000 a year
+      at least in the United States to high prices for English, Australian, and other
+      Western English-speaking universities, and I guess in German universities. All
+      of these functions that were supposed to create a competitive, low-priced economy
+      are now being privatized, high-priced, and countries such as China and Russia
+      are keeping the price of basic needs low, and they’re doing what is supposedly
+      what democracies are supposed to do. The Americans say, we’re democracy against
+      autocracy, but that’s not what this fight is all about. It’s against Western oligarchy
+      versus socialism, state industrial capitalism with a strong public subsidy. And
+      this subsidy prevents a financial oligarchy from developing because what China
+      has done in going further than the socialist movements have advocated in the West
+      is to say, money is a public utility and we’re creating money and credit through
+      the People’s Bank of China to not to finance corporate takeovers and making money
+      financially by financial engineering. We’re using money and credit to finance
+      actual construction. Well, they’ve over-financed housing construction, obviously,
+      but they’ve also financed their industry, they financed their wind farms, they’re
+      financing their basic research, or at least providing government subsidy and support
+      for private enterprise doing all of these. There’s a mixed economy. Every successful
+      civilization in history has been a mixed economy. And when you have the vested
+      interests saying we don’t want a mixed economy. We don’t want government regulating
+      or taxing us. We want to control the economy ourselves. We want the money that
+      the government would tax to come to ourselves as our own income. We want to impoverish
+      the rest of society and make it dependent on ourselves. Maybe it’ll create a revolution,
+      then we’ve just got to fight them. And we’ve got to fight other countries that
+      want to get rich by a strong public sector. So it’s China above all that’s doing
+      what Western democracies claim to be doing, but they’re not doing because they’re
+      not democracies. They’re oligarchies. And the vocabulary that is used for the
+      Western narrative is, well, China is an autocracy. And if any, they say, if you
+      regulate a company and regulate monopolies, that’s autocracy. If you tax the rich
+      instead of taxing the wage earners as much, that’s autocracy. If you’re preventing
+      us from charging monopoly prices or exploiting people or raising interest rates
+      to usury levels, well, that’s autocracy. Anything blocking what we want to do
+      to make money by indebting the population and by turning it from a home-owning,
+      self-sufficient class into a rentier, renting, dependent class, that’s autocracy.
+      Well, they’re making autocracy sound like something that is really, really good.
+      And of course, it used to be called socialism. So, again, you’re having the economic
+      vocabulary of deception become the basis of this narrative. And I wrote my book,
+      J is for Junk Economics , on exactly this transformation of vocabulary. And if
+      you have an adequate vocabulary, that’s going to help you understand the actual
+      dynamics of how the economy, any economy, works. ⁣GLENN DIESEN: Well, thank you
+      for the extensive answers. I really think people should appreciate more the concept
+      of rent-seeking in order to appreciate the stage we have in the current economy
+      and also what this means for civilization. So, as always, thank you so much for
+      sharing your wisdom on this. And for anyone who wants to buy the book, I will
+      leave a link in the subscription. And again, you’re quite a prolific author so
+      there’s plenty to get there. And also, of course, I’ll leave a link to your website
+      as there’s excellent material there all the time. So thank you very much. ⁣MICHAEL
+      HUDSON: Well, thanks. I also describe this whole account of economic rent in Killing
+      the Host , which is an early version of my history of rent theory and what’s happened
+      there. And my Superimperialism has just been created, by the way, as an audio
+      book, and that’s just being made available now. So people are picking up this
+      idea. But the fact that, you know, if you look at what are the Nobel Prizes given
+      for. They’re given for denying the theory and the concept of economic rent. They’re
+      essentially, it’s for junk economics that denies all of this. We’re really, that
+      is the civilizational fight over how do you understand an economy and think of
+      its dynamics. That’s really what this is all about. So you’ve asked the right
+      question. You always ask the right questions, Glenn. That’s why I like being on
+      your show so much. ⁣GLENN DIESEN: Thank you. I appreciate that very much. Transcription
+      and Diarization: https://scripthub.dev/ Editing: Chris Platania-Phung Review:
+      ced Photo by Willian Justen de Vasconcellos on Unsplash The post The New Civilizational
+      Divide: Rentier Empire vs Productive Economy first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion between Glenn Diesen and Professor Michael
+      Hudson, they explore the current decline of civilization, linking economic systems
+      to its rise and fall, while Hudson hints at writing a sequel to his book "The
+      Destiny of Civilization" to address contemporary issues.
+    paragraph_summary: In a discussion between Glenn Diesen and Professor Michael Hudson,
+      they explore the current state of civilization, which Hudson argues is in decline,
+      particularly in the context of economic systems. Hudson references his past work,
+      "The Destiny of Civilization," and suggests that while he won't rewrite it, he
+      plans to create a sequel that revisits classical political economy and its relevance
+      to industrial capitalism. He emphasizes the distinction between the decline of
+      an economic system and the broader decline of civilization, highlighting the ongoing
+      civilizational conflict between Western finance-driven capitalism and the industrial
+      capitalism seen in China, which shares historical roots with earlier economic
+      theories from figures like David Ricardo and John Stuart Mill. Hudson suggests
+      that the evolution of industrial capitalism is crucial to understanding the trajectory
+      of civilization itself.
+    published: '2026-02-19T20:35:11+00:00'
   - title: Why GDP Flatters Finance and Hides Extraction
     url: https://michael-hudson.com/2026/02/why-gdp-flatters-finance-and-hides-extraction/
     text: 'Cross Posted from Class Unity. Class Unity : Hello everyone and welcome to

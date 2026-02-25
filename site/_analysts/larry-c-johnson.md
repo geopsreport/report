@@ -7,19 +7,1557 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid escalating tensions in the Middle East and persistent instability in Eastern Europe, recent independent analysis highlights new dimensions in US-Iran relations, the fallout from elite scandals in the US, and the ongoing energy crisis in Ukraine.
+  Tensions remain high in the Middle East as the United States continues to build up its military presence near Iran. Over the past 48 hours, significant new details have emerged regarding the operational posture and strategic limitations facing the U.S. and its allies.
   
-  The most significant new development concerns the intensification of US information operations targeting Iran. According to **Larry C. Johnson**, the US military and intelligence community are actively engaged in "Operational Preparation of the Environment" (OPE) to lay the groundwork for regime change in Tehran. This campaign, Johnson reports, leverages organizations like GAMAAN and tools such as the Psiphon VPN to shape international perceptions—specifically, to amplify the narrative that the majority of Iranians oppose the Islamic Republic. Johnson points out that these efforts are not simply about gathering intelligence but are designed to influence both foreign and domestic audiences, potentially paving the way for escalated intervention.
+  Most notably, **Larry C. Johnson** reports that President Trump has now deployed nearly 30% of the U.S. Air Force's F-35A fleet to Jordan and Saudi Arabia. However, these advanced jets face logistical challenges: “their limited capability to effectively strike high-priority targets in Iran due to the distance and the need for air refueling near the Iranian border” could undermine the impact of any initial strike package. This operational constraint is a key factor in the ongoing debate within U.S. defense circles about the feasibility of a decisive air campaign.
   
-  Meanwhile, the release of the so-called "Epstein Files" continues to reverberate through US political circles. Johnson notes the public's fascination with the downfall of high-profile figures such as Donald Trump and Jeffrey Epstein, emphasizing the contradictory behavior of Trump as he attempts to deflect attention from the scandal. This development is fueling further scrutiny of elite networks and their influence on policy and public opinion.
+  Despite the scale of the deployment, there are still no clear indicators of an imminent attack. As of February 23, only the U.S. Embassy in Beirut has ordered non-essential staff to leave, and there have been no widespread NOTAMs (Notices to Airmen) or other evacuation signals that typically precede major military operations. This suggests, according to **General Dan Caine** (as cited by Johnson), that while preparations are advanced, the final decision to launch an attack has not yet been made.
   
-  On the Eastern European front, the humanitarian situation in Ukraine remains dire. Johnson previously documented the severe damage to Ukraine’s energy infrastructure, resulting in widespread shortages of gas and electricity. With winter conditions persisting, many residents are left without adequate heating, exacerbating the crisis and raising concerns about long-term stability in the region.
+  Strategic timing remains a central consideration. Previous reporting highlighted that any potential U.S. or Israeli air operation would likely be timed with the upcoming moonless nights in mid-March, which would provide optimal conditions for stealth aircraft. However, the latest deployments indicate that the U.S. is keeping its options open, possibly to maintain pressure on Tehran or to deter further escalation in the region.
   
   **Trends and Predictions:**  
-  The US is likely to intensify its information and psychological operations against Iran in the coming weeks, with a high chance these efforts will be coupled with diplomatic and possibly covert actions aimed at destabilizing the regime. The ongoing exposure of elite scandals in the US is expected to sustain public distrust in major institutions, though direct policy consequences remain uncertain. In Ukraine, the energy crisis shows no signs of abating, and Johnson asserts with high confidence that the humanitarian situation will deteriorate further unless there is a significant shift in international support or a de-escalation of hostilities.
-  
-  Overall, the geopolitical environment remains volatile, with information warfare, elite scandals, and humanitarian crises shaping the global landscape. I guarantee that these issues will continue to dominate headlines and policy debates in the immediate future.
+  Based on the current pace of military movements and the absence of definitive pre-attack indicators, it is quite likely that the situation will remain in a holding pattern for the next several days. The operational limitations of forward-deployed F-35As further complicate the prospects for a “slam-dunk” success, as Johnson notes. Unless there is a sudden shift—such as mass embassy evacuations or the issuance of broad NOTAMs—I assess with high confidence that no major U.S. strike on Iran will occur before mid-March. However, the risk of miscalculation or sudden escalation remains elevated as both sides continue to posture for advantage.
 articles:
+  - title: Understanding Why General Caine Cannot Guarantee a Slam-Dunk Success if the
+      US Attacks Iran
+    url: https://sonar21.com/understanding-why-general-caine-cannot-guarantee-a-slam-dunk-success-if-the-us-attacks-iran/
+    text: 'Why has Donald Trump deployed almost 30% of the US Air Force inventory of
+      F-35A jets to Jordan and Saudi Arabia when these aircraft are unable to penetrate
+      deep into Iran without air refueling near the Iranian border. They are essentially
+      useless for inflicting damage on high priority targets in Iran if Iran’s air defense
+      systems are intact. Let me explain. I will try to make this as simple as possible…
+      The majority of the combat aircraft the US has deployed to the Middle East are
+      based in Jordan’s Shaheed Muwaffaq al-Salti Air Base , which is is roughly about
+      1,400–1,500 km (around 870–930 miles) from Tehran in a straight line, and Prince
+      Sultan Air Base , which is 680–750 miles from Tehran. The distance from Iran’s
+      western border to Tehran varies depending on the exact point along the border,
+      but here’s the real-world breakdown: Straight-line (as-the-crow-flies) from the
+      closest western border point—say, near Mehran or Qasr-e Shirin on the Iraq border—to
+      Tehran: About 400–450 kilometers (248–280 miles). From a mid-western spot like
+      Kermanshah (a major city right on the border): Roughly 430 km (267 miles) to Tehran.
+      If you’re measuring from the far-western edge (e.g., near the Turkey-Iraq-Iran
+      tripoint): Closer to 500–550 km (310–342 miles). Averaging it out for military
+      planning: ~425 km (264 miles) is the practical ballpark—about a 30–40 minute flight
+      for an F-35 at subsonic cruise. According to Lockheed Martin and US Air Force
+      data sheets, the effective combat radius of an F-35A when flying in a stealth
+      configuration (i.e., using only internal fuel and internal weapons bays to preserve
+      low-observable characteristics) is >590 nautical miles (approximately 1,093 kilometers
+      or 679 statute miles). How is you addition and subtraction math skills? Let’s
+      use Kermanshah as the point of reference for the flight plan of a squadron of
+      F-35As that are trying to attack Iran. If those planes take off from Jordan, they
+      will need to refuel when they are 200 nautical miles from the Iranian border.
+      They would then have barely enough fuel to reach Tehran, drop their bombs and
+      return to the border with Saudi Arabia. But the F-35As most likely will be carrying
+      a AGM-158B JASSM-ER (Extended Range, the current primary operational variant)
+      with a 1,000 pound warhead. The maximum range of the AGM-158B is 575 miles (approximately
+      925–1,000 km). To have the best chance of an effective strike without entering
+      Iranian air space, the F-35A should launch about 250 miles west of Iran’s border.
+      So what’s the problem? It is the YLC-8B Chinese radar that has been supplied to
+      Iran. The YLC-8B is a three-dimensional, long-range anti-stealth surveillance
+      radar developed by China’s Nanjing Research Institute of Electronics Technology.
+      It’s a UHF-band radar, which is particularly effective against stealth aircraft
+      because longer radio wavelengths are harder for aircraft to evade through traditional
+      radar-absorbent materials. Here are its key capabilities: Detection range: Up
+      to 700 kilometers (about 430 miles) for ballistic missiles, and around 270to 330
+      kilometers (170 to 205 miles) for conventional aircraft Stealth detection: Specifically
+      designed to detect aircraft with small radar cross-sections, including the F-35
+      Lightning II and the B-2 Spirit bomber, at distances exceeding 200 kilometers
+      Targets a one-square-meter radar cross-section at useful ranges Rapid deployment:
+      Can be deployed or dismantled in under 30 minutes, making it mobile and hard to
+      target Integration capability: Can reportedly be linked with BeiDou satellite
+      navigation and integrated into air-defense networks If that radar is deployed
+      30 miles from Iran’s western border, it will — in theory — be able to detect and
+      target the F-35A squadrons 400 miles inside Saudi Arabian territory. This is a
+      genuine game-changer for Iran’s air defenses. Stealth aircraft like the F-35 rely
+      on their low radar cross-section to approach targets undetected. The YLC-8B’s
+      UHF-band operation partially neutralizes that advantage. Even if the radar doesn’t
+      provide precise targeting data for SAMs, it can provide early warning and track
+      approximate positions — which is invaluable for air defense planning and force
+      deployment. The maximum safe distance for airborne refueling of F-35As in Saudi
+      territory—while avoiding detection by a YLC-8B radar deployed 30 miles (about
+      48 km) inside Iran’s western border with Saudi Arabia—would be approximately 380–430
+      miles (610–690 km) from the Iranian border, to err on the side of caution. To
+      summarize, the optimal launch point for an AGM-158B by an F-35A puts it well within
+      the Chinese radar’s range for detection. Then there is the question of intercepting
+      the AGM missile. The Russians reportedly have provided Iran with S-400 and S-300
+      air defense systems. The S-400 uses a family of missiles for layered defense,
+      so the “maximum range” depends on which one is loaded. Consensus from reliable
+      sources (e.g., Wikipedia aggregates, CSIS Missile Threat, GlobalSecurity.org,
+      Army Technology, and Russian defense reports) breaks it down as follows: 40N6
+      / 40N6E (long-range, active radar homing): 400 km (250 miles) – This is the system’s
+      advertised maximum for aerodynamic targets (e.g., aircraft, AWACS, cruise missiles
+      at high altitude). It’s designed for standoff engagements, including potential
+      over-the-horizon shots, and is the basis for claims of the S-400’s superior reach.
+      48N6 series (e.g., 48N6E3 / 48N6DM): 240–250 km (150 miles) – Common medium-range
+      option, used for most intercepts including stealth aircraft, drones, and some
+      ballistic threats. 9M96E2 : 120 km (75 miles) – Shorter-range, high-maneuverability
+      missile for tactical threats like low-flying cruise missiles or aircraft. 9M96E
+      : 40 km (25 miles) – Point-defense variant. So what does this all mean? As long
+      as the F-35As stay outside the range of the 40N6/ 40N6E missiles, it is unlikely
+      that Iran will be able to shoot down any of the US aircraft. However, the Chinese
+      radar, working in tandem with the Russian S-300 and S-400 systems have a high
+      probability of destroying the AGM’s before they reach their targets. Iran is unlikely
+      to be sitting passively waiting to be hit. While the US will be launching AGMs
+      at Iranian targets, the Iranians will be launching drones and ballistic missiles
+      at the air bases in Saudi Arabia and Jordan, as well as going after other US targets
+      in the region. I think this helps explain with General Caine and CIA Director
+      Ratclifffe reportedly told Trump that they could not guarantee the success of
+      a surgical strike. This will mark the first time since the end of WW II that the
+      US will engage a country with a missile/drone capability that could neutralize
+      US air assets and inflict heavy damage of US and ally military infrastructure.
+      Here is my latest video at Counter Currents … I discuss the Three Big Lies about
+      Iran that the US is feeding to a gullible public: Danny Davis and I had a lively
+      discussion — mostly centered on Iran and the looming US attack — and we came to
+      the amusing conclusion that German Chancellor Mertz bears a remarkable resemblance
+      to a beloved South Park character: Patrick Hennignsen and I were hosted by Danny
+      Haiphong. The discussion is resonating on social media with 350,000 views so far:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump has deployed nearly 30% of the US Air Force's
+      F-35A jets to Jordan and Saudi Arabia, despite their limited capability to effectively
+      strike high-priority targets in Iran due to the distance and the need for air
+      refueling near the Iranian border.
+    paragraph_summary: The article discusses the strategic deployment of nearly 30%
+      of the US Air Force's F-35A jets to Jordan and Saudi Arabia under Donald Trump's
+      administration, questioning their effectiveness against Iran. The F-35As, stationed
+      at bases approximately 870-930 miles from Tehran, require air refueling to reach
+      high-priority targets in Iran due to the distance and the presence of Iranian
+      air defense systems. The effective combat radius of the F-35A in stealth mode
+      is over 590 nautical miles, meaning that when launched from Jordan, they would
+      need to refuel before reaching Iran, complicating their operational capabilities.
+      The analysis highlights the logistical challenges and limitations of using these
+      advanced jets for direct strikes against Iran without adequate support and planning.
+    published: '2026-02-25T04:59:10+00:00'
+  - title: Understanding Why General Caine Cannot Guarantee a Slam-Dunk Success if the
+      US Attacks Iran
+    url: https://sonar21.com/understanding-why-general-caine-cannot-guarantee-a-slam-dunk-success-if-the-us-attacks-iran/
+    text: 'Why has Donald Trump deployed almost 30% of the US Air Force inventory of
+      F-35A jets to Jordan and Saudi Arabia when these aircraft are unable to penetrate
+      deep into Iran without air refueling near the Iranian border. They are essentially
+      useless for inflicting damage on high priority targets in Iran if Iran’s air defense
+      systems are intact. Let me explain. I will try to make this as simple as possible…
+      The majority of the combat aircraft the US has deployed to the Middle East are
+      based in Jordan’s Shaheed Muwaffaq al-Salti Air Base , which is is roughly about
+      1,400–1,500 km (around 870–930 miles) from Tehran in a straight line, and Prince
+      Sultan Air Base , which is 680–750 miles from Tehran. The distance from Iran’s
+      western border to Tehran varies depending on the exact point along the border,
+      but here’s the real-world breakdown: Straight-line (as-the-crow-flies) from the
+      closest western border point—say, near Mehran or Qasr-e Shirin on the Iraq border—to
+      Tehran: About 400–450 kilometers (248–280 miles). From a mid-western spot like
+      Kermanshah (a major city right on the border): Roughly 430 km (267 miles) to Tehran.
+      If you’re measuring from the far-western edge (e.g., near the Turkey-Iraq-Iran
+      tripoint): Closer to 500–550 km (310–342 miles). Averaging it out for military
+      planning: ~425 km (264 miles) is the practical ballpark—about a 30–40 minute flight
+      for an F-35 at subsonic cruise. According to Lockheed Martin and US Air Force
+      data sheets, the effective combat radius of an F-35A when flying in a stealth
+      configuration (i.e., using only internal fuel and internal weapons bays to preserve
+      low-observable characteristics) is >590 nautical miles (approximately 1,093 kilometers
+      or 679 statute miles). How is you addition and subtraction math skills? Let’s
+      use Kermanshah as the point of reference for the flight plan of a squadron of
+      F-35As that are trying to attack Iran. If those planes take off from Jordan, they
+      will need to refuel when they are 200 nautical miles from the Iranian border.
+      They would then have barely enough fuel to reach Tehran, drop their bombs and
+      return to the border with Saudi Arabia. But the F-35As most likely will be carrying
+      a AGM-158B JASSM-ER (Extended Range, the current primary operational variant)
+      with a 1,000 pound warhead. The maximum range of the AGM-158B is 575 miles (approximately
+      925–1,000 km). To have the best chance of an effective strike without entering
+      Iranian air space, the F-35A should launch about 250 miles west of Iran’s border.
+      So what’s the problem? It is the YLC-8B Chinese radar that has been supplied to
+      Iran. The YLC-8B is a three-dimensional, long-range anti-stealth surveillance
+      radar developed by China’s Nanjing Research Institute of Electronics Technology.
+      It’s a UHF-band radar, which is particularly effective against stealth aircraft
+      because longer radio wavelengths are harder for aircraft to evade through traditional
+      radar-absorbent materials. Here are its key capabilities: Detection range: Up
+      to 700 kilometers (about 430 miles) for ballistic missiles, and around 270to 330
+      kilometers (170 to 205 miles) for conventional aircraft Stealth detection: Specifically
+      designed to detect aircraft with small radar cross-sections, including the F-35
+      Lightning II and the B-2 Spirit bomber, at distances exceeding 200 kilometers
+      Targets a one-square-meter radar cross-section at useful ranges Rapid deployment:
+      Can be deployed or dismantled in under 30 minutes, making it mobile and hard to
+      target Integration capability: Can reportedly be linked with BeiDou satellite
+      navigation and integrated into air-defense networks If that radar is deployed
+      30 miles from Iran’s western border, it will — in theory — be able to detect and
+      target the F-35A squadrons 400 miles inside Saudi Arabian territory. This is a
+      genuine game-changer for Iran’s air defenses. Stealth aircraft like the F-35 rely
+      on their low radar cross-section to approach targets undetected. The YLC-8B’s
+      UHF-band operation partially neutralizes that advantage. Even if the radar doesn’t
+      provide precise targeting data for SAMs, it can provide early warning and track
+      approximate positions — which is invaluable for air defense planning and force
+      deployment. The maximum safe distance for airborne refueling of F-35As in Saudi
+      territory—while avoiding detection by a YLC-8B radar deployed 30 miles (about
+      48 km) inside Iran’s western border with Saudi Arabia—would be approximately 380–430
+      miles (610–690 km) from the Iranian border, to err on the side of caution. To
+      summarize, the optimal launch point for an AGM-158B by an F-35A puts it well within
+      the Chinese radar’s range for detection. Then there is the question of intercepting
+      the AGM missile. The Russians reportedly have provided Iran with S-400 and S-300
+      air defense systems. The S-400 uses a family of missiles for layered defense,
+      so the “maximum range” depends on which one is loaded. Consensus from reliable
+      sources (e.g., Wikipedia aggregates, CSIS Missile Threat, GlobalSecurity.org,
+      Army Technology, and Russian defense reports) breaks it down as follows: 40N6
+      / 40N6E (long-range, active radar homing): 400 km (250 miles) – This is the system’s
+      advertised maximum for aerodynamic targets (e.g., aircraft, AWACS, cruise missiles
+      at high altitude). It’s designed for standoff engagements, including potential
+      over-the-horizon shots, and is the basis for claims of the S-400’s superior reach.
+      48N6 series (e.g., 48N6E3 / 48N6DM): 240–250 km (150 miles) – Common medium-range
+      option, used for most intercepts including stealth aircraft, drones, and some
+      ballistic threats. 9M96E2 : 120 km (75 miles) – Shorter-range, high-maneuverability
+      missile for tactical threats like low-flying cruise missiles or aircraft. 9M96E
+      : 40 km (25 miles) – Point-defense variant. So what does this all mean? As long
+      as the F-35As stay outside the range of the 40N6/ 40N6E missiles, it is unlikely
+      that Iran will be able to shoot down any of the US aircraft. However, the Chinese
+      radar, working in tandem with the Russian S-300 and S-400 systems have a high
+      probability of destroying the AGM’s before they reach their targets. Iran is unlikely
+      to be sitting passively waiting to be hit. While the US will be launching AGMs
+      at Iranian targets, the Iranians will be launching drones and ballistic missiles
+      at the air bases in Saudi Arabia and Jordan, as well as going after other US targets
+      in the region. I think this helps explain with General Caine and CIA Director
+      Ratclifffe reportedly told Trump that they could not guarantee the success of
+      a surgical strike. This will mark the first time since the end of WW II that the
+      US will engage a country with a missile/drone capability that could neutralize
+      US air assets and inflict heavy damage of US and ally military infrastructure.
+      Here is my latest video at Counter Currents … I discuss the Three Big Lies about
+      Iran that the US is feeding to a gullible public: Danny Davis and I had a lively
+      discussion — mostly centered on Iran and the looming US attack — and we came to
+      the amusing conclusion that German Chancellor Mertz bears a remarkable resemblance
+      to a beloved South Park character: Patrick Hennignsen and I were hosted by Danny
+      Haiphong. The discussion is resonating on social media with 350,000 views so far:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump has deployed nearly 30% of the US Air Force's
+      F-35A jets to Jordan and Saudi Arabia, despite their limited capability to effectively
+      strike high-priority targets in Iran due to the distance and the need for air
+      refueling near the Iranian border.
+    paragraph_summary: The article discusses the strategic deployment of nearly 30%
+      of the US Air Force's F-35A jets to Jordan and Saudi Arabia under Donald Trump's
+      administration, questioning their effectiveness against Iran. The F-35As, stationed
+      at bases approximately 870-930 miles from Tehran, require air refueling to reach
+      high-priority targets in Iran due to the distance and the presence of Iranian
+      air defense systems. The effective combat radius of the F-35A in stealth mode
+      is over 590 nautical miles, meaning that when launched from Jordan, they would
+      need to refuel before reaching Iran, complicating their operational capabilities.
+      The analysis highlights the logistical challenges and limitations of using these
+      advanced jets for direct strikes against Iran without adequate support and planning.
+    published: '2026-02-25T04:59:10+00:00'
+  - title: The Key Indicators that the US is Going to Attack Iran
+    url: https://sonar21.com/the-key-indicators-that-the-us-is-going-to-attack-iran/
+    text: 'Gneral Dan Caine My apologies. I should have pointed this out last week.
+      While it is true that Donald Trump has deployed the largest force of US combat
+      aircraft to West Asia/the Middle East since George W Bush did it in early 2003,
+      there are two other key indicators that are not yet lighting up, which would signal
+      an attack is imminent — i.e., NOTAMS and US embassies ordering some or all of
+      its employees to depart the country. As of February 23, only US Embassy Beirut
+      has ordered non-essential employees to depart, while the US embassies in the Gulf
+      states remain intact. NOTAMs (Notices to Air Missions) are real-time, constantly
+      updated operational documents issued by aviation authorities. Here’s a summary
+      of the current NOTAM/airspace warning picture for the Iran region, based on the
+      most recent information available: EASA CZIB 2026-02 R1 (issued 16 Jan 2026, valid
+      to 31 Mar 2026): Operators should not fly within Iran’s Tehran FIR at any altitude.
+      EASA cites the potential for U.S. military action placing Iranian air defenses
+      on heightened alert, with an increased likelihood of misidentification. The presence
+      of a wide range of weapons and air-defense systems, combined with unpredictable
+      state responses and possible SAM activation, creates high risk at all altitudes.
+      Germany NOTAM B0082/26 (issued 10 Feb 2026, valid to 10 Mar 2026): German operators
+      are recommended not to enter Tehran FIR due to hazardous situation and potential
+      risk from escalating conflict and anti-aviation weaponry. USA SFAR 117 (valid
+      through 31 Oct 2027): All U.S. air carriers, commercial operators, and FAA certificate
+      holders are prohibited from overflying the Tehran FIR due to the risk of misidentification
+      and unannounced military activities. Italy NOTAM E2877/25 (valid to 15 Mar 2026):
+      Italian carriers advised to have robust risk assessments and contingency planning
+      for any operations in Tehran FIR. UK AIP ENR 1.1 : Ongoing caution for UK operators.
+      Canada AIC 21/25 : Ongoing warning dating back to the Jan 2020 shoot-down of Ukraine
+      International Airlines flight 752. As you can see, Germany is the only one recommending,
+      not WARNING, German operators to steer clear of Tehran. The paucity of embassies
+      reducing non-essential personnel, coupled with the limited number of NOTAMs, makes
+      it unlikely that the US will launch an attack imminently. Donald Trump has painted
+      himself into a corner. We got a surprising insight into Trump’s thinking courtesy
+      of Steve Witkoff. In his February 21, 2026, Fox News interview on My View with
+      Lara Trump , Witkoff said of President Trump: I don’t want to use the word ‘frustrated,’
+      because he understands he has plenty of alternatives, but he’s curious as to why
+      they haven’t… I don’t want to use the word ‘capitulated,’ but why they haven’t
+      capitulated. Why, under this pressure, with the amount of seapower and naval power
+      that we have over there, why haven’t they come to us and said, ‘We profess we
+      don’t want a weapon, so here’s what we’re prepared to do’? Trump naively believed,
+      based on what Witkoff said, that the massive deployment of US air assets to Jordan
+      and Saudi Arabia, coupled with the withdrawal of some US troops from bases in
+      and around the Persian Gulf, would frighten Iran into making concessions and becoming
+      more malleable in terms of negotiations. That didn’t work. It had the opposite
+      effect… Iran has been busy fortifying key installations, installing additional
+      air defense assets courtesy of Russia and China, scattering its missile forces
+      and designating replacements in the event key leaders are killed. Trump has put
+      himself in an untenable and dangerous bind… I see four possible scenarios/options:
+      Option 1: He authorizes Steve Witkoff to secure a deal with Iran that will be
+      the equivalent of JCPOA-lite — i.e., Iran agrees to inspections that will verify
+      that Iran is not building a nuke and Iran accepts some limits on uranium enrichment.
+      Trump will then declare victory and begin withdrawing the combat jets from the
+      area. He will essentially be accepting the deal he tore up in 2018. Option 2:
+      Keep US forces in place and on alert, but delay indefinitely any military action
+      while pursuing inconclusive negotiations. Option 3: Launch a targeted strike.
+      Option 4: Launch a full-scale attack. The problem with Option 3 is that Iran will
+      treat it as if it were Option 4, which means that Iran would attack, as promised,
+      all US bases in the region. This would likely compel Trump to double down on his
+      military venture and he would find himself bogged down in a war of attrition.
+      According to a report that came out late on Monday in the Washington Post , Trump’s
+      Chairman of the Joint Chiefs of Staff, Dan Caine, appears to recognize the peril
+      the US faces if it pursues any of the military options: As the Trump administration
+      weighs an attack on Iran, the Pentagon’s top general has cautioned President Donald
+      Trump and other officials that shortfalls in critical munitions and a lack of
+      support from allies will add significant risk to the operation and to U.S. personnel,
+      according to people familiar with internal discussions. . . . [A]ny major operation
+      against Iran will face challenges because the U.S. munitions stockpile has been
+      significantly depleted by Washington’s ongoing defense of Israel and support for
+      Ukraine. . . . Trump, after this article’s publication, posted on social media
+      that it is “ 100% incorrect ” that Caine is “against us going to War with Iran.”
+      Trump said that the general would not like to see a military confrontation with
+      Iran but that if it did happen, “it is his opinion that it will be something easily
+      won.” The people who spoke to The Post about Caine’s thinking directly contradicted
+      Trump’s optimistic characterization. At least Caine appears to grasp the enormity
+      of the risks facing the Trump administration if the President authorizes the attack
+      on Iran to begin. The fact that people loyal to Caine gave this story to the Washington
+      Post tells me that some of the top military brass understand that going to war
+      with Iran has the potential to turn in to a big shit sandwich. If they have to
+      eat it they want it on the record that Trump was warned not to do this. The line
+      between war and peace hinges on one thing… Will Donald Trump accept the deal Iran
+      is willing to make on providing a solid guarantee that Iran will not build a nuke?
+      If he takes the deal, no war. If he refuses, then war is inevitable. The US is
+      not prepared for such a war, but Iran is. The choice is entirely up to Donald
+      Trump Nima and I spent most of our hour long conversation talking about Iran and
+      his assessment that the Ayatollah enjoys more support than the West is willing
+      to acknowledge: Here is my Monday chat with Judge Napolitano: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: General Dan Caine notes that while the deployment of U.S.
+      combat aircraft to the Middle East is significant, key indicators such as NOTAMs
+      and embassy evacuations have not yet signaled an imminent attack, with only the
+      U.S. Embassy in Beirut ordering non-essential staff to leave as of February 23.
+    paragraph_summary: General Dan Caine highlights that while Donald Trump has deployed
+      the largest force of U.S. combat aircraft to the Middle East since 2003, key indicators
+      of an imminent attack, such as NOTAMs and embassy evacuations, are not yet fully
+      activated. As of February 23, only the U.S. Embassy in Beirut has ordered non-essential
+      staff to leave, while embassies in Gulf states remain unaffected. Current NOTAMs
+      indicate a high-risk environment in Iran's airspace, with various countries advising
+      against flights due to potential U.S. military action and heightened Iranian air
+      defenses. These advisories underscore the dangers posed by the presence of advanced
+      weaponry and the possibility of misidentification in the region.
+    published: '2026-02-24T05:47:49+00:00'
+  - title: The Key Indicators that the US is Going to Attack Iran
+    url: https://sonar21.com/the-key-indicators-that-the-us-is-going-to-attack-iran/
+    text: 'Gneral Dan Caine My apologies. I should have pointed this out last week.
+      While it is true that Donald Trump has deployed the largest force of US combat
+      aircraft to West Asia/the Middle East since George W Bush did it in early 2003,
+      there are two other key indicators that are not yet lighting up, which would signal
+      an attack is imminent — i.e., NOTAMS and US embassies ordering some or all of
+      its employees to depart the country. As of February 23, only US Embassy Beirut
+      has ordered non-essential employees to depart, while the US embassies in the Gulf
+      states remain intact. NOTAMs (Notices to Air Missions) are real-time, constantly
+      updated operational documents issued by aviation authorities. Here’s a summary
+      of the current NOTAM/airspace warning picture for the Iran region, based on the
+      most recent information available: EASA CZIB 2026-02 R1 (issued 16 Jan 2026, valid
+      to 31 Mar 2026): Operators should not fly within Iran’s Tehran FIR at any altitude.
+      EASA cites the potential for U.S. military action placing Iranian air defenses
+      on heightened alert, with an increased likelihood of misidentification. The presence
+      of a wide range of weapons and air-defense systems, combined with unpredictable
+      state responses and possible SAM activation, creates high risk at all altitudes.
+      Germany NOTAM B0082/26 (issued 10 Feb 2026, valid to 10 Mar 2026): German operators
+      are recommended not to enter Tehran FIR due to hazardous situation and potential
+      risk from escalating conflict and anti-aviation weaponry. USA SFAR 117 (valid
+      through 31 Oct 2027): All U.S. air carriers, commercial operators, and FAA certificate
+      holders are prohibited from overflying the Tehran FIR due to the risk of misidentification
+      and unannounced military activities. Italy NOTAM E2877/25 (valid to 15 Mar 2026):
+      Italian carriers advised to have robust risk assessments and contingency planning
+      for any operations in Tehran FIR. UK AIP ENR 1.1 : Ongoing caution for UK operators.
+      Canada AIC 21/25 : Ongoing warning dating back to the Jan 2020 shoot-down of Ukraine
+      International Airlines flight 752. As you can see, Germany is the only one recommending,
+      not WARNING, German operators to steer clear of Tehran. The paucity of embassies
+      reducing non-essential personnel, coupled with the limited number of NOTAMs, makes
+      it unlikely that the US will launch an attack imminently. Donald Trump has painted
+      himself into a corner. We got a surprising insight into Trump’s thinking courtesy
+      of Steve Witkoff. In his February 21, 2026, Fox News interview on My View with
+      Lara Trump , Witkoff said of President Trump: I don’t want to use the word ‘frustrated,’
+      because he understands he has plenty of alternatives, but he’s curious as to why
+      they haven’t… I don’t want to use the word ‘capitulated,’ but why they haven’t
+      capitulated. Why, under this pressure, with the amount of seapower and naval power
+      that we have over there, why haven’t they come to us and said, ‘We profess we
+      don’t want a weapon, so here’s what we’re prepared to do’? Trump naively believed,
+      based on what Witkoff said, that the massive deployment of US air assets to Jordan
+      and Saudi Arabia, coupled with the withdrawal of some US troops from bases in
+      and around the Persian Gulf, would frighten Iran into making concessions and becoming
+      more malleable in terms of negotiations. That didn’t work. It had the opposite
+      effect… Iran has been busy fortifying key installations, installing additional
+      air defense assets courtesy of Russia and China, scattering its missile forces
+      and designating replacements in the event key leaders are killed. Trump has put
+      himself in an untenable and dangerous bind… I see four possible scenarios/options:
+      Option 1: He authorizes Steve Witkoff to secure a deal with Iran that will be
+      the equivalent of JCPOA-lite — i.e., Iran agrees to inspections that will verify
+      that Iran is not building a nuke and Iran accepts some limits on uranium enrichment.
+      Trump will then declare victory and begin withdrawing the combat jets from the
+      area. He will essentially be accepting the deal he tore up in 2018. Option 2:
+      Keep US forces in place and on alert, but delay indefinitely any military action
+      while pursuing inconclusive negotiations. Option 3: Launch a targeted strike.
+      Option 4: Launch a full-scale attack. The problem with Option 3 is that Iran will
+      treat it as if it were Option 4, which means that Iran would attack, as promised,
+      all US bases in the region. This would likely compel Trump to double down on his
+      military venture and he would find himself bogged down in a war of attrition.
+      According to a report that came out late on Monday in the Washington Post , Trump’s
+      Chairman of the Joint Chiefs of Staff, Dan Caine, appears to recognize the peril
+      the US faces if it pursues any of the military options: As the Trump administration
+      weighs an attack on Iran, the Pentagon’s top general has cautioned President Donald
+      Trump and other officials that shortfalls in critical munitions and a lack of
+      support from allies will add significant risk to the operation and to U.S. personnel,
+      according to people familiar with internal discussions. . . . [A]ny major operation
+      against Iran will face challenges because the U.S. munitions stockpile has been
+      significantly depleted by Washington’s ongoing defense of Israel and support for
+      Ukraine. . . . Trump, after this article’s publication, posted on social media
+      that it is “ 100% incorrect ” that Caine is “against us going to War with Iran.”
+      Trump said that the general would not like to see a military confrontation with
+      Iran but that if it did happen, “it is his opinion that it will be something easily
+      won.” The people who spoke to The Post about Caine’s thinking directly contradicted
+      Trump’s optimistic characterization. At least Caine appears to grasp the enormity
+      of the risks facing the Trump administration if the President authorizes the attack
+      on Iran to begin. The fact that people loyal to Caine gave this story to the Washington
+      Post tells me that some of the top military brass understand that going to war
+      with Iran has the potential to turn in to a big shit sandwich. If they have to
+      eat it they want it on the record that Trump was warned not to do this. The line
+      between war and peace hinges on one thing… Will Donald Trump accept the deal Iran
+      is willing to make on providing a solid guarantee that Iran will not build a nuke?
+      If he takes the deal, no war. If he refuses, then war is inevitable. The US is
+      not prepared for such a war, but Iran is. The choice is entirely up to Donald
+      Trump Nima and I spent most of our hour long conversation talking about Iran and
+      his assessment that the Ayatollah enjoys more support than the West is willing
+      to acknowledge: Here is my Monday chat with Judge Napolitano: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: General Dan Caine notes that while the deployment of U.S.
+      combat aircraft to the Middle East is significant, key indicators such as NOTAMs
+      and embassy evacuations have not yet signaled an imminent attack, with only the
+      U.S. Embassy in Beirut ordering non-essential staff to leave as of February 23.
+    paragraph_summary: General Dan Caine highlights that while Donald Trump has deployed
+      the largest force of U.S. combat aircraft to the Middle East since 2003, key indicators
+      of an imminent attack, such as NOTAMs and embassy evacuations, are not yet fully
+      activated. As of February 23, only the U.S. Embassy in Beirut has ordered non-essential
+      staff to leave, while embassies in Gulf states remain unaffected. Current NOTAMs
+      indicate a high-risk environment in Iran's airspace, with various countries advising
+      against flights due to potential U.S. military action and heightened Iranian air
+      defenses. These advisories underscore the dangers posed by the presence of advanced
+      weaponry and the possibility of misidentification in the region.
+    published: '2026-02-24T05:47:49+00:00'
+  - title: War With Iran on Hold… But for How Long?
+    url: https://sonar21.com/war-with-iran-on-hold-but-for-how-long/
+    text: 'Trying to figure out what Trump and Netanyahu are going to do vis-a-vis Iran
+      is like trying to read tea leaves in a monster hurricane. Let me start with the
+      facts, i.e., what we know to be true: The United States has moved a massive amount
+      of combat air assets into the region, along with support aircraft and maintenance
+      technicians… This is on a scale last seen in 2003 prior to the invasion of Iraq.
+      The logistics and air bridges are still in full swing, with no sign of slowing
+      down. Air Force planners prefer to conduct air operations (a nice euphemism for
+      starting a war) when there is no or very little moonlight (I know, I know… With
+      modern avionics a moonless night no longer provides the guaranteed protection
+      that was the case 30 years ago). The next cycle of no moonlight falls in mid-March.
+      If planners get their way, there will be no attack until mid-March. Oman announced
+      today that the US and Russian mediators will meet this Friday to continue indirect
+      talks with Oman playing the role of mediator. Donald Trump is under enormous pressure
+      from Israel, as well as Christian and Jewish Zionists, to launch the attack as
+      soon as possible, and from military leaders who fear that an extended deployment
+      will degrade US capabilities to carry out a successful operation against Iran
+      unless action is taken as soon as possible. At the same time, President Trump
+      is getting a strong push back from Arab and Muslim leaders in the region to avoid
+      using military force against Iran and to secure a negotiated agreement. Donald
+      Trump’s proposed attack on Iran is strongly opposed by more than 70% of US voters.
+      Iran remains willing to make a deal that will guarantee it is not building a nuclear
+      weapon and will limit enrichment of uranium to levels that cannot produce fissile
+      material needed to construct a bomb. Russia and China have provided Iran with
+      an unprecedented level of military equipment and intelligence. Did that fact compel
+      the US to step on the brakes and work out a deal with Iran? Rumors are flying
+      around social media that Trump is going to order the attack as soon as Monday,
+      February 23. But is he willing to do that on the even of his State of the Union
+      address, which is scheduled for Tuesday? I know that Trump is supposed to meet
+      with an influential supporter on Monday and that person is going to warn the President
+      that his entire agenda will be sabotaged if he goes to war with Iran. This entire
+      affair is shaping up like a season of Game of Thrones , except there are no dragons
+      and no nudity. Did Ambassador Mike Huckabee’s outrageous comment to Tucker Carlson
+      — i.e., that Israel has the divine right to occupy all land from the Nile to the
+      Euphrates River — create such a firestorm of outrage among the Arab and Muslim
+      nations in the region that the planned attack had to be called off? I believe
+      Trump will not order an attack on Iran until he is given assurances that the attack
+      will be quick and effective… Getting bogged down in a war of attrition carries
+      an enormous risk for Trump and the US military because of the weak supply chain
+      for producing essential weapons, such as air defense missiles, and the fact that
+      China is withholding key minerals, such as palladium, which are needed to produce
+      key weapons like the Tomahawk cruise missile. So I leave it to you… What do you
+      think is going to happen? I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the uncertainty surrounding the potential
+      military actions of Trump and Netanyahu regarding Iran, highlighting the significant
+      buildup of U.S. combat air assets in the region and the strategic timing of possible
+      air operations, particularly with a focus on the upcoming moonless nights in mid-March.
+    paragraph_summary: 'The situation regarding potential military action by the U.S.
+      and Israel against Iran is highly complex and uncertain, with significant military
+      assets already deployed in the region reminiscent of pre-Iraq War levels. Air
+      Force planners are aiming for a potential operation during a moonless period in
+      mid-March, but President Trump faces conflicting pressures: strong encouragement
+      from Israel and certain domestic factions to act swiftly, contrasted with significant
+      opposition from Arab leaders and a majority of U.S. voters who prefer diplomatic
+      solutions. Meanwhile, Iran is open to negotiations that would limit its nuclear
+      capabilities, and the support it receives from Russia and China complicates the
+      U.S. decision-making process, raising questions about whether these factors might
+      lead to a diplomatic resolution rather than military action.'
+    published: '2026-02-23T04:54:41+00:00'
+  - title: War With Iran on Hold… But for How Long?
+    url: https://sonar21.com/war-with-iran-on-hold-but-for-how-long/
+    text: 'Trying to figure out what Trump and Netanyahu are going to do vis-a-vis Iran
+      is like trying to read tea leaves in a monster hurricane. Let me start with the
+      facts, i.e., what we know to be true: The United States has moved a massive amount
+      of combat air assets into the region, along with support aircraft and maintenance
+      technicians… This is on a scale last seen in 2003 prior to the invasion of Iraq.
+      The logistics and air bridges are still in full swing, with no sign of slowing
+      down. Air Force planners prefer to conduct air operations (a nice euphemism for
+      starting a war) when there is no or very little moonlight (I know, I know… With
+      modern avionics a moonless night no longer provides the guaranteed protection
+      that was the case 30 years ago). The next cycle of no moonlight falls in mid-March.
+      If planners get their way, there will be no attack until mid-March. Oman announced
+      today that the US and Russian mediators will meet this Friday to continue indirect
+      talks with Oman playing the role of mediator. Donald Trump is under enormous pressure
+      from Israel, as well as Christian and Jewish Zionists, to launch the attack as
+      soon as possible, and from military leaders who fear that an extended deployment
+      will degrade US capabilities to carry out a successful operation against Iran
+      unless action is taken as soon as possible. At the same time, President Trump
+      is getting a strong push back from Arab and Muslim leaders in the region to avoid
+      using military force against Iran and to secure a negotiated agreement. Donald
+      Trump’s proposed attack on Iran is strongly opposed by more than 70% of US voters.
+      Iran remains willing to make a deal that will guarantee it is not building a nuclear
+      weapon and will limit enrichment of uranium to levels that cannot produce fissile
+      material needed to construct a bomb. Russia and China have provided Iran with
+      an unprecedented level of military equipment and intelligence. Did that fact compel
+      the US to step on the brakes and work out a deal with Iran? Rumors are flying
+      around social media that Trump is going to order the attack as soon as Monday,
+      February 23. But is he willing to do that on the even of his State of the Union
+      address, which is scheduled for Tuesday? I know that Trump is supposed to meet
+      with an influential supporter on Monday and that person is going to warn the President
+      that his entire agenda will be sabotaged if he goes to war with Iran. This entire
+      affair is shaping up like a season of Game of Thrones , except there are no dragons
+      and no nudity. Did Ambassador Mike Huckabee’s outrageous comment to Tucker Carlson
+      — i.e., that Israel has the divine right to occupy all land from the Nile to the
+      Euphrates River — create such a firestorm of outrage among the Arab and Muslim
+      nations in the region that the planned attack had to be called off? I believe
+      Trump will not order an attack on Iran until he is given assurances that the attack
+      will be quick and effective… Getting bogged down in a war of attrition carries
+      an enormous risk for Trump and the US military because of the weak supply chain
+      for producing essential weapons, such as air defense missiles, and the fact that
+      China is withholding key minerals, such as palladium, which are needed to produce
+      key weapons like the Tomahawk cruise missile. So I leave it to you… What do you
+      think is going to happen? I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the uncertainty surrounding the potential
+      military actions of Trump and Netanyahu regarding Iran, highlighting the significant
+      buildup of U.S. combat air assets in the region and the strategic timing of possible
+      air operations, particularly with a focus on the upcoming moonless nights in mid-March.
+    paragraph_summary: 'The situation regarding potential military action by the U.S.
+      and Israel against Iran is highly complex and uncertain, with significant military
+      assets already deployed in the region reminiscent of pre-Iraq War levels. Air
+      Force planners are aiming for a potential operation during a moonless period in
+      mid-March, but President Trump faces conflicting pressures: strong encouragement
+      from Israel and certain domestic factions to act swiftly, contrasted with significant
+      opposition from Arab leaders and a majority of U.S. voters who prefer diplomatic
+      solutions. Meanwhile, Iran is open to negotiations that would limit its nuclear
+      capabilities, and the support it receives from Russia and China complicates the
+      U.S. decision-making process, raising questions about whether these factors might
+      lead to a diplomatic resolution rather than military action.'
+    published: '2026-02-23T04:54:41+00:00'
+  - title: 'Israel and Birobidzhan: The Story of Two Jewish Homelands'
+    url: https://sonar21.com/israel-and-birobidzhan-the-story-of-two-jewish-homelands/
+    text: The existence of two Jewish territories is not widely recognized. Israel was
+      established in Palestine as an ethnic state, while the second territory, Birobidzhan,
+      is located in southeastern Siberia, Russia. Birobidzhan remains largely unfamiliar
+      to the general public. The origins of Israel can be traced to Laurence Oliphant,
+      who in the 1880s proposed establishing a Jewish colony or state-like settlement
+      in Ottoman Palestine as an early proto-Zionist effort. Decades later, the Balfour
+      Declaration (1917) expressed British support for a Jewish national home in Palestine.
+      This support reflected both strategic interests in the Middle East and the desire
+      to secure access to oil-rich Mesopotamia. The 1917 Sykes-Picot Agreement between
+      Britain and France, with Russia’s consent, delineated artificial boundaries for
+      Middle Eastern nation-states that persist to this day, though some, such as Syria,
+      are experiencing significant instability. Millions of Jews once lived in the Russian
+      Empire, in areas that are now Poland, Lithuania, Ukraine, and Belarus. In 1934,
+      the Soviet Union established the Jewish Autonomous Region in southeastern Siberia,
+      known as Birobidzhan. It is the first modern Jewish territory whose ancestors
+      came from medieval Jewish communities in Eastern Europe known as Ashkenazi Jews.
+      It was founded as an egalitarian society free of religious oppression. Many left-wing
+      American Jews supported the belief that the USSR was building a just society.
+      Benjamin Rich, better known online as Bald and Bankrupt , is a British travel
+      vlogger who does an excellent job documenting modern-day Birobidzhan. In contrast
+      to contemporary Israel, Birobidzhan has remained peaceful and uncontroversial
+      on the international stage. Bob Bishop is a forensic investigator and a retired
+      CPA .
+    one_sentence_summary: The article highlights the lesser-known existence of Birobidzhan,
+      a Jewish territory in Russia, alongside Israel, which was established in Palestine
+      through early proto-Zionist efforts and later supported by British declarations
+      and agreements that shaped the modern Middle East.
+    paragraph_summary: 'The article highlights the existence of two Jewish territories:
+      Israel and Birobidzhan, the latter being a lesser-known region in southeastern
+      Siberia, Russia. Israel was established in Palestine as an ethnic state, with
+      its origins linked to early proto-Zionist efforts by Laurence Oliphant in the
+      1880s and later supported by the Balfour Declaration in 1917, which was influenced
+      by British strategic interests in the Middle East. In contrast, Birobidzhan was
+      created in 1934 by the Soviet Union as a Jewish Autonomous Region for Ashkenazi
+      Jews, promoting an egalitarian society free from religious oppression. While Israel
+      has been a focal point of international controversy, Birobidzhan has remained
+      peaceful and largely unrecognized, with modern documentation by travel vlogger
+      Benjamin Rich showcasing its contemporary state.'
+    published: '2026-02-22T17:22:18+00:00'
+  - title: 'Israel and Birobidzhan: The Story of Two Jewish Homelands'
+    url: https://sonar21.com/israel-and-birobidzhan-the-story-of-two-jewish-homelands/
+    text: The existence of two Jewish territories is not widely recognized. Israel was
+      established in Palestine as an ethnic state, while the second territory, Birobidzhan,
+      is located in southeastern Siberia, Russia. Birobidzhan remains largely unfamiliar
+      to the general public. The origins of Israel can be traced to Laurence Oliphant,
+      who in the 1880s proposed establishing a Jewish colony or state-like settlement
+      in Ottoman Palestine as an early proto-Zionist effort. Decades later, the Balfour
+      Declaration (1917) expressed British support for a Jewish national home in Palestine.
+      This support reflected both strategic interests in the Middle East and the desire
+      to secure access to oil-rich Mesopotamia. The 1917 Sykes-Picot Agreement between
+      Britain and France, with Russia’s consent, delineated artificial boundaries for
+      Middle Eastern nation-states that persist to this day, though some, such as Syria,
+      are experiencing significant instability. Millions of Jews once lived in the Russian
+      Empire, in areas that are now Poland, Lithuania, Ukraine, and Belarus. In 1934,
+      the Soviet Union established the Jewish Autonomous Region in southeastern Siberia,
+      known as Birobidzhan. It is the first modern Jewish territory whose ancestors
+      came from medieval Jewish communities in Eastern Europe known as Ashkenazi Jews.
+      It was founded as an egalitarian society free of religious oppression. Many left-wing
+      American Jews supported the belief that the USSR was building a just society.
+      Benjamin Rich, better known online as Bald and Bankrupt , is a British travel
+      vlogger who does an excellent job documenting modern-day Birobidzhan. In contrast
+      to contemporary Israel, Birobidzhan has remained peaceful and uncontroversial
+      on the international stage. Bob Bishop is a forensic investigator and a retired
+      CPA .
+    one_sentence_summary: The article highlights the lesser-known existence of Birobidzhan,
+      a Jewish territory in Russia, alongside Israel, which was established in Palestine
+      through early proto-Zionist efforts and later supported by British declarations
+      and agreements that shaped the modern Middle East.
+    paragraph_summary: 'The article highlights the existence of two Jewish territories:
+      Israel and Birobidzhan, the latter being a lesser-known region in southeastern
+      Siberia, Russia. Israel was established in Palestine as an ethnic state, with
+      its origins linked to early proto-Zionist efforts by Laurence Oliphant in the
+      1880s and later supported by the Balfour Declaration in 1917, which was influenced
+      by British strategic interests in the Middle East. In contrast, Birobidzhan was
+      created in 1934 by the Soviet Union as a Jewish Autonomous Region for Ashkenazi
+      Jews, promoting an egalitarian society free from religious oppression. While Israel
+      has been a focal point of international controversy, Birobidzhan has remained
+      peaceful and largely unrecognized, with modern documentation by travel vlogger
+      Benjamin Rich showcasing its contemporary state.'
+    published: '2026-02-22T17:22:18+00:00'
+  - title: DONALD TRUMP’S PROBLEMS IN THE MIDDLE EAST (AKA WEST ASIA) ARE MOUNTING
+    url: https://sonar21.com/donald-trumps-problems-in-the-middle-east-aka-west-asia-are-mounting/
+    text: 'It appears that Sunday is the final moment when Trump will make his decision
+      whether or not to attack Iran… It is the last paragraph in this Xwitter (pronounced,
+      “SHITTER”)message that caught my eye: However, his calendar now indicates that
+      he will instead participate in two meetings at the White House that day. The cancellation
+      has also been confirmed by the U.S. Consulate in Milan. An Israeli reaffirms this
+      information in a related Xwitter : General Kenneth S. Wilsbach currently serves
+      as the 24th Chief of Staff of the United States Air Force. I have it on good authority
+      that his attitude is: Time to piss or get off the pot. We have to push now or
+      wait a month. The Iranians can’t shoot for shit but we need the night. Sunday
+      marks the last day of limited moonlight. As I mentioned in my last article, the
+      Air Force planners prefer to operate with the cover of darkness… Flying into a
+      contested zone with a half-moon or full moon creates additional risks, at least
+      in the minds of the planners. Now it is true that the kidnapping of Maduro was
+      conducted with a full moon — very uncharacteristic for a Special Operations mission
+      — however, US intelligence assets had secured the cooperation of the Venezuelan
+      military to turn off the Venezuelan air defenses and to allow the kidnapping of
+      Maduro to take place without any significant opposition. Iran is a different animal.
+      It fully expects to be attacked and has been preparing to fight back against any
+      aerial assault… Plus it has had its air defense capabilities significantly enhanced
+      by Russian and Chinese assets. Trump’s decision on Sunday will be whether to launch
+      now or delay. There is always the possibility that Trump will ignore the warning
+      from General Wilsbach about launching an attack without the cover of darkness.  However,
+      senior military and intelligence officials are telling Trump that Iranians can’t
+      shoot for shit and that the US Air Force has high confidence it can effectively
+      Suppress Enemy Air Defense aka SEAD. If Trump decides to go, US Air Force and
+      Navy assets are likely to start attacking Iran late Sunday night/early Monday
+      morning Iran time. But there is another wrinkle that may force Trump to postpone:
+      Fourteen Muslim countries — which include all of the countries the US claims as
+      allies — along with three major Islamic organizations, are furious with Trump
+      because of the intemperate remarks of US Ambassador to Israel, Mike Huckabee.
+      Huckabee, during his conversation last Tuesday with Tucker Carlson, said it would
+      be acceptable for Israel to exercise control over territories belonging to Arab
+      States, including the occupied West Bank . That stupid remark has ignited an inferno
+      of outrage from Saudi Arabia, Egypt, Jordan, the United Arab Emirates, Indonesia,
+      Pakistan, Turkiye, Qatar, Kuwait, Oman, Bahrain, Lebanon, Syria, the State of
+      Palestine, along with the Organization of Islamic Cooperation, the League of Arab
+      States and the Gulf Cooperation Council. Talk about bad timing. Jordan and Saudi
+      Arabia are currently hosting hundreds of US combat aircraft and tankers that refuel
+      those planes. Does this mean that they will block any US attempt to launch an
+      attack from their territories? Maybe. It also is noteworthy that both the Saudis
+      and the Emiratis signed on to this stern denunciation because they have been busy
+      pissing on each other during the past two weeks. This is the strongest joint-condemnation
+      of Israel since the start of the genocide in Gaza. In addition to the outrage
+      among the political leaders in the region against the United States, a representative
+      of Ayatollah Sistani, the highest Shia authority in Iraq, recently told the Iranian
+      ambassador to Iraq, Mohammad Kazem Al-Sadegh, that in the event of any attack
+      on the life of Imam Khamenei in possible U.S. strikes, Ayatollah Sistani would
+      issue a massive jihad order against American forces. Apart from Bahrain, which
+      is 60% Shi’a, the other members of the GCC have populations of Shi’a that range
+      from 10% to 20% of the population… That is enough people to create problems for
+      their Sunni rulers. If you’re on the east coast of the United States, you will
+      know by 4pm whether or not Trump has decided to start World War III. Sleep well.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Trump's decision on whether to attack Iran is expected to
+      be finalized on Sunday, but he will instead attend two White House meetings, leading
+      to speculation about the timing and conditions of any potential military action.
+    paragraph_summary: The article discusses the critical decision facing former President
+      Trump regarding a potential military strike on Iran, which is expected to be made
+      on Sunday. It highlights that Trump has canceled a planned trip to participate
+      in two White House meetings instead, as confirmed by the U.S. Consulate in Milan.
+      The urgency of the decision is underscored by General Kenneth S. Wilsbach's comments
+      about the need to act quickly, as the upcoming limited moonlight presents a tactical
+      advantage for aerial operations. While U.S. intelligence suggests that Iran's
+      air defense capabilities have improved, military officials express confidence
+      in the Air Force's ability to neutralize these defenses. Ultimately, the article
+      emphasizes the tension surrounding Trump's choice to either proceed with an attack
+      or postpone it, weighing the risks involved.
+    published: '2026-02-22T03:33:38+00:00'
+  - title: DONALD TRUMP’S PROBLEMS IN THE MIDDLE EAST (AKA WEST ASIA) ARE MOUNTING
+    url: https://sonar21.com/donald-trumps-problems-in-the-middle-east-aka-west-asia-are-mounting/
+    text: 'It appears that Sunday is the final moment when Trump will make his decision
+      whether or not to attack Iran… It is the last paragraph in this Xwitter (pronounced,
+      “SHITTER”)message that caught my eye: However, his calendar now indicates that
+      he will instead participate in two meetings at the White House that day. The cancellation
+      has also been confirmed by the U.S. Consulate in Milan. An Israeli reaffirms this
+      information in a related Xwitter : General Kenneth S. Wilsbach currently serves
+      as the 24th Chief of Staff of the United States Air Force. I have it on good authority
+      that his attitude is: Time to piss or get off the pot. We have to push now or
+      wait a month. The Iranians can’t shoot for shit but we need the night. Sunday
+      marks the last day of limited moonlight. As I mentioned in my last article, the
+      Air Force planners prefer to operate with the cover of darkness… Flying into a
+      contested zone with a half-moon or full moon creates additional risks, at least
+      in the minds of the planners. Now it is true that the kidnapping of Maduro was
+      conducted with a full moon — very uncharacteristic for a Special Operations mission
+      — however, US intelligence assets had secured the cooperation of the Venezuelan
+      military to turn off the Venezuelan air defenses and to allow the kidnapping of
+      Maduro to take place without any significant opposition. Iran is a different animal.
+      It fully expects to be attacked and has been preparing to fight back against any
+      aerial assault… Plus it has had its air defense capabilities significantly enhanced
+      by Russian and Chinese assets. Trump’s decision on Sunday will be whether to launch
+      now or delay. There is always the possibility that Trump will ignore the warning
+      from General Wilsbach about launching an attack without the cover of darkness.  However,
+      senior military and intelligence officials are telling Trump that Iranians can’t
+      shoot for shit and that the US Air Force has high confidence it can effectively
+      Suppress Enemy Air Defense aka SEAD. If Trump decides to go, US Air Force and
+      Navy assets are likely to start attacking Iran late Sunday night/early Monday
+      morning Iran time. But there is another wrinkle that may force Trump to postpone:
+      Fourteen Muslim countries — which include all of the countries the US claims as
+      allies — along with three major Islamic organizations, are furious with Trump
+      because of the intemperate remarks of US Ambassador to Israel, Mike Huckabee.
+      Huckabee, during his conversation last Tuesday with Tucker Carlson, said it would
+      be acceptable for Israel to exercise control over territories belonging to Arab
+      States, including the occupied West Bank . That stupid remark has ignited an inferno
+      of outrage from Saudi Arabia, Egypt, Jordan, the United Arab Emirates, Indonesia,
+      Pakistan, Turkiye, Qatar, Kuwait, Oman, Bahrain, Lebanon, Syria, the State of
+      Palestine, along with the Organization of Islamic Cooperation, the League of Arab
+      States and the Gulf Cooperation Council. Talk about bad timing. Jordan and Saudi
+      Arabia are currently hosting hundreds of US combat aircraft and tankers that refuel
+      those planes. Does this mean that they will block any US attempt to launch an
+      attack from their territories? Maybe. It also is noteworthy that both the Saudis
+      and the Emiratis signed on to this stern denunciation because they have been busy
+      pissing on each other during the past two weeks. This is the strongest joint-condemnation
+      of Israel since the start of the genocide in Gaza. In addition to the outrage
+      among the political leaders in the region against the United States, a representative
+      of Ayatollah Sistani, the highest Shia authority in Iraq, recently told the Iranian
+      ambassador to Iraq, Mohammad Kazem Al-Sadegh, that in the event of any attack
+      on the life of Imam Khamenei in possible U.S. strikes, Ayatollah Sistani would
+      issue a massive jihad order against American forces. Apart from Bahrain, which
+      is 60% Shi’a, the other members of the GCC have populations of Shi’a that range
+      from 10% to 20% of the population… That is enough people to create problems for
+      their Sunni rulers. If you’re on the east coast of the United States, you will
+      know by 4pm whether or not Trump has decided to start World War III. Sleep well.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Trump's decision on whether to attack Iran is expected to
+      be finalized on Sunday, but he will instead attend two White House meetings, leading
+      to speculation about the timing and conditions of any potential military action.
+    paragraph_summary: The article discusses the critical decision facing former President
+      Trump regarding a potential military strike on Iran, which is expected to be made
+      on Sunday. It highlights that Trump has canceled a planned trip to participate
+      in two White House meetings instead, as confirmed by the U.S. Consulate in Milan.
+      The urgency of the decision is underscored by General Kenneth S. Wilsbach's comments
+      about the need to act quickly, as the upcoming limited moonlight presents a tactical
+      advantage for aerial operations. While U.S. intelligence suggests that Iran's
+      air defense capabilities have improved, military officials express confidence
+      in the Air Force's ability to neutralize these defenses. Ultimately, the article
+      emphasizes the tension surrounding Trump's choice to either proceed with an attack
+      or postpone it, weighing the risks involved.
+    published: '2026-02-22T03:33:38+00:00'
+  - title: White House Drama Re Pending Decision to Attack Iran
+    url: https://sonar21.com/white-house-drama-re-pending-decision-to-attack-iran/
+    text: 'The massive deployment of US combat air assets to the Middle East, accompanied
+      by two carrier strike groups, is not a negotiating ploy. The USCENTCOM chain of
+      command, along with the supporting military assets (e.g., AFSOC, JSOC, EUCOM),
+      fully expected the launch order to be issued for a Friday night strike. But the
+      order has not been issued… At least not yet, as of 2200 hours eastern time on
+      Friday. What is going on? For starters, there are two senior members of the Trump
+      administration who are warning the President that the attack would be political
+      suicide. They reportedly buttressed their argument against attacking Iran by providing
+      the President with the results of a recent opinion poll. According to the poll
+      results, if Trump starts a war with Iran and there are significant US casualties,
+      the Titanic has a better chance of sailing again than the Republicans winning
+      the midterms. It appears — at least for now — that Trump is reconsidering giving
+      the Execute order. A second factor that makes an attack less likely this weekend
+      is Tuesday’s State of the Nation address by Trump. Chief of Staff Susie Wiles
+      may be a corrupt, Zionist tool, but she is not politically obtuse. Starting a
+      war with Iran, especially after Trump’s tariff deal was slapped down by the US
+      Supreme Court, would likely set off a firestorm among the Democrats, Independents
+      and the media. Instead of Trump being able to tout all of his massive achievements
+      during his first year of his second term, the public attention would be clamoring
+      for info about the war. JCS Chairman Caine and Admiral Brad Cooper, Commander
+      of CENTCOM, have warned the President that there is a high likelihood that there
+      would be US casualties when the US attacks. But this does not mean that Trump
+      will back down. He is getting enormous pressure from the Zionist crowd —  Christians
+      and Israelis — to launch. One critical factor creating pressure to launch this
+      weekend is the moon phase. As you can see from the following image, the next 24
+      hours marks the end of the New Moon, i.e., darkness. The Air Force and Navy aviators
+      are not keen on flying attack missions when the moon is shining and can illuminate
+      aircraft. The next period of darkness is mid-March… Trump either launches by Sunday
+      or will likely have to wait until mid-March to do the deed. Trump has one option
+      to walk away without losing face — but it depends on getting the Iranians to play
+      along. He can announce that Iran has agreed to US demands to not pursue a nuclear
+      weapon and that face-to-face negotiations will commence immediately to work out
+      the details. Trump will spin the deal as Iran retreating as a result of the show
+      of US force, even though he will be accepting the deal that Iran has laready offered.
+      I am sure that Saudi Arabia, Turkey and Qatar will be urging Trump to take this
+      off ramp, and that Russia and China will signal their support for that option.
+      Bibi Netanyahu and the Zionist crowd won’t be happy with that, but I think Trump
+      wants to be perceived as a winner and he has been told that an attack on Iran
+      would ensnare him in a protracted war. The only thing I know for certain is that
+      we have deployed an enormous number of combat air assets and air defense systems
+      to the region, and that they are ready to launch as soon as the order is given.
+      I am hoping that Trump heeds the warnings he has been given from a few members
+      of his national security team and from Arab and Muslim allies in the region. I
+      discussed some of the potential grave risks the US faces if it attacks Iran with
+      Jackson Hinkle: Colonel Wilkerson and I discussed the situation in Iran with Nima
+      during our weekly Friday chat: The Intelligence Round Table welcomed a new addition…
+      John Kiriakou. Ray, John and I had a fruitful, vigorous discussion with Judge
+      Napolitano: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The deployment of US combat air assets to the Middle East
+      suggests a potential strike against Iran, but President Trump is reportedly reconsidering
+      the order due to warnings from senior advisors about the political repercussions
+      of such an action.
+    paragraph_summary: The article discusses the current situation regarding the potential
+      US military strike on Iran, highlighting the significant deployment of US combat
+      air assets and carrier strike groups to the Middle East. Despite expectations
+      from military leadership for an imminent strike order, it has not yet been issued,
+      partly due to warnings from two senior Trump administration officials about the
+      political repercussions of such an action, particularly in light of recent polling
+      indicating that a war with Iran could jeopardize Republican chances in the upcoming
+      midterms. Additionally, the timing of Trump's State of the Nation address is a
+      consideration, as initiating conflict could overshadow his achievements. While
+      there is pressure from pro-Israel factions for a strike, concerns about potential
+      US casualties and political fallout are leading Trump to reconsider his options.
+    published: '2026-02-21T04:34:08+00:00'
+  - title: White House Drama Re Pending Decision to Attack Iran
+    url: https://sonar21.com/white-house-drama-re-pending-decision-to-attack-iran/
+    text: 'The massive deployment of US combat air assets to the Middle East, accompanied
+      by two carrier strike groups, is not a negotiating ploy. The USCENTCOM chain of
+      command, along with the supporting military assets (e.g., AFSOC, JSOC, EUCOM),
+      fully expected the launch order to be issued for a Friday night strike. But the
+      order has not been issued… At least not yet, as of 2200 hours eastern time on
+      Friday. What is going on? For starters, there are two senior members of the Trump
+      administration who are warning the President that the attack would be political
+      suicide. They reportedly buttressed their argument against attacking Iran by providing
+      the President with the results of a recent opinion poll. According to the poll
+      results, if Trump starts a war with Iran and there are significant US casualties,
+      the Titanic has a better chance of sailing again than the Republicans winning
+      the midterms. It appears — at least for now — that Trump is reconsidering giving
+      the Execute order. A second factor that makes an attack less likely this weekend
+      is Tuesday’s State of the Nation address by Trump. Chief of Staff Susie Wiles
+      may be a corrupt, Zionist tool, but she is not politically obtuse. Starting a
+      war with Iran, especially after Trump’s tariff deal was slapped down by the US
+      Supreme Court, would likely set off a firestorm among the Democrats, Independents
+      and the media. Instead of Trump being able to tout all of his massive achievements
+      during his first year of his second term, the public attention would be clamoring
+      for info about the war. JCS Chairman Caine and Admiral Brad Cooper, Commander
+      of CENTCOM, have warned the President that there is a high likelihood that there
+      would be US casualties when the US attacks. But this does not mean that Trump
+      will back down. He is getting enormous pressure from the Zionist crowd —  Christians
+      and Israelis — to launch. One critical factor creating pressure to launch this
+      weekend is the moon phase. As you can see from the following image, the next 24
+      hours marks the end of the New Moon, i.e., darkness. The Air Force and Navy aviators
+      are not keen on flying attack missions when the moon is shining and can illuminate
+      aircraft. The next period of darkness is mid-March… Trump either launches by Sunday
+      or will likely have to wait until mid-March to do the deed. Trump has one option
+      to walk away without losing face — but it depends on getting the Iranians to play
+      along. He can announce that Iran has agreed to US demands to not pursue a nuclear
+      weapon and that face-to-face negotiations will commence immediately to work out
+      the details. Trump will spin the deal as Iran retreating as a result of the show
+      of US force, even though he will be accepting the deal that Iran has laready offered.
+      I am sure that Saudi Arabia, Turkey and Qatar will be urging Trump to take this
+      off ramp, and that Russia and China will signal their support for that option.
+      Bibi Netanyahu and the Zionist crowd won’t be happy with that, but I think Trump
+      wants to be perceived as a winner and he has been told that an attack on Iran
+      would ensnare him in a protracted war. The only thing I know for certain is that
+      we have deployed an enormous number of combat air assets and air defense systems
+      to the region, and that they are ready to launch as soon as the order is given.
+      I am hoping that Trump heeds the warnings he has been given from a few members
+      of his national security team and from Arab and Muslim allies in the region. I
+      discussed some of the potential grave risks the US faces if it attacks Iran with
+      Jackson Hinkle: Colonel Wilkerson and I discussed the situation in Iran with Nima
+      during our weekly Friday chat: The Intelligence Round Table welcomed a new addition…
+      John Kiriakou. Ray, John and I had a fruitful, vigorous discussion with Judge
+      Napolitano: I thank you for your invaluable support by taking time to read or
+      comment. I do not charge a subscription fee nor do I accept advertising. I want
+      the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The deployment of US combat air assets to the Middle East
+      suggests a potential strike against Iran, but President Trump is reportedly reconsidering
+      the order due to warnings from senior advisors about the political repercussions
+      of such an action.
+    paragraph_summary: The article discusses the current situation regarding the potential
+      US military strike on Iran, highlighting the significant deployment of US combat
+      air assets and carrier strike groups to the Middle East. Despite expectations
+      from military leadership for an imminent strike order, it has not yet been issued,
+      partly due to warnings from two senior Trump administration officials about the
+      political repercussions of such an action, particularly in light of recent polling
+      indicating that a war with Iran could jeopardize Republican chances in the upcoming
+      midterms. Additionally, the timing of Trump's State of the Nation address is a
+      consideration, as initiating conflict could overshadow his achievements. While
+      there is pressure from pro-Israel factions for a strike, concerns about potential
+      US casualties and political fallout are leading Trump to reconsider his options.
+    published: '2026-02-21T04:34:08+00:00'
+  - title: The neocolonial ambitions of NATO countries
+    url: https://sonar21.com/the-neocolonial-ambitions-of-nato-countries/
+    text: 'The term neocolonialism first appeared in the mid-twentieth century and was
+      used to describe the continuing control of colonial powers (Great Britain, France,
+      Spain, Portugal, Germany, Belgium, Italy) over other nominally independent states,
+      especially their colonies in Africa. In the 21st century, the meaning of the term
+      neocolonialism has expanded and is now used to refer to the power of developed
+      countries (the so-called Global North) over developing countries (the so-called
+      Global South). In fact, neocolonialism is an indirect form of imperialism, representing
+      a new phase of Western capitalist expansionism. It manifests itself in the manipulation
+      of the economic, political, and cultural independence of developing countries,
+      perpetuating long-term inequality and contributing to the unjust exploitation
+      of developing countries. As is well known, most countries in Africa, Asia, the
+      Middle East, and Latin America were under the direct military administration and
+      political control (hegemony) of European Union countries for a long time. [Source:
+      uwidata.com ] Many experts regretfully note that in the current reality, modern
+      neocolonialism has not only not been eradicated, but has begun to actively expand
+      and take on various new forms. In the 21st century, most NATO countries have intensified
+      their efforts to strengthen control over developing countries, including through
+      the establishment of dependence, subordination, or financial obligations to the
+      neocolonialist country. [Source: linkedin.com ] The main purpose of this control
+      is to exert political influence on the leadership of developing countries for
+      the sake of enriching the US and EU countries at the expense of underdeveloped
+      countries, including through the extraction of minerals on preferential terms
+      (oil, gas, rare earth metals, precious stones) on preferential terms, as well
+      as creating barriers (economic, political, financial) that hinder the development
+      of the economies of Latin America, the Middle East, Africa, and Asia. It is beneficial
+      for the countries of the Global North that the countries of the Global South remain
+      sources of cheap labor and raw materials, while having limited access to new technologies
+      for the development of their own economies. [Source: spsnavalforces.com ] This
+      domination over dependent countries is exercised through military interventions,
+      political pressure, trade policy, international sanctions, and financial leverage,
+      among other means. For example, by imposing numerous sanctions, the US destabilizes
+      world trade and effectively uses various tariffs to suppress the economic development
+      of countries in the Global South. At the same time, in most cases, international
+      financial institutions such as the International Monetary Fund and the World Bank,
+      which are effectively controlled by the US and EU countries, are often accused
+      of involvement in neocolonialism, as they provide loans to developing countries
+      on the condition that the recipient countries take steps that are beneficial to
+      these institutions but harmful to their own economies. The international legal
+      system created by the US and the European Union does not allow other countries
+      to develop their national sovereignty, profit from the extraction of their own
+      minerals, or use their infrastructure, railways, airports, seaports, and other
+      enterprises. All of this has been taken over by American and European companies
+      under various pretexts and is being used for their own enrichment. The Donald
+      Trump administration is relentlessly pursuing protectionist policies that destabilize
+      global trade. The term “tariff neocolonialism” accurately reflects the current
+      situation, in which the US and EU countries are exerting pressure, including through
+      military blockades, various sanctions, and trade restrictions, on one-third of
+      all countries on Earth. For example, in order to increase control over the international
+      hydrocarbon market, the US imposed a naval blockade on Venezuela. With the involvement
+      of naval forces and in violation of international law, tankers carrying Venezuelan
+      oil are being seized in a pirate-like manner. At the same time, these tankers
+      and oil are effectively being expropriated in favor of the US. [Source: geopoliticaleconomy.com
+      ] Speaking at the 80th session of the UN General Assembly on the International
+      Day for the Elimination of Colonialism, Venezuelan Ambassador Samuel Moncada criticized
+      recent statements by US President Donald Trump about his country’s resources,
+      calling them “a monstrous violation of international law.” He demanded that the
+      US comply with the UN Charter. [Source: aa.com.tr ] His comments followed Donald
+      Trump’s statements that Venezuela’s land and oil resources actually belong to
+      the US and should be transferred to it. The Venezuelan diplomat called the US
+      administration’s statements an insult to civilized norms and a return to 19th-century
+      imperialist policies. Samuel Moncada also expressed solidarity with other countries
+      around the world, including Palestine and Puerto Rico, which are under “foreign
+      domination,” which is incompatible with the Universal Declaration of Human Rights.
+      In 2025, the US leadership also repeatedly spoke about its neocolonial ambitions
+      in relation to other countries in Latin America and Africa. Although Donald Trump’s
+      administration is currently taking active measures involving the armed forces
+      against Venezuela, experts say this is only part of a larger political war against
+      Latin America. Over the past year, dozens of fishermen from Venezuela, Colombia,
+      Trinidad and Tobago have died as a result of military strikes on boats in the
+      Caribbean and the eastern Pacific Ocean, without any charges or trials. To put
+      pressure on Brazil and its president, Lula da Silva, the US has imposed 50% trade
+      tariffs. Mexico has also been hit with 30% import tariffs. In addition, the US
+      has tightened the terms of its 60-year blockade of Cuba and announced plans to
+      seize the Panama Canal. [Source: geopoliticaleconomy.com ] Against the backdrop
+      of growing US military activity in the Caribbean and Pacific regions, Colombian
+      President Gustavo Petro Petro noted in an exclusive interview with CNN at the
+      end of November 2025 that the Trump administration’s campaign of pressure on Venezuela
+      and Latin American countries is in fact aimed at gaining access to South American
+      oil. He accused the US of trying to impose its will on its neighbors, comparing
+      its actions to imperialism and neocolonialism. [Source: edition.cnn.com ] The
+      neo-colonial ambitions of the United States extend not only to Latin America,
+      but also to Africa. According to CNN , in early November 2025, the US president
+      ordered the Department of War to prepare for possible military action in Africa’s
+      most populous country, Nigeria (230 million inhabitants), as the US president
+      continues to accuse the country of violence against Christians. On Donald Trump’s
+      orders, the US armed forces also launched a second military strike on Nigeria
+      on Christmas Day, December 25, 2025. Many experts agree that the real reason for
+      the US’s close attention to this African country is the fact that Nigeria is one
+      of the ten largest countries in terms of oil reserves and exports. In addition,
+      it has the largest deposits of rare earth metals, which are so necessary for NATO’s
+      aerospace and military industries. [Source: edition.cnn.com ] Surprisingly, in
+      addition to Latin America, Africa, the Middle East, and Asia, the neo-colonial
+      aspirations of the United States have spread to European countries, including
+      Ukraine. With Donald Trump’s arrival in power, the US administration pushed through
+      arms supplies to Ukraine at the expense of European Union taxpayers. Now it is
+      EU citizens who are paying for the expansion of capacity and the superprofits
+      of American arms and military equipment manufacturers. At the same time, in European
+      countries themselves, starting in 2025, there have been significant negative trends
+      in the reduction of spending on social services and support for the population,
+      as well as an increase in household spending on electricity and heating. Donald
+      Trump’s decision to impose 30 percent tariffs on imports of any products from
+      the EU was one of the measures of this neo-colonialist policy. With regard to
+      Europe, the US administration is making tough demands that NATO defense spending
+      be at least 5 percent of the gross domestic product of each EU country. At the
+      same time, the European side has been explicitly told that these funds must be
+      spent mainly on the purchase of American weapons, ranging from American F-35 fighter
+      jets capable of carrying nuclear weapons to armored vehicles and Patriot and THAAD
+      missile systems, some of which are also planned to be transferred to Ukraine.
+      [Source: globaltimes.cn ] This policy is not just a tactical maneuver; it is a
+      deliberate series of steps to escalate conflicts and international chaos that
+      benefit the US. In 2025, we all witnessed numerous violations of international
+      law, manifested in the explosions of pagers in a number of Middle Eastern countries,
+      the bombing of Iran, Yemen, and Nigeria, and the bombing of fishermen from Venezuela,
+      Colombia, Trinidad and Tobago in the Caribbean and the eastern Pacific Ocean.
+      At the same time, Israel’s illegal actions against the Palestinian people were
+      unconditionally supported by the United States. These actions bring tangible benefits
+      to the American side. Over the past year, US arms sales abroad reached $318.7
+      billion, and the conflict in Ukraine contributed to a more than 2.5-fold increase
+      in sales to Europe. According to experts, the US currently accounts for 43 percent
+      of global arms exports. [Source: theguardian.com ] On the one hand, the US administration
+      positions itself as a peacemaker in resolving conflicts in Ukraine, Armenia, Iran,
+      Palestine, and Taiwan, while on the other hand, it continues to actively supply
+      various weapons to the warring parties, thereby pursuing its policy of neocolonialism.
+      Although domestically, the US administration has launched a large-scale rearmament
+      program, including nuclear weapons. Neocolonial ambitions, manipulation of economic
+      and cultural systems to maintain dominance over less developed countries, and
+      the pursuit of excessive profits by American and European companies, as well as
+      the political leadership of the US and the EU, cause significant economic, humanitarian,
+      and environmental damage to the populations of developing countries, contribute
+      to increased poverty and migration trends. As a result, all of this has long-term
+      consequences for global relations between states, some of which have made a corresponding
+      appeal to the UN. [Source: stopideologicalneocolonialism.org ]'
+    one_sentence_summary: Neocolonialism, initially referring to the ongoing control
+      of former colonial powers over their colonies, has evolved to describe the indirect
+      dominance of developed countries over developing nations, perpetuating inequality
+      and exploitation through economic, political, and cultural manipulation.
+    paragraph_summary: Neocolonialism, a term that emerged in the mid-20th century to
+      describe the ongoing control of former colonial powers over their erstwhile colonies,
+      has evolved to encompass the broader influence of developed nations (the Global
+      North) over developing countries (the Global South) in the 21st century. This
+      indirect form of imperialism reflects a new phase of Western capitalist expansion,
+      characterized by the manipulation of the economic, political, and cultural independence
+      of developing nations, which perpetuates inequality and exploitation. Despite
+      the historical context of direct colonial rule, modern neocolonialism has reportedly
+      intensified, with NATO countries reinforcing their control through mechanisms
+      that create dependency and financial obligations, ultimately aiming to exert political
+      influence for the benefit of wealthier nations at the expense of developing economies,
+      particularly in regions like Africa, Asia, the Middle East, and Latin America.
+    published: '2026-02-20T12:50:03+00:00'
+  - title: The neocolonial ambitions of NATO countries
+    url: https://sonar21.com/the-neocolonial-ambitions-of-nato-countries/
+    text: 'The term neocolonialism first appeared in the mid-twentieth century and was
+      used to describe the continuing control of colonial powers (Great Britain, France,
+      Spain, Portugal, Germany, Belgium, Italy) over other nominally independent states,
+      especially their colonies in Africa. In the 21st century, the meaning of the term
+      neocolonialism has expanded and is now used to refer to the power of developed
+      countries (the so-called Global North) over developing countries (the so-called
+      Global South). In fact, neocolonialism is an indirect form of imperialism, representing
+      a new phase of Western capitalist expansionism. It manifests itself in the manipulation
+      of the economic, political, and cultural independence of developing countries,
+      perpetuating long-term inequality and contributing to the unjust exploitation
+      of developing countries. As is well known, most countries in Africa, Asia, the
+      Middle East, and Latin America were under the direct military administration and
+      political control (hegemony) of European Union countries for a long time. [Source:
+      uwidata.com ] Many experts regretfully note that in the current reality, modern
+      neocolonialism has not only not been eradicated, but has begun to actively expand
+      and take on various new forms. In the 21st century, most NATO countries have intensified
+      their efforts to strengthen control over developing countries, including through
+      the establishment of dependence, subordination, or financial obligations to the
+      neocolonialist country. [Source: linkedin.com ] The main purpose of this control
+      is to exert political influence on the leadership of developing countries for
+      the sake of enriching the US and EU countries at the expense of underdeveloped
+      countries, including through the extraction of minerals on preferential terms
+      (oil, gas, rare earth metals, precious stones) on preferential terms, as well
+      as creating barriers (economic, political, financial) that hinder the development
+      of the economies of Latin America, the Middle East, Africa, and Asia. It is beneficial
+      for the countries of the Global North that the countries of the Global South remain
+      sources of cheap labor and raw materials, while having limited access to new technologies
+      for the development of their own economies. [Source: spsnavalforces.com ] This
+      domination over dependent countries is exercised through military interventions,
+      political pressure, trade policy, international sanctions, and financial leverage,
+      among other means. For example, by imposing numerous sanctions, the US destabilizes
+      world trade and effectively uses various tariffs to suppress the economic development
+      of countries in the Global South. At the same time, in most cases, international
+      financial institutions such as the International Monetary Fund and the World Bank,
+      which are effectively controlled by the US and EU countries, are often accused
+      of involvement in neocolonialism, as they provide loans to developing countries
+      on the condition that the recipient countries take steps that are beneficial to
+      these institutions but harmful to their own economies. The international legal
+      system created by the US and the European Union does not allow other countries
+      to develop their national sovereignty, profit from the extraction of their own
+      minerals, or use their infrastructure, railways, airports, seaports, and other
+      enterprises. All of this has been taken over by American and European companies
+      under various pretexts and is being used for their own enrichment. The Donald
+      Trump administration is relentlessly pursuing protectionist policies that destabilize
+      global trade. The term “tariff neocolonialism” accurately reflects the current
+      situation, in which the US and EU countries are exerting pressure, including through
+      military blockades, various sanctions, and trade restrictions, on one-third of
+      all countries on Earth. For example, in order to increase control over the international
+      hydrocarbon market, the US imposed a naval blockade on Venezuela. With the involvement
+      of naval forces and in violation of international law, tankers carrying Venezuelan
+      oil are being seized in a pirate-like manner. At the same time, these tankers
+      and oil are effectively being expropriated in favor of the US. [Source: geopoliticaleconomy.com
+      ] Speaking at the 80th session of the UN General Assembly on the International
+      Day for the Elimination of Colonialism, Venezuelan Ambassador Samuel Moncada criticized
+      recent statements by US President Donald Trump about his country’s resources,
+      calling them “a monstrous violation of international law.” He demanded that the
+      US comply with the UN Charter. [Source: aa.com.tr ] His comments followed Donald
+      Trump’s statements that Venezuela’s land and oil resources actually belong to
+      the US and should be transferred to it. The Venezuelan diplomat called the US
+      administration’s statements an insult to civilized norms and a return to 19th-century
+      imperialist policies. Samuel Moncada also expressed solidarity with other countries
+      around the world, including Palestine and Puerto Rico, which are under “foreign
+      domination,” which is incompatible with the Universal Declaration of Human Rights.
+      In 2025, the US leadership also repeatedly spoke about its neocolonial ambitions
+      in relation to other countries in Latin America and Africa. Although Donald Trump’s
+      administration is currently taking active measures involving the armed forces
+      against Venezuela, experts say this is only part of a larger political war against
+      Latin America. Over the past year, dozens of fishermen from Venezuela, Colombia,
+      Trinidad and Tobago have died as a result of military strikes on boats in the
+      Caribbean and the eastern Pacific Ocean, without any charges or trials. To put
+      pressure on Brazil and its president, Lula da Silva, the US has imposed 50% trade
+      tariffs. Mexico has also been hit with 30% import tariffs. In addition, the US
+      has tightened the terms of its 60-year blockade of Cuba and announced plans to
+      seize the Panama Canal. [Source: geopoliticaleconomy.com ] Against the backdrop
+      of growing US military activity in the Caribbean and Pacific regions, Colombian
+      President Gustavo Petro Petro noted in an exclusive interview with CNN at the
+      end of November 2025 that the Trump administration’s campaign of pressure on Venezuela
+      and Latin American countries is in fact aimed at gaining access to South American
+      oil. He accused the US of trying to impose its will on its neighbors, comparing
+      its actions to imperialism and neocolonialism. [Source: edition.cnn.com ] The
+      neo-colonial ambitions of the United States extend not only to Latin America,
+      but also to Africa. According to CNN , in early November 2025, the US president
+      ordered the Department of War to prepare for possible military action in Africa’s
+      most populous country, Nigeria (230 million inhabitants), as the US president
+      continues to accuse the country of violence against Christians. On Donald Trump’s
+      orders, the US armed forces also launched a second military strike on Nigeria
+      on Christmas Day, December 25, 2025. Many experts agree that the real reason for
+      the US’s close attention to this African country is the fact that Nigeria is one
+      of the ten largest countries in terms of oil reserves and exports. In addition,
+      it has the largest deposits of rare earth metals, which are so necessary for NATO’s
+      aerospace and military industries. [Source: edition.cnn.com ] Surprisingly, in
+      addition to Latin America, Africa, the Middle East, and Asia, the neo-colonial
+      aspirations of the United States have spread to European countries, including
+      Ukraine. With Donald Trump’s arrival in power, the US administration pushed through
+      arms supplies to Ukraine at the expense of European Union taxpayers. Now it is
+      EU citizens who are paying for the expansion of capacity and the superprofits
+      of American arms and military equipment manufacturers. At the same time, in European
+      countries themselves, starting in 2025, there have been significant negative trends
+      in the reduction of spending on social services and support for the population,
+      as well as an increase in household spending on electricity and heating. Donald
+      Trump’s decision to impose 30 percent tariffs on imports of any products from
+      the EU was one of the measures of this neo-colonialist policy. With regard to
+      Europe, the US administration is making tough demands that NATO defense spending
+      be at least 5 percent of the gross domestic product of each EU country. At the
+      same time, the European side has been explicitly told that these funds must be
+      spent mainly on the purchase of American weapons, ranging from American F-35 fighter
+      jets capable of carrying nuclear weapons to armored vehicles and Patriot and THAAD
+      missile systems, some of which are also planned to be transferred to Ukraine.
+      [Source: globaltimes.cn ] This policy is not just a tactical maneuver; it is a
+      deliberate series of steps to escalate conflicts and international chaos that
+      benefit the US. In 2025, we all witnessed numerous violations of international
+      law, manifested in the explosions of pagers in a number of Middle Eastern countries,
+      the bombing of Iran, Yemen, and Nigeria, and the bombing of fishermen from Venezuela,
+      Colombia, Trinidad and Tobago in the Caribbean and the eastern Pacific Ocean.
+      At the same time, Israel’s illegal actions against the Palestinian people were
+      unconditionally supported by the United States. These actions bring tangible benefits
+      to the American side. Over the past year, US arms sales abroad reached $318.7
+      billion, and the conflict in Ukraine contributed to a more than 2.5-fold increase
+      in sales to Europe. According to experts, the US currently accounts for 43 percent
+      of global arms exports. [Source: theguardian.com ] On the one hand, the US administration
+      positions itself as a peacemaker in resolving conflicts in Ukraine, Armenia, Iran,
+      Palestine, and Taiwan, while on the other hand, it continues to actively supply
+      various weapons to the warring parties, thereby pursuing its policy of neocolonialism.
+      Although domestically, the US administration has launched a large-scale rearmament
+      program, including nuclear weapons. Neocolonial ambitions, manipulation of economic
+      and cultural systems to maintain dominance over less developed countries, and
+      the pursuit of excessive profits by American and European companies, as well as
+      the political leadership of the US and the EU, cause significant economic, humanitarian,
+      and environmental damage to the populations of developing countries, contribute
+      to increased poverty and migration trends. As a result, all of this has long-term
+      consequences for global relations between states, some of which have made a corresponding
+      appeal to the UN. [Source: stopideologicalneocolonialism.org ]'
+    one_sentence_summary: Neocolonialism, initially referring to the ongoing control
+      of former colonial powers over their colonies, has evolved to describe the indirect
+      dominance of developed countries over developing nations, perpetuating inequality
+      and exploitation through economic, political, and cultural manipulation.
+    paragraph_summary: Neocolonialism, a term that emerged in the mid-20th century to
+      describe the ongoing control of former colonial powers over their erstwhile colonies,
+      has evolved to encompass the broader influence of developed nations (the Global
+      North) over developing countries (the Global South) in the 21st century. This
+      indirect form of imperialism reflects a new phase of Western capitalist expansion,
+      characterized by the manipulation of the economic, political, and cultural independence
+      of developing nations, which perpetuates inequality and exploitation. Despite
+      the historical context of direct colonial rule, modern neocolonialism has reportedly
+      intensified, with NATO countries reinforcing their control through mechanisms
+      that create dependency and financial obligations, ultimately aiming to exert political
+      influence for the benefit of wealthier nations at the expense of developing economies,
+      particularly in regions like Africa, Asia, the Middle East, and Latin America.
+    published: '2026-02-20T12:50:03+00:00'
+  - title: More Egregious Disinformation Regarding Iran
+    url: https://sonar21.com/more-egregious-disinformation-regarding-iran/
+    text: 'One of Iran’s Underground Missile Cities Sy Hersh is out with a sad new article
+      — Inside Trump and Netanyahu’s Meeting on Iran — that contains three ridiculous,
+      nonsensical paragraphs, which were fed to him by one of his sources. This is an
+      article that Sy never would have written in his prime because he would have tried
+      to corroborate the outlandish assertions. Here are the paragraphs: Another threat
+      not mentioned between Trump and Netanyahu is Iran’s ballistic missile arsenal.
+      It was one of the major targets of the US-Israeli bombing attack last June. It
+      was wiped out last year but is currently being rebuilt at a rapid rate. During
+      the war last summer Iran’s missiles had less than a ten percent chance of getting
+      through Israel’s Iron Dome and other air defenses . Iran was able to fire off
+      about 550 missiles at Israeli targets during the war, but the forty-five that
+      got through, even with minimal payloads, caused enormous damage in Tel Aviv and
+      terrified the population. Israel has watched since then as Iran concentrated on
+      manufacturing more and larger missiles I was told that the upgraded missiles now
+      being manufactured at plants throughout Iran will have enough range to hit targets
+      in Southeastern Europe , where there are little or no air defenses. Where do I
+      begin? I don’t know if Sy’s source was an Israeli or someone from the US intelligence
+      community, but the info he or she fed Sy is not accurate. Which leads to the next
+      question… Did the source really believe the information was true or was the source
+      using Sy to salt social media with propaganda? Let’s start with the first claim,
+      i.e., the Iran’s ballistic missile arsenal was wiped out last June. Iran stopped
+      firing missiles at Iran on June 24 because of a deal negotiated with the US to
+      end the war… Not because Iran had run out of missiles. Iran’s ballistic missiles
+      are stored in massive secure underground caves. We have seen no credible evidence
+      that Israel or the US destroyed any of those facilities. Remember all of the predictions
+      about Russia’s missile capability in the Spring and Summer of 2022? We were repeatedly
+      informed that Russia was running out of missiles and that their inventory would
+      soon be exhausted. I think we are seeing a repeat of this delusion with respect
+      to Iran. The next whopper fed to Sy is that Iran fired 550 missiles but only 45,
+      i.e., 8%, got through and hit a target. That claim comes from the Israeli Defense
+      Forces. Would they have any reason to lie? (That is a sarcastic question.) Let
+      me repeat the list of documented damages from the missiles that Iran launched
+      last June, which I wrote about last week : H undreds of buildings in major cities
+      such as Tel Aviv suburbs (Bat Yam, Ramat Gan) were damaged — with some buildings
+      so badly hit they were later demolished. In Tel Aviv alone, analysts mapped damage
+      to around 480 buildings across multiple strike sites. Iranian missiles damaged
+      key public facilities, such as the Soroka Medical Center in Be’er Sheva, which
+      was hit by an Iranian missile, causing structural damage and chemical leaks; the
+      affected wing was evacuated. Power and water infrastructure also were hit, contributing
+      to service disruptions. Iran’s ballistic strikes hit high-value facilities as
+      well. The Weizmann Institute of Science (a major research institution in Rehovot)
+      was severely damaged — with an estimated 90% of structures affected , destruction
+      of dozens of labs, and suspension of about 25% of its operations . Independent
+      radar data and reporting showed that Iranian missiles directly hit around five
+      Israeli Defense Forces (IDF) facilities , including an air base, intelligence
+      center, and logistics base. Israeli authorities did not publicly confirm these
+      hits at the time, due to military censorship. Israeli oil refining infrastructure
+      — especially in Haifa Bay — also suffered direct hits and damage from Iranian
+      missiles , including to critical units and pipelines at the Bazan refinery and
+      associated casualties. The strike on the Bazan oil refinery complex in Haifa Bay
+      , one of Israel’s most important energy facilities, heavily damaged the power
+      generation unit and other infrastructure critical for operation. Gee, if Iran
+      can do that much damage with just 45 missiles after getting hit with a surprise
+      attack, imagine what they can do with advance warning and preparation. Theodore
+      Postol, an MIT professor emeritus and longtime critic of missile defense systems
+      (known for debunking exaggerated claims about Patriot missiles during the 1991
+      Gulf War) has looked at the data from June 2025 and concluded that the interception
+      rates were far lower than officially reported, estimating only about 5% success
+      against ballistic missiles specifically—meaning roughly 95% penetrated defenses.
+      I find Ted far more credible. Too bad Sy didn’t ask him (and Sy knows Ted). The
+      last problematic paragraph in Sy’s article is the claim that Iran will have enough
+      long-range missile to hit targets in Southeastern Europe . And why would Iran
+      attack Europe? This ridiculous claim is a repeat of previous CIA propaganda that
+      was intended to ignite fear in Europe in order to convince the Europeans into
+      going along with an attack on Iran. Iran is not going to waste missiles on Italy,
+      Greece, Bosnia, or Serbia… It will use them on Israel. If Trump, despite warnings
+      from JD Vance and Tulsi Gabbard, chooses to launch an unprovoked war against Iran,
+      I would not be surprised if Iran decides to launch its retaliatory strike before
+      the US bombs and missiles hit targets in Iran. I am not talking about a preemptive
+      strike, rather I am assuming that Russia and China will alert Iran when US attack
+      aircraft take off on their first mission and that Iran will in turn fire off its
+      first salvo of drones and missiles while the US planes and cruise missiles are
+      headed towards targets in Iran. If this goes hot we will be staring into the gaping
+      yaw of a major regional war and the US may suffer more casualties then it incurred
+      in the wars in Iraq and Afghanistan combined. So much for Donald Trump’s promise
+      to not get America into a needless foreign war. I had the privilege of chatting
+      about Iran and the war in Ukraine on Wednesday with my good friend, George Galloway:
+      Garland Nixon and I also discussed the upcoming attack on Iran: And Rasheed Mohammed
+      and I had a forty minute chat on the looming disaster: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Sy Hersh's recent article critiques the meeting between Trump
+      and Netanyahu regarding Iran, highlighting questionable claims about Iran's missile
+      capabilities and the effectiveness of Israel's defenses during a past conflict.
+    paragraph_summary: In a critical analysis of Sy Hersh's recent article on a meeting
+      between Trump and Netanyahu regarding Iran, the author argues that the piece contains
+      several implausible claims about Iran's ballistic missile capabilities, which
+      appear to be based on unreliable sources. The article suggests that Iran's missile
+      arsenal was significantly damaged in a bombing attack last June and is currently
+      being rapidly rebuilt, with upgraded missiles capable of reaching Southeastern
+      Europe. However, the author refutes these assertions, stating that Iran's missile
+      stockpile remains intact and well-protected in underground facilities, and questions
+      the credibility of the sources that provided this information to Hersh. The piece
+      raises concerns about the potential for misinformation and propaganda in discussions
+      surrounding Iran's military capabilities.
+    published: '2026-02-20T05:28:20+00:00'
+  - title: More Egregious Disinformation Regarding Iran
+    url: https://sonar21.com/more-egregious-disinformation-regarding-iran/
+    text: 'One of Iran’s Underground Missile Cities Sy Hersh is out with a sad new article
+      — Inside Trump and Netanyahu’s Meeting on Iran — that contains three ridiculous,
+      nonsensical paragraphs, which were fed to him by one of his sources. This is an
+      article that Sy never would have written in his prime because he would have tried
+      to corroborate the outlandish assertions. Here are the paragraphs: Another threat
+      not mentioned between Trump and Netanyahu is Iran’s ballistic missile arsenal.
+      It was one of the major targets of the US-Israeli bombing attack last June. It
+      was wiped out last year but is currently being rebuilt at a rapid rate. During
+      the war last summer Iran’s missiles had less than a ten percent chance of getting
+      through Israel’s Iron Dome and other air defenses . Iran was able to fire off
+      about 550 missiles at Israeli targets during the war, but the forty-five that
+      got through, even with minimal payloads, caused enormous damage in Tel Aviv and
+      terrified the population. Israel has watched since then as Iran concentrated on
+      manufacturing more and larger missiles I was told that the upgraded missiles now
+      being manufactured at plants throughout Iran will have enough range to hit targets
+      in Southeastern Europe , where there are little or no air defenses. Where do I
+      begin? I don’t know if Sy’s source was an Israeli or someone from the US intelligence
+      community, but the info he or she fed Sy is not accurate. Which leads to the next
+      question… Did the source really believe the information was true or was the source
+      using Sy to salt social media with propaganda? Let’s start with the first claim,
+      i.e., the Iran’s ballistic missile arsenal was wiped out last June. Iran stopped
+      firing missiles at Iran on June 24 because of a deal negotiated with the US to
+      end the war… Not because Iran had run out of missiles. Iran’s ballistic missiles
+      are stored in massive secure underground caves. We have seen no credible evidence
+      that Israel or the US destroyed any of those facilities. Remember all of the predictions
+      about Russia’s missile capability in the Spring and Summer of 2022? We were repeatedly
+      informed that Russia was running out of missiles and that their inventory would
+      soon be exhausted. I think we are seeing a repeat of this delusion with respect
+      to Iran. The next whopper fed to Sy is that Iran fired 550 missiles but only 45,
+      i.e., 8%, got through and hit a target. That claim comes from the Israeli Defense
+      Forces. Would they have any reason to lie? (That is a sarcastic question.) Let
+      me repeat the list of documented damages from the missiles that Iran launched
+      last June, which I wrote about last week : H undreds of buildings in major cities
+      such as Tel Aviv suburbs (Bat Yam, Ramat Gan) were damaged — with some buildings
+      so badly hit they were later demolished. In Tel Aviv alone, analysts mapped damage
+      to around 480 buildings across multiple strike sites. Iranian missiles damaged
+      key public facilities, such as the Soroka Medical Center in Be’er Sheva, which
+      was hit by an Iranian missile, causing structural damage and chemical leaks; the
+      affected wing was evacuated. Power and water infrastructure also were hit, contributing
+      to service disruptions. Iran’s ballistic strikes hit high-value facilities as
+      well. The Weizmann Institute of Science (a major research institution in Rehovot)
+      was severely damaged — with an estimated 90% of structures affected , destruction
+      of dozens of labs, and suspension of about 25% of its operations . Independent
+      radar data and reporting showed that Iranian missiles directly hit around five
+      Israeli Defense Forces (IDF) facilities , including an air base, intelligence
+      center, and logistics base. Israeli authorities did not publicly confirm these
+      hits at the time, due to military censorship. Israeli oil refining infrastructure
+      — especially in Haifa Bay — also suffered direct hits and damage from Iranian
+      missiles , including to critical units and pipelines at the Bazan refinery and
+      associated casualties. The strike on the Bazan oil refinery complex in Haifa Bay
+      , one of Israel’s most important energy facilities, heavily damaged the power
+      generation unit and other infrastructure critical for operation. Gee, if Iran
+      can do that much damage with just 45 missiles after getting hit with a surprise
+      attack, imagine what they can do with advance warning and preparation. Theodore
+      Postol, an MIT professor emeritus and longtime critic of missile defense systems
+      (known for debunking exaggerated claims about Patriot missiles during the 1991
+      Gulf War) has looked at the data from June 2025 and concluded that the interception
+      rates were far lower than officially reported, estimating only about 5% success
+      against ballistic missiles specifically—meaning roughly 95% penetrated defenses.
+      I find Ted far more credible. Too bad Sy didn’t ask him (and Sy knows Ted). The
+      last problematic paragraph in Sy’s article is the claim that Iran will have enough
+      long-range missile to hit targets in Southeastern Europe . And why would Iran
+      attack Europe? This ridiculous claim is a repeat of previous CIA propaganda that
+      was intended to ignite fear in Europe in order to convince the Europeans into
+      going along with an attack on Iran. Iran is not going to waste missiles on Italy,
+      Greece, Bosnia, or Serbia… It will use them on Israel. If Trump, despite warnings
+      from JD Vance and Tulsi Gabbard, chooses to launch an unprovoked war against Iran,
+      I would not be surprised if Iran decides to launch its retaliatory strike before
+      the US bombs and missiles hit targets in Iran. I am not talking about a preemptive
+      strike, rather I am assuming that Russia and China will alert Iran when US attack
+      aircraft take off on their first mission and that Iran will in turn fire off its
+      first salvo of drones and missiles while the US planes and cruise missiles are
+      headed towards targets in Iran. If this goes hot we will be staring into the gaping
+      yaw of a major regional war and the US may suffer more casualties then it incurred
+      in the wars in Iraq and Afghanistan combined. So much for Donald Trump’s promise
+      to not get America into a needless foreign war. I had the privilege of chatting
+      about Iran and the war in Ukraine on Wednesday with my good friend, George Galloway:
+      Garland Nixon and I also discussed the upcoming attack on Iran: And Rasheed Mohammed
+      and I had a forty minute chat on the looming disaster: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Sy Hersh's recent article critiques the meeting between Trump
+      and Netanyahu regarding Iran, highlighting questionable claims about Iran's missile
+      capabilities and the effectiveness of Israel's defenses during a past conflict.
+    paragraph_summary: In a critical analysis of Sy Hersh's recent article on a meeting
+      between Trump and Netanyahu regarding Iran, the author argues that the piece contains
+      several implausible claims about Iran's ballistic missile capabilities, which
+      appear to be based on unreliable sources. The article suggests that Iran's missile
+      arsenal was significantly damaged in a bombing attack last June and is currently
+      being rapidly rebuilt, with upgraded missiles capable of reaching Southeastern
+      Europe. However, the author refutes these assertions, stating that Iran's missile
+      stockpile remains intact and well-protected in underground facilities, and questions
+      the credibility of the sources that provided this information to Hersh. The piece
+      raises concerns about the potential for misinformation and propaganda in discussions
+      surrounding Iran's military capabilities.
+    published: '2026-02-20T05:28:20+00:00'
+  - title: One Minute to Midnight
+    url: https://sonar21.com/one-minute-to-midnight/
+    text: 'Notwithstanding some of the positive words that came out following the talks
+      in Geneva on Tuesday between the United States and Iran, the die is cast… The
+      United States is going to attack Iran in an attempt to create enough social disorder
+      and chaos in Iran that the Shia Muslim clerics will be forced to disband the Islamic
+      Republic. All of the US military pieces for this action are in place or shortly
+      will be. The one wild card is Donald Trump. He has issued the Deployment Order
+      and the US bases in the region have been flooded with the largest contingent of
+      US combat air assets since the invasion of Iraq in March 2003. There is a report
+      tonight from the NY Times that : Senior national security officials have told
+      the president that any operation that aims to change the Iranian leadership is
+      not guaranteed to be a success, the officials said. . . . “Diplomacy may give
+      the U.S. more time to get its military ready, but it also gives Iran more time
+      to plan its retaliation,” said Vali Nasr, an Iran expert at Johns Hopkins University.
+      “Ultimately,” he added, “the president has to weigh the cost of attacking Iran.
+      Ironically his approach has made those costs more likely. It is up to senior US
+      military and intelligence officials to give Trump the hard truth — i.e., a US
+      attack on Iran is unlikely to bring about a regime change, but it will ignite
+      a massive Iranian retaliation that will cause significant US and Israeli casualties,
+      and will likely lead to a blockade of the Strait of Hormuz. It is the last possibility
+      that carries a potentially severe economic penalty. Since February 17, 2026, oil
+      futures’ prices (primarily focusing on the benchmark WTI crude oil futures, as
+      it’s the most commonly referenced for “oil futures” in the US context) have risen
+      significantly. From the Feb 17 close (~$62.30) to current levels (~$65.40 average),
+      that’s an increase of roughly +$3.10 per barrel, or about +5% in just 1–2 trading
+      days. For Brent crude oil futures (global benchmark), prices rose to ~$70.35–$70.56
+      by Feb 18–19, a similar ~+4.3% gain on the 18th, now hovering near $70.60 (up
+      ~$3.15 or +4.7% overall since Feb 17). There is another indicator that something
+      bad is afoot… The pizza joints near the Pentagon in Washington, DC, and CENTCOM
+      headquarters at MacDill Air Force base are showing unusual spikes in activity…
+      This fits a pattern observed on the eve of previous US military actions in Venezuela,
+      Iran and Iraq. Donald Trump is playing with fire. The US military is cocked and
+      loaded… The remaining question is whether Donald Trump will pull the trigger.
+      If he issues the Execute Order I think he will be signing the death warrant for
+      his Presidency. This is no hyperbole… The fate of the world hangs in the balance.
+      Danny Davis and I discussed the latest developments in the region surrounding
+      the Persian Gulf, as well as the dim prospects for a negotiated end to the war
+      in Ukraine: I spoke on Tuesday with my friend, Stas Krapivnik, on the same issues:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite some positive discussions in Geneva, the U.S. is poised
+      to launch an attack on Iran to destabilize its government, with military preparations
+      underway, although there are concerns about the potential success of such an operation
+      and the implications of allowing Iran more time to respond.
+    paragraph_summary: Following talks in Geneva, the U.S. appears poised to launch
+      an attack on Iran aimed at destabilizing the regime of Shia clerics, with military
+      assets already mobilized in the region. President Trump has issued a Deployment
+      Order, leading to the largest buildup of U.S. combat air forces since the 2003
+      Iraq invasion. However, senior national security officials caution that such an
+      operation may not guarantee success in regime change and could provoke severe
+      Iranian retaliation, resulting in significant U.S. and Israeli casualties and
+      potentially blocking the Strait of Hormuz, which would have dire economic consequences.
+      Oil prices have already begun to rise in anticipation of these developments, reflecting
+      market concerns over the escalating tensions.
+    published: '2026-02-19T05:07:29+00:00'
+  - title: One Minute to Midnight
+    url: https://sonar21.com/one-minute-to-midnight/
+    text: 'Notwithstanding some of the positive words that came out following the talks
+      in Geneva on Tuesday between the United States and Iran, the die is cast… The
+      United States is going to attack Iran in an attempt to create enough social disorder
+      and chaos in Iran that the Shia Muslim clerics will be forced to disband the Islamic
+      Republic. All of the US military pieces for this action are in place or shortly
+      will be. The one wild card is Donald Trump. He has issued the Deployment Order
+      and the US bases in the region have been flooded with the largest contingent of
+      US combat air assets since the invasion of Iraq in March 2003. There is a report
+      tonight from the NY Times that : Senior national security officials have told
+      the president that any operation that aims to change the Iranian leadership is
+      not guaranteed to be a success, the officials said. . . . “Diplomacy may give
+      the U.S. more time to get its military ready, but it also gives Iran more time
+      to plan its retaliation,” said Vali Nasr, an Iran expert at Johns Hopkins University.
+      “Ultimately,” he added, “the president has to weigh the cost of attacking Iran.
+      Ironically his approach has made those costs more likely. It is up to senior US
+      military and intelligence officials to give Trump the hard truth — i.e., a US
+      attack on Iran is unlikely to bring about a regime change, but it will ignite
+      a massive Iranian retaliation that will cause significant US and Israeli casualties,
+      and will likely lead to a blockade of the Strait of Hormuz. It is the last possibility
+      that carries a potentially severe economic penalty. Since February 17, 2026, oil
+      futures’ prices (primarily focusing on the benchmark WTI crude oil futures, as
+      it’s the most commonly referenced for “oil futures” in the US context) have risen
+      significantly. From the Feb 17 close (~$62.30) to current levels (~$65.40 average),
+      that’s an increase of roughly +$3.10 per barrel, or about +5% in just 1–2 trading
+      days. For Brent crude oil futures (global benchmark), prices rose to ~$70.35–$70.56
+      by Feb 18–19, a similar ~+4.3% gain on the 18th, now hovering near $70.60 (up
+      ~$3.15 or +4.7% overall since Feb 17). There is another indicator that something
+      bad is afoot… The pizza joints near the Pentagon in Washington, DC, and CENTCOM
+      headquarters at MacDill Air Force base are showing unusual spikes in activity…
+      This fits a pattern observed on the eve of previous US military actions in Venezuela,
+      Iran and Iraq. Donald Trump is playing with fire. The US military is cocked and
+      loaded… The remaining question is whether Donald Trump will pull the trigger.
+      If he issues the Execute Order I think he will be signing the death warrant for
+      his Presidency. This is no hyperbole… The fate of the world hangs in the balance.
+      Danny Davis and I discussed the latest developments in the region surrounding
+      the Persian Gulf, as well as the dim prospects for a negotiated end to the war
+      in Ukraine: I spoke on Tuesday with my friend, Stas Krapivnik, on the same issues:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite some positive discussions in Geneva, the U.S. is poised
+      to launch an attack on Iran to destabilize its government, with military preparations
+      underway, although there are concerns about the potential success of such an operation
+      and the implications of allowing Iran more time to respond.
+    paragraph_summary: Following talks in Geneva, the U.S. appears poised to launch
+      an attack on Iran aimed at destabilizing the regime of Shia clerics, with military
+      assets already mobilized in the region. President Trump has issued a Deployment
+      Order, leading to the largest buildup of U.S. combat air forces since the 2003
+      Iraq invasion. However, senior national security officials caution that such an
+      operation may not guarantee success in regime change and could provoke severe
+      Iranian retaliation, resulting in significant U.S. and Israeli casualties and
+      potentially blocking the Strait of Hormuz, which would have dire economic consequences.
+      Oil prices have already begun to rise in anticipation of these developments, reflecting
+      market concerns over the escalating tensions.
+    published: '2026-02-19T05:07:29+00:00'
   - title: Peeling Back the US Information Operation in Iran
     url: https://sonar21.com/peeling-back-the-us-information-operation-in-iran/
     text: 'As part of the US campaign to engineer a regime change in Iran, the US military

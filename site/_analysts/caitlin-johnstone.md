@@ -7,15 +7,849 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  Tensions in the Middle East are rapidly escalating, with the situation in Gaza now at a critical juncture. Israel has issued a 60-day ultimatum demanding that Hamas disarm, a move that has been unequivocally rejected by Hamas leadership. **Caitlin Johnstone** highlights that this standoff is likely to trigger further violence, emphasizing the absence of legitimate grounds for Israel’s demands and the urgent necessity for a cessation of hostilities against Palestinians.
+  U.S. military intervention in the Middle East remains a focal point of global attention, with recent developments underscoring persistent skepticism about Washington's intentions and effectiveness. As tensions escalate, independent analysts continue to highlight contradictions and recurring patterns in American foreign policy.
   
-  Meanwhile, the broader regional context is marked by open discussions among Western officials about future conflicts. **Senator Lindsey Graham** has openly stated that Israel is now a hub for strategizing future wars, and has signaled interest in a potential confrontation with Iran. This rhetoric, as reported by Johnstone, underscores a growing willingness among Western power brokers to escalate military tensions in the region.
+  The latest satirical critique from **Caitlin Johnstone** (Feb 25) targets the prevailing optimism among U.S. policymakers and commentators who insist that the current military intervention in the region will be fundamentally different from past failures. Johnstone lampoons these justifications, pointing out that "every time, the same promises are made, and every time, the results are catastrophic." This reflects a broader consensus among independent observers that lessons from previous interventions in Iraq, Libya, and Afghanistan remain unheeded.
   
-  Domestically, the inability of current leadership to address systemic issues remains a persistent theme. Johnstone argues that political leaders are fundamentally uninterested in resolving core societal problems, being more motivated by power and profit than by genuine reform. This dynamic, she suggests, perpetuates cycles of conflict and unrest both at home and abroad.
+  Meanwhile, the situation in Iraq further exposes the gap between U.S. rhetoric and actions. According to **Caitlin Johnstone** (Feb 24), the U.S. is actively pressuring Iraqi political actors to prevent former Prime Minister Nouri al-Maliki from returning to power. This interference, Johnstone argues, "undermines any claim that the U.S. is genuinely interested in fostering democracy in the region." The contradiction between stated democratic ideals and realpolitik maneuvering is becoming increasingly evident, fueling local resentment and skepticism.
+  
+  On the Iran front, U.S. envoy Steve Witkoff's recent assertion that Iran is "probably a week away" from acquiring nuclear bomb materials has been widely dismissed as unsubstantiated, even by Israeli media. As **Johnstone** notes (Feb 23), such claims contribute to a climate of misinformation, heightening regional tensions without offering credible evidence. The majority view among analysts is that these warnings serve more as pretexts for escalation than as accurate assessments of Iran's capabilities.
   
   **Trends and Predictions:**  
-  The majority of independent analysts agree that the Gaza situation is a “ticking time bomb,” with a high likelihood of intensified violence if neither side backs down. Regional instability is quite likely to increase, especially given the explicit Western interest in provoking further confrontations, particularly with Iran. Domestically, there is high confidence that entrenched power structures will continue to resist meaningful change, ensuring that underlying grievances remain unaddressed. Most definitely, absent a dramatic shift in policy or leadership, the cycle of escalation and unrest will persist.
+  The prevailing trend is a cycle of U.S. interventions justified by familiar narratives, with little indication of strategic innovation or genuine commitment to democratic principles. Regional actors increasingly view American involvement as self-serving and destabilizing. Given the pattern of behavior and the lack of substantive policy shifts, it is quite likely that the current intervention will yield outcomes similar to previous campaigns—namely, prolonged instability and humanitarian costs. Unless there is a marked change in approach, I guarantee that skepticism and resistance to U.S. actions in the Middle East will only intensify in the coming weeks.
 articles:
+  - title: No Bro This War Will Be Completely Different, Bro
+    url: https://www.caitlinjohnst.one/p/no-bro-this-war-will-be-completely
+    text: 'Reading by Tim Foley : Subscribe now No bro this US war in the middle east
+      will be completely different, bro. See, this time the regime we’re trying to get
+      rid of is REALLY BAD! No no, this is nothing like all those other times. This
+      time military interventionism to topple an oil-rich government in west Asia will
+      lead to peace and democracy. Our soldiers will be greeted as liberators! You don’t
+      understand, bro. This time the government and the media are telling us the truth!
+      This time the regime really IS committing mass atrocities and they really ARE
+      trying to build weapons of mass destruction. Why are you acting so skeptical?
+      If it turns out our leaders were wrong and this war was a bad idea, I’m sure they’ll
+      admit their mistakes and course-correct immediately to set things right, and then
+      implement major, sweeping policy changes to make sure they never repeat the same
+      mistakes again. What could possibly go wrong? I know you think this will be a
+      disaster like all those other US military interventions in the region, but you
+      see, unlike all those other times, this time there are many foreign policy analysts
+      from highly respected think tanks and mass media outlets assuring us that it will
+      go perfectly fine. If bombing Iran was a bad idea they would have told us so in
+      the news. The news isn’t allowed to lie about important things like this. This
+      time is completely different because this time there are people from the targeted
+      country who say they don’t like their government. If that country didn’t need
+      American bombs dropped on it, every single person from that country would love
+      the government. No this isn’t like all those other times. This time it’s about
+      bringing freedom and democracy to a poor oppressed population, and it’s about
+      fighting terrorism, and it’s about women’s rights, and it’s about bringing peace
+      and stability to the region. Don’t you agree that those are good and worthy goals?
+      Why do you hate freedom? I’m beginning to suspect that you just love tyrannical
+      regimes. There is no other possible reason anyone could oppose US military interventionism
+      to topple a government in the middle east. Also you hate Jews. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article satirically critiques the optimistic justifications
+      for U.S. military intervention in the Middle East, highlighting a naive belief
+      that this time will be different despite historical failures.
+    paragraph_summary: In a satirical piece by Tim Foley, the author critiques the recurring
+      justifications for U.S. military interventions in the Middle East, highlighting
+      the absurdity of claims that each new war will lead to peace and democracy. Foley
+      mocks the notion that this time is different, emphasizing the reliance on government
+      and media narratives that insist on the righteousness of the cause, despite historical
+      evidence of failure. He points out the contradictions in arguments that suggest
+      bombing a country is necessary for liberation, while dismissing skepticism about
+      the motives behind such interventions. Ultimately, the article serves as a commentary
+      on the cyclical nature of military interventionism and the naive belief that foreign
+      policy can be executed without repeating past mistakes.
+    published: '2026-02-25T01:11:46+00:00'
+  - title: No Bro This War Will Be Completely Different, Bro
+    url: https://www.caitlinjohnst.one/p/no-bro-this-war-will-be-completely
+    text: 'Reading by Tim Foley : Subscribe now No bro this US war in the middle east
+      will be completely different, bro. See, this time the regime we’re trying to get
+      rid of is REALLY BAD! No no, this is nothing like all those other times. This
+      time military interventionism to topple an oil-rich government in west Asia will
+      lead to peace and democracy. Our soldiers will be greeted as liberators! You don’t
+      understand, bro. This time the government and the media are telling us the truth!
+      This time the regime really IS committing mass atrocities and they really ARE
+      trying to build weapons of mass destruction. Why are you acting so skeptical?
+      If it turns out our leaders were wrong and this war was a bad idea, I’m sure they’ll
+      admit their mistakes and course-correct immediately to set things right, and then
+      implement major, sweeping policy changes to make sure they never repeat the same
+      mistakes again. What could possibly go wrong? I know you think this will be a
+      disaster like all those other US military interventions in the region, but you
+      see, unlike all those other times, this time there are many foreign policy analysts
+      from highly respected think tanks and mass media outlets assuring us that it will
+      go perfectly fine. If bombing Iran was a bad idea they would have told us so in
+      the news. The news isn’t allowed to lie about important things like this. This
+      time is completely different because this time there are people from the targeted
+      country who say they don’t like their government. If that country didn’t need
+      American bombs dropped on it, every single person from that country would love
+      the government. No this isn’t like all those other times. This time it’s about
+      bringing freedom and democracy to a poor oppressed population, and it’s about
+      fighting terrorism, and it’s about women’s rights, and it’s about bringing peace
+      and stability to the region. Don’t you agree that those are good and worthy goals?
+      Why do you hate freedom? I’m beginning to suspect that you just love tyrannical
+      regimes. There is no other possible reason anyone could oppose US military interventionism
+      to topple a government in the middle east. Also you hate Jews. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article satirically critiques the optimistic justifications
+      for U.S. military intervention in the Middle East, highlighting a naive belief
+      that this time will be different despite historical failures.
+    paragraph_summary: In a satirical piece by Tim Foley, the author critiques the recurring
+      justifications for U.S. military interventions in the Middle East, highlighting
+      the absurdity of claims that each new war will lead to peace and democracy. Foley
+      mocks the notion that this time is different, emphasizing the reliance on government
+      and media narratives that insist on the righteousness of the cause, despite historical
+      evidence of failure. He points out the contradictions in arguments that suggest
+      bombing a country is necessary for liberation, while dismissing skepticism about
+      the motives behind such interventions. Ultimately, the article serves as a commentary
+      on the cyclical nature of military interventionism and the naive belief that foreign
+      policy can be executed without repeating past mistakes.
+    published: '2026-02-25T01:11:46+00:00'
+  - title: If You Think The US Wants To Bring Democracy To Iran, Watch What They're
+      Currently Doing To Iraq
+    url: https://www.caitlinjohnst.one/p/if-you-think-the-us-wants-to-bring
+    text: 'Reading by Tim Foley : Subscribe now Anyone silly enough to believe the US
+      wants to bring democracy to Iran should have a look at what the US is currently
+      doing to sabotage democracy in Iraq. President Trump has been aggressively threatening
+      to cut off Iraq’s oil revenue if it allows the return to office of former prime
+      minister Nouri al-Maliki, whom the Trump administration views as too sympathetic
+      to Iran . And the threats appear to be working, as Antiwar’s Jason Ditz reports:
+      “Once and possibly future Iraqi Prime Minister Nouri al-Maliki’s candidacy is
+      increasingly in doubt this weekend, with reports that President Trump’s demand
+      he not be allowed to return to office increasing the possibility that the Coordination
+      Framework bloc may withdraw him as their choice for premier. “Last year’s Iraq
+      elections ended with the usual deeply split parliament, though the State of Law
+      Party’s fourth place finish with 6% of the vote was generally seen as enough to
+      give Maliki the coalition leadership , since current PM Mohammed al-Sudani does
+      not intend to return. “Late last month, Trump demanded that Maliki step down from
+      the nomination, but he refused at the time , saying that the US should stay out
+      of Iraq’s internal affairs. Maliki was already Iraq’s PM from 2006 through 2014.”
+      Ditz explains that Trump is able to sway Iraqi politics with credible threats
+      due to the US control that was imposed on the nation’s economy following the Iraq
+      invasion: “Underpinning this whole thing is that after the 2003 US invasion and
+      occupation of Iraq, the country was restructured such that all of Iraq’s oil revenue
+      was paid in US dollars through the New York Federal Reserve Bank. Since that revenue
+      is almost the entirety of Iraq’s government budget, that means the US can virtually
+      seize Iraq’s treasury at any time and bankrupt the country on a moment’s notice.”
+      This is what US-imposed “democracy” looks like in practice: giving a nation the
+      freedom to do what Washington tells them to do and elect the leaders that Washington
+      allows them to elect. You may recall that the narrative to justify the US coalition’s
+      overthrow of Saddam Hussein in 2003 was the urgent need to bring freedom and democracy
+      to the Iraqi people. The US literally titled the invasion “Operation Iraqi Freedom”.
+      They then killed a million people, plunged the region into chaos and instability
+      for years, and ensured that the Iraqi people would forever remain under the boot
+      of the US empire. There is no excuse for a grown adult to believe the US empire
+      wants to bring democracy to Iran. The US consistently props up dictatorships and
+      monarchies in the middle east exactly because they do not want the will of the
+      people to determine the actions and policies of the governments of those nations.
+      Truly democratic states in the region would see people using their votes to elect
+      leaders who are hostile to Israel and the United States, and who set fossil fuel
+      policies which advance the interests of their own people rather than the interests
+      of the western empire. This is why the middle east is rife with wealthy monarchies
+      who are extremely friendly with the US and its allies. That didn’t happen by accident;
+      the west has been intimately involved with aggressively manipulating middle eastern
+      affairs for generations. This includes Iran; the CIA staged a coup in 1953 to
+      replace its democratically elected government with a US-aligned monarchy, who
+      was then overthrown in the Iranian Revolution in 1979. The plan isn’t to bring
+      democracy to Iran, and there’s a convincing argument to be made that it’s not
+      even to preserve Iran as a unified state. Influential Iran hawks have been pushing
+      balkanization as the preferred strategy lately, with war propagandists now promoting
+      the idea that an Iran fractured along ethnic lines might be in everyone’s best
+      interest. This strategy would create unfathomable strife and horrifically deadly
+      chaos, but it would allow for the toppling of the Iranian government without having
+      to go to all the trouble of replacing it with a new government. They can just
+      smash Iran to eliminate a disobedient regional power and let the pieces land where
+      they may, with no fear of a future revolution replacing their puppet regime in
+      a large and unified state. The US does not seek democracy, it seeks planetary
+      domination. That’s all these moves are ever about, and the empire doesn’t care
+      how many people it needs to hurt along the way in order to get there. ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the U.S. is undermining democracy
+      in Iraq by pressuring the country to prevent former Prime Minister Nouri al-Maliki
+      from returning to office, reflecting a contradiction in its stated goal of promoting
+      democracy in the region.
+    paragraph_summary: In an article by Tim Foley, the author argues that the U.S. is
+      undermining democracy in Iraq rather than promoting it, particularly through President
+      Trump's threats to cut off Iraq's oil revenue if former Prime Minister Nouri al-Maliki,
+      perceived as pro-Iran, is allowed to return to power. Despite Maliki's previous
+      tenure and a fourth-place finish in recent elections, Trump's pressure has cast
+      doubt on his candidacy, highlighting the U.S.'s significant influence over Iraqi
+      politics due to its control over the country's oil revenue, which is processed
+      through U.S. financial systems. This situation exemplifies the paradox of U.S.-imposed
+      "democracy," where Iraq is ostensibly free to make its own choices, but in reality,
+      is heavily constrained by American interests.
+    published: '2026-02-24T01:55:53+00:00'
+  - title: If You Think The US Wants To Bring Democracy To Iran, Watch What They're
+      Currently Doing To Iraq
+    url: https://www.caitlinjohnst.one/p/if-you-think-the-us-wants-to-bring
+    text: 'Reading by Tim Foley : Subscribe now Anyone silly enough to believe the US
+      wants to bring democracy to Iran should have a look at what the US is currently
+      doing to sabotage democracy in Iraq. President Trump has been aggressively threatening
+      to cut off Iraq’s oil revenue if it allows the return to office of former prime
+      minister Nouri al-Maliki, whom the Trump administration views as too sympathetic
+      to Iran . And the threats appear to be working, as Antiwar’s Jason Ditz reports:
+      “Once and possibly future Iraqi Prime Minister Nouri al-Maliki’s candidacy is
+      increasingly in doubt this weekend, with reports that President Trump’s demand
+      he not be allowed to return to office increasing the possibility that the Coordination
+      Framework bloc may withdraw him as their choice for premier. “Last year’s Iraq
+      elections ended with the usual deeply split parliament, though the State of Law
+      Party’s fourth place finish with 6% of the vote was generally seen as enough to
+      give Maliki the coalition leadership , since current PM Mohammed al-Sudani does
+      not intend to return. “Late last month, Trump demanded that Maliki step down from
+      the nomination, but he refused at the time , saying that the US should stay out
+      of Iraq’s internal affairs. Maliki was already Iraq’s PM from 2006 through 2014.”
+      Ditz explains that Trump is able to sway Iraqi politics with credible threats
+      due to the US control that was imposed on the nation’s economy following the Iraq
+      invasion: “Underpinning this whole thing is that after the 2003 US invasion and
+      occupation of Iraq, the country was restructured such that all of Iraq’s oil revenue
+      was paid in US dollars through the New York Federal Reserve Bank. Since that revenue
+      is almost the entirety of Iraq’s government budget, that means the US can virtually
+      seize Iraq’s treasury at any time and bankrupt the country on a moment’s notice.”
+      This is what US-imposed “democracy” looks like in practice: giving a nation the
+      freedom to do what Washington tells them to do and elect the leaders that Washington
+      allows them to elect. You may recall that the narrative to justify the US coalition’s
+      overthrow of Saddam Hussein in 2003 was the urgent need to bring freedom and democracy
+      to the Iraqi people. The US literally titled the invasion “Operation Iraqi Freedom”.
+      They then killed a million people, plunged the region into chaos and instability
+      for years, and ensured that the Iraqi people would forever remain under the boot
+      of the US empire. There is no excuse for a grown adult to believe the US empire
+      wants to bring democracy to Iran. The US consistently props up dictatorships and
+      monarchies in the middle east exactly because they do not want the will of the
+      people to determine the actions and policies of the governments of those nations.
+      Truly democratic states in the region would see people using their votes to elect
+      leaders who are hostile to Israel and the United States, and who set fossil fuel
+      policies which advance the interests of their own people rather than the interests
+      of the western empire. This is why the middle east is rife with wealthy monarchies
+      who are extremely friendly with the US and its allies. That didn’t happen by accident;
+      the west has been intimately involved with aggressively manipulating middle eastern
+      affairs for generations. This includes Iran; the CIA staged a coup in 1953 to
+      replace its democratically elected government with a US-aligned monarchy, who
+      was then overthrown in the Iranian Revolution in 1979. The plan isn’t to bring
+      democracy to Iran, and there’s a convincing argument to be made that it’s not
+      even to preserve Iran as a unified state. Influential Iran hawks have been pushing
+      balkanization as the preferred strategy lately, with war propagandists now promoting
+      the idea that an Iran fractured along ethnic lines might be in everyone’s best
+      interest. This strategy would create unfathomable strife and horrifically deadly
+      chaos, but it would allow for the toppling of the Iranian government without having
+      to go to all the trouble of replacing it with a new government. They can just
+      smash Iran to eliminate a disobedient regional power and let the pieces land where
+      they may, with no fear of a future revolution replacing their puppet regime in
+      a large and unified state. The US does not seek democracy, it seeks planetary
+      domination. That’s all these moves are ever about, and the empire doesn’t care
+      how many people it needs to hurt along the way in order to get there. ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the U.S. is undermining democracy
+      in Iraq by pressuring the country to prevent former Prime Minister Nouri al-Maliki
+      from returning to office, reflecting a contradiction in its stated goal of promoting
+      democracy in the region.
+    paragraph_summary: In an article by Tim Foley, the author argues that the U.S. is
+      undermining democracy in Iraq rather than promoting it, particularly through President
+      Trump's threats to cut off Iraq's oil revenue if former Prime Minister Nouri al-Maliki,
+      perceived as pro-Iran, is allowed to return to power. Despite Maliki's previous
+      tenure and a fourth-place finish in recent elections, Trump's pressure has cast
+      doubt on his candidacy, highlighting the U.S.'s significant influence over Iraqi
+      politics due to its control over the country's oil revenue, which is processed
+      through U.S. financial systems. This situation exemplifies the paradox of U.S.-imposed
+      "democracy," where Iraq is ostensibly free to make its own choices, but in reality,
+      is heavily constrained by American interests.
+    published: '2026-02-24T01:55:53+00:00'
+  - title: We Deserve Better War Propaganda
+    url: https://www.caitlinjohnst.one/p/we-deserve-better-war-propaganda
+    text: 'Reading by Tim Foley : Subscribe now They’re not even trying anymore. US
+      middle east envoy Steve Witkoff told Fox News on Saturday that Iran is “probably
+      a week away” from having the materials necessary to make a nuclear bomb — a line
+      that Iran hawks have been falsely repeating for over three decades . It’s such
+      a transparently bogus claim that even The Jerusalem Post dunked on Witkoff for
+      making it, quipping that “The US envoy left out that Iran currently has no access
+      to its material, no machines to enrich it, and no weapons program to use it for
+      any operational purpose.” This is the guy supposedly assigned by the White House
+      to the task of establishing peace in the middle east, churning out the most fuzzbrained
+      justifications for war with Iran you could possibly imagine. The New York Post
+      has an article going viral right now with the flamboyantly propagandistic headline
+      “ Iranian forces hack out wombs of female protesters to hide horrific sexual abuse
+      ,” which would sound absurd at a glance even you didn’t know anything about atrocity
+      propaganda . Like they said “Let’s mutilate these women’s reproductive organs
+      so that nobody thinks we horrifically abused them!” How does that even make sense?
+      The article is of course based on no evidence whatsoever, citing nothing but a
+      NewsNation report full of anonymously sourced assertions. The central claim of
+      the New York Post headline is attributed solely to “An Iranian refugee who spoke
+      to NewsNation under a condition of anonymity.” In a post-Iraq invasion world,
+      these sorts of reports deserve nothing but a scoff and a dismissal. After all
+      the lies we’ve been told about every US war of aggression over the years, any
+      claims made about a government that Washington wants to topple need to be flatly
+      rejected unless they are backed by rock-solid, independently verifiable proof.
+      That proof never arrives. US wars are always justified by lies, psyops, and misinformation.
+      But these aren’t the usual caliber of lies. We normally get better-quality war
+      propaganda than this. This slop is designed to appeal to the dumbest people in
+      the dumbest parts of the United States, and to people who already want to go to
+      war with Iran. Consent for the Iraq invasion was manufactured by many months of
+      high-energy media saturation designed to harness the power of post-9/11 hysteria
+      about the possibility of foreign attacks on American soil. This is just a few
+      propaganda rags and government officials farting into a microphone and calling
+      us idiots. And yet the war machinery is rolling out anyway . They’re preparing
+      to unleash a horrific war of immense consequence which Americans overwhelmingly
+      oppose , and they don’t even have the decency to tell believable lies about it.
+      It can’t say good things about the future that they’re not even pretending to
+      care what the American people want anymore. The US empire is getting more and
+      more bold about exposing its true tyrannical nature, feeling less and less need
+      to manufacture consent before engaging in mass military slaughter. I guess we
+      can still have hope that this will help open some eyes to the dire need for revolution
+      in the heart of the empire. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: US Middle East envoy Steve Witkoff's claim that Iran is "probably
+      a week away" from nuclear bomb materials has been widely criticized as baseless,
+      even by Israeli media, highlighting the ongoing tensions and misinformation surrounding
+      Iran's nuclear capabilities.
+    paragraph_summary: In a recent commentary, Tim Foley criticizes U.S. Middle East
+      envoy Steve Witkoff for claiming that Iran is "probably a week away" from acquiring
+      nuclear bomb materials, a statement he argues is a long-standing and unfounded
+      narrative used by Iran hawks. Foley highlights that even The Jerusalem Post has
+      pointed out the inaccuracies in Witkoff's claims, noting that Iran lacks access
+      to the necessary materials and technology for a nuclear program. He also critiques
+      a sensational article from the New York Post that alleges Iranian forces are mutilating
+      female protesters to cover up sexual abuse, labeling it as absurd and lacking
+      credible evidence. Foley emphasizes the need for skepticism towards such reports,
+      given the history of misinformation used to justify U.S. military interventions,
+      and calls for rejecting unverified claims about governments targeted by Washington.
+    published: '2026-02-23T14:00:20+00:00'
+  - title: We Deserve Better War Propaganda
+    url: https://www.caitlinjohnst.one/p/we-deserve-better-war-propaganda
+    text: 'Reading by Tim Foley : Subscribe now They’re not even trying anymore. US
+      middle east envoy Steve Witkoff told Fox News on Saturday that Iran is “probably
+      a week away” from having the materials necessary to make a nuclear bomb — a line
+      that Iran hawks have been falsely repeating for over three decades . It’s such
+      a transparently bogus claim that even The Jerusalem Post dunked on Witkoff for
+      making it, quipping that “The US envoy left out that Iran currently has no access
+      to its material, no machines to enrich it, and no weapons program to use it for
+      any operational purpose.” This is the guy supposedly assigned by the White House
+      to the task of establishing peace in the middle east, churning out the most fuzzbrained
+      justifications for war with Iran you could possibly imagine. The New York Post
+      has an article going viral right now with the flamboyantly propagandistic headline
+      “ Iranian forces hack out wombs of female protesters to hide horrific sexual abuse
+      ,” which would sound absurd at a glance even you didn’t know anything about atrocity
+      propaganda . Like they said “Let’s mutilate these women’s reproductive organs
+      so that nobody thinks we horrifically abused them!” How does that even make sense?
+      The article is of course based on no evidence whatsoever, citing nothing but a
+      NewsNation report full of anonymously sourced assertions. The central claim of
+      the New York Post headline is attributed solely to “An Iranian refugee who spoke
+      to NewsNation under a condition of anonymity.” In a post-Iraq invasion world,
+      these sorts of reports deserve nothing but a scoff and a dismissal. After all
+      the lies we’ve been told about every US war of aggression over the years, any
+      claims made about a government that Washington wants to topple need to be flatly
+      rejected unless they are backed by rock-solid, independently verifiable proof.
+      That proof never arrives. US wars are always justified by lies, psyops, and misinformation.
+      But these aren’t the usual caliber of lies. We normally get better-quality war
+      propaganda than this. This slop is designed to appeal to the dumbest people in
+      the dumbest parts of the United States, and to people who already want to go to
+      war with Iran. Consent for the Iraq invasion was manufactured by many months of
+      high-energy media saturation designed to harness the power of post-9/11 hysteria
+      about the possibility of foreign attacks on American soil. This is just a few
+      propaganda rags and government officials farting into a microphone and calling
+      us idiots. And yet the war machinery is rolling out anyway . They’re preparing
+      to unleash a horrific war of immense consequence which Americans overwhelmingly
+      oppose , and they don’t even have the decency to tell believable lies about it.
+      It can’t say good things about the future that they’re not even pretending to
+      care what the American people want anymore. The US empire is getting more and
+      more bold about exposing its true tyrannical nature, feeling less and less need
+      to manufacture consent before engaging in mass military slaughter. I guess we
+      can still have hope that this will help open some eyes to the dire need for revolution
+      in the heart of the empire. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: US Middle East envoy Steve Witkoff's claim that Iran is "probably
+      a week away" from nuclear bomb materials has been widely criticized as baseless,
+      even by Israeli media, highlighting the ongoing tensions and misinformation surrounding
+      Iran's nuclear capabilities.
+    paragraph_summary: In a recent commentary, Tim Foley criticizes U.S. Middle East
+      envoy Steve Witkoff for claiming that Iran is "probably a week away" from acquiring
+      nuclear bomb materials, a statement he argues is a long-standing and unfounded
+      narrative used by Iran hawks. Foley highlights that even The Jerusalem Post has
+      pointed out the inaccuracies in Witkoff's claims, noting that Iran lacks access
+      to the necessary materials and technology for a nuclear program. He also critiques
+      a sensational article from the New York Post that alleges Iranian forces are mutilating
+      female protesters to cover up sexual abuse, labeling it as absurd and lacking
+      credible evidence. Foley emphasizes the need for skepticism towards such reports,
+      given the history of misinformation used to justify U.S. military interventions,
+      and calls for rejecting unverified claims about governments targeted by Washington.
+    published: '2026-02-23T14:00:20+00:00'
+  - title: Tell Iranian And Cuban Diaspora Warmongers To Shut The Fuck Up
+    url: https://www.caitlinjohnst.one/p/tell-iranian-and-cuban-diaspora-warmongers
+    text: 'Reading by Tim Foley : Subscribe now Whenever you say anything online opposing
+      the way the US is preparing for war with Iran or strangling Cuba to death with
+      siege warfare, you’ll always get people whose family comes from the nation in
+      question telling you to be silent and support the US war machine. Their family
+      emigrated at some point because they didn’t like the government, so now they spend
+      their time on social media telling everyone to support US operations to topple
+      that government. The correct response to such people is “Shut the fuck up.” Tell
+      Iranian diaspora warmongers to shut the fuck up. Tell Cuban diaspora regime change
+      fanatics to shut the fuck up. It’s so obnoxious how these assholes will show up
+      in my replies all “Excuse me you’re not from that country so you don’t get to
+      oppose dropping bombs on it.” Uh, how about you shut the fuck up? I’m going to
+      oppose the most evil and depraved agendas of the western power structure I live
+      under, thank you very much. If you don’t like it you can go choke on a dick. If
+      you support yet another disastrous US military intervention to topple yet another
+      middle eastern government, then you’re a piece of shit. You’re a piece of shit
+      regardless of what country your family happens to come from. If you support strangling
+      Cuba until its infrastructure collapses and people start dying, then you’re a
+      piece of shit. You’re a piece of shit regardless of what country your family happens
+      to come from. Don’t let these freaks bully you into silence. We get to oppose
+      these actions. Your right to oppose the horrific abuses of our rulers doesn’t
+      magically get canceled out because some gusano in Miami tells you to be silent.
+      You don’t have to stop opposing a war of potentially global consequence because
+      some monarchist wanker tweeting from his sofa in London tells you only people
+      who come from Iran are allowed to express an opinion on this issue. Tell them
+      to shut up. They’re trying to silence you, so tell them to be silent. Don’t fall
+      for their phony shitlib standpoint epistemology where they try to shout you down
+      for not deferring to their people’s lived experience or whatever the fuck. You
+      don’t owe these scumbags anything. They’re trying to advance a profoundly evil
+      agenda that’s supported by all the worst swamp monsters in the world’s most powerful
+      government, and they are horrible people. Tell them to shut the fuck up, and then
+      protest the empire’s abuses even louder and more aggressively than you were before.
+      US government-toppling military interventionism doesn’t magically stop having
+      an extensively documented record of being reliably disastrous just because your
+      family happens to come from the country being targeted. If you support these agendas
+      then you are my enemy, and I find you personally disgusting. You’re a piece of
+      shit and you should shut the fuck up. ______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Mike Palmer (CC BY 2.0)'
+    one_sentence_summary: The article expresses frustration with individuals from the
+      Iranian and Cuban diasporas who advocate for U.S. military actions against their
+      home countries, arguing that dissent against such warmongering should not be silenced
+      by their heritage.
+    paragraph_summary: In Tim Foley's article, he expresses frustration with individuals
+      from the Iranian and Cuban diasporas who advocate for U.S. military interventions
+      in their home countries, arguing that their personal histories do not grant them
+      the authority to silence opposition to such actions. Foley asserts that everyone
+      has the right to oppose U.S. war efforts and sanctions, regardless of their background,
+      and criticizes those who attempt to shame others into silence for voicing dissent.
+      He encourages readers to stand firm against these pressures and to continue opposing
+      what he views as immoral and harmful U.S. foreign policies, emphasizing that dissent
+      should not be stifled by the opinions of those who support military intervention.
+    published: '2026-02-22T12:35:58+00:00'
+  - title: Tell Iranian And Cuban Diaspora Warmongers To Shut The Fuck Up
+    url: https://www.caitlinjohnst.one/p/tell-iranian-and-cuban-diaspora-warmongers
+    text: 'Reading by Tim Foley : Subscribe now Whenever you say anything online opposing
+      the way the US is preparing for war with Iran or strangling Cuba to death with
+      siege warfare, you’ll always get people whose family comes from the nation in
+      question telling you to be silent and support the US war machine. Their family
+      emigrated at some point because they didn’t like the government, so now they spend
+      their time on social media telling everyone to support US operations to topple
+      that government. The correct response to such people is “Shut the fuck up.” Tell
+      Iranian diaspora warmongers to shut the fuck up. Tell Cuban diaspora regime change
+      fanatics to shut the fuck up. It’s so obnoxious how these assholes will show up
+      in my replies all “Excuse me you’re not from that country so you don’t get to
+      oppose dropping bombs on it.” Uh, how about you shut the fuck up? I’m going to
+      oppose the most evil and depraved agendas of the western power structure I live
+      under, thank you very much. If you don’t like it you can go choke on a dick. If
+      you support yet another disastrous US military intervention to topple yet another
+      middle eastern government, then you’re a piece of shit. You’re a piece of shit
+      regardless of what country your family happens to come from. If you support strangling
+      Cuba until its infrastructure collapses and people start dying, then you’re a
+      piece of shit. You’re a piece of shit regardless of what country your family happens
+      to come from. Don’t let these freaks bully you into silence. We get to oppose
+      these actions. Your right to oppose the horrific abuses of our rulers doesn’t
+      magically get canceled out because some gusano in Miami tells you to be silent.
+      You don’t have to stop opposing a war of potentially global consequence because
+      some monarchist wanker tweeting from his sofa in London tells you only people
+      who come from Iran are allowed to express an opinion on this issue. Tell them
+      to shut up. They’re trying to silence you, so tell them to be silent. Don’t fall
+      for their phony shitlib standpoint epistemology where they try to shout you down
+      for not deferring to their people’s lived experience or whatever the fuck. You
+      don’t owe these scumbags anything. They’re trying to advance a profoundly evil
+      agenda that’s supported by all the worst swamp monsters in the world’s most powerful
+      government, and they are horrible people. Tell them to shut the fuck up, and then
+      protest the empire’s abuses even louder and more aggressively than you were before.
+      US government-toppling military interventionism doesn’t magically stop having
+      an extensively documented record of being reliably disastrous just because your
+      family happens to come from the country being targeted. If you support these agendas
+      then you are my enemy, and I find you personally disgusting. You’re a piece of
+      shit and you should shut the fuck up. ______________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Mike Palmer (CC BY 2.0)'
+    one_sentence_summary: The article expresses frustration with individuals from the
+      Iranian and Cuban diasporas who advocate for U.S. military actions against their
+      home countries, arguing that dissent against such warmongering should not be silenced
+      by their heritage.
+    paragraph_summary: In Tim Foley's article, he expresses frustration with individuals
+      from the Iranian and Cuban diasporas who advocate for U.S. military interventions
+      in their home countries, arguing that their personal histories do not grant them
+      the authority to silence opposition to such actions. Foley asserts that everyone
+      has the right to oppose U.S. war efforts and sanctions, regardless of their background,
+      and criticizes those who attempt to shame others into silence for voicing dissent.
+      He encourages readers to stand firm against these pressures and to continue opposing
+      what he views as immoral and harmful U.S. foreign policies, emphasizing that dissent
+      should not be stifled by the opinions of those who support military intervention.
+    published: '2026-02-22T12:35:58+00:00'
+  - title: It's Very Possible To Be Both Happy And Well-Informed
+    url: https://www.caitlinjohnst.one/p/its-very-possible-to-be-both-happy
+    text: 'Reading by Tim Foley : Subscribe now There’s a viral tweet going around that
+      says it’s “hard to find the balance between educating yourself on current events
+      and not making yourself so indescribably sad that you can’t properly function.”
+      It’s a relatable statement, but it’s based on an incorrect understanding. The
+      key isn’t finding a balance between blissful ignorance and painful awareness,
+      it’s learning to find happiness in sources that don’t depend on the delusional
+      belief that everything is fine. It’s very possible to be both happy and well-informed.
+      We live in an explosively beautiful universe, and getting to experience anything
+      at all is amazing. The fact that our world is plagued by human butchery and degradation
+      does not cancel out the majesty of a bird in the sky, or the ecstasy of the wind
+      upon your skin. It is true that we live in a civilization of unfathomable cruelty.
+      It is true that our biosphere is being strangled while human and non-human beings
+      are subjected to horrific abuses in a society which elevates the worst art, the
+      worst values, and the worst people to the highest levels of prominence. It is
+      also true that getting to live even a single moment on this astonishing blue planet
+      is a gift worthy of immense joy and gratitude. These things are both fully true
+      at the same time. They do not negate each other. Don’t find your happiness in
+      the belief that everything is okay, because everything is not okay. If you spend
+      your life squirming around trying to avert your gaze from the truth and psychologically
+      compartmentalizing away from reality, you will never know actual happiness. Instead,
+      find your happiness in that which cannot be corrupted by this fraudulent dystopia.
+      Your connections with your loved ones. That’s real and authentic. The radiance
+      of the natural world. That’s real and authentic. The crackling aliveness of the
+      senses. That’s real and authentic. The boundless peace deep down at the heart
+      of your being which reveals itself if you listen closely enough. That’s real and
+      authentic. These things can supply endless happiness, even as the world burns,
+      and even as you weep at its burning. Because it is entirely possible to honor
+      the grief and tragedy of this world while also delighting in its beauty. You can
+      weep for the dying oceans while marveling at the stars. You can rage for Gaza
+      while reveling in the earth beneath your bare feet. You can open your heart to
+      all the suffering and to all the wonder. You can fall to your knees in both anguish
+      and gratitude. You can do these things because feelings move through you if you
+      don’t cling to them. You feel them fully without resistance, you invite them in
+      to have their say, and then you let them leave when they are done. It usually
+      doesn’t take long; a few minutes, maybe even seconds. Then you get up and go back
+      to marveling at the miracle. Feelings are meant to be felt. If you simply feel
+      them all the way through when they come up instead of repressing them or trying
+      to manage them, they move through fairly quickly without setting up a permanent
+      residence in your chest. But you’ve got to really let them have their say. You’ve
+      got to give yourself fully over to them. This takes practice if you don’t know
+      how to do it, and because of the way our culture conditions people it tends to
+      be harder for men than for women. But it’s a skill like any other, and anyone
+      can teach themselves how to do it. Appreciating the beauty of this terrestrial
+      experience likewise takes practice. Everything is crackling with beauty all the
+      time, but we don’t notice it because our attention gets wrapped up in mental stories.
+      Just make a conscious practice of noticing beauty at every opportunity, and your
+      aperture for appreciating beauty will get wider and wider. You can learn to live
+      your whole life in this way, from moment to moment. If you can get the hang of
+      these two skills — appreciating beauty and feeling your feelings all the way through — then
+      there will be nothing stopping you from living a joyful and fulfilling life while
+      also having an entirely truth-based relationship with reality. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that instead of seeking a balance between
+      ignorance and awareness of current events, individuals should focus on finding
+      joy in the beauty of the universe while remaining informed about the harsh realities
+      of life.
+    paragraph_summary: In a thought-provoking article, Tim Foley addresses the challenge
+      of staying informed about current events without succumbing to despair. He argues
+      that the key is not to balance ignorance and awareness, but rather to find joy
+      in authentic experiences that exist alongside the harsh realities of the world.
+      Foley emphasizes that while our civilization faces significant cruelty and environmental
+      degradation, one can still appreciate the beauty of life, such as nature and meaningful
+      relationships. He encourages readers to seek happiness in genuine connections
+      and the wonders of the universe, rather than in the false belief that everything
+      is fine, asserting that true happiness can coexist with an awareness of the world's
+      complexities.
+    published: '2026-02-21T13:05:03+00:00'
+  - title: It's Very Possible To Be Both Happy And Well-Informed
+    url: https://www.caitlinjohnst.one/p/its-very-possible-to-be-both-happy
+    text: 'Reading by Tim Foley : Subscribe now There’s a viral tweet going around that
+      says it’s “hard to find the balance between educating yourself on current events
+      and not making yourself so indescribably sad that you can’t properly function.”
+      It’s a relatable statement, but it’s based on an incorrect understanding. The
+      key isn’t finding a balance between blissful ignorance and painful awareness,
+      it’s learning to find happiness in sources that don’t depend on the delusional
+      belief that everything is fine. It’s very possible to be both happy and well-informed.
+      We live in an explosively beautiful universe, and getting to experience anything
+      at all is amazing. The fact that our world is plagued by human butchery and degradation
+      does not cancel out the majesty of a bird in the sky, or the ecstasy of the wind
+      upon your skin. It is true that we live in a civilization of unfathomable cruelty.
+      It is true that our biosphere is being strangled while human and non-human beings
+      are subjected to horrific abuses in a society which elevates the worst art, the
+      worst values, and the worst people to the highest levels of prominence. It is
+      also true that getting to live even a single moment on this astonishing blue planet
+      is a gift worthy of immense joy and gratitude. These things are both fully true
+      at the same time. They do not negate each other. Don’t find your happiness in
+      the belief that everything is okay, because everything is not okay. If you spend
+      your life squirming around trying to avert your gaze from the truth and psychologically
+      compartmentalizing away from reality, you will never know actual happiness. Instead,
+      find your happiness in that which cannot be corrupted by this fraudulent dystopia.
+      Your connections with your loved ones. That’s real and authentic. The radiance
+      of the natural world. That’s real and authentic. The crackling aliveness of the
+      senses. That’s real and authentic. The boundless peace deep down at the heart
+      of your being which reveals itself if you listen closely enough. That’s real and
+      authentic. These things can supply endless happiness, even as the world burns,
+      and even as you weep at its burning. Because it is entirely possible to honor
+      the grief and tragedy of this world while also delighting in its beauty. You can
+      weep for the dying oceans while marveling at the stars. You can rage for Gaza
+      while reveling in the earth beneath your bare feet. You can open your heart to
+      all the suffering and to all the wonder. You can fall to your knees in both anguish
+      and gratitude. You can do these things because feelings move through you if you
+      don’t cling to them. You feel them fully without resistance, you invite them in
+      to have their say, and then you let them leave when they are done. It usually
+      doesn’t take long; a few minutes, maybe even seconds. Then you get up and go back
+      to marveling at the miracle. Feelings are meant to be felt. If you simply feel
+      them all the way through when they come up instead of repressing them or trying
+      to manage them, they move through fairly quickly without setting up a permanent
+      residence in your chest. But you’ve got to really let them have their say. You’ve
+      got to give yourself fully over to them. This takes practice if you don’t know
+      how to do it, and because of the way our culture conditions people it tends to
+      be harder for men than for women. But it’s a skill like any other, and anyone
+      can teach themselves how to do it. Appreciating the beauty of this terrestrial
+      experience likewise takes practice. Everything is crackling with beauty all the
+      time, but we don’t notice it because our attention gets wrapped up in mental stories.
+      Just make a conscious practice of noticing beauty at every opportunity, and your
+      aperture for appreciating beauty will get wider and wider. You can learn to live
+      your whole life in this way, from moment to moment. If you can get the hang of
+      these two skills — appreciating beauty and feeling your feelings all the way through — then
+      there will be nothing stopping you from living a joyful and fulfilling life while
+      also having an entirely truth-based relationship with reality. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that instead of seeking a balance between
+      ignorance and awareness of current events, individuals should focus on finding
+      joy in the beauty of the universe while remaining informed about the harsh realities
+      of life.
+    paragraph_summary: In a thought-provoking article, Tim Foley addresses the challenge
+      of staying informed about current events without succumbing to despair. He argues
+      that the key is not to balance ignorance and awareness, but rather to find joy
+      in authentic experiences that exist alongside the harsh realities of the world.
+      Foley emphasizes that while our civilization faces significant cruelty and environmental
+      degradation, one can still appreciate the beauty of life, such as nature and meaningful
+      relationships. He encourages readers to seek happiness in genuine connections
+      and the wonders of the universe, rather than in the false belief that everything
+      is fine, asserting that true happiness can coexist with an awareness of the world's
+      complexities.
+    published: '2026-02-21T13:05:03+00:00'
+  - title: Democrats Aren't Resisting Trump's Iran War Because They Secretly Support
+      It
+    url: https://www.caitlinjohnst.one/p/democrats-arent-resisting-trumps
+    text: 'Reading by Tim Foley : Subscribe now The Wall Street Journal reports that
+      the US has been gathering the most air power seen in the middle east since the
+      Iraq invasion in 2003. CNN says the US military is prepared to strike Iran as
+      early as this weekend. A Trump advisor has reportedly told Axios that “The boss
+      is getting fed up. Some people around him warn him against going to war with Iran,
+      but I think there is 90% chance we see kinetic action in the next few weeks.”
+      The US is by every indication headed straight toward war with Iran, and Trump’s
+      ostensible opposition has conspicuously little to say about it. We’re seeing some
+      pushback from House Democrats like Ro Khanna, but party leaders like Hakeem Jeffries
+      and Chuck Schumer are completely missing from the scene on this issue of unparalleled
+      urgency. Democratic Party leaders are doing nothing to oppose Trump’s war plans
+      for Iran because they support those plans. They just don’t want to be the ones
+      pulling the trigger. When the attack begins they’ll do the same thing they did
+      with Venezuela: publicly finger-wag about rules and protocol while providing no
+      meaningful resistance and privately being glad the empire took out another unauthorized
+      leader. Democratic Party empire managers love Trump. They love having a bad cop
+      who’s willing to get his hands dirty and slit the throats that need slitting while
+      they sit back looking pretty and fundraise off his depravity. Democrats hate having
+      to be the bad guy. They hated trying to come up with excuses for why it was fine
+      for Biden to aggressively back a live-streamed genocide in Gaza, and they were
+      relieved to finally hand off that PR nightmare to Trump. They wanted to lose in
+      2024, and they were glad when they did. Now they get to just coast along and let
+      Trump take the blame for all the imperial depravity. On Wednesday, Democratic
+      Senator Mark Warner told MS NOW’s Katy Tur that “I think it’s appropriate that
+      the president has all the options on the table” with regard to war with Iran,
+      complaining only that Trump was too incompetent to strike last month when Iranian
+      domestic turmoil was at its peak. Warner said that “seeing regime change in Iran
+      would make sense” and made it clear that he would like to see the Iranian government
+      removed, with his only criticism being that Trump was going about obtaining it
+      in a clumsy and impolite way. “First of all, remember the president said in our
+      previous bombing that we had obliterated Iran’s nuclear program,” Warner said.
+      “While clearly our military did an exquisite job, we did not obliterate Iran’s
+      nuclear program, number one. Number two, if the president is calling for regime
+      change in Iran — and Iran is an awful regime — but he should make the case to
+      the American public and to the world of how we’re going to go about doing that.”
+      This is such a perfect example of the Democratic Party’s relationship with all
+      of Trump’s most depraved agendas. Here’s this monstrous warmonger, poised to unleash
+      violence in the middle east of potentially devastating consequence, and all Warner
+      can do is hem and haw about proper war etiquette and criticize the president for
+      failing to drop enough bombs on Iran’s nuclear energy infrastructure. The United
+      States has two right wing war parties: the polite one and the rude one. No party
+      or faction which advances peace and human interests is allowed to flourish at
+      the heart of the empire. Trump is responsible for the war crimes of his administration,
+      and he belongs in a cell in The Hague. But these Republican swamp monsters wouldn’t
+      be able to do the damage they do without the assistance of the Democratic Party.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from MS Now (Fair Use).'
+    one_sentence_summary: The article discusses the escalating U.S. military presence
+      in the Middle East and the likelihood of imminent military action against Iran,
+      highlighting a lack of opposition from Democratic leaders who appear to support
+      Trump's war plans without wanting to take direct responsibility.
+    paragraph_summary: The Wall Street Journal reports that the U.S. is amassing significant
+      air power in the Middle East, the largest since the 2003 Iraq invasion, with CNN
+      indicating military readiness to strike Iran imminently. A Trump advisor suggests
+      there is a 90% chance of military action in the coming weeks, despite some internal
+      opposition. While House Democrats like Ro Khanna express concern, party leaders
+      such as Hakeem Jeffries and Chuck Schumer remain silent, seemingly supportive
+      of Trump's war plans but reluctant to take responsibility. The article argues
+      that Democratic leaders prefer to let Trump handle the aggressive military actions,
+      allowing them to avoid the political fallout while benefiting from the situation,
+      similar to their response to past conflicts. Senator Mark Warner has stated that
+      it is appropriate for the president to keep all options open regarding Iran.
+    published: '2026-02-20T01:20:57+00:00'
+  - title: Democrats Aren't Resisting Trump's Iran War Because They Secretly Support
+      It
+    url: https://www.caitlinjohnst.one/p/democrats-arent-resisting-trumps
+    text: 'Reading by Tim Foley : Subscribe now The Wall Street Journal reports that
+      the US has been gathering the most air power seen in the middle east since the
+      Iraq invasion in 2003. CNN says the US military is prepared to strike Iran as
+      early as this weekend. A Trump advisor has reportedly told Axios that “The boss
+      is getting fed up. Some people around him warn him against going to war with Iran,
+      but I think there is 90% chance we see kinetic action in the next few weeks.”
+      The US is by every indication headed straight toward war with Iran, and Trump’s
+      ostensible opposition has conspicuously little to say about it. We’re seeing some
+      pushback from House Democrats like Ro Khanna, but party leaders like Hakeem Jeffries
+      and Chuck Schumer are completely missing from the scene on this issue of unparalleled
+      urgency. Democratic Party leaders are doing nothing to oppose Trump’s war plans
+      for Iran because they support those plans. They just don’t want to be the ones
+      pulling the trigger. When the attack begins they’ll do the same thing they did
+      with Venezuela: publicly finger-wag about rules and protocol while providing no
+      meaningful resistance and privately being glad the empire took out another unauthorized
+      leader. Democratic Party empire managers love Trump. They love having a bad cop
+      who’s willing to get his hands dirty and slit the throats that need slitting while
+      they sit back looking pretty and fundraise off his depravity. Democrats hate having
+      to be the bad guy. They hated trying to come up with excuses for why it was fine
+      for Biden to aggressively back a live-streamed genocide in Gaza, and they were
+      relieved to finally hand off that PR nightmare to Trump. They wanted to lose in
+      2024, and they were glad when they did. Now they get to just coast along and let
+      Trump take the blame for all the imperial depravity. On Wednesday, Democratic
+      Senator Mark Warner told MS NOW’s Katy Tur that “I think it’s appropriate that
+      the president has all the options on the table” with regard to war with Iran,
+      complaining only that Trump was too incompetent to strike last month when Iranian
+      domestic turmoil was at its peak. Warner said that “seeing regime change in Iran
+      would make sense” and made it clear that he would like to see the Iranian government
+      removed, with his only criticism being that Trump was going about obtaining it
+      in a clumsy and impolite way. “First of all, remember the president said in our
+      previous bombing that we had obliterated Iran’s nuclear program,” Warner said.
+      “While clearly our military did an exquisite job, we did not obliterate Iran’s
+      nuclear program, number one. Number two, if the president is calling for regime
+      change in Iran — and Iran is an awful regime — but he should make the case to
+      the American public and to the world of how we’re going to go about doing that.”
+      This is such a perfect example of the Democratic Party’s relationship with all
+      of Trump’s most depraved agendas. Here’s this monstrous warmonger, poised to unleash
+      violence in the middle east of potentially devastating consequence, and all Warner
+      can do is hem and haw about proper war etiquette and criticize the president for
+      failing to drop enough bombs on Iran’s nuclear energy infrastructure. The United
+      States has two right wing war parties: the polite one and the rude one. No party
+      or faction which advances peace and human interests is allowed to flourish at
+      the heart of the empire. Trump is responsible for the war crimes of his administration,
+      and he belongs in a cell in The Hague. But these Republican swamp monsters wouldn’t
+      be able to do the damage they do without the assistance of the Democratic Party.
+      _______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from MS Now (Fair Use).'
+    one_sentence_summary: The article discusses the escalating U.S. military presence
+      in the Middle East and the likelihood of imminent military action against Iran,
+      highlighting a lack of opposition from Democratic leaders who appear to support
+      Trump's war plans without wanting to take direct responsibility.
+    paragraph_summary: The Wall Street Journal reports that the U.S. is amassing significant
+      air power in the Middle East, the largest since the 2003 Iraq invasion, with CNN
+      indicating military readiness to strike Iran imminently. A Trump advisor suggests
+      there is a 90% chance of military action in the coming weeks, despite some internal
+      opposition. While House Democrats like Ro Khanna express concern, party leaders
+      such as Hakeem Jeffries and Chuck Schumer remain silent, seemingly supportive
+      of Trump's war plans but reluctant to take responsibility. The article argues
+      that Democratic leaders prefer to let Trump handle the aggressive military actions,
+      allowing them to avoid the political fallout while benefiting from the situation,
+      similar to their response to past conflicts. Senator Mark Warner has stated that
+      it is appropriate for the president to keep all options open regarding Iran.
+    published: '2026-02-20T01:20:57+00:00'
   - title: The Ticking Time Bomb Looming Over Gaza, And Other Notes
     url: https://www.caitlinjohnst.one/p/the-ticking-time-bomb-looming-over
     text: 'Reading by Tim Foley : Subscribe now One under-discussed ticking time bomb

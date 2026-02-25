@@ -7,14 +7,538 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  Four years into the Ukraine war, the geopolitical landscape remains volatile, with the conflict’s persistence shaping both regional and global dynamics. According to **Jack Rasmus**, recent analysis at the Niebyl-Proctor Library emphasized the entrenched nature of the Ukraine/NATO confrontation and the considerable obstacles to a negotiated settlement. The ongoing war continues to test U.S. and NATO strategies, while Russian military capabilities in the region remain robust, complicating Western efforts to shift the balance.
+  As February 2026 unfolds, the global geopolitical and economic landscape is marked by escalating uncertainty, driven by financial market instability, ongoing military conflicts, and shifts in U.S. domestic and foreign policy under the Trump administration.
   
-  Meanwhile, the Trump administration’s foreign policy has seen a marked pivot. As **Jack Rasmus** notes, there is a discernible shift in U.S. focus away from Europe and Ukraine toward asserting influence in Latin America and the western Pacific. This realignment is driven by both strategic and economic calculations, with Washington seeking to counter emerging threats and maintain its regional dominance.
+  The most pressing development in recent days is the contraction of financial asset markets. According to **Jack Rasmus**, since Trump’s return to office, asset bubbles—particularly in stocks, cryptocurrencies, and precious metals—have reached historic highs but began to unwind sharply in early February. Rasmus notes, “the sustainability of these bubbles is in serious doubt,” and warns that the current market contractions are “flashing red” for a potential financial crash. He draws parallels to previous crises but emphasizes that contagion is now spreading across multiple asset classes, including those linked to AI and technology. Rasmus predicts, with high confidence, that a market implosion is “most definitely” possible by 2026 or 2027, especially given stagnant job growth and underlying economic weaknesses masked by official narratives.
   
-  On the domestic front, the U.S. economy faces mounting pressures. The unwinding of AI and stock market bubbles, as discussed by **Jack Rasmus**, is spreading contagion across asset classes, raising the specter of a broader financial crisis by 2026 or 2027. The job market remains stagnant, and recent contractions in stocks, cryptocurrencies, and precious metals signal deepening vulnerabilities. The anticipated lowering of interest rates by the new Federal Reserve chair, coupled with the declining value of the U.S. dollar, further underscores the fragility of the current economic order.
+  On the geopolitical front, the Ukraine conflict remains unresolved after four years, with U.S. and NATO strategies under continued scrutiny. In a recent presentation, **Jack Rasmus** highlighted the challenges to a negotiated settlement, noting that the Trump administration’s pivot toward more aggressive postures in other regions—particularly Latin America and the western Pacific—has complicated prospects for peace in Eastern Europe. The military balance in the region remains precarious, and diplomatic efforts are hampered by shifting U.S. priorities.
   
-  Looking ahead, **Jack Rasmus** predicts with high confidence that the U.S. will continue to face significant economic and geopolitical headwinds. The Ukraine conflict shows little sign of resolution, and the risk of a major market implosion is “most definitely” on the horizon. The Trump administration’s assertive foreign policy and domestic economic interventions are unlikely to reverse these trends, suggesting continued instability both at home and abroad.
+  Domestically, the U.S. political climate has grown increasingly authoritarian. On January 12, President Trump publicly declared his intent to personally dictate all major policy and war decisions, disregarding constitutional checks and balances. Critics, including **Jack Rasmus**, argue this marks a significant shift toward “tyranny,” with the administration’s use of paramilitary forces and legal maneuvers further eroding democratic norms.
+  
+  Looking ahead, the convergence of economic fragility and aggressive U.S. policy—both at home and abroad—suggests heightened risk of instability. The majority view among analysts is that unless there is a significant policy correction, the U.S. and global economies face a “high chance” of crisis within the next 12 to 18 months. Geopolitically, the U.S. is expected to continue its assertive stance in the Western Hemisphere and Asia-Pacific, while the Ukraine war remains deadlocked. The overall trend points toward increasing volatility, with few signs of de-escalation on any front.
 articles:
+  - title: How Close Is the Next Financial Crisis?
+    url: https://jackrasmus.com/2026/02/19/how-close-is-the-next-financial-crisis/
+    text: 'February 18, 2026 Dr. Jack Rasmus, copyright 2026 During the past fourteen
+      months since Trump took office, financial asset market bubbles accelerated to
+      record levels in 2025—i.e. S&P 500 and Nasdaq stock markets, bitcoin cryptocurrency
+      market, and gold and silver markets. In early February 2026 these markets abruptly
+      contracted, briefly recovered some, but then resumed decline once again. The key
+      question debated today in corner offices, board rooms and hallways of finance
+      capitalist institutions is whether the financial bubbles can continue growing
+      much longer.  If not, what’s next? After the abrupt and steep corrections will
+      financial asset prices recover or are the February 2026 contractions a harbinger
+      of more, and perhaps even larger, financial asset price declines to come? In other
+      words, is another financial crash on the horizon in 2026? Or perhaps early 2027
+      at the latest? An important, related question is: how is the current multiple
+      bubbles scenario different from those that preceded it—i.e. the residential housing
+      + derivatives crash of 2007-09? The dotcom bust of 2000? The Asian currency crisis
+      of 1998? The Savings & Loan collapse of 1990? The junk bond and stock market crash
+      of 1987? Not to mention the more recent Repo Treasury market crisis of 2019 that
+      required $1 trillion bailout by the Federal Reserve. Or the US regional banking
+      crisis of 2023 that cost another $1 trillion! In answer to that query, one key
+      difference between the current situation and its historical predecessors is prior
+      financial busts involved single financial market implosions. Today the three financial
+      asset market bubbles—stock markets, crypto markets, and metals markets—are becoming
+      volatile and unstable at the same time. That’s never happened before. The consequences
+      of a triple bubble bust today are therefore potentially greater than ever before.
+      Price bubbles typically take two to three years to peak. As the data table below
+      indicates, the US is now in the third year for all three and the February 2026
+      recent contractions should be a red flag. Asset price fragility is peaking—i.e.
+       where ‘fragility’ is an indicator of the tendency for a major financial crash—a
+      concept this writer defined quantitatively and measured in a previous publication,
+      System Fragility in the Global Economy , Clarity Press, 2015. All three financial
+      markets are now increasingly fragile, as indicated by their growing volatility
+      and ‘churn’ as they reached peak expansion in late 2025—with the sole exception
+      of gold which will likely drive still higher due to separate geopolitical forces.
+      Asset price bubbles typically bust and deflate much faster than they accelerate.
+      Often in just weeks and sometimes just days once they turn down. Asset markets
+      are also what economists call ‘substitutable’—i.e. the same investors invest across
+      all three. And when they deflate, the same investors end up dumping them in tandem—either
+      for psychological reasons, the need to cover prior margin buying, or demands by
+      their lenders. That’s called contagion, signs of which are also now also beginning
+      to appear in the stock and crypto markets. Moreover, should such a general asset
+      deflation occur across all three financial markets in 2026, or early 2027, the
+      price deflation across the three bubbles will be exacerbated by a fourth asset
+      price deflation already well underway—i.e. the price of the US dollar which has
+      already devalued (‘deflated) nearly 10% in 2025. Should the other bubbles bust
+      continue to deflate, the dollar will almost certainly devalue even further in
+      turn—raising the further question how might a further 10% devaluation of the US
+      dollar in 2026 feed back upon the other asset markets? Or, for that matter, on
+      the US real economy? No one knows the consequences for the US and global economies
+      should such a historically unique multiple financial asset price contraction occur
+      in the midst of a 20% decline of the value of the US dollar by year end 2026!
+      It’s never happened before. Nor does anyone know the consequences in turn for
+      US Treasuries sales now facing growing headwinds—and thus the US ability to continue
+      funding its chronic $1.8 trillion annual budget deficits. The history of past
+      finance asset bubble deflations show the crash of even one financial market—whether
+      housing & derivatives in 2007-08, global currencies (1998), junk bonds & stocks
+      (1987), savings & loans (1990), etc.— is often enough to precipitate recessions
+      in the real economy of varying degrees and duration. What happens to the US real
+      (non-financial markets) economy, now already barely growing at around 1.5% in
+      real GDP terms when properly estimated and more accurately adjusted for actual
+      inflation? A financial crash involving multiple finance markets, may make the
+      2007-09 so-called ‘great recession’ appear a relatively mild event. What’s also
+      different today is that the US real economy is far weaker than it was during previous
+      financial instability events: Back in 2007-09 the US economy was not experiencing
+      a US dollar devaluation of 10% or more; the US federal national debt was $10 trillion
+      not approaching $39 trillion today; interest payments on the US national debt
+      were $379 billion in 2008 not $1.2 trillion in 2025; foreign holders of US debt
+      held $2.9 trillion of US Treasuries not $9.1 trillion; the annual US budget deficit
+      in 2008 was $455 billion instead of $1.78 trillion today; total US defense and
+      war spending (not just Pentagon) was roughly half that of 2025’s $2.1 trillion
+      a year—the latter poised to rise by another $400 billion next fiscal year, according
+      to Trump. US household debt was $12.6 trillion in 2008; today it’s at record levels
+      of $18.8 trillion with delinquencies and defaults now rising sharply for credit
+      cards, auto and student loans, while Corporate debt is also now at a record $10.5
+      trillion. Real wages for US households in 2025 remain stagnant or declining now
+      after four decades for the bottom 80% of the US work force, while net new job
+      growth in 2025 averaged a record low of only 15,000 a month (181,000 for all of
+      2025). Nominal weekly earnings for the more than 100 million US production and
+      non-supervisory workers have risen only 9.1% since 2020, while inflation per the
+      US CPI index has risen more than 24%. Official government data shows 67% of US
+      households now live paycheck to paycheck. If the financial market bubbles and
+      the chronic devaluing dollar represent the kindling beneath the US real economy,
+      then US households’ precarious economic condition today represents the dry tinder
+      waiting to set off an economic conflagration the next 18 months should the financial
+      bubbles implode driving the US economy into recession once again. Financial Asset
+      Market Fragility 2023-25 Here’s how much the three concurrent financial bubbles
+      have accelerated in recent years: % Change/Yr 2023 2024 2025 S&P500 26.3% 25.0%
+      17.8% Nasdaq 43.4% 29.5% 20.3% Dow 16.8% 12.8% 13.0% Bitcoin 155% 121% 5.0% Gold
+      13.1% 27.3% 64.7% Silver -1.2% 22.3% 170% $US Dollar -2.7% 6.8% -9.2% What’s Happening
+      February 2026 In early 2025 the asset bubbles hit a wall. Some recovered relatively
+      quickly, like gold prices.  But US Stock markets and prices have struggled to
+      regain their lost momentum. Bitcoin and crypto currency prices have fared even
+      worse. 2025 Feb. 15, 2026 Loss/Gain 2026 (6 wks) S&P500 $6,845 $6,881 +$36 Nasdaq
+      $23,241 $20,367 -$2,874 Dow $48,063 $49,500 +$1,437 Bitcoin (per coin) $88,430
+      $68,867 -$19,563 Gold (per ounce) $4,322 $5,044 +$712 Silver (per ounce) $77.92
+      $78.91 +$0.99 $US Dollar (index) -9.2% -1.2% -10.4% What the data show thus far
+      for 2026 is that, except for gold, after accelerating for three years asset markets
+      hit a wall in 2026 starting the last week in January and into the first weeks
+      of February 2026. Tech stocks in particular underwent a significant contraction
+      reflected in both the S&P 500 and Nasdaq stock markets. Bitcoin fared worse: On
+      one day alone it crashed 14% after having declined from a high of $126,000 per
+      coin in October 2025 to $68,867 in mid-February 2026, almost by 50%. After a torrid
+      170% surge in 2025, silver prices have now flattened out. Gold prices took a major
+      dip at the end of January along with the rest, falling 15% on January 30 alone,
+      the largest one day loss in its history but clawed back some of that loss by mid-February.
+      During the first week of February the contagion mostly occurred across and between
+      financial asset markets. The sell offs abated some by the end of the first week
+      as ‘dip buying’ set in. Big finance investors were not yet moving to the sidelines
+      for an extended period. Some are still buying on the dip. However, that may not
+      last. The dip buying is proving tepid—especially in the case of the S&P500, Nasdaq,
+      and Bitcoin markets. Therefore the multi-market price deflation is so far a harbinger
+      of things to come and not yet the ‘big event’. Some investors have not stepped
+      back in to re-buy Tech stocks—which is itself significant and telling—but moved
+      over to invest in the non-Tech Dow Industrials which has experienced a temporary
+      surge in the wake of the tech stock-crypto collapse. Other investors have rotated
+      their profits into the gold market where fundamentals due to geopolitical and
+      geo-economic causes promise to continue an escalation of metals prices. So why
+      have gold prices recovered, while other stock markets thus far have not? The simple
+      explanation is the gold bubble is being driven by global causes as well while
+      the US stock markets’ bubbles are driven by the hype and price speculation in
+      the artificial intelligence AI investment boom; and Bitcoin and cryptos by regulatory
+      changes, crypto ETFs, and by support from Trump and the Trump family crypto grift.
+      Gold prices continue to rise due to escalation in buying by foreign country central
+      banks, private banks, and offshore investors. China, India, the BRICS and other
+      global south economies have led the way. Their gold buying represents a shift
+      from using the US dollar as their primary reserve currency, and from using dollars
+      for transactions in oil and other commodities. Deeper still, the shift from dollars
+      is driven by US policies employing sanctions, tariffs, and embargoes as tools
+      of US imperial policy. The decline in the demand for dollars is occurring as well
+      for separate set of reasons by the other historically big purchasers of dollars,
+      Japan and Europe. They too are shifting to gold and away from dollars to purchase
+      US Treasury securities. As former global buyers of dollars shift to gold, the
+      decline in the demand for dollars has resulted in the devaluing the US dollar.
+      That in turn pushes up the demand for gold and thus its price. Thus, multiple
+      international forces, economic and political, are driving the price of gold—unlike
+      the price bubbles in US stock markets that are being driven largely by AI investment
+      hype and speculation and political factors driving bitcoin and cryptos. How much
+      and how fast the multiple financial market bubbles contract in coming months will
+      determine whether a ‘financial crash’ takes place the next 12-18 months. But February
+      2026 market events suggest that is the new trajectory in 2026, a basic departure
+      from the sustained bubble trajectory of 2023-25.  Geopolitical events will continue
+      to drive gold prices. Domestic political events crypto prices. And investor herd
+      psychology and hype associated with the investment boom in Artificial Intelligence
+      in the US will largely determine what further happens in the S&P 500 and Nasdaq
+      stock markets. However, recent developments in AI do not portend well for the
+      US stocks markets’ recovery. Here’s why: Artificial Intelligence Investment: Boom
+      or Bust? One must understand what’s going on in the Artificial Intelligence investment
+      boom to understand whether S&P 500 and Nasdaq stock markets will continue to weaken
+      and deflate. Some of the AI investment boom is real, but much of it is hype that
+      will never be realized for most businesses beyond the Big 7 tech companies driving
+      it. As is often the case, financial bubbles are built upon developments in the
+      real economy. When those real developments do not pan out, market asset prices
+      bubbles based upon them implode in turn. Almost all the accelerating rise in SP500
+      and Nasdaq stock markets price appreciation in 2025 has been driven by the stocks
+      of the big & Tech corporations and their stock price appreciation has been driven
+      by their hype, announcements and plans with regard to AI. As others have also
+      pointed out, AI investment is also propping up the US real economy not just the
+      financial markets. In the first half of 2025 AI investment accounted for 85% of
+      all the gain in the US real GDP! Should the AI investment boom not deliver on
+      the hype it has promised for the real economy, the AI driven tech stocks underpinning
+      the stock markets will deflate further and faster. Almost all of the US GDP growth
+      in 2025 has been due to 1) the AI investment boom up to now focused in chips,
+      data centers and software apps investment by the big 7 Tech corps, along with
+      2) technical changes in the reduction of US imports as result of Trump tariff
+      policies. Take away these two factors and, as the saying goes, “there’s no there
+      there” in US GDP growth last year. The US real economy would be close to stagnant
+      in 2025. And US GDP would be contracting—i.e. in recession—if it were properly
+      adjusted for inflation, which it isn’t by using the PCE index that low balls inflation
+      and thus puffs up real GDP. In short, take away the AI boom, the tariffs driven
+      decline in US imports, and properly adjust prices, and US GDP would be negative.
+      We’re told by the big Tech corporations and politicians alike that the investment
+      boom in Artificial Intelligence will ensure the stock markets continue to rise
+      and the real US economy will experience a new era of solid real economic growth.
+      Big Tech and US business in general are ‘rolling the economic dice’ on massive
+      investments in AI as the magic solution that will soon turn everything around
+      before the next financial crash. The big 7 Tech companies—Google, Amazon, Meta,
+      Microsoft, Nvidia, Apple and Broadcom (8 if one counts Tesla)—this past winter
+      2025-26 together announced $700 billion new spending in AI for 2026 alone, after
+      having invested $450 billion in 2025. But is AI the solution to the growing financial
+      fragility—or a major cause of it? Will AI generate real economic benefits for
+      all—or just produce more concentration of wealth for the Big Tech capitalists
+      and billionaires? Here’s the problem why AI will mostly produce profits for Big
+      Tech and not for general business, will not generate sustained economic growth
+      in general, and will result in more fragility and stock market price instability:
+      Surveys show that 70% of non-big 7 tech companies don’t see how they can make
+      money from introducing AI. The costs of implementing AI in their companies are
+      significant. It’s not just about using a Chat-GPT app. That’s AI peanuts. To introduce
+      AI in order to significantly reduce costs, boost productivity, and realize significant
+      profit gains, non-tech companies will have to re-engineer their companies’ basic
+      data architecture. That’s expensive. They’ll have to employ professional consulting
+      services to do so. And guess who’ll offer those businesses services? The big 7
+      tech corps. The non-tech businesses will also have to integrate their IT with
+      cloud computing services. Guess who offers that? Again, the big Techs, especially
+      Alphabet-Google, Amazon, Microsoft and soon even Meta. The big chip companies
+      like Nvidia, Broadcom and others will feed them all the expensive chips they want.
+      In other words, the AI investment boom will largely benefit the big 7 financially.
+      They’ll make the profits. The rest of general business caught up in the AI hype
+      will pay for it all and realize few if any profit gains. When that becomes apparent,
+      general business demand for AI products will decline—and with it the price of
+      the offerings by the Big 7 tech giants. And then the AI stock bubble will begin
+      unwinding in turn. It’s all not unlike what happened with artificially stimulated
+      US residential housing markets in 2003-2007. When the real investment in housing
+      collapsed in 2007, the stock values followed. And the companies that borrowed
+      to play couldn’t pay off their lenders, who in turn recorded losses, and we know
+      the rest of the trajectory. The current AI boom is therefore something like the
+      dotcom internet bubble’s over-investment 1998-2000, overlaid with elements of
+      the residential housing boom and bubble that followed 2003-07. AI hype is already
+      beginning to impact other sectors and companies, now showing up in their stock
+      valuations as well.  The AI investment boom risks not only millions of US job
+      losses and wage compression for millions more workers, but also risks destroying
+      thousands of other companies’ business models and bottom lines. AI will prove
+      a destructive economic force like no other to date. The US business media is beginning
+      to acknowledge the AI investment boom is destroying the valuations and future
+      returns for other industries and companies: the traditional software companies
+      are especially vulnerable. Other industries like finance, insurance, legal services
+      and even trucking are now recognized as existentially threatened by AI. Their
+      stock prices are already taking a hit. As a recent Wall St. Journal article (February
+      14, 2026, p. B10) entitled ‘ AI Jitters Fuel Worst Week for Stocks Since November’
+      , forewarned of “the long term disruptive potential of AI” on a wide array of
+      business sectors and “that entire industries are going to be worth much less money
+      than they are today”. After a brief recovery earlier in last week, all the stock
+      markets retreated even further on Thursday and Friday, February 12-13. The Nasdaq
+      declined for a fifth consecutive week, it’s worst slide since May 2022. The S&P
+      500 experienced its worst weekly loss last week since November 2025 while the
+      Dow Industrial average rose only 49 points or 0.01%. In other words, there’s no
+      sign of a major stock market bounce back yet. AI contagion fears may now be spreading
+      in the S&P 500 and Nasdaq stock markets, i.e. from the Big 7 tech companies stocks
+      to other sectors. The decline in the financial asset bubbles may therefore have
+      only just begun.  Even given some recovery, more churn and contractions in 2026
+      are almost certain to occur. The era of unrelenting asset price surges and bubbles
+      that defined 2023-25 is likely over. A period of financial asset volatility and
+      decline has likely now begun. Will one or more of the recent asset bubbles break
+      in 2026? Drag down the other bubbles in turn? Cause a further decline in the value
+      of the US dollar?  Will the weakness in the US real economy now become more increasingly
+      apparent as well? Government shutdowns allowed politicians since October to plug
+      in arbitrary data for the weeks of missed government surveys on inflation, jobs
+      and GDP. They call this ‘imputed’ data. It’s actually just ‘made up’ data. A real
+      view of the US economy will not be available until end of March 2026. In the meantime,
+      pending political events in the form of more Trump wars abroad, and Trump threats
+      and actions to undermine US elections in November, will negatively impact investor-consumer
+      confidence in 2026 and feedback on the already increasingly fragile stocks-crypto-US
+      dollar and metals financial markets. Should any one of the referenced financial
+      asset markets break out of the pack and deflate rapidly, then contagion and a
+      more general asset price collapse becomes imminent—with consequences for the real
+      economy even greater than that which occurred in 2007-09.'
+    one_sentence_summary: Since Trump took office, financial asset market bubbles have
+      reached unprecedented levels but experienced significant contractions in early
+      February 2026, raising concerns about the sustainability of these bubbles and
+      the potential for a financial crash in the near future.
+    paragraph_summary: Since Donald Trump took office, financial asset market bubbles
+      have surged to unprecedented levels, particularly in the S&P 500, Nasdaq, bitcoin,
+      and precious metals markets. However, as of early February 2026, these markets
+      experienced a sharp contraction, raising concerns among financial experts about
+      the sustainability of these bubbles and the potential for a significant financial
+      crash in 2026 or early 2027. Unlike previous financial crises that typically involved
+      the collapse of a single market, the current scenario features simultaneous volatility
+      across multiple asset classes, which could lead to more severe consequences if
+      a triple bubble burst occurs. This unprecedented situation has sparked debates
+      about the future of financial markets and the likelihood of recovery following
+      the recent downturn.
+    published: '2026-02-20T00:50:29+00:00'
+  - title: How Close Is the Next Financial Crisis?
+    url: https://jackrasmus.com/2026/02/19/how-close-is-the-next-financial-crisis/
+    text: 'February 18, 2026 Dr. Jack Rasmus, copyright 2026 During the past fourteen
+      months since Trump took office, financial asset market bubbles accelerated to
+      record levels in 2025—i.e. S&P 500 and Nasdaq stock markets, bitcoin cryptocurrency
+      market, and gold and silver markets. In early February 2026 these markets abruptly
+      contracted, briefly recovered some, but then resumed decline once again. The key
+      question debated today in corner offices, board rooms and hallways of finance
+      capitalist institutions is whether the financial bubbles can continue growing
+      much longer.  If not, what’s next? After the abrupt and steep corrections will
+      financial asset prices recover or are the February 2026 contractions a harbinger
+      of more, and perhaps even larger, financial asset price declines to come? In other
+      words, is another financial crash on the horizon in 2026? Or perhaps early 2027
+      at the latest? An important, related question is: how is the current multiple
+      bubbles scenario different from those that preceded it—i.e. the residential housing
+      + derivatives crash of 2007-09? The dotcom bust of 2000? The Asian currency crisis
+      of 1998? The Savings & Loan collapse of 1990? The junk bond and stock market crash
+      of 1987? Not to mention the more recent Repo Treasury market crisis of 2019 that
+      required $1 trillion bailout by the Federal Reserve. Or the US regional banking
+      crisis of 2023 that cost another $1 trillion! In answer to that query, one key
+      difference between the current situation and its historical predecessors is prior
+      financial busts involved single financial market implosions. Today the three financial
+      asset market bubbles—stock markets, crypto markets, and metals markets—are becoming
+      volatile and unstable at the same time. That’s never happened before. The consequences
+      of a triple bubble bust today are therefore potentially greater than ever before.
+      Price bubbles typically take two to three years to peak. As the data table below
+      indicates, the US is now in the third year for all three and the February 2026
+      recent contractions should be a red flag. Asset price fragility is peaking—i.e.
+       where ‘fragility’ is an indicator of the tendency for a major financial crash—a
+      concept this writer defined quantitatively and measured in a previous publication,
+      System Fragility in the Global Economy , Clarity Press, 2015. All three financial
+      markets are now increasingly fragile, as indicated by their growing volatility
+      and ‘churn’ as they reached peak expansion in late 2025—with the sole exception
+      of gold which will likely drive still higher due to separate geopolitical forces.
+      Asset price bubbles typically bust and deflate much faster than they accelerate.
+      Often in just weeks and sometimes just days once they turn down. Asset markets
+      are also what economists call ‘substitutable’—i.e. the same investors invest across
+      all three. And when they deflate, the same investors end up dumping them in tandem—either
+      for psychological reasons, the need to cover prior margin buying, or demands by
+      their lenders. That’s called contagion, signs of which are also now also beginning
+      to appear in the stock and crypto markets. Moreover, should such a general asset
+      deflation occur across all three financial markets in 2026, or early 2027, the
+      price deflation across the three bubbles will be exacerbated by a fourth asset
+      price deflation already well underway—i.e. the price of the US dollar which has
+      already devalued (‘deflated) nearly 10% in 2025. Should the other bubbles bust
+      continue to deflate, the dollar will almost certainly devalue even further in
+      turn—raising the further question how might a further 10% devaluation of the US
+      dollar in 2026 feed back upon the other asset markets? Or, for that matter, on
+      the US real economy? No one knows the consequences for the US and global economies
+      should such a historically unique multiple financial asset price contraction occur
+      in the midst of a 20% decline of the value of the US dollar by year end 2026!
+      It’s never happened before. Nor does anyone know the consequences in turn for
+      US Treasuries sales now facing growing headwinds—and thus the US ability to continue
+      funding its chronic $1.8 trillion annual budget deficits. The history of past
+      finance asset bubble deflations show the crash of even one financial market—whether
+      housing & derivatives in 2007-08, global currencies (1998), junk bonds & stocks
+      (1987), savings & loans (1990), etc.— is often enough to precipitate recessions
+      in the real economy of varying degrees and duration. What happens to the US real
+      (non-financial markets) economy, now already barely growing at around 1.5% in
+      real GDP terms when properly estimated and more accurately adjusted for actual
+      inflation? A financial crash involving multiple finance markets, may make the
+      2007-09 so-called ‘great recession’ appear a relatively mild event. What’s also
+      different today is that the US real economy is far weaker than it was during previous
+      financial instability events: Back in 2007-09 the US economy was not experiencing
+      a US dollar devaluation of 10% or more; the US federal national debt was $10 trillion
+      not approaching $39 trillion today; interest payments on the US national debt
+      were $379 billion in 2008 not $1.2 trillion in 2025; foreign holders of US debt
+      held $2.9 trillion of US Treasuries not $9.1 trillion; the annual US budget deficit
+      in 2008 was $455 billion instead of $1.78 trillion today; total US defense and
+      war spending (not just Pentagon) was roughly half that of 2025’s $2.1 trillion
+      a year—the latter poised to rise by another $400 billion next fiscal year, according
+      to Trump. US household debt was $12.6 trillion in 2008; today it’s at record levels
+      of $18.8 trillion with delinquencies and defaults now rising sharply for credit
+      cards, auto and student loans, while Corporate debt is also now at a record $10.5
+      trillion. Real wages for US households in 2025 remain stagnant or declining now
+      after four decades for the bottom 80% of the US work force, while net new job
+      growth in 2025 averaged a record low of only 15,000 a month (181,000 for all of
+      2025). Nominal weekly earnings for the more than 100 million US production and
+      non-supervisory workers have risen only 9.1% since 2020, while inflation per the
+      US CPI index has risen more than 24%. Official government data shows 67% of US
+      households now live paycheck to paycheck. If the financial market bubbles and
+      the chronic devaluing dollar represent the kindling beneath the US real economy,
+      then US households’ precarious economic condition today represents the dry tinder
+      waiting to set off an economic conflagration the next 18 months should the financial
+      bubbles implode driving the US economy into recession once again. Financial Asset
+      Market Fragility 2023-25 Here’s how much the three concurrent financial bubbles
+      have accelerated in recent years: % Change/Yr 2023 2024 2025 S&P500 26.3% 25.0%
+      17.8% Nasdaq 43.4% 29.5% 20.3% Dow 16.8% 12.8% 13.0% Bitcoin 155% 121% 5.0% Gold
+      13.1% 27.3% 64.7% Silver -1.2% 22.3% 170% $US Dollar -2.7% 6.8% -9.2% What’s Happening
+      February 2026 In early 2025 the asset bubbles hit a wall. Some recovered relatively
+      quickly, like gold prices.  But US Stock markets and prices have struggled to
+      regain their lost momentum. Bitcoin and crypto currency prices have fared even
+      worse. 2025 Feb. 15, 2026 Loss/Gain 2026 (6 wks) S&P500 $6,845 $6,881 +$36 Nasdaq
+      $23,241 $20,367 -$2,874 Dow $48,063 $49,500 +$1,437 Bitcoin (per coin) $88,430
+      $68,867 -$19,563 Gold (per ounce) $4,322 $5,044 +$712 Silver (per ounce) $77.92
+      $78.91 +$0.99 $US Dollar (index) -9.2% -1.2% -10.4% What the data show thus far
+      for 2026 is that, except for gold, after accelerating for three years asset markets
+      hit a wall in 2026 starting the last week in January and into the first weeks
+      of February 2026. Tech stocks in particular underwent a significant contraction
+      reflected in both the S&P 500 and Nasdaq stock markets. Bitcoin fared worse: On
+      one day alone it crashed 14% after having declined from a high of $126,000 per
+      coin in October 2025 to $68,867 in mid-February 2026, almost by 50%. After a torrid
+      170% surge in 2025, silver prices have now flattened out. Gold prices took a major
+      dip at the end of January along with the rest, falling 15% on January 30 alone,
+      the largest one day loss in its history but clawed back some of that loss by mid-February.
+      During the first week of February the contagion mostly occurred across and between
+      financial asset markets. The sell offs abated some by the end of the first week
+      as ‘dip buying’ set in. Big finance investors were not yet moving to the sidelines
+      for an extended period. Some are still buying on the dip. However, that may not
+      last. The dip buying is proving tepid—especially in the case of the S&P500, Nasdaq,
+      and Bitcoin markets. Therefore the multi-market price deflation is so far a harbinger
+      of things to come and not yet the ‘big event’. Some investors have not stepped
+      back in to re-buy Tech stocks—which is itself significant and telling—but moved
+      over to invest in the non-Tech Dow Industrials which has experienced a temporary
+      surge in the wake of the tech stock-crypto collapse. Other investors have rotated
+      their profits into the gold market where fundamentals due to geopolitical and
+      geo-economic causes promise to continue an escalation of metals prices. So why
+      have gold prices recovered, while other stock markets thus far have not? The simple
+      explanation is the gold bubble is being driven by global causes as well while
+      the US stock markets’ bubbles are driven by the hype and price speculation in
+      the artificial intelligence AI investment boom; and Bitcoin and cryptos by regulatory
+      changes, crypto ETFs, and by support from Trump and the Trump family crypto grift.
+      Gold prices continue to rise due to escalation in buying by foreign country central
+      banks, private banks, and offshore investors. China, India, the BRICS and other
+      global south economies have led the way. Their gold buying represents a shift
+      from using the US dollar as their primary reserve currency, and from using dollars
+      for transactions in oil and other commodities. Deeper still, the shift from dollars
+      is driven by US policies employing sanctions, tariffs, and embargoes as tools
+      of US imperial policy. The decline in the demand for dollars is occurring as well
+      for separate set of reasons by the other historically big purchasers of dollars,
+      Japan and Europe. They too are shifting to gold and away from dollars to purchase
+      US Treasury securities. As former global buyers of dollars shift to gold, the
+      decline in the demand for dollars has resulted in the devaluing the US dollar.
+      That in turn pushes up the demand for gold and thus its price. Thus, multiple
+      international forces, economic and political, are driving the price of gold—unlike
+      the price bubbles in US stock markets that are being driven largely by AI investment
+      hype and speculation and political factors driving bitcoin and cryptos. How much
+      and how fast the multiple financial market bubbles contract in coming months will
+      determine whether a ‘financial crash’ takes place the next 12-18 months. But February
+      2026 market events suggest that is the new trajectory in 2026, a basic departure
+      from the sustained bubble trajectory of 2023-25.  Geopolitical events will continue
+      to drive gold prices. Domestic political events crypto prices. And investor herd
+      psychology and hype associated with the investment boom in Artificial Intelligence
+      in the US will largely determine what further happens in the S&P 500 and Nasdaq
+      stock markets. However, recent developments in AI do not portend well for the
+      US stocks markets’ recovery. Here’s why: Artificial Intelligence Investment: Boom
+      or Bust? One must understand what’s going on in the Artificial Intelligence investment
+      boom to understand whether S&P 500 and Nasdaq stock markets will continue to weaken
+      and deflate. Some of the AI investment boom is real, but much of it is hype that
+      will never be realized for most businesses beyond the Big 7 tech companies driving
+      it. As is often the case, financial bubbles are built upon developments in the
+      real economy. When those real developments do not pan out, market asset prices
+      bubbles based upon them implode in turn. Almost all the accelerating rise in SP500
+      and Nasdaq stock markets price appreciation in 2025 has been driven by the stocks
+      of the big & Tech corporations and their stock price appreciation has been driven
+      by their hype, announcements and plans with regard to AI. As others have also
+      pointed out, AI investment is also propping up the US real economy not just the
+      financial markets. In the first half of 2025 AI investment accounted for 85% of
+      all the gain in the US real GDP! Should the AI investment boom not deliver on
+      the hype it has promised for the real economy, the AI driven tech stocks underpinning
+      the stock markets will deflate further and faster. Almost all of the US GDP growth
+      in 2025 has been due to 1) the AI investment boom up to now focused in chips,
+      data centers and software apps investment by the big 7 Tech corps, along with
+      2) technical changes in the reduction of US imports as result of Trump tariff
+      policies. Take away these two factors and, as the saying goes, “there’s no there
+      there” in US GDP growth last year. The US real economy would be close to stagnant
+      in 2025. And US GDP would be contracting—i.e. in recession—if it were properly
+      adjusted for inflation, which it isn’t by using the PCE index that low balls inflation
+      and thus puffs up real GDP. In short, take away the AI boom, the tariffs driven
+      decline in US imports, and properly adjust prices, and US GDP would be negative.
+      We’re told by the big Tech corporations and politicians alike that the investment
+      boom in Artificial Intelligence will ensure the stock markets continue to rise
+      and the real US economy will experience a new era of solid real economic growth.
+      Big Tech and US business in general are ‘rolling the economic dice’ on massive
+      investments in AI as the magic solution that will soon turn everything around
+      before the next financial crash. The big 7 Tech companies—Google, Amazon, Meta,
+      Microsoft, Nvidia, Apple and Broadcom (8 if one counts Tesla)—this past winter
+      2025-26 together announced $700 billion new spending in AI for 2026 alone, after
+      having invested $450 billion in 2025. But is AI the solution to the growing financial
+      fragility—or a major cause of it? Will AI generate real economic benefits for
+      all—or just produce more concentration of wealth for the Big Tech capitalists
+      and billionaires? Here’s the problem why AI will mostly produce profits for Big
+      Tech and not for general business, will not generate sustained economic growth
+      in general, and will result in more fragility and stock market price instability:
+      Surveys show that 70% of non-big 7 tech companies don’t see how they can make
+      money from introducing AI. The costs of implementing AI in their companies are
+      significant. It’s not just about using a Chat-GPT app. That’s AI peanuts. To introduce
+      AI in order to significantly reduce costs, boost productivity, and realize significant
+      profit gains, non-tech companies will have to re-engineer their companies’ basic
+      data architecture. That’s expensive. They’ll have to employ professional consulting
+      services to do so. And guess who’ll offer those businesses services? The big 7
+      tech corps. The non-tech businesses will also have to integrate their IT with
+      cloud computing services. Guess who offers that? Again, the big Techs, especially
+      Alphabet-Google, Amazon, Microsoft and soon even Meta. The big chip companies
+      like Nvidia, Broadcom and others will feed them all the expensive chips they want.
+      In other words, the AI investment boom will largely benefit the big 7 financially.
+      They’ll make the profits. The rest of general business caught up in the AI hype
+      will pay for it all and realize few if any profit gains. When that becomes apparent,
+      general business demand for AI products will decline—and with it the price of
+      the offerings by the Big 7 tech giants. And then the AI stock bubble will begin
+      unwinding in turn. It’s all not unlike what happened with artificially stimulated
+      US residential housing markets in 2003-2007. When the real investment in housing
+      collapsed in 2007, the stock values followed. And the companies that borrowed
+      to play couldn’t pay off their lenders, who in turn recorded losses, and we know
+      the rest of the trajectory. The current AI boom is therefore something like the
+      dotcom internet bubble’s over-investment 1998-2000, overlaid with elements of
+      the residential housing boom and bubble that followed 2003-07. AI hype is already
+      beginning to impact other sectors and companies, now showing up in their stock
+      valuations as well.  The AI investment boom risks not only millions of US job
+      losses and wage compression for millions more workers, but also risks destroying
+      thousands of other companies’ business models and bottom lines. AI will prove
+      a destructive economic force like no other to date. The US business media is beginning
+      to acknowledge the AI investment boom is destroying the valuations and future
+      returns for other industries and companies: the traditional software companies
+      are especially vulnerable. Other industries like finance, insurance, legal services
+      and even trucking are now recognized as existentially threatened by AI. Their
+      stock prices are already taking a hit. As a recent Wall St. Journal article (February
+      14, 2026, p. B10) entitled ‘ AI Jitters Fuel Worst Week for Stocks Since November’
+      , forewarned of “the long term disruptive potential of AI” on a wide array of
+      business sectors and “that entire industries are going to be worth much less money
+      than they are today”. After a brief recovery earlier in last week, all the stock
+      markets retreated even further on Thursday and Friday, February 12-13. The Nasdaq
+      declined for a fifth consecutive week, it’s worst slide since May 2022. The S&P
+      500 experienced its worst weekly loss last week since November 2025 while the
+      Dow Industrial average rose only 49 points or 0.01%. In other words, there’s no
+      sign of a major stock market bounce back yet. AI contagion fears may now be spreading
+      in the S&P 500 and Nasdaq stock markets, i.e. from the Big 7 tech companies stocks
+      to other sectors. The decline in the financial asset bubbles may therefore have
+      only just begun.  Even given some recovery, more churn and contractions in 2026
+      are almost certain to occur. The era of unrelenting asset price surges and bubbles
+      that defined 2023-25 is likely over. A period of financial asset volatility and
+      decline has likely now begun. Will one or more of the recent asset bubbles break
+      in 2026? Drag down the other bubbles in turn? Cause a further decline in the value
+      of the US dollar?  Will the weakness in the US real economy now become more increasingly
+      apparent as well? Government shutdowns allowed politicians since October to plug
+      in arbitrary data for the weeks of missed government surveys on inflation, jobs
+      and GDP. They call this ‘imputed’ data. It’s actually just ‘made up’ data. A real
+      view of the US economy will not be available until end of March 2026. In the meantime,
+      pending political events in the form of more Trump wars abroad, and Trump threats
+      and actions to undermine US elections in November, will negatively impact investor-consumer
+      confidence in 2026 and feedback on the already increasingly fragile stocks-crypto-US
+      dollar and metals financial markets. Should any one of the referenced financial
+      asset markets break out of the pack and deflate rapidly, then contagion and a
+      more general asset price collapse becomes imminent—with consequences for the real
+      economy even greater than that which occurred in 2007-09.'
+    one_sentence_summary: Since Trump took office, financial asset market bubbles have
+      reached unprecedented levels but experienced significant contractions in early
+      February 2026, raising concerns about the sustainability of these bubbles and
+      the potential for a financial crash in the near future.
+    paragraph_summary: Since Donald Trump took office, financial asset market bubbles
+      have surged to unprecedented levels, particularly in the S&P 500, Nasdaq, bitcoin,
+      and precious metals markets. However, as of early February 2026, these markets
+      experienced a sharp contraction, raising concerns among financial experts about
+      the sustainability of these bubbles and the potential for a significant financial
+      crash in 2026 or early 2027. Unlike previous financial crises that typically involved
+      the collapse of a single market, the current scenario features simultaneous volatility
+      across multiple asset classes, which could lead to more severe consequences if
+      a triple bubble burst occurs. This unprecedented situation has sparked debates
+      about the future of financial markets and the likelihood of recovery following
+      the recent downturn.
+    published: '2026-02-20T00:50:29+00:00'
   - title: Ukraine War 4 Years After
     url: https://jackrasmus.com/2026/02/17/ukraine-war-4-years-after/
     text: My presentation to the Niebyl-Proctor Library in Oakland, California on the

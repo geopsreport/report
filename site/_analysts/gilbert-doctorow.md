@@ -7,16 +7,326 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Geneva peace talks between Russia, Ukraine, and the United States approach, the geopolitical landscape remains tense and fluid. The recent reappointment of Vladimir Medinsky to head the Russian delegation signals Moscow’s intent to elevate the level of engagement in negotiations, moving beyond technical security discussions to potentially substantive peace talks. This development comes amid persistent skepticism about the prospects for meaningful progress, given entrenched positions on both sides.
+  The geopolitical landscape in Eastern Europe remains highly volatile as Ukraine’s internal and external challenges intensify. Recent developments center on President Zelensky’s controversial call for European troops near the front lines, ongoing internal Ukrainian power struggles, and the broader implications for EU stability and energy security.
   
-  **Gilbert Doctorow** notes that Medinsky’s return “marks a shift to higher-level discussions regarding a potential peace settlement,” reflecting Russia’s readiness to negotiate seriously. However, significant obstacles remain, particularly Ukrainian President Zelensky’s continued refusal to consider territorial concessions. This intransigence, combined with the looming May 15 deadline set by Donald Trump for tangible progress, suggests that a breakthrough is unlikely in the immediate term.
+  **Internal Strife and Zelensky’s Leadership**
+  President Zelensky’s latest appeal for European troop deployments to facilitate a potential ceasefire has been met with skepticism. **Gilbert Doctorow** criticizes this move as “misguided advice,” highlighting concerns that such a strategy reflects deeper internal power struggles within Ukraine’s leadership. Doctorow suggests that the country may require a period of military rule to reassess its direction, given the current lack of consensus and mounting pressures on Zelensky’s administration.
   
-  On the Western front, the narrative of Russian weakness continues to be promoted by NATO officials. At the Munich Security Conference, Secretary General Mark Rutte claimed that “Russia has suffered significant military and economic losses,” a message intended to reinforce support for Ukraine. Yet, **Doctorow** challenges the credibility of these figures, arguing that they are “exaggerated and lack credibility,” and primarily serve a political purpose rather than reflecting on-the-ground realities.
+  **EU Sanctions and Energy Security**
+  On the European front, the EU’s controversial plans to intercept Russian tankers as part of new sanctions have drawn sharp criticism. Doctorow warns that these measures could escalate the conflict with Russia, potentially resulting in severe consequences for Western Europe. He draws a stark comparison, stating that the fallout could render parts of Western Europe “Gaza-like” in terms of instability and hardship. Meanwhile, Ukraine’s decision to halt Russian oil deliveries to Slovakia and Hungary via the Druzhba pipeline has forced these countries to seek alternative routes through Croatia, underscoring the fragility of regional energy security.
   
-  Meanwhile, intra-European dynamics are becoming increasingly complex. The controversial nuclear agreement between French President Emmanuel Macron and German Chancellor Friedrich Merz has drawn sharp criticism, with some analysts warning that it could further escalate tensions with Russia and destabilize European security. **Doctorow** has compared Merz’s ambitions to “German revanchism,” highlighting the risk of a new arms race on the continent.
+  **EU Political Tensions**
+  Political divisions within the EU are also deepening. Doctorow points to actions by European leaders Ursula von der Leyen and Kaja Kalas, accusing them of steering the bloc toward collapse and intentionally undermining the Hungarian economy ahead of elections. These moves, he argues, contradict the European Commission’s claims of neutrality and further erode trust within the union.
   
-  Looking ahead, the majority of independent analysis suggests that the Geneva talks are unlikely to yield a comprehensive settlement in the near future. There is a high chance that negotiations will stall over core issues such as territorial integrity and security guarantees. The Western strategy of emphasizing Russian losses is expected to persist, but its impact on the battlefield and at the negotiating table remains limited. As Doctorow concludes, “there is a high chance that no major breakthrough will occur before Trump’s May 15 deadline,” and the risk of further escalation in Europe cannot be discounted.
+  **Trends and Predictions**
+  Looking ahead, the majority view among analysts is that Ukraine’s leadership crisis and the EU’s aggressive stance on sanctions will continue to destabilize the region. There is a high chance of further internal upheaval in Ukraine, and Doctorow predicts with high confidence that European efforts to escalate sanctions will backfire, exacerbating economic and political instability within the EU. The energy crisis for Hungary and Slovakia is likely to persist, though alternative supply routes may offer partial relief. Overall, the situation is expected to remain tense, with no immediate resolution in sight.
 articles:
+  - title: 'Zelensky: Ukraine is definitely not losing the war: News X World, 21 February'
+    url: https://gilbertdoctorow.com/2026/02/22/zelensky-ukraine-is-definitely-not-losing-the-war-news-x-world-21-february/
+    text: 'Zelensky calls for European troops to positioned near the front lines, ready
+      for introduction of a cease fire. This is precisely what former British PM Boris
+      Johnson told reporters in an interview yesterday, and it is the worst possible
+      advice. The leader of the Russian team, Vladimir Medinsky, said in an interview
+      a day ago that whereas the Russian team has one person to report to, Putin, the
+      Ukrainian team has three people to address, one of whom represents the European
+      Union Member State that wants the war to continue indefinitely. My best advice
+      to Zelensky is to get out while he can. A power struggle is ongoing among his
+      colleagues, Zaluzhny and Budanov. His future does not look good if he clings to
+      power. Are Ukrainians looking for regime change?  Probably not: they have been
+      brainwashed for the past 12 years. What is needed is a time out, likely a period
+      of military rule, when the population can learn the real state of their armed
+      forces and real state of their economy. My advice to Chancellor Merz at the close
+      of this interview is that he should tune in to Russian television and he would
+      find that the Russians are ready to wipe Germany off the face of the earth if
+      this hostility continues. It might sober him up. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: Zelensky's call for European troops near the front lines for
+      a potential ceasefire is criticized as misguided advice, with concerns about internal
+      power struggles in Ukraine and the need for a period of military rule to reassess
+      the country's situation.
+    paragraph_summary: Ukrainian President Zelensky has called for European troops to
+      be positioned near the front lines in anticipation of a ceasefire, a move criticized
+      by former British Prime Minister Boris Johnson as misguided. Russian negotiator
+      Vladimir Medinsky highlighted the complexities within the Ukrainian leadership,
+      suggesting that Zelensky faces challenges from multiple factions, which could
+      jeopardize his position. The article suggests that Ukrainians may not seek regime
+      change due to years of propaganda, and it proposes that a period of military rule
+      might be necessary for the population to understand the true state of their military
+      and economy. Additionally, it warns German Chancellor Merz about the potential
+      consequences of continued hostility from Russia, urging him to consider the serious
+      threats posed by the Kremlin.
+    published: '2026-02-22T14:53:06+00:00'
+  - title: 'Zelensky: Ukraine is definitely not losing the war: News X World, 21 February'
+    url: https://gilbertdoctorow.com/2026/02/22/zelensky-ukraine-is-definitely-not-losing-the-war-news-x-world-21-february/
+    text: 'Zelensky calls for European troops to positioned near the front lines, ready
+      for introduction of a cease fire. This is precisely what former British PM Boris
+      Johnson told reporters in an interview yesterday, and it is the worst possible
+      advice. The leader of the Russian team, Vladimir Medinsky, said in an interview
+      a day ago that whereas the Russian team has one person to report to, Putin, the
+      Ukrainian team has three people to address, one of whom represents the European
+      Union Member State that wants the war to continue indefinitely. My best advice
+      to Zelensky is to get out while he can. A power struggle is ongoing among his
+      colleagues, Zaluzhny and Budanov. His future does not look good if he clings to
+      power. Are Ukrainians looking for regime change?  Probably not: they have been
+      brainwashed for the past 12 years. What is needed is a time out, likely a period
+      of military rule, when the population can learn the real state of their armed
+      forces and real state of their economy. My advice to Chancellor Merz at the close
+      of this interview is that he should tune in to Russian television and he would
+      find that the Russians are ready to wipe Germany off the face of the earth if
+      this hostility continues. It might sober him up. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: Zelensky's call for European troops near the front lines for
+      a potential ceasefire is criticized as misguided advice, with concerns about internal
+      power struggles in Ukraine and the need for a period of military rule to reassess
+      the country's situation.
+    paragraph_summary: Ukrainian President Zelensky has called for European troops to
+      be positioned near the front lines in anticipation of a ceasefire, a move criticized
+      by former British Prime Minister Boris Johnson as misguided. Russian negotiator
+      Vladimir Medinsky highlighted the complexities within the Ukrainian leadership,
+      suggesting that Zelensky faces challenges from multiple factions, which could
+      jeopardize his position. The article suggests that Ukrainians may not seek regime
+      change due to years of propaganda, and it proposes that a period of military rule
+      might be necessary for the population to understand the true state of their military
+      and economy. Additionally, it warns German Chancellor Merz about the potential
+      consequences of continued hostility from Russia, urging him to consider the serious
+      threats posed by the Kremlin.
+    published: '2026-02-22T14:53:06+00:00'
+  - title: 'NewsX World interview: Ukraine raises military exports to Middle East to
+      billions'
+    url: https://gilbertdoctorow.com/2026/02/20/newsx-world-interview-ukraine-raises-military-exports-to-middle-east-to-billions/
+    text: 'I enter this news wrap-up at minute 12 with a discussion of Ukraine’s latest
+      announcement on exports of its military supplies, in particular in the Middle
+      East.  We move on to an item in the EU’s planned 20 th package of sanctions against
+      Russia: interception of Russian tankers at sea.  The EU legal team is hard at
+      work trying to justify what is in effect piracy as something acceptable under
+      international law.  As I say in this interview, von der Leyen and her minions
+      are doing their best to bring Europe into open war with Russia at a time when
+      the outcome is clear – turning Western Europe into a Gaza-like wasteland.'
+    one_sentence_summary: The article discusses Ukraine's military export announcements,
+      the EU's controversial plans to intercept Russian tankers as part of new sanctions,
+      and critiques the EU's leadership for potentially escalating conflict with Russia,
+      likening the consequences for Western Europe to a Gaza-like situation.
+    paragraph_summary: The article discusses recent developments in Ukraine's military
+      exports, particularly to the Middle East, and highlights the European Union's
+      proposed 20th package of sanctions against Russia, which includes plans to intercept
+      Russian tankers at sea. The EU's legal team is attempting to justify these actions,
+      which some may view as piracy, under international law. The author expresses concern
+      that EU leaders, particularly Ursula von der Leyen, are escalating tensions and
+      pushing Europe toward open conflict with Russia, potentially resulting in devastating
+      consequences for Western Europe.
+    published: '2026-02-20T17:20:27+00:00'
+  - title: 'NewsX World interview: Ukraine raises military exports to Middle East to
+      billions'
+    url: https://gilbertdoctorow.com/2026/02/20/newsx-world-interview-ukraine-raises-military-exports-to-middle-east-to-billions/
+    text: 'I enter this news wrap-up at minute 12 with a discussion of Ukraine’s latest
+      announcement on exports of its military supplies, in particular in the Middle
+      East.  We move on to an item in the EU’s planned 20 th package of sanctions against
+      Russia: interception of Russian tankers at sea.  The EU legal team is hard at
+      work trying to justify what is in effect piracy as something acceptable under
+      international law.  As I say in this interview, von der Leyen and her minions
+      are doing their best to bring Europe into open war with Russia at a time when
+      the outcome is clear – turning Western Europe into a Gaza-like wasteland.'
+    one_sentence_summary: The article discusses Ukraine's military export announcements,
+      the EU's controversial plans to intercept Russian tankers as part of new sanctions,
+      and critiques the EU's leadership for potentially escalating conflict with Russia,
+      likening the consequences for Western Europe to a Gaza-like situation.
+    paragraph_summary: The article discusses recent developments in Ukraine's military
+      exports, particularly to the Middle East, and highlights the European Union's
+      proposed 20th package of sanctions against Russia, which includes plans to intercept
+      Russian tankers at sea. The EU's legal team is attempting to justify these actions,
+      which some may view as piracy, under international law. The author expresses concern
+      that EU leaders, particularly Ursula von der Leyen, are escalating tensions and
+      pushing Europe toward open conflict with Russia, potentially resulting in devastating
+      consequences for Western Europe.
+    published: '2026-02-20T17:20:27+00:00'
+  - title: 'Press TV interview this morning: the link'
+    url: https://gilbertdoctorow.com/2026/02/20/press-tv-interview-this-morning-the-link/
+    text: https://www.urmedium.net/c/presstv/135851 This morning I wrote about this
+      interview on my Subdtack platform and now it is my pleasure to offer the link
+      to the podcast here on Word Press.  I do not mince words in the interview:  Ursula
+      von der Leyen and Kaja Kalas are leading the European Union to collapse at best
+      and to destruction under Russian bombs at worst. To what I say on this interview
+      I can add a piquant further detail:  this intended damage to the Hungarian economy
+      is precisely introduced to cause economic harm before the coming general elections
+      in Hungary later this spring.  While the Financial Times told us two days ago
+      that the Commission has decided not to say or do anything that would appear to
+      influence the elections against Orban, the cut-off of Druzhba is precisely that.
+    one_sentence_summary: The article discusses an interview criticizing European leaders
+      Ursula von der Leyen and Kaja Kalas for allegedly leading the EU towards collapse
+      and intentionally harming the Hungarian economy ahead of upcoming elections, despite
+      claims of neutrality from the European Commission.
+    paragraph_summary: In a recent interview discussed on a Substack platform and linked
+      to a podcast, the speaker criticizes European Union leaders Ursula von der Leyen
+      and Kaja Kalas for allegedly steering the EU towards potential collapse or destruction
+      amid ongoing conflicts, particularly with Russia. The speaker argues that actions
+      taken by the EU, such as economic measures against Hungary, are strategically
+      timed to inflict harm on the Hungarian economy ahead of the upcoming general elections,
+      suggesting that these moves are intended to influence the political landscape
+      against Prime Minister Viktor Orban. Despite the Financial Times reporting that
+      the EU Commission aims to avoid appearing to sway the elections, the speaker contends
+      that the cut-off of the Druzhba oil pipeline contradicts this stance.
+    published: '2026-02-20T17:05:00+00:00'
+  - title: 'Press TV interview this morning: the link'
+    url: https://gilbertdoctorow.com/2026/02/20/press-tv-interview-this-morning-the-link/
+    text: https://www.urmedium.net/c/presstv/135851 This morning I wrote about this
+      interview on my Subdtack platform and now it is my pleasure to offer the link
+      to the podcast here on Word Press.  I do not mince words in the interview:  Ursula
+      von der Leyen and Kaja Kalas are leading the European Union to collapse at best
+      and to destruction under Russian bombs at worst. To what I say on this interview
+      I can add a piquant further detail:  this intended damage to the Hungarian economy
+      is precisely introduced to cause economic harm before the coming general elections
+      in Hungary later this spring.  While the Financial Times told us two days ago
+      that the Commission has decided not to say or do anything that would appear to
+      influence the elections against Orban, the cut-off of Druzhba is precisely that.
+    one_sentence_summary: The article discusses an interview criticizing European leaders
+      Ursula von der Leyen and Kaja Kalas for allegedly leading the EU towards collapse
+      and intentionally harming the Hungarian economy ahead of upcoming elections, despite
+      claims of neutrality from the European Commission.
+    paragraph_summary: In a recent interview discussed on a Substack platform and linked
+      to a podcast, the speaker criticizes European Union leaders Ursula von der Leyen
+      and Kaja Kalas for allegedly steering the EU towards potential collapse or destruction
+      amid ongoing conflicts, particularly with Russia. The speaker argues that actions
+      taken by the EU, such as economic measures against Hungary, are strategically
+      timed to inflict harm on the Hungarian economy ahead of the upcoming general elections,
+      suggesting that these moves are intended to influence the political landscape
+      against Prime Minister Viktor Orban. Despite the Financial Times reporting that
+      the EU Commission aims to avoid appearing to sway the elections, the speaker contends
+      that the cut-off of the Druzhba oil pipeline contradicts this stance.
+    published: '2026-02-20T17:05:00+00:00'
+  - title: Press TV (Iran) interview of 18 February
+    url: https://gilbertdoctorow.com/2026/02/19/press-tv-iran-interview-of-18-february/
+    text: http://www.urmedium.net/c/presstv/135837 This is a focused 2 minute discussion
+      of the impact of Ukraine’s cutting delivery of Russian oil to Slovakia and Hungary
+      via the Druzhba pipeline.  A work-around is being put together with Croatia, so
+      that the consequences may be less consequential than Kiev may have hoped. My apologies
+      for the poor sound quality on this podcast.
+    one_sentence_summary: The article discusses the implications of Ukraine halting
+      Russian oil deliveries to Slovakia and Hungary through the Druzhba pipeline, while
+      highlighting efforts to mitigate the impact by establishing alternative routes
+      via Croatia.
+    paragraph_summary: The article discusses the implications of Ukraine's decision
+      to halt the delivery of Russian oil to Slovakia and Hungary through the Druzhba
+      pipeline. This move is seen as a strategic action by Ukraine, but the potential
+      impact may be mitigated by alternative arrangements being developed with Croatia.
+      Despite Ukraine's intentions, the consequences of this disruption may not be as
+      severe as anticipated, as efforts to secure oil supplies continue. The podcast,
+      however, suffers from poor sound quality, making it challenging to fully grasp
+      the discussion.
+    published: '2026-02-19T10:06:43+00:00'
+  - title: Press TV (Iran) interview of 18 February
+    url: https://gilbertdoctorow.com/2026/02/19/press-tv-iran-interview-of-18-february/
+    text: http://www.urmedium.net/c/presstv/135837 This is a focused 2 minute discussion
+      of the impact of Ukraine’s cutting delivery of Russian oil to Slovakia and Hungary
+      via the Druzhba pipeline.  A work-around is being put together with Croatia, so
+      that the consequences may be less consequential than Kiev may have hoped. My apologies
+      for the poor sound quality on this podcast.
+    one_sentence_summary: The article discusses the implications of Ukraine halting
+      Russian oil deliveries to Slovakia and Hungary through the Druzhba pipeline, while
+      highlighting efforts to mitigate the impact by establishing alternative routes
+      via Croatia.
+    paragraph_summary: The article discusses the implications of Ukraine's decision
+      to halt the delivery of Russian oil to Slovakia and Hungary through the Druzhba
+      pipeline. This move is seen as a strategic action by Ukraine, but the potential
+      impact may be mitigated by alternative arrangements being developed with Croatia.
+      Despite Ukraine's intentions, the consequences of this disruption may not be as
+      severe as anticipated, as efforts to secure oil supplies continue. The podcast,
+      however, suffers from poor sound quality, making it challenging to fully grasp
+      the discussion.
+    published: '2026-02-19T10:06:43+00:00'
+  - title: 'NewsX World: two interviews of 18 February'
+    url: https://gilbertdoctorow.com/2026/02/18/newsx-world-two-interviews-of-18-february/
+    text: This early morning interview starting on minute 4.30 focuses on British and
+      American approaches to the Ukraine negotiations, the split in the Ukrainian negotiating
+      delegation over conceding the Donbas to Russia, the British and American positions
+      on Iran, the meaning of joint Russian and Iranian naval exercises going on in
+      the Arabian Gulf and Indian Ocean, and the relative weighting of Russian and Chinese
+      assistance to Tehran. This afternoon interview begins at minute  3.30  and deals
+      with an evaluation of the results of trilateral Russian-Ukrainian-US negotiations
+      yesterday and today in Geneva, the likelihood of a power struggle now going on
+      in Kiev over abandonment of the Donbas, the ongoing meeting of Cuban Foreign Minister
+      in Moscow  and the prospects for Russian assistance to Cuba.
+    one_sentence_summary: The article discusses the contrasting British and American
+      strategies in Ukraine negotiations, internal Ukrainian divisions over the Donbas,
+      positions on Iran, implications of Russian-Iranian naval exercises, and the outcomes
+      of recent trilateral talks in Geneva, alongside the Cuban Foreign Minister's visit
+      to Moscow and potential Russian support for Cuba.
+    paragraph_summary: The article discusses two interviews that cover various geopolitical
+      topics, starting with the differing British and American strategies regarding
+      Ukraine negotiations, including a division within the Ukrainian delegation about
+      conceding the Donbas region to Russia. It also addresses the positions of the
+      UK and US on Iran, the implications of joint naval exercises between Russia and
+      Iran in the Arabian Gulf and Indian Ocean, and the balance of support from Russia
+      and China to Tehran. The second interview evaluates the outcomes of recent trilateral
+      negotiations in Geneva involving Russia, Ukraine, and the US, highlights a potential
+      power struggle in Kiev over the Donbas issue, and mentions the Cuban Foreign Minister's
+      meetings in Moscow, focusing on the prospects for Russian aid to Cuba.
+    published: '2026-02-18T22:53:08+00:00'
+  - title: 'NewsX World: two interviews of 18 February'
+    url: https://gilbertdoctorow.com/2026/02/18/newsx-world-two-interviews-of-18-february/
+    text: This early morning interview starting on minute 4.30 focuses on British and
+      American approaches to the Ukraine negotiations, the split in the Ukrainian negotiating
+      delegation over conceding the Donbas to Russia, the British and American positions
+      on Iran, the meaning of joint Russian and Iranian naval exercises going on in
+      the Arabian Gulf and Indian Ocean, and the relative weighting of Russian and Chinese
+      assistance to Tehran. This afternoon interview begins at minute  3.30  and deals
+      with an evaluation of the results of trilateral Russian-Ukrainian-US negotiations
+      yesterday and today in Geneva, the likelihood of a power struggle now going on
+      in Kiev over abandonment of the Donbas, the ongoing meeting of Cuban Foreign Minister
+      in Moscow  and the prospects for Russian assistance to Cuba.
+    one_sentence_summary: The article discusses the contrasting British and American
+      strategies in Ukraine negotiations, internal Ukrainian divisions over the Donbas,
+      positions on Iran, implications of Russian-Iranian naval exercises, and the outcomes
+      of recent trilateral talks in Geneva, alongside the Cuban Foreign Minister's visit
+      to Moscow and potential Russian support for Cuba.
+    paragraph_summary: The article discusses two interviews that cover various geopolitical
+      topics, starting with the differing British and American strategies regarding
+      Ukraine negotiations, including a division within the Ukrainian delegation about
+      conceding the Donbas region to Russia. It also addresses the positions of the
+      UK and US on Iran, the implications of joint naval exercises between Russia and
+      Iran in the Arabian Gulf and Indian Ocean, and the balance of support from Russia
+      and China to Tehran. The second interview evaluates the outcomes of recent trilateral
+      negotiations in Geneva involving Russia, Ukraine, and the US, highlights a potential
+      power struggle in Kiev over the Donbas issue, and mentions the Cuban Foreign Minister's
+      meetings in Moscow, focusing on the prospects for Russian aid to Cuba.
+    published: '2026-02-18T22:53:08+00:00'
+  - title: ‘Judging Freedom’ edition of 18 February
+    url: https://gilbertdoctorow.com/2026/02/18/judging-freedom-edition-of-18-february/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a period of restricted access for Western journalists,
+      complementing his previous work on the Russian expatriate community in the 1990s.
+    paragraph_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the ongoing conflict, drawing from
+      his firsthand observations in St Petersburg during a period when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which includes unique diary entries
+      about the expatriate community in Moscow during the 1990s, a topic not previously
+      covered by his contemporaries. With a career spanning decades in Russian affairs,
+      Doctorow, a Harvard and Columbia alumnus, has held various roles in business and
+      academia, including serving as Chairman of the Russian Booker Literary Prize and
+      as a Visiting Scholar at Columbia's Harriman Institute. He currently resides in
+      Brussels.
+    published: '2026-02-18T13:44:00+00:00'
   - title: Vladimir Medinsky is back in charge of Russian negotiations with the USA
       and Ukraine
     url: https://gilbertdoctorow.com/2026/02/16/vladimir-medinsky-is-back-in-charge-of-russian-negotiations-with-the-usa-and-ukraine/

@@ -7,18 +7,53 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As the global community continues to grapple with the fallout from ongoing conflicts and domestic unrest, recent independent analyses highlight intensifying debates over state accountability, international intervention, and the framing of activism.
+  As the world marks four years since Russia’s invasion of Ukraine, the geopolitical landscape remains deeply shaped by the enduring crises in Eastern Europe and the Middle East, as well as ongoing debates over accountability and justice in the United States.
   
-  The aftermath of the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited scrutiny of law enforcement practices in the United States. **Marjorie Cohn** examines the legal and societal implications of the case, noting persistent challenges in achieving justice and confronting systemic racism. The proximity of this incident to the site of George Floyd's death underscores the enduring struggle for police accountability. The prevailing view among analysts is that, absent significant legal reforms, similar incidents are likely to recur—a trend with high confidence.
+  Recent analysis by **Joe Lauria** (cited in John Pilger’s February 24, 2026 report) revisits the origins of the Ukraine conflict, emphasizing Russia’s claim that its military operation was intended not for occupation but for “demilitarizing” and “de-Nazifying” Ukraine. Lauria situates this within a broader context of escalating U.S.-Russia tensions over the past three decades, arguing that Western policies contributed to Russia reaching a “breaking point.” This perspective continues to inform diplomatic stalemates, with little progress toward resolution. The prevailing view among analysts is that the conflict’s underlying causes remain unaddressed, making a negotiated settlement unlikely in the near term.
   
-  Internationally, the crisis in Palestine remains a focal point. **Nicolas J. S. Davies** criticizes President Trump's "20-point Gaza plan," arguing that it exacerbates the humanitarian crisis and calling for robust international action. The majority of sources agree that unilateral U.S. policies are impeding collective efforts to halt violence and occupation. There is a high chance that without coordinated global intervention, the situation in Gaza will further deteriorate.
+  Meanwhile, in the United States, the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited debates about systemic racism and police accountability. **Marjorie Cohn** highlights the legal complexities surrounding the case, noting the proximity to the site of George Floyd’s death and the persistent challenges in achieving justice for victims of police violence. The incident underscores the ongoing struggle to reform law enforcement practices and address institutional biases.
   
-  Meanwhile, the U.S. is reportedly working to dissuade other nations from supporting a joint action plan proposed by 12 countries in Bogota to address Israel's conduct in Gaza. **Mick Hall** emphasizes the geopolitical stakes of this move, suggesting that Washington's resistance to multilateral pressure is isolating it diplomatically. Most analysts predict that, barring a shift in U.S. policy, international consensus on the issue will remain elusive.
+  On the international stage, the crisis in Palestine continues to draw condemnation and calls for action. **Nicolas J. S. Davies** criticizes President Trump’s “20-point Gaza plan,” arguing that it exacerbates the humanitarian situation and calling for robust international intervention. The majority of independent analysts echo Davies’ call for accountability and a multilateral approach to ending the violence and occupation.
   
-  In the UK, the legal challenge by Palestine Action against its designation as a terrorist organization has drawn attention to the broader issue of state responses to non-violent activism. The case, as detailed by **Craig Murray**, is seen as a test of civil liberties and the boundaries of legitimate protest. The consensus is that the outcome will set a precedent for future activism and state surveillance, with a high chance of increased polarization regardless of the verdict.
+  **Trends and Predictions:**  
+  - The Ukraine conflict is set to persist, with no high-confidence indicators of a breakthrough; the majority of sources agree that Western-Russian relations will remain tense and adversarial.
+  - In the U.S., public scrutiny of law enforcement is expected to intensify, with a high chance of renewed protests and legal challenges related to police violence.
+  - The situation in Palestine will likely remain a flashpoint in global geopolitics, with increasing international pressure for intervention, though meaningful change is only quite likely if broader coalitions act beyond U.S. influence.
   
-  In summary, the dominant trends point to deepening polarization on issues of justice, human rights, and international law. There is high confidence that, without meaningful policy changes, both domestic and international tensions will persist or intensify in the coming months.
+  In summary, the geopolitical climate is marked by entrenched conflicts and slow-moving efforts toward justice and accountability, with most analysts predicting continued instability and confrontation in the months ahead.
 articles:
+  - title: 'Year 4: Why Russia Invaded'
+    url: https://consortiumnews.com/2026/02/24/year-4-why-russia-invaded/
+    text: 'HOW IT HAPPENED: Russia says it has no intentions of controlling Ukraine
+      and its military operation is only to ‘demilitarize’ and ‘de-Nazify’ Ukraine 30
+      years after the U.S. pushed Russia too far, wrote Joe Lauria on Feb. 24, 2022.
+      By… Read more →'
+    one_sentence_summary: Russia claims its military operation in Ukraine is aimed solely
+      at "demilitarizing" and "de-Nazifying" the country, denying any intentions of
+      control, according to Joe Lauria's article from February 24, 2022.
+    paragraph_summary: In an article by Joe Lauria dated February 24, 2022, it is reported
+      that Russia claims its military operation in Ukraine is not aimed at controlling
+      the country but rather at "demilitarizing" and "de-Nazifying" it. The piece suggests
+      that this stance reflects a broader context of U.S.-Russia relations, indicating
+      that tensions have escalated over the past 30 years, with the U.S. allegedly pushing
+      Russia to a breaking point.
+    published: '2026-02-24T05:57:41+00:00'
+  - title: 'Year 4: Why Russia Invaded'
+    url: https://consortiumnews.com/2026/02/24/year-4-why-russia-invaded/
+    text: 'HOW IT HAPPENED: Russia says it has no intentions of controlling Ukraine
+      and its military operation is only to ‘demilitarize’ and ‘de-Nazify’ Ukraine 30
+      years after the U.S. pushed Russia too far, wrote Joe Lauria on Feb. 24, 2022.
+      By… Read more →'
+    one_sentence_summary: Russia claims its military operation in Ukraine is aimed solely
+      at "demilitarizing" and "de-Nazifying" the country, denying any intentions of
+      control, according to Joe Lauria's article from February 24, 2022.
+    paragraph_summary: In an article by Joe Lauria dated February 24, 2022, it is reported
+      that Russia claims its military operation in Ukraine is not aimed at controlling
+      the country but rather at "demilitarizing" and "de-Nazifying" it. The piece suggests
+      that this stance reflects a broader context of U.S.-Russia relations, indicating
+      that tensions have escalated over the past 30 years, with the U.S. allegedly pushing
+      Russia to a breaking point.
+    published: '2026-02-24T05:57:41+00:00'
   - title: Minnesota Should Charge ICE Agent With Murder
     url: https://consortiumnews.com/2026/01/13/minnesota-should-charge-ice-agent-with-murder/
     text: Marjorie Cohn sizes up the legal considerations surrounding Jonathan Ross’

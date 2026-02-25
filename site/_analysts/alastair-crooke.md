@@ -7,17 +7,413 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the Trump administration continues to redefine U.S. foreign policy through a transactional, business-first lens, several key geopolitical arenas are experiencing significant shifts. The latest developments underscore deepening rifts between Washington and its traditional allies, as well as heightened tensions with adversarial states.
+  As the Trump administration enters a critical phase of its foreign policy, recent developments underscore a pattern of transactional geopolitics, deepening elite-public divides, and persistent instability in conflict zones.
   
-  The most recent reports indicate that Iran has categorically rejected overtures from both the U.S. and Israel regarding military de-escalation. According to **Alastair Crooke**, Tehran now views any U.S. military action as an existential threat, promising a "comprehensive response." This hardening stance comes as President Trump intensifies pressure for a Gaza reconstruction plan that directly conflicts with Israeli interests, revealing the extent to which economic and political calculations are now inseparable in regional policy. Crooke notes that "the intertwining of geopolitics and business interests" is now the defining feature of U.S. engagement in the Middle East.
+  The most notable shift is President Trump's approach to the Ukraine conflict, which, as **Alastair Crooke** argues, has become a stage for "kabuki theater" rather than substantive negotiation. Crooke highlights that Trump's focus is not on resolving the root causes of the war, but on leveraging the situation for financial and political gain, often sidelining genuine diplomatic engagement. This approach, Crooke contends, "prioritizes financial gain for stakeholders over genuine resolution and fails to address the underlying issues, ultimately exacerbating tensions rather than fostering peace." There is a high chance that this transactional model will prolong the conflict, as neither Russia nor Ukraine sees their core interests addressed.
   
-  Meanwhile, the Trump administration's aggressive rhetoric towards Iran appears to be driven as much by domestic political imperatives as by strategic calculation. **Alastair Crooke** argues that while Trump projects strength, "the reality of military engagement is far more complex and risky," raising doubts about the likelihood of direct confrontation. The consensus among analysts is that Trump is likely to avoid an open conflict with Iran, given the unpredictable consequences and his preference for transactional deals over prolonged military entanglements.
+  Meanwhile, the fallout from the Epstein revelations continues to erode public trust in Western institutions. **Alastair Crooke** notes that the scandal has "exposed the moral decay and systemic corruption within Western elites," fueling a crisis of legitimacy. The resulting rupture between the public and the elite class is not just a passing phenomenon; it is, in Crooke's words, "a profound crisis of trust in institutions and a potential shift towards nihilism and totalitarianism." This trend is quite likely to intensify, especially as younger generations feel increasingly alienated by systems perceived as rigged and unresponsive.
   
-  On the transatlantic front, President Trump's renewed interest in acquiring Greenland—reportedly inspired by billionaire Ron Lauder—has reignited tensions with European allies. As **Crooke** observes, this move "could threaten transatlantic relations and NATO's stability," especially as European leaders express alarm at what they perceive as U.S. disregard for established norms and alliances. The Greenland episode is emblematic of a broader trend: the U.S. is shifting from global hegemony to a more narrowly defined pursuit of national interests, often at the expense of longstanding partnerships.
+  In the Middle East, the Trump administration's push for a Gaza reconstruction plan is running into resistance from both Iran and Israel. Iran has rebuffed U.S. overtures, viewing any American military action as an existential threat that would trigger a comprehensive response. At the same time, Trump's reconstruction proposals for Gaza are at odds with Israeli interests, revealing a widening rift between Washington and Tel Aviv. Crooke points out that these initiatives are "all business," with geopolitical and commercial interests deeply intertwined. There is a high chance that this divergence will further strain U.S.-Israeli relations and complicate efforts to stabilize Gaza.
   
   **Trends and Predictions:**  
-  The prevailing trend is a U.S. foreign policy increasingly shaped by economic interests and short-term political gains, rather than traditional alliances or normative commitments. There is a high chance of further divergence between U.S. and Israeli objectives in the Middle East, particularly over Gaza. The risk of direct military confrontation with Iran remains low, as Trump is "quite likely" to prioritize negotiation and economic leverage over open conflict. In Europe, confidence in the U.S. as a reliable partner continues to erode, with "high confidence" that transatlantic relations and NATO cohesion will face further strain in the coming months.
+  - The U.S. will most definitely continue to pursue transactional, commerce-driven foreign policy, with little expectation of resolving underlying conflicts in Ukraine or the Middle East.
+  - The legitimacy crisis among Western elites is quite likely to deepen, fueling political instability and populist backlash.
+  - U.S.-Israeli relations will remain strained as their interests diverge over Gaza and Iran, with a high chance of further diplomatic friction.
+  
+  In sum, the current trajectory points toward continued instability, with economic interests overriding diplomatic solutions and a growing disconnect between elites and the broader public.
 articles:
+  - title: 'Trump Kabuki Theater In Ukraine: Nothing Of Substance Gets Resolved – OpEd'
+    url: https://www.eurasiareview.com/16022026-trump-kabuki-theater-in-ukraine-nothing-of-substance-gets-resolved-oped/
+    text: 'By Alastair Crooke
+
+
+      It is not a glitch (that nothing gets resolved). It’s a feature. For it opens
+      rather, a path for ‘Business’ to be done – for ‘stakeholder’ deals to be cut,
+      and for billions to be shared out in payoffs. This is Trump’s geo-political transactional
+      model: Business displaces traditional negotiation (at least while the money flows);
+      Money is the politics.
+
+
+      Trump, Witkoff and Kushner are said to be confident that they can construct a
+      financial reward system for western debt-holders, investors and politicians (and
+      the Zelensky entourage, in the case of Ukraine) that succeeds in “retaining the
+      financial rewards of war – without the ancillary ingredient of bloodshed”.
+
+
+      Once payments are apportioned – from the Trump-Witkoff perspective – the “territorial
+      issues, security guarantees, EU membership status and the position of NATO are
+      downstream details once the larger payment system is organized. Put another way,
+      they are down to the stuff that really matters, the money”.
+
+
+      With this worldview, negotiations between the U.S. and Russia are being pursued
+      by two New York real-estate ‘gurus’ (Witkoff and Kushner), together with Josh
+      Gruenbaum, who has also been appointed as secretary to Trump’s ‘Gaza Peace Board’.
+      Gruenbaum’s previous work experience has been with the KKR fund, which, although
+      not strictly a ‘vulture fund’, is specialist in aggressive distressed-debt investing.
+
+
+      Where are the experienced professionals from Russia’s foreign service in these
+      talks? They are notably absent. Foreign Minister Lavrov does not attend.
+
+
+      Why? Because the Trump-Witkoff hypothesis is that the Ukraine conflict can be
+      “solved by a system where the opportunity for financial benefit continues. That
+      is – that those who have had a financial benefit in the Ukraine war – the ‘stakeholders’
+      – continue to enjoy financial benefit. Put more cynically, ‘The Prosperity Agenda
+      to Support Ukraine’s Reconstruction’ is codespeak for the U.S. Senate and EU to
+      retain a financial mechanism to exploit for personal benefit”.
+
+
+      Essentially, this is the Trump-New York real-estate experience transferred to
+      a real-life conflict – in which ‘blood’ usually represents the true currency invested
+      in a conflict. This approach underlines the West’s degradation into a nihilism
+      that views sacrifices made by men and women in support of their country as a trifle
+      to be bought out.
+
+
+      Look at the Witkoff team — on the one hand, there is Blackrock and its CEO Larry
+      Fink, who are commissioned by Witkoff to raise the reconstruction funds for Ukraine.
+      Larry Fink also liaises closely with the Witkoff team on divvying out the potential
+      re-construction ‘opportunities’ (but is not directly involved in the Moscow talks
+      with President Putin).
+
+
+      Then there are the Rothschilds who are the principal advisers to Kiev’s Ministry
+      of Finance and who are responsible for managing the huge Ukrainian bond debt of
+      more than $216 billion – that is to say, the Rothschilds are responsible for negotiating
+      with bond creditors and managing their claims on Kiev. There are also sovereign
+      creditors who have guaranteed loans to Ukraine from financial institutions, such
+      as the IMF and World Bank. The EU alone has guaranteed €193 bn.
+
+
+      These ‘stakeholders’ in the Witkoff framework — the creditors of Ukraine, the
+      interests of Blackrock and possibly KKR — stand to do well out of a reconstruction
+      package, in the case of a political settlement agreed between the U.S. and Moscow.
+      “As of February 2026, Ukraine’s sovereign dollar bonds are trading in the 60 to
+      76 cents on the dollar range, reflecting intense market sensitivity to potential
+      peace proposals. Prices have rallied significantly from lows in the 19–20 cent
+      range seen in late 2024 and early 2025 as diplomatic momentum builds”.
+
+
+      Rothschilds may, or may not, have a direct interest in the Ukraine debt package,
+      but as a ‘firm’ they have a bitter history in their dealings with President Putin
+      over what happened to Yukos. The latter was the largest oil and gas enterprise
+      in Russia in the 1990s.
+
+
+      In 2003, Mikhail Khodorkovsky, then head of the Russian oil giant Yukos, appointed
+      Lord Jacob Rothschild as the “guarantor” or “protector” of his controlling stake
+      in the company. The transfer of control of Yukos (which consisted of much of Russia’s
+      oil and gas resources) to Lord Rothschild was triggered automatically in 2003
+      by Khodorkovsky’s arrest by Russian authorities. The intent was to put these resources
+      beyond President Putin’s reach. However, Yukos subsequently was nationalised and
+      wiped out by tax impositions which effectively voided its assets of any value.
+
+
+      On the new ‘money-in’ side to the Witkoff ‘balance sheet’, the EU and the U.S.
+      are pitching for an $800 billion post-settlement rebuilding fund for Ukraine war
+      damage. All of Witkoff’s identified stakeholders have an interest in getting a
+      slice of this cake — Zelensky needs a slice to share around his ‘stakeholders’
+      and the EU is lining up its defence contractors to claim their portion of the
+      $800 billion action, too.
+
+
+      And on the Russian side, there is Kirill Dmitriev, the Wall Street-trained Head
+      of Russia’s National Wealth Fund, who initiated efforts to offer investment opportunities
+      to the United States as part of the stakeholder strategy to restore economic ties
+      and foster negotiations. These included joint projects on rare earth minerals
+      and Arctic development.
+
+
+      From Moscow’s perspective – and with Moscow’s clear understanding of the Trump’s
+      mercantilist and transactional psyche — perhaps having Washington pulled by ‘deal’
+      opportunities into talking with Russia (after a long period of severed communications)
+      and when the U.S. leadership is inconstant and capricious – engagement with Witkoff
+      and Kushner may have been seen as the better side to valour.
+
+
+      However, this ‘business first’ methodology has a major flaw: The ‘negotiations’
+      with the Witkoff team are not working. Matters are moving in the wrong direction,
+      as Foreign Minister Lavrov has underlined in frank language in two recent interviews
+      (last week with Rick Sanchez on Russia Today, and on Tuesday with Russia’s NTV
+      television channel).
+
+
+      FM Lavrov emphasised that the understandings reached at Anchorage are stuck –
+      and in fact are being rowed back, “moving in the wrong direction”, Lavrov warned.
+      Not only are relations cooling; asymmetrical actions are increasing and the risk
+      of escalation growing, Lavrov suggested.
+
+
+      So what is going on?
+
+
+      Firstly, underlying Trump’s approach to his ‘business strategy’ are several distinct
+      parameters — the principal one being the deal-making culture centred on a ‘financial
+      rewards system’. This approach ignores reality. The issue of Russia’s relations
+      with Ukraine (and the U.S.) are not centred on the notional cutting up of a billion
+      dollar re-construction cake.
+
+
+      The crux rather, is the imperative to reach an agreement on where exactly the
+      boundary to NATO’s sphere of interest should be limited. And by extension, to
+      where Russia and Central Asia’s boundary extends.
+
+
+      But matters are moving in the opposite direction: Lavrov’s frustration is very
+      evident in these interviews. Trump is becoming more and more focussed on American
+      domination (driven in no small part by the U.S.’ dollar and debt crisis).
+
+
+      Trump’s debt-driven focus on domination lies in diametric contradiction to a multi-polarity
+      of powers based on respect for each other’s national security interests.
+
+
+      This leads to the second parameter — it is simply that conflicts and wars are
+      not all susceptible to monetary buy-offs. There is ‘history’ and lives sacrificed.
+      Only a resolution that encompasses an understanding of the full context which
+      brought the conflict into being in the first place is likely to succeed.
+
+
+      And it is the root causes to the dispute that are precisely what is excluded under
+      the Witkoff framing.
+
+
+      Separately, the legacy culture of European and U.S. banking and financial interests
+      provides the predisposition to preserving the Ukrainian status quo as parcel to
+      their historic stance.
+
+
+      The ‘taking care of stakeholders’ approach then automatically devolves into seeking
+      a continuation of existing structures of power and authority in Kiev, without
+      which the monetary worth of Ukrainian bonds — many of which are held by European
+      governments – will fall to zero.
+
+
+      Market analyst Alex Krainer has stated that “European nations, including the UK,
+      are in a catastrophic fiscal position, partly because they have lent (or guaranteed)
+      hundreds of billions to Ukraine that are likely to become “bad debts””.
+
+
+      Moscow has been very clear that there must be a transformation made to the leadership
+      culture in Ukraine for any stable coexistence between Russia and Kiev to be viable.
+      For Moscow, the continuation of the Zelensky regime culture of radical hostility
+      would be viewed as setting up Russia to face a future of regular bouts of repeated
+      conflict as Ukraine is periodically rearmed and re-grouped by European states.
+
+
+      Any mooted change of Ukrainian leadership style however, would pull the rug from
+      under Witkoff’s carefully arranged ‘financial reward system’. An outcome to the
+      conflict brought about by military facts on the ground leading to a transformed
+      culture in Kiev would be anathema to the stakeholder benefit scheme.
+
+
+      The ‘stakeholders’ are united in opposing such eventuality. The Witkoff plan effectively
+      fuels their opposition to any change in the status quo.
+
+
+      It is not surprising then that Foreign Minister Lavrov is signalling a backing
+      off from the Witkoff negotiation enterprise. It is not working. It is distancing
+      Russia from its security imperatives. Rather, it paves the path for a continuation
+      of war against Russia.'
+    one_sentence_summary: The article critiques Trump's transactional approach to geopolitical
+      negotiations, particularly regarding the Ukraine conflict, arguing that it prioritizes
+      financial gain for stakeholders over genuine resolution and fails to address the
+      underlying issues, ultimately exacerbating tensions rather than fostering peace.
+    paragraph_summary: In Alastair Crooke's article, he critiques the transactional
+      approach to geopolitical negotiations exemplified by Donald Trump and his associates,
+      including real estate figures Witkoff and Kushner, who prioritize financial incentives
+      over traditional diplomatic resolutions. This model, which views the ongoing Ukraine
+      conflict primarily through a lens of profit and stakeholder interests, is seen
+      as fundamentally flawed because it neglects the deeper historical and security
+      issues at play, particularly regarding NATO's influence and Russia's security
+      concerns. Crooke argues that this approach risks perpetuating conflict rather
+      than resolving it, as it relies on a financial reward system that benefits certain
+      stakeholders while ignoring the need for genuine political and cultural change
+      in Ukraine. The article highlights the growing frustration of Russian Foreign
+      Minister Lavrov, who indicates that the current negotiations are failing and moving
+      in the wrong direction, ultimately suggesting that a resolution requires addressing
+      the root causes of the conflict rather than merely distributing financial gains.
+    published: '2026-02-16T17:49:46+00:00'
+  - title: 'The Slow Epstein Earthquake: The Rupture Between The People And The Elites
+      – OpEd'
+    url: https://www.eurasiareview.com/09022026-the-slow-epstein-earthquake-the-rupture-between-the-people-and-the-elites-oped/
+    text: 'By Alastair Crooke
+
+
+      After Epstein, nothing can continue as before: Neither the post war ‘never again’
+      values – reflecting sentiment at the end of bloody wars – and the widespread yearning
+      for a ‘fairer’ society; nor the bipolar economics of extreme disparities in wealth;
+      nor trust – after the exposed venality, rotted institutions and perversions that
+      the Epstein files have shown to be endemic amongst certain of the western élites.
+
+
+      How to speak of ‘values’ against this background?
+
+
+      At Davos, Mark Carney made clear that the ‘rules order’ was but a tawdry Potemkin
+      façade that was thoroughly known as false, yet the façade was maintained. Why?
+      Simply because the deceit was useful. The ‘exigency’ was the need to hide the
+      system’s collapse into radical, anti-values nihilism. To hide the reality that
+      the élite circles – around Epstein – operated beyond moral, legal or human limitations,
+      to decide between peace and war, on the basis of their base appetites.
+
+
+      The élites understood that once the complete amorality of the rulers was known
+      by the hoi polloi, the West would lose the architecture of moral stories that
+      precisely anchor an ordered life. If the Establishment is known to eschew morality,
+      why should anyone else behave differently? The cynicism would cascade down. What
+      then would hold a nation together?
+
+
+      Well, only totalitarianism, most likely.
+
+
+      The post-modern ‘fall’ into nihilism has crashed finally into its inevitable ‘dead
+      end’ (as predicted by Nietzsche in 1888). The ‘Enlightenment’ paradigm has finally
+      metamorphosed into its opposite: A world without values, meaning or purpose (beyond
+      avaricious self-enrichment). This implies the end too, of the very concept of
+      Truth that used to be at the heart of western civilisation, since Plato.
+
+
+      The collapse underlines, too, the failings of western mechanical Reason: “This
+      kind of a priori, closed-circle reasoning has had a much greater effect on western
+      culture than we might imagine … It led to the imposition of rules that are believed
+      to be irrefutable, not because they are revealed, but because they have been scientifically
+      proved, and there is thus no appeal against them”, Aurelien notes.
+
+
+      This mechanical way of thinking has played a large part in the third tier to the
+      ‘Davos Rupture’ (after the intellectual demise and the collapse of trust in the
+      leadership). Mechanical thinking based in a deterministic pseudo-scientific world
+      view led to economic contradictions which prevented western economists from seeing
+      what was under their nose: a hyper-financialised economic system placed entirely
+      at the service of the oligarchs and insiders.
+
+
+      No failure of our economic modelling, however great, “has weakened the vice-like
+      grip of the mathematical economists on the policies of governments. The problem
+      has been that Science, in that binary cause-and-effect mode, could not cope with
+      either the chaos or the complexity of life” (Aurelien). Other theories – other
+      than Newtonian physics – such as quantum or chaos theories largely have been excluded
+      from our mode of thinking.
+
+
+      The meaning to ‘Davos’ – followed by the Epstein revelations – is that the Humpty-Dumpty
+      of Trust has fallen from the wall and cannot be put together again.
+
+
+      What is also apparent is that the Epstein circles were not just about twisted
+      individuals; “What has been exposed points to systematic, organized, ritualized
+      practices”. And that changes everything, as commentator Lucas Leiroz observes:
+
+
+      “Networks of this kind only exist when they are backed by deep institutional protection.
+      There is no ritual paedophilia, no human trafficking on a transnational scale,
+      no systematic production of extreme material – without political, police, judicial,
+      and media cover. This is the logic of power”.
+
+
+      Epstein emerges from the myriad emails as a paedophile and utterly immoral certainly,
+      but also as highly intelligent and a serious geo-political player, whose political
+      insights were prized by high-level figures around the globe. He was a master-player
+      behind geo-politics, as Michael Wolff described (as far back as 2018, as well
+      as in recently released email correspondence) in the war between Jewish power
+      and the Gentiles, too.
+
+
+      This suggests that Epstein was less a tool of Intelligence Services, but more
+      their ‘peer’. No wonder leaders sought his company (and for grossly immoral reasons
+      too, we cannot not ignore). And clearly the Deep (uniparty) State manoeuvred through
+      him. And in the end, Epstein knew too much.
+
+
+      David Rothkopf, himself a former political affairs adviser in the U.S. Democratic
+      camp, speculates on what Epstein means for America:
+
+
+      “[Young Americans] realise that their institutions are failing them, and they’re
+      going to have to [save themselves] … you’ve got tens of thousand of people in
+      Minneapolis, saying this is not any more about Constitutional issues, or the rule
+      of law or democracy – which may sound good – but which is at a remove from the
+      average person at the average kitchen table”.
+
+
+      “People are saying the Supreme Court is not going to protect us; Congress is not
+      going to protect us; the President is the enemy; he is deploying his own army
+      in our cities. The only people who can protect us – are: We ourselves”.
+
+
+      “It is ‘the billionaires stupid’” [a reference to the old amorphism: ‘It’s the
+      economy, stupid’] Rothkopf explains:
+
+
+      “The point I’m trying to make is that – if you don’t realise that equality and
+      élite impunity are central issues to everybody, that people think the system is
+      rigged and is not working for them … don’t believe the American dream is real
+      any more – and that the control of the country has been stolen by a handful of
+      the super-rich people, who don’t get taxed and get wealthier and wealthier – whilst
+      the rest of us fall further and further behind – [then you can’t understand today’s
+      despair amongst the under 35s]”.
+
+
+      Rothkopf is saying that the Davos/Epstein episode marks the rupture between the
+      people and the ruling strata.
+
+
+      “Western societies now face a dilemma that cannot be resolved through elections,
+      parliamentary commissions, or speeches. How can one continue to accept the authority
+      of institutions that shielded this level of horror? How can respect be maintained
+      for laws applied selectively by people who live above them?”, Leiroz says.
+
+
+      Loss of respect however, does not go to the core of the impasse. No conventional
+      political party has an answer to the failure of ‘kitchen-table’ economics – the
+      lack of reasonably well-paid jobs, access to medical services, costly education
+      and housing.
+
+
+      No mainstream party can provide a credible answer to these existential issues
+      because, for decades, the economy has exactly been ‘rigged’ — structurally re-oriented
+      towards a debt-based financialised economy, at the expense of the real economy.
+
+
+      It would require the present Anglo liberal market structure to be wholly up-rooted
+      and replaced by another. That would require a decade of reforms – and the oligarchs
+      would fight that outright.
+
+
+      Ideally, new political parties might emerge. In Europe, however, the ‘bridges’
+      that potentially could take us out from our deep structural contradictions have
+      been deliberately destroyed in the name of the cordon sanitaire designed to prevent
+      any non ‘centrist’ policy thinking from emerging.
+
+
+      If protest has no effect in changing the status quo, and elections remain between
+      the Tweedle Dee and Dum parties of the existing order, the young will conclude
+      that ‘no one will come to save us’ – and they may conclude in their despair that
+      the future can only be decided on the streets.'
+    one_sentence_summary: The article argues that the revelations surrounding Jeffrey
+      Epstein have exposed the moral decay and systemic corruption within Western elites,
+      leading to a profound crisis of trust in institutions and a potential shift towards
+      nihilism and totalitarianism, as the younger generation feels abandoned by a rigged
+      system that fails to address their economic and social needs.
+    paragraph_summary: In the wake of the Epstein scandal, Alastair Crooke argues that
+      the foundational values of post-war society, such as trust and fairness, have
+      been irrevocably undermined, exposing the moral decay within elite circles that
+      operated beyond legal and ethical constraints. The revelations have shattered
+      the illusion of a stable order, leading to a widespread loss of faith in institutions
+      and a sense of nihilism that threatens societal cohesion. Crooke highlights the
+      systemic nature of the corruption, suggesting that Epstein's connections were
+      not merely personal but indicative of a broader, organized network supported by
+      powerful institutions. As young people increasingly feel abandoned by traditional
+      political structures, they may resort to radical measures for change, realizing
+      that the current system is rigged in favor of the wealthy elite. The article concludes
+      that without significant reform, the disillusionment among the populace could
+      lead to civil unrest, as conventional political solutions fail to address the
+      pressing economic and social issues facing society.
+    published: '2026-02-09T16:36:08+00:00'
   - title: Gaza Reconstruction; Ukraine Reconstruction – ‘It’s All Business’ – OpEd
     url: https://www.eurasiareview.com/03022026-gaza-reconstruction-ukraine-reconstruction-its-all-business-oped/
     text: 'By Alastair Crooke

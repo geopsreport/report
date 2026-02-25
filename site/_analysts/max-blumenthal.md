@@ -7,16 +7,65 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past days have seen mounting scrutiny of Western political and corporate actors, with new revelations raising questions about government stability, corporate ethics, and the ongoing manipulation of geopolitical narratives.
+  Tensions in Iran and the broader Middle East continue to escalate, with new revelations about Western involvement in the country’s internal unrest. In a significant development, **Max Blumenthal** reports that Damon Wilson, president of the National Endowment for Democracy (NED), was abruptly cut off during a US House committee hearing after openly boasting about the NED’s role in deploying 200 Starlink terminals to Iran. Wilson’s statement suggested the terminals were intended to facilitate unrest, highlighting a direct line between US-backed organizations and the ongoing turmoil in Iran. This disclosure adds weight to previous reports that Western actors are actively seeking to destabilize the Iranian government, especially as unverified casualty figures are circulated to justify further intervention.
   
-  A major development is the scandal involving a think tank tied to British Prime Minister Keir Starmer, which, according to **Max Blumenthal**, hired a PR firm to spy on journalists. This revelation has intensified concerns about the security of Starmer’s government, with critics questioning the implications for press freedom and transparency in the UK. The fallout is ongoing, and there is a high chance this will further erode public trust in the current administration.
+  Meanwhile, scrutiny of Western political influence operations has intensified in the UK. A think tank tied to Prime Minister Keir Starmer is under fire after it was revealed to have hired a PR firm to surveil journalists, including those at The Grayzone. **Blumenthal** notes that this scandal is raising questions about the stability of Starmer’s government, as concerns mount over the use of intelligence-style tactics against domestic critics.
   
-  On the corporate front, Apple’s recent $2 billion acquisition of an Israeli “pre-speech” technology startup has sparked controversy. As **Blumenthal** reports, the startup has no products or revenues, and its employees have been implicated in actions linked to the Gaza genocide. This move has drawn criticism from human rights advocates and could have significant reputational consequences for Apple. There is a high chance that this acquisition will face further scrutiny from both the media and regulatory bodies, especially given the ongoing tensions surrounding Israel’s actions in Gaza.
+  In the tech sector, Apple’s acquisition of an Israeli “pre-speech” technology firm for nearly $2 billion is drawing criticism due to the company’s lack of commercial track record and its employees’ alleged involvement in actions linked to the Gaza conflict. This move underscores the deepening relationship between Silicon Valley and Israeli defense-linked tech, raising ethical and reputational questions for major US corporations.
   
-  Meanwhile, the intersection of energy policy and conflict remains a focal point. At a recent American Petroleum Institute summit, oil industry leaders described the Iran war as the “biggest opportunity” for their interests, while also expressing dissatisfaction with the Trump administration’s Venezuela policy. **Blumenthal** notes that the industry’s focus on Iran underscores the extent to which geopolitical instability is being leveraged for profit, even as official narratives justify escalation based on questionable sources, such as the unverified Iranian protest death toll.
-  
-  Trends indicate a deepening crisis of legitimacy for Western governments and corporations as their covert operations and opportunistic maneuvers come to light. It is quite likely that further leaks and investigative reports will continue to expose these dynamics, fueling public skepticism and international tensions. I guarantee that scrutiny of both government and corporate actors will intensify in the coming weeks, with potential for significant political fallout in the UK and reputational damage for major tech firms.
+  **Trends and Predictions:**  
+  The pattern of Western intervention in Iran is becoming increasingly overt, with technology and information warfare at the forefront. Based on the latest disclosures, I guarantee that Iran will respond with heightened countermeasures against foreign-backed digital infrastructure and NGOs. In the UK, the fallout from the think tank scandal is quite likely to erode public trust in Starmer’s administration, though immediate political upheaval remains unlikely. The Apple acquisition signals a high chance of further integration between US tech giants and Israeli security technologies, despite mounting public scrutiny.
 articles:
+  - title: NED leader cut off in Congress after boasting of ‘deploying’ 200 Starlinks
+      to Iran amid violence
+    url: https://thegrayzone.com/2026/02/24/ned-congress-starlinks-iran-violence/
+    text: The National Endowment for Democracy’s president, Damon Wilson, bragged to
+      a House committee of his group’s aggressive efforts to spark unrest in Iran, including
+      by smuggling Starlink terminals and fashioning anti-Iran narratives for the media.
+      Damon Wilson, the head of the National Endowment for Democracy (NED), was interrupted
+      by a member of Congress during a House oversight hearing on February 24 after
+      revealing that his agency “began supporting the deployment [and] operation of
+      about 200 Starlinks early on” amid the […] The post NED leader cut off in Congress
+      after boasting of ‘deploying’ 200 Starlinks to Iran amid violence first appeared
+      on The Grayzone . The post NED leader cut off in Congress after boasting of ‘deploying’
+      200 Starlinks to Iran amid violence appeared first on The Grayzone .
+    one_sentence_summary: Damon Wilson, president of the National Endowment for Democracy,
+      faced interruption during a House committee hearing after he claimed his organization
+      had actively supported the deployment of 200 Starlink terminals to Iran to incite
+      unrest.
+    paragraph_summary: Damon Wilson, president of the National Endowment for Democracy
+      (NED), faced interruption during a House oversight hearing on February 24 after
+      he claimed that his organization had actively worked to incite unrest in Iran
+      by deploying approximately 200 Starlink terminals and crafting anti-Iran narratives
+      for the media. His remarks highlighted NED's aggressive strategies to support
+      opposition in Iran amidst ongoing violence, drawing attention to the agency's
+      controversial role in international affairs.
+    published: '2026-02-24T20:11:06+00:00'
+  - title: NED leader cut off in Congress after boasting of ‘deploying’ 200 Starlinks
+      to Iran amid violence
+    url: https://thegrayzone.com/2026/02/24/ned-congress-starlinks-iran-violence/
+    text: The National Endowment for Democracy’s president, Damon Wilson, bragged to
+      a House committee of his group’s aggressive efforts to spark unrest in Iran, including
+      by smuggling Starlink terminals and fashioning anti-Iran narratives for the media.
+      Damon Wilson, the head of the National Endowment for Democracy (NED), was interrupted
+      by a member of Congress during a House oversight hearing on February 24 after
+      revealing that his agency “began supporting the deployment [and] operation of
+      about 200 Starlinks early on” amid the […] The post NED leader cut off in Congress
+      after boasting of ‘deploying’ 200 Starlinks to Iran amid violence first appeared
+      on The Grayzone . The post NED leader cut off in Congress after boasting of ‘deploying’
+      200 Starlinks to Iran amid violence appeared first on The Grayzone .
+    one_sentence_summary: Damon Wilson, president of the National Endowment for Democracy,
+      faced interruption during a House committee hearing after he claimed his organization
+      had actively supported the deployment of 200 Starlink terminals to Iran to incite
+      unrest.
+    paragraph_summary: Damon Wilson, president of the National Endowment for Democracy
+      (NED), faced interruption during a House oversight hearing on February 24 after
+      he claimed that his organization had actively worked to incite unrest in Iran
+      by deploying approximately 200 Starlink terminals and crafting anti-Iran narratives
+      for the media. His remarks highlighted NED's aggressive strategies to support
+      opposition in Iran amidst ongoing violence, drawing attention to the agency's
+      controversial role in international affairs.
+    published: '2026-02-24T20:11:06+00:00'
   - title: Keir Starmer-tied think tank paid PR firm to target The Grayzone
     url: https://thegrayzone.com/2026/02/15/starmer-think-tank-paid-firm-target-grayzone/
     text: A shadowy think tank run by British PM Keir Starmer’s top strategist has been
@@ -161,6 +210,52 @@ articles:
       developments and the interests of oil executives, as they navigate the challenges
       and potential benefits of international conflicts.
     published: '2026-02-13T17:14:30+00:00'
+  - title: EEUU tiene imputación secreta contra Delcy Rodrígez, según periodista opositora
+    url: https://thegrayzone.com/2026/02/10/eeuu-imputacion-contra-delcy/
+    text: Una periodista de oposición financiada por Estados Unidos reveló que el Departamento
+      de Justicia de Trump ha elaborado una acusación secreta contra la Presidenta Encargada
+      de Venezuela para que “penda sobre su cabeza” y la ejecutará si ella se “desvía”.
+      La administración Trump está usando una acusación secreta para usarla contra la
+      presidenta encargada de Venezuela Delcy Rodríguez, según la editora en jefe del
+      medio, financiado por Estados Unidos, Armando.info. “Una de las informaciones
+      que manejamos es que Estados Unidos […] The post EEUU tiene imputación secreta
+      contra Delcy Rodrígez, según periodista opositora first appeared on The Grayzone
+      . The post EEUU tiene imputación secreta contra Delcy Rodrígez, según periodista
+      opositora appeared first on The Grayzone .
+    one_sentence_summary: Una periodista opositora ha revelado que el Departamento de
+      Justicia de Trump ha preparado una acusación secreta contra la presidenta encargada
+      de Venezuela, Delcy Rodríguez, que podría ser utilizada en su contra si se desvía
+      de las expectativas de Estados Unidos.
+    paragraph_summary: Una periodista de oposición, respaldada por Estados Unidos, ha
+      informado que el Departamento de Justicia de Trump ha preparado una acusación
+      secreta contra Delcy Rodríguez, la presidenta encargada de Venezuela, con el propósito
+      de utilizarla como una amenaza si ella se desvía de las expectativas de la administración.
+      Según la editora en jefe de Armando.info, un medio financiado por Estados Unidos,
+      esta acusación se mantendría en secreto y podría ser ejecutada en cualquier momento.
+    published: '2026-02-10T22:35:32+00:00'
+  - title: EEUU tiene imputación secreta contra Delcy Rodrígez, según periodista opositora
+    url: https://thegrayzone.com/2026/02/10/eeuu-imputacion-contra-delcy/
+    text: Una periodista de oposición financiada por Estados Unidos reveló que el Departamento
+      de Justicia de Trump ha elaborado una acusación secreta contra la Presidenta Encargada
+      de Venezuela para que “penda sobre su cabeza” y la ejecutará si ella se “desvía”.
+      La administración Trump está usando una acusación secreta para usarla contra la
+      presidenta encargada de Venezuela Delcy Rodríguez, según la editora en jefe del
+      medio, financiado por Estados Unidos, Armando.info. “Una de las informaciones
+      que manejamos es que Estados Unidos […] The post EEUU tiene imputación secreta
+      contra Delcy Rodrígez, según periodista opositora first appeared on The Grayzone
+      . The post EEUU tiene imputación secreta contra Delcy Rodrígez, según periodista
+      opositora appeared first on The Grayzone .
+    one_sentence_summary: Una periodista opositora ha revelado que el Departamento de
+      Justicia de Trump ha preparado una acusación secreta contra la presidenta encargada
+      de Venezuela, Delcy Rodríguez, que podría ser utilizada en su contra si se desvía
+      de las expectativas de Estados Unidos.
+    paragraph_summary: Una periodista de oposición, respaldada por Estados Unidos, ha
+      informado que el Departamento de Justicia de Trump ha preparado una acusación
+      secreta contra Delcy Rodríguez, la presidenta encargada de Venezuela, con el propósito
+      de utilizarla como una amenaza si ella se desvía de las expectativas de la administración.
+      Según la editora en jefe de Armando.info, un medio financiado por Estados Unidos,
+      esta acusación se mantendría en secreto y podría ser ejecutada en cualquier momento.
+    published: '2026-02-10T22:35:32+00:00'
   - title: US holds secret indictment of Delcy Rodriguez, top opposition journo claims
     url: https://thegrayzone.com/2026/02/10/secret-indictment-delcy-rodriguez-opposition-journo/
     text: A US-funded opposition journalist revealed the Trump DOJ has crafted a secret

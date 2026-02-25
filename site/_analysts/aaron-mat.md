@@ -7,16 +7,66 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the global geopolitical landscape remains volatile, recent developments have intensified debates over US foreign policy, nuclear arms control, and the ongoing crises in the Middle East and Latin America.
+  The geopolitical landscape remains volatile as the Trump administration intensifies US military posturing in the Middle East, while diplomatic and military tensions persist on multiple fronts.
   
-  The most significant new development concerns the fallout from the expiration of the New START treaty between the US and Russia. As **Aaron Maté** reports, the lapse of this key arms control agreement under the Trump administration has removed legal limits on both countries’ nuclear arsenals, raising the specter of a renewed arms race. While there are unconfirmed reports of an informal understanding to maintain treaty terms and a resumption of military dialogue, the absence of binding constraints is widely seen as destabilizing. The majority view among analysts is that, absent a formal agreement, both sides are likely to expand their arsenals in the coming months. There is a high chance of increased nuclear posturing, though a full-scale buildup is not guaranteed in the immediate term.
+  The most significant new development is President Trump’s orchestration of the largest US military buildup in the region since the 2003 Iraq invasion. According to **Aaron Maté**, a substantial portion of the US Navy’s fleet has been positioned near the Persian Gulf, signaling readiness for potential military action against Iran. This escalation occurs even as Trump publicly suggests that diplomatic talks with Iran may soon yield a deal, highlighting a dual-track approach of pressure and negotiation.
   
-  Meanwhile, the controversy surrounding **Noam Chomsky**’s past association with Jeffrey Epstein has resurfaced, but due to Chomsky’s severe health decline after a 2023 stroke, his wife Valeria has taken the unusual step of addressing the issue publicly. She emphasized her focus on his care and the lack of public relations resources, signaling that further public comment is unlikely. This episode highlights the challenges faced by public intellectuals’ families in managing legacy issues during periods of incapacitation.
+  Meanwhile, the expiration of the New START treaty has removed formal limits on US and Russian nuclear arsenals. **Aaron Maté** notes that while there are unconfirmed reports of an informal understanding to maintain treaty terms and a resumption of military dialogue, the risk of a renewed arms race is elevated. The lack of legal constraints introduces significant uncertainty into the US-Russia strategic relationship.
   
-  In the Middle East, the situation in Gaza remains tense. Despite a US-brokered ceasefire, Israeli attacks and restrictions on aid continue, with the UN demanding Hamas disarm without guaranteeing Palestinian self-determination. **Basem Naim**, a Hamas negotiator, has stressed in interviews that the political dynamics remain unchanged, and prisoner releases are stalled. The consensus among sources is that the ceasefire is fragile and the underlying causes of conflict are unresolved. There is a high chance that violence will resume if substantive political progress is not made.
+  On the domestic front, controversy continues to swirl around Noam Chomsky’s past association with Jeffrey Epstein. Chomsky’s wife, Valeria, has addressed the issue publicly, emphasizing her focus on his care following his 2023 stroke and their lack of public relations resources. This episode underscores the ongoing scrutiny of public intellectuals and the challenges faced by families in managing reputational crises.
   
-  Looking ahead, the prevailing trends point toward increasing instability in US-Russia relations, persistent gridlock in the Israeli-Palestinian conflict, and ongoing scrutiny of public figures’ past associations. I guarantee that, unless there is a dramatic policy shift, the risk of escalation in both the nuclear and Middle Eastern theaters will remain high in the coming weeks.
+  In summary, the prevailing trend is one of escalating military brinkmanship in the Middle East and heightened nuclear uncertainty with Russia. The Trump administration’s aggressive posture toward Iran is likely to persist, with a high chance of further military deployments and continued diplomatic ambiguity. The risk of a US-Iran conflict remains elevated, though a negotiated settlement is still possible. The nuclear arms dynamic with Russia is quite likely to remain unstable in the absence of a new formal treaty, despite tentative efforts at informal coordination. I guarantee that these issues will dominate the geopolitical agenda in the coming weeks.
 articles:
+  - title: With largest build-up since Iraq, Trump threatens to go to war for Israel
+    url: https://www.aaronmate.net/p/with-largest-build-up-since-iraq
+    text: (Photo by Sedat Suna/Getty Images) To shore up his threats to attack Iran,
+      President Trump has overseen the largest US military build-up in the Middle East
+      since the 2003 invasion of Iraq. One-third of the US Navy’s deployed fleet, including
+      two aircraft carriers holding dozens of planes, is now concentrated around the
+      Persian Gulf in preparation for a potential strike. That is not enough to sustain
+      a long-term war, but enough to inflict serious damage to Iran’s infrastructure
+      and leadership. In comments today, Trump claimed that there have been “good talks
+      with Iran” and that a deal is possible within a 10-day timeframe. But given his
+      conduct in Venezuela, where a similar build-up led to a deadly bombing and kidnapping
+      operation, some form of US military action is likely. Read more
+    one_sentence_summary: President Trump has orchestrated the largest US military buildup
+      in the Middle East since 2003, positioning a significant portion of the Navy's
+      fleet near the Persian Gulf in preparation for potential action against Iran,
+      despite suggesting that diplomatic talks may yield a deal soon.
+    paragraph_summary: President Trump has initiated the largest US military buildup
+      in the Middle East since the 2003 Iraq invasion, with one-third of the Navy's
+      deployed fleet, including two aircraft carriers, now positioned near the Persian
+      Gulf in anticipation of a potential strike on Iran. While Trump has suggested
+      that positive discussions with Iran could lead to a deal within ten days, his
+      previous actions in Venezuela, which involved a military buildup resulting in
+      violence, indicate that some form of US military action against Iran is probable,
+      despite the current deployment not being sufficient for a prolonged conflict.
+    published: '2026-02-19T17:10:33+00:00'
+  - title: With largest build-up since Iraq, Trump threatens to go to war for Israel
+    url: https://www.aaronmate.net/p/with-largest-build-up-since-iraq
+    text: (Photo by Sedat Suna/Getty Images) To shore up his threats to attack Iran,
+      President Trump has overseen the largest US military build-up in the Middle East
+      since the 2003 invasion of Iraq. One-third of the US Navy’s deployed fleet, including
+      two aircraft carriers holding dozens of planes, is now concentrated around the
+      Persian Gulf in preparation for a potential strike. That is not enough to sustain
+      a long-term war, but enough to inflict serious damage to Iran’s infrastructure
+      and leadership. In comments today, Trump claimed that there have been “good talks
+      with Iran” and that a deal is possible within a 10-day timeframe. But given his
+      conduct in Venezuela, where a similar build-up led to a deadly bombing and kidnapping
+      operation, some form of US military action is likely. Read more
+    one_sentence_summary: President Trump has orchestrated the largest US military buildup
+      in the Middle East since 2003, positioning a significant portion of the Navy's
+      fleet near the Persian Gulf in preparation for potential action against Iran,
+      despite suggesting that diplomatic talks may yield a deal soon.
+    paragraph_summary: President Trump has initiated the largest US military buildup
+      in the Middle East since the 2003 Iraq invasion, with one-third of the Navy's
+      deployed fleet, including two aircraft carriers, now positioned near the Persian
+      Gulf in anticipation of a potential strike on Iran. While Trump has suggested
+      that positive discussions with Iran could lead to a deal within ten days, his
+      previous actions in Venezuela, which involved a military buildup resulting in
+      violence, indicate that some form of US military action against Iran is probable,
+      despite the current deployment not being sufficient for a prolonged conflict.
+    published: '2026-02-19T17:10:33+00:00'
   - title: Noam Chomsky's wife responds to Epstein controversy
     url: https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein
     text: 'Note: Noam Chomsky’s friendship with Jeffrey Epstein has become the source

@@ -8,16 +8,194 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As negotiations between Russia and Ukraine continue into February 2026, the geopolitical landscape remains shaped by ongoing diplomatic efforts, shifting Western strategies, and persistent internal crises within Europe. The latest developments reveal both progress and enduring obstacles in the search for a durable settlement to the Ukraine conflict, while broader transatlantic relations are tested by political instability and evolving security doctrines.
+  The ongoing Ukraine conflict continues to reshape global security dynamics, with recent developments highlighting both military innovation and fragile diplomatic progress. The war has not only transformed battlefield tactics but also forced a reassessment of Western strategies and alliances.
   
-  The most significant new information concerns the Russia–Ukraine negotiations. According to **Anatol Lieven**, Russia has made "significant concessions," notably by dropping its opposition to Ukraine's EU accession and accepting a larger Ukrainian military. In return, Ukraine has acknowledged the loss of certain territories and is now seeking alternative security guarantees. However, "key disagreements remain over territorial issues, the management of the Zaporizhzhia Nuclear Power Plant, and the nature of security guarantees." The potential for a lasting peace will depend on how these issues are balanced in any final agreement.
+  The most significant new development is the evolution of military tactics in Ukraine, which **Anatol Lieven** describes as "the biggest evolution in military tactics since WWII." The widespread use of drones and advanced defensive systems has shifted the balance on the battlefield, making traditional offensive maneuvers riskier and less effective. This shift has implications beyond Ukraine, particularly for U.S.-China tensions over Taiwan, where similar technologies and doctrines could come into play. According to Lieven, "the risks of underestimating opponents and the importance of adapting to new forms of warfare are now clear lessons for all major powers."
   
-  Meanwhile, the Trump administration’s approach to the conflict has shifted toward a more pragmatic stance. The 2025 National Security Strategy, as analyzed by **Anatol Lieven**, now emphasizes "diplomacy and restraint," though it is not without partisan overtones and controversial positions on European affairs. This recalibration has influenced the negotiation process, with the U.S. reportedly pressuring Ukraine to accept terms that include painful territorial concessions in exchange for security guarantees and an end to hostilities.
+  On the diplomatic front, negotiations between Russia and Ukraine have seen notable, if incomplete, progress. Russia has reportedly dropped its objections to Ukraine's EU accession and accepted the prospect of a larger Ukrainian military, while Ukraine has acknowledged the loss of certain territories and is seeking alternative security guarantees. However, as Lieven notes, "key disagreements remain over territorial issues, the management of the Zaporizhzhia Nuclear Power Plant, and the nature of security guarantees." The path to a lasting peace will require careful balancing of both sides' demands, and the outcome remains uncertain.
   
-  European instability continues to complicate the situation. France, in particular, faces a "severe political and economic crisis," with high public debt, unpopular leadership, and rising radical parties. This turmoil, as **Anatol Lieven** notes, reflects a broader pattern of instability across Western Europe, undermining the region’s ability to provide consistent support to Ukraine or to present a unified front in negotiations with Russia.
+  Meanwhile, political instability in Western Europe—especially in France—continues to undermine the continent's ability to respond effectively to the Ukraine crisis. Economic stagnation, high public debt, and rising radical parties have left European governments distracted and divided. This internal turmoil raises doubts about the sustainability of European support for Ukraine and the coherence of transatlantic relations.
   
-  Looking ahead, the majority of analysts, including **Anatol Lieven**, predict that a peace agreement is "quite likely" if both sides can compromise on the remaining contentious issues—especially regarding territory and security guarantees. However, the internal divisions within Europe and the evolving U.S. strategy introduce uncertainty into the process. There is a high chance that Western support for Ukraine will become more conditional, with the U.S. and its allies prioritizing stability and risk reduction over maximalist goals. If the current trends persist, I assess with high confidence that a negotiated settlement—though imperfect and contested—will most definitely emerge in the coming months, fundamentally reshaping the security architecture of Eastern Europe.
+  **Trends and Predictions:**  
+  The transformation of military tactics in Ukraine is most definitely setting a precedent for future conflicts, particularly in regions like East Asia. There is a high chance that diplomatic negotiations between Russia and Ukraine will continue to face obstacles, but incremental progress is likely as both sides seek to avoid a prolonged stalemate. European political instability is quite likely to persist, limiting the continent's ability to project power or provide unified support for Ukraine.
+  
+  In summary, the Ukraine war remains a crucible for military and diplomatic innovation, but the broader geopolitical landscape is increasingly shaped by internal divisions and the rapid evolution of warfare.
 articles:
+  - title: Ukraine marks biggest evolution in military tactics since WWII
+    url: https://responsiblestatecraft.org/ukraine-war-tactics/
+    text: 'This article is part of a special series recognizing the four-year anniversary
+      of the Ukraine War
+
+
+      Over the past four years, the Ukraine War has done more to change military weapons
+      and tactics than any other conflict since 1945. Israel’s victories in 1956, 1967
+      and 1973 were won by World War Two weapons and tactics. The lessons of guerrilla
+      wars in Vietnam and Afghanistan had mostly already been taught by Spanish guerrillas
+      and Russian partisans more than two centuries ago.
+
+
+      In other wars, like those of the U.S. against Iraq and Panama, the balance of
+      forces was so one-sided that it was hard to draw lessons for full-scale war. Russia
+      and Western-armed Ukraine, by contrast, have been peer competitors, with comparable
+      weaponry, training and (surprisingly) numbers.
+
+
+      That said, the lessons of the first year of the war were mostly old ones. Through
+      appallingly poor intelligence (possibly worsened by an unwillingness to tell Putin
+      uncomfortable truths), the Russians wholly underestimated the strength and determination
+      of Ukrainian resistance. This stemmed from old and new prejudices, including the
+      belief that President Volodymyr Zelensky, whom the Russians regarded as an insignificant
+      TV comedian, would flee or surrender in the face of the Russian assault.
+
+
+      The Russian general staff should have studied a cartoon of 1879 in the British
+      magazine Punch, published after a British force equipped with modern rifles and
+      artillery was wiped out at Isandlwana by a Zulu army armed with spears. It shows
+      a Zulu warrior writing on a blackboard, “Despise not your enemy!” Moreover, when
+      their original plan to seize Kyiv and decapitate or subjugate the Ukrainian government
+      failed, the Russians had no viable Plan B.
+
+
+      Underestimating the Ukrainians led to another classic mistake. The Russians not
+      only deployed far too few troops for the tasks at hand, but divided them between
+      six different goals . As a result, only one of them was achieved: the conquest
+      of a “land bridge” between Russia and Crimea. Thereafter, the Russian government’s
+      unwillingness to deploy conscripts or spend huge sums on increasing the professional
+      army meant that Russia lacked the troops even to hold some of the land it had
+      already taken.
+
+
+      The first month of the war did however teach one striking lesson. A combination
+      of Ukrainian hand-held anti-tank and anti-aircraft missiles nullified the Russian
+      combination of armor, attack helicopters and ground attack aircraft that had been
+      at the heart of Soviet, Russian and U.S. planning for offensive action in “big
+      wars.”
+
+
+      As the war progressed, it diverged further and further from the experience of
+      the previous century. This has been above all because of the tremendous advantages
+      that a combination of old and new weapons gives to the defense. Satellite intelligence
+      allowed both the Russians and the Ukrainians (with U.S. help) to spot where the
+      other side was concentrating troops for an attack, and thereby to concentrate
+      troops in response. This helped the Russians to defeat the Ukrainian counteroffensive
+      in the summer of 2023, and the Ukrainians to hold subsequent Russian advances
+      to a crawl.
+
+
+      This ability goes back to the development of reconnaissance aircraft in World
+      War I; but unlike aircraft, satellites for the moment at least are safe from attack.
+      Above all, as now generally recognized, it is drones that have transformed the
+      battlefield. The vast deployment of drones by both sides has created a no man’s
+      land more than 15 miles wide, in which any visible movement is very likely to
+      be fatal for men, and certainly for machines. Even well-dug-in troops can be spotted
+      and hunted down one by one.
+
+
+      Drones also make it impossible to clear the mines with which these zones are now
+      choked and which are a huge barrier to movement. Whether done by men or machines,
+      clearing mines takes time and is carried out in the open — and that is impossible
+      with drones overhead.
+
+
+      Since the second half of the 19th century, increases in firepower have led to
+      a progressive “thinning out” of infantry on the ground. Drones have increased
+      this to a truly revolutionary extent. Not only have they made it impossible to
+      accumulate the mass of men and machines for a decisive breakthrough; over the
+      past two years, they have even forced the Russian army to split up its attacking
+      forces into groups as small as two or three men.
+
+
+      This has had a critical effect on the willingness of troops to advance in the
+      face of acute danger. King Frederick the Great was only stating an old military
+      truth when he said that, to get soldiers to advance against fire, they had to
+      be more afraid of their own non-commissioned officers than of the enemy. In a
+      unit of three men, that is impossible. There is no senior NCO to frighten them,
+      and no officer to inspire them. Unless they possess exceptionally high morale
+      and determination, faced with heavy fire they will simply go to ground.
+
+
+      These military lessons will remain true even if, through sheer exhaustion or the
+      withdrawal of Western support, the Ukrainian army eventually collapses. For it
+      has already put up a fight that before the war military experts considered impossible,
+      and that would in fact have been impossible without the military transformation
+      that I have described.
+
+
+      These lessons would seem so obvious that they would be impossible for Western
+      militaries to ignore; but one should never underestimate military conservatism
+      . After all, soldiers spend the vast majority of their active careers not at war
+      but exercising in peacetime, which essentially means pretending to fight themselves.
+
+
+      In the contemporary U.S. and Europe, adherence to existing weapons systems is
+      colossally reinforced by the interest of the military industrial complex and its
+      political allies in continuing to produce large, sophisticated and hugely expensive
+      weapons platforms, as opposed to cheap drones and mines. In Europe, to this is
+      added the (probably false) promise that spending on tanks and warplanes can rebuild
+      national industries. In Germany, this misdirection of military spending is — fortunately
+      — already leading to pushback from more objective analysts.
+
+
+      Even after commanding in the First World War, the British Field Marshal Haig could
+      still state in 1926 that “Aeroplanes and tanks are only accessories to the men
+      and the horse, and I feel sure that as time goes on you will find just as much
+      use for the horse — the well-bred horse — as you have ever done in the past.”
+      He had after all lived on friendly terms with horses for far longer than with
+      tanks and aircraft. We can therefore confidently expect that for many years to
+      come, our soldiers and military experts will continue to advocate the absolute
+      necessity of the well-bred tank (and its human crew), all evidence to the contrary.
+
+
+      Of course, every development in weaponry favoring the defense is sooner or later
+      met with new weapons restoring the power of the offense, and vice versa. Thus
+      in World War One on the Western Front, bloody stalemate and the slaughter of the
+      infantry led to the development of the tank and the bomber aircraft.
+
+
+      In our time, the next development seems certain to be the creation of attack robots
+      , that — unlike men — can be made to go on attacking even when their comrades
+      are being destroyed all around them (until, perhaps, they eventually utter the
+      robotic equivalent of “Sod this for a game of soldiers” and turn on their human
+      masters). Even when backed by AI, however, the development of such weapons is
+      likely to take considerable time. In the meantime, drones will remain the lords
+      of the battlefield.
+
+
+      The most immediately consequential lesson should be for China and the U.S. concerning
+      a war over Taiwan. For perhaps the most striking development of all in the Ukraine
+      War has been the way in which Ukraine — with no navy whatsoever — has been able
+      to defeat the Russian Black Sea fleet with land-based missiles and airborne and
+      seaborne drones.
+
+
+      On the one hand, this should show the Chinese that they would be taking an appalling
+      risk by trying to launch an amphibious invasion of Taiwan in the face of strong
+      resistance. On the other hand, it should show the U.S. that American warships
+      operating close to China would be in mortal danger of destruction even if the
+      Chinese navy were sunk or pinned within its own ports.
+
+
+      Even if nuclear war could be avoided, the result — as in Ukraine — would likely
+      be a bloody stalemate. Let us hope therefore that the greatest lesson of the Ukraine
+      War for states will be not to go to war in the first place.'
+    one_sentence_summary: The Ukraine War has significantly transformed military tactics
+      and weaponry, highlighting the importance of drones and defensive strategies while
+      underscoring the risks of underestimating opponents, with implications for future
+      conflicts, particularly regarding potential U.S.-China tensions over Taiwan.
+    paragraph_summary: The article reflects on the transformative impact of the Ukraine
+      War on military tactics and weaponry over the past four years, highlighting that
+      it has introduced more changes than any conflict since 1945. Unlike previous wars
+      where one side had overwhelming superiority, the Ukraine War features peer competitors,
+      leading to significant lessons about underestimating the enemy and the importance
+      of troop deployment. The article emphasizes the effectiveness of Ukrainian defenses,
+      particularly through the use of drones and anti-tank missiles, which have reshaped
+      battlefield dynamics and made traditional offensive strategies less viable. It
+      warns of military conservatism in Western nations, which may hinder the adoption
+      of these new lessons, and suggests that future conflicts, such as a potential
+      U.S.-China confrontation over Taiwan, could be influenced by the insights gained
+      from Ukraine. Ultimately, the article advocates for the critical lesson that nations
+      should strive to avoid war altogether.
+    published: '2026-02-23T05:05:02+00:00'
   - title: Frequently Asked Questions About the Russia–Ukraine Negotiations
     url: https://quincyinst.org/research/frequently-asked-questions-about-the-russia-ukraine-negotiations/
     text: 'The Current State of Play

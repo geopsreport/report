@@ -7,16 +7,517 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  Amidst a turbulent global landscape, recent developments highlight the interplay between political scandal, shifting alliances, and the growing influence of populist movements. The past 24 hours have seen significant attention on the unraveling of elite networks, the precarious state of international law, and the rise of outsider parties in established democracies.
+  The past week in global affairs has seen a resurgence of exclusionary politics, the erosion of international norms, and mounting skepticism toward the motives of Western powers. In Australia, the political climate is increasingly shaped by populist anxieties and a return to hardline stances on immigration. **Binoy Kampmark** observes that the Liberal Party’s latest anti-immigration proposals, “influenced by populist sentiments and reminiscent of Donald Trump’s policies,” signal a regression toward “exclusionary and bigoted attitudes,” undermining Australia’s multicultural values. This shift is not isolated, but part of a broader trend of right-wing resurgence, as evidenced by the rising fortunes of Pauline Hanson’s One Nation party amid a faltering center-right Coalition.
   
-  The ongoing fallout from the Jeffrey Epstein scandal continues to reverberate through political circles. New revelations have placed Lord Peter Mandelson under scrutiny for his correspondence with Epstein, prompting potential criminal inquiries into his conduct. As **Binoy Kampmark** observes, these disclosures are “unraveling reputations and sparking investigations,” with the potential to implicate further high-profile figures. The majority of analysts agree that the Epstein case is far from over, and its impact on elite credibility and public trust is set to deepen.
+  On the international stage, the expiration of the New START treaty on February 5 has marked a significant setback for nuclear arms control. The absence of this key agreement between the U.S. and Russia raises the specter of a renewed arms race and further destabilization. **Kampmark** warns that “the future of international nuclear agreements is now in jeopardy,” with little sign of immediate diplomatic efforts to replace the treaty.
   
-  In Australia, the political landscape is experiencing a notable shift. The rise of Pauline Hanson’s One Nation party, as reported by **Binoy Kampmark**, is being fueled by the center-right Coalition’s ongoing struggles and the public’s growing skepticism toward mainstream polling. Kampmark warns that “the potential distortions and electoral interference caused by the polling industry” could further destabilize the political environment. There is a high chance that One Nation’s momentum will continue, especially as disillusionment with traditional parties grows.
+  Meanwhile, the U.S. continues to face criticism for its unilateral actions abroad. The recent abduction of former Venezuelan President Nicolás Maduro by U.S. authorities has set a dangerous precedent, undermining principles of sovereignty and international law. Allied nations have offered only tepid responses, further eroding the credibility of Western commitments to democratic norms.
   
-  On the international front, Israel’s diplomatic efforts are facing resistance. The planned visit of President Isaac Herzog to Australia has encountered legal challenges and public opposition, with allegations of incitement to genocide and war crimes prompting calls for his entry to be barred. According to **Binoy Kampmark**, this episode underscores “significant legal challenges and public opposition,” reflecting a broader trend of increased scrutiny on state actors accused of human rights violations.
-  
-  Looking ahead, the majority of analysts predict with high confidence that political scandals involving elite networks will continue to surface, further eroding public trust in established institutions. The rise of populist and outsider parties, particularly in Australia, is most definitely set to reshape electoral dynamics in the near term. Meanwhile, diplomatic engagements by controversial leaders are likely to provoke legal and public challenges, signaling a period of heightened accountability and contestation on the world stage.
+  Looking ahead, the trends point to an intensification of nationalist and exclusionary politics in Australia, with a high chance of further policy proposals targeting immigration and diversity. Internationally, the breakdown of arms control frameworks and the normalization of extraterritorial interventions by major powers are likely to persist. As **Kampmark** notes, these developments “most definitely” signal a period of heightened geopolitical instability and a retreat from multilateralism.
 articles:
+  - title: 'Fearing Immigration: The Australian Coalition and the Return of Bad Habits'
+    url: https://www.counterpunch.org/2026/02/19/fearing-immigration-the-australian-coalition-and-the-return-of-bad-habits/
+    text: 'Killing political leaders – metaphorically and actually – often ushers in
+      a silly season where the Mad Hatter presides over an imbecilic party. Amidst coups,
+      defections, dethronements and confusions on the right of Australia politics, we
+      see ugly topics return to the fore with ghastly predictability. The Liberals,
+      the Nationals, and Pauline Hanson’s One Nation Party, are narrowing, rather than
+      broadening the issues of debate. A suspicious, anti-establishment populism, if
+      we are to believe the astrologers in the ranks of psephologists and pollsters,
+      has become vibrantly feral, and top of the list of concerns is immigration.
+
+
+      Incapable of even coming up with its own indigenous species of bigotry, the misnamed
+      Liberals, now led by the underwhelming Angus Taylor, seem to be pinching a few
+      ingredients from the MAGA larder of US President Donald Trump. Freshly deposed,
+      the former leader Sussan Ley seems to have had a plan simmering away to ban arrivals
+      from “declared terrorist” zones of the world and impose more onerous surveillance
+      measures on those visiting Australia. (Everyone, the message goes, wants to make
+      their way to Terra Australis.) The draft, plagiarised proposal, called “Operation
+      Gatekeeper”, would deny the grant of visas to anyone coming from areas controlled
+      by loosely termed “Islamist terrorist groups”, a formulation sufficiently vague
+      to hawk at the dispatch box. The umbrella would be wide and ignore the capacity
+      of governments to control their territories, covering 13 countries. These include
+      Afghanistan, Egypt, Lebanon, Palestine, Somalia, Yemen and the Philippines.
+
+
+      Certain Liberal figures have scarpered from the proposal in a fit of disassociation.
+      “I never proposed any such policy,” complained Ley’s Shadow Immigration Minister
+      Paul Scarr, having finally spotted the mad streak. “I never agreed to any such
+      policy. I have a range of serious concerns with respect to any such policy.” Others
+      are biding their time, pretending courage as they court cowardice in seeing how
+      the electorate acts.
+
+
+      The Nationals, unsteady, even fickle partners of the Liberals, also revealed some
+      support for the plan. As a country party based primarily on agricultural and mining
+      interests, the city is their bane, and metropolitan politicians their beef. As
+      the immigration agenda is apparently dictated largely by those smashed avocado,
+      latte sipping interests, politicians representing rural Australia sometimes bark
+      in resentment. Easy to ignore the indispensable foreign workers who work the orchards.
+
+
+      Any program to keep out undesirable sorts was therefore to be embraced. The party’s
+      leader, David Littleproud, disclaimed the finality of Ley’s plan, though there
+      had been a contribution from his party to it. “We don’t want to import people
+      into this country that don’t support our way of life and believe in it, and so
+      what we’ve got to do is understand the real threats, the real threats that exist.”
+
+
+      Taylor has also mulled over the nature of hardening the significance of an Australian
+      values statement intended to have more teeth than what is currently in place.
+      The current statement mentions, by way of example, respect for the freedom and
+      dignity of the individual, freedom of religion, freedom of speech, the rule of
+      law, parliamentary democracy and the notion of the “fair go”. English is also
+      recognised “as the national language, and as an important unifying element of
+      Australian society.”
+
+
+      There is now a cheap expectation that a statement of affirmation regarding Australian
+      values should be made by non-Australian citizens, irrespective of what visa status
+      they are. Since no one has ever adequately articulated the meaning of an Australian
+      value (values in a society originally penal in character are murkily derived and
+      best kept for polite company), this is a shoddy exercise doomed to deserved, idiotic
+      oblivion. But the Liberal Party is in a state of panic, and shoddiness is being
+      sought as a way of salvation. Their primary vote is collapsing, and a genuine,
+      anti-immigration party in the form of One Nation is hitting its stride.
+
+
+      Soldering on such a test upon Australian visa holders raises a few tangles. Abul
+      Rizvi, a former deputy immigration secretary, proposes three handicaps. First,
+      how is one to judge whether an Australian value has been breached as opposed to
+      the character test that covers cancellation or denial of visas? The character
+      test in the Australian immigration system is onerous enough as it is. (Had it
+      been applied equitably to Israeli Prime Minister Isaac Herzog, his visa would
+      never have been granted.) Second, those not living up to Australian values are
+      also citizens. Possessing citizenry is not the same as holding values inconsistent
+      to the state. Third, cancelling or denying visas to individuals can result in
+      that harshest of fates: expulsion to the country of origin or a third country
+      where there is the possibility of harm.
+
+
+      The Refugee Council of Australia found a troubling historical echo in the proposals
+      by the Liberals, recalling the cool callousness of the Lyons government in 1938
+      to deny sanctuary to Jewish refugees fleeing Europe. (A modest number were admitted,
+      aided by the efforts of the Australian Jewish Welfare Society but the numbers
+      came to a mere trickle, selected on the basis of whether they were of Eastern
+      European stock or of the more assimilable Western variety.) “While no fair-minded
+      Australian would ever support issuing visas to people involved in terrorism, applying
+      an indiscriminate ban to everyone living in a region where terrorists are active
+      is an appalling idea straight out of Donald Trump’s playbook.”
+
+
+      The carefree use of such terms as “Australian values” recalls the opinions of
+      the overwhelmingly Britannic nature of a country fearing discolouration of its
+      white bread constituency. In September 1937, Prime Minister Joe Lyons stated in
+      an election speech at Deloraine in Tasmania that British migrants would “enable
+      us to retain to the full the British character of our population. Our population
+      is 99.1% of British nationality and we wish to keep it so.” The following year,
+      Australia’s Minister for Trade, Colonel Thomas White, infamously remarked at the
+      Evian conference convened to discuss the fate of Jewish refugees that, “As we
+      have no real racial problem, we are not desirous of importing one by encouraging
+      a scheme of large-scale foreign migration.”
+
+
+      Dredged from history, unearthed from policies rusted and tried, attitudes about
+      immigration and race issue from the usual well of dissatisfaction, anxiety and
+      concerns that explain local problems through a frosted mirror. High house prices
+      are not blamed on generations of Australians, including descendants of previous
+      immigrants, who cornered the property market. It’s immigrants of the wrong sort
+      coming in and pushing the value up. Rising suburban or urban crime rates (whether
+      they are actually rising is irrelevant) are streakily attributed to the unwanted
+      industry of undesirable immigrants. But the value of immigrants, and the growth
+      they provide Australia, are virtually incalculable. The bigotry of those casting
+      stones against them in malice and envy is.'
+    one_sentence_summary: The article critiques the Australian political landscape,
+      highlighting how the Liberal Party's recent anti-immigration proposals, influenced
+      by populist sentiments and reminiscent of Donald Trump's policies, reflect a troubling
+      regression towards exclusionary and bigoted attitudes, ultimately undermining
+      the country's values and diversity.
+    paragraph_summary: The article critiques the current state of Australian politics,
+      particularly within the Liberal and National parties, as they grapple with internal
+      strife and an increasingly anti-immigration sentiment. Under the leadership of
+      Angus Taylor, the Liberals have proposed controversial immigration policies, including
+      a draft plan called "Operation Gatekeeper," which aims to ban visa applications
+      from individuals coming from regions associated with terrorism. This proposal
+      has sparked discontent even among party members, revealing a broader trend of
+      populism and a narrowing of political discourse. The article draws parallels between
+      contemporary immigration rhetoric and historical instances of exclusionary policies,
+      highlighting the dangers of scapegoating immigrants for societal issues like housing
+      prices and crime rates. Ultimately, it argues that such policies reflect a panic-driven
+      response to declining political support and a failure to recognize the essential
+      contributions of immigrants to Australian society.
+    published: '2026-02-19T06:50:49+00:00'
+  - title: 'Misplaced Mourning: Farewelling the CIA World Factbook'
+    url: https://www.counterpunch.org/2026/02/18/misplaced-mourning-farewelling-the-cia-world-factbook/
+    text: 'For those with a sense of humour, consulting alleged facts compiled by an
+      agency specialising in subterfuge, subversion, deception and plain mendacity must
+      surely have been a delightful exercise. That delightful exercise would seem to
+      have concluded earlier this month with an announcement by the US Central Intelligence
+      Agency that it would no longer be publishing its World Factbook. Presumably the
+      publication did not fall within what Director John Ratcliffe sees as a core mission
+      of the agency.
+
+
+      The World Factbook was initially published in classified form in 1962 as “The
+      National Basic Intelligence Factbook” intended for officials in the military and
+      government. In 1971, an unclassified version was released, with a print version
+      made available to the public in 1975. In 1981, it was renamed “The World Factbook”
+      and became a web publication in 1997. “The World Factbook,” the announcement mentions,
+      “served the Intelligence Community and the general public as a longstanding, one-stop
+      basic reference about countries and communities around the globe.” That any reference
+      about countries should be strapped to a one-stop point of reference compiled by
+      an intelligence agency already bedevils the learning exercise with precarious
+      shallowness. But scribblers, hacks and travellers often like the curated shortcut.
+
+
+      The World Factbook was short on the destabilising role played by the CIA in foreign
+      countries it sought to describe, but became something of an institution for the
+      unadventurous, uncritical researcher. It provided a tool easily and lazily accessible
+      on rudimentary material. The Factbook, as CIA historian Tim Weiner says with admiration,
+      “has been for 30 years an invaluable goldmine of reliable information used by
+      students, scholars, reporters and the general public.”
+
+
+      This was data on the grab, with the overview of complex hinterland best left to
+      others. John Devine of the Boston Public Library is of the view that the database
+      was most useful on population statistics. “We’re going to have to find things
+      from other sources. Again, how well can we trust them? How well are we going to
+      be able to get data on developing or even barely developing countries?” This has
+      more than a tinge of snobbery, especially in ignoring manifold sources of information
+      from the United Nations, let alone any number of encyclopedias and reference sets
+      that lack the shadow of espionage, let alone the operating interests of the CIA.
+
+
+      American journalists also seemed to see the repository as a golden option for
+      starting research on a story and, it would seem, rarely going beyond it. A misty-eyed
+      Bill Chappell reflected on this for National Public Radio (NPR), recalling his
+      days as a callow editor at CNN International: “If journalists aim to write the
+      first draft of history, I figured, then the Factbook, culling data from Cabinet
+      agencies and other official outlets, could be a reliable primary source.” Librarians
+      in the employ of CNN and NPR would be able to use the database to work out “whether
+      a country is majority Shiite and Sunni, and what kind of government it has.”
+
+
+      Before heading off to Afghanistan in 1988, Weiner did not hesitate to consult
+      the World Factbook. “It’s like you wouldn’t go off on a trip as a reporter without
+      a map, and you wouldn’t go off to a strange country without consulting the CIA
+      World Factbook.” The document was “a compass to discover the world.”
+
+
+      Teachers are also moaning about the sudden cessation of access to the material
+      provided by an intelligence agency, a troubling state of affairs suggesting flawed
+      pedagogy. CNN gives us this curious line: “The elimination of The World Factbook
+      has left educators and others in the information space scrambling.” In a world
+      of seemingly borderless information and sources, such a statement is stunningly
+      untutored.
+
+
+      Rather oddly, Taylor Hale, a social studies teacher based in Oklahoma City, seems
+      to believe that the agency’s assessments are accurate because others are more
+      likely to fudge facts. “It’s so hard to use corporate or private company resources,
+      whether they’re talking about international data or banking or currency exchanges
+      or whatever, because they have a vested interest to lie,” argues Hale. “I can
+      go debunk stuff, I can go redact stuff, but I don’t want the kids exposed to the
+      lie in the first place.” Corporations lie out of cold self-interest, but the good
+      instructor fails to appreciate that the CIA is also paid to traffic fibs in the
+      national interest.
+
+
+      The closure of the Factbook’s website, including the digital shuttering of its
+      old entries, stranded the students of Jay Zagorsky’s business class at Boston
+      University, reportedly battling through an exam “due at midnight the next day.”
+      According to a report in The New York Times, Zagorsky’s “exams are regularly open-Factbook,
+      and two questions relied upon in its famously tidy tables of economic certainty.”
+      Is setting exams to such data sets the highpoint of prudence and practice?
+
+
+      Some of the Factbook’s followers are devotees of the first rank. Simon Willison,
+      a programmer dedicated to data journalism, has made archival material available
+      through his own efforts. (The material ceases after 2020.) He regardshis labour
+      as a tribute to cultural preservation, and actions of the bureaucrats behind the
+      site’s removal a travesty of barbarism. “In a bizarre act of cultural vandalism
+      they’ve not just removed the entire site (including the archives of previous versions)
+      but they’ve also set every single page to be a 302 direct to their closure announcement.”
+
+
+      High time for members of the public to find other sources. (The Encyclopaedia
+      Britannica would be a capital start.) Time to stop mourning a publication by an
+      agency that failed to do with any accuracy what it was intended to do: assess
+      with credible accuracy the political, military and economic health of the Soviet
+      Union, a country that imploded under its very nose in 1991.'
+    one_sentence_summary: The CIA's recent decision to discontinue the World Factbook,
+      a long-standing reference source for global information, has sparked concern among
+      educators and journalists who relied on its data, despite its ties to an agency
+      known for deception and subterfuge.
+    paragraph_summary: The recent announcement by the U.S. Central Intelligence Agency
+      (CIA) that it will no longer publish its World Factbook has sparked a mix of nostalgia
+      and concern among users who relied on this resource for basic information about
+      countries worldwide. Originally created in 1962 for military and government officials,
+      the Factbook became a widely used reference tool for journalists, educators, and
+      researchers, despite its shortcomings in addressing the CIA's own controversial
+      role in global affairs. Critics argue that the closure leaves a gap in accessible
+      information, particularly for students and educators who depended on its data
+      for research and exams. While some lament the loss as a significant cultural setback,
+      others suggest that it is time to seek alternative sources, like the Encyclopaedia
+      Britannica, to fill the void left by the CIA's decision, which many view as a
+      reflection of the agency's questionable reliability in providing accurate information.
+    published: '2026-02-18T06:51:38+00:00'
+  - title: 'Blind and Deaf to AUKUS: Australian Planners and Elusive Submarines'
+    url: https://www.counterpunch.org/2026/02/16/blind-and-deaf-to-aukus-australian-planners-and-elusive-submarines/
+    text: 'There were never the sharpest negotiators in the room, resembling a facsimile
+      of Bertie Wooster in desperate need of the good advice of his manservant Jeeves.
+      The Australian defence establishment has yet to find a wise head who will finally
+      tell them that the A$368 billion AUKUS pact between the three Anglophone powers
+      of Australia, the United Kingdom and the United States has only one oversized
+      beneficiary in mind.
+
+
+      While the Australian treasury gets drained in throwing cash at US naval yards
+      in acts of stealthy proliferation for Washington’s military industrial complex
+      (A$1.6 billion has so far been forked out), it is becoming increasingly clear
+      that a good gaggle of officials and lawmakers have no appetite to either relinquish
+      Virginia-class nuclear-powered submarines (SSN-774) to the Royal Australian Navy
+      or to give its sailors sovereign control of them if that were ever to make the
+      Pacific journey. The sale of the SSN-774 to Canberra is part of Pillar 1 of the
+      AUKUS enterprise, envisaging, in addition to providing such boats to the Royal
+      Australian Navy (RAN), the rotational deployment of four US SSNs and one UK SSN
+      to Australia out of Western Australia, the subsequent construction of three to
+      five replacement SSNs for the US Navy, and aid Australia in the construction of
+      three to five SSNs based on what will be a new UK-Australian design.
+
+
+      A good temperature reading of reluctance regarding the Virginia-class boats can
+      be gathered from those invaluable reports from the Congressional Research Service
+      Australian officials and journalists often ignore and seem reluctant to consult.
+      Given that the US Congress will be the final arbiter on whether a single Virginia
+      SSN is ever transferred into Australian hands under the National Defense Authorization
+      Act (NDAA), these comprehensive overviews plot the concerns for US lawmakers and
+      what direction is likely regarding the expectations of AUKUS. Australia’s doddery
+      and woolly-minded political class ignore them at their peril.
+
+
+      The latest report, authored by Ronald O’Rourke and published on January 26, 2026,
+      lacks a glamorous title. But there is enough punch in Navy Virginia-Class Submarine
+      Program and AUKUS Submarine (Pillar 1) Project: Background and Issues for Congress
+      to sting officials in Canberra into a state of nightmare-inducing worry.
+
+
+      The issues for Congress identified in the report are not new. These include whether
+      the procurement rate for the financial year (FY2026) of the SSN-774 and subsequent
+      years should remain at 2 boats per year, or be adjusted; how the Navy and Department
+      of Defense are using funds from the submarine industrial base (SIB) since FY2018,
+      and how this has affected the production of Virginia-class boats; the maintenance
+      backlog of SSNs in service and its impacts “on SSN – and overall Navy – capabilities,
+      and steps the Navy plans to take to reduce the backlog”; and potential benefits,
+      costs, and risks arising from the procurement rate and the way SIB funds are used.
+
+
+      The crucial test here, and one that would do away with any suggestions of Australian
+      sovereignty on the matter, is how such “benefits, costs, and risks compare with
+      those of an alternative of procuring up to eight additional Virginia-class SSNs
+      that would be retained in US Navy service and operated out of Australia along
+      with the US and UK SSNs that are already planned to be operated under Pillar 1.”
+      Concern is expressed, as with previous reports, about the lack of clarity as to
+      whether Canberra would support the US in a future conflict with China. “Selling
+      three to five Virginia-class SSNs to Australia would thus convert those SSNs from
+      boats that would be available for use in a US-China crisis or conflict into boats
+      that might not be available for use in a US-China crisis or conflict.” Rather
+      crushingly, the report goes on to question Australian prowess regarding the use
+      of the boats, in that deterrence against China would become less persuasive if
+      “Beijing were to find reason to believe, correctly or not, that Australia might
+      use its Virginia-class boats less effectively than the US Navy would use them.”
+
+
+      Australia’s role as an annexure of US strategic deterrence against China in the
+      Pacific is crudely confirmed, its bases mere platforms for Washington’s warmaking
+      plans, with the RAN left undistinguished and diminished. This applies both to
+      the naval component and RAAF Base Tindal in the Katherine region, which will host
+      six nuclear-capable B-52 bombers. Australia’s signatory status as a member of
+      the Treaty of Rarotonga, also known as the South Pacific Nuclear Free Zone Treaty,
+      would, if it already has not, cease to be relevant.
+
+
+      The review of AUKUS conducted by Trump’s Undersecretary of Defense Policy Eldridge
+      Colby, while not available for public eyes, can hardly have deviated from the
+      central premise that parting with the Virginia boats will be only possible if
+      the production rate of submarines rises to 2 a year and given that, what strategic
+      implication would arise regarding US control over them. Colby had previously warned
+      that the AUKUS pact would only “lead to more submarines collectively in 10, 15,
+      20 years, which is way beyond the window of maximum danger, which is really this
+      decade.”
+
+
+      When Colby’s completed review was sent to the Australians last December, Pentagon
+      spokesman Sean Parnell released a statement insisting that the recommendations
+      for the review were for the benefit of improving the security pact. “Consistent
+      with President Trump’s guidance that AUKUS should move ‘full steam ahead,’ the
+      review identified opportunities to put AUKUS on the strongest possible footing.”
+      It is hard to see how Australia ends up well here.
+
+
+      Australian pundits on the strategic cocktail circuit have suggestions as to how
+      to sell Canberra’s broader capitulation to the US imperium and its military. These
+      are drearily unoriginal. On the stationing of B-52s in the Northern Territory,
+      for instance, Miranda Booth, writing for the Lowy Institute Interpreter, suggests
+      the rather crusty propaganda line of collaboration. “The key is to put an emphasis
+      on joint plans for training and exercises that build solidarity and trust, and
+      enhance regional interoperability.” Such duplicity would magically dispel the
+      appearance that Australia was merely a servile and willing client to US power.
+
+
+      The Australian Defence Minister, Richard Marles, a fool of Chaucerian proportions,
+      deserves a star of commendation in his denials of what AUKUS really entails. On
+      his regular sojourns to Washington, he always comes back with the same glassy
+      ignorance, failing to digest any contradicting briefings or literature that might
+      have appeared. He has a story to tell a public he wishes to gull, and he always
+      insists on sticking to it. Pity for Australian electors it’s never the right one,
+      let alone accurate.'
+    one_sentence_summary: The article critiques the Australian defense establishment's
+      handling of the AUKUS pact, suggesting that it primarily benefits the U.S. military-industrial
+      complex while undermining Australia's sovereignty and strategic autonomy, as evidenced
+      by reluctance from U.S. lawmakers to transfer Virginia-class submarines to Australia.
+    paragraph_summary: The Australian defense establishment is criticized for its lack
+      of effective negotiation skills regarding the A$368 billion AUKUS pact with the
+      UK and the US, which primarily benefits the US military-industrial complex. Despite
+      Australia investing heavily in US naval capabilities, there is significant reluctance
+      among US lawmakers to transfer Virginia-class nuclear submarines to Australia,
+      raising concerns about Australian sovereignty and operational effectiveness in
+      potential conflicts with China. Reports indicate that the US Congress is wary
+      of whether Australia would adequately support US interests in a crisis, and the
+      strategic implications of Australia potentially becoming a mere extension of US
+      military power in the Pacific are troubling. The Australian government, led by
+      Defense Minister Richard Marles, is portrayed as out of touch with the realities
+      of AUKUS, failing to acknowledge the implications of their decisions and the diminishing
+      role of the Royal Australian Navy.
+    published: '2026-02-16T06:52:13+00:00'
+  - title: 'Bad Beginnings: The End of New START'
+    url: https://www.counterpunch.org/2026/02/12/bad-beginnings-the-end-of-new-start/
+    text: 'How awful could it get? The New Strategic Arms Reduction Treaty (New START)
+      expired on February 5, terminating an era of arms control and imposed limits on
+      lunatically contrived nuclear weapons programs of the United States and Russia.
+      The New START Treaty entered into force on February 5, 2011 and initially imposed
+      a timeline of seven years for the parties to meet the central limits on strategic
+      offensive arms. Those limits would then be maintained for the duration of the
+      Treaty.
+
+
+      Till its expiry, the countries maintained limits on the following nuclear arms
+      and systems: 700 deployed intercontinental ballistic missiles (ICBMs), deployed
+      submarine-launched ballistic missiles (SLBMs), and deployed heavy bombers capable
+      of using nuclear armaments; 1,550 nuclear warheads on all three deployed platforms;
+      and 800 deployed and non-deployed nuclear capable systems (ICBM launchers, SLBM
+      launchers, and nuclear capable heavy bombers).
+
+
+      Such limits were hardly laudatory, or even exceptional. The cap of 1,550 nuclear
+      warheads is the sort of thing that would only impress the limited crazed circle
+      that passes for arms negotiators in this field, and the various thanocrats who
+      populate such institutes as RAND. Such a show is merely intended for both Moscow
+      and Washington to tell other countries with, or without nuclear weapons, that
+      they could impose restraints on their own gluttonous conduct. Even then, New START,
+      as with all such instruments dealing with limiting nuclear weapons, came with
+      the intended, gaping lacunae. It failed to cover, for instance, tactical nuclear
+      weapons, nor limit the deployment of new strategic weapon systems.
+
+
+      The treaty also fell into neglect with the outbreak of the COVID-19 pandemic.
+      Suspended on-site inspections never resumed after 2022. As François Diaz-Maurin
+      of the Bulletin of the Atomic Scientists points out, “Russia has not shared data
+      on its deployed strategic nuclear forces since September 2022, it suspended its
+      treaty participation altogether in February 2023, and the United States has not
+      published any aggregate numbers since May 2023.” New START came to increasingly
+      look like a gentleman’s agreement being sniffed at by truculent adolescents.
+
+
+      In September last year, Russian President Vladimir Putin dangled the prospect
+      of extending the treaty’s core limits for a year. At a September 22, 2025 Russian
+      Security Council Meeting, he promised that Moscow was “prepared to continue observing
+      the … central quantitative restrictions” stipulated in New START for twelve months
+      provided the US acted “in similar spirit”. Following the year’s extension, “a
+      careful assessment of the situation [and] a definite decision on whether to uphold
+      these voluntary self-limitations” would be made. Putin was also of the opinion
+      that “a complete renunciation of New START’s legacy would, from many points, be
+      a grave and short-sighted mistake”, having “adverse implications for the objectives
+      of the [Nuclear Non-Proliferation Treaty].”
+
+
+      When word of this reached the White House, Press Secretary Karoline Leavitt expressed
+      the view that the proposal sounded “pretty good”. Two weeks later, President Donald
+      Trump responded to a question posed by a TASS reporter that Putin’s proposal sounded
+      “pretty like a good idea to me.” Little, however, was subsequently done. Indeed,
+      Trump has cut the number of diplomats tasked with nuclear matters in the State
+      Department and made public statements last October that nuclear testing might
+      be resumed. He has also complicated arms control matters by insisting that China
+      be added to the limitation talks, something Beijing has shown little interest
+      in doing. In January this year, the president seemed unfussed that the international
+      document was about to pass into the archives of diplomatic oblivion. “If it expires,
+      it expires. We’ll do a better agreement.”
+
+
+      The US political establishment had been struck by a distinct lack of interest,
+      even lethargy, on the subject. New START seemed to be yet another irritating fetter
+      on an administration more enthused by ignoring international obligations than
+      following them. Only a clutch of Democrats seemed to show concern in reflecting
+      about what would follow the treaty’s expiration in House speeches given on January
+      14. This month, Massachusetts Democrat Sen. Ed Markey, co-chair of the Senate’s
+      Nuclear Weapons and Arms Control Working Group, held a press conference urging
+      the Trump administration to renew the vows of fidelity to arms control agreements.
+      “Let’s be honest. America needs another nuclear weapon about as much as Donald
+      Trump deserves a Nobel Peace Prize.”
+
+
+      Trump’s cool disposition is not shared by Barack Obama, the US President who signed
+      New START. Earlier this month, he warned that letting the treaty expire “would
+      pointlessly wipe out decades of diplomacy, and could spark another arms race that
+      makes the world less safe.” His Russian co-signatory, then Russian President Dmitry
+      Medvedev, saw no reason to disagree in remarks made to Reuters, TASS and Russian
+      war blogger WarGonzo. “I don’t want to say this (letting the treaty expire) immediately
+      means a catastrophe and a nuclear war will begin, but it should still alarm everyone.”
+
+
+      Certain nuclear negotiation wonks are certainly concerned about an imminent canter
+      nuclear states will break into after New START’s passing into history. The chief
+      US negotiator for the treaty, Rose Gottemoeller, proposes the less than cheery
+      scenario that Russia might be able to get a head start in any new dash by adding
+      more Multiple Independently Targetable Reentry Vehicles (MIRVs, or multiple warheads
+      capable of striking independently targeted locations) to it missiles, something
+      colloquially termed “uploading”. This was more likely given that the US had removed
+      the last MIRV from its missiles in 2014, while Russia never stopped fielding such
+      missiles. “They can sprint away from us in an upload campaign while we’re still
+      struggling to get the technical wherewithal in place to begin uploading existing
+      missiles.”
+
+
+      The two powers most responsible for keeping nuclear weapons unforgivably attractive
+      to those who would acquire them show promise of blotting their copybook further.
+      There is a serious sentiment in Washington that the nuclear stockpile will and
+      should grow. The Bulletin of Atomic Scientists, in a fit of gloominess, moved
+      its metaphorical Doomsday Clock just that bit closer to “midnight”, the point
+      where biblical calamity will be assured. It now stands at 85 seconds to midnight.
+      Not long to go now.'
+    one_sentence_summary: The expiration of the New Strategic Arms Reduction Treaty
+      (New START) on February 5 marks a significant setback in nuclear arms control
+      between the U.S. and Russia, raising concerns about a potential arms race and
+      the future of international nuclear agreements.
+    paragraph_summary: The New Strategic Arms Reduction Treaty (New START), which expired
+      on February 5, 2023, marked the end of an era of nuclear arms control between
+      the United States and Russia, having initially placed limits on their strategic
+      offensive arms since its inception in 2011. Despite imposing caps on deployed
+      intercontinental ballistic missiles, submarine-launched ballistic missiles, and
+      nuclear warheads, the treaty was criticized for its inadequacies, such as failing
+      to address tactical nuclear weapons and new strategic systems. The treaty's effectiveness
+      diminished during the COVID-19 pandemic, with inspections halted and data sharing
+      ceased. While Russian President Vladimir Putin suggested a potential one-year
+      extension of the treaty's limits, U.S. political leaders, including President
+      Trump, displayed a lack of urgency regarding arms control, with some even advocating
+      for an increase in the nuclear stockpile. Concerns have been raised about the
+      implications of the treaty's expiration, including the risk of a renewed arms
+      race and the potential for Russia to advance its nuclear capabilities more rapidly
+      than the U.S. As the Bulletin of Atomic Scientists moved the Doomsday Clock closer
+      to midnight, the situation reflects a troubling trajectory for global nuclear
+      stability.
+    published: '2026-02-12T06:51:48+00:00'
   - title: 'Soothsaying and the Sampling Referendum: The Heralded Rise of One Nation'
     url: https://www.counterpunch.org/2026/02/11/soothsaying-and-the-sampling-referendum-the-heralded-rise-of-one-nation/
     text: 'Nominal realities bedevil politics. They usually find form in polling statistics,
