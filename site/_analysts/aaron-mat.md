@@ -7,16 +7,410 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The geopolitical landscape remains volatile as the Trump administration intensifies US military posturing in the Middle East, while diplomatic and military tensions persist on multiple fronts.
+  The geopolitical landscape remains defined by escalating US-Iran tensions, ongoing fallout from US interventions in Venezuela, and the persistent deadlock in Ukraine. The most recent developments center on the justification and consequences of the US-Israeli military campaign against Iran.
   
-  The most significant new development is President Trump’s orchestration of the largest US military buildup in the region since the 2003 Iraq invasion. According to **Aaron Maté**, a substantial portion of the US Navy’s fleet has been positioned near the Persian Gulf, signaling readiness for potential military action against Iran. This escalation occurs even as Trump publicly suggests that diplomatic talks with Iran may soon yield a deal, highlighting a dual-track approach of pressure and negotiation.
+  The Trump administration, alongside Congressional allies, is now publicly framing the joint US-Israeli strikes on Iran as a necessary response to an “imminent threat” allegedly created by Israeli actions. **Aaron Maté** notes that this narrative marks a shift: “The Trump administration and Congressional allies are justifying the US-Israeli military actions against Iran by claiming that Israel's intentions created an imminent threat to US forces, necessitating a preemptive strike.” This rationale follows the launch of Operation Epic Fury, which began with the assassination of Iran’s Supreme Leader and widespread bombings, resulting in significant civilian casualties and Iranian retaliation.
   
-  Meanwhile, the expiration of the New START treaty has removed formal limits on US and Russian nuclear arsenals. **Aaron Maté** notes that while there are unconfirmed reports of an informal understanding to maintain treaty terms and a resumption of military dialogue, the risk of a renewed arms race is elevated. The lack of legal constraints introduces significant uncertainty into the US-Russia strategic relationship.
+  Meanwhile, the US’s largest military build-up in the Middle East since the 2003 Iraq invasion continues, with President Trump signaling both readiness for further escalation and the possibility of diplomatic engagement. However, as **Maté** previously observed, there is little evidence of relief for ordinary Iranians suffering under sanctions, and the administration’s rhetoric has grown more hawkish.
   
-  On the domestic front, controversy continues to swirl around Noam Chomsky’s past association with Jeffrey Epstein. Chomsky’s wife, Valeria, has addressed the issue publicly, emphasizing her focus on his care following his 2023 stroke and their lack of public relations resources. This episode underscores the ongoing scrutiny of public intellectuals and the challenges faced by families in managing reputational crises.
+  Elsewhere, the US intervention in Venezuela remains a point of contention. President Trump’s justification for the kidnapping of President Nicolás Maduro—invoking the Monroe Doctrine and the pursuit of oil resources—has drawn sharp criticism and further strained US-Latin America relations.
   
-  In summary, the prevailing trend is one of escalating military brinkmanship in the Middle East and heightened nuclear uncertainty with Russia. The Trump administration’s aggressive posture toward Iran is likely to persist, with a high chance of further military deployments and continued diplomatic ambiguity. The risk of a US-Iran conflict remains elevated, though a negotiated settlement is still possible. The nuclear arms dynamic with Russia is quite likely to remain unstable in the absence of a new formal treaty, despite tentative efforts at informal coordination. I guarantee that these issues will dominate the geopolitical agenda in the coming weeks.
+  Looking ahead, the majority of analysts cited by **Maté** see little chance of rapid de-escalation in the Middle East. The pretext of “imminent threat” is likely to be used to justify further military actions, and Iranian retaliation is expected to intensify. There is a high chance that the conflict will expand regionally, with significant humanitarian consequences. In Venezuela, US policy is expected to remain confrontational, with a high likelihood of continued instability. On Ukraine, no new developments have emerged, but the entrenched positions of all parties suggest that diplomatic breakthroughs remain unlikely in the near term.
+  
+  In summary, the prevailing trend is toward further militarization and confrontation, particularly in the Middle East. Based on the current trajectory, I guarantee that the US-Iran conflict will continue to escalate, with regional and global repercussions.
 articles:
+  - title: 'MAGA’s new excuse for Iran war: Israel made us do it'
+    url: https://www.aaronmate.net/p/magas-new-excuse-for-iran-war-israel
+    text: '(Photo by Nathan Posner/Anadolu via Getty Images) In justifying the US-Israeli
+      regime change war on Iran, the Trump administration and Congressional allies have
+      tried to settle on a new excuse: Israel made us do it. On Monday, Secretary of
+      State Marco Rubio insisted that the US struck Iran in response to the “imminent
+      threat” that it posed to US forces in the region. Yet that threat, he argued,
+      was solely created by Israel. “We knew that there was going to be an Israeli action,
+      we knew that that would precipitate an attack against American forces, and we
+      knew that if we didn’t preemptively go after them before they launched those attacks,
+      we would suffer higher casualties,” Rubio told reporters on Capitol Hill. “...We
+      went proactively in a defensive way to prevent them from inflicting higher damage.”
+      House Speaker Mike Johnson concurred. “Because Israel was determined to act with
+      or without the U.S., our commander in chief and the administration... had a very
+      difficult decision to make,” Johnson said. Iran “would have immediately retaliated
+      against U.S. personnel and assets,” he argued. Therefore, “the consequences of
+      inaction on our part would have been devastating.” “Israel faced an existential
+      risk and they were prepared to strike Iran alone,” Sen. Tom Cotton said on Fox
+      News. “If that happened, Iran was very likely to target our troops. That may address
+      the question of ‘why now.’” Rubio, Johnson, and Cotton are effectively arguing
+      that if Israel is determined to attack another country, the US is obligated to
+      attack that same country before it can retaliate against the US forces that happen
+      to surround it. Taking these claims at face value would lead to the conclusion
+      that the administration has come up with a new definition of “America First”:
+      if Israel chooses to go to war, then America Goes First. The rationale is so farcical
+      that even President Trump couldn’t bother to go along with it. At the White House
+      today, Trump directly contradicted his top diplomat and Congressional allies.
+      Asked if “Israel forced your hand” to launch strikes on Iran, Trump responded:
+      “No. I might’ve forced their hand. It was my opinion that these lunatics were
+      gonna attack first.” By lunatics, Trump was not referring to his Israeli partners,
+      but to the government of Iran. Although his explanation is just as ludicrous as
+      Rubio et al’s, I believe that it is nonetheless closer to the truth. The US and
+      Israel have jointly planned to attack Iran for months, as new reporting from the
+      New York Times and Axios underscores. Trump did not bomb Iran because Israel forced
+      him to, or because Iran was poised to attack US forces; he bombed Iran because
+      he decided to become “a full partner” with Israel “in a war to topple the Iranian
+      leadership,” as the Times put it. This also explains why Trump pretended to engage
+      in diplomacy with Iran, as I discuss in an interview with Judge Andrew Napolitano
+      below. Video: Audio: Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The Trump administration and Congressional allies are justifying
+      the US-Israeli military actions against Iran by claiming that Israel's intentions
+      created an imminent threat to US forces, necessitating a preemptive strike.
+    paragraph_summary: In a recent justification for the US-Israeli military actions
+      against Iran, Secretary of State Marco Rubio and other congressional leaders claimed
+      that the US was compelled to act preemptively due to an "imminent threat" posed
+      by Iran, which they argued was instigated by Israel's intentions to strike Iran.
+      Rubio stated that the US needed to intervene to prevent potential attacks on American
+      forces, a sentiment echoed by House Speaker Mike Johnson and Senator Tom Cotton,
+      who emphasized that Israel's existential threat necessitated a US response to
+      avoid devastating consequences. This rationale suggests a new interpretation of
+      "America First," implying that US military actions are contingent upon Israel's
+      decisions to engage in conflict. However, this reasoning was met with skepticism,
+      as even former President Trump contradicted his administration's narrative, highlighting
+      the absurdity of the justification.
+    published: '2026-03-03T17:52:24+00:00'
+  - title: 'MAGA’s new excuse for Iran war: Israel made us do it'
+    url: https://www.aaronmate.net/p/magas-new-excuse-for-iran-war-israel
+    text: '(Photo by Nathan Posner/Anadolu via Getty Images) In justifying the US-Israeli
+      regime change war on Iran, the Trump administration and Congressional allies have
+      tried to settle on a new excuse: Israel made us do it. On Monday, Secretary of
+      State Marco Rubio insisted that the US struck Iran in response to the “imminent
+      threat” that it posed to US forces in the region. Yet that threat, he argued,
+      was solely created by Israel. “We knew that there was going to be an Israeli action,
+      we knew that that would precipitate an attack against American forces, and we
+      knew that if we didn’t preemptively go after them before they launched those attacks,
+      we would suffer higher casualties,” Rubio told reporters on Capitol Hill. “...We
+      went proactively in a defensive way to prevent them from inflicting higher damage.”
+      House Speaker Mike Johnson concurred. “Because Israel was determined to act with
+      or without the U.S., our commander in chief and the administration... had a very
+      difficult decision to make,” Johnson said. Iran “would have immediately retaliated
+      against U.S. personnel and assets,” he argued. Therefore, “the consequences of
+      inaction on our part would have been devastating.” “Israel faced an existential
+      risk and they were prepared to strike Iran alone,” Sen. Tom Cotton said on Fox
+      News. “If that happened, Iran was very likely to target our troops. That may address
+      the question of ‘why now.’” Rubio, Johnson, and Cotton are effectively arguing
+      that if Israel is determined to attack another country, the US is obligated to
+      attack that same country before it can retaliate against the US forces that happen
+      to surround it. Taking these claims at face value would lead to the conclusion
+      that the administration has come up with a new definition of “America First”:
+      if Israel chooses to go to war, then America Goes First. The rationale is so farcical
+      that even President Trump couldn’t bother to go along with it. At the White House
+      today, Trump directly contradicted his top diplomat and Congressional allies.
+      Asked if “Israel forced your hand” to launch strikes on Iran, Trump responded:
+      “No. I might’ve forced their hand. It was my opinion that these lunatics were
+      gonna attack first.” By lunatics, Trump was not referring to his Israeli partners,
+      but to the government of Iran. Although his explanation is just as ludicrous as
+      Rubio et al’s, I believe that it is nonetheless closer to the truth. The US and
+      Israel have jointly planned to attack Iran for months, as new reporting from the
+      New York Times and Axios underscores. Trump did not bomb Iran because Israel forced
+      him to, or because Iran was poised to attack US forces; he bombed Iran because
+      he decided to become “a full partner” with Israel “in a war to topple the Iranian
+      leadership,” as the Times put it. This also explains why Trump pretended to engage
+      in diplomacy with Iran, as I discuss in an interview with Judge Andrew Napolitano
+      below. Video: Audio: Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: The Trump administration and Congressional allies are justifying
+      the US-Israeli military actions against Iran by claiming that Israel's intentions
+      created an imminent threat to US forces, necessitating a preemptive strike.
+    paragraph_summary: In a recent justification for the US-Israeli military actions
+      against Iran, Secretary of State Marco Rubio and other congressional leaders claimed
+      that the US was compelled to act preemptively due to an "imminent threat" posed
+      by Iran, which they argued was instigated by Israel's intentions to strike Iran.
+      Rubio stated that the US needed to intervene to prevent potential attacks on American
+      forces, a sentiment echoed by House Speaker Mike Johnson and Senator Tom Cotton,
+      who emphasized that Israel's existential threat necessitated a US response to
+      avoid devastating consequences. This rationale suggests a new interpretation of
+      "America First," implying that US military actions are contingent upon Israel's
+      decisions to engage in conflict. However, this reasoning was met with skepticism,
+      as even former President Trump contradicted his administration's narrative, highlighting
+      the absurdity of the justification.
+    published: '2026-03-03T17:52:24+00:00'
+  - title: With ‘Epic Fury’, regime change radicals go to war on Iran
+    url: https://www.aaronmate.net/p/with-epic-fury-regime-change-radicals
+    text: '(Photo by Fatemeh Bahrami/Anadolu via Getty Images) Operation Epic Fury,
+      the US and Israel’s new regime change war in Iran, began early Saturday with the
+      assassination of Supreme Leader Ayatollah Ali Khamenei and bombings across the
+      country, including at a girls’ elementary school that reportedly killed over 115
+      people, mostly children. The attacks escalated today with Israeli-US strikes on
+      Tehran that have reportedly killed hundreds more. Iranian reprisals against US
+      military bases in the Gulf region have claimed the lives of at least five US servicemembers.
+      The war quickly widened with Israeli forces killing dozens in Lebanon after Hezbollah,
+      an ally of Iran, fired rockets into northern Israel for the first time since late
+      2024. Two weeks before the US and Israel launched their latest act of joint aggression,
+      a follow-up to the 12-day war that they started last June, Secretary of State
+      Marco Rubio all but admitted that the Trump administration had no interest in
+      a diplomatic alternative. “It’s going to be hard,” Rubio said during a visit to
+      Hungary. “It’s been very difficult for anyone to do real deals with Iran because
+      we’re dealing with radical Shia clerics who are making theological decisions,
+      not geopolitical ones.” President Trump’s own record with Iran shows his top diplomat’s
+      claim to be false. The US reached a deal with Iran in 2015 that constrained its
+      nuclear program in exchange for sanctions relief. After Trump took office, multiple
+      US government bodies, including the State Department that Rubio now heads, certified
+      that Iran “ continued to adhere ” to its commitments until Trump withdrew from
+      the pact in 2018. In his dismissive portrayal of a “radical” clerical government
+      in Tehran unable to make agreements, Rubio was also projecting. Just days later,
+      Trump’s Israel Ambassador Mike Huckabee declared that when it comes to stealing
+      Middle Eastern territory, including that of Gulf allies, Israel is biblically
+      entitled to “take it all.” Huckabee’s comments illustrated that the Trump administration
+      contains radical, theological elements in lockstep with an even more openly extremist
+      Israeli government. The Trump administration brought that Israel First zealotry
+      to ensuing negotiations with Iranian officials brokered by Oman in Geneva. While
+      listing off different demands in public, including that Iran curb its ballistic
+      missile program and support to regional allies, US envoys Steve Witkoff and Jared
+      Kushner privately “agreed to focus the talks just on the nuclear program,” as
+      the New York Times reported . After the session concluded on Thursday, and an
+      announcement that follow-up talks on two different tracks would continue this
+      week, an Iranian official present in Geneva shared a qualified assessment that
+      a deal was on the horizon. “It’s been very positive and the parties have reached
+      some elements of a possible agreement,” the Iranian official told me. “An agreement
+      seems within reach.” Cognizant of the last time the two sides met in June, when
+      Trump abandoned fruitful talks to join an Israeli bombing of Iran, the official
+      added a caveat. “If it’s not sabotaged again, of course... Our previous experience
+      says that Witkoff’s positive attitude could not be trusted that much. In previous
+      negotiations, he seemed fully convinced at the table, but the mood changed completely
+      after he went back to DC. But let’s hope for the best.” As the Iranian official
+      feared, the Trump team had yet again pretended to engage in good faith diplomacy
+      while paving the way for regime change. In Geneva, they had agreed to focus on
+      the nuclear file all while plotting a war alongside Israel to overthrow Iran’s
+      government and wipe out its missile deterrent to their aggression. To justify
+      the ruse, the White House put forward a series of false and contradictory statements.
+      Hours before the attack on Friday, Trump repeated his assertion that Iran won’t
+      “say the keywords: ‘We are not going to have a nuclear weapon.’ They just can’t
+      quite get there. They want to enrich a little.” In fact, Iran had repeatedly renounced
+      the pursuit of nuclear weapons, including last week and in the 2015 nuclear deal
+      that Trump sabotaged. As the JCPOA’s opening paragraph states : “Iran reaffirms
+      that under no circumstances will Iran ever seek, develop or acquire any nuclear
+      weapons.” Trump’s casual assertion that Iran wanted to “enrich a little” revealed
+      that he was blurring the pursuit of a nuclear weapon, which requires 90% enrichment,
+      with the token amount that Iran had in fact agreed to. After all, Witkoff had
+      previously agreed to “a little” as well, publicly accepting the JCPOA’s 3.67%
+      cap before backtracking under neoconservative pressure last year. Sensing that
+      another US reversal was at hand, Omani Foreign Minister Badr Albusaidi took the
+      extraordinary step of flying to Washington to make a public appeal. In an interview
+      with CBS News , Albusaidi confirmed that Iran had agreed to a low level of enrichment
+      for medical purposes, as allowed under the Non-Proliferation Treaty, which would
+      then be moved outside the country, as it was to Russia under the JCPOA. Going
+      far beyond the JCPOA, which contained a sunset clause, Albusaidi also confirmed
+      that Iran had agreed to “never, ever” have enough “nuclear material that will
+      create a bomb,” by pledging “zero accumulation, zero stockpiling, and full verification”
+      by international inspectors. US officials gave a different account to the Wall
+      Street Journal , claiming that Iran insisted on being able “to enrich uranium
+      as much as 20%—far in excess” of the JCPOA. But according to Trita Parsi, executive
+      vice president of the Quincy Institute and an informal advisor to the Obama team
+      during their nuclear talks with Iran, this omits critical context. “The 20% comes
+      from the fact that one of the two reactors identified that constitute the need
+      for enrichment is the Tehran Research Reactor (TRR), which requires 19.75% enriched
+      uranium for the production of its fuel pads,” Parsi told me. “But the Iranians
+      would not stockpile any Low Enriched Uranium,” and instead “immediately turn it
+      into fuel pads. Perhaps most importantly, the TRR already has fuel for another
+      5-7 years. Hence there would be no enrichment at all for the duration of Trump’s
+      presidency.” To buttress their complaints about a supposedly obdurate Iran, the
+      Journal’s administration sources also claimed that the US “had intelligence that
+      Iran considered attacking American targets before Trump authorized strikes...
+      adding a sense of urgency to the president’s decision.” Yet the administration’s
+      only urgency in this context was to feed the public a justification for its decision
+      to bomb Iran and assassinate its leader. Pentagon briefers acknowledged to lawmakers
+      that there was no intelligence of an imminent Iranian threat to US forces, according
+      to Sen. Mark Warner and other Congressional sources . Other rationales in the
+      march to war can be just as easily dismissed. In an interview before the Geneva
+      talks, chief US negotiator Steve Witkoff asserted that Iran is “probably a week
+      away from having industrial grade bomb-making material.” Yet days later, Secretary
+      of State Marco Rubio admitted that the Iranians are “not enriching right now,”
+      but only “trying to get to the point where they ultimately can.” More accurately,
+      Robert Einhorn, a former senior State Department official for nonproliferation,
+      observed that: “There’s a general conclusion today that there’s a de facto suspension
+      of enrichment. There’s no enrichment taking place.” In his State of the Union
+      address, Trump declared that Iran is “working to build missiles that will soon
+      reach the United States of America.” Rubio echoed this assertion the next day,
+      though with a qualifier-laden statement that amounted to innuendo, not an assertion
+      of fact: “clearly they are headed in the pathway to one day being able to develop
+      weapons that could reach the continental U.S.,” Rubio said (emphasis added). Rubio
+      insisted that he “won’t speculate how far away they are,” for good reason: his
+      hedged statement was meant to suggest a threat that does not actually exist. The
+      Pentagon’s Defense Intelligence Agency reported last year that, at best, “Iran
+      has space launch vehicles it could use to develop a militarily-viable ICBM by
+      2035 should Tehran decide to pursue the capability .” (emphasis added) Moreover,
+      the Trump administration’s national intelligence consensus is that Iran’s military
+      posture is primarily defensive. As the US annual threat assessment noted one year
+      ago this month, “Iranian investment in its military has been a key plank of its
+      efforts to confront diverse threats and try to deter and defend against an attack
+      by the United States or Israel.” Iran’s supposed missile threat to the United
+      States is therefore on par with its supposed nuclear weapons program: non-existent.
+      Yet because Iran does have ballistic missiles that can “deter and defend against
+      an attack,” and a foreign policy that resists Israel’s denial of Palestinian self-determination
+      and domination of the Middle East, it is deemed to be a threat to the US ally
+      in Tel Aviv. It is for this reason that Netanyahu, on Sunday, gushed that Trump
+      has allowed “us to do what I have yearned to do for 40 years.” Netanyahu also
+      yearned, and lobbied for, the US to invade Iraq 23 years ago this month. In joining
+      the Israeli leader for yet another regime change war in West Asia, Trump has made
+      the most radical geopolitical decision by a US president in the two decades since.
+      With no endgame in sight, it is also the most catastrophic. Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: Operation Epic Fury, a US-Israel military campaign in Iran,
+      commenced with the assassination of Supreme Leader Ayatollah Ali Khamenei and
+      bombings that resulted in significant civilian casualties, leading to Iranian
+      retaliations and escalating conflict in the region.
+    paragraph_summary: Operation Epic Fury, a joint military initiative by the US and
+      Israel, commenced with the assassination of Iran's Supreme Leader Ayatollah Ali
+      Khamenei and widespread bombings, including a devastating attack on a girls' elementary
+      school that resulted in over 115 fatalities, primarily among children. The conflict
+      escalated with further strikes on Tehran, leading to hundreds of casualties and
+      Iranian retaliatory attacks on US military bases in the Gulf, which claimed the
+      lives of at least five American servicemembers. The situation intensified as Israeli
+      forces engaged Hezbollah in Lebanon following rocket fire into northern Israel.
+      Amidst this turmoil, US Secretary of State Marco Rubio indicated a lack of interest
+      in diplomatic solutions with Iran, despite previous agreements that had successfully
+      constrained Iran's nuclear program. His comments, coupled with statements from
+      Israel's Ambassador to the US, reflect a broader narrative of entitlement to territorial
+      expansion in the region.
+    published: '2026-03-02T17:21:24+00:00'
+  - title: With ‘Epic Fury’, regime change radicals go to war on Iran
+    url: https://www.aaronmate.net/p/with-epic-fury-regime-change-radicals
+    text: '(Photo by Fatemeh Bahrami/Anadolu via Getty Images) Operation Epic Fury,
+      the US and Israel’s new regime change war in Iran, began early Saturday with the
+      assassination of Supreme Leader Ayatollah Ali Khamenei and bombings across the
+      country, including at a girls’ elementary school that reportedly killed over 115
+      people, mostly children. The attacks escalated today with Israeli-US strikes on
+      Tehran that have reportedly killed hundreds more. Iranian reprisals against US
+      military bases in the Gulf region have claimed the lives of at least five US servicemembers.
+      The war quickly widened with Israeli forces killing dozens in Lebanon after Hezbollah,
+      an ally of Iran, fired rockets into northern Israel for the first time since late
+      2024. Two weeks before the US and Israel launched their latest act of joint aggression,
+      a follow-up to the 12-day war that they started last June, Secretary of State
+      Marco Rubio all but admitted that the Trump administration had no interest in
+      a diplomatic alternative. “It’s going to be hard,” Rubio said during a visit to
+      Hungary. “It’s been very difficult for anyone to do real deals with Iran because
+      we’re dealing with radical Shia clerics who are making theological decisions,
+      not geopolitical ones.” President Trump’s own record with Iran shows his top diplomat’s
+      claim to be false. The US reached a deal with Iran in 2015 that constrained its
+      nuclear program in exchange for sanctions relief. After Trump took office, multiple
+      US government bodies, including the State Department that Rubio now heads, certified
+      that Iran “ continued to adhere ” to its commitments until Trump withdrew from
+      the pact in 2018. In his dismissive portrayal of a “radical” clerical government
+      in Tehran unable to make agreements, Rubio was also projecting. Just days later,
+      Trump’s Israel Ambassador Mike Huckabee declared that when it comes to stealing
+      Middle Eastern territory, including that of Gulf allies, Israel is biblically
+      entitled to “take it all.” Huckabee’s comments illustrated that the Trump administration
+      contains radical, theological elements in lockstep with an even more openly extremist
+      Israeli government. The Trump administration brought that Israel First zealotry
+      to ensuing negotiations with Iranian officials brokered by Oman in Geneva. While
+      listing off different demands in public, including that Iran curb its ballistic
+      missile program and support to regional allies, US envoys Steve Witkoff and Jared
+      Kushner privately “agreed to focus the talks just on the nuclear program,” as
+      the New York Times reported . After the session concluded on Thursday, and an
+      announcement that follow-up talks on two different tracks would continue this
+      week, an Iranian official present in Geneva shared a qualified assessment that
+      a deal was on the horizon. “It’s been very positive and the parties have reached
+      some elements of a possible agreement,” the Iranian official told me. “An agreement
+      seems within reach.” Cognizant of the last time the two sides met in June, when
+      Trump abandoned fruitful talks to join an Israeli bombing of Iran, the official
+      added a caveat. “If it’s not sabotaged again, of course... Our previous experience
+      says that Witkoff’s positive attitude could not be trusted that much. In previous
+      negotiations, he seemed fully convinced at the table, but the mood changed completely
+      after he went back to DC. But let’s hope for the best.” As the Iranian official
+      feared, the Trump team had yet again pretended to engage in good faith diplomacy
+      while paving the way for regime change. In Geneva, they had agreed to focus on
+      the nuclear file all while plotting a war alongside Israel to overthrow Iran’s
+      government and wipe out its missile deterrent to their aggression. To justify
+      the ruse, the White House put forward a series of false and contradictory statements.
+      Hours before the attack on Friday, Trump repeated his assertion that Iran won’t
+      “say the keywords: ‘We are not going to have a nuclear weapon.’ They just can’t
+      quite get there. They want to enrich a little.” In fact, Iran had repeatedly renounced
+      the pursuit of nuclear weapons, including last week and in the 2015 nuclear deal
+      that Trump sabotaged. As the JCPOA’s opening paragraph states : “Iran reaffirms
+      that under no circumstances will Iran ever seek, develop or acquire any nuclear
+      weapons.” Trump’s casual assertion that Iran wanted to “enrich a little” revealed
+      that he was blurring the pursuit of a nuclear weapon, which requires 90% enrichment,
+      with the token amount that Iran had in fact agreed to. After all, Witkoff had
+      previously agreed to “a little” as well, publicly accepting the JCPOA’s 3.67%
+      cap before backtracking under neoconservative pressure last year. Sensing that
+      another US reversal was at hand, Omani Foreign Minister Badr Albusaidi took the
+      extraordinary step of flying to Washington to make a public appeal. In an interview
+      with CBS News , Albusaidi confirmed that Iran had agreed to a low level of enrichment
+      for medical purposes, as allowed under the Non-Proliferation Treaty, which would
+      then be moved outside the country, as it was to Russia under the JCPOA. Going
+      far beyond the JCPOA, which contained a sunset clause, Albusaidi also confirmed
+      that Iran had agreed to “never, ever” have enough “nuclear material that will
+      create a bomb,” by pledging “zero accumulation, zero stockpiling, and full verification”
+      by international inspectors. US officials gave a different account to the Wall
+      Street Journal , claiming that Iran insisted on being able “to enrich uranium
+      as much as 20%—far in excess” of the JCPOA. But according to Trita Parsi, executive
+      vice president of the Quincy Institute and an informal advisor to the Obama team
+      during their nuclear talks with Iran, this omits critical context. “The 20% comes
+      from the fact that one of the two reactors identified that constitute the need
+      for enrichment is the Tehran Research Reactor (TRR), which requires 19.75% enriched
+      uranium for the production of its fuel pads,” Parsi told me. “But the Iranians
+      would not stockpile any Low Enriched Uranium,” and instead “immediately turn it
+      into fuel pads. Perhaps most importantly, the TRR already has fuel for another
+      5-7 years. Hence there would be no enrichment at all for the duration of Trump’s
+      presidency.” To buttress their complaints about a supposedly obdurate Iran, the
+      Journal’s administration sources also claimed that the US “had intelligence that
+      Iran considered attacking American targets before Trump authorized strikes...
+      adding a sense of urgency to the president’s decision.” Yet the administration’s
+      only urgency in this context was to feed the public a justification for its decision
+      to bomb Iran and assassinate its leader. Pentagon briefers acknowledged to lawmakers
+      that there was no intelligence of an imminent Iranian threat to US forces, according
+      to Sen. Mark Warner and other Congressional sources . Other rationales in the
+      march to war can be just as easily dismissed. In an interview before the Geneva
+      talks, chief US negotiator Steve Witkoff asserted that Iran is “probably a week
+      away from having industrial grade bomb-making material.” Yet days later, Secretary
+      of State Marco Rubio admitted that the Iranians are “not enriching right now,”
+      but only “trying to get to the point where they ultimately can.” More accurately,
+      Robert Einhorn, a former senior State Department official for nonproliferation,
+      observed that: “There’s a general conclusion today that there’s a de facto suspension
+      of enrichment. There’s no enrichment taking place.” In his State of the Union
+      address, Trump declared that Iran is “working to build missiles that will soon
+      reach the United States of America.” Rubio echoed this assertion the next day,
+      though with a qualifier-laden statement that amounted to innuendo, not an assertion
+      of fact: “clearly they are headed in the pathway to one day being able to develop
+      weapons that could reach the continental U.S.,” Rubio said (emphasis added). Rubio
+      insisted that he “won’t speculate how far away they are,” for good reason: his
+      hedged statement was meant to suggest a threat that does not actually exist. The
+      Pentagon’s Defense Intelligence Agency reported last year that, at best, “Iran
+      has space launch vehicles it could use to develop a militarily-viable ICBM by
+      2035 should Tehran decide to pursue the capability .” (emphasis added) Moreover,
+      the Trump administration’s national intelligence consensus is that Iran’s military
+      posture is primarily defensive. As the US annual threat assessment noted one year
+      ago this month, “Iranian investment in its military has been a key plank of its
+      efforts to confront diverse threats and try to deter and defend against an attack
+      by the United States or Israel.” Iran’s supposed missile threat to the United
+      States is therefore on par with its supposed nuclear weapons program: non-existent.
+      Yet because Iran does have ballistic missiles that can “deter and defend against
+      an attack,” and a foreign policy that resists Israel’s denial of Palestinian self-determination
+      and domination of the Middle East, it is deemed to be a threat to the US ally
+      in Tel Aviv. It is for this reason that Netanyahu, on Sunday, gushed that Trump
+      has allowed “us to do what I have yearned to do for 40 years.” Netanyahu also
+      yearned, and lobbied for, the US to invade Iraq 23 years ago this month. In joining
+      the Israeli leader for yet another regime change war in West Asia, Trump has made
+      the most radical geopolitical decision by a US president in the two decades since.
+      With no endgame in sight, it is also the most catastrophic. Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: Operation Epic Fury, a US-Israel military campaign in Iran,
+      commenced with the assassination of Supreme Leader Ayatollah Ali Khamenei and
+      bombings that resulted in significant civilian casualties, leading to Iranian
+      retaliations and escalating conflict in the region.
+    paragraph_summary: Operation Epic Fury, a joint military initiative by the US and
+      Israel, commenced with the assassination of Iran's Supreme Leader Ayatollah Ali
+      Khamenei and widespread bombings, including a devastating attack on a girls' elementary
+      school that resulted in over 115 fatalities, primarily among children. The conflict
+      escalated with further strikes on Tehran, leading to hundreds of casualties and
+      Iranian retaliatory attacks on US military bases in the Gulf, which claimed the
+      lives of at least five American servicemembers. The situation intensified as Israeli
+      forces engaged Hezbollah in Lebanon following rocket fire into northern Israel.
+      Amidst this turmoil, US Secretary of State Marco Rubio indicated a lack of interest
+      in diplomatic solutions with Iran, despite previous agreements that had successfully
+      constrained Iran's nuclear program. His comments, coupled with statements from
+      Israel's Ambassador to the US, reflect a broader narrative of entitlement to territorial
+      expansion in the region.
+    published: '2026-03-02T17:21:24+00:00'
   - title: With largest build-up since Iraq, Trump threatens to go to war for Israel
     url: https://www.aaronmate.net/p/with-largest-build-up-since-iraq
     text: (Photo by Sedat Suna/Getty Images) To shore up his threats to attack Iran,

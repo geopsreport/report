@@ -8,16 +8,347 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  As of February 25, 2026, the geopolitical landscape remains shaped by persistent tensions between the United States, Europe, Russia, and the Middle East, with recent developments highlighting the entrenched challenges to peace and stability.
+  Tensions in the Middle East have escalated sharply following what **Jeffrey Sachs** describes as an "illegal war" initiated by the United States and Israel against Iran. This recent development, outlined in Sachs' March 2 analysis, is not only seen as a direct assault on Iranian sovereignty but also as a grave undermining of the United Nations Charter and international law. According to Sachs, the pattern of U.S. aggression—now with overt military action—marks a dangerous precedent, with Washington's allies complicit in shifting blame onto Iran rather than addressing the legality of the strikes.
   
-  The most notable new development is the ongoing failure of Europe to engage constructively with Russia. **Jeffrey Sachs** underscores that this is not a recent phenomenon, but rather a "two-century failure" rooted in structural Russophobia and an unwillingness to recognize Russia's legitimate security concerns. This historical pattern, Sachs argues, has directly contributed to the current war in Ukraine and the collapse of diplomatic relations. He warns that Europe's continued rejection of peace initiatives risks further self-defeating consequences, both economically and in terms of regional security.
+  This escalation comes against a backdrop of repeated warnings from independent analysts about the risks of U.S. hybrid warfare, which includes economic sanctions, military strikes, and information campaigns. Sachs has previously argued that such tactics, while falling short of all-out war, have destabilized entire regions and contributed to humanitarian crises, particularly in Iran and Venezuela.
   
-  On the Middle Eastern front, diplomatic efforts remain stymied by U.S. policy. Sachs, in his recent open letter to the UN Security Council, cautions that "the U.S. government's threats against Iran, which violate international law and undermine diplomatic efforts, risk escalating into a major regional war." He calls for a renewed commitment to the Joint Comprehensive Plan of Action (JCPOA) and stresses the importance of addressing the Palestinian statehood issue as a prerequisite for lasting peace. The Iranian government, for its part, has reiterated its comprehensive peace proposal, emphasizing accountability for Israeli actions and a diplomatic framework that includes Palestinian statehood.
+  On the diplomatic front, Iran has recently put forward a comprehensive peace proposal, as reported by Sachs last month, emphasizing the need for a renewed nuclear agreement and a resolution to the Palestinian statehood issue. However, the latest U.S.-Israeli actions appear to have sidelined these diplomatic overtures, raising concerns about the prospects for de-escalation.
   
-  Meanwhile, U.S. reliance on hybrid warfare—sanctions, economic pressure, and covert operations—continues to destabilize countries like Iran and Venezuela. Sachs highlights that these tactics, while avoiding direct military confrontation, have led to widespread suffering and prompted a global search for alternatives to the U.S. dollar in international trade.
-  
-  Looking ahead, the prevailing trends suggest that without a fundamental shift in U.S. and European policy—toward genuine diplomacy and respect for international law—conflict and instability are likely to persist. Based on the current trajectory and the historical context provided by Sachs, I guarantee that Europe will continue to face economic and security setbacks unless it rethinks its approach to Russia. There is a high chance that U.S. actions in the Middle East will further isolate Washington diplomatically and could quite likely trigger broader regional escalation if diplomatic avenues remain blocked.
+  Looking ahead, the majority of independent analysts, including Sachs, predict that unless there is a significant shift toward diplomacy and adherence to international law, the region is at high risk of further destabilization. The likelihood of a broader regional conflict is now "quite likely," given the current trajectory of U.S. and Israeli policies. Sachs concludes that, without a renewed commitment to multilateral diplomacy and respect for the UN Charter, global stability—and the future security of both Israel and the wider Middle East—remain in jeopardy.
 articles:
+  - title: This Illegal US-Israeli Attack on Iran Is Also an Assault on the United Nations
+    url: https://www.commondreams.org/opinion/united-nations-israel-us-attack-iran
+    text: 'On February 16, 2026, one of us (Jeffrey Sachs) sent a letter to the UN Security
+      Council warning that the United States was on the verge of tearing up the United
+      Nations Charter. That warning has now come to pass. The United States and Israel
+      have launched an unprovoked war against Iran in flagrant violation of Article
+      2(4) of the Charter, without authorization from the Security Council, and without
+      any legitimate claim of self-defense under Article 51. They are trying to kill
+      the UN Charter and the international rule of law, but they will fail.
+
+
+      At the Security Council on February 28, 2026, the US and its allies directed their
+      condemnation not at the American and Israeli aggression, but at Iran. One US ally
+      after the next condemned Iran for its retaliatory attacks yet absurdly failed
+      to condemn the illegal and unprovoked US-Israeli attack on Iran. This performance
+      by these countries was disgraceful and turned reality completely upside down.
+
+
+      The joint US-Israeli attacks were described by Trump as necessary because Iran
+      “rejected every opportunity to renounce their nuclear ambitions, and we can''t
+      take it anymore.” This is of course a flat lie. As the letter of February 16 recounted,
+      Iran agreed a decade ago to a nuclear deal, the Joint Comprehensive Plan of Action
+      (JCPOA) that was adopted by the UN Security Council in Resolution 2231. It was
+      Trump who ripped up the agreement in 2018. In June 2025, Israel bombed Iran in
+      the midst of US-Iran negotiations. This time too, the Israel-US war plans were
+      set weeks ago when Netanyahu met with Trump, and the negotiations underway between
+      the US and Iran were a charade. This seems to be the new modus operandi of the
+      US: start negotiations and then aim to murder the counterparts.
+
+
+      It is easy to understand why the US allies behave in the embarrassing and self-abasing
+      way they did at the UN Security Council. In addition to the United States, eight
+      of the other fourteen Council members host US military bases or grant the US military
+      access to local bases: Bahrain, Colombia, Denmark, France, Greece, Latvia, Panama,
+      and the United Kingdom. These countries are not fully sovereign. They are partially
+      governed by the US. The US military bases house CIA operations, and the host countries
+      constantly look over their shoulder to try to avoid US subversion in their own
+      countries.
+
+
+      As Henry Kissinger famously said, “It may be dangerous to be America’s enemy,
+      but to be its friend is fatal.” We can add that to host US military bases and
+      CIA operations is to turn your country into a vassal state.
+
+
+      As an absurd but telling example, the Danish ambassador parroted every US talking
+      point, pointing her finger at Iran for its aggression as if Iran had not been
+      attacked by the US and Israel. She completely forgot that such humiliating vassalage
+      to the US will not play well for Denmark if the US occupies Greenland.
+
+
+      The truthful voices at the Security Council came from the countries not occupied
+      by the United States. Russia explained correctly that the so-called West (that
+      is, the countries occupied by the US) is engaged in victim-blaming when it points
+      its finger at Iran. China reminded the Council that the crisis began with the
+      US and Israeli attacks on Iran, not with Iran’s retaliation. Somalia’s ambassador,
+      speaking on behalf of several African member states, truthfully portrayed the
+      source of this recent escalation. The UN Representative of the League of Arab
+      States spoke brilliantly about the root cause of Israel’s mad aggression: the
+      denial of rights to Palestinian people, and Israel’s use of mass murder and regional
+      war to prevent the emergence of a State of Palestine.
+
+
+      When Iran retaliates against US military bases in the Gulf, it is exercising its
+      inherent right of self-defense under Article 51 of the Charter. We must remember
+      that the US and Israel are openly and repeatedly assassinating Iran’s leaders,
+      with the aim of overthrowing its government. When states murder a foreign head
+      of state and attempt to destroy the government, the target of those threats is
+      entitled under international law to defend itself.
+
+
+      The US-Israeli bombing murdered not only Iran’s Supreme Leader and several top
+      government officials, but also more than 140 young girls in their school in Minab.
+      These young children are the victims of a horrific war crime. The countries today
+      that gave a pass to the United States and Israel for these killings—notably Denmark,
+      France, Latvia, the United Kingdom, and of course the US —are also complicit in
+      this war crime.
+
+
+      This UN Security Council emergency meeting will likely be remembered as the day
+      the United Nations ceased to function from its headquarters on American soil.
+      An international organization dedicated to the peaceful settlement of disputes
+      cannot credibly operate from a country that wages illegal wars, threatens member
+      states with annihilation, and treats UN Security Council resolutions as disposable
+      instruments of convenience. For the UN to survive, and we need it to survive,
+      it will need several homes around the world—in Brazil, China, India, South Africa,
+      and others—honoring the true multipolarity of our world.
+
+
+      Let us be clear about what the United States and Israel are pursuing. The US objective
+      is not the security of the American people. The objective is global hegemony.
+      The attempt is to destroy the UN and the international rule of law—an attempt
+      that will fail. Israel’s objective is to establish a Greater Israel, destroy the
+      Palestinian people, and assert its hegemony over hundreds of millions of Arabs
+      across the Middle East (from the Nile to the Euphrates, as US Ambassador Mike
+      Huckabee recently asserted ).
+
+
+      The United States’ delusional efforts at global hegemony are proceeding region
+      by region. The US has recently claimed, in a wholly twisted supposed revival of
+      the Monroe Doctrine, that it controls the Western Hemisphere and can dictate how
+      Latin American countries conduct their economic and political affairs. The US
+      kidnapped the sitting Venezuelan president to prove the point, and it now threatens
+      to overthrow the Cuban government as well.
+
+
+      Today’s war against Iran aims to prove that the US similarly owns the Middle East.
+      The war is part of a 30-year campaign, initiated by the Clean Break doctrine,
+      to overthrow all governments that oppose US and Israeli hegemony in the region.
+      Those joint Israel-US wars have included the genocide in Gaza, the occupation
+      of the West Bank and the decades of wars and regime-change operations in Iran,
+      Iraq, Lebanon, Libya, Somalia, Sudan, Syria, and Yemen.
+
+
+      One part of the US global plan is to commandeer the world’s oil exports and to
+      weaken China and Russia in the process. The US seizure of Venezuela was designed
+      to ensure American control of that country’s oil exports, especially to control
+      the flow of oil to China. US sanctions on Russia aim to prevent Russian oil from
+      reaching India and China. Now the US aims to stop the flow of Iran’s oil to China.
+      More broadly, the US aims to control the entire Gulf region plus Iran to maintain
+      its imperial dominance.
+
+
+      The international order that Franklin and Eleanor Roosevelt helped to build after
+      the catastrophe of WWII was founded on a simple and profound idea – that law and
+      respect, not force, should govern relations among states. That idea is now being
+      destroyed by the very nation that did most to promote it in founding the UN. The
+      irony is bitter beyond measure.
+
+
+      The truth is that the devastation of the war will not directly affect the so-called
+      West: their children will not suffer traumas or death, and their countries will
+      not be set ablaze. The victims of this attack are the people of the Middle East.
+      They are the expendable ones who suffer from Western arrogance, abuse of power,
+      and addiction to war.
+
+
+      We close with two observations. First, the United States will not achieve global
+      hegemony or kill the UN. The world is too large, too diverse, and too determined
+      to resist domination by any single power, much less one with 4 percent of the
+      world’s population. The world outside of the US and the countries it occupies
+      want the UN to live and thrive. The US attempt will surely fail, but it may cause
+      immense suffering before it does.
+
+
+      Second, if Israel continues its addiction to war and occupation, it too will not
+      survive. That addiction represents a mix of theocracy and post-traumatic stress.
+      Part of Israel believes that it is the biblical kingdom of the 5th century BC.
+      The other part lives in the traumatic memory of the Holocaust, and so is determined
+      to kill any perceived adversary rather than learn to live together with it in
+      peace. The Israeli Ambassador’s twisted defense of Israel’s brazen attack on Iran,
+      as usual, cited the Bible and Auschwitz as the two justifications. These are Israel’s
+      two perennial references, but not the real world of today.
+
+
+      A state that depends on permanent war, permanent occupation and slaughter of the
+      Palestinians, and the indefinite subjugation of millions of people has no viable
+      future, and the policies that the United States is now pursuing on Israel’s behalf
+      will accelerate rather than prevent that outcome.
+
+
+      The two-state solution, which the Council has endorsed repeatedly, offers Israel
+      a path to peace. Tragically Israel rejects that. The result, eventually, will
+      be the end of Israel itself in its current form, especially as the US population
+      is rapidly turning against Israel’s violent theocracy and towards the cause of
+      Palestine. Perhaps there will be one democratic state for both Arabs and Jews
+      living in peace, together, with an end of apartheid rule.
+
+
+      These are harsh truths, but emergencies demand honesty. The UN is being murdered
+      by Israel and the United States. The Security Council must rouse itself from their
+      military occupation by the US, and remember that they are the stewards of the
+      UN Charter’s promise to maintain international peace and security.'
+    one_sentence_summary: The article argues that the United States and Israel have
+      initiated an illegal war against Iran, undermining the UN Charter and international
+      law, while their allies shamefully shift blame onto Iran, highlighting a broader
+      pattern of U.S. aggression and imperialism that threatens global stability and
+      the future of Israel itself.
+    paragraph_summary: On February 16, 2026, Jeffrey Sachs warned the UN Security Council
+      that the United States was on the brink of violating the UN Charter, a prediction
+      that materialized when the US and Israel launched an unprovoked war against Iran,
+      disregarding international law and without Security Council authorization. Despite
+      the aggression, the Security Council condemned Iran for its retaliatory actions,
+      illustrating a troubling inversion of reality influenced by US dominance over
+      its allies, many of which host US military bases. The article critiques the US
+      and Israel's motives, asserting that their actions aim for global hegemony and
+      the establishment of a Greater Israel, while undermining the UN's foundational
+      principles of law and respect among nations. It highlights the devastating impact
+      of the war on the Middle East, emphasizes the need for a genuine two-state solution
+      for peace, and warns that the current trajectory of US and Israeli policies could
+      lead to their own downfall. Ultimately, the article calls for a revitalization
+      of the UN's role in maintaining international peace and security, free from US
+      military influence.
+    published: '2026-03-02T11:10:06+00:00'
+  - title: 'President Trump: Give Back the Money and Stop Grabbing More'
+    url: https://www.commondreams.org/opinion/trump-give-back-tariff-money
+    text: 'President Donald Trump, you took funds from the American people that were
+      never yours to take. Give them back, and end the abuse of power.
+
+
+      Friday, the Supreme Court confirmed what many of us argued from the beginning:
+      Your sweeping tariffs were an unlawful overreach of executive power. The Constitution
+      gives Congress , not the president, the authority to set tariffs. Yet you invoked
+      emergency powers you do not have, in response to a supposed national emergency
+      that does not exist. This was a power grab, and the court said so.
+
+
+      President Trump, your tariff regime was illegal, unfair, and detrimental to the
+      American people. You also grossly misrepresented the facts to the American people
+      by claiming that foreign countries were paying. They were not. American families
+      paid.
+
+
+      Over the past year, roughly $140 billion in tariff revenue was collected at US
+      ports. Economists at the Federal Reserve Bank of New York , the Kiel Institute
+      , and other independent research institutions reached the same conclusion, that
+      the burden of the tariffs fell overwhelmingly on American importers, businesses,
+      and consumers. Foreign exporters barely reduced their prices, so the tariffs were
+      passed on to Americans and have shown up as higher prices for consumers and businesses.
+
+
+      President Trump, you asked Americans to believe that you stood with working people.
+      Instead, you imposed illegal taxes on them and gave large tax cuts to the richest
+      Americans.
+
+
+      During the past year, on average, American households paid roughly $1,000 or more.
+      For families living paycheck to paycheck, that is not abstract. That is rent stretched
+      to the breaking point. That is groceries rising in price while wages fail to keep
+      up. The working-class Americans who believed your promises were the ones who bore
+      the cost of this power grab.
+
+
+      Each claim you made in favor of the tariffs was unsound and proven to be so. You
+      said that the tariffs would slash the trade deficit. This was wrong because the
+      US trade deficits reflect the low US saving rate, and especially the large US
+      budget deficits. In fact, the US goods deficit in 2025 was $1.241 trillion , worse
+      than the 2024 deficit of $1.215 trillion. You said that you would restore manufacturing
+      jobs. Yet employment in manufacturing in January 2026 was 12.590 million , compared
+      with 12.673 million in January 2025, a decline of 83,000 jobs year over year.
+
+
+      At the same time, you championed and extended tax cuts that disproportionately
+      benefited the wealthiest households and large corporations. Independent studies
+      have repeatedly shown that the largest permanent gains from those tax cuts flowed
+      to the top of the income ladder. Your administration’s approach has effectively
+      given tax relief for the rich, covered in part by regressive tariffs hitting the
+      working class and poor. And much of your tax cuts are paid for by red ink, debts
+      pushed into the future, that will be borne by today’s young people in later years.
+
+
+      Working families have paid more at the checkout counter. Wealthy households have
+      received large tax cuts. And young Americans have been burdened with more debts.
+
+
+      And now comes insult added to injury. Following the Supreme Court’s ruling, Treasury
+      Secretary Scott Bessent made clear the administration’s position. Speaking at
+      the Economic Club of Dallas, he said , “I got a feeling the American people won’t
+      see it,” referring to the prospect of tariff refund checks. He instead dismissed
+      refunds as “the ultimate corporate welfare,” arguing that any repayments would
+      go to importers rather than consumers.
+
+
+      The White House and Congress can and should provide relief to American families
+      who bore the costs of these illegal tariffs. The administration has the responsibility
+      to design such relief. You took the money illegally; now you should return it.
+
+
+      Astoundingly, in response to the Supreme Court decision, you have just announced
+      a new across-the-board 15% tariff under Section 122 of the Trade Act, this time
+      supposedly justified on emergency balance-of-payments grounds. Section 122 might
+      possibly give you the temporary authority, for up to 150 days, to impose such
+      a tariff in response to serious balance-of-payments difficulties. Here too, your
+      authority is doubtful because the US is not in a balance-of-payments crisis. Yet
+      even should the courts find that you have the authority, you should not use it.
+
+
+      A 15% across-the-board tariff will simply continue the same regressive tax on
+      the American people that you illegally implemented with the claim of emergency
+      powers. It would once again mean higher prices on food, clothing, electronics,
+      building materials, and countless everyday essentials. It would once again fall
+      hardest on working families who spend the largest share of their income on such
+      goods.
+
+
+      An unlawful regressive tax cannot be remedied by replacing it with a possibly
+      lawful and temporary regressive tax. It’s quite possible that the 15% tariff will
+      be struck down too.
+
+
+      The United States needs real tax reform. Our tax code has become a distorted mess,
+      shaped over decades by presidents of both parties to favor capital over labor,
+      wealth over work, and obscurity over fairness. The tax code needs progressivity.
+      It needs to close loopholes that allow the wealthiest Americans and multinational
+      corporations to avoid paying their fair share of taxes, especially in an era when
+      eleven Silicon Valley centibillionaires have $2.6 trillion in personal wealth.
+
+
+      Working Americans are not props in a political narrative. They are parents choosing
+      between medical care and rent. They are families who were told someone else would
+      pay, only to discover the higher prices in their own shopping carts.
+
+
+      President Trump, you asked Americans to believe that you stood with working people.
+      Instead, you imposed illegal taxes on them and gave large tax cuts to the richest
+      Americans. Now your Treasury secretary says the government will keep the money
+      you took, and you have promised to continue to take this money in a different
+      way.
+
+
+      Return the $140 billion that was taken under unlawful authority. Do not impose
+      a new 15% tax on American households. Fix the tax code honestly and transparently
+      through Congress.
+
+
+      The Constitution demands accountability. Justice demands restitution of the funds
+      and an end to your tariff grab. The American people deserve better.'
+    one_sentence_summary: The article criticizes President Trump for unlawfully imposing
+      tariffs that burdened American families while benefiting the wealthy, urges him
+      to return the $140 billion collected from these tariffs, and calls for genuine
+      tax reform that prioritizes working Americans.
+    paragraph_summary: The article criticizes President Donald Trump's use of tariffs,
+      which the Supreme Court deemed an unlawful overreach of executive power, arguing
+      that he misrepresented the impact of these tariffs on American families, who ultimately
+      bore the financial burden. It highlights that the tariffs, which generated approximately
+      $140 billion, were passed on to consumers rather than foreign exporters, resulting
+      in higher prices for essential goods and disproportionately affecting working-class
+      Americans. The author calls for the return of the funds collected through these
+      illegal tariffs and urges the administration to avoid imposing a new 15% tariff,
+      which would continue the financial strain on households. The piece advocates for
+      genuine tax reform that prioritizes fairness and accountability, emphasizing that
+      working Americans deserve better treatment and transparency from their government.
+    published: '2026-02-23T16:01:25+00:00'
   - title: 'European Russophobia and Europe’s Rejection of Peace: A Two-Century Failure'
     url: https://cirsd.org/horizon-article/european-russophobia-and-europes-rejection-of-peace-a-two-century-failure/
     text: 'European Russophobia and Europe’s Rejection of Peace: A Two-Century Failure

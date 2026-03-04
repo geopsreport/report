@@ -7,17 +7,744 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  U.S. military intervention in the Middle East remains a focal point of global attention, with recent developments underscoring persistent skepticism about Washington's intentions and effectiveness. As tensions escalate, independent analysts continue to highlight contradictions and recurring patterns in American foreign policy.
+  The US-Israeli military campaign against Iran has entered a new and more brutal phase, with recent reports highlighting the intensification of direct attacks on Iranian soil. This escalation follows the assassination of Ayatollah Ali Khamenei and subsequent Iranian retaliatory strikes on US and Israeli targets. The conflict has already resulted in significant casualties, rising oil prices, and mounting international concern.
   
-  The latest satirical critique from **Caitlin Johnstone** (Feb 25) targets the prevailing optimism among U.S. policymakers and commentators who insist that the current military intervention in the region will be fundamentally different from past failures. Johnstone lampoons these justifications, pointing out that "every time, the same promises are made, and every time, the results are catastrophic." This reflects a broader consensus among independent observers that lessons from previous interventions in Iraq, Libya, and Afghanistan remain unheeded.
+  The latest development, as detailed by **Caitlin Johnstone** referencing Drop Site News, is a devastating double-tap airstrike by the US-Israel alliance in Tehran. Eyewitness accounts describe scenes of chaos and severe civilian injuries, underscoring the growing humanitarian toll of the conflict. These direct strikes on Iran’s capital mark a notable escalation, moving beyond military targets to urban centers and raising the risk of further civilian harm.
   
-  Meanwhile, the situation in Iraq further exposes the gap between U.S. rhetoric and actions. According to **Caitlin Johnstone** (Feb 24), the U.S. is actively pressuring Iraqi political actors to prevent former Prime Minister Nouri al-Maliki from returning to power. This interference, Johnstone argues, "undermines any claim that the U.S. is genuinely interested in fostering democracy in the region." The contradiction between stated democratic ideals and realpolitik maneuvering is becoming increasingly evident, fueling local resentment and skepticism.
+  Meanwhile, the US government continues to frame Iranian retaliatory actions as “unprovoked,” despite the sequence of events leading up to the current hostilities. **Johnstone** notes that former President Trump has publicly predicted a protracted conflict with continued American casualties, placing responsibility for the deaths of US soldiers on both himself and Israeli leadership. This admission, while unusual, reflects the entrenched positions on both sides and the lack of a clear path to de-escalation.
   
-  On the Iran front, U.S. envoy Steve Witkoff's recent assertion that Iran is "probably a week away" from acquiring nuclear bomb materials has been widely dismissed as unsubstantiated, even by Israeli media. As **Johnstone** notes (Feb 23), such claims contribute to a climate of misinformation, heightening regional tensions without offering credible evidence. The majority view among analysts is that these warnings serve more as pretexts for escalation than as accurate assessments of Iran's capabilities.
+  Looking at broader trends, skepticism remains high regarding the justifications for war, with many analysts and media voices questioning the narrative of an imminent Iranian nuclear threat and the motives behind the military campaign. The majority view across independent sources is that the conflict is likely to continue escalating, with little sign of diplomatic engagement or meaningful opposition from US political leaders.
   
-  **Trends and Predictions:**  
-  The prevailing trend is a cycle of U.S. interventions justified by familiar narratives, with little indication of strategic innovation or genuine commitment to democratic principles. Regional actors increasingly view American involvement as self-serving and destabilizing. Given the pattern of behavior and the lack of substantive policy shifts, it is quite likely that the current intervention will yield outcomes similar to previous campaigns—namely, prolonged instability and humanitarian costs. Unless there is a marked change in approach, I guarantee that skepticism and resistance to U.S. actions in the Middle East will only intensify in the coming weeks.
+  Given the current trajectory, there is a high chance that the humanitarian situation in Iran will deteriorate further, and that the war will persist for the foreseeable future. I guarantee that unless there is a dramatic shift in US or Israeli policy, or significant international intervention, the cycle of violence and retaliation will most definitely continue.
 articles:
+  - title: If Westerners Could Wrap Their Minds Around What War Really Is
+    url: https://www.caitlinjohnst.one/p/if-westerners-could-wrap-their-minds
+    text: 'Reading by Tim Foley : Subscribe now Drop Site News has a new article out
+      which includes incredibly disturbing witness accounts of the carnage from a double-tap
+      airstrike by the US-Israel alliance on a densely populated part of Tehran. Here’s
+      an excerpt: “We were sitting here around 8:00–8:30 p.m. and suddenly there was
+      the noise and explosion. We got up and a few people ran away. We turned around
+      to get our belongings and we saw that blood was spraying everywhere. Someone’s
+      hand had fallen on the floor, a head had fallen on the floor,” said Shahin, a
+      witness who had been at the cafe and asked to be identified by first name only.
+      “There were scalps torn off, hands severed, a few people were laying here all
+      cut up and two people were martyred.” … “One hit and it wasn’t that bad but when
+      the second one hit, suddenly everything exploded. The windows all shattered. Whoever
+      had hookahs were thrown to the floor,” Shahin said. “One of my friends whom I
+      don’t know that well he was sitting here. His hookah was in his hands until the
+      last moment. He was severed in half. Half of him was thrown to the side. I put
+      him back together and placed him where he was. A piece of his brain was thrown
+      here on the floor.” https://x.com/jeremyscahill/status/2028603403648032879 War
+      is the worst thing in the world. Westerners talk about it like it’s a fucking
+      video game, like “hurr durr, we just go in there and achieve our objectives and
+      win,” when really war means shredding human bodies to bits. Children burning to
+      death in front of their parents. People holding their own guts in their hands
+      as their life slowly slips away. People getting trapped under rubble and dying
+      excruciatingly slow deaths of suffocation or dehydration. People picking up pieces
+      of their beloved family members. Westerners are able to hold this compartmentalized
+      video game mentality about war because war isn’t something that happens to us.
+      We’ve never had bombs dropped on our neighborhoods. We’ve never had the experience
+      of seeing a severed hand on the ground after an explosion and trying to figure
+      out who it belonged to. We’ve never had the experience of seeing our child’s shredded
+      body after a blast and thinking about how we’d carefully helped them dress that
+      precious body for school just hours before. We just see the movies. The propagandistic
+      war documentaries. The sanitized news reports. It’s not real to us. It’s not personal.
+      It’s just this cutesy Hollywood image of sexy Good Guys doing flips and spin-kicking
+      evil Bad Guys off cliffs. You know this is true, because if it wasn’t then nobody
+      would support US wars. If westerners had an actual, visceral understanding of
+      what war really is and what it actually means, and if they could truly, deeply
+      grasp that the people on the receiving end of those airstrikes are human beings
+      just like them, there’s no way they’d support inflicting such nightmares upon
+      their fellow man. Which is why everything in our civilization is aimed at hiding
+      that reality from us. War is made to look heroic and glamorous. Middle easterners
+      are framed as deranged subhuman savages. The flesh-and-bone consequences of western
+      warmongering are hidden from public view as much as possible. They need to do
+      this because the western empire depends on war. War is the glue that holds the
+      empire together. They need the mass-scale bloodshed to continue, and they need
+      the public to provide no resistance to the bloodshed. The empire cannot exist
+      without war. Peace cannot exist without the removal of the empire. You watch these
+      bespectacled pundits and pampered politicians babbling about war the way they’d
+      talk about their plans to remodel their kitchen or take a trip to Paris, and you
+      just know if actual war ever showed up on their doorstep they’d literally soil
+      themselves. They’d never recover. They’d spend the rest of their lives in shock
+      and trauma, because what they saw would have shaken them irreparably to their
+      very core. It would impact them in this way because war is the worst thing in
+      the world. Anyone with a functioning empathy center and a truth-based worldview
+      would move mountains to prevent war from happening. And yet we are ruled by sociopaths
+      who actively seek it out. War is the worst thing in the world, and we are ruled
+      by the worst people in the world. The world will never know peace until we cease
+      to allow such creatures to rule over us. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A new article by Drop Site News features harrowing witness
+      accounts of a devastating double-tap airstrike by the US-Israel alliance in Tehran,
+      describing scenes of chaos and severe injuries among civilians.
+    paragraph_summary: The article by Tim Foley discusses harrowing witness accounts
+      of a double-tap airstrike conducted by the US-Israel alliance in a crowded area
+      of Tehran, revealing the horrific aftermath of the attack. Witnesses describe
+      scenes of chaos and brutality, with one individual recounting the gruesome injuries
+      and deaths of those around him, including severed limbs and dismembered bodies.
+      The narrative emphasizes the stark contrast between the detached perception of
+      war often held by Westerners and the brutal reality faced by those in conflict
+      zones, highlighting the profound human suffering and devastation that accompanies
+      such violence. The piece serves as a poignant reminder of the true horrors of
+      war, challenging the sanitized views often portrayed in media.
+    published: '2026-03-03T02:02:04+00:00'
+  - title: If Westerners Could Wrap Their Minds Around What War Really Is
+    url: https://www.caitlinjohnst.one/p/if-westerners-could-wrap-their-minds
+    text: 'Reading by Tim Foley : Subscribe now Drop Site News has a new article out
+      which includes incredibly disturbing witness accounts of the carnage from a double-tap
+      airstrike by the US-Israel alliance on a densely populated part of Tehran. Here’s
+      an excerpt: “We were sitting here around 8:00–8:30 p.m. and suddenly there was
+      the noise and explosion. We got up and a few people ran away. We turned around
+      to get our belongings and we saw that blood was spraying everywhere. Someone’s
+      hand had fallen on the floor, a head had fallen on the floor,” said Shahin, a
+      witness who had been at the cafe and asked to be identified by first name only.
+      “There were scalps torn off, hands severed, a few people were laying here all
+      cut up and two people were martyred.” … “One hit and it wasn’t that bad but when
+      the second one hit, suddenly everything exploded. The windows all shattered. Whoever
+      had hookahs were thrown to the floor,” Shahin said. “One of my friends whom I
+      don’t know that well he was sitting here. His hookah was in his hands until the
+      last moment. He was severed in half. Half of him was thrown to the side. I put
+      him back together and placed him where he was. A piece of his brain was thrown
+      here on the floor.” https://x.com/jeremyscahill/status/2028603403648032879 War
+      is the worst thing in the world. Westerners talk about it like it’s a fucking
+      video game, like “hurr durr, we just go in there and achieve our objectives and
+      win,” when really war means shredding human bodies to bits. Children burning to
+      death in front of their parents. People holding their own guts in their hands
+      as their life slowly slips away. People getting trapped under rubble and dying
+      excruciatingly slow deaths of suffocation or dehydration. People picking up pieces
+      of their beloved family members. Westerners are able to hold this compartmentalized
+      video game mentality about war because war isn’t something that happens to us.
+      We’ve never had bombs dropped on our neighborhoods. We’ve never had the experience
+      of seeing a severed hand on the ground after an explosion and trying to figure
+      out who it belonged to. We’ve never had the experience of seeing our child’s shredded
+      body after a blast and thinking about how we’d carefully helped them dress that
+      precious body for school just hours before. We just see the movies. The propagandistic
+      war documentaries. The sanitized news reports. It’s not real to us. It’s not personal.
+      It’s just this cutesy Hollywood image of sexy Good Guys doing flips and spin-kicking
+      evil Bad Guys off cliffs. You know this is true, because if it wasn’t then nobody
+      would support US wars. If westerners had an actual, visceral understanding of
+      what war really is and what it actually means, and if they could truly, deeply
+      grasp that the people on the receiving end of those airstrikes are human beings
+      just like them, there’s no way they’d support inflicting such nightmares upon
+      their fellow man. Which is why everything in our civilization is aimed at hiding
+      that reality from us. War is made to look heroic and glamorous. Middle easterners
+      are framed as deranged subhuman savages. The flesh-and-bone consequences of western
+      warmongering are hidden from public view as much as possible. They need to do
+      this because the western empire depends on war. War is the glue that holds the
+      empire together. They need the mass-scale bloodshed to continue, and they need
+      the public to provide no resistance to the bloodshed. The empire cannot exist
+      without war. Peace cannot exist without the removal of the empire. You watch these
+      bespectacled pundits and pampered politicians babbling about war the way they’d
+      talk about their plans to remodel their kitchen or take a trip to Paris, and you
+      just know if actual war ever showed up on their doorstep they’d literally soil
+      themselves. They’d never recover. They’d spend the rest of their lives in shock
+      and trauma, because what they saw would have shaken them irreparably to their
+      very core. It would impact them in this way because war is the worst thing in
+      the world. Anyone with a functioning empathy center and a truth-based worldview
+      would move mountains to prevent war from happening. And yet we are ruled by sociopaths
+      who actively seek it out. War is the worst thing in the world, and we are ruled
+      by the worst people in the world. The world will never know peace until we cease
+      to allow such creatures to rule over us. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A new article by Drop Site News features harrowing witness
+      accounts of a devastating double-tap airstrike by the US-Israel alliance in Tehran,
+      describing scenes of chaos and severe injuries among civilians.
+    paragraph_summary: The article by Tim Foley discusses harrowing witness accounts
+      of a double-tap airstrike conducted by the US-Israel alliance in a crowded area
+      of Tehran, revealing the horrific aftermath of the attack. Witnesses describe
+      scenes of chaos and brutality, with one individual recounting the gruesome injuries
+      and deaths of those around him, including severed limbs and dismembered bodies.
+      The narrative emphasizes the stark contrast between the detached perception of
+      war often held by Westerners and the brutal reality faced by those in conflict
+      zones, highlighting the profound human suffering and devastation that accompanies
+      such violence. The piece serves as a poignant reminder of the true horrors of
+      war, challenging the sanitized views often portrayed in media.
+    published: '2026-03-03T02:02:04+00:00'
+  - title: US Calls Iranian Retaliatory Strikes "Unprovoked", And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-calls-iranian-retaliatory-strikes
+    text: 'Reading by Tim Foley : Subscribe now The US-Israeli war on Iran rages on.
+      Ayatollah Ali Khamenei has been killed . Iran has been hammering US military bases
+      in the region with missiles and drones, and oil prices are already beginning to
+      rise as the IRGC cuts off the Strait of Hormuz in retaliation for the attacks.
+      US soldiers have already begun to die. US Central Command reports that three American
+      service members were killed in combat, with five seriously wounded — and it should
+      here be noted that “seriously wounded” can mean permanently brain damaged, comatose,
+      or otherwise rendered severely handicapped for the rest of their lives. Trump
+      said during an interview with The Daily Mail that he now expects this war to last
+      “four weeks or so”, and that he expects US casualties to continue. I have said
+      it before and I will say it again: every single American soldier who dies in this
+      war was killed by Trump and Netanyahu. The US and Israeli governments bear sole
+      responsibility for their deaths. ❖ At least 153 people were reportedly killed
+      in a strike on an Iranian girls’ school in the opening wave of attacks. Most of
+      the fatalities were girls between the ages of seven and twelve. Turns out “freeing
+      Iranian women from the hijab” just meant killing girls before they’re old enough
+      to start wearing one. There’ve been viral claims on social media that it was a
+      misfired Iranian missile which struck the school and that the Iranian government
+      has admitted to this — both of which were swiftly debunked. We’ve seen this play
+      before. In October 2023 hasbarists were saturating the information ecosystem with
+      claims that Gaza’s Al-Ahli Baptist hospital was hit by a misfired Palestinian
+      rocket rather than by Israel. Israel has now bombed that very same hospital eight
+      separate times , which tells you all you need to know. ❖ US Ambassador to the
+      United Nations Mike Waltz used the word “unprovoked” to describe Iran’s retaliatory
+      strikes on US military bases in the region, which is just plain hilarious. “Indiscriminate
+      and unprovoked attacks by the Iranian regime today against our regional partners — Kuwait,
+      the United Arab Emirates, Bahrain, Qatar, Jordan, and others — reinforce exactly
+      why such actions are necessary,” Waltz told the UN. Only the United States could
+      bomb a country, kill its leader, massacre its children, declare the intention
+      to destroy its military and topple its government, and then call that country’s
+      retaliation against US military bases “unprovoked”. ❖ Iran has reportedly rejected
+      Trump administration offers to make a deal after the initial rounds of attacks.
+      Quincy Institute’s Trita Parsi assesses that Iran believes it needs to impose
+      severe costs on the United States before returning to the negotiating table, because
+      they know if they make a deal now they’ll just be attacked again in a few months
+      unless they establish clear deterrence. “Iran understands that many in the American
+      security establishment had been convinced that Iran’s past restraint reflected
+      weakness and an inability or unwillingness to face the US in a direct war,” Parsi
+      writes. “Tehran is now doing everything it can to demonstrate the opposite — despite
+      the massive cost it itself will pay.” ❖ Iran’s foreign minister Abbas Araghchi
+      went on NBC News to discuss the war and was actually asked by co-anchor Laura
+      Jarrett how Iran can justify striking US military bases in the region. “Why is
+      attacking US military bases abroad justified?” Jarrett asked after Araghchi said
+      that Iran will not seek long-range missiles capable of striking the United States.
+      “Because they are attacking us!” Araghchi replied with a chuckle. “They are US
+      military installations, facilities, bases who are attacking us. We are under attack.
+      Why don’t you, you know, recognize this fact?” “This is obvious,” Araghchi said.
+      “This is a very simple fact, and I’m sure that people would understand that.”
+      It must be such a surreal experience to be a serious diplomat appearing on a foreign
+      news show to speak to professional newscasters, and suddenly finding yourself
+      having to explain to fully grown adults that your nation is fighting the US military
+      because the US military attacked your nation. The western press are a fucking
+      joke. ❖ Israel has taken this opportunity to close Gaza’s border again, and the
+      World Central Kitchen reports that its food supplies will run out in a week if
+      aid remains cut off. Israel is pure cancer. ❖ Imagine still being a Trump supporter
+      in March 2026. Think about what a desolate wasteland of spirit you’d have to have
+      inside you to keep supporting that ghoul after all this. You’d have to stand for
+      absolutely nothing. You’d have to have no values besides “triggering the libs”
+      and lower taxes for billionaires. You can’t lie to yourself and pretend he’s anti-war
+      anymore. You can’t lie to yourself and pretend he’s fighting the Deep State and
+      sticking up for the little guy. You can’t lie to yourself and pretend he’s making
+      the world a better, more peaceful place. His actions and his words have made that
+      impossible; he’s been openly advancing longstanding neocon warmonger agendas after
+      publicly admitting to being bought and owned by the world’s richest Israeli, Miriam
+      Adelson. You can’t lie to yourself about who he is anymore, so now all you can
+      do is side with his depravity. You have to directly side with war, authoritarianism,
+      corruption and abuse. You have to stand right out in the cold light of day saying
+      loud and proud that you support Epstein’s BFF and love George W Bush’s foreign
+      policy, and that you think it’s great to stomp out freedom of speech in America
+      to defend the information interests of Israel. What a pathetic, undignified way
+      to live. It’s honestly about the most self-debasing thing I can possibly think
+      of. It wouldn’t be any more degrading if you were actually licking his boots while
+      he urinates on you and ridicules your meager net worth. It would just be a little
+      bit more straightforward about the reality of the situation. ______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the escalating US-Israeli conflict with
+      Iran following the assassination of Ayatollah Ali Khamenei, resulting in missile
+      attacks on US bases, rising oil prices, American casualties, and a statement from
+      Trump predicting the war's duration and continued losses, attributing responsibility
+      for the deaths of US soldiers to Trump and Netanyahu.
+    paragraph_summary: The article by Tim Foley discusses the escalating conflict between
+      the US and Israel against Iran, following the assassination of Ayatollah Ali Khamenei.
+      Iran has retaliated by attacking US military bases with missiles and drones, leading
+      to rising oil prices and the closure of the Strait of Hormuz. US casualties have
+      already occurred, with three soldiers killed and several others seriously wounded.
+      Trump predicts the war will last about four weeks, while Foley asserts that the
+      responsibility for American military deaths lies solely with Trump and Netanyahu.
+      The article also highlights a tragic incident where at least 153 people, mostly
+      young girls, were killed in a strike on an Iranian girls' school, amidst misinformation
+      regarding the nature of the attack. Foley criticizes the portrayal of Iran's actions
+      as "unprovoked" by US officials, drawing parallels to previous conflicts and misinformation
+      campaigns.
+    published: '2026-03-02T01:37:15+00:00'
+  - title: US Calls Iranian Retaliatory Strikes "Unprovoked", And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-calls-iranian-retaliatory-strikes
+    text: 'Reading by Tim Foley : Subscribe now The US-Israeli war on Iran rages on.
+      Ayatollah Ali Khamenei has been killed . Iran has been hammering US military bases
+      in the region with missiles and drones, and oil prices are already beginning to
+      rise as the IRGC cuts off the Strait of Hormuz in retaliation for the attacks.
+      US soldiers have already begun to die. US Central Command reports that three American
+      service members were killed in combat, with five seriously wounded — and it should
+      here be noted that “seriously wounded” can mean permanently brain damaged, comatose,
+      or otherwise rendered severely handicapped for the rest of their lives. Trump
+      said during an interview with The Daily Mail that he now expects this war to last
+      “four weeks or so”, and that he expects US casualties to continue. I have said
+      it before and I will say it again: every single American soldier who dies in this
+      war was killed by Trump and Netanyahu. The US and Israeli governments bear sole
+      responsibility for their deaths. ❖ At least 153 people were reportedly killed
+      in a strike on an Iranian girls’ school in the opening wave of attacks. Most of
+      the fatalities were girls between the ages of seven and twelve. Turns out “freeing
+      Iranian women from the hijab” just meant killing girls before they’re old enough
+      to start wearing one. There’ve been viral claims on social media that it was a
+      misfired Iranian missile which struck the school and that the Iranian government
+      has admitted to this — both of which were swiftly debunked. We’ve seen this play
+      before. In October 2023 hasbarists were saturating the information ecosystem with
+      claims that Gaza’s Al-Ahli Baptist hospital was hit by a misfired Palestinian
+      rocket rather than by Israel. Israel has now bombed that very same hospital eight
+      separate times , which tells you all you need to know. ❖ US Ambassador to the
+      United Nations Mike Waltz used the word “unprovoked” to describe Iran’s retaliatory
+      strikes on US military bases in the region, which is just plain hilarious. “Indiscriminate
+      and unprovoked attacks by the Iranian regime today against our regional partners — Kuwait,
+      the United Arab Emirates, Bahrain, Qatar, Jordan, and others — reinforce exactly
+      why such actions are necessary,” Waltz told the UN. Only the United States could
+      bomb a country, kill its leader, massacre its children, declare the intention
+      to destroy its military and topple its government, and then call that country’s
+      retaliation against US military bases “unprovoked”. ❖ Iran has reportedly rejected
+      Trump administration offers to make a deal after the initial rounds of attacks.
+      Quincy Institute’s Trita Parsi assesses that Iran believes it needs to impose
+      severe costs on the United States before returning to the negotiating table, because
+      they know if they make a deal now they’ll just be attacked again in a few months
+      unless they establish clear deterrence. “Iran understands that many in the American
+      security establishment had been convinced that Iran’s past restraint reflected
+      weakness and an inability or unwillingness to face the US in a direct war,” Parsi
+      writes. “Tehran is now doing everything it can to demonstrate the opposite — despite
+      the massive cost it itself will pay.” ❖ Iran’s foreign minister Abbas Araghchi
+      went on NBC News to discuss the war and was actually asked by co-anchor Laura
+      Jarrett how Iran can justify striking US military bases in the region. “Why is
+      attacking US military bases abroad justified?” Jarrett asked after Araghchi said
+      that Iran will not seek long-range missiles capable of striking the United States.
+      “Because they are attacking us!” Araghchi replied with a chuckle. “They are US
+      military installations, facilities, bases who are attacking us. We are under attack.
+      Why don’t you, you know, recognize this fact?” “This is obvious,” Araghchi said.
+      “This is a very simple fact, and I’m sure that people would understand that.”
+      It must be such a surreal experience to be a serious diplomat appearing on a foreign
+      news show to speak to professional newscasters, and suddenly finding yourself
+      having to explain to fully grown adults that your nation is fighting the US military
+      because the US military attacked your nation. The western press are a fucking
+      joke. ❖ Israel has taken this opportunity to close Gaza’s border again, and the
+      World Central Kitchen reports that its food supplies will run out in a week if
+      aid remains cut off. Israel is pure cancer. ❖ Imagine still being a Trump supporter
+      in March 2026. Think about what a desolate wasteland of spirit you’d have to have
+      inside you to keep supporting that ghoul after all this. You’d have to stand for
+      absolutely nothing. You’d have to have no values besides “triggering the libs”
+      and lower taxes for billionaires. You can’t lie to yourself and pretend he’s anti-war
+      anymore. You can’t lie to yourself and pretend he’s fighting the Deep State and
+      sticking up for the little guy. You can’t lie to yourself and pretend he’s making
+      the world a better, more peaceful place. His actions and his words have made that
+      impossible; he’s been openly advancing longstanding neocon warmonger agendas after
+      publicly admitting to being bought and owned by the world’s richest Israeli, Miriam
+      Adelson. You can’t lie to yourself about who he is anymore, so now all you can
+      do is side with his depravity. You have to directly side with war, authoritarianism,
+      corruption and abuse. You have to stand right out in the cold light of day saying
+      loud and proud that you support Epstein’s BFF and love George W Bush’s foreign
+      policy, and that you think it’s great to stomp out freedom of speech in America
+      to defend the information interests of Israel. What a pathetic, undignified way
+      to live. It’s honestly about the most self-debasing thing I can possibly think
+      of. It wouldn’t be any more degrading if you were actually licking his boots while
+      he urinates on you and ridicules your meager net worth. It would just be a little
+      bit more straightforward about the reality of the situation. ______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article discusses the escalating US-Israeli conflict with
+      Iran following the assassination of Ayatollah Ali Khamenei, resulting in missile
+      attacks on US bases, rising oil prices, American casualties, and a statement from
+      Trump predicting the war's duration and continued losses, attributing responsibility
+      for the deaths of US soldiers to Trump and Netanyahu.
+    paragraph_summary: The article by Tim Foley discusses the escalating conflict between
+      the US and Israel against Iran, following the assassination of Ayatollah Ali Khamenei.
+      Iran has retaliated by attacking US military bases with missiles and drones, leading
+      to rising oil prices and the closure of the Strait of Hormuz. US casualties have
+      already occurred, with three soldiers killed and several others seriously wounded.
+      Trump predicts the war will last about four weeks, while Foley asserts that the
+      responsibility for American military deaths lies solely with Trump and Netanyahu.
+      The article also highlights a tragic incident where at least 153 people, mostly
+      young girls, were killed in a strike on an Iranian girls' school, amidst misinformation
+      regarding the nature of the attack. Foley criticizes the portrayal of Iran's actions
+      as "unprovoked" by US officials, drawing parallels to previous conflicts and misinformation
+      campaigns.
+    published: '2026-03-02T01:37:15+00:00'
+  - title: Fuck Everyone Who Made This War Possible
+    url: https://www.caitlinjohnst.one/p/fuck-everyone-who-made-this-war-possible
+    text: 'Reading by Tim Foley : Subscribe now The US and Israel have launched their
+      long-planned attack on Iran. President Trump said in a speech that the US military
+      is engaged in “major combat operations” intended to cripple Iran’s military and
+      topple the Iranian government. Iran has reportedly been retaliating with missile
+      strikes on Israel and US military bases in the region. This is going to get ugly,
+      folks. https://x.com/WhiteHouse/status/2027654336138924410 I don’t even know what
+      to write about this one, honestly. What am I supposed to say? “Hey everybody,
+      they’re lying to us about this war”? Everyone already knows that. Even the people
+      who support this war know all the justifications for it are lies. They know Iran
+      isn’t building nukes. They know Iran poses no threat to the United States. They
+      know all that bullshit about Iran cutting out women’s wombs and murdering tens
+      of thousands of protesters was evidence-free atrocity propaganda. Nobody needs
+      me to tell them these things. Nobody needs me to tell them that this war is going
+      to kill a whole lot of innocent people and inflict unfathomable amounts of suffering
+      upon our species, both directly during these attacks and indirectly in the chaos
+      and instability ensuing thereafter. Everyone already knows this. Everyone already
+      knows this, and it’s happening anyway. They’re just doing whatever evil things
+      they want to do, without the slightest regard for public opinion or consent. https://x.com/RaniaKhalek/status/2027671765128745080
+      They’re just going right ahead with a military operation to topple Tehran, after
+      decades of inertia for fear of the horrific consequences it would unleash. They’re
+      just choking off Cuba using siege warfare, which previous presidents refused to
+      do because it would be a monstrous act of war. They just kidnapped the president
+      of a sovereign nation, which previous administrations had refused to do because
+      it’s plainly against international law . They just helped Israel turn Gaza into
+      a gravel parking lot and are now building a giant dystopian tech surveillance
+      encampment to imprison the survivors . They just designated an American company
+      a “supply chain risk to national security” for the first time ever because the
+      AI firm Anthropic refused to let the Pentagon use its technology to operate autonomous
+      killing machines and surveil American citizens — an open admission that the Pentagon
+      plans on using AI to run autonomous killing machines and surveil American citizens.
+      https://x.com/ggreenwald/status/2027703489334239613 There’s an old Frank Zappa
+      quote that’s been popping into my head more and more lately: “The illusion of
+      freedom will continue as long as it’s profitable to continue the illusion. At
+      the point where the illusion becomes too expensive to maintain, they will just
+      take down the scenery, they will pull back the curtains, they will move the tables
+      and chairs out of the way and you will see the brick wall at the back of the theater.”
+      We’re seeing a lot more bricks these days. That’s all I can think to say about
+      all this. Fuck the USA. Fuck Israel. Fuck Trump. Fuck Netanyahu. Fuck Zionism.
+      Fuck Trump supporters. Fuck the Republican Party. Fuck the Democratic Party. Fuck
+      war. Fuck everyone who helped make this war possible. Fuck the western press.
+      Fuck warmongering think tanks. Fuck the Israel lobby. Fuck the military-industrial
+      complex. Fuck the western intelligence cartel. Fuck the western empire. I hate
+      everyone who inflicted this nightmare upon my species. If you stand by this senseless
+      US-Israeli act of depravity, then I consider you an enemy. And I will never stop
+      reminding everyone of the psychotic agenda you supported. You own this. This is
+      on you. It’s on you forever. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The US and Israel have initiated a military offensive against
+      Iran, with President Trump declaring major combat operations aimed at dismantling
+      Iran's military and government, while Iran retaliates with missile strikes on
+      US and Israeli targets, amidst widespread skepticism about the justifications
+      for the war.
+    paragraph_summary: The article by Tim Foley discusses the recent military actions
+      taken by the US and Israel against Iran, as announced by President Trump, who
+      described the operations as aimed at crippling Iran's military and overthrowing
+      its government. In response, Iran has launched missile strikes against Israel
+      and US military bases. Foley expresses skepticism about the justifications for
+      the war, asserting that many are aware that claims about Iran's nuclear threat
+      and human rights abuses are exaggerated or unfounded. He emphasizes the impending
+      humanitarian crisis and suffering that will result from the conflict, criticizing
+      the lack of public consent and the disregard for international law in the actions
+      taken by the US and its allies.
+    published: '2026-02-28T13:05:10+00:00'
+  - title: Fuck Everyone Who Made This War Possible
+    url: https://www.caitlinjohnst.one/p/fuck-everyone-who-made-this-war-possible
+    text: 'Reading by Tim Foley : Subscribe now The US and Israel have launched their
+      long-planned attack on Iran. President Trump said in a speech that the US military
+      is engaged in “major combat operations” intended to cripple Iran’s military and
+      topple the Iranian government. Iran has reportedly been retaliating with missile
+      strikes on Israel and US military bases in the region. This is going to get ugly,
+      folks. https://x.com/WhiteHouse/status/2027654336138924410 I don’t even know what
+      to write about this one, honestly. What am I supposed to say? “Hey everybody,
+      they’re lying to us about this war”? Everyone already knows that. Even the people
+      who support this war know all the justifications for it are lies. They know Iran
+      isn’t building nukes. They know Iran poses no threat to the United States. They
+      know all that bullshit about Iran cutting out women’s wombs and murdering tens
+      of thousands of protesters was evidence-free atrocity propaganda. Nobody needs
+      me to tell them these things. Nobody needs me to tell them that this war is going
+      to kill a whole lot of innocent people and inflict unfathomable amounts of suffering
+      upon our species, both directly during these attacks and indirectly in the chaos
+      and instability ensuing thereafter. Everyone already knows this. Everyone already
+      knows this, and it’s happening anyway. They’re just doing whatever evil things
+      they want to do, without the slightest regard for public opinion or consent. https://x.com/RaniaKhalek/status/2027671765128745080
+      They’re just going right ahead with a military operation to topple Tehran, after
+      decades of inertia for fear of the horrific consequences it would unleash. They’re
+      just choking off Cuba using siege warfare, which previous presidents refused to
+      do because it would be a monstrous act of war. They just kidnapped the president
+      of a sovereign nation, which previous administrations had refused to do because
+      it’s plainly against international law . They just helped Israel turn Gaza into
+      a gravel parking lot and are now building a giant dystopian tech surveillance
+      encampment to imprison the survivors . They just designated an American company
+      a “supply chain risk to national security” for the first time ever because the
+      AI firm Anthropic refused to let the Pentagon use its technology to operate autonomous
+      killing machines and surveil American citizens — an open admission that the Pentagon
+      plans on using AI to run autonomous killing machines and surveil American citizens.
+      https://x.com/ggreenwald/status/2027703489334239613 There’s an old Frank Zappa
+      quote that’s been popping into my head more and more lately: “The illusion of
+      freedom will continue as long as it’s profitable to continue the illusion. At
+      the point where the illusion becomes too expensive to maintain, they will just
+      take down the scenery, they will pull back the curtains, they will move the tables
+      and chairs out of the way and you will see the brick wall at the back of the theater.”
+      We’re seeing a lot more bricks these days. That’s all I can think to say about
+      all this. Fuck the USA. Fuck Israel. Fuck Trump. Fuck Netanyahu. Fuck Zionism.
+      Fuck Trump supporters. Fuck the Republican Party. Fuck the Democratic Party. Fuck
+      war. Fuck everyone who helped make this war possible. Fuck the western press.
+      Fuck warmongering think tanks. Fuck the Israel lobby. Fuck the military-industrial
+      complex. Fuck the western intelligence cartel. Fuck the western empire. I hate
+      everyone who inflicted this nightmare upon my species. If you stand by this senseless
+      US-Israeli act of depravity, then I consider you an enemy. And I will never stop
+      reminding everyone of the psychotic agenda you supported. You own this. This is
+      on you. It’s on you forever. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The US and Israel have initiated a military offensive against
+      Iran, with President Trump declaring major combat operations aimed at dismantling
+      Iran's military and government, while Iran retaliates with missile strikes on
+      US and Israeli targets, amidst widespread skepticism about the justifications
+      for the war.
+    paragraph_summary: The article by Tim Foley discusses the recent military actions
+      taken by the US and Israel against Iran, as announced by President Trump, who
+      described the operations as aimed at crippling Iran's military and overthrowing
+      its government. In response, Iran has launched missile strikes against Israel
+      and US military bases. Foley expresses skepticism about the justifications for
+      the war, asserting that many are aware that claims about Iran's nuclear threat
+      and human rights abuses are exaggerated or unfounded. He emphasizes the impending
+      humanitarian crisis and suffering that will result from the conflict, criticizing
+      the lack of public consent and the disregard for international law in the actions
+      taken by the US and its allies.
+    published: '2026-02-28T13:05:10+00:00'
+  - title: If Iran Kills US Troops, The Blame Rests Solely On The US And Israel
+    url: https://www.caitlinjohnst.one/p/if-iran-kills-us-troops-the-blame
+    text: 'Reading by Tim Foley : Subscribe now White House officials reportedly want
+      Israel to provoke Iran into attacking US military bases in the region, because
+      it will make Americans more willing to go to war. Politico reports : “Senior advisers
+      to President Donald Trump would prefer Israel strike Iran before the United States
+      launches an assault on the country, according to two people familiar with ongoing
+      discussions. “These Trump administration officials are privately arguing that
+      an Israeli attack would trigger Iran to retaliate, helping muster support from
+      American voters for a U.S. strike. “The calculus is a political one — that more
+      Americans would stomach a war with Iran if the United States or an ally were attacked
+      first. Recent polling shows that Americans, and Republicans in particular, support
+      regime change in Iran, but are unwilling to risk any U.S. casualties to achieve
+      it. That means Trump’s team is considering the optics of how an attack is conducted
+      in addition to other justifications — such as Iran’s nuclear program.” “There’s
+      thinking in and around the administration that the politics are a lot better if
+      the Israelis go first and alone and the Iranians retaliate against us, and give
+      us more reason to take action,” an anonymous White House source told Politico.
+      So according this report the plan is to let Israel initiate the war, draw out
+      an aggressive Iranian response against Israel and US military assets in the area,
+      and then let the media saturate American airwaves with photographs of slain US
+      soldiers so that Americans will support a new war in the middle east. As a plan
+      to drum up domestic support for war, it would probably work. Israel would certainly
+      be all too happy to initiate another war. The US media would certainly be all
+      too happy to drum up support for American retaliation. And many Americans, God
+      bless them, would be dumb enough to swallow it. We all saw how easily the American
+      public can be persuaded to sign off on any US military operation after 9/11. We
+      know the drill: Americans get killed, the imperial propaganda machine kicks into
+      hyperdrive, and all of a sudden you’ve got every war plan and domestic surveillance
+      agenda ever dreamed up by Washington’s nastiest swamp monsters being advanced
+      at breakneck pace. Secretary of State Marco Rubio is already laying the groundwork
+      for this narrative push, literally doing the “look how close they put their country
+      to our military bases” meme during a press conference on Wednesday. “Iran possesses
+      a very large number of ballistic missiles, particularly short-range ballistic
+      missiles that threaten the United States and our bases in the region and our partners
+      in the region, and all of our bases in the UAE, in Qatar, in Bahrain,” Rubio said.
+      “And they also possess naval assets that threaten shipping and try to threaten
+      the U.S. Navy. So I want everybody to understand that, and beyond just the nuclear
+      program they possess these conventional weapons that are solely designed to attack
+      America and attack Americans, if they so choose to do so.” They’re already blatantly
+      lying to the American public about this thing. In addition to the propaganda narratives
+      we discussed recently like Steve Witkoff claiming Iran is “probably a week away”
+      from having the materials necessary to make a nuclear bomb and The New York Post
+      publishing evidence-free atrocity propaganda about Iran cutting out the reproductive
+      organs of female protesters, President Trump falsely claimed during his State
+      of the Union address on Tuesday that Iran refuses to say it will never develop
+      a nuclear weapon. “We are in negotiations with them; they want to make a deal
+      but we haven’t heard those secret words: We will never have a nuclear weapon,”
+      Trump said during his speech before Congress. As Antiwar’s Dave DeCamp pointed
+      out , Iran has been explicitly saying they will never develop a nuclear weapon
+      this entire time, and they literally said it again on the day of Trump’s speech.
+      Iranian foreign minister Abbas Araghchi tweeted on Tuesday that “Our fundamental
+      convictions are crystal clear: Iran will under no circumstances ever develop a
+      nuclear weapon.” Whether or not you believe Iran’s claims that it has no intention
+      of developing nuclear weapons, it is an indisputable fact that Trump and his speech
+      writers brazenly lied to the American public about Iran refusing to say the words
+      “We will never have a nuclear weapon”. The fact that they would lie so blatantly
+      about something so significant means they’ll lie about anything, and nothing these
+      people tell us about Iran and its activities can be trusted. Trump made other
+      evidence-free claims in the same speech, as DeCamp explains : “Trump also said
+      that Iran was ‘working to build missiles that will soon reach the United States
+      of America,’ a claim that lacks any evidence, and repeated that 32,000 people
+      were killed in the recent protests, an inflated number that lacks real sourcing
+      and is far beyond the 3,317 acknowledged by the Iranian government.” So let’s
+      be very clear here: if any US troops are killed by Iranian missiles, the US and
+      Israel are solely to blame for this. If any Israelis are killed by Iranian missiles,
+      the US and Israel are solely to blame for this. Not Iran. Iran didn’t surround
+      itself with US military bases. Iran didn’t tear up the Obama nuclear deal. Iran
+      isn’t flooding the region with a quantity of US war machinery you never see unless
+      Washington plans on launching an attack. The US did these things. The US is the
+      one who bombed Iran’s energy infrastructure last June. The US is the one who is
+      openly admitting that it deliberately crushed the Iranian economy with the goal
+      of inciting a violent uprising. The US is the one whose National Endowment for
+      Democracy smuggled Starlink terminals into Iran to help facilitate domestic unrest.
+      If any foreign government had been doing these things to the United States, the
+      US would have wiped them off the face of the earth a long time ago. Iran has been
+      demonstrating superhuman forbearance in the midst of extremely aggressive provocations
+      by Israel and the United States. If Tehran calculates that it can no longer sustain
+      its policy of restraint and needs to push back to protect itself from an existential
+      threat, then the blame for this will not rest on Iran. It will rest solely and
+      entirely on the United States and Israel. If any US troops die in the upcoming
+      standoff, it will be Washington and Tel Aviv who killed them. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: White House officials are reportedly advocating for Israel
+      to provoke Iran into attacking U.S. military bases to increase American public
+      support for a potential war with Iran, as they believe that such a scenario would
+      make voters more amenable to military action.
+    paragraph_summary: According to a report by Politico, senior advisers in the Trump
+      administration are allegedly advocating for Israel to initiate an attack on Iran,
+      which they believe would provoke a retaliatory response from Iran and subsequently
+      garner American public support for a U.S. military strike. This strategy is rooted
+      in the political calculation that Americans, particularly Republicans, are more
+      amenable to the idea of war if it appears that the U.S. or its allies were attacked
+      first. The administration's approach focuses on the optics of such an attack,
+      aiming to leverage media coverage of American casualties to rally support for
+      military action in the Middle East. The report suggests that this plan could effectively
+      manipulate public sentiment, as history has shown the American public's willingness
+      to endorse military operations under similar circumstances.
+    published: '2026-02-26T23:46:04+00:00'
+  - title: If Iran Kills US Troops, The Blame Rests Solely On The US And Israel
+    url: https://www.caitlinjohnst.one/p/if-iran-kills-us-troops-the-blame
+    text: 'Reading by Tim Foley : Subscribe now White House officials reportedly want
+      Israel to provoke Iran into attacking US military bases in the region, because
+      it will make Americans more willing to go to war. Politico reports : “Senior advisers
+      to President Donald Trump would prefer Israel strike Iran before the United States
+      launches an assault on the country, according to two people familiar with ongoing
+      discussions. “These Trump administration officials are privately arguing that
+      an Israeli attack would trigger Iran to retaliate, helping muster support from
+      American voters for a U.S. strike. “The calculus is a political one — that more
+      Americans would stomach a war with Iran if the United States or an ally were attacked
+      first. Recent polling shows that Americans, and Republicans in particular, support
+      regime change in Iran, but are unwilling to risk any U.S. casualties to achieve
+      it. That means Trump’s team is considering the optics of how an attack is conducted
+      in addition to other justifications — such as Iran’s nuclear program.” “There’s
+      thinking in and around the administration that the politics are a lot better if
+      the Israelis go first and alone and the Iranians retaliate against us, and give
+      us more reason to take action,” an anonymous White House source told Politico.
+      So according this report the plan is to let Israel initiate the war, draw out
+      an aggressive Iranian response against Israel and US military assets in the area,
+      and then let the media saturate American airwaves with photographs of slain US
+      soldiers so that Americans will support a new war in the middle east. As a plan
+      to drum up domestic support for war, it would probably work. Israel would certainly
+      be all too happy to initiate another war. The US media would certainly be all
+      too happy to drum up support for American retaliation. And many Americans, God
+      bless them, would be dumb enough to swallow it. We all saw how easily the American
+      public can be persuaded to sign off on any US military operation after 9/11. We
+      know the drill: Americans get killed, the imperial propaganda machine kicks into
+      hyperdrive, and all of a sudden you’ve got every war plan and domestic surveillance
+      agenda ever dreamed up by Washington’s nastiest swamp monsters being advanced
+      at breakneck pace. Secretary of State Marco Rubio is already laying the groundwork
+      for this narrative push, literally doing the “look how close they put their country
+      to our military bases” meme during a press conference on Wednesday. “Iran possesses
+      a very large number of ballistic missiles, particularly short-range ballistic
+      missiles that threaten the United States and our bases in the region and our partners
+      in the region, and all of our bases in the UAE, in Qatar, in Bahrain,” Rubio said.
+      “And they also possess naval assets that threaten shipping and try to threaten
+      the U.S. Navy. So I want everybody to understand that, and beyond just the nuclear
+      program they possess these conventional weapons that are solely designed to attack
+      America and attack Americans, if they so choose to do so.” They’re already blatantly
+      lying to the American public about this thing. In addition to the propaganda narratives
+      we discussed recently like Steve Witkoff claiming Iran is “probably a week away”
+      from having the materials necessary to make a nuclear bomb and The New York Post
+      publishing evidence-free atrocity propaganda about Iran cutting out the reproductive
+      organs of female protesters, President Trump falsely claimed during his State
+      of the Union address on Tuesday that Iran refuses to say it will never develop
+      a nuclear weapon. “We are in negotiations with them; they want to make a deal
+      but we haven’t heard those secret words: We will never have a nuclear weapon,”
+      Trump said during his speech before Congress. As Antiwar’s Dave DeCamp pointed
+      out , Iran has been explicitly saying they will never develop a nuclear weapon
+      this entire time, and they literally said it again on the day of Trump’s speech.
+      Iranian foreign minister Abbas Araghchi tweeted on Tuesday that “Our fundamental
+      convictions are crystal clear: Iran will under no circumstances ever develop a
+      nuclear weapon.” Whether or not you believe Iran’s claims that it has no intention
+      of developing nuclear weapons, it is an indisputable fact that Trump and his speech
+      writers brazenly lied to the American public about Iran refusing to say the words
+      “We will never have a nuclear weapon”. The fact that they would lie so blatantly
+      about something so significant means they’ll lie about anything, and nothing these
+      people tell us about Iran and its activities can be trusted. Trump made other
+      evidence-free claims in the same speech, as DeCamp explains : “Trump also said
+      that Iran was ‘working to build missiles that will soon reach the United States
+      of America,’ a claim that lacks any evidence, and repeated that 32,000 people
+      were killed in the recent protests, an inflated number that lacks real sourcing
+      and is far beyond the 3,317 acknowledged by the Iranian government.” So let’s
+      be very clear here: if any US troops are killed by Iranian missiles, the US and
+      Israel are solely to blame for this. If any Israelis are killed by Iranian missiles,
+      the US and Israel are solely to blame for this. Not Iran. Iran didn’t surround
+      itself with US military bases. Iran didn’t tear up the Obama nuclear deal. Iran
+      isn’t flooding the region with a quantity of US war machinery you never see unless
+      Washington plans on launching an attack. The US did these things. The US is the
+      one who bombed Iran’s energy infrastructure last June. The US is the one who is
+      openly admitting that it deliberately crushed the Iranian economy with the goal
+      of inciting a violent uprising. The US is the one whose National Endowment for
+      Democracy smuggled Starlink terminals into Iran to help facilitate domestic unrest.
+      If any foreign government had been doing these things to the United States, the
+      US would have wiped them off the face of the earth a long time ago. Iran has been
+      demonstrating superhuman forbearance in the midst of extremely aggressive provocations
+      by Israel and the United States. If Tehran calculates that it can no longer sustain
+      its policy of restraint and needs to push back to protect itself from an existential
+      threat, then the blame for this will not rest on Iran. It will rest solely and
+      entirely on the United States and Israel. If any US troops die in the upcoming
+      standoff, it will be Washington and Tel Aviv who killed them. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: White House officials are reportedly advocating for Israel
+      to provoke Iran into attacking U.S. military bases to increase American public
+      support for a potential war with Iran, as they believe that such a scenario would
+      make voters more amenable to military action.
+    paragraph_summary: According to a report by Politico, senior advisers in the Trump
+      administration are allegedly advocating for Israel to initiate an attack on Iran,
+      which they believe would provoke a retaliatory response from Iran and subsequently
+      garner American public support for a U.S. military strike. This strategy is rooted
+      in the political calculation that Americans, particularly Republicans, are more
+      amenable to the idea of war if it appears that the U.S. or its allies were attacked
+      first. The administration's approach focuses on the optics of such an attack,
+      aiming to leverage media coverage of American casualties to rally support for
+      military action in the Middle East. The report suggests that this plan could effectively
+      manipulate public sentiment, as history has shown the American public's willingness
+      to endorse military operations under similar circumstances.
+    published: '2026-02-26T23:46:04+00:00'
   - title: No Bro This War Will Be Completely Different, Bro
     url: https://www.caitlinjohnst.one/p/no-bro-this-war-will-be-completely
     text: 'Reading by Tim Foley : Subscribe now No bro this US war in the middle east

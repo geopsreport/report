@@ -8,16 +8,1252 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As global economic and political tensions intensify in early 2026, recent independent analyses highlight the deepening divide between rentier and productive economies, the ongoing impact of U.S. financial and military strategies, and the growing dissatisfaction within key U.S. allies.
+  Tensions in the Middle East have dominated recent geopolitical analysis, with a notable shift in the U.S.-Iran nuclear negotiations. As of March 2, the Omani foreign minister announced a significant breakthrough: Iran has agreed to halt the accumulation of enriched uranium and to permit comprehensive IAEA verification. **Michael Hudson** reports that this development is seen as a potential path toward a deal that would ensure Iran never possesses nuclear bomb material. This marks the most substantial progress in years, and regional actors are closely watching for follow-through on these commitments.
   
-  The most recent reports, particularly from **Michael Hudson**, emphasize the ongoing economic hardship in Iran, exacerbated by currency collapse and what is described as U.S. manipulation of financial systems. **Nima Alkhorchid**’s first-hand accounts from Iran underscore the severe impact on civilians, with Hudson noting, “the consistent military strategy of the U.S. is to harm civilian populations in various conflicts.” This approach, according to Hudson, is not isolated to Iran but is part of a broader pattern of U.S. engagement globally.
+  Meanwhile, the broader context remains fraught. Economic instability in Iran persists, exacerbated by currency collapse and what **Nima Alkhorchid** describes as ongoing U.S. manipulation. These pressures have contributed to social and political strains, even as diplomatic channels reopen. The economic hardship, according to Hudson, is part of a broader U.S. strategy that historically targets civilian populations to achieve strategic aims.
   
-  Turning to the structural underpinnings of these crises, Hudson’s discussion with **Glenn Diesen** explores the “decline of civilization” as a function of economic systems, particularly the dominance of rentier practices over productive investment. This civilizational divide, they argue, is at the core of current geopolitical instability and is likely to shape the next phase of global realignment. Hudson hints at further analysis in his forthcoming sequel to “The Destiny of Civilization,” suggesting that the interplay between finance and production will remain central to understanding future developments.
+  In the background, the global economic order continues to shift. **Hudson** and other analysts have highlighted the decline of the U.S.-led rentier economic model and the emergence of alternative systems, particularly in Eurasia. This civilizational divide is expected to shape not only regional alignments but also the future of global finance and security.
   
-  Meanwhile, in Europe, Hudson’s earlier analysis points to mounting alienation among populations, especially in France, as a result of sanctions, asset seizures, and U.S. pressure on EU governments. This discontent is fueling political instability and could, with high confidence, “most definitely” lead to further fragmentation within the European Union if current trends persist.
-  
-  In summary, the latest developments reinforce the view that U.S. strategies—both financial and military—are contributing to widespread economic distress and political instability across multiple regions. The prevailing trend, as identified by Hudson and corroborated by other analysts, is a shift away from U.S.-centric global order toward a more fragmented and contested international system. It is “quite likely” that this will result in new alliances and economic models emerging over the coming year, with a high chance of continued volatility in both financial markets and geopolitical relations.
+  Looking ahead, there is a high chance that the U.S.-Iran agreement, if finalized and implemented, will reduce immediate nuclear tensions in the Persian Gulf. However, the underlying economic and strategic competition is likely to persist. I guarantee that the outcome of these negotiations will significantly influence energy markets and regional power balances in the coming months. The trend toward multipolarity and the erosion of dollar dominance remains a defining feature of the current era, with most analysts expecting further realignment in global economic and security structures.
 articles:
+  - title: Negotiation to Detonation
+    url: https://michael-hudson.com/2026/03/negotiation-to-detonation/
+    text: March 2 2026 Last Friday the mediator of the U.S. and Iranian nuclear negotiations
+      in Oman, that country’s foreign minister Badr Albusaidi, pulled the rug out from
+      President Trump’s deceptive pretense threatening war with Iran. Why? Because it
+      had refused his demands to give up what he claimed was its own atom bomb. The
+      Omani foreign minister explained on CBS’s Face the Nation that the Iranian team
+      had agreed not to accumulate enriched uranium and offered “full and comprehensive
+      verification by the IAEA.” This new concession was a “breakthrough that has never
+      been achieved any time before. And I think if we can capture that and build on
+      it, I think a deal is within our reach” to achieve “agreement that Iran will never,
+      ever have a nuclear material that will create a bomb. This is, I think, a big
+      achievement.” Pointing out that this breakthrough “has been missed a lot by the
+      media,” he emphasized that by calling for “zero stockpiling” went far beyond what
+      had been negotiated during President Obama’s administration, because “if you cannot
+      stockpile material that is enriched then there is no way you can actually create
+      a bomb.” Ayatollah Ali Khamenei – who already had issued a fatwa against doing
+      any such thing, and had repeated this position year after year – called Iran’s
+      Shi’a leaders and military chief to discuss ratification of the agreement to cede
+      control of its enriched uranium in order to prevent war. But any such capitulation
+      was precisely what neither the United States nor Israel could accept. A peaceful
+      resolution would have prevented the long-term U.S. plan to consolidate and weaponize
+      its control over Middle Eastern oil, its transportation and the investment of
+      its oil export revenues, and to use Israel and al Qaeda/ISIS as its client armies
+      to block independent oil-producing countries from acting in their own sovereign
+      interests. Israeli intelligence apparently alerted the U.S. military to suggest
+      that the meeting at the Ayatollah’s compound offered a great chance to decapitate
+      the leading decision makers all together. This followed the U.S. military handbook
+      advice that killing a political leader whom the U.S. deems to be undemocratic
+      will liberate popular dreams of regime change. That was the hope of bombing President
+      Putin’s country residence last month, and it was in line with the U.S’s recent
+      Starlink attempt to mobilize popular opposition for revolution in Iran. The joint
+      U.S.-Israeli attack makes it clear that there is nothing that Iran could have
+      conceded that would have deterred the long-standing U.S. drive to control Middle
+      Eastern oil, alongside using Israel and ISIS/Al Qaeda client armies to prevent
+      sovereign nations in the region from emerging to take control of their oil reserves.
+      That control remains an essential arm of U.S. foreign policy. It is the key to
+      the U.S. ability to hurt other economies by denying them access to energy if they
+      do not adhere to U.S. foreign policy. This insistence on blocking the world’s
+      access to energy sources not under American control is why the U.S. has attacked
+      Venezuela, Syria, Iraq, Libya and Russia. The attack on negotiators (the second
+      time America has done this to Iran) is a perfidy that will go down in history.
+      It was to prevent Iran’s intended move to peace, before its leaders could have
+      disproven Trump’s false claim that Iran had refused to give up its desire to obtain
+      its own atom bomb. It would be interesting to know how many of Trump’s insiders
+      placed big bets that oil prices will soar when markets open on Monday morning.
+      The markets last week were vastly underestimating the risk of closing the Oil
+      Gulf. U.S. oil companies will make a killing. China and other oil importers will
+      suffer. U.S. financial speculators also will make a killing, because their oil
+      production is domestic. This fact may even have played a role in the U.S. decision
+      to end the world’s access to Middle Eastern oil for what promises to be a lengthy
+      period. The trade and financial disruption in fact will be so worldwide that I
+      think we can think of Saturday’s February 28 attack on Iran as the true trigger
+      of World War III. For most of the world, the imminent financial crisis (to say
+      nothing of the moral outrage) will define the next decade of international political
+      and economic restructuring. European, Asian and the Global South countries will
+      be unable to obtain oil except at prices that make many industries unprofitable
+      and many family budgets unaffordable. The rise in oil prices also will make it
+      impossible for Global South countries to service their dollar debts falling due
+      to Western bondholders, banks and the IMF. Countries can save themselves from
+      having to impose domestic austerity, currency depreciation and inflation only
+      by recognizing that the U.S. attack (supported by Britain and Saudi Arabia, with
+      ambiguous Turkish acquiescence) had ended the U.S. unipolar order – and with it
+      the dollarized international financial system. If this is not recognized, acquiescence
+      will continue until it becomes unsustainable in any case. If this is the inaugural
+      real battle of World War III, it is in many ways a final battle to decide what
+      World War II was all about. Will international law crumble as a result of the
+      unwillingness of enough countries to protect the rules of civilized law supporting
+      the principles of national sovereignty free from foreign interference and coercion
+      from the 1648 Peace of Westphalia to the UN Charter? And with regard to wars that
+      inevitably are to be waged, will they spare civilians and non-belligerents, or
+      will they be like Ukraine’s attack on its Russian speaking population in its eastern
+      provinces, Israel’s genocide against ethnic Palestinians, Wahabi religious cleansing
+      of non-Sunni Arab populations, or indeed the Iranian, Cuban and other populations
+      under U.S.-sponsored attack. Can the United Nations be saved without freeing itself
+      and its member countries from U.S. control? An early litmus test of where alliances
+      are sorting out will be which countries join the legal move to declare Donald
+      Trump and his cabinet war criminals. Something more than the present ICC is needed,
+      given the U.S. Government’s personal attacks on ICC judges that found Netanyahu
+      guilty. What is required is a Nurenberg-scale trial against the Western military
+      policy that has been seeking to plunge the entire world into political and economic
+      chaos if it does not submit to the U.S. unipolar ruler-based order. If other countries
+      do not create an alternative to the US-European-Japanese-Wahabi offensive, they
+      will suffer what U.S. Secretary of State Rubio called (in his recent Munich speech)
+      a resurgence of the Western history of conquest to the basic principles of international
+      law and equity. An alternative requires restructuring the United Nations to end
+      the U.S. ability to block majority resolutions. In view of the fact that U.N.
+      Secretary-General Antonio Guterres has said that it may be bankrupt by August
+      and have to close its New York City headquarters, this is a propitious time to
+      move it out of the United States itself. The U.S. has banned Francesca Albanese
+      from entering the United States as a result of her report describing Israeli genocide
+      in Gaza. There can be no rule of law as long as control over the U.N. and its
+      agencies remains in U.S. hands and those of its European satellites. Photo by
+      Amari Shutters on Unsplash The post Negotiation to Detonation first appeared on
+      Michael Hudson .
+    one_sentence_summary: The Omani foreign minister announced a significant breakthrough
+      in U.S.-Iran nuclear negotiations, revealing that Iran agreed to halt enriched
+      uranium accumulation and allow comprehensive IAEA verification, which he believes
+      could lead to a deal ensuring Iran never possesses nuclear bomb material.
+    paragraph_summary: In a significant development in U.S.-Iran nuclear negotiations,
+      Omani Foreign Minister Badr Albusaidi announced a breakthrough during an appearance
+      on CBS’s Face the Nation, revealing that Iran had agreed to halt the accumulation
+      of enriched uranium and allow for comprehensive verification by the International
+      Atomic Energy Agency (IAEA). This concession, which goes beyond previous agreements
+      made during President Obama's administration, could pave the way for a deal ensuring
+      Iran does not develop nuclear weapons. Ayatollah Ali Khamenei, who has consistently
+      opposed nuclear armament, convened a meeting with Iranian leaders to discuss ratifying
+      the agreement. However, the potential for a peaceful resolution faces resistance
+      from the U.S. and Israel, who may view such an agreement as undermining their
+      strategic interests in the region, particularly regarding control over Middle
+      Eastern oil and the use of regional allies to counter independent oil-producing
+      nations.
+    published: '2026-03-02T12:21:30+00:00'
+  - title: Negotiation to Detonation
+    url: https://michael-hudson.com/2026/03/negotiation-to-detonation/
+    text: March 2 2026 Last Friday the mediator of the U.S. and Iranian nuclear negotiations
+      in Oman, that country’s foreign minister Badr Albusaidi, pulled the rug out from
+      President Trump’s deceptive pretense threatening war with Iran. Why? Because it
+      had refused his demands to give up what he claimed was its own atom bomb. The
+      Omani foreign minister explained on CBS’s Face the Nation that the Iranian team
+      had agreed not to accumulate enriched uranium and offered “full and comprehensive
+      verification by the IAEA.” This new concession was a “breakthrough that has never
+      been achieved any time before. And I think if we can capture that and build on
+      it, I think a deal is within our reach” to achieve “agreement that Iran will never,
+      ever have a nuclear material that will create a bomb. This is, I think, a big
+      achievement.” Pointing out that this breakthrough “has been missed a lot by the
+      media,” he emphasized that by calling for “zero stockpiling” went far beyond what
+      had been negotiated during President Obama’s administration, because “if you cannot
+      stockpile material that is enriched then there is no way you can actually create
+      a bomb.” Ayatollah Ali Khamenei – who already had issued a fatwa against doing
+      any such thing, and had repeated this position year after year – called Iran’s
+      Shi’a leaders and military chief to discuss ratification of the agreement to cede
+      control of its enriched uranium in order to prevent war. But any such capitulation
+      was precisely what neither the United States nor Israel could accept. A peaceful
+      resolution would have prevented the long-term U.S. plan to consolidate and weaponize
+      its control over Middle Eastern oil, its transportation and the investment of
+      its oil export revenues, and to use Israel and al Qaeda/ISIS as its client armies
+      to block independent oil-producing countries from acting in their own sovereign
+      interests. Israeli intelligence apparently alerted the U.S. military to suggest
+      that the meeting at the Ayatollah’s compound offered a great chance to decapitate
+      the leading decision makers all together. This followed the U.S. military handbook
+      advice that killing a political leader whom the U.S. deems to be undemocratic
+      will liberate popular dreams of regime change. That was the hope of bombing President
+      Putin’s country residence last month, and it was in line with the U.S’s recent
+      Starlink attempt to mobilize popular opposition for revolution in Iran. The joint
+      U.S.-Israeli attack makes it clear that there is nothing that Iran could have
+      conceded that would have deterred the long-standing U.S. drive to control Middle
+      Eastern oil, alongside using Israel and ISIS/Al Qaeda client armies to prevent
+      sovereign nations in the region from emerging to take control of their oil reserves.
+      That control remains an essential arm of U.S. foreign policy. It is the key to
+      the U.S. ability to hurt other economies by denying them access to energy if they
+      do not adhere to U.S. foreign policy. This insistence on blocking the world’s
+      access to energy sources not under American control is why the U.S. has attacked
+      Venezuela, Syria, Iraq, Libya and Russia. The attack on negotiators (the second
+      time America has done this to Iran) is a perfidy that will go down in history.
+      It was to prevent Iran’s intended move to peace, before its leaders could have
+      disproven Trump’s false claim that Iran had refused to give up its desire to obtain
+      its own atom bomb. It would be interesting to know how many of Trump’s insiders
+      placed big bets that oil prices will soar when markets open on Monday morning.
+      The markets last week were vastly underestimating the risk of closing the Oil
+      Gulf. U.S. oil companies will make a killing. China and other oil importers will
+      suffer. U.S. financial speculators also will make a killing, because their oil
+      production is domestic. This fact may even have played a role in the U.S. decision
+      to end the world’s access to Middle Eastern oil for what promises to be a lengthy
+      period. The trade and financial disruption in fact will be so worldwide that I
+      think we can think of Saturday’s February 28 attack on Iran as the true trigger
+      of World War III. For most of the world, the imminent financial crisis (to say
+      nothing of the moral outrage) will define the next decade of international political
+      and economic restructuring. European, Asian and the Global South countries will
+      be unable to obtain oil except at prices that make many industries unprofitable
+      and many family budgets unaffordable. The rise in oil prices also will make it
+      impossible for Global South countries to service their dollar debts falling due
+      to Western bondholders, banks and the IMF. Countries can save themselves from
+      having to impose domestic austerity, currency depreciation and inflation only
+      by recognizing that the U.S. attack (supported by Britain and Saudi Arabia, with
+      ambiguous Turkish acquiescence) had ended the U.S. unipolar order – and with it
+      the dollarized international financial system. If this is not recognized, acquiescence
+      will continue until it becomes unsustainable in any case. If this is the inaugural
+      real battle of World War III, it is in many ways a final battle to decide what
+      World War II was all about. Will international law crumble as a result of the
+      unwillingness of enough countries to protect the rules of civilized law supporting
+      the principles of national sovereignty free from foreign interference and coercion
+      from the 1648 Peace of Westphalia to the UN Charter? And with regard to wars that
+      inevitably are to be waged, will they spare civilians and non-belligerents, or
+      will they be like Ukraine’s attack on its Russian speaking population in its eastern
+      provinces, Israel’s genocide against ethnic Palestinians, Wahabi religious cleansing
+      of non-Sunni Arab populations, or indeed the Iranian, Cuban and other populations
+      under U.S.-sponsored attack. Can the United Nations be saved without freeing itself
+      and its member countries from U.S. control? An early litmus test of where alliances
+      are sorting out will be which countries join the legal move to declare Donald
+      Trump and his cabinet war criminals. Something more than the present ICC is needed,
+      given the U.S. Government’s personal attacks on ICC judges that found Netanyahu
+      guilty. What is required is a Nurenberg-scale trial against the Western military
+      policy that has been seeking to plunge the entire world into political and economic
+      chaos if it does not submit to the U.S. unipolar ruler-based order. If other countries
+      do not create an alternative to the US-European-Japanese-Wahabi offensive, they
+      will suffer what U.S. Secretary of State Rubio called (in his recent Munich speech)
+      a resurgence of the Western history of conquest to the basic principles of international
+      law and equity. An alternative requires restructuring the United Nations to end
+      the U.S. ability to block majority resolutions. In view of the fact that U.N.
+      Secretary-General Antonio Guterres has said that it may be bankrupt by August
+      and have to close its New York City headquarters, this is a propitious time to
+      move it out of the United States itself. The U.S. has banned Francesca Albanese
+      from entering the United States as a result of her report describing Israeli genocide
+      in Gaza. There can be no rule of law as long as control over the U.N. and its
+      agencies remains in U.S. hands and those of its European satellites. Photo by
+      Amari Shutters on Unsplash The post Negotiation to Detonation first appeared on
+      Michael Hudson .
+    one_sentence_summary: The Omani foreign minister announced a significant breakthrough
+      in U.S.-Iran nuclear negotiations, revealing that Iran agreed to halt enriched
+      uranium accumulation and allow comprehensive IAEA verification, which he believes
+      could lead to a deal ensuring Iran never possesses nuclear bomb material.
+    paragraph_summary: In a significant development in U.S.-Iran nuclear negotiations,
+      Omani Foreign Minister Badr Albusaidi announced a breakthrough during an appearance
+      on CBS’s Face the Nation, revealing that Iran had agreed to halt the accumulation
+      of enriched uranium and allow for comprehensive verification by the International
+      Atomic Energy Agency (IAEA). This concession, which goes beyond previous agreements
+      made during President Obama's administration, could pave the way for a deal ensuring
+      Iran does not develop nuclear weapons. Ayatollah Ali Khamenei, who has consistently
+      opposed nuclear armament, convened a meeting with Iranian leaders to discuss ratifying
+      the agreement. However, the potential for a peaceful resolution faces resistance
+      from the U.S. and Israel, who may view such an agreement as undermining their
+      strategic interests in the region, particularly regarding control over Middle
+      Eastern oil and the use of regional allies to counter independent oil-producing
+      nations.
+    published: '2026-03-02T12:21:30+00:00'
+  - title: Oil Shock Looming in the Persian Gulf
+    url: https://michael-hudson.com/2026/03/oil-shock-looming-in-the-persian-gulf/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 19, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back.
+      ⁣MICHAEL HUDSON: Good to be here, especially today. ⁣NIMA ALKHORSHID: Yeah. Please
+      hit the like button and follow Richard on his website, democracy at work.info
+      and on his YouTube channel, the same name, Democracy at Work. Yes. And Michael
+      Hudson, you can see right below his name, michael.hudson.com. ⁣MICHAEL HUDSON:
+      Michael hyphen Hudson. ⁣NIMA ALKHORSHID: Exactly. And please go there and you’re
+      going to find the transcript of all of these talks that we’re doing on Michael’s
+      website. And Richard is doing a tremendous work on democracy at work. And I think
+      most of our audience know your work, Richard, and they appreciate what you’re
+      doing. Let me start with what’s going on, Michael, in the Middle East. And the
+      conflict is getting somewhere. It seems that you look at the mainstream media,
+      it seems that a huge war would happen anytime, at any moment, 24 hours, 48 hours,
+      72 hours, [there are] many predictions here. But what does the market say about
+      the conflict in the Middle East? And how is that going to influence the whole
+      economy, the global economy? ⁣MICHAEL HUDSON: Well, that’s a very relevant question
+      because, while most of your guests are military and they’re all talking about
+      it, it looks like a build-up and the time to strike, if there is a war, is going
+      to be this weekend, the market is remarkably stable. You have crude oil up less
+      than 2%. It’s only up to 66 and a quarter right now. That’s not up that much from
+      $62 at the start of this week. And yet, forecasts are going to say that if there
+      is a war, oil is going to go way up to over $100 a barrel and considerably up,
+      maybe $120 or more a barrel, because there’s going to be [an] interruption of
+      oil and Iran’s going to sink a ship in Hormuz, the oil gulf, which is going to
+      block Saudi Arabia and the other Arab countries from adding their oil onto the
+      world market. So there’s going to be a huge shortage there. And war is going to
+      cause a financial crisis as well. For instance, imagine if there is a war, the
+      very first thing, the easiest thing that Iran can do that the U.S. and its allies
+      cannot block is sinking a ship in Hormuz and creating this international blockage
+      of oil. Well, that means if prices of oil goes up, this is going to squeeze the
+      global south countries and other oil importers, and that’s going to prevent them
+      from paying their foreign debts. You can’t both get your energy to heat your buildings
+      and provide electricity and pay the debts. Something is going to give, and this
+      is going to be force majeure. And so you’re going to have a huge destabilization
+      of banking. And yet there’s been hardly any change at all in stock prices or bond
+      prices. Gold’s recovered very slightly, just back over $5,000 an ounce, and the
+      dollars remain stable. So it’s as if the financial markets are saying, well, this
+      is all for show. Trump’s putting all of these ships there and the Air Force and
+      the enormous airlift he’s been doing just to help his negotiating position. But
+      this doesn’t make sense to me because Iran has already said we’re not going to
+      negotiate on anything except our willingness not to build an atomic bomb. We’re
+      not going to destroy our missiles. We’re not going to stop supporting our Shia
+      allies in Lebanon, in Palestine, and other countries. So Trump is backed into
+      a corner. It occurred to me that if there is going to be turmoil in the market,
+      then anyone who knows in advance that a war is coming—such as Donald Trump and
+      his insiders—could make billions by profiting from it, for example by buying put
+      options or speculating in forward markets on oil prices, the dollar, and interest
+      rates. And so, even if he were to lose the war, Trump could still make billions
+      from the resulting market movements. And perhaps Miriam Adelson might respond
+      by providing additional financial support, as she previously did following the
+      appointment of Marco Rubio as Secretary of State. I’ll give you another quarter
+      billion if you go through this, you know, into your personal accounts and your
+      offshore accounts and your cryptocurrency accounts. So, all of these things that
+      people think might make him reasonable actually may make him unreasonable if you
+      think the way Donald Trump thinks. How can I make money? And where do I fit into
+      all of this chaos in a way that I can come out a winner in the way that matters
+      to me? So, I think, at first, there was a hope that his increasing of his naval
+      and air force [was] a bluff, but it was not a bluff. Iran didn’t give into anything
+      and it won’t. And Foreign Minister Lavrov of Russia gave a speech yesterday explaining
+      that the U.S. inspectors are biased and they can’t be trusted to look even at
+      what Iran is doing for its uranium enrichment, that they just act basically as
+      spies for Israel, and [that] the U.S. is saying, here’s where you want to hit
+      Iran, where it’ll hurt. Here are the leading scientists that we’ve spoken to.
+      These are the guys we want you to kill with your motorcycle terrorists. So I think
+      that all this is going to be pushing Trump forward. And also the timing of it.
+      Tomorrow, Trump is having his Board of Peace meeting in Washington with all of
+      the Arab countries and the allies that have signed on for the Board of Peace.
+      They’re going to be in Washington tomorrow for the meeting and to give him the
+      billions of dollars of support, $5 billion already has been promised. And on Tuesday,
+      Trump gives his State of the Union speech. And by the end of the week, the Democrats
+      have said yesterday that if Trump doesn’t go to war this weekend, that they’re
+      going to use the opportunity in Congress to pass a resolution that Trump has to
+      get congressional approval to go to war. And this may very well force Trump to
+      say, well, for all I know, the Democrats may have Republican support. I’d better
+      hit it now. All of the moves by the Democrats and by the people who are ostensibly
+      wanting to prevent war are actually giving him a time limit, a time constraint,
+      saying, well, we don’t want you to go to war, but if you do go to war, you better
+      make it this weekend. So that’s the timing. And I think the consequences that
+      you ask about—what will the economic effects be on the U.S., on the world—they’re
+      so serious that I think people really can’t think about it seriously enough to
+      put a lot of money in. Because as you can imagine, the price of buying forward
+      put options to buy oil at an inexpensive price are so high that the markets are
+      just frozen in, they’re frozen in place. And so, unlike most wars where you have
+      the business interests and the financial interests playing a role, they’re really
+      just sitting on the sidelines here. They’ve been stymied. ⁣NIMA ALKHORSHID: Richard,
+      your understanding of the chaos in West Asia. ⁣RICHARD WOLFF: Well, given that
+      Michael has looked at—let’s call them for the moment the immediate or short-term
+      considerations that are piling in on this situation—let me take a step back and
+      talk about the longer run and where, in the longer run, all of this might fit.
+      And here’s how I see it. I reread the recent speeches of Mr. Vance and Mr. Rubio.
+      And what I come away with, particularly with Rubio’s speech at the Munich Security
+      Conference last week, is, as a number of people have pointed out, Mr. Rubio came
+      very close to suggesting that colonialism is back and that we ought to be supportive
+      of it. He substituted the word culture, our culture. We have to protect our culture
+      and all of this other stuff. This is from a man whose relationship to culture
+      is that it’s a challenge if he can spell it. What is going on here now is beginning
+      to take a particular shape. And I’m going to use the word colonial. There is the
+      reaffirmation of the Monroe Doctrine. Latin America is ours. And there’s a very
+      important emphasis on military. We don’t have the economic power that a colonial
+      authority might once have been able to use. And we don’t have the political authority
+      in the world anymore. When the UN votes, it’s the United States allied with Israel,
+      and that’s not a very large number if you have 190 countries that are voting,
+      right? We are isolated and more so with each passing day. We have military. So
+      what do we do? We use our military to hassle Cuba. We use our military to snatch
+      the leader of Venezuela out of his bed. And we have our military that has now
+      executed 135 people in boats, which, by the way, it is continuing to do because
+      even though the Venezuela excuse is gone, the Maduro excuse is gone, that was
+      the excuse early on. These were all quote-unquote Venezuela narco-terrorists.
+      Now they are more generic. What is this? This is the affirmation of colonialism
+      revived and done militarily because we don’t have the alternative anymore. We
+      don’t have economic… The Chinese are beating us even in Latin America, economically.
+      The growth is Chinese, not American, et cetera, et cetera. And now let’s add:
+      now it becomes clear that, yeah, you want to expand your territory. You are very
+      upset because the alliance between Russia and China has as one of its consequences
+      the world’s most developed industrial country, China, with the world’s largest
+      country by geography, Russia, with enormous Siberian and Arctic territories that
+      are going to be discovered sooner or later to have oil or gas or lithium or whatever
+      it is that they’re looking for. The United States doesn’t have neither the industry
+      of China nor the geography of Russia. Unless, of course, it could snatch Greenland
+      and Canada, because that would give them precisely the equivalent or roughly equivalent
+      land mass, underdeveloped or non-developed at all, that would put them [on an
+      equal footing with Russia and China]. That’s how they think, and that’s roughly
+      correct in a certain way of thinking. And now they have to be careful because
+      there is, of course, a possibility, a third one, that the Europeans will finally
+      understand that they’re being transformed from an ally into a tributary. And if
+      they have any chance of escaping, then they will need Greenland and Canada. And
+      the competition becomes, if you follow me, between Europe and the United States
+      for hegemony, both in North America and in South America. Okay, if that’s a reasonable
+      framework, then I can understand the desire for a short, effective destruction
+      of Iran. Why? Because their ally, the only ally [that the United States now has],
+      Israel, is going to be the one who has to manage the Middle East. The United States
+      cannot do Latin America and develop North America and manage, you know, everything
+      from the Central Asian republics all the way over North Africa and all of the
+      Middle East in between. That will be Israel’s job. And the United States will
+      help them, but that’s how the spheres of influence, the colonialism, that’s what’s
+      going to happen. Europe will fight for Canada and Greenland. The United States
+      will push China out of Latin America or try to. And so we see a kind of a global
+      rehash of what looks a lot like the end of the 19th century, in which you carve
+      up Africa or you literally carve up the world among France and Germany and Britain,
+      and then they all kill each other in World War I. And now we are reproducing that
+      all together with the same sort of calculus, which often mystifies people because
+      it’s really not just about where things are. It prides itself on being forward-looking
+      into a vague future which has to be controlled, lest it fall into the hands of
+      the other. That way of thinking. The first book I ever wrote was about British
+      colonialism in East Africa. And I remember being struck by how much of the decision-making
+      about that little corner known today as Kenya in East Africa, how that was governed
+      by calculations in London about what the French were doing and the Germans were
+      doing and what they would likely do in the next decade. It may have been deluded,
+      but it was the way they were thinking. And I’m finding the same logic being articulated
+      now. ⁣MICHAEL HUDSON: Well, you’ve given the long-term setting, but as Keynes
+      said, in the long run, we’re all dead. And we’ve been discussing this setting
+      for quite a while. When you bring up what Rubio said at the United Nations, what
+      he said was not only a celebration of Europe’s role of mission civilisatrice ,
+      to bring civilization to Africa, by doing the things that it’s done to Africa
+      and the rest of the world. But his big speech was about how the United Nations
+      is obsolete and the United States has to just act in its total self-interest and
+      other countries have to follow it. And his speech was a repudiation of the United
+      Nations. It’s just wonderful. He said, we don’t need to dismantle the global institutions
+      of the old war, but we have to rebuild them. And we can’t allow those who blatantly
+      and openly threaten our citizens and endanger our global stability to shield themselves
+      behind abstractions of international law, which, obviously, he wants to replace
+      this with Trump’s board of peace that says we are the law. Trump is appointing
+      all of its officers… And you’re right to point out that America has hopes that
+      Israel is going to act as its enforcer, along with its even major ally, al-Qaeda
+      and Saudi Arabia, and the Salafists, the Wahhabi people who are killing the Shia
+      and killing everybody who does not support Israel and the United States. All that
+      is true. But if Israel is going to be wiped out in the first salvo by [Iranian]
+      missiles in response to the attack, then Israel won’t be able to play this role
+      anymore. And it’s very unlikely that Turkey and Iran and Russia are really going
+      to let the Wahhabi crazies in Syria [remain] in control, doing all of the killing.
+      Lavrov again gave a speech saying the destabilizing factor in all this is Europe.
+      Three times he said Europe is now Nazi. It said the European values, and he quoted
+      Merz and others [saying that] European values are those of Ukraine. You must exterminate
+      the Slavic speakers and the Russian speakers. You must exterminate the enemy just
+      as the Wahhabis are exterminating their enemies. That’s the European value. That’s
+      what we did in Africa. That’s what we’ve done in the Near East. That’s what our
+      settlers did in North and South America. I mean, Lavrov’s speech is really eloquent
+      on that. Is it okay if I bring the discussion back and talk about the Near East?
+      ⁣RICHARD WOLFF: Of course, of course. ⁣MICHAEL HUDSON: Okay. Well, I think what
+      Trump is missing is that the Iran war is different from what happened in the last
+      very short war. Russia and China have provided Iran with enormous air defenses,
+      and China has a submarine that’s threatening the U.S. aircraft carriers there.
+      That almost right away, if there are missiles coming from a boat, a destroyer
+      boat or a submarine, the Chinese and the Russians will immediately be able to
+      wipe out the naval sitting ducks. And if there are airplane missiles or missiles
+      launched from the American bases in Qatar or other Near Eastern countries, those
+      bases and the countries themselves will be very quickly wiped out. In the past,
+      Iran has been very much like Putin has in Russia. It’s a tit for tat. You do something
+      for us; we will react proportionally in kind. Well, that’s not going to be proportional
+      now because, given the enormous armada that the United States has put in place
+      and will complete putting in place, I’m told on Saturday, at least that’s what
+      Trump’s people have told Congress and CNN and the media, then the attack on Iran
+      with all of the attacked troops, apparently for an armed and preparing for an
+      armed invasion or for a seizure of Khomeini himself, focusing on Riyadh, I’m sorry,
+      focusing on the Iranian capital. The only way to respond in kind is with equal
+      totality. And that will be a quick and rapid totality because you want to do it
+      while the iron is hot, because you don’t know what is up the sleeve of the American
+      strategists. And they’re going to take everything they can against Iranian missiles
+      and against Iranian sites as fast as possible. So the war, the retaliation, is
+      going to go maximum level very, very quickly within an hour or two. This is not
+      going to be like the past war at all, given the vast array of arms against Iran.
+      And so this time, Iran is really going to close the oil gulf right away. And there
+      are less than two weeks before the Chinese and Russian Navy comes to the Iranian
+      region to do their scheduled war game exercises. And so that’s another constraint
+      on Trump. We’d better have the war now instead of later, because there will never
+      be a less bad time for the war. I won’t say a better time for the war, but a less
+      bad time than right now. And if we’re going to have a war, now is the time to
+      do it. And this allied calculation is going to be: if it’s world-changing, you’re
+      going to have Russia accompany, no matter what happens this weekend, Russia’s
+      already announced it’s going to accompany its oil tankers with warships to shoot
+      down planes or helicopters that try to board them. The United States has been
+      seizing Russian tankers and preventing them from going towards Cuba and resupplying
+      it. The United States wants to do to Cuba what Israel and the United States have
+      done to Gaza. And Russia now has already said, okay, we’re now protecting and
+      arming our sea trade. Everything the United States is doing, right along the lines
+      that Rubio has said, is: “We make the law. There’s no international law. Other
+      countries are citing it. We’re rejecting all that. The United Nations is over.”
+      I mean, that was as blunt a statement as you can have. And why would he make this
+      statement at the Munich conference last weekend, unless this means not only is
+      the old world post-1945 world of the United Nations Security Council over, but
+      the whole body of international law is over. And we now have a rules-based order.
+      One of my Patreon commenters said it should be called the ruler-based order because
+      there aren’t any real rules. It’s whatever the ruler, the United States, says
+      is going to be happening, is going to be what’s happening. So you’re going to
+      have essentially the United States attack on Iran and the related movements that
+      it does in the Near East is going to essentially be the founding act of this new
+      order to go hand in hand with Trump’s meeting this weekend of his Board of Peace
+      with the Orwellian named Board of Peace. So the question is whether Israel will
+      somehow force Trump’s hand. Suppose that the Wall Street and the investment communities
+      [say] all right, we’ve convinced Trump not to do this, and the army has told him
+      if you have a war in Iran, we’re not going to win. Suppose that’s true. Well,
+      what Israel can do is force it. Israel will attack Iran by itself. I can’t imagine
+      how they can do this logically. It doesn’t make sense to me. But if, as a final
+      act, Netanyahu does it, saying, well, that’s going to force Trump to defend it,
+      because, of course, Trump can explain to Congress, yes, you didn’t authorize me
+      going to war, but I didn’t go to war. This is simply defending our ally in its
+      time of need. And if we don’t support Israel in this, then Iran is going to destroy
+      it. Well, from everything that your military guests [you have] had on your show
+      [have said], Nima, Iran is easily able to do to Israel what it showed that it
+      could do before on two occasions, sending its missiles and its drones over to
+      get right through the Iron Dome and wipe out Haifa, wipe out Tel Aviv, wipe out
+      wherever it chooses within Israel, including sites in Jerusalem itself with its
+      very highly targeted missiles. So, this is what makes things so different this
+      time. And all of the momentum within the U.S. government, within Trump’s advisors,
+      within the Democratic Party, his advisors are almost all neocons. They’re all
+      very supportive of Israel. And they’ve tried to put the war that they’re planning
+      in exactly the long-term perspective that you’ve been talking about, Richard.
+      They say this is what it’s all about. We are going to reclaim our ability to control
+      the world, just as Britain and France, and Germany, and Belgium controlled South
+      Africa, and Spain and Portugal controlled South America. We are now in their position.
+      We can do what Europe did. Europe, won’t you help support us … as we do to the
+      global south just what you did when you were in control? We’re all brothers. That
+      basically is the binding ideology of all of this …  to try to mobilize them all.
+      And it’s pretty awful. This political setting is what’s even more pessimistic
+      than the military commentary that you’ve been having on your sites, Nima. ⁣RICHARD
+      WOLFF: Yeah, let me pick up on that. Let’s do an exercise. Let’s suppose everything
+      Michael said is correct. Let’s suppose … then we have the following to keep in
+      our mind. In 1970, in the 1970s, the American political and military establishment
+      undertook a massive war in Vietnam. They thought they could win. They were relatively
+      more powerful then than they are today, and their opposition was much weaker than
+      it is today. The North Vietnamese Communist Party had the support of a relatively
+      weak Russia and a very weak China. The United States was defeated. Then there
+      was the war in Afghanistan. And I won’t, you know, I’m not going to bore everybody,
+      but the United States was defeated again. It thought it could easily defeat the
+      Taliban, and the Taliban defeated the United States. And it hasn’t done well in
+      Iraq, given the situation there, and it can’t even control Libya, et cetera, et
+      cetera. So, one way to understand what Michael is wanting us to see is that we
+      may be on the edge of what will be looked back on as the third and final mistake
+      of the American military. You thought you could win in Vietnam, you didn’t. You
+      thought you could win in Afghanistan 20 years later, and you didn’t. And now you
+      think you’re going to win in Iran. You’re not. Iran is bigger than those other
+      two countries combined, and it’s better developed, and has [been] for a longer
+      time, and has more allies and stronger allies. This is not a very good story.
+      The United States is relatively weaker. Maybe not in military counting, but given
+      all the resources expended on Ukraine, even that is not so clear. I can see why
+      the United States has mobilized more aircraft carriers and more ships and planes.
+      It better. I’m sure they’re aware of what I’ve just said. They better offer overwhelming
+      force because a declining empire only has so many opportunities to overreach.
+      Eventually, that’s how they all fall. They try one more campaign against one more
+      group of infidels or wild people or barbarians, and then it’s over. So the United
+      States’s nightmare is: is this a colossal mistake? I don’t have an answer to this
+      question, but let me leave you with a thought. Their biggest hope may be to use
+      the overwhelming force to make some sort of deal with the Iranians because they
+      don’t want to risk this being the final overreach of their effort. They really
+      don’t, they’re not sure how that would play out. And I want to make it clear:
+      that first meeting today, I believe, of the Board of Peace, the Europeans have
+      said they’re not coming. The European countries that joined the Board of Peace
+      are not [sending] any delegation to represent them to the first meeting of what
+      they agreed to be a part of. Okay, this is Europe beginning to recognize, I think—my
+      guess is, by the way, too little and it’s too late—but they are beginning to recognize
+      what they’re up against. And they will make deals with Carney in Canada. And they
+      will stiffen their opposition in Greenland because it is their only remaining
+      chance. And it’s not a good one, but they have nothing. They really have nothing
+      anymore. Mr. Rubio told them that. So I’m wondering whether the United States
+      really wants to take that risk. How could you do it? How could you control Iran?
+      You’d have to land troops. But Iran is an immense country, and it will have an
+      immense number of well-armed people fighting against you, for years. What is this?
+      You really want this? Well, Israel wants it because that would demobilize Iran
+      from playing much of a role outside. But wow, that is an enormous risk to take
+      for that. Let me quote Mr. Rubio. He said at one point: “We don’t want to be the
+      people who manage the decline in an orderly way.” Notice he admitted the decline
+      of the American Empire. “We don’t want to manage it in an orderly way.” That’s
+      a way of saying we’re going to be disorderly. And that’s what [it] is. It’s very
+      disorderly, but it is the management of a decline, whatever adjective you give
+      it. And taking the chance of a war that will or can involve Russia, China, and
+      the BRICS, that is a risk beyond all [we have ever seen]. It’s one thing to decide
+      to go to war in Vietnam. It’s another to decide in Afghanistan. Those were, at
+      the time, two of the poorest countries on earth. Tiny countries, no resources,
+      no military. Okay, I understand having come out of World War II as the dominant
+      power, you felt confident you could. All of that’s gone. And that’s got to play
+      a role here also. ⁣MICHAEL HUDSON: Well, Richard, you mentioned U.S. weakness
+      at the beginning, and its supply of missiles has been exhausted in Ukraine and
+      Israel. So it really doesn’t have its military supply of armaments… that’s never
+      been [more apparent]. And again, there will be no deal with Iran. And the sort
+      of idea that Trump can do what he usually does, make a bluff and say, look, look
+      at the big armada. Look at how we can hurt you. Iran has already said, we’re calling
+      your bluff. We’re not going to give in and [give you] what you want. We’re going
+      to keep our missiles. We’re going to support our Arab and Shiite allies against
+      the attacks on them. And I think that the question is regarding taking a risk.
+      It’s not what the United States wants. It’s what Trump and Israel and the neocons
+      want for themselves and for their ideology. And just as they’ve been willing to
+      sacrifice the Ukrainian population just to try to bother Russia and give a marginal
+      drain on it, they’re willing to sacrifice the United States for their ideological
+      gain and their personal gain. And again, I want to quote it, since you’re quoting
+      Rubio twice, I want to come back with a quote from him that I also think shows
+      where things are going. Rubio said, an alliance ready to defend our people, to
+      safeguard our interests, and to preserve the freedom of action that allows us
+      to shape our own destiny, and one that exists to operate a global welfare state
+      and atone for the purported aims of the past generation. Well, he’s against all
+      that. He wants an alliance that does not allow its power to be outsourced, constrained,
+      or subordinated to systems beyond its control, like the Security Council or what
+      other nations want. And he concludes, and one that does not maintain the polite
+      pretense that our way of life is just one among many and asks for permission before
+      it acts. Well, there you have it. He’s not going to ask for permission. It doesn’t
+      matter. I think Europe refused to come up with a billion dollars that America
+      is paying because America is making such huge financial demands on Europe that
+      that’s its token way of fighting back. And I don’t think much can be read into
+      that. Europe is right behind the Americans doing to the rest of the world what
+      Britain and France and other European countries did to the world during the colonial
+      era. So, I think that we’re dealing with… it all really comes down to Trump’s
+      self-interest, [which is] well, will I get paid more money if I go to war with
+      Iran or if I don’t go to war with Iran? His perspective is not what’s good for
+      the American people, it’s what’s good for him. I think he’s shown that again and
+      again in every action that he’s taken over the past year of his first year of
+      his second administration. ⁣RICHARD WOLFF: Yeah, I don’t disagree. I just think
+      that he’s also under the pressure of all the various groups in our culture that
+      are worried about where things are going, whose interests are at stake here, and
+      who will push him against what he wants to do if it hurts them. I think you’re
+      seeing that even inside his MAGA audience, he is having more and more trouble
+      losing support, losing polling, because he, for example, the war, he promised
+      no wars, and he’s having more wars than anybody can remember having and threatening
+      even more down the and the MAGA people who supported him. You know, they’re not
+      happy with the Epstein horror, and they’re not happy now with the war horror.
+      He’s digging himself into a hole that he has to be concerned about, otherwise,
+      the elections in November, and you know, that’s really only nine months away,
+      are going to kill him. ⁣NIMA ALKHORSHID: Yeah. Michael, I think one of the most
+      important points right now is how China feels about the whole situation in the
+      Middle East, because China has lost, you know, Venezuela. And Venezuelan oil is
+      not going to get to China anymore. And with the case of Iran, how do they feel
+      about the whole situation with the energy? Because the security of China somehow
+      is connected with the energy and how they can guarantee the supply of energy to
+      China. ⁣MICHAEL HUDSON: Well, that’s exactly it… To start off, let me give one
+      more quote from Rubio regarding energy and what you just said, from Rubio’s talk.
+      We in America have no interest in being polite and orderly caretakers of the West’s
+      managed decline. The alliance that we want is one that is not paralyzed by inaction
+      and by fear. Fear of climate change, meaning don’t use oil. Fear of war, meaning
+      don’t worry, we’re not afraid of going to war. Fear of technology. Well, China
+      has the technology. It is a major victim of global warming. Yesterday, there was
+      the highest, I think it was 43 degrees centigrade in parts of western China that’s
+      really very serious and causing drought there, as it’s causing throughout the
+      whole world. China realizes that the American fight against Russia is an attempt
+      to somehow pry Russia away from its symbiotic economic and political relationship
+      with China. That’s not going to happen, but the Americans hope springs eternal
+      for that. So, China realizes that, yes, the United States is really the enemy
+      for all of this. It wants to destroy us. Its whole idea of military bases throughout
+      the world is to bring us around and to prepare for… to do with us for what the
+      war in Iran is a dress rehearsal. If America can win in Iran, that will give the
+      American politicians and the American Army and Navy and Marines and Air Force
+      the idea that somehow they can repeat a victory, a hypothetical victory in Iran,
+      in China. So I think China realizes this is sort of the test case for what America
+      may want to do with it. It realizes that the reason that America wants to control
+      Near Eastern oil and Venezuelan oil and Iranian oil is to be able to turn off
+      the oil spigot to weaponize the world oil trade in order to deprive China of energy,
+      which is exactly why China has been developing wind energy and solar energy, as
+      we’ve discussed before. And the Americans are trying to belittle all of this and
+      saying, Trump has pulled out of all of the climate protection agreements that
+      are international. And China realizes that the whole world has to move against
+      this global warming. The whole world has to cut back on carbon-based fuels in
+      order to prevent drought and overheating and extreme weather from happening everywhere.
+      But at the same time, China does need oil for the interim and it needs gas to
+      heat its homes while it is busy putting in place the enormous increase in electrical
+      power production that it’s done through its wind and solar energy innovations,
+      which Europe is far, far behind in. And so I think that’s the setting. For China,
+      this is the test case. But there’s also the mentality at work. And China does
+      not like to take risks. It doesn’t want to get involved in war. And it’s been
+      even trying to deter Russia from the special military operation in Ukraine, or
+      at least from extending the war to Western Europe. But I think given the Western
+      Europe’s attack on China, we’ve talked about Nexperia and the Western Europe decision
+      that they will not let any majority ownership of China, of a European country
+      that China owns, exist. In other words, banning Chinese business, banning Chinese
+      investment, doing to China and Europe what America has just done to China regarding
+      the Panama Canal. You know, we’re just going to confiscate whatever you’ve taken
+      everywhere. You, China, cannot have investments in any country in the world. We’re
+      isolating you. Well, so far, Trump’s attempt at isolating China and its allies,
+      the 85% of the world’s population, it seems, is isolating the United States. And
+      that will probably be the effect of the American and Israeli war against Iran.
+      This will ultimately isolate the United States. But to do that, China has to do
+      everything it can to protect Iran and to defend it against destroyers and aircraft
+      carriers that are trying to send missiles into Iran and defend it by using its
+      submarines to sink the destroyers and the aircraft carriers, to provide all of
+      the armaments that it and Russia have been building up in Iran that Iran didn’t
+      have before. So this is not really a fight over just Iran. Iran is very much like
+      Ukraine. It’s the arena, it’s the battlefield for the fight by America and Europe
+      against Asia and the global south countries. And I think that when you put it
+      in this long-term perspective or big whole world perspective, that’s going to
+      lead it to act in a much more proactive way than it’s done in the past. ⁣RICHARD
+      WOLFF: Well, if that’s true, if this is, to use my language, if it is an overreach,
+      a bigger struggle involving more players who can throw more resources into it,
+      then we are at the edge now of a very, very dangerous abyss whose outcome is going
+      to change everything in ways that none of the combatants can be sure to control.
+      ⁣MICHAEL HUDSON: Yes, I agree. ⁣RICHARD WOLFF: The whole point of global relationships
+      is not to get to that situation. It’s not to avoid jumping, it’s to avoid getting
+      to a place where jumping becomes even conceivable. You know, if I had a research
+      team, I could find quotations both from Mussolini and from Hitler that sound very
+      much like Mr. Rubio. We are not going to, you know, they withdrew from the League
+      of Nations. Italy withdrew, Germany withdrew, Japan withdrew, and then they went
+      to war. The United States has withdrawn from the United Nations. The headquarters
+      are here in New York City, but the United Nations, you know, the United States
+      has withdrawn in effect from most of the United Nations. And setting up the Board
+      of Peace is a laughable alternative. You know, it’s not a serious proposition
+      about anything other than Mr. Trump’s self-aggrandizing posturing. It’s like taking
+      over the Kennedy Arts Center in Washington, D.C. and naming himself the chair.
+      That changes nothing. It makes a joke out of the Kennedy Center, which he has
+      now closed because it’s such a joke and such an embarrassment that he’s closed
+      it for two years. All right? I wouldn’t be surprised if the Board of Peace has
+      one of the shortest lifespans in the history of global activity. ⁣MICHAEL HUDSON:
+      Well, Richard, since you mentioned the United Nations and the U.S., its head,
+      Gutierrez, has said that by August, the United Nations goes broke. The Americans
+      have refused to pay its arrears for the last few years. And if it goes broke,
+      Gutierrez says, we’re going to have to close down the United Nations in New York.
+      Well, maybe Trump can buy it, the building, and call it Trump Tower number two.
+      But at any rate, if the UN headquarters is broke and can no longer be paid for
+      because the United States refuses to pay the arrears that have accumulated not
+      only to the UN, but to many UN agencies, the quarter billion to the World Health
+      Organization… I could go right down the line. That sort of tells you what you
+      need to know right there. Yes, it’s over. ⁣RICHARD WOLFF: When you behave in this
+      way, whether you intend it or not, you mobilize the world to do things that make
+      your situation worse. In the long run, colonialism’s failure to economically develop
+      the colonies sooner or later forced masses of people in one colony after another
+      to turn against their colonial masters. That’s why we’ve been living for the last
+      century in a century of anti-colonialism. Right? They didn’t intend it, but they
+      produced, if I could quote Karl, they produced their own gravediggers. They didn’t
+      mean to, they thought they were doing something completely different. If the United
+      States withdraws and isn’t going to be bound by force, then it is setting itself
+      a goal which is, if you think about it, very strange for a country with 4.5% of
+      the world’s population mobilizing the other 95% against itself. In the short run,
+      this is wonderful. In the medium and long run, this is a recipe for self-destruction.
+      ⁣MICHAEL HUDSON: Well, the colonialists and the financial sector live in the short
+      run, Richard. Colonialism did fail to develop the colonies. It could have, it
+      only scratched the surface. It extracted the minerals and it extracted whatever
+      it could, but it failed as a system, but it made many families rich. And these
+      are the European families that still control Europe today. It was colonialism
+      that created the great fortunes of the families that are still controlling Europe
+      and making Europe behave the way it did. And just as it was the opium wars in
+      China that made so many New England and leading American families rich, the Peabodys,
+      the others, all these shippers that are in the middle of the opium trade enriched.
+      So, yes, it failed in terms of the political aims of colonialism, but it succeeded
+      in creating an oligarchy that thinks in the short term and has this rotten anti-civilizational
+      view. And that’s the view that dominates the Western elites today. The Davos Class
+      and the… what do they call it? ⁣NIMA ALKHORSHID: They call it the Epstein class.
+      ⁣MICHAEL HUDSON: Yes, yes. And he said the Concierge of Davos, is how he called
+      himself. Yeah. ⁣RICHARD WOLFF: Yeah, you know, and the irony that I like to point
+      out to people is that the one country that never allowed itself to become a real
+      colony, that had a little bit of it, but was horrified by the whole prospect of
+      it, namely China, which went to the left and therefore could not get economic
+      development after World War II of the sort that the United States pioneered, is
+      the one that proved it could do economic development better than all of the recipients
+      of American foreign aid. You know, my generation of young people studying economic
+      development, because we, presumably in the rich West, had the brilliant idea of
+      how to develop our countries and we could convey it to them, never asking the
+      question, why that never happened? Well, what were the forces that rendered all
+      of that [into] ideological fluff? Well, you’re watching the same thing now. This
+      bravado, this language, we’re going to be tough, we’re not going to, it’s delusional.
+      All the rules that they think they’re breaking were the rules of a colonial system
+      after World War II. They now want to change the rules, but they’re not changing
+      the basic system. And it will do to them what it just did to those that they mock.
+      That’s the joke on them. ⁣NIMA ALKHORSHID: Thank you so much, Richard and Michael.
+      It was a great talk, and a great pleasure, as always. See you soon. ⁣MICHAEL HUDSON:
+      Bye-bye. Transcription and Diarization: https://scripthub.dev/ Editing: RALPH
+      LOMBREGLIA Review: ced Photo by Hasan Almasi on Unsplash The post Oil Shock Looming
+      in the Persian Gulf first appeared on Michael Hudson .'
+    one_sentence_summary: Nima Alkhorchid introduces Richard Wolf and Michael Hudson
+      in a discussion about the escalating conflict in the Middle East, urging viewers
+      to support their work and follow their platforms for more insights.
+    paragraph_summary: In a discussion on February 19, 2026, Nima Alkhorchid, Richard
+      Wolf, and Michael Hudson explored the escalating tensions in the Middle East and
+      their potential economic implications. While mainstream media predicts an imminent
+      war, Hudson noted that the market remains surprisingly stable, with crude oil
+      prices only slightly rising to $66.25 per barrel from $62 earlier in the week.
+      Despite forecasts suggesting that a conflict could drive oil prices significantly
+      higher, potentially exceeding $100 or $120 per barrel due to supply disruptions,
+      the current market reaction indicates a level of resilience amidst the geopolitical
+      uncertainty.
+    published: '2026-03-01T22:56:37+00:00'
+  - title: Oil Shock Looming in the Persian Gulf
+    url: https://michael-hudson.com/2026/03/oil-shock-looming-in-the-persian-gulf/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 19, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back.
+      ⁣MICHAEL HUDSON: Good to be here, especially today. ⁣NIMA ALKHORSHID: Yeah. Please
+      hit the like button and follow Richard on his website, democracy at work.info
+      and on his YouTube channel, the same name, Democracy at Work. Yes. And Michael
+      Hudson, you can see right below his name, michael.hudson.com. ⁣MICHAEL HUDSON:
+      Michael hyphen Hudson. ⁣NIMA ALKHORSHID: Exactly. And please go there and you’re
+      going to find the transcript of all of these talks that we’re doing on Michael’s
+      website. And Richard is doing a tremendous work on democracy at work. And I think
+      most of our audience know your work, Richard, and they appreciate what you’re
+      doing. Let me start with what’s going on, Michael, in the Middle East. And the
+      conflict is getting somewhere. It seems that you look at the mainstream media,
+      it seems that a huge war would happen anytime, at any moment, 24 hours, 48 hours,
+      72 hours, [there are] many predictions here. But what does the market say about
+      the conflict in the Middle East? And how is that going to influence the whole
+      economy, the global economy? ⁣MICHAEL HUDSON: Well, that’s a very relevant question
+      because, while most of your guests are military and they’re all talking about
+      it, it looks like a build-up and the time to strike, if there is a war, is going
+      to be this weekend, the market is remarkably stable. You have crude oil up less
+      than 2%. It’s only up to 66 and a quarter right now. That’s not up that much from
+      $62 at the start of this week. And yet, forecasts are going to say that if there
+      is a war, oil is going to go way up to over $100 a barrel and considerably up,
+      maybe $120 or more a barrel, because there’s going to be [an] interruption of
+      oil and Iran’s going to sink a ship in Hormuz, the oil gulf, which is going to
+      block Saudi Arabia and the other Arab countries from adding their oil onto the
+      world market. So there’s going to be a huge shortage there. And war is going to
+      cause a financial crisis as well. For instance, imagine if there is a war, the
+      very first thing, the easiest thing that Iran can do that the U.S. and its allies
+      cannot block is sinking a ship in Hormuz and creating this international blockage
+      of oil. Well, that means if prices of oil goes up, this is going to squeeze the
+      global south countries and other oil importers, and that’s going to prevent them
+      from paying their foreign debts. You can’t both get your energy to heat your buildings
+      and provide electricity and pay the debts. Something is going to give, and this
+      is going to be force majeure. And so you’re going to have a huge destabilization
+      of banking. And yet there’s been hardly any change at all in stock prices or bond
+      prices. Gold’s recovered very slightly, just back over $5,000 an ounce, and the
+      dollars remain stable. So it’s as if the financial markets are saying, well, this
+      is all for show. Trump’s putting all of these ships there and the Air Force and
+      the enormous airlift he’s been doing just to help his negotiating position. But
+      this doesn’t make sense to me because Iran has already said we’re not going to
+      negotiate on anything except our willingness not to build an atomic bomb. We’re
+      not going to destroy our missiles. We’re not going to stop supporting our Shia
+      allies in Lebanon, in Palestine, and other countries. So Trump is backed into
+      a corner. It occurred to me that if there is going to be turmoil in the market,
+      then anyone who knows in advance that a war is coming—such as Donald Trump and
+      his insiders—could make billions by profiting from it, for example by buying put
+      options or speculating in forward markets on oil prices, the dollar, and interest
+      rates. And so, even if he were to lose the war, Trump could still make billions
+      from the resulting market movements. And perhaps Miriam Adelson might respond
+      by providing additional financial support, as she previously did following the
+      appointment of Marco Rubio as Secretary of State. I’ll give you another quarter
+      billion if you go through this, you know, into your personal accounts and your
+      offshore accounts and your cryptocurrency accounts. So, all of these things that
+      people think might make him reasonable actually may make him unreasonable if you
+      think the way Donald Trump thinks. How can I make money? And where do I fit into
+      all of this chaos in a way that I can come out a winner in the way that matters
+      to me? So, I think, at first, there was a hope that his increasing of his naval
+      and air force [was] a bluff, but it was not a bluff. Iran didn’t give into anything
+      and it won’t. And Foreign Minister Lavrov of Russia gave a speech yesterday explaining
+      that the U.S. inspectors are biased and they can’t be trusted to look even at
+      what Iran is doing for its uranium enrichment, that they just act basically as
+      spies for Israel, and [that] the U.S. is saying, here’s where you want to hit
+      Iran, where it’ll hurt. Here are the leading scientists that we’ve spoken to.
+      These are the guys we want you to kill with your motorcycle terrorists. So I think
+      that all this is going to be pushing Trump forward. And also the timing of it.
+      Tomorrow, Trump is having his Board of Peace meeting in Washington with all of
+      the Arab countries and the allies that have signed on for the Board of Peace.
+      They’re going to be in Washington tomorrow for the meeting and to give him the
+      billions of dollars of support, $5 billion already has been promised. And on Tuesday,
+      Trump gives his State of the Union speech. And by the end of the week, the Democrats
+      have said yesterday that if Trump doesn’t go to war this weekend, that they’re
+      going to use the opportunity in Congress to pass a resolution that Trump has to
+      get congressional approval to go to war. And this may very well force Trump to
+      say, well, for all I know, the Democrats may have Republican support. I’d better
+      hit it now. All of the moves by the Democrats and by the people who are ostensibly
+      wanting to prevent war are actually giving him a time limit, a time constraint,
+      saying, well, we don’t want you to go to war, but if you do go to war, you better
+      make it this weekend. So that’s the timing. And I think the consequences that
+      you ask about—what will the economic effects be on the U.S., on the world—they’re
+      so serious that I think people really can’t think about it seriously enough to
+      put a lot of money in. Because as you can imagine, the price of buying forward
+      put options to buy oil at an inexpensive price are so high that the markets are
+      just frozen in, they’re frozen in place. And so, unlike most wars where you have
+      the business interests and the financial interests playing a role, they’re really
+      just sitting on the sidelines here. They’ve been stymied. ⁣NIMA ALKHORSHID: Richard,
+      your understanding of the chaos in West Asia. ⁣RICHARD WOLFF: Well, given that
+      Michael has looked at—let’s call them for the moment the immediate or short-term
+      considerations that are piling in on this situation—let me take a step back and
+      talk about the longer run and where, in the longer run, all of this might fit.
+      And here’s how I see it. I reread the recent speeches of Mr. Vance and Mr. Rubio.
+      And what I come away with, particularly with Rubio’s speech at the Munich Security
+      Conference last week, is, as a number of people have pointed out, Mr. Rubio came
+      very close to suggesting that colonialism is back and that we ought to be supportive
+      of it. He substituted the word culture, our culture. We have to protect our culture
+      and all of this other stuff. This is from a man whose relationship to culture
+      is that it’s a challenge if he can spell it. What is going on here now is beginning
+      to take a particular shape. And I’m going to use the word colonial. There is the
+      reaffirmation of the Monroe Doctrine. Latin America is ours. And there’s a very
+      important emphasis on military. We don’t have the economic power that a colonial
+      authority might once have been able to use. And we don’t have the political authority
+      in the world anymore. When the UN votes, it’s the United States allied with Israel,
+      and that’s not a very large number if you have 190 countries that are voting,
+      right? We are isolated and more so with each passing day. We have military. So
+      what do we do? We use our military to hassle Cuba. We use our military to snatch
+      the leader of Venezuela out of his bed. And we have our military that has now
+      executed 135 people in boats, which, by the way, it is continuing to do because
+      even though the Venezuela excuse is gone, the Maduro excuse is gone, that was
+      the excuse early on. These were all quote-unquote Venezuela narco-terrorists.
+      Now they are more generic. What is this? This is the affirmation of colonialism
+      revived and done militarily because we don’t have the alternative anymore. We
+      don’t have economic… The Chinese are beating us even in Latin America, economically.
+      The growth is Chinese, not American, et cetera, et cetera. And now let’s add:
+      now it becomes clear that, yeah, you want to expand your territory. You are very
+      upset because the alliance between Russia and China has as one of its consequences
+      the world’s most developed industrial country, China, with the world’s largest
+      country by geography, Russia, with enormous Siberian and Arctic territories that
+      are going to be discovered sooner or later to have oil or gas or lithium or whatever
+      it is that they’re looking for. The United States doesn’t have neither the industry
+      of China nor the geography of Russia. Unless, of course, it could snatch Greenland
+      and Canada, because that would give them precisely the equivalent or roughly equivalent
+      land mass, underdeveloped or non-developed at all, that would put them [on an
+      equal footing with Russia and China]. That’s how they think, and that’s roughly
+      correct in a certain way of thinking. And now they have to be careful because
+      there is, of course, a possibility, a third one, that the Europeans will finally
+      understand that they’re being transformed from an ally into a tributary. And if
+      they have any chance of escaping, then they will need Greenland and Canada. And
+      the competition becomes, if you follow me, between Europe and the United States
+      for hegemony, both in North America and in South America. Okay, if that’s a reasonable
+      framework, then I can understand the desire for a short, effective destruction
+      of Iran. Why? Because their ally, the only ally [that the United States now has],
+      Israel, is going to be the one who has to manage the Middle East. The United States
+      cannot do Latin America and develop North America and manage, you know, everything
+      from the Central Asian republics all the way over North Africa and all of the
+      Middle East in between. That will be Israel’s job. And the United States will
+      help them, but that’s how the spheres of influence, the colonialism, that’s what’s
+      going to happen. Europe will fight for Canada and Greenland. The United States
+      will push China out of Latin America or try to. And so we see a kind of a global
+      rehash of what looks a lot like the end of the 19th century, in which you carve
+      up Africa or you literally carve up the world among France and Germany and Britain,
+      and then they all kill each other in World War I. And now we are reproducing that
+      all together with the same sort of calculus, which often mystifies people because
+      it’s really not just about where things are. It prides itself on being forward-looking
+      into a vague future which has to be controlled, lest it fall into the hands of
+      the other. That way of thinking. The first book I ever wrote was about British
+      colonialism in East Africa. And I remember being struck by how much of the decision-making
+      about that little corner known today as Kenya in East Africa, how that was governed
+      by calculations in London about what the French were doing and the Germans were
+      doing and what they would likely do in the next decade. It may have been deluded,
+      but it was the way they were thinking. And I’m finding the same logic being articulated
+      now. ⁣MICHAEL HUDSON: Well, you’ve given the long-term setting, but as Keynes
+      said, in the long run, we’re all dead. And we’ve been discussing this setting
+      for quite a while. When you bring up what Rubio said at the United Nations, what
+      he said was not only a celebration of Europe’s role of mission civilisatrice ,
+      to bring civilization to Africa, by doing the things that it’s done to Africa
+      and the rest of the world. But his big speech was about how the United Nations
+      is obsolete and the United States has to just act in its total self-interest and
+      other countries have to follow it. And his speech was a repudiation of the United
+      Nations. It’s just wonderful. He said, we don’t need to dismantle the global institutions
+      of the old war, but we have to rebuild them. And we can’t allow those who blatantly
+      and openly threaten our citizens and endanger our global stability to shield themselves
+      behind abstractions of international law, which, obviously, he wants to replace
+      this with Trump’s board of peace that says we are the law. Trump is appointing
+      all of its officers… And you’re right to point out that America has hopes that
+      Israel is going to act as its enforcer, along with its even major ally, al-Qaeda
+      and Saudi Arabia, and the Salafists, the Wahhabi people who are killing the Shia
+      and killing everybody who does not support Israel and the United States. All that
+      is true. But if Israel is going to be wiped out in the first salvo by [Iranian]
+      missiles in response to the attack, then Israel won’t be able to play this role
+      anymore. And it’s very unlikely that Turkey and Iran and Russia are really going
+      to let the Wahhabi crazies in Syria [remain] in control, doing all of the killing.
+      Lavrov again gave a speech saying the destabilizing factor in all this is Europe.
+      Three times he said Europe is now Nazi. It said the European values, and he quoted
+      Merz and others [saying that] European values are those of Ukraine. You must exterminate
+      the Slavic speakers and the Russian speakers. You must exterminate the enemy just
+      as the Wahhabis are exterminating their enemies. That’s the European value. That’s
+      what we did in Africa. That’s what we’ve done in the Near East. That’s what our
+      settlers did in North and South America. I mean, Lavrov’s speech is really eloquent
+      on that. Is it okay if I bring the discussion back and talk about the Near East?
+      ⁣RICHARD WOLFF: Of course, of course. ⁣MICHAEL HUDSON: Okay. Well, I think what
+      Trump is missing is that the Iran war is different from what happened in the last
+      very short war. Russia and China have provided Iran with enormous air defenses,
+      and China has a submarine that’s threatening the U.S. aircraft carriers there.
+      That almost right away, if there are missiles coming from a boat, a destroyer
+      boat or a submarine, the Chinese and the Russians will immediately be able to
+      wipe out the naval sitting ducks. And if there are airplane missiles or missiles
+      launched from the American bases in Qatar or other Near Eastern countries, those
+      bases and the countries themselves will be very quickly wiped out. In the past,
+      Iran has been very much like Putin has in Russia. It’s a tit for tat. You do something
+      for us; we will react proportionally in kind. Well, that’s not going to be proportional
+      now because, given the enormous armada that the United States has put in place
+      and will complete putting in place, I’m told on Saturday, at least that’s what
+      Trump’s people have told Congress and CNN and the media, then the attack on Iran
+      with all of the attacked troops, apparently for an armed and preparing for an
+      armed invasion or for a seizure of Khomeini himself, focusing on Riyadh, I’m sorry,
+      focusing on the Iranian capital. The only way to respond in kind is with equal
+      totality. And that will be a quick and rapid totality because you want to do it
+      while the iron is hot, because you don’t know what is up the sleeve of the American
+      strategists. And they’re going to take everything they can against Iranian missiles
+      and against Iranian sites as fast as possible. So the war, the retaliation, is
+      going to go maximum level very, very quickly within an hour or two. This is not
+      going to be like the past war at all, given the vast array of arms against Iran.
+      And so this time, Iran is really going to close the oil gulf right away. And there
+      are less than two weeks before the Chinese and Russian Navy comes to the Iranian
+      region to do their scheduled war game exercises. And so that’s another constraint
+      on Trump. We’d better have the war now instead of later, because there will never
+      be a less bad time for the war. I won’t say a better time for the war, but a less
+      bad time than right now. And if we’re going to have a war, now is the time to
+      do it. And this allied calculation is going to be: if it’s world-changing, you’re
+      going to have Russia accompany, no matter what happens this weekend, Russia’s
+      already announced it’s going to accompany its oil tankers with warships to shoot
+      down planes or helicopters that try to board them. The United States has been
+      seizing Russian tankers and preventing them from going towards Cuba and resupplying
+      it. The United States wants to do to Cuba what Israel and the United States have
+      done to Gaza. And Russia now has already said, okay, we’re now protecting and
+      arming our sea trade. Everything the United States is doing, right along the lines
+      that Rubio has said, is: “We make the law. There’s no international law. Other
+      countries are citing it. We’re rejecting all that. The United Nations is over.”
+      I mean, that was as blunt a statement as you can have. And why would he make this
+      statement at the Munich conference last weekend, unless this means not only is
+      the old world post-1945 world of the United Nations Security Council over, but
+      the whole body of international law is over. And we now have a rules-based order.
+      One of my Patreon commenters said it should be called the ruler-based order because
+      there aren’t any real rules. It’s whatever the ruler, the United States, says
+      is going to be happening, is going to be what’s happening. So you’re going to
+      have essentially the United States attack on Iran and the related movements that
+      it does in the Near East is going to essentially be the founding act of this new
+      order to go hand in hand with Trump’s meeting this weekend of his Board of Peace
+      with the Orwellian named Board of Peace. So the question is whether Israel will
+      somehow force Trump’s hand. Suppose that the Wall Street and the investment communities
+      [say] all right, we’ve convinced Trump not to do this, and the army has told him
+      if you have a war in Iran, we’re not going to win. Suppose that’s true. Well,
+      what Israel can do is force it. Israel will attack Iran by itself. I can’t imagine
+      how they can do this logically. It doesn’t make sense to me. But if, as a final
+      act, Netanyahu does it, saying, well, that’s going to force Trump to defend it,
+      because, of course, Trump can explain to Congress, yes, you didn’t authorize me
+      going to war, but I didn’t go to war. This is simply defending our ally in its
+      time of need. And if we don’t support Israel in this, then Iran is going to destroy
+      it. Well, from everything that your military guests [you have] had on your show
+      [have said], Nima, Iran is easily able to do to Israel what it showed that it
+      could do before on two occasions, sending its missiles and its drones over to
+      get right through the Iron Dome and wipe out Haifa, wipe out Tel Aviv, wipe out
+      wherever it chooses within Israel, including sites in Jerusalem itself with its
+      very highly targeted missiles. So, this is what makes things so different this
+      time. And all of the momentum within the U.S. government, within Trump’s advisors,
+      within the Democratic Party, his advisors are almost all neocons. They’re all
+      very supportive of Israel. And they’ve tried to put the war that they’re planning
+      in exactly the long-term perspective that you’ve been talking about, Richard.
+      They say this is what it’s all about. We are going to reclaim our ability to control
+      the world, just as Britain and France, and Germany, and Belgium controlled South
+      Africa, and Spain and Portugal controlled South America. We are now in their position.
+      We can do what Europe did. Europe, won’t you help support us … as we do to the
+      global south just what you did when you were in control? We’re all brothers. That
+      basically is the binding ideology of all of this …  to try to mobilize them all.
+      And it’s pretty awful. This political setting is what’s even more pessimistic
+      than the military commentary that you’ve been having on your sites, Nima. ⁣RICHARD
+      WOLFF: Yeah, let me pick up on that. Let’s do an exercise. Let’s suppose everything
+      Michael said is correct. Let’s suppose … then we have the following to keep in
+      our mind. In 1970, in the 1970s, the American political and military establishment
+      undertook a massive war in Vietnam. They thought they could win. They were relatively
+      more powerful then than they are today, and their opposition was much weaker than
+      it is today. The North Vietnamese Communist Party had the support of a relatively
+      weak Russia and a very weak China. The United States was defeated. Then there
+      was the war in Afghanistan. And I won’t, you know, I’m not going to bore everybody,
+      but the United States was defeated again. It thought it could easily defeat the
+      Taliban, and the Taliban defeated the United States. And it hasn’t done well in
+      Iraq, given the situation there, and it can’t even control Libya, et cetera, et
+      cetera. So, one way to understand what Michael is wanting us to see is that we
+      may be on the edge of what will be looked back on as the third and final mistake
+      of the American military. You thought you could win in Vietnam, you didn’t. You
+      thought you could win in Afghanistan 20 years later, and you didn’t. And now you
+      think you’re going to win in Iran. You’re not. Iran is bigger than those other
+      two countries combined, and it’s better developed, and has [been] for a longer
+      time, and has more allies and stronger allies. This is not a very good story.
+      The United States is relatively weaker. Maybe not in military counting, but given
+      all the resources expended on Ukraine, even that is not so clear. I can see why
+      the United States has mobilized more aircraft carriers and more ships and planes.
+      It better. I’m sure they’re aware of what I’ve just said. They better offer overwhelming
+      force because a declining empire only has so many opportunities to overreach.
+      Eventually, that’s how they all fall. They try one more campaign against one more
+      group of infidels or wild people or barbarians, and then it’s over. So the United
+      States’s nightmare is: is this a colossal mistake? I don’t have an answer to this
+      question, but let me leave you with a thought. Their biggest hope may be to use
+      the overwhelming force to make some sort of deal with the Iranians because they
+      don’t want to risk this being the final overreach of their effort. They really
+      don’t, they’re not sure how that would play out. And I want to make it clear:
+      that first meeting today, I believe, of the Board of Peace, the Europeans have
+      said they’re not coming. The European countries that joined the Board of Peace
+      are not [sending] any delegation to represent them to the first meeting of what
+      they agreed to be a part of. Okay, this is Europe beginning to recognize, I think—my
+      guess is, by the way, too little and it’s too late—but they are beginning to recognize
+      what they’re up against. And they will make deals with Carney in Canada. And they
+      will stiffen their opposition in Greenland because it is their only remaining
+      chance. And it’s not a good one, but they have nothing. They really have nothing
+      anymore. Mr. Rubio told them that. So I’m wondering whether the United States
+      really wants to take that risk. How could you do it? How could you control Iran?
+      You’d have to land troops. But Iran is an immense country, and it will have an
+      immense number of well-armed people fighting against you, for years. What is this?
+      You really want this? Well, Israel wants it because that would demobilize Iran
+      from playing much of a role outside. But wow, that is an enormous risk to take
+      for that. Let me quote Mr. Rubio. He said at one point: “We don’t want to be the
+      people who manage the decline in an orderly way.” Notice he admitted the decline
+      of the American Empire. “We don’t want to manage it in an orderly way.” That’s
+      a way of saying we’re going to be disorderly. And that’s what [it] is. It’s very
+      disorderly, but it is the management of a decline, whatever adjective you give
+      it. And taking the chance of a war that will or can involve Russia, China, and
+      the BRICS, that is a risk beyond all [we have ever seen]. It’s one thing to decide
+      to go to war in Vietnam. It’s another to decide in Afghanistan. Those were, at
+      the time, two of the poorest countries on earth. Tiny countries, no resources,
+      no military. Okay, I understand having come out of World War II as the dominant
+      power, you felt confident you could. All of that’s gone. And that’s got to play
+      a role here also. ⁣MICHAEL HUDSON: Well, Richard, you mentioned U.S. weakness
+      at the beginning, and its supply of missiles has been exhausted in Ukraine and
+      Israel. So it really doesn’t have its military supply of armaments… that’s never
+      been [more apparent]. And again, there will be no deal with Iran. And the sort
+      of idea that Trump can do what he usually does, make a bluff and say, look, look
+      at the big armada. Look at how we can hurt you. Iran has already said, we’re calling
+      your bluff. We’re not going to give in and [give you] what you want. We’re going
+      to keep our missiles. We’re going to support our Arab and Shiite allies against
+      the attacks on them. And I think that the question is regarding taking a risk.
+      It’s not what the United States wants. It’s what Trump and Israel and the neocons
+      want for themselves and for their ideology. And just as they’ve been willing to
+      sacrifice the Ukrainian population just to try to bother Russia and give a marginal
+      drain on it, they’re willing to sacrifice the United States for their ideological
+      gain and their personal gain. And again, I want to quote it, since you’re quoting
+      Rubio twice, I want to come back with a quote from him that I also think shows
+      where things are going. Rubio said, an alliance ready to defend our people, to
+      safeguard our interests, and to preserve the freedom of action that allows us
+      to shape our own destiny, and one that exists to operate a global welfare state
+      and atone for the purported aims of the past generation. Well, he’s against all
+      that. He wants an alliance that does not allow its power to be outsourced, constrained,
+      or subordinated to systems beyond its control, like the Security Council or what
+      other nations want. And he concludes, and one that does not maintain the polite
+      pretense that our way of life is just one among many and asks for permission before
+      it acts. Well, there you have it. He’s not going to ask for permission. It doesn’t
+      matter. I think Europe refused to come up with a billion dollars that America
+      is paying because America is making such huge financial demands on Europe that
+      that’s its token way of fighting back. And I don’t think much can be read into
+      that. Europe is right behind the Americans doing to the rest of the world what
+      Britain and France and other European countries did to the world during the colonial
+      era. So, I think that we’re dealing with… it all really comes down to Trump’s
+      self-interest, [which is] well, will I get paid more money if I go to war with
+      Iran or if I don’t go to war with Iran? His perspective is not what’s good for
+      the American people, it’s what’s good for him. I think he’s shown that again and
+      again in every action that he’s taken over the past year of his first year of
+      his second administration. ⁣RICHARD WOLFF: Yeah, I don’t disagree. I just think
+      that he’s also under the pressure of all the various groups in our culture that
+      are worried about where things are going, whose interests are at stake here, and
+      who will push him against what he wants to do if it hurts them. I think you’re
+      seeing that even inside his MAGA audience, he is having more and more trouble
+      losing support, losing polling, because he, for example, the war, he promised
+      no wars, and he’s having more wars than anybody can remember having and threatening
+      even more down the and the MAGA people who supported him. You know, they’re not
+      happy with the Epstein horror, and they’re not happy now with the war horror.
+      He’s digging himself into a hole that he has to be concerned about, otherwise,
+      the elections in November, and you know, that’s really only nine months away,
+      are going to kill him. ⁣NIMA ALKHORSHID: Yeah. Michael, I think one of the most
+      important points right now is how China feels about the whole situation in the
+      Middle East, because China has lost, you know, Venezuela. And Venezuelan oil is
+      not going to get to China anymore. And with the case of Iran, how do they feel
+      about the whole situation with the energy? Because the security of China somehow
+      is connected with the energy and how they can guarantee the supply of energy to
+      China. ⁣MICHAEL HUDSON: Well, that’s exactly it… To start off, let me give one
+      more quote from Rubio regarding energy and what you just said, from Rubio’s talk.
+      We in America have no interest in being polite and orderly caretakers of the West’s
+      managed decline. The alliance that we want is one that is not paralyzed by inaction
+      and by fear. Fear of climate change, meaning don’t use oil. Fear of war, meaning
+      don’t worry, we’re not afraid of going to war. Fear of technology. Well, China
+      has the technology. It is a major victim of global warming. Yesterday, there was
+      the highest, I think it was 43 degrees centigrade in parts of western China that’s
+      really very serious and causing drought there, as it’s causing throughout the
+      whole world. China realizes that the American fight against Russia is an attempt
+      to somehow pry Russia away from its symbiotic economic and political relationship
+      with China. That’s not going to happen, but the Americans hope springs eternal
+      for that. So, China realizes that, yes, the United States is really the enemy
+      for all of this. It wants to destroy us. Its whole idea of military bases throughout
+      the world is to bring us around and to prepare for… to do with us for what the
+      war in Iran is a dress rehearsal. If America can win in Iran, that will give the
+      American politicians and the American Army and Navy and Marines and Air Force
+      the idea that somehow they can repeat a victory, a hypothetical victory in Iran,
+      in China. So I think China realizes this is sort of the test case for what America
+      may want to do with it. It realizes that the reason that America wants to control
+      Near Eastern oil and Venezuelan oil and Iranian oil is to be able to turn off
+      the oil spigot to weaponize the world oil trade in order to deprive China of energy,
+      which is exactly why China has been developing wind energy and solar energy, as
+      we’ve discussed before. And the Americans are trying to belittle all of this and
+      saying, Trump has pulled out of all of the climate protection agreements that
+      are international. And China realizes that the whole world has to move against
+      this global warming. The whole world has to cut back on carbon-based fuels in
+      order to prevent drought and overheating and extreme weather from happening everywhere.
+      But at the same time, China does need oil for the interim and it needs gas to
+      heat its homes while it is busy putting in place the enormous increase in electrical
+      power production that it’s done through its wind and solar energy innovations,
+      which Europe is far, far behind in. And so I think that’s the setting. For China,
+      this is the test case. But there’s also the mentality at work. And China does
+      not like to take risks. It doesn’t want to get involved in war. And it’s been
+      even trying to deter Russia from the special military operation in Ukraine, or
+      at least from extending the war to Western Europe. But I think given the Western
+      Europe’s attack on China, we’ve talked about Nexperia and the Western Europe decision
+      that they will not let any majority ownership of China, of a European country
+      that China owns, exist. In other words, banning Chinese business, banning Chinese
+      investment, doing to China and Europe what America has just done to China regarding
+      the Panama Canal. You know, we’re just going to confiscate whatever you’ve taken
+      everywhere. You, China, cannot have investments in any country in the world. We’re
+      isolating you. Well, so far, Trump’s attempt at isolating China and its allies,
+      the 85% of the world’s population, it seems, is isolating the United States. And
+      that will probably be the effect of the American and Israeli war against Iran.
+      This will ultimately isolate the United States. But to do that, China has to do
+      everything it can to protect Iran and to defend it against destroyers and aircraft
+      carriers that are trying to send missiles into Iran and defend it by using its
+      submarines to sink the destroyers and the aircraft carriers, to provide all of
+      the armaments that it and Russia have been building up in Iran that Iran didn’t
+      have before. So this is not really a fight over just Iran. Iran is very much like
+      Ukraine. It’s the arena, it’s the battlefield for the fight by America and Europe
+      against Asia and the global south countries. And I think that when you put it
+      in this long-term perspective or big whole world perspective, that’s going to
+      lead it to act in a much more proactive way than it’s done in the past. ⁣RICHARD
+      WOLFF: Well, if that’s true, if this is, to use my language, if it is an overreach,
+      a bigger struggle involving more players who can throw more resources into it,
+      then we are at the edge now of a very, very dangerous abyss whose outcome is going
+      to change everything in ways that none of the combatants can be sure to control.
+      ⁣MICHAEL HUDSON: Yes, I agree. ⁣RICHARD WOLFF: The whole point of global relationships
+      is not to get to that situation. It’s not to avoid jumping, it’s to avoid getting
+      to a place where jumping becomes even conceivable. You know, if I had a research
+      team, I could find quotations both from Mussolini and from Hitler that sound very
+      much like Mr. Rubio. We are not going to, you know, they withdrew from the League
+      of Nations. Italy withdrew, Germany withdrew, Japan withdrew, and then they went
+      to war. The United States has withdrawn from the United Nations. The headquarters
+      are here in New York City, but the United Nations, you know, the United States
+      has withdrawn in effect from most of the United Nations. And setting up the Board
+      of Peace is a laughable alternative. You know, it’s not a serious proposition
+      about anything other than Mr. Trump’s self-aggrandizing posturing. It’s like taking
+      over the Kennedy Arts Center in Washington, D.C. and naming himself the chair.
+      That changes nothing. It makes a joke out of the Kennedy Center, which he has
+      now closed because it’s such a joke and such an embarrassment that he’s closed
+      it for two years. All right? I wouldn’t be surprised if the Board of Peace has
+      one of the shortest lifespans in the history of global activity. ⁣MICHAEL HUDSON:
+      Well, Richard, since you mentioned the United Nations and the U.S., its head,
+      Gutierrez, has said that by August, the United Nations goes broke. The Americans
+      have refused to pay its arrears for the last few years. And if it goes broke,
+      Gutierrez says, we’re going to have to close down the United Nations in New York.
+      Well, maybe Trump can buy it, the building, and call it Trump Tower number two.
+      But at any rate, if the UN headquarters is broke and can no longer be paid for
+      because the United States refuses to pay the arrears that have accumulated not
+      only to the UN, but to many UN agencies, the quarter billion to the World Health
+      Organization… I could go right down the line. That sort of tells you what you
+      need to know right there. Yes, it’s over. ⁣RICHARD WOLFF: When you behave in this
+      way, whether you intend it or not, you mobilize the world to do things that make
+      your situation worse. In the long run, colonialism’s failure to economically develop
+      the colonies sooner or later forced masses of people in one colony after another
+      to turn against their colonial masters. That’s why we’ve been living for the last
+      century in a century of anti-colonialism. Right? They didn’t intend it, but they
+      produced, if I could quote Karl, they produced their own gravediggers. They didn’t
+      mean to, they thought they were doing something completely different. If the United
+      States withdraws and isn’t going to be bound by force, then it is setting itself
+      a goal which is, if you think about it, very strange for a country with 4.5% of
+      the world’s population mobilizing the other 95% against itself. In the short run,
+      this is wonderful. In the medium and long run, this is a recipe for self-destruction.
+      ⁣MICHAEL HUDSON: Well, the colonialists and the financial sector live in the short
+      run, Richard. Colonialism did fail to develop the colonies. It could have, it
+      only scratched the surface. It extracted the minerals and it extracted whatever
+      it could, but it failed as a system, but it made many families rich. And these
+      are the European families that still control Europe today. It was colonialism
+      that created the great fortunes of the families that are still controlling Europe
+      and making Europe behave the way it did. And just as it was the opium wars in
+      China that made so many New England and leading American families rich, the Peabodys,
+      the others, all these shippers that are in the middle of the opium trade enriched.
+      So, yes, it failed in terms of the political aims of colonialism, but it succeeded
+      in creating an oligarchy that thinks in the short term and has this rotten anti-civilizational
+      view. And that’s the view that dominates the Western elites today. The Davos Class
+      and the… what do they call it? ⁣NIMA ALKHORSHID: They call it the Epstein class.
+      ⁣MICHAEL HUDSON: Yes, yes. And he said the Concierge of Davos, is how he called
+      himself. Yeah. ⁣RICHARD WOLFF: Yeah, you know, and the irony that I like to point
+      out to people is that the one country that never allowed itself to become a real
+      colony, that had a little bit of it, but was horrified by the whole prospect of
+      it, namely China, which went to the left and therefore could not get economic
+      development after World War II of the sort that the United States pioneered, is
+      the one that proved it could do economic development better than all of the recipients
+      of American foreign aid. You know, my generation of young people studying economic
+      development, because we, presumably in the rich West, had the brilliant idea of
+      how to develop our countries and we could convey it to them, never asking the
+      question, why that never happened? Well, what were the forces that rendered all
+      of that [into] ideological fluff? Well, you’re watching the same thing now. This
+      bravado, this language, we’re going to be tough, we’re not going to, it’s delusional.
+      All the rules that they think they’re breaking were the rules of a colonial system
+      after World War II. They now want to change the rules, but they’re not changing
+      the basic system. And it will do to them what it just did to those that they mock.
+      That’s the joke on them. ⁣NIMA ALKHORSHID: Thank you so much, Richard and Michael.
+      It was a great talk, and a great pleasure, as always. See you soon. ⁣MICHAEL HUDSON:
+      Bye-bye. Transcription and Diarization: https://scripthub.dev/ Editing: RALPH
+      LOMBREGLIA Review: ced Photo by Hasan Almasi on Unsplash The post Oil Shock Looming
+      in the Persian Gulf first appeared on Michael Hudson .'
+    one_sentence_summary: Nima Alkhorchid introduces Richard Wolf and Michael Hudson
+      in a discussion about the escalating conflict in the Middle East, urging viewers
+      to support their work and follow their platforms for more insights.
+    paragraph_summary: In a discussion on February 19, 2026, Nima Alkhorchid, Richard
+      Wolf, and Michael Hudson explored the escalating tensions in the Middle East and
+      their potential economic implications. While mainstream media predicts an imminent
+      war, Hudson noted that the market remains surprisingly stable, with crude oil
+      prices only slightly rising to $66.25 per barrel from $62 earlier in the week.
+      Despite forecasts suggesting that a conflict could drive oil prices significantly
+      higher, potentially exceeding $100 or $120 per barrel due to supply disruptions,
+      the current market reaction indicates a level of resilience amidst the geopolitical
+      uncertainty.
+    published: '2026-03-01T22:56:37+00:00'
   - title: Crisis of the Empire
     url: https://michael-hudson.com/2026/02/crisis-of-the-empire/
     text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 5th, 2026, and

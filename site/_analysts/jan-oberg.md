@@ -7,18 +7,222 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of February 25, 2026, the global geopolitical landscape remains marked by heightened tensions between major powers, persistent militarization in key regions, and emerging calls for alternative, nonviolent approaches to security and diplomacy.
+  Tensions in the Middle East remain at the forefront of geopolitical analysis following the recent US and Israeli invasion of Iran, which has triggered widespread protests and intensified calls for peace and human rights in the region. As **Jan Oberg** notes, the aftermath of the intervention has left Iranian society deeply affected, with ordinary citizens bearing the brunt of the violence and instability. The situation is further complicated by the muted response from European leaders, who, according to Oberg, have failed to adequately address or condemn the ongoing violations of international law by the US and its allies—not only in Iran, but also in previous crises in Gaza and Venezuela.
   
-  Recent analysis by **Jan Oberg** highlights the continued fallout from the Munich Security Conference earlier this month, where Western leaders—particularly U.S. representatives—emphasized increased military spending and a confrontational posture towards rivals, especially China and Russia. Oberg notes the conference has become “a €20-million militarist echo chamber,” prioritizing armament over dialogue and thereby exacerbating global instability.
+  In Europe, the Danish government's decision to consider a French proposal for extending French nuclear forces signals a notable shift in regional security thinking. Oberg raises critical questions about the viability and risks of "nuclear small states," especially as the continent faces heightened uncertainty in the wake of the Iran conflict. This move reflects a broader trend of European states reassessing their security postures amid doubts about US reliability and the perceived need for greater autonomy.
   
-  In contrast, Oberg’s latest interview with former British diplomat Ian Proud explores the potential of citizen diplomacy as a grassroots alternative to official statecraft. Both Oberg and Proud argue that ordinary people overwhelmingly desire peace and that citizen-led initiatives could play a crucial role in de-escalating conflicts and fostering mutual understanding. This perspective is gaining traction as traditional diplomatic channels appear increasingly gridlocked.
+  Meanwhile, the US administration under Donald Trump continues to draw sharp criticism. Oberg characterizes the current regime as "the single largest danger to humanity’s future," citing recent speeches that underscore a reliance on military power and a disregard for diplomatic solutions. This rhetoric, combined with ongoing military actions, is seen as exacerbating global instability.
   
-  Meanwhile, the Arctic region is emerging as a focal point for both rivalry and innovation. Oberg’s recent peace proposal for the Arctic advocates for shared security and sustainable development, countering the prevailing trend of militarization and ecological degradation. He frames this as a rational and necessary shift, emphasizing human dignity and the common good.
-  
-  Looking ahead, the dominant trend remains a deepening divide between militarist policies—driven by Western security establishments—and growing societal demand for peaceful, cooperative solutions. **Jan Oberg** predicts with high confidence that unless there is a significant policy shift, “the risk of intensified great power rivalry and regional instability will most definitely persist.” However, he also sees a high chance that citizen diplomacy and alternative security models will gain momentum, especially as economic and environmental pressures mount.
-  
-  In summary, the coming weeks are likely to see continued tension at the official level, but also increasing advocacy for nonviolent, citizen-driven approaches to global security challenges.
+  Looking ahead, the prevailing analysis suggests that unless there is a significant change in approach from both US and European leaders, the cycle of intervention and silence is likely to persist. There is a high chance that European states will continue to debate nuclear arrangements and security autonomy, while public pressure for peace and accountability grows across affected regions. As Oberg concludes, the prospects for de-escalation remain uncertain, but grassroots movements and citizen diplomacy could play a crucial role in shaping a safer future—though this outcome is far from guaranteed.
 articles:
+  - title: We Are Someone’s Dirty Work
+    url: https://transnational.live/2026/03/03/we-are-someones-dirty-work/
+    text: “Love In Iran” © Jan Oberg A voice of true peace and human rights in Iran
+      Elaheh Pooyandeh Peace and conflict researcher and TFF Associate March 3, 2026
+      [This piece was written after the recent deadly protests in Iran in January and
+      before the new invasion by Israel and the USA in February and March […] The post
+      We Are Someone’s Dirty Work appeared first on The Transnational .
+    one_sentence_summary: The article "Love In Iran" by Elaheh Pooyandeh discusses the
+      impact of recent protests in Iran and the geopolitical tensions following the
+      invasion by Israel and the USA, highlighting the need for peace and human rights
+      in the region.
+    paragraph_summary: In "Love In Iran," Elaheh Pooyandeh reflects on the recent deadly
+      protests in Iran, highlighting the struggle for peace and human rights amidst
+      escalating tensions. The article emphasizes the resilience of the Iranian people
+      and critiques external influences, particularly the impending military actions
+      by Israel and the USA, which threaten to exacerbate the situation. Pooyandeh calls
+      for solidarity and understanding, urging the international community to recognize
+      the complexities of Iran's struggles rather than viewing them through a lens of
+      geopolitical interests.
+    published: '2026-03-03T21:29:48+00:00'
+  - title: We Are Someone’s Dirty Work
+    url: https://transnational.live/2026/03/03/we-are-someones-dirty-work/
+    text: “Love In Iran” © Jan Oberg A voice of true peace and human rights in Iran
+      Elaheh Pooyandeh Peace and conflict researcher and TFF Associate March 3, 2026
+      [This piece was written after the recent deadly protests in Iran in January and
+      before the new invasion by Israel and the USA in February and March […] The post
+      We Are Someone’s Dirty Work appeared first on The Transnational .
+    one_sentence_summary: The article "Love In Iran" by Elaheh Pooyandeh discusses the
+      impact of recent protests in Iran and the geopolitical tensions following the
+      invasion by Israel and the USA, highlighting the need for peace and human rights
+      in the region.
+    paragraph_summary: In "Love In Iran," Elaheh Pooyandeh reflects on the recent deadly
+      protests in Iran, highlighting the struggle for peace and human rights amidst
+      escalating tensions. The article emphasizes the resilience of the Iranian people
+      and critiques external influences, particularly the impending military actions
+      by Israel and the USA, which threaten to exacerbate the situation. Pooyandeh calls
+      for solidarity and understanding, urging the international community to recognize
+      the complexities of Iran's struggles rather than viewing them through a lens of
+      geopolitical interests.
+    published: '2026-03-03T21:29:48+00:00'
+  - title: Is a Nuclear Small State Possible? Or Why Does the Danish Prime Minister
+      Not “Rule Out Any Ideas”?
+    url: https://transnational.live/2026/03/02/is-a-nuclear-small-state-possible-or-why-does-the-danish-prime-minister-not-rule-out-any-ideas/
+    text: Claus Kold TFF Associate February 2, 2026 Introduction This article was finalised
+      on February 18, 2026. That was ten days before the US/Israeli attack o Iran. On
+      March 2 – today – the Danish government announced that it had accepted the French
+      proposal to discuss the extension of French nuclear forces to play a new, […]
+      The post Is a Nuclear Small State Possible? Or Why Does the Danish Prime Minister
+      Not “Rule Out Any Ideas”? appeared first on The Transnational .
+    one_sentence_summary: The article discusses the Danish government's acceptance of
+      a French proposal to explore the extension of French nuclear forces, raising questions
+      about the viability of a nuclear small state in the context of geopolitical tensions,
+      particularly ahead of a US/Israeli attack on Iran.
+    paragraph_summary: The article, finalized on February 18, 2026, explores the potential
+      for Denmark to engage in discussions about extending French nuclear forces, particularly
+      in light of geopolitical tensions surrounding an impending US/Israeli attack on
+      Iran. It highlights the Danish government's openness to various strategic options,
+      as indicated by the Prime Minister's willingness to consider all ideas regarding
+      nuclear capabilities. The piece raises questions about the viability of a "nuclear
+      small state" and the implications of such discussions for Denmark's defense policy
+      and international relations.
+    published: '2026-03-02T22:57:59+00:00'
+  - title: Is a Nuclear Small State Possible? Or Why Does the Danish Prime Minister
+      Not “Rule Out Any Ideas”?
+    url: https://transnational.live/2026/03/02/is-a-nuclear-small-state-possible-or-why-does-the-danish-prime-minister-not-rule-out-any-ideas/
+    text: Claus Kold TFF Associate February 2, 2026 Introduction This article was finalised
+      on February 18, 2026. That was ten days before the US/Israeli attack o Iran. On
+      March 2 – today – the Danish government announced that it had accepted the French
+      proposal to discuss the extension of French nuclear forces to play a new, […]
+      The post Is a Nuclear Small State Possible? Or Why Does the Danish Prime Minister
+      Not “Rule Out Any Ideas”? appeared first on The Transnational .
+    one_sentence_summary: The article discusses the Danish government's acceptance of
+      a French proposal to explore the extension of French nuclear forces, raising questions
+      about the viability of a nuclear small state in the context of geopolitical tensions,
+      particularly ahead of a US/Israeli attack on Iran.
+    paragraph_summary: The article, finalized on February 18, 2026, explores the potential
+      for Denmark to engage in discussions about extending French nuclear forces, particularly
+      in light of geopolitical tensions surrounding an impending US/Israeli attack on
+      Iran. It highlights the Danish government's openness to various strategic options,
+      as indicated by the Prime Minister's willingness to consider all ideas regarding
+      nuclear capabilities. The piece raises questions about the viability of a "nuclear
+      small state" and the implications of such discussions for Denmark's defense policy
+      and international relations.
+    published: '2026-03-02T22:57:59+00:00'
+  - title: 'Why Europe Remains Silent: After Gaza and Venezuela now also no criticism
+      of the illegal war on Iran. Here is exactly what the EU should have stated'
+    url: https://transnational.live/2026/03/02/why-europe-remains-silent-after-gaza-and-venezuela-now-also-no-criticism-of-the-illegal-war-on-iran-here-is-exactly-what-the-eu-should-have-stated/
+    text: 'Smilingly supporting gross violations of international law and the UN Charter
+      again and again. It is the US, stupid! Jan Oberg March 2, 2026 Here is all that
+      EU Presidents von der Leyen and Costa had to say on February 28, 2026: “The developments
+      in Iran are greatly concerning. We remain in close contact with […] The post Why
+      Europe Remains Silent: After Gaza and Venezuela now also no criticism of the illegal
+      war on Iran. Here is exactly what the EU should have stated appeared first on
+      The Transnational .'
+    one_sentence_summary: The article critiques the European Union's silence and inaction
+      regarding the U.S.'s violations of international law in conflicts involving Iran,
+      Gaza, and Venezuela, highlighting the need for a stronger response from EU leaders.
+    paragraph_summary: In the article by Jan Oberg, published on March 2, 2026, the
+      author criticizes the European Union's leadership, particularly Presidents Ursula
+      von der Leyen and António Costa, for their muted response to the ongoing conflict
+      in Iran, paralleling their silence on previous crises in Gaza and Venezuela. Oberg
+      argues that this lack of criticism reflects a broader complicity in the U.S.'s
+      disregard for international law and the UN Charter, suggesting that Europe should
+      take a stronger stance against such violations instead of remaining passive. The
+      piece calls for a more vocal and principled European response to global injustices.
+    published: '2026-03-02T10:32:35+00:00'
+  - title: 'Why Europe Remains Silent: After Gaza and Venezuela now also no criticism
+      of the illegal war on Iran. Here is exactly what the EU should have stated'
+    url: https://transnational.live/2026/03/02/why-europe-remains-silent-after-gaza-and-venezuela-now-also-no-criticism-of-the-illegal-war-on-iran-here-is-exactly-what-the-eu-should-have-stated/
+    text: 'Smilingly supporting gross violations of international law and the UN Charter
+      again and again. It is the US, stupid! Jan Oberg March 2, 2026 Here is all that
+      EU Presidents von der Leyen and Costa had to say on February 28, 2026: “The developments
+      in Iran are greatly concerning. We remain in close contact with […] The post Why
+      Europe Remains Silent: After Gaza and Venezuela now also no criticism of the illegal
+      war on Iran. Here is exactly what the EU should have stated appeared first on
+      The Transnational .'
+    one_sentence_summary: The article critiques the European Union's silence and inaction
+      regarding the U.S.'s violations of international law in conflicts involving Iran,
+      Gaza, and Venezuela, highlighting the need for a stronger response from EU leaders.
+    paragraph_summary: In the article by Jan Oberg, published on March 2, 2026, the
+      author criticizes the European Union's leadership, particularly Presidents Ursula
+      von der Leyen and António Costa, for their muted response to the ongoing conflict
+      in Iran, paralleling their silence on previous crises in Gaza and Venezuela. Oberg
+      argues that this lack of criticism reflects a broader complicity in the U.S.'s
+      disregard for international law and the UN Charter, suggesting that Europe should
+      take a stronger stance against such violations instead of remaining passive. The
+      piece calls for a more vocal and principled European response to global injustices.
+    published: '2026-03-02T10:32:35+00:00'
+  - title: The Trump Regime proves again to be the single largest danger to humanity’s
+      future
+    url: https://transnational.live/2026/03/01/the-trump-regime-proves-again-to-be-the-single-largest-danger-to-humanitys-future/
+    text: Here is Trump’s disturbing 8-min speech with an analysis of all the classical
+      psycho-political delusions, hubris, arrogance and the blindness of military power.
+      It can only go wrong now… Jan Oberg, TFF director February 28, 2026 There were
+      only two things that surprised me – and would have been fitting – namely that
+      he had […] The post The Trump Regime proves again to be the single largest danger
+      to humanity’s future appeared first on The Transnational .
+    one_sentence_summary: The article critiques Trump's speech as emblematic of dangerous
+      delusions and arrogance in military power, asserting that his regime poses a significant
+      threat to humanity's future.
+    paragraph_summary: In an analysis of a recent speech by Donald Trump, Jan Oberg,
+      director of The Transnational Foundation, critiques the former president's rhetoric,
+      highlighting themes of psycho-political delusions, hubris, and an overreliance
+      on military power. Oberg argues that Trump's approach poses a significant threat
+      to humanity's future, emphasizing the potential for disastrous outcomes stemming
+      from his arrogance and blindness to the consequences of his actions. The article
+      underscores the urgency of recognizing and addressing these dangers in the context
+      of global stability.
+    published: '2026-03-01T00:30:04+00:00'
+  - title: The Trump Regime proves again to be the single largest danger to humanity’s
+      future
+    url: https://transnational.live/2026/03/01/the-trump-regime-proves-again-to-be-the-single-largest-danger-to-humanitys-future/
+    text: Here is Trump’s disturbing 8-min speech with an analysis of all the classical
+      psycho-political delusions, hubris, arrogance and the blindness of military power.
+      It can only go wrong now… Jan Oberg, TFF director February 28, 2026 There were
+      only two things that surprised me – and would have been fitting – namely that
+      he had […] The post The Trump Regime proves again to be the single largest danger
+      to humanity’s future appeared first on The Transnational .
+    one_sentence_summary: The article critiques Trump's speech as emblematic of dangerous
+      delusions and arrogance in military power, asserting that his regime poses a significant
+      threat to humanity's future.
+    paragraph_summary: In an analysis of a recent speech by Donald Trump, Jan Oberg,
+      director of The Transnational Foundation, critiques the former president's rhetoric,
+      highlighting themes of psycho-political delusions, hubris, and an overreliance
+      on military power. Oberg argues that Trump's approach poses a significant threat
+      to humanity's future, emphasizing the potential for disastrous outcomes stemming
+      from his arrogance and blindness to the consequences of his actions. The article
+      underscores the urgency of recognizing and addressing these dangers in the context
+      of global stability.
+    published: '2026-03-01T00:30:04+00:00'
+  - title: The USrael attack on Iran and 40th Anniversary of the murder of Olof Palme
+    url: https://transnational.live/2026/02/28/the-usrael-attack-on-iran-and-40th-anniversary-of-the-murder-of-olof-palme/
+    text: Jan Oberg TFF director February 28, 2026 Today, USrael attacked Iran, for
+      the second time within just one year. Today also marks the 40th Anniversary of
+      the murder of Swedish PM Olof Palme (1927-1986). In the video below, Palme condemns
+      the US bombings of Hanoi, Vietnam, at Xmas 1972. He paid a price for it. […] The
+      post The USrael attack on Iran and 40th Anniversary of the murder of Olof Palme
+      appeared first on The Transnational .
+    one_sentence_summary: The article discusses the recent US and Israeli attack on
+      Iran, marking the second such incident within a year, while also commemorating
+      the 40th anniversary of Swedish Prime Minister Olof Palme's assassination, who
+      had previously condemned US bombings in Vietnam.
+    paragraph_summary: On February 28, 2026, Jan Oberg, director of TFF, reported that
+      the US and Israel launched a second attack on Iran within a year, coinciding with
+      the 40th anniversary of the assassination of Swedish Prime Minister Olof Palme.
+      The article reflects on Palme's legacy, particularly his condemnation of US bombings
+      in Hanoi during Christmas 1972, highlighting the consequences he faced for his
+      outspoken views on military aggression.
+    published: '2026-02-28T22:02:02+00:00'
+  - title: The USrael attack on Iran and 40th Anniversary of the murder of Olof Palme
+    url: https://transnational.live/2026/02/28/the-usrael-attack-on-iran-and-40th-anniversary-of-the-murder-of-olof-palme/
+    text: Jan Oberg TFF director February 28, 2026 Today, USrael attacked Iran, for
+      the second time within just one year. Today also marks the 40th Anniversary of
+      the murder of Swedish PM Olof Palme (1927-1986). In the video below, Palme condemns
+      the US bombings of Hanoi, Vietnam, at Xmas 1972. He paid a price for it. […] The
+      post The USrael attack on Iran and 40th Anniversary of the murder of Olof Palme
+      appeared first on The Transnational .
+    one_sentence_summary: The article discusses the recent US and Israeli attack on
+      Iran, marking the second such incident within a year, while also commemorating
+      the 40th anniversary of Swedish Prime Minister Olof Palme's assassination, who
+      had previously condemned US bombings in Vietnam.
+    paragraph_summary: On February 28, 2026, Jan Oberg, director of TFF, reported that
+      the US and Israel launched a second attack on Iran within a year, coinciding with
+      the 40th anniversary of the assassination of Swedish Prime Minister Olof Palme.
+      The article reflects on Palme's legacy, particularly his condemnation of US bombings
+      in Hanoi during Christmas 1972, highlighting the consequences he faced for his
+      outspoken views on military aggression.
+    published: '2026-02-28T22:02:02+00:00'
   - title: 'Ordinary people want peace: Can citizen diplomacy build a safer future for
       everyone?'
     url: https://transnational.live/2026/02/20/ordinary-people-want-peace-can-citizen-diplomacy-build-a-safer-future-for-everyone/

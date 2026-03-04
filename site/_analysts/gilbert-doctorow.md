@@ -7,20 +7,158 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape in Eastern Europe remains highly volatile as Ukraine’s internal and external challenges intensify. Recent developments center on President Zelensky’s controversial call for European troops near the front lines, ongoing internal Ukrainian power struggles, and the broader implications for EU stability and energy security.
+  As the Russia-Ukraine conflict grinds on into March 2026, the geopolitical landscape remains tense, with mounting pressures on all sides and shifting dynamics within Europe. The most recent developments center on the internal situation in Russia, the evolving state of Ukrainian leadership, and the broader European response to the ongoing war.
   
-  **Internal Strife and Zelensky’s Leadership**
-  President Zelensky’s latest appeal for European troop deployments to facilitate a potential ceasefire has been met with skepticism. **Gilbert Doctorow** criticizes this move as “misguided advice,” highlighting concerns that such a strategy reflects deeper internal power struggles within Ukraine’s leadership. Doctorow suggests that the country may require a period of military rule to reassess its direction, given the current lack of consensus and mounting pressures on Zelensky’s administration.
+  **Mounting Pressure on Putin and the Role of Russian State Media**
   
-  **EU Sanctions and Energy Security**
-  On the European front, the EU’s controversial plans to intercept Russian tankers as part of new sanctions have drawn sharp criticism. Doctorow warns that these measures could escalate the conflict with Russia, potentially resulting in severe consequences for Western Europe. He draws a stark comparison, stating that the fallout could render parts of Western Europe “Gaza-like” in terms of instability and hardship. Meanwhile, Ukraine’s decision to halt Russian oil deliveries to Slovakia and Hungary via the Druzhba pipeline has forced these countries to seek alternative routes through Croatia, underscoring the fragility of regional energy security.
+  A notable shift in analytical focus has emerged regarding the sources used to assess Russian political dynamics. **Gilbert Doctorow** emphasizes the importance of Russian state television as a primary, identifiable source for understanding the pressures facing President Vladimir Putin. He argues that, despite skepticism from some Western analysts, these public broadcasts offer a more transparent and debatable window into Russian politics than the often-cited but unverifiable insider leaks. This methodological approach signals a move toward more rigorous, source-based analysis of the Kremlin’s internal challenges, especially as the war’s costs mount and public debate intensifies.
   
-  **EU Political Tensions**
-  Political divisions within the EU are also deepening. Doctorow points to actions by European leaders Ursula von der Leyen and Kaja Kalas, accusing them of steering the bloc toward collapse and intentionally undermining the Hungarian economy ahead of elections. These moves, he argues, contradict the European Commission’s claims of neutrality and further erode trust within the union.
+  **Ukrainian Leadership and Internal Strains**
+  
+  On the Ukrainian side, President Zelensky’s recent call for European troops near the front lines, ostensibly to facilitate a ceasefire, has drawn criticism. **Doctorow** describes this as “misguided advice,” highlighting concerns about internal power struggles in Kyiv and suggesting that Ukraine may require a period of military rule to stabilize and reassess its position. This reflects growing skepticism among analysts about the coherence and sustainability of Ukraine’s current political and military strategy, especially as external support becomes more conditional and the domestic situation remains volatile.
+  
+  **European Policy and the Risk of Escalation**
+  
+  Meanwhile, the European Union’s approach continues to draw scrutiny. Recent discussions have focused on the EU’s controversial plans to intercept Russian tankers as part of new sanctions, a move that **Doctorow** warns could escalate the conflict and have severe repercussions for Western Europe. He likens the potential fallout to a “Gaza-like situation,” underscoring the risks of further entanglement and the fragility of European unity in the face of prolonged conflict.
   
   **Trends and Predictions**
-  Looking ahead, the majority view among analysts is that Ukraine’s leadership crisis and the EU’s aggressive stance on sanctions will continue to destabilize the region. There is a high chance of further internal upheaval in Ukraine, and Doctorow predicts with high confidence that European efforts to escalate sanctions will backfire, exacerbating economic and political instability within the EU. The energy crisis for Hungary and Slovakia is likely to persist, though alternative supply routes may offer partial relief. Overall, the situation is expected to remain tense, with no immediate resolution in sight.
+  
+  The prevailing trend is one of increasing pressure on all major actors, with internal divisions in both Russia and Ukraine complicating prospects for a negotiated settlement. The reliance on public Russian media for analysis is likely to continue, offering a more grounded perspective on Kremlin politics. In Ukraine, leadership instability and calls for drastic measures point to a period of uncertainty and potential upheaval.
+  
+  Looking ahead, there is a high chance that European attempts to tighten sanctions will provoke further Russian countermeasures, potentially destabilizing energy supplies and economic stability in the region. The prospect of a negotiated ceasefire remains distant, with most analysts agreeing that both sides are far from a sustainable compromise. As **Doctorow**’s recent analysis suggests, the situation is likely to remain volatile, with no immediate resolution in sight.
 articles:
+  - title: Pressure mounts on Vladimir Putin
+    url: https://gilbertdoctorow.com/2026/03/03/pressure-mounts-on-vladimir-putin/
+    text: 'I am fully aware of the skepticism some of my colleagues have regarding the
+      value of public sources and in particular over what is shown on Russian state
+      television to understand and pronounce upon where Russian politics are headed.
+      Nonetheless, I insist that public sources have with good reason been the stock
+      in trade of American and other foreign intelligence on Russia going back to the
+      origins of the Cold War. Today, when Russian state and private electronic media
+      have become highly diverse and often quite free to pick up and transmit views
+      from the talking classes, they are essential if we are to go beyond the use of
+      unnamed, supposedly well informed Russian insiders that colleagues often allude
+      to and instead have something clearly identified and debatable to talk about among
+      ourselves. And so, dear reader, I once again make reference to the Evening with
+      Vladimir Solovyov talk show of yesterday in telling you that Putin’s handling
+      of the war is coming under very great pressure from the Moscow elites who pull
+      it to pieces before the audience without naming the Unspeakable One in the Kremlin
+      but leaving no doubt whatsoever whom they are criticizing. The U.S.-Israeli attack
+      on Iran, the decapitation strike on the Ayatollah and on other top leaders in
+      what Russians call the ‘decision-making centers’ of Iran, makes them all ask what
+      the hell Mr. Putin is now waiting for to do the very same in Ukraine and to put
+      an instant end to the long dragged-out war that is killing and maiming Russian
+      service men every day and putting in question Russia’s deterrence, leading to
+      ever more brazen provocations from the NATO Member States. These same expert panelists
+      last night asked how it can be that during the negotiations with Witkoff, the
+      Kremlin has allowed the USA to conduct daily spy flights just outside all of its
+      borders from the Far North in the Barents Sea to the Black Sea in the South. The
+      purpose of these flights is perfectly well known: to prepare for a ‘preemptive
+      strike’ on Russia similar to what was done to Iran and possibly using nuclear
+      arms. ‘We should just shoot down these American spy planes’ they said last night
+      with one voice. The point of these panelists is that the U.S.-Israeli attack on
+      Iran violates all the basic rules of international conduct from the founding documents
+      of the United Nations. There are now no rules and Russia must adapt to this situation
+      and defend itself arms in hand. Is Mr. Putin deaf? The whole of Russia is hearing
+      these lightly veiled denunciations of his management of defense and so far he
+      has not responded to the American attack on Iran with more than telephone calls
+      to the Gulf States sheikhs, which are given full coverage in the first 15 minutes
+      of Russian state television news, no doubt to the great irritation of viewers.
+      I use this opportunity to call attention to a remarkable document that the economist
+      and former Assistant Secretary of the Treasury Paul Craig Roberts yesterday posted
+      on his website: Alexander Dugan Wonders if Putin’s demonstrated inability to recognize
+      reality will bring destruction to Russia next Let us recall that Alexander Dugin
+      has long been cited by Western commentators as a close adviser to President Putin.
+      I have cast some doubt in the past on their alleged closeness, but I freely acknowledge
+      that Dugin has been an influential thinker within the Kremlin elites. Here again
+      we see a lightly veiled harsh attack on everything that Putin is doing on defense.
+      In closing, I have a bit of advice to offer to Russia’s Supreme Military Commander.
+      Sir, your popularity with broad swathes of the Russian public is partly due to
+      your use of pithy and often off-color folk sayings that resonate with simple folk.
+      I return the favor by offering a rude American folk expression: if you cannot
+      take a crap, get off the toilet seat! The moment of truth has arrived. ©Gilbert
+      Doctorow, 2026'
+    one_sentence_summary: The author argues that despite skepticism from colleagues,
+      public sources, particularly Russian state television, are crucial for understanding
+      Russian politics and the pressures on Putin regarding the war, as they provide
+      identifiable and debatable information beyond unnamed insider accounts.
+    paragraph_summary: The article discusses the importance of public sources, particularly
+      Russian state television, in understanding Russian politics, despite skepticism
+      from some colleagues. The author argues that these sources provide valuable insights
+      into the dynamics within Russia, especially regarding the pressures faced by President
+      Putin from Moscow elites concerning the ongoing war in Ukraine. During a recent
+      talk show, experts criticized Putin's inaction while highlighting the contrast
+      with U.S.-Israeli military actions in Iran, questioning why Russia has not taken
+      similar decisive steps. They also expressed concern over U.S. surveillance activities
+      near Russian borders, suggesting that this could undermine Russia's deterrence
+      capabilities and provoke further NATO aggression.
+    published: '2026-03-03T07:04:06+00:00'
+  - title: Pressure mounts on Vladimir Putin
+    url: https://gilbertdoctorow.com/2026/03/03/pressure-mounts-on-vladimir-putin/
+    text: 'I am fully aware of the skepticism some of my colleagues have regarding the
+      value of public sources and in particular over what is shown on Russian state
+      television to understand and pronounce upon where Russian politics are headed.
+      Nonetheless, I insist that public sources have with good reason been the stock
+      in trade of American and other foreign intelligence on Russia going back to the
+      origins of the Cold War. Today, when Russian state and private electronic media
+      have become highly diverse and often quite free to pick up and transmit views
+      from the talking classes, they are essential if we are to go beyond the use of
+      unnamed, supposedly well informed Russian insiders that colleagues often allude
+      to and instead have something clearly identified and debatable to talk about among
+      ourselves. And so, dear reader, I once again make reference to the Evening with
+      Vladimir Solovyov talk show of yesterday in telling you that Putin’s handling
+      of the war is coming under very great pressure from the Moscow elites who pull
+      it to pieces before the audience without naming the Unspeakable One in the Kremlin
+      but leaving no doubt whatsoever whom they are criticizing. The U.S.-Israeli attack
+      on Iran, the decapitation strike on the Ayatollah and on other top leaders in
+      what Russians call the ‘decision-making centers’ of Iran, makes them all ask what
+      the hell Mr. Putin is now waiting for to do the very same in Ukraine and to put
+      an instant end to the long dragged-out war that is killing and maiming Russian
+      service men every day and putting in question Russia’s deterrence, leading to
+      ever more brazen provocations from the NATO Member States. These same expert panelists
+      last night asked how it can be that during the negotiations with Witkoff, the
+      Kremlin has allowed the USA to conduct daily spy flights just outside all of its
+      borders from the Far North in the Barents Sea to the Black Sea in the South. The
+      purpose of these flights is perfectly well known: to prepare for a ‘preemptive
+      strike’ on Russia similar to what was done to Iran and possibly using nuclear
+      arms. ‘We should just shoot down these American spy planes’ they said last night
+      with one voice. The point of these panelists is that the U.S.-Israeli attack on
+      Iran violates all the basic rules of international conduct from the founding documents
+      of the United Nations. There are now no rules and Russia must adapt to this situation
+      and defend itself arms in hand. Is Mr. Putin deaf? The whole of Russia is hearing
+      these lightly veiled denunciations of his management of defense and so far he
+      has not responded to the American attack on Iran with more than telephone calls
+      to the Gulf States sheikhs, which are given full coverage in the first 15 minutes
+      of Russian state television news, no doubt to the great irritation of viewers.
+      I use this opportunity to call attention to a remarkable document that the economist
+      and former Assistant Secretary of the Treasury Paul Craig Roberts yesterday posted
+      on his website: Alexander Dugan Wonders if Putin’s demonstrated inability to recognize
+      reality will bring destruction to Russia next Let us recall that Alexander Dugin
+      has long been cited by Western commentators as a close adviser to President Putin.
+      I have cast some doubt in the past on their alleged closeness, but I freely acknowledge
+      that Dugin has been an influential thinker within the Kremlin elites. Here again
+      we see a lightly veiled harsh attack on everything that Putin is doing on defense.
+      In closing, I have a bit of advice to offer to Russia’s Supreme Military Commander.
+      Sir, your popularity with broad swathes of the Russian public is partly due to
+      your use of pithy and often off-color folk sayings that resonate with simple folk.
+      I return the favor by offering a rude American folk expression: if you cannot
+      take a crap, get off the toilet seat! The moment of truth has arrived. ©Gilbert
+      Doctorow, 2026'
+    one_sentence_summary: The author argues that despite skepticism from colleagues,
+      public sources, particularly Russian state television, are crucial for understanding
+      Russian politics and the pressures on Putin regarding the war, as they provide
+      identifiable and debatable information beyond unnamed insider accounts.
+    paragraph_summary: The article discusses the importance of public sources, particularly
+      Russian state television, in understanding Russian politics, despite skepticism
+      from some colleagues. The author argues that these sources provide valuable insights
+      into the dynamics within Russia, especially regarding the pressures faced by President
+      Putin from Moscow elites concerning the ongoing war in Ukraine. During a recent
+      talk show, experts criticized Putin's inaction while highlighting the contrast
+      with U.S.-Israeli military actions in Iran, questioning why Russia has not taken
+      similar decisive steps. They also expressed concern over U.S. surveillance activities
+      near Russian borders, suggesting that this could undermine Russia's deterrence
+      capabilities and provoke further NATO aggression.
+    published: '2026-03-03T07:04:06+00:00'
   - title: 'Zelensky: Ukraine is definitely not losing the war: News X World, 21 February'
     url: https://gilbertdoctorow.com/2026/02/22/zelensky-ukraine-is-definitely-not-losing-the-war-news-x-world-21-february/
     text: 'Zelensky calls for European troops to positioned near the front lines, ready

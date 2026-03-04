@@ -8,19 +8,179 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The ongoing Ukraine conflict continues to reshape global security dynamics, with recent developments highlighting both military innovation and fragile diplomatic progress. The war has not only transformed battlefield tactics but also forced a reassessment of Western strategies and alliances.
+  European political stability is under increasing strain as the continent grapples with the fallout from the ongoing U.S. and Israeli conflict with Iran and the protracted war in Gaza. According to **Anatol Lieven**, European leaders’ “weak response” to these crises is not only diminishing Europe’s global influence but also fueling internal political radicalization. This, Lieven warns, could “exacerbate internal political crises, potentially leading to the rise of extremist factions and the erosion of democracy in Europe.” The lack of a unified or forceful European stance is seen as undermining both democratic integrity and the continent’s ability to shape international outcomes.
   
-  The most significant new development is the evolution of military tactics in Ukraine, which **Anatol Lieven** describes as "the biggest evolution in military tactics since WWII." The widespread use of drones and advanced defensive systems has shifted the balance on the battlefield, making traditional offensive maneuvers riskier and less effective. This shift has implications beyond Ukraine, particularly for U.S.-China tensions over Taiwan, where similar technologies and doctrines could come into play. According to Lieven, "the risks of underestimating opponents and the importance of adapting to new forms of warfare are now clear lessons for all major powers."
+  Meanwhile, the Ukraine war continues to drive a profound transformation in military doctrine. As **Lieven** notes, the conflict has marked “the biggest evolution in military tactics since WWII,” with the widespread use of drones and a shift toward defensive strategies. These developments are being closely watched by military planners worldwide, especially given their implications for potential flashpoints such as Taiwan. The lessons learned in Ukraine—particularly the dangers of underestimating an adversary—are likely to inform U.S. and allied preparations for future conflicts.
   
-  On the diplomatic front, negotiations between Russia and Ukraine have seen notable, if incomplete, progress. Russia has reportedly dropped its objections to Ukraine's EU accession and accepted the prospect of a larger Ukrainian military, while Ukraine has acknowledged the loss of certain territories and is seeking alternative security guarantees. However, as Lieven notes, "key disagreements remain over territorial issues, the management of the Zaporizhzhia Nuclear Power Plant, and the nature of security guarantees." The path to a lasting peace will require careful balancing of both sides' demands, and the outcome remains uncertain.
-  
-  Meanwhile, political instability in Western Europe—especially in France—continues to undermine the continent's ability to respond effectively to the Ukraine crisis. Economic stagnation, high public debt, and rising radical parties have left European governments distracted and divided. This internal turmoil raises doubts about the sustainability of European support for Ukraine and the coherence of transatlantic relations.
-  
-  **Trends and Predictions:**  
-  The transformation of military tactics in Ukraine is most definitely setting a precedent for future conflicts, particularly in regions like East Asia. There is a high chance that diplomatic negotiations between Russia and Ukraine will continue to face obstacles, but incremental progress is likely as both sides seek to avoid a prolonged stalemate. European political instability is quite likely to persist, limiting the continent's ability to project power or provide unified support for Ukraine.
-  
-  In summary, the Ukraine war remains a crucible for military and diplomatic innovation, but the broader geopolitical landscape is increasingly shaped by internal divisions and the rapid evolution of warfare.
+  Looking ahead, the trends suggest that Europe’s internal divisions and weak foreign policy responses will persist, with a high chance of further political polarization and instability at home. On the military front, the innovations and cautionary lessons from Ukraine are most definitely shaping global security thinking, especially regarding great power competition. I guarantee that unless Europe addresses its internal fractures and asserts a more coherent foreign policy, its influence will continue to wane, both regionally and on the world stage.
 articles:
+  - title: Europe's weakness on Iran, Gaza has radicalized politics at home
+    url: https://responsiblestatecraft.org/europe-trump-iran-war/
+    text: 'By their shameful, spineless stance on the U.S. and Israeli war against Iran,
+      European leaders have doomed whatever remained of their global influence and their
+      pretensions to promote a “rules-based international order.”
+
+
+      They are also helping to dig the graves of their own political parties, and quite
+      possibly of European democracy.
+
+
+      In acquiescing in a clearly illegal war of aggression (with only the faintest
+      bleats of protest), continuing to express support for their U.S. and Israeli “partners,”
+      and — incredibly — condemning Iran for retaliating, these governments doubtless
+      believe that they are acting “realistically.”
+
+
+      That is to say, through their hysterical fear of Russia and refusal to help bring
+      about a Ukraine peace settlement, they have — in their own minds at least — made
+      themselves totally dependent on U.S. military support. They dare not take a strong
+      stance against Trump, for fear that he will withdraw that support from Europe
+      and Ukraine.
+
+
+      What makes this so especially ironic is that if the U.S.-Israeli war on Iran drags
+      on, it will divert U.S. and European anti-missile systems from Ukraine to the
+      Middle East, greatly weakening Ukrainian defenses. It will also drive a sustained
+      rise in global oil and gas prices that will greatly strengthen Russia both economically
+      and diplomatically.
+
+
+      Countries like India will have no choice but to buy more Russian energy at higher
+      prices. Russia will also be in a position to drive a tougher bargain with China
+      over its energy sales. And of course, in the eyes of most of the world, there
+      is now simply no moral difference between U.S. wars of aggression and those of
+      Russia, or the position of Russia’s satellite Belarus and that of European satellites
+      of the U.S.
+
+
+      Above all, the external threat posed by Russia to European democracies is minor
+      compared to the threats they now face from within; and coming on top of their
+      de facto support for Israel’s war on Gaza, European governments’ acquiescence
+      in the attack on Iran will further increase this threat.
+
+
+      By shifting their base and identity from the old working classes to new middle
+      class graduates and professionals, and allowing vast levels of immigration to
+      undercut wages, the European center-left parties have already lost most of the
+      white working classes. As Sen. Bernie Sanders (I-Vt.) remarked of the Democrats
+      in the U.S., “It should come as no great surprise that a Democratic Party which
+      has abandoned working class people would find that the working class has abandoned
+      them,”
+
+
+      Now these parties are losing their new voters as well, as graduates find that
+      their cripplingly expensive degrees are worthless when it comes to finding good
+      jobs, and idealistic youth is repelled by the spectacle of ostensibly progressive
+      and internationalist parties betraying every international principle for which
+      they ever stood, however rhetorically.
+
+
+      Much more dangerous is the move of Muslim minorities across Europe from the center-left
+      parties to the far left, because only the far left has taken a clear and strong
+      stand against Israeli atrocities and European acquiescence in them. Nor is this
+      shift on their part in any way surprising. In the glaring contrast between their
+      treatment of Russian crimes against Ukrainians and Israeli crimes against Palestinians,
+      Lebanese and Iranians, European governments could not possibly have made it clearer
+      that they regard Muslim lives as worth a fraction of those of white Europeans.
+
+
+      This fusion of Muslim minority politics with the far left is likely to drive still
+      further the turn of much of the populist right not only to an increasingly open
+      and vicious racist Islamophobia, but also to fierce support for U.S. and Israeli
+      actions in the Middle East. This shift can be seen, for example, in parts of the
+      British right-wing media that used to express some sympathy for Palestinian suffering
+      and take a relatively detached and objective view of Israel’s actions, but increasingly
+      give them unconditional support . This trend will be made even worse if the latest
+      developments drive an increase in Islamist extremism and terrorism in Europe.
+
+
+      Most recently, this developing political crisis has been displayed in the British
+      parliamentary by-election in the Gorton and Denton constituency in Greater Manchester.
+      The Green Party came first, and the right-wing populist Reform party came second.
+      Labour was beaten into third place and lost a seat that it has held for almost
+      100 years. The center-right Conservatives won 1.7 percent of the vote and have
+      essentially ceased to exist in the area.
+
+
+      This election has been accurately described as “How Gorton beat Denton” — the
+      Green vote from the large Pakistani Muslim population and educated (but increasingly
+      poor) white professionals of Gorton defeated (on this occasion) the vote of the
+      impoverished white working classes of Denton for Reform. Labour lost large numbers
+      of votes in both directions.
+
+
+      Both of these left/right blocs are deeply divided internally. On the left, obsessive
+      adherence to “woke” agendas runs up against the deep social conservatism of most
+      Muslim communities, especially when it comes to the position of women. On the
+      right, the working class desire for interventionist economic policies and high
+      social spending runs up against the middle class desire for low taxes and reduced
+      state regulations. These internal divisions are likely however only to encourage
+      moves by the leaderships to maintain unity by increasing their supporters’ fear
+      and hatred of their political opponents.
+
+
+      On the critical issue of immigration, this bitter polarization will be driven
+      still further by the collapse of the center-left. For finally, in response to
+      growing public outcry (and inspired by the example of the social democratic government
+      of Denmark), center-left and center-right governments have begun to introduce
+      policies to limit the mass immigration that was beginning to tear their societies
+      apart .
+
+
+      Strikingly, among the drivers of these new policies have been politicians from
+      immigrant communities — like the British Labour Home Secretary Shabana Mahmood
+      and the British Conservative leader Kemi Badenoch — who recognize that a continuation
+      of high immigration and the resulting radicalization of parts of the white population
+      are undermining social peace and endangering ethnic minorities. If the Israeli-U.S.
+      war on Iran leads to the collapse of the state and a flood of refugees towards
+      Europe — as occurred after our destruction of the Libyan state and the outbreak
+      of civil war in Syria — this problem will become even worse.
+
+
+      On this issue, the simultaneous collapse of the center-left and center-right parties
+      will leave European voters with a terrible choice. On the one hand, there will
+      be a far left committed to virtually open borders. On the other, there will be
+      a far right increasingly flirting with the idea of “ remigration ” — a lightly
+      coded formula for mass deportations.
+
+
+      If this is to be the future, then democracy itself is unlikely to survive, except
+      in a radically curtailed form. As has often been observed, while democracy is
+      good at legitimizing and gaining acceptance of policies with which parts of the
+      population deeply disagree, it cannot solve deep and fundamental issues of cultural
+      and national identity; for this identity cannot change radically with every election.
+
+
+      Middle Eastern states have faced this dilemma in the form of the split between
+      Islamists and secularists, linked in some cases to rivalries and hatreds between
+      different ethnic groups. The result has been to make democracy unworkable. In
+      most of the region, the result has been dictatorship or civil war.
+
+
+      European democratic stability is vital to the survival of democracy in the world
+      as a whole. It is also an essential pillar of U.S. hard and soft power in the
+      world. In helping Israeli actions to destabilize Europe, the Biden and Trump administrations
+      have both made a disastrous choice, and the fact that existing European governments
+      have gone along with it should not blind us to its folly.'
+    one_sentence_summary: European leaders' weak response to the U.S. and Israeli war
+      against Iran not only undermines their global influence and democratic integrity
+      but also exacerbates internal political crises, potentially leading to the rise
+      of extremist factions and the erosion of democracy in Europe.
+    paragraph_summary: The article criticizes European leaders for their weak response
+      to the U.S. and Israeli aggression against Iran, arguing that their compliance
+      undermines their global influence and threatens the stability of European democracy.
+      By supporting these actions while condemning Iran's retaliation, European governments
+      are perceived as prioritizing U.S. military support over their own principles,
+      which could weaken their defenses in Ukraine and inadvertently bolster Russia's
+      position. The article highlights a political crisis in Europe, where traditional
+      left parties are losing support from both the working class and educated voters,
+      while Muslim minorities are gravitating towards the far left due to perceived
+      injustices. This polarization, coupled with rising anti-immigrant sentiments and
+      the potential for increased Islamist extremism, poses a significant threat to
+      the future of democracy in Europe. The author warns that the collapse of center-left
+      and center-right parties may lead to a political landscape dominated by extremes,
+      ultimately jeopardizing democratic stability and the broader international order.
+    published: '2026-03-04T05:05:03+00:00'
   - title: Ukraine marks biggest evolution in military tactics since WWII
     url: https://responsiblestatecraft.org/ukraine-war-tactics/
     text: 'This article is part of a special series recognizing the four-year anniversary

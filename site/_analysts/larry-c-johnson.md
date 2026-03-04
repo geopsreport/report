@@ -7,17 +7,1405 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Tensions remain high in the Middle East as the United States continues to build up its military presence near Iran. Over the past 48 hours, significant new details have emerged regarding the operational posture and strategic limitations facing the U.S. and its allies.
+  Amidst heightened US-Iran tensions following the assassination of Ayatollah Khamenei, the regional security situation continues to evolve rapidly. The latest analysis from **Larry C. Johnson** highlights several new and critical developments.
   
-  Most notably, **Larry C. Johnson** reports that President Trump has now deployed nearly 30% of the U.S. Air Force's F-35A fleet to Jordan and Saudi Arabia. However, these advanced jets face logistical challenges: “their limited capability to effectively strike high-priority targets in Iran due to the distance and the need for air refueling near the Iranian border” could undermine the impact of any initial strike package. This operational constraint is a key factor in the ongoing debate within U.S. defense circles about the feasibility of a decisive air campaign.
+  The most pressing revelation concerns the US military’s air-defense capabilities. Contrary to recent public statements by Donald Trump, **Larry C. Johnson** reports that the United States is facing a significant shortage of PAC-3 MSE air-defense missiles. This undermines Trump’s claim of an “unlimited supply” and raises serious questions about the sustainability of US military operations in the region, especially as advanced missile threats from Iran and its allies persist. The shortage could limit the US ability to protect its forces and regional partners in the event of further escalation.
   
-  Despite the scale of the deployment, there are still no clear indicators of an imminent attack. As of February 23, only the U.S. Embassy in Beirut has ordered non-essential staff to leave, and there have been no widespread NOTAMs (Notices to Airmen) or other evacuation signals that typically precede major military operations. This suggests, according to **General Dan Caine** (as cited by Johnson), that while preparations are advanced, the final decision to launch an attack has not yet been made.
+  On the ground, Iranian forces have reportedly succeeded in expelling US troops from several bases in the region. **Johnson** notes that this directly contradicts the Trump administration’s narrative of dominance and suggests that Iran’s military strategy is achieving tangible results. The loss of these positions not only weakens the US posture but also emboldens Tehran and its regional allies.
   
-  Strategic timing remains a central consideration. Previous reporting highlighted that any potential U.S. or Israeli air operation would likely be timed with the upcoming moonless nights in mid-March, which would provide optimal conditions for stealth aircraft. However, the latest deployments indicate that the U.S. is keeping its options open, possibly to maintain pressure on Tehran or to deter further escalation in the region.
+  Meanwhile, the aftermath of the US-Israeli strike that killed Khamenei continues to reverberate. Rather than destabilizing the Iranian regime, the operation has, according to **Johnson**, “united the Iranian populace in support of their government.” This outcome has complicated US objectives and increased the risk of broader conflict, as the Shi’a world rallies in response.
   
   **Trends and Predictions:**  
-  Based on the current pace of military movements and the absence of definitive pre-attack indicators, it is quite likely that the situation will remain in a holding pattern for the next several days. The operational limitations of forward-deployed F-35As further complicate the prospects for a “slam-dunk” success, as Johnson notes. Unless there is a sudden shift—such as mass embassy evacuations or the issuance of broad NOTAMs—I assess with high confidence that no major U.S. strike on Iran will occur before mid-March. However, the risk of miscalculation or sudden escalation remains elevated as both sides continue to posture for advantage.
+  The convergence of these factors—US missile shortages, Iranian military advances, and a galvanized Iranian public—points to a deteriorating strategic position for Washington. **Johnson** assesses with high confidence that unless the US addresses its missile defense shortfall and reconsiders its regional posture, further setbacks are “most definitely” likely. The risk of wider conflict remains high, with no clear diplomatic off-ramp in sight.
 articles:
+  - title: The US Missile Defense Shortage is Worse than Imagined
+    url: https://sonar21.com/the-us-missile-defense-shortage-is-worse-than-imagined/
+    text: 'Donald Trump made a bold and provably wrong claim yesterday about the US
+      air-defense missile inventory: The United States Munitions Stockpiles have, at
+      the medium and upper medium grade, never been higher or better — was stated to
+      me today we have a virtually unlimited supply of these weapons. Wars can be ‘forever,’
+      and very successfully, using just these supplies (which are better than other
+      countries’ finest arms!). At highest end we have good supply but not where we
+      want to be. Much additional high-grade weaponry is stored for us in outlying countries.
+      I will now show you conclusively that Trump is gaslighting the public, at least
+      with respect to the PAC-3 MSE missiles. The PAC-3 MSE (Patriot Advanced Capability-3
+      Missile Segment Enhancement) is effectively the primary missile used in the modern
+      Patriot system for most high-priority threats, particularly in current U.S. Army
+      and allied operations as of 2026. The PAC-3 MSE ( Missile Segment Enhancement)
+      began low-rate initial production (LRIP) in 2014, with deliveries starting in
+      2015 and full-rate production approved in 2018. Starting in 2015 and continuing
+      through 2020, the US produced between 100 — 300 a year. Let’s use the higher figure…
+      That is 1,800 PAC-3 MSE . In the succeeding four year period, the US produced
+      an estimated 2,200 PAC-3 MSE s (i.e., 500+ per year). In 2025 the US boosted production
+      to 620. Total PAC-3 MSE s produced since 2015 is 4,620. When the PAC-3 MSE is
+      employed against an incoming threat, a minimum of two are fired. Keep that figure
+      in mind. So how many have we sent Ukraine? According to open source documents,
+      including DOD/DOW budget figures, the the US has transferred 847 PAC-3 MSE missiles
+      to Ukraine. Assuming that the US and Israel have NOT fired any PAC-3 MSE missiles
+      in 2025 and 2026, the US only has 3,773 in its inventory. We know that is ridiculous,
+      but play along with me. During the 12-day war Iran fired at least 600 ballistic
+      missiles into Israel. In theory, the Patriot system is designed to work against
+      ballistic missiles while Israel’s Iron Dome is designed to defeat short-range
+      counter-rocket, artillery, and mortar (C-RAM) defense, plus capabilities against
+      drones, cruise missiles, precision-guided munitions (PGMs), and some ballistic
+      threats in certain configurations. So let’s assume that the Patriot was fired
+      at 500 of the Iranian missiles — i.e., at least 1,000 PAC-3 MSE missiles were
+      fired. That shrinks the US inventory to 2,773. In just four days since the start
+      of Epic Fury , Iran has fired an estimated 200 missiles at sites in the Gulf nations
+      and Israel that have Patriot batteries. Conceivably, that means that another 400
+      PAC-3 MSE missiles have been launched, which shrinks the inventory to 2,373. If
+      Iran fires 60 ballistic missiles per day, and the Patriot system uses 2 interceptors
+      per incoming missile (a common conservative engagement doctrine for high-confidence
+      intercepts against ballistic threats), the inventory would be exhausted after
+      19 full days, with enough left on the 20th day to handle roughly 46–47 Iranian
+      missiles before depletion (about 19.775 days total, or roughly 19 days and 18–19
+      hours of sustained operations at this rate). In other words, the US PAC-3 MSE
+      missiles will be exhausted on March 23, 2026. Note that I am assuming that the
+      entire inventory of US Patriot missiles have been deployed to Israel and US bases
+      in the region. That is a false assumption because there are Patriot missile batteries
+      with a full complement of missiles in other theaters. At present there are three
+      Patriot battalions permanently assigned/forward-deployed to INDOPACOM (e.g., in
+      South Korea/Japan/Guam areas, like 35th ADA Brigade and 1-1 ADA at Kadena); EUCOM
+      has one Patriot battalion assigned (e.g., units in Germany like Baumholder/Ansbach
+      areas, supporting NATO/Eastern flank). The US Army has 15 Patriot battalions total
+      (14 fully available as of mid-2025, with one in modernization), each typically
+      consisting of 4–6 batteries (a battery is the firing unit with launchers/radars).
+      A Patriot battery (also called a fire unit) typically includes 6–8 launchers (Launching
+      Stations), though configurations vary by operator, mission, and launcher type
+      (e.g., M903 for modern U.S. systems). If we assume that the four Patriot battalions
+      have four batteries each, with 72 missiles per battery, we get a total of 1,152
+      missiles that must be subtracted from the maximum possible number deployed to
+      the Middle East — i.e., the actual inventory, using the most conservative estimate,
+      is 1,221. That means the US inventory of PAC-3 MSE missiles, using the assumptions
+      above that Iran is firing 60 ballistic missiles per day, the supply of missiles
+      will run out in 10 days. This is why I assert that Donald Trump is out of touch
+      with reality. Instead of my regular one-on-one chat with Marcello, he hosted a
+      panel today with me, Commandante Farinazzo and Ricardo Amadesi: My dear friend
+      Rasheed Mohammed and I chatted for about forty minutes today about the situation
+      in Iran: My new Iranian friend, Fouad, interviewed me on Monday and posted the
+      video today: I did a video journey to the homeland of some of my ancestors… Ireland.
+      Gerry O’Neill and I discussed the ridiculous claim that the US could deploy ground
+      forces to Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump incorrectly claimed that the U.S. has an unlimited
+      supply of air-defense missiles, specifically the PAC-3 MSE, which is crucial for
+      modern military operations, while evidence suggests otherwise.
+    paragraph_summary: Donald Trump recently made an inaccurate claim regarding the
+      U.S. air-defense missile inventory, stating that the United States has a "virtually
+      unlimited supply" of medium and upper medium-grade weapons, particularly highlighting
+      the PAC-3 MSE missiles. However, an analysis reveals that since 2015, the U.S.
+      has produced a total of 4,620 PAC-3 MSE missiles, with 847 of these transferred
+      to Ukraine. Given that each missile launch typically requires at least two missiles,
+      the current inventory would be significantly lower than Trump's assertion. The
+      article argues that Trump's statements are misleading, especially in the context
+      of ongoing military needs and the recent missile threats faced by allies like
+      Israel.
+    published: '2026-03-04T04:56:57+00:00'
+  - title: The US Missile Defense Shortage is Worse than Imagined
+    url: https://sonar21.com/the-us-missile-defense-shortage-is-worse-than-imagined/
+    text: 'Donald Trump made a bold and provably wrong claim yesterday about the US
+      air-defense missile inventory: The United States Munitions Stockpiles have, at
+      the medium and upper medium grade, never been higher or better — was stated to
+      me today we have a virtually unlimited supply of these weapons. Wars can be ‘forever,’
+      and very successfully, using just these supplies (which are better than other
+      countries’ finest arms!). At highest end we have good supply but not where we
+      want to be. Much additional high-grade weaponry is stored for us in outlying countries.
+      I will now show you conclusively that Trump is gaslighting the public, at least
+      with respect to the PAC-3 MSE missiles. The PAC-3 MSE (Patriot Advanced Capability-3
+      Missile Segment Enhancement) is effectively the primary missile used in the modern
+      Patriot system for most high-priority threats, particularly in current U.S. Army
+      and allied operations as of 2026. The PAC-3 MSE ( Missile Segment Enhancement)
+      began low-rate initial production (LRIP) in 2014, with deliveries starting in
+      2015 and full-rate production approved in 2018. Starting in 2015 and continuing
+      through 2020, the US produced between 100 — 300 a year. Let’s use the higher figure…
+      That is 1,800 PAC-3 MSE . In the succeeding four year period, the US produced
+      an estimated 2,200 PAC-3 MSE s (i.e., 500+ per year). In 2025 the US boosted production
+      to 620. Total PAC-3 MSE s produced since 2015 is 4,620. When the PAC-3 MSE is
+      employed against an incoming threat, a minimum of two are fired. Keep that figure
+      in mind. So how many have we sent Ukraine? According to open source documents,
+      including DOD/DOW budget figures, the the US has transferred 847 PAC-3 MSE missiles
+      to Ukraine. Assuming that the US and Israel have NOT fired any PAC-3 MSE missiles
+      in 2025 and 2026, the US only has 3,773 in its inventory. We know that is ridiculous,
+      but play along with me. During the 12-day war Iran fired at least 600 ballistic
+      missiles into Israel. In theory, the Patriot system is designed to work against
+      ballistic missiles while Israel’s Iron Dome is designed to defeat short-range
+      counter-rocket, artillery, and mortar (C-RAM) defense, plus capabilities against
+      drones, cruise missiles, precision-guided munitions (PGMs), and some ballistic
+      threats in certain configurations. So let’s assume that the Patriot was fired
+      at 500 of the Iranian missiles — i.e., at least 1,000 PAC-3 MSE missiles were
+      fired. That shrinks the US inventory to 2,773. In just four days since the start
+      of Epic Fury , Iran has fired an estimated 200 missiles at sites in the Gulf nations
+      and Israel that have Patriot batteries. Conceivably, that means that another 400
+      PAC-3 MSE missiles have been launched, which shrinks the inventory to 2,373. If
+      Iran fires 60 ballistic missiles per day, and the Patriot system uses 2 interceptors
+      per incoming missile (a common conservative engagement doctrine for high-confidence
+      intercepts against ballistic threats), the inventory would be exhausted after
+      19 full days, with enough left on the 20th day to handle roughly 46–47 Iranian
+      missiles before depletion (about 19.775 days total, or roughly 19 days and 18–19
+      hours of sustained operations at this rate). In other words, the US PAC-3 MSE
+      missiles will be exhausted on March 23, 2026. Note that I am assuming that the
+      entire inventory of US Patriot missiles have been deployed to Israel and US bases
+      in the region. That is a false assumption because there are Patriot missile batteries
+      with a full complement of missiles in other theaters. At present there are three
+      Patriot battalions permanently assigned/forward-deployed to INDOPACOM (e.g., in
+      South Korea/Japan/Guam areas, like 35th ADA Brigade and 1-1 ADA at Kadena); EUCOM
+      has one Patriot battalion assigned (e.g., units in Germany like Baumholder/Ansbach
+      areas, supporting NATO/Eastern flank). The US Army has 15 Patriot battalions total
+      (14 fully available as of mid-2025, with one in modernization), each typically
+      consisting of 4–6 batteries (a battery is the firing unit with launchers/radars).
+      A Patriot battery (also called a fire unit) typically includes 6–8 launchers (Launching
+      Stations), though configurations vary by operator, mission, and launcher type
+      (e.g., M903 for modern U.S. systems). If we assume that the four Patriot battalions
+      have four batteries each, with 72 missiles per battery, we get a total of 1,152
+      missiles that must be subtracted from the maximum possible number deployed to
+      the Middle East — i.e., the actual inventory, using the most conservative estimate,
+      is 1,221. That means the US inventory of PAC-3 MSE missiles, using the assumptions
+      above that Iran is firing 60 ballistic missiles per day, the supply of missiles
+      will run out in 10 days. This is why I assert that Donald Trump is out of touch
+      with reality. Instead of my regular one-on-one chat with Marcello, he hosted a
+      panel today with me, Commandante Farinazzo and Ricardo Amadesi: My dear friend
+      Rasheed Mohammed and I chatted for about forty minutes today about the situation
+      in Iran: My new Iranian friend, Fouad, interviewed me on Monday and posted the
+      video today: I did a video journey to the homeland of some of my ancestors… Ireland.
+      Gerry O’Neill and I discussed the ridiculous claim that the US could deploy ground
+      forces to Iran: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump incorrectly claimed that the U.S. has an unlimited
+      supply of air-defense missiles, specifically the PAC-3 MSE, which is crucial for
+      modern military operations, while evidence suggests otherwise.
+    paragraph_summary: Donald Trump recently made an inaccurate claim regarding the
+      U.S. air-defense missile inventory, stating that the United States has a "virtually
+      unlimited supply" of medium and upper medium-grade weapons, particularly highlighting
+      the PAC-3 MSE missiles. However, an analysis reveals that since 2015, the U.S.
+      has produced a total of 4,620 PAC-3 MSE missiles, with 847 of these transferred
+      to Ukraine. Given that each missile launch typically requires at least two missiles,
+      the current inventory would be significantly lower than Trump's assertion. The
+      article argues that Trump's statements are misleading, especially in the context
+      of ongoing military needs and the recent missile threats faced by allies like
+      Israel.
+    published: '2026-03-04T04:56:57+00:00'
+  - title: How Iran Can Defeat Donald Trump
+    url: https://sonar21.com/how-iran-can-defeat-donald-trump/
+    text: 'Trump Shocked to Discover that Hegseth is an Imbecile Donald Trump and his
+      national security team continue to push the narrative that the US is dominating
+      Iran and that it is only a matter of time before Iran crumbles in the face of
+      the might of the US military. Iran, apparently, has not received that memo and
+      is pursuing its own course of action. We are now entering the fourth day of this
+      unprovoked attack by Israel and the US and Iran shows no sign of weakening. In
+      fact, Iran has expelled the US military from its bases in Iraq, Kuwait, Bahrain,
+      Saudi Arabia, Qatar and the United Arab Emirate. It did so by launching drone
+      and missile attacks on those bases and installations, which forced the Americans
+      and their NATO allies to flee from those locations. In the ongoing escalation
+      of the war launched by the US and Israel (following joint US-Israeli strikes on
+      Iran, including the killing of Supreme Leader Ayatollah Ali Khamenei on February
+      28, 2026), Iran’s Islamic Revolutionary Guard Corps (IRGC) launched retaliatory
+      ballistic missile and drone attacks on US radar systems in Qatar and Bahrain.
+      AN/FPS-132 At the Al Udeid Air Base in Qatar, Iran destroyed the AN/FPS-132 radar
+      (also referred to as FPS-132 or AN/FPS-132 Block 5 Upgraded Early Warning Radar/UEWR).
+      This is a US Air Force-operated, long-range early warning radar designed for ballistic
+      missile detection and tracking. It provides wide-area surveillance, with a reported
+      detection range of up to 5,000 km (about 3,100 miles) for missile launches. This
+      was used during the June 2025 12-day war to detect and track Iranian missiles
+      headed to Israel. Iran also destroyed the large air‑search radar dome in Bahrain,
+      which is located at the Naval Support Activity Bahrain / US Navy Fifth Fleet HQ.
+      This kind of radar is used for wide‑area air and surface surveillance and for
+      feeding air picture to Patriot/THAAD and fleet ops. The destruction of this unit
+      significantly reduces the capability of the deployed air defense systems to detect
+      and track in-bound threats. The destruction of these two radar systems will improve
+      Iran’s ability to hit targets in Israel. Iran also appears to have downed three
+      F-15 combat aircraft. US Central Command insists that the planes were downed by
+      friendly fire, but that is nonsense. The official US military report admits that
+      Iranian aircraft had been engaging them at a time when “air superiority” was allegedly
+      long established. Those planes carried IFF (i.e., Identification Friend or Foe),
+      which is basically an encrypted “question and answer” radio system that lets radars
+      and other aircraft positively recognize it as friendly. Before flight, ground
+      crew or aircrew load crypto keys (for secure modes like Mode 4/5) into the IFF
+      using a fill device, and set required mission codes. In flight, when the fighter
+      appears on someone’s radar, that radar or airborne interrogator sends a coded
+      challenge. The jet’s transponder: • Recognizes the interrogation mode and code.
+      • Uses its loaded crypto to generate a valid encrypted response if the challenge
+      is correct. • Transmits a reply on a reply frequency that includes ID, and in
+      some modes altitude or other data. In other words, US CENTCOM wants you to believe
+      that the IFF on three planes failed or that the crews operating the Patriot missile
+      batteries failed to recognize the IFF signals. If it was just one plane I would
+      be inclined to believe CENTCOM’s explanation… But three? Sorry, this is Male Bovine
+      Excrement . Iran wasted little time after the attack on Saturday morning that
+      killed the Ayatollah Khomenei and senior leaders of the Iranian military and security
+      services in shutting down maritime traffic through the Strait of Hormuz. While
+      the US and Israeli missiles continue to pound Iran, the IRGC and the Iranian navy
+      appear quite capable to prevent any ship carrying oil or liquid natural gas from
+      leaving the Persian Gulf. If this blockade remains in place, Iran will inflict
+      major damage on countries dependent on oil exports from the gulf and gain leverage
+      in negotiations to end the conflict. What might Iran demand in terms of concessions
+      from the West before it lifts the blockade? I think that getting Western sanctions
+      lifted will be at the top of the menu. Iran also could demand that Israel withdraw
+      its forces from Gaza and that the Palestinians be allowed free, unencumbered access
+      to Egypt for medial treatment and uninterrupted supplies of food and water. While
+      Iran keeps the Persian Gulf shuttered it will continue to launch missiles into
+      Israel and any remaining US bases/installations that are still supporting combat
+      operations. I believe that Iran has a sufficient supply of ballistic and cruise
+      missiles, as well as thousands of drones, that will enable it to maintain a consistent,
+      heavy fire at targets in Israel and any remaining US bases for at least two months.
+      This will create a major, unsolvable problem for Israel and the US — both are
+      likely to exhaust their supply of Iron Dome, Patriot and THAAD air-defense missiles
+      within three weeks if Iran is able to fire a 100 missiles/drones per day. I believe
+      that Iran is equipped to fight a war of attrition… The US and Israel are not!
+      If this war lasts more than four weeks, the cost to sustain two carrier strike
+      groups, seven F-35A squadrons and 108 KC-135 tankers will approach two billion
+      dollars, and that does not include the cost of the Tomahawk cruise missiles that
+      have been fired into Iran… That cost is $2.5 million per missile. It appears that
+      we have launched 200  Tomahawks in just the first three days of this war, which
+      means the US has expended an estimated half-billion dollars. Donald Trump has
+      broken his promise to the American people by embroiling the US in another costly,
+      needless war. And in calculating the cost, what number do we place on the military
+      personnel who have been (and will be) killed or grievously wounded in action?
+      Look at the picture of Donald Trump screaming at Pete Hegseth, which is posted
+      at the top of this article… Does that look like a man who believes the war is
+      going his way? I don’t think so. Judge Napolitano and I discussed the implications
+      of the assassination of the Ayatollah Khomenei: The following video features Pepe
+      Escobar in the first hour and me in the second: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how, contrary to the belief of Donald
+      Trump and his national security team that the US is dominating Iran, the Iranian
+      military has successfully expelled US forces from multiple bases in the region
+      amidst ongoing conflict.
+    paragraph_summary: The article discusses the ongoing military conflict involving
+      the US, Israel, and Iran, highlighting Iran's resilience in the face of perceived
+      US dominance. Despite claims from Donald Trump and his national security team
+      that the US is overpowering Iran, the latter has successfully expelled US military
+      forces from multiple bases in the Middle East through drone and missile attacks.
+      The situation escalated following joint US-Israeli strikes on Iran, including
+      the assassination of Supreme Leader Ayatollah Ali Khamenei. In retaliation, Iran's
+      Islamic Revolutionary Guard Corps targeted US radar systems in Qatar and Bahrain,
+      destroying critical military infrastructure that significantly hampers US air
+      defense capabilities in the region.
+    published: '2026-03-03T05:52:15+00:00'
+  - title: How Iran Can Defeat Donald Trump
+    url: https://sonar21.com/how-iran-can-defeat-donald-trump/
+    text: 'Trump Shocked to Discover that Hegseth is an Imbecile Donald Trump and his
+      national security team continue to push the narrative that the US is dominating
+      Iran and that it is only a matter of time before Iran crumbles in the face of
+      the might of the US military. Iran, apparently, has not received that memo and
+      is pursuing its own course of action. We are now entering the fourth day of this
+      unprovoked attack by Israel and the US and Iran shows no sign of weakening. In
+      fact, Iran has expelled the US military from its bases in Iraq, Kuwait, Bahrain,
+      Saudi Arabia, Qatar and the United Arab Emirate. It did so by launching drone
+      and missile attacks on those bases and installations, which forced the Americans
+      and their NATO allies to flee from those locations. In the ongoing escalation
+      of the war launched by the US and Israel (following joint US-Israeli strikes on
+      Iran, including the killing of Supreme Leader Ayatollah Ali Khamenei on February
+      28, 2026), Iran’s Islamic Revolutionary Guard Corps (IRGC) launched retaliatory
+      ballistic missile and drone attacks on US radar systems in Qatar and Bahrain.
+      AN/FPS-132 At the Al Udeid Air Base in Qatar, Iran destroyed the AN/FPS-132 radar
+      (also referred to as FPS-132 or AN/FPS-132 Block 5 Upgraded Early Warning Radar/UEWR).
+      This is a US Air Force-operated, long-range early warning radar designed for ballistic
+      missile detection and tracking. It provides wide-area surveillance, with a reported
+      detection range of up to 5,000 km (about 3,100 miles) for missile launches. This
+      was used during the June 2025 12-day war to detect and track Iranian missiles
+      headed to Israel. Iran also destroyed the large air‑search radar dome in Bahrain,
+      which is located at the Naval Support Activity Bahrain / US Navy Fifth Fleet HQ.
+      This kind of radar is used for wide‑area air and surface surveillance and for
+      feeding air picture to Patriot/THAAD and fleet ops. The destruction of this unit
+      significantly reduces the capability of the deployed air defense systems to detect
+      and track in-bound threats. The destruction of these two radar systems will improve
+      Iran’s ability to hit targets in Israel. Iran also appears to have downed three
+      F-15 combat aircraft. US Central Command insists that the planes were downed by
+      friendly fire, but that is nonsense. The official US military report admits that
+      Iranian aircraft had been engaging them at a time when “air superiority” was allegedly
+      long established. Those planes carried IFF (i.e., Identification Friend or Foe),
+      which is basically an encrypted “question and answer” radio system that lets radars
+      and other aircraft positively recognize it as friendly. Before flight, ground
+      crew or aircrew load crypto keys (for secure modes like Mode 4/5) into the IFF
+      using a fill device, and set required mission codes. In flight, when the fighter
+      appears on someone’s radar, that radar or airborne interrogator sends a coded
+      challenge. The jet’s transponder: • Recognizes the interrogation mode and code.
+      • Uses its loaded crypto to generate a valid encrypted response if the challenge
+      is correct. • Transmits a reply on a reply frequency that includes ID, and in
+      some modes altitude or other data. In other words, US CENTCOM wants you to believe
+      that the IFF on three planes failed or that the crews operating the Patriot missile
+      batteries failed to recognize the IFF signals. If it was just one plane I would
+      be inclined to believe CENTCOM’s explanation… But three? Sorry, this is Male Bovine
+      Excrement . Iran wasted little time after the attack on Saturday morning that
+      killed the Ayatollah Khomenei and senior leaders of the Iranian military and security
+      services in shutting down maritime traffic through the Strait of Hormuz. While
+      the US and Israeli missiles continue to pound Iran, the IRGC and the Iranian navy
+      appear quite capable to prevent any ship carrying oil or liquid natural gas from
+      leaving the Persian Gulf. If this blockade remains in place, Iran will inflict
+      major damage on countries dependent on oil exports from the gulf and gain leverage
+      in negotiations to end the conflict. What might Iran demand in terms of concessions
+      from the West before it lifts the blockade? I think that getting Western sanctions
+      lifted will be at the top of the menu. Iran also could demand that Israel withdraw
+      its forces from Gaza and that the Palestinians be allowed free, unencumbered access
+      to Egypt for medial treatment and uninterrupted supplies of food and water. While
+      Iran keeps the Persian Gulf shuttered it will continue to launch missiles into
+      Israel and any remaining US bases/installations that are still supporting combat
+      operations. I believe that Iran has a sufficient supply of ballistic and cruise
+      missiles, as well as thousands of drones, that will enable it to maintain a consistent,
+      heavy fire at targets in Israel and any remaining US bases for at least two months.
+      This will create a major, unsolvable problem for Israel and the US — both are
+      likely to exhaust their supply of Iron Dome, Patriot and THAAD air-defense missiles
+      within three weeks if Iran is able to fire a 100 missiles/drones per day. I believe
+      that Iran is equipped to fight a war of attrition… The US and Israel are not!
+      If this war lasts more than four weeks, the cost to sustain two carrier strike
+      groups, seven F-35A squadrons and 108 KC-135 tankers will approach two billion
+      dollars, and that does not include the cost of the Tomahawk cruise missiles that
+      have been fired into Iran… That cost is $2.5 million per missile. It appears that
+      we have launched 200  Tomahawks in just the first three days of this war, which
+      means the US has expended an estimated half-billion dollars. Donald Trump has
+      broken his promise to the American people by embroiling the US in another costly,
+      needless war. And in calculating the cost, what number do we place on the military
+      personnel who have been (and will be) killed or grievously wounded in action?
+      Look at the picture of Donald Trump screaming at Pete Hegseth, which is posted
+      at the top of this article… Does that look like a man who believes the war is
+      going his way? I don’t think so. Judge Napolitano and I discussed the implications
+      of the assassination of the Ayatollah Khomenei: The following video features Pepe
+      Escobar in the first hour and me in the second: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how, contrary to the belief of Donald
+      Trump and his national security team that the US is dominating Iran, the Iranian
+      military has successfully expelled US forces from multiple bases in the region
+      amidst ongoing conflict.
+    paragraph_summary: The article discusses the ongoing military conflict involving
+      the US, Israel, and Iran, highlighting Iran's resilience in the face of perceived
+      US dominance. Despite claims from Donald Trump and his national security team
+      that the US is overpowering Iran, the latter has successfully expelled US military
+      forces from multiple bases in the Middle East through drone and missile attacks.
+      The situation escalated following joint US-Israeli strikes on Iran, including
+      the assassination of Supreme Leader Ayatollah Ali Khamenei. In retaliation, Iran's
+      Islamic Revolutionary Guard Corps targeted US radar systems in Qatar and Bahrain,
+      destroying critical military infrastructure that significantly hampers US air
+      defense capabilities in the region.
+    published: '2026-03-03T05:52:15+00:00'
+  - title: Is Donald Trump Looking for an Exit Ramp?
+    url: https://sonar21.com/is-donald-trump-looking-for-an-exit-ramp/
+    text: 'The Israel/US decapitation strike on Saturday hit the Ayatollah Khamenei
+      when he was reportedly meeting with senior Iranian military officers. Was the
+      Israeli hit a lucky coincidence or was this a deliberately planned trap? Did the
+      US send a message to Khamenei for a meeting to discuss a US proposal in preparation
+      for the planned Monday meeting — now cancelled — in Geneva? Whatever brought these
+      senior Iranian officials together, it has been a Pyrrhic victory for the West
+      and its Zionist masters. Killing Khamenei did not inspire Iranian opponents of
+      the Islamic Republic to flood the streets of Tehran and demand the ouster of the
+      mullahs. Nope, the attack rallied the Iranian people to embrace without hesistation
+      the continued rule of the mullahs. If you listen to Donald Trump’s public words,
+      he is making wild claims about US military successes in killing Iranians. However,
+      there are new reports that suggest Trump is panicked and searching for a way to
+      declare victory and exit the war. Donald Trump asked Italy to mediate or serve
+      as a conduit for proposing an immediate ceasefire with Iran, following the recent
+      US-Israeli military strikes on Iranian targets (including the reported killing
+      of Supreme Leader Ayatollah Ali Khamenei in late February 2026). According to
+      multiple media reports, US officials, through Italian mediation (likely involving
+      Prime Minister Giorgia Meloni’s government or channels), proposed a swift ceasefire
+      to de-escalate tensions and potentially return to negotiations. This was framed
+      as an attempt to end the military campaign quickly after initial strikes achieved
+      key objectives (e.g., degrading leadership and capabilities). Nice try Donald…
+      You’ve pissed away any shred of credibility you have left. Iran told the US to
+      fuck off. The US/Israeli assassination of the Ayatollah Khomenei was the final
+      straw for Iran. They have zero interest in a ceasefire in my opinion. The Iranians
+      realize that they are in a stronger position to bleed the US and Israel of scarce
+      weapon systems and force the US into a humiliating retreat. If the US was really
+      on the cusp of a major defeat of Iran, which would entail a regime change in Tehran,
+      do you believe that Donald Trump would be entertaining the idea of a ceasefire
+      and a return to negotiations? Hell no. Trump has made a major strategic error
+      by going along with Israel and trying to force a regime change by killing Iran’s
+      spiritual father, along with more than 100 school girls. Although Iran is suffering
+      some significant losses, it also is inflicting equal, if not more, pain on Israel
+      and the US. Besides destroying the US military infrastructure in the UAE, Qatar,
+      Kuwait, Bahrain and Saudi Arabia, Iran’s blockade of the Strait of Hormuz is going
+      to cause significant economic harm to the Western financial order. I believe that
+      Iran has an enormous reserve of ballistic and cruise missiles and will be able
+      to sustain a campaign of attrition against both Israel and the US for at least
+      two months. This is why Trump is now desperate to secure a ceasefire and try to
+      put the toothpaste back in the tube. But Iran is having none of it. I believe
+      that by March 15, the US and Israel will be pleading — at least privately — for
+      an end to the Iranian missile barrages. The death of Khamenei has removed a moderate
+      from the Iranian chain of command. The agreement that Iranian authorities made
+      on June 25, 2025 to end the missile attacks on Israel had the blessing of the
+      Ayatollah. There were many in the IRGC leadership that opposed that decision,
+      but they obeyed the decision of Khamenei. Now they have been vindicated. The US
+      is not a trustworthy nor reliable negotiating partner. I believe the campaign
+      will only conclude when Israel agrees to remove its forces from Gaza and the West
+      Bank… Otherwise, Iran will continue to pummel and shred Israel’s economic, scientific
+      and military infrastructure. Oh, and one more thing, all economic sanctions against
+      Iran must be lifted. Trump’s 2024 campaign promises about securing peace will
+      haunt him for the remainder of his term… Many of his MAGA supporters will not
+      forgive him for his perfidy. During Donald Trump’s 2024 presidential campaign,
+      he repeatedly emphasized his opposition to “endless wars” (also called “forever
+      wars” or “never-ending wars”) and positioned himself as the candidate who would
+      avoid new military entanglements abroad, focusing instead on “America First” priorities
+      and peace through strength. During the 2024 campaign, Trump frequently contrasted
+      himself with his Democratic opponent (Kamala Harris), calling her “the candidate
+      of endless wars” while declaring himself “the candidate of peace.” He boasted
+      that during his first term, he was “the first president in modern times to start
+      no new wars,” a line he used prominently at the Republican National Convention
+      (RNC) in July 2024, where he said his foreign policy would “bring stability to
+      the world.” In various rallies (e.g., Iowa caucuses lead-up in January 2024),
+      he promised to “turn the page forever on those foolish, stupid days of never-ending
+      wars” and criticized past administrations for prolonged conflicts that drained
+      U.S. resources. A signature phrase he repeated: “I’m not going to start a war.
+      I’m going to stop wars.” This appeared in multiple contexts, including victory
+      speeches and attacks on opponents. In his November 2024 election victory speech,
+      he reiterated: “I’m not going to start a war. I’m going to stop wars,” tying it
+      to redirecting resources toward domestic issues rather than foreign conflicts.
+      Trump has betrayed the people who, like me, foolishly believed in his bullshit.
+      He has now launched a war that the US cannot win, and as the corpses of dead Americans
+      killed in this needless, illegal war are delivered to Dover, Delaware, Trump’s
+      popularity will plummet. I fully anticipate that he will be impeached and convicted
+      before his term is up. He will have no one to blame but himself. He could have
+      secured a deal with Iran that would have guaranteed that Iran would not acquire
+      a nuclear weapon. Instead, he chose war and will wear that dead, stinking albatross
+      around his neck for the remainder of his miserable term. I have had several conversations
+      about this in the last couple of days. Glenn Diesen and I chatted on Saturday:
+      I spoke today with Mario Nawfal… Poor kid is battling the flu, but we still had
+      a productive conversation: Garland Nixon called and we spoke late on Sunday afternoon:
+      Scott Horton tracked me down on Saturday and we discussed the deja vu of a new
+      war in the Middle East: Finally, my weekly Counter Currents broadcast, which was
+      recorded before the war started, was posted today: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The recent US-Israel strike that reportedly killed Ayatollah
+      Khamenei during a meeting with Iranian military leaders has backfired, uniting
+      the Iranian populace in support of their government rather than inciting opposition,
+      while raising questions about the motivations behind the attack and Donald Trump's
+      claims of military success amidst his apparent panic over the situation.
+    paragraph_summary: The recent US-Israeli decapitation strike that reportedly killed
+      Iranian Supreme Leader Ayatollah Khamenei during a meeting with military officials
+      has raised questions about whether it was a strategic move or a mere coincidence.
+      Despite hopes that the assassination would incite opposition against the Iranian
+      regime, it instead unified the Iranian populace in support of their leadership.
+      In the aftermath, President Donald Trump, facing pressure and seeking a way to
+      declare victory, reached out to Italy for mediation to propose a ceasefire with
+      Iran, aiming to de-escalate tensions. However, Iran rejected the offer, viewing
+      the assassination as a significant provocation that strengthened their resolve
+      against the US and Israel, indicating they are now in a position to resist further
+      military actions.
+    published: '2026-03-02T05:12:48+00:00'
+  - title: Is Donald Trump Looking for an Exit Ramp?
+    url: https://sonar21.com/is-donald-trump-looking-for-an-exit-ramp/
+    text: 'The Israel/US decapitation strike on Saturday hit the Ayatollah Khamenei
+      when he was reportedly meeting with senior Iranian military officers. Was the
+      Israeli hit a lucky coincidence or was this a deliberately planned trap? Did the
+      US send a message to Khamenei for a meeting to discuss a US proposal in preparation
+      for the planned Monday meeting — now cancelled — in Geneva? Whatever brought these
+      senior Iranian officials together, it has been a Pyrrhic victory for the West
+      and its Zionist masters. Killing Khamenei did not inspire Iranian opponents of
+      the Islamic Republic to flood the streets of Tehran and demand the ouster of the
+      mullahs. Nope, the attack rallied the Iranian people to embrace without hesistation
+      the continued rule of the mullahs. If you listen to Donald Trump’s public words,
+      he is making wild claims about US military successes in killing Iranians. However,
+      there are new reports that suggest Trump is panicked and searching for a way to
+      declare victory and exit the war. Donald Trump asked Italy to mediate or serve
+      as a conduit for proposing an immediate ceasefire with Iran, following the recent
+      US-Israeli military strikes on Iranian targets (including the reported killing
+      of Supreme Leader Ayatollah Ali Khamenei in late February 2026). According to
+      multiple media reports, US officials, through Italian mediation (likely involving
+      Prime Minister Giorgia Meloni’s government or channels), proposed a swift ceasefire
+      to de-escalate tensions and potentially return to negotiations. This was framed
+      as an attempt to end the military campaign quickly after initial strikes achieved
+      key objectives (e.g., degrading leadership and capabilities). Nice try Donald…
+      You’ve pissed away any shred of credibility you have left. Iran told the US to
+      fuck off. The US/Israeli assassination of the Ayatollah Khomenei was the final
+      straw for Iran. They have zero interest in a ceasefire in my opinion. The Iranians
+      realize that they are in a stronger position to bleed the US and Israel of scarce
+      weapon systems and force the US into a humiliating retreat. If the US was really
+      on the cusp of a major defeat of Iran, which would entail a regime change in Tehran,
+      do you believe that Donald Trump would be entertaining the idea of a ceasefire
+      and a return to negotiations? Hell no. Trump has made a major strategic error
+      by going along with Israel and trying to force a regime change by killing Iran’s
+      spiritual father, along with more than 100 school girls. Although Iran is suffering
+      some significant losses, it also is inflicting equal, if not more, pain on Israel
+      and the US. Besides destroying the US military infrastructure in the UAE, Qatar,
+      Kuwait, Bahrain and Saudi Arabia, Iran’s blockade of the Strait of Hormuz is going
+      to cause significant economic harm to the Western financial order. I believe that
+      Iran has an enormous reserve of ballistic and cruise missiles and will be able
+      to sustain a campaign of attrition against both Israel and the US for at least
+      two months. This is why Trump is now desperate to secure a ceasefire and try to
+      put the toothpaste back in the tube. But Iran is having none of it. I believe
+      that by March 15, the US and Israel will be pleading — at least privately — for
+      an end to the Iranian missile barrages. The death of Khamenei has removed a moderate
+      from the Iranian chain of command. The agreement that Iranian authorities made
+      on June 25, 2025 to end the missile attacks on Israel had the blessing of the
+      Ayatollah. There were many in the IRGC leadership that opposed that decision,
+      but they obeyed the decision of Khamenei. Now they have been vindicated. The US
+      is not a trustworthy nor reliable negotiating partner. I believe the campaign
+      will only conclude when Israel agrees to remove its forces from Gaza and the West
+      Bank… Otherwise, Iran will continue to pummel and shred Israel’s economic, scientific
+      and military infrastructure. Oh, and one more thing, all economic sanctions against
+      Iran must be lifted. Trump’s 2024 campaign promises about securing peace will
+      haunt him for the remainder of his term… Many of his MAGA supporters will not
+      forgive him for his perfidy. During Donald Trump’s 2024 presidential campaign,
+      he repeatedly emphasized his opposition to “endless wars” (also called “forever
+      wars” or “never-ending wars”) and positioned himself as the candidate who would
+      avoid new military entanglements abroad, focusing instead on “America First” priorities
+      and peace through strength. During the 2024 campaign, Trump frequently contrasted
+      himself with his Democratic opponent (Kamala Harris), calling her “the candidate
+      of endless wars” while declaring himself “the candidate of peace.” He boasted
+      that during his first term, he was “the first president in modern times to start
+      no new wars,” a line he used prominently at the Republican National Convention
+      (RNC) in July 2024, where he said his foreign policy would “bring stability to
+      the world.” In various rallies (e.g., Iowa caucuses lead-up in January 2024),
+      he promised to “turn the page forever on those foolish, stupid days of never-ending
+      wars” and criticized past administrations for prolonged conflicts that drained
+      U.S. resources. A signature phrase he repeated: “I’m not going to start a war.
+      I’m going to stop wars.” This appeared in multiple contexts, including victory
+      speeches and attacks on opponents. In his November 2024 election victory speech,
+      he reiterated: “I’m not going to start a war. I’m going to stop wars,” tying it
+      to redirecting resources toward domestic issues rather than foreign conflicts.
+      Trump has betrayed the people who, like me, foolishly believed in his bullshit.
+      He has now launched a war that the US cannot win, and as the corpses of dead Americans
+      killed in this needless, illegal war are delivered to Dover, Delaware, Trump’s
+      popularity will plummet. I fully anticipate that he will be impeached and convicted
+      before his term is up. He will have no one to blame but himself. He could have
+      secured a deal with Iran that would have guaranteed that Iran would not acquire
+      a nuclear weapon. Instead, he chose war and will wear that dead, stinking albatross
+      around his neck for the remainder of his miserable term. I have had several conversations
+      about this in the last couple of days. Glenn Diesen and I chatted on Saturday:
+      I spoke today with Mario Nawfal… Poor kid is battling the flu, but we still had
+      a productive conversation: Garland Nixon called and we spoke late on Sunday afternoon:
+      Scott Horton tracked me down on Saturday and we discussed the deja vu of a new
+      war in the Middle East: Finally, my weekly Counter Currents broadcast, which was
+      recorded before the war started, was posted today: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The recent US-Israel strike that reportedly killed Ayatollah
+      Khamenei during a meeting with Iranian military leaders has backfired, uniting
+      the Iranian populace in support of their government rather than inciting opposition,
+      while raising questions about the motivations behind the attack and Donald Trump's
+      claims of military success amidst his apparent panic over the situation.
+    paragraph_summary: The recent US-Israeli decapitation strike that reportedly killed
+      Iranian Supreme Leader Ayatollah Khamenei during a meeting with military officials
+      has raised questions about whether it was a strategic move or a mere coincidence.
+      Despite hopes that the assassination would incite opposition against the Iranian
+      regime, it instead unified the Iranian populace in support of their leadership.
+      In the aftermath, President Donald Trump, facing pressure and seeking a way to
+      declare victory, reached out to Italy for mediation to propose a ceasefire with
+      Iran, aiming to de-escalate tensions. However, Iran rejected the offer, viewing
+      the assassination as a significant provocation that strengthened their resolve
+      against the US and Israel, indicating they are now in a position to resist further
+      military actions.
+    published: '2026-03-02T05:12:48+00:00'
+  - title: Peter Hanseler – Thoughts in Dubai
+    url: https://sonar21.com/peter-hanseler-thoughts-in-dubai/
+    text: 'Peter Hanseler is in Dubai with his family. A sober analysis of a vacation
+      that is no longer a vacation. By Peter Hanseler via ForumGeopolitica.com Maria
+      Avilova and Peter Hanseler – Dubai, March 1, 2026 A good three weeks ago, on my
+      way to Switzerland, I stopped in Dubai and talked with my friend and co-author
+      Simon Hunt and other interesting people about the worrying developments in the
+      geopolitical situation. I was concerned about the American deployment of troops
+      in the Persian Gulf, but hoped that war would not break out. A war that would
+      only happen if the Americans completely misjudged the situation and their own
+      capabilities. Scott Ritter, who painted a bleak picture in his last article for
+      us – “ War against Iran ” – and Larry Johnson were right. The Americans have lost
+      touch with reality. The war is here. Simon Hunt introduced me with a highly educated
+      man, a successful Indian investor who lives with his family in Dubai. I told him
+      that if war broke out, the Iranians would attack all American military installations
+      in the Middle East—including those in the Emirates, Dubai, and elsewhere. He couldn’t
+      believe it. I gained this conviction through exchanges with Professor Mohammad
+      Marandi, a charming professor from Tehran who has deeply internalized the American
+      mentality. Born in Richmond, Virginia, he moved to Iran at the age of 13 and served
+      as a young man in the Iran-Iraq War. In that war, he lost nearly all of his comrades
+      in his unit, was seriously wounded himself, and now teaches Persian literature
+      in Tehran. He made me convinced that another attack on Iran would lead to a regional
+      war. Since Saturday morning, this has now become a reality. A few days ago, on
+      my way back from Switzerland, I met up with my family in Dubai; Masha had a few
+      things to take care of here, and we thought it would be nice to spend some time
+      together. When the war began on Saturday morning, there was no sign of it. Music
+      was playing loudly in our beach hotel and people didn’t seem to care. And why
+      should they? After all, the war wasn’t taking place in Dubai, but in Iran and
+      Israel. Typical human behavior. “It’s not my problem, the misery is far away,
+      the music keeps playing.” The Americans and Israelis were already celebrating
+      after just a few hours. Once again, both had carried out a decapitation strike
+      against the leadership in Iran. As in June 2025, the Americans lulled the Iranians
+      into a false sense of security with negotiations that they had intended to continue
+      on Monday, only to attack the Iranians while the negotiations were still ongoing.
+      It is therefore fair to say that when the Americans negotiate, it is a sign that
+      they will attack you from behind. Negotiating with the Americans is deadly, and
+      therein lies the problem for the future. See my article “ Diplomacy on its deathbed
+      – from peace president to warmonger .” This morning it became a reality – the
+      head of state and supreme spiritual leader Ayatollah Ali Khamenei was killed in
+      the first strike against Iran. The Israelis and Americans are firmly convinced
+      that they have destroyed Iran and that a few days of bombing will be enough to
+      achieve their goal of “regime change.” That will not happen. The first shift in
+      mood in Dubai came on Saturday afternoon—Dubai Airport was closed. On Flight Radar,
+      you could see how air traffic came to a standstill. So it looks like the trip
+      home on Monday is off. Masha’s son and his friend were delighted—no school! Smart
+      people learn from past mistakes. During last summer’s 12-day war, the Iranians
+      showed that they are capable of defending themselves and dealt Israel a complete
+      defeat – that is the reality. The fact that the Western media had to bend over
+      backwards to portray Israel as the “victor” does not make things better, but worse.
+      After the Israelis’ outcry, the Iranians unfortunately gave in – also on the word
+      and belief of the US. Now, a good six months later, the Americans believe they
+      have made enough improvements to win the war. Practically everything speaks against
+      this. For all that the Americans have achieved with the 12-day war in June last
+      year and the brutal and extremely bloody Maidan-style unrest instigated together
+      with Israel and Great Britain at the beginning of 2026 is that the Iranians are
+      standing together as never before in the last 47 years. Here is a brief look at
+      the rallies in Iran – discontent with the government or even protest against it
+      looks different. Late yesterday afternoon, explosions were heard in Dubai. There
+      was talk of a CIA site being attacked. There was also some damage from falling
+      debris from downed missiles and drones. There was no sign of a direct attack on
+      downtown Dubai. Masha and I didn’t let it spoil our Saturday evening and went
+      to our favorite restaurant in Dubai – Alici . When we arrived, the restaurant
+      manager informed us that all reservations had been canceled by the guests—except
+      for the Russians. After people had been partying in the afternoon, everyone was
+      now afraid to leave their homes—except for the Russians. It was a great gathering;
+      none of them could understand the panic, and neither could we. Since we didn’t
+      want to spend the night staring at our phones, we went to bed early. A good night’s
+      sleep is the best remedy in times of uncertainty. However, this strategy was ruined
+      by the hotel management. At around two in the morning, the sirens went off—we
+      had to gather in the hotel lobby immediately. A few minutes later, sleep-deprived
+      faces gathered there. Guests were advised to spend the night in the underground
+      parking garage. A grotesque suggestion – we were far away from American military
+      bases. Back in our room, we slept the sleep of the righteous, and at breakfast
+      the next morning, it was easy to tell who had slept in bed and who had slept in
+      the parking garage – the Russians looked well-rested. I have no idea how and when
+      we will be able to leave again, but we have a simple rule for extraordinary situations:
+      if you cannot change a situation through your own actions, you should come to
+      terms with it and make the best of it—and that is what we are doing. Now you are
+      probably wondering what conclusion I will draw, what conclusions can be drawn
+      today. The short answer: none. If the US and Israel cannot bring down Iran’s spiritual
+      and secular leadership with their attacks, they have already lost. In my opinion,
+      there will be no fall of the Iranian government; rather, the 12-day war, the Maidan-style
+      unrest at the beginning of the year, and the attack on February 28, 2026, have
+      united the people. What drives both aggressors – the US and Israel – to attack
+      a girls’ school, resulting in the deaths of over 100 young girls, remains a mystery
+      to any sane person. It is permissible, indeed necessary, to rightly describe the
+      Israeli and American political and military leadership responsible for this as
+      psychopaths. The Iranians will have won when they can live in peace, free, without
+      sanctions and without being labeled terrorists by Zionist terrorists. That will
+      only be the case when the biggest terrorist in the Middle East has been eliminated:
+      Israel, or rather the Zionist leadership of the country. It is unlikely that the
+      Iranians will back down. Any concession by Trump would be political suicide –
+      it would almost certainly cost him the midterm elections in November. If he does
+      not concede and Iran remains steadfast, then the same will probably be true. It
+      would be inappropriate to describe the situation as interesting, because those
+      involved will be wading through knee-deep blood. There is also a real danger of
+      escalation far beyond West Asia. This war is not only directed against Iran. It
+      is the first war of the declining West against BRICS (see my series “ The war
+      between two worlds has begun ”). In addition to the hot war against Iran, the
+      confrontation with BRICS is being waged by all means and at all levels. The visit
+      of Indian Prime Minister Narendra Modi on February 27, 2026, speaks volumes and
+      is likely to raise a lot of questions outside the West, not necessarily to India’s
+      advantage. And BRICS?'
+    one_sentence_summary: Peter Hanseler reflects on his trip to Dubai, where discussions
+      about escalating geopolitical tensions and the potential for war overshadowed
+      the vacation experience with his family.
+    paragraph_summary: Peter Hanseler reflects on his recent trip to Dubai with his
+      family, which has turned from a vacation into a sobering experience amid escalating
+      geopolitical tensions. During his visit, he engaged in discussions about the alarming
+      situation surrounding American military deployments in the Persian Gulf and the
+      potential for conflict with Iran. Despite initial hopes for peace, Hanseler's
+      conversations with various individuals, including a well-informed Indian investor
+      and a professor from Tehran, led him to believe that war was imminent. This belief
+      was tragically confirmed when hostilities erupted on Saturday morning, casting
+      a shadow over the previously carefree atmosphere of their beach hotel, where guests
+      remained oblivious to the unfolding crisis.
+    published: '2026-03-01T12:45:19+00:00'
+  - title: Peter Hanseler – Thoughts in Dubai
+    url: https://sonar21.com/peter-hanseler-thoughts-in-dubai/
+    text: 'Peter Hanseler is in Dubai with his family. A sober analysis of a vacation
+      that is no longer a vacation. By Peter Hanseler via ForumGeopolitica.com Maria
+      Avilova and Peter Hanseler – Dubai, March 1, 2026 A good three weeks ago, on my
+      way to Switzerland, I stopped in Dubai and talked with my friend and co-author
+      Simon Hunt and other interesting people about the worrying developments in the
+      geopolitical situation. I was concerned about the American deployment of troops
+      in the Persian Gulf, but hoped that war would not break out. A war that would
+      only happen if the Americans completely misjudged the situation and their own
+      capabilities. Scott Ritter, who painted a bleak picture in his last article for
+      us – “ War against Iran ” – and Larry Johnson were right. The Americans have lost
+      touch with reality. The war is here. Simon Hunt introduced me with a highly educated
+      man, a successful Indian investor who lives with his family in Dubai. I told him
+      that if war broke out, the Iranians would attack all American military installations
+      in the Middle East—including those in the Emirates, Dubai, and elsewhere. He couldn’t
+      believe it. I gained this conviction through exchanges with Professor Mohammad
+      Marandi, a charming professor from Tehran who has deeply internalized the American
+      mentality. Born in Richmond, Virginia, he moved to Iran at the age of 13 and served
+      as a young man in the Iran-Iraq War. In that war, he lost nearly all of his comrades
+      in his unit, was seriously wounded himself, and now teaches Persian literature
+      in Tehran. He made me convinced that another attack on Iran would lead to a regional
+      war. Since Saturday morning, this has now become a reality. A few days ago, on
+      my way back from Switzerland, I met up with my family in Dubai; Masha had a few
+      things to take care of here, and we thought it would be nice to spend some time
+      together. When the war began on Saturday morning, there was no sign of it. Music
+      was playing loudly in our beach hotel and people didn’t seem to care. And why
+      should they? After all, the war wasn’t taking place in Dubai, but in Iran and
+      Israel. Typical human behavior. “It’s not my problem, the misery is far away,
+      the music keeps playing.” The Americans and Israelis were already celebrating
+      after just a few hours. Once again, both had carried out a decapitation strike
+      against the leadership in Iran. As in June 2025, the Americans lulled the Iranians
+      into a false sense of security with negotiations that they had intended to continue
+      on Monday, only to attack the Iranians while the negotiations were still ongoing.
+      It is therefore fair to say that when the Americans negotiate, it is a sign that
+      they will attack you from behind. Negotiating with the Americans is deadly, and
+      therein lies the problem for the future. See my article “ Diplomacy on its deathbed
+      – from peace president to warmonger .” This morning it became a reality – the
+      head of state and supreme spiritual leader Ayatollah Ali Khamenei was killed in
+      the first strike against Iran. The Israelis and Americans are firmly convinced
+      that they have destroyed Iran and that a few days of bombing will be enough to
+      achieve their goal of “regime change.” That will not happen. The first shift in
+      mood in Dubai came on Saturday afternoon—Dubai Airport was closed. On Flight Radar,
+      you could see how air traffic came to a standstill. So it looks like the trip
+      home on Monday is off. Masha’s son and his friend were delighted—no school! Smart
+      people learn from past mistakes. During last summer’s 12-day war, the Iranians
+      showed that they are capable of defending themselves and dealt Israel a complete
+      defeat – that is the reality. The fact that the Western media had to bend over
+      backwards to portray Israel as the “victor” does not make things better, but worse.
+      After the Israelis’ outcry, the Iranians unfortunately gave in – also on the word
+      and belief of the US. Now, a good six months later, the Americans believe they
+      have made enough improvements to win the war. Practically everything speaks against
+      this. For all that the Americans have achieved with the 12-day war in June last
+      year and the brutal and extremely bloody Maidan-style unrest instigated together
+      with Israel and Great Britain at the beginning of 2026 is that the Iranians are
+      standing together as never before in the last 47 years. Here is a brief look at
+      the rallies in Iran – discontent with the government or even protest against it
+      looks different. Late yesterday afternoon, explosions were heard in Dubai. There
+      was talk of a CIA site being attacked. There was also some damage from falling
+      debris from downed missiles and drones. There was no sign of a direct attack on
+      downtown Dubai. Masha and I didn’t let it spoil our Saturday evening and went
+      to our favorite restaurant in Dubai – Alici . When we arrived, the restaurant
+      manager informed us that all reservations had been canceled by the guests—except
+      for the Russians. After people had been partying in the afternoon, everyone was
+      now afraid to leave their homes—except for the Russians. It was a great gathering;
+      none of them could understand the panic, and neither could we. Since we didn’t
+      want to spend the night staring at our phones, we went to bed early. A good night’s
+      sleep is the best remedy in times of uncertainty. However, this strategy was ruined
+      by the hotel management. At around two in the morning, the sirens went off—we
+      had to gather in the hotel lobby immediately. A few minutes later, sleep-deprived
+      faces gathered there. Guests were advised to spend the night in the underground
+      parking garage. A grotesque suggestion – we were far away from American military
+      bases. Back in our room, we slept the sleep of the righteous, and at breakfast
+      the next morning, it was easy to tell who had slept in bed and who had slept in
+      the parking garage – the Russians looked well-rested. I have no idea how and when
+      we will be able to leave again, but we have a simple rule for extraordinary situations:
+      if you cannot change a situation through your own actions, you should come to
+      terms with it and make the best of it—and that is what we are doing. Now you are
+      probably wondering what conclusion I will draw, what conclusions can be drawn
+      today. The short answer: none. If the US and Israel cannot bring down Iran’s spiritual
+      and secular leadership with their attacks, they have already lost. In my opinion,
+      there will be no fall of the Iranian government; rather, the 12-day war, the Maidan-style
+      unrest at the beginning of the year, and the attack on February 28, 2026, have
+      united the people. What drives both aggressors – the US and Israel – to attack
+      a girls’ school, resulting in the deaths of over 100 young girls, remains a mystery
+      to any sane person. It is permissible, indeed necessary, to rightly describe the
+      Israeli and American political and military leadership responsible for this as
+      psychopaths. The Iranians will have won when they can live in peace, free, without
+      sanctions and without being labeled terrorists by Zionist terrorists. That will
+      only be the case when the biggest terrorist in the Middle East has been eliminated:
+      Israel, or rather the Zionist leadership of the country. It is unlikely that the
+      Iranians will back down. Any concession by Trump would be political suicide –
+      it would almost certainly cost him the midterm elections in November. If he does
+      not concede and Iran remains steadfast, then the same will probably be true. It
+      would be inappropriate to describe the situation as interesting, because those
+      involved will be wading through knee-deep blood. There is also a real danger of
+      escalation far beyond West Asia. This war is not only directed against Iran. It
+      is the first war of the declining West against BRICS (see my series “ The war
+      between two worlds has begun ”). In addition to the hot war against Iran, the
+      confrontation with BRICS is being waged by all means and at all levels. The visit
+      of Indian Prime Minister Narendra Modi on February 27, 2026, speaks volumes and
+      is likely to raise a lot of questions outside the West, not necessarily to India’s
+      advantage. And BRICS?'
+    one_sentence_summary: Peter Hanseler reflects on his trip to Dubai, where discussions
+      about escalating geopolitical tensions and the potential for war overshadowed
+      the vacation experience with his family.
+    paragraph_summary: Peter Hanseler reflects on his recent trip to Dubai with his
+      family, which has turned from a vacation into a sobering experience amid escalating
+      geopolitical tensions. During his visit, he engaged in discussions about the alarming
+      situation surrounding American military deployments in the Persian Gulf and the
+      potential for conflict with Iran. Despite initial hopes for peace, Hanseler's
+      conversations with various individuals, including a well-informed Indian investor
+      and a professor from Tehran, led him to believe that war was imminent. This belief
+      was tragically confirmed when hostilities erupted on Saturday morning, casting
+      a shadow over the previously carefree atmosphere of their beach hotel, where guests
+      remained oblivious to the unfolding crisis.
+    published: '2026-03-01T12:45:19+00:00'
+  - title: Killing the Ayatollah Khamenei Has Inflamed the Shi’a World
+    url: https://sonar21.com/killing-the-ayatollah-khamenei-will-inflame-the-shia-world/
+    text: 'Missile Crater in Tel Aviv Donald Trump and the neocons are wild with joy
+      tonight over the murder of the Ayatollah Khamenei… This is just one more example
+      of Western ignorance about the implications of the Ayatollah’s martyrdom. Let’s
+      start with the fact that the Ayatollah is the one who issued the fatwa 36 years
+      ago declaring that it would be a sin for Iran to build or use a nuclear bomb.  So
+      the West thinks that killing the one guy who has been the main obstacle preventing
+      Iran from getting a nuclear weapon is a good idea? The Shi’a communities across
+      the region took to the streets to protest and mourn the Ayatollah’s passing. In
+      neighboring Baghdad a large crowd of Shi’a are now trying to breach the Green
+      Zone. Iraqi security forces are trying to hold them back. This assassination by
+      the United States and Israel was intended to weaken the Islamic Republic and set
+      the stage for regime change. I think it will have the opposite effect, i.e., strengthen
+      support for the government and bolster the status of hardliners who have zero
+      inclination to compromise with the West. It is barely 24 hours since Israel and
+      the US launched the decapitation strikes and Iran — within 90 minutes of the first
+      attack — began launching counterstrikes targeting all US military installations
+      and bases in the region. Last June, following the decapitation strikes, it took
+      Iran almost 12 hours to pull itself together and launch missiles towards Israel.
+      Today Iran has responded by hitting both Israel and key targets in Saudi Arabia,
+      Qatar, Bahrain,Kuwait, Iraq, Jordan and the United Arab Emirates. An Iranian general
+      appeared on Iranian TV and vowed to hit Israel and the US forces in the region
+      with a new type of weapon. Trump and the neocons continue to believe that the
+      support for the Islamic Republic is shallow and fragile. But judging from the
+      reaction of the Iranians to the murder of the Ayatollah, I think Iran is now fully
+      committed to a war of attrition. The advantages the US currently enjoys are likely
+      to dissipate if this war continues for several weeks. The closure of the Strait
+      of Hormuz to maritime traffic will inflict severe economic harm to the global
+      economy if the IRGC is able to keep it closed. The odds are high that the Iranian
+      attacks on US military installations and Israel will escalate in coming days.
+      The US airbase in Erbil is under attack; the CIA station in Dubai has been hit
+      with a missile as well as a Kuwaiti air base that is hosting US aircraft. Let’s
+      see what the next 24 hours brings. Judge Napolitano and I held an emergency chat
+      today to discuss the aftermath of the decapitation strike: Nima and I also talked
+      about the implications of this new round of attacks on the morale of the Iranian
+      people: CapitalCosm’s Danny interviewed my on Thursday, but posted the video late
+      Friday night. I think my predictions held up well: And Danny Davis and I delved
+      into the question of the US capacity to sustain operations if the fighting goes
+      on beyond a couple of weeks: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The assassination of Ayatollah Khamenei by the U.S. and Israel,
+      celebrated by some Western leaders, is likely to backfire by strengthening support
+      for the Iranian government and escalating tensions in the region, as he was a
+      key figure opposing Iran's nuclear ambitions.
+    paragraph_summary: The article discusses the implications of the assassination of
+      Ayatollah Khamenei, highlighting the misguided belief among Western leaders, particularly
+      Donald Trump and neoconservatives, that his death would weaken Iran and facilitate
+      regime change. Khamenei was known for his fatwa against nuclear weapons, and his
+      removal is seen as a potential catalyst for increased Iranian aggression rather
+      than a deterrent. Following the assassination, there were widespread protests
+      among Shi’a communities in the region, and Iran quickly retaliated with missile
+      strikes against U.S. military installations and allies in the Middle East. The
+      author argues that this event may strengthen hardliners within Iran and solidify
+      support for the Islamic Republic, contradicting the belief that such actions would
+      lead to a weakening of the regime. Overall, the article suggests that the U.S.
+      and Israel's strategy may lead to a prolonged conflict rather than a resolution.
+    published: '2026-03-01T04:34:45+00:00'
+  - title: Killing the Ayatollah Khamenei Has Inflamed the Shi’a World
+    url: https://sonar21.com/killing-the-ayatollah-khamenei-will-inflame-the-shia-world/
+    text: 'Missile Crater in Tel Aviv Donald Trump and the neocons are wild with joy
+      tonight over the murder of the Ayatollah Khamenei… This is just one more example
+      of Western ignorance about the implications of the Ayatollah’s martyrdom. Let’s
+      start with the fact that the Ayatollah is the one who issued the fatwa 36 years
+      ago declaring that it would be a sin for Iran to build or use a nuclear bomb.  So
+      the West thinks that killing the one guy who has been the main obstacle preventing
+      Iran from getting a nuclear weapon is a good idea? The Shi’a communities across
+      the region took to the streets to protest and mourn the Ayatollah’s passing. In
+      neighboring Baghdad a large crowd of Shi’a are now trying to breach the Green
+      Zone. Iraqi security forces are trying to hold them back. This assassination by
+      the United States and Israel was intended to weaken the Islamic Republic and set
+      the stage for regime change. I think it will have the opposite effect, i.e., strengthen
+      support for the government and bolster the status of hardliners who have zero
+      inclination to compromise with the West. It is barely 24 hours since Israel and
+      the US launched the decapitation strikes and Iran — within 90 minutes of the first
+      attack — began launching counterstrikes targeting all US military installations
+      and bases in the region. Last June, following the decapitation strikes, it took
+      Iran almost 12 hours to pull itself together and launch missiles towards Israel.
+      Today Iran has responded by hitting both Israel and key targets in Saudi Arabia,
+      Qatar, Bahrain,Kuwait, Iraq, Jordan and the United Arab Emirates. An Iranian general
+      appeared on Iranian TV and vowed to hit Israel and the US forces in the region
+      with a new type of weapon. Trump and the neocons continue to believe that the
+      support for the Islamic Republic is shallow and fragile. But judging from the
+      reaction of the Iranians to the murder of the Ayatollah, I think Iran is now fully
+      committed to a war of attrition. The advantages the US currently enjoys are likely
+      to dissipate if this war continues for several weeks. The closure of the Strait
+      of Hormuz to maritime traffic will inflict severe economic harm to the global
+      economy if the IRGC is able to keep it closed. The odds are high that the Iranian
+      attacks on US military installations and Israel will escalate in coming days.
+      The US airbase in Erbil is under attack; the CIA station in Dubai has been hit
+      with a missile as well as a Kuwaiti air base that is hosting US aircraft. Let’s
+      see what the next 24 hours brings. Judge Napolitano and I held an emergency chat
+      today to discuss the aftermath of the decapitation strike: Nima and I also talked
+      about the implications of this new round of attacks on the morale of the Iranian
+      people: CapitalCosm’s Danny interviewed my on Thursday, but posted the video late
+      Friday night. I think my predictions held up well: And Danny Davis and I delved
+      into the question of the US capacity to sustain operations if the fighting goes
+      on beyond a couple of weeks: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The assassination of Ayatollah Khamenei by the U.S. and Israel,
+      celebrated by some Western leaders, is likely to backfire by strengthening support
+      for the Iranian government and escalating tensions in the region, as he was a
+      key figure opposing Iran's nuclear ambitions.
+    paragraph_summary: The article discusses the implications of the assassination of
+      Ayatollah Khamenei, highlighting the misguided belief among Western leaders, particularly
+      Donald Trump and neoconservatives, that his death would weaken Iran and facilitate
+      regime change. Khamenei was known for his fatwa against nuclear weapons, and his
+      removal is seen as a potential catalyst for increased Iranian aggression rather
+      than a deterrent. Following the assassination, there were widespread protests
+      among Shi’a communities in the region, and Iran quickly retaliated with missile
+      strikes against U.S. military installations and allies in the Middle East. The
+      author argues that this event may strengthen hardliners within Iran and solidify
+      support for the Islamic Republic, contradicting the belief that such actions would
+      lead to a weakening of the regime. Overall, the article suggests that the U.S.
+      and Israel's strategy may lead to a prolonged conflict rather than a resolution.
+    published: '2026-03-01T04:34:45+00:00'
+  - title: Updating Shakespeare… To War or Not to War, That is the Question
+    url: https://sonar21.com/updating-shakespeare-to-war-or-not-to-war-that-is-the-question/
+    text: 'This will be a relatively short piece. Since my last article, there have
+      been two important developments that signal that Trump is going to authorize an
+      attack on Iran… The only question is when. First, Donald Trump finally commented
+      on the Thursday talks in Geneva and he is not happy with the outcome: We’re negotiating
+      right now, but they’re not getting to the right answer. And we’re not going to
+      see people — we’re not going to see what’s happened for 47 years keep going. For
+      47 years, we’ve been doing this with them. . . . I’m not happy with the fact that
+      they’re not willing to give us what we have to have. We will have some additional
+      talks today. Iran isn’t willing to go far enough [in the negotiations]. It’s really
+      a shame. Second, most of the countries in the region are freaking out, along with
+      Western countries with embassies in Iran and Israel, and believe US or Israeli
+      military action is imminent: Poland has called on its citizens to leave Iran,
+      Lebanon, and Israel as soon as possible. Multiple flights from Turkey to Tehran,
+      Iran, have been cancelled for tonight. Italy urges its citizens against traveling
+      to Iran, and for those there to leave immediately. Romania evacuated non-essential
+      staff and their family members from its embassy in Tel Aviv, from the consulate
+      in Haifa, and from the representative office in Ramallah. The Mexican Ministry
+      of Foreign Affairs urges its citizens not to travel to Iran and Israel. The US
+      Department of State has issued a warning calling on all US citizens currently
+      in Iran to leave immediately. Clearly there is an expectation of military action
+      in both Iran and Israel. When? That depends on who you talk to. The US news media
+      was being told late on Friday afternoon to expect an attack and were reaching
+      out to pundits to be on stand-by for commentary once the operation started. Senior
+      US military officers also expected the Execute order to be issued. However, as
+      of midnight on Friday on the east coast, there has no further movement or indicator
+      of such an attack. Looks like Donald Trump is having a Hamlet moment: To be, or
+      not to be: that is the question: Whether ’tis nobler in the mind to suffer The
+      slings and arrows of outrageous fortune , Or to take arms against a sea of troubles,
+      And by opposing end them? To die: to sleep; No more; and by a sleep to say we
+      end The heart-ache and the thousand natural shocks That flesh is heir to, ’tis
+      a consummation Devoutly to be wish’d. To die, to sleep; To sleep: perchance to
+      dream : ay, there’s the rub; Colonel Wilkerson and I discussed the situation with
+      Iran with Nima: And here’s the Intelligence Round Table: Last, my chat with Ed
+      DeMarche of the Trends Journal: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Recent comments from Donald Trump indicate dissatisfaction
+      with negotiations regarding Iran, leading to speculation about imminent military
+      action, as regional and Western countries express concern and urge their citizens
+      to evacuate.
+    paragraph_summary: The article discusses recent developments indicating that former
+      President Donald Trump may be preparing to authorize military action against Iran,
+      with the timing of such an attack remaining uncertain. Trump expressed dissatisfaction
+      with the ongoing negotiations in Geneva, stating that Iran is not making sufficient
+      concessions after 47 years of diplomatic efforts. In response to escalating tensions,
+      several countries, including Poland, Italy, and Romania, are evacuating their
+      citizens and non-essential diplomatic staff from Iran and Israel, signaling widespread
+      concern over potential military action. The U.S. State Department has also urged
+      American citizens in Iran to leave immediately, and there are reports that U.S.
+      media and military officials are anticipating an imminent attack, although no
+      concrete actions have been taken as of late Friday night.
+    published: '2026-02-28T05:43:25+00:00'
+  - title: Updating Shakespeare… To War or Not to War, That is the Question
+    url: https://sonar21.com/updating-shakespeare-to-war-or-not-to-war-that-is-the-question/
+    text: 'This will be a relatively short piece. Since my last article, there have
+      been two important developments that signal that Trump is going to authorize an
+      attack on Iran… The only question is when. First, Donald Trump finally commented
+      on the Thursday talks in Geneva and he is not happy with the outcome: We’re negotiating
+      right now, but they’re not getting to the right answer. And we’re not going to
+      see people — we’re not going to see what’s happened for 47 years keep going. For
+      47 years, we’ve been doing this with them. . . . I’m not happy with the fact that
+      they’re not willing to give us what we have to have. We will have some additional
+      talks today. Iran isn’t willing to go far enough [in the negotiations]. It’s really
+      a shame. Second, most of the countries in the region are freaking out, along with
+      Western countries with embassies in Iran and Israel, and believe US or Israeli
+      military action is imminent: Poland has called on its citizens to leave Iran,
+      Lebanon, and Israel as soon as possible. Multiple flights from Turkey to Tehran,
+      Iran, have been cancelled for tonight. Italy urges its citizens against traveling
+      to Iran, and for those there to leave immediately. Romania evacuated non-essential
+      staff and their family members from its embassy in Tel Aviv, from the consulate
+      in Haifa, and from the representative office in Ramallah. The Mexican Ministry
+      of Foreign Affairs urges its citizens not to travel to Iran and Israel. The US
+      Department of State has issued a warning calling on all US citizens currently
+      in Iran to leave immediately. Clearly there is an expectation of military action
+      in both Iran and Israel. When? That depends on who you talk to. The US news media
+      was being told late on Friday afternoon to expect an attack and were reaching
+      out to pundits to be on stand-by for commentary once the operation started. Senior
+      US military officers also expected the Execute order to be issued. However, as
+      of midnight on Friday on the east coast, there has no further movement or indicator
+      of such an attack. Looks like Donald Trump is having a Hamlet moment: To be, or
+      not to be: that is the question: Whether ’tis nobler in the mind to suffer The
+      slings and arrows of outrageous fortune , Or to take arms against a sea of troubles,
+      And by opposing end them? To die: to sleep; No more; and by a sleep to say we
+      end The heart-ache and the thousand natural shocks That flesh is heir to, ’tis
+      a consummation Devoutly to be wish’d. To die, to sleep; To sleep: perchance to
+      dream : ay, there’s the rub; Colonel Wilkerson and I discussed the situation with
+      Iran with Nima: And here’s the Intelligence Round Table: Last, my chat with Ed
+      DeMarche of the Trends Journal: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Recent comments from Donald Trump indicate dissatisfaction
+      with negotiations regarding Iran, leading to speculation about imminent military
+      action, as regional and Western countries express concern and urge their citizens
+      to evacuate.
+    paragraph_summary: The article discusses recent developments indicating that former
+      President Donald Trump may be preparing to authorize military action against Iran,
+      with the timing of such an attack remaining uncertain. Trump expressed dissatisfaction
+      with the ongoing negotiations in Geneva, stating that Iran is not making sufficient
+      concessions after 47 years of diplomatic efforts. In response to escalating tensions,
+      several countries, including Poland, Italy, and Romania, are evacuating their
+      citizens and non-essential diplomatic staff from Iran and Israel, signaling widespread
+      concern over potential military action. The U.S. State Department has also urged
+      American citizens in Iran to leave immediately, and there are reports that U.S.
+      media and military officials are anticipating an imminent attack, although no
+      concrete actions have been taken as of late Friday night.
+    published: '2026-02-28T05:43:25+00:00'
+  - title: Will Trump Take the Exit Ramp or Go to War with Iran?
+    url: https://sonar21.com/will-trump-take-the-exit-ramp-or-go-to-war-with-iran/
+    text: 'I was hoping for some clarity from today’s (Thursday) indirect meeting in
+      Geneva between the US and Iran, with Oman playing messenger. Instead, we got mixed
+      messages. Thursday’s third round of negotiations was seen by many in the Trump
+      administration as a last chance for diplomacy before President Trump decides whether
+      to launch a war. The talks took place in two formats — indirectly, with Omani
+      Foreign Minister Badr al-Busaidi relaying messages between the sides, and directly
+      between US and Iranian negotiators. The talks lasted about six hours, with a morning
+      and afternoon session. Iran presented its much-anticipated draft proposal for
+      a nuclear deal during the morning session. Four Iranian officials told the New
+      York Times that Tehran is proposing to suspend nuclear activity and uranium enrichment
+      for three to five years, after which Iran would join a regional nuclear consortium
+      and maintain a low level of 1.5 percent uranium enrichment for medical research.
+      Iran would also dilute its existing stockpile of highly enriched uranium in phases
+      and grant monitoring access to IAEA inspectors. US negotiators — Steve Witkoff
+      and Jared Kushner — made clear that Iran’s nuclear sites at Fordow, Natanz, and
+      Isfahan must be dismantled and that any agreement should not include sunset clauses.
+      Iran International Special envoy Steve Witkoff also told a private gathering of
+      AIPAC donors that any Iran nuclear deal should last indefinitely. The US side
+      reportedly was “ disappointed ” by the Iranian positions during the morning session.
+      However, Omani Foreign Minister al-Busaidi said after the morning session that
+      talks showed “ significant progress .” Two people familiar with the talks told
+      NBC News that from the Trump administration’s perspective, the discussions were
+      “positive,” though sources declined to share details. The Iranians offered up
+      a more positive view of the sessions with Witkoff and Kushner. Foreign Minister
+      Araghchi described the talks as among the most serious Iran has had with the US.
+      Araghchi told Iranian state television: We reached agreement on some issues, and
+      there are differences regarding some other issues… We have entered serious talks
+      about sanctions relief and the nuclear issue. Overall, during these long and very
+      intensive hours, good progress was achieved, and we entered a serious review of
+      the elements of an agreement, both in the nuclear field and on sanctions. We were
+      able to identify the main elements of a possible agreement and discuss these elements.
+      Of course, there are still differences, but in most cases we have at least reached
+      a general understanding of how to resolve these issues,” Araghchi told Iran’s
+      state-run Press TV. Iran affirmed it will never have nuclear weapons, but insisted
+      that its uranium enrichment must continue inside the country under IAEA supervision,
+      according to CNN . This remains their core sticking point with Washington. An
+      Iranian official told Al Jazeera : Our proposal in Geneva is politically serious,
+      technically creative, and includes everything required to reach an agreement immediately
+      .” Ali Shamkhani, a senior adviser to Supreme Leader Khamenei, wrote on X during
+      the talks that if preventing a nuclear weapon is the main U.S. issue, it “aligns”
+      with Khamenei’s Fatwa and Iran’s defensive doctrine, “ and an immediate agreement
+      is within reach .” He added: “ Araghchi has sufficient support and authority for
+      this deal .” Before we start popping champagne corks, let me take you back to
+      April 2025. The US and Iran held their first round of talks on April 12, 2025,
+      in Muscat, Oman.  Witkoff, sans Kushner, held indirect talks with Iran’s Foreign
+      Minister Araghchi, with Omani mediators relaying messages between the two sides
+      in separate rooms. The discussions were described as constructive, and Witkoff
+      reportedly welcomed the proposals presented by the Iranian delegation — which
+      was unexpected by the Iranian side. On April 14, 2025 — the day after returning
+      from Oman — Witkoff appeared on Fox News and signaled a relatively flexible US
+      position. Speaking to Fox News on Monday, Witkoff suggested that the US wants
+      Iran to cap its uranium enrichment, saying: They do not need to enrich past 3.67
+      percent. In some circumstances, they’re at 60 percent. In other circumstances,
+      20 percent. That cannot be. And you do not need to run — as they claim — a civil
+      nuclear programme where you’re enriching past 3.67 percent.” This implied Washington
+      would accept Iran continuing to enrich at low levels — essentially a return to
+      the 2015 JCPOA framework — rather than demanding a complete halt. Just one day
+      later, Witkoff posted a statement on X doing an about-face: A deal with Iran will
+      only be completed if it is a Trump deal. Any final arrangement must set a framework
+      for peace, stability, and prosperity in the Middle East — meaning that Iran must
+      stop and eliminate its nuclear enrichment and weaponization program. It was unclear
+      if Witkoff’s toughened statement came before or after a meeting of top US officials
+      convened by Trump at the White House on Tuesday morning to discuss the nuclear
+      talks. The State Department echoed the hardened position the same day. According
+      to reports, Witkoff and Vance thought Washington “ should be ready to make some
+      compromises ” to achieve a deal, while Rubio, Waltz, and other top officials were
+      highly skeptical and supported a maximalist approach to the negotiations. The
+      hawks inside the administration — and pressure from Israel — pushed back hard
+      on Witkoff’s initial flexibility, forcing him to publicly walk back his position
+      within 24 hours. Until I hear Donald Trump publicly support the deal that Witkoff
+      and Kushner are crafting, I think the jury is still out about Trump calling off
+      the attack on Iran. Trump’s silence after the Geneva talks could mean he is waiting
+      to see how the Vienna technical talks next week develop before tipping his hand
+      publicly. Given his established pattern of behavior — i.e., posting frequently
+      on Truth Social about major events — the absence of comment signals that the results
+      were neither good enough to celebrate nor bad enough to threaten. Meanwhile, US
+      is continuing its deployment of military assets to the region. According to CNN
+      , recent satellite imagery shows 11 newly arrived US F-22 stealth fighter aircraft
+      deployed at an Israeli base, jets designed for both air-to-air and air-to-ground
+      combat. MSNOW (formerly known as MSNBC ) is reporting that Oman’s Foreign Minister,
+      Badr Al-Busaidi, will visit Washington D.C. tomorrow for a ‘high stakes meeting’
+      with Vice President J.D. Vance, Secretary of State Marco Rubio, and other senior
+      Trump administration officials. Iran has provided Trump with an exit ramp that
+      could yield a legitimate Nobel Peace Prize… Will he take it? Let the discussion
+      begin. I was interviewed on Wednesday by Stanford Political Scientist, Arthur
+      Khachikiian… We discussed Armenia and the implications if the US chooses to attack
+      Iran: My good friend, Garland Nixon, and I also explored the gaslighting of the
+      American public about the Iranian threat: Finally, in a turn-the-tables moment,
+      Pepe Escobar interviewed me under the auspices of the International Unity Club:'
+    one_sentence_summary: The recent indirect negotiations in Geneva between the US
+      and Iran, mediated by Oman, yielded mixed messages regarding Iran's proposal to
+      suspend nuclear activities for three to five years, as the Trump administration
+      views this as a critical moment before potentially escalating to military action.
+    paragraph_summary: In a recent indirect meeting in Geneva mediated by Oman, the
+      US and Iran engaged in negotiations regarding Iran's nuclear program, but the
+      outcomes were mixed. The talks, seen by some in the Trump administration as a
+      critical opportunity for diplomacy before potential military action, included
+      Iran's proposal to suspend nuclear activities and uranium enrichment for three
+      to five years, while also diluting its stockpile of highly enriched uranium and
+      allowing IAEA inspections. However, US negotiators emphasized the need for the
+      dismantling of specific Iranian nuclear sites and opposed any sunset clauses in
+      the agreement. While US officials expressed disappointment with Iran's positions,
+      Omani Foreign Minister Badr al-Busaidi noted significant progress, and some sources
+      from the Trump administration described the discussions as positive, contrasting
+      with the Iranian officials' more optimistic view of the negotiations.
+    published: '2026-02-27T04:21:40+00:00'
+  - title: Will Trump Take the Exit Ramp or Go to War with Iran?
+    url: https://sonar21.com/will-trump-take-the-exit-ramp-or-go-to-war-with-iran/
+    text: 'I was hoping for some clarity from today’s (Thursday) indirect meeting in
+      Geneva between the US and Iran, with Oman playing messenger. Instead, we got mixed
+      messages. Thursday’s third round of negotiations was seen by many in the Trump
+      administration as a last chance for diplomacy before President Trump decides whether
+      to launch a war. The talks took place in two formats — indirectly, with Omani
+      Foreign Minister Badr al-Busaidi relaying messages between the sides, and directly
+      between US and Iranian negotiators. The talks lasted about six hours, with a morning
+      and afternoon session. Iran presented its much-anticipated draft proposal for
+      a nuclear deal during the morning session. Four Iranian officials told the New
+      York Times that Tehran is proposing to suspend nuclear activity and uranium enrichment
+      for three to five years, after which Iran would join a regional nuclear consortium
+      and maintain a low level of 1.5 percent uranium enrichment for medical research.
+      Iran would also dilute its existing stockpile of highly enriched uranium in phases
+      and grant monitoring access to IAEA inspectors. US negotiators — Steve Witkoff
+      and Jared Kushner — made clear that Iran’s nuclear sites at Fordow, Natanz, and
+      Isfahan must be dismantled and that any agreement should not include sunset clauses.
+      Iran International Special envoy Steve Witkoff also told a private gathering of
+      AIPAC donors that any Iran nuclear deal should last indefinitely. The US side
+      reportedly was “ disappointed ” by the Iranian positions during the morning session.
+      However, Omani Foreign Minister al-Busaidi said after the morning session that
+      talks showed “ significant progress .” Two people familiar with the talks told
+      NBC News that from the Trump administration’s perspective, the discussions were
+      “positive,” though sources declined to share details. The Iranians offered up
+      a more positive view of the sessions with Witkoff and Kushner. Foreign Minister
+      Araghchi described the talks as among the most serious Iran has had with the US.
+      Araghchi told Iranian state television: We reached agreement on some issues, and
+      there are differences regarding some other issues… We have entered serious talks
+      about sanctions relief and the nuclear issue. Overall, during these long and very
+      intensive hours, good progress was achieved, and we entered a serious review of
+      the elements of an agreement, both in the nuclear field and on sanctions. We were
+      able to identify the main elements of a possible agreement and discuss these elements.
+      Of course, there are still differences, but in most cases we have at least reached
+      a general understanding of how to resolve these issues,” Araghchi told Iran’s
+      state-run Press TV. Iran affirmed it will never have nuclear weapons, but insisted
+      that its uranium enrichment must continue inside the country under IAEA supervision,
+      according to CNN . This remains their core sticking point with Washington. An
+      Iranian official told Al Jazeera : Our proposal in Geneva is politically serious,
+      technically creative, and includes everything required to reach an agreement immediately
+      .” Ali Shamkhani, a senior adviser to Supreme Leader Khamenei, wrote on X during
+      the talks that if preventing a nuclear weapon is the main U.S. issue, it “aligns”
+      with Khamenei’s Fatwa and Iran’s defensive doctrine, “ and an immediate agreement
+      is within reach .” He added: “ Araghchi has sufficient support and authority for
+      this deal .” Before we start popping champagne corks, let me take you back to
+      April 2025. The US and Iran held their first round of talks on April 12, 2025,
+      in Muscat, Oman.  Witkoff, sans Kushner, held indirect talks with Iran’s Foreign
+      Minister Araghchi, with Omani mediators relaying messages between the two sides
+      in separate rooms. The discussions were described as constructive, and Witkoff
+      reportedly welcomed the proposals presented by the Iranian delegation — which
+      was unexpected by the Iranian side. On April 14, 2025 — the day after returning
+      from Oman — Witkoff appeared on Fox News and signaled a relatively flexible US
+      position. Speaking to Fox News on Monday, Witkoff suggested that the US wants
+      Iran to cap its uranium enrichment, saying: They do not need to enrich past 3.67
+      percent. In some circumstances, they’re at 60 percent. In other circumstances,
+      20 percent. That cannot be. And you do not need to run — as they claim — a civil
+      nuclear programme where you’re enriching past 3.67 percent.” This implied Washington
+      would accept Iran continuing to enrich at low levels — essentially a return to
+      the 2015 JCPOA framework — rather than demanding a complete halt. Just one day
+      later, Witkoff posted a statement on X doing an about-face: A deal with Iran will
+      only be completed if it is a Trump deal. Any final arrangement must set a framework
+      for peace, stability, and prosperity in the Middle East — meaning that Iran must
+      stop and eliminate its nuclear enrichment and weaponization program. It was unclear
+      if Witkoff’s toughened statement came before or after a meeting of top US officials
+      convened by Trump at the White House on Tuesday morning to discuss the nuclear
+      talks. The State Department echoed the hardened position the same day. According
+      to reports, Witkoff and Vance thought Washington “ should be ready to make some
+      compromises ” to achieve a deal, while Rubio, Waltz, and other top officials were
+      highly skeptical and supported a maximalist approach to the negotiations. The
+      hawks inside the administration — and pressure from Israel — pushed back hard
+      on Witkoff’s initial flexibility, forcing him to publicly walk back his position
+      within 24 hours. Until I hear Donald Trump publicly support the deal that Witkoff
+      and Kushner are crafting, I think the jury is still out about Trump calling off
+      the attack on Iran. Trump’s silence after the Geneva talks could mean he is waiting
+      to see how the Vienna technical talks next week develop before tipping his hand
+      publicly. Given his established pattern of behavior — i.e., posting frequently
+      on Truth Social about major events — the absence of comment signals that the results
+      were neither good enough to celebrate nor bad enough to threaten. Meanwhile, US
+      is continuing its deployment of military assets to the region. According to CNN
+      , recent satellite imagery shows 11 newly arrived US F-22 stealth fighter aircraft
+      deployed at an Israeli base, jets designed for both air-to-air and air-to-ground
+      combat. MSNOW (formerly known as MSNBC ) is reporting that Oman’s Foreign Minister,
+      Badr Al-Busaidi, will visit Washington D.C. tomorrow for a ‘high stakes meeting’
+      with Vice President J.D. Vance, Secretary of State Marco Rubio, and other senior
+      Trump administration officials. Iran has provided Trump with an exit ramp that
+      could yield a legitimate Nobel Peace Prize… Will he take it? Let the discussion
+      begin. I was interviewed on Wednesday by Stanford Political Scientist, Arthur
+      Khachikiian… We discussed Armenia and the implications if the US chooses to attack
+      Iran: My good friend, Garland Nixon, and I also explored the gaslighting of the
+      American public about the Iranian threat: Finally, in a turn-the-tables moment,
+      Pepe Escobar interviewed me under the auspices of the International Unity Club:'
+    one_sentence_summary: The recent indirect negotiations in Geneva between the US
+      and Iran, mediated by Oman, yielded mixed messages regarding Iran's proposal to
+      suspend nuclear activities for three to five years, as the Trump administration
+      views this as a critical moment before potentially escalating to military action.
+    paragraph_summary: In a recent indirect meeting in Geneva mediated by Oman, the
+      US and Iran engaged in negotiations regarding Iran's nuclear program, but the
+      outcomes were mixed. The talks, seen by some in the Trump administration as a
+      critical opportunity for diplomacy before potential military action, included
+      Iran's proposal to suspend nuclear activities and uranium enrichment for three
+      to five years, while also diluting its stockpile of highly enriched uranium and
+      allowing IAEA inspections. However, US negotiators emphasized the need for the
+      dismantling of specific Iranian nuclear sites and opposed any sunset clauses in
+      the agreement. While US officials expressed disappointment with Iran's positions,
+      Omani Foreign Minister Badr al-Busaidi noted significant progress, and some sources
+      from the Trump administration described the discussions as positive, contrasting
+      with the Iranian officials' more optimistic view of the negotiations.
+    published: '2026-02-27T04:21:40+00:00'
+  - title: While Waiting for Armageddon, Watch Pepe Escobar’s New Documentary on Iran
+    url: https://sonar21.com/while-waiting-for-armageddon-watch-pepe-escobars-new-documentary-on-iran/
+    text: 'By noon eastern time on Thursday we will likely know whether or not Donald
+      Trump will sign off on an order to attack Iran. Why noon? That is 6pm in Geneva,
+      Switzerland, where Steve Witkoff and Jared Kushner will hold indirect talks with
+      representatives of the Islamic Republic of Iran. If the two sides emerge from
+      the meeting speaking in positive terms about a tentative agreement, then it is
+      unlikely that Trump will risk starting a war that is likely to escalate into a
+      regional conflagration. Alternatively, if the US side announces — either directly
+      or through selected leaks to the corporate media — that Iran is intransigent and
+      is refusing to compromise, the stage is set for the US and/or Israel launching
+      the long awaited attack. While we wait, I encourage you to watch the video-linked
+      below. It is a new documentary by my dear friend, Pepe Escobar, that is a result
+      of his journey last year to Iran to study the International North-South Transportation
+      Corridor (INSTC) . The INSTC is designed not only to boost Iran-Russia trade,
+      but to unlock unique economic opportunities for many other countries. It is the
+      first English-language documentary ever made on the INSTC . Pepe presents Tehran
+      not just as Iran’s capital, but as a potential capital of a new Eurasian project
+      — positioned somewhere between Shanghai and St. Petersburg. Pepe frames Iran not
+      as a destination, but as a vital connector reshaping global trade and geopolitics.
+      The documentary traces Iran’s role as a trade corridor back through history —
+      from the Achaemenid Empire’s Royal Road stretching 2,500 kilometers from Susa
+      to Sardis, through the Silk Road era when caravans of silk, spices and precious
+      goods passed through the heart of Iran, to the Islamic empires that expanded both
+      land and sea routes, making the ports of the Persian Gulf and Sea of Oman Iran’s
+      gateways to the world. Iran today sits at a strategic crossroads between the Caspian
+      Sea, the Persian Gulf, and the overland routes of the Caucasus and Central Asia,
+      striving to transform its north-south and east-west corridors into powerful interconnected
+      arteries carrying not only commerce but the shifting weight of regional and global
+      geopolitics. Pepe begins his journey in the north, tracing the rail line from
+      Bandar Abbas to Rasht as part of the INSTC. Ports like Anzali and Amirabad on
+      the Caspian Sea are described as Iran’s twin arms, with a combined capacity of
+      over 10 million tons annually — serving as a lifeline for landlocked countries
+      including Kazakhstan, Russia, and Turkmenistan. The documentary argues that if
+      the transfer of power from West to East continues through the 21st century, countries
+      like Iran, China, Russia, and India will occupy a central pivotal position — and
+      the North-South Corridor connecting India, Iran, and Russia could become the shortest
+      and most economical route for moving goods between those regions. Pepe’s documentary
+      casts a new light on Iran’s importance to both Russia and China in creating a
+      new international economic order that is free of US coercion and bullying. This
+      helps explain why Russia and China have been working feverishly over the past
+      7 months to bolster Iran’s ability to defend itself against new attacks from the
+      US and/or Israel. If Pepe is right (and I think he is), Iran is poised to play
+      a critical role in the global economy during the remainder of the 21st Century.
+      Click the following link to watch: https://www.presstv.ir/doc/Detail/2026/02/18/764305/Golden-Corridor-
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: By noon eastern time on Thursday, the outcome of indirect
+      talks between U.S. representatives and Iran will likely determine whether President
+      Trump will authorize an attack on Iran, depending on the tone of the discussions
+      regarding a potential agreement.
+    paragraph_summary: By Thursday noon Eastern Time, a decision from Donald Trump regarding
+      a potential military strike on Iran is anticipated, contingent on the outcome
+      of indirect talks in Geneva between U.S. representatives and Iranian officials.
+      If discussions yield a positive agreement, military action is deemed unlikely;
+      however, if Iran is perceived as unyielding, the U.S. or Israel may proceed with
+      an attack. Meanwhile, a documentary by Pepe Escobar highlights Iran's historical
+      and contemporary significance as a crucial trade corridor, emphasizing its role
+      in global trade and geopolitics through initiatives like the International North-South
+      Transportation Corridor (INSTC), which aims to enhance trade between Iran and
+      Russia while connecting various countries along its routes.
+    published: '2026-02-26T04:13:57+00:00'
+  - title: While Waiting for Armageddon, Watch Pepe Escobar’s New Documentary on Iran
+    url: https://sonar21.com/while-waiting-for-armageddon-watch-pepe-escobars-new-documentary-on-iran/
+    text: 'By noon eastern time on Thursday we will likely know whether or not Donald
+      Trump will sign off on an order to attack Iran. Why noon? That is 6pm in Geneva,
+      Switzerland, where Steve Witkoff and Jared Kushner will hold indirect talks with
+      representatives of the Islamic Republic of Iran. If the two sides emerge from
+      the meeting speaking in positive terms about a tentative agreement, then it is
+      unlikely that Trump will risk starting a war that is likely to escalate into a
+      regional conflagration. Alternatively, if the US side announces — either directly
+      or through selected leaks to the corporate media — that Iran is intransigent and
+      is refusing to compromise, the stage is set for the US and/or Israel launching
+      the long awaited attack. While we wait, I encourage you to watch the video-linked
+      below. It is a new documentary by my dear friend, Pepe Escobar, that is a result
+      of his journey last year to Iran to study the International North-South Transportation
+      Corridor (INSTC) . The INSTC is designed not only to boost Iran-Russia trade,
+      but to unlock unique economic opportunities for many other countries. It is the
+      first English-language documentary ever made on the INSTC . Pepe presents Tehran
+      not just as Iran’s capital, but as a potential capital of a new Eurasian project
+      — positioned somewhere between Shanghai and St. Petersburg. Pepe frames Iran not
+      as a destination, but as a vital connector reshaping global trade and geopolitics.
+      The documentary traces Iran’s role as a trade corridor back through history —
+      from the Achaemenid Empire’s Royal Road stretching 2,500 kilometers from Susa
+      to Sardis, through the Silk Road era when caravans of silk, spices and precious
+      goods passed through the heart of Iran, to the Islamic empires that expanded both
+      land and sea routes, making the ports of the Persian Gulf and Sea of Oman Iran’s
+      gateways to the world. Iran today sits at a strategic crossroads between the Caspian
+      Sea, the Persian Gulf, and the overland routes of the Caucasus and Central Asia,
+      striving to transform its north-south and east-west corridors into powerful interconnected
+      arteries carrying not only commerce but the shifting weight of regional and global
+      geopolitics. Pepe begins his journey in the north, tracing the rail line from
+      Bandar Abbas to Rasht as part of the INSTC. Ports like Anzali and Amirabad on
+      the Caspian Sea are described as Iran’s twin arms, with a combined capacity of
+      over 10 million tons annually — serving as a lifeline for landlocked countries
+      including Kazakhstan, Russia, and Turkmenistan. The documentary argues that if
+      the transfer of power from West to East continues through the 21st century, countries
+      like Iran, China, Russia, and India will occupy a central pivotal position — and
+      the North-South Corridor connecting India, Iran, and Russia could become the shortest
+      and most economical route for moving goods between those regions. Pepe’s documentary
+      casts a new light on Iran’s importance to both Russia and China in creating a
+      new international economic order that is free of US coercion and bullying. This
+      helps explain why Russia and China have been working feverishly over the past
+      7 months to bolster Iran’s ability to defend itself against new attacks from the
+      US and/or Israel. If Pepe is right (and I think he is), Iran is poised to play
+      a critical role in the global economy during the remainder of the 21st Century.
+      Click the following link to watch: https://www.presstv.ir/doc/Detail/2026/02/18/764305/Golden-Corridor-
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: By noon eastern time on Thursday, the outcome of indirect
+      talks between U.S. representatives and Iran will likely determine whether President
+      Trump will authorize an attack on Iran, depending on the tone of the discussions
+      regarding a potential agreement.
+    paragraph_summary: By Thursday noon Eastern Time, a decision from Donald Trump regarding
+      a potential military strike on Iran is anticipated, contingent on the outcome
+      of indirect talks in Geneva between U.S. representatives and Iranian officials.
+      If discussions yield a positive agreement, military action is deemed unlikely;
+      however, if Iran is perceived as unyielding, the U.S. or Israel may proceed with
+      an attack. Meanwhile, a documentary by Pepe Escobar highlights Iran's historical
+      and contemporary significance as a crucial trade corridor, emphasizing its role
+      in global trade and geopolitics through initiatives like the International North-South
+      Transportation Corridor (INSTC), which aims to enhance trade between Iran and
+      Russia while connecting various countries along its routes.
+    published: '2026-02-26T04:13:57+00:00'
   - title: Understanding Why General Caine Cannot Guarantee a Slam-Dunk Success if the
       US Attacks Iran
     url: https://sonar21.com/understanding-why-general-caine-cannot-guarantee-a-slam-dunk-success-if-the-us-attacks-iran/

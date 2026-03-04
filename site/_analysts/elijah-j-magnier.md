@@ -7,14 +7,1743 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions between the United States and Iran have reached a critical juncture following President Trump's issuance of a two-week ultimatum for Tehran to accept U.S. demands. This development, reported by **Elijah J. Magnier**, marks a significant escalation, with the threat of military conflict looming over the region. The ultimatum, if unmet, could trigger a multi-front war involving not only Iran and the U.S., but also Israel and potentially other regional actors.
+  The geopolitical landscape in the Middle East has entered a critical phase following the assassination of Iran’s Supreme Leader Sayyed Ali Khamenei and the subsequent escalation of hostilities between Israel, Iran, and their respective allies. As of March 4, 2026, the situation is marked by both overt military action and deepening ideological confrontation.
   
-  Recent military deployments underscore the seriousness of the situation. According to **Elijah J. Magnier**, the U.S. and Israel have positioned substantial air, naval, and missile defense assets around Iran, signaling preparations for a high-intensity conflict rather than mere deterrence. Israeli air power is expected to play a central role, and NATO countries have indicated support, further internationalizing the standoff.
+  The most significant new development is Israel’s official commencement of a ground offensive in Lebanon. According to **Elijah J. Magnier**, Prime Minister Benjamin Netanyahu has explicitly framed the war as a confrontation not only with Hezbollah and Iran—the so-called Shia axis—but also with a rising Sunni axis. This articulation signals a broader ideological and geopolitical campaign, interpreted in both Tehran and Beirut as a declaration of existential conflict. **Magnier** notes that this framing is perceived by Iran and Hezbollah as a direct threat to their regional power and survival.
   
-  The broader implications of a potential conflict are profound. As **Elijah J. Magnier** warns, the collapse of the Islamic Republic of Iran would have far-reaching and unpredictable geopolitical consequences, surpassing the aftermaths of regime changes in Iraq, Afghanistan, or Libya. Such an event would likely destabilize the region and reverberate globally.
+  Hezbollah now faces a two-front war: active military engagement at the Israeli-Lebanese border and mounting internal pressures within Lebanon itself. The group’s leadership views the conflict as a battle for the future of Shia political influence in the region, against what they see as US and Israeli efforts to reshape the Middle East’s balance of power.
   
-  Looking ahead, the consensus among analysts is that the risk of war is at its highest point in years. If diplomatic efforts fail within the ultimatum's timeframe, there is a high chance of direct military confrontation. I guarantee that any escalation will have systemic effects across the Middle East and beyond, with the potential for rapid and uncontrollable developments. The coming days will be decisive in determining whether the crisis can be defused or if the region is headed toward a major conflict.
+  Meanwhile, in Iran, the aftermath of Khamenei’s assassination has not resulted in state paralysis. Instead, as **Elijah J. Magnier** observes, the interim leadership council demonstrates that power in Iran is distributed across multiple institutions and security networks, allowing the state to maintain functionality even amid crisis. This resilience is expected to sustain Iran’s capacity to project influence and support its regional allies, including Hezbollah.
+  
+  **Trends and Predictions:**  
+  The majority of sources agree that the Israeli ground operation in Lebanon marks a new and dangerous escalation, with high potential for regional spillover. The ideological framing by Israeli leadership suggests that the conflict is unlikely to be contained to the immediate military front and will continue to draw in regional actors. Given the distributed nature of power in Iran and the existential stakes for Hezbollah, it is highly likely that both actors will intensify their resistance rather than seek de-escalation. I guarantee that the coming days will see further military and political escalation, with little prospect for immediate diplomatic resolution.
 articles:
+  - title: 'Au bord de l’invasion et de la fracture interne : la guerre du Hezbollah
+      sur deux fronts, à la frontière et à l’intérieur'
+    url: https://ejmagnier.com/2026/03/03/au-bord-de-linvasion-et-de-la-fracture-interne-la-guerre-du-hezbollah-sur-deux-fronts-a-la-frontiere-et-a-linterieur/
+    text: 'Par Elijah J. Magnier Le Premier ministre israélien Benjamin Netanyahu a
+      présenté les objectifs de la guerre actuelle en des termes explicitement idéologiques
+      et géopolitiques, évoquant la confrontation avec « les axes radicaux, qui incluent
+      l’axe chiite (Iran, Hezbollah et Irak)… ainsi que l’axe sunnite radical (la Turquie)
+      qui est en train de se former ». À Téhéran et à Beyrouth, ces propos ont été interprétés
+      non comme un simple signal stratégique, mais comme la déclaration d’une confrontation
+      plus large visant le pouvoir politique chiite dans la région. L’Iran et le Hezbollah
+      se considèrent, aux côtés des forces chiites irakiennes, comme les principaux
+      remparts face à ce qu’ils perçoivent comme l’hégémonie incontestée des États-Unis
+      et d’Israël au Moyen-Orient. Dans cette perspective, la guerre prend une dimension
+      existentielle. L’invasion israélienne du Liban a désormais commencé. Israël a
+      officiellement annoncé le lancement de son incursion terrestre dans le sud. Dans
+      un développement parallèle frappant, le président libanais a ordonné à l’armée
+      de se retirer de la zone démilitarisée au sud du fleuve Litani – une zone que
+      le gouvernement avait auparavant demandé au Hezbollah d’évacuer et de débarrasser
+      de toute arme. Le résultat est politiquement explosif : le Hezbollah se retrouve
+      une fois encore largement seul face à Israël, tout en subissant une pression interne
+      croissante. Le retrait de l’armée libanaise de plus de cinquante positions frontalières,
+      y compris un poste de contrôle récemment établi près de la frontière, a créé un
+      vide opérationnel immédiat le long de la ligne sud. Ce vide a facilité les incursions
+      terrestres israéliennes à Aïta al-Shaab, al-Qawzah et Yaroun, ainsi que sur la
+      colline stratégique de Tel al-Nahhas à Kfarkla. Concrètement, ce retrait a supprimé
+      le seul tampon étatique formel entre les forces israéliennes et les zones contrôlées
+      par le Hezbollah, accélérant le rythme des manœuvres israéliennes et renforçant
+      l’impression que la confrontation passe d’un confinement frontalier à une pénétration
+      territoriale. Le sud du Liban se retrouve désormais sans défense étatique et entre
+      les mains de la résistance. La confrontation a dépassé les échanges calibrés pour
+      entrer dans une phase structurellement différente. Il ne s’agit plus d’une simple
+      escalade frontalière contenue. Ce qui se déroule combine une guerre transfrontalière
+      soutenue, un approfondissement des luttes de pouvoir internes au Liban et une
+      opération terrestre susceptible de redessiner la carte militaire et politique
+      du sud du pays. Le lancement par le Hezbollah d’une nouvelle vague de drones et
+      de missiles vers le nord d’Israël marque une escalade délibérée. Les drones suggèrent
+      reconnaissance et ciblage précis ; les missiles traduisent dissuasion et détermination.
+      Ensemble, ils constituent un message calculé : le Hezbollah est prêt à élargir
+      le théâtre des opérations plutôt qu’à se limiter à des représailles symboliques.
+      Selon le Hezbollah, deux chars Merkava auraient été touchés lors de l’avancée
+      des forces israéliennes, signe d’une volonté initiale d’affronter l’armée israélienne
+      sur le territoire libanais. La réponse d’Israël a été directe et massive. Les
+      frappes aériennes sur Beyrouth relèvent autant du message politique que de la
+      tactique militaire. Cibler la capitale signifie que les structures de commandement
+      et les infrastructures du Hezbollah sont considérées comme des objectifs légitimes,
+      même au cœur de zones urbaines densément peuplées. Parallèlement, Israël a ordonné
+      l’évacuation de 80 villages du sud du Liban et de la vallée de la Bekaa. Des évacuations
+      d’une telle ampleur annoncent rarement une action limitée ; elles précèdent généralement
+      des bombardements soutenus ou des manœuvres terrestres. La mobilisation d’environ
+      110 000 soldats israéliens confirme cette analyse. Une telle posture est coûteuse
+      et politiquement lourde de conséquences. Elle suggère une préparation non pas
+      à de simples raids transfrontaliers, mais à un déploiement prolongé à l’intérieur
+      du territoire libanais, potentiellement destiné à s’emparer et à maintenir des
+      positions ou à établir une zone tampon plus profonde au-delà de la Ligne bleue.
+      Si une telle opération se concrétise, elle modifiera l’équilibre stratégique le
+      long de la frontière et ouvrira un nouveau chapitre prolongé du conflit. Ce qui
+      rend ce moment encore plus complexe est la situation intérieure au Liban. Le président,
+      le Premier ministre et le cabinet auraient convenu de poursuivre le désarmement
+      du Hezbollah et de considérer tout membre opérant en dehors de l’autorité de l’État
+      comme hors-la-loi. Il s’agit d’un tournant politique majeur. Pendant des années,
+      l’État libanais a maintenu une ambiguïté délicate vis-à-vis du statut armé du
+      Hezbollah, équilibrant réalités internes et pressions régionales. Une démarche
+      formelle de désarmement rompt cette ambiguïté. Avant même l’escalade des opérations
+      de missiles et de drones du Hezbollah, l’armée libanaise avait commencé à arrêter
+      des dizaines de membres se dirigeant vers le sud. Des perquisitions domiciliaires
+      dans le sud du Liban ont également été signalées. Le calendrier est significatif
+      : il suggère que la décision de l’État n’était pas uniquement réactive aux frappes
+      israéliennes, mais s’inscrivait dans une volonté délibérée d’affirmer son autorité.
+      Les ordres semblent avoir été rapidement transmis de la direction politique au
+      chef d’état-major, indiquant un alignement institutionnel. Le Hezbollah se retrouve
+      ainsi dans une impasse stratégique inédite. À l’extérieur, il affronte la machine
+      militaire israélienne, soutenue par un renseignement avancé, une supériorité aérienne
+      et une mobilisation massive. À l’intérieur, il fait face à un appareil étatique
+      signalant que son rôle militaire autonome ne sera plus toléré. Pour un mouvement
+      qui se définit comme une « résistance », perdre ses armes ne constitue pas un
+      simple revers tactique ; c’est une transformation existentielle. Du point de vue
+      du Hezbollah, mettre fin aux combats sans cessez-le-feu clair et contraignant
+      pourrait être interprété comme un signe de faiblesse. Une cessation des hostilités
+      sans garanties pourrait encourager ses adversaires internes. Des factions politiques
+      opposées au Hezbollah ont déjà appelé l’armée libanaise à élargir les arrestations,
+      démanteler les dépôts d’armes à travers le pays et démanteler systématiquement
+      sa branche militaire. Dans un tel scénario, le mouvement pourrait perdre à la
+      fois sa capacité de dissuasion face à Israël et son levier au sein du système
+      politique libanais. Poursuivre la guerre comporte cependant ses propres risques.
+      Les bombardements israéliens sur Beyrouth et le sud peuvent dévaster les infrastructures
+      et éroder le soutien populaire. Les déplacements de civils et l’effondrement économique
+      risquent d’accentuer le ressentiment dans un pays déjà fragilisé par des années
+      de crise. Le Hezbollah se trouve ainsi pris entre deux pressions opposées. Une
+      désescalade rapide pourrait conduire à son désarmement interne. Une escalade supplémentaire
+      pourrait entraîner une défaite militaire ou des destructions massives, tout en
+      laissant la possibilité d’imposer de nouvelles règles d’engagement. Dans les deux
+      cas, la survie reste incertaine. La position de l’État libanais comporte également
+      des risques. Tenter de désarmer le Hezbollah en pleine confrontation avec Israël
+      pourrait fracturer l’unité nationale. L’armée demeure l’une des rares institutions
+      perçues comme relativement légitimes à travers les communautés. Si elle est perçue
+      comme s’alignant contre le Hezbollah pendant qu’Israël bombarde le territoire
+      libanais, elle pourrait subir des tensions internes. L’équilibre entre affirmation
+      de souveraineté et préservation de la cohésion est fragile. Pour Israël, le calcul
+      stratégique est tout aussi délicat. Une incursion terrestre pourrait affaiblir
+      à court terme l’infrastructure militaire du Hezbollah, perturber ses réseaux de
+      commandement et repousser ses combattants loin de la frontière. Mais dès que les
+      forces israéliennes passent de raids punitifs à un contrôle territorial prolongé,
+      le risque change de nature. Maintenir des positions dans le sud du Liban exposerait
+      les troupes à une guérilla enracinée, aux engins explosifs improvisés, aux tirs
+      de snipers et à une attrition de longue durée. L’histoire montre que l’occupation
+      territoriale au Liban entraîne un coût opérationnel et politique élevé. Même une
+      puissance de feu écrasante et des destructions massives ne suppriment pas la résistance
+      asymétrique ; elles la transforment souvent. Raser des villages pour modifier
+      la topographie ou créer une zone tampon peut changer le paysage physique, mais
+      pas les réseaux sociaux qui alimentent l’insurrection. Plus la présence israélienne
+      se prolonge, plus le conflit risque de devenir une guerre d’endurance, coûteuse
+      et potentiellement divisive en Israël. La dimension civile ne doit pas être négligée.
+      Les évacuations de villages, les bombardements urbains et les mobilisations militaires
+      se traduisent par des vies bouleversées. Les familles du sud du Liban sont déplacées.
+      Les infrastructures sont sous pression. L’activité économique ralentit davantage
+      dans un pays déjà en difficulté. Plus de 2 000 écoles à Beyrouth ont été mises
+      à disposition pour accueillir les familles contraintes de quitter leurs maisons
+      dans le sud après l’ordre d’évacuation israélien. Ce qui distingue ce moment n’est
+      pas seulement l’intensité de l’action militaire, mais la convergence des fronts
+      militaire et politique. Le Hezbollah ne combat pas uniquement à la frontière ;
+      il fait face à un État plus disposé qu’auparavant à contester son autonomie armée.
+      Cette double pression redéfinit les enjeux. La question de savoir si cette crise
+      évoluera vers une invasion terrestre totale ou vers un cessez-le-feu négocié dépendra
+      de plusieurs facteurs : l’ampleur des objectifs israéliens, le seuil d’escalade
+      du Hezbollah et la détermination de l’État libanais à appliquer sa décision de
+      désarmement. Les acteurs régionaux peuvent intervenir, mais les décisions immédiates
+      se prennent à Beyrouth et à Jérusalem. Les prochains jours diront s’il s’agit
+      du prélude à une guerre transformative ou d’une confrontation intense mais contenue.
+      Quoi qu’il en soit, le paysage libanais a déjà changé. Le Hezbollah n’opère plus
+      dans un environnement de tolérance politique combinée à une tension frontalière
+      maîtrisée. Il fait désormais face simultanément à une pression interne et à une
+      force externe. Pour l’Iran et le Hezbollah, cette confrontation n’est pas perçue
+      comme une simple guerre frontalière. Elle est comprise comme un test décisif du
+      pouvoir politique et militaire chiite au Moyen-Orient. Le Hezbollah représente
+      l’allié le plus capable et le mieux positionné stratégiquement de l’Iran. Sa survie
+      sous pression a longtemps servi de preuve que l’influence régionale de Téhéran
+      pouvait résister à une confrontation directe. Une défaite décisive au Liban résonnerait
+      bien au-delà de la frontière sud et signalerait que ce modèle de dissuasion peut
+      être brisé. Du point de vue de Téhéran, les enjeux sont structurels. Le Hezbollah
+      n’est pas simplement un partenaire ; il est un allié organique, une ligne de défense
+      avancée et un symbole d’endurance. S’il est démantelé, désarmé ou contraint à
+      la soumission politique, les conséquences psychologiques et stratégiques seraient
+      profondes. Les calculs dans les capitales régionales s’en trouveraient modifiés.
+      Les implications s’étendent à l’Irak, où la majorité de la population est chiite
+      et où les partis et factions armées chiites détiennent un pouvoir significatif.
+      Nombre de ces groupes entretiennent des liens étroits avec l’Iran. Si le Hezbollah
+      devait s’effondrer sous la pression israélienne et interne libanaise, des forces
+      comparables en Irak pourraient faire face à une surveillance accrue et à des pressions
+      extérieures croissantes. Des acteurs domestiques rivaux pourraient chercher à
+      limiter leur influence au sein des institutions et de l’appareil sécuritaire.
+      Des puissances régionales pourraient également recentrer leur attention sur l’Irak
+      afin de remodeler l’équilibre politique et favoriser l’émergence d’un ordre plus
+      aligné sur l’Occident. Dans ce sens, le champ de bataille du sud du Liban s’inscrit
+      dans une équation régionale plus large. Pour l’Iran et le Hezbollah, l’enjeu n’est
+      pas seulement territorial, mais concerne l’érosion d’un réseau de forces alignées
+      qui façonne la politique moyen-orientale depuis des années. Une défaite ne mettrait
+      pas fin à l’influence politique chiite dans la région, mais pourrait marquer le
+      début d’un recul stratégique susceptible de modifier l’équilibre des puissances
+      bien au-delà du Liban. Subscribe Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a articulé
+      les objectifs de la guerre actuelle en soulignant une confrontation idéologique
+      et géopolitique avec les axes radicaux chiite et sunnite, ce qui est perçu par
+      l'Iran et le Hezbollah comme une menace existentielle à leur pouvoir dans la région.
+    paragraph_summary: Le Premier ministre israélien Benjamin Netanyahu a articulé les
+      objectifs de la guerre actuelle en termes idéologiques et géopolitiques, évoquant
+      une confrontation avec des "axes radicaux" comprenant l'Iran, le Hezbollah et
+      un nouvel axe sunnite dirigé par la Turquie. Ces déclarations ont été perçues
+      à Téhéran et à Beyrouth comme une annonce d'une lutte plus large contre le pouvoir
+      chiite dans la région, où l'Iran et le Hezbollah se positionnent comme des remparts
+      contre l'hégémonie des États-Unis et d'Israël. L'invasion israélienne du Liban
+      a débuté avec une incursion terrestre dans le sud, tandis que le président libanais
+      a ordonné le retrait de l'armée de la zone démilitarisée, créant un vide opérationnel
+      qui facilite les opérations israéliennes et isole davantage le Hezbollah face
+      à une pression interne croissante.
+    published: '2026-03-03T16:37:24+00:00'
+  - title: 'Au bord de l’invasion et de la fracture interne : la guerre du Hezbollah
+      sur deux fronts, à la frontière et à l’intérieur'
+    url: https://ejmagnier.com/2026/03/03/au-bord-de-linvasion-et-de-la-fracture-interne-la-guerre-du-hezbollah-sur-deux-fronts-a-la-frontiere-et-a-linterieur/
+    text: 'Par Elijah J. Magnier Le Premier ministre israélien Benjamin Netanyahu a
+      présenté les objectifs de la guerre actuelle en des termes explicitement idéologiques
+      et géopolitiques, évoquant la confrontation avec « les axes radicaux, qui incluent
+      l’axe chiite (Iran, Hezbollah et Irak)… ainsi que l’axe sunnite radical (la Turquie)
+      qui est en train de se former ». À Téhéran et à Beyrouth, ces propos ont été interprétés
+      non comme un simple signal stratégique, mais comme la déclaration d’une confrontation
+      plus large visant le pouvoir politique chiite dans la région. L’Iran et le Hezbollah
+      se considèrent, aux côtés des forces chiites irakiennes, comme les principaux
+      remparts face à ce qu’ils perçoivent comme l’hégémonie incontestée des États-Unis
+      et d’Israël au Moyen-Orient. Dans cette perspective, la guerre prend une dimension
+      existentielle. L’invasion israélienne du Liban a désormais commencé. Israël a
+      officiellement annoncé le lancement de son incursion terrestre dans le sud. Dans
+      un développement parallèle frappant, le président libanais a ordonné à l’armée
+      de se retirer de la zone démilitarisée au sud du fleuve Litani – une zone que
+      le gouvernement avait auparavant demandé au Hezbollah d’évacuer et de débarrasser
+      de toute arme. Le résultat est politiquement explosif : le Hezbollah se retrouve
+      une fois encore largement seul face à Israël, tout en subissant une pression interne
+      croissante. Le retrait de l’armée libanaise de plus de cinquante positions frontalières,
+      y compris un poste de contrôle récemment établi près de la frontière, a créé un
+      vide opérationnel immédiat le long de la ligne sud. Ce vide a facilité les incursions
+      terrestres israéliennes à Aïta al-Shaab, al-Qawzah et Yaroun, ainsi que sur la
+      colline stratégique de Tel al-Nahhas à Kfarkla. Concrètement, ce retrait a supprimé
+      le seul tampon étatique formel entre les forces israéliennes et les zones contrôlées
+      par le Hezbollah, accélérant le rythme des manœuvres israéliennes et renforçant
+      l’impression que la confrontation passe d’un confinement frontalier à une pénétration
+      territoriale. Le sud du Liban se retrouve désormais sans défense étatique et entre
+      les mains de la résistance. La confrontation a dépassé les échanges calibrés pour
+      entrer dans une phase structurellement différente. Il ne s’agit plus d’une simple
+      escalade frontalière contenue. Ce qui se déroule combine une guerre transfrontalière
+      soutenue, un approfondissement des luttes de pouvoir internes au Liban et une
+      opération terrestre susceptible de redessiner la carte militaire et politique
+      du sud du pays. Le lancement par le Hezbollah d’une nouvelle vague de drones et
+      de missiles vers le nord d’Israël marque une escalade délibérée. Les drones suggèrent
+      reconnaissance et ciblage précis ; les missiles traduisent dissuasion et détermination.
+      Ensemble, ils constituent un message calculé : le Hezbollah est prêt à élargir
+      le théâtre des opérations plutôt qu’à se limiter à des représailles symboliques.
+      Selon le Hezbollah, deux chars Merkava auraient été touchés lors de l’avancée
+      des forces israéliennes, signe d’une volonté initiale d’affronter l’armée israélienne
+      sur le territoire libanais. La réponse d’Israël a été directe et massive. Les
+      frappes aériennes sur Beyrouth relèvent autant du message politique que de la
+      tactique militaire. Cibler la capitale signifie que les structures de commandement
+      et les infrastructures du Hezbollah sont considérées comme des objectifs légitimes,
+      même au cœur de zones urbaines densément peuplées. Parallèlement, Israël a ordonné
+      l’évacuation de 80 villages du sud du Liban et de la vallée de la Bekaa. Des évacuations
+      d’une telle ampleur annoncent rarement une action limitée ; elles précèdent généralement
+      des bombardements soutenus ou des manœuvres terrestres. La mobilisation d’environ
+      110 000 soldats israéliens confirme cette analyse. Une telle posture est coûteuse
+      et politiquement lourde de conséquences. Elle suggère une préparation non pas
+      à de simples raids transfrontaliers, mais à un déploiement prolongé à l’intérieur
+      du territoire libanais, potentiellement destiné à s’emparer et à maintenir des
+      positions ou à établir une zone tampon plus profonde au-delà de la Ligne bleue.
+      Si une telle opération se concrétise, elle modifiera l’équilibre stratégique le
+      long de la frontière et ouvrira un nouveau chapitre prolongé du conflit. Ce qui
+      rend ce moment encore plus complexe est la situation intérieure au Liban. Le président,
+      le Premier ministre et le cabinet auraient convenu de poursuivre le désarmement
+      du Hezbollah et de considérer tout membre opérant en dehors de l’autorité de l’État
+      comme hors-la-loi. Il s’agit d’un tournant politique majeur. Pendant des années,
+      l’État libanais a maintenu une ambiguïté délicate vis-à-vis du statut armé du
+      Hezbollah, équilibrant réalités internes et pressions régionales. Une démarche
+      formelle de désarmement rompt cette ambiguïté. Avant même l’escalade des opérations
+      de missiles et de drones du Hezbollah, l’armée libanaise avait commencé à arrêter
+      des dizaines de membres se dirigeant vers le sud. Des perquisitions domiciliaires
+      dans le sud du Liban ont également été signalées. Le calendrier est significatif
+      : il suggère que la décision de l’État n’était pas uniquement réactive aux frappes
+      israéliennes, mais s’inscrivait dans une volonté délibérée d’affirmer son autorité.
+      Les ordres semblent avoir été rapidement transmis de la direction politique au
+      chef d’état-major, indiquant un alignement institutionnel. Le Hezbollah se retrouve
+      ainsi dans une impasse stratégique inédite. À l’extérieur, il affronte la machine
+      militaire israélienne, soutenue par un renseignement avancé, une supériorité aérienne
+      et une mobilisation massive. À l’intérieur, il fait face à un appareil étatique
+      signalant que son rôle militaire autonome ne sera plus toléré. Pour un mouvement
+      qui se définit comme une « résistance », perdre ses armes ne constitue pas un
+      simple revers tactique ; c’est une transformation existentielle. Du point de vue
+      du Hezbollah, mettre fin aux combats sans cessez-le-feu clair et contraignant
+      pourrait être interprété comme un signe de faiblesse. Une cessation des hostilités
+      sans garanties pourrait encourager ses adversaires internes. Des factions politiques
+      opposées au Hezbollah ont déjà appelé l’armée libanaise à élargir les arrestations,
+      démanteler les dépôts d’armes à travers le pays et démanteler systématiquement
+      sa branche militaire. Dans un tel scénario, le mouvement pourrait perdre à la
+      fois sa capacité de dissuasion face à Israël et son levier au sein du système
+      politique libanais. Poursuivre la guerre comporte cependant ses propres risques.
+      Les bombardements israéliens sur Beyrouth et le sud peuvent dévaster les infrastructures
+      et éroder le soutien populaire. Les déplacements de civils et l’effondrement économique
+      risquent d’accentuer le ressentiment dans un pays déjà fragilisé par des années
+      de crise. Le Hezbollah se trouve ainsi pris entre deux pressions opposées. Une
+      désescalade rapide pourrait conduire à son désarmement interne. Une escalade supplémentaire
+      pourrait entraîner une défaite militaire ou des destructions massives, tout en
+      laissant la possibilité d’imposer de nouvelles règles d’engagement. Dans les deux
+      cas, la survie reste incertaine. La position de l’État libanais comporte également
+      des risques. Tenter de désarmer le Hezbollah en pleine confrontation avec Israël
+      pourrait fracturer l’unité nationale. L’armée demeure l’une des rares institutions
+      perçues comme relativement légitimes à travers les communautés. Si elle est perçue
+      comme s’alignant contre le Hezbollah pendant qu’Israël bombarde le territoire
+      libanais, elle pourrait subir des tensions internes. L’équilibre entre affirmation
+      de souveraineté et préservation de la cohésion est fragile. Pour Israël, le calcul
+      stratégique est tout aussi délicat. Une incursion terrestre pourrait affaiblir
+      à court terme l’infrastructure militaire du Hezbollah, perturber ses réseaux de
+      commandement et repousser ses combattants loin de la frontière. Mais dès que les
+      forces israéliennes passent de raids punitifs à un contrôle territorial prolongé,
+      le risque change de nature. Maintenir des positions dans le sud du Liban exposerait
+      les troupes à une guérilla enracinée, aux engins explosifs improvisés, aux tirs
+      de snipers et à une attrition de longue durée. L’histoire montre que l’occupation
+      territoriale au Liban entraîne un coût opérationnel et politique élevé. Même une
+      puissance de feu écrasante et des destructions massives ne suppriment pas la résistance
+      asymétrique ; elles la transforment souvent. Raser des villages pour modifier
+      la topographie ou créer une zone tampon peut changer le paysage physique, mais
+      pas les réseaux sociaux qui alimentent l’insurrection. Plus la présence israélienne
+      se prolonge, plus le conflit risque de devenir une guerre d’endurance, coûteuse
+      et potentiellement divisive en Israël. La dimension civile ne doit pas être négligée.
+      Les évacuations de villages, les bombardements urbains et les mobilisations militaires
+      se traduisent par des vies bouleversées. Les familles du sud du Liban sont déplacées.
+      Les infrastructures sont sous pression. L’activité économique ralentit davantage
+      dans un pays déjà en difficulté. Plus de 2 000 écoles à Beyrouth ont été mises
+      à disposition pour accueillir les familles contraintes de quitter leurs maisons
+      dans le sud après l’ordre d’évacuation israélien. Ce qui distingue ce moment n’est
+      pas seulement l’intensité de l’action militaire, mais la convergence des fronts
+      militaire et politique. Le Hezbollah ne combat pas uniquement à la frontière ;
+      il fait face à un État plus disposé qu’auparavant à contester son autonomie armée.
+      Cette double pression redéfinit les enjeux. La question de savoir si cette crise
+      évoluera vers une invasion terrestre totale ou vers un cessez-le-feu négocié dépendra
+      de plusieurs facteurs : l’ampleur des objectifs israéliens, le seuil d’escalade
+      du Hezbollah et la détermination de l’État libanais à appliquer sa décision de
+      désarmement. Les acteurs régionaux peuvent intervenir, mais les décisions immédiates
+      se prennent à Beyrouth et à Jérusalem. Les prochains jours diront s’il s’agit
+      du prélude à une guerre transformative ou d’une confrontation intense mais contenue.
+      Quoi qu’il en soit, le paysage libanais a déjà changé. Le Hezbollah n’opère plus
+      dans un environnement de tolérance politique combinée à une tension frontalière
+      maîtrisée. Il fait désormais face simultanément à une pression interne et à une
+      force externe. Pour l’Iran et le Hezbollah, cette confrontation n’est pas perçue
+      comme une simple guerre frontalière. Elle est comprise comme un test décisif du
+      pouvoir politique et militaire chiite au Moyen-Orient. Le Hezbollah représente
+      l’allié le plus capable et le mieux positionné stratégiquement de l’Iran. Sa survie
+      sous pression a longtemps servi de preuve que l’influence régionale de Téhéran
+      pouvait résister à une confrontation directe. Une défaite décisive au Liban résonnerait
+      bien au-delà de la frontière sud et signalerait que ce modèle de dissuasion peut
+      être brisé. Du point de vue de Téhéran, les enjeux sont structurels. Le Hezbollah
+      n’est pas simplement un partenaire ; il est un allié organique, une ligne de défense
+      avancée et un symbole d’endurance. S’il est démantelé, désarmé ou contraint à
+      la soumission politique, les conséquences psychologiques et stratégiques seraient
+      profondes. Les calculs dans les capitales régionales s’en trouveraient modifiés.
+      Les implications s’étendent à l’Irak, où la majorité de la population est chiite
+      et où les partis et factions armées chiites détiennent un pouvoir significatif.
+      Nombre de ces groupes entretiennent des liens étroits avec l’Iran. Si le Hezbollah
+      devait s’effondrer sous la pression israélienne et interne libanaise, des forces
+      comparables en Irak pourraient faire face à une surveillance accrue et à des pressions
+      extérieures croissantes. Des acteurs domestiques rivaux pourraient chercher à
+      limiter leur influence au sein des institutions et de l’appareil sécuritaire.
+      Des puissances régionales pourraient également recentrer leur attention sur l’Irak
+      afin de remodeler l’équilibre politique et favoriser l’émergence d’un ordre plus
+      aligné sur l’Occident. Dans ce sens, le champ de bataille du sud du Liban s’inscrit
+      dans une équation régionale plus large. Pour l’Iran et le Hezbollah, l’enjeu n’est
+      pas seulement territorial, mais concerne l’érosion d’un réseau de forces alignées
+      qui façonne la politique moyen-orientale depuis des années. Une défaite ne mettrait
+      pas fin à l’influence politique chiite dans la région, mais pourrait marquer le
+      début d’un recul stratégique susceptible de modifier l’équilibre des puissances
+      bien au-delà du Liban. Subscribe Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Le Premier ministre israélien Benjamin Netanyahu a articulé
+      les objectifs de la guerre actuelle en soulignant une confrontation idéologique
+      et géopolitique avec les axes radicaux chiite et sunnite, ce qui est perçu par
+      l'Iran et le Hezbollah comme une menace existentielle à leur pouvoir dans la région.
+    paragraph_summary: Le Premier ministre israélien Benjamin Netanyahu a articulé les
+      objectifs de la guerre actuelle en termes idéologiques et géopolitiques, évoquant
+      une confrontation avec des "axes radicaux" comprenant l'Iran, le Hezbollah et
+      un nouvel axe sunnite dirigé par la Turquie. Ces déclarations ont été perçues
+      à Téhéran et à Beyrouth comme une annonce d'une lutte plus large contre le pouvoir
+      chiite dans la région, où l'Iran et le Hezbollah se positionnent comme des remparts
+      contre l'hégémonie des États-Unis et d'Israël. L'invasion israélienne du Liban
+      a débuté avec une incursion terrestre dans le sud, tandis que le président libanais
+      a ordonné le retrait de l'armée de la zone démilitarisée, créant un vide opérationnel
+      qui facilite les opérations israéliennes et isole davantage le Hezbollah face
+      à une pression interne croissante.
+    published: '2026-03-03T16:37:24+00:00'
+  - title: 'Am Rande einer Invasion und innerer Spaltung: Der Krieg der Hisbollah an
+      zwei Fronten – an der Grenze und im eigenen Land'
+    url: https://ejmagnier.com/2026/03/03/am-rande-einer-invasion-und-innerer-spaltung-der-krieg-der-hisbollah-an-zwei-fronten-an-der-grenze-und-im-eigenen-land/
+    text: 'Von Elijah J. Magnier Der israelische Ministerpräsident Benjamin Netanjahu
+      hat die Ziele des aktuellen Krieges ausdrücklich ideologisch und geopolitisch
+      formuliert und von einer Konfrontation mit „den radikalen Achsen, zu denen die
+      schiitische Achse (Iran, Hisbollah und Irak) sowie die sich abzeichnende radikale
+      sunnitische Achse (Türkei) gehören“ gesprochen. In Teheran und Beirut wurde diese
+      Sprache nicht nur als strategisches Signal interpretiert, sondern als Erklärung
+      einer umfassenderen Konfrontation, die sich gegen die schiitische politische Macht
+      in der Region richtet. Der Iran und die Hisbollah sehen sich selbst, zusammen
+      mit den schiitisch geführten Kräften im Irak, als die wichtigsten verbleibenden
+      Hindernisse für das, was sie als unangefochtene Hegemonie der USA und Israels
+      im Nahen Osten betrachten. Aus dieser Perspektive erhält der Krieg eine existenzielle
+      Dimension. Die israelische Invasion im Libanon hat nun begonnen. Israel hat offiziell
+      den Beginn seines Bodenangriffs im Süden angekündigt. In einer bemerkenswerten
+      parallelen Entwicklung befahl der libanesische Präsident der Armee, sich zurückzuziehen
+      und sich aus dem entmilitarisierten Gebiet südlich des Litani-Flusses zurückzuziehen
+      – einem Gebiet, das die Regierung zuvor von der Hisbollah geräumt und von Waffen
+      befreit haben wollte. Das Ergebnis ist politisch brisant: Die Hisbollah muss sich
+      erneut weitgehend allein mit Israel auseinandersetzen, während sie gleichzeitig
+      mit zunehmendem internem Druck im eigenen Land konfrontiert ist. Der Rückzug der
+      libanesischen Armee aus mehr als fünfzig Grenzstellungen, darunter ein neu eingerichteter
+      Kontrollpunkt nahe der Grenze, hat zu einem sofortigen operativen Vakuum entlang
+      der südlichen Linie geführt. Dieses Vakuum hat israelische Bodenoffensiven in
+      Aita al-Shaab, al-Qawzah und Yaroun sowie auf den strategisch wichtigen Hügel
+      Tel al-Nahhas in Kfarkla erleichtert. Praktisch gesehen hat der Rückzug der Armee
+      die einzige formelle staatliche Pufferzone zwischen den israelischen Streitkräften
+      und den von der Hisbollah kontrollierten Gebieten beseitigt, wodurch sich das
+      Tempo der israelischen Manöver beschleunigt hat und sich der Eindruck verstärkt
+      hat, dass sich die Konfrontation von einer Eindämmung an der Grenze zu einer territorialen
+      Durchdringung verlagert. Der Süden des Libanon ist nun schutzlos und in den Händen
+      des Widerstands. Die Konfrontation hat sich über gezielte Scharmützel hinaus zu
+      einer strukturell anderen Phase entwickelt. Es handelt sich nicht mehr um eine
+      begrenzte Eskalation an der Grenze. Was sich derzeit abspielt, ist eine Kombination
+      aus anhaltenden grenzüberschreitenden Kampfhandlungen, einer sich verschärfenden
+      internen Machtkampf im Libanon und einer Bodenoffensive, die die militärische
+      und politische Landkarte des Südlibanon neu zeichnen könnte. Der Start einer neuen
+      Welle von Drohnen und Raketen durch die Hisbollah in Richtung Nordisrael signalisiert
+      eine bewusste Eskalation. Drohnen stehen für Aufklärung und präzise Zielerfassung,
+      Raketen vermitteln Abschreckung und Entschlossenheit. Zusammen bilden sie eine
+      kalkulierte Botschaft, dass die Hisbollah bereit ist, das Kriegsgebiet auszuweiten,
+      anstatt die Feindseligkeiten auf symbolische Vergeltungsmaßnahmen zu beschränken.
+      Nach Angaben der Hisbollah wurden zwei Merkava-Panzer getroffen, während die israelischen
+      Streitkräfte vorrückten, was auf eine anfängliche Bereitschaft hindeutet, den
+      Israelis auf libanesischem Gebiet entgegenzutreten. Die Reaktion Israels war direkt
+      und heftig. Die Luftangriffe auf Beirut sind nicht nur taktische Schläge, sondern
+      auch politische Botschaften. Die Angriffe auf die Hauptstadt signalisieren, dass
+      die Kommandostrukturen und die Infrastruktur der Hisbollah selbst in dicht besiedelten
+      städtischen Gebieten als legitime Ziele angesehen werden. Gleichzeitig ordnete
+      Israel die Evakuierung von 80 Dörfern im Südlibanon und im Bekaa-Tal an. Evakuierungen
+      dieser Größenordnung gehen selten begrenzten Aktionen voraus; sie sind in der
+      Regel Vorboten für anhaltende Bombardierungen oder Bodenmanöver. Die Mobilisierung
+      von etwa 110.000 israelischen Soldaten untermauert diese Einschätzung. Eine solche
+      Truppenstärke ist kostspielig und hat politische Konsequenzen. Sie deutet darauf
+      hin, dass nicht kurze grenzüberschreitende Überfälle vorbereitet werden, sondern
+      ein anhaltender Einsatz auf libanesischem Gebiet, der möglicherweise darauf abzielt,
+      Gelände zu erobern und zu halten oder eine tiefere Pufferzone jenseits der Blauen
+      Linie zu errichten. Sollte eine solche Operation stattfinden, würde dies das strategische
+      Gleichgewicht entlang der Grenze verändern und ein neues, langwieriges Kapitel
+      in diesem Konflikt einläuten. Was diesen Moment jedoch noch komplexer macht, sind
+      die Ereignisse im Libanon selbst. Der libanesische Präsident, der Premierminister
+      und das Kabinett haben sich Berichten zufolge darauf geeinigt, die Entwaffnung
+      der Hisbollah voranzutreiben und jedes Mitglied, das außerhalb der staatlichen
+      Autorität operiert, als Gesetzlosen zu betrachten. Dies ist eine entscheidende
+      politische Wende. Jahrelang hat der libanesische Staat eine heikle Zweideutigkeit
+      gegenüber dem bewaffneten Status der Hisbollah aufrechterhalten und dabei zwischen
+      den internen Realitäten und den regionalen Zwängen abgewogen. Ein formeller Schritt
+      in Richtung Entwaffnung bricht diese Zweideutigkeit. Noch bevor die Hisbollah
+      ihre Raketen- und Drohnenangriffe eskalierte, hatte die libanesische Armee begonnen,
+      Dutzende von Hisbollah-Mitgliedern festzunehmen, die in den Süden reisten. Es
+      gab auch Berichte über Hausdurchsuchungen im Südlibanon. Der Zeitpunkt ist wichtig.
+      Er deutet darauf hin, dass die Entscheidung des Staates keine Reaktion auf die
+      israelischen Angriffe war, sondern Teil eines bewussten Versuchs, die Kontrolle
+      zu behaupten. Die Befehle scheinen schnell von der politischen Führung an den
+      Stabschef der Armee weitergeleitet worden zu sein, was eher auf eine institutionelle
+      Abstimmung als auf Zögern hindeutet. Dies bringt die Hisbollah in eine beispiellose
+      strategische Zwickmühle. Nach außen hin sieht sie sich mit der Militärmaschine
+      Israels konfrontiert, die durch fortschrittliche Geheimdienstinformationen, Luftüberlegenheit
+      und nun auch eine groß angelegte Mobilisierung unterstützt wird. Nach innen hin
+      sieht sie sich mit einem Staatsapparat konfrontiert, der signalisiert, dass ihre
+      unabhängige militärische Rolle nicht länger toleriert wird. Für eine Bewegung,
+      die sich selbst als „Widerstand“ definiert, ist der Verlust ihrer Waffen kein
+      taktischer Rückschlag. Es ist eine existenzielle Veränderung. Aus Sicht der Hisbollah
+      könnte ein Ende der Kämpfe ohne einen klaren, verbindlichen Waffenstillstand als
+      Schwäche interpretiert werden. Eine Einstellung der Feindseligkeiten ohne Garantien
+      könnte die innenpolitischen Gegner ermutigen. Politische Fraktionen, die gegen
+      die Hisbollah sind, haben bereits Druck auf die libanesische Armee ausgeübt, die
+      Verhaftungen auszuweiten, Waffenlager im ganzen Land zu zerstören und den militärischen
+      Flügel der Hisbollah systematisch zu zerschlagen. In diesem Szenario könnte die
+      Gruppe sowohl ihre Abschreckungskraft gegenüber Israel als auch ihren Einfluss
+      innerhalb des politischen Systems des Libanon verlieren. Die Fortsetzung des Krieges
+      birgt jedoch eigene Risiken. Die israelischen Bombardements auf Beirut und die
+      südlichen Regionen können die Infrastruktur zerstören und die Unterstützung der
+      Bevölkerung untergraben. Die Vertreibung der Zivilbevölkerung und der wirtschaftliche
+      Zusammenbruch könnten die Ressentiments unter den libanesischen Bürgern, die bereits
+      seit Jahren unter der Krise leiden, noch verstärken. Das ist der Kern des Dilemmas.
+      Die Hisbollah steht zwischen zwei großen Druckfaktoren, die in entgegengesetzte
+      Richtungen wirken. Wenn sie zu schnell deeskaliert, wird sie intern entwaffnet.
+      Wenn sie weiter eskaliert, riskiert sie eine militärische Niederlage oder schwere
+      Zerstörungen durch Israel, aber auch die Möglichkeit, zu überleben und neue Einsatzregeln
+      durchzusetzen, die sie im Inland schützen würden. In beiden Fällen ist das Überleben
+      eine Herausforderung. Auch die Position des libanesischen Staates birgt Risiken.
+      Der Versuch, die Hisbollah während einer aktiven Konfrontation mit Israel zu entwaffnen,
+      könnte die nationale Einheit zerbrechen. Die Armee ist eine der wenigen Institutionen,
+      die noch von allen Bevölkerungsgruppen als weitgehend legitim angesehen wird.
+      Wenn sie als Verbündete der Hisbollah wahrgenommen wird, während Israel libanesisches
+      Territorium bombardiert, könnte sie inneren Spannungen ausgesetzt sein. Das Gleichgewicht
+      zwischen der Durchsetzung der Souveränität und der Wahrung des Zusammenhalts ist
+      empfindlich. Für Israel ist die strategische Kalkulation ebenso schwierig. Ein
+      Bodenangriff könnte kurzfristig die militärische Infrastruktur der Hisbollah schwächen,
+      Kommandonetzwerke stören und Kämpfer von der Grenze vertreiben. Doch sobald die
+      israelischen Streitkräfte von Strafaktionen zu einer dauerhaften territorialen
+      Kontrolle übergehen, verschiebt sich das Risiko-Gleichgewicht. Die Besetzung des
+      Südlibanon würde die israelischen Truppen einer hartnäckigen Guerillakriegsführung,
+      Straßenbomben, Scharfschützenangriffen und langfristiger Zermürbung aussetzen.
+      Die Geschichte zeigt, dass die Besetzung von Gebieten im Libanon mit hohen operativen
+      und politischen Kosten verbunden ist. Selbst überwältigende Feuerkraft und großflächige
+      Zerstörung können asymmetrischen Widerstand nicht beseitigen, sondern verwandeln
+      ihn oft nur. Die Zerstörung von Dörfern zur Veränderung der Topografie oder zur
+      Schaffung einer Pufferzone mag zwar die physische Landschaft verändern, neutralisiert
+      aber nicht die sozialen Netzwerke, die den Aufstand stützen. Je länger die israelischen
+      Streitkräfte auf libanesischem Boden bleiben, desto größer ist die Gefahr, dass
+      sich der Konflikt von einer Abschreckungskampagne zu einem Krieg der Ausdauer
+      entwickelt – einem Krieg, der kostspielig und langwierig sein und zu inneren Spaltungen
+      innerhalb Israels selbst führen könnte. Die zivile Dimension sollte nicht übersehen
+      werden. Die Evakuierung von Dörfern, die Bombardierung von Stadtgebieten und die
+      Mobilisierung von Truppen führen zu einer Störung des täglichen Lebens. Familien
+      im Südlibanon werden vertrieben. Die Infrastruktur ist überlastet. Die Wirtschaftstätigkeit
+      verlangsamt sich weiter in einem Land, das ohnehin schon zu kämpfen hat. Über
+      2000 Schulen in Beirut wurden für Familien zur Verfügung gestellt, die nach dem
+      israelischen Evakuierungsbefehl ihre Häuser im Südlibanon verlassen mussten. Was
+      diesen Moment auszeichnet, ist nicht nur die Intensität der militärischen Aktionen,
+      sondern auch das Zusammentreffen militärischer und politischer Fronten. Die Hisbollah
+      kämpft nicht nur an der Grenze. Sie steht auch einem Staat gegenüber, der mehr
+      denn je bereit zu sein scheint, ihre bewaffnete Autonomie in Frage zu stellen.
+      Dieser doppelte Druck verändert die Lage. Ob diese Krise zu einer vollständigen
+      Bodeninvasion eskaliert oder zu einem ausgehandelten Waffenstillstand führt, hängt
+      von mehreren Faktoren ab: dem Umfang der israelischen Ziele, der Eskalationsschwelle
+      der Hisbollah und der Entschlossenheit des libanesischen Staates, seine Entscheidung
+      zur Entwaffnung umzusetzen. Regionale Akteure könnten ebenfalls Einfluss nehmen,
+      aber die unmittelbaren Entscheidungen liegen in Beirut und Jerusalem. Die kommenden
+      Tage werden zeigen, ob dies der Auftakt zu einem transformativen Krieg oder zu
+      einer scharfen, aber begrenzten Konfrontation ist. So oder so hat sich die Lage
+      im Libanon bereits verändert. Die Hisbollah agiert nicht mehr in einem Umfeld
+      politischer Toleranz in Verbindung mit kontrollierten Grenzspannungen. Sie sieht
+      sich nun gleichzeitig einer genauen Beobachtung von innen und Gewalt von außen
+      ausgesetzt. Diese doppelte Herausforderung könnte das nächste Kapitel der inneren
+      Ordnung des Libanon und seines Konflikts mit Israel bestimmen. Für den Iran und
+      die Hisbollah ist diese Konfrontation kein begrenzter Grenzkrieg. Sie wird als
+      entscheidender Test für die politische und militärische Macht der Schiiten im
+      Nahen Osten angesehen. Die Hisbollah ist der fähigste und strategisch am besten
+      positionierte Verbündete des Iran. Ihr Überleben unter Druck ist seit langem ein
+      Beweis dafür, dass der regionale Einfluss Teherans einer direkten Konfrontation
+      standhalten kann. Eine entscheidende Niederlage im Libanon würde daher weit über
+      die südliche Grenze hinaus Auswirkungen haben. Sie würde signalisieren, dass dieses
+      Modell der Abschreckung durchbrochen werden kann. Aus Sicht Teherans geht es um
+      strukturelle Fragen. Die Hisbollah ist nicht einfach nur ein Partner, sondern
+      ein organischer Verbündeter, eine vordere Verteidigungslinie und ein Symbol für
+      Ausdauer. Würde sie zerschlagen, entwaffnet oder zur politischen Unterwerfung
+      gezwungen, hätte dies tiefgreifende psychologische und strategische Folgen. Es
+      würde die Kalkulationen in den Hauptstädten der Region verändern und die Einschätzung
+      der Reichweite des Iran sowohl durch Verbündete als auch durch Gegner neu prägen.
+      Die Auswirkungen reichen bis in den Irak, wo die Mehrheit der Bevölkerung schiitisch
+      ist und wo schiitische politische Parteien und bewaffnete Fraktionen bedeutende
+      Macht ausüben. Viele dieser Gruppen unterhalten enge Beziehungen zum Iran. Sollte
+      die Hisbollah unter dem Druck Israels und interner libanesischer Kräfte zusammenbrechen,
+      könnten vergleichbare Kräfte im Irak einer verstärkten Kontrolle und wachsendem
+      Druck von außen ausgesetzt sein. Rivalisierende innenpolitische Akteure könnten
+      versuchen, ihren Einfluss innerhalb der staatlichen Institutionen und des Sicherheitsapparats
+      einzuschränken. Regionale Mächte könnten ihren Fokus ebenfalls auf den Irak richten,
+      um das politische Gleichgewicht neu zu gestalten und die Entstehung einer pro-westlicheren
+      Regierungsordnung zu fördern. In diesem Sinne ist das Schlachtfeld im Südlibanon
+      mit einer umfassenderen regionalen Gleichung verbunden. Für den Iran und die Hisbollah
+      geht es nicht nur um den Verlust von Territorium, sondern auch um die Erosion
+      eines Netzwerks verbündeter Kräfte, das die Politik im Nahen Osten seit Jahren
+      prägt. Eine Niederlage würde den politischen Einfluss der Schiiten in der Region
+      nicht beenden, könnte aber den Beginn eines Rückzugs markieren, der das Machtgleichgewicht
+      weit über den Libanon hinaus verschiebt. Subscribe Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu hat die ideologischen
+      und geopolitischen Ziele des aktuellen Krieges gegen die schiitische Achse, einschließlich
+      Iran und Hisbollah, sowie gegen eine aufkommende sunnitische Achse, klar umrissen,
+      was in Teheran und Beirut als Signal einer umfassenderen Konfrontation interpretiert
+      wird, während Israel offiziell mit seinem Bodenangriff im Libanon begonnen hat.
+    paragraph_summary: Der israelische Ministerpräsident Benjamin Netanjahu hat die
+      ideologischen und geopolitischen Ziele des aktuellen Krieges klar umrissen, indem
+      er eine Konfrontation mit radikalen Achsen, einschließlich der schiitischen Achse
+      (Iran, Hisbollah, Irak) und einer aufkommenden radikalen sunnitischen Achse (Türkei),
+      ansprach. Diese Rhetorik wurde in Teheran und Beirut als strategisches Signal
+      für eine umfassendere Auseinandersetzung gegen die schiitische politische Macht
+      in der Region interpretiert, wobei der Iran und die Hisbollah als Hauptgegner
+      der US- und israelischen Hegemonie betrachtet werden. In diesem Kontext hat Israel
+      offiziell den Bodenangriff im Libanon begonnen, während der libanesische Präsident
+      die Armee anordnete, sich aus dem entmilitarisierten Gebiet südlich des Litani
+      zurückzuziehen, was zu einem operativen Vakuum führte und die Hisbollah unter
+      Druck setzte, sich allein gegen Israel zu behaupten.
+    published: '2026-03-03T16:35:29+00:00'
+  - title: 'Am Rande einer Invasion und innerer Spaltung: Der Krieg der Hisbollah an
+      zwei Fronten – an der Grenze und im eigenen Land'
+    url: https://ejmagnier.com/2026/03/03/am-rande-einer-invasion-und-innerer-spaltung-der-krieg-der-hisbollah-an-zwei-fronten-an-der-grenze-und-im-eigenen-land/
+    text: 'Von Elijah J. Magnier Der israelische Ministerpräsident Benjamin Netanjahu
+      hat die Ziele des aktuellen Krieges ausdrücklich ideologisch und geopolitisch
+      formuliert und von einer Konfrontation mit „den radikalen Achsen, zu denen die
+      schiitische Achse (Iran, Hisbollah und Irak) sowie die sich abzeichnende radikale
+      sunnitische Achse (Türkei) gehören“ gesprochen. In Teheran und Beirut wurde diese
+      Sprache nicht nur als strategisches Signal interpretiert, sondern als Erklärung
+      einer umfassenderen Konfrontation, die sich gegen die schiitische politische Macht
+      in der Region richtet. Der Iran und die Hisbollah sehen sich selbst, zusammen
+      mit den schiitisch geführten Kräften im Irak, als die wichtigsten verbleibenden
+      Hindernisse für das, was sie als unangefochtene Hegemonie der USA und Israels
+      im Nahen Osten betrachten. Aus dieser Perspektive erhält der Krieg eine existenzielle
+      Dimension. Die israelische Invasion im Libanon hat nun begonnen. Israel hat offiziell
+      den Beginn seines Bodenangriffs im Süden angekündigt. In einer bemerkenswerten
+      parallelen Entwicklung befahl der libanesische Präsident der Armee, sich zurückzuziehen
+      und sich aus dem entmilitarisierten Gebiet südlich des Litani-Flusses zurückzuziehen
+      – einem Gebiet, das die Regierung zuvor von der Hisbollah geräumt und von Waffen
+      befreit haben wollte. Das Ergebnis ist politisch brisant: Die Hisbollah muss sich
+      erneut weitgehend allein mit Israel auseinandersetzen, während sie gleichzeitig
+      mit zunehmendem internem Druck im eigenen Land konfrontiert ist. Der Rückzug der
+      libanesischen Armee aus mehr als fünfzig Grenzstellungen, darunter ein neu eingerichteter
+      Kontrollpunkt nahe der Grenze, hat zu einem sofortigen operativen Vakuum entlang
+      der südlichen Linie geführt. Dieses Vakuum hat israelische Bodenoffensiven in
+      Aita al-Shaab, al-Qawzah und Yaroun sowie auf den strategisch wichtigen Hügel
+      Tel al-Nahhas in Kfarkla erleichtert. Praktisch gesehen hat der Rückzug der Armee
+      die einzige formelle staatliche Pufferzone zwischen den israelischen Streitkräften
+      und den von der Hisbollah kontrollierten Gebieten beseitigt, wodurch sich das
+      Tempo der israelischen Manöver beschleunigt hat und sich der Eindruck verstärkt
+      hat, dass sich die Konfrontation von einer Eindämmung an der Grenze zu einer territorialen
+      Durchdringung verlagert. Der Süden des Libanon ist nun schutzlos und in den Händen
+      des Widerstands. Die Konfrontation hat sich über gezielte Scharmützel hinaus zu
+      einer strukturell anderen Phase entwickelt. Es handelt sich nicht mehr um eine
+      begrenzte Eskalation an der Grenze. Was sich derzeit abspielt, ist eine Kombination
+      aus anhaltenden grenzüberschreitenden Kampfhandlungen, einer sich verschärfenden
+      internen Machtkampf im Libanon und einer Bodenoffensive, die die militärische
+      und politische Landkarte des Südlibanon neu zeichnen könnte. Der Start einer neuen
+      Welle von Drohnen und Raketen durch die Hisbollah in Richtung Nordisrael signalisiert
+      eine bewusste Eskalation. Drohnen stehen für Aufklärung und präzise Zielerfassung,
+      Raketen vermitteln Abschreckung und Entschlossenheit. Zusammen bilden sie eine
+      kalkulierte Botschaft, dass die Hisbollah bereit ist, das Kriegsgebiet auszuweiten,
+      anstatt die Feindseligkeiten auf symbolische Vergeltungsmaßnahmen zu beschränken.
+      Nach Angaben der Hisbollah wurden zwei Merkava-Panzer getroffen, während die israelischen
+      Streitkräfte vorrückten, was auf eine anfängliche Bereitschaft hindeutet, den
+      Israelis auf libanesischem Gebiet entgegenzutreten. Die Reaktion Israels war direkt
+      und heftig. Die Luftangriffe auf Beirut sind nicht nur taktische Schläge, sondern
+      auch politische Botschaften. Die Angriffe auf die Hauptstadt signalisieren, dass
+      die Kommandostrukturen und die Infrastruktur der Hisbollah selbst in dicht besiedelten
+      städtischen Gebieten als legitime Ziele angesehen werden. Gleichzeitig ordnete
+      Israel die Evakuierung von 80 Dörfern im Südlibanon und im Bekaa-Tal an. Evakuierungen
+      dieser Größenordnung gehen selten begrenzten Aktionen voraus; sie sind in der
+      Regel Vorboten für anhaltende Bombardierungen oder Bodenmanöver. Die Mobilisierung
+      von etwa 110.000 israelischen Soldaten untermauert diese Einschätzung. Eine solche
+      Truppenstärke ist kostspielig und hat politische Konsequenzen. Sie deutet darauf
+      hin, dass nicht kurze grenzüberschreitende Überfälle vorbereitet werden, sondern
+      ein anhaltender Einsatz auf libanesischem Gebiet, der möglicherweise darauf abzielt,
+      Gelände zu erobern und zu halten oder eine tiefere Pufferzone jenseits der Blauen
+      Linie zu errichten. Sollte eine solche Operation stattfinden, würde dies das strategische
+      Gleichgewicht entlang der Grenze verändern und ein neues, langwieriges Kapitel
+      in diesem Konflikt einläuten. Was diesen Moment jedoch noch komplexer macht, sind
+      die Ereignisse im Libanon selbst. Der libanesische Präsident, der Premierminister
+      und das Kabinett haben sich Berichten zufolge darauf geeinigt, die Entwaffnung
+      der Hisbollah voranzutreiben und jedes Mitglied, das außerhalb der staatlichen
+      Autorität operiert, als Gesetzlosen zu betrachten. Dies ist eine entscheidende
+      politische Wende. Jahrelang hat der libanesische Staat eine heikle Zweideutigkeit
+      gegenüber dem bewaffneten Status der Hisbollah aufrechterhalten und dabei zwischen
+      den internen Realitäten und den regionalen Zwängen abgewogen. Ein formeller Schritt
+      in Richtung Entwaffnung bricht diese Zweideutigkeit. Noch bevor die Hisbollah
+      ihre Raketen- und Drohnenangriffe eskalierte, hatte die libanesische Armee begonnen,
+      Dutzende von Hisbollah-Mitgliedern festzunehmen, die in den Süden reisten. Es
+      gab auch Berichte über Hausdurchsuchungen im Südlibanon. Der Zeitpunkt ist wichtig.
+      Er deutet darauf hin, dass die Entscheidung des Staates keine Reaktion auf die
+      israelischen Angriffe war, sondern Teil eines bewussten Versuchs, die Kontrolle
+      zu behaupten. Die Befehle scheinen schnell von der politischen Führung an den
+      Stabschef der Armee weitergeleitet worden zu sein, was eher auf eine institutionelle
+      Abstimmung als auf Zögern hindeutet. Dies bringt die Hisbollah in eine beispiellose
+      strategische Zwickmühle. Nach außen hin sieht sie sich mit der Militärmaschine
+      Israels konfrontiert, die durch fortschrittliche Geheimdienstinformationen, Luftüberlegenheit
+      und nun auch eine groß angelegte Mobilisierung unterstützt wird. Nach innen hin
+      sieht sie sich mit einem Staatsapparat konfrontiert, der signalisiert, dass ihre
+      unabhängige militärische Rolle nicht länger toleriert wird. Für eine Bewegung,
+      die sich selbst als „Widerstand“ definiert, ist der Verlust ihrer Waffen kein
+      taktischer Rückschlag. Es ist eine existenzielle Veränderung. Aus Sicht der Hisbollah
+      könnte ein Ende der Kämpfe ohne einen klaren, verbindlichen Waffenstillstand als
+      Schwäche interpretiert werden. Eine Einstellung der Feindseligkeiten ohne Garantien
+      könnte die innenpolitischen Gegner ermutigen. Politische Fraktionen, die gegen
+      die Hisbollah sind, haben bereits Druck auf die libanesische Armee ausgeübt, die
+      Verhaftungen auszuweiten, Waffenlager im ganzen Land zu zerstören und den militärischen
+      Flügel der Hisbollah systematisch zu zerschlagen. In diesem Szenario könnte die
+      Gruppe sowohl ihre Abschreckungskraft gegenüber Israel als auch ihren Einfluss
+      innerhalb des politischen Systems des Libanon verlieren. Die Fortsetzung des Krieges
+      birgt jedoch eigene Risiken. Die israelischen Bombardements auf Beirut und die
+      südlichen Regionen können die Infrastruktur zerstören und die Unterstützung der
+      Bevölkerung untergraben. Die Vertreibung der Zivilbevölkerung und der wirtschaftliche
+      Zusammenbruch könnten die Ressentiments unter den libanesischen Bürgern, die bereits
+      seit Jahren unter der Krise leiden, noch verstärken. Das ist der Kern des Dilemmas.
+      Die Hisbollah steht zwischen zwei großen Druckfaktoren, die in entgegengesetzte
+      Richtungen wirken. Wenn sie zu schnell deeskaliert, wird sie intern entwaffnet.
+      Wenn sie weiter eskaliert, riskiert sie eine militärische Niederlage oder schwere
+      Zerstörungen durch Israel, aber auch die Möglichkeit, zu überleben und neue Einsatzregeln
+      durchzusetzen, die sie im Inland schützen würden. In beiden Fällen ist das Überleben
+      eine Herausforderung. Auch die Position des libanesischen Staates birgt Risiken.
+      Der Versuch, die Hisbollah während einer aktiven Konfrontation mit Israel zu entwaffnen,
+      könnte die nationale Einheit zerbrechen. Die Armee ist eine der wenigen Institutionen,
+      die noch von allen Bevölkerungsgruppen als weitgehend legitim angesehen wird.
+      Wenn sie als Verbündete der Hisbollah wahrgenommen wird, während Israel libanesisches
+      Territorium bombardiert, könnte sie inneren Spannungen ausgesetzt sein. Das Gleichgewicht
+      zwischen der Durchsetzung der Souveränität und der Wahrung des Zusammenhalts ist
+      empfindlich. Für Israel ist die strategische Kalkulation ebenso schwierig. Ein
+      Bodenangriff könnte kurzfristig die militärische Infrastruktur der Hisbollah schwächen,
+      Kommandonetzwerke stören und Kämpfer von der Grenze vertreiben. Doch sobald die
+      israelischen Streitkräfte von Strafaktionen zu einer dauerhaften territorialen
+      Kontrolle übergehen, verschiebt sich das Risiko-Gleichgewicht. Die Besetzung des
+      Südlibanon würde die israelischen Truppen einer hartnäckigen Guerillakriegsführung,
+      Straßenbomben, Scharfschützenangriffen und langfristiger Zermürbung aussetzen.
+      Die Geschichte zeigt, dass die Besetzung von Gebieten im Libanon mit hohen operativen
+      und politischen Kosten verbunden ist. Selbst überwältigende Feuerkraft und großflächige
+      Zerstörung können asymmetrischen Widerstand nicht beseitigen, sondern verwandeln
+      ihn oft nur. Die Zerstörung von Dörfern zur Veränderung der Topografie oder zur
+      Schaffung einer Pufferzone mag zwar die physische Landschaft verändern, neutralisiert
+      aber nicht die sozialen Netzwerke, die den Aufstand stützen. Je länger die israelischen
+      Streitkräfte auf libanesischem Boden bleiben, desto größer ist die Gefahr, dass
+      sich der Konflikt von einer Abschreckungskampagne zu einem Krieg der Ausdauer
+      entwickelt – einem Krieg, der kostspielig und langwierig sein und zu inneren Spaltungen
+      innerhalb Israels selbst führen könnte. Die zivile Dimension sollte nicht übersehen
+      werden. Die Evakuierung von Dörfern, die Bombardierung von Stadtgebieten und die
+      Mobilisierung von Truppen führen zu einer Störung des täglichen Lebens. Familien
+      im Südlibanon werden vertrieben. Die Infrastruktur ist überlastet. Die Wirtschaftstätigkeit
+      verlangsamt sich weiter in einem Land, das ohnehin schon zu kämpfen hat. Über
+      2000 Schulen in Beirut wurden für Familien zur Verfügung gestellt, die nach dem
+      israelischen Evakuierungsbefehl ihre Häuser im Südlibanon verlassen mussten. Was
+      diesen Moment auszeichnet, ist nicht nur die Intensität der militärischen Aktionen,
+      sondern auch das Zusammentreffen militärischer und politischer Fronten. Die Hisbollah
+      kämpft nicht nur an der Grenze. Sie steht auch einem Staat gegenüber, der mehr
+      denn je bereit zu sein scheint, ihre bewaffnete Autonomie in Frage zu stellen.
+      Dieser doppelte Druck verändert die Lage. Ob diese Krise zu einer vollständigen
+      Bodeninvasion eskaliert oder zu einem ausgehandelten Waffenstillstand führt, hängt
+      von mehreren Faktoren ab: dem Umfang der israelischen Ziele, der Eskalationsschwelle
+      der Hisbollah und der Entschlossenheit des libanesischen Staates, seine Entscheidung
+      zur Entwaffnung umzusetzen. Regionale Akteure könnten ebenfalls Einfluss nehmen,
+      aber die unmittelbaren Entscheidungen liegen in Beirut und Jerusalem. Die kommenden
+      Tage werden zeigen, ob dies der Auftakt zu einem transformativen Krieg oder zu
+      einer scharfen, aber begrenzten Konfrontation ist. So oder so hat sich die Lage
+      im Libanon bereits verändert. Die Hisbollah agiert nicht mehr in einem Umfeld
+      politischer Toleranz in Verbindung mit kontrollierten Grenzspannungen. Sie sieht
+      sich nun gleichzeitig einer genauen Beobachtung von innen und Gewalt von außen
+      ausgesetzt. Diese doppelte Herausforderung könnte das nächste Kapitel der inneren
+      Ordnung des Libanon und seines Konflikts mit Israel bestimmen. Für den Iran und
+      die Hisbollah ist diese Konfrontation kein begrenzter Grenzkrieg. Sie wird als
+      entscheidender Test für die politische und militärische Macht der Schiiten im
+      Nahen Osten angesehen. Die Hisbollah ist der fähigste und strategisch am besten
+      positionierte Verbündete des Iran. Ihr Überleben unter Druck ist seit langem ein
+      Beweis dafür, dass der regionale Einfluss Teherans einer direkten Konfrontation
+      standhalten kann. Eine entscheidende Niederlage im Libanon würde daher weit über
+      die südliche Grenze hinaus Auswirkungen haben. Sie würde signalisieren, dass dieses
+      Modell der Abschreckung durchbrochen werden kann. Aus Sicht Teherans geht es um
+      strukturelle Fragen. Die Hisbollah ist nicht einfach nur ein Partner, sondern
+      ein organischer Verbündeter, eine vordere Verteidigungslinie und ein Symbol für
+      Ausdauer. Würde sie zerschlagen, entwaffnet oder zur politischen Unterwerfung
+      gezwungen, hätte dies tiefgreifende psychologische und strategische Folgen. Es
+      würde die Kalkulationen in den Hauptstädten der Region verändern und die Einschätzung
+      der Reichweite des Iran sowohl durch Verbündete als auch durch Gegner neu prägen.
+      Die Auswirkungen reichen bis in den Irak, wo die Mehrheit der Bevölkerung schiitisch
+      ist und wo schiitische politische Parteien und bewaffnete Fraktionen bedeutende
+      Macht ausüben. Viele dieser Gruppen unterhalten enge Beziehungen zum Iran. Sollte
+      die Hisbollah unter dem Druck Israels und interner libanesischer Kräfte zusammenbrechen,
+      könnten vergleichbare Kräfte im Irak einer verstärkten Kontrolle und wachsendem
+      Druck von außen ausgesetzt sein. Rivalisierende innenpolitische Akteure könnten
+      versuchen, ihren Einfluss innerhalb der staatlichen Institutionen und des Sicherheitsapparats
+      einzuschränken. Regionale Mächte könnten ihren Fokus ebenfalls auf den Irak richten,
+      um das politische Gleichgewicht neu zu gestalten und die Entstehung einer pro-westlicheren
+      Regierungsordnung zu fördern. In diesem Sinne ist das Schlachtfeld im Südlibanon
+      mit einer umfassenderen regionalen Gleichung verbunden. Für den Iran und die Hisbollah
+      geht es nicht nur um den Verlust von Territorium, sondern auch um die Erosion
+      eines Netzwerks verbündeter Kräfte, das die Politik im Nahen Osten seit Jahren
+      prägt. Eine Niederlage würde den politischen Einfluss der Schiiten in der Region
+      nicht beenden, könnte aber den Beginn eines Rückzugs markieren, der das Machtgleichgewicht
+      weit über den Libanon hinaus verschiebt. Subscribe Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Israels Ministerpräsident Benjamin Netanjahu hat die ideologischen
+      und geopolitischen Ziele des aktuellen Krieges gegen die schiitische Achse, einschließlich
+      Iran und Hisbollah, sowie gegen eine aufkommende sunnitische Achse, klar umrissen,
+      was in Teheran und Beirut als Signal einer umfassenderen Konfrontation interpretiert
+      wird, während Israel offiziell mit seinem Bodenangriff im Libanon begonnen hat.
+    paragraph_summary: Der israelische Ministerpräsident Benjamin Netanjahu hat die
+      ideologischen und geopolitischen Ziele des aktuellen Krieges klar umrissen, indem
+      er eine Konfrontation mit radikalen Achsen, einschließlich der schiitischen Achse
+      (Iran, Hisbollah, Irak) und einer aufkommenden radikalen sunnitischen Achse (Türkei),
+      ansprach. Diese Rhetorik wurde in Teheran und Beirut als strategisches Signal
+      für eine umfassendere Auseinandersetzung gegen die schiitische politische Macht
+      in der Region interpretiert, wobei der Iran und die Hisbollah als Hauptgegner
+      der US- und israelischen Hegemonie betrachtet werden. In diesem Kontext hat Israel
+      offiziell den Bodenangriff im Libanon begonnen, während der libanesische Präsident
+      die Armee anordnete, sich aus dem entmilitarisierten Gebiet südlich des Litani
+      zurückzuziehen, was zu einem operativen Vakuum führte und die Hisbollah unter
+      Druck setzte, sich allein gegen Israel zu behaupten.
+    published: '2026-03-03T16:35:29+00:00'
+  - title: 'On the Edge of Invasion and Internal Fracture: Hezbollah’s War Between Two
+      Fronts at the Border and at Home'
+    url: https://ejmagnier.com/2026/03/03/on-the-edge-of-invasion-and-internal-fracture-hezbollahs-war-between-two-fronts-at-the-border-and-at-home/
+    text: 'By Elijah J. Magnier On the Edge of Invasion and Internal Fracture: Hezbollah’s
+      war Between Two Fronts at the Border and at Home By Elijah J. Magnier Israel’s
+      Prime Minister Benjamin Netanyahu has framed the objectives of the current war
+      in explicitly ideological and geopolitical terms, speaking of confronting “the
+      radical axes, which include the Shia (Iran, Hezbollah and Iraq) axis … as well
+      as the radical Sunni axis (Turkey) that is taking shape.” In Tehran and Beirut,
+      this language was interpreted not simply as strategic signalling but as a declaration
+      of a broader confrontation directed at Shia political power in the region. Iran
+      and Hezbollah view themselves, alongside Iraq’s Shia-led forces, as the principal
+      remaining barriers to what they perceive as US and Israeli undisputed hegemony
+      in the Middle East. Within that prism, the war assumes an existential dimension.
+      The Israeli invasion of Lebanon has now begun. Israel officially announced the
+      start of its ground incursion into the south. In a striking parallel development,
+      the Lebanese president ordered the army to stand down and withdraw from the demilitarised
+      area south of the Litani River – an area the government had previously asked Hezbollah
+      to vacate and clear of weapons. The result is politically explosive: Hezbollah
+      is once again left to confront Israel largely alone, while facing mounting internal
+      pressure at home. The withdrawal of the Lebanese Army from more than fifty border
+      positions, including a newly established checkpoint near the frontier, has created
+      an immediate operational vacuum along the southern line. That vacuum has facilitated
+      Israeli ground incursions into Aita al-Shaab, al-Qawzah and Yaroun, as well as
+      the strategic hill of Tel al-Nahhas in Kfarkla. In practical terms, the army’s
+      pullback has removed the only formal state buffer between Israeli forces and Hezbollah-controlled
+      areas, accelerating the pace of Israeli manoeuvres and deepening the perception
+      that the confrontation is shifting from border containment to territorial penetration.
+      The south of Lebanon is now left defenceless and in the hands of the resistance.
+      The confrontation has moved beyond calibrated exchanges and into a structurally
+      different phase. This is no longer a contained border escalation. What is unfolding
+      combines sustained cross-border warfare, a deepening internal power struggle in
+      Lebanon, and a ground operation that could redraw the military and political map
+      of southern Lebanon. Hezbollah’s launch of a new wave of drones and missiles toward
+      northern Israel signals deliberate escalation. Drones indicate reconnaissance
+      and precision targeting; missiles communicate deterrence and resolve. Together,
+      they convey a calculated message: Hezbollah is prepared to widen the theatre rather
+      than confine hostilities to symbolic retaliation. According to Hezbollah, two
+      Merkava tanks were hit while the Israeli forces were advancing, an indication
+      of initial readiness to confront the Israelis in the Lebanese territories. Israel’s
+      response has been direct and heavy. Airstrikes on Beirut are not merely tactical
+      but also political messaging. Targeting the capital signals that Hezbollah’s command
+      structures and infrastructure are considered legitimate objectives even within
+      densely populated urban space. At the same time, Israel ordered the evacuation
+      of 80 villages in southern Lebanon and the Bekaa Valley. Evacuations on that scale
+      rarely precede limited action; they typically foreshadow sustained bombardment
+      or ground manoeuvres. The mobilisation of approximately 110,000 Israeli troops
+      reinforces that assessment. Such a force posture is costly and politically consequential.
+      It suggests preparation not for short cross-border raids but for a sustained deployment
+      inside Lebanese territory, potentially aimed at seizing and holding ground or
+      establishing a deeper buffer zone beyond the Blue Line. Should such an operation
+      unfold, it would alter the strategic balance along the border and open a new,
+      prolonged chapter in the conflict. Yet what makes this moment even more complex
+      is what is happening inside Lebanon. The Lebanese president, prime minister, and
+      cabinet have reportedly agreed to pursue Hezbollah’s disarmament and to consider
+      any member operating outside state authority an outlaw. This is a decisive political
+      shift. For years, the Lebanese state has maintained a delicate ambiguity toward
+      Hezbollah’s armed status, balancing internal realities with regional pressures.
+      A formal move toward disarmament breaks that ambiguity. Even before Hezbollah
+      escalated its missile and drone operations, the Lebanese army had begun detaining
+      dozens of Hezbollah members travelling south. There were also reports of home
+      raids in southern Lebanon. The timing matters. It suggests that the state’s decision
+      was not reactive to Israeli strikes but part of a deliberate attempt to assert
+      control. Orders appear to have moved quickly from the political leadership to
+      the army’s chief of staff, indicating institutional alignment rather than hesitation.
+      This places Hezbollah in an unprecedented strategic bind. Externally, it faces
+      Israel’s military machine, backed by advanced intelligence, air superiority, and
+      now large-scale mobilisation. Internally, it faces a state apparatus signalling
+      that its independent military role will no longer be tolerated. For a movement
+      that defines itself as a “resistance,” losing its arms is not a tactical setback.
+      It is an existential shift. From Hezbollah’s perspective, stopping the fight without
+      a clear, binding ceasefire could be interpreted as weakness. A halt in hostilities
+      without guarantees might embolden domestic opponents. Political factions opposed
+      to Hezbollah have already pressed the Lebanese army to expand arrests, dismantle
+      weapons depots all over the country, and systematically dismantle its military
+      wing. In that scenario, the group could lose both its deterrent power against
+      Israel and its leverage within Lebanon’s political system. Continuing the war,
+      however, carries its own risks. Israeli bombardment of Beirut and the southern
+      regions can devastate infrastructure and erode public support. Civilian displacement
+      and economic collapse may deepen resentment among Lebanese citizens already burdened
+      by years of crisis. This is the core of the dilemma. Hezbollah stands between
+      two greater pressures that pull in opposite directions. If it de-escalates too
+      quickly, it will be disarmed internally. If it escalates further, it risks military
+      defeat or severe destruction from Israel, but also a possibility of surviving
+      and imposing a new rule of engagement that would protect it domestically. In both
+      paths, survival is challenging. The Lebanese state’s position also carries risk.
+      Attempting to disarm Hezbollah during an active confrontation with Israel could
+      fracture national unity. The army is one of the few institutions still viewed
+      as broadly legitimate across communities. If it is perceived as aligning against
+      Hezbollah while Israel bombs Lebanese territory, it may face internal strain.
+      The balance between asserting sovereignty and preserving cohesion is delicate.
+      For Israel, the strategic calculation is equally fraught. A ground incursion could
+      degrade Hezbollah’s military infrastructure in the short term, disrupt command
+      networks and push fighters away from the border. Yet the moment Israeli forces
+      move from punitive raids to sustained territorial control, the balance of risk
+      shifts. Holding ground in southern Lebanon would expose Israeli troops to entrenched
+      guerrilla warfare, roadside explosives, sniper attacks and long-term attrition.
+      History suggests that territorial occupation in Lebanon carries a heavy operational
+      and political price. Even overwhelming firepower and large-scale destruction do
+      not eliminate asymmetric resistance; they often transform it. Flattening villages
+      to alter the topography or create a buffer zone may change the physical landscape,
+      but it does not neutralise the social networks that sustain insurgency. The longer
+      Israeli forces remain on Lebanese soil, the more the conflict risks evolving from
+      a campaign of deterrence into a war of endurance – one that could become costly,
+      protracted and internally divisive within Israel itself. The civilian dimension
+      should not be overlooked. Evacuations of villages, bombardment of urban areas,
+      and troop mobilisations all translate into disrupted lives. Families in southern
+      Lebanon are being displaced. Infrastructure is under strain. Economic activity
+      slows further in a country already struggling. Over 2000 schools in Beirut were
+      made available for families who were forced to evacuate their homes in the south
+      of Lebanon following the Israeli order of evacuation. What distinguishes this
+      moment is not only the intensity of military action but the convergence of military
+      and political fronts. Hezbollah is not fighting solely at the border. It is also
+      confronting a state that appears more willing than before to challenge its armed
+      autonomy. That dual pressure reshapes the stakes. Whether this crisis escalates
+      into a full ground invasion or transitions toward a negotiated ceasefire will
+      depend on several factors: the scale of Israeli objectives, Hezbollah’s threshold
+      for escalation, and the Lebanese state’s resolve in implementing its disarmament
+      decision. Regional actors may also weigh in, but the immediate decisions lie in
+      Beirut and Jerusalem. The coming days will clarify whether this is the prelude
+      to a transformative war or a sharp but contained confrontation. Either way, the
+      landscape in Lebanon has already shifted. Hezbollah is no longer operating in
+      an environment of political tolerance combined with controlled border tension.
+      It now faces scrutiny from within and force from without, at the same time. That
+      dual challenge may define the next chapter of Lebanon’s internal order and its
+      conflict with Israel. For Iran and Hezbollah, this confrontation is not viewed
+      as a limited border war. It is understood as a decisive test of Shia political
+      and military power in the Middle East. Hezbollah represents Iran’s most capable
+      and strategically positioned ally. Its survival under pressure has long served
+      as proof that Tehran’s regional influence can withstand direct confrontation.
+      A decisive defeat in Lebanon would therefore resonate far beyond the southern
+      border. It would signal that this model of deterrence can be broken. From Tehran’s
+      perspective, the stakes are structural. Hezbollah is not simply a partner; it
+      is an organic ally, a forward line of defence, and a symbol of endurance. If it
+      is dismantled, disarmed, or forced into political submission, the psychological
+      and strategic consequences would be profound. It would alter calculations across
+      the region’s capitals, reshaping how both allies and adversaries assess Iran’s
+      reach. The implications extend to Iraq, where the majority of the population is
+      Shia and where Shia political parties and armed factions hold significant power.
+      Many of these groups maintain close ties to Iran. If Hezbollah were to collapse
+      under Israeli and internal Lebanese pressure, comparable forces in Iraq could
+      face intensified scrutiny and growing external pressure. Rival domestic actors
+      might seek to curb their influence within state institutions and the security
+      apparatus. Regional powers could also redirect their focus toward Iraq to reshape
+      the political balance and encourage the emergence of a more pro-Western governing
+      order. In that sense, the battlefield in southern Lebanon is tied to a broader
+      regional equation. For Iran and Hezbollah, the concern is not only territorial
+      loss but the erosion of a network of aligned forces that has shaped Middle Eastern
+      politics for years. A defeat would not end Shia political influence in the region,
+      but it could mark the beginning of a retrenchment that shifts the balance of power
+      well beyond Lebanon. Subscribe Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Hezbollah is facing a dual threat as Israel's Prime Minister
+      Netanyahu frames the current war as a confrontation against Shia political power,
+      which Hezbollah and Iran view as an existential battle against US and Israeli
+      hegemony in the Middle East.
+    paragraph_summary: Elijah J. Magnier discusses the escalating conflict involving
+      Hezbollah, Israel, and the broader geopolitical implications of the war. Israeli
+      Prime Minister Benjamin Netanyahu has framed the conflict as a battle against
+      radical Shia and Sunni axes, which Iran and Hezbollah interpret as a direct challenge
+      to their influence in the region. As Israel begins its ground invasion of Lebanon,
+      the Lebanese president has ordered the army to withdraw from key border positions,
+      leaving Hezbollah to confront Israel largely on its own amidst increasing internal
+      pressure. This withdrawal has created a vacuum that allows Israeli forces to advance
+      more freely into Hezbollah-controlled areas, intensifying the conflict and highlighting
+      the existential stakes for Shia political power in the Middle East.
+    published: '2026-03-03T16:29:57+00:00'
+  - title: 'On the Edge of Invasion and Internal Fracture: Hezbollah’s War Between Two
+      Fronts at the Border and at Home'
+    url: https://ejmagnier.com/2026/03/03/on-the-edge-of-invasion-and-internal-fracture-hezbollahs-war-between-two-fronts-at-the-border-and-at-home/
+    text: 'By Elijah J. Magnier On the Edge of Invasion and Internal Fracture: Hezbollah’s
+      war Between Two Fronts at the Border and at Home By Elijah J. Magnier Israel’s
+      Prime Minister Benjamin Netanyahu has framed the objectives of the current war
+      in explicitly ideological and geopolitical terms, speaking of confronting “the
+      radical axes, which include the Shia (Iran, Hezbollah and Iraq) axis … as well
+      as the radical Sunni axis (Turkey) that is taking shape.” In Tehran and Beirut,
+      this language was interpreted not simply as strategic signalling but as a declaration
+      of a broader confrontation directed at Shia political power in the region. Iran
+      and Hezbollah view themselves, alongside Iraq’s Shia-led forces, as the principal
+      remaining barriers to what they perceive as US and Israeli undisputed hegemony
+      in the Middle East. Within that prism, the war assumes an existential dimension.
+      The Israeli invasion of Lebanon has now begun. Israel officially announced the
+      start of its ground incursion into the south. In a striking parallel development,
+      the Lebanese president ordered the army to stand down and withdraw from the demilitarised
+      area south of the Litani River – an area the government had previously asked Hezbollah
+      to vacate and clear of weapons. The result is politically explosive: Hezbollah
+      is once again left to confront Israel largely alone, while facing mounting internal
+      pressure at home. The withdrawal of the Lebanese Army from more than fifty border
+      positions, including a newly established checkpoint near the frontier, has created
+      an immediate operational vacuum along the southern line. That vacuum has facilitated
+      Israeli ground incursions into Aita al-Shaab, al-Qawzah and Yaroun, as well as
+      the strategic hill of Tel al-Nahhas in Kfarkla. In practical terms, the army’s
+      pullback has removed the only formal state buffer between Israeli forces and Hezbollah-controlled
+      areas, accelerating the pace of Israeli manoeuvres and deepening the perception
+      that the confrontation is shifting from border containment to territorial penetration.
+      The south of Lebanon is now left defenceless and in the hands of the resistance.
+      The confrontation has moved beyond calibrated exchanges and into a structurally
+      different phase. This is no longer a contained border escalation. What is unfolding
+      combines sustained cross-border warfare, a deepening internal power struggle in
+      Lebanon, and a ground operation that could redraw the military and political map
+      of southern Lebanon. Hezbollah’s launch of a new wave of drones and missiles toward
+      northern Israel signals deliberate escalation. Drones indicate reconnaissance
+      and precision targeting; missiles communicate deterrence and resolve. Together,
+      they convey a calculated message: Hezbollah is prepared to widen the theatre rather
+      than confine hostilities to symbolic retaliation. According to Hezbollah, two
+      Merkava tanks were hit while the Israeli forces were advancing, an indication
+      of initial readiness to confront the Israelis in the Lebanese territories. Israel’s
+      response has been direct and heavy. Airstrikes on Beirut are not merely tactical
+      but also political messaging. Targeting the capital signals that Hezbollah’s command
+      structures and infrastructure are considered legitimate objectives even within
+      densely populated urban space. At the same time, Israel ordered the evacuation
+      of 80 villages in southern Lebanon and the Bekaa Valley. Evacuations on that scale
+      rarely precede limited action; they typically foreshadow sustained bombardment
+      or ground manoeuvres. The mobilisation of approximately 110,000 Israeli troops
+      reinforces that assessment. Such a force posture is costly and politically consequential.
+      It suggests preparation not for short cross-border raids but for a sustained deployment
+      inside Lebanese territory, potentially aimed at seizing and holding ground or
+      establishing a deeper buffer zone beyond the Blue Line. Should such an operation
+      unfold, it would alter the strategic balance along the border and open a new,
+      prolonged chapter in the conflict. Yet what makes this moment even more complex
+      is what is happening inside Lebanon. The Lebanese president, prime minister, and
+      cabinet have reportedly agreed to pursue Hezbollah’s disarmament and to consider
+      any member operating outside state authority an outlaw. This is a decisive political
+      shift. For years, the Lebanese state has maintained a delicate ambiguity toward
+      Hezbollah’s armed status, balancing internal realities with regional pressures.
+      A formal move toward disarmament breaks that ambiguity. Even before Hezbollah
+      escalated its missile and drone operations, the Lebanese army had begun detaining
+      dozens of Hezbollah members travelling south. There were also reports of home
+      raids in southern Lebanon. The timing matters. It suggests that the state’s decision
+      was not reactive to Israeli strikes but part of a deliberate attempt to assert
+      control. Orders appear to have moved quickly from the political leadership to
+      the army’s chief of staff, indicating institutional alignment rather than hesitation.
+      This places Hezbollah in an unprecedented strategic bind. Externally, it faces
+      Israel’s military machine, backed by advanced intelligence, air superiority, and
+      now large-scale mobilisation. Internally, it faces a state apparatus signalling
+      that its independent military role will no longer be tolerated. For a movement
+      that defines itself as a “resistance,” losing its arms is not a tactical setback.
+      It is an existential shift. From Hezbollah’s perspective, stopping the fight without
+      a clear, binding ceasefire could be interpreted as weakness. A halt in hostilities
+      without guarantees might embolden domestic opponents. Political factions opposed
+      to Hezbollah have already pressed the Lebanese army to expand arrests, dismantle
+      weapons depots all over the country, and systematically dismantle its military
+      wing. In that scenario, the group could lose both its deterrent power against
+      Israel and its leverage within Lebanon’s political system. Continuing the war,
+      however, carries its own risks. Israeli bombardment of Beirut and the southern
+      regions can devastate infrastructure and erode public support. Civilian displacement
+      and economic collapse may deepen resentment among Lebanese citizens already burdened
+      by years of crisis. This is the core of the dilemma. Hezbollah stands between
+      two greater pressures that pull in opposite directions. If it de-escalates too
+      quickly, it will be disarmed internally. If it escalates further, it risks military
+      defeat or severe destruction from Israel, but also a possibility of surviving
+      and imposing a new rule of engagement that would protect it domestically. In both
+      paths, survival is challenging. The Lebanese state’s position also carries risk.
+      Attempting to disarm Hezbollah during an active confrontation with Israel could
+      fracture national unity. The army is one of the few institutions still viewed
+      as broadly legitimate across communities. If it is perceived as aligning against
+      Hezbollah while Israel bombs Lebanese territory, it may face internal strain.
+      The balance between asserting sovereignty and preserving cohesion is delicate.
+      For Israel, the strategic calculation is equally fraught. A ground incursion could
+      degrade Hezbollah’s military infrastructure in the short term, disrupt command
+      networks and push fighters away from the border. Yet the moment Israeli forces
+      move from punitive raids to sustained territorial control, the balance of risk
+      shifts. Holding ground in southern Lebanon would expose Israeli troops to entrenched
+      guerrilla warfare, roadside explosives, sniper attacks and long-term attrition.
+      History suggests that territorial occupation in Lebanon carries a heavy operational
+      and political price. Even overwhelming firepower and large-scale destruction do
+      not eliminate asymmetric resistance; they often transform it. Flattening villages
+      to alter the topography or create a buffer zone may change the physical landscape,
+      but it does not neutralise the social networks that sustain insurgency. The longer
+      Israeli forces remain on Lebanese soil, the more the conflict risks evolving from
+      a campaign of deterrence into a war of endurance – one that could become costly,
+      protracted and internally divisive within Israel itself. The civilian dimension
+      should not be overlooked. Evacuations of villages, bombardment of urban areas,
+      and troop mobilisations all translate into disrupted lives. Families in southern
+      Lebanon are being displaced. Infrastructure is under strain. Economic activity
+      slows further in a country already struggling. Over 2000 schools in Beirut were
+      made available for families who were forced to evacuate their homes in the south
+      of Lebanon following the Israeli order of evacuation. What distinguishes this
+      moment is not only the intensity of military action but the convergence of military
+      and political fronts. Hezbollah is not fighting solely at the border. It is also
+      confronting a state that appears more willing than before to challenge its armed
+      autonomy. That dual pressure reshapes the stakes. Whether this crisis escalates
+      into a full ground invasion or transitions toward a negotiated ceasefire will
+      depend on several factors: the scale of Israeli objectives, Hezbollah’s threshold
+      for escalation, and the Lebanese state’s resolve in implementing its disarmament
+      decision. Regional actors may also weigh in, but the immediate decisions lie in
+      Beirut and Jerusalem. The coming days will clarify whether this is the prelude
+      to a transformative war or a sharp but contained confrontation. Either way, the
+      landscape in Lebanon has already shifted. Hezbollah is no longer operating in
+      an environment of political tolerance combined with controlled border tension.
+      It now faces scrutiny from within and force from without, at the same time. That
+      dual challenge may define the next chapter of Lebanon’s internal order and its
+      conflict with Israel. For Iran and Hezbollah, this confrontation is not viewed
+      as a limited border war. It is understood as a decisive test of Shia political
+      and military power in the Middle East. Hezbollah represents Iran’s most capable
+      and strategically positioned ally. Its survival under pressure has long served
+      as proof that Tehran’s regional influence can withstand direct confrontation.
+      A decisive defeat in Lebanon would therefore resonate far beyond the southern
+      border. It would signal that this model of deterrence can be broken. From Tehran’s
+      perspective, the stakes are structural. Hezbollah is not simply a partner; it
+      is an organic ally, a forward line of defence, and a symbol of endurance. If it
+      is dismantled, disarmed, or forced into political submission, the psychological
+      and strategic consequences would be profound. It would alter calculations across
+      the region’s capitals, reshaping how both allies and adversaries assess Iran’s
+      reach. The implications extend to Iraq, where the majority of the population is
+      Shia and where Shia political parties and armed factions hold significant power.
+      Many of these groups maintain close ties to Iran. If Hezbollah were to collapse
+      under Israeli and internal Lebanese pressure, comparable forces in Iraq could
+      face intensified scrutiny and growing external pressure. Rival domestic actors
+      might seek to curb their influence within state institutions and the security
+      apparatus. Regional powers could also redirect their focus toward Iraq to reshape
+      the political balance and encourage the emergence of a more pro-Western governing
+      order. In that sense, the battlefield in southern Lebanon is tied to a broader
+      regional equation. For Iran and Hezbollah, the concern is not only territorial
+      loss but the erosion of a network of aligned forces that has shaped Middle Eastern
+      politics for years. A defeat would not end Shia political influence in the region,
+      but it could mark the beginning of a retrenchment that shifts the balance of power
+      well beyond Lebanon. Subscribe Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Hezbollah is facing a dual threat as Israel's Prime Minister
+      Netanyahu frames the current war as a confrontation against Shia political power,
+      which Hezbollah and Iran view as an existential battle against US and Israeli
+      hegemony in the Middle East.
+    paragraph_summary: Elijah J. Magnier discusses the escalating conflict involving
+      Hezbollah, Israel, and the broader geopolitical implications of the war. Israeli
+      Prime Minister Benjamin Netanyahu has framed the conflict as a battle against
+      radical Shia and Sunni axes, which Iran and Hezbollah interpret as a direct challenge
+      to their influence in the region. As Israel begins its ground invasion of Lebanon,
+      the Lebanese president has ordered the army to withdraw from key border positions,
+      leaving Hezbollah to confront Israel largely on its own amidst increasing internal
+      pressure. This withdrawal has created a vacuum that allows Israeli forces to advance
+      more freely into Hezbollah-controlled areas, intensifying the conflict and highlighting
+      the existential stakes for Shia political power in the Middle East.
+    published: '2026-03-03T16:29:57+00:00'
+  - title: 'Von Teheran nach Beirut: Khameneis Tod schürt die unaufhaltsame Eskalation
+      im Iran und bald auch im Libanon'
+    url: https://ejmagnier.com/2026/03/02/von-teheran-nach-beirut-khameneis-tod-schurt-die-unaufhaltsame-eskalation-im-iran-und-bald-auch-im-libanon/
+    text: 'Von Elijah J. Magnier Die erste Frage unmittelbar nach dem Attentat lautete:
+      Wer hat das Sagen, und funktioniert der Iran unter Beschuss noch als Staat? In
+      der iranischen Verfassungsstruktur wird der Oberste Führer Sayyed Ali Khamenei
+      vorübergehend durch einen Interimsführungsmechanismus ersetzt, während die Expertenversammlung
+      einen Nachfolger auswählt. In der aktuellen Krise deuten Berichte darauf hin,
+      dass ein dreiköpfiger Interimsrat die Aufgaben des Obersten Führers übernimmt,
+      während der Nachfolgeprozess beginnt. Die grundlegendere Antwort lautet jedoch,
+      dass der Iran nicht von einem einzigen Mann regiert wird, wie Außenstehende manchmal
+      glauben. Sayyed Khamenei war zwar das Zentrum der Macht, aber die Macht ist auf
+      Institutionen, Sicherheitsnetzwerke und die Autorität der Geistlichen verteilt.
+      Genau diese Verteilung ist der Grund, warum der Staat auch nach einem katastrophalen
+      Schlag gegen seine höchste Persönlichkeit weiter funktionieren kann. Die Übergangsregelung
+      mag die formale Rolle übernehmen, aber die eigentliche Kontinuität kommt vom nationalen
+      Sicherheitsapparat, der IRGC und der Armee sowie der Bürokratie, die über Jahrzehnte
+      hinweg aufgebaut wurde, um Druck, Sanktionen, verdeckte Kriege und nun auch offene
+      Kriege zu überstehen. Sayyed Khameneis Weigerung, sein Haus zu verlassen, das
+      auch als sein Büro diente, ist zu einem der prägenden Bilder dieses Moments geworden.
+      Er war sich des möglichen Krieges zwischen Israel und den USA bewusst und hat
+      sich und seine Familienmitglieder dennoch nicht in Sicherheit gebracht. Für seine
+      Millionen Anhänger wird diese Entscheidung als Standhaftigkeit interpretiert:
+      Ein Führer, der dort bleibt, wo Führung stattfinden soll, und sich weigert, als
+      flüchtig zu gelten. Für seine Feinde war es eine Gelegenheit: ein vorhersehbarer
+      Aufenthaltsort, eine bekannte Routine und die Chance, die Ermordung zu einer Strategie
+      zu machen. Aber auch hier ist der entscheidende Punkt nicht die Symbolik. Es geht
+      darum, dass die iranische Führung die Möglichkeit einer Ermordung erkannte und
+      die Sicherheitsbehörden entsprechend handelten. Sayyed Khamenei war nicht nur
+      ein Staatsoberhaupt. Er war ein Vorbild, ein Marja’ al-Taklid. Diese religiöse
+      und symbolische Stellung verändert die Wahrnehmung seiner Ermordung. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Nach dem Attentat auf den Obersten Führer Sayyed Ali Khamenei
+      wird der Iran vorübergehend von einem dreiköpfigen Interimsrat geleitet, was zeigt,
+      dass die Macht im Land nicht nur bei einer Person liegt, sondern auf verschiedene
+      Institutionen und Netzwerke verteilt ist, die es dem Staat ermöglichen, auch in
+      Krisenzeiten funktionsfähig zu bleiben.
+    paragraph_summary: Nach dem Attentat auf den Obersten Führer Sayyed Ali Khamenei
+      stellt sich die Frage, wie der Iran weiterhin als Staat funktionieren kann. Während
+      Khamenei vorübergehend durch einen dreiköpfigen Interimsrat ersetzt wird, zeigt
+      sich, dass die iranische Machtstruktur nicht auf einer einzelnen Person basiert,
+      sondern auf einem Netzwerk von Institutionen und Sicherheitskräften, die den Staat
+      auch in Krisenzeiten stabil halten. Khameneis Weigerung, sich in Sicherheit zu
+      bringen, wird von seinen Anhängern als Zeichen der Standhaftigkeit gedeutet, während
+      seine Feinde die Situation als Gelegenheit sehen, ihn zu gefährden. Die wahre
+      Stärke des Iran liegt jedoch in der Kontinuität seiner nationalen Sicherheitsstrukturen,
+      die darauf ausgelegt sind, Druck und Konflikte zu überstehen.
+    published: '2026-03-02T20:30:22+00:00'
+  - title: 'Von Teheran nach Beirut: Khameneis Tod schürt die unaufhaltsame Eskalation
+      im Iran und bald auch im Libanon'
+    url: https://ejmagnier.com/2026/03/02/von-teheran-nach-beirut-khameneis-tod-schurt-die-unaufhaltsame-eskalation-im-iran-und-bald-auch-im-libanon/
+    text: 'Von Elijah J. Magnier Die erste Frage unmittelbar nach dem Attentat lautete:
+      Wer hat das Sagen, und funktioniert der Iran unter Beschuss noch als Staat? In
+      der iranischen Verfassungsstruktur wird der Oberste Führer Sayyed Ali Khamenei
+      vorübergehend durch einen Interimsführungsmechanismus ersetzt, während die Expertenversammlung
+      einen Nachfolger auswählt. In der aktuellen Krise deuten Berichte darauf hin,
+      dass ein dreiköpfiger Interimsrat die Aufgaben des Obersten Führers übernimmt,
+      während der Nachfolgeprozess beginnt. Die grundlegendere Antwort lautet jedoch,
+      dass der Iran nicht von einem einzigen Mann regiert wird, wie Außenstehende manchmal
+      glauben. Sayyed Khamenei war zwar das Zentrum der Macht, aber die Macht ist auf
+      Institutionen, Sicherheitsnetzwerke und die Autorität der Geistlichen verteilt.
+      Genau diese Verteilung ist der Grund, warum der Staat auch nach einem katastrophalen
+      Schlag gegen seine höchste Persönlichkeit weiter funktionieren kann. Die Übergangsregelung
+      mag die formale Rolle übernehmen, aber die eigentliche Kontinuität kommt vom nationalen
+      Sicherheitsapparat, der IRGC und der Armee sowie der Bürokratie, die über Jahrzehnte
+      hinweg aufgebaut wurde, um Druck, Sanktionen, verdeckte Kriege und nun auch offene
+      Kriege zu überstehen. Sayyed Khameneis Weigerung, sein Haus zu verlassen, das
+      auch als sein Büro diente, ist zu einem der prägenden Bilder dieses Moments geworden.
+      Er war sich des möglichen Krieges zwischen Israel und den USA bewusst und hat
+      sich und seine Familienmitglieder dennoch nicht in Sicherheit gebracht. Für seine
+      Millionen Anhänger wird diese Entscheidung als Standhaftigkeit interpretiert:
+      Ein Führer, der dort bleibt, wo Führung stattfinden soll, und sich weigert, als
+      flüchtig zu gelten. Für seine Feinde war es eine Gelegenheit: ein vorhersehbarer
+      Aufenthaltsort, eine bekannte Routine und die Chance, die Ermordung zu einer Strategie
+      zu machen. Aber auch hier ist der entscheidende Punkt nicht die Symbolik. Es geht
+      darum, dass die iranische Führung die Möglichkeit einer Ermordung erkannte und
+      die Sicherheitsbehörden entsprechend handelten. Sayyed Khamenei war nicht nur
+      ein Staatsoberhaupt. Er war ein Vorbild, ein Marja’ al-Taklid. Diese religiöse
+      und symbolische Stellung verändert die Wahrnehmung seiner Ermordung. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Nach dem Attentat auf den Obersten Führer Sayyed Ali Khamenei
+      wird der Iran vorübergehend von einem dreiköpfigen Interimsrat geleitet, was zeigt,
+      dass die Macht im Land nicht nur bei einer Person liegt, sondern auf verschiedene
+      Institutionen und Netzwerke verteilt ist, die es dem Staat ermöglichen, auch in
+      Krisenzeiten funktionsfähig zu bleiben.
+    paragraph_summary: Nach dem Attentat auf den Obersten Führer Sayyed Ali Khamenei
+      stellt sich die Frage, wie der Iran weiterhin als Staat funktionieren kann. Während
+      Khamenei vorübergehend durch einen dreiköpfigen Interimsrat ersetzt wird, zeigt
+      sich, dass die iranische Machtstruktur nicht auf einer einzelnen Person basiert,
+      sondern auf einem Netzwerk von Institutionen und Sicherheitskräften, die den Staat
+      auch in Krisenzeiten stabil halten. Khameneis Weigerung, sich in Sicherheit zu
+      bringen, wird von seinen Anhängern als Zeichen der Standhaftigkeit gedeutet, während
+      seine Feinde die Situation als Gelegenheit sehen, ihn zu gefährden. Die wahre
+      Stärke des Iran liegt jedoch in der Kontinuität seiner nationalen Sicherheitsstrukturen,
+      die darauf ausgelegt sind, Druck und Konflikte zu überstehen.
+    published: '2026-03-02T20:30:22+00:00'
+  - title: 'De Téhéran à Beyrouth : la mort de Khamenei alimente l’escalade inarrêtable
+      de l’Iran et bientôt du Liban'
+    url: https://ejmagnier.com/2026/03/02/de-teheran-a-beyrouth-la-mort-de-khamenei-alimente-lescalade-inarretable-de-liran-et-bientot-du-liban/
+    text: 'Par Elijah J. Magnier La première question, immédiatement après l’assassinat,
+      concernait le commandement : qui est aux commandes et l’Iran fonctionne-t-il toujours
+      comme un État sous les bombardements ? Dans la structure constitutionnelle iranienne,
+      le Guide suprême, Sayyed Ali Khamenei, est remplacé temporairement par un mécanisme
+      de direction intérimaire tandis que l’Assemblée des experts entame le processus
+      de sélection d’un successeur. Dans la crise actuelle, des informations indiquent
+      qu’un conseil intérimaire composé de trois membres assume les fonctions du Guide
+      suprême pendant que la procédure de succession débute. Mais la réponse plus profonde
+      est que l’Iran n’est pas dirigé par un seul homme comme certains observateurs
+      extérieurs l’imaginent parfois. Sayyed Khamenei était le centre de gravité, certes,
+      mais le pouvoir est réparti entre des institutions, des réseaux sécuritaires et
+      l’autorité cléricale. C’est précisément cette distribution qui permet à l’État
+      de continuer à fonctionner même après une frappe catastrophique visant sa plus
+      haute figure. Le dispositif intérimaire peut assurer le rôle formel, mais la véritable
+      continuité provient de l’appareil de sécurité nationale, des Gardiens de la révolution
+      (IRGC), de l’armée et d’une bureaucratie construite pendant des décennies pour
+      résister aux pressions, aux sanctions, aux guerres clandestines et désormais à
+      une guerre ouverte. Le refus de Sayyed Khamenei de quitter sa maison, qui faisait
+      également office de bureau, est devenu l’une des images marquantes de ce moment.
+      Il était conscient du risque d’une guerre israélo-américaine et n’a pourtant pas
+      déplacé sa famille. Pour ses dizaines de millions de partisans, ce choix symbolise
+      la fermeté : un dirigeant qui reste à son poste, refusant d’apparaître comme fuyant.
+      Pour ses ennemis, c’était une opportunité : un lieu prévisible, une routine connue,
+      une occasion de transformer l’assassinat en stratégie. Mais l’essentiel n’est
+      pas symbolique. Les dirigeants iraniens savaient que l’assassinat était possible
+      et l’État sécuritaire avait agi en conséquence. Sayyed Khamenei n’était pas seulement
+      un chef d’État. Il était une source d’émulation, un Marja’ al-Taklid. Cette dimension
+      religieuse change la manière dont l’assassinat est perçu. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article souligne que, suite à l'assassinat du Guide suprême
+      iranien Sayyed Ali Khamenei, le pouvoir en Iran ne repose pas sur une seule personne,
+      mais est partagé entre diverses institutions et réseaux, permettant à l'État de
+      fonctionner malgré la crise.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la question de la continuité
+      du pouvoir en Iran suite à l'assassinat du Guide suprême, Sayyed Ali Khamenei.
+      Bien que Khamenei ait été le centre de gravité du régime, le pouvoir en Iran est
+      en réalité réparti entre diverses institutions, réseaux sécuritaires et l'autorité
+      cléricale, permettant à l'État de fonctionner même après la perte de sa figure
+      la plus élevée. Un conseil intérimaire de trois membres a été mis en place pour
+      assumer temporairement les fonctions de Khamenei pendant que l'Assemblée des experts
+      entame le processus de succession. La résilience de l'Iran face aux menaces extérieures
+      est renforcée par son appareil de sécurité nationale, les Gardiens de la révolution
+      et une bureaucratie solide. Le refus de Khamenei de quitter son domicile, malgré
+      les dangers, symbolise sa détermination et sa volonté de ne pas apparaître comme
+      un dirigeant fuyant, tout en offrant à ses ennemis une opportunité tactique.
+    published: '2026-03-02T20:06:41+00:00'
+  - title: 'De Téhéran à Beyrouth : la mort de Khamenei alimente l’escalade inarrêtable
+      de l’Iran et bientôt du Liban'
+    url: https://ejmagnier.com/2026/03/02/de-teheran-a-beyrouth-la-mort-de-khamenei-alimente-lescalade-inarretable-de-liran-et-bientot-du-liban/
+    text: 'Par Elijah J. Magnier La première question, immédiatement après l’assassinat,
+      concernait le commandement : qui est aux commandes et l’Iran fonctionne-t-il toujours
+      comme un État sous les bombardements ? Dans la structure constitutionnelle iranienne,
+      le Guide suprême, Sayyed Ali Khamenei, est remplacé temporairement par un mécanisme
+      de direction intérimaire tandis que l’Assemblée des experts entame le processus
+      de sélection d’un successeur. Dans la crise actuelle, des informations indiquent
+      qu’un conseil intérimaire composé de trois membres assume les fonctions du Guide
+      suprême pendant que la procédure de succession débute. Mais la réponse plus profonde
+      est que l’Iran n’est pas dirigé par un seul homme comme certains observateurs
+      extérieurs l’imaginent parfois. Sayyed Khamenei était le centre de gravité, certes,
+      mais le pouvoir est réparti entre des institutions, des réseaux sécuritaires et
+      l’autorité cléricale. C’est précisément cette distribution qui permet à l’État
+      de continuer à fonctionner même après une frappe catastrophique visant sa plus
+      haute figure. Le dispositif intérimaire peut assurer le rôle formel, mais la véritable
+      continuité provient de l’appareil de sécurité nationale, des Gardiens de la révolution
+      (IRGC), de l’armée et d’une bureaucratie construite pendant des décennies pour
+      résister aux pressions, aux sanctions, aux guerres clandestines et désormais à
+      une guerre ouverte. Le refus de Sayyed Khamenei de quitter sa maison, qui faisait
+      également office de bureau, est devenu l’une des images marquantes de ce moment.
+      Il était conscient du risque d’une guerre israélo-américaine et n’a pourtant pas
+      déplacé sa famille. Pour ses dizaines de millions de partisans, ce choix symbolise
+      la fermeté : un dirigeant qui reste à son poste, refusant d’apparaître comme fuyant.
+      Pour ses ennemis, c’était une opportunité : un lieu prévisible, une routine connue,
+      une occasion de transformer l’assassinat en stratégie. Mais l’essentiel n’est
+      pas symbolique. Les dirigeants iraniens savaient que l’assassinat était possible
+      et l’État sécuritaire avait agi en conséquence. Sayyed Khamenei n’était pas seulement
+      un chef d’État. Il était une source d’émulation, un Marja’ al-Taklid. Cette dimension
+      religieuse change la manière dont l’assassinat est perçu. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article souligne que, suite à l'assassinat du Guide suprême
+      iranien Sayyed Ali Khamenei, le pouvoir en Iran ne repose pas sur une seule personne,
+      mais est partagé entre diverses institutions et réseaux, permettant à l'État de
+      fonctionner malgré la crise.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la question de la continuité
+      du pouvoir en Iran suite à l'assassinat du Guide suprême, Sayyed Ali Khamenei.
+      Bien que Khamenei ait été le centre de gravité du régime, le pouvoir en Iran est
+      en réalité réparti entre diverses institutions, réseaux sécuritaires et l'autorité
+      cléricale, permettant à l'État de fonctionner même après la perte de sa figure
+      la plus élevée. Un conseil intérimaire de trois membres a été mis en place pour
+      assumer temporairement les fonctions de Khamenei pendant que l'Assemblée des experts
+      entame le processus de succession. La résilience de l'Iran face aux menaces extérieures
+      est renforcée par son appareil de sécurité nationale, les Gardiens de la révolution
+      et une bureaucratie solide. Le refus de Khamenei de quitter son domicile, malgré
+      les dangers, symbolise sa détermination et sa volonté de ne pas apparaître comme
+      un dirigeant fuyant, tout en offrant à ses ennemis une opportunité tactique.
+    published: '2026-03-02T20:06:41+00:00'
+  - title: 'From Tehran to Beirut: Khamenei’s Death Fuels Iran and soon Lebanon’s Unstoppable
+      Escalation'
+    url: https://ejmagnier.com/2026/03/02/from-tehran-to-beirut-khameneis-death-fuels-iran-and-soon-lebanons-unstoppable-escalation/
+    text: 'By Elijah J. Magnier The first question, immediately after the assassination,
+      was command: who is in charge, and does Iran still function as a state under bombardment?
+      In Iran’s constitutional structure, the Supreme Leader Sayyed Ali Khamenei is
+      replaced, temporarily, by an interim leadership mechanism while the Assembly of
+      Experts moves toward selecting a successor. In the current crisis, reporting indicates
+      a three-member interim council stepping into the Supreme Leader’s duties while
+      the succession process begins. But the deeper answer is that Iran is not run by
+      a single man in the way outsiders sometimes imagine. Sayyed Khamenei was the centre
+      of gravity, yes, but power is distributed through institutions, security networks,
+      and clerical authority. That distribution is precisely why the state can keep
+      operating even after a catastrophic strike on its highest figure. The interim
+      arrangement may handle the formal role, but the real continuity comes from the
+      National security apparatus, the IRGC and the army and the bureaucracy that has
+      been built for decades to withstand pressure, sanctions, covert war, and now open
+      war. Sayyed Khamenei’s refusal to leave his house, which also functioned as his
+      office, has become one of the defining images of this moment. He was aware of
+      the potential Israeli–US war, and still did not relocate himself and his family
+      members. For his tens of millions of followers, this choice is read as steadfastness:
+      a leader remaining where leadership is supposed to happen, refusing to be seen
+      as fleeing. For his enemies, it was an opportunity: a predictable location, a
+      known routine, and a chance to turn assassination into strategy. But even here,
+      the key point is not symbolism. It is that Iran’s leadership understood the assassination
+      was possible, and the security state acted accordingly. Sayyed Khamenei was not
+      only a head of state. He was a source of emulation, a Marja’ al-Taklid. That religious
+      and symbolic standing changes how assassination is received. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Following the assassination of Iran's Supreme Leader Sayyed
+      Ali Khamenei, an interim council has taken over his duties, highlighting that
+      Iran's governance is not solely dependent on one individual, as power is distributed
+      among various institutions and security networks that allow the state to continue
+      functioning.
+    paragraph_summary: The article by Elijah J. Magnier discusses the implications of
+      the assassination of Iran's Supreme Leader Sayyed Ali Khamenei and the operational
+      continuity of the Iranian state in his absence. Following the assassination, a
+      three-member interim council has assumed Khamenei's responsibilities while the
+      Assembly of Experts prepares for a succession. However, the article emphasizes
+      that Iran's governance is not solely dependent on a single leader; rather, power
+      is distributed among various institutions, security networks, and clerical authorities,
+      enabling the state to function despite the loss of its highest figure. Khamenei's
+      decision to remain in his residence during this crisis is portrayed as a symbol
+      of steadfastness to his supporters, while also presenting a tactical opportunity
+      for adversaries. Ultimately, the piece highlights the resilience of Iran's leadership
+      and security apparatus in the face of threats, illustrating that Khamenei's role
+      extended beyond politics to encompass religious and symbolic significance.
+    published: '2026-03-02T20:01:32+00:00'
+  - title: 'From Tehran to Beirut: Khamenei’s Death Fuels Iran and soon Lebanon’s Unstoppable
+      Escalation'
+    url: https://ejmagnier.com/2026/03/02/from-tehran-to-beirut-khameneis-death-fuels-iran-and-soon-lebanons-unstoppable-escalation/
+    text: 'By Elijah J. Magnier The first question, immediately after the assassination,
+      was command: who is in charge, and does Iran still function as a state under bombardment?
+      In Iran’s constitutional structure, the Supreme Leader Sayyed Ali Khamenei is
+      replaced, temporarily, by an interim leadership mechanism while the Assembly of
+      Experts moves toward selecting a successor. In the current crisis, reporting indicates
+      a three-member interim council stepping into the Supreme Leader’s duties while
+      the succession process begins. But the deeper answer is that Iran is not run by
+      a single man in the way outsiders sometimes imagine. Sayyed Khamenei was the centre
+      of gravity, yes, but power is distributed through institutions, security networks,
+      and clerical authority. That distribution is precisely why the state can keep
+      operating even after a catastrophic strike on its highest figure. The interim
+      arrangement may handle the formal role, but the real continuity comes from the
+      National security apparatus, the IRGC and the army and the bureaucracy that has
+      been built for decades to withstand pressure, sanctions, covert war, and now open
+      war. Sayyed Khamenei’s refusal to leave his house, which also functioned as his
+      office, has become one of the defining images of this moment. He was aware of
+      the potential Israeli–US war, and still did not relocate himself and his family
+      members. For his tens of millions of followers, this choice is read as steadfastness:
+      a leader remaining where leadership is supposed to happen, refusing to be seen
+      as fleeing. For his enemies, it was an opportunity: a predictable location, a
+      known routine, and a chance to turn assassination into strategy. But even here,
+      the key point is not symbolism. It is that Iran’s leadership understood the assassination
+      was possible, and the security state acted accordingly. Sayyed Khamenei was not
+      only a head of state. He was a source of emulation, a Marja’ al-Taklid. That religious
+      and symbolic standing changes how assassination is received. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Following the assassination of Iran's Supreme Leader Sayyed
+      Ali Khamenei, an interim council has taken over his duties, highlighting that
+      Iran's governance is not solely dependent on one individual, as power is distributed
+      among various institutions and security networks that allow the state to continue
+      functioning.
+    paragraph_summary: The article by Elijah J. Magnier discusses the implications of
+      the assassination of Iran's Supreme Leader Sayyed Ali Khamenei and the operational
+      continuity of the Iranian state in his absence. Following the assassination, a
+      three-member interim council has assumed Khamenei's responsibilities while the
+      Assembly of Experts prepares for a succession. However, the article emphasizes
+      that Iran's governance is not solely dependent on a single leader; rather, power
+      is distributed among various institutions, security networks, and clerical authorities,
+      enabling the state to function despite the loss of its highest figure. Khamenei's
+      decision to remain in his residence during this crisis is portrayed as a symbol
+      of steadfastness to his supporters, while also presenting a tactical opportunity
+      for adversaries. Ultimately, the piece highlights the resilience of Iran's leadership
+      and security apparatus in the face of threats, illustrating that Khamenei's role
+      extended beyond politics to encompass religious and symbolic significance.
+    published: '2026-03-02T20:01:32+00:00'
+  - title: Regime Change, Missile Destruction and an Existential War
+    url: https://ejmagnier.com/2026/02/28/regime-change-missile-destruction-and-an-existential-war/
+    text: By Elijah J. Magnier – When a military campaign openly declares regime change
+      as its objective, the nature of the conflict transforms immediately. It ceases
+      to be about deterrence or limited retaliation and becomes a confrontation over
+      political survival, strategic posture and regional order. That is the moment the
+      conflict shifts from tactical to existential. On February 28, 2026, coordinated
+      strikes by Israeli forces, with U.S. military participation, hit multiple Iranian
+      cities, including Tehran, Qom, Isfahan, Kermanshah and Karaj. Explosions in major
+      urban centers confirmed the opening of direct and large-scale military confrontation
+      between Washington, Tel Aviv and Tehran. President Donald Trump announced the
+      beginning of what he described as a “major combat operation in Iran,” stating
+      his intention to destroy “the threat from the cruel Iranian regime.” He also emphasized
+      that targeting Iran’s missile program was central to U.S. strategy. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses the escalation of military conflict
+      between the U.S., Israel, and Iran, marked by coordinated strikes on Iranian cities
+      and President Trump's declaration of a major combat operation aimed at regime
+      change and dismantling Iran's missile program.
+    paragraph_summary: The article by Elijah J. Magnier discusses the significant shift
+      in military conflict dynamics when a campaign openly aims for regime change, transforming
+      the nature of the conflict into one of existential stakes. On February 28, 2026,
+      a coordinated military operation by Israeli forces, supported by the U.S., targeted
+      multiple Iranian cities, marking a direct confrontation between Washington, Tel
+      Aviv, and Tehran. President Donald Trump announced the commencement of a "major
+      combat operation in Iran," focusing on dismantling the Iranian regime and its
+      missile program, thereby escalating tensions in the region.
+    published: '2026-02-28T08:58:40+00:00'
+  - title: Regime Change, Missile Destruction and an Existential War
+    url: https://ejmagnier.com/2026/02/28/regime-change-missile-destruction-and-an-existential-war/
+    text: By Elijah J. Magnier – When a military campaign openly declares regime change
+      as its objective, the nature of the conflict transforms immediately. It ceases
+      to be about deterrence or limited retaliation and becomes a confrontation over
+      political survival, strategic posture and regional order. That is the moment the
+      conflict shifts from tactical to existential. On February 28, 2026, coordinated
+      strikes by Israeli forces, with U.S. military participation, hit multiple Iranian
+      cities, including Tehran, Qom, Isfahan, Kermanshah and Karaj. Explosions in major
+      urban centers confirmed the opening of direct and large-scale military confrontation
+      between Washington, Tel Aviv and Tehran. President Donald Trump announced the
+      beginning of what he described as a “major combat operation in Iran,” stating
+      his intention to destroy “the threat from the cruel Iranian regime.” He also emphasized
+      that targeting Iran’s missile program was central to U.S. strategy. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses the escalation of military conflict
+      between the U.S., Israel, and Iran, marked by coordinated strikes on Iranian cities
+      and President Trump's declaration of a major combat operation aimed at regime
+      change and dismantling Iran's missile program.
+    paragraph_summary: The article by Elijah J. Magnier discusses the significant shift
+      in military conflict dynamics when a campaign openly aims for regime change, transforming
+      the nature of the conflict into one of existential stakes. On February 28, 2026,
+      a coordinated military operation by Israeli forces, supported by the U.S., targeted
+      multiple Iranian cities, marking a direct confrontation between Washington, Tel
+      Aviv, and Tehran. President Donald Trump announced the commencement of a "major
+      combat operation in Iran," focusing on dismantling the Iranian regime and its
+      missile program, thereby escalating tensions in the region.
+    published: '2026-02-28T08:58:40+00:00'
+  - title: Changement de régime, destruction des missiles et guerre existentielle
+    url: https://ejmagnier.com/2026/02/28/changement-de-regime-destruction-des-missiles-et-guerre-existentielle/
+    text: Par Elijah J. Magnier – Lorsqu’une campagne militaire déclare ouvertement
+      que son objectif est un changement de régime, la nature du conflit se transforme
+      immédiatement. Il ne s’agit plus de dissuasion ni de représailles limitées, mais
+      d’une confrontation portant sur la survie politique, la posture stratégique et
+      l’ordre régional. C’est à ce moment précis que le conflit passe du tactique à
+      l’existentiel. Le 28 février 2026, des frappes coordonnées menées par les forces
+      israéliennes, avec la participation militaire des États-Unis, ont visé plusieurs
+      villes iraniennes, notamment Téhéran, Qom, Ispahan, Kermanshah et Karaj. Les explosions
+      dans les grands centres urbains ont confirmé l’ouverture d’une confrontation militaire
+      directe et de grande ampleur entre Washington, Tel-Aviv et Téhéran. Le président
+      Donald Trump a annoncé le lancement de ce qu’il a qualifié de « grande opération
+      de combat en Iran », affirmant sa volonté de détruire « la menace du régime iranien
+      cruel ». Il a également souligné que le ciblage du programme balistique iranien
+      constituait un élément central de la stratégie américaine. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'article décrit comment une campagne militaire visant un
+      changement de régime transforme le conflit en une confrontation existentielle,
+      illustrée par les frappes israélo-américaines sur des villes iraniennes en février
+      2026, marquant une escalade significative des tensions entre Washington, Tel-Aviv
+      et Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit comment une campagne militaire
+      visant un changement de régime transforme un conflit en une confrontation existentielle,
+      où la survie politique et l'ordre régional sont en jeu. Le 28 février 2026, des
+      frappes coordonnées des forces israéliennes, soutenues par les États-Unis, ont
+      ciblé plusieurs villes iraniennes, marquant le début d'une confrontation militaire
+      directe entre Washington, Tel-Aviv et Téhéran. Le président Donald Trump a qualifié
+      cette opération de « grande opération de combat en Iran », soulignant l'objectif
+      de détruire le régime iranien et de cibler son programme balistique comme élément
+      central de la stratégie américaine.
+    published: '2026-02-28T08:56:04+00:00'
+  - title: Changement de régime, destruction des missiles et guerre existentielle
+    url: https://ejmagnier.com/2026/02/28/changement-de-regime-destruction-des-missiles-et-guerre-existentielle/
+    text: Par Elijah J. Magnier – Lorsqu’une campagne militaire déclare ouvertement
+      que son objectif est un changement de régime, la nature du conflit se transforme
+      immédiatement. Il ne s’agit plus de dissuasion ni de représailles limitées, mais
+      d’une confrontation portant sur la survie politique, la posture stratégique et
+      l’ordre régional. C’est à ce moment précis que le conflit passe du tactique à
+      l’existentiel. Le 28 février 2026, des frappes coordonnées menées par les forces
+      israéliennes, avec la participation militaire des États-Unis, ont visé plusieurs
+      villes iraniennes, notamment Téhéran, Qom, Ispahan, Kermanshah et Karaj. Les explosions
+      dans les grands centres urbains ont confirmé l’ouverture d’une confrontation militaire
+      directe et de grande ampleur entre Washington, Tel-Aviv et Téhéran. Le président
+      Donald Trump a annoncé le lancement de ce qu’il a qualifié de « grande opération
+      de combat en Iran », affirmant sa volonté de détruire « la menace du régime iranien
+      cruel ». Il a également souligné que le ciblage du programme balistique iranien
+      constituait un élément central de la stratégie américaine. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'article décrit comment une campagne militaire visant un
+      changement de régime transforme le conflit en une confrontation existentielle,
+      illustrée par les frappes israélo-américaines sur des villes iraniennes en février
+      2026, marquant une escalade significative des tensions entre Washington, Tel-Aviv
+      et Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit comment une campagne militaire
+      visant un changement de régime transforme un conflit en une confrontation existentielle,
+      où la survie politique et l'ordre régional sont en jeu. Le 28 février 2026, des
+      frappes coordonnées des forces israéliennes, soutenues par les États-Unis, ont
+      ciblé plusieurs villes iraniennes, marquant le début d'une confrontation militaire
+      directe entre Washington, Tel-Aviv et Téhéran. Le président Donald Trump a qualifié
+      cette opération de « grande opération de combat en Iran », soulignant l'objectif
+      de détruire le régime iranien et de cibler son programme balistique comme élément
+      central de la stratégie américaine.
+    published: '2026-02-28T08:56:04+00:00'
+  - title: 'From Escalation to Backchannels: A Recurring Pattern in US-Iran Tensions'
+    url: https://ejmagnier.com/2026/02/25/from-escalation-to-backchannels-a-recurring-pattern-in-us-iran-tensions/
+    text: By Elijah J. Magnier Only weeks ago, the regional atmosphere was highly volatile.
+      Military repositioning, intensified rhetoric, and reports indicating that approximately
+      150 US aircraft had been moved closer to Iran’s operational range suggested an
+      increasing likelihood of open confrontation. The prospect of coordinated action
+      involving Washington and Israel was openly discussed as a near-term possibility.
+      Currently, the probability of open conflict has decreased significantly, although
+      the possibility of war remains. The underlying distrust between the parties remains
+      unchanged; however, the activation of backchannels and the reassertion of deterrence
+      boundaries have altered the dynamics. This situation resembles previous cycles
+      of US-Iran brinkmanship characterized by public escalation followed by discreet
+      diplomatic signaling that prevents escalation into full-scale war. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Recent tensions between the US and Iran have eased, with a
+      decreased likelihood of open conflict due to backchannel communications and established
+      deterrence boundaries, despite ongoing distrust and the potential for future escalation.
+    paragraph_summary: The article by Elijah J. Magnier discusses the recent shift in
+      the regional atmosphere regarding US-Iran tensions, noting that while military
+      repositioning and heightened rhetoric had previously suggested an imminent confrontation,
+      the likelihood of open conflict has now significantly decreased. Despite ongoing
+      distrust between the parties, the activation of backchannels and the reaffirmation
+      of deterrence boundaries have changed the dynamics, resembling past cycles of
+      US-Iran brinkmanship where public escalation is followed by discreet diplomatic
+      efforts to avoid full-scale war.
+    published: '2026-02-25T18:19:17+00:00'
+  - title: 'From Escalation to Backchannels: A Recurring Pattern in US-Iran Tensions'
+    url: https://ejmagnier.com/2026/02/25/from-escalation-to-backchannels-a-recurring-pattern-in-us-iran-tensions/
+    text: By Elijah J. Magnier Only weeks ago, the regional atmosphere was highly volatile.
+      Military repositioning, intensified rhetoric, and reports indicating that approximately
+      150 US aircraft had been moved closer to Iran’s operational range suggested an
+      increasing likelihood of open confrontation. The prospect of coordinated action
+      involving Washington and Israel was openly discussed as a near-term possibility.
+      Currently, the probability of open conflict has decreased significantly, although
+      the possibility of war remains. The underlying distrust between the parties remains
+      unchanged; however, the activation of backchannels and the reassertion of deterrence
+      boundaries have altered the dynamics. This situation resembles previous cycles
+      of US-Iran brinkmanship characterized by public escalation followed by discreet
+      diplomatic signaling that prevents escalation into full-scale war. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Recent tensions between the US and Iran have eased, with a
+      decreased likelihood of open conflict due to backchannel communications and established
+      deterrence boundaries, despite ongoing distrust and the potential for future escalation.
+    paragraph_summary: The article by Elijah J. Magnier discusses the recent shift in
+      the regional atmosphere regarding US-Iran tensions, noting that while military
+      repositioning and heightened rhetoric had previously suggested an imminent confrontation,
+      the likelihood of open conflict has now significantly decreased. Despite ongoing
+      distrust between the parties, the activation of backchannels and the reaffirmation
+      of deterrence boundaries have changed the dynamics, resembling past cycles of
+      US-Iran brinkmanship where public escalation is followed by discreet diplomatic
+      efforts to avoid full-scale war.
+    published: '2026-02-25T18:19:17+00:00'
+  - title: 'De l’escalade aux canaux discrets : un schéma récurrent dans les tensions
+      entre les États-Unis et l’Iran'
+    url: https://ejmagnier.com/2026/02/25/de-lescalade-aux-canaux-discrets-un-schema-recurrent-dans-les-tensions-entre-les-etats-unis-et-liran/
+    text: Par Elijah J. Magnier Il y a seulement quelques semaines, l’atmosphère régionale
+      était extrêmement volatile. Les repositionnements militaires, l’intensification
+      de la rhétorique et les informations indiquant qu’environ 150 appareils américains
+      avaient été rapprochés du rayon d’action opérationnel de l’Iran laissaient entrevoir
+      une probabilité croissante de confrontation ouverte. La perspective d’une action
+      coordonnée impliquant Washington et Israël était évoquée comme une possibilité
+      à court terme. Aujourd’hui, la probabilité d’un conflit ouvert a nettement diminué,
+      même si l’éventualité d’une guerre demeure. La méfiance fondamentale entre les
+      parties reste inchangée. Toutefois, l’activation de canaux discrets et la réaffirmation
+      des lignes de dissuasion ont modifié la dynamique. La situation rappelle les cycles
+      précédents de confrontation entre les États-Unis et l’Iran, caractérisés par une
+      escalade publique suivie de signaux diplomatiques discrets empêchant une guerre
+      à grande échelle. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Bien que la tension entre les États-Unis et l'Iran ait récemment
+      diminué grâce à des canaux diplomatiques discrets, le risque d'un conflit ouvert
+      demeure en raison de la méfiance persistante entre les parties.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit une récente évolution de
+      la tension régionale entre les États-Unis et l'Iran, qui, après une période de
+      forte volatilité militaire et de rhétorique accrue, semble avoir diminué la probabilité
+      d'un conflit ouvert, bien que la menace d'une guerre subsiste. Alors que des repositionnements
+      militaires et la présence accrue d'appareils américains avaient suscité des inquiétudes,
+      l'activation de canaux de communication discrets et la réaffirmation des lignes
+      de dissuasion ont modifié la dynamique, rappelant des cycles antérieurs de confrontation
+      où des escalades publiques ont été suivies de signaux diplomatiques visant à éviter
+      une guerre à grande échelle.
+    published: '2026-02-25T18:18:24+00:00'
+  - title: 'De l’escalade aux canaux discrets : un schéma récurrent dans les tensions
+      entre les États-Unis et l’Iran'
+    url: https://ejmagnier.com/2026/02/25/de-lescalade-aux-canaux-discrets-un-schema-recurrent-dans-les-tensions-entre-les-etats-unis-et-liran/
+    text: Par Elijah J. Magnier Il y a seulement quelques semaines, l’atmosphère régionale
+      était extrêmement volatile. Les repositionnements militaires, l’intensification
+      de la rhétorique et les informations indiquant qu’environ 150 appareils américains
+      avaient été rapprochés du rayon d’action opérationnel de l’Iran laissaient entrevoir
+      une probabilité croissante de confrontation ouverte. La perspective d’une action
+      coordonnée impliquant Washington et Israël était évoquée comme une possibilité
+      à court terme. Aujourd’hui, la probabilité d’un conflit ouvert a nettement diminué,
+      même si l’éventualité d’une guerre demeure. La méfiance fondamentale entre les
+      parties reste inchangée. Toutefois, l’activation de canaux discrets et la réaffirmation
+      des lignes de dissuasion ont modifié la dynamique. La situation rappelle les cycles
+      précédents de confrontation entre les États-Unis et l’Iran, caractérisés par une
+      escalade publique suivie de signaux diplomatiques discrets empêchant une guerre
+      à grande échelle. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Bien que la tension entre les États-Unis et l'Iran ait récemment
+      diminué grâce à des canaux diplomatiques discrets, le risque d'un conflit ouvert
+      demeure en raison de la méfiance persistante entre les parties.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit une récente évolution de
+      la tension régionale entre les États-Unis et l'Iran, qui, après une période de
+      forte volatilité militaire et de rhétorique accrue, semble avoir diminué la probabilité
+      d'un conflit ouvert, bien que la menace d'une guerre subsiste. Alors que des repositionnements
+      militaires et la présence accrue d'appareils américains avaient suscité des inquiétudes,
+      l'activation de canaux de communication discrets et la réaffirmation des lignes
+      de dissuasion ont modifié la dynamique, rappelant des cycles antérieurs de confrontation
+      où des escalades publiques ont été suivies de signaux diplomatiques visant à éviter
+      une guerre à grande échelle.
+    published: '2026-02-25T18:18:24+00:00'
+  - title: 'Von Eskalation zu Hinterzimmergesprächen: Ein wiederkehrendes Muster in
+      den Spannungen zwischen den USA und dem Iran'
+    url: https://ejmagnier.com/2026/02/25/von-eskalation-zu-hinterzimmergesprachen-ein-wiederkehrendes-muster-in-den-spannungen-zwischen-den-usa-und-dem-iran/
+    text: Von Elijah J. Magnier Noch vor wenigen Wochen war die Lage in der Region äußerst
+      angespannt. Militärische Umgruppierungen, verschärfte Rhetorik und Berichte, wonach
+      etwa 150 US-Flugzeuge näher an den Einsatzbereich des Iran herangeführt worden
+      seien, deuteten auf eine zunehmende Wahrscheinlichkeit einer offenen Konfrontation
+      hin. Die Aussicht auf koordinierte Maßnahmen unter Beteiligung Washingtons und
+      Israels wurde offen als kurzfristige Möglichkeit diskutiert. Derzeit ist die Wahrscheinlichkeit
+      eines offenen Konflikts deutlich gesunken, obwohl die Möglichkeit eines Krieges
+      weiterhin besteht. Das zugrunde liegende Misstrauen zwischen den Parteien bleibt
+      unverändert, jedoch haben die Aktivierung von Hintertürchen und die erneute Festlegung
+      von Abschreckungsgrenzen die Dynamik verändert. Diese Situation ähnelt früheren
+      Zyklen der Brinkmanship zwischen den USA und dem Iran, die durch eine öffentliche
+      Eskalation gefolgt von diskreten diplomatischen Signalen gekennzeichnet waren,
+      die eine Eskalation zu einem umfassenden Krieg verhinderten. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Die Wahrscheinlichkeit eines offenen Konflikts zwischen den
+      USA und dem Iran ist gesunken, obwohl das zugrunde liegende Misstrauen bleibt
+      und die Möglichkeit eines Krieges weiterhin besteht, während diplomatische Signale
+      die Dynamik verändern.
+    paragraph_summary: In recent weeks, tensions in the region had escalated significantly,
+      with military repositioning and heightened rhetoric suggesting an increased likelihood
+      of open conflict between the U.S. and Iran, particularly with reports of 150 U.S.
+      aircraft being moved closer to Iranian operational areas. However, the probability
+      of an outright war has since decreased, despite the underlying mistrust between
+      the parties remaining unchanged. The situation has evolved due to the activation
+      of backchannel communications and the re-establishment of deterrence boundaries,
+      reminiscent of previous cycles of brinkmanship between the U.S. and Iran, which
+      typically involved public escalations followed by discreet diplomatic efforts
+      to avert a full-scale war.
+    published: '2026-02-25T18:17:27+00:00'
+  - title: 'Von Eskalation zu Hinterzimmergesprächen: Ein wiederkehrendes Muster in
+      den Spannungen zwischen den USA und dem Iran'
+    url: https://ejmagnier.com/2026/02/25/von-eskalation-zu-hinterzimmergesprachen-ein-wiederkehrendes-muster-in-den-spannungen-zwischen-den-usa-und-dem-iran/
+    text: Von Elijah J. Magnier Noch vor wenigen Wochen war die Lage in der Region äußerst
+      angespannt. Militärische Umgruppierungen, verschärfte Rhetorik und Berichte, wonach
+      etwa 150 US-Flugzeuge näher an den Einsatzbereich des Iran herangeführt worden
+      seien, deuteten auf eine zunehmende Wahrscheinlichkeit einer offenen Konfrontation
+      hin. Die Aussicht auf koordinierte Maßnahmen unter Beteiligung Washingtons und
+      Israels wurde offen als kurzfristige Möglichkeit diskutiert. Derzeit ist die Wahrscheinlichkeit
+      eines offenen Konflikts deutlich gesunken, obwohl die Möglichkeit eines Krieges
+      weiterhin besteht. Das zugrunde liegende Misstrauen zwischen den Parteien bleibt
+      unverändert, jedoch haben die Aktivierung von Hintertürchen und die erneute Festlegung
+      von Abschreckungsgrenzen die Dynamik verändert. Diese Situation ähnelt früheren
+      Zyklen der Brinkmanship zwischen den USA und dem Iran, die durch eine öffentliche
+      Eskalation gefolgt von diskreten diplomatischen Signalen gekennzeichnet waren,
+      die eine Eskalation zu einem umfassenden Krieg verhinderten. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Die Wahrscheinlichkeit eines offenen Konflikts zwischen den
+      USA und dem Iran ist gesunken, obwohl das zugrunde liegende Misstrauen bleibt
+      und die Möglichkeit eines Krieges weiterhin besteht, während diplomatische Signale
+      die Dynamik verändern.
+    paragraph_summary: In recent weeks, tensions in the region had escalated significantly,
+      with military repositioning and heightened rhetoric suggesting an increased likelihood
+      of open conflict between the U.S. and Iran, particularly with reports of 150 U.S.
+      aircraft being moved closer to Iranian operational areas. However, the probability
+      of an outright war has since decreased, despite the underlying mistrust between
+      the parties remaining unchanged. The situation has evolved due to the activation
+      of backchannel communications and the re-establishment of deterrence boundaries,
+      reminiscent of previous cycles of brinkmanship between the U.S. and Iran, which
+      typically involved public escalations followed by discreet diplomatic efforts
+      to avert a full-scale war.
+    published: '2026-02-25T18:17:27+00:00'
   - title: 'The Countdown Between Washington and Tehran: Ultimatum, Escalation, and
       the Brink of War'
     url: https://ejmagnier.com/2026/02/21/the-countdown-between-washington-and-tehran-ultimatum-escalation-and-the-brink-of-war/

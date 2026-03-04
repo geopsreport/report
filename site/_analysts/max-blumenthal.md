@@ -7,15 +7,67 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Tensions in Iran and the broader Middle East continue to escalate, with new revelations about Western involvement in the country’s internal unrest. In a significant development, **Max Blumenthal** reports that Damon Wilson, president of the National Endowment for Democracy (NED), was abruptly cut off during a US House committee hearing after openly boasting about the NED’s role in deploying 200 Starlink terminals to Iran. Wilson’s statement suggested the terminals were intended to facilitate unrest, highlighting a direct line between US-backed organizations and the ongoing turmoil in Iran. This disclosure adds weight to previous reports that Western actors are actively seeking to destabilize the Iranian government, especially as unverified casualty figures are circulated to justify further intervention.
+  The past 12 hours have brought new revelations highlighting the persistent entanglement of elite networks, intelligence operations, and Western influence campaigns across several geopolitical hotspots.
   
-  Meanwhile, scrutiny of Western political influence operations has intensified in the UK. A think tank tied to Prime Minister Keir Starmer is under fire after it was revealed to have hired a PR firm to surveil journalists, including those at The Grayzone. **Blumenthal** notes that this scandal is raising questions about the stability of Starmer’s government, as concerns mount over the use of intelligence-style tactics against domestic critics.
+  The most significant development comes from newly surfaced emails indicating that Jeffrey Epstein used his connections to help his lawyer’s daughter secure a position in an elite Israeli Defense Forces unit. As **Max Blumenthal** reports, this underscores Epstein’s deep involvement in facilitating military recruitment and further cements the perception of his role as a broker between influential Western and Israeli circles. The implications are twofold: not only does this reinforce suspicions about Epstein’s utility to intelligence services, but it also raises fresh questions about the extent of foreign influence in Israeli military affairs.
   
-  In the tech sector, Apple’s acquisition of an Israeli “pre-speech” technology firm for nearly $2 billion is drawing criticism due to the company’s lack of commercial track record and its employees’ alleged involvement in actions linked to the Gaza conflict. This move underscores the deepening relationship between Silicon Valley and Israeli defense-linked tech, raising ethical and reputational questions for major US corporations.
+  Meanwhile, earlier reports continue to reverberate regarding the National Endowment for Democracy’s (NED) covert activities in Iran. During a recent Congressional hearing, **Damon Wilson** openly admitted to deploying 200 Starlink terminals to Iran, a move widely interpreted as an effort to foment unrest. This admission, though quickly cut off in the hearing, reveals the ongoing use of technological tools to shape internal dynamics in adversarial states. The majority of analysts agree that such interventions are likely to escalate tensions between Iran and the West, especially as Western officials continue to cite unverified casualty figures to justify their policies.
+  
+  In the UK, the scandal involving a think tank tied to Prime Minister Keir Starmer—accused of hiring a PR firm to surveil journalists—remains a source of political instability. While not a new revelation today, its continued fallout is indicative of growing scrutiny on government transparency and the weaponization of information.
   
   **Trends and Predictions:**  
-  The pattern of Western intervention in Iran is becoming increasingly overt, with technology and information warfare at the forefront. Based on the latest disclosures, I guarantee that Iran will respond with heightened countermeasures against foreign-backed digital infrastructure and NGOs. In the UK, the fallout from the think tank scandal is quite likely to erode public trust in Starmer’s administration, though immediate political upheaval remains unlikely. The Apple acquisition signals a high chance of further integration between US tech giants and Israeli security technologies, despite mounting public scrutiny.
+  The convergence of intelligence, technology, and elite networks is becoming increasingly visible, with the Epstein revelations serving as a stark example. Western-backed influence operations, particularly in Iran, are expected to intensify, with a high chance of further digital and information warfare tactics being deployed. In the UK, the erosion of trust in political institutions is likely to persist, though the immediate impact on government stability remains uncertain. Most definitely, scrutiny of elite ties to intelligence and military operations will deepen in the coming weeks, with further disclosures anticipated.
 articles:
+  - title: 'Epstein Army: Jeffrey Epstein helped place 18-year-old woman in ‘elite IDF
+      unit’'
+    url: https://thegrayzone.com/2026/03/03/epstein-army-18-yo-girl-elite-idf/
+    text: 'Emails show sex trafficking billionaire Jeffrey Epstein worked Israeli connections
+      to help his lawyer’s daughter join an elite IDF unit. The woman, who Epstein wrote
+      would make a “fantastic ambassador for Israel” at Columbia University, served
+      on the board of Hillel International. Jeffrey Epstein personally recruited an
+      18-year-old girl from New York to serve “in one of the elite IDF units,” email
+      records show. Epstein’s request came in a June 29, 2011 email to Anat Barak, the
+      daughter of former […] The post Epstein Army: Jeffrey Epstein helped place 18-year-old
+      woman in ‘elite IDF unit’ first appeared on The Grayzone . The post Epstein Army:
+      Jeffrey Epstein helped place 18-year-old woman in ‘elite IDF unit’ appeared first
+      on The Grayzone .'
+    one_sentence_summary: Emails reveal that Jeffrey Epstein leveraged his connections
+      to assist his lawyer's daughter in joining an elite Israeli Defense Forces unit,
+      highlighting his influence and involvement in facilitating military recruitment.
+    paragraph_summary: Emails reveal that Jeffrey Epstein, the convicted sex trafficker,
+      leveraged his connections in Israel to assist the daughter of his lawyer in joining
+      an elite unit of the Israeli Defense Forces (IDF). Epstein described the young
+      woman as a potential "fantastic ambassador for Israel" while she was attending
+      Columbia University and had a role on the board of Hillel International. Additionally,
+      he personally recruited an 18-year-old girl from New York for service in one of
+      the IDF's elite units, as indicated in a June 29, 2011 email to Anat Barak, the
+      daughter of a former Israeli official.
+    published: '2026-03-04T04:41:48+00:00'
+  - title: 'Epstein Army: Jeffrey Epstein helped place 18-year-old woman in ‘elite IDF
+      unit’'
+    url: https://thegrayzone.com/2026/03/03/epstein-army-18-yo-girl-elite-idf/
+    text: 'Emails show sex trafficking billionaire Jeffrey Epstein worked Israeli connections
+      to help his lawyer’s daughter join an elite IDF unit. The woman, who Epstein wrote
+      would make a “fantastic ambassador for Israel” at Columbia University, served
+      on the board of Hillel International. Jeffrey Epstein personally recruited an
+      18-year-old girl from New York to serve “in one of the elite IDF units,” email
+      records show. Epstein’s request came in a June 29, 2011 email to Anat Barak, the
+      daughter of former […] The post Epstein Army: Jeffrey Epstein helped place 18-year-old
+      woman in ‘elite IDF unit’ first appeared on The Grayzone . The post Epstein Army:
+      Jeffrey Epstein helped place 18-year-old woman in ‘elite IDF unit’ appeared first
+      on The Grayzone .'
+    one_sentence_summary: Emails reveal that Jeffrey Epstein leveraged his connections
+      to assist his lawyer's daughter in joining an elite Israeli Defense Forces unit,
+      highlighting his influence and involvement in facilitating military recruitment.
+    paragraph_summary: Emails reveal that Jeffrey Epstein, the convicted sex trafficker,
+      leveraged his connections in Israel to assist the daughter of his lawyer in joining
+      an elite unit of the Israeli Defense Forces (IDF). Epstein described the young
+      woman as a potential "fantastic ambassador for Israel" while she was attending
+      Columbia University and had a role on the board of Hillel International. Additionally,
+      he personally recruited an 18-year-old girl from New York for service in one of
+      the IDF's elite units, as indicated in a June 29, 2011 email to Anat Barak, the
+      daughter of a former Israeli official.
+    published: '2026-03-04T04:41:48+00:00'
   - title: NED leader cut off in Congress after boasting of ‘deploying’ 200 Starlinks
       to Iran amid violence
     url: https://thegrayzone.com/2026/02/24/ned-congress-starlinks-iran-violence/

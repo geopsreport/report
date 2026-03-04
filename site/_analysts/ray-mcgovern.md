@@ -7,14 +7,719 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the war in Ukraine enters its fifth year, recent independent analysis highlights the importance of historical context in understanding ongoing developments. **Ray McGovern** stresses that mainstream media’s lack of historical perspective obscures the deeper roots and motivations behind the conflict, suggesting that historians are better positioned than journalists to provide the necessary insights for a comprehensive view.
+  Tensions in the Middle East have escalated sharply following the joint U.S.-Israeli airstrikes against Iran, with the conflict now reverberating across military, diplomatic, and domestic spheres. The latest developments point to deepening fractures not only in international relations but also within the U.S. military and society.
   
-  In a related development, the United Kingdom has announced a new aid initiative to support Ukraine’s NATO accession efforts. According to **Ray McGovern**, this project is designed not only to help Ukraine meet NATO requirements but also to open new opportunities for British businesses in the region. This move signals continued Western commitment to Ukraine’s Euro-Atlantic integration, despite the protracted nature of the conflict.
+  A striking new detail has emerged from the front lines: according to **Ray McGovern**, a U.S. noncommissioned officer reported being instructed to brief troops that former President Trump was “anointed by Jesus” and that the looming war with Iran is part of a divine plan for Armageddon. This invocation of religious rhetoric at the command level signals a potentially destabilizing fusion of faith and military policy, raising concerns about the motivations and morale within the ranks.
   
-  On the broader geopolitical stage, **Joe Lauria** points to remarks made by President Joe Biden in March 2022, revealing that the U.S. saw Russia’s invasion as a necessary catalyst for its own strategic response. This admission underscores the degree to which the conflict has been shaped by great power calculations, with the U.S. leveraging the war to implement a multi-pronged approach against Russia.
+  On the international stage, **Craig Murray** notes that China, Russia, and the Global South are closely observing the West’s abandonment of international law, particularly in the context of the Iran conflict. These actors are recalibrating their strategies, with Murray emphasizing that the long-term consequence may be a realignment away from Western-led institutions. The erosion of legal norms is seen as accelerating the decline of U.S. global influence.
   
-  Looking forward, the prevailing trend is an entrenchment of positions on both sides, with Western powers deepening their involvement in Ukraine’s defense and integration into Western institutions. Given the current trajectory, there is a high chance that the conflict will remain unresolved in the near term, with further escalation or diplomatic breakthroughs unlikely in the immediate future. I guarantee that historical context will continue to be crucial for interpreting both the motives and the likely outcomes of the ongoing war.
+  Domestically, the U.S. faces unprecedented polarization. **Ramzy Baroud** highlights that 89 percent of Americans now expect significant political conflict as the midterm elections approach. This internal division, compounded by the controversial religious framing of foreign policy, threatens to undermine U.S. cohesion at a critical juncture.
+  
+  **Trends and Predictions:**  
+  The majority of analysts agree that the U.S. and Israel’s aggressive posture toward Iran lacks both credible justification and international support. The integration of religious ideology into military directives is likely to further alienate both allies and segments of the American public. Internationally, there is a high chance of continued diplomatic isolation for the U.S., as major powers and the Global South reassess their alliances. Domestically, I guarantee that political polarization will intensify, with the potential for significant unrest during the upcoming elections. The overall trajectory points toward a period of heightened instability, both at home and abroad.
 articles:
+  - title: US Commanders Invoke Biblical End Times in Iran
+    url: https://consortiumnews.com/2026/03/03/us-commanders-invoke-biblical-end-times-in-iran/
+    text: One noncommissioned officer told the Military Religious Freedom Foundation
+      that he was directed to tell his troops that Trump was “anointed by Jesus” and
+      that war with Iran was “all part of God’s divine plan” to bring about Armageddon.
+      By… Read more →
+    one_sentence_summary: A noncommissioned officer reported being instructed to inform
+      his troops that Trump was "anointed by Jesus" and that a potential war with Iran
+      was part of a divine plan for Armageddon.
+    paragraph_summary: A noncommissioned officer reported to the Military Religious
+      Freedom Foundation that he was instructed to inform his troops that former President
+      Trump was "anointed by Jesus" and that a potential war with Iran was part of a
+      divine plan leading to Armageddon. This directive raises concerns about the intersection
+      of military operations and religious beliefs within the armed forces.
+    published: '2026-03-04T02:09:57+00:00'
+  - title: US Commanders Invoke Biblical End Times in Iran
+    url: https://consortiumnews.com/2026/03/03/us-commanders-invoke-biblical-end-times-in-iran/
+    text: One noncommissioned officer told the Military Religious Freedom Foundation
+      that he was directed to tell his troops that Trump was “anointed by Jesus” and
+      that war with Iran was “all part of God’s divine plan” to bring about Armageddon.
+      By… Read more →
+    one_sentence_summary: A noncommissioned officer reported being instructed to inform
+      his troops that Trump was "anointed by Jesus" and that a potential war with Iran
+      was part of a divine plan for Armageddon.
+    paragraph_summary: A noncommissioned officer reported to the Military Religious
+      Freedom Foundation that he was instructed to inform his troops that former President
+      Trump was "anointed by Jesus" and that a potential war with Iran was part of a
+      divine plan leading to Armageddon. This directive raises concerns about the intersection
+      of military operations and religious beliefs within the armed forces.
+    published: '2026-03-04T02:09:57+00:00'
+  - title: 'Craig Murray: The War for Greater Israel'
+    url: https://consortiumnews.com/2026/03/03/craig-murray-the-war-for-greater-israel/
+    text: What long-term lessons China, Russia and the Global South are learning from
+      the abandonment by the entire West of the principles of international law, we
+      shall see in the decades to come. By Craig Murray CraigMurray.org.uk There has
+      scarcely been… Read more →
+    one_sentence_summary: The article discusses how China, Russia, and the Global South
+      are reflecting on the West's abandonment of international law principles and the
+      long-term implications this may have in the future.
+    paragraph_summary: In the article by Craig Murray, the author discusses the implications
+      of the West's abandonment of international law principles for China, Russia, and
+      the Global South. He suggests that these nations are likely to draw significant
+      long-term lessons from this shift, which may influence their future diplomatic
+      and geopolitical strategies. The piece emphasizes the potential for a reconfiguration
+      of global power dynamics as these countries reassess their positions in light
+      of the West's actions, hinting at a transformative period in international relations
+      that could unfold over the coming decades.
+    published: '2026-03-03T19:00:32+00:00'
+  - title: 'Craig Murray: The War for Greater Israel'
+    url: https://consortiumnews.com/2026/03/03/craig-murray-the-war-for-greater-israel/
+    text: What long-term lessons China, Russia and the Global South are learning from
+      the abandonment by the entire West of the principles of international law, we
+      shall see in the decades to come. By Craig Murray CraigMurray.org.uk There has
+      scarcely been… Read more →
+    one_sentence_summary: The article discusses how China, Russia, and the Global South
+      are reflecting on the West's abandonment of international law principles and the
+      long-term implications this may have in the future.
+    paragraph_summary: In the article by Craig Murray, the author discusses the implications
+      of the West's abandonment of international law principles for China, Russia, and
+      the Global South. He suggests that these nations are likely to draw significant
+      long-term lessons from this shift, which may influence their future diplomatic
+      and geopolitical strategies. The piece emphasizes the potential for a reconfiguration
+      of global power dynamics as these countries reassess their positions in light
+      of the West's actions, hinting at a transformative period in international relations
+      that could unfold over the coming decades.
+    published: '2026-03-03T19:00:32+00:00'
+  - title: 'Chris Hedges: Going to War, Again, for Israel'
+    url: https://consortiumnews.com/2026/03/03/chris-hedges-going-to-war-again-for-israel/
+    text: This is not a U.S. war. This is part of Israel’s demented vision of Greater
+      Israel, of dominating the Middle East. But Israel needs the U.S. military, and
+      its lackeys in the U.S. political class have handed over the keys… Read more →
+    one_sentence_summary: The article argues that the conflict is driven by Israel's
+      expansionist ambitions in the Middle East, with the U.S. military and political
+      support enabling this agenda.
+    paragraph_summary: The article argues that the current conflict is not a U.S. war
+      but rather a manifestation of Israel's aggressive ambitions for a Greater Israel,
+      aimed at establishing dominance in the Middle East. It suggests that while Israel
+      relies on U.S. military support, the American political establishment has acquiesced
+      to these ambitions, effectively enabling Israel's actions.
+    published: '2026-03-03T17:00:19+00:00'
+  - title: 'Chris Hedges: Going to War, Again, for Israel'
+    url: https://consortiumnews.com/2026/03/03/chris-hedges-going-to-war-again-for-israel/
+    text: This is not a U.S. war. This is part of Israel’s demented vision of Greater
+      Israel, of dominating the Middle East. But Israel needs the U.S. military, and
+      its lackeys in the U.S. political class have handed over the keys… Read more →
+    one_sentence_summary: The article argues that the conflict is driven by Israel's
+      expansionist ambitions in the Middle East, with the U.S. military and political
+      support enabling this agenda.
+    paragraph_summary: The article argues that the current conflict is not a U.S. war
+      but rather a manifestation of Israel's aggressive ambitions for a Greater Israel,
+      aimed at establishing dominance in the Middle East. It suggests that while Israel
+      relies on U.S. military support, the American political establishment has acquiesced
+      to these ambitions, effectively enabling Israel's actions.
+    published: '2026-03-03T17:00:19+00:00'
+  - title: 'Jeffrey Sachs: Attack on Iran Also an Assault on UN'
+    url: https://consortiumnews.com/2026/03/03/jeffrey-sachs-attack-on-iran-also-an-assault-on-un/
+    text: The U.S. objective is not the security of the American people. The objective
+      is global hegemony. The attempt is to destroy the U.N. and the international rule
+      of law — an attempt that will fail. By Jeffrey D. Sachs and Sybil Fares Common…
+      Read more →
+    one_sentence_summary: The article argues that the U.S. aims for global dominance
+      rather than the security of its citizens, and that its efforts to undermine the
+      U.N. and international law are destined to fail.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares argues that the
+      primary goal of the U.S. is not to ensure the safety of its citizens but to achieve
+      global dominance. The authors contend that this pursuit undermines the United
+      Nations and the principles of international law, suggesting that such efforts
+      are ultimately destined to fail.
+    published: '2026-03-03T13:23:48+00:00'
+  - title: 'Jeffrey Sachs: Attack on Iran Also an Assault on UN'
+    url: https://consortiumnews.com/2026/03/03/jeffrey-sachs-attack-on-iran-also-an-assault-on-un/
+    text: The U.S. objective is not the security of the American people. The objective
+      is global hegemony. The attempt is to destroy the U.N. and the international rule
+      of law — an attempt that will fail. By Jeffrey D. Sachs and Sybil Fares Common…
+      Read more →
+    one_sentence_summary: The article argues that the U.S. aims for global dominance
+      rather than the security of its citizens, and that its efforts to undermine the
+      U.N. and international law are destined to fail.
+    paragraph_summary: The article by Jeffrey D. Sachs and Sybil Fares argues that the
+      primary goal of the U.S. is not to ensure the safety of its citizens but to achieve
+      global dominance. The authors contend that this pursuit undermines the United
+      Nations and the principles of international law, suggesting that such efforts
+      are ultimately destined to fail.
+    published: '2026-03-03T13:23:48+00:00'
+  - title: America’s Inevitable Conflict
+    url: https://consortiumnews.com/2026/03/02/americas-inevitable-conflict/
+    text: As the midterm elections begin, U.S. society is stretching its existing polarization
+      to a new extreme, writes Ramzy Baroud. By Ramzy Baroud Z Network A January 2026
+      Gallup poll showed that 89 percent of all Americans expect high levels of political
+      conflict… Read more →
+    one_sentence_summary: As the midterm elections approach, Ramzy Baroud highlights
+      that U.S. society is experiencing unprecedented levels of political polarization,
+      with a Gallup poll indicating that 89 percent of Americans anticipate significant
+      political conflict.
+    paragraph_summary: In the lead-up to the midterm elections, Ramzy Baroud highlights
+      the increasing polarization within U.S. society, suggesting that it is reaching
+      unprecedented levels. A Gallup poll from January 2026 indicates that 89 percent
+      of Americans anticipate significant political conflict, reflecting a growing divide
+      among the populace. Baroud's analysis points to the deepening rifts in political
+      discourse and the potential implications for the democratic process as the nation
+      approaches a critical electoral period.
+    published: '2026-03-02T19:00:02+00:00'
+  - title: America’s Inevitable Conflict
+    url: https://consortiumnews.com/2026/03/02/americas-inevitable-conflict/
+    text: As the midterm elections begin, U.S. society is stretching its existing polarization
+      to a new extreme, writes Ramzy Baroud. By Ramzy Baroud Z Network A January 2026
+      Gallup poll showed that 89 percent of all Americans expect high levels of political
+      conflict… Read more →
+    one_sentence_summary: As the midterm elections approach, Ramzy Baroud highlights
+      that U.S. society is experiencing unprecedented levels of political polarization,
+      with a Gallup poll indicating that 89 percent of Americans anticipate significant
+      political conflict.
+    paragraph_summary: In the lead-up to the midterm elections, Ramzy Baroud highlights
+      the increasing polarization within U.S. society, suggesting that it is reaching
+      unprecedented levels. A Gallup poll from January 2026 indicates that 89 percent
+      of Americans anticipate significant political conflict, reflecting a growing divide
+      among the populace. Baroud's analysis points to the deepening rifts in political
+      discourse and the potential implications for the democratic process as the nation
+      approaches a critical electoral period.
+    published: '2026-03-02T19:00:02+00:00'
+  - title: 'Chris Hedges: Hiding ‘The Voice of Hind Rajab’'
+    url: https://consortiumnews.com/2026/03/02/chris-hedges-hiding-the-voice-of-hind-rajab/
+    text: The film masterfully exposes the impulse towards power, death and destruction
+      that the Israeli military embodies.  By Chris Hedges in New York ScheerPost The
+      Voice of Hind Rajab, like all great pieces of art, takes a straightforward story
+      — the battle… Read more →
+    one_sentence_summary: The film effectively highlights the Israeli military's inherent
+      drive for power, death, and destruction through a compelling narrative.
+    paragraph_summary: The film "The Voice of Hind" effectively highlights the themes
+      of power, death, and destruction inherent in the Israeli military's actions. Through
+      a compelling narrative, it delves into the complexities of conflict, illustrating
+      the profound impact of these forces on individuals and society. Chris Hedges emphasizes
+      the film's artistic merit and its ability to provoke critical reflection on the
+      consequences of militarism and violence.
+    published: '2026-03-02T17:00:48+00:00'
+  - title: 'Chris Hedges: Hiding ‘The Voice of Hind Rajab’'
+    url: https://consortiumnews.com/2026/03/02/chris-hedges-hiding-the-voice-of-hind-rajab/
+    text: The film masterfully exposes the impulse towards power, death and destruction
+      that the Israeli military embodies.  By Chris Hedges in New York ScheerPost The
+      Voice of Hind Rajab, like all great pieces of art, takes a straightforward story
+      — the battle… Read more →
+    one_sentence_summary: The film effectively highlights the Israeli military's inherent
+      drive for power, death, and destruction through a compelling narrative.
+    paragraph_summary: The film "The Voice of Hind" effectively highlights the themes
+      of power, death, and destruction inherent in the Israeli military's actions. Through
+      a compelling narrative, it delves into the complexities of conflict, illustrating
+      the profound impact of these forces on individuals and society. Chris Hedges emphasizes
+      the film's artistic merit and its ability to provoke critical reflection on the
+      consequences of militarism and violence.
+    published: '2026-03-02T17:00:48+00:00'
+  - title: 'PATRICK LAWRENCE: Germany Learns From the IDF'
+    url: https://consortiumnews.com/2026/03/02/patrick-lawrence-germany-learns-from-the-idf/
+    text: The Israelis are to teach Germans how to use artificial intelligence based
+      on the I.D.F.’s experience in Gaza, where, among other things, it used A.I. to
+      identify targets, guide drones, and conduct remote assassinations.   By Patrick
+      Lawrence Special to Consortium News… Read more →
+    one_sentence_summary: Israelis will train Germans in artificial intelligence applications
+      derived from the Israeli Defense Forces' experiences in Gaza, including target
+      identification and drone operations.
+    paragraph_summary: Israelis will provide training to Germans on utilizing artificial
+      intelligence, drawing from the Israeli Defense Forces' (I.D.F.) experiences in
+      Gaza. This training will cover various applications of A.I., including target
+      identification, drone guidance, and remote assassinations. The collaboration highlights
+      the intersection of military technology and international partnerships in defense
+      strategies.
+    published: '2026-03-02T07:41:42+00:00'
+  - title: 'PATRICK LAWRENCE: Germany Learns From the IDF'
+    url: https://consortiumnews.com/2026/03/02/patrick-lawrence-germany-learns-from-the-idf/
+    text: The Israelis are to teach Germans how to use artificial intelligence based
+      on the I.D.F.’s experience in Gaza, where, among other things, it used A.I. to
+      identify targets, guide drones, and conduct remote assassinations.   By Patrick
+      Lawrence Special to Consortium News… Read more →
+    one_sentence_summary: Israelis will train Germans in artificial intelligence applications
+      derived from the Israeli Defense Forces' experiences in Gaza, including target
+      identification and drone operations.
+    paragraph_summary: Israelis will provide training to Germans on utilizing artificial
+      intelligence, drawing from the Israeli Defense Forces' (I.D.F.) experiences in
+      Gaza. This training will cover various applications of A.I., including target
+      identification, drone guidance, and remote assassinations. The collaboration highlights
+      the intersection of military technology and international partnerships in defense
+      strategies.
+    published: '2026-03-02T07:41:42+00:00'
+  - title: Trump Made No Case for War on Iran
+    url: https://consortiumnews.com/2026/02/28/trump-made-no-case-for-war-on-iran/
+    text: The case for each U.S. war in the Middle East over the past 35 years has had
+      progressively weaker rationale and international support. The aggression against
+      Iran launched today has almost none, writes Joe Lauria. By Joe Lauria Special
+      to… Read more →
+    one_sentence_summary: Joe Lauria argues that the justifications and international
+      backing for U.S. military actions in the Middle East have diminished over the
+      past 35 years, with the current aggression against Iran lacking almost any rationale
+      or support.
+    paragraph_summary: In his article, Joe Lauria argues that the justifications for
+      U.S. military interventions in the Middle East over the past 35 years have increasingly
+      lacked credibility and global backing. He specifically highlights the current
+      aggression against Iran, asserting that it is being conducted with minimal rationale
+      and virtually no international support, suggesting a troubling trend in U.S. foreign
+      policy.
+    published: '2026-02-28T14:50:31+00:00'
+  - title: Trump Made No Case for War on Iran
+    url: https://consortiumnews.com/2026/02/28/trump-made-no-case-for-war-on-iran/
+    text: The case for each U.S. war in the Middle East over the past 35 years has had
+      progressively weaker rationale and international support. The aggression against
+      Iran launched today has almost none, writes Joe Lauria. By Joe Lauria Special
+      to… Read more →
+    one_sentence_summary: Joe Lauria argues that the justifications and international
+      backing for U.S. military actions in the Middle East have diminished over the
+      past 35 years, with the current aggression against Iran lacking almost any rationale
+      or support.
+    paragraph_summary: In his article, Joe Lauria argues that the justifications for
+      U.S. military interventions in the Middle East over the past 35 years have increasingly
+      lacked credibility and global backing. He specifically highlights the current
+      aggression against Iran, asserting that it is being conducted with minimal rationale
+      and virtually no international support, suggesting a troubling trend in U.S. foreign
+      policy.
+    published: '2026-02-28T14:50:31+00:00'
+  - title: 'WATCH: The World This Week — Aggression on Iran'
+    url: https://consortiumnews.com/2026/02/28/watch-the-world-this-week-aggression-on-iran-w-scott-ritter/
+    text: 'Scott Ritter joins The World This Week to discuss the U.S. and Israel’s war
+      of aggression to overthrow the Iranian government with no credible rationale or
+      legal authority, unleashing a conflagration that could alter history.   Guest:
+      Scott Ritter. Interviewer:… Read more →'
+    one_sentence_summary: Scott Ritter discusses the U.S. and Israel's aggressive actions
+      against Iran, arguing that they lack credible justification and legal authority,
+      potentially leading to significant historical consequences.
+    paragraph_summary: In a discussion on The World This Week, Scott Ritter critiques
+      the U.S. and Israel's aggressive actions aimed at toppling the Iranian government,
+      arguing that these actions lack credible justification and legal authority. He
+      warns that such military interventions could ignite significant conflict and potentially
+      reshape historical dynamics in the region.
+    published: '2026-02-28T14:48:03+00:00'
+  - title: 'WATCH: The World This Week — Aggression on Iran'
+    url: https://consortiumnews.com/2026/02/28/watch-the-world-this-week-aggression-on-iran-w-scott-ritter/
+    text: 'Scott Ritter joins The World This Week to discuss the U.S. and Israel’s war
+      of aggression to overthrow the Iranian government with no credible rationale or
+      legal authority, unleashing a conflagration that could alter history.   Guest:
+      Scott Ritter. Interviewer:… Read more →'
+    one_sentence_summary: Scott Ritter discusses the U.S. and Israel's aggressive actions
+      against Iran, arguing that they lack credible justification and legal authority,
+      potentially leading to significant historical consequences.
+    paragraph_summary: In a discussion on The World This Week, Scott Ritter critiques
+      the U.S. and Israel's aggressive actions aimed at toppling the Iranian government,
+      arguing that these actions lack credible justification and legal authority. He
+      warns that such military interventions could ignite significant conflict and potentially
+      reshape historical dynamics in the region.
+    published: '2026-02-28T14:48:03+00:00'
+  - title: ISRAEL & US BEGIN AGGRESSION AGAINST IRAN
+    url: https://consortiumnews.com/2026/02/28/israel-us-begin-attack-on-iran/
+    text: LIVE UPDATES – The United States and Israel began their war of aggression
+      to overthrow the Iranian government on Saturday morning with an array of airstrikes
+      in the capital, Tehran and five other cities. Iran is striking back. 8:45 pm…
+      Read more →
+    one_sentence_summary: The United States and Israel launched airstrikes against Iran
+      in an attempt to overthrow its government, prompting a retaliatory response from
+      Iran.
+    paragraph_summary: The United States and Israel launched a series of airstrikes
+      on Saturday morning targeting Tehran and five other Iranian cities in an effort
+      to overthrow the Iranian government, marking the beginning of a military conflict.
+      In response, Iran is retaliating against these attacks.
+    published: '2026-02-28T07:00:21+00:00'
+  - title: ISRAEL & US BEGIN AGGRESSION AGAINST IRAN
+    url: https://consortiumnews.com/2026/02/28/israel-us-begin-attack-on-iran/
+    text: LIVE UPDATES – The United States and Israel began their war of aggression
+      to overthrow the Iranian government on Saturday morning with an array of airstrikes
+      in the capital, Tehran and five other cities. Iran is striking back. 8:45 pm…
+      Read more →
+    one_sentence_summary: The United States and Israel launched airstrikes against Iran
+      in an attempt to overthrow its government, prompting a retaliatory response from
+      Iran.
+    paragraph_summary: The United States and Israel launched a series of airstrikes
+      on Saturday morning targeting Tehran and five other Iranian cities in an effort
+      to overthrow the Iranian government, marking the beginning of a military conflict.
+      In response, Iran is retaliating against these attacks.
+    published: '2026-02-28T07:00:21+00:00'
+  - title: 'Caitlin Johnstone: We Deserve Better War Propaganda'
+    url: https://consortiumnews.com/2026/02/28/caitlin-johnstone-we-deserve-better-war-propaganda/
+    text: U.S. war propaganda about Iran has sunk to the level of low-caliber lies.
+       The U.S. empire is getting more and more bold about exposing its true tyrannical
+      nature By Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley They’re
+      not even… Read more →
+    one_sentence_summary: The article criticizes U.S. war propaganda regarding Iran,
+      claiming it has devolved into blatant dishonesty that reveals the oppressive nature
+      of the U.S. empire.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the U.S. government's
+      propaganda regarding Iran, arguing that it has devolved into blatant falsehoods
+      that reveal the oppressive nature of the U.S. empire. She suggests that the increasing
+      boldness of these misleading narratives reflects a deeper, tyrannical agenda,
+      highlighting the disconnect between official rhetoric and the realities of U.S.
+      foreign policy.
+    published: '2026-02-28T06:46:18+00:00'
+  - title: 'Caitlin Johnstone: We Deserve Better War Propaganda'
+    url: https://consortiumnews.com/2026/02/28/caitlin-johnstone-we-deserve-better-war-propaganda/
+    text: U.S. war propaganda about Iran has sunk to the level of low-caliber lies.
+       The U.S. empire is getting more and more bold about exposing its true tyrannical
+      nature By Caitlin Johnstone Caitlin’s Newsletter Reading by Tim Foley They’re
+      not even… Read more →
+    one_sentence_summary: The article criticizes U.S. war propaganda regarding Iran,
+      claiming it has devolved into blatant dishonesty that reveals the oppressive nature
+      of the U.S. empire.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the U.S. government's
+      propaganda regarding Iran, arguing that it has devolved into blatant falsehoods
+      that reveal the oppressive nature of the U.S. empire. She suggests that the increasing
+      boldness of these misleading narratives reflects a deeper, tyrannical agenda,
+      highlighting the disconnect between official rhetoric and the realities of U.S.
+      foreign policy.
+    published: '2026-02-28T06:46:18+00:00'
+  - title: NED Leader Boasts of Starlink Role in Iran Protests
+    url: https://consortiumnews.com/2026/02/28/ned-leader-boasts-of-starlink-role-in-iran-protests/
+    text: The National Endowment for Democracy’s president told a House committee of
+      his group’s aggressive efforts to spark unrest in Iran, including by smuggling
+      Starlink terminals and fashioning anti-Iran media narratives, Max Blumenthal and
+      Wyatt Reed report. By Max Blumenthal and… Read more →
+    one_sentence_summary: The president of the National Endowment for Democracy revealed
+      to a House committee their initiatives to incite unrest in Iran, which include
+      smuggling Starlink terminals and creating anti-Iran media narratives.
+    paragraph_summary: The president of the National Endowment for Democracy (NED) informed
+      a House committee about the organization's proactive initiatives aimed at inciting
+      unrest in Iran. These efforts include the smuggling of Starlink satellite terminals
+      to facilitate internet access and the creation of media narratives that are critical
+      of the Iranian government. This testimony highlights the NED's strategic involvement
+      in promoting dissent within the country, as reported by Max Blumenthal and Wyatt
+      Reed.
+    published: '2026-02-28T06:45:42+00:00'
+  - title: NED Leader Boasts of Starlink Role in Iran Protests
+    url: https://consortiumnews.com/2026/02/28/ned-leader-boasts-of-starlink-role-in-iran-protests/
+    text: The National Endowment for Democracy’s president told a House committee of
+      his group’s aggressive efforts to spark unrest in Iran, including by smuggling
+      Starlink terminals and fashioning anti-Iran media narratives, Max Blumenthal and
+      Wyatt Reed report. By Max Blumenthal and… Read more →
+    one_sentence_summary: The president of the National Endowment for Democracy revealed
+      to a House committee their initiatives to incite unrest in Iran, which include
+      smuggling Starlink terminals and creating anti-Iran media narratives.
+    paragraph_summary: The president of the National Endowment for Democracy (NED) informed
+      a House committee about the organization's proactive initiatives aimed at inciting
+      unrest in Iran. These efforts include the smuggling of Starlink satellite terminals
+      to facilitate internet access and the creation of media narratives that are critical
+      of the Iranian government. This testimony highlights the NED's strategic involvement
+      in promoting dissent within the country, as reported by Max Blumenthal and Wyatt
+      Reed.
+    published: '2026-02-28T06:45:42+00:00'
+  - title: A Monster Movie Takes On US Militarism
+    url: https://consortiumnews.com/2026/02/27/a-monster-movie-takes-on-us-militarism/
+    text: Earth’s Greatest Enemy gives antiwar and climate activists a film in which
+      to find common ground against the Pentagon, writes Corinna Barnard. By Corinna
+      G. Barnard Special to Consortium News How do you galvanize opposition to something
+      as vast, powerful and… Read more →
+    one_sentence_summary: '"Earth’s Greatest Enemy" serves as a unifying film for antiwar
+      and climate activists to rally against the influence of the Pentagon, according
+      to Corinna Barnard.'
+    paragraph_summary: In her article for Consortium News, Corinna Barnard discusses
+      the film "Earth’s Greatest Enemy," which serves as a unifying platform for antiwar
+      and climate activists to rally against the Pentagon's influence on both militarization
+      and environmental degradation. The film highlights the interconnectedness of war
+      and climate issues, aiming to inspire collective action and awareness among diverse
+      activist groups. Barnard emphasizes the importance of this cinematic work in galvanizing
+      opposition to the overwhelming power of military institutions and their detrimental
+      effects on the planet.
+    published: '2026-02-27T19:00:11+00:00'
+  - title: A Monster Movie Takes On US Militarism
+    url: https://consortiumnews.com/2026/02/27/a-monster-movie-takes-on-us-militarism/
+    text: Earth’s Greatest Enemy gives antiwar and climate activists a film in which
+      to find common ground against the Pentagon, writes Corinna Barnard. By Corinna
+      G. Barnard Special to Consortium News How do you galvanize opposition to something
+      as vast, powerful and… Read more →
+    one_sentence_summary: '"Earth’s Greatest Enemy" serves as a unifying film for antiwar
+      and climate activists to rally against the influence of the Pentagon, according
+      to Corinna Barnard.'
+    paragraph_summary: In her article for Consortium News, Corinna Barnard discusses
+      the film "Earth’s Greatest Enemy," which serves as a unifying platform for antiwar
+      and climate activists to rally against the Pentagon's influence on both militarization
+      and environmental degradation. The film highlights the interconnectedness of war
+      and climate issues, aiming to inspire collective action and awareness among diverse
+      activist groups. Barnard emphasizes the importance of this cinematic work in galvanizing
+      opposition to the overwhelming power of military institutions and their detrimental
+      effects on the planet.
+    published: '2026-02-27T19:00:11+00:00'
+  - title: 'Vijay Prashad: Bombs That Polish the Skulls of the Dead'
+    url: https://consortiumnews.com/2026/02/27/vijay-prashad-bombs-that-polish-the-skulls-of-the-dead/
+    text: 'With New START now expired, the United States’ withdrawal from arms control
+      treaties and its embrace of nuclear “warfighting” doctrines are raising the risk
+      of catastrophic conflict between nuclear powers. By Vijay Prashad Tricontinental:
+      Institute for Social Research On Feb. 5,… Read more →'
+    one_sentence_summary: The expiration of New START and the U.S. withdrawal from arms
+      control treaties, coupled with its adoption of nuclear "warfighting" strategies,
+      are increasing the likelihood of catastrophic conflict among nuclear powers.
+    paragraph_summary: The expiration of the New START treaty has heightened concerns
+      over the United States' withdrawal from arms control agreements and its adoption
+      of nuclear "warfighting" strategies, which could significantly increase the risk
+      of catastrophic conflict between nuclear-armed nations. In his analysis, Vijay
+      Prashad from the Tricontinental Institute for Social Research emphasizes the dangers
+      posed by these developments, suggesting that the shift in U.S. policy could destabilize
+      global security and escalate tensions among nuclear powers.
+    published: '2026-02-27T17:00:45+00:00'
+  - title: 'Vijay Prashad: Bombs That Polish the Skulls of the Dead'
+    url: https://consortiumnews.com/2026/02/27/vijay-prashad-bombs-that-polish-the-skulls-of-the-dead/
+    text: 'With New START now expired, the United States’ withdrawal from arms control
+      treaties and its embrace of nuclear “warfighting” doctrines are raising the risk
+      of catastrophic conflict between nuclear powers. By Vijay Prashad Tricontinental:
+      Institute for Social Research On Feb. 5,… Read more →'
+    one_sentence_summary: The expiration of New START and the U.S. withdrawal from arms
+      control treaties, coupled with its adoption of nuclear "warfighting" strategies,
+      are increasing the likelihood of catastrophic conflict among nuclear powers.
+    paragraph_summary: The expiration of the New START treaty has heightened concerns
+      over the United States' withdrawal from arms control agreements and its adoption
+      of nuclear "warfighting" strategies, which could significantly increase the risk
+      of catastrophic conflict between nuclear-armed nations. In his analysis, Vijay
+      Prashad from the Tricontinental Institute for Social Research emphasizes the dangers
+      posed by these developments, suggesting that the shift in U.S. policy could destabilize
+      global security and escalate tensions among nuclear powers.
+    published: '2026-02-27T17:00:45+00:00'
+  - title: Trump’s Cruelty Is Strangling Cuba
+    url: https://consortiumnews.com/2026/02/26/trumps-cruelty-is-strangling-cuba/
+    text: Oil shipments to Cuba have virtually stopped, writes Marjorie Cohn. Lack of
+      electricity has led to widespread blackouts, impacting hospitals and essential
+      services. Cuba’s oil reserves could be totally depleted by March. By Marjorie
+      Cohn Truthout The U.S. Supreme Court struck… Read more →
+    one_sentence_summary: Oil shipments to Cuba have nearly ceased, resulting in severe
+      electricity shortages and widespread blackouts that threaten essential services,
+      with the country's oil reserves projected to be exhausted by March.
+    paragraph_summary: Oil shipments to Cuba have nearly ceased, resulting in severe
+      electricity shortages and widespread blackouts that are affecting hospitals and
+      essential services across the country. With the possibility of Cuba's oil reserves
+      being completely exhausted by March, the situation is becoming increasingly critical.
+    published: '2026-02-27T04:11:31+00:00'
+  - title: Trump’s Cruelty Is Strangling Cuba
+    url: https://consortiumnews.com/2026/02/26/trumps-cruelty-is-strangling-cuba/
+    text: Oil shipments to Cuba have virtually stopped, writes Marjorie Cohn. Lack of
+      electricity has led to widespread blackouts, impacting hospitals and essential
+      services. Cuba’s oil reserves could be totally depleted by March. By Marjorie
+      Cohn Truthout The U.S. Supreme Court struck… Read more →
+    one_sentence_summary: Oil shipments to Cuba have nearly ceased, resulting in severe
+      electricity shortages and widespread blackouts that threaten essential services,
+      with the country's oil reserves projected to be exhausted by March.
+    paragraph_summary: Oil shipments to Cuba have nearly ceased, resulting in severe
+      electricity shortages and widespread blackouts that are affecting hospitals and
+      essential services across the country. With the possibility of Cuba's oil reserves
+      being completely exhausted by March, the situation is becoming increasingly critical.
+    published: '2026-02-27T04:11:31+00:00'
+  - title: Cuba Kills Florida Infiltrators as Regime Change Ramps Up
+    url: https://consortiumnews.com/2026/02/26/cuba-kills-4-florida-infiltrators-as-regime-change-ramps-up/
+    text: The Cuban Interior Ministry detained seven others involved in the plot, including
+      one who “had allegedly been sent from the United States to facilitate the landing
+      and reception of the armed group.” By Jake Johnson Common Dreams The Cuban government
+      said… Read more →
+    one_sentence_summary: The Cuban Interior Ministry has detained seven individuals
+      linked to a plot involving an armed group, including one person allegedly sent
+      from the United States to assist with their landing and reception.
+    paragraph_summary: The Cuban Interior Ministry announced the detention of seven
+      individuals connected to a plot involving an armed group, including one person
+      reportedly sent from the United States to assist with their landing and reception.
+      The government's actions highlight ongoing concerns about external influences
+      and potential threats to national security.
+    published: '2026-02-27T04:02:48+00:00'
+  - title: Cuba Kills Florida Infiltrators as Regime Change Ramps Up
+    url: https://consortiumnews.com/2026/02/26/cuba-kills-4-florida-infiltrators-as-regime-change-ramps-up/
+    text: The Cuban Interior Ministry detained seven others involved in the plot, including
+      one who “had allegedly been sent from the United States to facilitate the landing
+      and reception of the armed group.” By Jake Johnson Common Dreams The Cuban government
+      said… Read more →
+    one_sentence_summary: The Cuban Interior Ministry has detained seven individuals
+      linked to a plot involving an armed group, including one person allegedly sent
+      from the United States to assist with their landing and reception.
+    paragraph_summary: The Cuban Interior Ministry announced the detention of seven
+      individuals connected to a plot involving an armed group, including one person
+      reportedly sent from the United States to assist with their landing and reception.
+      The government's actions highlight ongoing concerns about external influences
+      and potential threats to national security.
+    published: '2026-02-27T04:02:48+00:00'
+  - title: The Price of Perfect Nihilism
+    url: https://consortiumnews.com/2026/02/26/the-price-of-perfect-nihilism/
+    text: The price for Donald Trump’s nihilism abroad is a government at home that
+      fails to protect the rights of persons and respects no laws, writes Judge Andrew
+      Napolitano. By Andrew P. Napolitano When President Donald Trump first announced
+      that he had ordered… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that Donald Trump's foreign
+      nihilism leads to a domestic government that neglects individual rights and disregards
+      the rule of law.
+    paragraph_summary: In his article, Judge Andrew Napolitano argues that Donald Trump's
+      foreign nihilism has detrimental effects on domestic governance, leading to a
+      government that neglects the protection of individual rights and disregards legal
+      frameworks. Napolitano contends that Trump's actions and policies undermine the
+      rule of law and create a troubling environment for civil liberties at home.
+    published: '2026-02-26T19:00:01+00:00'
+  - title: The Price of Perfect Nihilism
+    url: https://consortiumnews.com/2026/02/26/the-price-of-perfect-nihilism/
+    text: The price for Donald Trump’s nihilism abroad is a government at home that
+      fails to protect the rights of persons and respects no laws, writes Judge Andrew
+      Napolitano. By Andrew P. Napolitano When President Donald Trump first announced
+      that he had ordered… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that Donald Trump's foreign
+      nihilism leads to a domestic government that neglects individual rights and disregards
+      the rule of law.
+    paragraph_summary: In his article, Judge Andrew Napolitano argues that Donald Trump's
+      foreign nihilism has detrimental effects on domestic governance, leading to a
+      government that neglects the protection of individual rights and disregards legal
+      frameworks. Napolitano contends that Trump's actions and policies undermine the
+      rule of law and create a troubling environment for civil liberties at home.
+    published: '2026-02-26T19:00:01+00:00'
+  - title: Pentagon Doesn’t Know What to Do With $500 Bn
+    url: https://consortiumnews.com/2026/02/26/pentagon-doesnt-know-what-to-do-with-500-bn/
+    text: Trump is pushing for another $500 billion for the Pentagon as he moves the
+      U.S. to the brink of war with Iran. But Pentagon officials are reportedly uncertain
+      about where to put the money, “because the amount is so large.”… Read more →
+    one_sentence_summary: Trump is advocating for an additional $500 billion for the
+      Pentagon amid escalating tensions with Iran, but Pentagon officials are reportedly
+      unsure how to allocate such a substantial amount.
+    paragraph_summary: Former President Trump is advocating for an additional $500 billion
+      in funding for the Pentagon as tensions between the U.S. and Iran escalate, potentially
+      leading the nation towards war. However, Pentagon officials are reportedly struggling
+      to determine how to allocate such a substantial amount of money, given its size
+      and the current geopolitical context.
+    published: '2026-02-26T17:00:49+00:00'
+  - title: Pentagon Doesn’t Know What to Do With $500 Bn
+    url: https://consortiumnews.com/2026/02/26/pentagon-doesnt-know-what-to-do-with-500-bn/
+    text: Trump is pushing for another $500 billion for the Pentagon as he moves the
+      U.S. to the brink of war with Iran. But Pentagon officials are reportedly uncertain
+      about where to put the money, “because the amount is so large.”… Read more →
+    one_sentence_summary: Trump is advocating for an additional $500 billion for the
+      Pentagon amid escalating tensions with Iran, but Pentagon officials are reportedly
+      unsure how to allocate such a substantial amount.
+    paragraph_summary: Former President Trump is advocating for an additional $500 billion
+      in funding for the Pentagon as tensions between the U.S. and Iran escalate, potentially
+      leading the nation towards war. However, Pentagon officials are reportedly struggling
+      to determine how to allocate such a substantial amount of money, given its size
+      and the current geopolitical context.
+    published: '2026-02-26T17:00:49+00:00'
+  - title: 'Chris Hedges: The Suicidal Folly of a War with Iran'
+    url: https://consortiumnews.com/2026/02/26/chris-hedges-the-suicidal-folly-of-a-war-with-iran/
+    text: Despite the fact that no one asked for it, another regional war looms in the
+      Middle East.  By Chris Hedges  ScheerPost The Laurel and Hardy negotiating team
+      of Steve Witkoff and Jared Kushner, coupled with Trump’s appalling ignorance of
+      world affairs… Read more →
+    one_sentence_summary: Chris Hedges argues that a new regional war in the Middle
+      East is on the horizon, exacerbated by the ineffective diplomatic efforts of figures
+      like Steve Witkoff and Jared Kushner and Donald Trump's lack of understanding
+      of global issues.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, the author discusses
+      the looming threat of another regional war in the Middle East, highlighting the
+      ineffectiveness of the negotiating efforts led by Steve Witkoff and Jared Kushner,
+      as well as former President Trump's lack of understanding of global issues. Hedges
+      emphasizes that this potential conflict arises despite a lack of public demand
+      for it, suggesting that the actions and decisions of political leaders are contributing
+      to escalating tensions in the region.
+    published: '2026-02-26T09:18:42+00:00'
+  - title: 'Chris Hedges: The Suicidal Folly of a War with Iran'
+    url: https://consortiumnews.com/2026/02/26/chris-hedges-the-suicidal-folly-of-a-war-with-iran/
+    text: Despite the fact that no one asked for it, another regional war looms in the
+      Middle East.  By Chris Hedges  ScheerPost The Laurel and Hardy negotiating team
+      of Steve Witkoff and Jared Kushner, coupled with Trump’s appalling ignorance of
+      world affairs… Read more →
+    one_sentence_summary: Chris Hedges argues that a new regional war in the Middle
+      East is on the horizon, exacerbated by the ineffective diplomatic efforts of figures
+      like Steve Witkoff and Jared Kushner and Donald Trump's lack of understanding
+      of global issues.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, the author discusses
+      the looming threat of another regional war in the Middle East, highlighting the
+      ineffectiveness of the negotiating efforts led by Steve Witkoff and Jared Kushner,
+      as well as former President Trump's lack of understanding of global issues. Hedges
+      emphasizes that this potential conflict arises despite a lack of public demand
+      for it, suggesting that the actions and decisions of political leaders are contributing
+      to escalating tensions in the region.
+    published: '2026-02-26T09:18:42+00:00'
+  - title: 'Jeffrey Sachs to Trump: Give Back the Tariff Money'
+    url: https://consortiumnews.com/2026/02/25/jeffrey-sachs-to-trump-give-back-the-tariff-money/
+    text: The White House and Congress can and should provide relief to American families
+      who bore the costs of these illegal tariffs. The administration has the responsibility
+      to design such relief.  By Jeffrey D. Sachs Common Dreams President Donald Trump,
+      you took… Read more →
+    one_sentence_summary: The article argues that the White House and Congress should
+      offer financial relief to American families affected by illegal tariffs, emphasizing
+      the administration's responsibility to create such assistance.
+    paragraph_summary: In an article by Jeffrey D. Sachs, it is argued that the White
+      House and Congress have a duty to offer relief to American families affected by
+      illegal tariffs imposed during the Trump administration. The author emphasizes
+      that the current administration must take the initiative to create a plan for
+      this relief, highlighting the financial burden these tariffs have placed on citizens.
+    published: '2026-02-25T19:00:32+00:00'
+  - title: 'Jeffrey Sachs to Trump: Give Back the Tariff Money'
+    url: https://consortiumnews.com/2026/02/25/jeffrey-sachs-to-trump-give-back-the-tariff-money/
+    text: The White House and Congress can and should provide relief to American families
+      who bore the costs of these illegal tariffs. The administration has the responsibility
+      to design such relief.  By Jeffrey D. Sachs Common Dreams President Donald Trump,
+      you took… Read more →
+    one_sentence_summary: The article argues that the White House and Congress should
+      offer financial relief to American families affected by illegal tariffs, emphasizing
+      the administration's responsibility to create such assistance.
+    paragraph_summary: In an article by Jeffrey D. Sachs, it is argued that the White
+      House and Congress have a duty to offer relief to American families affected by
+      illegal tariffs imposed during the Trump administration. The author emphasizes
+      that the current administration must take the initiative to create a plan for
+      this relief, highlighting the financial burden these tariffs have placed on citizens.
+    published: '2026-02-25T19:00:32+00:00'
+  - title: Donald Trump’s Death Cards
+    url: https://consortiumnews.com/2026/02/25/donald-trumps-death-cards/
+    text: Trump’s ICE agents have resurrected the Ace of Spades death cards inserted
+      into the mouths of dead Vietnamese by U.S. troops in Vietnam more than 50 years
+      ago, writes Nick Turse. By Nick Turse TomDispatch.com Last month, Immigration
+      and Customs Enforcement… Read more →
+    one_sentence_summary: Nick Turse reports that Trump's ICE agents have revived the
+      controversial use of Ace of Spades death cards, reminiscent of a tactic used by
+      U.S. troops during the Vietnam War, to intimidate immigrants.
+    paragraph_summary: In a recent article by Nick Turse, it is reported that Immigration
+      and Customs Enforcement (ICE) agents have revived the controversial practice of
+      using "Ace of Spades" death cards, reminiscent of those used by U.S. troops during
+      the Vietnam War, where cards were placed in the mouths of deceased Vietnamese
+      individuals. This revival raises concerns about the implications of such actions
+      in contemporary immigration enforcement, drawing parallels between past military
+      practices and current policies. Turse's piece critiques the troubling symbolism
+      and potential dehumanization involved in this practice, highlighting the ongoing
+      impact of historical violence on modern law enforcement tactics.
+    published: '2026-02-25T17:00:10+00:00'
+  - title: Donald Trump’s Death Cards
+    url: https://consortiumnews.com/2026/02/25/donald-trumps-death-cards/
+    text: Trump’s ICE agents have resurrected the Ace of Spades death cards inserted
+      into the mouths of dead Vietnamese by U.S. troops in Vietnam more than 50 years
+      ago, writes Nick Turse. By Nick Turse TomDispatch.com Last month, Immigration
+      and Customs Enforcement… Read more →
+    one_sentence_summary: Nick Turse reports that Trump's ICE agents have revived the
+      controversial use of Ace of Spades death cards, reminiscent of a tactic used by
+      U.S. troops during the Vietnam War, to intimidate immigrants.
+    paragraph_summary: In a recent article by Nick Turse, it is reported that Immigration
+      and Customs Enforcement (ICE) agents have revived the controversial practice of
+      using "Ace of Spades" death cards, reminiscent of those used by U.S. troops during
+      the Vietnam War, where cards were placed in the mouths of deceased Vietnamese
+      individuals. This revival raises concerns about the implications of such actions
+      in contemporary immigration enforcement, drawing parallels between past military
+      practices and current policies. Turse's piece critiques the troubling symbolism
+      and potential dehumanization involved in this practice, highlighting the ongoing
+      impact of historical violence on modern law enforcement tactics.
+    published: '2026-02-25T17:00:10+00:00'
+  - title: 'PATRICK LAWRENCE: To Whom Are Our Liars Lying & What Is the Point of Their
+      Lies?'
+    url: https://consortiumnews.com/2026/02/25/patrick-lawrence-to-whom-are-our-liars-lying-what-is-the-point-of-their-lies/
+    text: In America’s late-imperial phase, conjured realities are preferable to reality.
+      The creak of history’s wheel has become unbearable such that forlorn attempts
+      to silence it are the only remaining resort. By Patrick Lawrence Special to Consortium
+      News To make the case… Read more →
+    one_sentence_summary: In his article, Patrick Lawrence argues that in America's
+      late-imperial phase, people increasingly prefer constructed narratives over harsh
+      realities, as the weight of historical truths becomes too difficult to bear.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      in the current late-imperial phase of America, people increasingly prefer constructed
+      narratives over harsh realities, as the weight of historical truths becomes too
+      burdensome to bear. This tendency to fabricate comforting stories serves as a
+      desperate attempt to escape the discomfort of confronting the past and present.
+    published: '2026-02-25T08:58:37+00:00'
+  - title: 'PATRICK LAWRENCE: To Whom Are Our Liars Lying & What Is the Point of Their
+      Lies?'
+    url: https://consortiumnews.com/2026/02/25/patrick-lawrence-to-whom-are-our-liars-lying-what-is-the-point-of-their-lies/
+    text: In America’s late-imperial phase, conjured realities are preferable to reality.
+      The creak of history’s wheel has become unbearable such that forlorn attempts
+      to silence it are the only remaining resort. By Patrick Lawrence Special to Consortium
+      News To make the case… Read more →
+    one_sentence_summary: In his article, Patrick Lawrence argues that in America's
+      late-imperial phase, people increasingly prefer constructed narratives over harsh
+      realities, as the weight of historical truths becomes too difficult to bear.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence argues that
+      in the current late-imperial phase of America, people increasingly prefer constructed
+      narratives over harsh realities, as the weight of historical truths becomes too
+      burdensome to bear. This tendency to fabricate comforting stories serves as a
+      desperate attempt to escape the discomfort of confronting the past and present.
+    published: '2026-02-25T08:58:37+00:00'
   - title: 'Year 4: The Timeline That Tells the Tale'
     url: https://consortiumnews.com/2026/02/24/year-4-the-timeline-that-tells-the-tale/
     text: Without historical context, which is buried by corporate media, it’s impossible

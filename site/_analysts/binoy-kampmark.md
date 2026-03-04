@@ -7,14 +7,409 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past week in global affairs has seen a resurgence of exclusionary politics, the erosion of international norms, and mounting skepticism toward the motives of Western powers. In Australia, the political climate is increasingly shaped by populist anxieties and a return to hardline stances on immigration. **Binoy Kampmark** observes that the Liberal Party’s latest anti-immigration proposals, “influenced by populist sentiments and reminiscent of Donald Trump’s policies,” signal a regression toward “exclusionary and bigoted attitudes,” undermining Australia’s multicultural values. This shift is not isolated, but part of a broader trend of right-wing resurgence, as evidenced by the rising fortunes of Pauline Hanson’s One Nation party amid a faltering center-right Coalition.
+  Australia’s evolving legislative and political landscape continues to draw scrutiny, with recent government actions sparking debate over civil liberties, social cohesion, and the nation’s strategic posture. The past days have seen several significant developments, each reflecting broader trends in governance and international relations.
   
-  On the international stage, the expiration of the New START treaty on February 5 has marked a significant setback for nuclear arms control. The absence of this key agreement between the U.S. and Russia raises the specter of a renewed arms race and further destabilization. **Kampmark** warns that “the future of international nuclear agreements is now in jeopardy,” with little sign of immediate diplomatic efforts to replace the treaty.
+  The Australian government’s newly enacted social media ban for individuals under 16 has become a flashpoint for civil rights discussions. While authorities tout the measure as a step toward healthier youth habits, critics argue the policy is “condescending and harmful,” lacking robust evidence of social media’s net dangers and potentially isolating vulnerable groups. **Binoy Kampmark** notes that the ban is already facing legal challenges for infringing on constitutional rights, and emphasizes that “the evidence base for such a sweeping restriction is, at best, questionable.” The majority of analysts suggest this move is more symbolic than substantive, with a high likelihood of judicial pushback and possible policy reversal or modification in the coming months.
   
-  Meanwhile, the U.S. continues to face criticism for its unilateral actions abroad. The recent abduction of former Venezuelan President Nicolás Maduro by U.S. authorities has set a dangerous precedent, undermining principles of sovereignty and international law. Allied nations have offered only tepid responses, further eroding the credibility of Western commitments to democratic norms.
+  Meanwhile, the Queensland government’s push for an antisemitism bill has reignited debates over free speech and state overreach. The legislation, intended to combat hate speech, is criticized for its broad definitions and the risk of criminalizing legitimate political expression. **Kampmark** observes that the bill “grants excessive powers to the state and lacks evidence of a significant antisemitic problem,” echoing concerns from civil liberties advocates. The consensus is that the bill, if passed in its current form, will face significant legal and public opposition, with a high chance of amendments or judicial review.
   
-  Looking ahead, the trends point to an intensification of nationalist and exclusionary politics in Australia, with a high chance of further policy proposals targeting immigration and diversity. Internationally, the breakdown of arms control frameworks and the normalization of extraterritorial interventions by major powers are likely to persist. As **Kampmark** notes, these developments “most definitely” signal a period of heightened geopolitical instability and a retreat from multilateralism.
+  On the international front, Australia’s defense strategy remains under the microscope. The AUKUS pact, particularly the acquisition of Virginia-class submarines, is mired in uncertainty as U.S. lawmakers hesitate to transfer critical assets. **Kampmark** argues that the arrangement “primarily benefits the U.S. military-industrial complex while undermining Australia’s sovereignty.” The prevailing view is that Australia’s strategic autonomy is at risk, and there is a high chance the submarine transfer will be delayed or renegotiated, with Canberra left to reassess its defense priorities.
+  
+  **Trends and Predictions:**  
+  The dominant trend is a growing tension between security-driven policymaking and the protection of civil liberties. Legislative initiatives in Australia are increasingly challenged on constitutional and ethical grounds, suggesting a period of heightened legal contestation. On defense, Australia’s reliance on external partners is likely to prompt a reevaluation of its strategic posture. I guarantee that legal and public scrutiny will intensify around both domestic and foreign policy decisions, with most major initiatives facing significant hurdles before full implementation.
 articles:
+  - title: 'Condescending and Harmful: Australia’s Social Media Ban'
+    url: https://www.counterpunch.org/2026/02/26/condescending-and-harmful-australias-social-media-ban/
+    text: 'With much in the way of pomp and false premises, the social media ban in
+      Australia for those under 16-years-old was celebrated as a healthy incentive to
+      encourage children to get off the screens and into the playgrounds. A stampede
+      of reinvigorated youth would rush to libraries to borrow books. Sport would be
+      taken up with vim and vigour. Conversations in person would, miraculously, take
+      place with renewed vigour. Prime Minister Anthony Albanese had treacly visions
+      of young Australians growing up playing in the outdoors with their friends, pursuing
+      the game of “footy” and swimming and other sports, “discovering music and art,
+      being confident and happy in the classroom and at home.”
+
+
+      Coming into effect from December 10 last year, digital platforms would, as announced
+      by the eSafety Commissioner Julie Inman Grant, “have to take reasonable steps
+      to prevent Australians under the age of 16 from creating or keeping an account.”
+      This was not so much a “ban” as “a delay to having accounts.” An assessment by
+      the Office of Impact Analysis cited the concerns of Queensland’s Chief Health
+      Officer in stating that “existing studies provide compelling indications of possible
+      negative links between unrestrained social media usage and the cognitive, emotional,
+      and social wellbeing of young people.” However, the Queensland report also noted
+      the benefits of social media, “including offering a sense of belonging and reducing
+      isolation” and admitted that its findings “have not yet reached a consensus fully
+      supported by peer-reviewed research.”
+
+
+      The ban was implemented despite a growing number of studies faulting the premise
+      that social media is demonically harmful for the young. (These have been purposely
+      or carelessly ignored by the office of the eSafety Commissioner and its various
+      acolytes.) A 2023 study by Andrew Przybylski from the Oxford Internet Institute
+      and his colleague Matti Vuorre examining well-being data of 946,798 people across
+      72 countries between 2008 and 2019 found that, “Although reports of negative psychological
+      outcomes associated with social media are common in academic and popular writing,
+      evidence for harms is, on balance, more speculative than conclusive.”
+
+
+      Work by the respected Pew Research Center on children and their interaction with
+      the internet found much satisfactionwith social media in terms of making them
+      feel more connected with friends and their social lives, providing a community
+      of support and providing a place for creative expression.
+
+
+      More recent studies further bolster the argument against such ham-fisted regulations.
+      Research published this year in the Journal of JAMA Pediatrics shed a more nuanced
+      light on the field, with a cohort study of 100,991 Australian adolescents (grades
+      4-12) over 3 years revealing a U-shaped association in terms of detrimental or
+      positive influences of social media use. In other words, it is not linear, with
+      moderate social media use being “associated with the best well-being outcomes.”
+      Not using social media, especially for boys, and using such platforms excessively,
+      resulted in poorer well-being, though the authors express caution that “these
+      findings are observational and should be interpreted cautiously.”
+
+
+      In December last year the Journal of Public Health also published an interesting
+      study by researchers at the University of Manchester on 25,000 11- to 14-year-olds
+      over three school years. “Our findings,” the authors note, “challenge the widespread
+      assumption that time spent on these [social media and gaming] technologies is
+      inherently harmful and highlight the need for more nuanced perspectives that consider
+      the context and individual differences in their use.”
+
+
+      Critics such as Cyber Safety Solutions founder Susan McLean have also pointed
+      to the sheer futility of such bans. “For every single bad thing that has been
+      caused by a banned social media platform, I can provide you with a platform that
+      is not going to be banned where the same thing has happened.” Children would also
+      be more than adept at circumventingthe measure. The publication Techdirt, which
+      has abominated the Australian measure from the outset, saw the legislation as
+      “based on a moral panic and a wide variety of faulty assumptions, including that
+      social media websites are inherently bad for kids, something none of the evidence
+      supports.” Even if harmful, children and adults could be instructed on how best
+      to use these platforms, mindful of age, “meaning understanding the difference
+      between risks and harms – not banning it altogether.”
+
+
+      This month, Guardian Australia ran a bruising piece documenting the ban’s isolating
+      effects on various members of the disabled community. An autistic 14-year-old
+      by the name of Indy told the paper that “social media was my main way of socialising
+      and without it I feel like I’ve lost my friends.” Ezra Sholl, a 15-year-old Victorian
+      teenager and disability advocate, also expressed the view that, “As a teenager
+      with a severe disability, social media gives me an avenue to connect with my friends
+      and have access to communities with similar interests.”
+
+
+      As if things could get any uglier for the zealots, the Australian outlet Crikey
+      spotted that the marketing campaign behind the social media ban dubbed 36 months
+      was run by an advertisement company by the name of FINCH, the same company retained
+      by the online betting firm TAB to fund its Get Your Bet On campaign. The 36 months
+      campaign was advertised as a sincere, grassroots effort to improve the mental
+      health of youth. “Because healthy teens don’t raise themselves,” it condescendingly
+      declared. “They’re raised by adults brave enough to build better systems.” The
+      effort turned out to be funded to the hilt by FINCH, which also provided staff
+      to the campaign, a fact confirmed by the campaign’s managing director Greg Attwells.
+
+
+      While the Albanese government clambered to the summit of moral high ground in
+      fighting Big Tech and its attempt to corrupt young minds with fiendish social
+      media, it has dragged its feet in addressing advertising in gambling, despite
+      the recommendations of the bipartisan Parliamentary Inquiry into online gambling
+      and its impacts on those experiencing gambling harm. Clearly, one lot of harmful
+      effects is worth more attention than the other.
+
+
+      The ban is facing a challenge in the Australian High Court. Two 15-year-olds,
+      Noah Jones and Macy Neyland, aided by the Digital Freedom Project, are arguing
+      that the policy is disproportionate and an unwarranted impediment on the implied
+      constitutional right to political communication. Given the weight of evidence
+      bountifully stacked and growing against the merits of these foolish, self-defeating
+      restrictions, Parliament should spare the plaintiffs the trouble and repudiate
+      the ban.'
+    one_sentence_summary: The Australian government's social media ban for those under
+      16, celebrated as a means to promote healthier lifestyles among youth, faces criticism
+      for lacking substantial evidence of harm from social media, ignoring studies highlighting
+      its benefits, and potentially isolating vulnerable communities, while also being
+      challenged in court for infringing on constitutional rights.
+    paragraph_summary: The recent social media ban in Australia for individuals under
+      16, celebrated by Prime Minister Anthony Albanese as a means to encourage outdoor
+      activities and in-person interactions, has faced significant criticism for its
+      lack of empirical support and potential negative consequences. Set to take effect
+      on December 10, the ban requires digital platforms to prevent under-16s from creating
+      accounts, but many studies, including those from the Oxford Internet Institute
+      and Pew Research Center, suggest that social media can foster connections and
+      community among youth. Critics argue that the ban is based on flawed assumptions
+      about the dangers of social media, with some highlighting its isolating effects
+      on disabled individuals who rely on these platforms for socialization. Additionally,
+      the campaign promoting the ban has been scrutinized for its ties to an advertising
+      firm with connections to the gambling industry, raising questions about the government's
+      priorities. As the ban faces legal challenges in the High Court, there is a growing
+      call for Parliament to reconsider the policy in light of the mounting evidence
+      against it.
+    published: '2026-02-26T06:52:32+00:00'
+  - title: 'Not Forgetting the Victims: Club Epstein and Crimes Against Humanity'
+    url: https://www.counterpunch.org/2026/02/24/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity/
+    text: 'With a sex trafficking, flesh peddling empire of favours, logistics and the
+      good time to be had by the powerful, the gigantic scale of Jeffrey Epstein’s criminal
+      network continues to disturb. The least savoury digital library on the planet,
+      available through the offices of the US Justice Department as the Epstein Library,
+      is being combed through with its 3.5 million items comprising 180,000 images,
+      2000 videos, email and text correspondence, not to mention an assortment of miscellaneous
+      material.
+
+
+      The combing process has come to displace the sheer gravity of Epstein’s dehumanising
+      enterprise. Like a gold mine of ill-repute, slime and crime, researchers, journalists,
+      political hacks and the purely voyeuristic are fossicking for material about the
+      next public figure to be tainted. Agendas abound. The central agenda – ruined
+      lives and the despoiled innocence of young women and girls, and their retraumatising
+      with shoddily redacted files – has been eclipsed.
+
+
+      On February 17, a panel of United Nations experts appointed by the Human Rights
+      Council issued a sharp statement on the Epstein files urging a return to a focus
+      on the victims. The members include, among others, Reem Absalem, Special Rapporteur
+      on violence against women and girls, its causes and consequences, George Katrougalos,
+      independent expert on the promotion of a democratic and equitable international
+      order, and Ana Brian Nougrères, Special Rapporteur on the right to privacy.
+
+
+      The documents revealed, according to the statement, “disturbing and credible evidence
+      of systematic and large-scale sexual abuse, trafficking and exploitation of women
+      and girls”. The panel members took note of crimes “committed against the backdrop
+      of supremacist beliefs, racism, corruption, extreme misogyny, and the commodification
+      and dehumanisation of women and girls from different parts of the world.” A “global
+      criminal enterprise” had “raised terrifying implications of the level of impunity
+      in such crimes.”
+
+
+      The panel further proposed that the severe nature of the crimes required stern
+      reclassification. “So grave is the scale, nature, systematic character, and transnational
+      reach of these atrocities against women and girls, that a number of them may reasonably
+      meet the legal threshold of crimes against humanity.” Acts such as sexual slavery,
+      rape, enforced prostitution, trafficking, persecution, torture or murder can fall
+      within such a determination, and if so, would deserve prosecution in international
+      and domestic courts.
+
+
+      Unfortunately, the Department of Justice shows little interest in pursuing any
+      of those named in the files, let alone conducting genuinely impartial investigations.
+      (Impartiality is not a strong suit of the Trump administration.) Deputy US Attorney
+      General Todd Blanche, in dismissive remarks made early this month, observed that,
+      “There’s a lot of correspondence. There’s a lot of emails. There’s a lot of photographs.
+      But that doesn’t allow us necessarily to prosecute somebody.” Just because the
+      victims wanted “to be made whole” did not “mean we can just create evidence or
+      that we can just kind of come up with a case that isn’t there”.
+
+
+      The bountiful nature of the Epstein files would suggest no evidence of any sort
+      needs to be created, with the late financier and convicted paedophile most prolific
+      in communicating with various associates on meetings, rendezvous and logistical
+      matters. And there is that troubling failure to disclose the remaining 3 million
+      files or so that remain sealed.
+
+
+      The panel experts relevantly insist that the allegations were so “egregious in
+      nature” as to require “independent, thorough, and impartial investigation, as
+      well as inquiries to determine how such crimes could have taken place for so long.”
+      States were under an obligation to prevent, investigate and punish instances of
+      violence against women and girls, including inflicted by private perpetrators.
+
+
+      Strong words were also reserved for the slipshod process of disclosure that left
+      unredacted the identities and details of a multitude of victims while sparing
+      the powerful, participating members of Club Epstein. “The grave errors in the
+      release process underscore the urgent need for victim-centered standard operating
+      procedures for disclosure and redaction, so that no victim suffers further harm.”
+      That ship had sailed well before, given the utter lack of interest shown by the
+      DOJ in involving victims in the process. Six survivors in a September 2025 interview
+      confirmed that fact.
+
+
+      In the view of the panel, failing “to safeguard [the victims’] privacy puts them
+      at risk of retaliation and stigma. The reluctance to fully disclose information
+      or broaden investigations, has left many survivors feeling retraumatised and subjected
+      to what they describe as ‘institutional gaslighting’.”
+
+
+      To date, promised investigations, such as those into former UK ambassador to Washington
+      Lord Peter Mandelson, focus less on the victims than commercially and politically
+      sensitive information he allegedly disclosed to Epstein when occupying public
+      office. The standard formula used by those trapped in the web has been the fool’s
+      defence, the implausible bliss of ignorance. There have been resignations aplenty,
+      and cataracts of apology.
+
+
+      The UN panel had harsh words for such woeful responses, insisting on a few courses
+      of action. Lift the statute of limitations preventing the prosecution for grave
+      crimes linked to the Epstein enterprise. Provide full remedies and reparations
+      for the victims. Government failures to “effectively investigate, and prosecute
+      those responsible for these crimes, including by complicity or acquiescence, where
+      jurisdiction exists, risks undermining legal frameworks aimed at preventing and
+      responding to violence against women and girls.”
+
+
+      The Trump era of crude, vulgar might as the sole indicator of worth does not augur
+      well for human rights advocates demanding investigations and prosecutions into
+      the victims of Epstein’s predation. Even before President Donald Trump got the
+      keys to the White House, there was impunity, complicity and permissiveness in
+      the depravities of Club Epstein, a state of affairs tolerated, even encouraged
+      by a ruling class bankrupted and soiled. If you were not in it, as the reprehensible
+      socialite Lady Victoria Hervey scorned, you were a “loser”.'
+    one_sentence_summary: The article discusses the disturbing revelations from the
+      extensive Jeffrey Epstein files, highlighting the need for a victim-centered approach
+      to investigations into his sex trafficking network, while criticizing the lack
+      of accountability and the failure of the U.S. Justice Department to pursue those
+      implicated in the crimes.
+    paragraph_summary: The article discusses the extensive criminal network of Jeffrey
+      Epstein, focusing on the disturbing revelations from the vast collection of documents
+      known as the Epstein Library, which contains evidence of widespread sexual abuse
+      and trafficking of women and girls. A panel of UN experts has called for a renewed
+      focus on the victims, highlighting the need for thorough investigations into the
+      systematic exploitation that occurred under a backdrop of misogyny and corruption.
+      They argue that the severity of these crimes may warrant classification as crimes
+      against humanity, yet the U.S. Department of Justice appears disinterested in
+      pursuing accountability for those implicated. The panel criticizes the mishandling
+      of victim information during the disclosure process, which has led to further
+      trauma for survivors, and emphasizes the necessity for legal reforms to ensure
+      justice and protection for victims. The article concludes by expressing skepticism
+      about the likelihood of meaningful action under the current political climate,
+      which has historically shown a lack of commitment to human rights and accountability
+      for the powerful.
+    published: '2026-02-24T06:52:29+00:00'
+  - title: 'Punishing Language: Queensland’s Antisemitism Bill'
+    url: https://www.counterpunch.org/2026/02/23/punishing-language-queenslands-antisemitism-bill/
+    text: 'In a feat of enterprising delusion and sinister suppression, Australia’s
+      second largest state has decided to deal with what it regards as an antisemitic
+      problem. After last December’s attacks on Sydney’s Bondi Beach by two gunmen on
+      attendees of a Hanukkah event that left 15 people dead, it has become modish to
+      insist that a blight has gripped the continent. On February 8, the State government
+      of Premier David Crisafulli announced it was “delivering strong, decisive action
+      to combat antisemitism [and] address terrorist-motivated offending to make Queensland
+      safer.”
+
+
+      As with other parts of the country, antisemitism has been singled out as the exceptional
+      hatred, so unique as to require singular laws and singular treatment. (Others,
+      such as Islamophobia, do not merit similar attention.) In doing so, lawmakers
+      betray that cardinal principle in passing legislation: keep the subject matter
+      general and avoid the temptation towards exceptionalism.
+
+
+      Despite existing federal laws already targeting protest, prohibited symbols and
+      prohibited organisations, the States have sped into their legislative chambers
+      to propose legislation that further stifles speech and lawful assembly. There
+      is little by way of evidence that the state of Queensland has a raging antisemitic
+      problem, but the conservative government of Crisafulli is cocksure that its measures
+      are “making Queensland safer after Labor failed to crackdown on antisemitism during
+      their decade of decline.” These measures come in the form of the Fighting Antisemitism
+      and Keeping Guns out of the Hands of Terrorists and Criminals Amendment Bill 2026
+      (Qld), which is being rushed through the review process with a mere seven days
+      for public submissions. Debate and firm scrutiny are to be kept to a minimum.
+
+
+      The prohibitions demonstrate a cloddish, untutored approach to Middle Eastern
+      politics and religion. In what amounts to the fuzzy drafting of an ignoramus,
+      Islamic State is bracketed with Hamas; protestors are not permitted to display
+      the Hamas flag and emblem, nor the Islamic State flag. Hezbollah and Nazi symbols
+      are likewise prohibited. But the legislation itself does not expressly ban these
+      symbols. We only know this from the ministerial release by Crisafulli and the
+      Queensland Attorney-General Deb Frecklington, suggesting that executive fiat and
+      arbitrary determination will be the norm.
+
+
+      What matters is that the prohibited symbol is publicly distributed, published
+      or publicly displayed “in a way that might reasonably be expected to cause a member
+      of the public to feel menaced, harassed or offended”. Penalties for displaying
+      them will range from 6 months to 2 years imprisonment.
+
+
+      Language itself is targeted with a maximum of two years imprisonment for using
+      outlawed expressions, a capricious measure that would sit well with any crumbling
+      police state stewing in paranoia. Clearly failing to understand that protests,
+      because they are often the product of the understandably aggrieved and relevantly
+      outraged, will and shouldoffend, the legislation also grants the Attorney-General
+      powers to target “the public distribution, publication, public display or public
+      recitation of a prescribed phrase to cause, menace, harassment [sic] or offence,
+      applicable to: ‘globalise the intifada’ [and] ‘from the river to the sea’.”
+
+
+      Again, these two expressions are not explicitly mentioned in the bill but in the
+      joint ministerial statement. Future prohibitions can be expected to be based on
+      the vacant musings of a fickle politician. With added absurdity, there is no requirement,
+      in making a prohibited expression regulation, to have either an actual victim
+      or the need for causing actual harm.
+
+
+      Thankfully, sound critics did appear. The State’s most prominent defender of civil
+      liberties, Terry O’Gorman, was aghast. In his capacity as Vice President of the
+      Queensland Council for Civil Liberties (QCCL), the eternal warrior against police
+      state idiocy made a sensible critique of the government’s effort to ban the phrases
+      in question. “The meaning of both these phrases is highly contested. To many Jewish
+      people the phrases are slogans that can escalate tensions and fear. To those using
+      the phrases particularly in anti-Israel public demonstrations these phrases can
+      be used to oppose Israel’s actions in Gaza and in the increasingly violent West
+      Bank settler movement.” In his view, given that such phrases had ambiguous meanings
+      much dependent on the political stance of the recipient, they should not be banned
+      unless accompanied by an incitement to violence. “Indeed, banning any slogan in
+      public protests particularly gatherings that does not contain an immediate incitement
+      to violence is an unjustified attack and limitation on freedom of speech.”
+
+
+      In its submission to the Justice, Integrity and Community Safety Committee (the
+      Committee), the QCCL also argues that, “A clear distance needs to be kept between
+      words and wounds, not least because words are usually offered as the alternative
+      to violence. Only words which incite or very closely resemble violence should
+      be unlawful.” The views of Jonathan Rauch articulated in his magisterial Kindly
+      Inquisitors are cited on the issue of whether racial epithets are speech or bullets.
+      “My own view is that words are words and bullets are bullets and that it is important
+      to keep this straight.”
+
+
+      O’Gorman and his band of able volunteers at the QCCL are hardly Cassandras weeping
+      in the wilderness. The right wing think tank, the Institute of Public Affairs,
+      is also troubled by the bill. IPA research fellow Margaret Chambers reproached
+      the legislation for not addressing “the underlying problem” of “sectarian attitudes”
+      while taking issue with the futility of ministerial powers to ban certain phrases.
+      This “will do little to prevent people from privately subscribing to the ideology
+      or adopting alternative phrases to express the same ideas.” In her submission
+      to the Committee, Chambers further observes that debate “major public policy questions
+      would be constrained if the Minister believes it would incite hostility.” This
+      could cover criticism of the Commonwealth’s migration program or “state government
+      proposals for ‘treaties’ based on citizens’ racial background.”
+
+
+      In summary, the bill conferred extraordinary powers on a single Minister leading
+      to overreach; enabled the government to criminalise political speech using “ambiguous
+      and subjective standards for unlawful phrases”; and had inadequate safeguards
+      to limit ministerial power.
+
+
+      And what of the people this bill is meant to protect? Queensland Jewish Board
+      of Deputies president Jason Steinberg expressed his approval with the proposed
+      assault on language and symbols. “This Bill moves beyond words and delivers real,
+      practical protections for our community and for all people targeted by hate.”
+      Neither practicality nor reality applies to this exercise; after the bill’s inevitable
+      passage, there will be much mischief, and little by way of addressing the disease.
+      The patient of free speech will, however, be euthanised.'
+    one_sentence_summary: Australia's Queensland government is advancing controversial
+      legislation aimed at combating antisemitism, which critics argue infringes on
+      free speech and lacks evidence of a significant antisemitic problem, while granting
+      excessive powers to the state and potentially criminalizing political expression.
+    paragraph_summary: Australia's Queensland government, led by Premier David Crisafulli,
+      has proposed the Fighting Antisemitism and Keeping Guns out of the Hands of Terrorists
+      and Criminals Amendment Bill 2026 in response to perceived antisemitism following
+      a tragic attack at a Hanukkah event. The legislation aims to combat antisemitism
+      through strict prohibitions on certain symbols and expressions, including those
+      associated with groups like Hamas and Islamic State, without clear definitions
+      or requirements for actual harm. Critics, including civil liberties advocates
+      and think tanks, argue that the bill undermines free speech, imposes vague and
+      subjective standards for what constitutes unlawful expression, and grants excessive
+      power to the Attorney-General. While some in the Jewish community support the
+      bill, concerns remain that it will stifle political discourse and fail to address
+      the root causes of hate, ultimately harming the principle of free speech in Queensland.
+    published: '2026-02-23T06:51:44+00:00'
   - title: 'Fearing Immigration: The Australian Coalition and the Return of Bad Habits'
     url: https://www.counterpunch.org/2026/02/19/fearing-immigration-the-australian-coalition-and-the-return-of-bad-habits/
     text: 'Killing political leaders – metaphorically and actually – often ushers in

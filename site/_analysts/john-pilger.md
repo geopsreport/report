@@ -7,21 +7,54 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As the world marks four years since Russia’s invasion of Ukraine, the geopolitical landscape remains deeply shaped by the enduring crises in Eastern Europe and the Middle East, as well as ongoing debates over accountability and justice in the United States.
+  As global crises intensify, the human cost of geopolitical decisions remains at the forefront of independent analysis. The latest reports highlight the enduring consequences of U.S. foreign policy in Iran, the ongoing legal and social reckoning with police violence in the United States, and the persistent international debate over accountability for actions in Palestine.
   
-  Recent analysis by **Joe Lauria** (cited in John Pilger’s February 24, 2026 report) revisits the origins of the Ukraine conflict, emphasizing Russia’s claim that its military operation was intended not for occupation but for “demilitarizing” and “de-Nazifying” Ukraine. Lauria situates this within a broader context of escalating U.S.-Russia tensions over the past three decades, arguing that Western policies contributed to Russia reaching a “breaking point.” This perspective continues to inform diplomatic stalemates, with little progress toward resolution. The prevailing view among analysts is that the conflict’s underlying causes remain unaddressed, making a negotiated settlement unlikely in the near term.
+  **Iran: Human Cost of U.S. Policy**
+  Reflecting on the aftermath of American interventions, **Dennis Kucinich** describes scenes of Iranian families searching for loved ones amid rubble, underscoring the "madness that often characterizes leadership in the U.S." The narrative brings renewed attention to the suffering inflicted on civilians, particularly during the Trump Administration, and serves as a stark reminder of the far-reaching impact of military and political strategies.
   
-  Meanwhile, in the United States, the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited debates about systemic racism and police accountability. **Marjorie Cohn** highlights the legal complexities surrounding the case, noting the proximity to the site of George Floyd’s death and the persistent challenges in achieving justice for victims of police violence. The incident underscores the ongoing struggle to reform law enforcement practices and address institutional biases.
+  **United States: Police Violence and Accountability**
+  In Minneapolis, the fatal shooting of Renee Good by ICE agent Jonathan Ross has reignited debates over systemic racism and justice. **Marjorie Cohn** examines the legal complexities surrounding the case, noting the proximity to the site of George Floyd's death and the broader context of police violence. The incident exemplifies the persistent challenges in achieving accountability and reform within the U.S. legal system.
   
-  On the international stage, the crisis in Palestine continues to draw condemnation and calls for action. **Nicolas J. S. Davies** criticizes President Trump’s “20-point Gaza plan,” arguing that it exacerbates the humanitarian situation and calling for robust international intervention. The majority of independent analysts echo Davies’ call for accountability and a multilateral approach to ending the violence and occupation.
+  **Palestine: Calls for International Intervention**
+  The humanitarian crisis in Palestine continues to draw international scrutiny. **Nicolas J. S. Davies** argues that global governments have the authority—and responsibility—to halt what he terms the "genocide and illegal occupation of Palestine." He criticizes President Trump's "20-point Gaza plan" for exacerbating the crisis and calls for coordinated international action to end the violence and oppression.
   
-  **Trends and Predictions:**  
-  - The Ukraine conflict is set to persist, with no high-confidence indicators of a breakthrough; the majority of sources agree that Western-Russian relations will remain tense and adversarial.
-  - In the U.S., public scrutiny of law enforcement is expected to intensify, with a high chance of renewed protests and legal challenges related to police violence.
-  - The situation in Palestine will likely remain a flashpoint in global geopolitics, with increasing international pressure for intervention, though meaningful change is only quite likely if broader coalitions act beyond U.S. influence.
-  
-  In summary, the geopolitical climate is marked by entrenched conflicts and slow-moving efforts toward justice and accountability, with most analysts predicting continued instability and confrontation in the months ahead.
+  **Trends and Predictions**
+  Across these issues, the majority of analysts emphasize the urgent need for accountability and systemic change. There is a high chance that international pressure on the U.S. and Israel will intensify, particularly as more voices demand intervention and justice for affected populations. The persistence of grassroots activism and legal challenges in both the U.S. and abroad signals a growing movement toward confronting entrenched power structures. Most definitely, the human consequences of geopolitical decisions will remain central to global discourse in the coming months.
 articles:
+  - title: Iran, Epstein & Human Sacrifice
+    url: https://consortiumnews.com/2026/03/02/iran-epstein-human-sacrifice/
+    text: Journey to the center of the world of American leaders’ madness and ruin,
+      writes Dennis Kucinich, to see desperate Iranian parents picking through rubble,
+      searching for any signs of their little girls. By Dennis Kucinich Substack The
+      Trump Administration, at… Read more →
+    one_sentence_summary: Dennis Kucinich reflects on the devastating impact of American
+      leadership decisions, highlighting the plight of Iranian parents sifting through
+      rubble in search of their missing daughters.
+    paragraph_summary: In his article, Dennis Kucinich reflects on the devastating impact
+      of American foreign policy, particularly during the Trump Administration, on Iranian
+      families. He describes the harrowing scene of desperate parents sifting through
+      rubble in search of their missing daughters, highlighting the human cost of political
+      decisions and the madness that often characterizes leadership in the U.S. Kucinich's
+      narrative serves as a poignant reminder of the consequences of war and conflict
+      on innocent lives.
+    published: '2026-03-03T03:05:58+00:00'
+  - title: Iran, Epstein & Human Sacrifice
+    url: https://consortiumnews.com/2026/03/02/iran-epstein-human-sacrifice/
+    text: Journey to the center of the world of American leaders’ madness and ruin,
+      writes Dennis Kucinich, to see desperate Iranian parents picking through rubble,
+      searching for any signs of their little girls. By Dennis Kucinich Substack The
+      Trump Administration, at… Read more →
+    one_sentence_summary: Dennis Kucinich reflects on the devastating impact of American
+      leadership decisions, highlighting the plight of Iranian parents sifting through
+      rubble in search of their missing daughters.
+    paragraph_summary: In his article, Dennis Kucinich reflects on the devastating impact
+      of American foreign policy, particularly during the Trump Administration, on Iranian
+      families. He describes the harrowing scene of desperate parents sifting through
+      rubble in search of their missing daughters, highlighting the human cost of political
+      decisions and the madness that often characterizes leadership in the U.S. Kucinich's
+      narrative serves as a poignant reminder of the consequences of war and conflict
+      on innocent lives.
+    published: '2026-03-03T03:05:58+00:00'
   - title: 'Year 4: Why Russia Invaded'
     url: https://consortiumnews.com/2026/02/24/year-4-why-russia-invaded/
     text: 'HOW IT HAPPENED: Russia says it has no intentions of controlling Ukraine

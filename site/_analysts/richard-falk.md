@@ -7,14 +7,334 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The current geopolitical landscape remains marked by the erosion of international law and the ascendancy of power politics, a trend that has accelerated since the mid-20th century and is now reaching new levels of unpredictability. As **Richard Falk** notes in his recent reflections, the present moment is shaped by the resurgence of far-right and nationalist movements, exemplified by figures such as Trump, which continue to marginalize established legal norms and multilateral institutions.
+  The global geopolitical landscape remains fraught with tension and uncertainty, marked by the erosion of international legal norms and the rise of power-centric politics. Recent analyses underscore the persistence of these trends, with new details emerging about elite impunity, the marginalization of international law, and the challenges facing global security institutions.
   
-  A key development in this context is the ongoing fallout from the U.S. military operation in Venezuela on January 3, 2026. The intervention, which included the kidnapping of the Venezuelan president, has been widely criticized as emblematic of what **Falk** terms "nihilistic geopolitics." This approach not only undermines the authority of the United Nations but also signals a broader disregard for human rights and the rule of law. The UN's perceived complicity in legitimizing these actions further erodes its credibility as a guardian of global security.
+  A significant development is the continued exposure of entrenched elite networks, as detailed by **Richard Falk** in his investigation into the Epstein case. Falk highlights how "Epstein's connections to powerful figures expose a hidden network of elite influence that evades legal and moral accountability," underscoring the broader issue of impunity among the global elite and the exploitation of vulnerable populations. This revelation adds to the growing perception that legal and ethical standards are selectively applied, particularly for those with access to power.
   
-  In the Middle East, the Trump administration's proposal for an independent peace council to address the Gaza conflict continues to draw scrutiny. **Falk** argues that such initiatives, which bypass the United Nations, are both illegitimate and detrimental to the rights of the Palestinian people. The push for a "Greater Israel," as articulated by Israeli officials, underscores the entrenchment of unilateralism and the diminishing prospects for a negotiated settlement.
+  On the international stage, the weakening of global legal frameworks remains a central concern. **Richard Falk** argues that "the rise of far-right and nationalist movements, exemplified by figures like Trump, is marginalizing international law in global politics," reflecting a shift toward unilateralism and away from multilateral cooperation. This trend is evident in recent U.S. actions in Venezuela, which Falk describes as "indicative of a troubling trend towards nihilistic geopolitics that undermines international law and the United Nations' ability to maintain global security and uphold legal norms." The complicity of international bodies like the UN in legitimizing such actions further erodes confidence in established mechanisms for conflict resolution and human rights protection.
   
-  Looking ahead, the prevailing trend is one of deepening uncertainty and instability. The majority of analysts agree that the weakening of international law and the sidelining of multilateral frameworks are likely to persist. As **Falk** observes, "there is a high chance" that power politics will continue to dominate, with legal and ethical considerations playing an increasingly marginal role. While the future remains unknowable, the current trajectory suggests a world order defined less by cooperative norms and more by the assertive pursuit of national interests.
+  In the Middle East, the Trump administration's approach to conflict mediation—particularly the establishment of independent peace councils outside the UN framework—has been criticized as illegitimate and detrimental to the rights of affected populations. Falk warns that such initiatives "favor wrongdoers and undermine established mechanisms like the United Nations," raising concerns about the future of international conflict resolution.
+  
+  Looking ahead, the prevailing trend is one of increasing unpredictability and instability. The majority of analysts, including Falk, suggest there is a high chance that the current trajectory—marked by elite impunity, the sidelining of international law, and the weakening of global institutions—will persist. Without significant reforms or a renewed commitment to multilateralism, it is quite likely that geopolitical tensions and legal uncertainties will continue to define the international order in the near future.
 articles:
+  - title: 'The Epstein Entrapment Network: revelations of crime and the predatory erotic
+      lives of the rich and powerful'
+    url: https://richardfalk.org/2026/02/27/the-epstein-entrapment-network-revelations-of-crime-and-the-predatory-erotic-lives-of-the-rich-and-powerful/
+    text: '[Preliminary Note : Responses to Qs addressed to me by a Turkish journalist,
+      Murat Sofuoğlu, affiliated with TRT World . My responses have been modified.]
+      What do Epstein’s ties with the high and mighty say about Western ‘elite’ structures?
+      These ties reveal networks of power and influence that has long been shielded
+      from legal accountability, and even moral scrutiny. Epstein’s network of friends
+      and associates gives to the wider public some sense of the lure of decadence with
+      regard to sexual gratification. After Epstein’s first conviction of criminal abuse
+      revealed in graphic detail in the batch of documents so far released. The dimensions
+      of predatory sexuality, victimizing young women and old men, are convincingly
+      confirmed in a documentary film titled Jeffrey Epstein: Filthy Rich. The film
+      also reveals a total absence of empathy for the helpless victims of these unlawful
+      and despicable forms of sexual gratification with teen-age innocent girls drawn
+      by money and deception from poor and vulnerable families. Exposure to these patterns
+      of behavior by those who sit comfortably atop skyscrapers of corporate, financial,
+      and political power influence enjoy an almost automatic entitlement to back alleys
+      of collective narcissism apparently treated as if normal, an ethos that appears
+      common among economic and political elites. Even when the shielding fails, as
+      it did in the Palm Beach Epstein operation of his sanctuary for upper class pedophile.
+      It was only the uncommonly conscientious investigations of the high and mighty
+      that local law enforcement and dutiful police officials built a criminal case
+      against Epstein. Even then the wheels of justice barely turned. Rather than the
+      right to mount a defense during ‘a day in court’ such gilded perpetrators are
+      generally able to intimidate, bribe, and threaten those representing the state
+      as prosecutors and judges face hurdles that evidence alone cannot overcome. One
+      lesson to be learned is that money and class often speak louder than law in such
+      high-profile situations, even in the United States where the rule of law is sanctified
+      in public discourse. In an interesting presumably coincidental preview of the
+      Epstein saga was the mainstream movie, Eyes Wide Shut, starring Nicole Kidman
+      and Tom Cruise illustrating a tamer more religiously framed hideaway for rich
+      and powerful sexual predators. Significantly, the sexually abused women were adults,
+      compensated as if prostitutes, and without any political linked agenda as underlying
+      Epstein’s habitual escapades on his provate Caribbean island and New York and
+      Palm Beach mansions. Yet a suggestive similarity is the coercive suppression of
+      any divulgence of such goings on in public space. Whereas Epstein equipped his
+      various homes with sophisticated surveillance systems to ensure confidentiality
+      by blackmail evidence to disgrace any informer or insider, the film relied on
+      outright thuggery as threat and violence as needed. Confidentiality was achieved
+      by keeping the guest list to a trusted coterie of carefully vetted rich and powerful
+      had every social and material incentive to keep the events securely under wraps.
+      2. Why do so many rich and powerful people need underage girls for their sexual
+      satisfaction? What does this say about these powerful people? As suggested, it
+      is less the illicit need than a carefree demonstration of impunity for what occurs
+      in the collective privacy and confidentiality provided by Epstein’s supposedly
+      secure and luxurious playgrounds. It comes to an abrupt end at the undisclosed
+      cost of surveillance, which created a different set of vulnerabilities to blackmail
+      than the risks of being exposed held accountable for the criminal exploitation
+      of underage girls, who often are scarred for life by the experiences of pleasuring
+      older men, and have no off ramp by way of resignation from high visibility career
+      positions. Epstein’s fastidious management pf the predatory sexual behavior of
+      guests, as is now well-established. was monitored by a sophisticated network of
+      cameras apparently installed and even managed by Mossad agents. In effect, a punitive
+      system to safeguard privacy and confidentiality, perhaps further reinforced by
+      threats of physical retaliation to anyone daring to expose linkages between sexual
+      gratification oblivious to law with the exertion of political influence among
+      the rich and powerful augmenting Israel’s leverage in the United States. As yet,
+      there is no reliable information on whether Epstein’s extraordinary wealth was
+      owed in part to these Israeli ties, but the frequency with his interactions with
+      the former Israel Prime Minister, Ehud Barak, is to say the least, suggestive
+      of a principal/agent relationship. 3. Does this show something is profoundly wrong
+      in Western political and financial power networks? More investigative work is
+      needed to disclose whether there are equivalent non-Western outlets for the sexual
+      appetites and political maneuvers of the rich and powerful. In one sense, Epstein’s
+      files do not indict the West as such. It seems primarily an American class phenomenon,
+      with exceptions made for such transnational Western elite public figures as Prince
+      Andrew and Ehud Barak, Israel’s former Prime Minister, and unlikely prominent
+      intellectuals such as Noam Chomsky, Stephen Pinker, Alan Dershowitz, and even
+      Stephen Hawkins whose associations did not necessarily involve participation or
+      even knowledge of the lurid sides of what I call Epstein’s entrapment network.
+      The participation by Americans was more salient than the involvement of Europeans,
+      and certainly than non-Western upper echelons. This is tentatively confirmed by
+      the contents of some leaked and unredacted files detailing the multiple, as yet
+      unspecified involvements of the Epstein network with such eminent public figures
+      as Donald Trump and Bill Clinton. 4. How do many ordinary people, who want to
+      have a quiet family life with their partners and kids, perceive Epstein’s links
+      with big politicians and rich people? I suspect there is great diversity of response,
+      although the public majority culture is portrayed by the media as one of moral
+      outrage. In a few high-profile instances, the disclosures to date have resulted
+      in some prominent resignations and disavowals by such academic celebrities, as
+      the former Harvard President, Larry Summers, and the wild-eyed ultra-Zionist controversial
+      professor and lawyer for controversial criminal defendants, Alan Dershowitz, and
+      by corporate billionaires and celebrity lawyers. It appears that those who identify
+      as Republicans overwhelmingly are in denial or minimize the engagement, especially
+      of Trump with the Epstein phenomenon. This minimization is reinforced by the selective
+      release and redaction of files that might incriminate Trump or MAGA adherents.
+      So far there has been a bureaucratic coverup that has limited the impact of the
+      release of what should be in political culture that still upheld the rule of law
+      on ‘ordinary people’ as shaped by partisan party politics, with Democrats far
+      more appalled than either Independents or Republicans. Epstein was an unusual
+      figure for such a dark role, harboring seemingly genuine interests in higher education
+      and technological innovations along with his strong, yet still vague and shadowy
+      attachments to Israel. He befriended and managed to somewhat implicate Noam Chomsky,
+      a critic of Israel and bitter adversary of Dershowitz. Chomsky’s image the most
+      admired and influential public intellectual of our time has been tarnished by
+      his murky connections with Epstein who seemed a financial advisor and friend of
+      Chomsky and his wife. What remains blurry is the extent to which Chomsky was deliberately
+      attracted to be a friend or to be rendered vulnerable a high-value target of Israeli
+      intelligence. There is also an element of governmental power at play in this unfolding
+      Epstein affair. The fact of Trump is America’s most unabashedly autocratic president
+      further bolstered by a Republican grip on Congress and the Supreme Court, and
+      of course, the Executive Branch has so far led to the shielding of some, the exposure
+      of and would have been handled somewhat differently if a liberal, upstanding president
+      was in the White House such as Barack Obama, although even Obama refrained from
+      any legal scrutiny of highly controversial behavior of his predecessor, George
+      W. Bush, widely believed to have authorized interrogation practices in Iraq and
+      elsewhere, that violated human rights and the International Convention on Torture
+      (1984), ratified by the U.S. in 1988, and at least 173 countries.. In concluding
+      it may be the highly relevant to note the degree of moral hypocrisy on matters
+      of family loyalty and sexual mores that exist in the U.S. as distinguished from
+      its European soulmate states, which seem more comfortable acknowledging the frailties
+      of human nature. By no means is this meant directly or indirectly as a partial
+      exoneration of those who conspired in their own entrapment within ‘Epstein’s World.’
+      Nor does this whitewash ordinary people who brush morals and law aside in favor
+      of loyalty to a political party or national leaders. The loudest chant of American
+      constitutionalists has long been that we are ‘a country of laws, not men’ now
+      only overheard as a dissident whisper. 5. Do these ordinary people question the
+      legitimacy of the system they are living under these powerful people’s influence?
+      If so, would you project a significant popular challenge against the existing
+      political/financial syste m? A growing number of ordinary citizens in the United
+      States are shocked by the ugly spectacle of the Epstein disclosures, but this
+      may lead in the short-run, at least, to greater repressiveness of independent
+      media and oppositional critics rather than to significant reforms, must less a
+      systemic challenge to the deep roots of the Epstein crisis in the inequalities
+      currently wrought by wealth and political power. There are various forms of corruption
+      evident in most countries of the world, and this is accompanied by moral hypocrisy
+      that effectively shields private behavior from public scrutiny. In the U.S. context
+      the present declining popularity of Trump’s second term leadership may embroil
+      him and other establishment figures in belated attempts to impose criminal accountability
+      for ‘statutory rape’ of underage girls, a crime that in the U.S. has no statute
+      of limitations. So far, the Republican Party has privileged party loyalty to moral
+      and legal accountability with respect to Trump and his friends and associates.
+      Whether the widening cracks in this support structure will withstand further disclosures
+      is of course uncertain. We can expect that Trump will do his best to divert attention
+      even if this means a costly and dangerous second attack on Iran even more unprovoked
+      that the first attack of a year ago. What we do know with some confidence is that
+      the Epstein files will continue to preoccupy both elites and ordinary citizens
+      for some time to come, at least in the United States. It should also have the
+      international effect of casting additional doubts about the U.S. attachment to
+      liberal values of human rights and democracy, and of course about the claims of
+      moral superiority associated the creed of American Exceptionalism, persuasive
+      as a public philosophy in the US yet dismissed with increasing cynicism elsewhere
+      in the world.'
+    one_sentence_summary: Epstein's connections to powerful figures expose a hidden
+      network of elite influence that evades legal and moral accountability, highlighting
+      the predatory nature of his actions and the exploitation of vulnerable young women.
+    paragraph_summary: 'The article discusses the implications of Jeffrey Epstein''s
+      connections with powerful Western elites, highlighting how these relationships
+      expose a network of influence that often evades legal and moral accountability.
+      Epstein''s associations reveal a disturbing culture of predatory behavior, particularly
+      towards vulnerable young women, as illustrated in the documentary "Jeffrey Epstein:
+      Filthy Rich." The narrative emphasizes the lack of empathy among the elite for
+      their victims and suggests that those in positions of power often operate under
+      a sense of entitlement that normalizes exploitative behavior. Despite some legal
+      repercussions stemming from diligent investigations, the article underscores how
+      wealth and social status can intimidate and undermine justice, allowing perpetrators
+      to evade consequences while reinforcing systemic inequalities.'
+    published: '2026-02-27T21:01:22+00:00'
+  - title: 'The Epstein Entrapment Network: revelations of crime and the predatory erotic
+      lives of the rich and powerful'
+    url: https://richardfalk.org/2026/02/27/the-epstein-entrapment-network-revelations-of-crime-and-the-predatory-erotic-lives-of-the-rich-and-powerful/
+    text: '[Preliminary Note : Responses to Qs addressed to me by a Turkish journalist,
+      Murat Sofuoğlu, affiliated with TRT World . My responses have been modified.]
+      What do Epstein’s ties with the high and mighty say about Western ‘elite’ structures?
+      These ties reveal networks of power and influence that has long been shielded
+      from legal accountability, and even moral scrutiny. Epstein’s network of friends
+      and associates gives to the wider public some sense of the lure of decadence with
+      regard to sexual gratification. After Epstein’s first conviction of criminal abuse
+      revealed in graphic detail in the batch of documents so far released. The dimensions
+      of predatory sexuality, victimizing young women and old men, are convincingly
+      confirmed in a documentary film titled Jeffrey Epstein: Filthy Rich. The film
+      also reveals a total absence of empathy for the helpless victims of these unlawful
+      and despicable forms of sexual gratification with teen-age innocent girls drawn
+      by money and deception from poor and vulnerable families. Exposure to these patterns
+      of behavior by those who sit comfortably atop skyscrapers of corporate, financial,
+      and political power influence enjoy an almost automatic entitlement to back alleys
+      of collective narcissism apparently treated as if normal, an ethos that appears
+      common among economic and political elites. Even when the shielding fails, as
+      it did in the Palm Beach Epstein operation of his sanctuary for upper class pedophile.
+      It was only the uncommonly conscientious investigations of the high and mighty
+      that local law enforcement and dutiful police officials built a criminal case
+      against Epstein. Even then the wheels of justice barely turned. Rather than the
+      right to mount a defense during ‘a day in court’ such gilded perpetrators are
+      generally able to intimidate, bribe, and threaten those representing the state
+      as prosecutors and judges face hurdles that evidence alone cannot overcome. One
+      lesson to be learned is that money and class often speak louder than law in such
+      high-profile situations, even in the United States where the rule of law is sanctified
+      in public discourse. In an interesting presumably coincidental preview of the
+      Epstein saga was the mainstream movie, Eyes Wide Shut, starring Nicole Kidman
+      and Tom Cruise illustrating a tamer more religiously framed hideaway for rich
+      and powerful sexual predators. Significantly, the sexually abused women were adults,
+      compensated as if prostitutes, and without any political linked agenda as underlying
+      Epstein’s habitual escapades on his provate Caribbean island and New York and
+      Palm Beach mansions. Yet a suggestive similarity is the coercive suppression of
+      any divulgence of such goings on in public space. Whereas Epstein equipped his
+      various homes with sophisticated surveillance systems to ensure confidentiality
+      by blackmail evidence to disgrace any informer or insider, the film relied on
+      outright thuggery as threat and violence as needed. Confidentiality was achieved
+      by keeping the guest list to a trusted coterie of carefully vetted rich and powerful
+      had every social and material incentive to keep the events securely under wraps.
+      2. Why do so many rich and powerful people need underage girls for their sexual
+      satisfaction? What does this say about these powerful people? As suggested, it
+      is less the illicit need than a carefree demonstration of impunity for what occurs
+      in the collective privacy and confidentiality provided by Epstein’s supposedly
+      secure and luxurious playgrounds. It comes to an abrupt end at the undisclosed
+      cost of surveillance, which created a different set of vulnerabilities to blackmail
+      than the risks of being exposed held accountable for the criminal exploitation
+      of underage girls, who often are scarred for life by the experiences of pleasuring
+      older men, and have no off ramp by way of resignation from high visibility career
+      positions. Epstein’s fastidious management pf the predatory sexual behavior of
+      guests, as is now well-established. was monitored by a sophisticated network of
+      cameras apparently installed and even managed by Mossad agents. In effect, a punitive
+      system to safeguard privacy and confidentiality, perhaps further reinforced by
+      threats of physical retaliation to anyone daring to expose linkages between sexual
+      gratification oblivious to law with the exertion of political influence among
+      the rich and powerful augmenting Israel’s leverage in the United States. As yet,
+      there is no reliable information on whether Epstein’s extraordinary wealth was
+      owed in part to these Israeli ties, but the frequency with his interactions with
+      the former Israel Prime Minister, Ehud Barak, is to say the least, suggestive
+      of a principal/agent relationship. 3. Does this show something is profoundly wrong
+      in Western political and financial power networks? More investigative work is
+      needed to disclose whether there are equivalent non-Western outlets for the sexual
+      appetites and political maneuvers of the rich and powerful. In one sense, Epstein’s
+      files do not indict the West as such. It seems primarily an American class phenomenon,
+      with exceptions made for such transnational Western elite public figures as Prince
+      Andrew and Ehud Barak, Israel’s former Prime Minister, and unlikely prominent
+      intellectuals such as Noam Chomsky, Stephen Pinker, Alan Dershowitz, and even
+      Stephen Hawkins whose associations did not necessarily involve participation or
+      even knowledge of the lurid sides of what I call Epstein’s entrapment network.
+      The participation by Americans was more salient than the involvement of Europeans,
+      and certainly than non-Western upper echelons. This is tentatively confirmed by
+      the contents of some leaked and unredacted files detailing the multiple, as yet
+      unspecified involvements of the Epstein network with such eminent public figures
+      as Donald Trump and Bill Clinton. 4. How do many ordinary people, who want to
+      have a quiet family life with their partners and kids, perceive Epstein’s links
+      with big politicians and rich people? I suspect there is great diversity of response,
+      although the public majority culture is portrayed by the media as one of moral
+      outrage. In a few high-profile instances, the disclosures to date have resulted
+      in some prominent resignations and disavowals by such academic celebrities, as
+      the former Harvard President, Larry Summers, and the wild-eyed ultra-Zionist controversial
+      professor and lawyer for controversial criminal defendants, Alan Dershowitz, and
+      by corporate billionaires and celebrity lawyers. It appears that those who identify
+      as Republicans overwhelmingly are in denial or minimize the engagement, especially
+      of Trump with the Epstein phenomenon. This minimization is reinforced by the selective
+      release and redaction of files that might incriminate Trump or MAGA adherents.
+      So far there has been a bureaucratic coverup that has limited the impact of the
+      release of what should be in political culture that still upheld the rule of law
+      on ‘ordinary people’ as shaped by partisan party politics, with Democrats far
+      more appalled than either Independents or Republicans. Epstein was an unusual
+      figure for such a dark role, harboring seemingly genuine interests in higher education
+      and technological innovations along with his strong, yet still vague and shadowy
+      attachments to Israel. He befriended and managed to somewhat implicate Noam Chomsky,
+      a critic of Israel and bitter adversary of Dershowitz. Chomsky’s image the most
+      admired and influential public intellectual of our time has been tarnished by
+      his murky connections with Epstein who seemed a financial advisor and friend of
+      Chomsky and his wife. What remains blurry is the extent to which Chomsky was deliberately
+      attracted to be a friend or to be rendered vulnerable a high-value target of Israeli
+      intelligence. There is also an element of governmental power at play in this unfolding
+      Epstein affair. The fact of Trump is America’s most unabashedly autocratic president
+      further bolstered by a Republican grip on Congress and the Supreme Court, and
+      of course, the Executive Branch has so far led to the shielding of some, the exposure
+      of and would have been handled somewhat differently if a liberal, upstanding president
+      was in the White House such as Barack Obama, although even Obama refrained from
+      any legal scrutiny of highly controversial behavior of his predecessor, George
+      W. Bush, widely believed to have authorized interrogation practices in Iraq and
+      elsewhere, that violated human rights and the International Convention on Torture
+      (1984), ratified by the U.S. in 1988, and at least 173 countries.. In concluding
+      it may be the highly relevant to note the degree of moral hypocrisy on matters
+      of family loyalty and sexual mores that exist in the U.S. as distinguished from
+      its European soulmate states, which seem more comfortable acknowledging the frailties
+      of human nature. By no means is this meant directly or indirectly as a partial
+      exoneration of those who conspired in their own entrapment within ‘Epstein’s World.’
+      Nor does this whitewash ordinary people who brush morals and law aside in favor
+      of loyalty to a political party or national leaders. The loudest chant of American
+      constitutionalists has long been that we are ‘a country of laws, not men’ now
+      only overheard as a dissident whisper. 5. Do these ordinary people question the
+      legitimacy of the system they are living under these powerful people’s influence?
+      If so, would you project a significant popular challenge against the existing
+      political/financial syste m? A growing number of ordinary citizens in the United
+      States are shocked by the ugly spectacle of the Epstein disclosures, but this
+      may lead in the short-run, at least, to greater repressiveness of independent
+      media and oppositional critics rather than to significant reforms, must less a
+      systemic challenge to the deep roots of the Epstein crisis in the inequalities
+      currently wrought by wealth and political power. There are various forms of corruption
+      evident in most countries of the world, and this is accompanied by moral hypocrisy
+      that effectively shields private behavior from public scrutiny. In the U.S. context
+      the present declining popularity of Trump’s second term leadership may embroil
+      him and other establishment figures in belated attempts to impose criminal accountability
+      for ‘statutory rape’ of underage girls, a crime that in the U.S. has no statute
+      of limitations. So far, the Republican Party has privileged party loyalty to moral
+      and legal accountability with respect to Trump and his friends and associates.
+      Whether the widening cracks in this support structure will withstand further disclosures
+      is of course uncertain. We can expect that Trump will do his best to divert attention
+      even if this means a costly and dangerous second attack on Iran even more unprovoked
+      that the first attack of a year ago. What we do know with some confidence is that
+      the Epstein files will continue to preoccupy both elites and ordinary citizens
+      for some time to come, at least in the United States. It should also have the
+      international effect of casting additional doubts about the U.S. attachment to
+      liberal values of human rights and democracy, and of course about the claims of
+      moral superiority associated the creed of American Exceptionalism, persuasive
+      as a public philosophy in the US yet dismissed with increasing cynicism elsewhere
+      in the world.'
+    one_sentence_summary: Epstein's connections to powerful figures expose a hidden
+      network of elite influence that evades legal and moral accountability, highlighting
+      the predatory nature of his actions and the exploitation of vulnerable young women.
+    paragraph_summary: 'The article discusses the implications of Jeffrey Epstein''s
+      connections with powerful Western elites, highlighting how these relationships
+      expose a network of influence that often evades legal and moral accountability.
+      Epstein''s associations reveal a disturbing culture of predatory behavior, particularly
+      towards vulnerable young women, as illustrated in the documentary "Jeffrey Epstein:
+      Filthy Rich." The narrative emphasizes the lack of empathy among the elite for
+      their victims and suggests that those in positions of power often operate under
+      a sense of entitlement that normalizes exploitative behavior. Despite some legal
+      repercussions stemming from diligent investigations, the article underscores how
+      wealth and social status can intimidate and undermine justice, allowing perpetrators
+      to evade consequences while reinforcing systemic inequalities.'
+    published: '2026-02-27T21:01:22+00:00'
   - title: 'Whither World Order: The Lamentable Present, The Unknowable Future'
     url: https://richardfalk.org/2026/02/22/whither-world-order-the-lamentable-present-the-unknowable-future/
     text: '[ Prefatory Note: My Responses to An Egyptian Journalist, Muhamed Abd Elaziz

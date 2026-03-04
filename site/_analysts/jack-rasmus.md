@@ -7,16 +7,411 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As February 2026 unfolds, the global geopolitical and economic landscape is marked by escalating uncertainty, driven by financial market instability, ongoing military conflicts, and shifts in U.S. domestic and foreign policy under the Trump administration.
+  As of early March 2026, the global geopolitical and economic landscape remains defined by mounting financial instability, shifting U.S. foreign policy priorities, and deepening concerns over democratic norms within the United States. The following is a summary of the latest developments and analysis, drawing on the most recent insights from **Jack Rasmus**.
   
-  The most pressing development in recent days is the contraction of financial asset markets. According to **Jack Rasmus**, since Trump’s return to office, asset bubbles—particularly in stocks, cryptocurrencies, and precious metals—have reached historic highs but began to unwind sharply in early February. Rasmus notes, “the sustainability of these bubbles is in serious doubt,” and warns that the current market contractions are “flashing red” for a potential financial crash. He draws parallels to previous crises but emphasizes that contagion is now spreading across multiple asset classes, including those linked to AI and technology. Rasmus predicts, with high confidence, that a market implosion is “most definitely” possible by 2026 or 2027, especially given stagnant job growth and underlying economic weaknesses masked by official narratives.
+  The most immediate concern is the ongoing unwinding of financial market bubbles. According to **Jack Rasmus**, February saw "significant contractions in early February 2026," particularly across stocks, cryptocurrencies, and precious metals. These contractions are not isolated but part of a broader pattern of volatility that has accelerated since President Trump took office. Rasmus highlights that “financial asset market bubbles have reached unprecedented levels,” and the contagion is now spreading across asset classes. The consensus among independent analysts is that the risk of a major financial crisis in 2026 or 2027 is now high, with Rasmus stating there is "a high chance" of a market implosion within this timeframe.
   
-  On the geopolitical front, the Ukraine conflict remains unresolved after four years, with U.S. and NATO strategies under continued scrutiny. In a recent presentation, **Jack Rasmus** highlighted the challenges to a negotiated settlement, noting that the Trump administration’s pivot toward more aggressive postures in other regions—particularly Latin America and the western Pacific—has complicated prospects for peace in Eastern Europe. The military balance in the region remains precarious, and diplomatic efforts are hampered by shifting U.S. priorities.
+  On the political front, President Trump’s recent State of the Union address has drawn sharp criticism for what **Jack Rasmus** describes as “economic misrepresentations and political theatrics.” Rasmus notes that the administration’s claims regarding inflation, tax cuts, and job creation are contradicted by underlying economic data, with job growth remaining stagnant and inflation rates understated. This disconnect between official rhetoric and economic reality is contributing to growing uncertainty both domestically and internationally.
   
-  Domestically, the U.S. political climate has grown increasingly authoritarian. On January 12, President Trump publicly declared his intent to personally dictate all major policy and war decisions, disregarding constitutional checks and balances. Critics, including **Jack Rasmus**, argue this marks a significant shift toward “tyranny,” with the administration’s use of paramilitary forces and legal maneuvers further eroding democratic norms.
+  Geopolitically, the U.S. continues to recalibrate its foreign policy focus. While the Ukraine conflict remains unresolved, with negotiations stalled and Russian military capabilities undiminished, the Trump administration is increasingly prioritizing influence in Latin America and the western Pacific. As Rasmus observes, this marks “a shift in focus from Europe and Ukraine to assert influence and counter threats in the region.” This pivot is seen as an attempt to shore up U.S. strategic interests amid declining global economic leverage.
   
-  Looking ahead, the convergence of economic fragility and aggressive U.S. policy—both at home and abroad—suggests heightened risk of instability. The majority view among analysts is that unless there is a significant policy correction, the U.S. and global economies face a “high chance” of crisis within the next 12 to 18 months. Geopolitically, the U.S. is expected to continue its assertive stance in the Western Hemisphere and Asia-Pacific, while the Ukraine war remains deadlocked. The overall trend points toward increasing volatility, with few signs of de-escalation on any front.
+  Finally, concerns over democratic backsliding in the U.S. have intensified following Trump’s January announcement that he would personally dictate all war and policy decisions, disregarding constitutional checks. Critics, including Rasmus, argue this development “signifies a shift towards tyranny in the country,” raising alarms about the future of U.S. governance and its implications for global stability.
+  
+  **Trends and Predictions:**  
+  - The financial sector is expected to remain volatile, with a high probability of a significant market correction or crash by 2027.  
+  - U.S. foreign policy will likely continue its pivot toward the Western Hemisphere and Pacific, deprioritizing Europe.  
+  - Domestically, political polarization and institutional strain are set to intensify, with the erosion of constitutional norms now a central risk factor.
+  
+  Based on the majority of independent analysis, these trends are most definitely shaping the geopolitical and economic outlook for the remainder of 2026 and beyond.
 articles:
+  - title: 'Trump’s 2026 SOTU Speech: Economic Obfuscation & Political Theater'
+    url: https://jackrasmus.com/2026/02/26/trumps-2026-sotu-speech-economic-obfuscation-political-theater/
+    text: 'Dr. Jack Rasmus, copyright 2026 “Trump’s 2026 State of the Union speech was
+      historic—but only in the sense of the longest ever at 1 hour and 47 minutes. Apart
+      from that, the speech was one third misrepresentations about the state of the
+      American economy followed by more than an hour of pure political theater which
+      has come to increasingly characterize presidential SOTU addresses in recent years.
+      The misrepresentations of the state of the economy covered topics like inflation
+      and cost of living, record stock market prices and asset wealth creation, his
+      $5 trillion tax cuts almost all of which have accrued to corporations, businesses
+      and investors, and his tariffs which have little to do with trade or economics
+      and everything to do with raising revenue for defense spending and political intimidation
+      of other countries. Jobs Treated very briefly in passing was the topic of jobs.
+      Trump’s avoidance of the topic is understandable—given that this past year the
+      US economy has created a total of only 181,000 jobs; i.e. barely 15,000 jobs month,
+      a level which isn’t even sufficient to provide employment for new entrants to
+      the labor force which ordinarily averages at least 100,000 every month. On the
+      topic of jobs, Trump also made no mention whatsoever of the current unemployment
+      level. When including involuntary part time, temp, and discouraged workers, as
+      well as full time employed, per the government’s own estimates unemployment has
+      been averaging around 8%. That’s more than 11 million US workers jobless! Moreover,
+      even that 8% number excludes the 10 million workers who are self-employed independent
+      contractors which government statistics conveniently ignore by classifying them
+      as business owners, not workers. So the actual unemployment number of unemployed
+      is thus at least 10% when properly estimated. Trump made passing reference to
+      the fact that the 181,000 jobs created were 100% in the private sector—without
+      indicating the number of course. Nor did he bother to mention that he managed
+      to fire 27,000 federal government workers. It’s true, as he said, the US economy
+      is at the highest employment levels ever in 2025—by 181,000 jobs of course. Economic
+      Growth Another economic topic, this time completely unmentioned, was the overall
+      real growth of the economy in 2025. Measured in Gross Domestic Product terms,
+      GDP, the most generally accepted indicator, the US economy grew only 2.2% in all
+      of last year! That’s down from 2.4% in 2024 before he was elected. More ominous,
+      in the last three months of 2025 the economy slowed rapidly even more to only
+      1.4%. And it was actually even much slower, since the inflation adjustment used
+      by the government, called the Personal Consumption Expenditure (PCE) price index
+      notoriously underestimates inflation which, in turn, boosts the reported GDP numbers.
+      If properly inflation adjusted, actual GDP in 2025 was closer to 1% than even
+      the reported 2.2%. Nevertheless, Trump on several occasions bragged “we’re the
+      hottest country in the world!” As for future economic growth Trump continually
+      says other countries have promised to invest $18 trillion in the US economy! But
+      virtually all of that are just verbal pledges, mostly designed no doubt to placate
+      Trump during negotiations over tariffs. It’s difficult to see how the Europeans,
+      Japanese and others—all of whose economies are either in recession or stagnant—are
+      going to invest that amount in America’s economy instead of their own. Inflation
+      Trump did spend some time repeatedly claiming that inflation was reduced dramatically
+      during his first year in office. More than once he proclaimed “inflation is plummeting”.
+      He referenced what is called ‘core’ inflation in the PCE price index, which conveniently
+      excludes food prices, housing costs, mortgage rates, and all other kinds of interest
+      rates on autos, credit cards, and other loans—all of which rose last year. And
+      there was a big problem with the PCE price-inflation index, whether ‘core’ or
+      what’s called ‘headline’, which includes food and energy prices. Readers might
+      think the PCE is constructed by the government going out and surveying a large
+      sample of the millions of goods and services in the economy. It doesn’t. It takes
+      a conglomeration of other surveys and estimations performed by the US Labor and
+      Commerce Departments, puts their results together somehow, adds assumptions of
+      its down, employs questionable methodologies, and comes up with a number that
+      grossly underestimates actual prices in general.  And here’s a bigger problem
+      with the PCE in 2025. In the fourth quarter of 2025 the government shut down for
+      six of the twelve weeks in the October-December period. During that period there
+      were no surveys done by either the Labor or Commerce departments on which the
+      PCE could be based. So half of the quarter had no data available at all. That
+      didn’t stop the government from making up number for the six weeks that it just
+      plugged in the missing six weeks. It said it ‘imputed’ the data. In translation
+      it means it just made up the numbers to smooth out the twelve weeks’ results.
+      The PCE is also notorious for deriving prices from non-price data. For example,
+      it doesn’t actually ask insurance companies how much they raised their prices
+      last year. It takes their profits (which they conveniently underestimate in order
+      to pay lower taxes) and it ‘derives’ the industry prices from their profits! There’s
+      scores of such questionable methods employed. And remember, no housing prices,
+      no mortgage rate hikes, and no higher interest charges of any kind. Trump said
+      nothing in his speech about the huge price hikes now penetrating the economy as
+      a result of the cuts to Medicaid and ACA subsidies. Consumers now have to absorb
+      the huge cost increases if they want to continue prior levels of medical insurance
+      coverage. Many won’t. But none of the loss of subsidies will be counted as price
+      increases or be reflected in the PCE. Stock Markets Trump always likes to brag
+      that the stock market is doing so great. And it is true that the three main US
+      stock markets—the DOW, S&P 500, and Nasdaq—all hit record levels in 2025. And
+      then they began crashing in 2026 and have all continued to trend down. Why? Because
+      in 2025 they were almost all pumped up by speculative investing in the Artificial
+      Intelligence bubble. In recent weeks, investors have begun getting cold feet about
+      AI, however. The big & tech companies have been pouring hundreds of billions into
+      developing AI but it is becoming increasingly clear to investors they may not
+      be able to recoup the profits on the over-investing. AI is also threatening to
+      undermine the profits of other tech, banks, transport and other companies. So
+      their stock prices are falling as well. The cryptocurrency markets are now in
+      even greater freefall. The only game that is ‘hot’ is gold and silver. And their
+      escalating rise is the result of Trump/US sanctions, tariff policy, and the devaluation
+      of the US dollar which is now exceeding 10% so far since Trump took office. The
+      US dollar is not doing so good but Trump said nothing about that. If it’s hot,
+      it’s a ‘hot potato’ that other countries are dumping. Taxation Trump has been
+      touting his $5 trillion 2025 tax act which his Republican run Congress quickly
+      passed as the first measure out of the box last spring 2025.  Half of the $5 trillion
+      wasn’t even new, however. It represented Trump’s 2018 $4.5 trillion package of
+      tax cuts, more than half of which were for large corporations. In 2018 those tax
+      cuts were made permanent forever and didn’t even come up for renewal in Trump’s
+      2025 tax package. So no net new tax stimulus from that. What was up for renewal
+      in 2025 were proposals for small business and individuals. The small business
+      provisions were sweetened even more compared to 2018. So were the individual income
+      tax cuts that benefit mostly those with incomes over $250,000 a year. When touting
+      his 2025 tax bill Trump likes to remind us, and he did again in his speech, that
+      he cut taxes on tips, overtime pay, and social security. But even a brief summary
+      of those provisions in the 2025 tax act reveal something far less. It doesn’t
+      mean no tax on all tips. For example, a worker making $50K/yr and earning $5k
+      on tips will get a tax deduction of only $600. The no tax on overtime pay is capped
+      at only $12k/yr. And the so-called no tax on social security income is a big misrepresentation.
+      It was reduced by Trump’s Congress to a tepid $6k additional tax deduction not
+      an elimination of any tax on social security income. Moreover, all these so-called
+      working class tax cuts phase out completely by 2028—in contrast to the corporate,
+      business, and wealthy individual tax cuts were are now permanent forever! Trump
+      may be right when he calls his 2025 cuts “the largest tax cuts in history”, but
+      it’s the largest for investors, corporations and businesses with a small token
+      crumb thrown at American workers and all packaged in a heap of misrepresentations
+      and outright lies. Since 2001, by the way, presidents and Congresses of both parties
+      have passed tax cuts totally more than $20 trillion, eighty percent of which have
+      accrued to businesses and the wealthy. That $20 trillion contributed significantly
+      to the US economy’s 2025 $1.77 trillion US budget deficit and the US national
+      debt rising from around $36.5 trillion when Trump took office to its current level
+      just shy of $39 trillion. The other major contributions to those deficits and
+      debt are the $9 trillion spent on wars, the Pentagon’s now $1 trillion/yr war
+      budget, and the $1.2 trillion now paid annually to investors in US Treasury securities
+      to pay interest on that debt. No mention of that either, of course. Or that his
+      budget deficit in 2025 was virtually the same as Biden’s $1.8 trillion in 2024!
+      Not a word in his speech about the out of controls annual deficits and debt. Yes,
+      the US economy is ‘hot’, as in the barn is about to burn down hot. Tariffs Trump
+      spent some time hyping his tariff policies. He bragged how his tariffs have brought
+      in hundreds of billions of dollars of new revenues—the exact number he avoided
+      citing since it appears, per the recent Supreme Court decision, he’ll have to
+      give some of that back. One would have thought he’d say something about how tariffs
+      have reduced imports and thus reduced the USA’s annual almost $1 trillion trade
+      deficit. But he didn’t. Why? Because the tariffs haven’t reduced that trade deficit
+      all that much. They’re not about trade or trade deficits. The tariffs are about
+      raising revenues for a government running $1.8 trillion budget deficits and in
+      desperate need of new revenue sources since it’s simultaneously cutting tax revenues—and
+      it needs to raise more funds to pay for its accelerating defense-war costs. Total
+      US war-defense costs, not just Pentagon spending, are now running $2.1 trillion
+      a year. And Trump says he wants to give the Pentagon, now at $1 trillion, another
+      $400 billion for weapons in his 2027 budget. Tariffs are thus about ‘shaking down’
+      US allies and the rest of the world economy to generate more US government revenue
+      to pay for tax cuts and more war spending. Tariffs are also a tool for intimidating
+      foreign governments to ‘toe the line’ on US foreign policy. In that sense, they
+      are an addition to US sanctions policies which haven’t worked all that well in
+      that regard in recent years. Trump’s tariff policies are all over the map. They
+      are causing real economic strain for many US small businesses and farmers who
+      are losing markets and revenues, as well as to some extent to consumers whose
+      prices for goods imports are rising. It is true that Trump has raised the average
+      rate of tariffs on imports to the US from a previous 2.4% to around 13%. And those
+      who think legislation or the Supreme Court will prevent him from raising them
+      further are naively mistaken. His vision is tariffs are the economic panacea for
+      all that ails the US economy. As he put it at one point, obviously departing from
+      his prepared speech, he wants tariffs to someday even replace the individual income
+      tax! That will mean a regressive de facto sales tax on goods imports of at least
+      30%. At that level, domestic US producers will have sufficient cover to raise
+      prices on US produced goods by at least 10% on average. Double digit chronic inflation
+      anyone? These were the main economic measures Trump addressed. When considered
+      in more detail, Trump’s touting of the US economy’s performance in 2025 amounts
+      to misrepresentation at best, and outright lies in most cases. The US economy
+      is not robustly growing but slowing. Jobs are barely being created. Inflation
+      is nearly twice that reported by the PCE index, which is over-inflating US GDP
+      in turn. The stock market bubbles of 2025 have begun unwinding, the AI hype has
+      peaked, and the US dollar devaluation is accelerating and the worse since the
+      1970s. The US budget deficits and national debt continue surging out of control
+      and interest payments to rich holders of US Treasury securities are escalating
+      past $1.2 trillion a year! The tax cuts of 2025, like those of 2018, will provide
+      little if any real stimulus to the economy and the working class cuts are a sham
+      of what’s claimed. Pledges by other countries to invest in the US aren’t worth
+      the verbal assurances given or the paper they’re written on, if in fact they were
+      written. Tariffs are about raising revenue and political intimidation of allies
+      and the rest of the world alike. They are a reflection of the fact the US empire
+      is running short of funds and is searching for radical funding alternatives in
+      lieu of economic growth or debt financing now approaching its limits. Tariffs
+      in turn are upending global supply chains and global trade and will lead to other
+      countries’ turning further away from the US dollar, thus ensuring its further
+      devaluation. In short, the Trump economy and the USA is ‘hot’ only in the sense
+      it is becoming domestically, and globally, an internal combustion engine heating
+      up as result of insufficient coolant. And when engines become so ‘hot’, their
+      mechanical working parts eventually just freeze up. Go to top About the Author
+      Jack Rasmus is author of the recently published book, ‘The Scourge of Neoliberalism:
+      US Economic Policy from Reagan to Trump’, Clarity Press, 2020. He publishes at
+      Predicting the Global Economic Crisis .'
+    one_sentence_summary: Dr. Jack Rasmus critiques Trump's 2026 State of the Union
+      speech as historically lengthy but filled with economic misrepresentations and
+      political theatrics, particularly regarding inflation, tax cuts, and job creation.
+    paragraph_summary: In his 2026 State of the Union address, President Trump delivered
+      a lengthy speech that was criticized for being filled with misrepresentations
+      about the American economy, particularly regarding inflation, stock market performance,
+      and the impact of his tax cuts, which primarily benefited corporations and investors.
+      The speech briefly touched on job creation, noting a mere 181,000 jobs added over
+      the past year—far below the necessary levels to accommodate new labor market entrants—and
+      failed to address the actual unemployment rate, which, when accounting for various
+      categories of joblessness, is estimated to be over 10%. Overall, the address was
+      characterized more by political theatrics than substantive economic discussion,
+      leaving significant issues unaddressed.
+    published: '2026-02-26T08:39:17+00:00'
+  - title: 'Trump’s 2026 SOTU Speech: Economic Obfuscation & Political Theater'
+    url: https://jackrasmus.com/2026/02/26/trumps-2026-sotu-speech-economic-obfuscation-political-theater/
+    text: 'Dr. Jack Rasmus, copyright 2026 “Trump’s 2026 State of the Union speech was
+      historic—but only in the sense of the longest ever at 1 hour and 47 minutes. Apart
+      from that, the speech was one third misrepresentations about the state of the
+      American economy followed by more than an hour of pure political theater which
+      has come to increasingly characterize presidential SOTU addresses in recent years.
+      The misrepresentations of the state of the economy covered topics like inflation
+      and cost of living, record stock market prices and asset wealth creation, his
+      $5 trillion tax cuts almost all of which have accrued to corporations, businesses
+      and investors, and his tariffs which have little to do with trade or economics
+      and everything to do with raising revenue for defense spending and political intimidation
+      of other countries. Jobs Treated very briefly in passing was the topic of jobs.
+      Trump’s avoidance of the topic is understandable—given that this past year the
+      US economy has created a total of only 181,000 jobs; i.e. barely 15,000 jobs month,
+      a level which isn’t even sufficient to provide employment for new entrants to
+      the labor force which ordinarily averages at least 100,000 every month. On the
+      topic of jobs, Trump also made no mention whatsoever of the current unemployment
+      level. When including involuntary part time, temp, and discouraged workers, as
+      well as full time employed, per the government’s own estimates unemployment has
+      been averaging around 8%. That’s more than 11 million US workers jobless! Moreover,
+      even that 8% number excludes the 10 million workers who are self-employed independent
+      contractors which government statistics conveniently ignore by classifying them
+      as business owners, not workers. So the actual unemployment number of unemployed
+      is thus at least 10% when properly estimated. Trump made passing reference to
+      the fact that the 181,000 jobs created were 100% in the private sector—without
+      indicating the number of course. Nor did he bother to mention that he managed
+      to fire 27,000 federal government workers. It’s true, as he said, the US economy
+      is at the highest employment levels ever in 2025—by 181,000 jobs of course. Economic
+      Growth Another economic topic, this time completely unmentioned, was the overall
+      real growth of the economy in 2025. Measured in Gross Domestic Product terms,
+      GDP, the most generally accepted indicator, the US economy grew only 2.2% in all
+      of last year! That’s down from 2.4% in 2024 before he was elected. More ominous,
+      in the last three months of 2025 the economy slowed rapidly even more to only
+      1.4%. And it was actually even much slower, since the inflation adjustment used
+      by the government, called the Personal Consumption Expenditure (PCE) price index
+      notoriously underestimates inflation which, in turn, boosts the reported GDP numbers.
+      If properly inflation adjusted, actual GDP in 2025 was closer to 1% than even
+      the reported 2.2%. Nevertheless, Trump on several occasions bragged “we’re the
+      hottest country in the world!” As for future economic growth Trump continually
+      says other countries have promised to invest $18 trillion in the US economy! But
+      virtually all of that are just verbal pledges, mostly designed no doubt to placate
+      Trump during negotiations over tariffs. It’s difficult to see how the Europeans,
+      Japanese and others—all of whose economies are either in recession or stagnant—are
+      going to invest that amount in America’s economy instead of their own. Inflation
+      Trump did spend some time repeatedly claiming that inflation was reduced dramatically
+      during his first year in office. More than once he proclaimed “inflation is plummeting”.
+      He referenced what is called ‘core’ inflation in the PCE price index, which conveniently
+      excludes food prices, housing costs, mortgage rates, and all other kinds of interest
+      rates on autos, credit cards, and other loans—all of which rose last year. And
+      there was a big problem with the PCE price-inflation index, whether ‘core’ or
+      what’s called ‘headline’, which includes food and energy prices. Readers might
+      think the PCE is constructed by the government going out and surveying a large
+      sample of the millions of goods and services in the economy. It doesn’t. It takes
+      a conglomeration of other surveys and estimations performed by the US Labor and
+      Commerce Departments, puts their results together somehow, adds assumptions of
+      its down, employs questionable methodologies, and comes up with a number that
+      grossly underestimates actual prices in general.  And here’s a bigger problem
+      with the PCE in 2025. In the fourth quarter of 2025 the government shut down for
+      six of the twelve weeks in the October-December period. During that period there
+      were no surveys done by either the Labor or Commerce departments on which the
+      PCE could be based. So half of the quarter had no data available at all. That
+      didn’t stop the government from making up number for the six weeks that it just
+      plugged in the missing six weeks. It said it ‘imputed’ the data. In translation
+      it means it just made up the numbers to smooth out the twelve weeks’ results.
+      The PCE is also notorious for deriving prices from non-price data. For example,
+      it doesn’t actually ask insurance companies how much they raised their prices
+      last year. It takes their profits (which they conveniently underestimate in order
+      to pay lower taxes) and it ‘derives’ the industry prices from their profits! There’s
+      scores of such questionable methods employed. And remember, no housing prices,
+      no mortgage rate hikes, and no higher interest charges of any kind. Trump said
+      nothing in his speech about the huge price hikes now penetrating the economy as
+      a result of the cuts to Medicaid and ACA subsidies. Consumers now have to absorb
+      the huge cost increases if they want to continue prior levels of medical insurance
+      coverage. Many won’t. But none of the loss of subsidies will be counted as price
+      increases or be reflected in the PCE. Stock Markets Trump always likes to brag
+      that the stock market is doing so great. And it is true that the three main US
+      stock markets—the DOW, S&P 500, and Nasdaq—all hit record levels in 2025. And
+      then they began crashing in 2026 and have all continued to trend down. Why? Because
+      in 2025 they were almost all pumped up by speculative investing in the Artificial
+      Intelligence bubble. In recent weeks, investors have begun getting cold feet about
+      AI, however. The big & tech companies have been pouring hundreds of billions into
+      developing AI but it is becoming increasingly clear to investors they may not
+      be able to recoup the profits on the over-investing. AI is also threatening to
+      undermine the profits of other tech, banks, transport and other companies. So
+      their stock prices are falling as well. The cryptocurrency markets are now in
+      even greater freefall. The only game that is ‘hot’ is gold and silver. And their
+      escalating rise is the result of Trump/US sanctions, tariff policy, and the devaluation
+      of the US dollar which is now exceeding 10% so far since Trump took office. The
+      US dollar is not doing so good but Trump said nothing about that. If it’s hot,
+      it’s a ‘hot potato’ that other countries are dumping. Taxation Trump has been
+      touting his $5 trillion 2025 tax act which his Republican run Congress quickly
+      passed as the first measure out of the box last spring 2025.  Half of the $5 trillion
+      wasn’t even new, however. It represented Trump’s 2018 $4.5 trillion package of
+      tax cuts, more than half of which were for large corporations. In 2018 those tax
+      cuts were made permanent forever and didn’t even come up for renewal in Trump’s
+      2025 tax package. So no net new tax stimulus from that. What was up for renewal
+      in 2025 were proposals for small business and individuals. The small business
+      provisions were sweetened even more compared to 2018. So were the individual income
+      tax cuts that benefit mostly those with incomes over $250,000 a year. When touting
+      his 2025 tax bill Trump likes to remind us, and he did again in his speech, that
+      he cut taxes on tips, overtime pay, and social security. But even a brief summary
+      of those provisions in the 2025 tax act reveal something far less. It doesn’t
+      mean no tax on all tips. For example, a worker making $50K/yr and earning $5k
+      on tips will get a tax deduction of only $600. The no tax on overtime pay is capped
+      at only $12k/yr. And the so-called no tax on social security income is a big misrepresentation.
+      It was reduced by Trump’s Congress to a tepid $6k additional tax deduction not
+      an elimination of any tax on social security income. Moreover, all these so-called
+      working class tax cuts phase out completely by 2028—in contrast to the corporate,
+      business, and wealthy individual tax cuts were are now permanent forever! Trump
+      may be right when he calls his 2025 cuts “the largest tax cuts in history”, but
+      it’s the largest for investors, corporations and businesses with a small token
+      crumb thrown at American workers and all packaged in a heap of misrepresentations
+      and outright lies. Since 2001, by the way, presidents and Congresses of both parties
+      have passed tax cuts totally more than $20 trillion, eighty percent of which have
+      accrued to businesses and the wealthy. That $20 trillion contributed significantly
+      to the US economy’s 2025 $1.77 trillion US budget deficit and the US national
+      debt rising from around $36.5 trillion when Trump took office to its current level
+      just shy of $39 trillion. The other major contributions to those deficits and
+      debt are the $9 trillion spent on wars, the Pentagon’s now $1 trillion/yr war
+      budget, and the $1.2 trillion now paid annually to investors in US Treasury securities
+      to pay interest on that debt. No mention of that either, of course. Or that his
+      budget deficit in 2025 was virtually the same as Biden’s $1.8 trillion in 2024!
+      Not a word in his speech about the out of controls annual deficits and debt. Yes,
+      the US economy is ‘hot’, as in the barn is about to burn down hot. Tariffs Trump
+      spent some time hyping his tariff policies. He bragged how his tariffs have brought
+      in hundreds of billions of dollars of new revenues—the exact number he avoided
+      citing since it appears, per the recent Supreme Court decision, he’ll have to
+      give some of that back. One would have thought he’d say something about how tariffs
+      have reduced imports and thus reduced the USA’s annual almost $1 trillion trade
+      deficit. But he didn’t. Why? Because the tariffs haven’t reduced that trade deficit
+      all that much. They’re not about trade or trade deficits. The tariffs are about
+      raising revenues for a government running $1.8 trillion budget deficits and in
+      desperate need of new revenue sources since it’s simultaneously cutting tax revenues—and
+      it needs to raise more funds to pay for its accelerating defense-war costs. Total
+      US war-defense costs, not just Pentagon spending, are now running $2.1 trillion
+      a year. And Trump says he wants to give the Pentagon, now at $1 trillion, another
+      $400 billion for weapons in his 2027 budget. Tariffs are thus about ‘shaking down’
+      US allies and the rest of the world economy to generate more US government revenue
+      to pay for tax cuts and more war spending. Tariffs are also a tool for intimidating
+      foreign governments to ‘toe the line’ on US foreign policy. In that sense, they
+      are an addition to US sanctions policies which haven’t worked all that well in
+      that regard in recent years. Trump’s tariff policies are all over the map. They
+      are causing real economic strain for many US small businesses and farmers who
+      are losing markets and revenues, as well as to some extent to consumers whose
+      prices for goods imports are rising. It is true that Trump has raised the average
+      rate of tariffs on imports to the US from a previous 2.4% to around 13%. And those
+      who think legislation or the Supreme Court will prevent him from raising them
+      further are naively mistaken. His vision is tariffs are the economic panacea for
+      all that ails the US economy. As he put it at one point, obviously departing from
+      his prepared speech, he wants tariffs to someday even replace the individual income
+      tax! That will mean a regressive de facto sales tax on goods imports of at least
+      30%. At that level, domestic US producers will have sufficient cover to raise
+      prices on US produced goods by at least 10% on average. Double digit chronic inflation
+      anyone? These were the main economic measures Trump addressed. When considered
+      in more detail, Trump’s touting of the US economy’s performance in 2025 amounts
+      to misrepresentation at best, and outright lies in most cases. The US economy
+      is not robustly growing but slowing. Jobs are barely being created. Inflation
+      is nearly twice that reported by the PCE index, which is over-inflating US GDP
+      in turn. The stock market bubbles of 2025 have begun unwinding, the AI hype has
+      peaked, and the US dollar devaluation is accelerating and the worse since the
+      1970s. The US budget deficits and national debt continue surging out of control
+      and interest payments to rich holders of US Treasury securities are escalating
+      past $1.2 trillion a year! The tax cuts of 2025, like those of 2018, will provide
+      little if any real stimulus to the economy and the working class cuts are a sham
+      of what’s claimed. Pledges by other countries to invest in the US aren’t worth
+      the verbal assurances given or the paper they’re written on, if in fact they were
+      written. Tariffs are about raising revenue and political intimidation of allies
+      and the rest of the world alike. They are a reflection of the fact the US empire
+      is running short of funds and is searching for radical funding alternatives in
+      lieu of economic growth or debt financing now approaching its limits. Tariffs
+      in turn are upending global supply chains and global trade and will lead to other
+      countries’ turning further away from the US dollar, thus ensuring its further
+      devaluation. In short, the Trump economy and the USA is ‘hot’ only in the sense
+      it is becoming domestically, and globally, an internal combustion engine heating
+      up as result of insufficient coolant. And when engines become so ‘hot’, their
+      mechanical working parts eventually just freeze up. Go to top About the Author
+      Jack Rasmus is author of the recently published book, ‘The Scourge of Neoliberalism:
+      US Economic Policy from Reagan to Trump’, Clarity Press, 2020. He publishes at
+      Predicting the Global Economic Crisis .'
+    one_sentence_summary: Dr. Jack Rasmus critiques Trump's 2026 State of the Union
+      speech as historically lengthy but filled with economic misrepresentations and
+      political theatrics, particularly regarding inflation, tax cuts, and job creation.
+    paragraph_summary: In his 2026 State of the Union address, President Trump delivered
+      a lengthy speech that was criticized for being filled with misrepresentations
+      about the American economy, particularly regarding inflation, stock market performance,
+      and the impact of his tax cuts, which primarily benefited corporations and investors.
+      The speech briefly touched on job creation, noting a mere 181,000 jobs added over
+      the past year—far below the necessary levels to accommodate new labor market entrants—and
+      failed to address the actual unemployment rate, which, when accounting for various
+      categories of joblessness, is estimated to be over 10%. Overall, the address was
+      characterized more by political theatrics than substantive economic discussion,
+      leaving significant issues unaddressed.
+    published: '2026-02-26T08:39:17+00:00'
   - title: How Close Is the Next Financial Crisis?
     url: https://jackrasmus.com/2026/02/19/how-close-is-the-next-financial-crisis/
     text: 'February 18, 2026 Dr. Jack Rasmus, copyright 2026 During the past fourteen
