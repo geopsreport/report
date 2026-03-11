@@ -7,16 +7,660 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The global geopolitical landscape remains fraught with tension and uncertainty, marked by the erosion of international legal norms and the rise of power-centric politics. Recent analyses underscore the persistence of these trends, with new details emerging about elite impunity, the marginalization of international law, and the challenges facing global security institutions.
+  As tensions in the Middle East continue to escalate, the international community is bracing for further instability following recent Israeli and US attacks on Iran. This development is set to be the focus of a special webinar, "Humanity on the Brink," scheduled for March 15, which aims to dissect the regional and global ramifications of the conflict.
   
-  A significant development is the continued exposure of entrenched elite networks, as detailed by **Richard Falk** in his investigation into the Epstein case. Falk highlights how "Epstein's connections to powerful figures expose a hidden network of elite influence that evades legal and moral accountability," underscoring the broader issue of impunity among the global elite and the exploitation of vulnerable populations. This revelation adds to the growing perception that legal and ethical standards are selectively applied, particularly for those with access to power.
+  **Richard Falk** highlights the gravity of the situation, noting that the aggressive posture adopted by the Trump administration towards Iran constitutes an unlawful "war of choice." Falk argues that such actions are not only exacerbating existing global crises but are also undermining prospects for a just and peaceful future. The majority view among analysts is that this approach reflects a broader trend of power politics supplanting international law, a phenomenon that has accelerated with the rise of far-right and nationalist movements.
   
-  On the international stage, the weakening of global legal frameworks remains a central concern. **Richard Falk** argues that "the rise of far-right and nationalist movements, exemplified by figures like Trump, is marginalizing international law in global politics," reflecting a shift toward unilateralism and away from multilateral cooperation. This trend is evident in recent U.S. actions in Venezuela, which Falk describes as "indicative of a troubling trend towards nihilistic geopolitics that undermines international law and the United Nations' ability to maintain global security and uphold legal norms." The complicity of international bodies like the UN in legitimizing such actions further erodes confidence in established mechanisms for conflict resolution and human rights protection.
+  In parallel, the exposure of elite criminal networks, as revealed in the Epstein case, continues to cast a shadow over global governance. **Richard Falk** points out that these networks operate with impunity, evading both legal and moral accountability, and their existence underscores the erosion of trust in international institutions.
   
-  In the Middle East, the Trump administration's approach to conflict mediation—particularly the establishment of independent peace councils outside the UN framework—has been criticized as illegitimate and detrimental to the rights of affected populations. Falk warns that such initiatives "favor wrongdoers and undermine established mechanisms like the United Nations," raising concerns about the future of international conflict resolution.
+  Looking ahead, the upcoming webinar is expected to provide critical insights into the potential trajectories of the Middle East crisis. There is a high chance that the conflict will further destabilize the region and strain the international legal order. As **Falk** puts it, "the marginalization of international law in global politics" is now a defining feature of the current era.
   
-  Looking ahead, the prevailing trend is one of increasing unpredictability and instability. The majority of analysts, including Falk, suggest there is a high chance that the current trajectory—marked by elite impunity, the sidelining of international law, and the weakening of global institutions—will persist. Without significant reforms or a renewed commitment to multilateralism, it is quite likely that geopolitical tensions and legal uncertainties will continue to define the international order in the near future.
+  **Prediction:** There is high confidence that unless there is a significant shift in US and Israeli policy, the violence in the Middle East will intensify, with global repercussions for security and the rule of law. The erosion of international norms is likely to continue, making the search for peaceful solutions increasingly difficult.
 articles:
+  - title: Humanity at the Brink, Program, Sunday March 15, 2026
+    url: https://richardfalk.org/2026/03/09/5108/
+    text: 'Humanity on the Brink -PROGRAM, March 15, 2026 War and Upheaval in the Middle
+      East and Beyond: You are invited to a special webinar Sunday 15 March Humanity
+      on the Brink You are invited to an urgently convened webinar this Sunday 15 March.
+      The aim: to set the barbarism unfolding in Gaza, Lebanon and Iran within a regi
+      onal and global context. Register here Speakers: Prof Richard Falk, Prof Joseph
+      Camilleri, Dr Chandra Muzaffar In the space of a few days Israeli and US attacks
+      on Iranian soil and the killing of the Supreme Leader have unleashed senseless
+      destruction, including deadly attacks on schools and hospitals, engulfed neighbouring
+      countries, brought air travel to a standstill and caused mayhem on energy markets.
+      And this is just the beginning of a war that Trump says could last several weeks,
+      perhaps longer. It is a war long in the making. How are we to make sense of it?
+      Is it the continuation of the unrelenting hostility of successive US administrations
+      towards the present Iranian regime, indeed any Iranian government that seeks to
+      resist US strategic and economic interests? Is it further evidence of Samuel Huntington’s
+      foreshadowed clash of civilizations’? Or just another attempt to reverse America’s
+      eroding supremacy on the global stage? Perhaps, it is an attempt to establish
+      a large and secure sphere of influence in the face of China’s rise and Russia’s
+      resurgence. SHAPE Co-Conveners and leading public intellectuals , Professor Richard
+      Falk, Professor Joseph Camilleri and Dr Chandra Muzaffar have been considering
+      these questions at length. At the webinar they will engage in a probing analysis
+      of the underlying causes and explores possible responses. Their presentations
+      will be followed by two insightful respondents, and Q&A. Date: Sunday 15 March
+      Time: LA 6:30 am    New York 9:30 am    London 1:30 pm   Cairo 3.30 pm   KL 9:30
+      pm Melbourne 0.30 am (Monday). The webinar is hosted by SHAPE (Serving Humanity
+      and Planet Earth) and JUST (International Movement for a Just World). Other sponsoring
+      groups and further program details to be confirmed shortly. Please alert others
+      in your network. Registration Essential With our best wishes. On behalf of SHAPE
+      Coordinating Committee Email: savinghumanityandplanetearth@gmail.com Website https://www.theshapeproject.com/'
+    one_sentence_summary: A special webinar titled "Humanity on the Brink" is scheduled
+      for March 15, 2026, to discuss the escalating violence in the Middle East, particularly
+      the recent Israeli and US attacks on Iran, and to analyze the broader regional
+      and global implications of this conflict.
+    paragraph_summary: On March 15, 2026, a special webinar titled "Humanity on the
+      Brink" will address the escalating violence in the Middle East, particularly the
+      recent Israeli and US attacks on Iran, which have led to widespread destruction
+      and regional instability. The event features prominent speakers, including Professors
+      Richard Falk and Joseph Camilleri and Dr. Chandra Muzaffar, who will analyze the
+      conflict's roots and implications within a broader geopolitical context, including
+      US foreign policy, the concept of a "clash of civilizations," and the shifting
+      balance of power with the rise of China and Russia. The webinar aims to foster
+      a deeper understanding of the situation and explore potential responses, with
+      a Q&A session to follow the presentations.
+    published: '2026-03-10T02:34:41+00:00'
+  - title: Humanity at the Brink, Program, Sunday March 15, 2026
+    url: https://richardfalk.org/2026/03/09/5108/
+    text: 'Humanity on the Brink -PROGRAM, March 15, 2026 War and Upheaval in the Middle
+      East and Beyond: You are invited to a special webinar Sunday 15 March Humanity
+      on the Brink You are invited to an urgently convened webinar this Sunday 15 March.
+      The aim: to set the barbarism unfolding in Gaza, Lebanon and Iran within a regi
+      onal and global context. Register here Speakers: Prof Richard Falk, Prof Joseph
+      Camilleri, Dr Chandra Muzaffar In the space of a few days Israeli and US attacks
+      on Iranian soil and the killing of the Supreme Leader have unleashed senseless
+      destruction, including deadly attacks on schools and hospitals, engulfed neighbouring
+      countries, brought air travel to a standstill and caused mayhem on energy markets.
+      And this is just the beginning of a war that Trump says could last several weeks,
+      perhaps longer. It is a war long in the making. How are we to make sense of it?
+      Is it the continuation of the unrelenting hostility of successive US administrations
+      towards the present Iranian regime, indeed any Iranian government that seeks to
+      resist US strategic and economic interests? Is it further evidence of Samuel Huntington’s
+      foreshadowed clash of civilizations’? Or just another attempt to reverse America’s
+      eroding supremacy on the global stage? Perhaps, it is an attempt to establish
+      a large and secure sphere of influence in the face of China’s rise and Russia’s
+      resurgence. SHAPE Co-Conveners and leading public intellectuals , Professor Richard
+      Falk, Professor Joseph Camilleri and Dr Chandra Muzaffar have been considering
+      these questions at length. At the webinar they will engage in a probing analysis
+      of the underlying causes and explores possible responses. Their presentations
+      will be followed by two insightful respondents, and Q&A. Date: Sunday 15 March
+      Time: LA 6:30 am    New York 9:30 am    London 1:30 pm   Cairo 3.30 pm   KL 9:30
+      pm Melbourne 0.30 am (Monday). The webinar is hosted by SHAPE (Serving Humanity
+      and Planet Earth) and JUST (International Movement for a Just World). Other sponsoring
+      groups and further program details to be confirmed shortly. Please alert others
+      in your network. Registration Essential With our best wishes. On behalf of SHAPE
+      Coordinating Committee Email: savinghumanityandplanetearth@gmail.com Website https://www.theshapeproject.com/'
+    one_sentence_summary: A special webinar titled "Humanity on the Brink" is scheduled
+      for March 15, 2026, to discuss the escalating violence in the Middle East, particularly
+      the recent Israeli and US attacks on Iran, and to analyze the broader regional
+      and global implications of this conflict.
+    paragraph_summary: On March 15, 2026, a special webinar titled "Humanity on the
+      Brink" will address the escalating violence in the Middle East, particularly the
+      recent Israeli and US attacks on Iran, which have led to widespread destruction
+      and regional instability. The event features prominent speakers, including Professors
+      Richard Falk and Joseph Camilleri and Dr. Chandra Muzaffar, who will analyze the
+      conflict's roots and implications within a broader geopolitical context, including
+      US foreign policy, the concept of a "clash of civilizations," and the shifting
+      balance of power with the rise of China and Russia. The webinar aims to foster
+      a deeper understanding of the situation and explore potential responses, with
+      a Q&A session to follow the presentations.
+    published: '2026-03-10T02:34:41+00:00'
+  - title: ''
+    url: https://richardfalk.org/2026/03/04/5103/
+    text: 'Trump’s Perverse Dualism: Contra Benevolent Internationalism and Pro Geopolitical
+      Internationalism [Prefatory Note: I write with a sense of urgency, a time when
+      the human species is in great peril. The Second Iran War moves us closer to an
+      abyss of unknowable depth. It is a time when the peoples of the world are our
+      best hope, with neither the geopolitical actors, nor the UN, nor respect for law,
+      morality, and decency are capable of resolving the multi dimensional global crisis
+      and promoting a justife-driven future for humanity. The alternative to struggle
+      is depaor. As the future is unknowable we owe to those we love and all humanity
+      to carry bright torches that light the way forward.} An Unlawful War On February
+      28 Trump embarked on a war against Iran, deliberating targeting its Supreme Leader,
+      a girls school and calling openly for regime change. This aggression has been
+      sanitized as a ‘war of choice’ in the mainstream press as if such an option exists
+      in the domain of international law. This sugar-coating language seeks to divert
+      attention from the massive breach in international law.  The UN Charter couldn’t
+      be clearer. Its core and most vital norm is set forth in Article 2(4), which without
+      any qualification prohibits all uses of international force except in the exercise
+      of self-defense against a prior armed attack. In shallow efforts to legal justifications,
+      pro-war hawks have called this unprovoked attack on Iran amid negotiations to
+      end the threat of war ‘a war against Iranian terrorism,’ ‘a preventive war against
+      an imminent Iranian threat to U.S. national security,’ and ‘a regime-changing
+      humanitarian intervention.’ These are polemical talking points but not serious
+      attempts to offer a rationale that remotely attaches a reputable argument as to
+      the ‘legality’ of recourse to war. Somehow Trump gave the game away when he declared
+      that he supports international law so long as he is the final arbiter of what
+      is lawful or not. The precedent being set by the U.S. in launching this war of
+      aggression against Iran will long live in infamy, and not only for its victims,
+      but for any hope of a sane, peaceful, law-abiding future for international relations.
+      The Iran War coming after the Venezuelan military operation is a further sign
+      that America’s support for internationalism has been replaced by a 21 st century
+      variant of imperial geopolitics. Withdrawing from Benevolent Internationalism
+      I In the first week of the New Year the White House released a largely neglected
+      memorandum announcing U.S. withdrawal from 66 ‘international organizations’, 31
+      of which are situated within the UN System. Another 35 were independent of the
+      UN dedicated to the functional tasks of global scope. In addition to ending participation,
+      this withdrawal also means no more U.S. funding. This would disastrously limit
+      the capabilities and performances of these organizations, whose work is vital
+      in so many areas of international life. Such an initiative, although unprecedented,
+      should come as no surprise. Donald Trump has never made a secret of his hostility
+      to internationally cooperative arrangements established to address practical global
+      concerns, whether it be climate change, disease control, cultural heritage, economic
+      development, human rights, enforcing piracy on international waters and most of
+      all, the management of global security and international conflicts. The White
+      House alleged that these organizations “operate contrary to U.S. national interests,
+      security, economic prosperity or sovereignty.” An accompanying memo elaborated
+      on “bringing to an end..American taxpayer funding” and how such actions contributing
+      to the wider Trump effort to “restore American sovereignty.” These misleading
+      abstractions hide the true motivation behind this regressive series of moves.
+      The veil of deception surrounding this deliberately dramatic move against what
+      might be called ‘global wokism,’ (the liberal extensions of domestic commitments
+      to ‘diversity, equity, and inclusion’ + reliance on cooperative international
+      arrangements + support for the UN and human rights).  The Orwellian double-speak
+      of the Trump Memorandum was somewhat clarified in a statement issued on the same
+      day by the ever-dutiful Secretary of State, Marco Rubio. It had this candid heading,
+      “Withdrawal from Wasteful, Ineffective, or Harmful International Organizations.”
+      In the text Rubio elaborates that these organizations favor global governance
+      and are “often dominated by progressive ideology and detached from national interests.”
+      In other words, this anti-internationalism should not be sugarcoated as a revival
+      of outmoded traditional U.S. isolationism. It is a matter of clearing the path
+      that impedes Trump’s brand of narcissistic imperialism as set forth in the National
+      Strategy of the United States, which was released in November 2025. The concluding
+      words from Rubio also express the Trump ethos that this wholesale withdrawal from
+      internationalism is an unmistakable message that the US Government rejects any
+      international entanglement that requires funding or dilution of American sovereignty:
+      “We will not continue expending resources, diplomatic capital, and the legitimizing
+      weight of our participation in institutions that are irrelevant to or in conflict
+      with our interests. We reject inertia and ideology in favor of prudence and purpose.
+      We seek cooperation where it serves our people and will stand firm where it does
+      not.” Trump’s Geopolitical Internationalism What the Trump leadership does not
+      tell the world is that the U.S. has its own preferred manner of dealing with threats
+      to its economic and political interests as amply illustrated by the recent Venezuela
+      military intervention, the threats to unleash an unprovoked military aggression
+      against Iran, and the Greenland gambit best interpreted as a menacing new form
+      of territorial piracy. In effect, these MAGA moves are rationalized as a repudiation
+      of the woke liberal ‘global leadership’ style of American foreign policy that
+      exerted influence by its participation in and funding of bipartisan internationalism.
+      The argument, not without certain merits, is that the Obama/Biden geopolitics
+      should not be romanticized as global benevolence, the virtues of ‘a rule-governed
+      international order,’ or an embrace of fiscal conservatism. In this spirit it
+      is responsible to recall that U.S. pre-Trump military spending was ten times greater
+      than the next ten states, and devoted in large part to maintaining U.S. global
+      dominance rather than national security as traditionally understood. To be sure,
+      it is a glaring example of MAGA hypocrisy exposed by Trump’s seeking and obtaining
+      from Congress a 50% increase in the US peacetime military appropriation, to a
+      staggering total of $1.5 trillion. A considerable amount of the bloated military
+      budget will be used to pay the high maintenance costs of 850 military bases all
+      over the world, a posture hardly consistent with the Trump claim to reduce American
+      foreign policy ambitions to their earlier hemispheric dimensions, which itself
+      overlooked U.S. colonizing adventures in the Pacific region that peaked at the
+      end of the 19 th century. The smaller pre-Trump military budgets proved sufficient
+      to finance regime changing interventions and costly failed state-building and
+      market-oriented undertakings most visibly in Iraq, Afghanistan, and Libya. Trump
+      predecessor Joe Biden’s  Cold War nostalgia was not restrained by military budget
+      constraints. He most revealingly chose war rather than diplomacy in the context
+      of the Russian attack on Ukraine, and like Trump could find even less to criticize
+      in Netanyahu’s genocidal approach to Gaza. Trump’s refusal to expend US dollars
+      to fund cooperative approaches to global issues, whether involving bettering economic
+      and social conditions of others or working to control disease, food security and
+      climate in ways that benefit the U.S. exhibits an extremely shortsighted and dysfunctional
+      view of national interests. True such international activities go against Trump’s
+      electoral pledge to contract the role of the state or to curtail the dangerously
+      expanding national debt and certainly not to reduce militarist geopolitics. While
+      defunding internationalism the Trump military budget is the highest instance ever
+      of peacetime military spending. It can neither be justified by national security
+      nor of benefit to the lives of the great majority of Americans. As the National
+      Security Strategy released by the White House in November 2025 explained, American
+      foreign policy would henceforth reembrace the discarded Monroe Doctrine as expanded
+      by the addition of the Trump Corollary. This bundle of initiatives was immediately
+      dubbed the Donroe Doctrine, giving Trump’s brand of narcissistic geopolitics its
+      due. This formal statement served as a clumsy doctrinal prelude to the attack
+      on Venezuela as well as added threats directed at Cuba and Colombia to expect
+      similar treatment if they don’t do what Washington demands. Even more radical
+      in its implications were strong assertions that non-hemispheric actors were expected
+      to refrain in the future from economic and infrastructure involvements in Latin
+      America. Obviously, this was a thinly veiled warning to China to downsize, if
+      not eliminate, its extensive investment and trade relations throughout Latin America.
+      The message to non-hemispheric actors was henceforth to avoid economic, social,
+      and political Latin involvements or else expect hostile pushback from Washington’s
+      commitment to ‘hemispheric preeminence.’ Time will tell whether this grandiose
+      claim of control over Latin America will spark a new cycle of national resistance
+      to such a brazen contraction of the right of self-determination of these countries
+      as conferred by Article I of the Human Rights Covenant of Political Civil Rights.
+      It is also remains to be seen how China and other countries will respond to this
+      outright interference with their freedom to engage in peaceful relations with
+      Latin America. This mass withdrawal from international cooperative problem-solving
+      also is a virtual admission in this Trump Era that the U.S. has opted for ‘transactionalism’
+      and post-colonial imperialism. The most salient feature of this tectonic shift
+      away from Franklin Roosevelt’s Good Neighbor Policy in Latin America as brazenly
+      announced to the world, and especially to the Hemisphere, including more shockingly
+      to Canada, is that the U.S. is giving priority to its strategic ambitions free
+      from discarded liberal pretenses of respect for international law and the United
+      Nations. It seems to be telling the world that its only guide when it comes to
+      foreign policy in the future will be the warped and personalist amorality of Donald
+      Trump. In the future, Latin America can expect to be treated as an exclusive U.S.
+       ‘sphere of influence,’ perhaps more accurately known as ‘a sphere of dominance.’
+      If such is the case, the closest recent resemblance is to the Soviet relationship
+      to Eastern Europe during the Cold War. A Second Look at U.S. Withdrawal from Internationalism
+      and Pre-Trump Resistance to Latin Economic Nationalism In this sense the withdrawal
+      from the 66 organizations is a gigantic step away from the U.S. engagement with
+      the liberal approach that served as a bipartisan guide to American foreign policy
+      and the projection of its blend of hard and soft power ever since 1945. The previous
+      posture of American foreign policy avoided the arrogant Trumpian language of ‘preeminence,’
+      adopting as an alternative approach to the bipartisan post-Cold War euphemistic
+      language of ‘global leadership.’  This earlier terminology also did not play by
+      the rules of respect for the sovereign rights of states. It too was guilty of
+      geopolitical disregard of legal constraints when it served strategic national
+      interests. It resorted to regime change by covert interventions throughout the
+      Cold War on behalf of its free market ideology and in opposition to economic nationalism
+      by elected leaders or in the aftermath of popular revolution. This pattern of
+      covert intervention in Guatemala in 1954 generated and orchestrated A coup against
+      a democratically elected government that was alleged to have Communist leanings,
+      and more concretely threatened the interests of United Fruit Company, nationalizing
+      some unused land owned by this powerful corporate investor. This pattern of a
+      more overt justification for promoting regime change that combined an ideological
+      rationale with underlying hostility to economic nationalism shaped the U.S. response
+      to the Cuban Revolution a few years later. The U.S relied for many years on harsh
+      economic sanctions while lending mar support to counterrevolutionary Cuban exile
+      proxies in a series of failed attempts to duplicate its earlier success in Guatemala.
+      Castro’s leadership in Cuba was delegitimized by liberal American leaders at the
+      time as ‘incompatible’ with ideals and values of the hemisphere yet seemed more
+      directly motivated by a toxic opposition to economic nationalism taking the principal
+      form of nationalizing Cuba’s sugar industry by a mixture of hardline foreign policy
+      hawks and coup-minded Cuban exiles. In a shameful continuing display of heartless
+      foreign policy annual one-sided votes in the UN General Assembly favor ending
+      sanctions against Cuba that have persisted for more that 60 years after the Castro
+      ascent to power, causing severe economic hardship for the population. The U.S.
+      also lent covert encouragement to the 1973 anti-Allende Pinochet coup in Chile.
+      It also carried out in 1989 a lawless intervention in Panama centering on the
+      kidnapping of the de facto head of state Manuel Noriega and forcibly bringing
+      him to the US to face criminal charges of drug trafficking. The self-serving code
+      name for the intervention was Operation Just Cause officially defended as needed
+      for the protection of U.S. economic interests, enforcement of drug trafficking,
+      and for the security of the Panama Canal. These were peculiar ways of expressing
+      neighborly good will, to say the least, covertly carried out or ideologically
+      asserted as elements of Cold War ‘containment’ geopolitics. This anti-communist
+      veneer masked accompanying economic motivations to crush Latin nationalism and
+      thereby promote the interests of US corporations to uphold the security of private
+      sector investments that had long exploited Latin resources.  This pre-Trump strategic
+      militarism was never limited to the Western Hemisphere as many American regime
+      changing and state-building ventures were carried out in Asia and the Middle East. 
+      The arc of US interventionism after 1945 stretches from the CIA engineered overthrow
+      in 1953 of Mossadegh’s democratically elected government in Iran and its replacement
+      by the authoritarian Pahlavi Dynasty to the Venezuelan undertaking in 2026. In
+      both cases the common strategic stakes were to ensure that the vast oil reserves
+      of these two countries were managed for profit by U.S. corporate energy giants.
+      Before Trump US foreign aid, support of the UN, and assorted initiatives such
+      as the Peace Corps were in fact idealistic features of American foreign policy.
+      Yet all along such policies had a hybrid character. They served also as PR ploys
+      to pursue covertly the warrior and economistic sides of U.S. ‘global leadership,’
+      that is, covert means to prevent countries in the non-Western world from moving
+      toward either socialism or economic nationalism. Unlike the Monroe Doctrine Era,
+      which was preoccupied with resisting European intervention, the Cold War period
+      and its aftermath represented a geopolitical reset that was rooted in Atlanticism,
+      pitting the West against the non-West in alliance with Europe, as given salient
+      expression in the NATO alliance. This alliance originated as a collective defense
+      arrangement designed to deter alleged Soviet expansionist ambitions toward Europe
+      but revealingly has limped along for more than three decades after the collapse
+      of the Soviet Union, which was its original justifying rationale. It should not
+      be overlooked that principally the main NATO members after 1993 joined in their
+      complicity toward Israel’s genocidal policies in Occupied Palestine. This was
+      convincing testimony that the Atlanticist coalition that existed during the Cold
+      War broadened its agenda to encompass Afghanistan and Israel/Palestine, redesigning
+      containment to validate the post-Soviet civilizational containment of Islam. Such
+      policies fulfilled Samuel Huntington’s prophetic expectations that the Soviet
+      collapse would produce a ‘clash of civilizations’ rather than ‘an end of history.’
+      Beyond Hemispheric Preeminence Atlanticism is currently being redefined by Trump
+      as okay so long as it submits to his efforts to control coercively ongoing confrontations
+      with the non-West shifting their ideational locus from Communism to Islam, with
+      Iran currently in the U.S. gunsights. As mentioned, the distinctive features of
+      Trump’s overtly nihilistic geopolitics, despite its declared intentions, will
+      not be confined to the Western Hemisphere. As metaphor, and sign of political
+      pathology, Trump’s absurd fantasy that if the Bureau of Peace administering Gaza
+      is ‘successful,’ whatever that might come to mean, it will emerge as the peace-building
+      center of yet another ‘new international order.’ In that event, the UN will be
+      cast aside as weak, wasteful, and ineffectual, a relic of the old order that will
+      be replaced by the strong, efficient, and effective Bureau of Peace as administered
+      from Washington. This outlandish project can be understood as an institutional
+      equivalent to Trump’s anger that he was robbed of the 2025 Nobel Peace Prize that
+      he alone richly deserved. Looked upon more objectively, if a Nobel War Prize existed,
+      Trump would surely deserve to be the leading candidate, and likely recipient.
+      Where is Trump’s Foreign Policy Headed? In effect, Trump’s anti-internationalism
+      should be reinterpreted. The U.S. is certainly retreating these days from the
+      Atlanticist neoliberal globalist model of world order. This disappoints and worries
+      those who continue to value the U.S. global leadership role, however blurry its
+      nature, as the only feasible alternative to chaos, economic crisis, and Western
+      decline. In contrast, what Trump seems to be now proposing is undisguised American
+      unipolarity as qualified by transactional calculations of national advantage.
+      This is the message to Europeans as evident in the leveraging of tariffs as a
+      policy instruments to punish and reward, most recently softened somewhat by Rubio’s
+      ‘breadcrumb diplomacy’ speech that seemed to delight the European audience attending
+      the Munich Security Conference in mid-February. Rubio’s well-chosen words were
+      received as reassurance that after all Europe would not be cut loose to fend for
+      itself and could still rely on partnering with the U.S. so long as it let Trump
+      run the show. The standing ovation given to Rubio at the end of his speech seem
+      best understood as an unexpectedly servile display of fealty by the leadership
+      of Europe to U.S. global imperialism My suspicion is that, despite such appearances
+      to the contrary, the Trump worldview might be slouching toward a ‘beautiful’ geopolitical
+      bargain with America’s two geopolitical rivals: China and Russia. Its enactment
+      would involve enlarged spheres of influence reciprocally accepted, and a trilateral
+      management of global security. The UN would be diminished, if not relegated to
+      the status of serving minor functional issues, a kind of ‘petty internationalism’
+      with tight budgetary constraints. It would be naïve to suppose that such a world
+      order arrangement would benefit the majority of the world’s peoples or address
+      the global public good as specified in general terms by the Preamble of the UN
+      Charter, but we should all know by now that these goals were never endorsed by
+      Trump. A preferable alternative architecture for a new order exists but is hampered
+      by the inter-civilizational rivalries now flourishing to block suitable attention
+      to the agenda of benign internationalism focusing on nuclear weaponry, climate
+      change, xenophobia, developmental equity, racism, human rights, fashioning regulatory
+      frameworks for weapons, AI, robotics. Such a future is also treated as irrelevant
+      by the ‘political realists’ who wield influence in the inner sanctums of the reigning
+      geopolitical actors.  Such thinking, however outmoded, continues to dominate the
+      foreign policy elites of almost all major countries undermining any present prospects
+      for generating a new world order animated by promoting the global public good.
+      The most that can be hoped for in the near future is a more prudent and responsible
+      realism that becomes sensitive to the limitations of militarist geopolitics. Thus,
+      adaptation to the changing global setting is confined to rearrangements of ill-fitting
+      and often antagonistic ‘parts’ rather than finally affirming the politics of the
+      planet as an organic ‘whole,’ which seems alone capable of preserving a humane
+      and resilient future.'
+    one_sentence_summary: The article critiques Trump's aggressive stance towards Iran,
+      framing it as an unlawful "war of choice" that exacerbates global crises and undermines
+      the potential for a just and peaceful future for humanity.
+    paragraph_summary: The article critiques former President Trump's aggressive stance
+      towards Iran, particularly his declaration of a war against the country that includes
+      targeting its Supreme Leader and advocating for regime change. It argues that
+      this approach represents a significant violation of international law, specifically
+      the UN Charter's prohibition on the use of force except in self-defense. The author
+      expresses concern that mainstream media has mischaracterized this conflict as
+      a "war of choice," thereby downplaying its legal implications. Furthermore, the
+      article highlights the troubling precedent set by Trump's assertion that he can
+      determine the legality of actions based on his own judgment, raising alarms about
+      the erosion of international norms and the potential for escalating global crises.
+      The author calls for collective action among the world's peoples to navigate these
+      perilous times, emphasizing the need for a just and humane future.
+    published: '2026-03-05T02:07:08+00:00'
+  - title: ''
+    url: https://richardfalk.org/2026/03/04/5103/
+    text: 'Trump’s Perverse Dualism: Contra Benevolent Internationalism and Pro Geopolitical
+      Internationalism [Prefatory Note: I write with a sense of urgency, a time when
+      the human species is in great peril. The Second Iran War moves us closer to an
+      abyss of unknowable depth. It is a time when the peoples of the world are our
+      best hope, with neither the geopolitical actors, nor the UN, nor respect for law,
+      morality, and decency are capable of resolving the multi dimensional global crisis
+      and promoting a justife-driven future for humanity. The alternative to struggle
+      is depaor. As the future is unknowable we owe to those we love and all humanity
+      to carry bright torches that light the way forward.} An Unlawful War On February
+      28 Trump embarked on a war against Iran, deliberating targeting its Supreme Leader,
+      a girls school and calling openly for regime change. This aggression has been
+      sanitized as a ‘war of choice’ in the mainstream press as if such an option exists
+      in the domain of international law. This sugar-coating language seeks to divert
+      attention from the massive breach in international law.  The UN Charter couldn’t
+      be clearer. Its core and most vital norm is set forth in Article 2(4), which without
+      any qualification prohibits all uses of international force except in the exercise
+      of self-defense against a prior armed attack. In shallow efforts to legal justifications,
+      pro-war hawks have called this unprovoked attack on Iran amid negotiations to
+      end the threat of war ‘a war against Iranian terrorism,’ ‘a preventive war against
+      an imminent Iranian threat to U.S. national security,’ and ‘a regime-changing
+      humanitarian intervention.’ These are polemical talking points but not serious
+      attempts to offer a rationale that remotely attaches a reputable argument as to
+      the ‘legality’ of recourse to war. Somehow Trump gave the game away when he declared
+      that he supports international law so long as he is the final arbiter of what
+      is lawful or not. The precedent being set by the U.S. in launching this war of
+      aggression against Iran will long live in infamy, and not only for its victims,
+      but for any hope of a sane, peaceful, law-abiding future for international relations.
+      The Iran War coming after the Venezuelan military operation is a further sign
+      that America’s support for internationalism has been replaced by a 21 st century
+      variant of imperial geopolitics. Withdrawing from Benevolent Internationalism
+      I In the first week of the New Year the White House released a largely neglected
+      memorandum announcing U.S. withdrawal from 66 ‘international organizations’, 31
+      of which are situated within the UN System. Another 35 were independent of the
+      UN dedicated to the functional tasks of global scope. In addition to ending participation,
+      this withdrawal also means no more U.S. funding. This would disastrously limit
+      the capabilities and performances of these organizations, whose work is vital
+      in so many areas of international life. Such an initiative, although unprecedented,
+      should come as no surprise. Donald Trump has never made a secret of his hostility
+      to internationally cooperative arrangements established to address practical global
+      concerns, whether it be climate change, disease control, cultural heritage, economic
+      development, human rights, enforcing piracy on international waters and most of
+      all, the management of global security and international conflicts. The White
+      House alleged that these organizations “operate contrary to U.S. national interests,
+      security, economic prosperity or sovereignty.” An accompanying memo elaborated
+      on “bringing to an end..American taxpayer funding” and how such actions contributing
+      to the wider Trump effort to “restore American sovereignty.” These misleading
+      abstractions hide the true motivation behind this regressive series of moves.
+      The veil of deception surrounding this deliberately dramatic move against what
+      might be called ‘global wokism,’ (the liberal extensions of domestic commitments
+      to ‘diversity, equity, and inclusion’ + reliance on cooperative international
+      arrangements + support for the UN and human rights).  The Orwellian double-speak
+      of the Trump Memorandum was somewhat clarified in a statement issued on the same
+      day by the ever-dutiful Secretary of State, Marco Rubio. It had this candid heading,
+      “Withdrawal from Wasteful, Ineffective, or Harmful International Organizations.”
+      In the text Rubio elaborates that these organizations favor global governance
+      and are “often dominated by progressive ideology and detached from national interests.”
+      In other words, this anti-internationalism should not be sugarcoated as a revival
+      of outmoded traditional U.S. isolationism. It is a matter of clearing the path
+      that impedes Trump’s brand of narcissistic imperialism as set forth in the National
+      Strategy of the United States, which was released in November 2025. The concluding
+      words from Rubio also express the Trump ethos that this wholesale withdrawal from
+      internationalism is an unmistakable message that the US Government rejects any
+      international entanglement that requires funding or dilution of American sovereignty:
+      “We will not continue expending resources, diplomatic capital, and the legitimizing
+      weight of our participation in institutions that are irrelevant to or in conflict
+      with our interests. We reject inertia and ideology in favor of prudence and purpose.
+      We seek cooperation where it serves our people and will stand firm where it does
+      not.” Trump’s Geopolitical Internationalism What the Trump leadership does not
+      tell the world is that the U.S. has its own preferred manner of dealing with threats
+      to its economic and political interests as amply illustrated by the recent Venezuela
+      military intervention, the threats to unleash an unprovoked military aggression
+      against Iran, and the Greenland gambit best interpreted as a menacing new form
+      of territorial piracy. In effect, these MAGA moves are rationalized as a repudiation
+      of the woke liberal ‘global leadership’ style of American foreign policy that
+      exerted influence by its participation in and funding of bipartisan internationalism.
+      The argument, not without certain merits, is that the Obama/Biden geopolitics
+      should not be romanticized as global benevolence, the virtues of ‘a rule-governed
+      international order,’ or an embrace of fiscal conservatism. In this spirit it
+      is responsible to recall that U.S. pre-Trump military spending was ten times greater
+      than the next ten states, and devoted in large part to maintaining U.S. global
+      dominance rather than national security as traditionally understood. To be sure,
+      it is a glaring example of MAGA hypocrisy exposed by Trump’s seeking and obtaining
+      from Congress a 50% increase in the US peacetime military appropriation, to a
+      staggering total of $1.5 trillion. A considerable amount of the bloated military
+      budget will be used to pay the high maintenance costs of 850 military bases all
+      over the world, a posture hardly consistent with the Trump claim to reduce American
+      foreign policy ambitions to their earlier hemispheric dimensions, which itself
+      overlooked U.S. colonizing adventures in the Pacific region that peaked at the
+      end of the 19 th century. The smaller pre-Trump military budgets proved sufficient
+      to finance regime changing interventions and costly failed state-building and
+      market-oriented undertakings most visibly in Iraq, Afghanistan, and Libya. Trump
+      predecessor Joe Biden’s  Cold War nostalgia was not restrained by military budget
+      constraints. He most revealingly chose war rather than diplomacy in the context
+      of the Russian attack on Ukraine, and like Trump could find even less to criticize
+      in Netanyahu’s genocidal approach to Gaza. Trump’s refusal to expend US dollars
+      to fund cooperative approaches to global issues, whether involving bettering economic
+      and social conditions of others or working to control disease, food security and
+      climate in ways that benefit the U.S. exhibits an extremely shortsighted and dysfunctional
+      view of national interests. True such international activities go against Trump’s
+      electoral pledge to contract the role of the state or to curtail the dangerously
+      expanding national debt and certainly not to reduce militarist geopolitics. While
+      defunding internationalism the Trump military budget is the highest instance ever
+      of peacetime military spending. It can neither be justified by national security
+      nor of benefit to the lives of the great majority of Americans. As the National
+      Security Strategy released by the White House in November 2025 explained, American
+      foreign policy would henceforth reembrace the discarded Monroe Doctrine as expanded
+      by the addition of the Trump Corollary. This bundle of initiatives was immediately
+      dubbed the Donroe Doctrine, giving Trump’s brand of narcissistic geopolitics its
+      due. This formal statement served as a clumsy doctrinal prelude to the attack
+      on Venezuela as well as added threats directed at Cuba and Colombia to expect
+      similar treatment if they don’t do what Washington demands. Even more radical
+      in its implications were strong assertions that non-hemispheric actors were expected
+      to refrain in the future from economic and infrastructure involvements in Latin
+      America. Obviously, this was a thinly veiled warning to China to downsize, if
+      not eliminate, its extensive investment and trade relations throughout Latin America.
+      The message to non-hemispheric actors was henceforth to avoid economic, social,
+      and political Latin involvements or else expect hostile pushback from Washington’s
+      commitment to ‘hemispheric preeminence.’ Time will tell whether this grandiose
+      claim of control over Latin America will spark a new cycle of national resistance
+      to such a brazen contraction of the right of self-determination of these countries
+      as conferred by Article I of the Human Rights Covenant of Political Civil Rights.
+      It is also remains to be seen how China and other countries will respond to this
+      outright interference with their freedom to engage in peaceful relations with
+      Latin America. This mass withdrawal from international cooperative problem-solving
+      also is a virtual admission in this Trump Era that the U.S. has opted for ‘transactionalism’
+      and post-colonial imperialism. The most salient feature of this tectonic shift
+      away from Franklin Roosevelt’s Good Neighbor Policy in Latin America as brazenly
+      announced to the world, and especially to the Hemisphere, including more shockingly
+      to Canada, is that the U.S. is giving priority to its strategic ambitions free
+      from discarded liberal pretenses of respect for international law and the United
+      Nations. It seems to be telling the world that its only guide when it comes to
+      foreign policy in the future will be the warped and personalist amorality of Donald
+      Trump. In the future, Latin America can expect to be treated as an exclusive U.S.
+       ‘sphere of influence,’ perhaps more accurately known as ‘a sphere of dominance.’
+      If such is the case, the closest recent resemblance is to the Soviet relationship
+      to Eastern Europe during the Cold War. A Second Look at U.S. Withdrawal from Internationalism
+      and Pre-Trump Resistance to Latin Economic Nationalism In this sense the withdrawal
+      from the 66 organizations is a gigantic step away from the U.S. engagement with
+      the liberal approach that served as a bipartisan guide to American foreign policy
+      and the projection of its blend of hard and soft power ever since 1945. The previous
+      posture of American foreign policy avoided the arrogant Trumpian language of ‘preeminence,’
+      adopting as an alternative approach to the bipartisan post-Cold War euphemistic
+      language of ‘global leadership.’  This earlier terminology also did not play by
+      the rules of respect for the sovereign rights of states. It too was guilty of
+      geopolitical disregard of legal constraints when it served strategic national
+      interests. It resorted to regime change by covert interventions throughout the
+      Cold War on behalf of its free market ideology and in opposition to economic nationalism
+      by elected leaders or in the aftermath of popular revolution. This pattern of
+      covert intervention in Guatemala in 1954 generated and orchestrated A coup against
+      a democratically elected government that was alleged to have Communist leanings,
+      and more concretely threatened the interests of United Fruit Company, nationalizing
+      some unused land owned by this powerful corporate investor. This pattern of a
+      more overt justification for promoting regime change that combined an ideological
+      rationale with underlying hostility to economic nationalism shaped the U.S. response
+      to the Cuban Revolution a few years later. The U.S relied for many years on harsh
+      economic sanctions while lending mar support to counterrevolutionary Cuban exile
+      proxies in a series of failed attempts to duplicate its earlier success in Guatemala.
+      Castro’s leadership in Cuba was delegitimized by liberal American leaders at the
+      time as ‘incompatible’ with ideals and values of the hemisphere yet seemed more
+      directly motivated by a toxic opposition to economic nationalism taking the principal
+      form of nationalizing Cuba’s sugar industry by a mixture of hardline foreign policy
+      hawks and coup-minded Cuban exiles. In a shameful continuing display of heartless
+      foreign policy annual one-sided votes in the UN General Assembly favor ending
+      sanctions against Cuba that have persisted for more that 60 years after the Castro
+      ascent to power, causing severe economic hardship for the population. The U.S.
+      also lent covert encouragement to the 1973 anti-Allende Pinochet coup in Chile.
+      It also carried out in 1989 a lawless intervention in Panama centering on the
+      kidnapping of the de facto head of state Manuel Noriega and forcibly bringing
+      him to the US to face criminal charges of drug trafficking. The self-serving code
+      name for the intervention was Operation Just Cause officially defended as needed
+      for the protection of U.S. economic interests, enforcement of drug trafficking,
+      and for the security of the Panama Canal. These were peculiar ways of expressing
+      neighborly good will, to say the least, covertly carried out or ideologically
+      asserted as elements of Cold War ‘containment’ geopolitics. This anti-communist
+      veneer masked accompanying economic motivations to crush Latin nationalism and
+      thereby promote the interests of US corporations to uphold the security of private
+      sector investments that had long exploited Latin resources.  This pre-Trump strategic
+      militarism was never limited to the Western Hemisphere as many American regime
+      changing and state-building ventures were carried out in Asia and the Middle East. 
+      The arc of US interventionism after 1945 stretches from the CIA engineered overthrow
+      in 1953 of Mossadegh’s democratically elected government in Iran and its replacement
+      by the authoritarian Pahlavi Dynasty to the Venezuelan undertaking in 2026. In
+      both cases the common strategic stakes were to ensure that the vast oil reserves
+      of these two countries were managed for profit by U.S. corporate energy giants.
+      Before Trump US foreign aid, support of the UN, and assorted initiatives such
+      as the Peace Corps were in fact idealistic features of American foreign policy.
+      Yet all along such policies had a hybrid character. They served also as PR ploys
+      to pursue covertly the warrior and economistic sides of U.S. ‘global leadership,’
+      that is, covert means to prevent countries in the non-Western world from moving
+      toward either socialism or economic nationalism. Unlike the Monroe Doctrine Era,
+      which was preoccupied with resisting European intervention, the Cold War period
+      and its aftermath represented a geopolitical reset that was rooted in Atlanticism,
+      pitting the West against the non-West in alliance with Europe, as given salient
+      expression in the NATO alliance. This alliance originated as a collective defense
+      arrangement designed to deter alleged Soviet expansionist ambitions toward Europe
+      but revealingly has limped along for more than three decades after the collapse
+      of the Soviet Union, which was its original justifying rationale. It should not
+      be overlooked that principally the main NATO members after 1993 joined in their
+      complicity toward Israel’s genocidal policies in Occupied Palestine. This was
+      convincing testimony that the Atlanticist coalition that existed during the Cold
+      War broadened its agenda to encompass Afghanistan and Israel/Palestine, redesigning
+      containment to validate the post-Soviet civilizational containment of Islam. Such
+      policies fulfilled Samuel Huntington’s prophetic expectations that the Soviet
+      collapse would produce a ‘clash of civilizations’ rather than ‘an end of history.’
+      Beyond Hemispheric Preeminence Atlanticism is currently being redefined by Trump
+      as okay so long as it submits to his efforts to control coercively ongoing confrontations
+      with the non-West shifting their ideational locus from Communism to Islam, with
+      Iran currently in the U.S. gunsights. As mentioned, the distinctive features of
+      Trump’s overtly nihilistic geopolitics, despite its declared intentions, will
+      not be confined to the Western Hemisphere. As metaphor, and sign of political
+      pathology, Trump’s absurd fantasy that if the Bureau of Peace administering Gaza
+      is ‘successful,’ whatever that might come to mean, it will emerge as the peace-building
+      center of yet another ‘new international order.’ In that event, the UN will be
+      cast aside as weak, wasteful, and ineffectual, a relic of the old order that will
+      be replaced by the strong, efficient, and effective Bureau of Peace as administered
+      from Washington. This outlandish project can be understood as an institutional
+      equivalent to Trump’s anger that he was robbed of the 2025 Nobel Peace Prize that
+      he alone richly deserved. Looked upon more objectively, if a Nobel War Prize existed,
+      Trump would surely deserve to be the leading candidate, and likely recipient.
+      Where is Trump’s Foreign Policy Headed? In effect, Trump’s anti-internationalism
+      should be reinterpreted. The U.S. is certainly retreating these days from the
+      Atlanticist neoliberal globalist model of world order. This disappoints and worries
+      those who continue to value the U.S. global leadership role, however blurry its
+      nature, as the only feasible alternative to chaos, economic crisis, and Western
+      decline. In contrast, what Trump seems to be now proposing is undisguised American
+      unipolarity as qualified by transactional calculations of national advantage.
+      This is the message to Europeans as evident in the leveraging of tariffs as a
+      policy instruments to punish and reward, most recently softened somewhat by Rubio’s
+      ‘breadcrumb diplomacy’ speech that seemed to delight the European audience attending
+      the Munich Security Conference in mid-February. Rubio’s well-chosen words were
+      received as reassurance that after all Europe would not be cut loose to fend for
+      itself and could still rely on partnering with the U.S. so long as it let Trump
+      run the show. The standing ovation given to Rubio at the end of his speech seem
+      best understood as an unexpectedly servile display of fealty by the leadership
+      of Europe to U.S. global imperialism My suspicion is that, despite such appearances
+      to the contrary, the Trump worldview might be slouching toward a ‘beautiful’ geopolitical
+      bargain with America’s two geopolitical rivals: China and Russia. Its enactment
+      would involve enlarged spheres of influence reciprocally accepted, and a trilateral
+      management of global security. The UN would be diminished, if not relegated to
+      the status of serving minor functional issues, a kind of ‘petty internationalism’
+      with tight budgetary constraints. It would be naïve to suppose that such a world
+      order arrangement would benefit the majority of the world’s peoples or address
+      the global public good as specified in general terms by the Preamble of the UN
+      Charter, but we should all know by now that these goals were never endorsed by
+      Trump. A preferable alternative architecture for a new order exists but is hampered
+      by the inter-civilizational rivalries now flourishing to block suitable attention
+      to the agenda of benign internationalism focusing on nuclear weaponry, climate
+      change, xenophobia, developmental equity, racism, human rights, fashioning regulatory
+      frameworks for weapons, AI, robotics. Such a future is also treated as irrelevant
+      by the ‘political realists’ who wield influence in the inner sanctums of the reigning
+      geopolitical actors.  Such thinking, however outmoded, continues to dominate the
+      foreign policy elites of almost all major countries undermining any present prospects
+      for generating a new world order animated by promoting the global public good.
+      The most that can be hoped for in the near future is a more prudent and responsible
+      realism that becomes sensitive to the limitations of militarist geopolitics. Thus,
+      adaptation to the changing global setting is confined to rearrangements of ill-fitting
+      and often antagonistic ‘parts’ rather than finally affirming the politics of the
+      planet as an organic ‘whole,’ which seems alone capable of preserving a humane
+      and resilient future.'
+    one_sentence_summary: The article critiques Trump's aggressive stance towards Iran,
+      framing it as an unlawful "war of choice" that exacerbates global crises and undermines
+      the potential for a just and peaceful future for humanity.
+    paragraph_summary: The article critiques former President Trump's aggressive stance
+      towards Iran, particularly his declaration of a war against the country that includes
+      targeting its Supreme Leader and advocating for regime change. It argues that
+      this approach represents a significant violation of international law, specifically
+      the UN Charter's prohibition on the use of force except in self-defense. The author
+      expresses concern that mainstream media has mischaracterized this conflict as
+      a "war of choice," thereby downplaying its legal implications. Furthermore, the
+      article highlights the troubling precedent set by Trump's assertion that he can
+      determine the legality of actions based on his own judgment, raising alarms about
+      the erosion of international norms and the potential for escalating global crises.
+      The author calls for collective action among the world's peoples to navigate these
+      perilous times, emphasizing the need for a just and humane future.
+    published: '2026-03-05T02:07:08+00:00'
   - title: 'The Epstein Entrapment Network: revelations of crime and the predatory erotic
       lives of the rich and powerful'
     url: https://richardfalk.org/2026/02/27/the-epstein-entrapment-network-revelations-of-crime-and-the-predatory-erotic-lives-of-the-rich-and-powerful/

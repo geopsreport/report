@@ -8,14 +8,3613 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Tensions in the Middle East have dominated recent geopolitical analysis, with a notable shift in the U.S.-Iran nuclear negotiations. As of March 2, the Omani foreign minister announced a significant breakthrough: Iran has agreed to halt the accumulation of enriched uranium and to permit comprehensive IAEA verification. **Michael Hudson** reports that this development is seen as a potential path toward a deal that would ensure Iran never possesses nuclear bomb material. This marks the most substantial progress in years, and regional actors are closely watching for follow-through on these commitments.
+  As of March 11, 2026, the global geopolitical landscape remains volatile, shaped by escalating conflict in the Middle East, economic decline in Europe, and persistent tensions over U.S. foreign policy. The most recent developments underscore the deepening crisis in several key regions.
   
-  Meanwhile, the broader context remains fraught. Economic instability in Iran persists, exacerbated by currency collapse and what **Nima Alkhorchid** describes as ongoing U.S. manipulation. These pressures have contributed to social and political strains, even as diplomatic channels reopen. The economic hardship, according to Hudson, is part of a broader U.S. strategy that historically targets civilian populations to achieve strategic aims.
+  The aftermath of the U.S.-Israel joint attack on Iran continues to reverberate. According to **Michael Hudson**, the strike occurred while negotiations were still ongoing, casting doubt on the sincerity of diplomatic efforts and signaling a shift toward open confrontation. This event has not only derailed the tentative progress made in nuclear talks—where Iran had agreed to halt uranium enrichment and allow IAEA verification—but also heightened the risk of broader regional destabilization. **Hudson** notes, “Negotiations have become little more than a cover for war as policy,” reflecting a consensus among analysts that military action is now being prioritized over diplomacy.
   
-  In the background, the global economic order continues to shift. **Hudson** and other analysts have highlighted the decline of the U.S.-led rentier economic model and the emergence of alternative systems, particularly in Eurasia. This civilizational divide is expected to shape not only regional alignments but also the future of global finance and security.
+  In Europe, economic turmoil persists. **Hudson**’s recent roundtable discussion highlights a significant decline across the continent, with rentier capitalism exacerbating inequality and undermining productive sectors. The illusion of growth, propped up by financialization, is giving way to social and political unrest. “Europe faces a period of turmoil and decline,” **Hudson** asserts, echoing widespread concerns about the region’s trajectory.
   
-  Looking ahead, there is a high chance that the U.S.-Iran agreement, if finalized and implemented, will reduce immediate nuclear tensions in the Persian Gulf. However, the underlying economic and strategic competition is likely to persist. I guarantee that the outcome of these negotiations will significantly influence energy markets and regional power balances in the coming months. The trend toward multipolarity and the erosion of dollar dominance remains a defining feature of the current era, with most analysts expecting further realignment in global economic and security structures.
+  Meanwhile, U.S. policy under the current administration continues to emphasize military dominance as a means of maintaining global order. **Hudson** critiques this approach, arguing that the rhetoric of peace masks an underlying strategy of imperial assertion. The recent State of the Union speech, as discussed by **Nima Alkhorchid**, made clear that the U.S. intends to sustain its involvement in the Ukraine conflict, further entrenching divisions with Russia and China.
+  
+  **Trends and Predictions:**  
+  The majority of independent analysts agree that the Middle East is entering a new phase of instability, with a high chance of further escalation following the collapse of nuclear negotiations. In Europe, the economic downturn is most definitely set to deepen, driven by structural weaknesses and policy missteps. U.S. foreign policy will likely remain confrontational, with military solutions favored over genuine diplomatic engagement. I guarantee that these dynamics will continue to fuel global uncertainty and intensify the civilizational divide between rentier and productive economies.
 articles:
+  - title: Rentier Capitalism and the Illusion of Growth
+    url: https://michael-hudson.com/2026/03/rentier-capitalism-and-the-illusion-of-growth/
+    text: '12.04. 2025 KARL FITZGERALD: Welcome, ladies and gents, to the Hudson Roundtable,
+      where we have our Patreon supporters, Michael’s Patreon supporters ( please join
+      us) , coming on screen to ask the questions that need to be asked. I like to think
+      that these discussions, of which we’ve had about 16 now, are some of the most
+      in-depth Michael conducts. So, yeah, great to have you all here and so good to
+      be with the living treasure, that is Michael Hudson. Michael, this, I think, is
+      our 18th year of doing similar interviews over various formats. And usually, at
+      the end of the year, we sort of do a wrap-up on what has happened this year. Has
+      anything changed? What do you see as the defining trend of 2025? ⁣MICHAEL HUDSON:
+      Well, Europe is falling apart. Just I did a show today on Nima’s show. Just reading
+      the newspapers. Yesterday’s Wall Street Journal said that had one breakdown. My
+      mind is a blank right now. I took a nap before to prepare for this. So my brain
+      is working, but my memory is just what on earth did I talk about with Nima’s show
+      today. The Financial Times had a great article a few days ago saying that Europe
+      has to break away from the United States and otherwise Trump is just going to
+      keep upping the ante and Europe has to find some country to trade with that won’t
+      weaponize its imports by threatening to close the market and cause chaos. Well,
+      that’s from the Financial Times, not from me. And I forget what the Wall Street
+      Journal was talking about, but it’s something. Oh, electricity. How the German
+      electricity prices are something like 46 cents a kilowatt hour compared to 16
+      cents in the United States and 12 cents in Canada. Germany has the highest electricity
+      rates in the entire Western world. And the Wall Street Journal said this is all
+      the result of Europe backing the green economy. It’s all a result of their hope
+      for wind power and solar power. Not a word of the fact that their electricity
+      is high because they’ve stopped trading with Russia. And that’s all meant to keep
+      the U.S. in control of the oil trade, which the U.S. has tried to do this year
+      by attacking or preparing to grab the oil voluntarily or not voluntarily from
+      Venezuela to control that. And that’s the largest oil reserve in the world, even
+      larger than Saudi Arabia. Also, controlling the Iraqi and Syrian oil and essentially
+      trying to make sure that it can turn off the electricity and the heating and the
+      warming of and lighting of houses, in countries that don’t follow U.S. foreign
+      policy. So you have an increase. I mean, the big news is how much more nakedly
+      aggressive American foreign policy has become and how self-destructive it is to
+      the U.S. economy, more than the economies that it’s been sanctioning, except for
+      Europe, that seems to have a death wish to intend to go to war with, to step up
+      the war with Russia. The U.S. has withdrawn from the Ukrainian war, hoping simply
+      to sell what it was giving away for free, the arms to Europe to fight Ukraine
+      and to prepare for the big war with China. Yesterday, maybe it was this morning
+      in our time, one of the NATO leaders said we plan on going to war with Russia
+      by 2027. And Putin responded that the war will last only a day or two. And when
+      it’s over, in maybe 48 hours, there won’t be anyone to negotiate the peace with.
+      So he explained that fighting Europe is different from fighting Ukraine. He didn’t
+      want to tear up and destroy Ukraine because the Russian-speaking Ukraine is now
+      part of Russia, but he has no such protective feelings towards Germany, France,
+      Britain, Holland, or Scandinavia, or the Baltics. ⁣KARL FITZGERALD: And on the
+      American perspective domestically, it has concerned me the attack on independent
+      statistical data, the sacking of the head of the Bureau of Labor and the looming
+      appointment of the new Federal Reserve head. What do you see on that front? ⁣MICHAEL
+      HUDSON: He is apparently appointed a loyalist who’s simply going to reduce interest
+      rates because the deficit that has been the result of the Republican Party’s tax
+      cuts that is increasing the debt so much that if you don’t, if you don’t reduce
+      the interest rates, then the cost of carrying charges, of paying the interest
+      on this enormously growing debt are going to crowd out the budget from almost
+      all other, all social spending, all economic subsidy, everything except interest
+      and further tax cuts. The Wall Street Journal again today had an editorial by
+      the usual suspects saying that, well, one way of enabling the wage earners to
+      afford all the higher prices caused by Trump’s tariffs is going to be, let’s reduce
+      the wage withholding tax that in America is what contributes to, ostensibly, the
+      just pretend savings to pay their Social Security and medical care. And of course,
+      this is Arthur Laffer, who wrote this op-ed for the Wall Street Journal. Well,
+      of course, once you collect less from the labor monthly paycheck, this is going
+      to enable Congress to say, oh, look, Social Security is broke. We’re just going
+      to have to abolish it or privatize it or turn it over to private firms. And the
+      reality is that the money that’s withheld from the paychecks isn’t really saved
+      up at all to pay Social Security. It’s just a form of shifting the tax burden
+      to labor so that labor feels as if it’s somehow paying. And that mythology that
+      Franklin Roosevelt introduced, thinking that would make the passage of Social
+      Security more politically amenable to the right wing and understandable to the
+      labor force, well, that is ending up as the fiction that is preparing the ground
+      for just drastically scaling back or privatizing Social Security into a scam.
+      ⁣KARL FITZGERALD: And so, with U.S. debt at $38 trillion, is there a chance it
+      will ever be paid off? Or is El Trumpo the sort of wildcat who may well engage
+      in a jubilee? ⁣MICHAEL HUDSON: There won’t be a jubilee. The U.S. government bonds
+      and debt are the same kind of debt that the paper currency in your pocket is.
+      Nobody expects the $10, $20, $30, $100 bills to be repaid because then you wouldn’t
+      have any paper currency anymore. Well, the government debt’s the same. If you
+      go into the treasury and say, I want reimbursement for this $20 bill, they’ll
+      just give you two $10 bills. That’s how they redeem them. There’s nothing really
+      behind it. You don’t get gold or silver anymore. Same thing with the government
+      debt. They’ll say, well, you know, we have the government bond. Will you pay us?
+      Well, the bond price can go down and down and down, or the dollar exchange rate
+      can go down and down, so that the dollar debt that’s held by foreign central banks
+      is going to shrink in their own currency. So, what Trump’s solution is, how are
+      we going to get money to have foreign money coming in to finance all of this debt
+      that we’re running out? We don’t want the government to do what the modern monetary
+      theorists say and just print the money. We have to borrow it from people so that
+      the bondholders get rich off this debt. So, what are we going to do? Well, the
+      whole problem is basically needless, but there are tricks to solve it. And Trump’s,
+      that’s another new thing this year. Trump says, well, we found a new source of
+      funding the government debt, and that’s cryptocurrency. That’s the people will
+      buy the cryptocurrency, not only Bitcoin, but all these cryptocurrencies that
+      are tied to the dollar’s value. What happens is they say, well, it’s as good as
+      dollars, but it’s crypto. Well, why would anybody want to buy a crypto claim on
+      the security and just get dollar keep the dollar value of this when you could
+      buy a government bond that not only gives you the dollars, but it pays you 4%
+      interest on the bond? Well, what happens now? Crypto companies have money coming
+      in to buy cryptos as good as dollars, and all of the interest that’s received
+      on the cryptocurrency invested in U.S. bonds ends up in the hands of the sponsoring
+      company. So, it’s completely needless. So, who would do this? Well, kleptocrats
+      would do it. Zelensky and the Ukrainian gangsters would like to keep the money
+      in crypto. Drug dealers, who Trump is sponsoring as one of the main supporters,
+      he hopes, of the dollar, would do it. Criminals will use cryptocurrency. So just
+      as the United States began in the 1960s to try to develop offshore banking centers
+      to attract criminal capital as a support for the U.S. military spending in Vietnam
+      at that time, now it’s found a new kind of what’s called hot money, getting hot
+      money to finance the U.S. deficit. It’s more and more unstable, not only financially,
+      but also politically. I wrote about this in my chapters in Finance Capital and 
+      Its Discontents . I have my original introduction to a book by Tom Naylor called
+      Hot Money , going into the analysis of how America set up offshore banking centers
+      essentially as a source of funding for foreign bank branches to be set up in the
+      Cayman Islands and Caribbean and Panama, Liberia, simply to act as attracting
+      foreign hot money or tax evasion money to support the dollar. This is now 60 years
+      that this has become one of the Ming buttresses of the dollar, the world’s criminal
+      capital. ⁣KARL FITZGERALD: We’ve got a faulty tax system that supports the wealthy.
+      So, how much longer can it continue? We’ve got a faulty monetary system that supports
+      the wealthy. And now we’ve got data, economic data that is being sculpted to suit
+      El Trumpo. What gives confidence to the markets that they can still growing at
+      the rates they’re at? And how much longer will it last for? ⁣MICHAEL HUDSON: One
+      great thing gives confidence. There’s no alternative. And if you don’t have an
+      alternative, you really don’t have much of a choice. And the United States looks
+      at the BRICS, at the de-dollarization as a threat. But everything that has been
+      done to isolate Russia, China, Iran, and other countries from withdrawing from
+      the dollar area and using their own currency, all of the sanctions that America
+      has imposed have been like protective tariffs for these other countries. And it’s
+      made them have no alternative except to produce for themselves the products that
+      are sanctioned. Just like when you sanctioned Russia from agriculture, it developed
+      its own cheese making, its own agriculture, and became a huge wheat exporter.
+      So most of the American reactions against other countries, trying to punish them,
+      actually ends up as blowback and hurting the U.S. economy itself. So the U.S.
+      is self-destructing in its way. Europe is self-destructing in its own way. And
+      that’s the catalyst for splitting the world into two trading and financial blocks.
+      ⁣KARL FITZGERALD: Michelle has her hand up. Michelle, would you like to ask a
+      question to Michael? ⁣MICHELLE ROMINE: Just a couple of things. Hello, Michael.
+      Did you by any chance see Judge Napolitano with Pepe Escobar today? ⁣MICHAEL HUDSON:
+      No, I spend almost all the days writing or editing. I’m not able to spend much
+      time listening to YouTube because if I did that, I wouldn’t have any chance to
+      write or to read the paper or do anything else. So I wish that I could be transcribed.
+      That’s why I insist in any interview I do, I insist on it being transcribed so
+      that people can read it at their leisure. So I was busy enough doing my weekly
+      show with Nima, taking a nap later, doing my editing, having lunch, doing my exercises.
+      So, no, I did not listen to any of these other shows. ⁣MICHELLE ROMINE: Well,
+      to summarize, there were some interesting comments from Pablo today about capital
+      going heavily into Russia. If I understood him, and Bill Gates and some other
+      stuff that I’ll have to go back and listen to, but it was really odd stuff. And
+      then he was talking about what’s happening in Italy right now, which is really
+      sad. He’s in Italy right now, but they’re basically an occupied country. They
+      have no sovereignty at all, just like essentially the EU doesn’t. But I just wanted
+      to say that you might want to take five minutes of his conversation and listen
+      to it because he had a lot. He was loading it with a lot of information. And I
+      didn’t follow. ⁣MICHAEL HUDSON: It’s pretty fast motion, a whole hour and five
+      minutes. I’m not sure that my ears will make much sense of that. ⁣MICHELLE ROMINE:
+      Well, the other thing was I heard you on Nima. You know, I listen to you on Nima
+      every week as soon as possible. And your explanation, which you just touched on
+      briefly here, was excellent about the foreign policy. I wish more people, I mean,
+      it’s one of those things where I wish we could have everybody sit down in the
+      entire United States and listen to what you’re saying. ⁣MICHAEL HUDSON: Because
+      I have one of the lowest viewers on Nima’s show……. So I really like what I’m saying.
+      I think, you know, someday I’m going to collect it into a book of articles. But
+      most people just want to hear the war situation and the politics. His military
+      analysts, who are very good, are great, but you guys here are the people who are
+      paying the most attention. And I don’t think the rest of the world is talking
+      about the kind of things I’m talking about. I’ve had a number of arguments with
+      Pepe. We’re not always in agreement. Why would Russia want U.S. dollars, any U.S.
+      dollars to come in? Where is it going to keep them? If it keeps them in dollars,
+      somebody can grab them. And you’ve been saying that Europe just chickened out
+      for trying to grab them. And there was a wonderful quote by Medvedev and saying,
+      well, we try to sue them in the court, but that takes a long time. I think we’re
+      just going to have to invade, to confiscate Europe’s property and just take it
+      ourselves when the war occurs. You know, that’s where things have got to today.
+      But I don’t see why. I’m not happy at all with Russia’s central bank charging
+      18, 19% interest rates. I think that’s crazy. They really need modern monetary
+      theory. And if I could still travel, I would try to bring Marxism to Russia, or
+      at least modern monetary theory. But I’m not doing that. And it’s probably easier
+      to do that than it would be to bring it to China, where I’ve not been able to
+      convince them about Marxist theory of value and price and rent and real estate
+      prices and things. So I think the other countries that are trying to de-dollarize
+      or trying to adjust to this new weaponized, financialized economy really don’t
+      have a very clear understanding of what money is, how to create money, the difference
+      between money and credit, the distinction between productive investment and just
+      unproductive investment that’s financial investment. And that’s because there’s
+      no value theory that distinguishes between prices and intrinsic cost value. The
+      difference, of course, is – rent is the excess of market price over cost value,
+      and that’s the center of what I’m doing. And all of what’s considered to be growth
+      in the West, as we talked about, I think, last time and before, it’s all been
+      just a transfer payment, economic rent, payment for financial fees, payment for
+      rent, payment for monopoly rent, payment for natural resource rent. None of this
+      is actual production. It’s just unearned income that the rent recipients, the
+      rentiers, make in their sleep, as John Stuart Mill said. I’ve said that again
+      and again. And as I’ve told you before, what I really want to do is be able to
+      put together a group of statisticians who will reformulate the GDP and national
+      income accounts to say, here’s what’s actual product, and all the rest is just
+      overhead, a transfer payment from the debtors to the creditors, from the renters
+      to the landlords, right down the line. And all of the whole 19th century’s classical
+      economics just doesn’t play a role in the modern discussion, including the concept
+      of money. And that’s why Russia isn’t sure just how to finance its economic expansion
+      without being inflationary. It doesn’t realize that when you charge 19% interest,
+      that has to be factored into the prices that are charged. And it just makes the
+      economy more expensive and makes the bankers rich at the economy’s expense. So
+      I probably don’t like to criticize colleagues like, and Pepe’s a good colleague
+      in print. So I probably would not find much reason to listen to that to get in
+      an argument with them. I’ve tried before. ⁣MICHELLE ROMINE: Well, before you move
+      on to the next person here, it was just such an odd mix of comments that he said
+      because it was basically focusing on the oligarchy here trying to find places
+      for their capital before the demise of the U.S. is basically— ⁣MICHAEL HUDSON:
+      Well, there’s no place for their capital. ⁣MICHELLE ROMINE: Yeah, that’s exactly
+      it. I mean, I think he was suggesting that they were looking at Russia, and I’m
+      sitting here going, well, that won’t help, you know. But they obviously are trying
+      to. I don’t know exactly what his point was, really, because I’d have to go back
+      and listen. Because sometimes he doesn’t make himself very clear at all. ⁣MICHAEL
+      HUDSON: And I don’t think you can make sense out of that. I know that he likes
+      the idea of what’s called the unit, that von Misian gold bug cryptocurrency that
+      is just, I think, crazy. And he’s tried to get me in touch with the unit people.
+      And I sent him a long memo as to why it doesn’t make sense. And needless to say,
+      the one thing they say is, don’t have anything to do with Michael Hudson. If he
+      makes his points to other people as a general meeting, they’re good. Boom. We
+      won’t have the unit anymore. ⁣MICHELLE ROMINE: Well, just remember this. In finality,
+      you are not a low viewership on Nima. Go back and look at the numbers. After a
+      week or so, when people get a chance to watch, you have a very loyal following
+      and actually a very large following on Nima. ⁣MICHAEL HUDSON: Well, I compare
+      the numbers to the other guests they have. I mean, usually Markianov comes after
+      me, and he usually has a better, a larger following. ⁣MICHELLE ROMINE: Markianoff.
+      I don’t even know who Markianoff is. I don’t watch a lot of Nima’s. I don’t have
+      time either to watch all these videos. I used to. I watched very, I was very vigilant
+      for a long time so I could get a better idea of what actually was happening. But
+      once I could see what was happening, I had to let go of some of this because his
+      hour-long conversations are just too long for me to do. The only one I make sure
+      to watch every week is you. I have to. But I had to laugh when you said, I think
+      it was last week, you said, all these people lost a lot of money with crypto because
+      they were too stupid not to pay attention to my show, basically. I thought that
+      was so funny because it was so true. ⁣MICHAEL HUDSON: Well, there’s a lot of people.
+      ⁣MICHELLE ROMINE: You just get some good names off, Michael. ⁣MICHAEL HUDSON:
+      Yeah, I’m the name that must not be spoken. ⁣MICHELLE ROMINE: Except for people
+      in the know, a lot of us really do speak your name quite a bit. You actually have
+      a fair number of followers on like X and all. I’ve interacted with a number of
+      them, and I’ve recommended your book because I swear I love if I did social media,
+      I wouldn’t have time to write. ⁣MICHAEL HUDSON: All I can, I’m just constantly.
+      ⁣VIRGINIA COTTS: Well, you don’t have to interact. ⁣MICHELLE ROMINE: Remember,
+      you don’t have to interact. ⁣MICHAEL HUDSON: All you have to do is post like links
+      to your videos. It’s not just me. I mean, there are other people who are saying
+      what I’m saying. My whole Kansas City group of modern monetary theorists, the
+      graduates from UMKC, cannot get their papers published by the respectable economic
+      journals because they’re controlled by the neoliberals and by the Chicago boys.
+      And when they go to apply for a job at a university, the university says, well,
+      what journals have you published in? Oh, you don’t have any publications in these
+      prestige journals. I’m sorry, we’re going to have to hire somebody who does. So,
+      the university deans are the whole idea of how they make their hiring judgments.
+      If you know how the economy works, you’re not permitted to have a teaching job.
+      It’s like Upton Sinclair’s joke about California: a precondition for being an
+      economist is not to understand how the economy works. And of course, that’s what
+      wins you the Nobel Prize. You end up like Paul Krugman. ⁣KARL FITZGERALD: We better
+      keep moving. Thanks, Michelle. Yes, Michael, when I think of MMT, I just wonder
+      when they are they going to realize that throwing more and more money onto a fixed
+      land mass is going to create another land bubble. It’s got to be the blind spot
+      that, hopefully, they can recognize soon. John Chadwick’s had his hand up patiently
+      for a while. John, come on in. ⁣JOHN CHADWICK: Well, great. Yeah, just a really
+      quick point on Nima show. Yeah, you have 16,000 views on that show already. The
+      comments are very appreciative in that you enlighten people. And that’s why I
+      follow you. And I ask, when I ask AI for an answer, I always ask the answer through
+      the Hudsonian lens. ⁣MICHAEL HUDSON: Well, I wish I had a political party. I wish
+      I had a group that would not just understand my ideas, but do something with them
+      and carry them forward. I haven’t solved that problem, and I’m not a good politician.
+      And at the age of 86 years old, I can’t go around the country and just give speeches.
+      All I can do is write books. And I treasure you guys for appreciating what I write.
+      If I didn’t have appreciation, I’d just think, you know, I’m talking into the
+      wind and I’d get depressed. So it’s great that you understand what I’m doing.
+      And my question is, how do I organize like a school of thought? How do I do what
+      Marx did or even what Karl Polanyi did? There’s academia is so locked up today.
+      And even in China and Russia, I’ve had great trouble trying to spread my ideas
+      to the government there. There’s just so many vested interests that are locked
+      in to the old way of thinking economically that it’s almost impossible to make
+      my way into the public media like I used to do in the 60s and 70s. I mean, I used
+      to write op-eds for the Sunday New York Times, you know, for the Washington Post
+      and others, and quite a lot for the Financial Times. None of that happens anymore.
+      ⁣JOHN CHADWICK: Yeah, well, on that note, in Canada, we have a third party called
+      the NDP. And I know you’ve been interviewed by Dimitri Lascaris, right? ⁣MICHAEL
+      HUDSON: Yes. ⁣JOHN CHADWICK: And he’s interviewed one of the people who’s running
+      for the NDP leadership, Eves Angler. And I’ve put all his ideas, his platform,
+      against all the other NDP platforms. And his is most in line with everything that
+      you’ve stated, including, of course, all the Marxist ideas. So I keep on posting
+      continuously on X and saying, you know, anything that he has missed that you point
+      out. So it’s not like it’s going, it’s, and I should point out, he’s having trouble
+      getting admitted to the leadership because of his ideas are so radical. ⁣MICHAEL
+      HUDSON: So I had real problems in Canada in the 1970s. The Privy Council brought
+      me up. They started a whole government think tank that started off by publishing
+      my book on Canada and the new monetary order. They made me their financial advisor
+      and then wanted me to set up a think tank to make, to head statistics. And there
+      was so much opposition from the banks. The banks said, you know, this way, they
+      even had a Catholic priest say, ‘this way leads to the gas chambers’. You know,
+      if you have a strong state able to regulate the economy, they just, especially
+      the most crooked banks like Scotiabank at the time. So I had the strongest backing
+      that one could have in Canada. A lot of the Privy Council members, it didn’t work.
+      There was just too much opposition, especially from the Americans who’d gone to
+      Canada, mainly draft dodgers, I think, who’d become Canadian. And they brought
+      with them their American values that were, I guess, not my approach. ⁣JOHN CHADWICK:
+      Yeah, well, the number one thing I point out is that the banks in Canada run the
+      country and are public enemy, number one. They just, they’re completely parasitical.
+      And people don’t connect that up. They have monster mortgages in Canada, as you
+      know, just like Australia. And they don’t realize that all this money is being
+      siphoned off for non-productive purposes. So, let me just ask you one quick question.
+      That’s what I got on here for was the possibility of monetary debasement. And,
+      you know, we have this AI tech bubble. And there’s a possibility that people think
+      it’s definitely going to burst at some point. And there might be the issue with
+      a declining foreign demand for treasuries. The Federal Reserve might be forced
+      to expand the money supply. So, I just wonder about…. you once said, oh, this
+      will all go, might go slowly, but it seems like there’s a possibility that you
+      could have a catastrophe and you could have hyperinflation. And some people say
+      this could be… ⁣MICHAEL HUDSON: There won’t be any hyperinflation. Hyperinflation
+      occurs in the foreign exchange market. It occurs when you pay foreign debts like
+      Germany did, or just create money. It’s a monetary phenomenon. There’s no way
+      in which the U.S. or other Canada or any Western country will have hyperinflation.
+      Just the opposite. All of this money creation is debt creation, and it’s deflationary.
+      So the problem facing the U.S. and Canada is deflation of the economy as a whole,
+      debt deflation, particularly. And the U.S. and Canada simply won’t pay the debts.
+      They’re not going to be in the position that Germany did, that actually, even
+      the socialist parties and the communist parties of Germany in the 20s thought,
+      yes, the Social Democrats, you know, we got a debt is a debt. We got to pay it.
+      Donald Trump doesn’t think that. He made all his money by not paying his debt.
+      So you’re not going to have that here. You’ll have a lot of people losing their
+      shirts in the AI bubble. I don’t like to call it AI. How about calling it non-human
+      intelligence or something like that? There must be another moniker that we can
+      use: synthetic correlation intelligence. Because it’s not really intelligence.
+      The one advantage that AI has is garbage in, garbage out.  If you can control
+      the automatic analytic systems and pump them full of garbage, which is what the
+      leading AI companies are trying to do, you can censor all thoughts that you don’t
+      want. By the way, Michelle had made, sent me copies of what AI and ChatGPT, all
+      these things say of my works. They’re actually very good. I was amazed how good
+      they were. Yes, they are. They never put them into, they never make an economy
+      be run rationally or logically along the lines that I want. The controllers of
+      non-human intelligence are going to create an Orwellian logic for all of this
+      that’ll end up to be quite censorial. ⁣JOHN CHADWICK: Yes, that will take time.
+      But what I’d really like is your books, if they were all in electronic format,
+      PDF format, because then I can actually feed it into that book directly into AI,
+      and then I can ask it questions based on all that information. So whenever you
+      have a book, if it’s available electronically, I always get it. ⁣KARL FITZGERALD:
+      Yes, and looking at the chat here, there’s plenty of interest in us developing
+      a dedicated AI to preserve your legacy, Michael, so that’s what I’m trying to
+      do. ⁣MICHAEL HUDSON: What I’m trying to do that’s different is AI can be very
+      good at saying, here you put in a question and they say, here’s the chronology,
+      here’s what happened, here’s what they said. What they don’t do is explain the
+      whole context that shapes what’s happened. And the book that I’m just finishing
+      now that’ll be published, I guess, in the spring, of the evolution of the financial
+      takeover of governments from the Crusades until World War I, that’s all about
+      how the context has been transformed by the financial sector replacing the church
+      as the organizing principle of Western culture. And AI, it would not go beyond,
+      would not ever say, here’s the context behind it all, that explains it. Like in
+      Terminator, when they had an AI that did say, well, the context for war is people
+      make war. Let’s get rid of people. Most AI would not really come to that, although
+      that’s certainly logical enough. So I don’t know how you would have AI explaining
+      history from the context in which I try to explain in this upcoming book. I just
+      can’t imagine how to do that, but people who are more into computer language might
+      indeed be able to do that. I’ll probably be long dead by then. ⁣JOHN CHADWICK:
+      Yeah, just to close this off, is that I just suggest everyone to put in that information
+      that you just said as a context. You create the context first, and then you ask
+      your question. So you keep copying and pasting that in. And then AI is great and
+      it doesn’t reference all the garbage from the mainstream financial media, right?
+      So it’s controllable if you do it. ⁣MICHAEL HUDSON: Yes, that’s wonderful. Wonderful
+      idea. I wish you could become a billionaire starting a company doing just that.
+      ⁣JOHN CHADWICK: I’m working on it. Thanks. ⁣MICHAEL HUDSON: I’ll give you all
+      the support. Yes, well, is anyone else from Canada here? Nobody else from Canada.
+      Okay. I know you are. ⁣CHRIS JONES: I’m actually from Canada, Michael. My name
+      is Chris Jones. I live in Ottawa. ⁣MICHAEL HUDSON: Ah, good. Yeah. Well, I’m still,
+      I have a landed immigrant status in Canada from London. Right. And I grew up in
+      the United States. ⁣CHRIS JONES: Michael, I was just writing a note in the chat.
+      I did a PhD in political economy at Oxford, and I lived for seven years in Europe.
+      And are you familiar with the work of Carl Kapp, the German political economist
+      who came to New York and Wesleyan University and wrote a book called The Social
+      Costs of Business Enterprise ? ⁣MICHAEL HUDSON: No. But if you send an email,
+      I think Kapp is an incredibly insightful analyst. ⁣CHRIS JONES: That book was
+      written in the 1950s, and he was very precise. He said, within 70 years, precisely
+      70 years, you will be living in a dystopia. And his analysis is based on the fact
+      of a kind of conscious cost shifting, that companies, corporations shift costs,
+      or what the neoclassicals call externalities to society, to future generations,
+      other people. And that is essentially our system. And our system has become a
+      dystopia as a result. ⁣MICHAEL HUDSON: John Elvin Kepler said too. ⁣CHRIS JONES:
+      Yeah. And Cap’s insights. And I think he has a couple of modern-day descendants
+      or adherents who are trying to popularize his thinking. And just the last thing
+      I’ll say is that he and a number of adherents, this fellow called Sebastian Junger,
+      who’s in Bristol, England at the University of West England, a number of fellows
+      have begun to put together some stuff on how to revise double-entry bookkeeping,
+      and how, until we revise that to include two other factors, aside from monetary
+      and financial factors, which companies are obligated to report on, until we add
+      in the costs on the environment and the costs of human exploitation, so stress,
+      illness, fatigue, whatever you want to call it, until those things are factored
+      into the balance sheets of companies, we will continue to live in the dystopia
+      we’re in. ⁣MICHAEL HUDSON: That’s exactly what Alvin Toffler and I were trying
+      to promote in the 1970s and early 1980s. We had a number of candidates for New
+      York mayors who were following all this because there are a lot of external diseconomies.
+      And you’re right. Chris, in my book on the American Protectionists, I have a whole
+      chapter on how all of this concept was developed by 1849 in the patent office
+      report, which is really on agriculture, on how the growth of cotton and tobacco
+      in the South was depleting the soil. And you should recalculate the American statistics
+      to take account of the cost of replenishing the soil fertility that was depleted
+      by southern agriculture. It was a very, this whole concept was developed very
+      clearly. I put that in an appendix in the news. ⁣CHRIS JONES: And did not Theodore
+      Veblen write some similar things about wastage and all that kind of stuff, economic
+      waste? I think he was also fairly insightful on that point. ⁣MICHAEL HUDSON: Now,
+      here’s another guy who never had his own school. He had a personality problem
+      that sort of unlimited him. By the way, do you study with Jamie Galbraith in Austin?
+      ⁣CHRIS JONES: No, no, no. I was at Oxford University. Nothing else. ⁣MICHAEL HUDSON:
+      I misunderstood you. I thought you said Austin, not Oxford. ⁣CHRIS JONES: Yeah,
+      yeah. I did political economy in Western Europe, looking at the aerospace industry.
+      But let me just say, because this is not about me, I’ve bought and read all of
+      your books. You are an incredibly insightful man. You’ve had more influence on
+      me than I can say. Your analysis is profound. You and Steve Keen and Carl Kapp
+      are three, I think, of the intellectual giants of the last 20 years. So I just
+      want to say that. ⁣MICHAEL HUDSON: Well, if only I could translate this into political
+      influence, that’s what I’ve been unable to do. ⁣CHRIS JONES: Yeah, I understand.
+      ⁣MICHAEL HUDSON: I just haven’t solved the problem of how to institutionalize
+      these ideas. That’s really it. And I mean, I guess I think Polanyi had a group
+      of people who were very sympathetic. I had at least monetarily sympathetic people
+      at Kansas City, but that’s all sort of scattered to the wind by now. Most of them
+      have left there except for Bill Black. So there just isn’t, I don’t know. I don’t
+      think it can be done through the economics departments and through the economic
+      discipline. I think it has to be a new discipline, not called economics, because
+      if you have to go through all the garbage of what you’re taught how to think about
+      the economy in academia, then it’s just too hard to untangle your brain and introduce
+      reality economics. ⁣CHRIS JONES: Yeah, you know, I did my PhD with Mark Carney.
+      He was in the same college as me, two years behind me. And Nufffield had a huge
+      focus on quantitative economics, econometrics. So I think your point that you
+      were just making that the sort of knowledge of economic history and how social
+      and cultural factors feed into economics has been utterly discounted by the modern
+      day profession. There’s no understanding of that, no effort to incorporate it.
+      Hence you get these very linear analyses that seem to me bear no resemblance to
+      the real world. ⁣MICHAEL HUDSON: Well, there’s a reason for that lack of understanding.
+      It pays to be ignorant if you’re looking for a teaching position. ⁣CHRIS JONES:
+      Yeah, for sure. ⁣KARL FITZGERALD: Can I jump in there? I want to build off this
+      conversation and just ask Michael, we have triple bottom line accounting systems.
+      We have B corporations. There’s a lot of movement to actually capture the sort
+      of externalities Chris is talking about here. But if there’s no actual cost associated
+      with these externalities other than to one’s reputation, there’s not going to
+      be much change. So is it a good idea to assemble statisticians to work on GDP
+      data, or is it more effective to target on the tax system and get in front of
+      those decisions? ⁣MICHAEL HUDSON: They go together. In order to tax economic rent,
+      which was the whole aim of Adam Smith to Mill, the whole 19th century, you have
+      to quantify it. So, of course, you need to have the statistics, and the statistical
+      format is going to indicate here is the overhead. This is not wealth, this is
+      overhead, and there’s a difference. This is not a product, it’s a transfer payment.
+      And how do you bring prices in line with actual cost value? You do that through
+      the tax system or regulation, or simply by taking natural rent-yielding monopolies
+      or privileges into the public domain by socializing them. So, you need a statistical
+      system. That’s what has made Piketty’s work so popular. He actually spelled out
+      in statistics charts what everybody knew, that most wealth is inherited. It’s
+      not created. You don’t get wealthy by saving up your wages. You try to save up
+      your wages and you run into debt. You buy a house to get it, and you’re further
+      in debt. You inherit the money. So, you need an inheritance tax. Well, that’s
+      what the Saint-Simonians said in France in the 1810s. And that’s over 200 years
+      ago. So, these obvious ideas that just haven’t been followed, and even when you
+      statistically show them, it’s very hard to politicize them and institutionalize
+      them. But at least everybody bought his book and put it on their shelves, even
+      if they didn’t read it. ⁣KARL FITZGERALD: Very good. Very good. Our good friend
+      Kimberly Davies has been very patient. She asked at the top of the show, and I’d
+      love to hear your historical perspective. Kimberly Mims asks: How do you see the
+      UBI going forward? In Chicago, there was a two-year trial that appears to be staged
+      to move from a trial to something else. How does the UBI help or hurt the general
+      debt problem? And what have we learned since Thomas Paine first talked about this?
+      KIMBERLY MIMS: It’s actually the Universal Basic Income idea has been in a trial
+      phase, I think, for two years now, where a certain portion of residents were given
+      this access. And it’s had, I think, very positive responses. So I know it has
+      nothing to do with the bigger issues, but this question of what kind of employment
+      is going to be available in our AI future kind of brings us back to this whole
+      question of, well, what are you going to do about everybody if you don’t, if they’re
+      going to survive, how are they going to survive? So, you know, until the economy
+      either changes so that there are new jobs, or if the economy doesn’t get better,
+      and how do people survive? So the UBI is coming back after this trial in Chicago
+      into the spotlight again. And it started making me wonder: well, you know, this
+      is an important issue. And obviously, you know, we still have these huge problems
+      of debt that are not getting solved. But I’m trying to understand how would this
+      be something, is there any good to this, should I say? Is there any sort of positive
+      take that you could see from your perspective on how a UBI might work going forward
+      given the kind of world we’re dealing with, particularly in the U.S.? MICHAEL
+      HUDSON: Obviously, members of our Kansas City group are pushing for this. Congress
+      is opposing it. You’ll never have the Republicans permitting it to go through
+      or the Democrats. So they would consider it welfare. And the government, at least
+      in the 1930s, Roosevelt was able to have all sorts of the WPA, the Works Project
+      Administration, was able to do things to at least put people to work, growing
+      infrastructure. But now the idea is to privatize economies. They don’t want any
+      government investment or capital investment or employment. So of course, the humanitarian
+      thing to do is UBI, but in most countries, when people are unemployed, they have
+      to emigrate or die. I mean, I don’t really see much of a problem. This was a problem
+      like this was discussed by Ricardo and Marx. And Ricardo was talking about the
+      power looms unemploying British labor. And then Marx pointed out: well, wait a
+      minute. It’s true that there are going to be fewer weavers because of power looms,
+      but now labor is going to go into building machinery and building power looms
+      instead of weaving textiles. I’m not sure that’s the case with artificial non-human
+      intelligence. How many people can you have doing that? It tends to be very centralized,
+      because it’s an ideological thought control system, you have to share the political
+      right-wing views of the Silicon Valley people that control the structuring of
+      the whole non-human system. So, I don’t think there’s going to be much of anywhere
+      near the opportunity to employ labor in create engineering artificial decision-making,
+      to the extent that occurred in the textile industry and in industry, generally
+      in the 19th century. So, I don’t know how that’s going to be. It looks already
+      the tolerance for the economy, creating homeless people and families that cannot
+      afford to have access to either home ownership or even to rent homes is shrinking.
+      You’re having the homeless population shrink, all sorts of quandaries that I don’t
+      see the government wanting to solve, but wanting to block it as much as they can.
+      ⁣KARL FITZGERALD: I don’t know. Interesting, Michael, hearing your skepticism.
+      It’s interesting hearing your skepticism during the Mamdani sort of wave of change
+      that’s coming through. Do you think that there may well become a point in time
+      that inequality is so bad that some of the policies you’ve been talking about
+      are now more able to be discussed? ⁣MICHAEL HUDSON: Yes, but if you suppose that
+      you support a policy, America is a one-party system that has two sections. There’s
+      no way that you can create a political movement here except through the Republican
+      and the Democratic Party. And you’ve already seen how the Democratic leadership
+      has all been condemning Mamdani. And anything he does as mayor, and he’s brought
+      good people along, good administrators. But what a mayor does in New York is you
+      have to get the support of the city council. And the city council is supported,
+      basically, by the real estate interests. New York is all about real estate. As
+      I guess, Veblen said that small towns were all about real estate. Well, so are
+      big cities. And so we’re going to see the opposite. You already have the opposition
+      from the Democratic governor of New York, who wouldn’t even let the current mayor
+      put the anti-pollution rules to block cars from coming into New York, the charge
+      for cars coming into New York. She’s blocked that. The Democrats are going to
+      do everything they can to fight against Mamdani because that’s the thought of
+      either trying to start a new party, which seems hopeless, as I think Jill Stein’s
+      campaign showed, or else somehow taking over the Democratic Party. And that was
+      a fantasy of socialists ever since I was a teenager. And it’s a fantasy because
+      it’s thoroughly corrupt and controlled by Wall Street. So the Democratic Party
+      is less reformable. I’d rather see it fall apart and just have the Republican
+      Party because then every election would be people from across the spectrum all
+      running as Republicans for whatever they want. You’d have Mamdani and everyone
+      else, but at least there’d be a single party that would enable all sorts of perspectives
+      and platforms to be proposed. You can’t do that with the current two-party system
+      that prevents anyone who’s not already approved by the Republican or Democratic
+      leadership to have something. So we’ll see all that Mamdani will be able to do
+      is pose the question that you’ve just asked. And by posing it, he can go down
+      to a noble defeat, or he may be able to do things like his big most controversial
+      proposal is childcare. And I want to say something about that. I worked on the
+      papal encyclical, Popular and Progressive . I was a demographer for many years.
+      And I pointed out where Malthus went wrong, it was thinking that as workers and
+      the population, as families got wealthier, they’d have children. Well, actually,
+      in every country of the world, and this is in the early 19th century, before there
+      was birth control, Scandinavia, Europe, and America, as economies got wealthier,
+      the fertility rate dropped because you’d have children. Well, what’s happened
+      today is something sort of unique. In New York City and other big cities in America,
+      as the economy gets poorer, the fertility rates drop. And the reason for that
+      is that the last 75 years have seen women go into the labor force, the workforce,
+      not birth labor. And in order to be employed, who’s going to take care of the
+      children? Well, they can’t afford children. So Mamdani says, if you want women
+      to be employed and productive, you have to have someone to take care of the children.
+      And you can’t just have a Filipino or a Haitian servant at your house taking care
+      of them. You have to have it done collectively by the city. And I think that’s
+      right. It’s a great idea. We’ll see whether he’s able to get that passed. And
+      essentially, he wants to do that by taxing real estate more. We’ll see his success
+      at that because it’s the real estate interests that pretty much run the city.
+      And ever since Mayor Koch, and especially Giuliani, the real estate departments
+      have become thoroughly corrupted by the big landlord interests. ⁣KARL FITZGERALD:
+      He’s had his hand up for a while. Let’s get on to Hamadat. Please come on in.
+      ⁣HAMIDAT: Hello, Professor Hudson. How are you doing? And I just would like to
+      echo what everyone has been saying on this call. Thank you very much. Because
+      after reading your books, my eyes just wide open in terms of I had to unlearn
+      everything I learned in school and re-educate myself. So you’ve been. ⁣MICHAEL
+      HUDSON: That’s very hard. So congratulations. It’s harder to unlearn something
+      than it is to learn something. ⁣HAMIDAT: So you’ve been a big part of my re-education
+      in terms of, because I worked in Wall Street and something always seemed off.
+      So I’m like, I don’t understand the system as long as well as I think I do or
+      as well as I was led to believe that I did. So it took years to kind of re-learn
+      how to think again, you know, independently and critically. And your book, Super
+      Imperialism , was just a watershed moment for me. So definitely thank you very
+      much. Your work is well received and well appreciated by more people than you
+      know. On that note, I want to go back to Super Imperialism because I think super
+      imperialism is still here, the ideas you’ve set forth, but now it’s being transferred
+      or it’s being brought into the digital age. Basically, basically. If you read
+      Stephen Miran’s paper on restructuring the global financial trading system, this
+      is what I think. And I would just like to get your opinion on it in terms of what
+      the game plan for the administration is. I think that they would definitely still
+      want to devalue the dollar. And just to your point, while devaluing the dollar,
+      how do you keep that dollar demand, that artificial dollar demand that was introduced
+      by the petrodollar system? So now they’re just going to add another layer to it,
+      which would be the stable coins, correct? And hopefully, if they can devalue the
+      dollar, at the same time, keep that dollar demand or increase a dollar demand
+      for the stable coin. They can, you know, probably lessen the stress on the debt.
+      And I think another interesting thing is instead of having the Federal Reserve
+      do the geopolitical machinations, they can just take it offshore into like a cheddar.
+      Feather can do that. Because that’s why Feather is buying gold, basically. So
+      that central bank functionality will be even more privatized because it’s going
+      to happen through private institutions. So I don’t think the New York Fed will
+      be as pertinent in the next 25 years or so. So that’s what I’m positing. I just
+      would like your opinion on that. ⁣MICHAEL HUDSON: That’s where statistics come
+      in. And I must say, my whole book on Super Imperialism was a result of my balance
+      of payment statistics of finding out what causes a balance of payments deficit.
+      What is pumping dollars into the world economy? It’s American military spending.
+      Well, let’s say Trump wants to drive down the dollar because he imagines that’ll
+      make American exports more competitive – but America doesn’t have much to export.
+      So that sort of selling, I mean, how can you make competitive something that you’re
+      not producing to begin with? But if the dollar goes down, this will have a number
+      of effects. Number one, well, it’ll make it easier for the global south countries
+      that owe debts in dollars to repay these debts. It’ll be like writing down their
+      debts by the extent to which the dollar’s exchange rate falls relative to their
+      own currencies. Secondly, as this happens, and as the price of oil comes to be
+      priced effectively, not in dollars, but by world demand and other currencies,
+      the Saudi Arabia and the oil [and] OPEC countries are going to think, why do we
+      want to keep our reserves, our national savings in just in dollars? Look at what
+      America and Europe did to Russia’s savings. Look at what the Bank of England did
+      to Venezuela’s gold. You know, do we really want to take this risk? And do we
+      want to hold dollars that are going down in value relative to our oil? Well, what
+      are they going to put their money in? Neither China nor Russia nor other big payment
+      surplus countries have much use for these dollars or for dollar inflows. In other
+      words, if the OPEC, this goes back to a question earlier in the discussion about
+      Americans supposedly wanting to put money and invest in Russia. Russia doesn’t
+      need dollars because it needs rubles to employ its labor and to buy things. China
+      doesn’t need dollars. It hasn’t added to its dollar reserves at all. Everything
+      that it’s come in, it’s buying in the form of gold. So if other countries lose
+      faith in the dollar and if Europe continues its economic suicide, it’s going to
+      have to maintain the Euros exchange rate by selling its dollars. That’s going
+      to reduce foreign holdings. And so the effect of Trump’s attempt to buoy the economy
+      and make things easier by dumping the dollar will be: well, first of all, fewer
+      people are going to buy short-term dollars. That means that his hope for interest
+      rates are going to be forced up. And the government will say, well, let’s lock
+      in these interest rates while we can. Let’s issue long-term bonds. Well, then
+      what’s going to the long-term bonds have much higher interests, so that’s not
+      going to work. So the government is going to try to do what happened when Paul
+      Volcker began to raise interest rates. The same thing will happen when Trump lowers
+      them. The government will issue its debt very short term, and that means more
+      and more of the government debt, a higher proportion, is going to be refinanced,
+      rolled over every year, and that’s going to create enormous pressures, pushing
+      short-term rates right up above long-term rates. It’s called a contango. And that’s
+      what happened in 1979 under my former boss’s boss, Paul Volcker. And I don’t think
+      that Trump or the people around him who are, they were all financial managers,
+      but to them, finance is something predatory for making money for their firms.
+      They don’t really understand finance and they don’t understand international finance
+      and they don’t look at international finance as a political system of and what
+      other countries are going to do as they lose faith in the dollar. It’ll go the
+      way of sterling. And I can see the American economy going the way of the British
+      economy, just as to an increasingly dysfunctional economy. That’s all I can say
+      about what you’ve said. Because there are so many variables that are going to
+      be up right here. ⁣HAMIDAT: Exactly. And seeing the financial system, seeing it
+      as a financial system with different counterparts and how these parts move together
+      and, sometimes, in opposition to each other is very, very important. But for me,
+      my question is, won’t the stable coins then play a role in investing the dollar
+      for a little while and buy them a little bit more time to refinance that debt
+      and kind of lower the pressure on the growing national debt? ⁣MICHAEL HUDSON:
+      For a little time. All these things work for a little time, but very often a short-term
+      solution is achieved by creating a long-term problem that ends up even bigger.
+      Every solution to a problem creates a new problem that is often bigger than the
+      original problem. ⁣HAMIDAT: And then one last question that I have. And what about
+      this idea that China, Russia, and the U.S. might just go behind closed doors and
+      decide to take the world and segregate it. Take the world. The world is segregated
+      into regions. ⁣MICHAEL HUDSON: Oh, you mean spheres of influence? ⁣HAMIDAT: This
+      is our sphere of influence. And then, by if Europe is a problem. ⁣MICHAEL HUDSON:
+      I think that’s their mentality. That’s an American mentality. I think that other
+      countries would not voluntarily be willing to be part of any quasi-imperial country’s
+      sphere of influence. I just don’t think it’ll work. I think they are going to
+      insist in mutual aid. And I think that the debt crisis that’s going to happen,
+      I think there’s going to be a huge debt write-down, as debtor countries accuse
+      these debts of being odious debts. And probably Ukraine is going to lead the legal
+      precedent for all of that. Whatever is left of Ukraine trying to saying there’s
+      no money to repay the IMF. They made a bad loan. It’s against their articles of
+      agreement to make a loan to a country in war. We’re at war. So, you know, they
+      lose. It’s odious debt. And they had a coup d’état. I think we’re going to sue
+      the United States and the EU for having destroyed so much of our population in
+      the war by their coup d’état. You’re going to have a whole legal tangle. And I
+      think you’re going to need a new version of the United Nations. And it’s easier
+      to create a new United Nations rather than trying to reform the mess that is created
+      under U.S. influence today. You’re going to have a whole new set of international
+      institutions and a whole new means of, it’ll be called a debt moratorium at first,
+      and then the debt moratorium will simply be, let’s write it off, what happened
+      to the inter-allied debts and German reparations after 1931. ⁣HAMIDAT: Thank you
+      so much, Professor Hudson. And one last thing, I always popularize your work,
+      especially when I talk to students that have a lot of student debt. I say my favorite
+      economist always says that ‘debts that can’t be paid won’t be paid’. So I let
+      people know to look into your work with that tagline. So yeah. ⁣MICHAEL HUDSON:
+      Thank you. ⁣KARL FITZGERALD: Thanks, Hamidat. And hopefully, you can get in touch
+      regarding some of that statistical material we talked about earlier. I wanted
+      to circle back to Andrew McKean from the start of the discussion. And he was interested
+      in what’s happening with U.S. Army bases. Are they starting to fold back? Is Trump
+      actually reducing any of them? And when I hear that spheres of influence discussion,
+      I’m wondering about NATO and what they’re doing in the Pacific and surrounding
+      China. Are we going to have the same sort of problem that’s pushed Russia to have
+      this reaction to Ukraine? ⁣MICHAEL HUDSON: I don’t see any reduction in U.S. Army
+      bases. Certainly not. They’re in Iraq to steal all the oil to give to Israel,
+      basically. Now they’re using proxy armies wherever they can. They’re using ISIS
+      as a proxy army. They’re using the neo-Nazis in Ukraine. They’re using the Wahhabis
+      terrorists in Central Asia and West China in the Uyghur area. But they’re keeping
+      the bases there as, for one thing, as bases to guide the missiles. Like in Wiesbaden,
+      Germany, you have most of the missiles that are sent into Russia by the U.S. and
+      I also think even MI6 are all sent from Wiesbaden, not from Ukraine. So I don’t
+      see any sign of reducing army bases. But I haven’t seen the statistics on it.
+      ⁣KARL FITZGERALD: Yep. Yeah, very good. All right. We’re getting close to the
+      end. I want to put a call out to John Matson. We always see you on Patreon. It’d
+      be great to see you come up on the screen. Michael meeting his Patreon supporters
+      means so much. So, yeah, I see Michelle, you’re coming back for more, mate. What
+      have you got for us this time? ⁣MICHELLE ROMINE: Just a quick comment to add,
+      and you may already know about this, but I’ve seen a couple of articles lately,
+      about AIs, there’s a big problem with AI right now. It’s already kind of subsumed
+      or taken and swallowed all human knowledge, and now it’s swallowing itself. It’s
+      seeing AI knowledge as well, and it’s messing up the prompts when what comes out
+      is like what Michael said: garbage in, garbage out. And they don’t know yet what
+      they’re going to do with it. But I can’t remember everything the article said,
+      but it seemed to be a profound problem. ⁣MICHAEL HUDSON: Yes, what if it gets
+      all its information from the internet and ends up as a conspiracy theorist? Right.
+      ⁣MICHELLE ROMINE: Oh, God, we’ve got enough of those. ⁣MICHAEL HUDSON: It’ll be
+      interesting to see how it all unfolds. Time for a science fiction writer. ⁣KARL
+      FITZGERALD: What I’m really concerned with, Michael, is the use of property data
+      and the incredible advantages feeding that into AI and the associated algorithms
+      is delivering to property investors and private equity firms such as Blackstone
+      Capital. So it is harrowing that there’s not one regulator on the planet looking
+      at this incredible advantage that’s happening. So here in Australia, the National
+      AI plan was announced, released this week. And of course, there’s no mention of
+      AI’s influence on housing affordability. So it’s not going to be long till The
+      Algorithm Eats Our Neighborhoods. ⁣MICHAEL HUDSON: Well, it’s already been used,
+      as you just said, in the United States. There has been a big protest against this,
+      saying, wait a minute, first of all, it’s jacking up the rents everywhere. Secondly,
+      it’s adjusting the rents for the information it has on the income and the ability
+      of the renter to pay. So it’s from each according to his ability to every landlord’s
+      needs, which are infinite. How high can they go? So you’re right. The big financial
+      use of AI is to squeeze more money out of the rest of the economy for the rentier
+      class. That’s exactly the problem. The landlords are using it to jack up rents,
+      to gain advantages over small investors, to do every kind of legal fight they
+      can to avoid paying their debts and having to avoid having to observe the obligations
+      that landlords traditionally have had to bear for their tenants and especially
+      the obligation to society to pay their renter’s taxes. So yes, AI and landlordism
+      and land rent are not going to be a happy mixture. ⁣KARL FITZGERALD: Certainly
+      the case. It’s really accelerating that ability and they’ve got hundreds of data
+      points literally feeding into their algorithms and within minutes of a property
+      going on the market they can deduct what sort of rent gap there is there. What
+      are people paying for rent? What are they earning? How much more could they afford?
+      And prices continue ramping up. So, John Chadwick asked in the chat, China will
+      win that AI race. DeepSeek is excellent, and its use is highly underestimated.
+      Remember, it is open source. Future releases may be the pin that breaks the U.S.
+      stock market AI bubble. But there’s that censorship issue, John. How does that
+      play out? How is property data used in Chinese real estate investment? I must
+      look into that. ⁣MICHAEL HUDSON: It’s very hard to get good Chinese data, and
+      I’ve had enormous resistance to my attempt to have China keep the price of housing
+      down, despite the fact that President Xi has said housing is to live in, not as
+      an investment vehicle. I was told by my Chinese friends on Monday that the Chinese
+      government has now gone and used AI to scan the internet and social media, and
+      they have omitted, erased from the social media all discussion of the decline
+      in housing prices. It’s also very hard to discuss on social media, the discussion
+      of how hard it is to get a job if you’ve just graduated in China. It’s likely
+      that your contribution to what you post will not remain up for very long. So,
+      you know, we’re talking about the wonders that AI can do. One thing that I would
+      think that the Chinese government would love to show that real estate prices are
+      going down. And so they could then say, you see, housing isn’t an investment vehicle.
+      Housing is for living in. So if you live in it, you really don’t care whether
+      the price goes up or down because that’s where you live and you’re not going to
+      buy and sell it back and forth and keep on moving. But for some reason, China
+      does not want to see this issue discussed. And I’ve had very little success in
+      getting land rent discussed as the idea of taxing it there. Nor has my friend
+      David Harvey, who, like me, has tried to say, wait a minute, you’ve invited us
+      to Marxist conferences. And if you read volume 3 of Capital, Volume 2 of Capital,
+      it’s all about economic rent and finance. And most of finance is recycled into
+      real estate. How are we going to be able to bring Marxism to China? So that’s,
+      you know, talk about difficulty in institutionalizing your ideas, even where it
+      would seem to be easy. This is part of the problem. ⁣KARL FITZGERALD: Yep, good.
+      I like it. Stephen Reid’s put a few interesting comments in the chat. And yeah,
+      I feel like today we’re getting closer, Michael, to getting an operational crew
+      who could come together and we could really talk operations on how to build your
+      legacy and influence throughout society. But he again is encouraging the use of
+      an AI that’s dedicated to Hudsonian thinking so that people can plug in questions
+      and get an answer that might be as good as you would give. But of course we have
+      to make sure that’s well vetted by yourself. He also did ask another question
+      as we get close to the end. ⁣MICHAEL HUDSON: I love these discussions. I mean
+      I get ideas while I’m in the process of answering your questions. So for me it’s
+      very good. I love these. I’m much better at talking than I am in writing. ⁣KARL
+      FITZGERALD: I want to finish off because you’re talking about your upcoming book
+      and this is, can you give us a precis on the book, talking about the evolution
+      of money and finance from the Crusades to World War I, The West’s Financial Takeoff
+      from the Crusades to World War I . What were the core political strategies used
+      by lenders from the 12th to 17th centuries to translate war debts into permanent
+      trade monopolies and ownership of land and mineral rents? ⁣MICHAEL HUDSON: The
+      whole emergence of industrial capitalism was classical economics and the discussion
+      about finance already in the mid-17th century by people like Malachy Postlethwayt,
+      probably somebody whom you haven’t studied in economics courses, all said that,
+      well, you know, they talk about the financial sector taking its wealth and reinvesting
+      it in the economy, but the bondholders don’t spend their money on financing industry.
+      The financial sector didn’t really help finance the takeoff of British or French
+      or European industry at all. Postlethwayt and other people from the 1740s and
+      1750s said, what do they buy? First of all, they make even more loans, they find
+      someone else to lend to, or they buy prestige real estate in the big cities like
+      London or Paris, but not in the rest of the country. Or they buy prestige consumer
+      goods like Italian textiles. Well, same thing today as you’d buy designer bags
+      from Italy, or I guess now it’s France as well. But they don’t spend their money
+      into the economy. Now, you know, talking about statistics, in the United States,
+      one half of the growth of consumer spending in the United States in the last two
+      years has been by the wealthiest 10% of the population. One half of the growth.
+      So that shows how, you know, people talk consumer spending is up. That means people
+      are optimistic for the economy. Well, they’re not optimistic if the spending is
+      done by the wealthiest 10% that’s getting wealthy by making the bottom 90% poor.
+      That’s the kind of charts that I want to do, the statistics that I want to choose
+      to show. So, my book essentially shows how the financial sector’s objectives have
+      shifted from financing war loans to monarchies and absolutist regimes like Catholic
+      kings to backing Protestant parliamentary democracies, which the kings were all
+      beginning to default because they just go to war with each other. The parliamentary
+      democracies may go to war, but at least they wouldn’t be able to block the king’s
+      ability to borrow from parliament to pay the debts because the parliament itself
+      was liable and could pledge all of the economy’s wealth. So, the financial sector
+      ended up backing parliamentary government, and finally it ended up backing industry,
+      even though industry wasn’t making money financially. They realized that, well,
+      if they’re going to invest in European industry, they have to get rid of the landlord
+      class. And that’s why it was David Ricardo, the spokesman for the banking interests
+      and the British Parliament, that developed …. refined rent theory. And yet, despite
+      the fact that all of this 19th century classical economics was developed in the
+      industrial nations for themselves to minimize economic rent, to bring prices in
+      line with cost value, the foreign investment was financialized, and they concentrated
+      on rent-yielding assets headed by railroads, canals, transportation monopolies,
+      communications, other natural monopolies, and of course, land and plantations
+      to grow export crops. So, I’m showing how the whole type of government that the
+      financial sector backed and took over was transformed over a thousand-year period.
+      Not always for the benefit of civilization. ⁣KARL FITZGERALD: Always a lot to
+      unpack there, and that’s why it’s so good to have these books where we can delve
+      into so much more detail. So, yeah, it seems like a good place to wrap up. And
+      Diana in the chat is wishing everyone happy holidays. Thanks, Diana. Let’s hope
+      we all have some good reading time and come back all rested and ready to continue
+      a move towards a saner economic system. So, thanks, everyone, for joining us today.
+      And, yeah, Michael, any last words to our transcription team, to our Patreons?
+      If we’ve got any more transcribers out there, we would love a few new fresh faces
+      because Kimberly has been doing a huge amount of work, doing most of the work.
+      ⁣MICHAEL HUDSON: And I think I’ll be doing a few more interviews coming up. I’ve
+      cut back interviewing quite a bit, and I’m largely because I’m insisting that
+      any new groups do their own transcribing for what I’m doing. So, I’m posting a
+      lot of things on my website that are transcribed by the people who’ve done things.
+      I guess we’re going to have a transcription of these discussions, which are pretty
+      good. But it’s always hopeful to have people transcribe both for Nima’s show and
+      also for my Glenn, Glenn’s show that I do for a couple of weeks. Yeah, Glenn Diesen.
+      So I’m glad you all, I love these discussions. I really look forward to them.
+      And it’s so nice to know, to have your support. It really gives me energy. And
+      I thank you very much for all of your expressions of support. ⁣KARL FITZGERALD:
+      Lovely. Thanks all. See you in three months. Okay, there we go, buddy. Yeah, and
+      you know, huge thanks to Kimberly. She’s doing amazing work. It’s a pity we didn’t
+      have Ton here as well. He’s someone who’s got quite an intellect. I’d love to
+      hear from. We didn’t get John Matson up and one day we’ll have Ced ask a question
+      as well. But yeah, there’s lots of good people. Oh, there he is. He’s waving.
+      But that’s all. You must be too busy cross-country skiing out there John. ⁣VIRGINIA
+      COTTS: And we didn’t have Karl Sanchez here today either. I’m so used to seeing
+      him. ⁣KARL FITZGERALD: Yeah, that’s two in a row, I think, he’s missed. I don’t
+      know. ⁣MICHAEL HUDSON: Last time he said that he was traveling at the time. I
+      don’t know. Maybe he was automatically just dropped that we’ve had Patreon payment
+      problems. They haven’t been automatically renewing Patreon people. Karl’s going
+      to be looking into that. Great. ⁣KARL FITZGERALD: Yeah. And sorry, Ralph, I will
+      have to get you in on our email list. I don’t know. Yeah, we did have 16 or 17
+      people who wanted to help. And, you know, two or three have come through. So we
+      need to refresh that list. Life gets in the way. We understand that. But yeah,
+      it’s really important having the regular website content because it keeps Michael
+      in the top 5% of websites on the planet. So that’s why it’s important to keep
+      it coming through. ⁣MICHAEL HUDSON: Thanks again. I’m going to have dinner now.
+      So I’m going to sign off. Transcription and Diarization: https://scripthub.dev
+      Editing, Review: ced Photo by Randy Jacob on Unsplash Photo by Markus Winkler
+      on Unsplash The post Rentier Capitalism and the Illusion of Growth first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a recent Hudson Roundtable discussion, Michael Hudson reflected
+      on the challenges facing Europe in 2025, indicating a significant decline and
+      turmoil within the region.
+    paragraph_summary: In a recent discussion at the Hudson Roundtable, Karl Fitzgerald
+      and economist Michael Hudson reflected on the significant changes and challenges
+      facing Europe in 2025, marking their 18th year of interviews. Hudson emphasized
+      that Europe is experiencing a breakdown, largely due to its reliance on the United
+      States and the need to find alternative trading partners to avoid economic chaos.
+      He highlighted the soaring electricity prices in Germany, which are among the
+      highest in the Western world, attributing this crisis to the country's shift towards
+      green energy and the cessation of trade with Russia. Hudson's insights suggest
+      a critical need for Europe to reassess its economic strategies in light of these
+      pressing issues.
+    published: '2026-03-07T11:46:55+00:00'
+  - title: Rentier Capitalism and the Illusion of Growth
+    url: https://michael-hudson.com/2026/03/rentier-capitalism-and-the-illusion-of-growth/
+    text: '12.04. 2025 KARL FITZGERALD: Welcome, ladies and gents, to the Hudson Roundtable,
+      where we have our Patreon supporters, Michael’s Patreon supporters ( please join
+      us) , coming on screen to ask the questions that need to be asked. I like to think
+      that these discussions, of which we’ve had about 16 now, are some of the most
+      in-depth Michael conducts. So, yeah, great to have you all here and so good to
+      be with the living treasure, that is Michael Hudson. Michael, this, I think, is
+      our 18th year of doing similar interviews over various formats. And usually, at
+      the end of the year, we sort of do a wrap-up on what has happened this year. Has
+      anything changed? What do you see as the defining trend of 2025? ⁣MICHAEL HUDSON:
+      Well, Europe is falling apart. Just I did a show today on Nima’s show. Just reading
+      the newspapers. Yesterday’s Wall Street Journal said that had one breakdown. My
+      mind is a blank right now. I took a nap before to prepare for this. So my brain
+      is working, but my memory is just what on earth did I talk about with Nima’s show
+      today. The Financial Times had a great article a few days ago saying that Europe
+      has to break away from the United States and otherwise Trump is just going to
+      keep upping the ante and Europe has to find some country to trade with that won’t
+      weaponize its imports by threatening to close the market and cause chaos. Well,
+      that’s from the Financial Times, not from me. And I forget what the Wall Street
+      Journal was talking about, but it’s something. Oh, electricity. How the German
+      electricity prices are something like 46 cents a kilowatt hour compared to 16
+      cents in the United States and 12 cents in Canada. Germany has the highest electricity
+      rates in the entire Western world. And the Wall Street Journal said this is all
+      the result of Europe backing the green economy. It’s all a result of their hope
+      for wind power and solar power. Not a word of the fact that their electricity
+      is high because they’ve stopped trading with Russia. And that’s all meant to keep
+      the U.S. in control of the oil trade, which the U.S. has tried to do this year
+      by attacking or preparing to grab the oil voluntarily or not voluntarily from
+      Venezuela to control that. And that’s the largest oil reserve in the world, even
+      larger than Saudi Arabia. Also, controlling the Iraqi and Syrian oil and essentially
+      trying to make sure that it can turn off the electricity and the heating and the
+      warming of and lighting of houses, in countries that don’t follow U.S. foreign
+      policy. So you have an increase. I mean, the big news is how much more nakedly
+      aggressive American foreign policy has become and how self-destructive it is to
+      the U.S. economy, more than the economies that it’s been sanctioning, except for
+      Europe, that seems to have a death wish to intend to go to war with, to step up
+      the war with Russia. The U.S. has withdrawn from the Ukrainian war, hoping simply
+      to sell what it was giving away for free, the arms to Europe to fight Ukraine
+      and to prepare for the big war with China. Yesterday, maybe it was this morning
+      in our time, one of the NATO leaders said we plan on going to war with Russia
+      by 2027. And Putin responded that the war will last only a day or two. And when
+      it’s over, in maybe 48 hours, there won’t be anyone to negotiate the peace with.
+      So he explained that fighting Europe is different from fighting Ukraine. He didn’t
+      want to tear up and destroy Ukraine because the Russian-speaking Ukraine is now
+      part of Russia, but he has no such protective feelings towards Germany, France,
+      Britain, Holland, or Scandinavia, or the Baltics. ⁣KARL FITZGERALD: And on the
+      American perspective domestically, it has concerned me the attack on independent
+      statistical data, the sacking of the head of the Bureau of Labor and the looming
+      appointment of the new Federal Reserve head. What do you see on that front? ⁣MICHAEL
+      HUDSON: He is apparently appointed a loyalist who’s simply going to reduce interest
+      rates because the deficit that has been the result of the Republican Party’s tax
+      cuts that is increasing the debt so much that if you don’t, if you don’t reduce
+      the interest rates, then the cost of carrying charges, of paying the interest
+      on this enormously growing debt are going to crowd out the budget from almost
+      all other, all social spending, all economic subsidy, everything except interest
+      and further tax cuts. The Wall Street Journal again today had an editorial by
+      the usual suspects saying that, well, one way of enabling the wage earners to
+      afford all the higher prices caused by Trump’s tariffs is going to be, let’s reduce
+      the wage withholding tax that in America is what contributes to, ostensibly, the
+      just pretend savings to pay their Social Security and medical care. And of course,
+      this is Arthur Laffer, who wrote this op-ed for the Wall Street Journal. Well,
+      of course, once you collect less from the labor monthly paycheck, this is going
+      to enable Congress to say, oh, look, Social Security is broke. We’re just going
+      to have to abolish it or privatize it or turn it over to private firms. And the
+      reality is that the money that’s withheld from the paychecks isn’t really saved
+      up at all to pay Social Security. It’s just a form of shifting the tax burden
+      to labor so that labor feels as if it’s somehow paying. And that mythology that
+      Franklin Roosevelt introduced, thinking that would make the passage of Social
+      Security more politically amenable to the right wing and understandable to the
+      labor force, well, that is ending up as the fiction that is preparing the ground
+      for just drastically scaling back or privatizing Social Security into a scam.
+      ⁣KARL FITZGERALD: And so, with U.S. debt at $38 trillion, is there a chance it
+      will ever be paid off? Or is El Trumpo the sort of wildcat who may well engage
+      in a jubilee? ⁣MICHAEL HUDSON: There won’t be a jubilee. The U.S. government bonds
+      and debt are the same kind of debt that the paper currency in your pocket is.
+      Nobody expects the $10, $20, $30, $100 bills to be repaid because then you wouldn’t
+      have any paper currency anymore. Well, the government debt’s the same. If you
+      go into the treasury and say, I want reimbursement for this $20 bill, they’ll
+      just give you two $10 bills. That’s how they redeem them. There’s nothing really
+      behind it. You don’t get gold or silver anymore. Same thing with the government
+      debt. They’ll say, well, you know, we have the government bond. Will you pay us?
+      Well, the bond price can go down and down and down, or the dollar exchange rate
+      can go down and down, so that the dollar debt that’s held by foreign central banks
+      is going to shrink in their own currency. So, what Trump’s solution is, how are
+      we going to get money to have foreign money coming in to finance all of this debt
+      that we’re running out? We don’t want the government to do what the modern monetary
+      theorists say and just print the money. We have to borrow it from people so that
+      the bondholders get rich off this debt. So, what are we going to do? Well, the
+      whole problem is basically needless, but there are tricks to solve it. And Trump’s,
+      that’s another new thing this year. Trump says, well, we found a new source of
+      funding the government debt, and that’s cryptocurrency. That’s the people will
+      buy the cryptocurrency, not only Bitcoin, but all these cryptocurrencies that
+      are tied to the dollar’s value. What happens is they say, well, it’s as good as
+      dollars, but it’s crypto. Well, why would anybody want to buy a crypto claim on
+      the security and just get dollar keep the dollar value of this when you could
+      buy a government bond that not only gives you the dollars, but it pays you 4%
+      interest on the bond? Well, what happens now? Crypto companies have money coming
+      in to buy cryptos as good as dollars, and all of the interest that’s received
+      on the cryptocurrency invested in U.S. bonds ends up in the hands of the sponsoring
+      company. So, it’s completely needless. So, who would do this? Well, kleptocrats
+      would do it. Zelensky and the Ukrainian gangsters would like to keep the money
+      in crypto. Drug dealers, who Trump is sponsoring as one of the main supporters,
+      he hopes, of the dollar, would do it. Criminals will use cryptocurrency. So just
+      as the United States began in the 1960s to try to develop offshore banking centers
+      to attract criminal capital as a support for the U.S. military spending in Vietnam
+      at that time, now it’s found a new kind of what’s called hot money, getting hot
+      money to finance the U.S. deficit. It’s more and more unstable, not only financially,
+      but also politically. I wrote about this in my chapters in Finance Capital and 
+      Its Discontents . I have my original introduction to a book by Tom Naylor called
+      Hot Money , going into the analysis of how America set up offshore banking centers
+      essentially as a source of funding for foreign bank branches to be set up in the
+      Cayman Islands and Caribbean and Panama, Liberia, simply to act as attracting
+      foreign hot money or tax evasion money to support the dollar. This is now 60 years
+      that this has become one of the Ming buttresses of the dollar, the world’s criminal
+      capital. ⁣KARL FITZGERALD: We’ve got a faulty tax system that supports the wealthy.
+      So, how much longer can it continue? We’ve got a faulty monetary system that supports
+      the wealthy. And now we’ve got data, economic data that is being sculpted to suit
+      El Trumpo. What gives confidence to the markets that they can still growing at
+      the rates they’re at? And how much longer will it last for? ⁣MICHAEL HUDSON: One
+      great thing gives confidence. There’s no alternative. And if you don’t have an
+      alternative, you really don’t have much of a choice. And the United States looks
+      at the BRICS, at the de-dollarization as a threat. But everything that has been
+      done to isolate Russia, China, Iran, and other countries from withdrawing from
+      the dollar area and using their own currency, all of the sanctions that America
+      has imposed have been like protective tariffs for these other countries. And it’s
+      made them have no alternative except to produce for themselves the products that
+      are sanctioned. Just like when you sanctioned Russia from agriculture, it developed
+      its own cheese making, its own agriculture, and became a huge wheat exporter.
+      So most of the American reactions against other countries, trying to punish them,
+      actually ends up as blowback and hurting the U.S. economy itself. So the U.S.
+      is self-destructing in its way. Europe is self-destructing in its own way. And
+      that’s the catalyst for splitting the world into two trading and financial blocks.
+      ⁣KARL FITZGERALD: Michelle has her hand up. Michelle, would you like to ask a
+      question to Michael? ⁣MICHELLE ROMINE: Just a couple of things. Hello, Michael.
+      Did you by any chance see Judge Napolitano with Pepe Escobar today? ⁣MICHAEL HUDSON:
+      No, I spend almost all the days writing or editing. I’m not able to spend much
+      time listening to YouTube because if I did that, I wouldn’t have any chance to
+      write or to read the paper or do anything else. So I wish that I could be transcribed.
+      That’s why I insist in any interview I do, I insist on it being transcribed so
+      that people can read it at their leisure. So I was busy enough doing my weekly
+      show with Nima, taking a nap later, doing my editing, having lunch, doing my exercises.
+      So, no, I did not listen to any of these other shows. ⁣MICHELLE ROMINE: Well,
+      to summarize, there were some interesting comments from Pablo today about capital
+      going heavily into Russia. If I understood him, and Bill Gates and some other
+      stuff that I’ll have to go back and listen to, but it was really odd stuff. And
+      then he was talking about what’s happening in Italy right now, which is really
+      sad. He’s in Italy right now, but they’re basically an occupied country. They
+      have no sovereignty at all, just like essentially the EU doesn’t. But I just wanted
+      to say that you might want to take five minutes of his conversation and listen
+      to it because he had a lot. He was loading it with a lot of information. And I
+      didn’t follow. ⁣MICHAEL HUDSON: It’s pretty fast motion, a whole hour and five
+      minutes. I’m not sure that my ears will make much sense of that. ⁣MICHELLE ROMINE:
+      Well, the other thing was I heard you on Nima. You know, I listen to you on Nima
+      every week as soon as possible. And your explanation, which you just touched on
+      briefly here, was excellent about the foreign policy. I wish more people, I mean,
+      it’s one of those things where I wish we could have everybody sit down in the
+      entire United States and listen to what you’re saying. ⁣MICHAEL HUDSON: Because
+      I have one of the lowest viewers on Nima’s show……. So I really like what I’m saying.
+      I think, you know, someday I’m going to collect it into a book of articles. But
+      most people just want to hear the war situation and the politics. His military
+      analysts, who are very good, are great, but you guys here are the people who are
+      paying the most attention. And I don’t think the rest of the world is talking
+      about the kind of things I’m talking about. I’ve had a number of arguments with
+      Pepe. We’re not always in agreement. Why would Russia want U.S. dollars, any U.S.
+      dollars to come in? Where is it going to keep them? If it keeps them in dollars,
+      somebody can grab them. And you’ve been saying that Europe just chickened out
+      for trying to grab them. And there was a wonderful quote by Medvedev and saying,
+      well, we try to sue them in the court, but that takes a long time. I think we’re
+      just going to have to invade, to confiscate Europe’s property and just take it
+      ourselves when the war occurs. You know, that’s where things have got to today.
+      But I don’t see why. I’m not happy at all with Russia’s central bank charging
+      18, 19% interest rates. I think that’s crazy. They really need modern monetary
+      theory. And if I could still travel, I would try to bring Marxism to Russia, or
+      at least modern monetary theory. But I’m not doing that. And it’s probably easier
+      to do that than it would be to bring it to China, where I’ve not been able to
+      convince them about Marxist theory of value and price and rent and real estate
+      prices and things. So I think the other countries that are trying to de-dollarize
+      or trying to adjust to this new weaponized, financialized economy really don’t
+      have a very clear understanding of what money is, how to create money, the difference
+      between money and credit, the distinction between productive investment and just
+      unproductive investment that’s financial investment. And that’s because there’s
+      no value theory that distinguishes between prices and intrinsic cost value. The
+      difference, of course, is – rent is the excess of market price over cost value,
+      and that’s the center of what I’m doing. And all of what’s considered to be growth
+      in the West, as we talked about, I think, last time and before, it’s all been
+      just a transfer payment, economic rent, payment for financial fees, payment for
+      rent, payment for monopoly rent, payment for natural resource rent. None of this
+      is actual production. It’s just unearned income that the rent recipients, the
+      rentiers, make in their sleep, as John Stuart Mill said. I’ve said that again
+      and again. And as I’ve told you before, what I really want to do is be able to
+      put together a group of statisticians who will reformulate the GDP and national
+      income accounts to say, here’s what’s actual product, and all the rest is just
+      overhead, a transfer payment from the debtors to the creditors, from the renters
+      to the landlords, right down the line. And all of the whole 19th century’s classical
+      economics just doesn’t play a role in the modern discussion, including the concept
+      of money. And that’s why Russia isn’t sure just how to finance its economic expansion
+      without being inflationary. It doesn’t realize that when you charge 19% interest,
+      that has to be factored into the prices that are charged. And it just makes the
+      economy more expensive and makes the bankers rich at the economy’s expense. So
+      I probably don’t like to criticize colleagues like, and Pepe’s a good colleague
+      in print. So I probably would not find much reason to listen to that to get in
+      an argument with them. I’ve tried before. ⁣MICHELLE ROMINE: Well, before you move
+      on to the next person here, it was just such an odd mix of comments that he said
+      because it was basically focusing on the oligarchy here trying to find places
+      for their capital before the demise of the U.S. is basically— ⁣MICHAEL HUDSON:
+      Well, there’s no place for their capital. ⁣MICHELLE ROMINE: Yeah, that’s exactly
+      it. I mean, I think he was suggesting that they were looking at Russia, and I’m
+      sitting here going, well, that won’t help, you know. But they obviously are trying
+      to. I don’t know exactly what his point was, really, because I’d have to go back
+      and listen. Because sometimes he doesn’t make himself very clear at all. ⁣MICHAEL
+      HUDSON: And I don’t think you can make sense out of that. I know that he likes
+      the idea of what’s called the unit, that von Misian gold bug cryptocurrency that
+      is just, I think, crazy. And he’s tried to get me in touch with the unit people.
+      And I sent him a long memo as to why it doesn’t make sense. And needless to say,
+      the one thing they say is, don’t have anything to do with Michael Hudson. If he
+      makes his points to other people as a general meeting, they’re good. Boom. We
+      won’t have the unit anymore. ⁣MICHELLE ROMINE: Well, just remember this. In finality,
+      you are not a low viewership on Nima. Go back and look at the numbers. After a
+      week or so, when people get a chance to watch, you have a very loyal following
+      and actually a very large following on Nima. ⁣MICHAEL HUDSON: Well, I compare
+      the numbers to the other guests they have. I mean, usually Markianov comes after
+      me, and he usually has a better, a larger following. ⁣MICHELLE ROMINE: Markianoff.
+      I don’t even know who Markianoff is. I don’t watch a lot of Nima’s. I don’t have
+      time either to watch all these videos. I used to. I watched very, I was very vigilant
+      for a long time so I could get a better idea of what actually was happening. But
+      once I could see what was happening, I had to let go of some of this because his
+      hour-long conversations are just too long for me to do. The only one I make sure
+      to watch every week is you. I have to. But I had to laugh when you said, I think
+      it was last week, you said, all these people lost a lot of money with crypto because
+      they were too stupid not to pay attention to my show, basically. I thought that
+      was so funny because it was so true. ⁣MICHAEL HUDSON: Well, there’s a lot of people.
+      ⁣MICHELLE ROMINE: You just get some good names off, Michael. ⁣MICHAEL HUDSON:
+      Yeah, I’m the name that must not be spoken. ⁣MICHELLE ROMINE: Except for people
+      in the know, a lot of us really do speak your name quite a bit. You actually have
+      a fair number of followers on like X and all. I’ve interacted with a number of
+      them, and I’ve recommended your book because I swear I love if I did social media,
+      I wouldn’t have time to write. ⁣MICHAEL HUDSON: All I can, I’m just constantly.
+      ⁣VIRGINIA COTTS: Well, you don’t have to interact. ⁣MICHELLE ROMINE: Remember,
+      you don’t have to interact. ⁣MICHAEL HUDSON: All you have to do is post like links
+      to your videos. It’s not just me. I mean, there are other people who are saying
+      what I’m saying. My whole Kansas City group of modern monetary theorists, the
+      graduates from UMKC, cannot get their papers published by the respectable economic
+      journals because they’re controlled by the neoliberals and by the Chicago boys.
+      And when they go to apply for a job at a university, the university says, well,
+      what journals have you published in? Oh, you don’t have any publications in these
+      prestige journals. I’m sorry, we’re going to have to hire somebody who does. So,
+      the university deans are the whole idea of how they make their hiring judgments.
+      If you know how the economy works, you’re not permitted to have a teaching job.
+      It’s like Upton Sinclair’s joke about California: a precondition for being an
+      economist is not to understand how the economy works. And of course, that’s what
+      wins you the Nobel Prize. You end up like Paul Krugman. ⁣KARL FITZGERALD: We better
+      keep moving. Thanks, Michelle. Yes, Michael, when I think of MMT, I just wonder
+      when they are they going to realize that throwing more and more money onto a fixed
+      land mass is going to create another land bubble. It’s got to be the blind spot
+      that, hopefully, they can recognize soon. John Chadwick’s had his hand up patiently
+      for a while. John, come on in. ⁣JOHN CHADWICK: Well, great. Yeah, just a really
+      quick point on Nima show. Yeah, you have 16,000 views on that show already. The
+      comments are very appreciative in that you enlighten people. And that’s why I
+      follow you. And I ask, when I ask AI for an answer, I always ask the answer through
+      the Hudsonian lens. ⁣MICHAEL HUDSON: Well, I wish I had a political party. I wish
+      I had a group that would not just understand my ideas, but do something with them
+      and carry them forward. I haven’t solved that problem, and I’m not a good politician.
+      And at the age of 86 years old, I can’t go around the country and just give speeches.
+      All I can do is write books. And I treasure you guys for appreciating what I write.
+      If I didn’t have appreciation, I’d just think, you know, I’m talking into the
+      wind and I’d get depressed. So it’s great that you understand what I’m doing.
+      And my question is, how do I organize like a school of thought? How do I do what
+      Marx did or even what Karl Polanyi did? There’s academia is so locked up today.
+      And even in China and Russia, I’ve had great trouble trying to spread my ideas
+      to the government there. There’s just so many vested interests that are locked
+      in to the old way of thinking economically that it’s almost impossible to make
+      my way into the public media like I used to do in the 60s and 70s. I mean, I used
+      to write op-eds for the Sunday New York Times, you know, for the Washington Post
+      and others, and quite a lot for the Financial Times. None of that happens anymore.
+      ⁣JOHN CHADWICK: Yeah, well, on that note, in Canada, we have a third party called
+      the NDP. And I know you’ve been interviewed by Dimitri Lascaris, right? ⁣MICHAEL
+      HUDSON: Yes. ⁣JOHN CHADWICK: And he’s interviewed one of the people who’s running
+      for the NDP leadership, Eves Angler. And I’ve put all his ideas, his platform,
+      against all the other NDP platforms. And his is most in line with everything that
+      you’ve stated, including, of course, all the Marxist ideas. So I keep on posting
+      continuously on X and saying, you know, anything that he has missed that you point
+      out. So it’s not like it’s going, it’s, and I should point out, he’s having trouble
+      getting admitted to the leadership because of his ideas are so radical. ⁣MICHAEL
+      HUDSON: So I had real problems in Canada in the 1970s. The Privy Council brought
+      me up. They started a whole government think tank that started off by publishing
+      my book on Canada and the new monetary order. They made me their financial advisor
+      and then wanted me to set up a think tank to make, to head statistics. And there
+      was so much opposition from the banks. The banks said, you know, this way, they
+      even had a Catholic priest say, ‘this way leads to the gas chambers’. You know,
+      if you have a strong state able to regulate the economy, they just, especially
+      the most crooked banks like Scotiabank at the time. So I had the strongest backing
+      that one could have in Canada. A lot of the Privy Council members, it didn’t work.
+      There was just too much opposition, especially from the Americans who’d gone to
+      Canada, mainly draft dodgers, I think, who’d become Canadian. And they brought
+      with them their American values that were, I guess, not my approach. ⁣JOHN CHADWICK:
+      Yeah, well, the number one thing I point out is that the banks in Canada run the
+      country and are public enemy, number one. They just, they’re completely parasitical.
+      And people don’t connect that up. They have monster mortgages in Canada, as you
+      know, just like Australia. And they don’t realize that all this money is being
+      siphoned off for non-productive purposes. So, let me just ask you one quick question.
+      That’s what I got on here for was the possibility of monetary debasement. And,
+      you know, we have this AI tech bubble. And there’s a possibility that people think
+      it’s definitely going to burst at some point. And there might be the issue with
+      a declining foreign demand for treasuries. The Federal Reserve might be forced
+      to expand the money supply. So, I just wonder about…. you once said, oh, this
+      will all go, might go slowly, but it seems like there’s a possibility that you
+      could have a catastrophe and you could have hyperinflation. And some people say
+      this could be… ⁣MICHAEL HUDSON: There won’t be any hyperinflation. Hyperinflation
+      occurs in the foreign exchange market. It occurs when you pay foreign debts like
+      Germany did, or just create money. It’s a monetary phenomenon. There’s no way
+      in which the U.S. or other Canada or any Western country will have hyperinflation.
+      Just the opposite. All of this money creation is debt creation, and it’s deflationary.
+      So the problem facing the U.S. and Canada is deflation of the economy as a whole,
+      debt deflation, particularly. And the U.S. and Canada simply won’t pay the debts.
+      They’re not going to be in the position that Germany did, that actually, even
+      the socialist parties and the communist parties of Germany in the 20s thought,
+      yes, the Social Democrats, you know, we got a debt is a debt. We got to pay it.
+      Donald Trump doesn’t think that. He made all his money by not paying his debt.
+      So you’re not going to have that here. You’ll have a lot of people losing their
+      shirts in the AI bubble. I don’t like to call it AI. How about calling it non-human
+      intelligence or something like that? There must be another moniker that we can
+      use: synthetic correlation intelligence. Because it’s not really intelligence.
+      The one advantage that AI has is garbage in, garbage out.  If you can control
+      the automatic analytic systems and pump them full of garbage, which is what the
+      leading AI companies are trying to do, you can censor all thoughts that you don’t
+      want. By the way, Michelle had made, sent me copies of what AI and ChatGPT, all
+      these things say of my works. They’re actually very good. I was amazed how good
+      they were. Yes, they are. They never put them into, they never make an economy
+      be run rationally or logically along the lines that I want. The controllers of
+      non-human intelligence are going to create an Orwellian logic for all of this
+      that’ll end up to be quite censorial. ⁣JOHN CHADWICK: Yes, that will take time.
+      But what I’d really like is your books, if they were all in electronic format,
+      PDF format, because then I can actually feed it into that book directly into AI,
+      and then I can ask it questions based on all that information. So whenever you
+      have a book, if it’s available electronically, I always get it. ⁣KARL FITZGERALD:
+      Yes, and looking at the chat here, there’s plenty of interest in us developing
+      a dedicated AI to preserve your legacy, Michael, so that’s what I’m trying to
+      do. ⁣MICHAEL HUDSON: What I’m trying to do that’s different is AI can be very
+      good at saying, here you put in a question and they say, here’s the chronology,
+      here’s what happened, here’s what they said. What they don’t do is explain the
+      whole context that shapes what’s happened. And the book that I’m just finishing
+      now that’ll be published, I guess, in the spring, of the evolution of the financial
+      takeover of governments from the Crusades until World War I, that’s all about
+      how the context has been transformed by the financial sector replacing the church
+      as the organizing principle of Western culture. And AI, it would not go beyond,
+      would not ever say, here’s the context behind it all, that explains it. Like in
+      Terminator, when they had an AI that did say, well, the context for war is people
+      make war. Let’s get rid of people. Most AI would not really come to that, although
+      that’s certainly logical enough. So I don’t know how you would have AI explaining
+      history from the context in which I try to explain in this upcoming book. I just
+      can’t imagine how to do that, but people who are more into computer language might
+      indeed be able to do that. I’ll probably be long dead by then. ⁣JOHN CHADWICK:
+      Yeah, just to close this off, is that I just suggest everyone to put in that information
+      that you just said as a context. You create the context first, and then you ask
+      your question. So you keep copying and pasting that in. And then AI is great and
+      it doesn’t reference all the garbage from the mainstream financial media, right?
+      So it’s controllable if you do it. ⁣MICHAEL HUDSON: Yes, that’s wonderful. Wonderful
+      idea. I wish you could become a billionaire starting a company doing just that.
+      ⁣JOHN CHADWICK: I’m working on it. Thanks. ⁣MICHAEL HUDSON: I’ll give you all
+      the support. Yes, well, is anyone else from Canada here? Nobody else from Canada.
+      Okay. I know you are. ⁣CHRIS JONES: I’m actually from Canada, Michael. My name
+      is Chris Jones. I live in Ottawa. ⁣MICHAEL HUDSON: Ah, good. Yeah. Well, I’m still,
+      I have a landed immigrant status in Canada from London. Right. And I grew up in
+      the United States. ⁣CHRIS JONES: Michael, I was just writing a note in the chat.
+      I did a PhD in political economy at Oxford, and I lived for seven years in Europe.
+      And are you familiar with the work of Carl Kapp, the German political economist
+      who came to New York and Wesleyan University and wrote a book called The Social
+      Costs of Business Enterprise ? ⁣MICHAEL HUDSON: No. But if you send an email,
+      I think Kapp is an incredibly insightful analyst. ⁣CHRIS JONES: That book was
+      written in the 1950s, and he was very precise. He said, within 70 years, precisely
+      70 years, you will be living in a dystopia. And his analysis is based on the fact
+      of a kind of conscious cost shifting, that companies, corporations shift costs,
+      or what the neoclassicals call externalities to society, to future generations,
+      other people. And that is essentially our system. And our system has become a
+      dystopia as a result. ⁣MICHAEL HUDSON: John Elvin Kepler said too. ⁣CHRIS JONES:
+      Yeah. And Cap’s insights. And I think he has a couple of modern-day descendants
+      or adherents who are trying to popularize his thinking. And just the last thing
+      I’ll say is that he and a number of adherents, this fellow called Sebastian Junger,
+      who’s in Bristol, England at the University of West England, a number of fellows
+      have begun to put together some stuff on how to revise double-entry bookkeeping,
+      and how, until we revise that to include two other factors, aside from monetary
+      and financial factors, which companies are obligated to report on, until we add
+      in the costs on the environment and the costs of human exploitation, so stress,
+      illness, fatigue, whatever you want to call it, until those things are factored
+      into the balance sheets of companies, we will continue to live in the dystopia
+      we’re in. ⁣MICHAEL HUDSON: That’s exactly what Alvin Toffler and I were trying
+      to promote in the 1970s and early 1980s. We had a number of candidates for New
+      York mayors who were following all this because there are a lot of external diseconomies.
+      And you’re right. Chris, in my book on the American Protectionists, I have a whole
+      chapter on how all of this concept was developed by 1849 in the patent office
+      report, which is really on agriculture, on how the growth of cotton and tobacco
+      in the South was depleting the soil. And you should recalculate the American statistics
+      to take account of the cost of replenishing the soil fertility that was depleted
+      by southern agriculture. It was a very, this whole concept was developed very
+      clearly. I put that in an appendix in the news. ⁣CHRIS JONES: And did not Theodore
+      Veblen write some similar things about wastage and all that kind of stuff, economic
+      waste? I think he was also fairly insightful on that point. ⁣MICHAEL HUDSON: Now,
+      here’s another guy who never had his own school. He had a personality problem
+      that sort of unlimited him. By the way, do you study with Jamie Galbraith in Austin?
+      ⁣CHRIS JONES: No, no, no. I was at Oxford University. Nothing else. ⁣MICHAEL HUDSON:
+      I misunderstood you. I thought you said Austin, not Oxford. ⁣CHRIS JONES: Yeah,
+      yeah. I did political economy in Western Europe, looking at the aerospace industry.
+      But let me just say, because this is not about me, I’ve bought and read all of
+      your books. You are an incredibly insightful man. You’ve had more influence on
+      me than I can say. Your analysis is profound. You and Steve Keen and Carl Kapp
+      are three, I think, of the intellectual giants of the last 20 years. So I just
+      want to say that. ⁣MICHAEL HUDSON: Well, if only I could translate this into political
+      influence, that’s what I’ve been unable to do. ⁣CHRIS JONES: Yeah, I understand.
+      ⁣MICHAEL HUDSON: I just haven’t solved the problem of how to institutionalize
+      these ideas. That’s really it. And I mean, I guess I think Polanyi had a group
+      of people who were very sympathetic. I had at least monetarily sympathetic people
+      at Kansas City, but that’s all sort of scattered to the wind by now. Most of them
+      have left there except for Bill Black. So there just isn’t, I don’t know. I don’t
+      think it can be done through the economics departments and through the economic
+      discipline. I think it has to be a new discipline, not called economics, because
+      if you have to go through all the garbage of what you’re taught how to think about
+      the economy in academia, then it’s just too hard to untangle your brain and introduce
+      reality economics. ⁣CHRIS JONES: Yeah, you know, I did my PhD with Mark Carney.
+      He was in the same college as me, two years behind me. And Nufffield had a huge
+      focus on quantitative economics, econometrics. So I think your point that you
+      were just making that the sort of knowledge of economic history and how social
+      and cultural factors feed into economics has been utterly discounted by the modern
+      day profession. There’s no understanding of that, no effort to incorporate it.
+      Hence you get these very linear analyses that seem to me bear no resemblance to
+      the real world. ⁣MICHAEL HUDSON: Well, there’s a reason for that lack of understanding.
+      It pays to be ignorant if you’re looking for a teaching position. ⁣CHRIS JONES:
+      Yeah, for sure. ⁣KARL FITZGERALD: Can I jump in there? I want to build off this
+      conversation and just ask Michael, we have triple bottom line accounting systems.
+      We have B corporations. There’s a lot of movement to actually capture the sort
+      of externalities Chris is talking about here. But if there’s no actual cost associated
+      with these externalities other than to one’s reputation, there’s not going to
+      be much change. So is it a good idea to assemble statisticians to work on GDP
+      data, or is it more effective to target on the tax system and get in front of
+      those decisions? ⁣MICHAEL HUDSON: They go together. In order to tax economic rent,
+      which was the whole aim of Adam Smith to Mill, the whole 19th century, you have
+      to quantify it. So, of course, you need to have the statistics, and the statistical
+      format is going to indicate here is the overhead. This is not wealth, this is
+      overhead, and there’s a difference. This is not a product, it’s a transfer payment.
+      And how do you bring prices in line with actual cost value? You do that through
+      the tax system or regulation, or simply by taking natural rent-yielding monopolies
+      or privileges into the public domain by socializing them. So, you need a statistical
+      system. That’s what has made Piketty’s work so popular. He actually spelled out
+      in statistics charts what everybody knew, that most wealth is inherited. It’s
+      not created. You don’t get wealthy by saving up your wages. You try to save up
+      your wages and you run into debt. You buy a house to get it, and you’re further
+      in debt. You inherit the money. So, you need an inheritance tax. Well, that’s
+      what the Saint-Simonians said in France in the 1810s. And that’s over 200 years
+      ago. So, these obvious ideas that just haven’t been followed, and even when you
+      statistically show them, it’s very hard to politicize them and institutionalize
+      them. But at least everybody bought his book and put it on their shelves, even
+      if they didn’t read it. ⁣KARL FITZGERALD: Very good. Very good. Our good friend
+      Kimberly Davies has been very patient. She asked at the top of the show, and I’d
+      love to hear your historical perspective. Kimberly Mims asks: How do you see the
+      UBI going forward? In Chicago, there was a two-year trial that appears to be staged
+      to move from a trial to something else. How does the UBI help or hurt the general
+      debt problem? And what have we learned since Thomas Paine first talked about this?
+      KIMBERLY MIMS: It’s actually the Universal Basic Income idea has been in a trial
+      phase, I think, for two years now, where a certain portion of residents were given
+      this access. And it’s had, I think, very positive responses. So I know it has
+      nothing to do with the bigger issues, but this question of what kind of employment
+      is going to be available in our AI future kind of brings us back to this whole
+      question of, well, what are you going to do about everybody if you don’t, if they’re
+      going to survive, how are they going to survive? So, you know, until the economy
+      either changes so that there are new jobs, or if the economy doesn’t get better,
+      and how do people survive? So the UBI is coming back after this trial in Chicago
+      into the spotlight again. And it started making me wonder: well, you know, this
+      is an important issue. And obviously, you know, we still have these huge problems
+      of debt that are not getting solved. But I’m trying to understand how would this
+      be something, is there any good to this, should I say? Is there any sort of positive
+      take that you could see from your perspective on how a UBI might work going forward
+      given the kind of world we’re dealing with, particularly in the U.S.? MICHAEL
+      HUDSON: Obviously, members of our Kansas City group are pushing for this. Congress
+      is opposing it. You’ll never have the Republicans permitting it to go through
+      or the Democrats. So they would consider it welfare. And the government, at least
+      in the 1930s, Roosevelt was able to have all sorts of the WPA, the Works Project
+      Administration, was able to do things to at least put people to work, growing
+      infrastructure. But now the idea is to privatize economies. They don’t want any
+      government investment or capital investment or employment. So of course, the humanitarian
+      thing to do is UBI, but in most countries, when people are unemployed, they have
+      to emigrate or die. I mean, I don’t really see much of a problem. This was a problem
+      like this was discussed by Ricardo and Marx. And Ricardo was talking about the
+      power looms unemploying British labor. And then Marx pointed out: well, wait a
+      minute. It’s true that there are going to be fewer weavers because of power looms,
+      but now labor is going to go into building machinery and building power looms
+      instead of weaving textiles. I’m not sure that’s the case with artificial non-human
+      intelligence. How many people can you have doing that? It tends to be very centralized,
+      because it’s an ideological thought control system, you have to share the political
+      right-wing views of the Silicon Valley people that control the structuring of
+      the whole non-human system. So, I don’t think there’s going to be much of anywhere
+      near the opportunity to employ labor in create engineering artificial decision-making,
+      to the extent that occurred in the textile industry and in industry, generally
+      in the 19th century. So, I don’t know how that’s going to be. It looks already
+      the tolerance for the economy, creating homeless people and families that cannot
+      afford to have access to either home ownership or even to rent homes is shrinking.
+      You’re having the homeless population shrink, all sorts of quandaries that I don’t
+      see the government wanting to solve, but wanting to block it as much as they can.
+      ⁣KARL FITZGERALD: I don’t know. Interesting, Michael, hearing your skepticism.
+      It’s interesting hearing your skepticism during the Mamdani sort of wave of change
+      that’s coming through. Do you think that there may well become a point in time
+      that inequality is so bad that some of the policies you’ve been talking about
+      are now more able to be discussed? ⁣MICHAEL HUDSON: Yes, but if you suppose that
+      you support a policy, America is a one-party system that has two sections. There’s
+      no way that you can create a political movement here except through the Republican
+      and the Democratic Party. And you’ve already seen how the Democratic leadership
+      has all been condemning Mamdani. And anything he does as mayor, and he’s brought
+      good people along, good administrators. But what a mayor does in New York is you
+      have to get the support of the city council. And the city council is supported,
+      basically, by the real estate interests. New York is all about real estate. As
+      I guess, Veblen said that small towns were all about real estate. Well, so are
+      big cities. And so we’re going to see the opposite. You already have the opposition
+      from the Democratic governor of New York, who wouldn’t even let the current mayor
+      put the anti-pollution rules to block cars from coming into New York, the charge
+      for cars coming into New York. She’s blocked that. The Democrats are going to
+      do everything they can to fight against Mamdani because that’s the thought of
+      either trying to start a new party, which seems hopeless, as I think Jill Stein’s
+      campaign showed, or else somehow taking over the Democratic Party. And that was
+      a fantasy of socialists ever since I was a teenager. And it’s a fantasy because
+      it’s thoroughly corrupt and controlled by Wall Street. So the Democratic Party
+      is less reformable. I’d rather see it fall apart and just have the Republican
+      Party because then every election would be people from across the spectrum all
+      running as Republicans for whatever they want. You’d have Mamdani and everyone
+      else, but at least there’d be a single party that would enable all sorts of perspectives
+      and platforms to be proposed. You can’t do that with the current two-party system
+      that prevents anyone who’s not already approved by the Republican or Democratic
+      leadership to have something. So we’ll see all that Mamdani will be able to do
+      is pose the question that you’ve just asked. And by posing it, he can go down
+      to a noble defeat, or he may be able to do things like his big most controversial
+      proposal is childcare. And I want to say something about that. I worked on the
+      papal encyclical, Popular and Progressive . I was a demographer for many years.
+      And I pointed out where Malthus went wrong, it was thinking that as workers and
+      the population, as families got wealthier, they’d have children. Well, actually,
+      in every country of the world, and this is in the early 19th century, before there
+      was birth control, Scandinavia, Europe, and America, as economies got wealthier,
+      the fertility rate dropped because you’d have children. Well, what’s happened
+      today is something sort of unique. In New York City and other big cities in America,
+      as the economy gets poorer, the fertility rates drop. And the reason for that
+      is that the last 75 years have seen women go into the labor force, the workforce,
+      not birth labor. And in order to be employed, who’s going to take care of the
+      children? Well, they can’t afford children. So Mamdani says, if you want women
+      to be employed and productive, you have to have someone to take care of the children.
+      And you can’t just have a Filipino or a Haitian servant at your house taking care
+      of them. You have to have it done collectively by the city. And I think that’s
+      right. It’s a great idea. We’ll see whether he’s able to get that passed. And
+      essentially, he wants to do that by taxing real estate more. We’ll see his success
+      at that because it’s the real estate interests that pretty much run the city.
+      And ever since Mayor Koch, and especially Giuliani, the real estate departments
+      have become thoroughly corrupted by the big landlord interests. ⁣KARL FITZGERALD:
+      He’s had his hand up for a while. Let’s get on to Hamadat. Please come on in.
+      ⁣HAMIDAT: Hello, Professor Hudson. How are you doing? And I just would like to
+      echo what everyone has been saying on this call. Thank you very much. Because
+      after reading your books, my eyes just wide open in terms of I had to unlearn
+      everything I learned in school and re-educate myself. So you’ve been. ⁣MICHAEL
+      HUDSON: That’s very hard. So congratulations. It’s harder to unlearn something
+      than it is to learn something. ⁣HAMIDAT: So you’ve been a big part of my re-education
+      in terms of, because I worked in Wall Street and something always seemed off.
+      So I’m like, I don’t understand the system as long as well as I think I do or
+      as well as I was led to believe that I did. So it took years to kind of re-learn
+      how to think again, you know, independently and critically. And your book, Super
+      Imperialism , was just a watershed moment for me. So definitely thank you very
+      much. Your work is well received and well appreciated by more people than you
+      know. On that note, I want to go back to Super Imperialism because I think super
+      imperialism is still here, the ideas you’ve set forth, but now it’s being transferred
+      or it’s being brought into the digital age. Basically, basically. If you read
+      Stephen Miran’s paper on restructuring the global financial trading system, this
+      is what I think. And I would just like to get your opinion on it in terms of what
+      the game plan for the administration is. I think that they would definitely still
+      want to devalue the dollar. And just to your point, while devaluing the dollar,
+      how do you keep that dollar demand, that artificial dollar demand that was introduced
+      by the petrodollar system? So now they’re just going to add another layer to it,
+      which would be the stable coins, correct? And hopefully, if they can devalue the
+      dollar, at the same time, keep that dollar demand or increase a dollar demand
+      for the stable coin. They can, you know, probably lessen the stress on the debt.
+      And I think another interesting thing is instead of having the Federal Reserve
+      do the geopolitical machinations, they can just take it offshore into like a cheddar.
+      Feather can do that. Because that’s why Feather is buying gold, basically. So
+      that central bank functionality will be even more privatized because it’s going
+      to happen through private institutions. So I don’t think the New York Fed will
+      be as pertinent in the next 25 years or so. So that’s what I’m positing. I just
+      would like your opinion on that. ⁣MICHAEL HUDSON: That’s where statistics come
+      in. And I must say, my whole book on Super Imperialism was a result of my balance
+      of payment statistics of finding out what causes a balance of payments deficit.
+      What is pumping dollars into the world economy? It’s American military spending.
+      Well, let’s say Trump wants to drive down the dollar because he imagines that’ll
+      make American exports more competitive – but America doesn’t have much to export.
+      So that sort of selling, I mean, how can you make competitive something that you’re
+      not producing to begin with? But if the dollar goes down, this will have a number
+      of effects. Number one, well, it’ll make it easier for the global south countries
+      that owe debts in dollars to repay these debts. It’ll be like writing down their
+      debts by the extent to which the dollar’s exchange rate falls relative to their
+      own currencies. Secondly, as this happens, and as the price of oil comes to be
+      priced effectively, not in dollars, but by world demand and other currencies,
+      the Saudi Arabia and the oil [and] OPEC countries are going to think, why do we
+      want to keep our reserves, our national savings in just in dollars? Look at what
+      America and Europe did to Russia’s savings. Look at what the Bank of England did
+      to Venezuela’s gold. You know, do we really want to take this risk? And do we
+      want to hold dollars that are going down in value relative to our oil? Well, what
+      are they going to put their money in? Neither China nor Russia nor other big payment
+      surplus countries have much use for these dollars or for dollar inflows. In other
+      words, if the OPEC, this goes back to a question earlier in the discussion about
+      Americans supposedly wanting to put money and invest in Russia. Russia doesn’t
+      need dollars because it needs rubles to employ its labor and to buy things. China
+      doesn’t need dollars. It hasn’t added to its dollar reserves at all. Everything
+      that it’s come in, it’s buying in the form of gold. So if other countries lose
+      faith in the dollar and if Europe continues its economic suicide, it’s going to
+      have to maintain the Euros exchange rate by selling its dollars. That’s going
+      to reduce foreign holdings. And so the effect of Trump’s attempt to buoy the economy
+      and make things easier by dumping the dollar will be: well, first of all, fewer
+      people are going to buy short-term dollars. That means that his hope for interest
+      rates are going to be forced up. And the government will say, well, let’s lock
+      in these interest rates while we can. Let’s issue long-term bonds. Well, then
+      what’s going to the long-term bonds have much higher interests, so that’s not
+      going to work. So the government is going to try to do what happened when Paul
+      Volcker began to raise interest rates. The same thing will happen when Trump lowers
+      them. The government will issue its debt very short term, and that means more
+      and more of the government debt, a higher proportion, is going to be refinanced,
+      rolled over every year, and that’s going to create enormous pressures, pushing
+      short-term rates right up above long-term rates. It’s called a contango. And that’s
+      what happened in 1979 under my former boss’s boss, Paul Volcker. And I don’t think
+      that Trump or the people around him who are, they were all financial managers,
+      but to them, finance is something predatory for making money for their firms.
+      They don’t really understand finance and they don’t understand international finance
+      and they don’t look at international finance as a political system of and what
+      other countries are going to do as they lose faith in the dollar. It’ll go the
+      way of sterling. And I can see the American economy going the way of the British
+      economy, just as to an increasingly dysfunctional economy. That’s all I can say
+      about what you’ve said. Because there are so many variables that are going to
+      be up right here. ⁣HAMIDAT: Exactly. And seeing the financial system, seeing it
+      as a financial system with different counterparts and how these parts move together
+      and, sometimes, in opposition to each other is very, very important. But for me,
+      my question is, won’t the stable coins then play a role in investing the dollar
+      for a little while and buy them a little bit more time to refinance that debt
+      and kind of lower the pressure on the growing national debt? ⁣MICHAEL HUDSON:
+      For a little time. All these things work for a little time, but very often a short-term
+      solution is achieved by creating a long-term problem that ends up even bigger.
+      Every solution to a problem creates a new problem that is often bigger than the
+      original problem. ⁣HAMIDAT: And then one last question that I have. And what about
+      this idea that China, Russia, and the U.S. might just go behind closed doors and
+      decide to take the world and segregate it. Take the world. The world is segregated
+      into regions. ⁣MICHAEL HUDSON: Oh, you mean spheres of influence? ⁣HAMIDAT: This
+      is our sphere of influence. And then, by if Europe is a problem. ⁣MICHAEL HUDSON:
+      I think that’s their mentality. That’s an American mentality. I think that other
+      countries would not voluntarily be willing to be part of any quasi-imperial country’s
+      sphere of influence. I just don’t think it’ll work. I think they are going to
+      insist in mutual aid. And I think that the debt crisis that’s going to happen,
+      I think there’s going to be a huge debt write-down, as debtor countries accuse
+      these debts of being odious debts. And probably Ukraine is going to lead the legal
+      precedent for all of that. Whatever is left of Ukraine trying to saying there’s
+      no money to repay the IMF. They made a bad loan. It’s against their articles of
+      agreement to make a loan to a country in war. We’re at war. So, you know, they
+      lose. It’s odious debt. And they had a coup d’état. I think we’re going to sue
+      the United States and the EU for having destroyed so much of our population in
+      the war by their coup d’état. You’re going to have a whole legal tangle. And I
+      think you’re going to need a new version of the United Nations. And it’s easier
+      to create a new United Nations rather than trying to reform the mess that is created
+      under U.S. influence today. You’re going to have a whole new set of international
+      institutions and a whole new means of, it’ll be called a debt moratorium at first,
+      and then the debt moratorium will simply be, let’s write it off, what happened
+      to the inter-allied debts and German reparations after 1931. ⁣HAMIDAT: Thank you
+      so much, Professor Hudson. And one last thing, I always popularize your work,
+      especially when I talk to students that have a lot of student debt. I say my favorite
+      economist always says that ‘debts that can’t be paid won’t be paid’. So I let
+      people know to look into your work with that tagline. So yeah. ⁣MICHAEL HUDSON:
+      Thank you. ⁣KARL FITZGERALD: Thanks, Hamidat. And hopefully, you can get in touch
+      regarding some of that statistical material we talked about earlier. I wanted
+      to circle back to Andrew McKean from the start of the discussion. And he was interested
+      in what’s happening with U.S. Army bases. Are they starting to fold back? Is Trump
+      actually reducing any of them? And when I hear that spheres of influence discussion,
+      I’m wondering about NATO and what they’re doing in the Pacific and surrounding
+      China. Are we going to have the same sort of problem that’s pushed Russia to have
+      this reaction to Ukraine? ⁣MICHAEL HUDSON: I don’t see any reduction in U.S. Army
+      bases. Certainly not. They’re in Iraq to steal all the oil to give to Israel,
+      basically. Now they’re using proxy armies wherever they can. They’re using ISIS
+      as a proxy army. They’re using the neo-Nazis in Ukraine. They’re using the Wahhabis
+      terrorists in Central Asia and West China in the Uyghur area. But they’re keeping
+      the bases there as, for one thing, as bases to guide the missiles. Like in Wiesbaden,
+      Germany, you have most of the missiles that are sent into Russia by the U.S. and
+      I also think even MI6 are all sent from Wiesbaden, not from Ukraine. So I don’t
+      see any sign of reducing army bases. But I haven’t seen the statistics on it.
+      ⁣KARL FITZGERALD: Yep. Yeah, very good. All right. We’re getting close to the
+      end. I want to put a call out to John Matson. We always see you on Patreon. It’d
+      be great to see you come up on the screen. Michael meeting his Patreon supporters
+      means so much. So, yeah, I see Michelle, you’re coming back for more, mate. What
+      have you got for us this time? ⁣MICHELLE ROMINE: Just a quick comment to add,
+      and you may already know about this, but I’ve seen a couple of articles lately,
+      about AIs, there’s a big problem with AI right now. It’s already kind of subsumed
+      or taken and swallowed all human knowledge, and now it’s swallowing itself. It’s
+      seeing AI knowledge as well, and it’s messing up the prompts when what comes out
+      is like what Michael said: garbage in, garbage out. And they don’t know yet what
+      they’re going to do with it. But I can’t remember everything the article said,
+      but it seemed to be a profound problem. ⁣MICHAEL HUDSON: Yes, what if it gets
+      all its information from the internet and ends up as a conspiracy theorist? Right.
+      ⁣MICHELLE ROMINE: Oh, God, we’ve got enough of those. ⁣MICHAEL HUDSON: It’ll be
+      interesting to see how it all unfolds. Time for a science fiction writer. ⁣KARL
+      FITZGERALD: What I’m really concerned with, Michael, is the use of property data
+      and the incredible advantages feeding that into AI and the associated algorithms
+      is delivering to property investors and private equity firms such as Blackstone
+      Capital. So it is harrowing that there’s not one regulator on the planet looking
+      at this incredible advantage that’s happening. So here in Australia, the National
+      AI plan was announced, released this week. And of course, there’s no mention of
+      AI’s influence on housing affordability. So it’s not going to be long till The
+      Algorithm Eats Our Neighborhoods. ⁣MICHAEL HUDSON: Well, it’s already been used,
+      as you just said, in the United States. There has been a big protest against this,
+      saying, wait a minute, first of all, it’s jacking up the rents everywhere. Secondly,
+      it’s adjusting the rents for the information it has on the income and the ability
+      of the renter to pay. So it’s from each according to his ability to every landlord’s
+      needs, which are infinite. How high can they go? So you’re right. The big financial
+      use of AI is to squeeze more money out of the rest of the economy for the rentier
+      class. That’s exactly the problem. The landlords are using it to jack up rents,
+      to gain advantages over small investors, to do every kind of legal fight they
+      can to avoid paying their debts and having to avoid having to observe the obligations
+      that landlords traditionally have had to bear for their tenants and especially
+      the obligation to society to pay their renter’s taxes. So yes, AI and landlordism
+      and land rent are not going to be a happy mixture. ⁣KARL FITZGERALD: Certainly
+      the case. It’s really accelerating that ability and they’ve got hundreds of data
+      points literally feeding into their algorithms and within minutes of a property
+      going on the market they can deduct what sort of rent gap there is there. What
+      are people paying for rent? What are they earning? How much more could they afford?
+      And prices continue ramping up. So, John Chadwick asked in the chat, China will
+      win that AI race. DeepSeek is excellent, and its use is highly underestimated.
+      Remember, it is open source. Future releases may be the pin that breaks the U.S.
+      stock market AI bubble. But there’s that censorship issue, John. How does that
+      play out? How is property data used in Chinese real estate investment? I must
+      look into that. ⁣MICHAEL HUDSON: It’s very hard to get good Chinese data, and
+      I’ve had enormous resistance to my attempt to have China keep the price of housing
+      down, despite the fact that President Xi has said housing is to live in, not as
+      an investment vehicle. I was told by my Chinese friends on Monday that the Chinese
+      government has now gone and used AI to scan the internet and social media, and
+      they have omitted, erased from the social media all discussion of the decline
+      in housing prices. It’s also very hard to discuss on social media, the discussion
+      of how hard it is to get a job if you’ve just graduated in China. It’s likely
+      that your contribution to what you post will not remain up for very long. So,
+      you know, we’re talking about the wonders that AI can do. One thing that I would
+      think that the Chinese government would love to show that real estate prices are
+      going down. And so they could then say, you see, housing isn’t an investment vehicle.
+      Housing is for living in. So if you live in it, you really don’t care whether
+      the price goes up or down because that’s where you live and you’re not going to
+      buy and sell it back and forth and keep on moving. But for some reason, China
+      does not want to see this issue discussed. And I’ve had very little success in
+      getting land rent discussed as the idea of taxing it there. Nor has my friend
+      David Harvey, who, like me, has tried to say, wait a minute, you’ve invited us
+      to Marxist conferences. And if you read volume 3 of Capital, Volume 2 of Capital,
+      it’s all about economic rent and finance. And most of finance is recycled into
+      real estate. How are we going to be able to bring Marxism to China? So that’s,
+      you know, talk about difficulty in institutionalizing your ideas, even where it
+      would seem to be easy. This is part of the problem. ⁣KARL FITZGERALD: Yep, good.
+      I like it. Stephen Reid’s put a few interesting comments in the chat. And yeah,
+      I feel like today we’re getting closer, Michael, to getting an operational crew
+      who could come together and we could really talk operations on how to build your
+      legacy and influence throughout society. But he again is encouraging the use of
+      an AI that’s dedicated to Hudsonian thinking so that people can plug in questions
+      and get an answer that might be as good as you would give. But of course we have
+      to make sure that’s well vetted by yourself. He also did ask another question
+      as we get close to the end. ⁣MICHAEL HUDSON: I love these discussions. I mean
+      I get ideas while I’m in the process of answering your questions. So for me it’s
+      very good. I love these. I’m much better at talking than I am in writing. ⁣KARL
+      FITZGERALD: I want to finish off because you’re talking about your upcoming book
+      and this is, can you give us a precis on the book, talking about the evolution
+      of money and finance from the Crusades to World War I, The West’s Financial Takeoff
+      from the Crusades to World War I . What were the core political strategies used
+      by lenders from the 12th to 17th centuries to translate war debts into permanent
+      trade monopolies and ownership of land and mineral rents? ⁣MICHAEL HUDSON: The
+      whole emergence of industrial capitalism was classical economics and the discussion
+      about finance already in the mid-17th century by people like Malachy Postlethwayt,
+      probably somebody whom you haven’t studied in economics courses, all said that,
+      well, you know, they talk about the financial sector taking its wealth and reinvesting
+      it in the economy, but the bondholders don’t spend their money on financing industry.
+      The financial sector didn’t really help finance the takeoff of British or French
+      or European industry at all. Postlethwayt and other people from the 1740s and
+      1750s said, what do they buy? First of all, they make even more loans, they find
+      someone else to lend to, or they buy prestige real estate in the big cities like
+      London or Paris, but not in the rest of the country. Or they buy prestige consumer
+      goods like Italian textiles. Well, same thing today as you’d buy designer bags
+      from Italy, or I guess now it’s France as well. But they don’t spend their money
+      into the economy. Now, you know, talking about statistics, in the United States,
+      one half of the growth of consumer spending in the United States in the last two
+      years has been by the wealthiest 10% of the population. One half of the growth.
+      So that shows how, you know, people talk consumer spending is up. That means people
+      are optimistic for the economy. Well, they’re not optimistic if the spending is
+      done by the wealthiest 10% that’s getting wealthy by making the bottom 90% poor.
+      That’s the kind of charts that I want to do, the statistics that I want to choose
+      to show. So, my book essentially shows how the financial sector’s objectives have
+      shifted from financing war loans to monarchies and absolutist regimes like Catholic
+      kings to backing Protestant parliamentary democracies, which the kings were all
+      beginning to default because they just go to war with each other. The parliamentary
+      democracies may go to war, but at least they wouldn’t be able to block the king’s
+      ability to borrow from parliament to pay the debts because the parliament itself
+      was liable and could pledge all of the economy’s wealth. So, the financial sector
+      ended up backing parliamentary government, and finally it ended up backing industry,
+      even though industry wasn’t making money financially. They realized that, well,
+      if they’re going to invest in European industry, they have to get rid of the landlord
+      class. And that’s why it was David Ricardo, the spokesman for the banking interests
+      and the British Parliament, that developed …. refined rent theory. And yet, despite
+      the fact that all of this 19th century classical economics was developed in the
+      industrial nations for themselves to minimize economic rent, to bring prices in
+      line with cost value, the foreign investment was financialized, and they concentrated
+      on rent-yielding assets headed by railroads, canals, transportation monopolies,
+      communications, other natural monopolies, and of course, land and plantations
+      to grow export crops. So, I’m showing how the whole type of government that the
+      financial sector backed and took over was transformed over a thousand-year period.
+      Not always for the benefit of civilization. ⁣KARL FITZGERALD: Always a lot to
+      unpack there, and that’s why it’s so good to have these books where we can delve
+      into so much more detail. So, yeah, it seems like a good place to wrap up. And
+      Diana in the chat is wishing everyone happy holidays. Thanks, Diana. Let’s hope
+      we all have some good reading time and come back all rested and ready to continue
+      a move towards a saner economic system. So, thanks, everyone, for joining us today.
+      And, yeah, Michael, any last words to our transcription team, to our Patreons?
+      If we’ve got any more transcribers out there, we would love a few new fresh faces
+      because Kimberly has been doing a huge amount of work, doing most of the work.
+      ⁣MICHAEL HUDSON: And I think I’ll be doing a few more interviews coming up. I’ve
+      cut back interviewing quite a bit, and I’m largely because I’m insisting that
+      any new groups do their own transcribing for what I’m doing. So, I’m posting a
+      lot of things on my website that are transcribed by the people who’ve done things.
+      I guess we’re going to have a transcription of these discussions, which are pretty
+      good. But it’s always hopeful to have people transcribe both for Nima’s show and
+      also for my Glenn, Glenn’s show that I do for a couple of weeks. Yeah, Glenn Diesen.
+      So I’m glad you all, I love these discussions. I really look forward to them.
+      And it’s so nice to know, to have your support. It really gives me energy. And
+      I thank you very much for all of your expressions of support. ⁣KARL FITZGERALD:
+      Lovely. Thanks all. See you in three months. Okay, there we go, buddy. Yeah, and
+      you know, huge thanks to Kimberly. She’s doing amazing work. It’s a pity we didn’t
+      have Ton here as well. He’s someone who’s got quite an intellect. I’d love to
+      hear from. We didn’t get John Matson up and one day we’ll have Ced ask a question
+      as well. But yeah, there’s lots of good people. Oh, there he is. He’s waving.
+      But that’s all. You must be too busy cross-country skiing out there John. ⁣VIRGINIA
+      COTTS: And we didn’t have Karl Sanchez here today either. I’m so used to seeing
+      him. ⁣KARL FITZGERALD: Yeah, that’s two in a row, I think, he’s missed. I don’t
+      know. ⁣MICHAEL HUDSON: Last time he said that he was traveling at the time. I
+      don’t know. Maybe he was automatically just dropped that we’ve had Patreon payment
+      problems. They haven’t been automatically renewing Patreon people. Karl’s going
+      to be looking into that. Great. ⁣KARL FITZGERALD: Yeah. And sorry, Ralph, I will
+      have to get you in on our email list. I don’t know. Yeah, we did have 16 or 17
+      people who wanted to help. And, you know, two or three have come through. So we
+      need to refresh that list. Life gets in the way. We understand that. But yeah,
+      it’s really important having the regular website content because it keeps Michael
+      in the top 5% of websites on the planet. So that’s why it’s important to keep
+      it coming through. ⁣MICHAEL HUDSON: Thanks again. I’m going to have dinner now.
+      So I’m going to sign off. Transcription and Diarization: https://scripthub.dev
+      Editing, Review: ced Photo by Randy Jacob on Unsplash Photo by Markus Winkler
+      on Unsplash The post Rentier Capitalism and the Illusion of Growth first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a recent Hudson Roundtable discussion, Michael Hudson reflected
+      on the challenges facing Europe in 2025, indicating a significant decline and
+      turmoil within the region.
+    paragraph_summary: In a recent discussion at the Hudson Roundtable, Karl Fitzgerald
+      and economist Michael Hudson reflected on the significant changes and challenges
+      facing Europe in 2025, marking their 18th year of interviews. Hudson emphasized
+      that Europe is experiencing a breakdown, largely due to its reliance on the United
+      States and the need to find alternative trading partners to avoid economic chaos.
+      He highlighted the soaring electricity prices in Germany, which are among the
+      highest in the Western world, attributing this crisis to the country's shift towards
+      green energy and the cessation of trade with Russia. Hudson's insights suggest
+      a critical need for Europe to reassess its economic strategies in light of these
+      pressing issues.
+    published: '2026-03-07T11:46:55+00:00'
+  - title: Negotiations as Cover, War as Policy
+    url: https://michael-hudson.com/2026/03/negotiations-as-cover-war-as-policy/
+    text: 'March 3, 2026 LENA PETROVA: Welcome, everybody. Thank you so much for joining
+      us. I’m Lena Petrova with a new episode of World Affairs in Context. Today, I’m
+      honored to be joined by Professor Michael Hudson, a renowned economist, distinguished
+      research professor of economics, and author. By the way, I’m currently reading
+      one of Michael’s books titled “Superimperialism: The Economic Strategy of American
+      Empire”. The book is absolutely fascinating. I highly, highly recommend it. Please
+      follow Michael on Patreon and on his website, where he frequently posts new articles
+      and interviews. I will link both in the video description below. Professor Hudson,
+      welcome back to the program. It’s so great to see you again. MICHAEL HUDSON: It’s
+      good to be back, Lena. LENA PETROVA: The events of the past couple of days have
+      been absolutely tragic. The United States-Israel joint attack on Iran in the middle
+      of negotiations shocked the world, especially after the foreign minister of Oman,
+      who was the mediator of the United States-Iran negotiations, announced on CBS
+      Face the Nation that Iran offered, quote, “full and comprehensive verification
+      of its uranium reserves by the International Atomic Energy Agency”. This is the
+      second time the United States struck Iran during negotiations, and clearly, the
+      world is watching this and realizing the United States is not to be trusted. Professor,
+      what is your take on the events of these past 48 hours and the events leading
+      up to the attack? MICHAEL HUDSON: Well, I published a broad analysis on my own
+      website this morning, and it’s also on Counterpunch and on a number of other sites.
+      So you can look there for what I wrote as of last night at 5 in the evening New
+      York time. But so much more has happened, including the fact that the foreign
+      markets have opened today, and it’s not as extreme as I thought it could be. The
+      U.S. attack on Iran has such far-reaching worldwide economic and political consequences
+      that I think we can call it the official start of World War III. It’s a world
+      war because the results of this attack are going to affect the entire international
+      oil trade. And through the oil trade, the balance of payments of most countries,
+      including the global south countries, are going to have to decide with the oil
+      prices rising, and there’s only been like 10% rise so far. That’s really not very
+      much. I think that what you’re seeing is the start of closing the Strait of Hormuz,
+      which is going to cause the shortage to increase and intensify the longer the
+      closing goes on. And it looks like it’s going to be a long closing. It looks like
+      the war is going to last at least weeks, if not months. So you have Trump all
+      of a sudden saying to the world, “What did I do? Let’s have a ceasefire. Let’s
+      just stop.” Well, you can’t just stop and say, “Okay, we’re going to stop retaliating
+      against Israel and against the US troops.” Iran gave the whole world a very explicit
+      explanation of what it would do if it were attacked. And if it were attacked,
+      and especially in view of the fact of the bombing of Khomeini and the religious
+      leadership and the military leaders that were apparently at the meeting that was
+      bombed, that the only way of solving this problem and not letting it just recur
+      on a monthly or semi-annual basis is you have to get the U.S. control out of the
+      Middle East. And that’s going to take quite a while. So Iran has begun, as it
+      explained, by hitting the U.S. military bases throughout the Middle East, including
+      many of the neighboring Arab countries. I think eight Arab neighbors have found
+      their military bases in their countries have been bombed. And you had Kuwait pitifully
+      saying yesterday, “Well, why did you bomb us? We didn’t do anything to you.” And
+      Iran said, “well, of course you did!” You have the military bases where the American
+      bombers are taking off. Don’t you think that’s being a party that if a country
+      hosts a US military base, it’s a party to the American war against Iran? That’s
+      pretty obvious, and it’s going to take quite a while to drive the United States
+      out of these bases, and the only way this can be done is by convincing the United
+      States, the military, and the backers of the trump regime that this is a losing
+      war and that the cost of attacking Iran and maintaining the military bases in
+      the near east is going to be a financial crisis for the world economy. First and
+      foremost, the fact that because of the United States, no foreign country can trade
+      with any oil producer, such as Russia, Venezuela, Iran, that is not under a US
+      control. We in the US have based our foreign policy for the last century and especially
+      since 1953 when we overthrew the Iranian Mozadeh who’d wanted to take control
+      of Iran’s oil resources the center point of American foreign policy has been control
+      of the world oil trade as the choke point on the American economy and when Secretary
+      of State Marco Rubio gave a speech in Munich a month ago, he said, “this is a
+      fight for Western civilization’s control for the wonderful benefits that it has
+      brought to the world by civilizing the world that it’s colonized, civilizing the
+      world. Latin America, the global South, and Africa. This global control of the
+      West is now in the hands of the United States, and we will protect the Western
+      tradition of controlling the world as part of our civilization’s mission.” Well,
+      in other words, we’re declaring war on all other countries, and we’re going to
+      treat Europe and Asia and Russia and China just as we treated Peru and Latin America
+      in the 16th century and Africa in the 19th century. So the United States has declared
+      economic war against the rest of the world to try to maintain its control that
+      it no longer can exert through the institutions that it put up at the end of World
+      War II in 1945, when it was in a position to dictate the kind of U.S. based international
+      order based on the U.S. dollar and on U.S. veto power in the UN, the IMF, the
+      World Bank. I have an article that just appeared on the Democracy Collaborative
+      last Friday. It describes all of this in more detail. It’s basically the U.S.
+      saying we’re rejecting the whole principle of international law that’s been developed
+      for the last four centuries, since the Peace of Westphalia in 1648, all the way
+      through to the United Nations Charter. We are dictating the rules, and we are
+      rejecting any rules made by other countries. And you had a speech, I think, yesterday
+      or maybe this morning by Hegseth saying this is a war to kill people who don’t
+      agree to U.S. control. I mean, he did. I think it just came across on television.
+      But it’s a declaration of war against the world, and the attack on Iran essentially
+      says we’re continuing to control the oil trade, and we know that prices are going
+      to go up. Iran has done just what it said it was going to do close the Strait
+      of Hormuz but we want to make sure that our enemy, Russia, does not benefit from
+      this. We want to make sure that Iran does not benefit. So we’re going to continue
+      to insist that other countries don’t relieve the pressure of rising oil prices
+      by importing Russian oil or Venezuelan oil or oil from any country that we don’t
+      control. The increase in oil prices you’re going to see, I think, weekly worldwide,
+      is going to impose recessionary conditions on much of Europe’s industry and strain
+      the Global South’s balance of payments. All of this is conditional upon other
+      countries submitting to the sanctions that the U.S. says you must commit economic
+      suicide in order to maintain our control, because we’re the only people protecting
+      you from Iran and from the Russian attempt to destroy your economies. Well, this
+      new Cold War is the enabling fiction that shapes American foreign policy. So far,
+      the European leaders in Britain, Germany, and France have all gone along with
+      this fiction. Are other countries going to reject this policy that the United
+      States is implementing? If they do reject it, how are they going to do it? It
+      will require a whole restructuring of the institutional order that governs world
+      trade and international finance. It requires de-dollarization and breaking away
+      from countries that continue to let the United States control their trade policy.
+      LENA PETROVA: I just finished reading the recent article that you published this
+      morning. And of course, it’s absolutely excellent. It provides very, very valuable
+      insights. And I will link it for our viewers in the description below as well.
+      And in that article, you wrote something that really caught my attention. I’m
+      going to quote just a sentence here for our viewers. You wrote, quote, “A peaceful
+      resolution would have prevented the long-term US plan to consolidate and weaponize
+      its control over Middle Eastern oil, its transportation, and the investment of
+      its oil export revenues, and to use Israel and Al-Qaeda ISIS, as its client armies
+      to block independent oil-producing countries from acting in their own sovereign
+      interests.” There’s no question that understanding this is key to understanding
+      Trump’s war of choice on Iran. And from a broader perspective, from the US policy
+      perspective in the Middle East, understanding this also allows you to understand
+      the hybrid warfare that the United States has been waging on unaligned states
+      in terms of controlling resources, in terms of imposing economic sanctions that
+      do not allow them to trade freely, to access international settlement systems.
+      Professor, could you expand on this sentence from your article, please, and help
+      us understand how using client armies and using third actors enables the United
+      States to wage this economic warfare on other sovereign states? MICHAEL HUDSON:
+      Well, I’ll make the connection between the question you just asked and the sentence
+      that you just said. It looks like the U.S. plan to attack Iran was made when Netanyahu
+      visited the United States in late December, on New Year’s Eve. The U.S. decided
+      then, “All right, here’s the plan to take over Iran.” And the pretense was, “Well,
+      we need an excuse to go to war. What’s the excuse? Let’s have a negotiation, and
+      let’s follow the big lie of Trump, which is the same lie that Netanyahu’s been
+      saying for over 10 years, that Iran wants to have an atom bomb to blow things
+      up. Let’s have a negotiation, and we’ll make the U.S. demands on Iran so large
+      that, of course, Iran will say no, and we will say, “You see, Iran wants to have
+      an atom bomb and be a threat to the whole world.” Unlike Israel with its atom
+      bomb and America with its atom bombs and England with its atom bombs saying that
+      it may give them to Ukraine to use against Russia. It started the negotiations
+      in Oman as a pretense to sort of force Iran to say something intemperate that
+      the Trump administration could use to say, “Well, you see, we tried to avoid war,
+      and we couldn’t avoid it!” Imagine the urgency that America felt when it had the
+      Omani foreign minister come out and say just on Saturday that Iran really is giving
+      in to constraints that it’s never agreed to before, to absolutely prove that it
+      has no ability to acquire enough enriched uranium to build an atom bomb! It is
+      going to dispose of its stocks of enriched uranium and keep it in other countries.
+      It is given in to all of the U.S. demands that Iran cannot produce an atom bomb.
+      Well, this forced the United States to say, “Before this goes public, you know,
+      this is Saturday, we’ve got to stop this in the bud.” And immediately they decided
+      we’ve got to bomb now because the Iranian negotiators, after the meeting that
+      they had in Iran, in Oman, they’ve gone back to decide what is going to be our
+      official response to this, where we show the entire world that we are willing
+      to give absolute ironclad inspection and backing that we cannot have an atom bomb.
+      Before this could become made public, the United States had to take out the leadership,
+      to decapitate the Iranian leadership. This is one of the key elements in the American
+      playbook. You want to decapitate the leadership because without it, the country
+      has no policy at all. That’s why, last December, they tried to kill President
+      Putin by bombing his estate in Russia. They wanted to do to Putin at the end of
+      last year just what they did to Khomeini in Iran. Well, that didn’t work. That’s
+      the idea. So the United States had originally planned to go to war in the middle
+      of January, when they’d scheduled a whole uprising that the CIA and the National
+      Endowment for Democracy had organized by providing Starlink that would tell all
+      of the operatives that they’d put in place to have a Maidan-type demonstration
+      to show that the people want a regime change and let’s make it as violent as we
+      can and let the people overthrow the government and show how much they really
+      support the United States. Well, the Iranians were able to turn off the access
+      to Starling that they were using, and the whole US plan failed. And so they couldn’t
+      do in mid-January what they’d intended to do. So now they said, “All right, I
+      guess what we’re going to do is we’re going to bomb Iran. And if we bomb Iran,
+      that is going to have the effect of the other aim of U.S. policy and the assumption
+      of military strategy.” If you attack a country and bomb it and especially attack
+      its leadership, and especially if you attack civilians, the country will rally
+      around you and say, oh, we want a change in the regime we want a regime that indeed
+      will be a US puppet so that you won’t bomb the regime anymore because it’s your
+      regime that you’ve taken over. No country has done that! In World War II, when
+      Germany bombed London that didn’t lead London to say, “Well, we give up; we’d
+      better join; we’d better surrender.” It galvanized public opinion against Germany,
+      and just before that, when the allies had been bombing German cities, all the
+      way from Hamburg to Dresden, that mobilized German opposition, saying, okay, these
+      people are animals, we’ve got to fight against all of this. Well, the same thing
+      happened in Iran. The brilliant CIA said, “Well, a lot of the women are against
+      the Islamic rules against wearing special clothing in public. Let’s really get
+      the women on our side by asking what women care about. They care about their children.
+      Let’s bomb the girls’ schools. Let’s do what we did in Vietnam.” You focus on
+      bombing the schools. You do what Israel has done in Gaza. You bomb the schools.
+      You kill the children. And if you kill the children enough, the population is
+      going to give up and say, “All right, we want peace on your terms.” Obviously,
+      bombing the girls’ school in Iran did not have that effect, and it was crazy.
+      You wonder what kind of psychology would lead the Americans, the Europeans, the
+      Westerners to think that by hurting a country, you will make it want to submit
+      to you instead of fight back against what you’ve done. Obviously, that’s what
+      happened. The Iranian overwhelmingly supports the regime to fight back, and it
+      wants to prevent not only getting the United States bases out, but also the United
+      States, since for the last half century, it has sought to control the Middle East,
+      not with its own troops, but by getting a client army. And the first client army
+      it had was Israel as an enforcer over the Middle Eastern states. In the 1970s,
+      I was working with the Hudson Institute, and I was at one meeting at the airport
+      with Arad, who became the head of Mossad, and Netanyahu’s advisor, and we were
+      talking, and the American general walked up to Arad and said, “You’re our land
+      of aircraft carrier in Israel.” That’s how the Americans viewed Israel. Arad looked
+      very embarrassed at all of this, and obviously, Israel does not want to be just
+      the aircraft carrier land for the U.S. policy. It wants the U.S. to follow its
+      own policies. Well, the U.S. then got another army that it’s been using Iraq,
+      in Afghanistan, Syria –  Al-Qaeda. Al-Qaeda is part of America’s foreign legion
+      as a terrorist group, very much along the same lines as the Nazis in Ukraine are.
+      They’re motivated by ethnic and religious hatred, but also by financial gain and
+      the direct U.S. backing in Ukraine to attack Russian speakers, to attack the Shia
+      Islamic groups that are not the Wahhabi Sunni groups, to destroy regimes that
+      are not pro-US and pro-Israel. So the al-Qaeda, ISIS, and the Israeli armies have
+      worked together for the last decade. There’s never been any opposition of al-Qaeda
+      and ISIS to Israeli troops, only to Shia troops and troops that Israel and the
+      United States designate as enemies. So the Iranians have realized that they’re
+      fighting not only Israel, but they’re also fighting Saudi Arabia. And apparently,
+      over the last month, there have been rumors that Saudi Arabia has been urging
+      the United States, egging it on to attack Iran, saying, “You’re going to have
+      our full support.” So Iran is not feeling friendly towards the Sunni Arab states
+      that are hosting the US military bases. One of the aims that they have is to prevent
+      these countries from hosting the United States bases and from backing the terrorists
+      ISIS, the Wahhabi religion, based in Saudi Arabia, an evil jihadist religion of
+      killing everybody who doesn’t agree with their ideas. Now, that sounds so Christian.
+      What the West has done for so many years, that was the spirit of the Crusades.
+      That was the spirit of Rome’s fight against Eastern Orthodox Christianity in the
+      11th and 12th centuries; it goes back a long way. This has to be stopped. And
+      so you’re having not only a military war, but it has a religious war context,
+      it has a political context, it’s military. All of these dimensions are all linked
+      together in Iran’s idea that it cannot be independent. Well, apparently, the United
+      States over the weekend has just bombed one of Iran’s oil pipelines and the question
+      is, “Well, is Iran going to bomb the Saudi oil pipeline to prevent it from becoming
+      the great beneficiary of picking up the oil exports? 80 percent of Iran’s oil
+      exports were to China, and what’s China going to do now? Well, it’ll be up to
+      Saudi Arabia and the other Arab Middle Eastern states whether to sell to it or
+      not, and they’ll do, again, what the United States tells it to do, because Saudi
+      Arabia’s financial savings, the trillions of dollars that it’s accumulated since
+      1974, when the oil prices were doubled, Saudi Arabia and Kuwait and the oil countries
+      were told, “You can charge whatever you want for your oil, but you have to save
+      your profits and oil rents by investing in the United States’ treasury bonds.
+      You can buy corporate bonds, you can buy U.S. stocks, but you cannot control any
+      actual American companies; you can only buy financial securities.” And so these
+      securities are now very insecure, being held, giving the United States the power
+      over all the last half-century of accumulated savings by the oil-exporting countries,
+      that Europe had over Russia when it confiscated 300 billion of Russian financial
+      reserves in Belgium after Russia retaliated to protect the Russian-speaking Ukrainian
+      population in 2022. So, all of this is interconnected. The military actions and
+      the trade sanctions are the international means of maintaining foreign dependence
+      on U.S. oil, and all of this is backed militarily. And these military bases have
+      to be removed as part of the restructuring. And the question is whether other
+      countries are not interested in this? You’d think that the European oil consumers,
+      the BRICS countries, and the global cell countries are going to say, “Yes, it’s
+      in our interest to have our ability to buy oil wherever we want to.” The United
+      States is creating an artificial shortage to push up prices, bankrupting our economies.
+      LENA PETROVA: One of the keys to global energy supplies is, of course, the Strait
+      of Hormuz. And with 20 million barrels of oil passing through it on a daily basis,
+      this is truly the global energy choke point. And now it’s closed. And I’ve seen
+      reports that Yemeni Ansar Allah, or the Houthis, are blockading the Red Sea as
+      well. So global shipping insurance underwriters are now refusing to insure vessels
+      in the area, and it’s just turning into complete chaos. Crude oil prices are rising,
+      as you mentioned at the beginning of our conversation. How strong a hit is this
+      going to make on the global economy? This is something that appears to be on a
+      path to be a protracted conflict, as Iran is retaliating. MICHAEL HUDSON: Well,
+      you’ve got the big picture right. This is not chaos yet. I mean, a 10% rise in
+      oil. You’ve had, I think, a jump in gold prices. You’ve also had a strengthening
+      of the U.S. dollar exchange rate. There’s been a fight for safety. I was surprised
+      last week that there was so little change in the forward oil price. You’d think
+      that oil prices would have begun to go up as the chances of war increased and
+      the risks of war with Iran increased. People really expected that the US would
+      not be willing to cause chaos that would be so intense that it would drive other
+      countries to create an alternative to the US-based order. The chaos hasn’t begun
+      yet, as you were right to point out, the one week is sort of the limit. Can this
+      go for more than a week? Trump is saying, “Let’s have a ceasefire, open the Strait
+      of Hormuz, and everything will be nice. And then we can go back to our plan to
+      have a regime change and to have a revolution and really to carve up Iran into
+      five separate countries that we’ve designed for the last many decades. We want
+      to break up Iran just like we want to break up Russia and China so that it can
+      never have any power again. Let’s just have a ceasefire so we can go back to our
+      covert action of political assassination and imposing sanctions on you and everything
+      else.” This is… This is such a fantasy that you see how totally under control
+      the mainstream press, media, and television stations are not to discuss the things
+      that you and I are discussing today, that it’s so obvious that this is a fantasy.
+      But there’s nothing that the US can do to show that it is not a paper tiger, as
+      Mao called it way back in the 1950s or 60s. The US missiles and air defense systems
+      have shown they don’t work. The Navy cannot really protect itself. The Air Force
+      is unable to drop the big bombs through the B-2 bombers that it had thought of
+      doing, which it tried to do last June. It failed to really take out Iran’s nuclear
+      refinement sites. So the world will see after a week, and especially after a month,
+      that the oil prices will go up. And as oil prices go up, the companies that are
+      dependent on relatively low-priced oil are going to suffer and have to stop operations.
+      You’ll probably have more showdowns as Russia begins to protect its tankers from
+      attack by the U.S., which has been seizing Russian tankers by militarily responding
+      to either the aircraft or the ships that are trying to seize these tankers. So
+      you’re going to have the spread of military confrontation with countries resisting
+      American control, accelerating not only beyond Iran, but to Russia, and I would
+      assume China also. So this is basically what’s going to happen. You haven’t even
+      seen the chaos yet. And as the price goes up, for oil. As I said, the Global South
+      countries are going to face a choice: Are we going to continue to use our foreign
+      exchange now that we have to pay much more for oil? We have very little left.
+      Are we going to use what we have left to pay our bondholders, or are we going
+      to help save our economy by subsidizing, keeping our own industry and population
+      afloat, and our own energy going? Well, obviously something has to give. That’s
+      where the crisis comes. When countries have to decide whether to pay their dollar
+      debts and to pay the dollar bondholders and banks and the IMF, the interest that
+      is falling due in foreign exchange currency, like they have to pay dollars for
+      the oil, or are they going to say, we can’t both pay higher prices for oil and
+      pay our foreign debts. Something has to give. We’re declaring a moratorium that
+      indeed may turn into an outright cancellation if we together, hang together instead
+      of hanging separately by rejecting relations with the dollar area itself. LENA
+      PETROVA: Trump certainly wants to keep the United States dollar hegemony. And
+      it seems to me that flexing military muscle and aggressive offensive posturing
+      around the world, as well as unilateral military action, are his default tools
+      for achieving that goal. And I’m wondering, how would the United States dollar
+      behave in the context of this unleashed brutality and violation of international
+      law by the Trump administration? MICHAEL HUDSON: Well, that all depends on the
+      foreign response to this America’s war of choice. You could call it the fog of
+      the world economy or the world economic war. Now, we don’t know what the response
+      will be. Will other countries say this is a critical issue and it calls for the
+      new order to save ourselves from the US domination through the oil trade, through
+      the control of the dollarized financial system, we have to create a set of alternative
+      institutions. Now they have a critical mass that they’re able to do that by joining
+      with China, Russia, and Iran, which is their economic core, and they’ll have to
+      switch their orientation to create an institution that will be an alternative,
+      maybe to the United Nations as it is organized now, with U.S. veto power and control.
+      The UN. Secretary General Guterres said it’s going to go broke by August because
+      America has been refusing to pay the arrears for the UN. The UN may have to close
+      its New York headquarters. Well, what a perfect opportunity for the rest of the
+      world to create a UN headquarters somewhere out of the Western Hemisphere, out
+      of the US and Western Europe and, in the process, to change the rules of the UN.
+      If the US blocks those rules then we’ll have to rewrite the UN charter to get
+      rid of the US veto power, the Security Council that’s under the US. The idea is
+      to create a new economic order. This is what’s going to determine the exchange
+      rate of the dollar. Either there will be a foreign submission to the U.S. order
+      and surrender, in which case the dollar will continue to be very strong and the
+      U.S. will have an advantage in low-cost oil production of its own oil companies
+      domestically over other countries that are blocked from access to Russian and
+      Venezuelan and Iranian oil, or there will be a restructuring, a new international
+      economic order. That’s what it’s all about. LENA PETROVA: It seems that there’s
+      very little motivation for the countries of the Global South to keep the current
+      economic order because it’s devised to keep them subjugated, and it’s devised
+      to keep them in a position of a, if not junior partner, then something far worse
+      than that. How much motivation is there to keep sort of working with the United
+      States to keep the dollar hegemony in place instead of really focusing on regional
+      development and settlements and local currencies, even though, of course, there
+      has to be substantial investment in infrastructure, in technology to make that
+      happen? MICHAEL HUDSON: Well, it’s not only a question of motivation. The United
+      States has been moving al-Qaeda and Wahhabi terrorists all throughout Africa to
+      terrorize the African regimes that are not pro-European and pro-American regimes.
+      So you’re having the whole al-Qaeda terrorism that was in the Middle East before
+      now extended to Africa. And you’re having U.S. regime change and political meddling
+      throughout the entire Global South. So the question is, will the countries of
+      the Global South be in a position to resist the U.S. assassinations and terrorist
+      attacks? The world is confronting the U.S. and Europe as a terrorist world power.
+      That is the only power the United States has left, now that it has lost its industrial
+      and financial power. Only the terrorist power that it’s been using against Iran,
+      against the Palestinians, against the Russian-speaking Ukrainians, and other groups
+      that tend to resist US authority. So this entails a political crisis and revolution
+      throughout the entire world. That’s why I said that what is happening in Iran
+      now is the opening stage of World War III, and it’s going to last more than a
+      week. LENA PETROVA: Yes, it certainly looks to be much longer than maybe the United
+      States expected, because J.D. Vance said that prior wars in the Middle East, those
+      were all bad. But this one, this one is going to be short and sweet. And that’s
+      certainly a miscalculation at best. Now, the United States’ and Israel’s war of
+      aggression, because that’s really what it is, is likely going to weaken the global
+      economic order that is centered around Western institutions, as you just pointed
+      out. And two countries closely watching this crisis are China and Russia. And
+      I would expect them to adjust their foreign policy accordingly. Now it’s crystal
+      clear that the United States has transformed into a rogue state with no moral
+      standing. It just bombed an elementary all-girls school. So I think it’s safe
+      to say there’s very little moral standing left, if any. And it has no respect
+      for international law or human life. What message did Trump just send to global
+      leaders and especially to Russia? What message is Russian President Vladimir Putin
+      reading here that would guide his negotiations with the Trump administration on
+      Ukraine moving forward? MICHAEL HUDSON: If you say that the United States is a
+      rogue state, you have to say that the entire West is a rogue state because we
+      have Western Europe right on our side. We have Japan right on our side. Japan
+      wants to now have its own atomic weapons after the recent election by the Japanese
+      nationalists. So if we’re a rogue state, then you have to say Western civilization’s
+      been a rogue state, and we took a wrong turn. So this really throws down the gauntlet.
+      And the question is whether the extent to which Russia, China, and other countries
+      in its region, its main trading partners, are going to realize that this is not
+      a situation where there’s a middle position. You have to choose and either you
+      have to choose between maintaining the existing institutions which all are backing
+      the terrorist rogue state or you have to create a new international alliance such
+      as the world thought it had created after World War II to actually provide an
+      alternative to the laws of war that prevent attacks on civilians, that prevent
+      attacks on countries that have posed no military threat to the attacker. Iran
+      posed no military threat to the United States. Ukraine posed no military threat
+      to the United States. In Gaza, the Palestinians pose no economic threat to the
+      US, but they wanted to be independent, and any country wants its own sovereignty,
+      which is the basis of international law. Any country wanting its own sovereignty
+      is a threat to the US. It feels insecure if it cannot control the laws that every
+      other country follows in order to make sure that their laws benefit the United
+      States. As Donald Trump says, “Make America the winner and other countries the
+      loser.” So the US’ idea of national security is that other countries must give
+      up their own security, and because their security is a threat to the US’ control,
+      that’s what it means to be a rogue state and in fact a rogue civilization, because
+      this is a civilizational issue. Are other countries going to realize that this
+      is a civilizational fight? If they do not create an alternative in the backwash
+      of the instability that the Iran war is creating, then they’re lost. You could
+      look at it as the final battle of World War II in a way. There’s never been a
+      World War II treaty, for instance, a treaty creating peace with Japan, a post-war
+      treaty. It wants to dominate Asia, which World War II was all about. And for the
+      Americans and Europeans, they said, well, we want to create not really the democracy
+      that it was ostensibly about. We want to create a kind of terrorism, which actually
+      used to be called fascism. So the question is, are you going to have fascism or
+      what used to be called socialism? That’s really the choice. Are you going to have
+      dependence on the US unipolar order or a multipolar order of countries acting
+      in their own sovereign interests, able to trade and have financial relations in
+      their own interests for their own benefit, presumably to increase prosperity and
+      productivity instead of imposing austerity in their own economies to enable the
+      United States to continue to finance its military control of other countries to
+      the military bases that Iran is trying to destroy, at least in its local regional
+      territory? LENA PETROVA: Absolutely. I couldn’t agree more with you. And it’s
+      truly shocking and very, very tragic to see the United States claim that it’s
+      pro-peace, pro-democracy, while blockading Cuba, while supplying weapons to NATO
+      to then send to Ukraine, while funding Ukraine’s proxy war, while unleashing brutal
+      violence on the Iranian people. There’s still extreme violence in Gaza and of
+      course, in Africa, and we rarely discuss Africa, but so much is going on in Africa.
+      And I think that probably warrants a separate video, because that’s probably one
+      of the main battlegrounds between colonialism, as countries like Burkina Faso,
+      Mali, and Niger want to carve their own path toward sovereignty. Professor Hudson,
+      this was such a pleasure, and it’s always a pleasure to speak to you. And I would
+      love to continue this conversation. Please give Professor Hudson a follow on Patreon
+      and his website. It’s absolutely excellent; you will find a ton of really great
+      information there. Professor, thank you so much for joining us. I look forward
+      to having you on the program again. MICHAEL HUDSON: Thanks for having me, Lena,
+      and asking these most important questions. Photo by Hasan Almasi on Unsplash The
+      post Negotiations as Cover, War as Policy first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent episode of "World Affairs in Context," host Lena
+      Petrova discusses the shocking U.S.-Israel joint attack on Iran during negotiations
+      with renowned economist Professor Michael Hudson, highlighting the tragic implications
+      of the event.
+    paragraph_summary: In a recent episode of "World Affairs in Context," host Lena
+      Petrova interviewed economist Professor Michael Hudson, who discussed the recent
+      U.S.-Israel joint attack on Iran amidst ongoing negotiations. This attack, which
+      occurred shortly after Iran offered comprehensive verification of its uranium
+      reserves, has raised global concerns about the reliability of U.S. commitments.
+      Hudson, who has published an analysis of the situation on his website and other
+      platforms, emphasized the significant economic and political repercussions of
+      the attack, suggesting it marks a critical turning point in international relations.
+    published: '2026-03-04T22:58:19+00:00'
+  - title: Negotiations as Cover, War as Policy
+    url: https://michael-hudson.com/2026/03/negotiations-as-cover-war-as-policy/
+    text: 'March 3, 2026 LENA PETROVA: Welcome, everybody. Thank you so much for joining
+      us. I’m Lena Petrova with a new episode of World Affairs in Context. Today, I’m
+      honored to be joined by Professor Michael Hudson, a renowned economist, distinguished
+      research professor of economics, and author. By the way, I’m currently reading
+      one of Michael’s books titled “Superimperialism: The Economic Strategy of American
+      Empire”. The book is absolutely fascinating. I highly, highly recommend it. Please
+      follow Michael on Patreon and on his website, where he frequently posts new articles
+      and interviews. I will link both in the video description below. Professor Hudson,
+      welcome back to the program. It’s so great to see you again. MICHAEL HUDSON: It’s
+      good to be back, Lena. LENA PETROVA: The events of the past couple of days have
+      been absolutely tragic. The United States-Israel joint attack on Iran in the middle
+      of negotiations shocked the world, especially after the foreign minister of Oman,
+      who was the mediator of the United States-Iran negotiations, announced on CBS
+      Face the Nation that Iran offered, quote, “full and comprehensive verification
+      of its uranium reserves by the International Atomic Energy Agency”. This is the
+      second time the United States struck Iran during negotiations, and clearly, the
+      world is watching this and realizing the United States is not to be trusted. Professor,
+      what is your take on the events of these past 48 hours and the events leading
+      up to the attack? MICHAEL HUDSON: Well, I published a broad analysis on my own
+      website this morning, and it’s also on Counterpunch and on a number of other sites.
+      So you can look there for what I wrote as of last night at 5 in the evening New
+      York time. But so much more has happened, including the fact that the foreign
+      markets have opened today, and it’s not as extreme as I thought it could be. The
+      U.S. attack on Iran has such far-reaching worldwide economic and political consequences
+      that I think we can call it the official start of World War III. It’s a world
+      war because the results of this attack are going to affect the entire international
+      oil trade. And through the oil trade, the balance of payments of most countries,
+      including the global south countries, are going to have to decide with the oil
+      prices rising, and there’s only been like 10% rise so far. That’s really not very
+      much. I think that what you’re seeing is the start of closing the Strait of Hormuz,
+      which is going to cause the shortage to increase and intensify the longer the
+      closing goes on. And it looks like it’s going to be a long closing. It looks like
+      the war is going to last at least weeks, if not months. So you have Trump all
+      of a sudden saying to the world, “What did I do? Let’s have a ceasefire. Let’s
+      just stop.” Well, you can’t just stop and say, “Okay, we’re going to stop retaliating
+      against Israel and against the US troops.” Iran gave the whole world a very explicit
+      explanation of what it would do if it were attacked. And if it were attacked,
+      and especially in view of the fact of the bombing of Khomeini and the religious
+      leadership and the military leaders that were apparently at the meeting that was
+      bombed, that the only way of solving this problem and not letting it just recur
+      on a monthly or semi-annual basis is you have to get the U.S. control out of the
+      Middle East. And that’s going to take quite a while. So Iran has begun, as it
+      explained, by hitting the U.S. military bases throughout the Middle East, including
+      many of the neighboring Arab countries. I think eight Arab neighbors have found
+      their military bases in their countries have been bombed. And you had Kuwait pitifully
+      saying yesterday, “Well, why did you bomb us? We didn’t do anything to you.” And
+      Iran said, “well, of course you did!” You have the military bases where the American
+      bombers are taking off. Don’t you think that’s being a party that if a country
+      hosts a US military base, it’s a party to the American war against Iran? That’s
+      pretty obvious, and it’s going to take quite a while to drive the United States
+      out of these bases, and the only way this can be done is by convincing the United
+      States, the military, and the backers of the trump regime that this is a losing
+      war and that the cost of attacking Iran and maintaining the military bases in
+      the near east is going to be a financial crisis for the world economy. First and
+      foremost, the fact that because of the United States, no foreign country can trade
+      with any oil producer, such as Russia, Venezuela, Iran, that is not under a US
+      control. We in the US have based our foreign policy for the last century and especially
+      since 1953 when we overthrew the Iranian Mozadeh who’d wanted to take control
+      of Iran’s oil resources the center point of American foreign policy has been control
+      of the world oil trade as the choke point on the American economy and when Secretary
+      of State Marco Rubio gave a speech in Munich a month ago, he said, “this is a
+      fight for Western civilization’s control for the wonderful benefits that it has
+      brought to the world by civilizing the world that it’s colonized, civilizing the
+      world. Latin America, the global South, and Africa. This global control of the
+      West is now in the hands of the United States, and we will protect the Western
+      tradition of controlling the world as part of our civilization’s mission.” Well,
+      in other words, we’re declaring war on all other countries, and we’re going to
+      treat Europe and Asia and Russia and China just as we treated Peru and Latin America
+      in the 16th century and Africa in the 19th century. So the United States has declared
+      economic war against the rest of the world to try to maintain its control that
+      it no longer can exert through the institutions that it put up at the end of World
+      War II in 1945, when it was in a position to dictate the kind of U.S. based international
+      order based on the U.S. dollar and on U.S. veto power in the UN, the IMF, the
+      World Bank. I have an article that just appeared on the Democracy Collaborative
+      last Friday. It describes all of this in more detail. It’s basically the U.S.
+      saying we’re rejecting the whole principle of international law that’s been developed
+      for the last four centuries, since the Peace of Westphalia in 1648, all the way
+      through to the United Nations Charter. We are dictating the rules, and we are
+      rejecting any rules made by other countries. And you had a speech, I think, yesterday
+      or maybe this morning by Hegseth saying this is a war to kill people who don’t
+      agree to U.S. control. I mean, he did. I think it just came across on television.
+      But it’s a declaration of war against the world, and the attack on Iran essentially
+      says we’re continuing to control the oil trade, and we know that prices are going
+      to go up. Iran has done just what it said it was going to do close the Strait
+      of Hormuz but we want to make sure that our enemy, Russia, does not benefit from
+      this. We want to make sure that Iran does not benefit. So we’re going to continue
+      to insist that other countries don’t relieve the pressure of rising oil prices
+      by importing Russian oil or Venezuelan oil or oil from any country that we don’t
+      control. The increase in oil prices you’re going to see, I think, weekly worldwide,
+      is going to impose recessionary conditions on much of Europe’s industry and strain
+      the Global South’s balance of payments. All of this is conditional upon other
+      countries submitting to the sanctions that the U.S. says you must commit economic
+      suicide in order to maintain our control, because we’re the only people protecting
+      you from Iran and from the Russian attempt to destroy your economies. Well, this
+      new Cold War is the enabling fiction that shapes American foreign policy. So far,
+      the European leaders in Britain, Germany, and France have all gone along with
+      this fiction. Are other countries going to reject this policy that the United
+      States is implementing? If they do reject it, how are they going to do it? It
+      will require a whole restructuring of the institutional order that governs world
+      trade and international finance. It requires de-dollarization and breaking away
+      from countries that continue to let the United States control their trade policy.
+      LENA PETROVA: I just finished reading the recent article that you published this
+      morning. And of course, it’s absolutely excellent. It provides very, very valuable
+      insights. And I will link it for our viewers in the description below as well.
+      And in that article, you wrote something that really caught my attention. I’m
+      going to quote just a sentence here for our viewers. You wrote, quote, “A peaceful
+      resolution would have prevented the long-term US plan to consolidate and weaponize
+      its control over Middle Eastern oil, its transportation, and the investment of
+      its oil export revenues, and to use Israel and Al-Qaeda ISIS, as its client armies
+      to block independent oil-producing countries from acting in their own sovereign
+      interests.” There’s no question that understanding this is key to understanding
+      Trump’s war of choice on Iran. And from a broader perspective, from the US policy
+      perspective in the Middle East, understanding this also allows you to understand
+      the hybrid warfare that the United States has been waging on unaligned states
+      in terms of controlling resources, in terms of imposing economic sanctions that
+      do not allow them to trade freely, to access international settlement systems.
+      Professor, could you expand on this sentence from your article, please, and help
+      us understand how using client armies and using third actors enables the United
+      States to wage this economic warfare on other sovereign states? MICHAEL HUDSON:
+      Well, I’ll make the connection between the question you just asked and the sentence
+      that you just said. It looks like the U.S. plan to attack Iran was made when Netanyahu
+      visited the United States in late December, on New Year’s Eve. The U.S. decided
+      then, “All right, here’s the plan to take over Iran.” And the pretense was, “Well,
+      we need an excuse to go to war. What’s the excuse? Let’s have a negotiation, and
+      let’s follow the big lie of Trump, which is the same lie that Netanyahu’s been
+      saying for over 10 years, that Iran wants to have an atom bomb to blow things
+      up. Let’s have a negotiation, and we’ll make the U.S. demands on Iran so large
+      that, of course, Iran will say no, and we will say, “You see, Iran wants to have
+      an atom bomb and be a threat to the whole world.” Unlike Israel with its atom
+      bomb and America with its atom bombs and England with its atom bombs saying that
+      it may give them to Ukraine to use against Russia. It started the negotiations
+      in Oman as a pretense to sort of force Iran to say something intemperate that
+      the Trump administration could use to say, “Well, you see, we tried to avoid war,
+      and we couldn’t avoid it!” Imagine the urgency that America felt when it had the
+      Omani foreign minister come out and say just on Saturday that Iran really is giving
+      in to constraints that it’s never agreed to before, to absolutely prove that it
+      has no ability to acquire enough enriched uranium to build an atom bomb! It is
+      going to dispose of its stocks of enriched uranium and keep it in other countries.
+      It is given in to all of the U.S. demands that Iran cannot produce an atom bomb.
+      Well, this forced the United States to say, “Before this goes public, you know,
+      this is Saturday, we’ve got to stop this in the bud.” And immediately they decided
+      we’ve got to bomb now because the Iranian negotiators, after the meeting that
+      they had in Iran, in Oman, they’ve gone back to decide what is going to be our
+      official response to this, where we show the entire world that we are willing
+      to give absolute ironclad inspection and backing that we cannot have an atom bomb.
+      Before this could become made public, the United States had to take out the leadership,
+      to decapitate the Iranian leadership. This is one of the key elements in the American
+      playbook. You want to decapitate the leadership because without it, the country
+      has no policy at all. That’s why, last December, they tried to kill President
+      Putin by bombing his estate in Russia. They wanted to do to Putin at the end of
+      last year just what they did to Khomeini in Iran. Well, that didn’t work. That’s
+      the idea. So the United States had originally planned to go to war in the middle
+      of January, when they’d scheduled a whole uprising that the CIA and the National
+      Endowment for Democracy had organized by providing Starlink that would tell all
+      of the operatives that they’d put in place to have a Maidan-type demonstration
+      to show that the people want a regime change and let’s make it as violent as we
+      can and let the people overthrow the government and show how much they really
+      support the United States. Well, the Iranians were able to turn off the access
+      to Starling that they were using, and the whole US plan failed. And so they couldn’t
+      do in mid-January what they’d intended to do. So now they said, “All right, I
+      guess what we’re going to do is we’re going to bomb Iran. And if we bomb Iran,
+      that is going to have the effect of the other aim of U.S. policy and the assumption
+      of military strategy.” If you attack a country and bomb it and especially attack
+      its leadership, and especially if you attack civilians, the country will rally
+      around you and say, oh, we want a change in the regime we want a regime that indeed
+      will be a US puppet so that you won’t bomb the regime anymore because it’s your
+      regime that you’ve taken over. No country has done that! In World War II, when
+      Germany bombed London that didn’t lead London to say, “Well, we give up; we’d
+      better join; we’d better surrender.” It galvanized public opinion against Germany,
+      and just before that, when the allies had been bombing German cities, all the
+      way from Hamburg to Dresden, that mobilized German opposition, saying, okay, these
+      people are animals, we’ve got to fight against all of this. Well, the same thing
+      happened in Iran. The brilliant CIA said, “Well, a lot of the women are against
+      the Islamic rules against wearing special clothing in public. Let’s really get
+      the women on our side by asking what women care about. They care about their children.
+      Let’s bomb the girls’ schools. Let’s do what we did in Vietnam.” You focus on
+      bombing the schools. You do what Israel has done in Gaza. You bomb the schools.
+      You kill the children. And if you kill the children enough, the population is
+      going to give up and say, “All right, we want peace on your terms.” Obviously,
+      bombing the girls’ school in Iran did not have that effect, and it was crazy.
+      You wonder what kind of psychology would lead the Americans, the Europeans, the
+      Westerners to think that by hurting a country, you will make it want to submit
+      to you instead of fight back against what you’ve done. Obviously, that’s what
+      happened. The Iranian overwhelmingly supports the regime to fight back, and it
+      wants to prevent not only getting the United States bases out, but also the United
+      States, since for the last half century, it has sought to control the Middle East,
+      not with its own troops, but by getting a client army. And the first client army
+      it had was Israel as an enforcer over the Middle Eastern states. In the 1970s,
+      I was working with the Hudson Institute, and I was at one meeting at the airport
+      with Arad, who became the head of Mossad, and Netanyahu’s advisor, and we were
+      talking, and the American general walked up to Arad and said, “You’re our land
+      of aircraft carrier in Israel.” That’s how the Americans viewed Israel. Arad looked
+      very embarrassed at all of this, and obviously, Israel does not want to be just
+      the aircraft carrier land for the U.S. policy. It wants the U.S. to follow its
+      own policies. Well, the U.S. then got another army that it’s been using Iraq,
+      in Afghanistan, Syria –  Al-Qaeda. Al-Qaeda is part of America’s foreign legion
+      as a terrorist group, very much along the same lines as the Nazis in Ukraine are.
+      They’re motivated by ethnic and religious hatred, but also by financial gain and
+      the direct U.S. backing in Ukraine to attack Russian speakers, to attack the Shia
+      Islamic groups that are not the Wahhabi Sunni groups, to destroy regimes that
+      are not pro-US and pro-Israel. So the al-Qaeda, ISIS, and the Israeli armies have
+      worked together for the last decade. There’s never been any opposition of al-Qaeda
+      and ISIS to Israeli troops, only to Shia troops and troops that Israel and the
+      United States designate as enemies. So the Iranians have realized that they’re
+      fighting not only Israel, but they’re also fighting Saudi Arabia. And apparently,
+      over the last month, there have been rumors that Saudi Arabia has been urging
+      the United States, egging it on to attack Iran, saying, “You’re going to have
+      our full support.” So Iran is not feeling friendly towards the Sunni Arab states
+      that are hosting the US military bases. One of the aims that they have is to prevent
+      these countries from hosting the United States bases and from backing the terrorists
+      ISIS, the Wahhabi religion, based in Saudi Arabia, an evil jihadist religion of
+      killing everybody who doesn’t agree with their ideas. Now, that sounds so Christian.
+      What the West has done for so many years, that was the spirit of the Crusades.
+      That was the spirit of Rome’s fight against Eastern Orthodox Christianity in the
+      11th and 12th centuries; it goes back a long way. This has to be stopped. And
+      so you’re having not only a military war, but it has a religious war context,
+      it has a political context, it’s military. All of these dimensions are all linked
+      together in Iran’s idea that it cannot be independent. Well, apparently, the United
+      States over the weekend has just bombed one of Iran’s oil pipelines and the question
+      is, “Well, is Iran going to bomb the Saudi oil pipeline to prevent it from becoming
+      the great beneficiary of picking up the oil exports? 80 percent of Iran’s oil
+      exports were to China, and what’s China going to do now? Well, it’ll be up to
+      Saudi Arabia and the other Arab Middle Eastern states whether to sell to it or
+      not, and they’ll do, again, what the United States tells it to do, because Saudi
+      Arabia’s financial savings, the trillions of dollars that it’s accumulated since
+      1974, when the oil prices were doubled, Saudi Arabia and Kuwait and the oil countries
+      were told, “You can charge whatever you want for your oil, but you have to save
+      your profits and oil rents by investing in the United States’ treasury bonds.
+      You can buy corporate bonds, you can buy U.S. stocks, but you cannot control any
+      actual American companies; you can only buy financial securities.” And so these
+      securities are now very insecure, being held, giving the United States the power
+      over all the last half-century of accumulated savings by the oil-exporting countries,
+      that Europe had over Russia when it confiscated 300 billion of Russian financial
+      reserves in Belgium after Russia retaliated to protect the Russian-speaking Ukrainian
+      population in 2022. So, all of this is interconnected. The military actions and
+      the trade sanctions are the international means of maintaining foreign dependence
+      on U.S. oil, and all of this is backed militarily. And these military bases have
+      to be removed as part of the restructuring. And the question is whether other
+      countries are not interested in this? You’d think that the European oil consumers,
+      the BRICS countries, and the global cell countries are going to say, “Yes, it’s
+      in our interest to have our ability to buy oil wherever we want to.” The United
+      States is creating an artificial shortage to push up prices, bankrupting our economies.
+      LENA PETROVA: One of the keys to global energy supplies is, of course, the Strait
+      of Hormuz. And with 20 million barrels of oil passing through it on a daily basis,
+      this is truly the global energy choke point. And now it’s closed. And I’ve seen
+      reports that Yemeni Ansar Allah, or the Houthis, are blockading the Red Sea as
+      well. So global shipping insurance underwriters are now refusing to insure vessels
+      in the area, and it’s just turning into complete chaos. Crude oil prices are rising,
+      as you mentioned at the beginning of our conversation. How strong a hit is this
+      going to make on the global economy? This is something that appears to be on a
+      path to be a protracted conflict, as Iran is retaliating. MICHAEL HUDSON: Well,
+      you’ve got the big picture right. This is not chaos yet. I mean, a 10% rise in
+      oil. You’ve had, I think, a jump in gold prices. You’ve also had a strengthening
+      of the U.S. dollar exchange rate. There’s been a fight for safety. I was surprised
+      last week that there was so little change in the forward oil price. You’d think
+      that oil prices would have begun to go up as the chances of war increased and
+      the risks of war with Iran increased. People really expected that the US would
+      not be willing to cause chaos that would be so intense that it would drive other
+      countries to create an alternative to the US-based order. The chaos hasn’t begun
+      yet, as you were right to point out, the one week is sort of the limit. Can this
+      go for more than a week? Trump is saying, “Let’s have a ceasefire, open the Strait
+      of Hormuz, and everything will be nice. And then we can go back to our plan to
+      have a regime change and to have a revolution and really to carve up Iran into
+      five separate countries that we’ve designed for the last many decades. We want
+      to break up Iran just like we want to break up Russia and China so that it can
+      never have any power again. Let’s just have a ceasefire so we can go back to our
+      covert action of political assassination and imposing sanctions on you and everything
+      else.” This is… This is such a fantasy that you see how totally under control
+      the mainstream press, media, and television stations are not to discuss the things
+      that you and I are discussing today, that it’s so obvious that this is a fantasy.
+      But there’s nothing that the US can do to show that it is not a paper tiger, as
+      Mao called it way back in the 1950s or 60s. The US missiles and air defense systems
+      have shown they don’t work. The Navy cannot really protect itself. The Air Force
+      is unable to drop the big bombs through the B-2 bombers that it had thought of
+      doing, which it tried to do last June. It failed to really take out Iran’s nuclear
+      refinement sites. So the world will see after a week, and especially after a month,
+      that the oil prices will go up. And as oil prices go up, the companies that are
+      dependent on relatively low-priced oil are going to suffer and have to stop operations.
+      You’ll probably have more showdowns as Russia begins to protect its tankers from
+      attack by the U.S., which has been seizing Russian tankers by militarily responding
+      to either the aircraft or the ships that are trying to seize these tankers. So
+      you’re going to have the spread of military confrontation with countries resisting
+      American control, accelerating not only beyond Iran, but to Russia, and I would
+      assume China also. So this is basically what’s going to happen. You haven’t even
+      seen the chaos yet. And as the price goes up, for oil. As I said, the Global South
+      countries are going to face a choice: Are we going to continue to use our foreign
+      exchange now that we have to pay much more for oil? We have very little left.
+      Are we going to use what we have left to pay our bondholders, or are we going
+      to help save our economy by subsidizing, keeping our own industry and population
+      afloat, and our own energy going? Well, obviously something has to give. That’s
+      where the crisis comes. When countries have to decide whether to pay their dollar
+      debts and to pay the dollar bondholders and banks and the IMF, the interest that
+      is falling due in foreign exchange currency, like they have to pay dollars for
+      the oil, or are they going to say, we can’t both pay higher prices for oil and
+      pay our foreign debts. Something has to give. We’re declaring a moratorium that
+      indeed may turn into an outright cancellation if we together, hang together instead
+      of hanging separately by rejecting relations with the dollar area itself. LENA
+      PETROVA: Trump certainly wants to keep the United States dollar hegemony. And
+      it seems to me that flexing military muscle and aggressive offensive posturing
+      around the world, as well as unilateral military action, are his default tools
+      for achieving that goal. And I’m wondering, how would the United States dollar
+      behave in the context of this unleashed brutality and violation of international
+      law by the Trump administration? MICHAEL HUDSON: Well, that all depends on the
+      foreign response to this America’s war of choice. You could call it the fog of
+      the world economy or the world economic war. Now, we don’t know what the response
+      will be. Will other countries say this is a critical issue and it calls for the
+      new order to save ourselves from the US domination through the oil trade, through
+      the control of the dollarized financial system, we have to create a set of alternative
+      institutions. Now they have a critical mass that they’re able to do that by joining
+      with China, Russia, and Iran, which is their economic core, and they’ll have to
+      switch their orientation to create an institution that will be an alternative,
+      maybe to the United Nations as it is organized now, with U.S. veto power and control.
+      The UN. Secretary General Guterres said it’s going to go broke by August because
+      America has been refusing to pay the arrears for the UN. The UN may have to close
+      its New York headquarters. Well, what a perfect opportunity for the rest of the
+      world to create a UN headquarters somewhere out of the Western Hemisphere, out
+      of the US and Western Europe and, in the process, to change the rules of the UN.
+      If the US blocks those rules then we’ll have to rewrite the UN charter to get
+      rid of the US veto power, the Security Council that’s under the US. The idea is
+      to create a new economic order. This is what’s going to determine the exchange
+      rate of the dollar. Either there will be a foreign submission to the U.S. order
+      and surrender, in which case the dollar will continue to be very strong and the
+      U.S. will have an advantage in low-cost oil production of its own oil companies
+      domestically over other countries that are blocked from access to Russian and
+      Venezuelan and Iranian oil, or there will be a restructuring, a new international
+      economic order. That’s what it’s all about. LENA PETROVA: It seems that there’s
+      very little motivation for the countries of the Global South to keep the current
+      economic order because it’s devised to keep them subjugated, and it’s devised
+      to keep them in a position of a, if not junior partner, then something far worse
+      than that. How much motivation is there to keep sort of working with the United
+      States to keep the dollar hegemony in place instead of really focusing on regional
+      development and settlements and local currencies, even though, of course, there
+      has to be substantial investment in infrastructure, in technology to make that
+      happen? MICHAEL HUDSON: Well, it’s not only a question of motivation. The United
+      States has been moving al-Qaeda and Wahhabi terrorists all throughout Africa to
+      terrorize the African regimes that are not pro-European and pro-American regimes.
+      So you’re having the whole al-Qaeda terrorism that was in the Middle East before
+      now extended to Africa. And you’re having U.S. regime change and political meddling
+      throughout the entire Global South. So the question is, will the countries of
+      the Global South be in a position to resist the U.S. assassinations and terrorist
+      attacks? The world is confronting the U.S. and Europe as a terrorist world power.
+      That is the only power the United States has left, now that it has lost its industrial
+      and financial power. Only the terrorist power that it’s been using against Iran,
+      against the Palestinians, against the Russian-speaking Ukrainians, and other groups
+      that tend to resist US authority. So this entails a political crisis and revolution
+      throughout the entire world. That’s why I said that what is happening in Iran
+      now is the opening stage of World War III, and it’s going to last more than a
+      week. LENA PETROVA: Yes, it certainly looks to be much longer than maybe the United
+      States expected, because J.D. Vance said that prior wars in the Middle East, those
+      were all bad. But this one, this one is going to be short and sweet. And that’s
+      certainly a miscalculation at best. Now, the United States’ and Israel’s war of
+      aggression, because that’s really what it is, is likely going to weaken the global
+      economic order that is centered around Western institutions, as you just pointed
+      out. And two countries closely watching this crisis are China and Russia. And
+      I would expect them to adjust their foreign policy accordingly. Now it’s crystal
+      clear that the United States has transformed into a rogue state with no moral
+      standing. It just bombed an elementary all-girls school. So I think it’s safe
+      to say there’s very little moral standing left, if any. And it has no respect
+      for international law or human life. What message did Trump just send to global
+      leaders and especially to Russia? What message is Russian President Vladimir Putin
+      reading here that would guide his negotiations with the Trump administration on
+      Ukraine moving forward? MICHAEL HUDSON: If you say that the United States is a
+      rogue state, you have to say that the entire West is a rogue state because we
+      have Western Europe right on our side. We have Japan right on our side. Japan
+      wants to now have its own atomic weapons after the recent election by the Japanese
+      nationalists. So if we’re a rogue state, then you have to say Western civilization’s
+      been a rogue state, and we took a wrong turn. So this really throws down the gauntlet.
+      And the question is whether the extent to which Russia, China, and other countries
+      in its region, its main trading partners, are going to realize that this is not
+      a situation where there’s a middle position. You have to choose and either you
+      have to choose between maintaining the existing institutions which all are backing
+      the terrorist rogue state or you have to create a new international alliance such
+      as the world thought it had created after World War II to actually provide an
+      alternative to the laws of war that prevent attacks on civilians, that prevent
+      attacks on countries that have posed no military threat to the attacker. Iran
+      posed no military threat to the United States. Ukraine posed no military threat
+      to the United States. In Gaza, the Palestinians pose no economic threat to the
+      US, but they wanted to be independent, and any country wants its own sovereignty,
+      which is the basis of international law. Any country wanting its own sovereignty
+      is a threat to the US. It feels insecure if it cannot control the laws that every
+      other country follows in order to make sure that their laws benefit the United
+      States. As Donald Trump says, “Make America the winner and other countries the
+      loser.” So the US’ idea of national security is that other countries must give
+      up their own security, and because their security is a threat to the US’ control,
+      that’s what it means to be a rogue state and in fact a rogue civilization, because
+      this is a civilizational issue. Are other countries going to realize that this
+      is a civilizational fight? If they do not create an alternative in the backwash
+      of the instability that the Iran war is creating, then they’re lost. You could
+      look at it as the final battle of World War II in a way. There’s never been a
+      World War II treaty, for instance, a treaty creating peace with Japan, a post-war
+      treaty. It wants to dominate Asia, which World War II was all about. And for the
+      Americans and Europeans, they said, well, we want to create not really the democracy
+      that it was ostensibly about. We want to create a kind of terrorism, which actually
+      used to be called fascism. So the question is, are you going to have fascism or
+      what used to be called socialism? That’s really the choice. Are you going to have
+      dependence on the US unipolar order or a multipolar order of countries acting
+      in their own sovereign interests, able to trade and have financial relations in
+      their own interests for their own benefit, presumably to increase prosperity and
+      productivity instead of imposing austerity in their own economies to enable the
+      United States to continue to finance its military control of other countries to
+      the military bases that Iran is trying to destroy, at least in its local regional
+      territory? LENA PETROVA: Absolutely. I couldn’t agree more with you. And it’s
+      truly shocking and very, very tragic to see the United States claim that it’s
+      pro-peace, pro-democracy, while blockading Cuba, while supplying weapons to NATO
+      to then send to Ukraine, while funding Ukraine’s proxy war, while unleashing brutal
+      violence on the Iranian people. There’s still extreme violence in Gaza and of
+      course, in Africa, and we rarely discuss Africa, but so much is going on in Africa.
+      And I think that probably warrants a separate video, because that’s probably one
+      of the main battlegrounds between colonialism, as countries like Burkina Faso,
+      Mali, and Niger want to carve their own path toward sovereignty. Professor Hudson,
+      this was such a pleasure, and it’s always a pleasure to speak to you. And I would
+      love to continue this conversation. Please give Professor Hudson a follow on Patreon
+      and his website. It’s absolutely excellent; you will find a ton of really great
+      information there. Professor, thank you so much for joining us. I look forward
+      to having you on the program again. MICHAEL HUDSON: Thanks for having me, Lena,
+      and asking these most important questions. Photo by Hasan Almasi on Unsplash The
+      post Negotiations as Cover, War as Policy first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent episode of "World Affairs in Context," host Lena
+      Petrova discusses the shocking U.S.-Israel joint attack on Iran during negotiations
+      with renowned economist Professor Michael Hudson, highlighting the tragic implications
+      of the event.
+    paragraph_summary: In a recent episode of "World Affairs in Context," host Lena
+      Petrova interviewed economist Professor Michael Hudson, who discussed the recent
+      U.S.-Israel joint attack on Iran amidst ongoing negotiations. This attack, which
+      occurred shortly after Iran offered comprehensive verification of its uranium
+      reserves, has raised global concerns about the reliability of U.S. commitments.
+      Hudson, who has published an analysis of the situation on his website and other
+      platforms, emphasized the significant economic and political repercussions of
+      the attack, suggesting it marks a critical turning point in international relations.
+    published: '2026-03-04T22:58:19+00:00'
+  - title: Tariff Theatre Meets Imperial Reality
+    url: https://michael-hudson.com/2026/03/tariff-theatre-meets-imperial-reality/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 26, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣RICHARD WOLFF: Thank you. Glad to be here. ⁣NIMA ALKHORSHID:
+      Please hit the like button and smash the like button, helping us reach more people.
+      And follow Richard on his website, democracy at work.info. And his YouTube channel
+      is the same name, Democracy at Work. And you can follow Michael Hudson on his
+      website and michael-hudson.com. Is that correct, Michael? ⁣MICHAEL HUDSON: It’s
+      okay. I’m told that dash and hyphen are all the same as far as the computers are
+      concerned. ⁣NIMA ALKHORSHID: Exactly. Yeah, that’s why every time I say that.
+      Michael, let me start with you and with what has happened in the Trump speech
+      at this state, you know, in his speech, State of Union speech of Donald Trump.
+      He mentioned a little bit about the foreign policy of the United States when it
+      came to the war in Ukraine. He spent something like 10-15 seconds, not more than
+      that. With the case of Iran, it’s a little bit more than a minute. But all he
+      was talking about, let’s focus because today, every you look at the news today,
+      it’s all about the war negotiations between Iran and the United States. The war
+      is coming and all of this sort of madness that is happening. What is your understanding?
+      Because we’ve learned that more than 70% of the people in the United States in
+      various polls show that they don’t want a new war. And how is that going to influence?
+      We know that if something happens, that would drastically influence the price
+      of oil as well. What is your understanding of that, of the policies in the Middle
+      East, in the West Asia? ⁣MICHAEL HUDSON: Well, of course, people don’t want war
+      with Iran. One of the first things Iran would do would be to close the port of
+      the Strait of Hormuz, and oil prices would go up. And I want to talk about how
+      Trump got into this. Even before he began to speak, there was 10 minutes and he
+      walked into Congress at the very front. There were the Supreme Court justices,
+      and he walked by. He didn’t shake the hand of the Catholic justice that he had
+      appointed. He was so angry at her because of the tariffs. So, right away, that
+      way he showed symbolically, you know, what was happening. He said he loved tariffs.
+      And I sort of hate to talk about what he said at the State of the Union speech
+      because he didn’t say anything. If I try to make sense of it, it’s like talking
+      about a swamp. And you try to say, how do you make sense of what’s happening in
+      this mass of pre-association? So I want to talk about what the aftermath is, because
+      that’s what they’re talking about today. In the Wall Street Journal, for instance,
+      the big news is about the Supreme Court ruling on the tariffs. And before the
+      Supreme Court ruling, there was an expectation by many people that, of course,
+      Trump’s tariffs were illegal. This is why he spent so much time in a speech saying,
+      I love tariffs. They’re wonderful because they’re really not, as we’ve discussed
+      before. And people expected the Supreme Court would turn it down. And in that
+      case, the importers get to bring a lawsuit to get refunds for all of the tariffs.
+      Well, now the price that speculative investors are buying these lawsuit cases
+      for refunds has gone up, doubled from 20% of the original amount that they paid
+      to 40%. And companies are willing to sell it because if you’re a small importer
+      and you paid these fees, it’s enormously expensive to hire a lawyer and have a
+      trial and try to wait out and force all of this. And the hedge funds are willing
+      to pay the loss of the legal costs of companies that file in order to get everything
+      that they get over 40%. Well, legally, the only people who can get refunds for
+      these tariffs are the importers that actually paid them. Well, this means that
+      it’s a bonanza for all of these companies, because, as we’ve discussed before,
+      94% of the tariffs were just passed on to customers. That what Trump said was
+      foreigners are going to pay; that was all wrong. It’s the American consumers that
+      have paid, not the importing companies, though. So there’s sort of something that
+      seems unfair to a lot of people here. The companies are going to get reimbursed
+      for tariff payments that they simply passed on to customers. So they’re going
+      to be getting a free lunch for all this. So, of course, they’re willing to sell
+      it. A free lunch is better than nothing. And now you have a number of the Democrats
+      sort of grandstanding and making a proposal that the, for instance, Gavin Newsom
+      of California and Pritzker of Illinois, they’re both presidential candidates for
+      2028. They’ve demanded checks for the families that have actually had to pay the
+      higher prices that were all put just added on. Well, there’s no way that you can
+      tell which families actually paid for higher prices for all of the individual
+      things. It becomes a statistical morass and it’s almost impossible for any of
+      these families to collect. But I think the Democrats are trying to pretend that
+      look at how unfair it is. This is huge: the way the law is written, it’s a huge
+      giveaway to the importers to give them reimbursement for a cost that they never
+      had to bear, and it stuck the American people. Well, Trump made a big speech,
+      a part of which was statistical nonsense about how he’s brought down prices for
+      the population. And he cited the consumer price index. And it’s very interesting.
+      He also pointed out that the single major price decline was in the price of oil.
+      And that’s when he said, drill baby drill. He said, I’ve thrown all my support
+      between the oil companies and the drillers and your gasoline prices have come
+      down. He quoted all the prices. All that’s true. But the gas prices and electricity
+      prices that have gone way up, and have played such a large role in the consumer
+      price index that people who are listening to the speech know that they’ve been
+      paying more at the grocery stores. They’ve been paying a lot more for health care
+      premiums that have almost doubled. And it’s surprising to me that Trump didn’t
+      point out the one great price decline that he actually succeeded in. A year ago,
+      when he came to office, he offered his supporters the Trump watch for $100,000.
+      And he said, you know, this is a real fancy thing. It’s going to be a historical
+      record. If you have a Trump watch, you’ll be part of history. People bought it
+      for 100,000; suckers bought it for $100,000. The price now is only $5,000. There
+      are no more suckers. Well, that’s a 95% price decline. And he didn’t even cite
+      that in his State of the Union speech. So, basically, he just sort of wandered,
+      I think, over 45 minutes with just calling on various people who’d been injured
+      by illegal immigrants attacking them. It was military people, Olympic hockey players,
+      nothing at all about his policy. So it’s very hard for me to say anything about
+      the policy. And equally vacuous was the Democratic Party response by the CIA governor-elect
+      Spanberger, who is a member of the right-wing Democratic Business Council and
+      other right-wing congresses within the Democratic Party. She didn’t really say
+      anything at all in favor of the people, just a lot of rhetoric. So this was probably
+      the most vacuous State of the Union that there is. And I really can’t talk about
+      many of his other statements. You did say that he mentioned Iran. And, of course,
+      he can’t say very much about it because there are still negotiations going on.
+      And we’ll know by New York time, 1 p.m. today [February 26, 2026] is when the
+      meeting between the American negotiators, including Grossi, and the Iranians,
+      is taking place. And the rumor is that Iran has tried to offer Trump an opportunity
+      for American oil companies to come into Iran and be hired for some proportion
+      of the oil wells they develop. I’m not sure how this can really develop into something
+      because I don’t think anyone really trusts that oil or any other American foreign
+      investment is going to be politically neutral. But at any rate, it’s obvious that
+      Trump couldn’t really say anything about that. He couldn’t promise peace, and
+      he didn’t really want to threaten war. So it was maybe you or Richard can make
+      something out of this, but I think I said everything that I can. ⁣NIMA ALKHORSHID:
+      Yeah, Richard. ⁣RICHARD WOLFF: Yeah, again, just to add, I don’t know whether
+      it was in today’s Reuters or Wall Street Journal, I don’t remember. I look at
+      too many of these things in the morning. But there’s a long story about it, begins,
+      there’s a statistical discrepancy in Chinese statistics between one set of statistics
+      about their exports to the United States. And remember, China is a major global
+      exporter to the United States, and another one. And then the article explains
+      what the difference is. And the difference only magnifies the chaos and the cacophony
+      of the tariff proposals. I want to underscore that it was political theater. That’s
+      why Mr. Trump is in love with it. It lends itself to his portraying himself as
+      the big tough guy. He doesn’t have to negotiate with Congress about these tariffs.
+      He doesn’t have to negotiate with other countries. He can threaten them. And if
+      they don’t come across with a tribute payment, promising to buy American this
+      or that, or as Michael just said, letting American companies invest, or literally
+      paying tribute, as von der Leyen agreed to do on behalf of Europe and so forth.
+      He loves the role it allows him to play. But as a policy, it is incoherent, it
+      is cuckoo, and it is nonsense. And the Supreme Court has now had to say that if
+      you take seriously the history of the Republican Party as the party against taxes,
+      which has given the Republican Party its survival over the last hundred years,
+      against every tax, it’s in favor of reducing or eliminating it. That’s its position.
+      And it appeals, above all, to the employer class of the United States, which doesn’t
+      want to pay taxes as a business and doesn’t want to pay taxes as a wealthy individual.
+      And so the tax cuts are for that. And Mr. Trump understands that. His first priority
+      in his first presidency was the tax cut of December 2017. And his first priority
+      in his second presidency was the big beautiful tax that was passed in April of
+      last year. So we know what his top priorities are. He has to do that to hold the
+      base of the Republican Party financially, ideologically, and historically. But
+      then you have a problem, you idiot, kind of looking at him in the face. If your
+      program is to cut the American budget deficit by a tariff, well, that’s a tax.
+      So you are now the great Republican who is taxing. And even though you would say
+      to the business community, I gave you a big tax cut in April, don’t complain to
+      me when I give you a tax cut and a tax increase with the tariff. I’ve already
+      offset that with the tax cut I gave you before. But we have a capitalist class
+      that is way too greedy to be satisfied with. They don’t want tax. They want the
+      tax cut, big and beautiful, and they don’t want a tariff. So he’s got a problem.
+      He doesn’t know how to handle it. The Supreme Court helps him and hurts him all
+      at the same time. But here’s the story in the Wall Street Journal that adds: the
+      discrepancy in the Chinese statistics is because an enormous, I’m talking three
+      fourths of the goods and services shipped by China to the United States escaped
+      the tariffs. They got around the tariff. And they’re showing up the goods all
+      over the United States in warehouses filled with Chinese imports that paid no
+      tariff because of one illegal maneuver after another. In other words, tariffs
+      have the same problem that sanctions do. It’s too easy to evade them. So now we
+      have bitterness among the American corporations who paid tariffs while their competitors
+      didn’t. And the competitor is therefore able to offer the Chinese commodity that
+      has been brought in at a lower price, reaping a higher profit because they don’t
+      have a tariff to pay, whereas their law-abiding competitor, American company,
+      is stuck. And by the way, that fuels the demand for a refund. And that will be
+      a clever argument in Congress for the pro-refunders because they can now say they
+      just want to level the playing field between the law-abiding companies who paid
+      the tariff versus the cheating companies who connived with the Chinese to get
+      around it. This, you know, this ought to elicit laughter. It is the American giant,
+      you know, wetting the bed, being unable to function anymore. ⁣MICHAEL HUDSON:
+      Richard, you just reminded me of something that Trump said. He said he would like
+      all of the government’s budget to be tariffs and no income tax at all. Well, you
+      talk about what’s good for the capitalist class. That’s the ideal. Tariffs are
+      paid for mainly by the American consumers. It’s like an excise tax on consumer
+      health tax. But the income tax is paid by the companies, the industrialists, and
+      the corporations. So, in other words, he wants to ship taxes entirely off profits
+      and earnings and rents of the big companies and put it entirely on the American
+      people, except for corporations that have to pay the tariffs on steel and aluminum
+      and all the other problems that we’ve said. So, what he dreams of is having a
+      huge tax shift off his campaign contributors and off the public, who don’t really
+      have any influence over him. And just as Nima said, the public doesn’t want a
+      war with Iran, but where are they on the range of contributors to Trump’s political
+      campaign? And how many Trump watches did they buy? ⁣RICHARD WOLFF: Listen, the
+      only major American tax that is still progressive, in other words, where you pay
+      a higher percentage, the richer you are, is the income tax. So, he is going to
+      get rid of the only remaining progressive tax and replace it with something that
+      is the equivalent of a sales tax. Whatever the tariff is, Rockefeller pays that
+      amount, and so does Rockefeller’s secretary. In other words, your income has no
+      relationship to what it is you’re having to pay here. So, it’s the dream of the
+      capitalists and of the rich that the income tax imposed on them early in the 20th
+      century will be gotten rid of early in the 21st century. You know, they will have
+      suffered it for; it took them a century to get rid of this one progressive effort.
+      You put that together with the fact that in 2026 we’ve reached a new threshold.
+      You can leave in your estate up to $15 million per person or $30 million per couple
+      before any estate tax enters the picture. These are the two steps absolutely guaranteeing
+      what already exists, which is a perpetual class of the super rich who can make
+      sure that their children will continue to occupy pretty much the same position
+      as they do, to get rid of whatever little bit of democratic anything was woven
+      into the tax structure before. And by making that remark, Mr. Trump makes sure
+      we all understand what the historical process is that’s going on here and how
+      he is committed to seeing it through to that end. He won’t be able to do that,
+      but he’ll try and he’ll move it; he’ll move the needle a little bit further. On
+      the Iran thing, if I could say a word about that, I think we need to have a historical
+      perspective on this a little different from what we’re hearing. Take a look at
+      the major wars that the United States has fought since the Second World War. The
+      war in Korea, the war in Vietnam, the war in Afghanistan, and the war in Iraq.
+      Okay, those were the four major wars the United States was engaged in. And it
+      pitted the United States, at that time, the richest country in the world, the
+      most militarily developed country in the world, against four of the poorest countries
+      on this planet. Korea, Vietnam, Afghanistan, and Iraq. And the United States had
+      a difficult time in every one of them. It fought to a stalemate, a kind of a cutting
+      Korea north and south. That was the end of the Korean War. It lost in Vietnam,
+      which is now run by the Communist Party of North Vietnam. It lost in Afghanistan,
+      run by the Taliban. And it basically lost in Iraq, too. It’s a little harder to
+      identify who the winner there is, but that the United States is not among them
+      is pretty clear. Okay, Iran is not like that. Iran is a much bigger country. Iran
+      is a much richer country. Iran is more industrially developed. Iran has much more
+      of a military. Iran has a long border with Russia and has a close alliance with
+      Russia and China. This is different. No wonder General Caine gives advice to Mr.
+      Trump. Let me underscore: that Mr. Caine gives advice to Mr. Trump is neither
+      interesting nor relevant. That we are all told about this advice, that’s interesting.
+      It is important for people, apparently, to get out the message that the military
+      and the CIA are not so clear how this is going to work and how well this is going
+      to go. And that’s the real problem for Mr. Trump. Because if you add up Epstein
+      and then you add the tariff disaster, and now he has a war he loses, the elections
+      are over. He will either have to prevent those elections or he will be removed
+      from power by them. ⁣NIMA ALKHORSHID: Michael, here is one of our audience asking
+      you a question. The question is: can the general public file a class action lawsuit
+      for reimbursement of the tariffs? What is your response to this question? ⁣MICHAEL
+      HUDSON: No, because how do you know what individual families have had to pay by
+      importing the goods that have risen in price when the tariff has been added onto
+      them? If you go to a store and you buy things, well, which ones had a tariff and
+      how much did you pay? You have a problem of providing evidence and defending the
+      evidence and a statistical problem of I don’t think anybody really knows how much
+      of the higher prices they’ve paid is because of tariffs or were they imported
+      or what the situation is. So there’s an evidentiary problem here. So it’s a nice
+      statement. Of course, it would be fair to give families money back. I think there
+      was some estimate that the average American family had paid $1,000 or $2,000 in
+      excess tariffs for all this. I think it’s probably excess prices for tariffs.
+      I think it’s more, but the only way that you could solve it is: well, let’s send
+      another $2,000 or $5,000, however much, to every American family, saying, you
+      know, we know you paid more. You don’t have to prove exactly what you bought and
+      go all the way over your tax receipts. Did you save all the receipts from the
+      stores you bought? And are the receipts itemized? So you know, what things there
+      were tariffs? And if you looked up the tariff price on all of these, nobody’s
+      done that. And it’s impossible to do. So just give them a lump sum and claim that
+      that’s a reimbursement. But that would be, and that I think everybody would see
+      that as a political stunt by Trump, trying to say, vote for me in the midterms
+      and the Republicans. And all it would be a political stunt under these circumstances.
+      So, nice thought, but impractical. I want to say one thing about what Richard
+      had mentioned about the income tax. I want to, just for a historical perspective,
+      the first American income tax that was imposed at the end of 1913 only fell on
+      2% of the Americans. You had to be the richest 2% in order to even file a tax
+      return. Well, you can imagine that as soon as World War I was over, all of the
+      companies and the lobbyists began to carve away at all of this so that the tax
+      burden was shifted off the 2% onto the 90%. So, there’s already been a fight for
+      a long time. It was originally hyper-progressive and has been less and less and
+      less progressive. And what Trump is doing is simply continuing this long curve
+      of the tax shift off business onto wage earners. ⁣NIMA ALKHORSHID: Richard, you’ve
+      mentioned that you didn’t mention the case of the war in Ukraine, which wasn’t
+      mentioned in what Donald Trump said. How is that going to be important for the
+      Trump administration? Are they really interested in putting an end to the conflict
+      or are they just playing around with because they know that they’re making money
+      out of Ukraine, it seems? ⁣RICHARD WOLFF: Well, I think the United States’s interest
+      in Ukraine, at least under Mr. Trump, has been, as you put it, they are learning
+      things about warfare. It’s like an experiment in warfare. It’s quite clear that
+      the long-range missiles that Ukraine has been sending into the heart of Russia,
+      at least for the last six months to a year, could not have been done without either
+      the British or the Americans or both of them involved. So they can test their
+      weapons and they can do damage to the Russians, which they seem to think is a
+      useful activity. And they sell weapons, so they make money. They’re not giving
+      them massive amounts of money. That was their biggest, you know, Mr. Trump’s biggest
+      concern. They’re not going to do that. I don’t think they care. Let that war drag
+      on forever. Let the Europeans do it. Mr. Trump used to say he was terribly upset
+      by the loss of life. He’s gotten over that upset. He never seemed to have the
+      same worry about the loss in Gaza, which, if you follow these things, was much
+      larger in terms of the number of people and much more women and children than
+      combatants in any sense of the term. So the phoniness is gone. The big costs are
+      gone. The small costs are offset by the income from selling the weapons. Therefore,
+      it doesn’t deserve it. It’s not relevant. It’s relevant for the Europeans, not
+      so much as a war, but as the necessary political theater for whatever remains
+      of the conventional traditional governments of the European countries, who need
+      an external enemy like Russia to play the role that the Soviet Union played before.
+      They are busy now dealing with their two problems: the perennial problem that
+      they’re not unified and that everything they do is compromised by the fact that
+      there are 20 different countries. And number two, the new problem that their alliance
+      with the United States is suspended, that the United States wants them as a tributary,
+      but has little interest beyond that in anything having to do with them, does not
+      care about its military, feels as though it can dictate the terms of a financial
+      arrangement. The Europeans have shown that the Americans are correct, that they
+      will deliver tribute. That is what Van der Leyen agreed to. You know, now the
+      Europeans are with the Supreme Court decision, they want to rethink or renegotiate
+      with the United States because there’s no tariff threat if there’s no tariff.
+      That’s why Mr. Trump had to say, right away, there’ll be a tariff because otherwise
+      every deal he worked with the South Koreans, with the Japanese, with the Chinese,
+      with the Europeans, with Canada and Mexico, everything is now in limbo. And as
+      he must have learned in the first year of this term, that the uncertainty with
+      which he surrounds the whole tariff theater undermines any of the things he said
+      that the tariffs would bring. Nobody’s investing in the United States. The statistic
+      of 70,000 lost manufacturing jobs in the first year of Mr. Trump’s second presidency
+      is a screaming statistic. Not only did the tariffs not bring jobs, they couldn’t
+      even stop the loss of manufacturing jobs in the United States. So he’s got his
+      work cut out for him. The Europeans have shown so little capacity either to overcome
+      their disunity or to deal with the American divorce that they are now suffering
+      that, yeah, could they do something? Yes. Will they? It doesn’t look like it.
+      It looks like each of them, Mertz, Macron, and Starmer, are going to go down to
+      defeat and disappearance and probably take with them the demonization of Russia,
+      since it’s a total dead end that doesn’t get them anything at this point. But
+      I do believe there will be compromise. I think that the combination of the right
+      wing and the left-wing inside Europe is going to make the centrist politics that
+      they represent unviable as a way forward. What that means for Europe, I don’t
+      know. Maybe pitch battles in the street the way you once had at the end of World
+      War II. You had that in Greece, you had it in France, you will have it again because
+      of the incompatibility between these two extremes. But the inability of the center
+      is so grotesque that I think that’s the one thing you can probably count on. ⁣MICHAEL
+      HUDSON: Well, the great enabling fiction, both for Europe and its cutbacks of
+      social spending in order to militarize and for America, for Trump’s tariffs, is
+      to demonize Russia. That is the fiction that has justified all of Trump’s and
+      Biden’s America. This goes way back: all of the attempts to isolate other countries
+      supplying oil, all of the attempts to fight Russia, to impose tariffs, and to
+      demand give backs in the form of other countries joining the sanctions against
+      Russia and China, is that they’re a threat and that Russia may want to reestablish
+      the old Soviet empire by marching right through to East Germany again, as we’ve
+      talked. So for America, the Cold War justifies the policies, the tariffs, and
+      all of the militarization and military-industrial complex of one and a half billion
+      dollars, I’m sorry, trillion in the current budget. And for Europe, the cutback
+      in all of the social support programs, largely as a result of the energy prices
+      going up, is also, well, we can’t afford both to support the living standards
+      for the population and fight against the threat to civilization of Russia occupying
+      us again. So I think, as you and I have said, if Russia didn’t exist, it would
+      have to be invented. You could say it’s Iran, it’s Afghanistan, it’s whoever you
+      want threatening to invade us. So the entire narrative is a fiction for all of
+      this. And there really isn’t any counter-narrative from the anti-war people, either
+      in Europe or the U.S. The only European response I’ve seen in the last few days
+      since the speech is the Europeans have said, well, it’s true that we promised
+      to invest money in America, but now that Trump imposed a 10% tariff, he raised
+      it to 15%, then he backed down to 10% the next day, and now he says he wants to
+      raise it to 15% again, and that is a higher tariff than we’d negotiated for. Our
+      parliaments have not officially agreed to all of these promises of European investment
+      in the United States. But von der Leyen has said, you know, don’t worry, we’re
+      loyal to the United States, we’re going to follow it through. And that seems to
+      be the policies of the very European politicians that you’ve just mentioned. ⁣RICHARD
+      WOLFF: Well, I think, again, a little bit of the history. At the end of World
+      War II, something strange had happened. The right-wing, fascism, had been defeated.
+      It had been defeated basically everywhere. Mussolini was gone, Hitler was gone,
+      the Japanese government was gone. Franco was still in Spain, but that was not
+      an important player anymore. So you had the bourgeois world, the capitalist world,
+      confronted by two frightening things. One was the Soviet Union, which had emerged
+      from all of this militarily much stronger than anyone had thought it could be.
+      And number two, inside the Western capitalist countries, communist and socialist
+      parties were very strong and stronger than they had ever been, partly because
+      the communists were the key players in the resistance against fascism in most
+      of Europe. So you needed a way to deal with these two dangers. And the Cold War,
+      anti-communism, McCarthyism, whatever you wanted to call it, NATO, that was the
+      way it was done. We had a lovely story. We had an evil Russia who had agents inside
+      all of the other countries: the communist parties. And this evil Russia, Stalin
+      manipulated all of these communist parties, and we had to have a combined thrust
+      against them. So we purged the communists domestically, everywhere, in every European
+      country, in the United States. McCarthyism is what it was called here, but it
+      had its analogs in Europe. And we created NATO as the international equivalent.
+      And we used the alliance so that the United States, which came out of the war
+      much stronger than everybody else, funded the alliance, armed the alliance, and
+      through the CIA, worked to repress the communists in every European country. Greece,
+      you name it, by the way, intruded into Iran, which came out of the war also with
+      a strong Communist Party, the Tudeh Party in Iran, and it too was destroyed by
+      the United States, working in that case with the Shah years ago. Okay, you all
+      know that story. But that story is very important because, even though the Communist
+      Party isn’t, or nor the Socialist Party’s, not the kind of opposition, nor does
+      it have the strength it had at the end of World War II, it’s been much reduced.
+      But the Soviet Union’s also gone. So the whole rationale for the alliance, the
+      NATO part of it, and the domestic repression part of it, are gone. They’re not
+      there anymore. Now, that means that all the players in this game are looking at
+      a changed environment. The European leadership is so weak that it worries about
+      the right and left wings. It has to. The United States, at least for the moment,
+      doesn’t have to. On the other hand, the mayor of New York is a socialist, and
+      nobody thought that could ever happen. So you’re beginning to have the early seeds
+      of what? An attempt in some way to hold on to that historic protection racket.
+      And the way that the form it takes in Europe is the demonization of Putin. Putin
+      is the new Stalin. That’s it. That’s easy. We will do that and we will beat that
+      drum forever. The United States looks at this situation and doesn’t feel the need
+      to protect these leaders in Europe. It isn’t clear that it might be better to
+      have the right wing in charge, have a Trump in Europe or a whole bunch of little
+      Trumps in Europe, and the little Trumps in Europe are building themselves up to
+      play that role. My guess is they will. They’ll come from the left, that’s Orban,
+      and they’ll come from the right. And you can guess who that would be, the Germans,
+      and so on. So, for the United States, Europe becomes an economic tributary run
+      by a set of under-Trumps. And in that story, you don’t need NATO either. In fact,
+      what you want to do is you want to rethink the connection with Russia because
+      you have the hope, and the hope is born out of desperation, that maybe somehow,
+      especially if you undercut the European opposition to Russia, that you could win
+      Russia away from the alliance with China. And that would be much more in the interest
+      of the United States. It looks at the growing alliance between Russia and China,
+      shaking its head. This is not good for us. And it is not happy with the European
+      insistence on doing that. ⁣MICHAEL HUDSON: Well, regarding what you’d said about
+      the fight against the Communist Parties after World War II, I want to point out
+      that one of the major enemies of the parties was Stalin. Stalin sat down with
+      he British prime minister at the end of World War II, and they divided up who
+      was going to control Europe. And Stalin agreed to give Churchill control of Greece.
+      And the result is that Stalin paralyzed the Communist Party of Greece. The Communist
+      parties had been the leaders of the partisans in many of these countries. And
+      Stalin did not support the Greek communists. He said, well, I’ve made a deal with
+      Churchill. We’re letting the U.S. come in and just decimate the Communist parties
+      of Greece. And then moving up towards Europe, you had Yugoslavia. And Stalin fought
+      against Tito, against Yugoslavia. I remember talking to Communist Party members
+      in the 1950s, and they all, the way I wanted to find out whether later leaders
+      were atalinist or not, I’d say, well, what do you think of Tito? And they all
+      had the same answer,:Tito is a traitor. And Russia did everything it could to
+      under Tito and Yugoslavia. And that was probably the most successful communist
+      country in the sense of decentralization, of supporting an actual workers’ prosperity, 
+      andof avoiding Stalinist bureaucracy. So Stalin played a key role in the destruction
+      of the communist parties. And now that Russia is not a communist state anymore,
+      that has, in principle, opened the door for the possibility of socialist parties
+      and real left-wing parties to emerge, which was not the case when Stalin spent
+      all of his time fighting against all other socialists, except for the Communist
+      Party, which he could control through his loyalists and the bureaucracy that he
+      had there. So at least that’s a good sign. On the other side, now that we’re in
+      2026, there’s very little memory of what socialism was all about. You and I are
+      talking about it, but we don’t have the audience sufficient so that people can
+      break free of this, enabling fiction that Russia is a demon and now China is a
+      demon. You’d think that when the United States and voters see, why is China pulling
+      so much further ahead of the United States? Why is it growing and becoming so
+      successful, an industrial country, and we’re not successful? Well, one of the
+      reasons is China’s reinvented the wheel and is following pretty much the same
+      policies that America followed in the late 19th century through its protectionism.
+      The same policies Germany followed in the capital. These were capitalist countries
+      and industrial countries, who were all pressing for higher role of government
+      infrastructure spending and the role of government in preventing monopolies to
+      lower the price structure. All of this has pretty much been forgotten, and there’s
+      been a demonization of government as if any government activity is a waste. And
+      of course, if you’re going to hold to that, you’re not going to see, well, why
+      don’t we be like China, like we used to be, like Germany used to be. There’s no
+      attempt to understand the background either of American or European industrialization
+      prior to World War I and realize that China is now doing the same thing that the
+      industrial nations of Europe and the United States did. So you’re having pretty
+      much a blind alley everywhere. People are, all they have is the narrative, not
+      an understanding of what do we have to do to make America industrial again. Tariffs
+      won’t do it. You need a whole structure of government support, as Roosevelt provided
+      in the 1930s under the Agricultural Adjustment Act, very protectionist with government
+      support, all of the socialist party policies that Roosevelt took from the left
+      wing, because that was the only logical policy to do. The whole logic of socialism
+      has been forgotten. ⁣RICHARD WOLFF: That’s our jo, besides the critique of what’s
+      going on, is to intervene. I mean, that’s the way I see it, is to intervene, knowing
+      that our population here in the United States, but globally too, is very much
+      in agreement with everything that we used to have is falling apart. The old Europe
+      is falling apart. The deal with the United States is falling apart. Russia and
+      China, yes, they’re an alliance, but they’re an alliance that is sort of strange
+      if you think about it. You know, a Communist Party country, China with a party,
+      with a country that overthrew and rejected the Communist Party. They have their
+      problems too, of course. Everybody’s wondering where this goes next. Maybe the
+      Chinese, the least, because they’re on a roll of economic development. They don’t
+      ask those kinds of questions. But my guess is that the working class in China
+      will force those questions onto the table too. They have their strikes, they have
+      their unions, they have the same problems. You know, the United States, in its
+      heyday, the second half of the 19th century, when it took off and into the 20th,
+      was full of very profound labor struggles, including general strikes and all kinds
+      of things in the 19th and first half of the 20th century. Those were times when
+      socialism exploded in the United States. So the fact that China is experiencing
+      rapid economic development will, in its own way, probably lead to similar socialist
+      upsurges, different, of course, in that country because of what they’ve already
+      created, which the United States hadn’t done. But I think it remains what it always
+      was. The basic idea of socialism always was we can do better than capitalism.
+      We don’t have, just like the slaves didn’t have to accept slavery and the serfs
+      didn’t have to accept feudalism, the workers don’t have to accept capitalism.
+      And for very similar reasons, they can demand a society in which they come first:
+      not some small group of masters, not some small groups of masters, and not some
+      small group of employers. And the logic there is as impeccably clear and strong
+      now as it ever was. ⁣MICHAEL HUDSON: Well, it was industrial capitalism that developed
+      early socialism throughout the mid-19th century. Everybody in Europe, John Stuart
+      Mill, everybody thought that they were socialism in one form or another. The conservative
+      parties and the industrialists were the leading supporters of socialized medicine,
+      public health, socialized education, making a free education, socialized government
+      ownership of basic infrastructure, communication, the post office, the phone system,
+      electrical systems, the railroads, and the canals. All of this was the logic of
+      industrial capitalism itself just evolving forward. And that’s why Marx commented,
+      well, he was all in favor of the free market, because if you just don’t interfere
+      with the free market, capitalism is going to evolve into socialism. Well, of course,
+      there was interference with this market, and it came from the rentier, the finance
+      capital class, and the landlord class, and all of the rent-extracting, privileged
+      classes. And that successful fight against what had been the whole positive dynamic
+      of industrial capitalism is what went out and turned industrial capitalism into
+      this long detour into finance capitalism. ⁣NIMA ALKHORSHID: Richard, just you’ve
+      mentioned how strange it is that Russia and China are coming together. But correct
+      me if I’m mistaken. It seems to me that the strategy of the United States under
+      the Trump administration or under the Republican Democrats is a strategy of economic
+      dominance through energy by disrupting rival supply and trade wars. While we see
+      that the dollar is weakening and the United States is increasingly economically
+      interdependent with the rest of the world, how we can bring these two together?
+      It’s somehow strange to see all of that together. ⁣RICHARD WOLFF: The way I understand
+      it, and we’re running out of time, so we can maybe do this next week. But the
+      way I see it is the strategic organization of the big powers is always decades
+      behind the economic development. They barely understand it. They cannot control
+      it. They have the illusion that they can control it. And out of that comes one
+      chaotic mess after another. So what they’re trying to do now is everything you
+      just said, but the economic development of Russia and China are bringing them
+      together. They can help each other. Russia is going to give China this vast territory.
+      I mean, Russia is the richest country in the world based on the resources under
+      its soil. China is the engine, the industrial engine. You put these two things
+      together, they’re going to take off. That’s what we’re living through. And the
+      United States can’t hold on the illusion. Let me leave you with this. The illusion
+      of Mr. Trump. He wants Canada and Greenland. Of course he does. That’s his Russia.
+      He looks at the Russian Chinese. They have the North, you know, the Arctic, all
+      of that Russian, the Asian part of Russia. He wants that too. He somehow grasps
+      that we don’t have that. And the Canadians aren’t going to give it to us either.
+      But the Russians and the Chinese have what the Canadians and Americans imagined
+      they might one day have. They’re looking at these things and they’re very frightened.
+      And all I can tell you is they should be. ⁣NIMA ALKHORSHID: Thank you. Thank you
+      so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Okay.
+      ⁣NIMA ALKHORSHID: See you soon. Bye-bye. Transcription and Diarization: https://scripthub.dev/
+      Editing, Review: ced Image by Ali Akbar from Pixabay The post Tariff Theatre Meets
+      Imperial Reality first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Richard Wolff and Michael Hudson,
+      Nima Alkhorchid highlights Trump's remarks on U.S. foreign policy regarding the
+      Ukraine war during his State of the Union speech.
+    paragraph_summary: In a discussion on February 26, 2026, Nima Alkhorchid welcomed
+      Richard Wolff and Michael Hudson to talk about the implications of Donald Trump's
+      recent State of the Union speech, particularly regarding U.S. foreign policy towards
+      Iran and Ukraine. Trump briefly addressed these topics, with a notable focus on
+      Iran, amid rising tensions and public sentiment against a new war, as polls indicate
+      over 70% of Americans oppose military action. Hudson emphasized the potential
+      economic repercussions, particularly the impact on oil prices if conflict escalates,
+      especially with Iran's strategic control over the Strait of Hormuz. The conversation
+      highlighted the complexities of U.S. involvement in the Middle East and the public's
+      desire for peace.
+    published: '2026-03-04T11:03:48+00:00'
+  - title: Tariff Theatre Meets Imperial Reality
+    url: https://michael-hudson.com/2026/03/tariff-theatre-meets-imperial-reality/
+    text: '⁣NIMA ALKHORSHID: Hi, everybody. Today is Thursday, February 26, 2026, and
+      our dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣RICHARD WOLFF: Thank you. Glad to be here. ⁣NIMA ALKHORSHID:
+      Please hit the like button and smash the like button, helping us reach more people.
+      And follow Richard on his website, democracy at work.info. And his YouTube channel
+      is the same name, Democracy at Work. And you can follow Michael Hudson on his
+      website and michael-hudson.com. Is that correct, Michael? ⁣MICHAEL HUDSON: It’s
+      okay. I’m told that dash and hyphen are all the same as far as the computers are
+      concerned. ⁣NIMA ALKHORSHID: Exactly. Yeah, that’s why every time I say that.
+      Michael, let me start with you and with what has happened in the Trump speech
+      at this state, you know, in his speech, State of Union speech of Donald Trump.
+      He mentioned a little bit about the foreign policy of the United States when it
+      came to the war in Ukraine. He spent something like 10-15 seconds, not more than
+      that. With the case of Iran, it’s a little bit more than a minute. But all he
+      was talking about, let’s focus because today, every you look at the news today,
+      it’s all about the war negotiations between Iran and the United States. The war
+      is coming and all of this sort of madness that is happening. What is your understanding?
+      Because we’ve learned that more than 70% of the people in the United States in
+      various polls show that they don’t want a new war. And how is that going to influence?
+      We know that if something happens, that would drastically influence the price
+      of oil as well. What is your understanding of that, of the policies in the Middle
+      East, in the West Asia? ⁣MICHAEL HUDSON: Well, of course, people don’t want war
+      with Iran. One of the first things Iran would do would be to close the port of
+      the Strait of Hormuz, and oil prices would go up. And I want to talk about how
+      Trump got into this. Even before he began to speak, there was 10 minutes and he
+      walked into Congress at the very front. There were the Supreme Court justices,
+      and he walked by. He didn’t shake the hand of the Catholic justice that he had
+      appointed. He was so angry at her because of the tariffs. So, right away, that
+      way he showed symbolically, you know, what was happening. He said he loved tariffs.
+      And I sort of hate to talk about what he said at the State of the Union speech
+      because he didn’t say anything. If I try to make sense of it, it’s like talking
+      about a swamp. And you try to say, how do you make sense of what’s happening in
+      this mass of pre-association? So I want to talk about what the aftermath is, because
+      that’s what they’re talking about today. In the Wall Street Journal, for instance,
+      the big news is about the Supreme Court ruling on the tariffs. And before the
+      Supreme Court ruling, there was an expectation by many people that, of course,
+      Trump’s tariffs were illegal. This is why he spent so much time in a speech saying,
+      I love tariffs. They’re wonderful because they’re really not, as we’ve discussed
+      before. And people expected the Supreme Court would turn it down. And in that
+      case, the importers get to bring a lawsuit to get refunds for all of the tariffs.
+      Well, now the price that speculative investors are buying these lawsuit cases
+      for refunds has gone up, doubled from 20% of the original amount that they paid
+      to 40%. And companies are willing to sell it because if you’re a small importer
+      and you paid these fees, it’s enormously expensive to hire a lawyer and have a
+      trial and try to wait out and force all of this. And the hedge funds are willing
+      to pay the loss of the legal costs of companies that file in order to get everything
+      that they get over 40%. Well, legally, the only people who can get refunds for
+      these tariffs are the importers that actually paid them. Well, this means that
+      it’s a bonanza for all of these companies, because, as we’ve discussed before,
+      94% of the tariffs were just passed on to customers. That what Trump said was
+      foreigners are going to pay; that was all wrong. It’s the American consumers that
+      have paid, not the importing companies, though. So there’s sort of something that
+      seems unfair to a lot of people here. The companies are going to get reimbursed
+      for tariff payments that they simply passed on to customers. So they’re going
+      to be getting a free lunch for all this. So, of course, they’re willing to sell
+      it. A free lunch is better than nothing. And now you have a number of the Democrats
+      sort of grandstanding and making a proposal that the, for instance, Gavin Newsom
+      of California and Pritzker of Illinois, they’re both presidential candidates for
+      2028. They’ve demanded checks for the families that have actually had to pay the
+      higher prices that were all put just added on. Well, there’s no way that you can
+      tell which families actually paid for higher prices for all of the individual
+      things. It becomes a statistical morass and it’s almost impossible for any of
+      these families to collect. But I think the Democrats are trying to pretend that
+      look at how unfair it is. This is huge: the way the law is written, it’s a huge
+      giveaway to the importers to give them reimbursement for a cost that they never
+      had to bear, and it stuck the American people. Well, Trump made a big speech,
+      a part of which was statistical nonsense about how he’s brought down prices for
+      the population. And he cited the consumer price index. And it’s very interesting.
+      He also pointed out that the single major price decline was in the price of oil.
+      And that’s when he said, drill baby drill. He said, I’ve thrown all my support
+      between the oil companies and the drillers and your gasoline prices have come
+      down. He quoted all the prices. All that’s true. But the gas prices and electricity
+      prices that have gone way up, and have played such a large role in the consumer
+      price index that people who are listening to the speech know that they’ve been
+      paying more at the grocery stores. They’ve been paying a lot more for health care
+      premiums that have almost doubled. And it’s surprising to me that Trump didn’t
+      point out the one great price decline that he actually succeeded in. A year ago,
+      when he came to office, he offered his supporters the Trump watch for $100,000.
+      And he said, you know, this is a real fancy thing. It’s going to be a historical
+      record. If you have a Trump watch, you’ll be part of history. People bought it
+      for 100,000; suckers bought it for $100,000. The price now is only $5,000. There
+      are no more suckers. Well, that’s a 95% price decline. And he didn’t even cite
+      that in his State of the Union speech. So, basically, he just sort of wandered,
+      I think, over 45 minutes with just calling on various people who’d been injured
+      by illegal immigrants attacking them. It was military people, Olympic hockey players,
+      nothing at all about his policy. So it’s very hard for me to say anything about
+      the policy. And equally vacuous was the Democratic Party response by the CIA governor-elect
+      Spanberger, who is a member of the right-wing Democratic Business Council and
+      other right-wing congresses within the Democratic Party. She didn’t really say
+      anything at all in favor of the people, just a lot of rhetoric. So this was probably
+      the most vacuous State of the Union that there is. And I really can’t talk about
+      many of his other statements. You did say that he mentioned Iran. And, of course,
+      he can’t say very much about it because there are still negotiations going on.
+      And we’ll know by New York time, 1 p.m. today [February 26, 2026] is when the
+      meeting between the American negotiators, including Grossi, and the Iranians,
+      is taking place. And the rumor is that Iran has tried to offer Trump an opportunity
+      for American oil companies to come into Iran and be hired for some proportion
+      of the oil wells they develop. I’m not sure how this can really develop into something
+      because I don’t think anyone really trusts that oil or any other American foreign
+      investment is going to be politically neutral. But at any rate, it’s obvious that
+      Trump couldn’t really say anything about that. He couldn’t promise peace, and
+      he didn’t really want to threaten war. So it was maybe you or Richard can make
+      something out of this, but I think I said everything that I can. ⁣NIMA ALKHORSHID:
+      Yeah, Richard. ⁣RICHARD WOLFF: Yeah, again, just to add, I don’t know whether
+      it was in today’s Reuters or Wall Street Journal, I don’t remember. I look at
+      too many of these things in the morning. But there’s a long story about it, begins,
+      there’s a statistical discrepancy in Chinese statistics between one set of statistics
+      about their exports to the United States. And remember, China is a major global
+      exporter to the United States, and another one. And then the article explains
+      what the difference is. And the difference only magnifies the chaos and the cacophony
+      of the tariff proposals. I want to underscore that it was political theater. That’s
+      why Mr. Trump is in love with it. It lends itself to his portraying himself as
+      the big tough guy. He doesn’t have to negotiate with Congress about these tariffs.
+      He doesn’t have to negotiate with other countries. He can threaten them. And if
+      they don’t come across with a tribute payment, promising to buy American this
+      or that, or as Michael just said, letting American companies invest, or literally
+      paying tribute, as von der Leyen agreed to do on behalf of Europe and so forth.
+      He loves the role it allows him to play. But as a policy, it is incoherent, it
+      is cuckoo, and it is nonsense. And the Supreme Court has now had to say that if
+      you take seriously the history of the Republican Party as the party against taxes,
+      which has given the Republican Party its survival over the last hundred years,
+      against every tax, it’s in favor of reducing or eliminating it. That’s its position.
+      And it appeals, above all, to the employer class of the United States, which doesn’t
+      want to pay taxes as a business and doesn’t want to pay taxes as a wealthy individual.
+      And so the tax cuts are for that. And Mr. Trump understands that. His first priority
+      in his first presidency was the tax cut of December 2017. And his first priority
+      in his second presidency was the big beautiful tax that was passed in April of
+      last year. So we know what his top priorities are. He has to do that to hold the
+      base of the Republican Party financially, ideologically, and historically. But
+      then you have a problem, you idiot, kind of looking at him in the face. If your
+      program is to cut the American budget deficit by a tariff, well, that’s a tax.
+      So you are now the great Republican who is taxing. And even though you would say
+      to the business community, I gave you a big tax cut in April, don’t complain to
+      me when I give you a tax cut and a tax increase with the tariff. I’ve already
+      offset that with the tax cut I gave you before. But we have a capitalist class
+      that is way too greedy to be satisfied with. They don’t want tax. They want the
+      tax cut, big and beautiful, and they don’t want a tariff. So he’s got a problem.
+      He doesn’t know how to handle it. The Supreme Court helps him and hurts him all
+      at the same time. But here’s the story in the Wall Street Journal that adds: the
+      discrepancy in the Chinese statistics is because an enormous, I’m talking three
+      fourths of the goods and services shipped by China to the United States escaped
+      the tariffs. They got around the tariff. And they’re showing up the goods all
+      over the United States in warehouses filled with Chinese imports that paid no
+      tariff because of one illegal maneuver after another. In other words, tariffs
+      have the same problem that sanctions do. It’s too easy to evade them. So now we
+      have bitterness among the American corporations who paid tariffs while their competitors
+      didn’t. And the competitor is therefore able to offer the Chinese commodity that
+      has been brought in at a lower price, reaping a higher profit because they don’t
+      have a tariff to pay, whereas their law-abiding competitor, American company,
+      is stuck. And by the way, that fuels the demand for a refund. And that will be
+      a clever argument in Congress for the pro-refunders because they can now say they
+      just want to level the playing field between the law-abiding companies who paid
+      the tariff versus the cheating companies who connived with the Chinese to get
+      around it. This, you know, this ought to elicit laughter. It is the American giant,
+      you know, wetting the bed, being unable to function anymore. ⁣MICHAEL HUDSON:
+      Richard, you just reminded me of something that Trump said. He said he would like
+      all of the government’s budget to be tariffs and no income tax at all. Well, you
+      talk about what’s good for the capitalist class. That’s the ideal. Tariffs are
+      paid for mainly by the American consumers. It’s like an excise tax on consumer
+      health tax. But the income tax is paid by the companies, the industrialists, and
+      the corporations. So, in other words, he wants to ship taxes entirely off profits
+      and earnings and rents of the big companies and put it entirely on the American
+      people, except for corporations that have to pay the tariffs on steel and aluminum
+      and all the other problems that we’ve said. So, what he dreams of is having a
+      huge tax shift off his campaign contributors and off the public, who don’t really
+      have any influence over him. And just as Nima said, the public doesn’t want a
+      war with Iran, but where are they on the range of contributors to Trump’s political
+      campaign? And how many Trump watches did they buy? ⁣RICHARD WOLFF: Listen, the
+      only major American tax that is still progressive, in other words, where you pay
+      a higher percentage, the richer you are, is the income tax. So, he is going to
+      get rid of the only remaining progressive tax and replace it with something that
+      is the equivalent of a sales tax. Whatever the tariff is, Rockefeller pays that
+      amount, and so does Rockefeller’s secretary. In other words, your income has no
+      relationship to what it is you’re having to pay here. So, it’s the dream of the
+      capitalists and of the rich that the income tax imposed on them early in the 20th
+      century will be gotten rid of early in the 21st century. You know, they will have
+      suffered it for; it took them a century to get rid of this one progressive effort.
+      You put that together with the fact that in 2026 we’ve reached a new threshold.
+      You can leave in your estate up to $15 million per person or $30 million per couple
+      before any estate tax enters the picture. These are the two steps absolutely guaranteeing
+      what already exists, which is a perpetual class of the super rich who can make
+      sure that their children will continue to occupy pretty much the same position
+      as they do, to get rid of whatever little bit of democratic anything was woven
+      into the tax structure before. And by making that remark, Mr. Trump makes sure
+      we all understand what the historical process is that’s going on here and how
+      he is committed to seeing it through to that end. He won’t be able to do that,
+      but he’ll try and he’ll move it; he’ll move the needle a little bit further. On
+      the Iran thing, if I could say a word about that, I think we need to have a historical
+      perspective on this a little different from what we’re hearing. Take a look at
+      the major wars that the United States has fought since the Second World War. The
+      war in Korea, the war in Vietnam, the war in Afghanistan, and the war in Iraq.
+      Okay, those were the four major wars the United States was engaged in. And it
+      pitted the United States, at that time, the richest country in the world, the
+      most militarily developed country in the world, against four of the poorest countries
+      on this planet. Korea, Vietnam, Afghanistan, and Iraq. And the United States had
+      a difficult time in every one of them. It fought to a stalemate, a kind of a cutting
+      Korea north and south. That was the end of the Korean War. It lost in Vietnam,
+      which is now run by the Communist Party of North Vietnam. It lost in Afghanistan,
+      run by the Taliban. And it basically lost in Iraq, too. It’s a little harder to
+      identify who the winner there is, but that the United States is not among them
+      is pretty clear. Okay, Iran is not like that. Iran is a much bigger country. Iran
+      is a much richer country. Iran is more industrially developed. Iran has much more
+      of a military. Iran has a long border with Russia and has a close alliance with
+      Russia and China. This is different. No wonder General Caine gives advice to Mr.
+      Trump. Let me underscore: that Mr. Caine gives advice to Mr. Trump is neither
+      interesting nor relevant. That we are all told about this advice, that’s interesting.
+      It is important for people, apparently, to get out the message that the military
+      and the CIA are not so clear how this is going to work and how well this is going
+      to go. And that’s the real problem for Mr. Trump. Because if you add up Epstein
+      and then you add the tariff disaster, and now he has a war he loses, the elections
+      are over. He will either have to prevent those elections or he will be removed
+      from power by them. ⁣NIMA ALKHORSHID: Michael, here is one of our audience asking
+      you a question. The question is: can the general public file a class action lawsuit
+      for reimbursement of the tariffs? What is your response to this question? ⁣MICHAEL
+      HUDSON: No, because how do you know what individual families have had to pay by
+      importing the goods that have risen in price when the tariff has been added onto
+      them? If you go to a store and you buy things, well, which ones had a tariff and
+      how much did you pay? You have a problem of providing evidence and defending the
+      evidence and a statistical problem of I don’t think anybody really knows how much
+      of the higher prices they’ve paid is because of tariffs or were they imported
+      or what the situation is. So there’s an evidentiary problem here. So it’s a nice
+      statement. Of course, it would be fair to give families money back. I think there
+      was some estimate that the average American family had paid $1,000 or $2,000 in
+      excess tariffs for all this. I think it’s probably excess prices for tariffs.
+      I think it’s more, but the only way that you could solve it is: well, let’s send
+      another $2,000 or $5,000, however much, to every American family, saying, you
+      know, we know you paid more. You don’t have to prove exactly what you bought and
+      go all the way over your tax receipts. Did you save all the receipts from the
+      stores you bought? And are the receipts itemized? So you know, what things there
+      were tariffs? And if you looked up the tariff price on all of these, nobody’s
+      done that. And it’s impossible to do. So just give them a lump sum and claim that
+      that’s a reimbursement. But that would be, and that I think everybody would see
+      that as a political stunt by Trump, trying to say, vote for me in the midterms
+      and the Republicans. And all it would be a political stunt under these circumstances.
+      So, nice thought, but impractical. I want to say one thing about what Richard
+      had mentioned about the income tax. I want to, just for a historical perspective,
+      the first American income tax that was imposed at the end of 1913 only fell on
+      2% of the Americans. You had to be the richest 2% in order to even file a tax
+      return. Well, you can imagine that as soon as World War I was over, all of the
+      companies and the lobbyists began to carve away at all of this so that the tax
+      burden was shifted off the 2% onto the 90%. So, there’s already been a fight for
+      a long time. It was originally hyper-progressive and has been less and less and
+      less progressive. And what Trump is doing is simply continuing this long curve
+      of the tax shift off business onto wage earners. ⁣NIMA ALKHORSHID: Richard, you’ve
+      mentioned that you didn’t mention the case of the war in Ukraine, which wasn’t
+      mentioned in what Donald Trump said. How is that going to be important for the
+      Trump administration? Are they really interested in putting an end to the conflict
+      or are they just playing around with because they know that they’re making money
+      out of Ukraine, it seems? ⁣RICHARD WOLFF: Well, I think the United States’s interest
+      in Ukraine, at least under Mr. Trump, has been, as you put it, they are learning
+      things about warfare. It’s like an experiment in warfare. It’s quite clear that
+      the long-range missiles that Ukraine has been sending into the heart of Russia,
+      at least for the last six months to a year, could not have been done without either
+      the British or the Americans or both of them involved. So they can test their
+      weapons and they can do damage to the Russians, which they seem to think is a
+      useful activity. And they sell weapons, so they make money. They’re not giving
+      them massive amounts of money. That was their biggest, you know, Mr. Trump’s biggest
+      concern. They’re not going to do that. I don’t think they care. Let that war drag
+      on forever. Let the Europeans do it. Mr. Trump used to say he was terribly upset
+      by the loss of life. He’s gotten over that upset. He never seemed to have the
+      same worry about the loss in Gaza, which, if you follow these things, was much
+      larger in terms of the number of people and much more women and children than
+      combatants in any sense of the term. So the phoniness is gone. The big costs are
+      gone. The small costs are offset by the income from selling the weapons. Therefore,
+      it doesn’t deserve it. It’s not relevant. It’s relevant for the Europeans, not
+      so much as a war, but as the necessary political theater for whatever remains
+      of the conventional traditional governments of the European countries, who need
+      an external enemy like Russia to play the role that the Soviet Union played before.
+      They are busy now dealing with their two problems: the perennial problem that
+      they’re not unified and that everything they do is compromised by the fact that
+      there are 20 different countries. And number two, the new problem that their alliance
+      with the United States is suspended, that the United States wants them as a tributary,
+      but has little interest beyond that in anything having to do with them, does not
+      care about its military, feels as though it can dictate the terms of a financial
+      arrangement. The Europeans have shown that the Americans are correct, that they
+      will deliver tribute. That is what Van der Leyen agreed to. You know, now the
+      Europeans are with the Supreme Court decision, they want to rethink or renegotiate
+      with the United States because there’s no tariff threat if there’s no tariff.
+      That’s why Mr. Trump had to say, right away, there’ll be a tariff because otherwise
+      every deal he worked with the South Koreans, with the Japanese, with the Chinese,
+      with the Europeans, with Canada and Mexico, everything is now in limbo. And as
+      he must have learned in the first year of this term, that the uncertainty with
+      which he surrounds the whole tariff theater undermines any of the things he said
+      that the tariffs would bring. Nobody’s investing in the United States. The statistic
+      of 70,000 lost manufacturing jobs in the first year of Mr. Trump’s second presidency
+      is a screaming statistic. Not only did the tariffs not bring jobs, they couldn’t
+      even stop the loss of manufacturing jobs in the United States. So he’s got his
+      work cut out for him. The Europeans have shown so little capacity either to overcome
+      their disunity or to deal with the American divorce that they are now suffering
+      that, yeah, could they do something? Yes. Will they? It doesn’t look like it.
+      It looks like each of them, Mertz, Macron, and Starmer, are going to go down to
+      defeat and disappearance and probably take with them the demonization of Russia,
+      since it’s a total dead end that doesn’t get them anything at this point. But
+      I do believe there will be compromise. I think that the combination of the right
+      wing and the left-wing inside Europe is going to make the centrist politics that
+      they represent unviable as a way forward. What that means for Europe, I don’t
+      know. Maybe pitch battles in the street the way you once had at the end of World
+      War II. You had that in Greece, you had it in France, you will have it again because
+      of the incompatibility between these two extremes. But the inability of the center
+      is so grotesque that I think that’s the one thing you can probably count on. ⁣MICHAEL
+      HUDSON: Well, the great enabling fiction, both for Europe and its cutbacks of
+      social spending in order to militarize and for America, for Trump’s tariffs, is
+      to demonize Russia. That is the fiction that has justified all of Trump’s and
+      Biden’s America. This goes way back: all of the attempts to isolate other countries
+      supplying oil, all of the attempts to fight Russia, to impose tariffs, and to
+      demand give backs in the form of other countries joining the sanctions against
+      Russia and China, is that they’re a threat and that Russia may want to reestablish
+      the old Soviet empire by marching right through to East Germany again, as we’ve
+      talked. So for America, the Cold War justifies the policies, the tariffs, and
+      all of the militarization and military-industrial complex of one and a half billion
+      dollars, I’m sorry, trillion in the current budget. And for Europe, the cutback
+      in all of the social support programs, largely as a result of the energy prices
+      going up, is also, well, we can’t afford both to support the living standards
+      for the population and fight against the threat to civilization of Russia occupying
+      us again. So I think, as you and I have said, if Russia didn’t exist, it would
+      have to be invented. You could say it’s Iran, it’s Afghanistan, it’s whoever you
+      want threatening to invade us. So the entire narrative is a fiction for all of
+      this. And there really isn’t any counter-narrative from the anti-war people, either
+      in Europe or the U.S. The only European response I’ve seen in the last few days
+      since the speech is the Europeans have said, well, it’s true that we promised
+      to invest money in America, but now that Trump imposed a 10% tariff, he raised
+      it to 15%, then he backed down to 10% the next day, and now he says he wants to
+      raise it to 15% again, and that is a higher tariff than we’d negotiated for. Our
+      parliaments have not officially agreed to all of these promises of European investment
+      in the United States. But von der Leyen has said, you know, don’t worry, we’re
+      loyal to the United States, we’re going to follow it through. And that seems to
+      be the policies of the very European politicians that you’ve just mentioned. ⁣RICHARD
+      WOLFF: Well, I think, again, a little bit of the history. At the end of World
+      War II, something strange had happened. The right-wing, fascism, had been defeated.
+      It had been defeated basically everywhere. Mussolini was gone, Hitler was gone,
+      the Japanese government was gone. Franco was still in Spain, but that was not
+      an important player anymore. So you had the bourgeois world, the capitalist world,
+      confronted by two frightening things. One was the Soviet Union, which had emerged
+      from all of this militarily much stronger than anyone had thought it could be.
+      And number two, inside the Western capitalist countries, communist and socialist
+      parties were very strong and stronger than they had ever been, partly because
+      the communists were the key players in the resistance against fascism in most
+      of Europe. So you needed a way to deal with these two dangers. And the Cold War,
+      anti-communism, McCarthyism, whatever you wanted to call it, NATO, that was the
+      way it was done. We had a lovely story. We had an evil Russia who had agents inside
+      all of the other countries: the communist parties. And this evil Russia, Stalin
+      manipulated all of these communist parties, and we had to have a combined thrust
+      against them. So we purged the communists domestically, everywhere, in every European
+      country, in the United States. McCarthyism is what it was called here, but it
+      had its analogs in Europe. And we created NATO as the international equivalent.
+      And we used the alliance so that the United States, which came out of the war
+      much stronger than everybody else, funded the alliance, armed the alliance, and
+      through the CIA, worked to repress the communists in every European country. Greece,
+      you name it, by the way, intruded into Iran, which came out of the war also with
+      a strong Communist Party, the Tudeh Party in Iran, and it too was destroyed by
+      the United States, working in that case with the Shah years ago. Okay, you all
+      know that story. But that story is very important because, even though the Communist
+      Party isn’t, or nor the Socialist Party’s, not the kind of opposition, nor does
+      it have the strength it had at the end of World War II, it’s been much reduced.
+      But the Soviet Union’s also gone. So the whole rationale for the alliance, the
+      NATO part of it, and the domestic repression part of it, are gone. They’re not
+      there anymore. Now, that means that all the players in this game are looking at
+      a changed environment. The European leadership is so weak that it worries about
+      the right and left wings. It has to. The United States, at least for the moment,
+      doesn’t have to. On the other hand, the mayor of New York is a socialist, and
+      nobody thought that could ever happen. So you’re beginning to have the early seeds
+      of what? An attempt in some way to hold on to that historic protection racket.
+      And the way that the form it takes in Europe is the demonization of Putin. Putin
+      is the new Stalin. That’s it. That’s easy. We will do that and we will beat that
+      drum forever. The United States looks at this situation and doesn’t feel the need
+      to protect these leaders in Europe. It isn’t clear that it might be better to
+      have the right wing in charge, have a Trump in Europe or a whole bunch of little
+      Trumps in Europe, and the little Trumps in Europe are building themselves up to
+      play that role. My guess is they will. They’ll come from the left, that’s Orban,
+      and they’ll come from the right. And you can guess who that would be, the Germans,
+      and so on. So, for the United States, Europe becomes an economic tributary run
+      by a set of under-Trumps. And in that story, you don’t need NATO either. In fact,
+      what you want to do is you want to rethink the connection with Russia because
+      you have the hope, and the hope is born out of desperation, that maybe somehow,
+      especially if you undercut the European opposition to Russia, that you could win
+      Russia away from the alliance with China. And that would be much more in the interest
+      of the United States. It looks at the growing alliance between Russia and China,
+      shaking its head. This is not good for us. And it is not happy with the European
+      insistence on doing that. ⁣MICHAEL HUDSON: Well, regarding what you’d said about
+      the fight against the Communist Parties after World War II, I want to point out
+      that one of the major enemies of the parties was Stalin. Stalin sat down with
+      he British prime minister at the end of World War II, and they divided up who
+      was going to control Europe. And Stalin agreed to give Churchill control of Greece.
+      And the result is that Stalin paralyzed the Communist Party of Greece. The Communist
+      parties had been the leaders of the partisans in many of these countries. And
+      Stalin did not support the Greek communists. He said, well, I’ve made a deal with
+      Churchill. We’re letting the U.S. come in and just decimate the Communist parties
+      of Greece. And then moving up towards Europe, you had Yugoslavia. And Stalin fought
+      against Tito, against Yugoslavia. I remember talking to Communist Party members
+      in the 1950s, and they all, the way I wanted to find out whether later leaders
+      were atalinist or not, I’d say, well, what do you think of Tito? And they all
+      had the same answer,:Tito is a traitor. And Russia did everything it could to
+      under Tito and Yugoslavia. And that was probably the most successful communist
+      country in the sense of decentralization, of supporting an actual workers’ prosperity, 
+      andof avoiding Stalinist bureaucracy. So Stalin played a key role in the destruction
+      of the communist parties. And now that Russia is not a communist state anymore,
+      that has, in principle, opened the door for the possibility of socialist parties
+      and real left-wing parties to emerge, which was not the case when Stalin spent
+      all of his time fighting against all other socialists, except for the Communist
+      Party, which he could control through his loyalists and the bureaucracy that he
+      had there. So at least that’s a good sign. On the other side, now that we’re in
+      2026, there’s very little memory of what socialism was all about. You and I are
+      talking about it, but we don’t have the audience sufficient so that people can
+      break free of this, enabling fiction that Russia is a demon and now China is a
+      demon. You’d think that when the United States and voters see, why is China pulling
+      so much further ahead of the United States? Why is it growing and becoming so
+      successful, an industrial country, and we’re not successful? Well, one of the
+      reasons is China’s reinvented the wheel and is following pretty much the same
+      policies that America followed in the late 19th century through its protectionism.
+      The same policies Germany followed in the capital. These were capitalist countries
+      and industrial countries, who were all pressing for higher role of government
+      infrastructure spending and the role of government in preventing monopolies to
+      lower the price structure. All of this has pretty much been forgotten, and there’s
+      been a demonization of government as if any government activity is a waste. And
+      of course, if you’re going to hold to that, you’re not going to see, well, why
+      don’t we be like China, like we used to be, like Germany used to be. There’s no
+      attempt to understand the background either of American or European industrialization
+      prior to World War I and realize that China is now doing the same thing that the
+      industrial nations of Europe and the United States did. So you’re having pretty
+      much a blind alley everywhere. People are, all they have is the narrative, not
+      an understanding of what do we have to do to make America industrial again. Tariffs
+      won’t do it. You need a whole structure of government support, as Roosevelt provided
+      in the 1930s under the Agricultural Adjustment Act, very protectionist with government
+      support, all of the socialist party policies that Roosevelt took from the left
+      wing, because that was the only logical policy to do. The whole logic of socialism
+      has been forgotten. ⁣RICHARD WOLFF: That’s our jo, besides the critique of what’s
+      going on, is to intervene. I mean, that’s the way I see it, is to intervene, knowing
+      that our population here in the United States, but globally too, is very much
+      in agreement with everything that we used to have is falling apart. The old Europe
+      is falling apart. The deal with the United States is falling apart. Russia and
+      China, yes, they’re an alliance, but they’re an alliance that is sort of strange
+      if you think about it. You know, a Communist Party country, China with a party,
+      with a country that overthrew and rejected the Communist Party. They have their
+      problems too, of course. Everybody’s wondering where this goes next. Maybe the
+      Chinese, the least, because they’re on a roll of economic development. They don’t
+      ask those kinds of questions. But my guess is that the working class in China
+      will force those questions onto the table too. They have their strikes, they have
+      their unions, they have the same problems. You know, the United States, in its
+      heyday, the second half of the 19th century, when it took off and into the 20th,
+      was full of very profound labor struggles, including general strikes and all kinds
+      of things in the 19th and first half of the 20th century. Those were times when
+      socialism exploded in the United States. So the fact that China is experiencing
+      rapid economic development will, in its own way, probably lead to similar socialist
+      upsurges, different, of course, in that country because of what they’ve already
+      created, which the United States hadn’t done. But I think it remains what it always
+      was. The basic idea of socialism always was we can do better than capitalism.
+      We don’t have, just like the slaves didn’t have to accept slavery and the serfs
+      didn’t have to accept feudalism, the workers don’t have to accept capitalism.
+      And for very similar reasons, they can demand a society in which they come first:
+      not some small group of masters, not some small groups of masters, and not some
+      small group of employers. And the logic there is as impeccably clear and strong
+      now as it ever was. ⁣MICHAEL HUDSON: Well, it was industrial capitalism that developed
+      early socialism throughout the mid-19th century. Everybody in Europe, John Stuart
+      Mill, everybody thought that they were socialism in one form or another. The conservative
+      parties and the industrialists were the leading supporters of socialized medicine,
+      public health, socialized education, making a free education, socialized government
+      ownership of basic infrastructure, communication, the post office, the phone system,
+      electrical systems, the railroads, and the canals. All of this was the logic of
+      industrial capitalism itself just evolving forward. And that’s why Marx commented,
+      well, he was all in favor of the free market, because if you just don’t interfere
+      with the free market, capitalism is going to evolve into socialism. Well, of course,
+      there was interference with this market, and it came from the rentier, the finance
+      capital class, and the landlord class, and all of the rent-extracting, privileged
+      classes. And that successful fight against what had been the whole positive dynamic
+      of industrial capitalism is what went out and turned industrial capitalism into
+      this long detour into finance capitalism. ⁣NIMA ALKHORSHID: Richard, just you’ve
+      mentioned how strange it is that Russia and China are coming together. But correct
+      me if I’m mistaken. It seems to me that the strategy of the United States under
+      the Trump administration or under the Republican Democrats is a strategy of economic
+      dominance through energy by disrupting rival supply and trade wars. While we see
+      that the dollar is weakening and the United States is increasingly economically
+      interdependent with the rest of the world, how we can bring these two together?
+      It’s somehow strange to see all of that together. ⁣RICHARD WOLFF: The way I understand
+      it, and we’re running out of time, so we can maybe do this next week. But the
+      way I see it is the strategic organization of the big powers is always decades
+      behind the economic development. They barely understand it. They cannot control
+      it. They have the illusion that they can control it. And out of that comes one
+      chaotic mess after another. So what they’re trying to do now is everything you
+      just said, but the economic development of Russia and China are bringing them
+      together. They can help each other. Russia is going to give China this vast territory.
+      I mean, Russia is the richest country in the world based on the resources under
+      its soil. China is the engine, the industrial engine. You put these two things
+      together, they’re going to take off. That’s what we’re living through. And the
+      United States can’t hold on the illusion. Let me leave you with this. The illusion
+      of Mr. Trump. He wants Canada and Greenland. Of course he does. That’s his Russia.
+      He looks at the Russian Chinese. They have the North, you know, the Arctic, all
+      of that Russian, the Asian part of Russia. He wants that too. He somehow grasps
+      that we don’t have that. And the Canadians aren’t going to give it to us either.
+      But the Russians and the Chinese have what the Canadians and Americans imagined
+      they might one day have. They’re looking at these things and they’re very frightened.
+      And all I can tell you is they should be. ⁣NIMA ALKHORSHID: Thank you. Thank you
+      so much, Richard and Michael. Great pleasure, as always. ⁣RICHARD WOLFF: Okay.
+      ⁣NIMA ALKHORSHID: See you soon. Bye-bye. Transcription and Diarization: https://scripthub.dev/
+      Editing, Review: ced Image by Ali Akbar from Pixabay The post Tariff Theatre Meets
+      Imperial Reality first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion featuring Richard Wolff and Michael Hudson,
+      Nima Alkhorchid highlights Trump's remarks on U.S. foreign policy regarding the
+      Ukraine war during his State of the Union speech.
+    paragraph_summary: In a discussion on February 26, 2026, Nima Alkhorchid welcomed
+      Richard Wolff and Michael Hudson to talk about the implications of Donald Trump's
+      recent State of the Union speech, particularly regarding U.S. foreign policy towards
+      Iran and Ukraine. Trump briefly addressed these topics, with a notable focus on
+      Iran, amid rising tensions and public sentiment against a new war, as polls indicate
+      over 70% of Americans oppose military action. Hudson emphasized the potential
+      economic repercussions, particularly the impact on oil prices if conflict escalates,
+      especially with Iran's strategic control over the Strait of Hormuz. The conversation
+      highlighted the complexities of U.S. involvement in the Middle East and the public's
+      desire for peace.
+    published: '2026-03-04T11:03:48+00:00'
   - title: Negotiation to Detonation
     url: https://michael-hudson.com/2026/03/negotiation-to-detonation/
     text: March 2 2026 Last Friday the mediator of the U.S. and Iranian nuclear negotiations

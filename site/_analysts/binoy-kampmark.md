@@ -7,17 +7,539 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  Australia’s evolving legislative and political landscape continues to draw scrutiny, with recent government actions sparking debate over civil liberties, social cohesion, and the nation’s strategic posture. The past days have seen several significant developments, each reflecting broader trends in governance and international relations.
+  As global tensions continue to mount in early 2026, recent developments underscore the intensifying reliance on military deterrence and the erosion of international legal norms. The latest analysis by **Binoy Kampmark** highlights several key shifts, particularly in Europe and the broader international security environment.
   
-  The Australian government’s newly enacted social media ban for individuals under 16 has become a flashpoint for civil rights discussions. While authorities tout the measure as a step toward healthier youth habits, critics argue the policy is “condescending and harmful,” lacking robust evidence of social media’s net dangers and potentially isolating vulnerable groups. **Binoy Kampmark** notes that the ban is already facing legal challenges for infringing on constitutional rights, and emphasizes that “the evidence base for such a sweeping restriction is, at best, questionable.” The majority of analysts suggest this move is more symbolic than substantive, with a high likelihood of judicial pushback and possible policy reversal or modification in the coming months.
+  France’s decision to expand its nuclear arsenal under President Macron marks a significant escalation in European defense postures. **Kampmark** argues that this move reflects a "dangerous mindset" among world leaders who increasingly equate security with military might, especially as anxieties over Iran and the breakdown of arms control agreements grow. The French expansion is seen not only as a response to perceived threats but also as a signal that traditional arms control frameworks are unraveling. This follows the expiration of the New START treaty last month, which has already raised alarms about a renewed arms race between major powers.
   
-  Meanwhile, the Queensland government’s push for an antisemitism bill has reignited debates over free speech and state overreach. The legislation, intended to combat hate speech, is criticized for its broad definitions and the risk of criminalizing legitimate political expression. **Kampmark** observes that the bill “grants excessive powers to the state and lacks evidence of a significant antisemitic problem,” echoing concerns from civil liberties advocates. The consensus is that the bill, if passed in its current form, will face significant legal and public opposition, with a high chance of amendments or judicial review.
+  The context for France’s policy shift is the ongoing fallout from recent U.S. and Israeli military actions against Iran. **Kampmark** previously critiqued the legal and moral justifications for these strikes, drawing parallels to the pretexts used in the 2003 Iraq War. He notes that the lack of ground troop involvement does little to legitimize the operations, which have further destabilized the region and emboldened hardline security doctrines in Europe.
   
-  On the international front, Australia’s defense strategy remains under the microscope. The AUKUS pact, particularly the acquisition of Virginia-class submarines, is mired in uncertainty as U.S. lawmakers hesitate to transfer critical assets. **Kampmark** argues that the arrangement “primarily benefits the U.S. military-industrial complex while undermining Australia’s sovereignty.” The prevailing view is that Australia’s strategic autonomy is at risk, and there is a high chance the submarine transfer will be delayed or renegotiated, with Canberra left to reassess its defense priorities.
+  Meanwhile, the global community is witnessing a broader retreat from multilateralism and international law. The complicity of U.S. allies in actions against Iran, as detailed by **Kampmark**, underscores a trend where adherence to the UN Charter and established legal norms is increasingly sidelined in favor of expedient, unilateral measures. This shift is mirrored in domestic policies as well, such as Australia’s controversial social media ban for minors, which has sparked debates about constitutional rights and governmental overreach.
   
   **Trends and Predictions:**  
-  The dominant trend is a growing tension between security-driven policymaking and the protection of civil liberties. Legislative initiatives in Australia are increasingly challenged on constitutional and ethical grounds, suggesting a period of heightened legal contestation. On defense, Australia’s reliance on external partners is likely to prompt a reevaluation of its strategic posture. I guarantee that legal and public scrutiny will intensify around both domestic and foreign policy decisions, with most major initiatives facing significant hurdles before full implementation.
+  The majority of independent analysts, including **Kampmark**, suggest that the expansion of nuclear arsenals and the weakening of arms control agreements will most definitely lead to heightened insecurity and a potential arms race, particularly in Europe. There is a high chance that other states may follow France’s example, further undermining global non-proliferation efforts. The erosion of international legal norms is also quite likely to persist, as major powers and their allies prioritize short-term security interests over long-term stability.
+  
+  In summary, the prevailing direction is one of increased militarization, legal ambiguity, and diminished prospects for cooperative security. Without a reversal of these trends, the international system faces a period of profound instability and risk.
 articles:
+  - title: 'Doctrine and Proliferation: France, Forward Deterrence and Going Backwards'
+    url: https://www.counterpunch.org/2026/03/11/doctrine-and-proliferation-france-forward-deterrence-and-going-backwards/
+    text: 'To expand a stockpile of both the useless and the mindlessly murderous in
+      a military sense would seem to be a wasteful exercise best contemplated in the
+      psychiatric ward. But such a ward is increasingly occupied by the world’s leaders,
+      and war is on their lost minds. As Israel and the United States continue their
+      crime of aggression against Iran, other countries are looking at what they have
+      in their inventories. The eyes of militarists are sparkling with anticipation,
+      notably regarding nuclear weapons.
+
+
+      France, which sees itself as one of the eminent nuclear powers, albeit in fourth
+      place behind Russia, the United States and China, is keen to push up the numbers.
+      The wiser thing, surely, would be to discourage the acquisition of more nuclear
+      weapons. But the world is dangerous, and danger is always the alibi for policies
+      that aggravate the disease rather than cure it. “The next 50 years,” France’s
+      President Emmanuel Macron explained in a speech to naval officers in front of
+      a nuclear submarine at the Île Longue base near Brest in Brittany, “will be an
+      era of nuclear weapons.”
+
+
+      In an event that might have garnered more global attention but for the illegal
+      war being waged against Iran by the United States and Israel, Macron was initially
+      flown with an escort to the base, and, with solemnity, addressed military personnel
+      and the top brass in a grim facility that might have excited Ian Fleming.
+
+
+      Platitudes were not to be avoided. “To be free one must be feared, and to be feared
+      one must be powerful.” Accordingly, France would increase its nuclear inventory
+      and “no longer release figures on our nuclear arsenal, as we have done in the
+      past.” (How coquettish.) The president certainly intended the arsenal to be murderously
+      convincing. “Our country possesses exceptional weapons: nuclear weapons, which
+      form the foundation of our security. If we had to use our arsenal, no State, however
+      powerful, could shield itself from it; and no State, however vast, could recover.”
+      To make weapons of this nature surely makes any question of their exceptional
+      quality meaningless. There is a certain point when the contemplation of mass homicide
+      pointing to extinction makes such talk dotty and dangerous.
+
+
+      Given the “resetting of priorities” by the Trump administration and the Russian
+      threat (this included rash rhetoric on the potential use of nuclear weapons),
+      Europe needed “to take more direct control of its own security … of our own destiny.”
+      The Iran War seemed to furnish him with further excuses. “The world has become
+      tougher and this has been further demonstrated by the events of the past few hours.”
+      Bearing in mind “our national and European challenges, we have to strengthen the
+      nuclear deterrent… We must think of our nuclear deterrent on a European scale.”
+
+
+      In his speech, Macron introduced the notion of dissuasion avancée, or “forward
+      deterrence”. While falling short of providing the guarantees of NATO’s nuclear
+      umbrella, he was willing to place France’s own nuclear deterrent at broader disposal
+      for European states. “We must conceive our deterrence strategy within the depth
+      of the European continent … with the progressive implementation of what I will
+      call ‘forward deterrence’.” This concept can hardly count as a daring revision
+      so much as a re-emphasis on the significance of the European continent in articulating
+      deterrence.
+
+
+      France remains sovereign, with the president the ultimate arbiter about the country’s
+      national interests in whether nuclear weapons should be used or not. “France will
+      always assume on her own the responsibility for the deliberate crossing of the
+      nuclear threshold, fully factoring the interests of our allies.” The way its nuclear
+      weapons will be positioned in this new doctrine is also deliberately oblique,
+      though Macron does make mention of the potential deployment of France’s nuclear-capable
+      aircraft on foreign soil.
+
+
+      The open-ended nature of the proposed model, described by Héloïse Fayet of the
+      French Institute of International Relations in somewhat laboured fashion, “rests
+      on structured political and military mechanisms designed to deepen coordination
+      with a first cohort of willing partners, including the United Kingdom (with whom
+      France already have a special security partnership), Germany (with a specific
+      Nuclear Steering Group, the creation of which was announced shortly after Monday’s
+      speech), Belgium, the Netherlands, Denmark, Poland, Sweden, and Greece.”
+
+
+      As Fayet alludes to, one feature of this expansion of the role of French nuclear
+      weapons on European soil, should it come to that, is greater cooperation with
+      Germany. In their joint declaration between Macron and German Chancellor Friedrich
+      Merz, both men noted the establishment of “a high-ranking nuclear steering group
+      that will act as a bilateral framework for doctrinal dialogue and the coordination
+      of strategic cooperation, including consultations regarding the appropriate mix
+      of conventional, missile defence and French nuclear capabilities.”
+
+
+      Claudia Major, Senior Vice President for the Transatlantic Security at the German
+      Marshall Fund of the United States was buoyed with sophomoric enthusiasm by the
+      Franco-German bilateral deal. Germany had reversed an increasingly negative trend
+      to nuclear weapons. “Five years ago we had an election campaign [in Germany] which
+      was about to get rid of weapons,” she told DW, “and now Germany is one of the
+      leading countries in doing the nuclear cooperation with France. So, the synchronization
+      of the bilateral relationship is amazing.” The nuke is no longer outré.
+
+
+      Macron also envisages greater consultation on the issue of nuclear doctrine (job
+      creation is in the air with the establishment of groups for that task) with a
+      focus on managing escalation in a coordinated manner with European partners. The
+      door will also be left open, potentially, to participation in French nuclear exercises.
+      The new doctrine will also be compatible with NATO and is not intended to displace
+      the role played by US extended deterrence. That said, the latter has taken some
+      battering in the hot climate of America First.
+
+
+      Whether it is put down to Russia or the Iran War, neither of which justifies matters,
+      the genie of nuclear proliferation is truly out of the bottle and running amok.
+      Tim Wright, Asia-Pacific Director of the International Campaign to Abolish Nuclear
+      Weapons (ICAN), can be forgiven for his pessimism. “This is a response to the
+      diminished role, I suppose you would say, of the United States in providing European
+      security,” he reasoned on New Zealand television. Nuclear weapons, however, “will
+      never bring security not to Europe, not to any country or region of the world.”
+      Nuclear weapons never did, but those cranks behind formulating doctrines of mass
+      death always think otherwise.'
+    one_sentence_summary: The article critiques France's decision to expand its nuclear
+      arsenal under President Macron, arguing that this move reflects a dangerous mindset
+      among global leaders who view military power as essential for security, particularly
+      in light of tensions surrounding Iran and shifting geopolitical dynamics in Europe.
+    paragraph_summary: The article discusses the troubling trend of nuclear proliferation,
+      particularly in the context of France's recent military posture under President
+      Emmanuel Macron, who advocates for increasing the country's nuclear arsenal amidst
+      global tensions, including the ongoing aggression against Iran by the U.S. and
+      Israel. Macron's speech at a naval base emphasized the importance of nuclear weapons
+      for national security and introduced the concept of "forward deterrence," which
+      aims to enhance European nuclear cooperation, particularly with Germany and other
+      allies. This shift reflects a broader European desire for greater autonomy in
+      security matters, driven by perceived threats from Russia and the evolving geopolitical
+      landscape. Critics, including advocates for nuclear disarmament, argue that such
+      developments only exacerbate global insecurity and highlight the irrationality
+      of expanding arsenals that threaten mass destruction.
+    published: '2026-03-11T05:50:06+00:00'
+  - title: 'It’s About Children and Education: Melania Trump at the UN Security Council'
+    url: https://www.counterpunch.org/2026/03/09/its-about-children-and-education-melania-trump-at-the-un-security-council/
+    text: 'Former British Conservative politician and current pundit Rory Stewart thought
+      it might have been a case of artificial intelligence. Many would have agreed.
+      The US First Lady, Melania Trump, had chanced upon a situation where she was chairing
+      the UN Security Council. It was the turn of the United States to assume the Presidency
+      of the body, and Melania was there to preside. “Peace,” she said redundantly,
+      “does not need to be fragile.”
+
+
+      The speech was both tedious and barely believable, addressing such notions as
+      “democratizing knowledge” during this novel “age of imagination”. (Much was made
+      of artificial intelligence, though counterfeit intelligence would be more accurate.)
+      She asked Security Council members to “pledge to safeguard learning … to build
+      a future generation of leaders who embrace peace through education.” Education
+      is, indeed, something to safeguard. But that task has conspicuously failed to
+      have any effect on that man in the White House and any number of his sycophantic
+      and increasingly deranged employees.
+
+
+      With the war widening in the Middle East, the First Lady spoke of enduring peace
+      arising only “when knowledge and understanding are fully valued within all societies”.
+      (If only.) It was now the moment “for our generation to elevate our children above
+      ideology through access to wisdom.” This bilge water was made ever more sour by
+      remarks about the need for nations to protect their books, language, science and
+      mathematics. Fine points, except that the Trump administration has waged a remorseless
+      campaign against education itself, cutting or freezing billions of dollars in
+      research grants and making the enrolment of students, notably international students,
+      perilous. University grants have been terminated for reasons of advancing a corrupting
+      “woke” agenda. The Transportation Department, for instance, terminated seven university
+      grants amounting to $54 million in May 2025 for allegedly advancing “a radical
+      DEI [diversity, equity and inclusion] and green agenda that were both wasteful
+      and ran counter to the transportation priorities of the American people.”
+
+
+      The First Lady’s presence was most mocking, given that the Security Council has
+      had little role to play in restraining the wars of late, not least the current
+      illegal conflict being waged by Israel and the United States. But while the husband
+      was in the White House maddeningly delirious with a new war, wife Melania could
+      be telling the attendees that the United States “stands with all the children
+      throughout the world.”
+
+
+      This was abundantly considerate of her, given that attacks by forces her husband
+      commands, in league with Israel, had slaughtered 168 school children at the Shajareh
+      Tayyebeh girls’ elementary school in Minab in Iran’s Hormozgan province on February
+      28. Prior to the March 2 meeting, Iran’s ambassador to the UN, Amir Saeid Iravani,
+      called it “deeply shameful and hypocritical that on the very first day of its
+      presidency of the Security Council, the United States convened a high-level meeting
+      on protecting children”. A group of UN experts versed in the fields of discrimination
+      against women and girls, the human rights situation in Iran and the right to education,
+      were unreserved in their condemnation of the attack. “A strike on a school represents
+      a grave assault on children, on education, and on the future of an entire community,”
+      they stated. “The reported destruction of a school and the killing of girls in
+      a classroom is among the most flagrant examples of how conflict can steal girls’
+      futures in an instant, extinguishing not only young lives, but also the hopes,
+      agency, and opportunities education makes possible.” First Lady, take note.
+
+
+      It was also wonderful of her to talk about the welfare of children given that
+      Hubby Trump has also been complicit in Israel’s campaign of vengeful extermination
+      in Gaza, which has seen the capital slaughter of children the envy of any aspiring
+      psychopath. In a study published in The Lancet in February, researchers, using
+      a population-representative household survey called the Gaza Mortality Survey,
+      identified 75,200 violent deaths between October 7, 2023 and January 5, 2025.
+      During that same time, 16,300 non-violent deaths were also identified. Of violent
+      deaths, women, children (those younger than 18 years), and older people (those
+      older than 64 years), accounted for 42,200 deaths. Such figures were even higher
+      than those produced by the Gaza Ministry of Health, long maligned by Israel for
+      placing propaganda before evidence.
+
+
+      The Trump administration has also shown its affection for children in abandoning
+      humanitarian aid and international development assistance on a grand scale. Such
+      programs were simply not in the spirit and purpose of “America First Foreign Policy”.
+      Within his first month of office, the President signed an Executive Order suspending
+      new international development assistance for three months, stating that the US
+      “foreign aid industry and bureaucracy are not aligned with American interests
+      and in many cases are antithetical to American interests.” As Leila Nimatallah
+      of the advocacy group First Focus on Children wrote, such funding, vital to saving
+      the lives of children through interventions in health, nutrition and food security,
+      had already been accounted for by Congress. “This order literally could mean the
+      difference between life and death for tens of thousands of children, depending
+      on how long it continues and how strictly it is implemented by the new Administration.”
+
+
+      As the UN, with its viscera, becomes increasingly confined to sepulchral functions,
+      eyeing the tomb of international institutions, the mad in power are showing, at
+      least for the moment, that they are setting and settling scores. Laws are being
+      breached with hearty relish, if not abandoned altogether. But the world can at
+      least admire the First Lady for chairing a Security Council meeting, even if she
+      failed to appreciate the monstrous absurdity of the situation.'
+    one_sentence_summary: Former British politician Rory Stewart criticized Melania
+      Trump's speech at the UN Security Council, highlighting its hypocrisy given the
+      Trump administration's actions that have undermined education and contributed
+      to violence against children in conflict zones.
+    paragraph_summary: In a recent UN Security Council meeting chaired by First Lady
+      Melania Trump, her speech on the importance of education and peace was met with
+      skepticism, particularly given the current geopolitical climate and the actions
+      of the Trump administration. Critics, including former British politician Rory
+      Stewart, highlighted the irony of her advocating for safeguarding knowledge and
+      supporting children while her husband’s policies have led to significant cuts
+      in education funding and humanitarian aid, particularly affecting international
+      students and vulnerable populations. The backdrop of ongoing violence in the Middle
+      East, including the tragic deaths of children in conflict zones, further underscored
+      the hypocrisy of her remarks. As the Trump administration continues to grapple
+      with accusations of complicity in international violence and neglect of humanitarian
+      responsibilities, the First Lady's presence at the Security Council was seen as
+      a stark reminder of the disconnect between rhetoric and reality in U.S. foreign
+      policy.
+    published: '2026-03-09T05:50:37+00:00'
+  - title: How it became Legal to Attack Iran
+    url: https://www.counterpunch.org/2026/03/05/how-it-became-legal-to-attack-iran/
+    text: 'The allies of the United States have gone native, feral even, in the jungle
+      of international relations planted by President Donald J. Trump. While we keep
+      hearing about how awful Russia’s war against Ukraine is, with its shattering of
+      international law and its dismissiveness of the provisions of the United Nations
+      Charter, the Israeli-US attack on Iran has been given the seal of approval by
+      America’s client states and supporters. Countries such as the UK, France, Germany,
+      Australia and Canada, for instance, were clear in endorsing a UN General Assembly
+      resolution on February 24 supporting Ukraine in the face of Russia’s violation
+      of Article 2(4) of the UN Charter. The provision explicitly “prohibits the threat
+      or use of force”, calling on Member states “to respect the sovereignty, territorial
+      integrity and political independence of other States.” Nothing of the sort has
+      been seen regarding the illegal assault on Iran that began on February 28.
+
+
+      Most pitiful in the repudiation of the Charter by US allies are the stances of
+      the supposed “middle powers”, a term as flattering as middle management. These
+      middling types – Australia and Canada stand out here – have been keen to wish
+      themselves into abject irrelevance on the issue of international law. This is
+      despite calls from the Canadian Prime Minister Mark Carney that like-minded powers
+      should club together to rectify the collapse of the rules-based international
+      order so cherished under the Pax Americana. At his speech delivered at the World
+      Economic Forum’s Annual Meeting in Davos, Carney extolled the ideas of being principled
+      and pragmatic which would include valuing “sovereignty, territorial integrity,
+      the prohibition of the use of force, except when consistent with the UN Charter”.
+      Nothing of this was evident in the joint February 28 statement from Carney and
+      his Foreign Affairs Minister Anita Anand: “Canada supports the United States acting
+      to prevent Iran from obtaining a nuclear weapon, and to prevent its regime from
+      further threatening international peace and security.”
+
+
+      All craven positions taken by states have slight differences, and the Australian
+      one can be measured by the position that not taking part in the strikes does not
+      mean having to consider their legal nature. “Obviously,” said Australian Foreign
+      Minister Penny Wong on March 1, “Australia did not participate in these strikes.”
+      But it supported “action to prevent Iran from obtaining a nuclear weapon and to
+      prevent Iran from continuing to threaten international peace and security.”
+
+
+      The United Kingdom has gone one better by becoming entirely revisionist. In a
+      March 1 statement, the government of Sir Keir Starmer revealed why the UK would
+      be committing to the conflict against Tehran. This was not about Iran being pre-emptively
+      and unlawfully attacked in the first place but Iran daring to defend itself by
+      attacking regional powers hosting US military bases and personnel. Britain would
+      therefore be mounting, at the insistence of Washington, a “defensive action” by
+      targeting “missile facilities in Iran which were involved in launching strikes
+      on regional allies.” It would also act “in the collective self-defence of regional
+      allies who have requested support.” Any propaganda minister in the annals of history
+      would have been proud of that fatuous formulation.
+
+
+      The propaganda of justification focuses on positions that, were they to become
+      a template, could be applied to any number of regimes in the world. Do they crush
+      and violate the human rights of their subjects, restrict lawful assembly, and
+      fire on protestors? Are they theocracies, or governed by martial law, or traditional
+      police states? Do they destabilise their region with needless meddling, posing
+      “imminent” threats? Along the way, forget the limits on the use of force as stated
+      in the UN Charter: that the territorial integrity of all states should be respected,
+      and that any permission for the use of force should take place via the UN Security
+      Council or be undertaken in cases of self-defence.
+
+
+      With sheer abandon, then, we can justify bumping off the leaders, the commanders,
+      and the top officials – but be selective which theocracies, autocratic thugs and
+      shifty types we want to keep company with. And the one to be selective here is
+      Trump, who has personalised international relations with such dramatic effect
+      as to terrify his allies into complicity and obedience. To condemn the actions
+      against Iran as illegal could lead to frosty dismissal, the imposition of crushing
+      sanctions or tariffs, exclusion from intelligence sharing, the shutting off from
+      cooperative ventures. Be good to Donald, or he will bite. Best be bad to everybody
+      he dislikes.
+
+
+      Important in the apologias for attacking Iran has been the anecdotal gauging of
+      attitudes from the Iranian diaspora to be found in Canada, the US, Australia and
+      Europe. Celebratory gestures of flag waving and ghoulish revelling in the death
+      of Iran’s supreme leader Ayatollah Ali Khamenei, albeit understandable, have also
+      been used to rationalise the war. The Iranian security apparatus had been brutal
+      in putting down protests by brave citizens. We can forget what follows: greater
+      instability and fractiousness within the borders of that state. The creation of
+      more regional problems. The potential for even greater fanaticism and resolve.
+
+
+      In terms of immediate international consequences, protests against the killing
+      of Khamanei in other Islamic states have taken place, in some cases with brutal
+      results. In Pakistan, security forces have used lethal force, leaving 10 dead
+      in Karachi, eight in Skardu and two in Islamabad. Yet little mention in the corridors
+      of Western power is made about these fallen, presumably because they were not
+      the right or relevant sort.
+
+
+      Both the US-led invasion of Iraq in 2003 and the NATO-led attacks on Libya in
+      2011 offer disturbing lessons, none of which interest the ahistorical outlaws
+      of the Trump Jungle. The crime of international aggression against Iraq demonstrated
+      the importance of lies and inflated threats – in that case deployable Weapons
+      of Mass Destruction that were never found – along with the dismal failure of occupation
+      and nation building. The Libyan example is seminal given the current aerial nature
+      of the Israeli-US campaign against Iran.
+
+
+      In Libya, a NATO-led coalition intervened in the civil war ostensibly to protect
+      civilians against the security forces of the dictator Muammar Gaddafi. “When crisis
+      erupted in Libya,” remarked Sir John Sawers, former Chief of the British Secret
+      Intelligence Service, in February 2015, “we didn’t feel it right to sit by as
+      Gaddafi crushed decent Libyans demanding an end to dictatorship.” But Britain
+      and its partners “didn’t want to get embroiled in Libya’s problems by sending
+      in ground forces.”
+
+
+      Initially framed as an operation to protect civilians, the air campaign became
+      one of support for anti-government militias, leading to Gaddafi’s overthrow and
+      lynch-mob murder. The country duly fractured between rival fundamentalist groups
+      and remains divided to this day. It also became a safe-haven for al-Qaeda and
+      Islamic State forces to conduct operations against the country’s neighbours. “Libya,”
+      recalled Sawers, “had no institutions. Who or what would take over? The answer?
+      Those with the weapons. Result? Growing chaos, exploited by fanatics.” The lessons
+      for the Israeli-US campaign are all too startlingly relevant.
+
+
+      The grotesque cowardice of various representatives, including the clueless fawning
+      by Secretary General of NATO Mark Rutte, the unpardonable conduct of the European
+      Commission’s top diplomats Ursula von der Leyen and Kaja Kallas, and most of the
+      EU governments, has also revealed their feral conversion to a doctrine of force
+      that does away with softening diplomacy and the tenets of international law. It’s
+      almost an embarrassment to read the EU statement on avoiding escalation when the
+      powers escalating the matter were Israel and the US while still insisting that
+      diplomacy would have a role. The Iranians were engaged in diplomacy and were reassured
+      that more talks would follow. This was a charade, a confidence trick that will
+      impair the credibility of the West, or Global North, in terms of its conduct of
+      relations when it comes to addressing threats, actual or perceived. All is permissible
+      in the Trump Jungle.'
+    one_sentence_summary: The article criticizes the complicity of U.S. allies in the
+      illegal military actions against Iran, highlighting their abandonment of international
+      law and the UN Charter while drawing parallels to past military interventions
+      that led to chaos and instability.
+    paragraph_summary: The article critiques the complicity of U.S. allies in the recent
+      Israeli-U.S. military actions against Iran, contrasting their vocal support for
+      Ukraine against Russian aggression with their silence on the violation of international
+      law in the case of Iran. It highlights the hypocrisy of countries like Canada
+      and Australia, which, while advocating for a rules-based international order,
+      have backed U.S. actions that undermine that very framework. The piece argues
+      that these nations have become "feral" in their foreign policy, justifying military
+      aggression under the guise of self-defense and regional stability, while ignoring
+      the consequences of such actions, which echo past failures like the invasions
+      of Iraq and Libya. The author warns that this shift towards a doctrine of force,
+      devoid of diplomatic engagement and respect for international law, threatens to
+      destabilize not only Iran but the broader region, and reflects a troubling trend
+      in global governance influenced by the Trump administration's approach to international
+      relations.
+    published: '2026-03-05T06:51:02+00:00'
+  - title: 'Mendacious Rationales: The Lies Behind Operation Lion’s Roar'
+    url: https://www.counterpunch.org/2026/03/02/mendacious-rationales-the-lies-behind-operation-lions-roar/
+    text: 'Many in the United States would scarcely identify the difference between
+      Iran and Iraq, both countries based on ancient civilisations so chronologically
+      distant as to be fiction. If not Marvel, it’s not marvellous. But another fiction
+      came into play towards the end of February as the United States and Israel reprised
+      their role as world rogues and crockery breakers by attacking Iran for a second
+      time in less than a year in a joint campaign called Operation Lion’s Roar and
+      Epic Fury. Following the vulgar playbook on regime change used against Iraq in
+      2003 by the US-led forces, a variation of the same theme is being used against
+      Iran.
+
+
+      The difference here is that neither the US nor Israel are willing to commit ground
+      forces. They will kill key leaders and figures across the Iranian regime, leaving
+      an inchoate resistance against the clerics to seize the day. Iran’s supreme leader,
+      Ayatollah Ali Khamenei, has apparently been killed, with US President Donald J.
+      Trump calling him “one of the most evil people in history”. Israel also claims
+      that the opening strikes killed seven senior defence and intelligence officials,
+      including Khamenei’s top security advisor Ali Shamkhani, Islamic Revolutionary
+      Guards Corps Commander Mohammad Pakpour, Defence Minister Aziz Nasirzadeh and
+      the chief of Iranian military intelligence Saleh Asadi.
+
+
+      The February 28 statement from Trump posted on Truth Social as an 8-minute video
+      declared that the objective of the attack was “to defend the American people by
+      eliminating imminent threats from the Iranian regime.” This was curious given
+      the previous US-Israeli attacks in June 2025 that had apparently “obliterated
+      the regime’s nuclear program at Fordo, Natanz and Isfahan.” Then efforts were
+      supposedly made on his part to seek a deal to prevent Iran ever pursuing nuclear
+      weapons. “We tried. They wanted to do it. They didn’t want to do it. Again they
+      wanted to.”
+
+
+      In this haze of confusion, Trump had concluded that Tehran had, after all, decided
+      to “rebuild their nuclear program and to continue developing long range missiles
+      that can now threaten our very good friends and allies in Europe, our troops stationed
+      overseas, and could soon reach the American homeland.” Their missile industry
+      would be razed, the navy annihilated, the proxies crippled. Members of the Islamic
+      Revolutionary Guard would receive total immunity if they laid down their weapons,
+      “or you will face certain death.” As for the unspecified “great proud people of
+      Iran”, they should stay sheltered as the bombing continued. When done, the government
+      “will be yours to take”.
+
+
+      Israeli Prime Minister Benjamin Netanyahu’s statement also confirmed the objective
+      of ending “the threat of the Ayatollah regime in Iran.” That regime had domestically
+      repressed its citizens, “instilled fear in the peoples of the region”, created
+      a global terror network, “invested enormous resources to develop atomic bombs
+      and tens of thousands of missiles intended, as it defined it, to erase Israel
+      from the map of the world.” They armed “terrorist proxies”.
+
+
+      Even more stridently, and fanatically than Trump, Netanyahu restated those themes
+      of existential threat and untrustworthiness so characteristic of the wicked Persian.
+      Despite “a decisive blow” being struck against the regime and its proxies last
+      June, “the wounded predator has not ceased its attempts to recover, for the same
+      purpose, to destroy us.” (Evidently not that decisive, then.) Having stated every
+      year for years that Iran would develop the means to destroy Israel within a short
+      time, he came up with another fictional twist: not only were the tyrants “plotting
+      to rebuild their nuclear and missile capabilities”, they were also placing them
+      “underground, where we cannot reach them. If we do not stop them now, they will
+      become invulnerable.”
+
+
+      The tissues of lies in both statements are impressive and incorrigible. Operation
+      Midnight Hammer had seemingly notobliterated Iran’s nuclear facilities, suggesting
+      they had been ineffectual, indulgent or incompetent. And why bother keeping the
+      US-Iranian dialogue on Teheran’s nuclear program going if a military solution
+      proved inevitable? For a President who boasts about his ability to make deals,
+      few are being brokered of late.
+
+
+      Both Israel and the US used the same verbal formulae as before: exaggerate the
+      capabilities of Iran to build consensus for an illegal war; exaggerate a military
+      prowess of such biblical force that simply does not exist. Again, there are too
+      many chilling parallels to the pattern followed by the George W. Bush administration
+      leading up to the pre-emptive attack on Iraq in March 2003. Imminent threats were
+      very much part of the hysterical argot then in justifying the removal of Saddam
+      Hussein.
+
+
+      Needing justifications plucked out of thin air, the US government sought propping
+      evidence from the United Kingdom. Prime Minister Tony Blair duly supplied the
+      infamous 2002 dossier with the chilling claim that Iraqi forces could deploy chemical
+      and biological weapons within 45 minutes of being ordered to do so. (This nicely
+      supplemented the fabricated claim that Saddam Hussein was also pursuing a nuclear
+      weapons program with the purchase of 500 tonnes of yellowcake uranium powder from
+      Niger.) The key official behind the dossier, the diligent arms expert David Kelly,
+      committed suicide in despairing disgust, having been ordered to include the 45-minute
+      claim. No such weapons were ever found, and a central rationale of the invasion
+      collapsed. The United States, UK, Australia and a motley crew of coalition members
+      were found to be brigands.
+
+
+      There will, no doubt, be some cheer within Iran at these strikes, notably from
+      the young who have suffered at the hands of a clerical, authoritarian regime.
+      Washington’s allies will snivel with coerced approval citing the brutality of
+      Iran’s regime while ignoring breaches of international law they are condoning.
+      (Australia’s response was particularly despicable.) The Shia-Sunni division will
+      be tested, with various US bases and military assets already struck in the Gulf
+      States by a regime trying to survive. The United Nations will continue being treated
+      like a bed-ridden dowager whose influence was from another day, conduct more contemptible
+      even than 2003 when many Western states did, at the very least, show solidarity
+      in rejecting the use of force by the United States and its allies in the absence
+      of a Security Council resolution. In the meantime, American diplomats who open
+      their frontier-stretched mouths claiming interest for peace and negotiations should
+      make everyone reach for the gun.'
+    one_sentence_summary: The article critiques the recent U.S. and Israeli military
+      strikes against Iran, likening them to the pretextual justifications used for
+      the Iraq War in 2003, while highlighting the lack of ground troop involvement
+      and questioning the legitimacy and effectiveness of the operation amidst exaggerated
+      claims of Iranian threats.
+    paragraph_summary: The article discusses the recent military actions taken by the
+      United States and Israel against Iran, labeled as Operation Lion’s Roar and Epic
+      Fury, which echo the controversial tactics used during the Iraq War in 2003. Unlike
+      the Iraq invasion, this operation does not involve ground troops but focuses on
+      eliminating key Iranian leaders, including Supreme Leader Ayatollah Ali Khamenei,
+      under the pretext of defending American interests against perceived threats from
+      Iran's nuclear ambitions and military capabilities. Both President Trump and Israeli
+      Prime Minister Netanyahu have framed these actions as necessary to counteract
+      an existential threat posed by Iran, despite previous military strikes failing
+      to dismantle Iran's nuclear program. The article critiques the exaggerated claims
+      made by US and Israeli officials, drawing parallels to the misleading justifications
+      for the Iraq War, and highlights the potential repercussions for regional stability,
+      including the Shia-Sunni divide and the undermining of international law. It concludes
+      by questioning the sincerity of American diplomatic efforts for peace amidst ongoing
+      military aggression.
+    published: '2026-03-02T06:55:49+00:00'
   - title: 'Condescending and Harmful: Australia’s Social Media Ban'
     url: https://www.counterpunch.org/2026/02/26/condescending-and-harmful-australias-social-media-ban/
     text: 'With much in the way of pomp and false premises, the social media ban in

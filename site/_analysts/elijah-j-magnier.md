@@ -7,17 +7,1252 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The geopolitical landscape in the Middle East has entered a critical phase following the assassination of Iran’s Supreme Leader Sayyed Ali Khamenei and the subsequent escalation of hostilities between Israel, Iran, and their respective allies. As of March 4, 2026, the situation is marked by both overt military action and deepening ideological confrontation.
+  The ongoing Middle East conflict has entered a new phase of strategic deadlock, with the United States and Iran locked in a prolonged confrontation that neither side appears able to decisively resolve. As **Elijah J. Magnier** notes, former President Donald Trump’s expectation that Iran would be cowed by U.S. military threats and rapid strikes has proven misguided. Instead, Iran has demonstrated resilience and responded with its own retaliatory measures, leaving the U.S. administration unable to claim a clear victory or exit the conflict without political cost.
   
-  The most significant new development is Israel’s official commencement of a ground offensive in Lebanon. According to **Elijah J. Magnier**, Prime Minister Benjamin Netanyahu has explicitly framed the war as a confrontation not only with Hezbollah and Iran—the so-called Shia axis—but also with a rising Sunni axis. This articulation signals a broader ideological and geopolitical campaign, interpreted in both Tehran and Beirut as a declaration of existential conflict. **Magnier** notes that this framing is perceived by Iran and Hezbollah as a direct threat to their regional power and survival.
+  This impasse is compounded by differing perceptions of the conflict’s stakes. While regional actors such as Iran, Israel, and Hezbollah view the war as existential—fighting for their survival and fundamental interests—the United States approaches it as a matter of influence and regional posture. This divergence, highlighted by **Elijah J. Magnier**, has led to mismatched strategies and a persistent risk of further escalation, as local actors are willing to absorb greater costs and take bolder actions.
   
-  Hezbollah now faces a two-front war: active military engagement at the Israeli-Lebanese border and mounting internal pressures within Lebanon itself. The group’s leadership views the conflict as a battle for the future of Shia political influence in the region, against what they see as US and Israeli efforts to reshape the Middle East’s balance of power.
+  Recent weeks have also seen increased coordination between Iran and Hezbollah, including joint missile attacks on Israeli targets, underscoring the depth of their military alliance and the regionalization of the conflict. Israel, for its part, had prepared for a decisive blow against Hezbollah, believing the group was weakened. However, the aftermath has shown that such calculations underestimated Hezbollah’s capacity for sustained resistance and the broader consequences of escalation.
   
-  Meanwhile, in Iran, the aftermath of Khamenei’s assassination has not resulted in state paralysis. Instead, as **Elijah J. Magnier** observes, the interim leadership council demonstrates that power in Iran is distributed across multiple institutions and security networks, allowing the state to maintain functionality even amid crisis. This resilience is expected to sustain Iran’s capacity to project influence and support its regional allies, including Hezbollah.
-  
-  **Trends and Predictions:**  
-  The majority of sources agree that the Israeli ground operation in Lebanon marks a new and dangerous escalation, with high potential for regional spillover. The ideological framing by Israeli leadership suggests that the conflict is unlikely to be contained to the immediate military front and will continue to draw in regional actors. Given the distributed nature of power in Iran and the existential stakes for Hezbollah, it is highly likely that both actors will intensify their resistance rather than seek de-escalation. I guarantee that the coming days will see further military and political escalation, with little prospect for immediate diplomatic resolution.
+  Looking ahead, the prevailing trend is one of continued stalemate and high-intensity, low-resolution conflict. The majority of analysts, including **Elijah J. Magnier**, assess with high confidence that neither the U.S. nor its regional adversaries are positioned to achieve a decisive breakthrough in the near term. The risk of miscalculation and further escalation remains significant, but a negotiated settlement appears unlikely as long as the existential stakes for regional actors persist. I guarantee that the strategic deadlock will continue, with periodic escalations and no clear resolution in sight.
 articles:
+  - title: 'Der Krieg gegen den Iran: Vom Blitzschlag zum strategischen Patt'
+    url: https://ejmagnier.com/2026/03/10/der-krieg-gegen-den-iran-vom-blitzschlag-zum-strategischen-patt/
+    text: 'Von Elijah J. Magnier – „Friedenspräsident“ Donald Trump ging davon aus,
+      dass der Iran zunächst durch seine Drohungen, dann durch den stetigen Aufbau amerikanischer
+      Streitkräfte in der Region und schließlich – als Teheran nicht nachgab – durch
+      eine Reihe von Blitzschlägen eingeschüchtert werden würde, die die Konfrontation
+      innerhalb weniger Tage beenden sollten. Entgegen diesen Erwartungen reagierte
+      der Iran, indem er sich dem erwarteten Angriff stellte und Vergeltungsmaßnahmen
+      gegen die US-Streitkräfte in ihren Stützpunkten im Nahen Osten und gegen seinen
+      wichtigsten Verbündeten, Israel, ergriff, der den Konflikt ausgelöst hatte. Trump
+      scheint in der Zwickmühle zu stecken: Er versucht, Siege zu verkünden, die international
+      nicht glaubwürdig sind, kann aber den Krieg aufgrund der unnachgiebigen Bedingungen
+      des Iran und der anhaltenden Kampagne Israels zur Zerstörung der Infrastruktur
+      und Ressourcen des Iran nicht beenden. Einige von Trumps Beratern, darunter Jared
+      Kushner und Steve Witkoff als Gesandte und Pete Hegseth als Verteidigungsminister,
+      könnten den Präsidenten in die Irre geführt haben, indem sie sich auf unbestätigte
+      oder übertriebene Bedrohungen stützten oder diese präsentierten. Dies geschah
+      trotz der Einschätzungen von US-Geheimdiensten wie der CIA, dem Office of the
+      Director of National Intelligence und dem Pentagon, die Berichten zufolge den
+      Behauptungen widersprachen, dass der Iran einen unmittelbar bevorstehenden Angriff
+      auf amerikanische Streitkräfte oder Interessen vorbereite. Berichte vom 1. bis
+      3. März 2026 beschreiben geschlossene Briefings, in denen Regierungsbeamte den
+      Kongress darüber informierten, dass keine konkreten Geheimdienstinformationen
+      darauf hindeuteten, dass der Iran einen Präventivschlag plane. Stattdessen wurde
+      die Operation als „proaktive Verteidigungsmaßnahme” dargestellt, die darauf abziele,
+      umfassendere Bedrohungen im Zusammenhang mit den nuklearen Ambitionen des Iran,
+      seinen Raketenkapazitäten oder regionalen Stellvertretern zu verhindern und teilweise
+      mit den einseitigen Plänen Israels in Einklang zu bringen. Diese Erklärung steht
+      in krassem Gegensatz zu den öffentlichen Äußerungen von Trump, die von Persönlichkeiten
+      wie Hegseth und Marco Rubio wiederholt wurden, die von einer „unmittelbaren Bedrohung”
+      sprachen – eine Behauptung, die entweder übertrieben oder erfunden war, um die
+      Angriffe zu rechtfertigen. Hinweise auf widersprüchliche Ratschläge und mögliche
+      Falschdarstellungen tauchten in den Tagen vor den Angriffen vom 28. Februar auf.
+      Eine Woche vor der Operation warnten das Amt des Direktors der Nationalen Nachrichtendienste
+      und das Pentagon, dass Versuche, das iranische Regime zu schwächen oder zu destabilisieren,
+      wahrscheinlich scheitern und eine größere regionale Eskalation mit schwerwiegenden
+      globalen Auswirkungen auslösen würden. Trotz dieser Warnungen wurde die Operation
+      auf der Grundlage weitaus optimistischerer Einschätzungen durchgeführt, die Berichten
+      zufolge von Beratern wie Kushner und Witkoff vertreten wurden, die sich angeblich
+      stark auf israelische Bewertungen stützten. Kritiker argumentieren, dass diese
+      Gesandten, denen es an fundierten nuklearen Fachkenntnissen mangelte, die nuklearen
+      Absichten des Iran und seine Verhandlungsposition in Genf überbewertet hätten,
+      indem sie behaupteten, Teheran prahle mit seinem Potenzial zur Herstellung von
+      Bomben oder bestehe auf inakzeptablen Anreicherungsgraden. Damit hätten sie angeblich
+      die Einschätzungen der Geheimdienste außer Acht gelassen, die keine Hinweise auf
+      ein aktives iranisches Waffenprogramm oder eine unmittelbar bevorstehende nukleare
+      Fähigkeit gefunden hatten. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Artikel beschreibt, wie Donald Trump fälschlicherweise
+      annahm, dass der Iran durch militärische Drohungen und Blitzangriffe der USA eingeschüchtert
+      werden würde, während der Iran stattdessen Vergeltungsmaßnahmen ergriff und Trump
+      sich in einer schwierigen Lage befindet, da er keine glaubwürdigen Siege verkünden
+      kann und der Konflikt weiterhin anhält.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die missratene Strategie
+      von Donald Trump im Umgang mit dem Iran beleuchtet, die auf der Annahme basierte,
+      dass Drohungen und der Aufbau amerikanischer Streitkräfte in der Region Teheran
+      zur Kapitulation bewegen würden. Stattdessen reagierte der Iran mit Vergeltungsmaßnahmen
+      gegen US-Truppen und Israel, was Trump in eine schwierige Lage brachte, da er
+      trotz seiner Versuche, Siege zu verkünden, den Konflikt nicht beenden konnte.
+      Berater wie Jared Kushner und Pete Hegseth könnten Trump durch übertriebene Bedrohungen
+      in die Irre geführt haben, während US-Geheimdienste, einschließlich der CIA und
+      des Pentagon, Berichten zufolge keine Hinweise auf einen bevorstehenden iranischen
+      Angriff fanden. Stattdessen wurde die iranische Militäraktion als „proaktive Verteidigungsmaßnahme“
+      gegen umfassendere Bedrohungen dargestellt.
+    published: '2026-03-10T17:35:25+00:00'
+  - title: 'Der Krieg gegen den Iran: Vom Blitzschlag zum strategischen Patt'
+    url: https://ejmagnier.com/2026/03/10/der-krieg-gegen-den-iran-vom-blitzschlag-zum-strategischen-patt/
+    text: 'Von Elijah J. Magnier – „Friedenspräsident“ Donald Trump ging davon aus,
+      dass der Iran zunächst durch seine Drohungen, dann durch den stetigen Aufbau amerikanischer
+      Streitkräfte in der Region und schließlich – als Teheran nicht nachgab – durch
+      eine Reihe von Blitzschlägen eingeschüchtert werden würde, die die Konfrontation
+      innerhalb weniger Tage beenden sollten. Entgegen diesen Erwartungen reagierte
+      der Iran, indem er sich dem erwarteten Angriff stellte und Vergeltungsmaßnahmen
+      gegen die US-Streitkräfte in ihren Stützpunkten im Nahen Osten und gegen seinen
+      wichtigsten Verbündeten, Israel, ergriff, der den Konflikt ausgelöst hatte. Trump
+      scheint in der Zwickmühle zu stecken: Er versucht, Siege zu verkünden, die international
+      nicht glaubwürdig sind, kann aber den Krieg aufgrund der unnachgiebigen Bedingungen
+      des Iran und der anhaltenden Kampagne Israels zur Zerstörung der Infrastruktur
+      und Ressourcen des Iran nicht beenden. Einige von Trumps Beratern, darunter Jared
+      Kushner und Steve Witkoff als Gesandte und Pete Hegseth als Verteidigungsminister,
+      könnten den Präsidenten in die Irre geführt haben, indem sie sich auf unbestätigte
+      oder übertriebene Bedrohungen stützten oder diese präsentierten. Dies geschah
+      trotz der Einschätzungen von US-Geheimdiensten wie der CIA, dem Office of the
+      Director of National Intelligence und dem Pentagon, die Berichten zufolge den
+      Behauptungen widersprachen, dass der Iran einen unmittelbar bevorstehenden Angriff
+      auf amerikanische Streitkräfte oder Interessen vorbereite. Berichte vom 1. bis
+      3. März 2026 beschreiben geschlossene Briefings, in denen Regierungsbeamte den
+      Kongress darüber informierten, dass keine konkreten Geheimdienstinformationen
+      darauf hindeuteten, dass der Iran einen Präventivschlag plane. Stattdessen wurde
+      die Operation als „proaktive Verteidigungsmaßnahme” dargestellt, die darauf abziele,
+      umfassendere Bedrohungen im Zusammenhang mit den nuklearen Ambitionen des Iran,
+      seinen Raketenkapazitäten oder regionalen Stellvertretern zu verhindern und teilweise
+      mit den einseitigen Plänen Israels in Einklang zu bringen. Diese Erklärung steht
+      in krassem Gegensatz zu den öffentlichen Äußerungen von Trump, die von Persönlichkeiten
+      wie Hegseth und Marco Rubio wiederholt wurden, die von einer „unmittelbaren Bedrohung”
+      sprachen – eine Behauptung, die entweder übertrieben oder erfunden war, um die
+      Angriffe zu rechtfertigen. Hinweise auf widersprüchliche Ratschläge und mögliche
+      Falschdarstellungen tauchten in den Tagen vor den Angriffen vom 28. Februar auf.
+      Eine Woche vor der Operation warnten das Amt des Direktors der Nationalen Nachrichtendienste
+      und das Pentagon, dass Versuche, das iranische Regime zu schwächen oder zu destabilisieren,
+      wahrscheinlich scheitern und eine größere regionale Eskalation mit schwerwiegenden
+      globalen Auswirkungen auslösen würden. Trotz dieser Warnungen wurde die Operation
+      auf der Grundlage weitaus optimistischerer Einschätzungen durchgeführt, die Berichten
+      zufolge von Beratern wie Kushner und Witkoff vertreten wurden, die sich angeblich
+      stark auf israelische Bewertungen stützten. Kritiker argumentieren, dass diese
+      Gesandten, denen es an fundierten nuklearen Fachkenntnissen mangelte, die nuklearen
+      Absichten des Iran und seine Verhandlungsposition in Genf überbewertet hätten,
+      indem sie behaupteten, Teheran prahle mit seinem Potenzial zur Herstellung von
+      Bomben oder bestehe auf inakzeptablen Anreicherungsgraden. Damit hätten sie angeblich
+      die Einschätzungen der Geheimdienste außer Acht gelassen, die keine Hinweise auf
+      ein aktives iranisches Waffenprogramm oder eine unmittelbar bevorstehende nukleare
+      Fähigkeit gefunden hatten. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Artikel beschreibt, wie Donald Trump fälschlicherweise
+      annahm, dass der Iran durch militärische Drohungen und Blitzangriffe der USA eingeschüchtert
+      werden würde, während der Iran stattdessen Vergeltungsmaßnahmen ergriff und Trump
+      sich in einer schwierigen Lage befindet, da er keine glaubwürdigen Siege verkünden
+      kann und der Konflikt weiterhin anhält.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die missratene Strategie
+      von Donald Trump im Umgang mit dem Iran beleuchtet, die auf der Annahme basierte,
+      dass Drohungen und der Aufbau amerikanischer Streitkräfte in der Region Teheran
+      zur Kapitulation bewegen würden. Stattdessen reagierte der Iran mit Vergeltungsmaßnahmen
+      gegen US-Truppen und Israel, was Trump in eine schwierige Lage brachte, da er
+      trotz seiner Versuche, Siege zu verkünden, den Konflikt nicht beenden konnte.
+      Berater wie Jared Kushner und Pete Hegseth könnten Trump durch übertriebene Bedrohungen
+      in die Irre geführt haben, während US-Geheimdienste, einschließlich der CIA und
+      des Pentagon, Berichten zufolge keine Hinweise auf einen bevorstehenden iranischen
+      Angriff fanden. Stattdessen wurde die iranische Militäraktion als „proaktive Verteidigungsmaßnahme“
+      gegen umfassendere Bedrohungen dargestellt.
+    published: '2026-03-10T17:35:25+00:00'
+  - title: 'La guerre contre l’Iran : de la frappe éclair à l’impasse stratégique'
+    url: https://ejmagnier.com/2026/03/10/la-guerre-contre-liran-de-la-frappe-eclair-a-limpasse-strategique/
+    text: Par Elijah J. Magnier – Le « président de la paix », Donald Trump, pensait
+      que l’Iran serait d’abord intimidé par ses menaces, puis par le déploiement progressif
+      des forces américaines dans la région, et enfin — lorsque Téhéran ne céderait
+      pas — par une série rapide de frappes censées mettre fin à la confrontation en
+      quelques jours. Contrairement à ces attentes, l’Iran a réagi en affrontant l’attaque
+      qu’il anticipait et en ripostant contre les forces américaines à travers leurs
+      bases au Moyen-Orient ainsi que contre leur principal allié, Israël, à l’origine
+      du conflit. Trump apparaît désormais piégé, tentant de proclamer des victoires
+      qui manquent de crédibilité à l’échelle internationale, tout en étant incapable
+      de mettre fin à la guerre en raison des conditions fermes imposées par l’Iran
+      et de la poursuite par Israël de sa campagne visant à détruire les infrastructures
+      et les ressources iraniennes. Certains conseillers de Trump, notamment Jared Kushner
+      et Steve Witkoff en tant qu’émissaires, ainsi que Pete Hegseth comme secrétaire
+      à la Défense, pourraient avoir induit le président en erreur en s’appuyant sur
+      des menaces non confirmées ou exagérées. Cela s’est produit alors même que les
+      agences de renseignement américaines — telles que la CIA, le Bureau du directeur
+      du renseignement national et les évaluations du Pentagone — contredisaient apparemment
+      les affirmations selon lesquelles l’Iran préparait une attaque imminente contre
+      les forces ou les intérêts américains. Des rapports datés du 1er au 3 mars 2026
+      décrivent des briefings à huis clos au cours desquels des responsables de l’administration
+      ont informé le Congrès qu’aucun renseignement spécifique n’indiquait que l’Iran
+      planifiait une frappe préventive. L’opération a plutôt été présentée comme une
+      mesure « défensive proactive » visant à prévenir des menaces plus larges liées
+      aux ambitions nucléaires de l’Iran, à ses capacités balistiques ou à ses réseaux
+      régionaux, et en partie à s’aligner sur les plans unilatéraux d’Israël. Cette
+      explication contraste fortement avec les déclarations publiques de Trump, reprises
+      notamment par Hegseth et Marco Rubio, évoquant une « menace imminente », affirmation
+      que les critiques considèrent comme exagérée, voire fabriquée pour justifier les
+      frappes. Des éléments montrant des conseils contradictoires et une possible déformation
+      des informations sont apparus dans les jours précédant les attaques du 28 février.
+      Une semaine avant l’opération, le Bureau du directeur du renseignement national
+      et le Pentagone avaient averti que toute tentative d’affaiblir ou de déstabiliser
+      le régime iranien risquait d’échouer et pourrait provoquer une escalade régionale
+      plus large avec de graves répercussions mondiales. Malgré ces avertissements,
+      l’opération a été lancée sur la base d’évaluations beaucoup plus optimistes, promues
+      par des conseillers tels que Kushner et Witkoff, qui auraient largement repris
+      les analyses israéliennes. Les critiques affirment que ces émissaires, dépourvus
+      d’une expertise approfondie en matière nucléaire, ont exagéré les intentions nucléaires
+      de l’Iran et sa position dans les négociations à Genève, affirmant que Téhéran
+      se vantait de sa capacité à produire une bombe ou exigeait des niveaux d’enrichissement
+      inacceptables. Ce faisant, ils auraient marginalisé les évaluations de la communauté
+      du renseignement qui ne trouvaient aucune preuve d’un programme d’armement nucléaire
+      actif ni d’une capacité nucléaire imminente. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Donald Trump, espérant intimidater l'Iran par des menaces
+      et un déploiement militaire, se retrouve piégé par la résistance iranienne et
+      l'escalade du conflit, tout en peinant à justifier des victoires sur la scène
+      internationale.
+    paragraph_summary: Dans cet article, Elijah J. Magnier analyse la situation tendue
+      entre les États-Unis et l'Iran sous la présidence de Donald Trump, qui espérait
+      initialement que l'Iran céderait face à des menaces et à un déploiement militaire
+      américain. Cependant, l'Iran a répondu avec force, attaquant les bases américaines
+      et Israël, ce qui a piégé Trump dans une position délicate où il tente de revendiquer
+      des victoires peu crédibles sur la scène internationale. Les conseillers de Trump,
+      comme Jared Kushner et Steve Witkoff, auraient pu le tromper en s'appuyant sur
+      des informations exagérées, alors que les agences de renseignement américaines
+      contredisaient les affirmations d'une menace imminente de l'Iran. L'opération
+      militaire a été justifiée comme une mesure défensive pour contrer les ambitions
+      nucléaires iraniennes, mais elle a également révélé des tensions croissantes et
+      des désaccords au sein de l'administration américaine.
+    published: '2026-03-10T16:47:46+00:00'
+  - title: 'La guerre contre l’Iran : de la frappe éclair à l’impasse stratégique'
+    url: https://ejmagnier.com/2026/03/10/la-guerre-contre-liran-de-la-frappe-eclair-a-limpasse-strategique/
+    text: Par Elijah J. Magnier – Le « président de la paix », Donald Trump, pensait
+      que l’Iran serait d’abord intimidé par ses menaces, puis par le déploiement progressif
+      des forces américaines dans la région, et enfin — lorsque Téhéran ne céderait
+      pas — par une série rapide de frappes censées mettre fin à la confrontation en
+      quelques jours. Contrairement à ces attentes, l’Iran a réagi en affrontant l’attaque
+      qu’il anticipait et en ripostant contre les forces américaines à travers leurs
+      bases au Moyen-Orient ainsi que contre leur principal allié, Israël, à l’origine
+      du conflit. Trump apparaît désormais piégé, tentant de proclamer des victoires
+      qui manquent de crédibilité à l’échelle internationale, tout en étant incapable
+      de mettre fin à la guerre en raison des conditions fermes imposées par l’Iran
+      et de la poursuite par Israël de sa campagne visant à détruire les infrastructures
+      et les ressources iraniennes. Certains conseillers de Trump, notamment Jared Kushner
+      et Steve Witkoff en tant qu’émissaires, ainsi que Pete Hegseth comme secrétaire
+      à la Défense, pourraient avoir induit le président en erreur en s’appuyant sur
+      des menaces non confirmées ou exagérées. Cela s’est produit alors même que les
+      agences de renseignement américaines — telles que la CIA, le Bureau du directeur
+      du renseignement national et les évaluations du Pentagone — contredisaient apparemment
+      les affirmations selon lesquelles l’Iran préparait une attaque imminente contre
+      les forces ou les intérêts américains. Des rapports datés du 1er au 3 mars 2026
+      décrivent des briefings à huis clos au cours desquels des responsables de l’administration
+      ont informé le Congrès qu’aucun renseignement spécifique n’indiquait que l’Iran
+      planifiait une frappe préventive. L’opération a plutôt été présentée comme une
+      mesure « défensive proactive » visant à prévenir des menaces plus larges liées
+      aux ambitions nucléaires de l’Iran, à ses capacités balistiques ou à ses réseaux
+      régionaux, et en partie à s’aligner sur les plans unilatéraux d’Israël. Cette
+      explication contraste fortement avec les déclarations publiques de Trump, reprises
+      notamment par Hegseth et Marco Rubio, évoquant une « menace imminente », affirmation
+      que les critiques considèrent comme exagérée, voire fabriquée pour justifier les
+      frappes. Des éléments montrant des conseils contradictoires et une possible déformation
+      des informations sont apparus dans les jours précédant les attaques du 28 février.
+      Une semaine avant l’opération, le Bureau du directeur du renseignement national
+      et le Pentagone avaient averti que toute tentative d’affaiblir ou de déstabiliser
+      le régime iranien risquait d’échouer et pourrait provoquer une escalade régionale
+      plus large avec de graves répercussions mondiales. Malgré ces avertissements,
+      l’opération a été lancée sur la base d’évaluations beaucoup plus optimistes, promues
+      par des conseillers tels que Kushner et Witkoff, qui auraient largement repris
+      les analyses israéliennes. Les critiques affirment que ces émissaires, dépourvus
+      d’une expertise approfondie en matière nucléaire, ont exagéré les intentions nucléaires
+      de l’Iran et sa position dans les négociations à Genève, affirmant que Téhéran
+      se vantait de sa capacité à produire une bombe ou exigeait des niveaux d’enrichissement
+      inacceptables. Ce faisant, ils auraient marginalisé les évaluations de la communauté
+      du renseignement qui ne trouvaient aucune preuve d’un programme d’armement nucléaire
+      actif ni d’une capacité nucléaire imminente. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Donald Trump, espérant intimidater l'Iran par des menaces
+      et un déploiement militaire, se retrouve piégé par la résistance iranienne et
+      l'escalade du conflit, tout en peinant à justifier des victoires sur la scène
+      internationale.
+    paragraph_summary: Dans cet article, Elijah J. Magnier analyse la situation tendue
+      entre les États-Unis et l'Iran sous la présidence de Donald Trump, qui espérait
+      initialement que l'Iran céderait face à des menaces et à un déploiement militaire
+      américain. Cependant, l'Iran a répondu avec force, attaquant les bases américaines
+      et Israël, ce qui a piégé Trump dans une position délicate où il tente de revendiquer
+      des victoires peu crédibles sur la scène internationale. Les conseillers de Trump,
+      comme Jared Kushner et Steve Witkoff, auraient pu le tromper en s'appuyant sur
+      des informations exagérées, alors que les agences de renseignement américaines
+      contredisaient les affirmations d'une menace imminente de l'Iran. L'opération
+      militaire a été justifiée comme une mesure défensive pour contrer les ambitions
+      nucléaires iraniennes, mais elle a également révélé des tensions croissantes et
+      des désaccords au sein de l'administration américaine.
+    published: '2026-03-10T16:47:46+00:00'
+  - title: 'The War on Iran: From Rapid Strike to Strategic Stalemate'
+    url: https://ejmagnier.com/2026/03/10/the-war-on-iran-from-rapid-strike-to-strategic-stalemate/
+    text: By Elijah J. Magnier – “Peace president” Donald Trump anticipated that Iran
+      would be intimidated first by his threats, then by the steady buildup of American
+      forces in the region, and finally—when Tehran did not yield—by a rapid series
+      of strikes expected to end the confrontation within days. Contrary to these expectations,
+      Iran responded by confronting the anticipated attack and retaliating against U.S.
+      forces across its Middle Eastern bases and its principal ally, Israel, which initiated
+      the conflict. Trump appears trapped, attempting to claim victories that lack credibility
+      internationally, yet unable to halt the war due to Iran’s firm conditions and
+      Israel’s continued campaign to destroy Iran’s infrastructure and resources. Some
+      of Trump’s advisers, including Jared Kushner and Steve Witkoff as envoys and Pete
+      Hegseth as Defence Secretary, may have misled the president by relying on or presenting
+      unconfirmed or exaggerated threats. This occurred despite U.S. intelligence agencies,
+      such as the CIA, the Office of the Director of National Intelligence, and Pentagon
+      assessments, reportedly contradicting claims that Iran was preparing an imminent
+      attack on American forces or interests. Reports from 1 to 3 March 2026 describe
+      closed-door briefings in which administration officials informed Congress that
+      no specific intelligence indicated Iran planned a pre-emptive strike. Instead,
+      the operation was framed as a “proactive defensive” measure aimed at preventing
+      broader threats related to Iran’s nuclear ambitions, missile capabilities, or
+      regional proxies, and partially to align with Israel’s unilateral plans. This
+      explanation contrasts sharply with Trump’s public statements, echoed by figures
+      such as Hegseth and Marco Rubio, who described an “imminent threat,” a claim either exaggerated
+      or fabricated to justify the strikes. Evidence of conflicting advice and possible
+      misrepresentation appeared in the days preceding the 28 February attacks. A week
+      before the operation, the Office of the Director of National Intelligence and
+      the Pentagon warned that attempts to weaken or destabilise the Iranian regime
+      would likely fail and could trigger a wider regional escalation with serious global
+      repercussions. Despite these warnings, the operation went ahead on the basis of
+      far more optimistic assessments reportedly promoted by advisers such as Kushner
+      and Witkoff, who were said to rely heavily on Israeli evaluations. Critics argue
+      that these envoys, lacking deep nuclear expertise, overstated Iran’s nuclear intentions
+      and its negotiating position in Geneva, claiming that Tehran was boasting about
+      bomb-making potential or insisting on unacceptable enrichment levels. In doing
+      so, they allegedly sidelined intelligence community evaluations that found no
+      evidence of an active Iranian weapons programme or of any imminent nuclear capability.
+      Defence Secretary Pete Hegseth has defended the war by citing Iran’s reluctance
+      during negotiations and describing a long-term strategic threat posed by Tehran.
+      However, during briefings, he avoided confirming any imminent Iranian attack,
+      instead emphasizing the need to degrade Iran’s military capabilities and limit
+      its future capacity to threaten U.S. interests or allies. This stance contrasts
+      with earlier public claims that the strikes were necessary to prevent an immediate
+      danger. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Donald Trump miscalculated Iran's response to U.S. threats
+      and military buildup, leading to a prolonged conflict that he struggles to manage,
+      as Iran retaliates and his advisers may have misled him about the situation.
+    paragraph_summary: In a detailed analysis, Elijah J. Magnier discusses how President
+      Donald Trump's strategy to intimidate Iran through threats and military buildup
+      backfired, leading to a confrontation rather than a swift resolution. Despite
+      Trump's expectations of a quick victory, Iran retaliated against U.S. forces and
+      Israel, which had initiated the conflict. Trump's administration appears to be
+      caught in a web of misleading intelligence, with advisers potentially exaggerating
+      threats to justify military action, despite U.S. intelligence agencies indicating
+      no imminent Iranian attack. The administration's framing of the operation as a
+      "proactive defensive" measure contrasts with Trump's public narrative of an "imminent
+      threat," revealing a disconnect between official statements and intelligence assessments.
+      As a result, Trump struggles to claim credible victories while facing Iran's firm
+      conditions and Israel's ongoing military objectives against Iranian infrastructure.
+    published: '2026-03-10T16:29:29+00:00'
+  - title: 'The War on Iran: From Rapid Strike to Strategic Stalemate'
+    url: https://ejmagnier.com/2026/03/10/the-war-on-iran-from-rapid-strike-to-strategic-stalemate/
+    text: By Elijah J. Magnier – “Peace president” Donald Trump anticipated that Iran
+      would be intimidated first by his threats, then by the steady buildup of American
+      forces in the region, and finally—when Tehran did not yield—by a rapid series
+      of strikes expected to end the confrontation within days. Contrary to these expectations,
+      Iran responded by confronting the anticipated attack and retaliating against U.S.
+      forces across its Middle Eastern bases and its principal ally, Israel, which initiated
+      the conflict. Trump appears trapped, attempting to claim victories that lack credibility
+      internationally, yet unable to halt the war due to Iran’s firm conditions and
+      Israel’s continued campaign to destroy Iran’s infrastructure and resources. Some
+      of Trump’s advisers, including Jared Kushner and Steve Witkoff as envoys and Pete
+      Hegseth as Defence Secretary, may have misled the president by relying on or presenting
+      unconfirmed or exaggerated threats. This occurred despite U.S. intelligence agencies,
+      such as the CIA, the Office of the Director of National Intelligence, and Pentagon
+      assessments, reportedly contradicting claims that Iran was preparing an imminent
+      attack on American forces or interests. Reports from 1 to 3 March 2026 describe
+      closed-door briefings in which administration officials informed Congress that
+      no specific intelligence indicated Iran planned a pre-emptive strike. Instead,
+      the operation was framed as a “proactive defensive” measure aimed at preventing
+      broader threats related to Iran’s nuclear ambitions, missile capabilities, or
+      regional proxies, and partially to align with Israel’s unilateral plans. This
+      explanation contrasts sharply with Trump’s public statements, echoed by figures
+      such as Hegseth and Marco Rubio, who described an “imminent threat,” a claim either exaggerated
+      or fabricated to justify the strikes. Evidence of conflicting advice and possible
+      misrepresentation appeared in the days preceding the 28 February attacks. A week
+      before the operation, the Office of the Director of National Intelligence and
+      the Pentagon warned that attempts to weaken or destabilise the Iranian regime
+      would likely fail and could trigger a wider regional escalation with serious global
+      repercussions. Despite these warnings, the operation went ahead on the basis of
+      far more optimistic assessments reportedly promoted by advisers such as Kushner
+      and Witkoff, who were said to rely heavily on Israeli evaluations. Critics argue
+      that these envoys, lacking deep nuclear expertise, overstated Iran’s nuclear intentions
+      and its negotiating position in Geneva, claiming that Tehran was boasting about
+      bomb-making potential or insisting on unacceptable enrichment levels. In doing
+      so, they allegedly sidelined intelligence community evaluations that found no
+      evidence of an active Iranian weapons programme or of any imminent nuclear capability.
+      Defence Secretary Pete Hegseth has defended the war by citing Iran’s reluctance
+      during negotiations and describing a long-term strategic threat posed by Tehran.
+      However, during briefings, he avoided confirming any imminent Iranian attack,
+      instead emphasizing the need to degrade Iran’s military capabilities and limit
+      its future capacity to threaten U.S. interests or allies. This stance contrasts
+      with earlier public claims that the strikes were necessary to prevent an immediate
+      danger. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Donald Trump miscalculated Iran's response to U.S. threats
+      and military buildup, leading to a prolonged conflict that he struggles to manage,
+      as Iran retaliates and his advisers may have misled him about the situation.
+    paragraph_summary: In a detailed analysis, Elijah J. Magnier discusses how President
+      Donald Trump's strategy to intimidate Iran through threats and military buildup
+      backfired, leading to a confrontation rather than a swift resolution. Despite
+      Trump's expectations of a quick victory, Iran retaliated against U.S. forces and
+      Israel, which had initiated the conflict. Trump's administration appears to be
+      caught in a web of misleading intelligence, with advisers potentially exaggerating
+      threats to justify military action, despite U.S. intelligence agencies indicating
+      no imminent Iranian attack. The administration's framing of the operation as a
+      "proactive defensive" measure contrasts with Trump's public narrative of an "imminent
+      threat," revealing a disconnect between official statements and intelligence assessments.
+      As a result, Trump struggles to claim credible victories while facing Iran's firm
+      conditions and Israel's ongoing military objectives against Iranian infrastructure.
+    published: '2026-03-10T16:29:29+00:00'
+  - title: Ein existenzieller Krieg an allen Fronten außer den Vereinigten Staaten
+    url: https://ejmagnier.com/2026/03/09/ein-existenzieller-krieg-an-allen-fronten-auser-den-vereinigten-staaten/
+    text: 'Von Elijah J. Magnier – Der Krieg, der sich derzeit im Nahen Osten abspielt,
+      ist nicht mehr nur eine begrenzte Konfrontation oder eine weitere Runde zyklischer
+      Eskalation. Er hat sich zu einem Konflikt entwickelt, der von vielen seiner Akteure
+      als existenziell wahrgenommen wird. Für Israel, den Iran und ihre regionalen Verbündeten
+      geht es um Überleben, Legitimität und das zukünftige strategische Gleichgewicht
+      in der Region. Eine der großen Mächte, die an der Konfrontation beteiligt sind,
+      befindet sich jedoch in einer grundlegend anderen Position. Für die Vereinigten
+      Staaten ist der Krieg trotz ihrer militärischen Präsenz und politischen Beteiligung
+      nicht existenziell. Diese Unterscheidung ist wichtig, da Kriege, die um das Überleben
+      geführt werden, einer anderen Logik folgen als Kriege, die um Einfluss oder strategische
+      Ziele geführt werden. Wenn die Akteure glauben, dass ihre Existenz, ihre Macht
+      oder ihre Identität auf dem Spiel stehen, sind sie bereit, Verluste in Kauf zu
+      nehmen und auf eine Weise zu eskalieren, die für Außenstehende oft schwer vorhersehbar
+      ist. Für die Schiiten im Nahen Osten ist es existenziell: Die Hisbollah wird von
+      der libanesischen Regierung als illegal angesehen. Jedes Scheitern würde das Ende
+      der Hisbollah und den Verlust der schiitischen Gemeinschaft bedeuten, die sie
+      lange Zeit unterstützt hat. Der libanesische Präsident Joseph Aoun überschreitet
+      bereits alle roten Linien und fordert – unter völliger Ablehnung Israels – direkte
+      Verhandlungen, die der Libanon zuvor nur zu fordern wagte, als Israel 1982 in
+      den Libanon einmarschierte und ihn an den Verhandlungstisch zwang. Für die Hisbollah
+      ist dies ihre letzte Schlacht, wenn sie verliert, aber nicht die letzte im Inland
+      und mit Israel, wenn Israel einen Waffenstillstand fordert und die Bedingungen
+      der Hisbollah akzeptiert. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Krieg im Nahen Osten wird von den beteiligten
+      Akteuren als existenziell wahrgenommen, während die USA trotz ihrer militärischen
+      Präsenz und politischen Beteiligung eine nicht existenzielle Position einnehmen,
+      was zu unterschiedlichen Logiken und Strategien im Konflikt führt.
+    paragraph_summary: Der aktuelle Konflikt im Nahen Osten hat sich zu einem existenziellen
+      Krieg für Akteure wie Israel, den Iran und deren Verbündete entwickelt, da es
+      um Überleben, Legitimität und das strategische Gleichgewicht in der Region geht.
+      Im Gegensatz dazu betrachten die Vereinigten Staaten den Krieg nicht als existenziell,
+      was die Dynamik des Konflikts beeinflusst. Für die Schiiten, insbesondere die
+      Hisbollah, ist die Situation kritisch, da ein Scheitern ihre Existenz und Unterstützung
+      durch die schiitische Gemeinschaft gefährden würde. Der libanesische Präsident
+      Joseph Aoun fordert bereits direkte Verhandlungen mit Israel, was eine bedeutende
+      Eskalation darstellt. Für die Hisbollah könnte dies die letzte Schlacht sein,
+      wobei ein Waffenstillstand nur unter Bedingungen akzeptiert werden würde, die
+      ihre Position stärken.
+    published: '2026-03-09T19:09:09+00:00'
+  - title: Ein existenzieller Krieg an allen Fronten außer den Vereinigten Staaten
+    url: https://ejmagnier.com/2026/03/09/ein-existenzieller-krieg-an-allen-fronten-auser-den-vereinigten-staaten/
+    text: 'Von Elijah J. Magnier – Der Krieg, der sich derzeit im Nahen Osten abspielt,
+      ist nicht mehr nur eine begrenzte Konfrontation oder eine weitere Runde zyklischer
+      Eskalation. Er hat sich zu einem Konflikt entwickelt, der von vielen seiner Akteure
+      als existenziell wahrgenommen wird. Für Israel, den Iran und ihre regionalen Verbündeten
+      geht es um Überleben, Legitimität und das zukünftige strategische Gleichgewicht
+      in der Region. Eine der großen Mächte, die an der Konfrontation beteiligt sind,
+      befindet sich jedoch in einer grundlegend anderen Position. Für die Vereinigten
+      Staaten ist der Krieg trotz ihrer militärischen Präsenz und politischen Beteiligung
+      nicht existenziell. Diese Unterscheidung ist wichtig, da Kriege, die um das Überleben
+      geführt werden, einer anderen Logik folgen als Kriege, die um Einfluss oder strategische
+      Ziele geführt werden. Wenn die Akteure glauben, dass ihre Existenz, ihre Macht
+      oder ihre Identität auf dem Spiel stehen, sind sie bereit, Verluste in Kauf zu
+      nehmen und auf eine Weise zu eskalieren, die für Außenstehende oft schwer vorhersehbar
+      ist. Für die Schiiten im Nahen Osten ist es existenziell: Die Hisbollah wird von
+      der libanesischen Regierung als illegal angesehen. Jedes Scheitern würde das Ende
+      der Hisbollah und den Verlust der schiitischen Gemeinschaft bedeuten, die sie
+      lange Zeit unterstützt hat. Der libanesische Präsident Joseph Aoun überschreitet
+      bereits alle roten Linien und fordert – unter völliger Ablehnung Israels – direkte
+      Verhandlungen, die der Libanon zuvor nur zu fordern wagte, als Israel 1982 in
+      den Libanon einmarschierte und ihn an den Verhandlungstisch zwang. Für die Hisbollah
+      ist dies ihre letzte Schlacht, wenn sie verliert, aber nicht die letzte im Inland
+      und mit Israel, wenn Israel einen Waffenstillstand fordert und die Bedingungen
+      der Hisbollah akzeptiert. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Krieg im Nahen Osten wird von den beteiligten
+      Akteuren als existenziell wahrgenommen, während die USA trotz ihrer militärischen
+      Präsenz und politischen Beteiligung eine nicht existenzielle Position einnehmen,
+      was zu unterschiedlichen Logiken und Strategien im Konflikt führt.
+    paragraph_summary: Der aktuelle Konflikt im Nahen Osten hat sich zu einem existenziellen
+      Krieg für Akteure wie Israel, den Iran und deren Verbündete entwickelt, da es
+      um Überleben, Legitimität und das strategische Gleichgewicht in der Region geht.
+      Im Gegensatz dazu betrachten die Vereinigten Staaten den Krieg nicht als existenziell,
+      was die Dynamik des Konflikts beeinflusst. Für die Schiiten, insbesondere die
+      Hisbollah, ist die Situation kritisch, da ein Scheitern ihre Existenz und Unterstützung
+      durch die schiitische Gemeinschaft gefährden würde. Der libanesische Präsident
+      Joseph Aoun fordert bereits direkte Verhandlungen mit Israel, was eine bedeutende
+      Eskalation darstellt. Für die Hisbollah könnte dies die letzte Schlacht sein,
+      wobei ein Waffenstillstand nur unter Bedingungen akzeptiert werden würde, die
+      ihre Position stärken.
+    published: '2026-03-09T19:09:09+00:00'
+  - title: Une guerre existentielle sur tous les fronts sauf pour les États Unis
+    url: https://ejmagnier.com/2026/03/09/une-guerre-existentielle-sur-tous-les-fronts-sauf-pour-les-etats-unis/
+    text: Par Elijah J. Magnier La guerre qui se déroule actuellement au Moyen Orient
+      n’est plus une confrontation limitée ni un nouvel épisode d’escalade cyclique.
+      Elle a évolué en un conflit que nombre de ses acteurs perçoivent désormais comme
+      existentiel. Pour Israël, l’Iran et le Hezbollah, les enjeux sont liés à la survie,
+      à la légitimité et à l’équilibre stratégique futur de la région. Pourtant, une
+      grande puissance impliquée dans cette confrontation se trouve dans une position
+      fondamentalement différente. Pour les États Unis, malgré leur présence militaire
+      et leur implication politique, la guerre n’est pas existentielle. Cette distinction
+      est essentielle, car les guerres menées pour la survie obéissent à une logique
+      différente de celles menées pour l’influence ou la stratégie. Lorsque des acteurs
+      pensent que leur existence, leur pouvoir ou leur identité sont en jeu, ils sont
+      prêts à absorber des pertes et à escalader d’une manière que les puissances extérieures
+      peinent souvent à anticiper. Pour les chiites du Moyen Orient, la guerre est existentielle.
+      Le Hezbollah est désormais considéré comme un hors la loi par le gouvernement
+      libanais. Tout échec signifierait la fin du Hezbollah et la perte de la communauté
+      chiite qui l’a soutenu pendant longtemps. Le président libanais Joseph Aoun franchit
+      déjà toutes les lignes rouges en demandant une négociation directe, totalement
+      rejetée par Israël, une démarche que le Liban n’avait jamais osé entreprendre
+      auparavant, sauf lorsque Israël avait envahi le Liban en 1982 et l’avait forcé
+      à s’asseoir à la table des négociations. Pour le Hezbollah, il s’agit de sa dernière
+      bataille s’il perd, mais pas nécessairement de la dernière confrontation sur le
+      plan interne et avec Israël si Israël demande un cessez le feu et accepte les
+      conditions du Hezbollah. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le conflit actuel au Moyen-Orient est perçu comme existentiel
+      par des acteurs clés comme Israël, l'Iran et le Hezbollah, tandis que les États-Unis,
+      bien que militairement impliqués, ne le considèrent pas de la même manière, ce
+      qui entraîne des dynamiques de guerre différentes basées sur des enjeux de survie
+      versus des enjeux d'influence.
+    paragraph_summary: The ongoing conflict in the Middle East has escalated beyond
+      a mere cyclical confrontation, evolving into an existential struggle for key players
+      like Israel, Iran, and Hezbollah, who view their survival and legitimacy as at
+      stake. In contrast, the United States, despite its military presence and political
+      involvement, does not perceive the war as existential, highlighting a critical
+      distinction in motivations between local actors and external powers. For Shiite
+      groups in the region, particularly Hezbollah, the stakes are incredibly high,
+      as failure could mean the end of their influence and community support. The Lebanese
+      president's unprecedented call for direct negotiations with Israel signals a desperate
+      attempt to navigate the crisis, reflecting the gravity of the situation for Hezbollah,
+      which sees this as a pivotal battle that could redefine its future, depending
+      on Israel's response to potential ceasefire conditions.
+    published: '2026-03-09T19:05:50+00:00'
+  - title: Une guerre existentielle sur tous les fronts sauf pour les États Unis
+    url: https://ejmagnier.com/2026/03/09/une-guerre-existentielle-sur-tous-les-fronts-sauf-pour-les-etats-unis/
+    text: Par Elijah J. Magnier La guerre qui se déroule actuellement au Moyen Orient
+      n’est plus une confrontation limitée ni un nouvel épisode d’escalade cyclique.
+      Elle a évolué en un conflit que nombre de ses acteurs perçoivent désormais comme
+      existentiel. Pour Israël, l’Iran et le Hezbollah, les enjeux sont liés à la survie,
+      à la légitimité et à l’équilibre stratégique futur de la région. Pourtant, une
+      grande puissance impliquée dans cette confrontation se trouve dans une position
+      fondamentalement différente. Pour les États Unis, malgré leur présence militaire
+      et leur implication politique, la guerre n’est pas existentielle. Cette distinction
+      est essentielle, car les guerres menées pour la survie obéissent à une logique
+      différente de celles menées pour l’influence ou la stratégie. Lorsque des acteurs
+      pensent que leur existence, leur pouvoir ou leur identité sont en jeu, ils sont
+      prêts à absorber des pertes et à escalader d’une manière que les puissances extérieures
+      peinent souvent à anticiper. Pour les chiites du Moyen Orient, la guerre est existentielle.
+      Le Hezbollah est désormais considéré comme un hors la loi par le gouvernement
+      libanais. Tout échec signifierait la fin du Hezbollah et la perte de la communauté
+      chiite qui l’a soutenu pendant longtemps. Le président libanais Joseph Aoun franchit
+      déjà toutes les lignes rouges en demandant une négociation directe, totalement
+      rejetée par Israël, une démarche que le Liban n’avait jamais osé entreprendre
+      auparavant, sauf lorsque Israël avait envahi le Liban en 1982 et l’avait forcé
+      à s’asseoir à la table des négociations. Pour le Hezbollah, il s’agit de sa dernière
+      bataille s’il perd, mais pas nécessairement de la dernière confrontation sur le
+      plan interne et avec Israël si Israël demande un cessez le feu et accepte les
+      conditions du Hezbollah. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le conflit actuel au Moyen-Orient est perçu comme existentiel
+      par des acteurs clés comme Israël, l'Iran et le Hezbollah, tandis que les États-Unis,
+      bien que militairement impliqués, ne le considèrent pas de la même manière, ce
+      qui entraîne des dynamiques de guerre différentes basées sur des enjeux de survie
+      versus des enjeux d'influence.
+    paragraph_summary: The ongoing conflict in the Middle East has escalated beyond
+      a mere cyclical confrontation, evolving into an existential struggle for key players
+      like Israel, Iran, and Hezbollah, who view their survival and legitimacy as at
+      stake. In contrast, the United States, despite its military presence and political
+      involvement, does not perceive the war as existential, highlighting a critical
+      distinction in motivations between local actors and external powers. For Shiite
+      groups in the region, particularly Hezbollah, the stakes are incredibly high,
+      as failure could mean the end of their influence and community support. The Lebanese
+      president's unprecedented call for direct negotiations with Israel signals a desperate
+      attempt to navigate the crisis, reflecting the gravity of the situation for Hezbollah,
+      which sees this as a pivotal battle that could redefine its future, depending
+      on Israel's response to potential ceasefire conditions.
+    published: '2026-03-09T19:05:50+00:00'
+  - title: An Existential War on All Fronts Except the United States
+    url: https://ejmagnier.com/2026/03/09/an-existential-war-on-all-fronts-except-the-united-states/
+    text: 'By Elijah J. Magnier – The war now unfolding across the Middle East is no
+      longer a limited confrontation or another round of cyclical escalation. It has
+      evolved into a conflict perceived by many of its actors as existential. For Israel,
+      Iran and Hezbollah, the stakes are existential and tied to survival, legitimacy
+      and the future strategic balance of the region. Yet one major power involved in
+      the confrontation stands in a fundamentally different position. For the United
+      States, despite its military presence and political involvement, the war is not
+      existential. The distinction matters because wars fought for survival follow a
+      different logic from wars fought for influence or strategy. When actors believe
+      their existence, power or identity are at stake, they are willing to absorb losses
+      and escalate in ways that outside powers often struggle to anticipate. For the
+      Shia in the Middle East it is existential: Hezbollah has been considered an outlaw
+      by the Lebanese government. Any failure will be the end of Hezbollah and the lose
+      of the Shia community that long supported it. The Lebanese president Joseph Aoun is
+      already breaking all redlines and is asking – to the total rejection of the Israeli
+      – a direct negotiation that Lebanon never dare to ask before only when Israel
+      invaded Lebanon in 1982 and forced it around the table. For Hezbollah, this is
+      its last battle if he loses but not the last, domestically and with Israel if
+      Israel asks a ceasefire and accept Hezbollah’s conditions. This short description
+      reflects a profound transformation inside Lebanon. For decades Hezbollah maintained
+      a delicate balance with the Lebanese state. While never fully integrated into
+      state institutions, it justified its military strength as a national necessity,
+      presenting itself as the force capable of defending Lebanon against Israel when
+      the state itself lacked the capacity to do so. This argument allowed Hezbollah
+      to operate as both a political actor and a powerful armed movement. Today that
+      arrangement is under unprecedented strain. Lebanon’s political establishment,
+      already weakened by economic collapse and internal divisions, increasingly sees
+      Hezbollah’s military autonomy as a liability that could drag the country into
+      a devastating war. The suggestion of direct negotiations with Israel demonstrates
+      how far the Lebanese political system has shifted under the pressure of the current
+      confrontation. For many Lebanese leaders, avoiding national destruction has become
+      more urgent than maintaining old political taboos, even at the cost of submitting
+      to Israel. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ongoing Middle East conflict has escalated into an existential
+      struggle for Israel, Iran, and Hezbollah, while the United States, despite its
+      involvement, views the situation as a matter of influence rather than survival,
+      leading to differing approaches and potential escalations in the conflict.
+    paragraph_summary: The ongoing conflict in the Middle East has escalated into an
+      existential struggle for key players like Israel, Iran, and Hezbollah, who view
+      their survival and legitimacy as at stake. In contrast, the United States, despite
+      its military and political involvement, does not perceive the war as existential,
+      which influences the dynamics of the conflict. For Hezbollah and the Shia community
+      in Lebanon, the stakes are particularly high, as any failure could lead to their
+      downfall. The Lebanese president is pushing for direct negotiations with Israel,
+      a significant shift from past positions, indicating a transformation in Lebanon's
+      political landscape. Hezbollah, traditionally balancing its role as a military
+      force and a political entity, now faces a critical moment that could redefine
+      its future and that of the Lebanese state.
+    published: '2026-03-09T18:59:07+00:00'
+  - title: An Existential War on All Fronts Except the United States
+    url: https://ejmagnier.com/2026/03/09/an-existential-war-on-all-fronts-except-the-united-states/
+    text: 'By Elijah J. Magnier – The war now unfolding across the Middle East is no
+      longer a limited confrontation or another round of cyclical escalation. It has
+      evolved into a conflict perceived by many of its actors as existential. For Israel,
+      Iran and Hezbollah, the stakes are existential and tied to survival, legitimacy
+      and the future strategic balance of the region. Yet one major power involved in
+      the confrontation stands in a fundamentally different position. For the United
+      States, despite its military presence and political involvement, the war is not
+      existential. The distinction matters because wars fought for survival follow a
+      different logic from wars fought for influence or strategy. When actors believe
+      their existence, power or identity are at stake, they are willing to absorb losses
+      and escalate in ways that outside powers often struggle to anticipate. For the
+      Shia in the Middle East it is existential: Hezbollah has been considered an outlaw
+      by the Lebanese government. Any failure will be the end of Hezbollah and the lose
+      of the Shia community that long supported it. The Lebanese president Joseph Aoun is
+      already breaking all redlines and is asking – to the total rejection of the Israeli
+      – a direct negotiation that Lebanon never dare to ask before only when Israel
+      invaded Lebanon in 1982 and forced it around the table. For Hezbollah, this is
+      its last battle if he loses but not the last, domestically and with Israel if
+      Israel asks a ceasefire and accept Hezbollah’s conditions. This short description
+      reflects a profound transformation inside Lebanon. For decades Hezbollah maintained
+      a delicate balance with the Lebanese state. While never fully integrated into
+      state institutions, it justified its military strength as a national necessity,
+      presenting itself as the force capable of defending Lebanon against Israel when
+      the state itself lacked the capacity to do so. This argument allowed Hezbollah
+      to operate as both a political actor and a powerful armed movement. Today that
+      arrangement is under unprecedented strain. Lebanon’s political establishment,
+      already weakened by economic collapse and internal divisions, increasingly sees
+      Hezbollah’s military autonomy as a liability that could drag the country into
+      a devastating war. The suggestion of direct negotiations with Israel demonstrates
+      how far the Lebanese political system has shifted under the pressure of the current
+      confrontation. For many Lebanese leaders, avoiding national destruction has become
+      more urgent than maintaining old political taboos, even at the cost of submitting
+      to Israel. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ongoing Middle East conflict has escalated into an existential
+      struggle for Israel, Iran, and Hezbollah, while the United States, despite its
+      involvement, views the situation as a matter of influence rather than survival,
+      leading to differing approaches and potential escalations in the conflict.
+    paragraph_summary: The ongoing conflict in the Middle East has escalated into an
+      existential struggle for key players like Israel, Iran, and Hezbollah, who view
+      their survival and legitimacy as at stake. In contrast, the United States, despite
+      its military and political involvement, does not perceive the war as existential,
+      which influences the dynamics of the conflict. For Hezbollah and the Shia community
+      in Lebanon, the stakes are particularly high, as any failure could lead to their
+      downfall. The Lebanese president is pushing for direct negotiations with Israel,
+      a significant shift from past positions, indicating a transformation in Lebanon's
+      political landscape. Hezbollah, traditionally balancing its role as a military
+      force and a political entity, now faces a critical moment that could redefine
+      its future and that of the Lebanese state.
+    published: '2026-03-09T18:59:07+00:00'
+  - title: Das übermütige Israel war auf den Krieg vorbereitet, aber nicht auf die Folgen
+    url: https://ejmagnier.com/2026/03/07/das-ubermutige-israel-war-auf-den-krieg-vorbereitet-aber-nicht-auf-die-folgen/
+    text: Von Elijah J Magnier – Israel hatte sich laut seinem Verteidigungsminister
+      Israel Katz auf einen entscheidenden militärischen Schlag gegen die Hisbollah
+      vorbereitet. In Tel Aviv ging man davon aus, dass die Hisbollah nach monatelangen
+      unbeantworteten israelischen Angriffen die Initiative verloren hatte und sich
+      in einer geschwächten Position befand. Die israelischen Planer glaubten, dass
+      eine rasche Eskalation die libanesische Organisation überraschen und ihr einen
+      strategischen Schlag versetzen könnte, bevor sie sich vollständig erholen konnte.
+      Man ging davon aus, dass die Hisbollah nicht in der Lage sein würde, einen Überraschungsangriff
+      und eine längere Konfrontation durchzuhalten, und dass sich das Kräfteverhältnis
+      erneut entscheidend zugunsten Israels verschieben würde. Die Abfolge der Ereignisse
+      an der Nordfront Israels lässt vermuten, dass die operativen Vorbereitungen für
+      Maßnahmen gegen den Libanon bereits getroffen waren, bevor die Hisbollah ihre
+      ersten Raketen abschoss. Aus militärischer Sicht lassen sich groß angelegte Operationen
+      nicht von heute auf morgen durchführen. Die Mobilisierung von Zehntausenden Soldaten,
+      die Positionierung von Divisionen entlang einer umkämpften Grenze, die Aktivierung
+      von Kommandonetzwerken und die Vorbereitung logistischer Ketten erfordern Planungszyklen,
+      die sich über Wochen, manchmal sogar Monate erstrecken. Bevor die Hisbollah am
+      2. März Raketen und Drohnen abfeuerte, hatte Israel schätzungsweise 100.000 bis
+      110.000 Reservisten mobilisiert. Eine solche Mobilisierung ist keine symbolische
+      Geste, sondern ein komplexer logistischer Prozess, der die Aktivierung von Einheiten,
+      die Verteilung von Ausrüstung, Transportkorridore, die Integration des Kommandos
+      und die Vorbereitung der Vorwärtsversorgung umfasst. Der Umfang und die Geschwindigkeit
+      der Mobilisierung deuten stark darauf hin, dass die israelischen Planer die Eskalation
+      mit der Hisbollah parallel zur Konfrontation mit dem Iran geplant hatten. In den
+      meisten modernen Streitkräften erfordert die Aktivierung von Reserveformationen
+      in diesem Umfang auch vorab genehmigte Einsatzbefehle, logistische Zuweisungen
+      und die Koordination auf Theaterebene mit Luftwaffen- und Geheimdienstkommandos.
+      Diese Verfahren sind in der Regel in weit im Voraus ausgearbeiteten Notfallplänen
+      verankert. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israel plante laut Verteidigungsminister Israel Katz einen
+      entscheidenden militärischen Schlag gegen die Hisbollah, da man annahm, die Gruppe
+      sei nach monatelangen Angriffen geschwächt und nicht in der Lage, einen Überraschungsangriff
+      abzuwehren.
+    paragraph_summary: Laut dem israelischen Verteidigungsminister Israel Katz hatte
+      Israel sich auf einen entscheidenden militärischen Schlag gegen die Hisbollah
+      vorbereitet, da man glaubte, die Gruppe sei nach monatelangen Angriffen geschwächt
+      und in der Defensive. Israelische Planer erwarteten, dass eine schnelle Eskalation
+      die Hisbollah überraschen und einen strategischen Vorteil verschaffen könnte,
+      bevor sie sich erholen konnte. Die Mobilisierung von etwa 100.000 Reservisten
+      und die umfassenden logistischen Vorbereitungen deuten darauf hin, dass Israel
+      bereits vor den ersten Raketenangriffen der Hisbollah am 2. März Maßnahmen gegen
+      den Libanon geplant hatte. Diese Mobilisierung war ein komplexer Prozess, der
+      eine sorgfältige Planung über Wochen erforderte und darauf hindeutet, dass die
+      Eskalation gegen die Hisbollah parallel zu den Spannungen mit dem Iran vorbereitet
+      wurde.
+    published: '2026-03-07T05:07:24+00:00'
+  - title: Das übermütige Israel war auf den Krieg vorbereitet, aber nicht auf die Folgen
+    url: https://ejmagnier.com/2026/03/07/das-ubermutige-israel-war-auf-den-krieg-vorbereitet-aber-nicht-auf-die-folgen/
+    text: Von Elijah J Magnier – Israel hatte sich laut seinem Verteidigungsminister
+      Israel Katz auf einen entscheidenden militärischen Schlag gegen die Hisbollah
+      vorbereitet. In Tel Aviv ging man davon aus, dass die Hisbollah nach monatelangen
+      unbeantworteten israelischen Angriffen die Initiative verloren hatte und sich
+      in einer geschwächten Position befand. Die israelischen Planer glaubten, dass
+      eine rasche Eskalation die libanesische Organisation überraschen und ihr einen
+      strategischen Schlag versetzen könnte, bevor sie sich vollständig erholen konnte.
+      Man ging davon aus, dass die Hisbollah nicht in der Lage sein würde, einen Überraschungsangriff
+      und eine längere Konfrontation durchzuhalten, und dass sich das Kräfteverhältnis
+      erneut entscheidend zugunsten Israels verschieben würde. Die Abfolge der Ereignisse
+      an der Nordfront Israels lässt vermuten, dass die operativen Vorbereitungen für
+      Maßnahmen gegen den Libanon bereits getroffen waren, bevor die Hisbollah ihre
+      ersten Raketen abschoss. Aus militärischer Sicht lassen sich groß angelegte Operationen
+      nicht von heute auf morgen durchführen. Die Mobilisierung von Zehntausenden Soldaten,
+      die Positionierung von Divisionen entlang einer umkämpften Grenze, die Aktivierung
+      von Kommandonetzwerken und die Vorbereitung logistischer Ketten erfordern Planungszyklen,
+      die sich über Wochen, manchmal sogar Monate erstrecken. Bevor die Hisbollah am
+      2. März Raketen und Drohnen abfeuerte, hatte Israel schätzungsweise 100.000 bis
+      110.000 Reservisten mobilisiert. Eine solche Mobilisierung ist keine symbolische
+      Geste, sondern ein komplexer logistischer Prozess, der die Aktivierung von Einheiten,
+      die Verteilung von Ausrüstung, Transportkorridore, die Integration des Kommandos
+      und die Vorbereitung der Vorwärtsversorgung umfasst. Der Umfang und die Geschwindigkeit
+      der Mobilisierung deuten stark darauf hin, dass die israelischen Planer die Eskalation
+      mit der Hisbollah parallel zur Konfrontation mit dem Iran geplant hatten. In den
+      meisten modernen Streitkräften erfordert die Aktivierung von Reserveformationen
+      in diesem Umfang auch vorab genehmigte Einsatzbefehle, logistische Zuweisungen
+      und die Koordination auf Theaterebene mit Luftwaffen- und Geheimdienstkommandos.
+      Diese Verfahren sind in der Regel in weit im Voraus ausgearbeiteten Notfallplänen
+      verankert. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Israel plante laut Verteidigungsminister Israel Katz einen
+      entscheidenden militärischen Schlag gegen die Hisbollah, da man annahm, die Gruppe
+      sei nach monatelangen Angriffen geschwächt und nicht in der Lage, einen Überraschungsangriff
+      abzuwehren.
+    paragraph_summary: Laut dem israelischen Verteidigungsminister Israel Katz hatte
+      Israel sich auf einen entscheidenden militärischen Schlag gegen die Hisbollah
+      vorbereitet, da man glaubte, die Gruppe sei nach monatelangen Angriffen geschwächt
+      und in der Defensive. Israelische Planer erwarteten, dass eine schnelle Eskalation
+      die Hisbollah überraschen und einen strategischen Vorteil verschaffen könnte,
+      bevor sie sich erholen konnte. Die Mobilisierung von etwa 100.000 Reservisten
+      und die umfassenden logistischen Vorbereitungen deuten darauf hin, dass Israel
+      bereits vor den ersten Raketenangriffen der Hisbollah am 2. März Maßnahmen gegen
+      den Libanon geplant hatte. Diese Mobilisierung war ein komplexer Prozess, der
+      eine sorgfältige Planung über Wochen erforderte und darauf hindeutet, dass die
+      Eskalation gegen die Hisbollah parallel zu den Spannungen mit dem Iran vorbereitet
+      wurde.
+    published: '2026-03-07T05:07:24+00:00'
+  - title: Overconfident Israel was Prepared for War but Unprepared for the Consequences
+    url: https://ejmagnier.com/2026/03/06/overconfident-israel-was-prepared-for-war-but-unprepared-for-the-consequences/
+    text: By Elijah J Magnier – Israel, according to its defence minister, Israel Katz,
+      had been preparing for a decisive military move against Hezbollah. The calculation
+      in Tel Aviv was that Hezbollah had lost the initiative after months of unanswered
+      Israeli attacks and was in a weakened position. Israeli planners believed that
+      a rapid escalation could surprise the Lebanese organisation and deal it a strategic
+      blow before it could fully recover. The expectation was that Hezbollah would be
+      unable to sustain a surprise attack and a prolonged confrontation and that the
+      balance of power would once again shift decisively in Israel’s favour. The sequence
+      of events on Israel’s northern front suggests that the operational groundwork
+      for action against Lebanon was already in place before Hezbollah launched its
+      first missiles. From a military planning perspective, large-scale operations do
+      not materialise overnight. Mobilising tens of thousands of troops, positioning
+      divisions along a contested border, activating command networks, and preparing
+      logistical chains requires planning cycles measured in weeks, sometimes months.
+      Before Hezbollah fired rockets and drones on 2 March, Israel had mobilised an
+      estimated 100,000 to 110,000 reservists. Such a mobilisation is not a symbolic
+      gesture but a complex logistical process involving unit activation, equipment
+      distribution, transportation corridors, command integration, and forward supply
+      preparation. The scale and speed of the mobilisation strongly indicate that Israeli
+      planners had planned the escalation with Hezbollah in parallel with the confrontation
+      with Iran. In most modern militaries, the activation of reserve formations at
+      this scale also requires pre-authorised operational orders, logistics allocations,
+      and theatre-level coordination with air and intelligence commands. These procedures
+      are normally embedded in contingency plans prepared well in advance. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israel was reportedly preparing for a significant military
+      offensive against Hezbollah, believing the group was weakened and could be caught
+      off guard, potentially shifting the balance of power back in Israel's favor.
+    paragraph_summary: Israeli Defense Minister Israel Katz indicated that Israel was
+      poised for a significant military action against Hezbollah, believing the group
+      was in a weakened state after enduring months of Israeli attacks. Israeli military
+      planners anticipated that a rapid escalation could catch Hezbollah off guard and
+      inflict a strategic setback before it could regroup. The groundwork for this military
+      action was reportedly laid before Hezbollah launched its first missiles on March
+      2, as Israel had mobilized around 100,000 to 110,000 reservists, a process that
+      requires extensive logistical planning and pre-authorized operational orders.
+      This mobilization suggests that Israel's military strategy was coordinated not
+      only with its confrontation with Hezbollah but also with its broader conflict
+      with Iran, indicating a well-prepared approach to the escalating tensions in the
+      region.
+    published: '2026-03-06T18:48:50+00:00'
+  - title: Overconfident Israel was Prepared for War but Unprepared for the Consequences
+    url: https://ejmagnier.com/2026/03/06/overconfident-israel-was-prepared-for-war-but-unprepared-for-the-consequences/
+    text: By Elijah J Magnier – Israel, according to its defence minister, Israel Katz,
+      had been preparing for a decisive military move against Hezbollah. The calculation
+      in Tel Aviv was that Hezbollah had lost the initiative after months of unanswered
+      Israeli attacks and was in a weakened position. Israeli planners believed that
+      a rapid escalation could surprise the Lebanese organisation and deal it a strategic
+      blow before it could fully recover. The expectation was that Hezbollah would be
+      unable to sustain a surprise attack and a prolonged confrontation and that the
+      balance of power would once again shift decisively in Israel’s favour. The sequence
+      of events on Israel’s northern front suggests that the operational groundwork
+      for action against Lebanon was already in place before Hezbollah launched its
+      first missiles. From a military planning perspective, large-scale operations do
+      not materialise overnight. Mobilising tens of thousands of troops, positioning
+      divisions along a contested border, activating command networks, and preparing
+      logistical chains requires planning cycles measured in weeks, sometimes months.
+      Before Hezbollah fired rockets and drones on 2 March, Israel had mobilised an
+      estimated 100,000 to 110,000 reservists. Such a mobilisation is not a symbolic
+      gesture but a complex logistical process involving unit activation, equipment
+      distribution, transportation corridors, command integration, and forward supply
+      preparation. The scale and speed of the mobilisation strongly indicate that Israeli
+      planners had planned the escalation with Hezbollah in parallel with the confrontation
+      with Iran. In most modern militaries, the activation of reserve formations at
+      this scale also requires pre-authorised operational orders, logistics allocations,
+      and theatre-level coordination with air and intelligence commands. These procedures
+      are normally embedded in contingency plans prepared well in advance. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israel was reportedly preparing for a significant military
+      offensive against Hezbollah, believing the group was weakened and could be caught
+      off guard, potentially shifting the balance of power back in Israel's favor.
+    paragraph_summary: Israeli Defense Minister Israel Katz indicated that Israel was
+      poised for a significant military action against Hezbollah, believing the group
+      was in a weakened state after enduring months of Israeli attacks. Israeli military
+      planners anticipated that a rapid escalation could catch Hezbollah off guard and
+      inflict a strategic setback before it could regroup. The groundwork for this military
+      action was reportedly laid before Hezbollah launched its first missiles on March
+      2, as Israel had mobilized around 100,000 to 110,000 reservists, a process that
+      requires extensive logistical planning and pre-authorized operational orders.
+      This mobilization suggests that Israel's military strategy was coordinated not
+      only with its confrontation with Hezbollah but also with its broader conflict
+      with Iran, indicating a well-prepared approach to the escalating tensions in the
+      region.
+    published: '2026-03-06T18:48:50+00:00'
+  - title: Surconfiant, Israël était prêt pour la guerre mais pas pour ses conséquences
+    url: https://ejmagnier.com/2026/03/06/surconfiant-israel-etait-pret-pour-la-guerre-mais-pas-pour-ses-consequences/
+    text: Par Elijah J. Magnier – Selon son ministre de la Défense, Israel Katz, Israël
+      se préparait à une action militaire décisive contre le Hezbollah. Le calcul à
+      Tel-Aviv était que le Hezbollah avait perdu l’initiative après des mois d’attaques
+      israéliennes restées sans réponse et qu’il se trouvait en position de faiblesse.
+      Les planificateurs israéliens estimaient qu’une escalade rapide pourrait surprendre
+      l’organisation libanaise et lui porter un coup stratégique avant qu’elle ne puisse
+      pleinement se rétablir. L’attente était que le Hezbollah ne serait pas en mesure
+      de soutenir une attaque surprise et une confrontation prolongée et que l’équilibre
+      des forces basculerait à nouveau nettement en faveur d’Israël. La succession des
+      événements sur le front nord d’Israël suggère que les bases opérationnelles d’une
+      action contre le Liban étaient déjà en place avant que le Hezbollah ne lance ses
+      premiers missiles. D’un point de vue de planification militaire, les opérations
+      de grande envergure ne se matérialisent pas du jour au lendemain. Mobiliser des
+      dizaines de milliers de soldats, positionner des divisions le long d’une frontière
+      contestée, activer les réseaux de commandement et préparer les chaînes logistiques
+      nécessite des cycles de planification mesurés en semaines, parfois en mois. Avant
+      que le Hezbollah ne tire des roquettes et des drones le 2 mars, Israël avait mobilisé
+      entre 100 000 et 110 000 réservistes. Une telle mobilisation n’est pas un geste
+      symbolique mais un processus logistique complexe impliquant l’activation des unités,
+      la distribution de l’équipement, la coordination des transports, l’intégration
+      du commandement et la préparation des approvisionnements avancés. L’ampleur et
+      la rapidité de cette mobilisation indiquent fortement que les planificateurs israéliens
+      avaient envisagé une escalade avec le Hezbollah en parallèle de la confrontation
+      avec l’Iran. Dans la plupart des armées modernes, l’activation de formations de
+      réserve à une telle échelle nécessite également des ordres opérationnels préautorisés,
+      des allocations logistiques et une coordination au niveau du théâtre avec les
+      commandements aérien et du renseignement. Ces procédures sont généralement intégrées
+      dans des plans de contingence préparés bien à l’avance. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israël se prépare à une action militaire décisive contre le
+      Hezbollah, estimant que l'organisation libanaise est affaiblie et incapable de
+      soutenir une confrontation prolongée après des mois d'attaques israéliennes.
+    paragraph_summary: Selon le ministre de la Défense israélien, Israël se prépare
+      à une action militaire décisive contre le Hezbollah, estimant que ce dernier est
+      en position de faiblesse après des mois d'attaques israéliennes sans réponse.
+      Les planificateurs israéliens croient qu'une escalade rapide pourrait surprendre
+      le Hezbollah et lui infliger un coup stratégique avant qu'il ne puisse se rétablir.
+      Avant que le Hezbollah ne tire des missiles le 2 mars, Israël avait déjà mobilisé
+      entre 100 000 et 110 000 réservistes, un processus logistique complexe qui indique
+      que des préparatifs pour une escalade avec le Hezbollah avaient été envisagés
+      en parallèle avec la confrontation avec l'Iran. Cette mobilisation suggère que
+      les bases opérationnelles pour une action contre le Liban étaient déjà en place,
+      renforçant l'idée que les forces israéliennes se préparent à un conflit prolongé.
+    published: '2026-03-06T18:46:39+00:00'
+  - title: Surconfiant, Israël était prêt pour la guerre mais pas pour ses conséquences
+    url: https://ejmagnier.com/2026/03/06/surconfiant-israel-etait-pret-pour-la-guerre-mais-pas-pour-ses-consequences/
+    text: Par Elijah J. Magnier – Selon son ministre de la Défense, Israel Katz, Israël
+      se préparait à une action militaire décisive contre le Hezbollah. Le calcul à
+      Tel-Aviv était que le Hezbollah avait perdu l’initiative après des mois d’attaques
+      israéliennes restées sans réponse et qu’il se trouvait en position de faiblesse.
+      Les planificateurs israéliens estimaient qu’une escalade rapide pourrait surprendre
+      l’organisation libanaise et lui porter un coup stratégique avant qu’elle ne puisse
+      pleinement se rétablir. L’attente était que le Hezbollah ne serait pas en mesure
+      de soutenir une attaque surprise et une confrontation prolongée et que l’équilibre
+      des forces basculerait à nouveau nettement en faveur d’Israël. La succession des
+      événements sur le front nord d’Israël suggère que les bases opérationnelles d’une
+      action contre le Liban étaient déjà en place avant que le Hezbollah ne lance ses
+      premiers missiles. D’un point de vue de planification militaire, les opérations
+      de grande envergure ne se matérialisent pas du jour au lendemain. Mobiliser des
+      dizaines de milliers de soldats, positionner des divisions le long d’une frontière
+      contestée, activer les réseaux de commandement et préparer les chaînes logistiques
+      nécessite des cycles de planification mesurés en semaines, parfois en mois. Avant
+      que le Hezbollah ne tire des roquettes et des drones le 2 mars, Israël avait mobilisé
+      entre 100 000 et 110 000 réservistes. Une telle mobilisation n’est pas un geste
+      symbolique mais un processus logistique complexe impliquant l’activation des unités,
+      la distribution de l’équipement, la coordination des transports, l’intégration
+      du commandement et la préparation des approvisionnements avancés. L’ampleur et
+      la rapidité de cette mobilisation indiquent fortement que les planificateurs israéliens
+      avaient envisagé une escalade avec le Hezbollah en parallèle de la confrontation
+      avec l’Iran. Dans la plupart des armées modernes, l’activation de formations de
+      réserve à une telle échelle nécessite également des ordres opérationnels préautorisés,
+      des allocations logistiques et une coordination au niveau du théâtre avec les
+      commandements aérien et du renseignement. Ces procédures sont généralement intégrées
+      dans des plans de contingence préparés bien à l’avance. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Israël se prépare à une action militaire décisive contre le
+      Hezbollah, estimant que l'organisation libanaise est affaiblie et incapable de
+      soutenir une confrontation prolongée après des mois d'attaques israéliennes.
+    paragraph_summary: Selon le ministre de la Défense israélien, Israël se prépare
+      à une action militaire décisive contre le Hezbollah, estimant que ce dernier est
+      en position de faiblesse après des mois d'attaques israéliennes sans réponse.
+      Les planificateurs israéliens croient qu'une escalade rapide pourrait surprendre
+      le Hezbollah et lui infliger un coup stratégique avant qu'il ne puisse se rétablir.
+      Avant que le Hezbollah ne tire des missiles le 2 mars, Israël avait déjà mobilisé
+      entre 100 000 et 110 000 réservistes, un processus logistique complexe qui indique
+      que des préparatifs pour une escalade avec le Hezbollah avaient été envisagés
+      en parallèle avec la confrontation avec l'Iran. Cette mobilisation suggère que
+      les bases opérationnelles pour une action contre le Liban étaient déjà en place,
+      renforçant l'idée que les forces israéliennes se préparent à un conflit prolongé.
+    published: '2026-03-06T18:46:39+00:00'
+  - title: 'Vereint im Feuer: Die koordinierte Herausforderung Israels durch den Iran
+      und die Hisbollah'
+    url: https://ejmagnier.com/2026/03/05/vereint-im-feuer-die-koordinierte-herausforderung-israels-durch-den-iran-und-die-hisbollah/
+    text: 'Von Elijah J. Magnier In einer bedeutenden Eskalation der regionalen Konfrontation
+      führten der Iran und die Hisbollah nahezu zeitgleiche Raketenangriffe auf Tel
+      Aviv durch, was eine der deutlichsten Demonstrationen koordinierter militärischer
+      Aktionen zwischen den beiden Akteuren während des aktuellen Konflikts darstellt.
+      In ganz Zentralisrael heulten Luftschutzsirenen, als fast zeitgleich mit den aus
+      iranischem Gebiet abgefeuerten ballistischen Raketen Raketen und Drohnen aus dem
+      Südlibanon abgeschossen wurden, wodurch Zivilisten in Schutzräume getrieben und
+      Israels landesweite Luftabwehrsysteme aktiviert wurden. Die Angriffe spiegelten
+      eine koordinierte Reaktion innerhalb eines sich ausweitenden Krieges wider, der
+      bereits mehrere Akteure im Nahen Osten in die Konfrontation hineingezogen hat.
+      Laut israelischen Militärberichten wurden die Geschosse aus dem Iran und dem Libanon
+      innerhalb desselben Einsatzzeitraums abgefeuert, zielten auf Zentralisrael und
+      lösten Abfangmaßnahmen über dem Gebiet von Tel Aviv aus. Über die unmittelbaren
+      militärischen Auswirkungen hinaus hatte der gleichzeitige Abschuss eine klare
+      strategische Botschaft: Der Konflikt beschränkt sich nicht mehr auf isolierte
+      Fronten, sondern entwickelt sich zu einer koordinierten regionalen Konfrontation.
+      Durch die Synchronisierung von Angriffen aus verschiedenen Gebieten signalisierten
+      der Iran und die Hisbollah, dass ihre operativen Netzwerke trotz anhaltender Luftangriffe
+      und zunehmenden militärischen Drucks in der gesamten Region weiterhin in der Lage
+      sind, gemeinsam zu handeln. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: In einer signifikanten Eskalation der regionalen Spannungen
+      führten der Iran und die Hisbollah koordinierte Raketenangriffe auf Tel Aviv durch,
+      was die enge militärische Zusammenarbeit zwischen den beiden Akteuren im aktuellen
+      Konflikt verdeutlicht.
+    paragraph_summary: In a significant escalation of regional tensions, Iran and Hezbollah
+      launched nearly simultaneous rocket attacks on Tel Aviv, marking one of the clearest
+      demonstrations of coordinated military actions between the two during the ongoing
+      conflict. Air raid sirens sounded across central Israel as ballistic missiles
+      fired from Iranian territory coincided with rockets and drones launched from southern
+      Lebanon, forcing civilians into shelters and activating Israel's nationwide air
+      defense systems. The attacks, which targeted central Israel, underscored a coordinated
+      response within a widening war that has already involved multiple actors in the
+      Middle East. Israeli military reports indicated that the projectiles were fired
+      within the same operational timeframe, highlighting a strategic message that the
+      conflict is evolving from isolated fronts to a unified regional confrontation,
+      with Iran and Hezbollah signaling their capability to operate together despite
+      ongoing airstrikes and increasing military pressure in the region.
+    published: '2026-03-05T03:51:26+00:00'
+  - title: 'Vereint im Feuer: Die koordinierte Herausforderung Israels durch den Iran
+      und die Hisbollah'
+    url: https://ejmagnier.com/2026/03/05/vereint-im-feuer-die-koordinierte-herausforderung-israels-durch-den-iran-und-die-hisbollah/
+    text: 'Von Elijah J. Magnier In einer bedeutenden Eskalation der regionalen Konfrontation
+      führten der Iran und die Hisbollah nahezu zeitgleiche Raketenangriffe auf Tel
+      Aviv durch, was eine der deutlichsten Demonstrationen koordinierter militärischer
+      Aktionen zwischen den beiden Akteuren während des aktuellen Konflikts darstellt.
+      In ganz Zentralisrael heulten Luftschutzsirenen, als fast zeitgleich mit den aus
+      iranischem Gebiet abgefeuerten ballistischen Raketen Raketen und Drohnen aus dem
+      Südlibanon abgeschossen wurden, wodurch Zivilisten in Schutzräume getrieben und
+      Israels landesweite Luftabwehrsysteme aktiviert wurden. Die Angriffe spiegelten
+      eine koordinierte Reaktion innerhalb eines sich ausweitenden Krieges wider, der
+      bereits mehrere Akteure im Nahen Osten in die Konfrontation hineingezogen hat.
+      Laut israelischen Militärberichten wurden die Geschosse aus dem Iran und dem Libanon
+      innerhalb desselben Einsatzzeitraums abgefeuert, zielten auf Zentralisrael und
+      lösten Abfangmaßnahmen über dem Gebiet von Tel Aviv aus. Über die unmittelbaren
+      militärischen Auswirkungen hinaus hatte der gleichzeitige Abschuss eine klare
+      strategische Botschaft: Der Konflikt beschränkt sich nicht mehr auf isolierte
+      Fronten, sondern entwickelt sich zu einer koordinierten regionalen Konfrontation.
+      Durch die Synchronisierung von Angriffen aus verschiedenen Gebieten signalisierten
+      der Iran und die Hisbollah, dass ihre operativen Netzwerke trotz anhaltender Luftangriffe
+      und zunehmenden militärischen Drucks in der gesamten Region weiterhin in der Lage
+      sind, gemeinsam zu handeln. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: In einer signifikanten Eskalation der regionalen Spannungen
+      führten der Iran und die Hisbollah koordinierte Raketenangriffe auf Tel Aviv durch,
+      was die enge militärische Zusammenarbeit zwischen den beiden Akteuren im aktuellen
+      Konflikt verdeutlicht.
+    paragraph_summary: In a significant escalation of regional tensions, Iran and Hezbollah
+      launched nearly simultaneous rocket attacks on Tel Aviv, marking one of the clearest
+      demonstrations of coordinated military actions between the two during the ongoing
+      conflict. Air raid sirens sounded across central Israel as ballistic missiles
+      fired from Iranian territory coincided with rockets and drones launched from southern
+      Lebanon, forcing civilians into shelters and activating Israel's nationwide air
+      defense systems. The attacks, which targeted central Israel, underscored a coordinated
+      response within a widening war that has already involved multiple actors in the
+      Middle East. Israeli military reports indicated that the projectiles were fired
+      within the same operational timeframe, highlighting a strategic message that the
+      conflict is evolving from isolated fronts to a unified regional confrontation,
+      with Iran and Hezbollah signaling their capability to operate together despite
+      ongoing airstrikes and increasing military pressure in the region.
+    published: '2026-03-05T03:51:26+00:00'
+  - title: 'United in Fire: Iran and Hezbollah’s Coordinated Challenge to Israel'
+    url: https://ejmagnier.com/2026/03/04/united-in-fire-iran-and-hezbollahs-coordinated-challenge-to-israel/
+    text: 'By Elijah J. Magnier In a significant escalation of the regional confrontation,
+      Iran and Hezbollah carried out near-simultaneous missile strikes toward Tel Aviv,
+      marking one of the clearest demonstrations of coordinated military action between
+      the two actors during the current conflict. Air-raid sirens sounded across central
+      Israel as ballistic missiles launched from Iranian territory were followed almost
+      simultaneously by missiles and drones fired from southern Lebanon, forcing civilians
+      into shelters and activating Israel’s nationwide air-defence systems. The strikes
+      reflected a coordinated response within a widening war that has already drawn
+      multiple actors across the Middle East into the confrontation. According to Israeli
+      military reports, projectiles from Iran and Lebanon were launched within the same
+      operational window, targeting central Israel and triggering interceptions over
+      the Tel Aviv area. Beyond the immediate military impact, the simultaneous launch
+      carried a clear strategic message: the conflict is no longer confined to isolated
+      fronts but is evolving into a coordinated regional confrontation. By synchronising
+      attacks from different territories, Iran and Hezbollah signalled that their operational
+      networks remain capable of acting together despite ongoing airstrikes and mounting
+      military pressure across the region. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Iran and Hezbollah executed coordinated missile strikes on
+      Tel Aviv, marking a significant escalation in their regional confrontation and
+      demonstrating a unified military response amid a widening conflict involving multiple
+      Middle Eastern actors.
+    paragraph_summary: In a notable escalation of regional tensions, Iran and Hezbollah
+      executed near-simultaneous missile strikes targeting Tel Aviv, showcasing a significant
+      level of military coordination between the two during the ongoing conflict. Air-raid
+      sirens were activated across central Israel as ballistic missiles from Iran were
+      launched alongside missiles and drones from southern Lebanon, prompting civilians
+      to seek shelter and activating Israel's air-defense systems. This coordinated
+      assault, which involved projectiles being fired within the same operational timeframe,
+      underscores the evolving nature of the conflict, indicating that it has expanded
+      beyond isolated fronts into a broader regional confrontation. The synchronized
+      attacks serve as a strategic message from Iran and Hezbollah, demonstrating their
+      ability to collaborate effectively despite facing ongoing military pressures and
+      airstrikes in the region.
+    published: '2026-03-04T18:34:48+00:00'
+  - title: 'United in Fire: Iran and Hezbollah’s Coordinated Challenge to Israel'
+    url: https://ejmagnier.com/2026/03/04/united-in-fire-iran-and-hezbollahs-coordinated-challenge-to-israel/
+    text: 'By Elijah J. Magnier In a significant escalation of the regional confrontation,
+      Iran and Hezbollah carried out near-simultaneous missile strikes toward Tel Aviv,
+      marking one of the clearest demonstrations of coordinated military action between
+      the two actors during the current conflict. Air-raid sirens sounded across central
+      Israel as ballistic missiles launched from Iranian territory were followed almost
+      simultaneously by missiles and drones fired from southern Lebanon, forcing civilians
+      into shelters and activating Israel’s nationwide air-defence systems. The strikes
+      reflected a coordinated response within a widening war that has already drawn
+      multiple actors across the Middle East into the confrontation. According to Israeli
+      military reports, projectiles from Iran and Lebanon were launched within the same
+      operational window, targeting central Israel and triggering interceptions over
+      the Tel Aviv area. Beyond the immediate military impact, the simultaneous launch
+      carried a clear strategic message: the conflict is no longer confined to isolated
+      fronts but is evolving into a coordinated regional confrontation. By synchronising
+      attacks from different territories, Iran and Hezbollah signalled that their operational
+      networks remain capable of acting together despite ongoing airstrikes and mounting
+      military pressure across the region. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Iran and Hezbollah executed coordinated missile strikes on
+      Tel Aviv, marking a significant escalation in their regional confrontation and
+      demonstrating a unified military response amid a widening conflict involving multiple
+      Middle Eastern actors.
+    paragraph_summary: In a notable escalation of regional tensions, Iran and Hezbollah
+      executed near-simultaneous missile strikes targeting Tel Aviv, showcasing a significant
+      level of military coordination between the two during the ongoing conflict. Air-raid
+      sirens were activated across central Israel as ballistic missiles from Iran were
+      launched alongside missiles and drones from southern Lebanon, prompting civilians
+      to seek shelter and activating Israel's air-defense systems. This coordinated
+      assault, which involved projectiles being fired within the same operational timeframe,
+      underscores the evolving nature of the conflict, indicating that it has expanded
+      beyond isolated fronts into a broader regional confrontation. The synchronized
+      attacks serve as a strategic message from Iran and Hezbollah, demonstrating their
+      ability to collaborate effectively despite facing ongoing military pressures and
+      airstrikes in the region.
+    published: '2026-03-04T18:34:48+00:00'
+  - title: 'Unis dans le feu : le défi coordonné de l’Iran et du Hezbollah à Israël'
+    url: https://ejmagnier.com/2026/03/04/unis-dans-le-feu-le-defi-coordonne-de-liran-et-du-hezbollah-a-israel/
+    text: 'Par Elijah J. Magnier Dans une escalade significative de la confrontation
+      régionale, l’Iran et le Hezbollah ont mené des frappes de missiles quasi simultanées
+      en direction de Tel-Aviv, marquant l’une des démonstrations les plus claires d’une
+      action militaire coordonnée entre les deux acteurs dans le cadre du conflit actuel.
+      Des sirènes d’alerte aérienne ont retenti dans tout le centre d’Israël lorsque
+      des missiles balistiques lancés depuis le territoire iranien ont été suivis presque
+      simultanément par des missiles et des drones tirés depuis le sud du Liban, forçant
+      les civils à se réfugier dans les abris et déclenchant les systèmes de défense
+      aérienne à l’échelle nationale. Ces frappes reflètent une réponse coordonnée dans
+      le cadre d’une guerre qui s’élargit et qui a déjà entraîné plusieurs acteurs du
+      Moyen-Orient dans la confrontation. Selon des rapports militaires israéliens,
+      des projectiles provenant d’Iran et du Liban ont été lancés dans la même fenêtre
+      opérationnelle, visant le centre d’Israël et provoquant des interceptions au-dessus
+      de la région de Tel-Aviv. Au-delà de l’impact militaire immédiat, ces lancements
+      simultanés ont transmis un message stratégique clair : le conflit n’est plus limité
+      à des fronts isolés mais évolue vers une confrontation régionale coordonnée. En
+      synchronisant leurs attaques depuis des territoires différents, l’Iran et le Hezbollah
+      ont signalé que leurs réseaux opérationnels restent capables d’agir de concert
+      malgré les frappes aériennes continues et la pression militaire croissante dans
+      la région. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'Iran et le Hezbollah ont mené des frappes de missiles simultanées
+      sur Tel-Aviv, illustrant une coordination militaire accrue dans le cadre d'un
+      conflit régional en expansion.
+    paragraph_summary: In a significant escalation of regional tensions, Iran and Hezbollah
+      executed nearly simultaneous missile strikes targeting Tel Aviv, showcasing a
+      coordinated military effort amid the ongoing conflict. Air raid sirens sounded
+      across central Israel as ballistic missiles launched from Iranian territory were
+      followed closely by missiles and drones from southern Lebanon, forcing civilians
+      into shelters and activating national air defense systems. These strikes, which
+      were reported to have occurred within the same operational window, highlight a
+      shift from isolated confrontations to a broader, coordinated regional conflict
+      involving multiple Middle Eastern actors. By synchronizing their attacks from
+      different territories, Iran and Hezbollah demonstrated their operational capabilities
+      to collaborate despite ongoing airstrikes and increasing military pressure in
+      the region.
+    published: '2026-03-04T18:32:15+00:00'
+  - title: 'Unis dans le feu : le défi coordonné de l’Iran et du Hezbollah à Israël'
+    url: https://ejmagnier.com/2026/03/04/unis-dans-le-feu-le-defi-coordonne-de-liran-et-du-hezbollah-a-israel/
+    text: 'Par Elijah J. Magnier Dans une escalade significative de la confrontation
+      régionale, l’Iran et le Hezbollah ont mené des frappes de missiles quasi simultanées
+      en direction de Tel-Aviv, marquant l’une des démonstrations les plus claires d’une
+      action militaire coordonnée entre les deux acteurs dans le cadre du conflit actuel.
+      Des sirènes d’alerte aérienne ont retenti dans tout le centre d’Israël lorsque
+      des missiles balistiques lancés depuis le territoire iranien ont été suivis presque
+      simultanément par des missiles et des drones tirés depuis le sud du Liban, forçant
+      les civils à se réfugier dans les abris et déclenchant les systèmes de défense
+      aérienne à l’échelle nationale. Ces frappes reflètent une réponse coordonnée dans
+      le cadre d’une guerre qui s’élargit et qui a déjà entraîné plusieurs acteurs du
+      Moyen-Orient dans la confrontation. Selon des rapports militaires israéliens,
+      des projectiles provenant d’Iran et du Liban ont été lancés dans la même fenêtre
+      opérationnelle, visant le centre d’Israël et provoquant des interceptions au-dessus
+      de la région de Tel-Aviv. Au-delà de l’impact militaire immédiat, ces lancements
+      simultanés ont transmis un message stratégique clair : le conflit n’est plus limité
+      à des fronts isolés mais évolue vers une confrontation régionale coordonnée. En
+      synchronisant leurs attaques depuis des territoires différents, l’Iran et le Hezbollah
+      ont signalé que leurs réseaux opérationnels restent capables d’agir de concert
+      malgré les frappes aériennes continues et la pression militaire croissante dans
+      la région. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'Iran et le Hezbollah ont mené des frappes de missiles simultanées
+      sur Tel-Aviv, illustrant une coordination militaire accrue dans le cadre d'un
+      conflit régional en expansion.
+    paragraph_summary: In a significant escalation of regional tensions, Iran and Hezbollah
+      executed nearly simultaneous missile strikes targeting Tel Aviv, showcasing a
+      coordinated military effort amid the ongoing conflict. Air raid sirens sounded
+      across central Israel as ballistic missiles launched from Iranian territory were
+      followed closely by missiles and drones from southern Lebanon, forcing civilians
+      into shelters and activating national air defense systems. These strikes, which
+      were reported to have occurred within the same operational window, highlight a
+      shift from isolated confrontations to a broader, coordinated regional conflict
+      involving multiple Middle Eastern actors. By synchronizing their attacks from
+      different territories, Iran and Hezbollah demonstrated their operational capabilities
+      to collaborate despite ongoing airstrikes and increasing military pressure in
+      the region.
+    published: '2026-03-04T18:32:15+00:00'
   - title: 'Au bord de l’invasion et de la fracture interne : la guerre du Hezbollah
       sur deux fronts, à la frontière et à l’intérieur'
     url: https://ejmagnier.com/2026/03/03/au-bord-de-linvasion-et-de-la-fracture-interne-la-guerre-du-hezbollah-sur-deux-fronts-a-la-frontiere-et-a-linterieur/

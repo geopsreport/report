@@ -7,17 +7,68 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past 12 hours have brought new revelations highlighting the persistent entanglement of elite networks, intelligence operations, and Western influence campaigns across several geopolitical hotspots.
+  The past several days have seen a series of revelations and developments highlighting the intersection of intelligence operations, political maneuvering, and private influence in global affairs. The most significant recent disclosures center on the role of US and Israeli intelligence agencies in shaping the Trump administration’s Iran policy, as well as new details about elite military recruitment and covert influence campaigns.
   
-  The most significant development comes from newly surfaced emails indicating that Jeffrey Epstein used his connections to help his lawyer’s daughter secure a position in an elite Israeli Defense Forces unit. As **Max Blumenthal** reports, this underscores Epstein’s deep involvement in facilitating military recruitment and further cements the perception of his role as a broker between influential Western and Israeli circles. The implications are twofold: not only does this reinforce suspicions about Epstein’s utility to intelligence services, but it also raises fresh questions about the extent of foreign influence in Israeli military affairs.
+  According to **Max Blumenthal**, newly surfaced evidence shows that the FBI fabricated assassination plots to convince former President Trump that Iran was targeting him personally. This psychological operation, amplified by Israeli intelligence and their allies, was instrumental in Trump’s decision to authorize the assassination of Iran’s Supreme Leader, Ayatollah Ali Khamenei. The manipulation of presidential perceptions through manufactured threats marks a dramatic escalation in the use of intelligence for policy engineering.
   
-  Meanwhile, earlier reports continue to reverberate regarding the National Endowment for Democracy’s (NED) covert activities in Iran. During a recent Congressional hearing, **Damon Wilson** openly admitted to deploying 200 Starlink terminals to Iran, a move widely interpreted as an effort to foment unrest. This admission, though quickly cut off in the hearing, reveals the ongoing use of technological tools to shape internal dynamics in adversarial states. The majority of analysts agree that such interventions are likely to escalate tensions between Iran and the West, especially as Western officials continue to cite unverified casualty figures to justify their policies.
+  In a separate but related sphere, **Blumenthal** reports on emails revealing that Jeffrey Epstein leveraged his network to secure a place for his lawyer’s daughter in an elite Israeli Defense Forces unit. This underscores the ongoing influence of private actors in military and intelligence recruitment, raising questions about the permeability of state institutions to outside interests.
   
-  In the UK, the scandal involving a think tank tied to Prime Minister Keir Starmer—accused of hiring a PR firm to surveil journalists—remains a source of political instability. While not a new revelation today, its continued fallout is indicative of growing scrutiny on government transparency and the weaponization of information.
+  Meanwhile, the fallout from the Iran conflict continues to ripple through international and domestic politics. At a recent American Petroleum Institute summit, oil executives described the Iran war as the “biggest opportunity” for the industry, despite dissatisfaction with Trump’s approach to Venezuela. This signals a convergence of corporate and strategic interests around the escalation in Iran, with energy markets and geopolitical influence at stake.
   
-  **Trends and Predictions:**  
-  The convergence of intelligence, technology, and elite networks is becoming increasingly visible, with the Epstein revelations serving as a stark example. Western-backed influence operations, particularly in Iran, are expected to intensify, with a high chance of further digital and information warfare tactics being deployed. In the UK, the erosion of trust in political institutions is likely to persist, though the immediate impact on government stability remains uncertain. Most definitely, scrutiny of elite ties to intelligence and military operations will deepen in the coming weeks, with further disclosures anticipated.
+  Looking ahead, the majority of independent analysts cited by **Blumenthal** agree that the use of covert influence operations—ranging from psychological manipulation of leaders to the deployment of technology for regime change—will remain central to US and allied strategies. There is high confidence that further disclosures about intelligence involvement in political decision-making and private sector entanglements will emerge in the coming weeks. Most definitely, the weaponization of information and influence will continue to shape the trajectory of conflicts in the Middle East and beyond.
 articles:
+  - title: How Israel and the FBI manipulated assassination plots to goad Trump into
+      Iran war
+    url: https://thegrayzone.com/2026/03/06/israel-fbi-assassination-plots-trump-iran-war/
+    text: The FBI manufactured plots to convince Trump that Iran sought to kill him,
+      while Israel and its administration allies exploited the president’s deepest fears
+      to keep him on the war path. “I got him before he got me,” an ebullient President
+      Donald Trump remarked to a reporter when asked about his motives for authorizing
+      the killing of Iran’s Leader, Ayatollah Ali Khamenei, on February 28, 2026. With
+      his off-the-cuff remark, Trump revealed that anxiety about his own assassination
+      at the […] The post How Israel and the FBI manipulated assassination plots to
+      goad Trump into Iran war first appeared on The Grayzone . The post How Israel
+      and the FBI manipulated assassination plots to goad Trump into Iran war appeared
+      first on The Grayzone .
+    one_sentence_summary: The article discusses how the FBI created false plots to convince
+      Trump that Iran wanted to assassinate him, while Israel and its allies exploited
+      his fears to push him towards military action against Iran, culminating in Trump's
+      decision to authorize the killing of Ayatollah Ali Khamenei.
+    paragraph_summary: The article discusses how the FBI allegedly fabricated plots
+      to convince President Trump that Iran was planning to assassinate him, while Israel
+      and its allies exploited Trump's fears to push him towards military action against
+      Iran. Trump, in a revealing comment, expressed his motivations for authorizing
+      the assassination of Iran's leader, Ayatollah Ali Khamenei, suggesting that his
+      actions were driven by a desire to preemptively strike against perceived threats
+      to his life. The piece highlights the manipulation of Trump's anxieties by external
+      forces to escalate tensions and lead to conflict with Iran.
+    published: '2026-03-06T16:26:34+00:00'
+  - title: How Israel and the FBI manipulated assassination plots to goad Trump into
+      Iran war
+    url: https://thegrayzone.com/2026/03/06/israel-fbi-assassination-plots-trump-iran-war/
+    text: The FBI manufactured plots to convince Trump that Iran sought to kill him,
+      while Israel and its administration allies exploited the president’s deepest fears
+      to keep him on the war path. “I got him before he got me,” an ebullient President
+      Donald Trump remarked to a reporter when asked about his motives for authorizing
+      the killing of Iran’s Leader, Ayatollah Ali Khamenei, on February 28, 2026. With
+      his off-the-cuff remark, Trump revealed that anxiety about his own assassination
+      at the […] The post How Israel and the FBI manipulated assassination plots to
+      goad Trump into Iran war first appeared on The Grayzone . The post How Israel
+      and the FBI manipulated assassination plots to goad Trump into Iran war appeared
+      first on The Grayzone .
+    one_sentence_summary: The article discusses how the FBI created false plots to convince
+      Trump that Iran wanted to assassinate him, while Israel and its allies exploited
+      his fears to push him towards military action against Iran, culminating in Trump's
+      decision to authorize the killing of Ayatollah Ali Khamenei.
+    paragraph_summary: The article discusses how the FBI allegedly fabricated plots
+      to convince President Trump that Iran was planning to assassinate him, while Israel
+      and its allies exploited Trump's fears to push him towards military action against
+      Iran. Trump, in a revealing comment, expressed his motivations for authorizing
+      the assassination of Iran's leader, Ayatollah Ali Khamenei, suggesting that his
+      actions were driven by a desire to preemptively strike against perceived threats
+      to his life. The piece highlights the manipulation of Trump's anxieties by external
+      forces to escalate tensions and lead to conflict with Iran.
+    published: '2026-03-06T16:26:34+00:00'
   - title: 'Epstein Army: Jeffrey Epstein helped place 18-year-old woman in ‘elite IDF
       unit’'
     url: https://thegrayzone.com/2026/03/03/epstein-army-18-yo-girl-elite-idf/

@@ -7,17 +7,3048 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amidst heightened US-Iran tensions following the assassination of Ayatollah Khamenei, the regional security situation continues to evolve rapidly. The latest analysis from **Larry C. Johnson** highlights several new and critical developments.
+  The geopolitical landscape remains dominated by the escalating crisis in the Persian Gulf, with the aftermath of the US-Israeli military campaign against Iran continuing to reverberate across global energy and security sectors. Despite official statements from the Trump administration suggesting imminent Iranian capitulation, the reality on the ground is markedly different.
   
-  The most pressing revelation concerns the US military’s air-defense capabilities. Contrary to recent public statements by Donald Trump, **Larry C. Johnson** reports that the United States is facing a significant shortage of PAC-3 MSE air-defense missiles. This undermines Trump’s claim of an “unlimited supply” and raises serious questions about the sustainability of US military operations in the region, especially as advanced missile threats from Iran and its allies persist. The shortage could limit the US ability to protect its forces and regional partners in the event of further escalation.
+  The most significant new development, as detailed by **Larry C. Johnson** in his latest analysis, is the looming threat of a sustained closure of the Strait of Hormuz by Iran. Johnson warns that such a move would "severely disrupt global oil, liquefied natural gas, and urea exports, leading to unprecedented economic shocks that could impact energy markets, food security, and the fiscal stability of many nations." This scenario, if realized, would mark a critical escalation with far-reaching consequences for both producer and consumer countries.
   
-  On the ground, Iranian forces have reportedly succeeded in expelling US troops from several bases in the region. **Johnson** notes that this directly contradicts the Trump administration’s narrative of dominance and suggests that Iran’s military strategy is achieving tangible results. The loss of these positions not only weakens the US posture but also emboldens Tehran and its regional allies.
+  Meanwhile, the military situation remains fluid. Despite high-profile claims of victory, Iran continues to launch effective drone and missile attacks against US and Israeli targets. According to Johnson, "Trump's advisers privately push for an exit strategy from the conflict amid rising oil prices and potential political repercussions." This internal debate within the US administration underscores growing doubts about the feasibility of achieving strategic objectives in Iran, especially as the conflict exerts increasing pressure on global energy prices.
   
-  Meanwhile, the aftermath of the US-Israeli strike that killed Khamenei continues to reverberate. Rather than destabilizing the Iranian regime, the operation has, according to **Johnson**, “united the Iranian populace in support of their government.” This outcome has complicated US objectives and increased the risk of broader conflict, as the Shi’a world rallies in response.
+  In the broader context, Russia's role as a geopolitical counterweight is becoming more pronounced. Johnson references the proverb "revenge is a dish best served cold" to describe Moscow's calculated posture towards both the Gulf Cooperation Council and India, suggesting that Russia is leveraging the current instability to advance its own interests in the region.
   
   **Trends and Predictions:**  
-  The convergence of these factors—US missile shortages, Iranian military advances, and a galvanized Iranian public—points to a deteriorating strategic position for Washington. **Johnson** assesses with high confidence that unless the US addresses its missile defense shortfall and reconsiders its regional posture, further setbacks are “most definitely” likely. The risk of wider conflict remains high, with no clear diplomatic off-ramp in sight.
+  - There is a high chance of continued Iranian resistance, with no imminent collapse of the regime.  
+  - The risk of a prolonged closure of the Strait of Hormuz is rising; if this occurs, I guarantee a global economic shock, particularly in energy and food markets.  
+  - US and Israeli efforts to force regime change in Iran have most definitely backfired, uniting the Iranian public and complicating prospects for a negotiated settlement.  
+  - Russia is quite likely to exploit the situation to expand its influence in the Gulf and South Asia.
+  
+  The coming days are expected to see further volatility in energy markets and heightened diplomatic maneuvering, as all sides grapple with the consequences of a conflict that shows no signs of resolution.
 articles:
+  - title: 'Choke Point: The Global Economic Consequences of The Persian Gulf Shutdown'
+    url: https://sonar21.com/choke-point-the-global-economic-consequences-of-the-persian-gulf-shutdown/
+    text: 'How the disruption of oil, liquefied natural gas, and urea exports will cascade
+      through the world economy The Persian Gulf is the most consequential body of water
+      in the global economy. Its narrow exit — the Strait of Hormuz, just 33 kilometres
+      wide at its narrowest point — acts as a valve through which flows an extraordinary
+      share of the world’s energy and agricultural inputs. A sustained closure of that
+      valve by Iran will trigger an economic shock with few historical precedents. Let’s
+      look at the three commodity categories most exposed to such a disruption: crude
+      oil and refined petroleum products, liquefied natural gas (LNG), and urea, the
+      nitrogen fertiliser upon which modern agriculture depends. Together, these three
+      flows underpin not just energy markets but global food security, industrial production,
+      and the fiscal stability of dozens of nations. The Strait of Hormuz: A Single
+      Point of Failure Roughly 20–21 million barrels of oil pass through the Strait
+      of Hormuz every day, representing approximately 20% of global petroleum liquids
+      consumption and around 30% of seaborne crude trade. The Gulf states bordering
+      this corridor — Saudi Arabia, the United Arab Emirates, Kuwait, Iraq, Iran, and
+      Qatar — collectively hold the majority of the world’s proven oil reserves and
+      a dominant share of global LNG export capacity. There is no adequate alternative.
+      The East-West Pipeline across Saudi Arabia (Petroline) can carry around 5 million
+      barrels per day, and the Habshan-Fujairah pipeline in the UAE adds limited bypass
+      capacity. But these routes are insufficient to compensate for a full shutdown,
+      and are themselves vulnerable to sabotage. For the first time in history the oil
+      has stopped flowing. Oil: The Immediate Shock The abrupt closure of Persian Gulf
+      oil exports will constitute the largest supply shock in the history of petroleum
+      markets — larger in absolute terms than the 1973 Arab oil embargo or the Iranian
+      Revolution of 1979, both of which removed far smaller volumes, if Iran maintains
+      the blockade for a month or longer. The International Energy Agency estimates
+      that OECD strategic reserves could theoretically cushion a disruption for several
+      months, but the psychological and speculative impact on oil prices would be immediate
+      and severe. Analysts and historical precedent suggest that oil prices could spike
+      to anywhere between $150 and $250 per barrel  — or potentially higher if markets
+      judged the disruption likely to be prolonged. At such prices, the consequences
+      would radiate rapidly through the global economy: Fuel costs and consumer prices.
+      Petrol, diesel, aviation fuel, and heating oil prices have all surged. In major
+      consuming economies — the United States, Europe, China, Japan, India — consumer
+      price inflation will accelerate sharply with a prolonged disruption. Households
+      will face dramatically higher energy bills and transport costs within weeks. Industrial
+      contraction. Energy-intensive manufacturing sectors — petrochemicals, cement,
+      steel, aluminium, glass — will face crippling input cost increases. Many would
+      reduce output or shut down. Supply chains across the global economy would seize
+      as freight costs soared. Aviation and shipping. Aviation fuel costs would make
+      large swaths of commercial aviation economically unviable. Shipping freight rates,
+      already elevated by fuel costs, would compound broader supply chain disruption.
+      Recession risk. Every major oil price shock since the 1970s has been followed
+      by a global economic recession. A shock of this magnitude would almost certainly
+      do the same. The IMF and World Bank have historically estimated that a $10 per
+      barrel sustained rise in oil prices reduces global GDP growth by around 0.2–0.5
+      percentage points; a shock ten or twenty times larger would be categorically different
+      in nature. Here are the most vulnerable countries to this shock: Japan Japan is
+      the world’s most structurally vulnerable major economy to a Gulf oil shock. It
+      imports approximately 90% of its crude oil from the Middle East, with Saudi Arabia,
+      the UAE, Kuwait, and Qatar as its dominant suppliers. Japan has almost no domestic
+      oil production, very limited alternative import infrastructure, and a dense industrial
+      base dependent on petroleum. Its strategic reserves — among the largest in the
+      world at around 150 days of consumption — provide a buffer, but not immunity.
+      A prolonged closure lasting more than six months would force severe rationing,
+      industrial curtailment, and recession. Japan’s post-Fukushima decision to phase
+      down nuclear power has deepened its vulnerability by reducing the one energy source
+      that could partly substitute. South Korea South Korea imports over 70% of its
+      crude from the Middle East, with the Gulf states as its largest suppliers. Like
+      Japan, it has negligible domestic production. Its economy is heavily industrial
+      — semiconductors, shipbuilding, petrochemicals, and steel — all energy-intensive
+      sectors that would face rapid input cost crises. South Korea maintains strategic
+      reserves of approximately 100 days. Its proximity to Japan means both nations
+      would compete for limited alternative supply from West Africa, North America,
+      and Russia, driving prices higher still. India India is the world’s third-largest
+      oil importer and sources roughly 60–65% of its crude from the Gulf region, primarily
+      Iraq, Saudi Arabia, and the UAE. It has limited domestic production and strategic
+      reserves of only around 10–15 days — among the smallest relative to import volume
+      of any major economy. India’s fuel subsidy architecture means the government would
+      face enormous fiscal pressure as global oil prices surged, at the same moment
+      that import costs were consuming foreign exchange reserves. For India’s 1.4 billion
+      population — many of whom have limited financial buffers — the pass-through of
+      energy and food cost increases would be devastating. India’s industrial heartland,
+      its agricultural sector (which depends heavily on diesel for irrigation pumps),
+      and its nascent manufacturing base would all be severely disrupted. Taiwan Taiwan
+      imports almost all of its energy requirements and sources a significant majority
+      of its oil from the Gulf. As the world’s primary producer of advanced semiconductors,
+      a disruption to Taiwan’s energy supply would carry consequences far beyond its
+      own economy — threatening global technology supply chains. Taiwan’s strategic
+      reserves are modest, and alternative supply routes would be expensive and slow
+      to establish. Pakistan and Bangladesh Both nations are heavily dependent on Gulf
+      oil imports and have almost no strategic reserves, limited foreign exchange, and
+      large populations with high fuel and food price sensitivity. Pakistan in particular
+      has endured recurring foreign exchange crises; a surge in import costs would likely
+      trigger a balance-of-payments collapse. For Bangladesh, fuel price increases would
+      threaten the cost competitiveness of its garment sector — the backbone of its
+      export economy — as well as the diesel-powered irrigation that supports its rice
+      production. Sub-Saharan Africa (Particularly Kenya, Ethiopia, Tanzania) Many sub-Saharan
+      African nations depend on Gulf oil for a large majority of their refined product
+      imports, with minimal domestic refining capacity and no strategic stockpiles.
+      Countries like Kenya, Ethiopia, and Tanzania would face acute fuel shortages,
+      with knock-on effects on transport, electricity generation, and agricultural supply
+      chains. Governments with limited foreign reserves would be unable to sustain imports
+      at elevated prices for any prolonged period. LNG: The Gas Markets Upended Qatar
+      is by some measures the world’s largest single exporter of liquefied natural gas,
+      accounting for roughly 20–22% of global LNG trade. Together with the UAE and other
+      Gulf producers, the Persian Gulf region represents a pillar of the global gas
+      supply architecture. The disruption of this supply arrives into a global gas market
+      already structurally tighter following Russia’s invasion of Ukraine and the reconfiguration
+      of European energy supply. Japan (Again the Most Exposed) Japan is also the world’s
+      largest or second-largest LNG importer, sourcing a dominant share from Qatar and
+      other Gulf producers. LNG powers roughly a third of Japan’s electricity generation
+      following its post-Fukushima nuclear drawdown. A loss of Gulf LNG would immediately
+      threaten grid stability, with cascading effects across manufacturing, services,
+      and residential supply. Japan has limited LNG storage capacity and no pipeline
+      gas import option. The combined loss of Gulf oil and Gulf LNG would place Japan
+      under extraordinary simultaneous pressure on two of its three primary energy sources.
+      South Korea South Korea is consistently among the top three LNG importers globally,
+      with Qatar one of its largest suppliers. Gas fires a substantial share of South
+      Korea’s power generation. Like Japan, it has no pipeline import option and limited
+      domestic gas production, making seaborne LNG the only supply mechanism. Power
+      shortages would ripple through its semiconductor fabs and shipyards — both globally
+      critical industries. European Union — Particularly Germany, Italy, the Netherlands,
+      Belgium, and France European nations pivoted heavily toward LNG imports after
+      Russia’s invasion of Ukraine severed their pipeline gas relationships. Qatar has
+      emerged as one of Europe’s most important LNG suppliers. Germany, Italy, the Netherlands,
+      Belgium, and France have all invested in LNG import terminals and contracted long-term
+      Gulf supply. A Gulf LNG disruption would arrive into a European gas market with
+      reduced pipeline alternatives from Russia, creating acute supply shortfalls particularly
+      in winter months. Germany — Europe’s largest economy and its industrial engine
+      — would face the most severe manufacturing impact, given its gas-intensive chemical,
+      glass, and steel industries. China China has surpassed Japan as the world’s largest
+      LNG importer in recent years. It sources a significant share of its LNG from Qatar
+      and other Gulf exporters. However, China has a partial mitigant unavailable to
+      most others: significant pipeline gas imports from Russia and Central Asia, which
+      could be ramped up to partly offset Gulf LNG losses. This makes China more resilient
+      than Japan or South Korea, but still substantially exposed, particularly for provinces
+      distant from pipeline infrastructure where LNG-fired power dominates. Pakistan
+      Pakistan has become deeply reliant on LNG imports to fuel its power sector following
+      the depletion of domestic gas reserves. It sources the overwhelming majority of
+      its LNG from Gulf producers. Power cuts — already a chronic problem — would become
+      catastrophic. Industrial output, water pumping, and basic services would all be
+      impaired. Pakistan’s fiscal position is too fragile to sustain premium spot LNG
+      purchases on global markets for any extended period. Urea: The Overlooked Catastrophe
+      Of the three commodity shocks, the disruption of urea exports from the Persian
+      Gulf may be the least immediately visible — but could prove the most enduring
+      in its consequences. Urea is the world’s most widely used nitrogen fertiliser.
+      It is synthesised from natural gas via the Haber-Bosch process, and the Gulf states
+      — particularly Saudi Arabia, Qatar, the UAE, and Oman — are among the world’s
+      largest producers and exporters, collectively accounting for a significant share
+      of global urea trade. The dependency of modern agriculture on synthetic nitrogen
+      fertiliser is difficult to overstate. It is estimated that roughly half of the
+      nitrogen in the human body today passed through the Haber-Bosch process at some
+      point — meaning that artificial fertiliser now sustains approximately half of
+      the world’s population. A collapse in urea supply would threaten crop yields on
+      a global scale. Crop yield decline. Without adequate nitrogen fertiliser, yields
+      of staple crops — wheat, rice, maize, soy — would fall dramatically within one
+      to two growing seasons. The effect would not be uniform: wealthy agricultural
+      nations with domestic fertiliser capacity or large stockpiles (the United States,
+      Canada, parts of Europe) would be more insulated. The developing world, particularly
+      sub-Saharan Africa and South and Southeast Asia, would face acute shortages. Food
+      price inflation. Global food prices, already elevated by conflict-related supply
+      disruptions in recent years, would surge further. The Food and Agriculture Organisation’s
+      food price index would likely break historical records. Bread, rice, and staple
+      grain prices would become unaffordable for hundreds of millions of people. Geopolitical
+      instability. Historical evidence linking sharp food price spikes to political
+      instability is robust. The Arab Spring of 2011 coincided with a period of record
+      food prices. A global urea shortage and its downstream consequences for food security
+      would heighten the risk of civil unrest, state fragility, and humanitarian crisis
+      across numerous countries. India India is the world’s largest urea importer by
+      volume, consuming enormous quantities to support its vast agricultural sector.
+      Despite significant domestic urea production, India’s demand consistently outpaces
+      supply, making it heavily reliant on Gulf imports, primarily from Oman, UAE, and
+      Saudi Arabia. A supply cut would threaten yields of wheat, rice, and pulses across
+      millions of smallholder farms. Given that Indian agriculture supports the livelihoods
+      of roughly half the population, the social and political consequences of a fertiliser
+      shortage would be profound. Food inflation would accelerate sharply and could
+      threaten political stability. Brazil Brazil is among the world’s top urea importers,
+      having dramatically expanded its agricultural output — it is now the world’s largest
+      soy and beef exporter, and a major corn and sugar producer. Brazil produces almost
+      no urea domestically at scale and imports a very large share from Gulf producers,
+      particularly from the UAE and Qatar. A urea supply disruption would threaten Brazilian
+      agricultural yields across the Cerrado and Amazon frontier regions, affecting
+      both domestic food supply and Brazil’s critical role as a global food exporter.
+      The consequences would ripple through global commodity markets. Australia Australia
+      is one of the world’s most import-dependent nations for urea, sourcing the overwhelming
+      majority from Gulf producers — particularly Qatar and the UAE. It has virtually
+      no domestic urea production capacity. Australian wheat farmers, who produce a
+      globally significant crop, apply large quantities of nitrogen fertiliser; a supply
+      cut would reduce yields and threaten Australia’s agricultural export revenues.
+      Australia is also the world’s largest diesel exhaust fluid (AdBlue) consumer relative
+      to its size, as this urea-derived product is required by most modern diesel vehicles
+      and engines — a secondary vulnerability that became apparent during a 2021 supply
+      shock. Sub-Saharan Africa (Ethiopia, Tanzania, Mozambique, Nigeria) Sub-Saharan
+      African nations with significant smallholder agricultural sectors are acutely
+      exposed to urea supply disruption. Most have no domestic production and rely heavily
+      on Gulf imports, often through the Indian Ocean trade routes. Fertiliser usage
+      rates in Africa are already among the world’s lowest — meaning yields are already
+      suboptimal — but further supply cuts and price increases would price smallholder
+      farmers out of the market entirely. In Ethiopia, Tanzania, Mozambique, and parts
+      of Nigeria, this would translate directly into food production shortfalls, price
+      spikes, and heightened hunger. The World Food Programme has repeatedly identified
+      fertiliser availability as a critical determinant of food security across the
+      region. Southeast Asia — Vietnam, Thailand, Philippines Southeast Asian rice-producing
+      nations — Vietnam, Thailand, and the Philippines — rely heavily on imported urea
+      to sustain their paddy yields. These countries are among the world’s largest rice
+      exporters and form a critical buffer for global food markets. A collapse in their
+      urea supply would reduce rice output, sending prices higher across Asia and the
+      Middle East, where rice is a dietary staple for billions. Urea Exposure: Country
+      Risk Summary The Compounding Effect Several countries face acute exposure across
+      all three commodity categories simultaneously. These nations represent the most
+      extreme cases of vulnerability. Japan: The Triple Threat Japan is uniquely exposed
+      on all three fronts: it is the world’s most Gulf-dependent major oil importer,
+      one of the world’s largest LNG importers with no pipeline alternative, and a significant
+      importer of Gulf urea for its rice and vegetable agriculture. A full Persian Gulf
+      shutdown would represent an existential economic crisis for Japan, requiring emergency
+      rationing, international assistance, and an accelerated nuclear restart programme.
+      Japan’s government has long identified Gulf security as a core strategic interest
+      — and for good reason. India: Scale Makes It Uniquely Dangerous India faces critical
+      exposure on oil and urea, and significant exposure on LNG. What makes India’s
+      situation particularly alarming is scale: with 1.4 billion people, a fuel subsidy
+      system that creates enormous fiscal pressure when prices rise, minimal strategic
+      reserves, and a large poor population with little financial resilience, the social
+      consequences of a simultaneous oil and fertiliser shock would be catastrophic.
+      India would face simultaneous fuel inflation, agricultural input collapse, food
+      price spikes, and foreign exchange depletion. The political stability implications
+      would extend well beyond India’s borders. Pakistan: The Fragile State Scenario
+      Pakistan faces severe exposure on oil and LNG, and significant exposure on urea.
+      Critically, Pakistan begins any crisis from a position of chronic fiscal and foreign
+      exchange weakness. A Gulf shutdown would rapidly exhaust its ability to finance
+      import bills, potentially triggering sovereign default, currency collapse, and
+      widespread civil unrest. Pakistan’s nuclear arsenal makes its potential destabilisation
+      a matter of global security concern, not merely an economic one. South Korea and
+      Taiwan: Industrial Economies at Risk Both nations face extreme oil and LNG exposure,
+      and their economies are globally systemically important in ways that extend their
+      vulnerability internationally. South Korea’s steel, chemicals, and shipbuilding,
+      and Taiwan’s semiconductor fabs, supply global industries. Their disruption would
+      cascade through global manufacturing and technology supply chains in ways that
+      a comparable shock to a less industrially specialised economy would not. Which
+      Countries Are Most Insulated? Not all nations face equal exposure. Several are
+      significantly better positioned to withstand a Gulf shutdown, either because they
+      produce their own energy, have diversified supply, or hold large strategic reserves.
+      United States. The US has achieved near-energy-independence through its shale
+      oil and gas revolution. It is a net oil exporter and the world’s largest LNG exporter.
+      It produces large quantities of domestic urea. A Gulf shutdown would raise global
+      prices and affect US consumers, but the supply shock would not directly threaten
+      US energy security. The US is best placed of all major economies. Canada. Canada
+      is a major oil sands and pipeline gas producer, self-sufficient in energy and
+      a significant fertiliser exporter. Its exposure to a Gulf shutdown is primarily
+      through global price effects rather than supply disruption. Russia. Russia produces
+      large volumes of oil, gas, and urea, and will likely benefit economically from
+      a Gulf shutdown through higher global prices for its exports. Its energy self-sufficiency
+      is near-total. Norway. A major oil and gas producer with minimal Gulf dependency.
+      Norway would benefit from higher global energy prices. Brazil (energy). Brazil’s
+      deep-water oil production makes it largely self-sufficient in crude oil. Its LNG
+      exposure is limited. Its vulnerability is concentrated in urea, where it is critically
+      dependent (as described above). Historical Context and Strategic Reserves The
+      1973 oil embargo — which removed roughly 4 million barrels per day from global
+      markets — caused a fourfold increase in oil prices and contributed to severe recessions
+      across the industrialised world. The current potential disruption would be five
+      times larger in volume terms. The 1979 Iranian Revolution removed approximately
+      4–5 million barrels per day temporarily; the Iran-Iraq War’s tanker attacks in
+      the 1980s rattled markets without fully closing the Strait. No historical episode
+      provides a true precedent for a complete, sustained Gulf shutdown. Strategic petroleum
+      reserves maintained by IEA member nations — totalling around 1.2–1.5 billion barrels
+      — could theoretically replace several months of lost Gulf supply if fully released.
+      In practice, coordinated release at the required scale has never been attempted,
+      and the logistical, political, and market-calming challenges would be formidable.
+      Strategic gas and fertiliser reserves are far more limited and will be exhausted
+      much faster. Conclusion The Persian Gulf is not merely an important trade route
+      — it is a structural dependency baked into the global economy over seven decades.
+      The simultaneous disruption of oil, LNG, and urea flows from the region constitute
+      a polycrisis of exceptional severity: an energy shock, an industrial shock, and
+      a food security crisis arriving together, reinforcing one another, and challenging
+      the capacity of governments, international institutions, and markets to respond.
+      Decades of optimisation around cost efficiency — concentrating energy production,
+      fertiliser manufacture, and shipping in the most economical locations — has created
+      a system that is efficient in stable conditions but catastrophically fragile under
+      stress. If Iran is able to sustain the closure of the Strait of Hormuz for a month
+      or more, it will enjoy significant leverage in negotiations to end the blockade.
+      How’s that for some uplifting analysis? I’ve been doing a ton of videopodcasts.
+      I was interviewed late yesterday by Wally Rashid: Mario, who I met a year ago
+      when we interviewed Foreign Minister Sergei Lavrov, grabbed me late today to discuss
+      the reported mining of the Strait of Hormuz: I also chatted with my friends, Natalie
+      and Clayton Morris, on their Redacted channel: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: A sustained closure of the Strait of Hormuz by Iran would
+      severely disrupt global oil, liquefied natural gas, and urea exports, leading
+      to unprecedented economic shocks that could impact energy markets, food security,
+      and the fiscal stability of many nations.
+    paragraph_summary: The article discusses the potential global economic repercussions
+      of a sustained closure of the Strait of Hormuz, a critical chokepoint through
+      which a significant portion of the world's oil, liquefied natural gas (LNG), and
+      urea exports pass. This narrow passage is vital for energy markets and global
+      food security, as it facilitates the flow of approximately 20% of global petroleum
+      consumption and a substantial share of LNG and agricultural inputs. A disruption,
+      particularly by Iran, would lead to unprecedented economic shocks, affecting not
+      only energy prices but also industrial production and the fiscal stability of
+      numerous countries. While there are limited alternative routes for oil transport,
+      they are insufficient to mitigate the impact of a complete shutdown, marking a
+      potential crisis in the global economy.
+    published: '2026-03-11T03:26:54+00:00'
+  - title: 'Choke Point: The Global Economic Consequences of The Persian Gulf Shutdown'
+    url: https://sonar21.com/choke-point-the-global-economic-consequences-of-the-persian-gulf-shutdown/
+    text: 'How the disruption of oil, liquefied natural gas, and urea exports will cascade
+      through the world economy The Persian Gulf is the most consequential body of water
+      in the global economy. Its narrow exit — the Strait of Hormuz, just 33 kilometres
+      wide at its narrowest point — acts as a valve through which flows an extraordinary
+      share of the world’s energy and agricultural inputs. A sustained closure of that
+      valve by Iran will trigger an economic shock with few historical precedents. Let’s
+      look at the three commodity categories most exposed to such a disruption: crude
+      oil and refined petroleum products, liquefied natural gas (LNG), and urea, the
+      nitrogen fertiliser upon which modern agriculture depends. Together, these three
+      flows underpin not just energy markets but global food security, industrial production,
+      and the fiscal stability of dozens of nations. The Strait of Hormuz: A Single
+      Point of Failure Roughly 20–21 million barrels of oil pass through the Strait
+      of Hormuz every day, representing approximately 20% of global petroleum liquids
+      consumption and around 30% of seaborne crude trade. The Gulf states bordering
+      this corridor — Saudi Arabia, the United Arab Emirates, Kuwait, Iraq, Iran, and
+      Qatar — collectively hold the majority of the world’s proven oil reserves and
+      a dominant share of global LNG export capacity. There is no adequate alternative.
+      The East-West Pipeline across Saudi Arabia (Petroline) can carry around 5 million
+      barrels per day, and the Habshan-Fujairah pipeline in the UAE adds limited bypass
+      capacity. But these routes are insufficient to compensate for a full shutdown,
+      and are themselves vulnerable to sabotage. For the first time in history the oil
+      has stopped flowing. Oil: The Immediate Shock The abrupt closure of Persian Gulf
+      oil exports will constitute the largest supply shock in the history of petroleum
+      markets — larger in absolute terms than the 1973 Arab oil embargo or the Iranian
+      Revolution of 1979, both of which removed far smaller volumes, if Iran maintains
+      the blockade for a month or longer. The International Energy Agency estimates
+      that OECD strategic reserves could theoretically cushion a disruption for several
+      months, but the psychological and speculative impact on oil prices would be immediate
+      and severe. Analysts and historical precedent suggest that oil prices could spike
+      to anywhere between $150 and $250 per barrel  — or potentially higher if markets
+      judged the disruption likely to be prolonged. At such prices, the consequences
+      would radiate rapidly through the global economy: Fuel costs and consumer prices.
+      Petrol, diesel, aviation fuel, and heating oil prices have all surged. In major
+      consuming economies — the United States, Europe, China, Japan, India — consumer
+      price inflation will accelerate sharply with a prolonged disruption. Households
+      will face dramatically higher energy bills and transport costs within weeks. Industrial
+      contraction. Energy-intensive manufacturing sectors — petrochemicals, cement,
+      steel, aluminium, glass — will face crippling input cost increases. Many would
+      reduce output or shut down. Supply chains across the global economy would seize
+      as freight costs soared. Aviation and shipping. Aviation fuel costs would make
+      large swaths of commercial aviation economically unviable. Shipping freight rates,
+      already elevated by fuel costs, would compound broader supply chain disruption.
+      Recession risk. Every major oil price shock since the 1970s has been followed
+      by a global economic recession. A shock of this magnitude would almost certainly
+      do the same. The IMF and World Bank have historically estimated that a $10 per
+      barrel sustained rise in oil prices reduces global GDP growth by around 0.2–0.5
+      percentage points; a shock ten or twenty times larger would be categorically different
+      in nature. Here are the most vulnerable countries to this shock: Japan Japan is
+      the world’s most structurally vulnerable major economy to a Gulf oil shock. It
+      imports approximately 90% of its crude oil from the Middle East, with Saudi Arabia,
+      the UAE, Kuwait, and Qatar as its dominant suppliers. Japan has almost no domestic
+      oil production, very limited alternative import infrastructure, and a dense industrial
+      base dependent on petroleum. Its strategic reserves — among the largest in the
+      world at around 150 days of consumption — provide a buffer, but not immunity.
+      A prolonged closure lasting more than six months would force severe rationing,
+      industrial curtailment, and recession. Japan’s post-Fukushima decision to phase
+      down nuclear power has deepened its vulnerability by reducing the one energy source
+      that could partly substitute. South Korea South Korea imports over 70% of its
+      crude from the Middle East, with the Gulf states as its largest suppliers. Like
+      Japan, it has negligible domestic production. Its economy is heavily industrial
+      — semiconductors, shipbuilding, petrochemicals, and steel — all energy-intensive
+      sectors that would face rapid input cost crises. South Korea maintains strategic
+      reserves of approximately 100 days. Its proximity to Japan means both nations
+      would compete for limited alternative supply from West Africa, North America,
+      and Russia, driving prices higher still. India India is the world’s third-largest
+      oil importer and sources roughly 60–65% of its crude from the Gulf region, primarily
+      Iraq, Saudi Arabia, and the UAE. It has limited domestic production and strategic
+      reserves of only around 10–15 days — among the smallest relative to import volume
+      of any major economy. India’s fuel subsidy architecture means the government would
+      face enormous fiscal pressure as global oil prices surged, at the same moment
+      that import costs were consuming foreign exchange reserves. For India’s 1.4 billion
+      population — many of whom have limited financial buffers — the pass-through of
+      energy and food cost increases would be devastating. India’s industrial heartland,
+      its agricultural sector (which depends heavily on diesel for irrigation pumps),
+      and its nascent manufacturing base would all be severely disrupted. Taiwan Taiwan
+      imports almost all of its energy requirements and sources a significant majority
+      of its oil from the Gulf. As the world’s primary producer of advanced semiconductors,
+      a disruption to Taiwan’s energy supply would carry consequences far beyond its
+      own economy — threatening global technology supply chains. Taiwan’s strategic
+      reserves are modest, and alternative supply routes would be expensive and slow
+      to establish. Pakistan and Bangladesh Both nations are heavily dependent on Gulf
+      oil imports and have almost no strategic reserves, limited foreign exchange, and
+      large populations with high fuel and food price sensitivity. Pakistan in particular
+      has endured recurring foreign exchange crises; a surge in import costs would likely
+      trigger a balance-of-payments collapse. For Bangladesh, fuel price increases would
+      threaten the cost competitiveness of its garment sector — the backbone of its
+      export economy — as well as the diesel-powered irrigation that supports its rice
+      production. Sub-Saharan Africa (Particularly Kenya, Ethiopia, Tanzania) Many sub-Saharan
+      African nations depend on Gulf oil for a large majority of their refined product
+      imports, with minimal domestic refining capacity and no strategic stockpiles.
+      Countries like Kenya, Ethiopia, and Tanzania would face acute fuel shortages,
+      with knock-on effects on transport, electricity generation, and agricultural supply
+      chains. Governments with limited foreign reserves would be unable to sustain imports
+      at elevated prices for any prolonged period. LNG: The Gas Markets Upended Qatar
+      is by some measures the world’s largest single exporter of liquefied natural gas,
+      accounting for roughly 20–22% of global LNG trade. Together with the UAE and other
+      Gulf producers, the Persian Gulf region represents a pillar of the global gas
+      supply architecture. The disruption of this supply arrives into a global gas market
+      already structurally tighter following Russia’s invasion of Ukraine and the reconfiguration
+      of European energy supply. Japan (Again the Most Exposed) Japan is also the world’s
+      largest or second-largest LNG importer, sourcing a dominant share from Qatar and
+      other Gulf producers. LNG powers roughly a third of Japan’s electricity generation
+      following its post-Fukushima nuclear drawdown. A loss of Gulf LNG would immediately
+      threaten grid stability, with cascading effects across manufacturing, services,
+      and residential supply. Japan has limited LNG storage capacity and no pipeline
+      gas import option. The combined loss of Gulf oil and Gulf LNG would place Japan
+      under extraordinary simultaneous pressure on two of its three primary energy sources.
+      South Korea South Korea is consistently among the top three LNG importers globally,
+      with Qatar one of its largest suppliers. Gas fires a substantial share of South
+      Korea’s power generation. Like Japan, it has no pipeline import option and limited
+      domestic gas production, making seaborne LNG the only supply mechanism. Power
+      shortages would ripple through its semiconductor fabs and shipyards — both globally
+      critical industries. European Union — Particularly Germany, Italy, the Netherlands,
+      Belgium, and France European nations pivoted heavily toward LNG imports after
+      Russia’s invasion of Ukraine severed their pipeline gas relationships. Qatar has
+      emerged as one of Europe’s most important LNG suppliers. Germany, Italy, the Netherlands,
+      Belgium, and France have all invested in LNG import terminals and contracted long-term
+      Gulf supply. A Gulf LNG disruption would arrive into a European gas market with
+      reduced pipeline alternatives from Russia, creating acute supply shortfalls particularly
+      in winter months. Germany — Europe’s largest economy and its industrial engine
+      — would face the most severe manufacturing impact, given its gas-intensive chemical,
+      glass, and steel industries. China China has surpassed Japan as the world’s largest
+      LNG importer in recent years. It sources a significant share of its LNG from Qatar
+      and other Gulf exporters. However, China has a partial mitigant unavailable to
+      most others: significant pipeline gas imports from Russia and Central Asia, which
+      could be ramped up to partly offset Gulf LNG losses. This makes China more resilient
+      than Japan or South Korea, but still substantially exposed, particularly for provinces
+      distant from pipeline infrastructure where LNG-fired power dominates. Pakistan
+      Pakistan has become deeply reliant on LNG imports to fuel its power sector following
+      the depletion of domestic gas reserves. It sources the overwhelming majority of
+      its LNG from Gulf producers. Power cuts — already a chronic problem — would become
+      catastrophic. Industrial output, water pumping, and basic services would all be
+      impaired. Pakistan’s fiscal position is too fragile to sustain premium spot LNG
+      purchases on global markets for any extended period. Urea: The Overlooked Catastrophe
+      Of the three commodity shocks, the disruption of urea exports from the Persian
+      Gulf may be the least immediately visible — but could prove the most enduring
+      in its consequences. Urea is the world’s most widely used nitrogen fertiliser.
+      It is synthesised from natural gas via the Haber-Bosch process, and the Gulf states
+      — particularly Saudi Arabia, Qatar, the UAE, and Oman — are among the world’s
+      largest producers and exporters, collectively accounting for a significant share
+      of global urea trade. The dependency of modern agriculture on synthetic nitrogen
+      fertiliser is difficult to overstate. It is estimated that roughly half of the
+      nitrogen in the human body today passed through the Haber-Bosch process at some
+      point — meaning that artificial fertiliser now sustains approximately half of
+      the world’s population. A collapse in urea supply would threaten crop yields on
+      a global scale. Crop yield decline. Without adequate nitrogen fertiliser, yields
+      of staple crops — wheat, rice, maize, soy — would fall dramatically within one
+      to two growing seasons. The effect would not be uniform: wealthy agricultural
+      nations with domestic fertiliser capacity or large stockpiles (the United States,
+      Canada, parts of Europe) would be more insulated. The developing world, particularly
+      sub-Saharan Africa and South and Southeast Asia, would face acute shortages. Food
+      price inflation. Global food prices, already elevated by conflict-related supply
+      disruptions in recent years, would surge further. The Food and Agriculture Organisation’s
+      food price index would likely break historical records. Bread, rice, and staple
+      grain prices would become unaffordable for hundreds of millions of people. Geopolitical
+      instability. Historical evidence linking sharp food price spikes to political
+      instability is robust. The Arab Spring of 2011 coincided with a period of record
+      food prices. A global urea shortage and its downstream consequences for food security
+      would heighten the risk of civil unrest, state fragility, and humanitarian crisis
+      across numerous countries. India India is the world’s largest urea importer by
+      volume, consuming enormous quantities to support its vast agricultural sector.
+      Despite significant domestic urea production, India’s demand consistently outpaces
+      supply, making it heavily reliant on Gulf imports, primarily from Oman, UAE, and
+      Saudi Arabia. A supply cut would threaten yields of wheat, rice, and pulses across
+      millions of smallholder farms. Given that Indian agriculture supports the livelihoods
+      of roughly half the population, the social and political consequences of a fertiliser
+      shortage would be profound. Food inflation would accelerate sharply and could
+      threaten political stability. Brazil Brazil is among the world’s top urea importers,
+      having dramatically expanded its agricultural output — it is now the world’s largest
+      soy and beef exporter, and a major corn and sugar producer. Brazil produces almost
+      no urea domestically at scale and imports a very large share from Gulf producers,
+      particularly from the UAE and Qatar. A urea supply disruption would threaten Brazilian
+      agricultural yields across the Cerrado and Amazon frontier regions, affecting
+      both domestic food supply and Brazil’s critical role as a global food exporter.
+      The consequences would ripple through global commodity markets. Australia Australia
+      is one of the world’s most import-dependent nations for urea, sourcing the overwhelming
+      majority from Gulf producers — particularly Qatar and the UAE. It has virtually
+      no domestic urea production capacity. Australian wheat farmers, who produce a
+      globally significant crop, apply large quantities of nitrogen fertiliser; a supply
+      cut would reduce yields and threaten Australia’s agricultural export revenues.
+      Australia is also the world’s largest diesel exhaust fluid (AdBlue) consumer relative
+      to its size, as this urea-derived product is required by most modern diesel vehicles
+      and engines — a secondary vulnerability that became apparent during a 2021 supply
+      shock. Sub-Saharan Africa (Ethiopia, Tanzania, Mozambique, Nigeria) Sub-Saharan
+      African nations with significant smallholder agricultural sectors are acutely
+      exposed to urea supply disruption. Most have no domestic production and rely heavily
+      on Gulf imports, often through the Indian Ocean trade routes. Fertiliser usage
+      rates in Africa are already among the world’s lowest — meaning yields are already
+      suboptimal — but further supply cuts and price increases would price smallholder
+      farmers out of the market entirely. In Ethiopia, Tanzania, Mozambique, and parts
+      of Nigeria, this would translate directly into food production shortfalls, price
+      spikes, and heightened hunger. The World Food Programme has repeatedly identified
+      fertiliser availability as a critical determinant of food security across the
+      region. Southeast Asia — Vietnam, Thailand, Philippines Southeast Asian rice-producing
+      nations — Vietnam, Thailand, and the Philippines — rely heavily on imported urea
+      to sustain their paddy yields. These countries are among the world’s largest rice
+      exporters and form a critical buffer for global food markets. A collapse in their
+      urea supply would reduce rice output, sending prices higher across Asia and the
+      Middle East, where rice is a dietary staple for billions. Urea Exposure: Country
+      Risk Summary The Compounding Effect Several countries face acute exposure across
+      all three commodity categories simultaneously. These nations represent the most
+      extreme cases of vulnerability. Japan: The Triple Threat Japan is uniquely exposed
+      on all three fronts: it is the world’s most Gulf-dependent major oil importer,
+      one of the world’s largest LNG importers with no pipeline alternative, and a significant
+      importer of Gulf urea for its rice and vegetable agriculture. A full Persian Gulf
+      shutdown would represent an existential economic crisis for Japan, requiring emergency
+      rationing, international assistance, and an accelerated nuclear restart programme.
+      Japan’s government has long identified Gulf security as a core strategic interest
+      — and for good reason. India: Scale Makes It Uniquely Dangerous India faces critical
+      exposure on oil and urea, and significant exposure on LNG. What makes India’s
+      situation particularly alarming is scale: with 1.4 billion people, a fuel subsidy
+      system that creates enormous fiscal pressure when prices rise, minimal strategic
+      reserves, and a large poor population with little financial resilience, the social
+      consequences of a simultaneous oil and fertiliser shock would be catastrophic.
+      India would face simultaneous fuel inflation, agricultural input collapse, food
+      price spikes, and foreign exchange depletion. The political stability implications
+      would extend well beyond India’s borders. Pakistan: The Fragile State Scenario
+      Pakistan faces severe exposure on oil and LNG, and significant exposure on urea.
+      Critically, Pakistan begins any crisis from a position of chronic fiscal and foreign
+      exchange weakness. A Gulf shutdown would rapidly exhaust its ability to finance
+      import bills, potentially triggering sovereign default, currency collapse, and
+      widespread civil unrest. Pakistan’s nuclear arsenal makes its potential destabilisation
+      a matter of global security concern, not merely an economic one. South Korea and
+      Taiwan: Industrial Economies at Risk Both nations face extreme oil and LNG exposure,
+      and their economies are globally systemically important in ways that extend their
+      vulnerability internationally. South Korea’s steel, chemicals, and shipbuilding,
+      and Taiwan’s semiconductor fabs, supply global industries. Their disruption would
+      cascade through global manufacturing and technology supply chains in ways that
+      a comparable shock to a less industrially specialised economy would not. Which
+      Countries Are Most Insulated? Not all nations face equal exposure. Several are
+      significantly better positioned to withstand a Gulf shutdown, either because they
+      produce their own energy, have diversified supply, or hold large strategic reserves.
+      United States. The US has achieved near-energy-independence through its shale
+      oil and gas revolution. It is a net oil exporter and the world’s largest LNG exporter.
+      It produces large quantities of domestic urea. A Gulf shutdown would raise global
+      prices and affect US consumers, but the supply shock would not directly threaten
+      US energy security. The US is best placed of all major economies. Canada. Canada
+      is a major oil sands and pipeline gas producer, self-sufficient in energy and
+      a significant fertiliser exporter. Its exposure to a Gulf shutdown is primarily
+      through global price effects rather than supply disruption. Russia. Russia produces
+      large volumes of oil, gas, and urea, and will likely benefit economically from
+      a Gulf shutdown through higher global prices for its exports. Its energy self-sufficiency
+      is near-total. Norway. A major oil and gas producer with minimal Gulf dependency.
+      Norway would benefit from higher global energy prices. Brazil (energy). Brazil’s
+      deep-water oil production makes it largely self-sufficient in crude oil. Its LNG
+      exposure is limited. Its vulnerability is concentrated in urea, where it is critically
+      dependent (as described above). Historical Context and Strategic Reserves The
+      1973 oil embargo — which removed roughly 4 million barrels per day from global
+      markets — caused a fourfold increase in oil prices and contributed to severe recessions
+      across the industrialised world. The current potential disruption would be five
+      times larger in volume terms. The 1979 Iranian Revolution removed approximately
+      4–5 million barrels per day temporarily; the Iran-Iraq War’s tanker attacks in
+      the 1980s rattled markets without fully closing the Strait. No historical episode
+      provides a true precedent for a complete, sustained Gulf shutdown. Strategic petroleum
+      reserves maintained by IEA member nations — totalling around 1.2–1.5 billion barrels
+      — could theoretically replace several months of lost Gulf supply if fully released.
+      In practice, coordinated release at the required scale has never been attempted,
+      and the logistical, political, and market-calming challenges would be formidable.
+      Strategic gas and fertiliser reserves are far more limited and will be exhausted
+      much faster. Conclusion The Persian Gulf is not merely an important trade route
+      — it is a structural dependency baked into the global economy over seven decades.
+      The simultaneous disruption of oil, LNG, and urea flows from the region constitute
+      a polycrisis of exceptional severity: an energy shock, an industrial shock, and
+      a food security crisis arriving together, reinforcing one another, and challenging
+      the capacity of governments, international institutions, and markets to respond.
+      Decades of optimisation around cost efficiency — concentrating energy production,
+      fertiliser manufacture, and shipping in the most economical locations — has created
+      a system that is efficient in stable conditions but catastrophically fragile under
+      stress. If Iran is able to sustain the closure of the Strait of Hormuz for a month
+      or more, it will enjoy significant leverage in negotiations to end the blockade.
+      How’s that for some uplifting analysis? I’ve been doing a ton of videopodcasts.
+      I was interviewed late yesterday by Wally Rashid: Mario, who I met a year ago
+      when we interviewed Foreign Minister Sergei Lavrov, grabbed me late today to discuss
+      the reported mining of the Strait of Hormuz: I also chatted with my friends, Natalie
+      and Clayton Morris, on their Redacted channel: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: A sustained closure of the Strait of Hormuz by Iran would
+      severely disrupt global oil, liquefied natural gas, and urea exports, leading
+      to unprecedented economic shocks that could impact energy markets, food security,
+      and the fiscal stability of many nations.
+    paragraph_summary: The article discusses the potential global economic repercussions
+      of a sustained closure of the Strait of Hormuz, a critical chokepoint through
+      which a significant portion of the world's oil, liquefied natural gas (LNG), and
+      urea exports pass. This narrow passage is vital for energy markets and global
+      food security, as it facilitates the flow of approximately 20% of global petroleum
+      consumption and a substantial share of LNG and agricultural inputs. A disruption,
+      particularly by Iran, would lead to unprecedented economic shocks, affecting not
+      only energy prices but also industrial production and the fiscal stability of
+      numerous countries. While there are limited alternative routes for oil transport,
+      they are insufficient to mitigate the impact of a complete shutdown, marking a
+      potential crisis in the global economy.
+    published: '2026-03-11T03:26:54+00:00'
+  - title: Growing Doubts by US and Israel About the War with Iran
+    url: https://sonar21.com/growing-doubts-by-us-and-israel-about-the-war-with-iran/
+    text: 'Despite bold claims from Donald Trump and his Secretary of War that Iran
+      has lost the war and is on the cusp of surrendering, Iran has not got the memo
+      and continues an unrelenting wave of a drone and missile attacks on US targets
+      in the Persian Gulf and on targets throughout Israel. During an interview with
+      CBS News, Donald Trump stated that the “military operation” against Iran is actually
+      completed. He said: I think the war, by and large, is over. They [the Iranian
+      side] have no fleet, no communications, no aviation left. In private, however,
+      Trump’s advisers have urged him privately to look for an exit plan from the Iran
+      war amid spiking oil prices and concerns that a prolonged conflict could spark
+      political backlash, according to WSJ . Officials close to the president are urging
+      him to start outlining an exit strategy from the conflict while portraying the
+      military campaign as having largely achieved its goals. Discussions in Washington
+      are increasingly focused on declaring success and shifting toward a controlled
+      withdrawal before the economic and political costs rise further. I think this
+      explains why President Trump called Vladimir Putin. The Kremlin has provided a
+      readout of a recent phone call between U.S. President Donald Trump and Russian
+      President Vladimir Putin that occurred on March 9, 2026 (Monday) and lasted about
+      one hour. It was described by Kremlin foreign policy aide Yuri Ushakov as “frank,”
+      “businesslike,” “constructive,” and “serious.” The conversation was initiated
+      by Trump. The primary focus of the call was the US and Israeli war with Iran,
+      with Putin sharing proposals for a “quick political and diplomatic settlement.”
+      This included references to his prior contacts with Gulf state leaders, Iran’s
+      president, and others. This does not mean that President Putin is going to pull
+      the rug out from under Iran. I believe that Putin has two goals: 1) Keep the war
+      from spreading, and 2) Secure an agreement that will remove economic sanctions
+      from Iran and guarantee it will not face future attacks from the US and Israel.
+      Trump and his national security advisors are laboring under the false belief that
+      Iran is running out of missiles. While the US military is celebrating the destruction
+      of missile launchers, Iran is relying on buried launchers that fire their more
+      advanced missiles from hidden tunnels. I believe that Iran will adopt a tough
+      unyielding stance when it comes to negotiations… Demand an end to all economic
+      sanctions and the withdrawal of US military forces from the Persian Gulf. While
+      the US is likely to reject those demands — at least for now — Iran is prepared
+      to continue its attacks and is likely to introduce a new, more sophisticated missile
+      to the fray in the coming days. Trump is not alone with the growing doubts about
+      the possible success of US and Israeli strikes on Iran. Israel’s confidence is
+      fading. According to David Ignatius, writing in the Washington Post : A few senior
+      officials in Israel are starting to voice concern about the escalating, open-ended
+      attack on Iran — and suggesting possible exit ramps that might halt the war before
+      it further damages the region and the global economy. . . . What concerns this
+      official and others I’ve spoken with the past few days is that the cost of the
+      war continues to rise — for gulf states pounded by Iranian missiles, for a global
+      economy that’s facing steep increases in oil and natural gas prices that could
+      trigger a worldwide economic crisis, and for Trump himself, who took the United
+      States to war without a popular base of support for the conflict. “I’m not sure
+      it’s in our interest to fight until the regime is toppled,” said the Israeli official.
+      “Nobody wants a never-ending story.” Oil futures spiked early on Monday — reaching
+      a priceof $120 — and then fell back to around $100 following remarks from Trump
+      that led traders to believe the shutdown of oil flowing from the Persian Gulf
+      could be short-lived. I think there is a lot of denial on Wall Street and among
+      Trump’s most rabid supporters… They believe that Iran’s missile inventory is rapidly
+      depleting and that there are cracks among the Iranian political and military leaders.
+      I believe they are grossly misreading the situation. Iran is not close to depleting
+      its supply of powerful, sophisticated ballistic missiles. Most Americans fail
+      to understand that Iran’s outrage over the 28 February surprise attack is comparable
+      to the fury that seized the United States in the wake of the 1941 attack on Pearl
+      Harbor and the 9-11 attacks in 2001. Iran will continue to attack US and Israeli
+      targets and will not stop until the security of Iran — both economic and military
+      — is secured. Judge Napolitano and I discussed the latest developments in the
+      war with Iran: Nima and I focused on the continued effectiveness of Iranian missile
+      strikes: Rachel Blevins and I discussed the economic implications of the de facto
+      closure of the Strait of Hormuz: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite claims from Donald Trump and his Secretary of War
+      that the military operation against Iran is over and the country is on the verge
+      of surrender, Iran continues to launch drone and missile attacks on U.S. and Israeli
+      targets, while Trump's advisers privately push for an exit strategy from the conflict
+      amid rising oil prices and potential political repercussions.
+    paragraph_summary: Despite claims from Donald Trump and his Secretary of War that
+      Iran is on the verge of surrendering in the ongoing conflict, Iran continues to
+      launch drone and missile attacks on U.S. and Israeli targets. In a CBS News interview,
+      Trump asserted that the military operation against Iran is largely over, but his
+      advisers are privately urging him to develop an exit strategy due to rising oil
+      prices and potential political repercussions from a prolonged war. Discussions
+      in Washington are shifting towards declaring success and planning a controlled
+      withdrawal. Additionally, Trump recently spoke with Russian President Vladimir
+      Putin, focusing on the U.S.-Israeli war with Iran, during which Putin proposed
+      a diplomatic resolution while aiming to prevent the conflict from escalating and
+      to negotiate the lifting of economic sanctions on Iran.
+    published: '2026-03-10T05:05:54+00:00'
+  - title: Growing Doubts by US and Israel About the War with Iran
+    url: https://sonar21.com/growing-doubts-by-us-and-israel-about-the-war-with-iran/
+    text: 'Despite bold claims from Donald Trump and his Secretary of War that Iran
+      has lost the war and is on the cusp of surrendering, Iran has not got the memo
+      and continues an unrelenting wave of a drone and missile attacks on US targets
+      in the Persian Gulf and on targets throughout Israel. During an interview with
+      CBS News, Donald Trump stated that the “military operation” against Iran is actually
+      completed. He said: I think the war, by and large, is over. They [the Iranian
+      side] have no fleet, no communications, no aviation left. In private, however,
+      Trump’s advisers have urged him privately to look for an exit plan from the Iran
+      war amid spiking oil prices and concerns that a prolonged conflict could spark
+      political backlash, according to WSJ . Officials close to the president are urging
+      him to start outlining an exit strategy from the conflict while portraying the
+      military campaign as having largely achieved its goals. Discussions in Washington
+      are increasingly focused on declaring success and shifting toward a controlled
+      withdrawal before the economic and political costs rise further. I think this
+      explains why President Trump called Vladimir Putin. The Kremlin has provided a
+      readout of a recent phone call between U.S. President Donald Trump and Russian
+      President Vladimir Putin that occurred on March 9, 2026 (Monday) and lasted about
+      one hour. It was described by Kremlin foreign policy aide Yuri Ushakov as “frank,”
+      “businesslike,” “constructive,” and “serious.” The conversation was initiated
+      by Trump. The primary focus of the call was the US and Israeli war with Iran,
+      with Putin sharing proposals for a “quick political and diplomatic settlement.”
+      This included references to his prior contacts with Gulf state leaders, Iran’s
+      president, and others. This does not mean that President Putin is going to pull
+      the rug out from under Iran. I believe that Putin has two goals: 1) Keep the war
+      from spreading, and 2) Secure an agreement that will remove economic sanctions
+      from Iran and guarantee it will not face future attacks from the US and Israel.
+      Trump and his national security advisors are laboring under the false belief that
+      Iran is running out of missiles. While the US military is celebrating the destruction
+      of missile launchers, Iran is relying on buried launchers that fire their more
+      advanced missiles from hidden tunnels. I believe that Iran will adopt a tough
+      unyielding stance when it comes to negotiations… Demand an end to all economic
+      sanctions and the withdrawal of US military forces from the Persian Gulf. While
+      the US is likely to reject those demands — at least for now — Iran is prepared
+      to continue its attacks and is likely to introduce a new, more sophisticated missile
+      to the fray in the coming days. Trump is not alone with the growing doubts about
+      the possible success of US and Israeli strikes on Iran. Israel’s confidence is
+      fading. According to David Ignatius, writing in the Washington Post : A few senior
+      officials in Israel are starting to voice concern about the escalating, open-ended
+      attack on Iran — and suggesting possible exit ramps that might halt the war before
+      it further damages the region and the global economy. . . . What concerns this
+      official and others I’ve spoken with the past few days is that the cost of the
+      war continues to rise — for gulf states pounded by Iranian missiles, for a global
+      economy that’s facing steep increases in oil and natural gas prices that could
+      trigger a worldwide economic crisis, and for Trump himself, who took the United
+      States to war without a popular base of support for the conflict. “I’m not sure
+      it’s in our interest to fight until the regime is toppled,” said the Israeli official.
+      “Nobody wants a never-ending story.” Oil futures spiked early on Monday — reaching
+      a priceof $120 — and then fell back to around $100 following remarks from Trump
+      that led traders to believe the shutdown of oil flowing from the Persian Gulf
+      could be short-lived. I think there is a lot of denial on Wall Street and among
+      Trump’s most rabid supporters… They believe that Iran’s missile inventory is rapidly
+      depleting and that there are cracks among the Iranian political and military leaders.
+      I believe they are grossly misreading the situation. Iran is not close to depleting
+      its supply of powerful, sophisticated ballistic missiles. Most Americans fail
+      to understand that Iran’s outrage over the 28 February surprise attack is comparable
+      to the fury that seized the United States in the wake of the 1941 attack on Pearl
+      Harbor and the 9-11 attacks in 2001. Iran will continue to attack US and Israeli
+      targets and will not stop until the security of Iran — both economic and military
+      — is secured. Judge Napolitano and I discussed the latest developments in the
+      war with Iran: Nima and I focused on the continued effectiveness of Iranian missile
+      strikes: Rachel Blevins and I discussed the economic implications of the de facto
+      closure of the Strait of Hormuz: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite claims from Donald Trump and his Secretary of War
+      that the military operation against Iran is over and the country is on the verge
+      of surrender, Iran continues to launch drone and missile attacks on U.S. and Israeli
+      targets, while Trump's advisers privately push for an exit strategy from the conflict
+      amid rising oil prices and potential political repercussions.
+    paragraph_summary: Despite claims from Donald Trump and his Secretary of War that
+      Iran is on the verge of surrendering in the ongoing conflict, Iran continues to
+      launch drone and missile attacks on U.S. and Israeli targets. In a CBS News interview,
+      Trump asserted that the military operation against Iran is largely over, but his
+      advisers are privately urging him to develop an exit strategy due to rising oil
+      prices and potential political repercussions from a prolonged war. Discussions
+      in Washington are shifting towards declaring success and planning a controlled
+      withdrawal. Additionally, Trump recently spoke with Russian President Vladimir
+      Putin, focusing on the U.S.-Israeli war with Iran, during which Putin proposed
+      a diplomatic resolution while aiming to prevent the conflict from escalating and
+      to negotiate the lifting of economic sanctions on Iran.
+    published: '2026-03-10T05:05:54+00:00'
+  - title: Russia Serves a Cold Dish to the GCC and India
+    url: https://sonar21.com/russia-serves-a-cold-dish-to-the-gcc-and-india/
+    text: 'The proverb “ revenge is a dish best served cold ” traces to French (“La
+      vengeance se mange froide”), appearing in English literature by the 19th century.
+      Most Americans do not know the French orign of the proverb… It entered popular
+      culture thanks to Star Trek . In Star Trek II: The Wrath of Khan (1982), Khan
+      Noonien Singh delivers the line during a tense video call with Admiral Kirk: Ah,
+      Kirk, my old friend… do you know the Klingon proverb? ‘Revenge is a dish best
+      served cold.’ And it is very cold… in space. As the war against Iran continues
+      to escalate, Russia finds itself in a powerful position to deal with the Gulf
+      Cooperation Council (GCC), which has kowtowed to the United States and allowed
+      the US to dominate militarily the Persian Gulf on behalf of Israel, and India,
+      which has taken advantage of their long friendship with Russia to engage in a
+      disgustingly abject act of sycophancy with Israel at the expense of fellow BRICS
+      member Iran. Russia has delivered a firm diplomatic message to both. During an
+      Ambassadorial Roundtable in Moscow on March 5, 2026,  Sergei Lavrov addressed
+      the Ambassadors from the GCC countries, who had come to Moscow seeking Putin’s
+      intervention in shutting down Iran’s military operations in retaliation for the
+      sneak attack by Israel and the United States. The event was supposed to focus
+      on the Ukrainian crisis, digital threats, and international information security,
+      but Lavrov devoted significant time to the escalating Middle East conflict, particularly
+      the US-Israeli military strikes on Iran and Iran’s retaliatory actions affecting
+      Gulf states. The GCC ambassadors reportedly urged Russia to pressure Iran to de-escalate
+      and halt its missile/drone strikes on or over their territories (e.g., targeting
+      US/Israeli-linked sites). Lavrov responded critically and pointedly rejected a
+      one-sided approach. Lavrov shut them down in an extraordinary display of tough
+      love. I’ve posted the video of his remarks below. Lavrov began by expressing condolences
+      for civilian casualties and damage to civilian infrastructure in Persian Gulf
+      countries caused by the ongoing conflict. But he immediately challenged the GCC’s
+      selective criticism… He asked whether they had condemned the “ US-Israeli war
+      of aggression against Iran ” or specific incidents like the reported killing of
+      170 schoolgirls in Minab by US/Israeli actions). Ouch! He continued by highlighting
+      their hypocrisy in pushing for pressure only on Iran while not equally condemning
+      the initiators (US and Israel), noting that accepting such a request would imply
+      acceptance of the original aggression. Lavrov asserted that the ongoing US and
+      Israeli operations were aimed at driving a wedge between Iran and its Arab neighbors
+      (GCC states), noting that these actions were an attempt to sabotage recent positive
+      normalization trends (e.g., Saudi-Iran rapprochement, UAE/Iran engagement). He
+      advocated for a unified, balanced international response: an immediate cessation
+      of all hostilities (not just Iranian ones), political/diplomatic settlement, and
+      safeguarding legitimate security interests of all Persian Gulf states. He reminded
+      the Ambassadors that Russia has long promoted a Concept of Collective Security
+      in the Persian Gulf (for over 20 years) and expressed appreciation for GCC efforts
+      in this regard (e.g., trilateral talks in Abu Dhabi). He concluded by calling
+      on the GCC and others to add their voices to calls for de-escalation and against
+      selective UN resolutions (e.g., any Bahrain-proposed draft condemning only Iran).
+      Without issuing a direct threat, Lavrov was putting the GCC on notice that Russia
+      expected them to hold Israel and the United States accountable for the economic
+      disaster that is confronting the GCC. Then there is India. Prime Minister Narendra
+      Modi’s recent trip to Israel was ill-timed, coming three days before Israel and
+      the US attacked Iran. Although India is one of the founders of BRICS, he made
+      a big show of elevating the India-Israel relationship from a “strategic partnership”
+      to a “ Special Strategic Partnership for Peace, Innovation, and Prosperity. ”
+      Modi signed 16 agreements and announcement of 11 joint initiatives in areas like
+      defense (joint development/production with tech transfer), critical/emerging technologies
+      (led by national security advisors), cyber security (Indo-Israel Cyber Centre
+      of Excellence in India), agriculture, water management, labor mobility (facilitating
+      over 50,000 Indian workers in Israel over five years), culture, education, and
+      more. Modi, along with Netanyahu, announced the advancement of free trade agreement
+      (FTA) negotiations (first round concluded, next in May; Modi stated a deal would
+      be finalized “soon”). He also reaffirmed India’s strong defense and counter-terrorism
+      cooperation with Israel, including potential transfers like Iron Dome technology.
+      Talk about bad timing. Modi’s obsequious behavior in Israel was a direct insult
+      to the other members of BRICS… Advocating warm relations with a country guilty
+      of genocide has not been well-received by other BRICS members. The attack by Israel
+      and the United States on Iran, a member of BRICS, has created a potentially catastrophic
+      economic problem of Modi and India. India imports the vast majority of its crude
+      oil needs (around 85-88% of total consumption), as domestic production is limited.
+      India’s total crude oil imports average roughly 5 million barrels per day (bpd)
+      in recent data (early 2026 figures). The Persian Gulf countries (primarily Iraq,
+      Saudi Arabia, United Arab Emirates (UAE), Kuwait, and Qatar; sometimes broadly
+      including other Middle East suppliers) are a major source, especially via the
+      Strait of Hormuz , through which a significant portion of these flows pass. Iran’s
+      de facto closure of the Strait of Hormuz has created an emergency situation for
+      India. The war against Iran has given Russia tremendous leverage over India. Kremlin
+      spokesman Dmitry Peskov , in remarks made on March 6, 2026, emphasized that Russia
+      would not disclose specific quantitative data on oil exports to India, citing
+      “too many ill-wishers” and security concerns. This came in response to reports
+      of potential large deliveries (e.g., up to 22 million barrels in a week) amid
+      India’s supply crunch. Peskov also noted the Iran war has significantly boosted
+      demand for Russian energy resources, positioning Russia as a “reliable supplier”
+      of oil and gas. Russia, instead of leaving India to sleep in the bed it made with
+      Israel, highlighted its readiness to support India, but at a cost. For instance,
+      earlier in March (around March 4), sources indicated Russia was prepared to divert
+      oil cargoes (e.g., ~9.5 million barrels near Indian waters) and potentially raise
+      India’s share of Russian crude imports to up to 40%. Russian Deputy Prime Minister
+      Alexander Novak mentioned receiving “signals of renewed interest” from India in
+      larger volumes due to the crisis. Amid the surge in demand for Russia’s Urals
+      crude, Russia hit India with a firm, but diplomatic, reminder of the cost of betraying
+      a friend. Prior to the attack on Iran, Russia sold oil to India with deep discounts
+      ($10-13 below Brent pre-conflict). While promising to help India compensate for
+      its loss of Persian Gulf oil, Russia inoformed Modi that India would have to pay
+      a premium of $4-5 over Brent for March/April deliveries. This reflects market
+      forces rather than explicit “assurances” of continued discounts; some reports
+      frame it as Russia treating it more as “business” without prior friendship-based
+      concessions. I am speculating here, but I think Modi is going to reconsider the
+      agreements he made with Israel… Especially if the Strait of Hormuz remains closed
+      for six months or more. What do you think? Here is Lavrov’s remarks to the GCC:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The proverb "revenge is a dish best served cold," originating
+      from French and popularized by Star Trek, reflects the complex geopolitical dynamics
+      involving Russia, the Gulf Cooperation Council, and Iran amidst escalating tensions.
+    paragraph_summary: 'The proverb "revenge is a dish best served cold," originating
+      from French and popularized in English literature by the 19th century, gained
+      further recognition through its use in the film Star Trek II: The Wrath of Khan.
+      In the context of escalating tensions in the Middle East, particularly between
+      Iran, the United States, and Israel, Russian Foreign Minister Sergei Lavrov recently
+      addressed Gulf Cooperation Council (GCC) ambassadors in Moscow. The GCC representatives
+      sought Russia''s assistance in curbing Iran''s military responses to US-Israeli
+      strikes, but Lavrov firmly rejected their one-sided demands, emphasizing a balanced
+      approach to the conflict. His remarks highlighted Russia''s diplomatic stance
+      amid the ongoing geopolitical turmoil, showcasing a commitment to addressing the
+      complexities of the situation rather than yielding to external pressures.'
+    published: '2026-03-09T04:09:16+00:00'
+  - title: Russia Serves a Cold Dish to the GCC and India
+    url: https://sonar21.com/russia-serves-a-cold-dish-to-the-gcc-and-india/
+    text: 'The proverb “ revenge is a dish best served cold ” traces to French (“La
+      vengeance se mange froide”), appearing in English literature by the 19th century.
+      Most Americans do not know the French orign of the proverb… It entered popular
+      culture thanks to Star Trek . In Star Trek II: The Wrath of Khan (1982), Khan
+      Noonien Singh delivers the line during a tense video call with Admiral Kirk: Ah,
+      Kirk, my old friend… do you know the Klingon proverb? ‘Revenge is a dish best
+      served cold.’ And it is very cold… in space. As the war against Iran continues
+      to escalate, Russia finds itself in a powerful position to deal with the Gulf
+      Cooperation Council (GCC), which has kowtowed to the United States and allowed
+      the US to dominate militarily the Persian Gulf on behalf of Israel, and India,
+      which has taken advantage of their long friendship with Russia to engage in a
+      disgustingly abject act of sycophancy with Israel at the expense of fellow BRICS
+      member Iran. Russia has delivered a firm diplomatic message to both. During an
+      Ambassadorial Roundtable in Moscow on March 5, 2026,  Sergei Lavrov addressed
+      the Ambassadors from the GCC countries, who had come to Moscow seeking Putin’s
+      intervention in shutting down Iran’s military operations in retaliation for the
+      sneak attack by Israel and the United States. The event was supposed to focus
+      on the Ukrainian crisis, digital threats, and international information security,
+      but Lavrov devoted significant time to the escalating Middle East conflict, particularly
+      the US-Israeli military strikes on Iran and Iran’s retaliatory actions affecting
+      Gulf states. The GCC ambassadors reportedly urged Russia to pressure Iran to de-escalate
+      and halt its missile/drone strikes on or over their territories (e.g., targeting
+      US/Israeli-linked sites). Lavrov responded critically and pointedly rejected a
+      one-sided approach. Lavrov shut them down in an extraordinary display of tough
+      love. I’ve posted the video of his remarks below. Lavrov began by expressing condolences
+      for civilian casualties and damage to civilian infrastructure in Persian Gulf
+      countries caused by the ongoing conflict. But he immediately challenged the GCC’s
+      selective criticism… He asked whether they had condemned the “ US-Israeli war
+      of aggression against Iran ” or specific incidents like the reported killing of
+      170 schoolgirls in Minab by US/Israeli actions). Ouch! He continued by highlighting
+      their hypocrisy in pushing for pressure only on Iran while not equally condemning
+      the initiators (US and Israel), noting that accepting such a request would imply
+      acceptance of the original aggression. Lavrov asserted that the ongoing US and
+      Israeli operations were aimed at driving a wedge between Iran and its Arab neighbors
+      (GCC states), noting that these actions were an attempt to sabotage recent positive
+      normalization trends (e.g., Saudi-Iran rapprochement, UAE/Iran engagement). He
+      advocated for a unified, balanced international response: an immediate cessation
+      of all hostilities (not just Iranian ones), political/diplomatic settlement, and
+      safeguarding legitimate security interests of all Persian Gulf states. He reminded
+      the Ambassadors that Russia has long promoted a Concept of Collective Security
+      in the Persian Gulf (for over 20 years) and expressed appreciation for GCC efforts
+      in this regard (e.g., trilateral talks in Abu Dhabi). He concluded by calling
+      on the GCC and others to add their voices to calls for de-escalation and against
+      selective UN resolutions (e.g., any Bahrain-proposed draft condemning only Iran).
+      Without issuing a direct threat, Lavrov was putting the GCC on notice that Russia
+      expected them to hold Israel and the United States accountable for the economic
+      disaster that is confronting the GCC. Then there is India. Prime Minister Narendra
+      Modi’s recent trip to Israel was ill-timed, coming three days before Israel and
+      the US attacked Iran. Although India is one of the founders of BRICS, he made
+      a big show of elevating the India-Israel relationship from a “strategic partnership”
+      to a “ Special Strategic Partnership for Peace, Innovation, and Prosperity. ”
+      Modi signed 16 agreements and announcement of 11 joint initiatives in areas like
+      defense (joint development/production with tech transfer), critical/emerging technologies
+      (led by national security advisors), cyber security (Indo-Israel Cyber Centre
+      of Excellence in India), agriculture, water management, labor mobility (facilitating
+      over 50,000 Indian workers in Israel over five years), culture, education, and
+      more. Modi, along with Netanyahu, announced the advancement of free trade agreement
+      (FTA) negotiations (first round concluded, next in May; Modi stated a deal would
+      be finalized “soon”). He also reaffirmed India’s strong defense and counter-terrorism
+      cooperation with Israel, including potential transfers like Iron Dome technology.
+      Talk about bad timing. Modi’s obsequious behavior in Israel was a direct insult
+      to the other members of BRICS… Advocating warm relations with a country guilty
+      of genocide has not been well-received by other BRICS members. The attack by Israel
+      and the United States on Iran, a member of BRICS, has created a potentially catastrophic
+      economic problem of Modi and India. India imports the vast majority of its crude
+      oil needs (around 85-88% of total consumption), as domestic production is limited.
+      India’s total crude oil imports average roughly 5 million barrels per day (bpd)
+      in recent data (early 2026 figures). The Persian Gulf countries (primarily Iraq,
+      Saudi Arabia, United Arab Emirates (UAE), Kuwait, and Qatar; sometimes broadly
+      including other Middle East suppliers) are a major source, especially via the
+      Strait of Hormuz , through which a significant portion of these flows pass. Iran’s
+      de facto closure of the Strait of Hormuz has created an emergency situation for
+      India. The war against Iran has given Russia tremendous leverage over India. Kremlin
+      spokesman Dmitry Peskov , in remarks made on March 6, 2026, emphasized that Russia
+      would not disclose specific quantitative data on oil exports to India, citing
+      “too many ill-wishers” and security concerns. This came in response to reports
+      of potential large deliveries (e.g., up to 22 million barrels in a week) amid
+      India’s supply crunch. Peskov also noted the Iran war has significantly boosted
+      demand for Russian energy resources, positioning Russia as a “reliable supplier”
+      of oil and gas. Russia, instead of leaving India to sleep in the bed it made with
+      Israel, highlighted its readiness to support India, but at a cost. For instance,
+      earlier in March (around March 4), sources indicated Russia was prepared to divert
+      oil cargoes (e.g., ~9.5 million barrels near Indian waters) and potentially raise
+      India’s share of Russian crude imports to up to 40%. Russian Deputy Prime Minister
+      Alexander Novak mentioned receiving “signals of renewed interest” from India in
+      larger volumes due to the crisis. Amid the surge in demand for Russia’s Urals
+      crude, Russia hit India with a firm, but diplomatic, reminder of the cost of betraying
+      a friend. Prior to the attack on Iran, Russia sold oil to India with deep discounts
+      ($10-13 below Brent pre-conflict). While promising to help India compensate for
+      its loss of Persian Gulf oil, Russia inoformed Modi that India would have to pay
+      a premium of $4-5 over Brent for March/April deliveries. This reflects market
+      forces rather than explicit “assurances” of continued discounts; some reports
+      frame it as Russia treating it more as “business” without prior friendship-based
+      concessions. I am speculating here, but I think Modi is going to reconsider the
+      agreements he made with Israel… Especially if the Strait of Hormuz remains closed
+      for six months or more. What do you think? Here is Lavrov’s remarks to the GCC:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The proverb "revenge is a dish best served cold," originating
+      from French and popularized by Star Trek, reflects the complex geopolitical dynamics
+      involving Russia, the Gulf Cooperation Council, and Iran amidst escalating tensions.
+    paragraph_summary: 'The proverb "revenge is a dish best served cold," originating
+      from French and popularized in English literature by the 19th century, gained
+      further recognition through its use in the film Star Trek II: The Wrath of Khan.
+      In the context of escalating tensions in the Middle East, particularly between
+      Iran, the United States, and Israel, Russian Foreign Minister Sergei Lavrov recently
+      addressed Gulf Cooperation Council (GCC) ambassadors in Moscow. The GCC representatives
+      sought Russia''s assistance in curbing Iran''s military responses to US-Israeli
+      strikes, but Lavrov firmly rejected their one-sided demands, emphasizing a balanced
+      approach to the conflict. His remarks highlighted Russia''s diplomatic stance
+      amid the ongoing geopolitical turmoil, showcasing a commitment to addressing the
+      complexities of the situation rather than yielding to external pressures.'
+    published: '2026-03-09T04:09:16+00:00'
+  - title: US Intelligence Community is Covering its Ass… What is Really Going On with
+      the US War on Iran?
+    url: https://sonar21.com/us-intelligence-community-is-covering-its-ass-what-is-really-going-on-with-the-us-war-on-iran/
+    text: 'Let’s start with the big news from a US Intelligence Community leak to the
+      Washington Post… John Hudson and Warren P. Strobel got the story : A classified
+      report by the National Intelligence Council found that even a large-scale assault
+      on Iran launched by the United States would be unlikely to oust the Islamic republic’s
+      entrenched military and clerical establishment, a sobering assessment as the Trump
+      administration raises the specter of an extended military campaign that officials
+      sayhas “only just begun.” The findings, confirmed to The Washington Post by three
+      people familiar with the report’s contents, raise doubts about President Donald
+      Trump’s declared plan to “ clean out ” Iran’s leadership structure and install
+      a ruler of his choosing. The report, completed about a week before the United
+      States and Israel initiated the war on Feb. 28, outlined succession scenarios
+      stemming from either a narrowly tailored campaign against Iran’s leaders or a
+      broader assault against its leadership and government institutions, the people
+      familiar with its findings said. In both cases, the intelligence concluded that
+      Iran’s clerical and military establishment would respond to the killing of Supreme
+      Leader Ayatollah Ali Khamenei by following protocols designed to preserve continuity
+      of power , these people said. This means the war in Iran is not going well and
+      the US IC is beginning the Washington game of, “ Don’t blame me, I warned you
+      not to do it. ” I don’t know if Tulsi Gabbard authorized this leak, or if it came
+      from senior analysts from the four principal agencies that were involved in writing
+      this classified report — i.e., the CIA, the Defense Intelligence Agency, State
+      Department’s Bureau of Intelligence and Research, and the National Security Agency.
+      It is important to understand that this report was produced by the National Intelligence
+      Council, aka the NIC, and it is under the direct control of Tulsi Gabbard. In
+      any event I see this as a clear signal from people involved in producing this
+      report that they will not be the scapegoats when the Iran war turns into a debacle
+      for Donald Trump I get dozens of emails a day from readers asking questions and
+      offering commentary. I try to read and respond to all. Today I received a series
+      of questions from one of my subscribers (you know who you are). Instead of responding
+      to this person personally, I decided to save time and post for all to see. Hopefully
+      this helps you plow thru the ton of propaganda being spewed by Trump and the Zionists.
+      1) I’ve read that Tehran is now being hit with gravity bombs. Does the US now
+      have total air space control? What happened to S300-400 and super long range radar
+      able to detect stealth aircraft? The US does not have air supremacy. The US and
+      Israeli planes are flying close to Iran’s western border and releasing primarily
+      the Joint Air-to-Surface Standoff Missile aka JASSAMs, which have a range between
+      230 and 600 miles depending on the variant ( AGM-158A JASSM (baseline): ~370 km
+      [230 miles] and AGM-158B JASSM-ER (Extended Range): ~980 km [610 miles]). I don’t
+      know how many, if any, S300-S400 are deployed in Iran. Iran has reportedly shot
+      down 29 MQ9s and Hermes drones since 28 February, which represents a financial
+      loss of $800 million. 2) What does it imply that Iran has apologized to its neighbors
+      for attacking them ? That is a misreading of what the Iranian President said.
+      Pezeshkian personally apologized to the neighboring countries (Gulf/Arab states)
+      that had been affected by Iranian missile and drone strikes, saying something
+      along the lines of: “I should apologize to the neighboring countries that were
+      attacked by Iran, on my own behalf and on behalf of Iran.” However, Pezeshkian
+      in later remarks emphasized that any de-escalation gesture was undermined by US  actions
+      (like Trump’s response framing it as capitulation). As long as the US continues
+      to conduct military operations from the territories of the Gulf/Arab states Iran
+      will (and has) continue to attack the US targets in those countries. 3) What are
+      the targets of the new cluster bomb rockets? Airfields? The most recent video
+      evidence shows Iran has hit Ben Gurion airport in Tel Aviv, the oil refinery in
+      Haifa. The clusters from the Iranian rocket are hitting ground targets in Tel
+      Avi and Haifa at a minimum 4) Why can’t Iran stop the constant barrage they are
+      under going? They seem as defenseless as Gaza. Iran does not have a perfect air
+      defense system. Worth noting that despite Donald Trump’s threats, the number of
+      US AGM strikes in Iran have declined by 80%. According to Simplicius : US’s strikes
+      have likewise fallen off from nearly 1,000 on the first day to an estimated 200-300
+      per day or less since then—and many if not most of those strikes are hitting superficial
+      targets to “fluff up the score”, like a plane boneyard which surely added a couple
+      dozen “points” to the “impressive” strike list 5) is the Iranian Air Force destroyed?
+      No. The strikes on Iranian combat planes have been largely confined to the Western
+      part of Iran. They still have ample capability in the East. Iran maintains 17
+      Tactical Fighter Bases (TFBs), and in recent years several new airfields have
+      been constructed in central and eastern Iran, with at least two becoming permanent
+      TFBs — the first established since 1979. One known eastern base is TFB.14 near
+      Mashhad, in the far northeast. To protect assets from preemptive strikes, Iran
+      has moved much of its air power underground. The “Eagle 44” (Oghab 44) airbase,
+      unveiled in 2023, is a massive facility carved into the Zagros Mountains, designed
+      to withstand bunker-buster bombs and housing fighter jets, drones, and command
+      facilities. As of February 28, 2026, reports indicate MiG-29s flying over Tehran
+      and Su-24 strike aircraft being repositioned, suggesting active defensive preparations.
+      6) is it hard to put airfields out of service? For example send all fuel tanks
+      up in flames. The conclusion I reach is that it requires high precision missiles
+      and Iran doesn’t have enough of those types to expend them on that type of target.
+      Meanwhile Tehran burns and some US radars are gone. Blowing up fuel tanks can
+      create a fuel shortage, but it does not disable airfields. Cratering an airfield
+      and putting it permanently out of commission is difficult because the runways
+      can be repaired. You need to stop listening to the US propaganda claims about
+      massive destruction. And how do you know how many high precision missiles Iran
+      has? I don’t know, but what I continue to see is that Iran if firing several waves
+      of precision missile attacks into Tel Aviv and Haifa as well as US bases/ installations
+      throughout the Persian Gulf. 7) The fact that US has been blinded by radar loss
+      hasn’t seemed to help Iran much. Newer Iranian missiles are getting through but
+      that would have been true regardless of those radar stations status. You answer
+      your own question. Yes, the US loss of the advance radar systems has blinded it
+      and, as a consequence, Iranian missiles are getting through. So what is your real
+      question? I had an excellent conversation about the current state of the war on
+      Iran with Mario Nawfal this afternoon: Andrei Martyanov and I spent an hour on
+      Friday afternoon with Randy Credico on his show, Live on the Fly : I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A classified National Intelligence Council report reveals
+      that a large-scale U.S. military assault on Iran is unlikely to successfully remove
+      its entrenched leadership, casting doubt on President Trump's plans to change
+      Iran's regime.
+    paragraph_summary: A classified report from the National Intelligence Council, leaked
+      to the Washington Post, reveals that a large-scale U.S. military assault on Iran
+      is unlikely to dismantle the country's entrenched military and clerical leadership,
+      contradicting President Trump's ambitions to remove Iran's leadership and install
+      a preferred ruler. The report, which surfaced just before the U.S. and Israel
+      began military operations on February 28, suggests that Iran's leadership would
+      maintain continuity of power even in the event of significant casualties, such
+      as the death of Supreme Leader Ayatollah Ali Khamenei. This assessment raises
+      concerns about the effectiveness of the military campaign in Iran and hints at
+      internal dissent within the U.S. Intelligence Community regarding the administration's
+      strategy.
+    published: '2026-03-08T06:04:32+00:00'
+  - title: US Intelligence Community is Covering its Ass… What is Really Going On with
+      the US War on Iran?
+    url: https://sonar21.com/us-intelligence-community-is-covering-its-ass-what-is-really-going-on-with-the-us-war-on-iran/
+    text: 'Let’s start with the big news from a US Intelligence Community leak to the
+      Washington Post… John Hudson and Warren P. Strobel got the story : A classified
+      report by the National Intelligence Council found that even a large-scale assault
+      on Iran launched by the United States would be unlikely to oust the Islamic republic’s
+      entrenched military and clerical establishment, a sobering assessment as the Trump
+      administration raises the specter of an extended military campaign that officials
+      sayhas “only just begun.” The findings, confirmed to The Washington Post by three
+      people familiar with the report’s contents, raise doubts about President Donald
+      Trump’s declared plan to “ clean out ” Iran’s leadership structure and install
+      a ruler of his choosing. The report, completed about a week before the United
+      States and Israel initiated the war on Feb. 28, outlined succession scenarios
+      stemming from either a narrowly tailored campaign against Iran’s leaders or a
+      broader assault against its leadership and government institutions, the people
+      familiar with its findings said. In both cases, the intelligence concluded that
+      Iran’s clerical and military establishment would respond to the killing of Supreme
+      Leader Ayatollah Ali Khamenei by following protocols designed to preserve continuity
+      of power , these people said. This means the war in Iran is not going well and
+      the US IC is beginning the Washington game of, “ Don’t blame me, I warned you
+      not to do it. ” I don’t know if Tulsi Gabbard authorized this leak, or if it came
+      from senior analysts from the four principal agencies that were involved in writing
+      this classified report — i.e., the CIA, the Defense Intelligence Agency, State
+      Department’s Bureau of Intelligence and Research, and the National Security Agency.
+      It is important to understand that this report was produced by the National Intelligence
+      Council, aka the NIC, and it is under the direct control of Tulsi Gabbard. In
+      any event I see this as a clear signal from people involved in producing this
+      report that they will not be the scapegoats when the Iran war turns into a debacle
+      for Donald Trump I get dozens of emails a day from readers asking questions and
+      offering commentary. I try to read and respond to all. Today I received a series
+      of questions from one of my subscribers (you know who you are). Instead of responding
+      to this person personally, I decided to save time and post for all to see. Hopefully
+      this helps you plow thru the ton of propaganda being spewed by Trump and the Zionists.
+      1) I’ve read that Tehran is now being hit with gravity bombs. Does the US now
+      have total air space control? What happened to S300-400 and super long range radar
+      able to detect stealth aircraft? The US does not have air supremacy. The US and
+      Israeli planes are flying close to Iran’s western border and releasing primarily
+      the Joint Air-to-Surface Standoff Missile aka JASSAMs, which have a range between
+      230 and 600 miles depending on the variant ( AGM-158A JASSM (baseline): ~370 km
+      [230 miles] and AGM-158B JASSM-ER (Extended Range): ~980 km [610 miles]). I don’t
+      know how many, if any, S300-S400 are deployed in Iran. Iran has reportedly shot
+      down 29 MQ9s and Hermes drones since 28 February, which represents a financial
+      loss of $800 million. 2) What does it imply that Iran has apologized to its neighbors
+      for attacking them ? That is a misreading of what the Iranian President said.
+      Pezeshkian personally apologized to the neighboring countries (Gulf/Arab states)
+      that had been affected by Iranian missile and drone strikes, saying something
+      along the lines of: “I should apologize to the neighboring countries that were
+      attacked by Iran, on my own behalf and on behalf of Iran.” However, Pezeshkian
+      in later remarks emphasized that any de-escalation gesture was undermined by US  actions
+      (like Trump’s response framing it as capitulation). As long as the US continues
+      to conduct military operations from the territories of the Gulf/Arab states Iran
+      will (and has) continue to attack the US targets in those countries. 3) What are
+      the targets of the new cluster bomb rockets? Airfields? The most recent video
+      evidence shows Iran has hit Ben Gurion airport in Tel Aviv, the oil refinery in
+      Haifa. The clusters from the Iranian rocket are hitting ground targets in Tel
+      Avi and Haifa at a minimum 4) Why can’t Iran stop the constant barrage they are
+      under going? They seem as defenseless as Gaza. Iran does not have a perfect air
+      defense system. Worth noting that despite Donald Trump’s threats, the number of
+      US AGM strikes in Iran have declined by 80%. According to Simplicius : US’s strikes
+      have likewise fallen off from nearly 1,000 on the first day to an estimated 200-300
+      per day or less since then—and many if not most of those strikes are hitting superficial
+      targets to “fluff up the score”, like a plane boneyard which surely added a couple
+      dozen “points” to the “impressive” strike list 5) is the Iranian Air Force destroyed?
+      No. The strikes on Iranian combat planes have been largely confined to the Western
+      part of Iran. They still have ample capability in the East. Iran maintains 17
+      Tactical Fighter Bases (TFBs), and in recent years several new airfields have
+      been constructed in central and eastern Iran, with at least two becoming permanent
+      TFBs — the first established since 1979. One known eastern base is TFB.14 near
+      Mashhad, in the far northeast. To protect assets from preemptive strikes, Iran
+      has moved much of its air power underground. The “Eagle 44” (Oghab 44) airbase,
+      unveiled in 2023, is a massive facility carved into the Zagros Mountains, designed
+      to withstand bunker-buster bombs and housing fighter jets, drones, and command
+      facilities. As of February 28, 2026, reports indicate MiG-29s flying over Tehran
+      and Su-24 strike aircraft being repositioned, suggesting active defensive preparations.
+      6) is it hard to put airfields out of service? For example send all fuel tanks
+      up in flames. The conclusion I reach is that it requires high precision missiles
+      and Iran doesn’t have enough of those types to expend them on that type of target.
+      Meanwhile Tehran burns and some US radars are gone. Blowing up fuel tanks can
+      create a fuel shortage, but it does not disable airfields. Cratering an airfield
+      and putting it permanently out of commission is difficult because the runways
+      can be repaired. You need to stop listening to the US propaganda claims about
+      massive destruction. And how do you know how many high precision missiles Iran
+      has? I don’t know, but what I continue to see is that Iran if firing several waves
+      of precision missile attacks into Tel Aviv and Haifa as well as US bases/ installations
+      throughout the Persian Gulf. 7) The fact that US has been blinded by radar loss
+      hasn’t seemed to help Iran much. Newer Iranian missiles are getting through but
+      that would have been true regardless of those radar stations status. You answer
+      your own question. Yes, the US loss of the advance radar systems has blinded it
+      and, as a consequence, Iranian missiles are getting through. So what is your real
+      question? I had an excellent conversation about the current state of the war on
+      Iran with Mario Nawfal this afternoon: Andrei Martyanov and I spent an hour on
+      Friday afternoon with Randy Credico on his show, Live on the Fly : I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A classified National Intelligence Council report reveals
+      that a large-scale U.S. military assault on Iran is unlikely to successfully remove
+      its entrenched leadership, casting doubt on President Trump's plans to change
+      Iran's regime.
+    paragraph_summary: A classified report from the National Intelligence Council, leaked
+      to the Washington Post, reveals that a large-scale U.S. military assault on Iran
+      is unlikely to dismantle the country's entrenched military and clerical leadership,
+      contradicting President Trump's ambitions to remove Iran's leadership and install
+      a preferred ruler. The report, which surfaced just before the U.S. and Israel
+      began military operations on February 28, suggests that Iran's leadership would
+      maintain continuity of power even in the event of significant casualties, such
+      as the death of Supreme Leader Ayatollah Ali Khamenei. This assessment raises
+      concerns about the effectiveness of the military campaign in Iran and hints at
+      internal dissent within the U.S. Intelligence Community regarding the administration's
+      strategy.
+    published: '2026-03-08T06:04:32+00:00'
+  - title: Attack on Iran – the Defining Turning Point of 21st Century History
+    url: https://sonar21.com/attack-on-iran-the-defining-turning-point-of-21st-century-history/
+    text: 'The Israeli-American attack has already failed. Iran will survive this—the
+      Greater Israel project is now a distant prospect—and that is all that matters.
+      By Peter Hanseler via ForumGeopolitica.com Greater Israel – the real reason for
+      the war Peter Hanseler reports from Dubai, where he is stuck with his family but
+      is not letting the commotion in the West unsettle him. He is patiently waiting
+      for the next possible flight home. Introduction Israel and the US have started
+      a war against Iran without any justification whatsoever. This should always be
+      kept in mind when listening to statements by Western politicians defending US
+      policy. The compulsive verbal acrobatics they employ to justify the unjustifiable
+      expose the severity of their crimes. If the rules of the Nuremberg trials were
+      applied, Trump, Netanyahu, and Co. would be hanging from the gallows—it’s that
+      simple. If you follow the Western media, which parrot the explanations and justifications
+      uncritically like immature children on a continuous loop, you have to rub your
+      eyes in disbelief: regime change in Iran, fear of nuclear weapons in Iran, fear
+      of the ballistic power of the mullahs; preventive strike, because Iran would have
+      attacked Israel, indeed Europe, if not the US itself, in the near future. The
+      reasons given by Trump, Hegseth, and Rubio change daily. This is clear evidence
+      that the US cannot achieve its official war aims and is therefore constantly trying
+      to adapt to the unexpected reality that has arisen. The gentlemen mentioned above
+      are doing this at such a pace that they are not even coordinating their absurd
+      political and military fantasies with each other and are constantly contradicting
+      themselves. This is not what self-confidence looks like. The situation has reached
+      the point where Trump’s team is meeting for joint prayer in the Oval Office. Rubio:
+      “Iran is run by religious fanatics.” The White House right now: pic.twitter.com/zWxY3wvwAK
+      — Power to the People ☭ (@ProudSocialist) March 5, 2026 Israeli soldiers, for
+      their part, are indoctrinated in a way that makes prayer at the White House seem
+      like religious fanaticism, according to Tucker Carlson. https://t.me/AleksandrSemchenko/72420
+      https://t.me/AleksandrSemchenko/72420 Prayers and chatter in the West attempt
+      to conceal the true goals of the Zionists. Iran, the oldest and largest civilization
+      in West Asia, stands in the way of Israel’s creation of Greater Israel, a country
+      stretching from the Euphrates to the Nile. The pieces of the puzzle are all on
+      the table. Let’s put them together. It is impossible to report on all the events.
+      From everything I have been able to gather, I present a selection and hope to
+      paint a picture that comes close to reality. This is made more difficult by the
+      deliberate dissemination of false information from all sides. I hope I have been
+      able to separate the wheat from the chaff. No Justification Possible There is
+      no justification for attacking Iran. As was the case last June, the Americans
+      abused the negotiations with the Iranians and attacked Iran during a break in
+      the talks. On Friday, February 27, Oman’s Foreign Minister Badr bin Hamad Al Busaidi
+      said he believed that all issues could be resolved amicably and comprehensively
+      in an agreement between Iran and the US within a few months. On the following
+      Monday, negotiations were set to continue, with both sides speaking of progress
+      It is impossible to negotiate with the Americans. This despicable behavior on
+      the part of the US will lead to this war being fought to the bitter end. One of
+      the most narrow-minded politicians in the West, Chancellor Merz, spoke the truth
+      without intending to. “Sometimes the truth comes out when a fool speaks” “It’s
+      a ‘dilemma,’ said Friedrich Merz (CDU): ‘International legal measures’ are simply
+      ineffective against an Iranian regime that has been trying to build up its nuclear
+      arsenal for decades and ‘brutally oppresses’ its population. That is why the Americans
+      and Israelis are now launching a military attack.” Focus Friedrich Merz: A real
+      fool – If you search for “Friedrich Merz fool” on Google, this image appears –
+      AI works. In other words: international law does not apply to Iran. Sometimes
+      the truth comes out when you let a fool speak. So much for justifying the attack.
+      This was said by the head of government of the country that supplied Iraq with
+      poison gas, which was banned under international law, during the Iran-Iraq War
+      from 1980 to 1988, and which was used against Iran. Europe without Energy The
+      Strait of Hormuz is closed; Iran—together with the Houthis—decides who will pass
+      through. Another genius of European politics, Ursula von der Leyen, announced
+      the following on December 3: “This is the dawn of a new era, the era of Europe’s
+      full energy independence from Russia,” European Commission President Ursula von
+      der Leyen said after the EU reached a deal to end all EU imports of Russian gas
+      by the end of 2027.” Ursula von der Leyen, 3 December 2025 On March 4, President
+      Putin made the following statement: “But if they are going to close us off in
+      a month or 2 anyway, then perhaps it is better for us to stop ourselves now.”
+      President Putin, 3 March 2026 China is severely affected by the war, as it imports
+      a significant amount of natural gas (approx. 30%) from Qatar and oil from Iran
+      (12.3%). Russia can fill this gap. You don’t need a university degree to realize
+      that Europe will have an unseen energy problem within weeks. Russia has the upper
+      hand and Europe no longer has any cards. Germany, which has repeatedly declared
+      that Russia will always be its enemy, will be unable to make a charm offensive
+      in the Kremlin. One of the Americans’ First Targets: a Primary School for Girls
+      One of the first targets of Sunday’s attack was a primary school for girls. The
+      result: 165 dead children between the ages of 7 and 12. Al Jazeera reported that
+      the attack on the Iranian girls’ school was probably “deliberate.” The evidence
+      pointing to US responsibility for this crime, which transcends all measures of
+      humanity, is now so overwhelming that the US leadership felt compelled to admit
+      the seemingly unthinkable in a closed-door meeting. The Israelis, who are well
+      versed in genocide, are of the “ opinion ” that the Iranians attacked the school.
+      There is one small flaw in this statement: this attack took place at a time when
+      the Iranians had not yet responded, as it was one of the first attacks. For more
+      on the genocidal behavior of the Israelis, see our article from last July, “Genocide
+      as ‘ self-defense’ – Western media as accomplices in the genocide in Gaza .” The
+      following photos cannot be found in the Western media – presumably so as not to
+      spoil the public’s good mood. Dead little schoolgirls before the funeral – https://x.com/s_m_marandi/status/2028148788297093412?s=20
+      The little ones at their own funeral– https://x.com/zarahsultana/status/2028878874419851377?s=20
+      There were no military targets around the school. As if that weren’t enough, the
+      school was attacked twice. After the first strike, another equally targeted attack
+      was carried out on the same target with the aim of destroying the people rushing
+      to help. The West can be proud of itself. In the first few days, the Israelis
+      and Americans killed over 1,000 civilians in Iran, according to the Wall Street
+      Journal , more than the war in Ukraine claims in civilian casualties per year.
+      I say explicitly that the West—the entire West, including Switzerland—supports
+      this carnage. American Victory Cheers The Israelis and Americans are showing countless
+      images that are supposed to prove that Iran is soon to be finished. Pete Hegseth
+      proclaims that the US is winning. Anyone with even a modicum of historical awareness
+      knows that cries of victory are completely worthless and usually a lie. We refer
+      to Adolf Hitler, who shouted “final victory” until shortly before his surrender
+      in May 1945. For example, on January 30, 1945. Here is an overexcited Pete Hegseth—victory
+      euphoria or panic? A Few Facts and Figures About Iran With over 1.5 million square
+      kilometers, Iran is larger than Western Europe (1.2 million km²). And Trump and
+      Netanyahu want to reshape this country through bombing? Israel has an area of
+      around 22,200 km and is thus 67 times smaller than Iran. In purely mathematical
+      terms, Iranian attacks on Israel are 67 times more concentrated per shot than
+      US/Israeli attacks on Iran. Or to put it another way: if Iran fires one missile
+      at Israel, Israel would have to fire 67 to achieve the same effect in theory.
+      No one in the West is talking about this. Let us remember Yemen, not far from
+      Iran. Since 2015, the Americans, Saudis, Israelis, and British have been bombing
+      the western part of Yemen, a small country on the Gulf where the Houthis are successfully
+      standing up to the West. The US sent an aircraft carrier group, the Saudis sent
+      their air force. The British and French also tried their hand. None of them were
+      able to impose their will on the Houthis. How is Iran Responding Destruction of
+      US Military Bases in the Gulf Region The initial reaction of the Iranians was
+      one that had been announced long in advance: for weeks, the Iranian leadership
+      had been declaring that any US military installation in the Gulf region was a
+      legitimate target. So far, 21 US bases have been attacked and radar systems worth
+      billions have been destroyed. This has already left the Americans partially blind.
+      While the advance warning time for Iranian missile attacks used to be around 20
+      minutes, it has now shrunk to 4 minutes. Source: Simplicius Bahrain, the base
+      of the US Fifth Fleet, can no longer be used. The ships of the US fleet now have
+      to sail five days to Diego Garcia to refuel and load ammunition – and then five
+      days back. This means that the US cannot sustain a prolonged attack on Iran. The
+      Iranian attacks will probably continue until the Americans withdraw. Through a
+      clever attack strategy, Iran also forced the US to “park” the aircraft carrier
+      group stationed south of Iran about 1,000 kilometers from Iran on the high seas
+      in order to avoid direct missile attacks. However, the F-35 aircraft stationed
+      there only have a range of 600 kilometers. This means they have to be refueled
+      both on the way to Iran and on the way back. Due to the enormous size of the country,
+      there can be no question of a deep penetration into Iran. United Arab Emirates
+      Faces Economic Collapse The economic consequences for the Gulf states are devastating.
+      This is the case for the United Arab Emirates, for example, which generates 17%
+      of its GDP from aviation and around 24% from real estate. Air traffic has practically
+      come to a standstill – which is why I myself am staying in Dubai. The Iranians’
+      message is simple: as long as the US has bases in your country, we will attack
+      them. The “flexible” leaders of the Gulf states seem to be genuinely surprised
+      by this turn of events. It was very profitable to have it both ways, but now they
+      will have to decide sooner or later. Better sooner, because the consequences will
+      be fatal. In the long term, the halo of safe havens in the Middle East, built
+      with so much love, will be destroyed, and the luxury hotels and shopping malls
+      will be of little use – they are all empty. In the short term, the blockade of
+      Hormuz will make the supply situation dangerous – most food is delivered by ship.
+      If these are replaced by trucks traveling overland from Saudi Arabia – which is
+      technically impossible due to the sheer volume alone – this will lead to supply
+      shortages and price explosions. Even the FT is already reporting: «Gulf states
+      could review investments due to financial strains caused by Iran war» Financial
+      Times, 5 March 2026 Militarily, these countries cannot seriously defend themselves;
+      the Americans were responsible for this and supply Israel with all its weapons—as
+      long as they can. And most of their “own” soldiers come from distant countries
+      such as India and Bangladesh. Iran Destroys Israel Israel has imposed a complete
+      information blackout on damage; anyone who takes photos or videos of damage will
+      be sent to prison for five years. The Western media are happy to comply and gloss
+      over the situation in Israel. The truth is quite different. Iran is sending hundreds
+      of rockets and drones to Israel every day, initially old equipment, which is flying
+      into Tel Aviv and Haifa. Bad news for Tel Aviv pic.twitter.com/WU3up1lZE6 — Russian
+      Market (@runews) March 5, 2026 Damage in Tel Aviv DESTRUCTION NEAR MINISTRY OF
+      DEFENSE IN KIRYA, TEL AVIV The media isn’t showing you this pic.twitter.com/Rb9SuhfRQJ
+      — Sulaiman Ahmed (@ShaykhSulaiman) March 4, 2026 BOOM BOOM TEL AVIV pic.twitter.com/b7AZcA782E
+      — Sulaiman Ahmed (@ShaykhSulaiman) March 5, 2026 Buildings in Tel Aviv are getting
+      BLASTED. About 200 israeli casualties tonight alone. pic.twitter.com/nYLeAUkdXn
+      — Jvnior (@Jvnior) March 6, 2026 Many people in Israel spend the night in underground
+      car parks Israelis are now living in parking lots and basements pic.twitter.com/9LHLRAVImH
+      — Russian Market (@runews) March 6, 2026 Israeli soldiers must realize that different
+      rules apply now. Until recently, they killed and terrorized defenseless civilians
+      in Gaza—remember: Pointing a weapon at a 3 year old can never ever be seen as
+      normal, I don’t care where you  come from! pic.twitter.com/wugQ0l0z9b — JonnyUtd
+      (@Fx1Jonny) June 29, 2025 Now the gentlemen are confronted with enemies who can
+      defend themselves now they cry. Small Hats army suffering huge losses in Jerusalem
+      and Gaza amid rising Iranian missiles and drones strikes. pic.twitter.com/8PRZhVBsVB
+      — mrredpillz jokaqarmy (@JOKAQARMY1) March 3, 2026 No one should be surprised
+      by this development—it was announced and was a further development of the events
+      of June 2025. The war at that time ended after 12 days because the Americans asked
+      the Iranians to end it—there will be no such ending this time. Israel’s major
+      cities will be reduced to rubble and ashes in the coming weeks. How is Russia
+      Reacting? The Russians are not making much noise about the direct conflict, except
+      to condemn it with all their might. It has been reported that the Russians are
+      helping the Iranians with target coordination. The Russians have not denied this.
+      Russia can see every square meter of the Middle East through its satellites, and
+      the accuracy of the Iranian attacks suggests that they are indeed receiving support
+      from Moscow. Since the beginning of the conflict, the Kremlin has been in contact
+      with all Gulf states whose US bases are under constant attack. Foreign Minister
+      Lavrov found wise words for the Gulf states: Lavrov scolds a group of Arab states,
+      saying that "it''s not nice to sit on two camels at once!" The Arab monarchies
+      publicly stated that they would not provide their airspace! "But when everything
+      started, despite your repeated calls, did you condemn what the US & Israel began…
+      pic.twitter.com/vFmuNi4xkM — Elisabeth Eliseeva AKHMAT (@Eliseevanews) March 6,
+      2026 In unusually clear diplomatic terms, Lavrov does not mince words at a meeting
+      with representatives of Arab states: “It’s not nice to sit on two camels at the
+      same time!” The Arab monarchies have publicly declared that they will not make
+      their airspace available! “But when it all started, despite your repeated calls,
+      you condemned what the US and Israel began to do?!” Foreign Minister Lavrov, 6
+      March 2026 The Russians are providing Iran with the support that Russia has been
+      asked for. This has been repeatedly confirmed by Kremlin press secretary Dmitry
+      Peskov. Nevertheless, a direct confrontation with the Americans in Iran could
+      lead to the outbreak of World War III. The Russians are aware of this, which is
+      why they are acting behind the scenes. On India’s Behavior India is one of the
+      countries that did not condemn Israel and the US’s war against Iran. Why? Modi’s
+      visit to Israel provides some insight into the motives behind this. Indian Prime
+      Minister Modi visited Tel Aviv on February 26, 2026, the day before the attack
+      on Iran. Both sides attached great importance to the meeting. Agreements were
+      signed on a strategic partnership between the two countries in highly sensitive
+      areas, such as defense, drone technology, and artificial intelligence. Both countries
+      want to cooperate in the areas of missile defense and laser weapons, and trade
+      is also mentioned, albeit in a subordinate position. This list alone sounds like
+      an anti-BRICS alliance. This theory is underscored by the timing of the visit.
+      Regardless of the fact that Iran was attacked the day after Modi’s visit, the
+      planning of such a visit at a time when war was already imminent was no coincidence.
+      Neither on the one side nor on the other. The timing, content, and Modi’s subsequent
+      behavior toward Iran will have serious consequences for BRICS. Neither Moscow
+      nor Beijing can or will simply move on to the agenda after this affront against
+      themselves and Iran. This is because immediate strategic interests are at stake.
+      India produces various missiles in cooperation with Russia, which are likely to
+      be of great interest to Israel due to their characteristics. Russia plans to manufacture
+      its SU-57 fighter jet under license in India. Israel is a major supplier of components
+      in the field of AI. India is now directly and far more severely affected by the
+      closure of the Strait of Hormuz than China, for example. India immediately switched
+      to buying oil from Russia. It is probably only a matter of time before Russian
+      Foreign Minister Lavrov tells his Indian counterpart how difficult it is to sit
+      on two camels or, in this case, two Indian elephants at the same time. False Flag
+      Attacks The West claims that Israel attacked Azerbaijan and the Aramco refinery
+      in Saudi Arabia. The Iranians deny this. The damage allegedly caused by Iran with
+      two (!!) drones is so strikingly minor that one wonders why the drones were not
+      immediately marked with Israeli insignia. IRAN SAYS THEY DID NOT ATTACK SAUDI
+      OIL FACILITIES!? Who attacked the Saudi Aramco oil facilities? 1) It has to be
+      someone who wants to drag Saudi Arabia into war, so they staged a false-flag attack!?
+      2) Or it actually was Iran, but they are publicly denying it. Who was… https://t.co/kK3aejivzm
+      pic.twitter.com/9EknpAxi2K — Lord Bebo (@MyLordBebo) March 2, 2026 Tehran’s statements
+      are credible when one compares the interests of Israel and Iran – more on this
+      below. Nevertheless, the situation on the border with Azerbaijan is becoming dangerously
+      tense. This is because President Aliyev is not attempting to calm the situation
+      and, for example, seek dialogue with Iran. Aliyev has now put his army on alert
+      and deployed it to the border with Iran. All of this is consistent with the image
+      that Aliyev has cultivated as a loyal ally of Israel and the US. The Israeli and
+      US bases in the country are doing the rest. However, Baku is skating on very thin
+      ice in a confrontation with Iran, because Turkey is anything but enthusiastic
+      about the threat of land war with Iran and has spoken out clearly against Israel
+      and the US, not only with regard to Iran, but also with regard to Gaza and Lebanon.
+      It is doubtful whether Baku will be able to survive the balancing act between
+      the US/Israel on the one hand and Turkey on the other without suffering damage.
+      Boots on the Ground in Iran The Americans are now arming Kurds to attack Iran.
+      Will there be 10,000 or 50,000? As described above, Iran is larger than Western
+      Europe and has a landscape that is extremely hostile to attack. The Iranians’
+      fears are therefore very limited. The Iranian foreign minister on NBC on March
+      6, 2026 – his stance and statement will probably go down in the history books.
+      NBC news: Boots on the ground, in Iran, are you afraid of a US invasion? Iran
+      Foreign Minister: No we are waiting for them… The DNA of these Iranians is different.
+      pic.twitter.com/lLo2fAhpJb — Darab Farooqui (@darab_farooqui) March 6, 2026 No
+      Ceasefire Just 48 hours after the war began, on March 1, the Americans reportedly
+      attempted to negotiate a ceasefire with Tehran via Italy. Tehran said no. Iranian
+      Foreign Minister Abbas Araghchi said the Islamic Republic is neither seeking a
+      ceasefire nor negotiations with the United States. “We are not asking for a ceasefire.
+      We don’t see any reason why we should negotiate with the US when we negotiated
+      with them twice, and every… pic.twitter.com/KB9rr9MwCZ — Middle East Eye (@MiddleEastEye)
+      March 5, 2026 Iran does not appear to be on the verge of collapse. Greater Israel
+      Publicly Stated Goals and Actions of the US The goal of achieving regime change
+      in Iran has not been achieved, and so the Israelis and Americans will have lost
+      the war if the Iranians do not surrender their weapons within a short period of
+      time. I assume that this will not happen. Iran “only” has to survive in order
+      to destroy all Western plans. Nevertheless, the Americans are waging a ruthless
+      war and destroying mainly civilian targets in order to break the Iranians, but
+      in doing so they are achieving exactly the opposite. In addition to the primary
+      school for girls mentioned above, the Americans and Israelis are attacking hospitals,
+      13 so far. This is not Iranian propaganda, but was reported by the Guardian. “At
+      least 13 hospitals and health facilities hit during attacks on Iran, WHO says”
+      The Guardian Jews Against Israel At the end of 2023, our blog published a series
+      on Israel entitled “ Israel – from victim to perpetrator to victim – back and
+      forth for 80 years .” In it, we demonstrated that Ben-Gurion already wanted to
+      create Greater Israel through death and destruction. Of course, we were dismissed
+      as conspiracy theorists. Today, everyone knows that this is the Zionists’ grand
+      plan. Our criticism has nothing to do with anti-Semitism. Many Orthodox Jews are
+      opponents of Zionism and want to see Israel destroyed. This was evident at a demonstration
+      in Williamsburg, Brooklyn, New York. Orthodox Jews Burning the Zionist Israeli
+      flag in Williamsburg, Brooklyn, New York. Israel is not the state of the Jews.
+      Israel is not a Jewish state. pic.twitter.com/K47AUVQAm0 — Jewish Voice (@jewishvoicelive)
+      March 4, 2026 The Size of Greater Israel There are many maps, and the following
+      one shows the goals of the Zionists. Every Israeli soldier wears an arm patch
+      showing Greater Israel. This proves that this is not just the plan of a few extremists,
+      but the official strategy of the Israeli government. Mike Hukkabee, the current
+      US ambassador to Israel, said the following in an interview with Tucker Carlson
+      a few days before the attack: “It would be fine if they took it all.” This shows
+      that the United States agrees with Israel subjugating all states from the Nile
+      to the Euphrates (Egypt, Jordan, Syria, Lebanon, Iraq, Saudi Arabia). El embajador
+      de los Estados Unidos en Israel, Mike Huckabee, le dice a Tucker Carlson que Israel
+      tiene el derecho bíblico de apoderarse de todo el Medio Oriente. "Estaría bien
+      si se lo llevaran todo". Mike Huckabee es un fanático muy, muy peligroso y lo
+      que defiende aquí traerá… pic.twitter.com/Ek12o4LABA — Tere Felipe (@_TereFelipe_)
+      February 22, 2026 To achieve this goal, Iran, as the greatest power in the Middle
+      East, must be neutralized. Preferably destroyed or turned into a puppet of the
+      US, so that Israel can subjugate the rest of the Middle East. Turkey is the New
+      Iran It would be naive to believe that the Israelis would be satisfied with Greater
+      Israel. Former Israeli Prime Minister Naftali Bennett at a conference in Jerusalem
+      attended by the leaders of the most important American Jewish organizations. “Turkey
+      is the new Iran,” said former Israeli Prime Minister Naftali Bennett during a
+      conference in Jerusalem for heads of major American-Jewish organisations. He added
+      that Turkey is establishing a “hostile Sunni axis with nuclear Pakistan”. pic.twitter.com/obzHikipTP
+      — Middle East Eye (@MiddleEastEye) February 19, 2026 So much for the real plans
+      of Israel and the US. Prospects It is fair to say that the US has already lost
+      the war, as it has not achieved its stated war aim – regime change – and will
+      not achieve it. Neither the American nor the Israeli leadership has even a rough
+      understanding of what it means to wage war against a civilization that is thousands
+      of years old. This complete lack of cultural understanding led, in the first hours
+      and days, to Iranians—including most of those who have a different vision of Iran—putting
+      aside their differences and standing fully behind their government. Attacking
+      a country larger than the whole of Western Europe with a few hundred planes and
+      missiles in the belief that it can be defeated is exactly what one would expect
+      from the Trump administration and the fanatics in Israel. The current leaders
+      of the West—the US, Western Europe, Israel, Australia, and others—reflect the
+      state of their respective societies in their actions. To describe them as completely
+      insane only describes the symptom. The causes of this decadence lie much deeper.
+      I am not a military expert, but all military personnel who have not been bought
+      by the deep state express the same opinion, including Scott Ritter and Larry Johnson
+      (more bluntly) and Macgregor (somewhat more diplomatically). I know Iran and visited
+      it twice last year. I had the opportunity to talk to dozens of people. Apart from
+      the fact that they are probably the friendliest people in the world, I was struck
+      by their incredible level of education. According to Simon Hunt, the country produced
+      234,000 engineering graduates last year. In the US, the figure was 238,000, with
+      a population almost four times larger. Many of them work for the military. Iranian
+      missile technology—which the country developed entirely on its own under extreme
+      sanctions—is a testament to the country’s potential. The Iranians have hypersonic
+      missiles. The US has been struggling with this for decades. We have seen that
+      the Iranians do not want to negotiate with the US. Nor do they fear a land invasion
+      by the Americans. That should give the US food for thought. The Iranians have
+      been able, indeed they have had to, prepare for this conflict for over 45 years,
+      and it seems that they have done so. If the Iranians do not run out of ammunition,
+      they will prevail in this conflict against the US and Israel. What does that mean?
+      Israel is increasingly defenseless. Israeli missile defense is now only sporadic.
+      There are no interceptor missiles with the necessary specifications, no radars.
+      The damage in Israel is horrific, as is the damage in Iran, but the Iranians will
+      survive; they are fighting for their very existence. The arrogant Israelis believe
+      that they will prevail with the Americans; after all, that has always been the
+      case. But the facts speak against this. The Gulf states will soon have to decide
+      which side they want to be on. The plans for a Greater Israel provide good arguments
+      for standing together with Iran. How wise the leaders of the Gulf states are will
+      soon become apparent. The Americans will lose their dominance in the Middle East.
+      The road to this will be bloody, and if the Israelis use nuclear weapons against
+      Iran as a last resort, World War III will not be far off. Economically, Europe
+      and the Gulf states will be the big losers. If this conflict gets out of control,
+      the global economy, which has been teetering on the brink for a long time, will
+      collapse. These are not good prospects, and it seems that Europe, which has long
+      since given up its independence, will pay a horrendous price. The media in the
+      West have not yet noticed any of this. It is therefore not surprising that the
+      haughty Eric Gujer, editor-in-chief of the Neue Zürcher Zeitung (NZZ), fantasizes
+      in today’s editorial about the “victory” of the Israelis and the role of “referee”
+      that the Americans would play. Complete stupidity seems to have spilled over from
+      Washington to Falkenstrasse in Zurich. I would like to conclude with a bon mot
+      from Alastair Crooke, which he shared during our telephone conversation today:
+      «The stability in the region seems to be rather unstable» Alastair Crooke, 7 March
+      2026 Peter Hanseler is a geopolitical analyst who reports from Moscow. Peter was
+      born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.)
+      from Zurich University Law School and Master in International Commercial Law (LL.M.)
+      from Georgetown University Law School, Washington, D.C. He has lived in the US,
+      Spain, Switzerland, Thailand and Russia. Peter is independent, his work is not
+      supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the Israeli-American attack on Iran
+      is unjustified and has failed, ultimately asserting that Iran will endure while
+      the ambitions of a Greater Israel are now unrealistic.
+    paragraph_summary: In an article by Peter Hanseler, he argues that the Israeli-American
+      military actions against Iran are unjustified and ultimately doomed to fail, asserting
+      that Iran will endure and that the ambition of a Greater Israel is now unattainable.
+      Hanseler criticizes Western politicians for their inconsistent and contradictory
+      justifications for the war, suggesting that if the standards of the Nuremberg
+      trials were applied, leaders like Trump and Netanyahu would face severe consequences.
+      He highlights the absurdity of the ever-changing narratives surrounding the conflict,
+      which reflect a lack of coherence and confidence in U.S. policy, as officials
+      scramble to adapt to the realities on the ground.
+    published: '2026-03-08T04:13:12+00:00'
+  - title: Attack on Iran – the Defining Turning Point of 21st Century History
+    url: https://sonar21.com/attack-on-iran-the-defining-turning-point-of-21st-century-history/
+    text: 'The Israeli-American attack has already failed. Iran will survive this—the
+      Greater Israel project is now a distant prospect—and that is all that matters.
+      By Peter Hanseler via ForumGeopolitica.com Greater Israel – the real reason for
+      the war Peter Hanseler reports from Dubai, where he is stuck with his family but
+      is not letting the commotion in the West unsettle him. He is patiently waiting
+      for the next possible flight home. Introduction Israel and the US have started
+      a war against Iran without any justification whatsoever. This should always be
+      kept in mind when listening to statements by Western politicians defending US
+      policy. The compulsive verbal acrobatics they employ to justify the unjustifiable
+      expose the severity of their crimes. If the rules of the Nuremberg trials were
+      applied, Trump, Netanyahu, and Co. would be hanging from the gallows—it’s that
+      simple. If you follow the Western media, which parrot the explanations and justifications
+      uncritically like immature children on a continuous loop, you have to rub your
+      eyes in disbelief: regime change in Iran, fear of nuclear weapons in Iran, fear
+      of the ballistic power of the mullahs; preventive strike, because Iran would have
+      attacked Israel, indeed Europe, if not the US itself, in the near future. The
+      reasons given by Trump, Hegseth, and Rubio change daily. This is clear evidence
+      that the US cannot achieve its official war aims and is therefore constantly trying
+      to adapt to the unexpected reality that has arisen. The gentlemen mentioned above
+      are doing this at such a pace that they are not even coordinating their absurd
+      political and military fantasies with each other and are constantly contradicting
+      themselves. This is not what self-confidence looks like. The situation has reached
+      the point where Trump’s team is meeting for joint prayer in the Oval Office. Rubio:
+      “Iran is run by religious fanatics.” The White House right now: pic.twitter.com/zWxY3wvwAK
+      — Power to the People ☭ (@ProudSocialist) March 5, 2026 Israeli soldiers, for
+      their part, are indoctrinated in a way that makes prayer at the White House seem
+      like religious fanaticism, according to Tucker Carlson. https://t.me/AleksandrSemchenko/72420
+      https://t.me/AleksandrSemchenko/72420 Prayers and chatter in the West attempt
+      to conceal the true goals of the Zionists. Iran, the oldest and largest civilization
+      in West Asia, stands in the way of Israel’s creation of Greater Israel, a country
+      stretching from the Euphrates to the Nile. The pieces of the puzzle are all on
+      the table. Let’s put them together. It is impossible to report on all the events.
+      From everything I have been able to gather, I present a selection and hope to
+      paint a picture that comes close to reality. This is made more difficult by the
+      deliberate dissemination of false information from all sides. I hope I have been
+      able to separate the wheat from the chaff. No Justification Possible There is
+      no justification for attacking Iran. As was the case last June, the Americans
+      abused the negotiations with the Iranians and attacked Iran during a break in
+      the talks. On Friday, February 27, Oman’s Foreign Minister Badr bin Hamad Al Busaidi
+      said he believed that all issues could be resolved amicably and comprehensively
+      in an agreement between Iran and the US within a few months. On the following
+      Monday, negotiations were set to continue, with both sides speaking of progress
+      It is impossible to negotiate with the Americans. This despicable behavior on
+      the part of the US will lead to this war being fought to the bitter end. One of
+      the most narrow-minded politicians in the West, Chancellor Merz, spoke the truth
+      without intending to. “Sometimes the truth comes out when a fool speaks” “It’s
+      a ‘dilemma,’ said Friedrich Merz (CDU): ‘International legal measures’ are simply
+      ineffective against an Iranian regime that has been trying to build up its nuclear
+      arsenal for decades and ‘brutally oppresses’ its population. That is why the Americans
+      and Israelis are now launching a military attack.” Focus Friedrich Merz: A real
+      fool – If you search for “Friedrich Merz fool” on Google, this image appears –
+      AI works. In other words: international law does not apply to Iran. Sometimes
+      the truth comes out when you let a fool speak. So much for justifying the attack.
+      This was said by the head of government of the country that supplied Iraq with
+      poison gas, which was banned under international law, during the Iran-Iraq War
+      from 1980 to 1988, and which was used against Iran. Europe without Energy The
+      Strait of Hormuz is closed; Iran—together with the Houthis—decides who will pass
+      through. Another genius of European politics, Ursula von der Leyen, announced
+      the following on December 3: “This is the dawn of a new era, the era of Europe’s
+      full energy independence from Russia,” European Commission President Ursula von
+      der Leyen said after the EU reached a deal to end all EU imports of Russian gas
+      by the end of 2027.” Ursula von der Leyen, 3 December 2025 On March 4, President
+      Putin made the following statement: “But if they are going to close us off in
+      a month or 2 anyway, then perhaps it is better for us to stop ourselves now.”
+      President Putin, 3 March 2026 China is severely affected by the war, as it imports
+      a significant amount of natural gas (approx. 30%) from Qatar and oil from Iran
+      (12.3%). Russia can fill this gap. You don’t need a university degree to realize
+      that Europe will have an unseen energy problem within weeks. Russia has the upper
+      hand and Europe no longer has any cards. Germany, which has repeatedly declared
+      that Russia will always be its enemy, will be unable to make a charm offensive
+      in the Kremlin. One of the Americans’ First Targets: a Primary School for Girls
+      One of the first targets of Sunday’s attack was a primary school for girls. The
+      result: 165 dead children between the ages of 7 and 12. Al Jazeera reported that
+      the attack on the Iranian girls’ school was probably “deliberate.” The evidence
+      pointing to US responsibility for this crime, which transcends all measures of
+      humanity, is now so overwhelming that the US leadership felt compelled to admit
+      the seemingly unthinkable in a closed-door meeting. The Israelis, who are well
+      versed in genocide, are of the “ opinion ” that the Iranians attacked the school.
+      There is one small flaw in this statement: this attack took place at a time when
+      the Iranians had not yet responded, as it was one of the first attacks. For more
+      on the genocidal behavior of the Israelis, see our article from last July, “Genocide
+      as ‘ self-defense’ – Western media as accomplices in the genocide in Gaza .” The
+      following photos cannot be found in the Western media – presumably so as not to
+      spoil the public’s good mood. Dead little schoolgirls before the funeral – https://x.com/s_m_marandi/status/2028148788297093412?s=20
+      The little ones at their own funeral– https://x.com/zarahsultana/status/2028878874419851377?s=20
+      There were no military targets around the school. As if that weren’t enough, the
+      school was attacked twice. After the first strike, another equally targeted attack
+      was carried out on the same target with the aim of destroying the people rushing
+      to help. The West can be proud of itself. In the first few days, the Israelis
+      and Americans killed over 1,000 civilians in Iran, according to the Wall Street
+      Journal , more than the war in Ukraine claims in civilian casualties per year.
+      I say explicitly that the West—the entire West, including Switzerland—supports
+      this carnage. American Victory Cheers The Israelis and Americans are showing countless
+      images that are supposed to prove that Iran is soon to be finished. Pete Hegseth
+      proclaims that the US is winning. Anyone with even a modicum of historical awareness
+      knows that cries of victory are completely worthless and usually a lie. We refer
+      to Adolf Hitler, who shouted “final victory” until shortly before his surrender
+      in May 1945. For example, on January 30, 1945. Here is an overexcited Pete Hegseth—victory
+      euphoria or panic? A Few Facts and Figures About Iran With over 1.5 million square
+      kilometers, Iran is larger than Western Europe (1.2 million km²). And Trump and
+      Netanyahu want to reshape this country through bombing? Israel has an area of
+      around 22,200 km and is thus 67 times smaller than Iran. In purely mathematical
+      terms, Iranian attacks on Israel are 67 times more concentrated per shot than
+      US/Israeli attacks on Iran. Or to put it another way: if Iran fires one missile
+      at Israel, Israel would have to fire 67 to achieve the same effect in theory.
+      No one in the West is talking about this. Let us remember Yemen, not far from
+      Iran. Since 2015, the Americans, Saudis, Israelis, and British have been bombing
+      the western part of Yemen, a small country on the Gulf where the Houthis are successfully
+      standing up to the West. The US sent an aircraft carrier group, the Saudis sent
+      their air force. The British and French also tried their hand. None of them were
+      able to impose their will on the Houthis. How is Iran Responding Destruction of
+      US Military Bases in the Gulf Region The initial reaction of the Iranians was
+      one that had been announced long in advance: for weeks, the Iranian leadership
+      had been declaring that any US military installation in the Gulf region was a
+      legitimate target. So far, 21 US bases have been attacked and radar systems worth
+      billions have been destroyed. This has already left the Americans partially blind.
+      While the advance warning time for Iranian missile attacks used to be around 20
+      minutes, it has now shrunk to 4 minutes. Source: Simplicius Bahrain, the base
+      of the US Fifth Fleet, can no longer be used. The ships of the US fleet now have
+      to sail five days to Diego Garcia to refuel and load ammunition – and then five
+      days back. This means that the US cannot sustain a prolonged attack on Iran. The
+      Iranian attacks will probably continue until the Americans withdraw. Through a
+      clever attack strategy, Iran also forced the US to “park” the aircraft carrier
+      group stationed south of Iran about 1,000 kilometers from Iran on the high seas
+      in order to avoid direct missile attacks. However, the F-35 aircraft stationed
+      there only have a range of 600 kilometers. This means they have to be refueled
+      both on the way to Iran and on the way back. Due to the enormous size of the country,
+      there can be no question of a deep penetration into Iran. United Arab Emirates
+      Faces Economic Collapse The economic consequences for the Gulf states are devastating.
+      This is the case for the United Arab Emirates, for example, which generates 17%
+      of its GDP from aviation and around 24% from real estate. Air traffic has practically
+      come to a standstill – which is why I myself am staying in Dubai. The Iranians’
+      message is simple: as long as the US has bases in your country, we will attack
+      them. The “flexible” leaders of the Gulf states seem to be genuinely surprised
+      by this turn of events. It was very profitable to have it both ways, but now they
+      will have to decide sooner or later. Better sooner, because the consequences will
+      be fatal. In the long term, the halo of safe havens in the Middle East, built
+      with so much love, will be destroyed, and the luxury hotels and shopping malls
+      will be of little use – they are all empty. In the short term, the blockade of
+      Hormuz will make the supply situation dangerous – most food is delivered by ship.
+      If these are replaced by trucks traveling overland from Saudi Arabia – which is
+      technically impossible due to the sheer volume alone – this will lead to supply
+      shortages and price explosions. Even the FT is already reporting: «Gulf states
+      could review investments due to financial strains caused by Iran war» Financial
+      Times, 5 March 2026 Militarily, these countries cannot seriously defend themselves;
+      the Americans were responsible for this and supply Israel with all its weapons—as
+      long as they can. And most of their “own” soldiers come from distant countries
+      such as India and Bangladesh. Iran Destroys Israel Israel has imposed a complete
+      information blackout on damage; anyone who takes photos or videos of damage will
+      be sent to prison for five years. The Western media are happy to comply and gloss
+      over the situation in Israel. The truth is quite different. Iran is sending hundreds
+      of rockets and drones to Israel every day, initially old equipment, which is flying
+      into Tel Aviv and Haifa. Bad news for Tel Aviv pic.twitter.com/WU3up1lZE6 — Russian
+      Market (@runews) March 5, 2026 Damage in Tel Aviv DESTRUCTION NEAR MINISTRY OF
+      DEFENSE IN KIRYA, TEL AVIV The media isn’t showing you this pic.twitter.com/Rb9SuhfRQJ
+      — Sulaiman Ahmed (@ShaykhSulaiman) March 4, 2026 BOOM BOOM TEL AVIV pic.twitter.com/b7AZcA782E
+      — Sulaiman Ahmed (@ShaykhSulaiman) March 5, 2026 Buildings in Tel Aviv are getting
+      BLASTED. About 200 israeli casualties tonight alone. pic.twitter.com/nYLeAUkdXn
+      — Jvnior (@Jvnior) March 6, 2026 Many people in Israel spend the night in underground
+      car parks Israelis are now living in parking lots and basements pic.twitter.com/9LHLRAVImH
+      — Russian Market (@runews) March 6, 2026 Israeli soldiers must realize that different
+      rules apply now. Until recently, they killed and terrorized defenseless civilians
+      in Gaza—remember: Pointing a weapon at a 3 year old can never ever be seen as
+      normal, I don’t care where you  come from! pic.twitter.com/wugQ0l0z9b — JonnyUtd
+      (@Fx1Jonny) June 29, 2025 Now the gentlemen are confronted with enemies who can
+      defend themselves now they cry. Small Hats army suffering huge losses in Jerusalem
+      and Gaza amid rising Iranian missiles and drones strikes. pic.twitter.com/8PRZhVBsVB
+      — mrredpillz jokaqarmy (@JOKAQARMY1) March 3, 2026 No one should be surprised
+      by this development—it was announced and was a further development of the events
+      of June 2025. The war at that time ended after 12 days because the Americans asked
+      the Iranians to end it—there will be no such ending this time. Israel’s major
+      cities will be reduced to rubble and ashes in the coming weeks. How is Russia
+      Reacting? The Russians are not making much noise about the direct conflict, except
+      to condemn it with all their might. It has been reported that the Russians are
+      helping the Iranians with target coordination. The Russians have not denied this.
+      Russia can see every square meter of the Middle East through its satellites, and
+      the accuracy of the Iranian attacks suggests that they are indeed receiving support
+      from Moscow. Since the beginning of the conflict, the Kremlin has been in contact
+      with all Gulf states whose US bases are under constant attack. Foreign Minister
+      Lavrov found wise words for the Gulf states: Lavrov scolds a group of Arab states,
+      saying that "it''s not nice to sit on two camels at once!" The Arab monarchies
+      publicly stated that they would not provide their airspace! "But when everything
+      started, despite your repeated calls, did you condemn what the US & Israel began…
+      pic.twitter.com/vFmuNi4xkM — Elisabeth Eliseeva AKHMAT (@Eliseevanews) March 6,
+      2026 In unusually clear diplomatic terms, Lavrov does not mince words at a meeting
+      with representatives of Arab states: “It’s not nice to sit on two camels at the
+      same time!” The Arab monarchies have publicly declared that they will not make
+      their airspace available! “But when it all started, despite your repeated calls,
+      you condemned what the US and Israel began to do?!” Foreign Minister Lavrov, 6
+      March 2026 The Russians are providing Iran with the support that Russia has been
+      asked for. This has been repeatedly confirmed by Kremlin press secretary Dmitry
+      Peskov. Nevertheless, a direct confrontation with the Americans in Iran could
+      lead to the outbreak of World War III. The Russians are aware of this, which is
+      why they are acting behind the scenes. On India’s Behavior India is one of the
+      countries that did not condemn Israel and the US’s war against Iran. Why? Modi’s
+      visit to Israel provides some insight into the motives behind this. Indian Prime
+      Minister Modi visited Tel Aviv on February 26, 2026, the day before the attack
+      on Iran. Both sides attached great importance to the meeting. Agreements were
+      signed on a strategic partnership between the two countries in highly sensitive
+      areas, such as defense, drone technology, and artificial intelligence. Both countries
+      want to cooperate in the areas of missile defense and laser weapons, and trade
+      is also mentioned, albeit in a subordinate position. This list alone sounds like
+      an anti-BRICS alliance. This theory is underscored by the timing of the visit.
+      Regardless of the fact that Iran was attacked the day after Modi’s visit, the
+      planning of such a visit at a time when war was already imminent was no coincidence.
+      Neither on the one side nor on the other. The timing, content, and Modi’s subsequent
+      behavior toward Iran will have serious consequences for BRICS. Neither Moscow
+      nor Beijing can or will simply move on to the agenda after this affront against
+      themselves and Iran. This is because immediate strategic interests are at stake.
+      India produces various missiles in cooperation with Russia, which are likely to
+      be of great interest to Israel due to their characteristics. Russia plans to manufacture
+      its SU-57 fighter jet under license in India. Israel is a major supplier of components
+      in the field of AI. India is now directly and far more severely affected by the
+      closure of the Strait of Hormuz than China, for example. India immediately switched
+      to buying oil from Russia. It is probably only a matter of time before Russian
+      Foreign Minister Lavrov tells his Indian counterpart how difficult it is to sit
+      on two camels or, in this case, two Indian elephants at the same time. False Flag
+      Attacks The West claims that Israel attacked Azerbaijan and the Aramco refinery
+      in Saudi Arabia. The Iranians deny this. The damage allegedly caused by Iran with
+      two (!!) drones is so strikingly minor that one wonders why the drones were not
+      immediately marked with Israeli insignia. IRAN SAYS THEY DID NOT ATTACK SAUDI
+      OIL FACILITIES!? Who attacked the Saudi Aramco oil facilities? 1) It has to be
+      someone who wants to drag Saudi Arabia into war, so they staged a false-flag attack!?
+      2) Or it actually was Iran, but they are publicly denying it. Who was… https://t.co/kK3aejivzm
+      pic.twitter.com/9EknpAxi2K — Lord Bebo (@MyLordBebo) March 2, 2026 Tehran’s statements
+      are credible when one compares the interests of Israel and Iran – more on this
+      below. Nevertheless, the situation on the border with Azerbaijan is becoming dangerously
+      tense. This is because President Aliyev is not attempting to calm the situation
+      and, for example, seek dialogue with Iran. Aliyev has now put his army on alert
+      and deployed it to the border with Iran. All of this is consistent with the image
+      that Aliyev has cultivated as a loyal ally of Israel and the US. The Israeli and
+      US bases in the country are doing the rest. However, Baku is skating on very thin
+      ice in a confrontation with Iran, because Turkey is anything but enthusiastic
+      about the threat of land war with Iran and has spoken out clearly against Israel
+      and the US, not only with regard to Iran, but also with regard to Gaza and Lebanon.
+      It is doubtful whether Baku will be able to survive the balancing act between
+      the US/Israel on the one hand and Turkey on the other without suffering damage.
+      Boots on the Ground in Iran The Americans are now arming Kurds to attack Iran.
+      Will there be 10,000 or 50,000? As described above, Iran is larger than Western
+      Europe and has a landscape that is extremely hostile to attack. The Iranians’
+      fears are therefore very limited. The Iranian foreign minister on NBC on March
+      6, 2026 – his stance and statement will probably go down in the history books.
+      NBC news: Boots on the ground, in Iran, are you afraid of a US invasion? Iran
+      Foreign Minister: No we are waiting for them… The DNA of these Iranians is different.
+      pic.twitter.com/lLo2fAhpJb — Darab Farooqui (@darab_farooqui) March 6, 2026 No
+      Ceasefire Just 48 hours after the war began, on March 1, the Americans reportedly
+      attempted to negotiate a ceasefire with Tehran via Italy. Tehran said no. Iranian
+      Foreign Minister Abbas Araghchi said the Islamic Republic is neither seeking a
+      ceasefire nor negotiations with the United States. “We are not asking for a ceasefire.
+      We don’t see any reason why we should negotiate with the US when we negotiated
+      with them twice, and every… pic.twitter.com/KB9rr9MwCZ — Middle East Eye (@MiddleEastEye)
+      March 5, 2026 Iran does not appear to be on the verge of collapse. Greater Israel
+      Publicly Stated Goals and Actions of the US The goal of achieving regime change
+      in Iran has not been achieved, and so the Israelis and Americans will have lost
+      the war if the Iranians do not surrender their weapons within a short period of
+      time. I assume that this will not happen. Iran “only” has to survive in order
+      to destroy all Western plans. Nevertheless, the Americans are waging a ruthless
+      war and destroying mainly civilian targets in order to break the Iranians, but
+      in doing so they are achieving exactly the opposite. In addition to the primary
+      school for girls mentioned above, the Americans and Israelis are attacking hospitals,
+      13 so far. This is not Iranian propaganda, but was reported by the Guardian. “At
+      least 13 hospitals and health facilities hit during attacks on Iran, WHO says”
+      The Guardian Jews Against Israel At the end of 2023, our blog published a series
+      on Israel entitled “ Israel – from victim to perpetrator to victim – back and
+      forth for 80 years .” In it, we demonstrated that Ben-Gurion already wanted to
+      create Greater Israel through death and destruction. Of course, we were dismissed
+      as conspiracy theorists. Today, everyone knows that this is the Zionists’ grand
+      plan. Our criticism has nothing to do with anti-Semitism. Many Orthodox Jews are
+      opponents of Zionism and want to see Israel destroyed. This was evident at a demonstration
+      in Williamsburg, Brooklyn, New York. Orthodox Jews Burning the Zionist Israeli
+      flag in Williamsburg, Brooklyn, New York. Israel is not the state of the Jews.
+      Israel is not a Jewish state. pic.twitter.com/K47AUVQAm0 — Jewish Voice (@jewishvoicelive)
+      March 4, 2026 The Size of Greater Israel There are many maps, and the following
+      one shows the goals of the Zionists. Every Israeli soldier wears an arm patch
+      showing Greater Israel. This proves that this is not just the plan of a few extremists,
+      but the official strategy of the Israeli government. Mike Hukkabee, the current
+      US ambassador to Israel, said the following in an interview with Tucker Carlson
+      a few days before the attack: “It would be fine if they took it all.” This shows
+      that the United States agrees with Israel subjugating all states from the Nile
+      to the Euphrates (Egypt, Jordan, Syria, Lebanon, Iraq, Saudi Arabia). El embajador
+      de los Estados Unidos en Israel, Mike Huckabee, le dice a Tucker Carlson que Israel
+      tiene el derecho bíblico de apoderarse de todo el Medio Oriente. "Estaría bien
+      si se lo llevaran todo". Mike Huckabee es un fanático muy, muy peligroso y lo
+      que defiende aquí traerá… pic.twitter.com/Ek12o4LABA — Tere Felipe (@_TereFelipe_)
+      February 22, 2026 To achieve this goal, Iran, as the greatest power in the Middle
+      East, must be neutralized. Preferably destroyed or turned into a puppet of the
+      US, so that Israel can subjugate the rest of the Middle East. Turkey is the New
+      Iran It would be naive to believe that the Israelis would be satisfied with Greater
+      Israel. Former Israeli Prime Minister Naftali Bennett at a conference in Jerusalem
+      attended by the leaders of the most important American Jewish organizations. “Turkey
+      is the new Iran,” said former Israeli Prime Minister Naftali Bennett during a
+      conference in Jerusalem for heads of major American-Jewish organisations. He added
+      that Turkey is establishing a “hostile Sunni axis with nuclear Pakistan”. pic.twitter.com/obzHikipTP
+      — Middle East Eye (@MiddleEastEye) February 19, 2026 So much for the real plans
+      of Israel and the US. Prospects It is fair to say that the US has already lost
+      the war, as it has not achieved its stated war aim – regime change – and will
+      not achieve it. Neither the American nor the Israeli leadership has even a rough
+      understanding of what it means to wage war against a civilization that is thousands
+      of years old. This complete lack of cultural understanding led, in the first hours
+      and days, to Iranians—including most of those who have a different vision of Iran—putting
+      aside their differences and standing fully behind their government. Attacking
+      a country larger than the whole of Western Europe with a few hundred planes and
+      missiles in the belief that it can be defeated is exactly what one would expect
+      from the Trump administration and the fanatics in Israel. The current leaders
+      of the West—the US, Western Europe, Israel, Australia, and others—reflect the
+      state of their respective societies in their actions. To describe them as completely
+      insane only describes the symptom. The causes of this decadence lie much deeper.
+      I am not a military expert, but all military personnel who have not been bought
+      by the deep state express the same opinion, including Scott Ritter and Larry Johnson
+      (more bluntly) and Macgregor (somewhat more diplomatically). I know Iran and visited
+      it twice last year. I had the opportunity to talk to dozens of people. Apart from
+      the fact that they are probably the friendliest people in the world, I was struck
+      by their incredible level of education. According to Simon Hunt, the country produced
+      234,000 engineering graduates last year. In the US, the figure was 238,000, with
+      a population almost four times larger. Many of them work for the military. Iranian
+      missile technology—which the country developed entirely on its own under extreme
+      sanctions—is a testament to the country’s potential. The Iranians have hypersonic
+      missiles. The US has been struggling with this for decades. We have seen that
+      the Iranians do not want to negotiate with the US. Nor do they fear a land invasion
+      by the Americans. That should give the US food for thought. The Iranians have
+      been able, indeed they have had to, prepare for this conflict for over 45 years,
+      and it seems that they have done so. If the Iranians do not run out of ammunition,
+      they will prevail in this conflict against the US and Israel. What does that mean?
+      Israel is increasingly defenseless. Israeli missile defense is now only sporadic.
+      There are no interceptor missiles with the necessary specifications, no radars.
+      The damage in Israel is horrific, as is the damage in Iran, but the Iranians will
+      survive; they are fighting for their very existence. The arrogant Israelis believe
+      that they will prevail with the Americans; after all, that has always been the
+      case. But the facts speak against this. The Gulf states will soon have to decide
+      which side they want to be on. The plans for a Greater Israel provide good arguments
+      for standing together with Iran. How wise the leaders of the Gulf states are will
+      soon become apparent. The Americans will lose their dominance in the Middle East.
+      The road to this will be bloody, and if the Israelis use nuclear weapons against
+      Iran as a last resort, World War III will not be far off. Economically, Europe
+      and the Gulf states will be the big losers. If this conflict gets out of control,
+      the global economy, which has been teetering on the brink for a long time, will
+      collapse. These are not good prospects, and it seems that Europe, which has long
+      since given up its independence, will pay a horrendous price. The media in the
+      West have not yet noticed any of this. It is therefore not surprising that the
+      haughty Eric Gujer, editor-in-chief of the Neue Zürcher Zeitung (NZZ), fantasizes
+      in today’s editorial about the “victory” of the Israelis and the role of “referee”
+      that the Americans would play. Complete stupidity seems to have spilled over from
+      Washington to Falkenstrasse in Zurich. I would like to conclude with a bon mot
+      from Alastair Crooke, which he shared during our telephone conversation today:
+      «The stability in the region seems to be rather unstable» Alastair Crooke, 7 March
+      2026 Peter Hanseler is a geopolitical analyst who reports from Moscow. Peter was
+      born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.)
+      from Zurich University Law School and Master in International Commercial Law (LL.M.)
+      from Georgetown University Law School, Washington, D.C. He has lived in the US,
+      Spain, Switzerland, Thailand and Russia. Peter is independent, his work is not
+      supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the Israeli-American attack on Iran
+      is unjustified and has failed, ultimately asserting that Iran will endure while
+      the ambitions of a Greater Israel are now unrealistic.
+    paragraph_summary: In an article by Peter Hanseler, he argues that the Israeli-American
+      military actions against Iran are unjustified and ultimately doomed to fail, asserting
+      that Iran will endure and that the ambition of a Greater Israel is now unattainable.
+      Hanseler criticizes Western politicians for their inconsistent and contradictory
+      justifications for the war, suggesting that if the standards of the Nuremberg
+      trials were applied, leaders like Trump and Netanyahu would face severe consequences.
+      He highlights the absurdity of the ever-changing narratives surrounding the conflict,
+      which reflect a lack of coherence and confidence in U.S. policy, as officials
+      scramble to adapt to the realities on the ground.
+    published: '2026-03-08T04:13:12+00:00'
+  - title: The Trump Administration is Lying About American Casualties in the Persian
+      Gulf Region
+    url: https://sonar21.com/the-trump-administration-is-lying-about-american-casualties-in-the-persian-gulf-region/
+    text: 'First let me explain the meaning of the X message and photo that appears
+      above… the cancellation of the training exercise is a key indicator that the Pentagon
+      is going to deploy the some, if not all, of the 82nd Airborne Division to the
+      Persian Gulf. Final destination unknown. You may recall an article I wrote on
+      February 18 when I reported that a CENTCOM exercise scripting conference, which
+      was scheduled to begin on Sunday, 22 February 2026, had been abruptly cancelled.
+      Six days later the war started. The imminent deployment of the 82nd does not mean
+      they are going into battle in the next couple of days. I expect it will be at
+      least two weeks before they reach their base camp. However, this does mean that
+      Trump and Hegseth were not just making an idle comment when they mentioned putting
+      boots on the ground. Despite the Trump administration’s efforts to downplay US
+      casualties after seven days of war in the Persian Gulf, clues are appearing on
+      the internet that indicate the US has suffered more combat losses than reported.
+      The first clue is this Xhitter (pronounced SHITTER) from Stars and Stripes. K-Town
+      refers to Kaiserslautern, a US Army base in Germany, which is located 13 miles
+      east of the Landstuhl  Regional Medical Center. So what? Well, on March 4, 2026
+      the Landstuhl Regional Medical Center (LRMC) in Germany—the largest US Department
+      of Defense hospital outside the United States and the primary overseas trauma/evacuation
+      hub for injured service members from Europe, the Middle East, and Africa—sent
+      out a memo announcing the temporary suspension of its labor and delivery services
+      “until further notice.” The memo did not explicitly define the “primary objective,”
+      but LRMC’s core role is treating combat- and training-related injuries. It also
+      is the main medical evacuation point for wounded troops from ongoing operations.
+      A knowledgeable friend who supervised DOD’s Wounded Warrior Program during the
+      Iraq and Afghanistan Wars and worked with personnel at the LRMC, learned today
+      that there is a flood of casualties arriving at the hospital. The numbers are
+      so large that the hospital could no longer continue to spend resources on birthing
+      babies. Then this picture popped up on Telegram a little bit ago: It is not a
+      stretch to conclude that Iran’s attacks on the US bases in the Persian Gulf produced
+      more than a few casualties. DOD/DOW is working hard to keep this information from
+      the public. Most Americans do not support the unprovoked war… This is likely to
+      fuel more opposition. Today was a maniacal video cast day. I did an emergency
+      session with the Judge at 9am: I also joined Ray and the Judge for the regular
+      Friday Intel Roundtable at 4pm: I had a productive conversation with the delightful
+      Kim Iverson at 10am: I had my second appearance with Steve Yang, the host of Natural
+      Resource Stocks at 2pm: I did a monologue on Counter Currents , which was recorded
+      on Tuesday and it posted late on Thursday: Finally, Nima hosted Colonel Wilkerson
+      and me at 11am: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The cancellation of a training exercise suggests that the
+      Pentagon is preparing to deploy the 82nd Airborne Division to the Persian Gulf,
+      indicating a serious military escalation, although their immediate involvement
+      in combat is not expected for at least two weeks.
+    paragraph_summary: The article discusses the implications of the cancellation of
+      a training exercise by the Pentagon, suggesting that it signals the imminent deployment
+      of the 82nd Airborne Division to the Persian Gulf, although their exact destination
+      remains unclear. The author recalls a previous article predicting that such cancellations
+      could precede military action, noting that while the deployment does not indicate
+      immediate combat, it aligns with comments made by Trump and Hegseth regarding
+      potential troop involvement. Additionally, the article hints at underreported
+      U.S. casualties in the ongoing conflict, citing a memo from the Landstuhl Regional
+      Medical Center in Germany, which has suspended labor and delivery services, indicating
+      a focus on treating combat injuries and suggesting an increase in wounded service
+      members.
+    published: '2026-03-07T04:35:25+00:00'
+  - title: The Trump Administration is Lying About American Casualties in the Persian
+      Gulf Region
+    url: https://sonar21.com/the-trump-administration-is-lying-about-american-casualties-in-the-persian-gulf-region/
+    text: 'First let me explain the meaning of the X message and photo that appears
+      above… the cancellation of the training exercise is a key indicator that the Pentagon
+      is going to deploy the some, if not all, of the 82nd Airborne Division to the
+      Persian Gulf. Final destination unknown. You may recall an article I wrote on
+      February 18 when I reported that a CENTCOM exercise scripting conference, which
+      was scheduled to begin on Sunday, 22 February 2026, had been abruptly cancelled.
+      Six days later the war started. The imminent deployment of the 82nd does not mean
+      they are going into battle in the next couple of days. I expect it will be at
+      least two weeks before they reach their base camp. However, this does mean that
+      Trump and Hegseth were not just making an idle comment when they mentioned putting
+      boots on the ground. Despite the Trump administration’s efforts to downplay US
+      casualties after seven days of war in the Persian Gulf, clues are appearing on
+      the internet that indicate the US has suffered more combat losses than reported.
+      The first clue is this Xhitter (pronounced SHITTER) from Stars and Stripes. K-Town
+      refers to Kaiserslautern, a US Army base in Germany, which is located 13 miles
+      east of the Landstuhl  Regional Medical Center. So what? Well, on March 4, 2026
+      the Landstuhl Regional Medical Center (LRMC) in Germany—the largest US Department
+      of Defense hospital outside the United States and the primary overseas trauma/evacuation
+      hub for injured service members from Europe, the Middle East, and Africa—sent
+      out a memo announcing the temporary suspension of its labor and delivery services
+      “until further notice.” The memo did not explicitly define the “primary objective,”
+      but LRMC’s core role is treating combat- and training-related injuries. It also
+      is the main medical evacuation point for wounded troops from ongoing operations.
+      A knowledgeable friend who supervised DOD’s Wounded Warrior Program during the
+      Iraq and Afghanistan Wars and worked with personnel at the LRMC, learned today
+      that there is a flood of casualties arriving at the hospital. The numbers are
+      so large that the hospital could no longer continue to spend resources on birthing
+      babies. Then this picture popped up on Telegram a little bit ago: It is not a
+      stretch to conclude that Iran’s attacks on the US bases in the Persian Gulf produced
+      more than a few casualties. DOD/DOW is working hard to keep this information from
+      the public. Most Americans do not support the unprovoked war… This is likely to
+      fuel more opposition. Today was a maniacal video cast day. I did an emergency
+      session with the Judge at 9am: I also joined Ray and the Judge for the regular
+      Friday Intel Roundtable at 4pm: I had a productive conversation with the delightful
+      Kim Iverson at 10am: I had my second appearance with Steve Yang, the host of Natural
+      Resource Stocks at 2pm: I did a monologue on Counter Currents , which was recorded
+      on Tuesday and it posted late on Thursday: Finally, Nima hosted Colonel Wilkerson
+      and me at 11am: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The cancellation of a training exercise suggests that the
+      Pentagon is preparing to deploy the 82nd Airborne Division to the Persian Gulf,
+      indicating a serious military escalation, although their immediate involvement
+      in combat is not expected for at least two weeks.
+    paragraph_summary: The article discusses the implications of the cancellation of
+      a training exercise by the Pentagon, suggesting that it signals the imminent deployment
+      of the 82nd Airborne Division to the Persian Gulf, although their exact destination
+      remains unclear. The author recalls a previous article predicting that such cancellations
+      could precede military action, noting that while the deployment does not indicate
+      immediate combat, it aligns with comments made by Trump and Hegseth regarding
+      potential troop involvement. Additionally, the article hints at underreported
+      U.S. casualties in the ongoing conflict, citing a memo from the Landstuhl Regional
+      Medical Center in Germany, which has suspended labor and delivery services, indicating
+      a focus on treating combat injuries and suggesting an increase in wounded service
+      members.
+    published: '2026-03-07T04:35:25+00:00'
+  - title: The Failure of US and Israeli Air Defense
+    url: https://sonar21.com/the-failure-of-us-and-israeli-air-defense/
+    text: 'AN-FPS-132 While the US and Israel are delivering some punishing blows in
+      Iran, Iran continues to successfully attack US military and intelligence targets
+      in the Persian Gulf countries and is pummeling Israel. Since February 28, 2026,
+      amid escalating US-Israeli strikes on Iran and Iranian retaliatory attacks (including
+      drone and missile strikes on US diplomatic facilities and regional bases), the
+      US State Department has ordered the closure or indefinite suspension of operations
+      at several US embassies in the Persian Gulf and broader Middle East region. These
+      include: Saudi Arabia (U.S. Embassy in Riyadh): Closed after Iranian drone attacks
+      targeted the compound on March 2–3, 2026. The embassy urged Americans to shelter
+      in place and avoid the area. Kuwait (U.S. Embassy in Kuwait City): Closed following
+      an Iranian drone/missile attack on or near the facility (reported March 2–3, 2026).
+      Operations halted “until further notice.” Lebanon (U.S. Embassy in Beirut): Closed
+      on March 3, 2026, due to ongoing regional tensions and threats (though Lebanon
+      is not strictly Persian Gulf, it’s often grouped in Middle East alerts). Operations
+      at the US embassies in Doha, Dubai and Manama also have been dramatically scaled
+      down. The videos posted during the last five days show Iranian missiles and drones
+      hitting targets in the six Gulf countries virtually unopposed. The real damage
+      is being done to US military bases/installations in the region. The following
+      US military bases/installations in the Persian Gulf (or directly associated with
+      Gulf states) have been confirmed or reported as attacked/hit since February 28,
+      based on US military statements, satellite imagery analyses (e.g., Planet Labs),
+      media reports (NYT, CNN, Al Jazeera, Stars and Stripes), and official confirmations
+      from host nations. Here is how the Western media sources are spinning these attacks:
+      Naval Support Activity Bahrain / U.S. Navy Fifth Fleet Headquarters (Manama, Bahrain)
+      — Targeted multiple times with missiles and drones. Damage included destruction
+      of several structures, radomes (radar domes), satellite communications terminals,
+      and warehouses. Bahrain confirmed attacks on the base, with explosions and smoke
+      reported. Al Udeid Air Base (near Doha, Qatar) — The largest US military facility
+      in the Middle East. Hit by Iranian missiles (at least one confirmed impact, with
+      others intercepted). Qatar reported interceptions of dozens of missiles/drones
+      targeting the base, with minor damage in some cases. No major casualties reported
+      from these strikes. Ali Al Salem Air Base (Kuwait) — Struck by ballistic missiles
+      and drones. Satellite imagery showed damage to buildings and structures. Kuwait
+      confirmed interceptions and hits; part of multiple strikes across Kuwaiti sites
+      hosting US troops. Camp Arifjan (Kuwait) — Attacked with drones/missiles, resulting
+      in US casualties (at least three service members killed and several wounded in
+      one incident). Low-resolution imagery indicated damage. Camp Buehring (Kuwait)
+      — Reported hits/damage from projectiles, per satellite analysis and US reports.
+      Al Dhafra Air Base (Abu Dhabi, UAE) — Targeted with missiles/drones. Satellite
+      imagery showed damage to buildings (at least three–four structures hit between
+      February 28 and March 1). UAE defenses intercepted many incoming threats. Prince
+      Sultan Air Base (Al Kharj, Saudi Arabia) — Bombarded by Iranian ballistic missiles.
+      Saudi defenses intercepted many, but reports confirmed attacks on the base (roughly
+      40 miles from Riyadh). The damage that is being inflicted is far greater and more
+      severe than the Pentagon is reporting. The most damaging result of the Iranian
+      attacks has been the destruction of critical radar systems that are supposed to
+      provide an early warning of Iranian missile launches. These include: The AN/FPS-132
+      Block 5 Upgraded Early Warning Radar (UEWR) at or near Al Udeid Air Base (Qatar)
+      — Valued at approximately $1.1 billion. This is the largest and most critical
+      US-operated ballistic missile early-warning radar in the Middle East, with a detection
+      range of up to 5,000 km for launches. The AN/TPY-2 Radar (associated with THAAD
+      system) at Al-Ruwais Industrial City (UAE) — Estimated value $500 million. This
+      forward-based X-band radar provides precise tracking for terminal high-altitude
+      missile defense. Iran claimed destruction, and open-source satellite imagery (Planet
+      Labs) shows a direct hit. Radome (radar dome) and satellite communications terminals
+      at Naval Support Activity Bahrain / US Fifth Fleet HQ (Bahrain) — A verified Iranian
+      drone strike hit a radome (protective cover for radar/satcom antennas) on February
+      28–March 1. Satellite imagery (NYT, Planet Labs) shows destruction of at least
+      two large radomes/SATCOM terminals and related structures. These are sophisticated
+      but not standalone “early-warning radars” like the AN/FPS-132; they support naval
+      ops and C2 (command and control). The Al Dhafra Air Base, a major U.S. Air Force
+      hub in Abu Dhabi hosting the 380th Expeditionary Wing and advanced aircraft, was
+      targeted by Iranian ballistic missiles and drones in late February–early March
+      2026 waves. Satellite imagery and multiple analyses confirm that a key US radar
+      system at Muwaffaq Salti Air Base in Jordan was heavily damaged or destroyed during
+      Iran’s retaliatory strikes in late February–early March 2026. The radar in question
+      is an AN/TPY-2 (Army Navy/Transportable Radar Surveillance and Control Model 2),
+      a high-resolution X-band phased-array radar used with the THAAD (Terminal High
+      Altitude Area Defense) missile battery. This radar is designed for detecting,
+      tracking, and discriminating ballistic missiles (including in terminal phase)
+      and is one of the most sophisticated US forward-deployed missile defense sensors.
+      Iran’s destruction of the AN/TPY-2 and the AN/FPS-132 radars has eliminated the
+      early warning capability of the US military in the region. Prior to their destruction,
+      Israel and the US would have a 15 to 30 minute warning when a missile was launched
+      from Iran and could, in theory, take counter measures and prepare their air defense
+      systems. Videos from Israel during the last two days show that 90% of Iranian
+      missiles are hitting their targets without being intercepted. The unknown variable
+      is how many missiles does Iran still have in its inventory. The US is betting
+      that Iran is running out of missiles. I believe that Iran’s stockpile is far larger
+      and more robust. We’ll see how things develop as the war enters its second week.
+      Colonel Wilkerson and I discussed the war today with Danny Haiphong: I also had
+      a great conversation, as always, with Glenn Diesen: And I ended the afternoon
+      talking with my friend, Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Despite significant US and Israeli military actions against
+      Iran, the country continues to effectively target US military and intelligence
+      assets in the Persian Gulf, leading to the closure of several US embassies in
+      the region due to escalating Iranian attacks.
+    paragraph_summary: Since February 28, 2026, escalating military tensions between
+      the US and Israel against Iran have led to significant retaliatory attacks by
+      Iran, particularly targeting US military and intelligence facilities in the Persian
+      Gulf region. In response to these threats, the US State Department has closed
+      or suspended operations at several embassies, including those in Saudi Arabia,
+      Kuwait, and Lebanon, due to Iranian drone and missile strikes. The situation has
+      resulted in a dramatic reduction of operations at US embassies in Doha, Dubai,
+      and Manama, as Iranian missiles and drones have been reported to hit various targets
+      in the Gulf countries with little opposition. Notably, the US Navy's Fifth Fleet
+      Headquarters in Bahrain has been targeted multiple times, highlighting the increasing
+      vulnerability of US military installations amid the ongoing conflict.
+    published: '2026-03-06T05:53:55+00:00'
+  - title: The Failure of US and Israeli Air Defense
+    url: https://sonar21.com/the-failure-of-us-and-israeli-air-defense/
+    text: 'AN-FPS-132 While the US and Israel are delivering some punishing blows in
+      Iran, Iran continues to successfully attack US military and intelligence targets
+      in the Persian Gulf countries and is pummeling Israel. Since February 28, 2026,
+      amid escalating US-Israeli strikes on Iran and Iranian retaliatory attacks (including
+      drone and missile strikes on US diplomatic facilities and regional bases), the
+      US State Department has ordered the closure or indefinite suspension of operations
+      at several US embassies in the Persian Gulf and broader Middle East region. These
+      include: Saudi Arabia (U.S. Embassy in Riyadh): Closed after Iranian drone attacks
+      targeted the compound on March 2–3, 2026. The embassy urged Americans to shelter
+      in place and avoid the area. Kuwait (U.S. Embassy in Kuwait City): Closed following
+      an Iranian drone/missile attack on or near the facility (reported March 2–3, 2026).
+      Operations halted “until further notice.” Lebanon (U.S. Embassy in Beirut): Closed
+      on March 3, 2026, due to ongoing regional tensions and threats (though Lebanon
+      is not strictly Persian Gulf, it’s often grouped in Middle East alerts). Operations
+      at the US embassies in Doha, Dubai and Manama also have been dramatically scaled
+      down. The videos posted during the last five days show Iranian missiles and drones
+      hitting targets in the six Gulf countries virtually unopposed. The real damage
+      is being done to US military bases/installations in the region. The following
+      US military bases/installations in the Persian Gulf (or directly associated with
+      Gulf states) have been confirmed or reported as attacked/hit since February 28,
+      based on US military statements, satellite imagery analyses (e.g., Planet Labs),
+      media reports (NYT, CNN, Al Jazeera, Stars and Stripes), and official confirmations
+      from host nations. Here is how the Western media sources are spinning these attacks:
+      Naval Support Activity Bahrain / U.S. Navy Fifth Fleet Headquarters (Manama, Bahrain)
+      — Targeted multiple times with missiles and drones. Damage included destruction
+      of several structures, radomes (radar domes), satellite communications terminals,
+      and warehouses. Bahrain confirmed attacks on the base, with explosions and smoke
+      reported. Al Udeid Air Base (near Doha, Qatar) — The largest US military facility
+      in the Middle East. Hit by Iranian missiles (at least one confirmed impact, with
+      others intercepted). Qatar reported interceptions of dozens of missiles/drones
+      targeting the base, with minor damage in some cases. No major casualties reported
+      from these strikes. Ali Al Salem Air Base (Kuwait) — Struck by ballistic missiles
+      and drones. Satellite imagery showed damage to buildings and structures. Kuwait
+      confirmed interceptions and hits; part of multiple strikes across Kuwaiti sites
+      hosting US troops. Camp Arifjan (Kuwait) — Attacked with drones/missiles, resulting
+      in US casualties (at least three service members killed and several wounded in
+      one incident). Low-resolution imagery indicated damage. Camp Buehring (Kuwait)
+      — Reported hits/damage from projectiles, per satellite analysis and US reports.
+      Al Dhafra Air Base (Abu Dhabi, UAE) — Targeted with missiles/drones. Satellite
+      imagery showed damage to buildings (at least three–four structures hit between
+      February 28 and March 1). UAE defenses intercepted many incoming threats. Prince
+      Sultan Air Base (Al Kharj, Saudi Arabia) — Bombarded by Iranian ballistic missiles.
+      Saudi defenses intercepted many, but reports confirmed attacks on the base (roughly
+      40 miles from Riyadh). The damage that is being inflicted is far greater and more
+      severe than the Pentagon is reporting. The most damaging result of the Iranian
+      attacks has been the destruction of critical radar systems that are supposed to
+      provide an early warning of Iranian missile launches. These include: The AN/FPS-132
+      Block 5 Upgraded Early Warning Radar (UEWR) at or near Al Udeid Air Base (Qatar)
+      — Valued at approximately $1.1 billion. This is the largest and most critical
+      US-operated ballistic missile early-warning radar in the Middle East, with a detection
+      range of up to 5,000 km for launches. The AN/TPY-2 Radar (associated with THAAD
+      system) at Al-Ruwais Industrial City (UAE) — Estimated value $500 million. This
+      forward-based X-band radar provides precise tracking for terminal high-altitude
+      missile defense. Iran claimed destruction, and open-source satellite imagery (Planet
+      Labs) shows a direct hit. Radome (radar dome) and satellite communications terminals
+      at Naval Support Activity Bahrain / US Fifth Fleet HQ (Bahrain) — A verified Iranian
+      drone strike hit a radome (protective cover for radar/satcom antennas) on February
+      28–March 1. Satellite imagery (NYT, Planet Labs) shows destruction of at least
+      two large radomes/SATCOM terminals and related structures. These are sophisticated
+      but not standalone “early-warning radars” like the AN/FPS-132; they support naval
+      ops and C2 (command and control). The Al Dhafra Air Base, a major U.S. Air Force
+      hub in Abu Dhabi hosting the 380th Expeditionary Wing and advanced aircraft, was
+      targeted by Iranian ballistic missiles and drones in late February–early March
+      2026 waves. Satellite imagery and multiple analyses confirm that a key US radar
+      system at Muwaffaq Salti Air Base in Jordan was heavily damaged or destroyed during
+      Iran’s retaliatory strikes in late February–early March 2026. The radar in question
+      is an AN/TPY-2 (Army Navy/Transportable Radar Surveillance and Control Model 2),
+      a high-resolution X-band phased-array radar used with the THAAD (Terminal High
+      Altitude Area Defense) missile battery. This radar is designed for detecting,
+      tracking, and discriminating ballistic missiles (including in terminal phase)
+      and is one of the most sophisticated US forward-deployed missile defense sensors.
+      Iran’s destruction of the AN/TPY-2 and the AN/FPS-132 radars has eliminated the
+      early warning capability of the US military in the region. Prior to their destruction,
+      Israel and the US would have a 15 to 30 minute warning when a missile was launched
+      from Iran and could, in theory, take counter measures and prepare their air defense
+      systems. Videos from Israel during the last two days show that 90% of Iranian
+      missiles are hitting their targets without being intercepted. The unknown variable
+      is how many missiles does Iran still have in its inventory. The US is betting
+      that Iran is running out of missiles. I believe that Iran’s stockpile is far larger
+      and more robust. We’ll see how things develop as the war enters its second week.
+      Colonel Wilkerson and I discussed the war today with Danny Haiphong: I also had
+      a great conversation, as always, with Glenn Diesen: And I ended the afternoon
+      talking with my friend, Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Despite significant US and Israeli military actions against
+      Iran, the country continues to effectively target US military and intelligence
+      assets in the Persian Gulf, leading to the closure of several US embassies in
+      the region due to escalating Iranian attacks.
+    paragraph_summary: Since February 28, 2026, escalating military tensions between
+      the US and Israel against Iran have led to significant retaliatory attacks by
+      Iran, particularly targeting US military and intelligence facilities in the Persian
+      Gulf region. In response to these threats, the US State Department has closed
+      or suspended operations at several embassies, including those in Saudi Arabia,
+      Kuwait, and Lebanon, due to Iranian drone and missile strikes. The situation has
+      resulted in a dramatic reduction of operations at US embassies in Doha, Dubai,
+      and Manama, as Iranian missiles and drones have been reported to hit various targets
+      in the Gulf countries with little opposition. Notably, the US Navy's Fifth Fleet
+      Headquarters in Bahrain has been targeted multiple times, highlighting the increasing
+      vulnerability of US military installations amid the ongoing conflict.
+    published: '2026-03-06T05:53:55+00:00'
+  - title: 'Paula White: Trump’s Zionist Pastor and Israel’s Evangelical Power Broker'
+    url: https://sonar21.com/paula-white-trumps-zionist-pastor-and-israels-evangelical-power-broker/
+    text: 'Last year, I wrote an article about Cornerstone Church’s Zionist Pastor John
+      Hagee, focusing on his prosperity gospel teachings, his support for modern Israel,
+      and his emphasis on ‘end times’ prophecy. Another well-known Zionist pastor is
+      Paula White, who serves as President Trump’s close spiritual advisor . Her background
+      has often attracted tabloid attention. Paula White and her second husband, Randy
+      White, started Without Walls International Church, a large Pentecostal church
+      in Tampa, Florida. At its height, the church had over 20,000 members and was the
+      seventh-largest in the country. Later, the church struggled with financial problems,
+      which resulted in bankruptcy, the sale of the property, and significant downsizing.
+      Allegations of infidelity involving the Whites were reported, and the couple subsequently
+      divorced. Following the divorce, White and married televangelist Benny Hinn were
+      photographed by The National Enquirer leaving a hotel in Rome while holding hands
+      . This led to accusations of an affair. In February 2011, Strang Communications,
+      Hinn’s publisher, cited a breach of a morality clause in his contract and alleged
+      an “inappropriate relationship” with White. Hinn agreed to repay a $300,000 book
+      advance but did not fully satisfy this obligation. White married Jonathan Cain,
+      the keyboardist for the rock band Journey, in a private ceremony in 2015. It was
+      her third marriage and Cain’s fourth. Soon after, she announced their marriage
+      on social media, calling it a joyful, God-ordained union. She began using the
+      hyphenated name White-Cain, which is unusual in evangelical circles. In 2011,
+      White gained control of New Destiny Christian Center after appointed to succeed
+      the deceased Zachery Tims as its senior pastor. Around this time, White said she
+      had a stroke, which led to an addiction to prescription medication. She described
+      this period as a “midlife meltdown” with family issues, medical conditions, compassion
+      fatigue (secondary traumatic stress), and other difficulties. She resigned in
+      2019, and the church was renamed City of Destiny with her son and his wife as
+      senior pastors. She set up Paula White Ministries as an auxiliary or subsidiary-like
+      group called City of Destiny to maintain its tax-exempt status without filing
+      full IRS Form 990 disclosures . In essence, tax evasion. She uses this entity
+      for branding, TV broadcasts, books, online content, global outreach, donations,
+      and partnerships to support her charismatic ministry and prosperity gospel teachings.
+      Critics argue that donations to Paula White Ministries fund Paula White-Cain’s
+      lavish lifestyle with a $3.5 million Trump Tower condo, a $2.6 million Tampa home,
+      private jet charters, family salaries, and other extravagances. They also call
+      her ministry blasphemous and based on theatrics. Marco Rubio: "Iran is run by
+      lunatics, religious fanatic lunatics" Paula White, Trump’s religious fanatic lunatic
+      ‘Spiritual Advisor’… *You need to see the entire clip just to appreciate how batshit
+      fucking crazy she is. pic.twitter.com/6X8ITSllhc — Canada Hates Trump (@AntiTrumpCanada)
+      March 4, 2026 In 2002, while flipping through TV channels, Trump came across White
+      preaching on her televangelism show. He was impressed by her sermon about the
+      “value of vision.” He later said she had “fire” and called her “fantastic” with
+      the “it factor.” Trump has appeared on her TV show and faith summits after their
+      initial contact. During an interview with Frontline PBS, White-Cain said that
+      Trump’s 2016 presidential campaign began with a six-hour prayer meeting at Trump
+      Tower. In February 2025, Trump appointed White-Cain as a special government employee
+      and senior advisor to lead the new White House Faith Office. She will encourage
+      faith-based participation in government, promote the prosperity gospel, and advocate
+      for Israel. This appointment builds on her prior White House experience and demonstrates
+      her direct access to the president as a “spiritual guru.” To say no to President
+      Trump would be saying no to God. – Paul White-Cain Last fall, The Jerusalem Post
+      placed her at number nine on its list of “10 Christian Zionists.” The paper noted
+      that she “integrates her biblical teachings with a call to support Israel,” presents
+      U.S. policy as prophetic fulfillment, leads pilgrimages to the Holy Land, and
+      features Israeli leaders, including Netanyahu , on her broadcasts. Bob Bishop
+      is a forensic investigator and a retired CPA .'
+    one_sentence_summary: The article discusses the controversial backgrounds and financial
+      struggles of prominent Zionist pastors John Hagee and Paula White, highlighting
+      White's close ties to Donald Trump and her tumultuous personal life, including
+      her divorce and rumored relationship with Benny Hinn.
+    paragraph_summary: The article discusses the controversial figures of Zionist pastors
+      John Hagee and Paula White, highlighting their backgrounds and challenges. Hagee
+      is known for his prosperity gospel teachings and strong support for Israel, while
+      White, who has served as a spiritual advisor to President Trump, co-founded Without
+      Walls International Church, which faced financial difficulties and allegations
+      of infidelity during her marriage to Randy White. Following their divorce, White
+      was linked to televangelist Benny Hinn, leading to scandalous accusations. In
+      2015, she married Jonathan Cain of Journey, adopting the hyphenated name White-Cain.
+      White later became the senior pastor of New Destiny Christian Center and experienced
+      personal struggles, including health issues and addiction, which she described
+      as a "midlife meltdown."
+    published: '2026-03-05T14:09:24+00:00'
+  - title: 'Paula White: Trump’s Zionist Pastor and Israel’s Evangelical Power Broker'
+    url: https://sonar21.com/paula-white-trumps-zionist-pastor-and-israels-evangelical-power-broker/
+    text: 'Last year, I wrote an article about Cornerstone Church’s Zionist Pastor John
+      Hagee, focusing on his prosperity gospel teachings, his support for modern Israel,
+      and his emphasis on ‘end times’ prophecy. Another well-known Zionist pastor is
+      Paula White, who serves as President Trump’s close spiritual advisor . Her background
+      has often attracted tabloid attention. Paula White and her second husband, Randy
+      White, started Without Walls International Church, a large Pentecostal church
+      in Tampa, Florida. At its height, the church had over 20,000 members and was the
+      seventh-largest in the country. Later, the church struggled with financial problems,
+      which resulted in bankruptcy, the sale of the property, and significant downsizing.
+      Allegations of infidelity involving the Whites were reported, and the couple subsequently
+      divorced. Following the divorce, White and married televangelist Benny Hinn were
+      photographed by The National Enquirer leaving a hotel in Rome while holding hands
+      . This led to accusations of an affair. In February 2011, Strang Communications,
+      Hinn’s publisher, cited a breach of a morality clause in his contract and alleged
+      an “inappropriate relationship” with White. Hinn agreed to repay a $300,000 book
+      advance but did not fully satisfy this obligation. White married Jonathan Cain,
+      the keyboardist for the rock band Journey, in a private ceremony in 2015. It was
+      her third marriage and Cain’s fourth. Soon after, she announced their marriage
+      on social media, calling it a joyful, God-ordained union. She began using the
+      hyphenated name White-Cain, which is unusual in evangelical circles. In 2011,
+      White gained control of New Destiny Christian Center after appointed to succeed
+      the deceased Zachery Tims as its senior pastor. Around this time, White said she
+      had a stroke, which led to an addiction to prescription medication. She described
+      this period as a “midlife meltdown” with family issues, medical conditions, compassion
+      fatigue (secondary traumatic stress), and other difficulties. She resigned in
+      2019, and the church was renamed City of Destiny with her son and his wife as
+      senior pastors. She set up Paula White Ministries as an auxiliary or subsidiary-like
+      group called City of Destiny to maintain its tax-exempt status without filing
+      full IRS Form 990 disclosures . In essence, tax evasion. She uses this entity
+      for branding, TV broadcasts, books, online content, global outreach, donations,
+      and partnerships to support her charismatic ministry and prosperity gospel teachings.
+      Critics argue that donations to Paula White Ministries fund Paula White-Cain’s
+      lavish lifestyle with a $3.5 million Trump Tower condo, a $2.6 million Tampa home,
+      private jet charters, family salaries, and other extravagances. They also call
+      her ministry blasphemous and based on theatrics. Marco Rubio: "Iran is run by
+      lunatics, religious fanatic lunatics" Paula White, Trump’s religious fanatic lunatic
+      ‘Spiritual Advisor’… *You need to see the entire clip just to appreciate how batshit
+      fucking crazy she is. pic.twitter.com/6X8ITSllhc — Canada Hates Trump (@AntiTrumpCanada)
+      March 4, 2026 In 2002, while flipping through TV channels, Trump came across White
+      preaching on her televangelism show. He was impressed by her sermon about the
+      “value of vision.” He later said she had “fire” and called her “fantastic” with
+      the “it factor.” Trump has appeared on her TV show and faith summits after their
+      initial contact. During an interview with Frontline PBS, White-Cain said that
+      Trump’s 2016 presidential campaign began with a six-hour prayer meeting at Trump
+      Tower. In February 2025, Trump appointed White-Cain as a special government employee
+      and senior advisor to lead the new White House Faith Office. She will encourage
+      faith-based participation in government, promote the prosperity gospel, and advocate
+      for Israel. This appointment builds on her prior White House experience and demonstrates
+      her direct access to the president as a “spiritual guru.” To say no to President
+      Trump would be saying no to God. – Paul White-Cain Last fall, The Jerusalem Post
+      placed her at number nine on its list of “10 Christian Zionists.” The paper noted
+      that she “integrates her biblical teachings with a call to support Israel,” presents
+      U.S. policy as prophetic fulfillment, leads pilgrimages to the Holy Land, and
+      features Israeli leaders, including Netanyahu , on her broadcasts. Bob Bishop
+      is a forensic investigator and a retired CPA .'
+    one_sentence_summary: The article discusses the controversial backgrounds and financial
+      struggles of prominent Zionist pastors John Hagee and Paula White, highlighting
+      White's close ties to Donald Trump and her tumultuous personal life, including
+      her divorce and rumored relationship with Benny Hinn.
+    paragraph_summary: The article discusses the controversial figures of Zionist pastors
+      John Hagee and Paula White, highlighting their backgrounds and challenges. Hagee
+      is known for his prosperity gospel teachings and strong support for Israel, while
+      White, who has served as a spiritual advisor to President Trump, co-founded Without
+      Walls International Church, which faced financial difficulties and allegations
+      of infidelity during her marriage to Randy White. Following their divorce, White
+      was linked to televangelist Benny Hinn, leading to scandalous accusations. In
+      2015, she married Jonathan Cain of Journey, adopting the hyphenated name White-Cain.
+      White later became the senior pastor of New Destiny Christian Center and experienced
+      personal struggles, including health issues and addiction, which she described
+      as a "midlife meltdown."
+    published: '2026-03-05T14:09:24+00:00'
+  - title: The Limits of US and Israeli Air Power
+    url: https://sonar21.com/the-limits-of-us-and-israeli-air-power/
+    text: 'The West, including Israel, refuses to learn from history with regards to
+      the use of air power to achieve regime change. The decision of Israel and the
+      United States to attack Iran on February 28 and force a change of regime is a
+      colossal failure. The murder of the Ayatollah Khamenei, along with the Minister
+      of Defense and the head of the IRGC, and the killing of 165 school girls aged
+      6 to 12, instead has galvanized the Iranian public to unite around the Islamic
+      Republic and eliminated the chance that there will be a negotiated settlement
+      to the war on terms acceptable to the West. Iran refuses to surrender to the US
+      and Israel and is fully committed to removing the US from the Persian Gulf region
+      and devastating Israel. Donald Trump, at the urging of his Zionist cheerleaders,
+      broke his promise to his base to not start an unnecessary war and chose instead
+      to start a war that is bleeding US offensive capabilities. Trump, through ignorance
+      or hubris, bet his presidency on the belief that a combination of air and naval
+      power could effect regime change. But history shows that air power alone has never
+      toppled a determined regime. Let’s look at seven examples where the US or Israel
+      tried and failed to achieve military victory by relying on air strikes IRAQ 2003
+      : In March 2003 the United States launched one of the most intense air campaigns
+      in history. Over the first three weeks, coalition aircraft flew more than 20,000
+      sorties and dropped more than 29,000 munitions. “Shock and Awe” was designed to
+      paralyze Saddam Hussein’s regime from the air, break its will to fight, and trigger
+      internal collapse. Yet air power alone did not topple Saddam. Regime change required
+      a rapid ground invasion by US.and British forces that reached Baghdad in just
+      21 days. George W. Bush’s “Mission Accomplished” speech on May 1, 2003, aboard
+      the USS Abraham Lincoln declared the end of “major combat operations” in Iraq,
+      just six weeks after the US-led invasion, which began on March 20, 2003. Despite
+      this optimistic proclamation, the broader conflict—encompassing insurgency, sectarian
+      violence, occupation, and counter-insurgency efforts—continued for more than eight
+      years afterward. ISRAEL 2023 to Present : Israel possesses one of the world’s
+      most advanced militaries: unmatched air superiority, precision-guided munitions,
+      real-time intelligence from drones and satellites, layered missile defenses, elite
+      special forces, and the unconditional backing of the United States. Hamas, by
+      contrast, is a non-state terrorist organization with no air force, no navy, no
+      tanks, and a GDP per capita roughly 1/50th of Israel’s. On paper, the outcome
+      of any conventional war should be swift and total. Yet more than two years after
+      the October 7, 2023 massacre that killed 1,200 Israelis and took 250 hostages,
+      Hamas remains a functioning military and political force in Gaza. Afghanistan
+      2001 to 2021 : The United States entered Afghanistan in October 2001 with total
+      air dominance, the world’s most advanced special forces, precision-guided weapons,
+      NATO allies, and a clear initial mission: destroy al-Qaeda and remove the Taliban
+      regime that had sheltered it. By December 2001 the Taliban had been routed from
+      power. Twenty years later, in August 2021, the same Taliban rolled back into Kabul
+      in pickup trucks as the US-backed government collapsed in days. Yemen — Operation
+      Rough Rider March 2025 : Operation Rough Rider — the US air and naval campaign
+      against Houthi targets in Yemen — began on March 15, 2025, and officially ended
+      on May 6, 2025. Over 53 days the United States fired more than 1,000 strikes,
+      expended over $1 billion in munitions, deployed two aircraft carrier strike groups,
+      and lost several MQ-9 drones and other assets. The stated objective was clear:
+      restore freedom of navigation in the Red Sea and Gulf of Aden by stopping Houthi
+      attacks on commercial shipping. Yet more than ten months later, in March 2026,
+      the Red Sea remains a high-risk zone. Major shipping companies continue to reroute
+      around Africa, insurance premiums remain elevated, and occasional Houthi attacks
+      or credible threats persist. The United States, with unmatched naval power and
+      precision strike capability, did not achieve its core goal. In this list of failures
+      we should also include the following: In Kosovo (1999), 78 days of NATO bombing
+      forced Serbia to withdraw from Kosovo but did not remove Slobodan Milošević from
+      power; he fell later due to internal politics. In Libya (2011), seven months of
+      NATO air strikes helped rebels overthrow Gaddafi only because ground rebel forces
+      advanced on Tripoli. North Vietnam endured years of Rolling Thunder and Linebacker
+      bombing without regime change. With the exception of North Vietnam, Iran possesses
+      more military capability than any of the other cases cited above. When this war
+      is over — with Iran still intact — the US will have depleted critical military
+      supplies that will not be replaced for years and Israel’s economic and military
+      infrastructure will be decimated. Why? First, the US started a war without an
+      industrial base that could ramp up production of air defense and attack missiles
+      that are being rapidly depleted. Compounding the production challenge is the lack
+      of  critical rare earth minerals needed to produce weapons and combat aircraft…
+      China controls those and has refused to export them to the US. Second, the US
+      and Israel failed to accurately assess Iran’s ability to deploy and launch thousands
+      of drones and ballistic and cruise missiles. Here’s the latest video showing the
+      damage Iran is inflicting on Tel Aviv. Although Israeli censors are working feverishly
+      to hide the damage being done — and I guarantee you that similar hits are pummeling
+      Haifa and Israeli military and intelligence installations across Israel — the
+      truth is leaking out. Stas Krapivnik and I discussed the military operation: Danny
+      Davis and I focused on the limits of air power and the depletion of US air defense
+      missiles: My Swedish buddy, Hakan Bergmark, had a brief chat about the state of
+      the war in the Middle East: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The West's decision to attack Iran in an attempt to force
+      regime change has backfired, uniting the Iranian public against the US and Israel
+      and undermining prospects for a negotiated settlement, while also exposing the
+      failures of past military strategies.
+    paragraph_summary: The article critiques the West's, particularly Israel's and the
+      United States', reliance on air power for regime change, specifically referencing
+      the failed attack on Iran on February 28, which resulted in significant casualties
+      and instead unified the Iranian public against the West. It argues that such military
+      strategies, exemplified by the U.S. invasion of Iraq in 2003, have historically
+      proven ineffective in achieving their goals without ground forces, as demonstrated
+      by the inability of air strikes alone to topple Saddam Hussein's regime. The author
+      contends that this pattern reflects a broader misunderstanding of military history
+      and strategy, particularly in the context of Iran's determination to resist U.S.
+      influence in the region.
+    published: '2026-03-05T05:22:53+00:00'
+  - title: The Limits of US and Israeli Air Power
+    url: https://sonar21.com/the-limits-of-us-and-israeli-air-power/
+    text: 'The West, including Israel, refuses to learn from history with regards to
+      the use of air power to achieve regime change. The decision of Israel and the
+      United States to attack Iran on February 28 and force a change of regime is a
+      colossal failure. The murder of the Ayatollah Khamenei, along with the Minister
+      of Defense and the head of the IRGC, and the killing of 165 school girls aged
+      6 to 12, instead has galvanized the Iranian public to unite around the Islamic
+      Republic and eliminated the chance that there will be a negotiated settlement
+      to the war on terms acceptable to the West. Iran refuses to surrender to the US
+      and Israel and is fully committed to removing the US from the Persian Gulf region
+      and devastating Israel. Donald Trump, at the urging of his Zionist cheerleaders,
+      broke his promise to his base to not start an unnecessary war and chose instead
+      to start a war that is bleeding US offensive capabilities. Trump, through ignorance
+      or hubris, bet his presidency on the belief that a combination of air and naval
+      power could effect regime change. But history shows that air power alone has never
+      toppled a determined regime. Let’s look at seven examples where the US or Israel
+      tried and failed to achieve military victory by relying on air strikes IRAQ 2003
+      : In March 2003 the United States launched one of the most intense air campaigns
+      in history. Over the first three weeks, coalition aircraft flew more than 20,000
+      sorties and dropped more than 29,000 munitions. “Shock and Awe” was designed to
+      paralyze Saddam Hussein’s regime from the air, break its will to fight, and trigger
+      internal collapse. Yet air power alone did not topple Saddam. Regime change required
+      a rapid ground invasion by US.and British forces that reached Baghdad in just
+      21 days. George W. Bush’s “Mission Accomplished” speech on May 1, 2003, aboard
+      the USS Abraham Lincoln declared the end of “major combat operations” in Iraq,
+      just six weeks after the US-led invasion, which began on March 20, 2003. Despite
+      this optimistic proclamation, the broader conflict—encompassing insurgency, sectarian
+      violence, occupation, and counter-insurgency efforts—continued for more than eight
+      years afterward. ISRAEL 2023 to Present : Israel possesses one of the world’s
+      most advanced militaries: unmatched air superiority, precision-guided munitions,
+      real-time intelligence from drones and satellites, layered missile defenses, elite
+      special forces, and the unconditional backing of the United States. Hamas, by
+      contrast, is a non-state terrorist organization with no air force, no navy, no
+      tanks, and a GDP per capita roughly 1/50th of Israel’s. On paper, the outcome
+      of any conventional war should be swift and total. Yet more than two years after
+      the October 7, 2023 massacre that killed 1,200 Israelis and took 250 hostages,
+      Hamas remains a functioning military and political force in Gaza. Afghanistan
+      2001 to 2021 : The United States entered Afghanistan in October 2001 with total
+      air dominance, the world’s most advanced special forces, precision-guided weapons,
+      NATO allies, and a clear initial mission: destroy al-Qaeda and remove the Taliban
+      regime that had sheltered it. By December 2001 the Taliban had been routed from
+      power. Twenty years later, in August 2021, the same Taliban rolled back into Kabul
+      in pickup trucks as the US-backed government collapsed in days. Yemen — Operation
+      Rough Rider March 2025 : Operation Rough Rider — the US air and naval campaign
+      against Houthi targets in Yemen — began on March 15, 2025, and officially ended
+      on May 6, 2025. Over 53 days the United States fired more than 1,000 strikes,
+      expended over $1 billion in munitions, deployed two aircraft carrier strike groups,
+      and lost several MQ-9 drones and other assets. The stated objective was clear:
+      restore freedom of navigation in the Red Sea and Gulf of Aden by stopping Houthi
+      attacks on commercial shipping. Yet more than ten months later, in March 2026,
+      the Red Sea remains a high-risk zone. Major shipping companies continue to reroute
+      around Africa, insurance premiums remain elevated, and occasional Houthi attacks
+      or credible threats persist. The United States, with unmatched naval power and
+      precision strike capability, did not achieve its core goal. In this list of failures
+      we should also include the following: In Kosovo (1999), 78 days of NATO bombing
+      forced Serbia to withdraw from Kosovo but did not remove Slobodan Milošević from
+      power; he fell later due to internal politics. In Libya (2011), seven months of
+      NATO air strikes helped rebels overthrow Gaddafi only because ground rebel forces
+      advanced on Tripoli. North Vietnam endured years of Rolling Thunder and Linebacker
+      bombing without regime change. With the exception of North Vietnam, Iran possesses
+      more military capability than any of the other cases cited above. When this war
+      is over — with Iran still intact — the US will have depleted critical military
+      supplies that will not be replaced for years and Israel’s economic and military
+      infrastructure will be decimated. Why? First, the US started a war without an
+      industrial base that could ramp up production of air defense and attack missiles
+      that are being rapidly depleted. Compounding the production challenge is the lack
+      of  critical rare earth minerals needed to produce weapons and combat aircraft…
+      China controls those and has refused to export them to the US. Second, the US
+      and Israel failed to accurately assess Iran’s ability to deploy and launch thousands
+      of drones and ballistic and cruise missiles. Here’s the latest video showing the
+      damage Iran is inflicting on Tel Aviv. Although Israeli censors are working feverishly
+      to hide the damage being done — and I guarantee you that similar hits are pummeling
+      Haifa and Israeli military and intelligence installations across Israel — the
+      truth is leaking out. Stas Krapivnik and I discussed the military operation: Danny
+      Davis and I focused on the limits of air power and the depletion of US air defense
+      missiles: My Swedish buddy, Hakan Bergmark, had a brief chat about the state of
+      the war in the Middle East: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The West's decision to attack Iran in an attempt to force
+      regime change has backfired, uniting the Iranian public against the US and Israel
+      and undermining prospects for a negotiated settlement, while also exposing the
+      failures of past military strategies.
+    paragraph_summary: The article critiques the West's, particularly Israel's and the
+      United States', reliance on air power for regime change, specifically referencing
+      the failed attack on Iran on February 28, which resulted in significant casualties
+      and instead unified the Iranian public against the West. It argues that such military
+      strategies, exemplified by the U.S. invasion of Iraq in 2003, have historically
+      proven ineffective in achieving their goals without ground forces, as demonstrated
+      by the inability of air strikes alone to topple Saddam Hussein's regime. The author
+      contends that this pattern reflects a broader misunderstanding of military history
+      and strategy, particularly in the context of Iran's determination to resist U.S.
+      influence in the region.
+    published: '2026-03-05T05:22:53+00:00'
+  - title: Jacques Baud is a Person of Valor and he is Fighting Back – UBS is Blocking
+      His Accounts
+    url: https://sonar21.com/jacques-baud-is-a-person-of-valor-and-he-is-fighting-back-ubs-is-blocking-his-accounts/
+    text: 'Jacques Baud’s odyssey continues. A person of valor fights back against persecution
+      and slander. In response, UBS freezes his accounts without legal basis. By Peter
+      Hanseler via ForumGeopolitica.com Introduction The story of Jacques Baud is also
+      a reminder of what can happen when you express an opinion that differs from that
+      of the EU, an entity that was created to unite Europe but has developed into a
+      dictatorial, illegal hydra that not only excludes dissidents, but also seeks to
+      destroy them. The only thing Jacques Baud can be accused of is that he came to
+      different conclusions in his analysis—for example, regarding the war in Ukraine.
+      He has never favored one side of any conflict. The fact that his assessment is
+      proving increasingly accurate is of little help to him and may even be detrimental.
+      The opinion of the EU and its members, which is exhausted in warmongering and
+      hatred towards Russia, is binding for every journalist, otherwise the consequences
+      are cruel, and cruel is the right word for what is happening to Jacques Baud.
+      We summarize what has happened since Jacques Baud was sanctioned on December 15,
+      2025, how he is defending himself, and what new problems he is facing—problems
+      that, ironically, originate from his own bank in Switzerland. Jacques Baud – a
+      Person of Valor I have been following Jacques Baud’s work for years. His analyses
+      are characterized not only by their professionalism, but also by an objectivity
+      that most other analysts lack. His objectivity is not something he claims to have,
+      he lives it and refrains from making appearances, for example on Russian television
+      stations, which would very much like to have him as an analyst. In doing so, he
+      accepts that his reach is smaller than it would be with such appearances—RT, for
+      example, can be received by over 700 million people around the world—but not in
+      the EU. Baud does not claim to be objective, he is objective and lives it. His
+      objectivity means that he has never taken sides. In the current Ukraine conflict,
+      which he has been following for years, he has never spoken out for one side or
+      the other, either explicitly or implicitly. Baud does not speak publicly about
+      his decade-long work prior to his retirement. When I had the opportunity to meet
+      Jacques Baud a few weeks ago, we did not conduct an interview. People do not open
+      up during interviews because interviews are intended for the public. Our conversation
+      was not intended for the public; we simply wanted to get to know each other better.
+      I quickly realized that behind the objective analyst was a man who had dedicated
+      his entire life to peace. He served his homeland, Switzerland, his entire life.
+      He was a colonel in the general staff, but not as a career officer, rather as
+      a militia officer who gave thousands of days to Switzerland without fanfare, like
+      many others, a great gift to Switzerland. His professional career paints a picture
+      of a man who always worked for the good of the people of this world. His missions
+      in many countries, especially in Africa, were extremely dangerous. He led people
+      through minefields, real minefields that can kill if you take one wrong step—that
+      takes courage. In civil wars, he sat down with parties that had previously threatened
+      his life. He describes his life as exciting. That is a colossal understatement
+      for a life that can rightly be compared to that of Indiana Jones. Always in the
+      service of good, never in the foreground, always in the background, where courageous,
+      even heroic actions can improve the fate of many people. However, his successful
+      work for Switzerland and the world also seems to have generated envy. Envy that
+      he led such an exciting life. This envy did not come from Brussels. It arose in
+      his home country among colleagues in Bern. Jacques Baud is affected by these developments,
+      by a life that has been taken away from him, a life that is currently defined
+      by frozen accounts, travel bans, and a host of lawyers. He told me that he is
+      not bitter, because despite the hellish injustice that has befallen him, he knows
+      that he has done nothing wrong. What lifts his spirits is the enormous support
+      he has received from old colleagues, friends, and even people he did not know
+      before who have offered their support. He is truly a fighter and draws his energy
+      from what is right. Jacques Baud is a person of valor who should be treated with
+      the utmost respect; no one deserves less to become a pawn in Brussels’ propaganda
+      games, supported by former jealous colleagues in Bern. Jacques Baud Fights Back
+      In the battle against the Hydra in Brussels, two law firms are fighting for Jacques
+      Baud, one in Paris and one in Vienna. Both specialize in opposing sanctions imposed
+      by the Brussels power apparatus. The fight is by no means fair. The sanctions
+      imposed were not preceded by any proceedings under the rule of law. Jacques Baud
+      was not given the opportunity to respond to the allegations, as is an irrefutable
+      principle in any civilized country. The EU is therefore not a power that submits
+      to the most basic principles of law. The EU subjugates fairness and humanity and
+      destroys them. The pathologically Russophobic Kaja Kallas, whose stated goal is
+      to divide Russia, is accepting proposals from member states that want to silence
+      journalists. “The breakup of Russia into small nations is not a bad thing.” Kaja
+      Kallas, EU High Representative for Foreign Affairs, 2023 These are added to a
+      list and sanctioned with justifications that would not even be sufficient to issue
+      a parking ticket under any rule of law. Here is the official statement from the
+      Council of the European Union dated December 15, 2025: Jacques Baud, a former
+      Swiss army colonel and strategic analyst, is a regular guest on pro-Russian television
+      and radio programmes. He acts as a mouthpiece for pro-Russian propaganda and makes
+      conspiracy theories, for example accusing Ukraine of orchestrating its own invasion
+      in order to join NATO. Therefore, Jacques Baud is responsible for, implementing
+      or supporting actions or policies attributable to the Government of the Russian
+      Federation which undermine or threaten stability or security in a third country
+      (Ukraine) by engaging in the use of information manipulation and interference.
+      COUNCIL DECISION (CFSP) 2025/2572 of 15 December 2025 amending Decision (CFSP)
+      2024/2643 concerning restrictive measures in view of Russia’s destabilising activities
+      Jacques Baud has never appeared on Russian television or radio. This “justification”
+      is based on the so-called “working papers,” documents that were compiled as evidence
+      for the sanctions by the EU. These “working papers” do not contain a single document
+      that would substantiate the allegations made in the decision. The working papers
+      contain newspaper articles from leading media outlets claiming that Jacques Baud
+      engages in “propaganda” – nothing more. Jacques Baud and his lawyers must now
+      defend themselves against allegations that are not substantiated. In addition,
+      there is a reversal of the burden of proof in this case: he must prove that he
+      is innocent. Imagine if you had to prove that you had never parked illegally in
+      the last 10 years – impossible. In criminal and civil law, the principle of “
+      negativa non sunt probanda ” applies, meaning “negative facts do not have to be
+      proven,” precisely to prevent this impossible situation. This no longer applies
+      in the EU. Jacques Baud Fights Back Against Defamation in Switzerland Of all people,
+      it was a senior member of Federal Councilor Jans’ staff who attacked Jacques Baud
+      in the most despicable manner. On December 17, 2025, he published the following
+      smear campaign against Jacques Baud on his X account. Jacques Baud ist ein übler
+      Verschwörungstheoretiker, der Täter-Opfer-Umkehr betreibt und wider jedes bessere
+      Wissen behauptet, die Ukraine habe den Angriffskrieg, den Russland gegen sie führt,
+      selbst herbeigeführt. Baud ist ein Sprachrohr Putins. — Marc Schinzel (@MarcSchinzel)
+      December 17, 2025 Translation: “Jacques Baud is a nasty conspiracy theorist who
+      reverses the roles of perpetrator and victim and claims, against all better judgment,
+      that Ukraine itself provoked the war of aggression that Russia is waging against
+      it. Baud is Putin’s mouthpiece.” The author of this post is Marc Schinzel, who
+      probably thought he could continue to kick Jacques Baud while he was down, since
+      Baud couldn’t defend himself. We all know people like this from our school days
+      – bullies, cowardly loudmouths who always pick on the weak. This bully is a close
+      associate of Federal Councilor Jans, who commented on Jacques Baud with a condescending
+      grin at the press conference. The Weltwoche : “SP Federal Councilor Beat Jans
+      shows little sympathy for Jacques Baud. The Federal Council did not discuss the
+      EU sanctions against Swiss citizens at its meeting on Friday, said the Minister
+      of Justice in response to a question from the Weltwoche. When asked whether he
+      could still advise Swiss citizens to travel to the EU, Jans had to laugh at first.
+      Finally, he replied, “Yes.” The Baud case is proof enough that the question is
+      anything but absurd. Jans and Schinzel were obviously pleased about the sanctioning
+      of the patriot Baud, and Schinzel believed himself to be safe from consequences.
+      He was wrong. On February 20, 2026, the well-known Zurich lawyer Dr. Valentin
+      Landmann filed a criminal complaint against Schinzel with the Muttenz public prosecutor’s
+      office. We have a copy of this complaint. Landmann’s reasoning is clear, compelling,
+      and should—if Swiss law still applies—lead to a conviction. However, this question
+      is not for me to judge, but for the competent court. Regardless of the criminal
+      implications, it is clear that we have people in our national government who act
+      in a deeply despicable manner, both as human beings and in terms of their character.
+      Jacques Baud led people through minefields and risked his life for others. How
+      would Schinzel act in such a situation? He would probably send his staff or even
+      his wife and children ahead and observe the situation from a safe distance. The
+      Swiss population should begin to consider what kind of characters they want in
+      our national government. Cowardly bullies or men like Jacques Baud. If the population
+      elects losers to parliament, losers will end up in the executive branch. It’s
+      that simple. Is Schinzel aware of what kind of role model he is for his children?
+      Schinzel, who was probably acting on the orders or at least with the support of
+      his superior in the Federal Council, misjudged the situation in believing that
+      he could do this without consequences. Unlike Schinzel, Baud is a man who fights
+      back and has the support of many, including lawyer Valentin Landmann. Federal
+      Councilor Cassis’ FDFA Blackens E-Mails Concerning Jacques Baud In a request dated
+      December 29, 2025, Rafael Lutz, a journalist at Weltwoche, asked SECO for access
+      to documents relating to the sanctions imposed on Jacques Baud. The State Secretariat
+      for Economic Affairs SECO formally complied with this request on January 28, 2026.
+      Why formally? – most of the email texts were blacked out. The reason: “ A foreign
+      authority also objected to the email correspondence being made public .” We explained
+      above that Jacques Baud’s sanctioning was probably encouraged by people in Bern
+      — people who were jealous of him. In any case, the email shown above does not
+      contain any email addresses of foreign individuals, only those of people at the
+      FDFA, Jacques Baud’s former employer. This is an indication that our fears that
+      people at the FDFA want to destroy Jacques Baud are well-founded. A process to
+      “redact” the emails in question is underway. I assume that the truth will come
+      out sooner or later, either officially or through a leak in the Bernese administration
+      by an employee who is no longer willing to cover up this scandalous behavior by
+      our FDFA. Jacques Baud Fights Back Against UBS Since February 5, 2026, UBS Switzerland
+      has frozen Jacques Baud’s accounts and credit cards—without any prior notice or
+      clarification. This approach is not only scandalous, but also illegal. Jacques
+      Baud is not subject to sanctions in Switzerland, and the sanctions imposed on
+      Mr. Baud by the Council of the EU pursuant to Article 19 of Regulation (EU) 2024/2642
+      have no extraterritorial effect. The EU sanctions against Mr. Baud are therefore
+      not applicable in Switzerland. A payment by the Swiss government to a Swiss bank
+      account held by a Swiss citizen does not therefore fall within the scope of EU
+      sanctions law and is therefore not subject to the so-called “asset freeze” under
+      Article 2 of the aforementioned EU Regulation. In addition, according to a decision
+      by the Belgian sanctions authority (Service Public Federal Financier, PID 28342,
+      TID 137783, Annex ./1), transfers from Switzerland to a Belgian account held by
+      Mr. Baud have been explicitly declared permissible. The EU sanctions authorities
+      therefore clearly assume that Mr. Baud’s account at UBS is not subject to the
+      asset freeze and even approve transfers from the account at UBS to Mr. Baud’s
+      account at ING Bank (held in the EU). Since the sanctions imposed by the EU are
+      not effective in Switzerland and since the EU sanctions authorities themselves
+      assume that Mr. Baud’s Swiss accounts will remain active and that transfers from
+      these accounts to (blocked) accounts in the EU, UBS’s action against Mr. Baud
+      is not covered by point 9 of the general terms and conditions agreed between UBS
+      and Mr. Baud. UBS has therefore acted in breach of contract and without legal
+      basis. UBS is thus acting illegally. I have been told that the Baud case is now
+      on Sergio Ermotti’s desk. Sergio Ermotti, CEO of UBS, has repeatedly stated that
+      UBS is proud to be a Swiss bank. If that is the case, then he should also comply
+      with Swiss law and his own terms and conditions. This raises the question of whether
+      Ermotti is the real boss at his own company, or whether Michelle Bereaux, Group
+      Chief Compliance and Operational Risk Control Officer, Member of the Group Executive
+      Board, UBS, who according to LinkedIn is based in London, has more power than
+      Ermotti. Sergio Ermotti, who according to the NZZ newspaper on Saturday, February
+      28, 2026, wants to remain in office longer, now has the chance to show that he
+      is the boss. This will be easy for him if he is really serious: immediately release
+      Jacques Baud’s accounts—with a personal phone call to Jacques Baud, he could show
+      that he is the head of a Swiss bank and complies with Swiss law. Conclusion Jacques
+      Baud is the first of more than 80 journalists sanctioned by the EU to fight back,
+      in Brussels, Switzerland, and internationally. The Epstein scandal seems to be
+      overshadowing one of the biggest scandals in Swiss history, but Jacques Baud,
+      who guided people through minefields, is a fighter and a hero and deserves the
+      support of all those who think the same way!'
+    one_sentence_summary: Jacques Baud faces persecution and account freezing by UBS
+      for expressing dissenting views on the Ukraine war, highlighting the risks of
+      opposing the EU's dominant narrative.
+    paragraph_summary: Jacques Baud's situation highlights the severe repercussions
+      faced by individuals who express dissenting opinions within the EU's increasingly
+      authoritarian framework. Accused of differing analyses, particularly regarding
+      the Ukraine conflict, Baud has been subjected to sanctions and has had his bank
+      accounts frozen by UBS without legal justification. Despite his commitment to
+      objectivity and professionalism in his work, which he prioritizes over broader
+      exposure, Baud's accurate assessments have only worsened his plight. His experience
+      serves as a cautionary tale about the risks of challenging the prevailing narratives
+      enforced by the EU, which punishes those who diverge from its dominant, often
+      aggressive, stance towards Russia.
+    published: '2026-03-04T07:25:43+00:00'
+  - title: Jacques Baud is a Person of Valor and he is Fighting Back – UBS is Blocking
+      His Accounts
+    url: https://sonar21.com/jacques-baud-is-a-person-of-valor-and-he-is-fighting-back-ubs-is-blocking-his-accounts/
+    text: 'Jacques Baud’s odyssey continues. A person of valor fights back against persecution
+      and slander. In response, UBS freezes his accounts without legal basis. By Peter
+      Hanseler via ForumGeopolitica.com Introduction The story of Jacques Baud is also
+      a reminder of what can happen when you express an opinion that differs from that
+      of the EU, an entity that was created to unite Europe but has developed into a
+      dictatorial, illegal hydra that not only excludes dissidents, but also seeks to
+      destroy them. The only thing Jacques Baud can be accused of is that he came to
+      different conclusions in his analysis—for example, regarding the war in Ukraine.
+      He has never favored one side of any conflict. The fact that his assessment is
+      proving increasingly accurate is of little help to him and may even be detrimental.
+      The opinion of the EU and its members, which is exhausted in warmongering and
+      hatred towards Russia, is binding for every journalist, otherwise the consequences
+      are cruel, and cruel is the right word for what is happening to Jacques Baud.
+      We summarize what has happened since Jacques Baud was sanctioned on December 15,
+      2025, how he is defending himself, and what new problems he is facing—problems
+      that, ironically, originate from his own bank in Switzerland. Jacques Baud – a
+      Person of Valor I have been following Jacques Baud’s work for years. His analyses
+      are characterized not only by their professionalism, but also by an objectivity
+      that most other analysts lack. His objectivity is not something he claims to have,
+      he lives it and refrains from making appearances, for example on Russian television
+      stations, which would very much like to have him as an analyst. In doing so, he
+      accepts that his reach is smaller than it would be with such appearances—RT, for
+      example, can be received by over 700 million people around the world—but not in
+      the EU. Baud does not claim to be objective, he is objective and lives it. His
+      objectivity means that he has never taken sides. In the current Ukraine conflict,
+      which he has been following for years, he has never spoken out for one side or
+      the other, either explicitly or implicitly. Baud does not speak publicly about
+      his decade-long work prior to his retirement. When I had the opportunity to meet
+      Jacques Baud a few weeks ago, we did not conduct an interview. People do not open
+      up during interviews because interviews are intended for the public. Our conversation
+      was not intended for the public; we simply wanted to get to know each other better.
+      I quickly realized that behind the objective analyst was a man who had dedicated
+      his entire life to peace. He served his homeland, Switzerland, his entire life.
+      He was a colonel in the general staff, but not as a career officer, rather as
+      a militia officer who gave thousands of days to Switzerland without fanfare, like
+      many others, a great gift to Switzerland. His professional career paints a picture
+      of a man who always worked for the good of the people of this world. His missions
+      in many countries, especially in Africa, were extremely dangerous. He led people
+      through minefields, real minefields that can kill if you take one wrong step—that
+      takes courage. In civil wars, he sat down with parties that had previously threatened
+      his life. He describes his life as exciting. That is a colossal understatement
+      for a life that can rightly be compared to that of Indiana Jones. Always in the
+      service of good, never in the foreground, always in the background, where courageous,
+      even heroic actions can improve the fate of many people. However, his successful
+      work for Switzerland and the world also seems to have generated envy. Envy that
+      he led such an exciting life. This envy did not come from Brussels. It arose in
+      his home country among colleagues in Bern. Jacques Baud is affected by these developments,
+      by a life that has been taken away from him, a life that is currently defined
+      by frozen accounts, travel bans, and a host of lawyers. He told me that he is
+      not bitter, because despite the hellish injustice that has befallen him, he knows
+      that he has done nothing wrong. What lifts his spirits is the enormous support
+      he has received from old colleagues, friends, and even people he did not know
+      before who have offered their support. He is truly a fighter and draws his energy
+      from what is right. Jacques Baud is a person of valor who should be treated with
+      the utmost respect; no one deserves less to become a pawn in Brussels’ propaganda
+      games, supported by former jealous colleagues in Bern. Jacques Baud Fights Back
+      In the battle against the Hydra in Brussels, two law firms are fighting for Jacques
+      Baud, one in Paris and one in Vienna. Both specialize in opposing sanctions imposed
+      by the Brussels power apparatus. The fight is by no means fair. The sanctions
+      imposed were not preceded by any proceedings under the rule of law. Jacques Baud
+      was not given the opportunity to respond to the allegations, as is an irrefutable
+      principle in any civilized country. The EU is therefore not a power that submits
+      to the most basic principles of law. The EU subjugates fairness and humanity and
+      destroys them. The pathologically Russophobic Kaja Kallas, whose stated goal is
+      to divide Russia, is accepting proposals from member states that want to silence
+      journalists. “The breakup of Russia into small nations is not a bad thing.” Kaja
+      Kallas, EU High Representative for Foreign Affairs, 2023 These are added to a
+      list and sanctioned with justifications that would not even be sufficient to issue
+      a parking ticket under any rule of law. Here is the official statement from the
+      Council of the European Union dated December 15, 2025: Jacques Baud, a former
+      Swiss army colonel and strategic analyst, is a regular guest on pro-Russian television
+      and radio programmes. He acts as a mouthpiece for pro-Russian propaganda and makes
+      conspiracy theories, for example accusing Ukraine of orchestrating its own invasion
+      in order to join NATO. Therefore, Jacques Baud is responsible for, implementing
+      or supporting actions or policies attributable to the Government of the Russian
+      Federation which undermine or threaten stability or security in a third country
+      (Ukraine) by engaging in the use of information manipulation and interference.
+      COUNCIL DECISION (CFSP) 2025/2572 of 15 December 2025 amending Decision (CFSP)
+      2024/2643 concerning restrictive measures in view of Russia’s destabilising activities
+      Jacques Baud has never appeared on Russian television or radio. This “justification”
+      is based on the so-called “working papers,” documents that were compiled as evidence
+      for the sanctions by the EU. These “working papers” do not contain a single document
+      that would substantiate the allegations made in the decision. The working papers
+      contain newspaper articles from leading media outlets claiming that Jacques Baud
+      engages in “propaganda” – nothing more. Jacques Baud and his lawyers must now
+      defend themselves against allegations that are not substantiated. In addition,
+      there is a reversal of the burden of proof in this case: he must prove that he
+      is innocent. Imagine if you had to prove that you had never parked illegally in
+      the last 10 years – impossible. In criminal and civil law, the principle of “
+      negativa non sunt probanda ” applies, meaning “negative facts do not have to be
+      proven,” precisely to prevent this impossible situation. This no longer applies
+      in the EU. Jacques Baud Fights Back Against Defamation in Switzerland Of all people,
+      it was a senior member of Federal Councilor Jans’ staff who attacked Jacques Baud
+      in the most despicable manner. On December 17, 2025, he published the following
+      smear campaign against Jacques Baud on his X account. Jacques Baud ist ein übler
+      Verschwörungstheoretiker, der Täter-Opfer-Umkehr betreibt und wider jedes bessere
+      Wissen behauptet, die Ukraine habe den Angriffskrieg, den Russland gegen sie führt,
+      selbst herbeigeführt. Baud ist ein Sprachrohr Putins. — Marc Schinzel (@MarcSchinzel)
+      December 17, 2025 Translation: “Jacques Baud is a nasty conspiracy theorist who
+      reverses the roles of perpetrator and victim and claims, against all better judgment,
+      that Ukraine itself provoked the war of aggression that Russia is waging against
+      it. Baud is Putin’s mouthpiece.” The author of this post is Marc Schinzel, who
+      probably thought he could continue to kick Jacques Baud while he was down, since
+      Baud couldn’t defend himself. We all know people like this from our school days
+      – bullies, cowardly loudmouths who always pick on the weak. This bully is a close
+      associate of Federal Councilor Jans, who commented on Jacques Baud with a condescending
+      grin at the press conference. The Weltwoche : “SP Federal Councilor Beat Jans
+      shows little sympathy for Jacques Baud. The Federal Council did not discuss the
+      EU sanctions against Swiss citizens at its meeting on Friday, said the Minister
+      of Justice in response to a question from the Weltwoche. When asked whether he
+      could still advise Swiss citizens to travel to the EU, Jans had to laugh at first.
+      Finally, he replied, “Yes.” The Baud case is proof enough that the question is
+      anything but absurd. Jans and Schinzel were obviously pleased about the sanctioning
+      of the patriot Baud, and Schinzel believed himself to be safe from consequences.
+      He was wrong. On February 20, 2026, the well-known Zurich lawyer Dr. Valentin
+      Landmann filed a criminal complaint against Schinzel with the Muttenz public prosecutor’s
+      office. We have a copy of this complaint. Landmann’s reasoning is clear, compelling,
+      and should—if Swiss law still applies—lead to a conviction. However, this question
+      is not for me to judge, but for the competent court. Regardless of the criminal
+      implications, it is clear that we have people in our national government who act
+      in a deeply despicable manner, both as human beings and in terms of their character.
+      Jacques Baud led people through minefields and risked his life for others. How
+      would Schinzel act in such a situation? He would probably send his staff or even
+      his wife and children ahead and observe the situation from a safe distance. The
+      Swiss population should begin to consider what kind of characters they want in
+      our national government. Cowardly bullies or men like Jacques Baud. If the population
+      elects losers to parliament, losers will end up in the executive branch. It’s
+      that simple. Is Schinzel aware of what kind of role model he is for his children?
+      Schinzel, who was probably acting on the orders or at least with the support of
+      his superior in the Federal Council, misjudged the situation in believing that
+      he could do this without consequences. Unlike Schinzel, Baud is a man who fights
+      back and has the support of many, including lawyer Valentin Landmann. Federal
+      Councilor Cassis’ FDFA Blackens E-Mails Concerning Jacques Baud In a request dated
+      December 29, 2025, Rafael Lutz, a journalist at Weltwoche, asked SECO for access
+      to documents relating to the sanctions imposed on Jacques Baud. The State Secretariat
+      for Economic Affairs SECO formally complied with this request on January 28, 2026.
+      Why formally? – most of the email texts were blacked out. The reason: “ A foreign
+      authority also objected to the email correspondence being made public .” We explained
+      above that Jacques Baud’s sanctioning was probably encouraged by people in Bern
+      — people who were jealous of him. In any case, the email shown above does not
+      contain any email addresses of foreign individuals, only those of people at the
+      FDFA, Jacques Baud’s former employer. This is an indication that our fears that
+      people at the FDFA want to destroy Jacques Baud are well-founded. A process to
+      “redact” the emails in question is underway. I assume that the truth will come
+      out sooner or later, either officially or through a leak in the Bernese administration
+      by an employee who is no longer willing to cover up this scandalous behavior by
+      our FDFA. Jacques Baud Fights Back Against UBS Since February 5, 2026, UBS Switzerland
+      has frozen Jacques Baud’s accounts and credit cards—without any prior notice or
+      clarification. This approach is not only scandalous, but also illegal. Jacques
+      Baud is not subject to sanctions in Switzerland, and the sanctions imposed on
+      Mr. Baud by the Council of the EU pursuant to Article 19 of Regulation (EU) 2024/2642
+      have no extraterritorial effect. The EU sanctions against Mr. Baud are therefore
+      not applicable in Switzerland. A payment by the Swiss government to a Swiss bank
+      account held by a Swiss citizen does not therefore fall within the scope of EU
+      sanctions law and is therefore not subject to the so-called “asset freeze” under
+      Article 2 of the aforementioned EU Regulation. In addition, according to a decision
+      by the Belgian sanctions authority (Service Public Federal Financier, PID 28342,
+      TID 137783, Annex ./1), transfers from Switzerland to a Belgian account held by
+      Mr. Baud have been explicitly declared permissible. The EU sanctions authorities
+      therefore clearly assume that Mr. Baud’s account at UBS is not subject to the
+      asset freeze and even approve transfers from the account at UBS to Mr. Baud’s
+      account at ING Bank (held in the EU). Since the sanctions imposed by the EU are
+      not effective in Switzerland and since the EU sanctions authorities themselves
+      assume that Mr. Baud’s Swiss accounts will remain active and that transfers from
+      these accounts to (blocked) accounts in the EU, UBS’s action against Mr. Baud
+      is not covered by point 9 of the general terms and conditions agreed between UBS
+      and Mr. Baud. UBS has therefore acted in breach of contract and without legal
+      basis. UBS is thus acting illegally. I have been told that the Baud case is now
+      on Sergio Ermotti’s desk. Sergio Ermotti, CEO of UBS, has repeatedly stated that
+      UBS is proud to be a Swiss bank. If that is the case, then he should also comply
+      with Swiss law and his own terms and conditions. This raises the question of whether
+      Ermotti is the real boss at his own company, or whether Michelle Bereaux, Group
+      Chief Compliance and Operational Risk Control Officer, Member of the Group Executive
+      Board, UBS, who according to LinkedIn is based in London, has more power than
+      Ermotti. Sergio Ermotti, who according to the NZZ newspaper on Saturday, February
+      28, 2026, wants to remain in office longer, now has the chance to show that he
+      is the boss. This will be easy for him if he is really serious: immediately release
+      Jacques Baud’s accounts—with a personal phone call to Jacques Baud, he could show
+      that he is the head of a Swiss bank and complies with Swiss law. Conclusion Jacques
+      Baud is the first of more than 80 journalists sanctioned by the EU to fight back,
+      in Brussels, Switzerland, and internationally. The Epstein scandal seems to be
+      overshadowing one of the biggest scandals in Swiss history, but Jacques Baud,
+      who guided people through minefields, is a fighter and a hero and deserves the
+      support of all those who think the same way!'
+    one_sentence_summary: Jacques Baud faces persecution and account freezing by UBS
+      for expressing dissenting views on the Ukraine war, highlighting the risks of
+      opposing the EU's dominant narrative.
+    paragraph_summary: Jacques Baud's situation highlights the severe repercussions
+      faced by individuals who express dissenting opinions within the EU's increasingly
+      authoritarian framework. Accused of differing analyses, particularly regarding
+      the Ukraine conflict, Baud has been subjected to sanctions and has had his bank
+      accounts frozen by UBS without legal justification. Despite his commitment to
+      objectivity and professionalism in his work, which he prioritizes over broader
+      exposure, Baud's accurate assessments have only worsened his plight. His experience
+      serves as a cautionary tale about the risks of challenging the prevailing narratives
+      enforced by the EU, which punishes those who diverge from its dominant, often
+      aggressive, stance towards Russia.
+    published: '2026-03-04T07:25:43+00:00'
   - title: The US Missile Defense Shortage is Worse than Imagined
     url: https://sonar21.com/the-us-missile-defense-shortage-is-worse-than-imagined/
     text: 'Donald Trump made a bold and provably wrong claim yesterday about the US

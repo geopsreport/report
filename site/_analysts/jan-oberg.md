@@ -7,14 +7,102 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  Tensions in the Middle East remain at the forefront of geopolitical analysis following the recent US and Israeli invasion of Iran, which has triggered widespread protests and intensified calls for peace and human rights in the region. As **Jan Oberg** notes, the aftermath of the intervention has left Iranian society deeply affected, with ordinary citizens bearing the brunt of the violence and instability. The situation is further complicated by the muted response from European leaders, who, according to Oberg, have failed to adequately address or condemn the ongoing violations of international law by the US and its allies—not only in Iran, but also in previous crises in Gaza and Venezuela.
+  The geopolitical landscape remains tense following the escalation of violence in Iran and the deepening involvement of the United States and Israel in the region. Over the past 48 hours, new reports have highlighted the intensification of targeted attacks within Iran, the strategic motivations behind Israeli policy, and the broader implications for European security and international law.
   
-  In Europe, the Danish government's decision to consider a French proposal for extending French nuclear forces signals a notable shift in regional security thinking. Oberg raises critical questions about the viability and risks of "nuclear small states," especially as the continent faces heightened uncertainty in the wake of the Iran conflict. This move reflects a broader trend of European states reassessing their security postures amid doubts about US reliability and the perceived need for greater autonomy.
+  **Targeted Attacks in Iran Intensify**
   
-  Meanwhile, the US administration under Donald Trump continues to draw sharp criticism. Oberg characterizes the current regime as "the single largest danger to humanity’s future," citing recent speeches that underscore a reliance on military power and a disregard for diplomatic solutions. This rhetoric, combined with ongoing military actions, is seen as exacerbating global instability.
+  Recent events in Iran, particularly in Minab, have underscored a shift in the nature of violence. As **Elaheh Pooyandeh** notes, “Iranians are not merely collateral damage but are the primary targets of violence.” This perspective is gaining traction among independent analysts, who point to a deliberate strategy aimed at destabilizing Iranian society rather than incidental harm. The attacks are widely seen as part of a broader campaign to weaken Iran internally, coinciding with ongoing military operations.
   
-  Looking ahead, the prevailing analysis suggests that unless there is a significant change in approach from both US and European leaders, the cycle of intervention and silence is likely to persist. There is a high chance that European states will continue to debate nuclear arrangements and security autonomy, while public pressure for peace and accountability grows across affected regions. As Oberg concludes, the prospects for de-escalation remain uncertain, but grassroots movements and citizen diplomacy could play a crucial role in shaping a safer future—though this outcome is far from guaranteed.
+  **Israeli Policy and U.S. Involvement**
+  
+  A significant development comes from Israeli Prime Minister Benjamin Netanyahu’s recent statement, in which he expressed satisfaction at having involved the United States in a major conflict with Iran after decades of effort. **Jan Oberg** highlights that this marks the culmination of a long-standing “anti-Iran policy as a significant objective for Israeli propagandists.” The explicit acknowledgment of this objective signals a new phase in regional power dynamics, with Israel openly framing its actions as a “sacred mission” and leveraging U.S. military support.
+  
+  **European Security and Nuclear Policy**
+  
+  In parallel, the Danish government’s acceptance of a French proposal to explore the extension of French nuclear forces has raised questions about the future of European security. As **Jan Oberg** observes, this move reflects growing anxiety among smaller European states regarding their vulnerability in the face of escalating U.S./Israeli actions against Iran. The debate over the viability of a “nuclear small state” is intensifying, with implications for NATO cohesion and the broader European security architecture.
+  
+  **Trends and Predictions**
+  
+  The majority of independent analysts agree that the conflict in Iran is entering a more dangerous phase, with civilians increasingly at risk and regional actors pursuing more aggressive strategies. The explicit alignment of U.S. and Israeli objectives, coupled with European uncertainty, suggests that further escalation is “most definitely” likely in the coming weeks. There is a “high chance” that targeted attacks will continue and possibly expand in scope, while European states may accelerate discussions on nuclear deterrence and collective security.
+  
+  In summary, the situation remains volatile, with new evidence of deliberate targeting of Iranian civilians, open strategic alignment between the U.S. and Israel, and growing unease in Europe. The outlook points toward continued instability and the potential for broader regional consequences.
 articles:
+  - title: These Targetted Attacks – Minab among them
+    url: https://transnational.live/2026/03/09/these-targetted-attacks-minab-among-them/
+    text: Iranians enjoying life 2016 © Jan Oberg An Iranian voice of true peace “The
+      brutal truth is:We are not citizens in this story.We are not even collateral damage.We
+      are the targets.” Elaheh Pooyandeh, TFF Associate Written on February 28, 2026,
+      and published on March 9, 2026. I’m a night owl. I usually get to work […] The
+      post These Targetted Attacks – Minab among them appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses the targeted attacks in Iran, highlighting
+      the perspective of Elaheh Pooyandeh, who emphasizes that Iranians are not merely
+      collateral damage but are the primary targets of violence.
+    paragraph_summary: In her article, Elaheh Pooyandeh expresses a poignant critique
+      of the ongoing violence and targeted attacks in Iran, emphasizing that Iranians
+      are not merely collateral damage but are actively being targeted in these conflicts.
+      She reflects on the harsh realities faced by citizens, highlighting their struggles
+      and the urgent need for peace. The piece, written in early 2026, underscores the
+      importance of recognizing the human cost of such violence and advocates for a
+      more compassionate understanding of the Iranian people's plight.
+    published: '2026-03-09T14:23:57+00:00'
+  - title: These Targetted Attacks – Minab among them
+    url: https://transnational.live/2026/03/09/these-targetted-attacks-minab-among-them/
+    text: Iranians enjoying life 2016 © Jan Oberg An Iranian voice of true peace “The
+      brutal truth is:We are not citizens in this story.We are not even collateral damage.We
+      are the targets.” Elaheh Pooyandeh, TFF Associate Written on February 28, 2026,
+      and published on March 9, 2026. I’m a night owl. I usually get to work […] The
+      post These Targetted Attacks – Minab among them appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses the targeted attacks in Iran, highlighting
+      the perspective of Elaheh Pooyandeh, who emphasizes that Iranians are not merely
+      collateral damage but are the primary targets of violence.
+    paragraph_summary: In her article, Elaheh Pooyandeh expresses a poignant critique
+      of the ongoing violence and targeted attacks in Iran, emphasizing that Iranians
+      are not merely collateral damage but are actively being targeted in these conflicts.
+      She reflects on the harsh realities faced by citizens, highlighting their struggles
+      and the urgent need for peace. The piece, written in early 2026, underscores the
+      importance of recognizing the human cost of such violence and advocates for a
+      more compassionate understanding of the Iranian people's plight.
+    published: '2026-03-09T14:23:57+00:00'
+  - title: Anti-Iran policy as a sacred mission by Israeli propagandists
+    url: https://transnational.live/2026/03/09/anti-iran-policy-as-a-sacred-mission-by-israeli-propagandists/
+    text: Farhang Jahanpour TFF Associate since 2006 and former board member, Oxford,
+      with this homepage. March 9, 2026 In a recent statement, Israel’s Prime Minister
+      Benjamin Netanyahu boasted that he felt very happy that after 40 years of trying
+      to get the United States involved in a major war with Iran, he had finally succeeded
+      in […] The post Anti-Iran policy as a sacred mission by Israeli propagandists
+      appeared first on The Transnational .
+    one_sentence_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      expressed satisfaction in successfully involving the United States in a major
+      conflict with Iran after 40 years of efforts, highlighting the anti-Iran policy
+      as a significant objective for Israeli propagandists.
+    paragraph_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      expressed satisfaction over successfully involving the United States in a major
+      conflict with Iran after four decades of efforts. This statement highlights the
+      ongoing anti-Iran sentiment promoted by Israeli propagandists, framing it as a
+      critical mission. The article discusses the implications of this policy and its
+      impact on regional stability.
+    published: '2026-03-09T10:59:26+00:00'
+  - title: Anti-Iran policy as a sacred mission by Israeli propagandists
+    url: https://transnational.live/2026/03/09/anti-iran-policy-as-a-sacred-mission-by-israeli-propagandists/
+    text: Farhang Jahanpour TFF Associate since 2006 and former board member, Oxford,
+      with this homepage. March 9, 2026 In a recent statement, Israel’s Prime Minister
+      Benjamin Netanyahu boasted that he felt very happy that after 40 years of trying
+      to get the United States involved in a major war with Iran, he had finally succeeded
+      in […] The post Anti-Iran policy as a sacred mission by Israeli propagandists
+      appeared first on The Transnational .
+    one_sentence_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      expressed satisfaction in successfully involving the United States in a major
+      conflict with Iran after 40 years of efforts, highlighting the anti-Iran policy
+      as a significant objective for Israeli propagandists.
+    paragraph_summary: In a recent statement, Israeli Prime Minister Benjamin Netanyahu
+      expressed satisfaction over successfully involving the United States in a major
+      conflict with Iran after four decades of efforts. This statement highlights the
+      ongoing anti-Iran sentiment promoted by Israeli propagandists, framing it as a
+      critical mission. The article discusses the implications of this policy and its
+      impact on regional stability.
+    published: '2026-03-09T10:59:26+00:00'
   - title: We Are Someone’s Dirty Work
     url: https://transnational.live/2026/03/03/we-are-someones-dirty-work/
     text: “Love In Iran” © Jan Oberg A voice of true peace and human rights in Iran

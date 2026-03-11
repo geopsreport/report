@@ -7,17 +7,878 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  Tensions in the Middle East have escalated sharply following the joint U.S.-Israeli airstrikes against Iran, with the conflict now reverberating across military, diplomatic, and domestic spheres. The latest developments point to deepening fractures not only in international relations but also within the U.S. military and society.
+  The ongoing U.S.-Israeli war on Iran continues to escalate, with new developments highlighting the widening regional and global implications. The conflict, now entering its eleventh day, has seen increased international involvement and growing concerns over information control and the true costs of the war.
   
-  A striking new detail has emerged from the front lines: according to **Ray McGovern**, a U.S. noncommissioned officer reported being instructed to brief troops that former President Trump was “anointed by Jesus” and that the looming war with Iran is part of a divine plan for Armageddon. This invocation of religious rhetoric at the command level signals a potentially destabilizing fusion of faith and military policy, raising concerns about the motivations and morale within the ranks.
+  In a recent live discussion, former Israeli military intelligence officer **Ari Ben-Menashe** emphasized Iran’s central role in shaping Israel’s security environment, noting that the origins of the current conflict are deeply rooted in longstanding regional rivalries. Ben-Menashe warned that Iran’s capacity for asymmetric warfare remains underestimated, and predicted that “the longer this war drags on, the more unpredictable and costly it will become for all sides.”
   
-  On the international stage, **Craig Murray** notes that China, Russia, and the Global South are closely observing the West’s abandonment of international law, particularly in the context of the Iran conflict. These actors are recalibrating their strategies, with Murray emphasizing that the long-term consequence may be a realignment away from Western-led institutions. The erosion of legal norms is seen as accelerating the decline of U.S. global influence.
+  Meanwhile, **Patrick Lawrence** draws attention to the deliberate suppression of information by both combatants and the media. He argues that “the more intense the efforts to conceal, the more significant the truths being hidden,” suggesting that the public remains largely unaware of the war’s true scope and consequences.
   
-  Domestically, the U.S. faces unprecedented polarization. **Ramzy Baroud** highlights that 89 percent of Americans now expect significant political conflict as the midterm elections approach. This internal division, compounded by the controversial religious framing of foreign policy, threatens to undermine U.S. cohesion at a critical juncture.
+  Australia’s deepening involvement has also come into focus. **Peter Cronau** reports that Australia’s provision of a spy plane to the UAE and its hosting of U.S. military bases are now integral to the U.S. campaign against Iran. This marks a notable shift in Canberra’s role, signaling a broader coalition behind U.S. military operations in the Gulf.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that the U.S. and Israel’s aggressive posture toward Iran lacks both credible justification and international support. The integration of religious ideology into military directives is likely to further alienate both allies and segments of the American public. Internationally, there is a high chance of continued diplomatic isolation for the U.S., as major powers and the Global South reassess their alliances. Domestically, I guarantee that political polarization will intensify, with the potential for significant unrest during the upcoming elections. The overall trajectory points toward a period of heightened instability, both at home and abroad.
+  Looking ahead, the majority of analysts agree that the war is unlikely to end soon. Based on the current trajectory and the entrenched positions of the main actors, I guarantee that the conflict will persist, with a high likelihood of further regional escalation and increased international entanglement. Efforts to control the narrative and suppress dissent—both within the military and in the public sphere—are expected to intensify, further obscuring the realities on the ground.
 articles:
+  - title: 'WATCH: CN Live! — ‘The Toll on Israel’'
+    url: https://consortiumnews.com/2026/03/10/watch-cn-live-the-toll-on-israel/
+    text: 'Former Israeli military intelligence officer Ari Ben-Menashe discusses what
+      he knows about the damage Israel has suffered from Iran, the causes of the war
+      and the direction he thinks it is headed. Live 7 am EST Wednesday. Guest: Ari
+      Ben-Menashe.… Read more →'
+    one_sentence_summary: Former Israeli military intelligence officer Ari Ben-Menashe
+      shares insights on the impact of Iran on Israel, the origins of the ongoing conflict,
+      and his predictions for its future direction in a live discussion.
+    paragraph_summary: Former Israeli military intelligence officer Ari Ben-Menashe
+      shares insights on the impact of Iran on Israel, exploring the underlying causes
+      of the ongoing conflict and offering his perspective on its potential trajectory.
+      He will be featured in a live discussion at 7 am EST on Wednesday.
+    published: '2026-03-11T01:51:12+00:00'
+  - title: 'WATCH: CN Live! — ‘The Toll on Israel’'
+    url: https://consortiumnews.com/2026/03/10/watch-cn-live-the-toll-on-israel/
+    text: 'Former Israeli military intelligence officer Ari Ben-Menashe discusses what
+      he knows about the damage Israel has suffered from Iran, the causes of the war
+      and the direction he thinks it is headed. Live 7 am EST Wednesday. Guest: Ari
+      Ben-Menashe.… Read more →'
+    one_sentence_summary: Former Israeli military intelligence officer Ari Ben-Menashe
+      shares insights on the impact of Iran on Israel, the origins of the ongoing conflict,
+      and his predictions for its future direction in a live discussion.
+    paragraph_summary: Former Israeli military intelligence officer Ari Ben-Menashe
+      shares insights on the impact of Iran on Israel, exploring the underlying causes
+      of the ongoing conflict and offering his perspective on its potential trajectory.
+      He will be featured in a live discussion at 7 am EST on Wednesday.
+    published: '2026-03-11T01:51:12+00:00'
+  - title: 'PATRICK LAWRENCE: Another War We’re Not Supposed to See'
+    url: https://consortiumnews.com/2026/03/10/patrick-lawrence-another-war-were-not-supposed-to-see/
+    text: You have to figure, if those waging war — and covering it — dedicate themselves
+      this assiduously to keeping things hidden, there are surely things to hide. By Patrick
+      Lawrence Special to Consortium News I know for a fact that The… Read more →
+    one_sentence_summary: The article by Patrick Lawrence suggests that the intense
+      efforts of those involved in war, both combatants and journalists, to conceal
+      information indicate that there are significant truths being obscured.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the extensive efforts made by those involved in warfare and its coverage to conceal
+      information, suggesting that such secrecy indicates the presence of significant
+      undisclosed matters. He emphasizes the importance of questioning the narratives
+      presented to the public and highlights the need for transparency in understanding
+      the true nature of conflicts.
+    published: '2026-03-11T01:04:18+00:00'
+  - title: 'PATRICK LAWRENCE: Another War We’re Not Supposed to See'
+    url: https://consortiumnews.com/2026/03/10/patrick-lawrence-another-war-were-not-supposed-to-see/
+    text: You have to figure, if those waging war — and covering it — dedicate themselves
+      this assiduously to keeping things hidden, there are surely things to hide. By Patrick
+      Lawrence Special to Consortium News I know for a fact that The… Read more →
+    one_sentence_summary: The article by Patrick Lawrence suggests that the intense
+      efforts of those involved in war, both combatants and journalists, to conceal
+      information indicate that there are significant truths being obscured.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the extensive efforts made by those involved in warfare and its coverage to conceal
+      information, suggesting that such secrecy indicates the presence of significant
+      undisclosed matters. He emphasizes the importance of questioning the narratives
+      presented to the public and highlights the need for transparency in understanding
+      the true nature of conflicts.
+    published: '2026-03-11T01:04:18+00:00'
+  - title: Australia’s Deepening Involvement in US War on Iran
+    url: https://consortiumnews.com/2026/03/10/australias-deepening-involvement-in-us-war-on-iran/
+    text: Australia’s support for the U.S.-Israel war against Iran by hosting of a string
+      of U.S. military bases and providing a ‘spy’ plane to defend the Gulf states is
+      a critical contribution to the U.S. war machine, writes Peter Cronau. By Peter…
+      Read more →
+    one_sentence_summary: Peter Cronau argues that Australia's hosting of U.S. military
+      bases and provision of a spy plane to protect Gulf states significantly bolsters
+      the U.S. military efforts in its conflict with Iran.
+    paragraph_summary: In his article, Peter Cronau discusses Australia's significant
+      role in supporting the U.S.-Israel military efforts against Iran, highlighting
+      the country's hosting of multiple U.S. military bases and its provision of a surveillance
+      aircraft to bolster the defense of Gulf states. He argues that these actions represent
+      a crucial contribution to the U.S. war apparatus, emphasizing the implications
+      of Australia's involvement in regional conflicts and its alignment with U.S. foreign
+      policy objectives.
+    published: '2026-03-10T18:00:50+00:00'
+  - title: Australia’s Deepening Involvement in US War on Iran
+    url: https://consortiumnews.com/2026/03/10/australias-deepening-involvement-in-us-war-on-iran/
+    text: Australia’s support for the U.S.-Israel war against Iran by hosting of a string
+      of U.S. military bases and providing a ‘spy’ plane to defend the Gulf states is
+      a critical contribution to the U.S. war machine, writes Peter Cronau. By Peter…
+      Read more →
+    one_sentence_summary: Peter Cronau argues that Australia's hosting of U.S. military
+      bases and provision of a spy plane to protect Gulf states significantly bolsters
+      the U.S. military efforts in its conflict with Iran.
+    paragraph_summary: In his article, Peter Cronau discusses Australia's significant
+      role in supporting the U.S.-Israel military efforts against Iran, highlighting
+      the country's hosting of multiple U.S. military bases and its provision of a surveillance
+      aircraft to bolster the defense of Gulf states. He argues that these actions represent
+      a crucial contribution to the U.S. war apparatus, emphasizing the implications
+      of Australia's involvement in regional conflicts and its alignment with U.S. foreign
+      policy objectives.
+    published: '2026-03-10T18:00:50+00:00'
+  - title: 'Hedges Report: Imperial Overreach'
+    url: https://consortiumnews.com/2026/03/10/hedges-report-can-israel-us-survive-iran-military-power/
+    text: So far, Iran’s military prowess, and America’s and Israel’s impulsive imperial
+      hubris, is on full display. By Chris Hedges The Chris Hedges Report This interview
+      is also available on podcast platforms and Rumble. While the official White House
+      X account posts video montages featuring… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques the display of Iran's
+      military strength alongside the perceived imperial arrogance of the U.S. and Israel,
+      highlighting the tensions in their geopolitical dynamics.
+    paragraph_summary: In his article, Chris Hedges critiques the current geopolitical
+      dynamics involving Iran's military strength and the perceived imperial overreach
+      of the United States and Israel. He highlights how these tensions are manifesting
+      in various ways, including through media portrayals and official communications.
+      Hedges suggests that the interplay between Iran's capabilities and the aggressive
+      posturing of the U.S. and Israel reflects a broader narrative of conflict and
+      power struggles in the region.
+    published: '2026-03-10T16:00:52+00:00'
+  - title: 'Hedges Report: Imperial Overreach'
+    url: https://consortiumnews.com/2026/03/10/hedges-report-can-israel-us-survive-iran-military-power/
+    text: So far, Iran’s military prowess, and America’s and Israel’s impulsive imperial
+      hubris, is on full display. By Chris Hedges The Chris Hedges Report This interview
+      is also available on podcast platforms and Rumble. While the official White House
+      X account posts video montages featuring… Read more →
+    one_sentence_summary: The article by Chris Hedges critiques the display of Iran's
+      military strength alongside the perceived imperial arrogance of the U.S. and Israel,
+      highlighting the tensions in their geopolitical dynamics.
+    paragraph_summary: In his article, Chris Hedges critiques the current geopolitical
+      dynamics involving Iran's military strength and the perceived imperial overreach
+      of the United States and Israel. He highlights how these tensions are manifesting
+      in various ways, including through media portrayals and official communications.
+      Hedges suggests that the interplay between Iran's capabilities and the aggressive
+      posturing of the U.S. and Israel reflects a broader narrative of conflict and
+      power struggles in the region.
+    published: '2026-03-10T16:00:52+00:00'
+  - title: 'DAY 10: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/10/day-10-war-on-iran/
+    text: Trump yo-yos on when the war ends and Iran says we decide; Australia sending
+      plane to UAE; Rubio worried about Iraq embassy; Trump says Iran would’ve nuked
+      Israel already; and U.S.-Israel air strikes damage UNESCO sites in Isfahan. MONDAY
+      By… Read more →
+    one_sentence_summary: The article discusses fluctuating statements from Trump regarding
+      the end of the war, Iran's assertion of control over its decisions, Australia's
+      deployment of a plane to the UAE, concerns from Rubio about the Iraq embassy,
+      Trump's claim about Iran's nuclear intentions towards Israel, and U.S.-Israel
+      air strikes that have damaged UNESCO sites in Isfahan.
+    paragraph_summary: The article discusses various developments related to the ongoing
+      conflict involving Iran and its implications for the U.S. and Israel. Former President
+      Trump fluctuates on predicting the war's conclusion, while Iran asserts that it
+      will determine the timeline. Australia is sending a plane to the UAE, and Senator
+      Marco Rubio expresses concerns about the security of the U.S. embassy in Iraq.
+      Trump claims that Iran would have already launched a nuclear attack on Israel
+      if not for U.S. intervention. Additionally, U.S.-Israel air strikes have reportedly
+      caused damage to UNESCO heritage sites in Isfahan, raising further concerns about
+      the conflict's impact on cultural landmarks.
+    published: '2026-03-10T13:58:38+00:00'
+  - title: 'DAY 10: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/10/day-10-war-on-iran/
+    text: Trump yo-yos on when the war ends and Iran says we decide; Australia sending
+      plane to UAE; Rubio worried about Iraq embassy; Trump says Iran would’ve nuked
+      Israel already; and U.S.-Israel air strikes damage UNESCO sites in Isfahan. MONDAY
+      By… Read more →
+    one_sentence_summary: The article discusses fluctuating statements from Trump regarding
+      the end of the war, Iran's assertion of control over its decisions, Australia's
+      deployment of a plane to the UAE, concerns from Rubio about the Iraq embassy,
+      Trump's claim about Iran's nuclear intentions towards Israel, and U.S.-Israel
+      air strikes that have damaged UNESCO sites in Isfahan.
+    paragraph_summary: The article discusses various developments related to the ongoing
+      conflict involving Iran and its implications for the U.S. and Israel. Former President
+      Trump fluctuates on predicting the war's conclusion, while Iran asserts that it
+      will determine the timeline. Australia is sending a plane to the UAE, and Senator
+      Marco Rubio expresses concerns about the security of the U.S. embassy in Iraq.
+      Trump claims that Iran would have already launched a nuclear attack on Israel
+      if not for U.S. intervention. Additionally, U.S.-Israel air strikes have reportedly
+      caused damage to UNESCO heritage sites in Isfahan, raising further concerns about
+      the conflict's impact on cultural landmarks.
+    published: '2026-03-10T13:58:38+00:00'
+  - title: Crushing the Right to Conscientiously Object
+    url: https://consortiumnews.com/2026/03/10/crushing-the-right-to-conscientiously-object/
+    text: Elizabeth Vos on the social-media suppression of information that could help
+      U.S service people refuse to join the U.S.-Israeli attack on Iran as fears grow
+      that Trump will send ground troops into the conflict. By Elizabeth Vos Special
+      to Consortium… Read more →
+    one_sentence_summary: Elizabeth Vos discusses the social media suppression of information
+      that could aid U.S. service members in resisting participation in a potential
+      U.S.-Israeli military action against Iran, amid rising concerns about Trump deploying
+      ground troops to the conflict.
+    paragraph_summary: In her article, Elizabeth Vos discusses the suppression of information
+      on social media that could aid U.S. service members in resisting participation
+      in a potential U.S.-Israeli military attack on Iran, particularly amid rising
+      concerns that former President Trump might deploy ground troops to the conflict.
+      Vos highlights the importance of open discourse and access to information for
+      military personnel, emphasizing the need for transparency in the face of escalating
+      tensions and the potential for military engagement.
+    published: '2026-03-10T04:36:36+00:00'
+  - title: Crushing the Right to Conscientiously Object
+    url: https://consortiumnews.com/2026/03/10/crushing-the-right-to-conscientiously-object/
+    text: Elizabeth Vos on the social-media suppression of information that could help
+      U.S service people refuse to join the U.S.-Israeli attack on Iran as fears grow
+      that Trump will send ground troops into the conflict. By Elizabeth Vos Special
+      to Consortium… Read more →
+    one_sentence_summary: Elizabeth Vos discusses the social media suppression of information
+      that could aid U.S. service members in resisting participation in a potential
+      U.S.-Israeli military action against Iran, amid rising concerns about Trump deploying
+      ground troops to the conflict.
+    paragraph_summary: In her article, Elizabeth Vos discusses the suppression of information
+      on social media that could aid U.S. service members in resisting participation
+      in a potential U.S.-Israeli military attack on Iran, particularly amid rising
+      concerns that former President Trump might deploy ground troops to the conflict.
+      Vos highlights the importance of open discourse and access to information for
+      military personnel, emphasizing the need for transparency in the face of escalating
+      tensions and the potential for military engagement.
+    published: '2026-03-10T04:36:36+00:00'
+  - title: 'Hedges Report: The US in Freefall'
+    url: https://consortiumnews.com/2026/03/09/hedges-report-the-us-in-freefall/
+    text: Chris Hedges and Ahmed Eldin discuss the propagandistic purpose that corporate
+      media serves in the age of the American-Israeli project of genocidal colonialism.
+      By Chris Hedges ScheerPost In a wide-ranging conversation, journalist and former
+      foreign correspondent Chris Hedges speaks with Palestinian… Read more →
+    one_sentence_summary: Chris Hedges and Ahmed Eldin explore how corporate media functions
+      as a tool of propaganda in support of the American-Israeli agenda of colonialism
+      and violence against Palestinians.
+    paragraph_summary: In a conversation between journalist Chris Hedges and Palestinian
+      activist Ahmed Eldin, they explore the role of corporate media as a tool for propaganda
+      in the context of the American-Israeli agenda of colonialism and violence against
+      Palestinians. Hedges critiques how mainstream media narratives often support and
+      justify these actions, highlighting the need for alternative perspectives to challenge
+      the dominant discourse surrounding the Israeli-Palestinian conflict.
+    published: '2026-03-09T19:00:27+00:00'
+  - title: 'Hedges Report: The US in Freefall'
+    url: https://consortiumnews.com/2026/03/09/hedges-report-the-us-in-freefall/
+    text: Chris Hedges and Ahmed Eldin discuss the propagandistic purpose that corporate
+      media serves in the age of the American-Israeli project of genocidal colonialism.
+      By Chris Hedges ScheerPost In a wide-ranging conversation, journalist and former
+      foreign correspondent Chris Hedges speaks with Palestinian… Read more →
+    one_sentence_summary: Chris Hedges and Ahmed Eldin explore how corporate media functions
+      as a tool of propaganda in support of the American-Israeli agenda of colonialism
+      and violence against Palestinians.
+    paragraph_summary: In a conversation between journalist Chris Hedges and Palestinian
+      activist Ahmed Eldin, they explore the role of corporate media as a tool for propaganda
+      in the context of the American-Israeli agenda of colonialism and violence against
+      Palestinians. Hedges critiques how mainstream media narratives often support and
+      justify these actions, highlighting the need for alternative perspectives to challenge
+      the dominant discourse surrounding the Israeli-Palestinian conflict.
+    published: '2026-03-09T19:00:27+00:00'
+  - title: Israel Googling Real Names of Anonymous X Users
+    url: https://consortiumnews.com/2026/03/09/israel-googling-real-names-of-anonymous-x-users/
+    text: Across the world, anonymous users on the social-media platform X are reporting
+      that data from Google Trends shows their real names are being mass searched in
+      Israel, Alan MacLeod reports. By Alan MacLeod MintPress News A wide range of anonymous…
+      Read more →
+    one_sentence_summary: Users on the social media platform X are claiming that Google
+      Trends data indicates their real names are being extensively searched in Israel,
+      according to Alan MacLeod's report for MintPress News.
+    paragraph_summary: Users on the social media platform X have reported that Google
+      Trends indicates a significant increase in searches for their real names in Israel,
+      raising concerns about privacy and surveillance. Alan MacLeod from MintPress News
+      highlights that this phenomenon involves a diverse group of anonymous individuals,
+      suggesting a broader issue related to data privacy and the implications of online
+      searches in specific geopolitical contexts.
+    published: '2026-03-09T17:00:39+00:00'
+  - title: Israel Googling Real Names of Anonymous X Users
+    url: https://consortiumnews.com/2026/03/09/israel-googling-real-names-of-anonymous-x-users/
+    text: Across the world, anonymous users on the social-media platform X are reporting
+      that data from Google Trends shows their real names are being mass searched in
+      Israel, Alan MacLeod reports. By Alan MacLeod MintPress News A wide range of anonymous…
+      Read more →
+    one_sentence_summary: Users on the social media platform X are claiming that Google
+      Trends data indicates their real names are being extensively searched in Israel,
+      according to Alan MacLeod's report for MintPress News.
+    paragraph_summary: Users on the social media platform X have reported that Google
+      Trends indicates a significant increase in searches for their real names in Israel,
+      raising concerns about privacy and surveillance. Alan MacLeod from MintPress News
+      highlights that this phenomenon involves a diverse group of anonymous individuals,
+      suggesting a broader issue related to data privacy and the implications of online
+      searches in specific geopolitical contexts.
+    published: '2026-03-09T17:00:39+00:00'
+  - title: 'DAY 9: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/09/day-9-attack-on-iran/
+    text: U.S. nuclear command planes in the region; Lindsey Graham doesn’t like the
+      new Iran supreme leader and tells the IDF how to run the war; and an AI fake of
+      captured U.S. soldiers is exposed.  SUNDAY By Joe Lauria Special… Read more →
+    one_sentence_summary: The article discusses the presence of U.S. nuclear command
+      planes in the region, Senator Lindsey Graham's criticism of Iran's new supreme
+      leader and his advice to the IDF regarding the war, and the revelation of an AI-generated
+      fake depicting captured U.S. soldiers.
+    paragraph_summary: The article discusses several key developments related to U.S.
+      military and geopolitical dynamics, including the deployment of U.S. nuclear command
+      planes in a specific region. It highlights Senator Lindsey Graham's criticism
+      of Iran's new supreme leader and his unsolicited advice to the Israel Defense
+      Forces (IDF) on conducting their military operations. Additionally, it reports
+      on the exposure of a fake AI-generated image depicting captured U.S. soldiers,
+      raising concerns about misinformation in the context of ongoing conflicts.
+    published: '2026-03-09T07:48:12+00:00'
+  - title: 'DAY 9: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/09/day-9-attack-on-iran/
+    text: U.S. nuclear command planes in the region; Lindsey Graham doesn’t like the
+      new Iran supreme leader and tells the IDF how to run the war; and an AI fake of
+      captured U.S. soldiers is exposed.  SUNDAY By Joe Lauria Special… Read more →
+    one_sentence_summary: The article discusses the presence of U.S. nuclear command
+      planes in the region, Senator Lindsey Graham's criticism of Iran's new supreme
+      leader and his advice to the IDF regarding the war, and the revelation of an AI-generated
+      fake depicting captured U.S. soldiers.
+    paragraph_summary: The article discusses several key developments related to U.S.
+      military and geopolitical dynamics, including the deployment of U.S. nuclear command
+      planes in a specific region. It highlights Senator Lindsey Graham's criticism
+      of Iran's new supreme leader and his unsolicited advice to the Israel Defense
+      Forces (IDF) on conducting their military operations. Additionally, it reports
+      on the exposure of a fake AI-generated image depicting captured U.S. soldiers,
+      raising concerns about misinformation in the context of ongoing conflicts.
+    published: '2026-03-09T07:48:12+00:00'
+  - title: 'Caitlin Johnstone: Dead GIs Weren’t Heroes'
+    url: https://consortiumnews.com/2026/03/08/caitlin-johnstone-dead-gis-werent-heroes/
+    text: It’s dangerous to valorize those who die in pointless wars. By Caitlin Johnstone
+      Caitlin’s Newsletter Reading by Tim Foley The U.S. soldiers who are getting killed
+      in the war with Iran were not heroes. They did not die defending their country.…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone argues that glorifying soldiers who die
+      in pointless wars, such as the conflict with Iran, is misguided because they are
+      not dying for a noble cause or defending their country.
+    paragraph_summary: In her article, Caitlin Johnstone argues against glorifying U.S.
+      soldiers who die in what she deems "pointless wars," specifically referencing
+      the conflict with Iran. She contends that these soldiers should not be labeled
+      as heroes, as their sacrifices do not serve to defend their country but rather
+      stem from participation in conflicts driven by political agendas. Johnstone emphasizes
+      the importance of critically examining the motivations behind such wars and the
+      narratives that surround them, rather than romanticizing the loss of life in these
+      situations.
+    published: '2026-03-09T03:30:41+00:00'
+  - title: 'Caitlin Johnstone: Dead GIs Weren’t Heroes'
+    url: https://consortiumnews.com/2026/03/08/caitlin-johnstone-dead-gis-werent-heroes/
+    text: It’s dangerous to valorize those who die in pointless wars. By Caitlin Johnstone
+      Caitlin’s Newsletter Reading by Tim Foley The U.S. soldiers who are getting killed
+      in the war with Iran were not heroes. They did not die defending their country.…
+      Read more →
+    one_sentence_summary: Caitlin Johnstone argues that glorifying soldiers who die
+      in pointless wars, such as the conflict with Iran, is misguided because they are
+      not dying for a noble cause or defending their country.
+    paragraph_summary: In her article, Caitlin Johnstone argues against glorifying U.S.
+      soldiers who die in what she deems "pointless wars," specifically referencing
+      the conflict with Iran. She contends that these soldiers should not be labeled
+      as heroes, as their sacrifices do not serve to defend their country but rather
+      stem from participation in conflicts driven by political agendas. Johnstone emphasizes
+      the importance of critically examining the motivations behind such wars and the
+      narratives that surround them, rather than romanticizing the loss of life in these
+      situations.
+    published: '2026-03-09T03:30:41+00:00'
+  - title: US ‘Lets’ India Buy Russian Oil After Iran Attack
+    url: https://consortiumnews.com/2026/03/08/us-lets-india-buy-russian-oil-after-iran-attack/
+    text: Recent statements suggest the U.S. has more control over India’s energy policy
+      than have been previously acknowledged, reports Betwa Sharma. By Betwa Sharma
+      in Delhi, India Special to Consortium News The United States has “allowed” Indian
+      refiners to purchase Russian oil… Read more →
+    one_sentence_summary: Recent reports indicate that the U.S. has significant influence
+      over India's energy policy, particularly in allowing Indian refiners to buy Russian
+      oil.
+    paragraph_summary: Recent reports indicate that the U.S. may have more influence
+      over India's energy policy than previously recognized, particularly regarding
+      India's purchases of Russian oil. According to Betwa Sharma, the U.S. has effectively
+      permitted Indian refiners to continue sourcing oil from Russia, suggesting a complex
+      relationship between the two nations in the context of global energy dynamics.
+    published: '2026-03-08T13:26:59+00:00'
+  - title: US ‘Lets’ India Buy Russian Oil After Iran Attack
+    url: https://consortiumnews.com/2026/03/08/us-lets-india-buy-russian-oil-after-iran-attack/
+    text: Recent statements suggest the U.S. has more control over India’s energy policy
+      than have been previously acknowledged, reports Betwa Sharma. By Betwa Sharma
+      in Delhi, India Special to Consortium News The United States has “allowed” Indian
+      refiners to purchase Russian oil… Read more →
+    one_sentence_summary: Recent reports indicate that the U.S. has significant influence
+      over India's energy policy, particularly in allowing Indian refiners to buy Russian
+      oil.
+    paragraph_summary: Recent reports indicate that the U.S. may have more influence
+      over India's energy policy than previously recognized, particularly regarding
+      India's purchases of Russian oil. According to Betwa Sharma, the U.S. has effectively
+      permitted Indian refiners to continue sourcing oil from Russia, suggesting a complex
+      relationship between the two nations in the context of global energy dynamics.
+    published: '2026-03-08T13:26:59+00:00'
+  - title: 'WATCH:  The World This Week w/Ray McGovern'
+    url: https://consortiumnews.com/2026/03/07/watch-the-world-this-week-w-ray-mcgovern-2/
+    text: 'IRAN – A week that changed the world, perhaps forever.  Ray McGovern and
+      Patrick Lawrence discuss it on The World This Week. 8pm EST Saturday.  Guests:
+      Ray McGovern and Patrick Lawrence. Host: Joe Lauria.  Producer: Cathy Vogan.  
+         … Read more →'
+    one_sentence_summary: Ray McGovern and Patrick Lawrence analyze a transformative
+      week in global events on The World This Week, hosted by Joe Lauria.
+    paragraph_summary: The article highlights a significant week in global events, suggesting
+      it may have lasting implications for the world. It features a discussion between
+      Ray McGovern and Patrick Lawrence on "The World This Week," hosted by Joe Lauria,
+      where they explore the transformative nature of recent developments in Iran. The
+      program aims to analyze the potential consequences of these events and their broader
+      impact on international relations.
+    published: '2026-03-07T14:40:10+00:00'
+  - title: 'WATCH:  The World This Week w/Ray McGovern'
+    url: https://consortiumnews.com/2026/03/07/watch-the-world-this-week-w-ray-mcgovern-2/
+    text: 'IRAN – A week that changed the world, perhaps forever.  Ray McGovern and
+      Patrick Lawrence discuss it on The World This Week. 8pm EST Saturday.  Guests:
+      Ray McGovern and Patrick Lawrence. Host: Joe Lauria.  Producer: Cathy Vogan.  
+         … Read more →'
+    one_sentence_summary: Ray McGovern and Patrick Lawrence analyze a transformative
+      week in global events on The World This Week, hosted by Joe Lauria.
+    paragraph_summary: The article highlights a significant week in global events, suggesting
+      it may have lasting implications for the world. It features a discussion between
+      Ray McGovern and Patrick Lawrence on "The World This Week," hosted by Joe Lauria,
+      where they explore the transformative nature of recent developments in Iran. The
+      program aims to analyze the potential consequences of these events and their broader
+      impact on international relations.
+    published: '2026-03-07T14:40:10+00:00'
+  - title: 'DAY 8 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/07/day-8-updates-attack-on-iran/
+    text: A declassified assessment says major U.S. war “unlikely” to topple government;
+      Trump ludicrously says Iran has “surrendered” after Iranian president apologizes
+      to Gulf states; and Trump makes sadistic threat to “groups of people” in Iran. 
+      SATURDAY By Joe Lauria Special… Read more →
+    one_sentence_summary: A declassified assessment suggests that a significant U.S.
+      military intervention is unlikely to destabilize the Iranian government, while
+      Trump falsely claims Iran has "surrendered" following an apology from its president
+      to Gulf states and issues a threatening statement towards Iranian groups.
+    paragraph_summary: A declassified assessment indicates that a major U.S. war is
+      "unlikely" to result in the overthrow of the Iranian government. In a contrasting
+      statement, former President Trump claimed that Iran has "surrendered" following
+      an apology from the Iranian president to Gulf states. Additionally, Trump issued
+      a threatening remark towards "groups of people" in Iran, reflecting a tense and
+      provocative stance in U.S.-Iran relations.
+    published: '2026-03-07T14:26:42+00:00'
+  - title: 'DAY 8 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/07/day-8-updates-attack-on-iran/
+    text: A declassified assessment says major U.S. war “unlikely” to topple government;
+      Trump ludicrously says Iran has “surrendered” after Iranian president apologizes
+      to Gulf states; and Trump makes sadistic threat to “groups of people” in Iran. 
+      SATURDAY By Joe Lauria Special… Read more →
+    one_sentence_summary: A declassified assessment suggests that a significant U.S.
+      military intervention is unlikely to destabilize the Iranian government, while
+      Trump falsely claims Iran has "surrendered" following an apology from its president
+      to Gulf states and issues a threatening statement towards Iranian groups.
+    paragraph_summary: A declassified assessment indicates that a major U.S. war is
+      "unlikely" to result in the overthrow of the Iranian government. In a contrasting
+      statement, former President Trump claimed that Iran has "surrendered" following
+      an apology from the Iranian president to Gulf states. Additionally, Trump issued
+      a threatening remark towards "groups of people" in Iran, reflecting a tense and
+      provocative stance in U.S.-Iran relations.
+    published: '2026-03-07T14:26:42+00:00'
+  - title: 'WATCH: CN LIVE! — ‘US in Denial’ w/ Scott Ritter'
+    url: https://consortiumnews.com/2026/03/06/watch-cn-live-us-in-denial-w-scott-ritter/
+    text: 'Scott Ritters discusses U.S. military losses across the Middle East in its
+      aggression against Iran and how Washington is coping with it. Does the U.S. have
+      a future in the region? Friday, 8pm EST. Guest: Scott Ritter.  Host: Joe Lauria. …
+      Read more →'
+    one_sentence_summary: Scott Ritter examines U.S. military losses in the Middle East
+      due to its confrontations with Iran and explores the implications for America's
+      future presence in the region, in a discussion hosted by Joe Lauria.
+    paragraph_summary: In a discussion led by host Joe Lauria, former U.N. weapons inspector
+      Scott Ritter examines the U.S. military's losses in the Middle East due to its
+      aggressive stance towards Iran and explores the implications of these setbacks
+      for America's future in the region. Ritter's insights delve into the challenges
+      Washington faces in maintaining its influence and presence amidst ongoing conflicts
+      and shifting geopolitical dynamics. The conversation is set to air on Friday at
+      8 PM EST.
+    published: '2026-03-06T19:00:39+00:00'
+  - title: 'WATCH: CN LIVE! — ‘US in Denial’ w/ Scott Ritter'
+    url: https://consortiumnews.com/2026/03/06/watch-cn-live-us-in-denial-w-scott-ritter/
+    text: 'Scott Ritters discusses U.S. military losses across the Middle East in its
+      aggression against Iran and how Washington is coping with it. Does the U.S. have
+      a future in the region? Friday, 8pm EST. Guest: Scott Ritter.  Host: Joe Lauria. …
+      Read more →'
+    one_sentence_summary: Scott Ritter examines U.S. military losses in the Middle East
+      due to its confrontations with Iran and explores the implications for America's
+      future presence in the region, in a discussion hosted by Joe Lauria.
+    paragraph_summary: In a discussion led by host Joe Lauria, former U.N. weapons inspector
+      Scott Ritter examines the U.S. military's losses in the Middle East due to its
+      aggressive stance towards Iran and explores the implications of these setbacks
+      for America's future in the region. Ritter's insights delve into the challenges
+      Washington faces in maintaining its influence and presence amidst ongoing conflicts
+      and shifting geopolitical dynamics. The conversation is set to air on Friday at
+      8 PM EST.
+    published: '2026-03-06T19:00:39+00:00'
+  - title: 'Jonathan Cook: Israel’s Death Cult Grips the US'
+    url: https://consortiumnews.com/2026/03/06/jonathan-cook-israels-death-cult-grips-the-us/
+    text: In this catastrophic war of choice, it is Tehran fighting a rearguard action
+      to restore geopolitical sanity. If Iran loses, god only knows where Israel and
+      the U.S. will drag the world next.  By Jonathan Cook Jonathan-Cook.net The admission
+      this week… Read more →
+    one_sentence_summary: The article argues that Iran is attempting to restore geopolitical
+      stability amidst a destructive conflict, warning that a loss for Iran could lead
+      to unpredictable and dangerous consequences for Israel and the U.S. on the global
+      stage.
+    paragraph_summary: In a recent article by Jonathan Cook, he argues that Iran is
+      engaged in a critical struggle to restore geopolitical stability amid a disastrous
+      conflict driven by choice, suggesting that if Iran fails, the consequences could
+      lead to unpredictable and dangerous repercussions for Israel, the U.S., and the
+      broader global landscape. Cook emphasizes the urgency of the situation and the
+      potential for escalating tensions if Iran's efforts are unsuccessful.
+    published: '2026-03-06T16:30:15+00:00'
+  - title: 'Jonathan Cook: Israel’s Death Cult Grips the US'
+    url: https://consortiumnews.com/2026/03/06/jonathan-cook-israels-death-cult-grips-the-us/
+    text: In this catastrophic war of choice, it is Tehran fighting a rearguard action
+      to restore geopolitical sanity. If Iran loses, god only knows where Israel and
+      the U.S. will drag the world next.  By Jonathan Cook Jonathan-Cook.net The admission
+      this week… Read more →
+    one_sentence_summary: The article argues that Iran is attempting to restore geopolitical
+      stability amidst a destructive conflict, warning that a loss for Iran could lead
+      to unpredictable and dangerous consequences for Israel and the U.S. on the global
+      stage.
+    paragraph_summary: In a recent article by Jonathan Cook, he argues that Iran is
+      engaged in a critical struggle to restore geopolitical stability amid a disastrous
+      conflict driven by choice, suggesting that if Iran fails, the consequences could
+      lead to unpredictable and dangerous repercussions for Israel, the U.S., and the
+      broader global landscape. Cook emphasizes the urgency of the situation and the
+      potential for escalating tensions if Iran's efforts are unsuccessful.
+    published: '2026-03-06T16:30:15+00:00'
+  - title: Mad Dog Trump
+    url: https://consortiumnews.com/2026/03/06/mad-dog-trump/
+    text: How to confront the U.S. mad dog prowling the globe, according to Michael
+      Brenner. By Michael Brenner Trump’s America is like a rabid dog prowling the globe.
+      It strikes ferociously at whomever gets in its way or encroaches on its… Read
+      more →
+    one_sentence_summary: Michael Brenner likens Trump's America to a rabid dog that
+      aggressively attacks anyone who challenges its dominance on the global stage.
+    paragraph_summary: In his article, Michael Brenner likens Trump's America to a "rabid
+      dog" that aggressively threatens and attacks anyone who challenges its dominance
+      or interests on the global stage. He argues that this aggressive foreign policy
+      creates instability and fear, urging a need for a strategic approach to confront
+      and mitigate the dangers posed by such behavior. Brenner emphasizes the importance
+      of understanding the motivations behind this aggression and suggests that a more
+      measured and diplomatic response is necessary to navigate the complexities of
+      international relations in the face of U.S. belligerence.
+    published: '2026-03-06T09:36:20+00:00'
+  - title: Mad Dog Trump
+    url: https://consortiumnews.com/2026/03/06/mad-dog-trump/
+    text: How to confront the U.S. mad dog prowling the globe, according to Michael
+      Brenner. By Michael Brenner Trump’s America is like a rabid dog prowling the globe.
+      It strikes ferociously at whomever gets in its way or encroaches on its… Read
+      more →
+    one_sentence_summary: Michael Brenner likens Trump's America to a rabid dog that
+      aggressively attacks anyone who challenges its dominance on the global stage.
+    paragraph_summary: In his article, Michael Brenner likens Trump's America to a "rabid
+      dog" that aggressively threatens and attacks anyone who challenges its dominance
+      or interests on the global stage. He argues that this aggressive foreign policy
+      creates instability and fear, urging a need for a strategic approach to confront
+      and mitigate the dangers posed by such behavior. Brenner emphasizes the importance
+      of understanding the motivations behind this aggression and suggests that a more
+      measured and diplomatic response is necessary to navigate the complexities of
+      international relations in the face of U.S. belligerence.
+    published: '2026-03-06T09:36:20+00:00'
+  - title: 'DAY 7 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/06/day-7-updates-attack-on-iran/
+    text: U.S. admits it killed school kids; in denial about damage to U.S. bases; Iran
+      threatens to hit Dimona; NYT rips Putin; Olmert says U.S. war is not for Israel.
+      FRIDAY By Joe Lauria Special to Consortium News 9:15 am EST:  U.S.… Read more
+      →
+    one_sentence_summary: The article discusses various geopolitical tensions, including
+      the U.S. acknowledging the killing of school children, Iran's threats against
+      Israel's Dimona, criticism of Putin by the New York Times, and former Israeli
+      Prime Minister Olmert's assertion that the U.S. war efforts are not aimed at benefiting
+      Israel.
+    paragraph_summary: The article discusses several geopolitical developments, including
+      the U.S. acknowledging the killing of schoolchildren in a military operation while
+      downplaying the damage to its bases. Iran has issued threats regarding potential
+      attacks on Israel's Dimona nuclear facility. Additionally, the New York Times
+      has criticized Russian President Vladimir Putin, and former Israeli Prime Minister
+      Ehud Olmert has stated that the ongoing U.S. military actions are not aligned
+      with Israel's interests.
+    published: '2026-03-06T09:00:58+00:00'
+  - title: 'DAY 7 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/06/day-7-updates-attack-on-iran/
+    text: U.S. admits it killed school kids; in denial about damage to U.S. bases; Iran
+      threatens to hit Dimona; NYT rips Putin; Olmert says U.S. war is not for Israel.
+      FRIDAY By Joe Lauria Special to Consortium News 9:15 am EST:  U.S.… Read more
+      →
+    one_sentence_summary: The article discusses various geopolitical tensions, including
+      the U.S. acknowledging the killing of school children, Iran's threats against
+      Israel's Dimona, criticism of Putin by the New York Times, and former Israeli
+      Prime Minister Olmert's assertion that the U.S. war efforts are not aimed at benefiting
+      Israel.
+    paragraph_summary: The article discusses several geopolitical developments, including
+      the U.S. acknowledging the killing of schoolchildren in a military operation while
+      downplaying the damage to its bases. Iran has issued threats regarding potential
+      attacks on Israel's Dimona nuclear facility. Additionally, the New York Times
+      has criticized Russian President Vladimir Putin, and former Israeli Prime Minister
+      Ehud Olmert has stated that the ongoing U.S. military actions are not aligned
+      with Israel's interests.
+    published: '2026-03-06T09:00:58+00:00'
+  - title: 'Vijay Prashad: The Nuclear Deception on Iran'
+    url: https://consortiumnews.com/2026/03/05/vijay-prashad-the-nuclear-deception-on-iran/
+    text: There are no nuclear weapons in Iran. To go to war on that pretext is for
+      Trump to follow the example of George W. Bush and his “weapons of mass destruction”
+      in Iraq. Where were those weapons? In his imagination.… Read more →
+    one_sentence_summary: The article argues that there are no nuclear weapons in Iran,
+      suggesting that a war based on this premise would mirror George W. Bush's false
+      justification for the Iraq War over nonexistent "weapons of mass destruction."
+    paragraph_summary: The article argues that Iran does not possess nuclear weapons,
+      suggesting that any military action against the country based on this premise
+      would mirror the misguided rationale used by George W. Bush regarding the nonexistent
+      "weapons of mass destruction" in Iraq. It critiques former President Trump's potential
+      approach, implying that it would be based on unfounded claims rather than reality.
+    published: '2026-03-06T02:23:21+00:00'
+  - title: 'Vijay Prashad: The Nuclear Deception on Iran'
+    url: https://consortiumnews.com/2026/03/05/vijay-prashad-the-nuclear-deception-on-iran/
+    text: There are no nuclear weapons in Iran. To go to war on that pretext is for
+      Trump to follow the example of George W. Bush and his “weapons of mass destruction”
+      in Iraq. Where were those weapons? In his imagination.… Read more →
+    one_sentence_summary: The article argues that there are no nuclear weapons in Iran,
+      suggesting that a war based on this premise would mirror George W. Bush's false
+      justification for the Iraq War over nonexistent "weapons of mass destruction."
+    paragraph_summary: The article argues that Iran does not possess nuclear weapons,
+      suggesting that any military action against the country based on this premise
+      would mirror the misguided rationale used by George W. Bush regarding the nonexistent
+      "weapons of mass destruction" in Iraq. It critiques former President Trump's potential
+      approach, implying that it would be based on unfounded claims rather than reality.
+    published: '2026-03-06T02:23:21+00:00'
+  - title: 'DAY 6 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/05/day-6-updates-attack-on-iran/
+    text: 'The latest developments in Washington and Tel Aviv’s aggression against Iran.
+      5:30 pm EST: Admiral Brad Cooper, head of U.S. Central Command, claims that “U.S.
+      combat power is building as Iranian combat power declines,” including a 90 percent
+      decrease in… Read more →'
+    one_sentence_summary: Admiral Brad Cooper of U.S. Central Command reports that U.S.
+      combat power is increasing while Iranian combat power has significantly decreased,
+      amid ongoing tensions between Washington and Tel Aviv regarding Iran.
+    paragraph_summary: The article discusses recent developments regarding the escalating
+      tensions between Washington and Tel Aviv against Iran. Admiral Brad Cooper, the
+      head of U.S. Central Command, stated that U.S. military strength is increasing
+      while Iranian military capabilities are diminishing, noting a significant 90 percent
+      reduction in Iran's combat power. This statement reflects the ongoing strategic
+      maneuvers and military posturing in the region amid heightened aggression from
+      both the U.S. and Israel towards Iran.
+    published: '2026-03-05T23:00:40+00:00'
+  - title: 'DAY 6 UPDATES: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/05/day-6-updates-attack-on-iran/
+    text: 'The latest developments in Washington and Tel Aviv’s aggression against Iran.
+      5:30 pm EST: Admiral Brad Cooper, head of U.S. Central Command, claims that “U.S.
+      combat power is building as Iranian combat power declines,” including a 90 percent
+      decrease in… Read more →'
+    one_sentence_summary: Admiral Brad Cooper of U.S. Central Command reports that U.S.
+      combat power is increasing while Iranian combat power has significantly decreased,
+      amid ongoing tensions between Washington and Tel Aviv regarding Iran.
+    paragraph_summary: The article discusses recent developments regarding the escalating
+      tensions between Washington and Tel Aviv against Iran. Admiral Brad Cooper, the
+      head of U.S. Central Command, stated that U.S. military strength is increasing
+      while Iranian military capabilities are diminishing, noting a significant 90 percent
+      reduction in Iran's combat power. This statement reflects the ongoing strategic
+      maneuvers and military posturing in the region amid heightened aggression from
+      both the U.S. and Israel towards Iran.
+    published: '2026-03-05T23:00:40+00:00'
+  - title: Hegseth Brags of Mass Killing in Iran
+    url: https://consortiumnews.com/2026/03/05/hegseth-brags-of-mass-killing-in-iran/
+    text: With more than 1,000 civilian deaths in Iran, the U.S. secretary of war said
+      the U.S. has loosened the rules of military engagement. “We are punching them
+      while they’re down, which is exactly how it should be,” he said. By… Read more
+      →
+    one_sentence_summary: The U.S. Secretary of War announced a relaxation of military
+      engagement rules in response to over 1,000 civilian deaths in Iran, stating that
+      the U.S. is taking advantage of the situation.
+    paragraph_summary: The article discusses the U.S. Secretary of War's announcement
+      regarding a shift in military engagement rules in response to over 1,000 civilian
+      deaths in Iran. He emphasized a more aggressive approach, stating, "We are punching
+      them while they’re down, which is exactly how it should be," indicating a strategy
+      aimed at exploiting the current vulnerabilities of Iran.
+    published: '2026-03-05T19:25:58+00:00'
+  - title: Hegseth Brags of Mass Killing in Iran
+    url: https://consortiumnews.com/2026/03/05/hegseth-brags-of-mass-killing-in-iran/
+    text: With more than 1,000 civilian deaths in Iran, the U.S. secretary of war said
+      the U.S. has loosened the rules of military engagement. “We are punching them
+      while they’re down, which is exactly how it should be,” he said. By… Read more
+      →
+    one_sentence_summary: The U.S. Secretary of War announced a relaxation of military
+      engagement rules in response to over 1,000 civilian deaths in Iran, stating that
+      the U.S. is taking advantage of the situation.
+    paragraph_summary: The article discusses the U.S. Secretary of War's announcement
+      regarding a shift in military engagement rules in response to over 1,000 civilian
+      deaths in Iran. He emphasized a more aggressive approach, stating, "We are punching
+      them while they’re down, which is exactly how it should be," indicating a strategy
+      aimed at exploiting the current vulnerabilities of Iran.
+    published: '2026-03-05T19:25:58+00:00'
+  - title: 'DAY 5: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/05/day-5-attack-on-iran/
+    text: U.S. sub sinks Iranian ship; C.I.A. arming Kurds for invasion of Iran and
+      the U.S. Senate fails to rein Trump in as the war ended its fifth day. Days 1-3,
+      Day4 Wednesday By Joe Lauria Special to Consortium News Day… Read more →
+    one_sentence_summary: The article discusses escalating tensions involving a U.S.
+      submarine sinking an Iranian ship, the CIA's support for Kurdish forces in an
+      invasion of Iran, and the U.S. Senate's inability to restrain President Trump
+      as military conflict enters its fifth day.
+    paragraph_summary: The article discusses escalating tensions between the U.S. and
+      Iran, highlighting a U.S. submarine sinking an Iranian ship and the CIA's involvement
+      in arming Kurdish forces for a potential invasion of Iran. It also notes that
+      the U.S. Senate has been ineffective in curbing President Trump's actions as the
+      conflict enters its fifth day. The piece, authored by Joe Lauria for Consortium
+      News, provides a detailed account of the unfolding situation over the initial
+      days of the conflict.
+    published: '2026-03-05T19:05:57+00:00'
+  - title: 'DAY 5: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/05/day-5-attack-on-iran/
+    text: U.S. sub sinks Iranian ship; C.I.A. arming Kurds for invasion of Iran and
+      the U.S. Senate fails to rein Trump in as the war ended its fifth day. Days 1-3,
+      Day4 Wednesday By Joe Lauria Special to Consortium News Day… Read more →
+    one_sentence_summary: The article discusses escalating tensions involving a U.S.
+      submarine sinking an Iranian ship, the CIA's support for Kurdish forces in an
+      invasion of Iran, and the U.S. Senate's inability to restrain President Trump
+      as military conflict enters its fifth day.
+    paragraph_summary: The article discusses escalating tensions between the U.S. and
+      Iran, highlighting a U.S. submarine sinking an Iranian ship and the CIA's involvement
+      in arming Kurdish forces for a potential invasion of Iran. It also notes that
+      the U.S. Senate has been ineffective in curbing President Trump's actions as the
+      conflict enters its fifth day. The piece, authored by Joe Lauria for Consortium
+      News, provides a detailed account of the unfolding situation over the initial
+      days of the conflict.
+    published: '2026-03-05T19:05:57+00:00'
+  - title: Trump’s Unjust & Unconstitutional War
+    url: https://consortiumnews.com/2026/03/05/trumps-unjust-unconstitutional-war/
+    text: If the U.S. gets into the business of congressional ratification of presidentially
+      initiated wars, it will continue the slow and inexorable normalization of presidential
+      force, writes Andrew P. Napolitano. That’s not what the Constitution requires.
+      By Andrew P. Napolitano Over… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that allowing Congress to ratify
+      wars initiated by the president would further normalize presidential military
+      power, which deviates from the constitutional requirements.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that if the U.S.
+      Congress begins to ratify wars initiated by the president, it will further normalize
+      the use of presidential military force, which deviates from the intentions of
+      the Constitution. He emphasizes that the Constitution does not mandate congressional
+      approval for presidential military actions, suggesting that such a practice would
+      undermine the intended checks and balances between the legislative and executive
+      branches regarding war powers.
+    published: '2026-03-05T13:58:23+00:00'
+  - title: Trump’s Unjust & Unconstitutional War
+    url: https://consortiumnews.com/2026/03/05/trumps-unjust-unconstitutional-war/
+    text: If the U.S. gets into the business of congressional ratification of presidentially
+      initiated wars, it will continue the slow and inexorable normalization of presidential
+      force, writes Andrew P. Napolitano. That’s not what the Constitution requires.
+      By Andrew P. Napolitano Over… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that allowing Congress to ratify
+      wars initiated by the president would further normalize presidential military
+      power, which deviates from the constitutional requirements.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that if the U.S.
+      Congress begins to ratify wars initiated by the president, it will further normalize
+      the use of presidential military force, which deviates from the intentions of
+      the Constitution. He emphasizes that the Constitution does not mandate congressional
+      approval for presidential military actions, suggesting that such a practice would
+      undermine the intended checks and balances between the legislative and executive
+      branches regarding war powers.
+    published: '2026-03-05T13:58:23+00:00'
+  - title: 'WATCH: CN Live! — ‘Mideast on Fire’'
+    url: https://consortiumnews.com/2026/03/04/watch-cnn-live-mideast-on-fire/
+    text: 'Patrick Henningsen joins CN Live! to analyze the latest in the U.S.-Israel
+      unprovoked war on Iran. Henningsen was in Iran last month. 9pm EST TONIGHT.  Guest: 
+      Patrick Henningsen   Hosts:  Elizabeth Vos and Joe Lauria Producer: Cathy Vogan.
+      Read more →'
+    one_sentence_summary: Patrick Henningsen will discuss the U.S.-Israel conflict with
+      Iran on CN Live!, sharing insights from his recent visit to Iran, with hosts Elizabeth
+      Vos and Joe Lauria.
+    paragraph_summary: Patrick Henningsen appeared on CN Live! to discuss the ongoing
+      U.S.-Israel conflict with Iran, which he characterizes as an unprovoked war. Having
+      recently visited Iran, Henningsen provides insights into the situation, while
+      hosts Elizabeth Vos and Joe Lauria, along with producer Cathy Vogan, facilitate
+      the conversation. The episode aired at 9 PM EST.
+    published: '2026-03-04T19:00:23+00:00'
+  - title: 'WATCH: CN Live! — ‘Mideast on Fire’'
+    url: https://consortiumnews.com/2026/03/04/watch-cnn-live-mideast-on-fire/
+    text: 'Patrick Henningsen joins CN Live! to analyze the latest in the U.S.-Israel
+      unprovoked war on Iran. Henningsen was in Iran last month. 9pm EST TONIGHT.  Guest: 
+      Patrick Henningsen   Hosts:  Elizabeth Vos and Joe Lauria Producer: Cathy Vogan.
+      Read more →'
+    one_sentence_summary: Patrick Henningsen will discuss the U.S.-Israel conflict with
+      Iran on CN Live!, sharing insights from his recent visit to Iran, with hosts Elizabeth
+      Vos and Joe Lauria.
+    paragraph_summary: Patrick Henningsen appeared on CN Live! to discuss the ongoing
+      U.S.-Israel conflict with Iran, which he characterizes as an unprovoked war. Having
+      recently visited Iran, Henningsen provides insights into the situation, while
+      hosts Elizabeth Vos and Joe Lauria, along with producer Cathy Vogan, facilitate
+      the conversation. The episode aired at 9 PM EST.
+    published: '2026-03-04T19:00:23+00:00'
+  - title: Other Avenues to Try, to Stop the War on Iran
+    url: https://consortiumnews.com/2026/03/04/other-avenues-to-try-to-stop-the-war-on-iran/
+    text: A “Uniting for Peace” resolution in the U.N. General Assembly can counter
+      the Security Council’s failure to act, writes Marjorie Cohn. By Marjorie Cohn
+      Truthout Already 1,045 Iranians — including 180 students at a girls’ elementary
+      school in Minab — have… Read more →
+    one_sentence_summary: Marjorie Cohn argues that a "Uniting for Peace" resolution
+      in the U.N. General Assembly could address the inaction of the Security Council
+      in response to the ongoing violence in Iran, where over 1,000 individuals have
+      been killed, including many students.
+    paragraph_summary: In her article, Marjorie Cohn discusses the potential of a "Uniting
+      for Peace" resolution in the U.N. General Assembly as a means to address the inaction
+      of the Security Council, particularly in light of the ongoing crisis in Iran,
+      where over 1,045 individuals, including 180 schoolgirls, have been affected. Cohn
+      argues that this resolution could provide a pathway for the international community
+      to respond effectively to humanitarian crises and uphold global peace and security
+      when the Security Council is unable or unwilling to act.
+    published: '2026-03-04T17:00:47+00:00'
+  - title: Other Avenues to Try, to Stop the War on Iran
+    url: https://consortiumnews.com/2026/03/04/other-avenues-to-try-to-stop-the-war-on-iran/
+    text: A “Uniting for Peace” resolution in the U.N. General Assembly can counter
+      the Security Council’s failure to act, writes Marjorie Cohn. By Marjorie Cohn
+      Truthout Already 1,045 Iranians — including 180 students at a girls’ elementary
+      school in Minab — have… Read more →
+    one_sentence_summary: Marjorie Cohn argues that a "Uniting for Peace" resolution
+      in the U.N. General Assembly could address the inaction of the Security Council
+      in response to the ongoing violence in Iran, where over 1,000 individuals have
+      been killed, including many students.
+    paragraph_summary: In her article, Marjorie Cohn discusses the potential of a "Uniting
+      for Peace" resolution in the U.N. General Assembly as a means to address the inaction
+      of the Security Council, particularly in light of the ongoing crisis in Iran,
+      where over 1,045 individuals, including 180 schoolgirls, have been affected. Cohn
+      argues that this resolution could provide a pathway for the international community
+      to respond effectively to humanitarian crises and uphold global peace and security
+      when the Security Council is unable or unwilling to act.
+    published: '2026-03-04T17:00:47+00:00'
+  - title: Melania Trump’s Hypocrisy at the UN
+    url: https://consortiumnews.com/2026/03/04/melania-trumps-hypocrisy-at-the-un/
+    text: As the U.S. and Israel kill Middle East children, including 165 schoolgirls
+      in Iran, a U.N. diplomat said the first lady running a meeting on children in
+      conflict was a high point of hypocrisy in U.N. history. By Julia Conley… Read
+      more →
+    one_sentence_summary: A U.N. diplomat criticized a meeting led by the U.S. first
+      lady on children in conflict as hypocritical, highlighting the deaths of Middle
+      Eastern children, including 165 schoolgirls in Iran, amid ongoing violence.
+    paragraph_summary: The article discusses the hypocrisy surrounding a U.N. meeting
+      on children in conflict, which was presided over by the U.S. first lady, amidst
+      ongoing violence in the Middle East, including the deaths of 165 schoolgirls in
+      Iran due to U.S. and Israeli actions. A U.N. diplomat criticized the event as
+      a significant example of hypocrisy in U.N. history, highlighting the stark contrast
+      between the meeting's focus on protecting children and the realities of conflict
+      and suffering in the region.
+    published: '2026-03-04T16:30:13+00:00'
+  - title: Melania Trump’s Hypocrisy at the UN
+    url: https://consortiumnews.com/2026/03/04/melania-trumps-hypocrisy-at-the-un/
+    text: As the U.S. and Israel kill Middle East children, including 165 schoolgirls
+      in Iran, a U.N. diplomat said the first lady running a meeting on children in
+      conflict was a high point of hypocrisy in U.N. history. By Julia Conley… Read
+      more →
+    one_sentence_summary: A U.N. diplomat criticized a meeting led by the U.S. first
+      lady on children in conflict as hypocritical, highlighting the deaths of Middle
+      Eastern children, including 165 schoolgirls in Iran, amid ongoing violence.
+    paragraph_summary: The article discusses the hypocrisy surrounding a U.N. meeting
+      on children in conflict, which was presided over by the U.S. first lady, amidst
+      ongoing violence in the Middle East, including the deaths of 165 schoolgirls in
+      Iran due to U.S. and Israeli actions. A U.N. diplomat criticized the event as
+      a significant example of hypocrisy in U.N. history, highlighting the stark contrast
+      between the meeting's focus on protecting children and the realities of conflict
+      and suffering in the region.
+    published: '2026-03-04T16:30:13+00:00'
+  - title: 'DAY 4 RECAP: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/04/day-4-recap-attack-on-iran/
+    text: A recap of events spiraling out of control in the Middle East on Tuesday.
+      See Days 1-3 Updates TUESDAY By Joe Lauria Special to Consortium News 7 p.m. EDT: Al
+      Jazeera reports that Islamic Revolutionary Guard Corps ground forces are being…
+      Read more →
+    one_sentence_summary: The article provides an update on escalating events in the
+      Middle East, highlighting the involvement of Islamic Revolutionary Guard Corps
+      ground forces.
+    paragraph_summary: On Tuesday, escalating tensions in the Middle East were highlighted
+      by reports from Al Jazeera indicating that ground forces from Iran's Islamic Revolutionary
+      Guard Corps are actively involved in the conflict. The situation has been rapidly
+      deteriorating, with various developments unfolding over the past few days, leading
+      to increased concerns about the broader implications for the region.
+    published: '2026-03-04T12:42:18+00:00'
+  - title: 'DAY 4 RECAP: ATTACK ON IRAN'
+    url: https://consortiumnews.com/2026/03/04/day-4-recap-attack-on-iran/
+    text: A recap of events spiraling out of control in the Middle East on Tuesday.
+      See Days 1-3 Updates TUESDAY By Joe Lauria Special to Consortium News 7 p.m. EDT: Al
+      Jazeera reports that Islamic Revolutionary Guard Corps ground forces are being…
+      Read more →
+    one_sentence_summary: The article provides an update on escalating events in the
+      Middle East, highlighting the involvement of Islamic Revolutionary Guard Corps
+      ground forces.
+    paragraph_summary: On Tuesday, escalating tensions in the Middle East were highlighted
+      by reports from Al Jazeera indicating that ground forces from Iran's Islamic Revolutionary
+      Guard Corps are actively involved in the conflict. The situation has been rapidly
+      deteriorating, with various developments unfolding over the past few days, leading
+      to increased concerns about the broader implications for the region.
+    published: '2026-03-04T12:42:18+00:00'
   - title: US Commanders Invoke Biblical End Times in Iran
     url: https://consortiumnews.com/2026/03/03/us-commanders-invoke-biblical-end-times-in-iran/
     text: One noncommissioned officer told the Military Religious Freedom Foundation

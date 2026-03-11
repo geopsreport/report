@@ -7,19 +7,19 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As global crises intensify, the human cost of geopolitical decisions remains at the forefront of independent analysis. The latest reports highlight the enduring consequences of U.S. foreign policy in Iran, the ongoing legal and social reckoning with police violence in the United States, and the persistent international debate over accountability for actions in Palestine.
+  As the global geopolitical landscape continues to be shaped by the aftermath of U.S. foreign policy decisions, ongoing conflicts, and shifting power dynamics, recent independent analyses have brought renewed attention to the human and legal consequences of these developments.
   
-  **Iran: Human Cost of U.S. Policy**
-  Reflecting on the aftermath of American interventions, **Dennis Kucinich** describes scenes of Iranian families searching for loved ones amid rubble, underscoring the "madness that often characterizes leadership in the U.S." The narrative brings renewed attention to the suffering inflicted on civilians, particularly during the Trump Administration, and serves as a stark reminder of the far-reaching impact of military and political strategies.
+  **Human Cost of U.S. Policy in Iran**  
+  Reflecting on the enduring impact of American interventions, **Dennis Kucinich** underscores the devastating toll on Iranian civilians, particularly families shattered by violence and instability. He describes scenes of parents searching through rubble for their missing daughters, a direct result of policies enacted during the Trump Administration. This narrative highlights the persistent suffering that follows military actions, reinforcing the argument that the true cost of such decisions is often borne by the innocent.
   
-  **United States: Police Violence and Accountability**
-  In Minneapolis, the fatal shooting of Renee Good by ICE agent Jonathan Ross has reignited debates over systemic racism and justice. **Marjorie Cohn** examines the legal complexities surrounding the case, noting the proximity to the site of George Floyd's death and the broader context of police violence. The incident exemplifies the persistent challenges in achieving accountability and reform within the U.S. legal system.
+  **Legal and Social Fallout of Police Violence in the U.S.**  
+  Turning to domestic issues, **Marjorie Cohn** examines the January 7 shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis. Cohn delves into the legal complexities surrounding the case, noting the broader context of systemic racism and the struggle for accountability in the U.S. justice system. The proximity of this incident to the site of George Floyd’s death further amplifies its significance, serving as a stark reminder of the ongoing challenges in addressing police violence.
   
-  **Palestine: Calls for International Intervention**
-  The humanitarian crisis in Palestine continues to draw international scrutiny. **Nicolas J. S. Davies** argues that global governments have the authority—and responsibility—to halt what he terms the "genocide and illegal occupation of Palestine." He criticizes President Trump's "20-point Gaza plan" for exacerbating the crisis and calls for coordinated international action to end the violence and oppression.
+  **Escalating Tensions Over Palestine and International Response**  
+  On the international stage, **Nicolas J. S. Davies** critiques President Trump’s "20-point Gaza plan," arguing that it exacerbates the humanitarian crisis in Palestine. Davies calls for robust international intervention, emphasizing that global governments have both the authority and responsibility to halt what he describes as genocide and illegal occupation. This sentiment is echoed by other analysts, who point to the U.S. government’s efforts to discourage collective action against Israeli policies, as highlighted by **Mick Hall** in reference to the Bogota joint action plan.
   
-  **Trends and Predictions**
-  Across these issues, the majority of analysts emphasize the urgent need for accountability and systemic change. There is a high chance that international pressure on the U.S. and Israel will intensify, particularly as more voices demand intervention and justice for affected populations. The persistence of grassroots activism and legal challenges in both the U.S. and abroad signals a growing movement toward confronting entrenched power structures. Most definitely, the human consequences of geopolitical decisions will remain central to global discourse in the coming months.
+  **Trends and Predictions**  
+  The majority of sources suggest that the humanitarian consequences of U.S. foreign and domestic policies will remain a central issue, with little immediate relief for affected populations. There is a high chance that international pressure on both the U.S. and Israel will intensify, especially as more voices within the military and civil society speak out against ongoing violence. Domestically, the struggle for police accountability is expected to persist, with systemic reform progressing slowly. I guarantee that unless there is a significant shift in policy or leadership, the patterns of conflict, resistance, and calls for justice highlighted in these reports will most definitely continue to define the geopolitical discourse in the coming months.
 articles:
   - title: Iran, Epstein & Human Sacrifice
     url: https://consortiumnews.com/2026/03/02/iran-epstein-human-sacrifice/

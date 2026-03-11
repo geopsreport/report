@@ -7,22 +7,29 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As of early March 2026, the global geopolitical and economic landscape remains defined by mounting financial instability, shifting U.S. foreign policy priorities, and deepening concerns over democratic norms within the United States. The following is a summary of the latest developments and analysis, drawing on the most recent insights from **Jack Rasmus**.
+  The global geopolitical and economic landscape remains volatile as of March 11, 2026, with significant developments in U.S. domestic policy, financial markets, and international relations. The Trump administration’s recent actions and rhetoric continue to shape both the U.S. and global outlook, while underlying economic fragilities are becoming increasingly apparent.
   
-  The most immediate concern is the ongoing unwinding of financial market bubbles. According to **Jack Rasmus**, February saw "significant contractions in early February 2026," particularly across stocks, cryptocurrencies, and precious metals. These contractions are not isolated but part of a broader pattern of volatility that has accelerated since President Trump took office. Rasmus highlights that “financial asset market bubbles have reached unprecedented levels,” and the contagion is now spreading across asset classes. The consensus among independent analysts is that the risk of a major financial crisis in 2026 or 2027 is now high, with Rasmus stating there is "a high chance" of a market implosion within this timeframe.
+  **U.S. Economic Instability and Market Bubbles**
   
-  On the political front, President Trump’s recent State of the Union address has drawn sharp criticism for what **Jack Rasmus** describes as “economic misrepresentations and political theatrics.” Rasmus notes that the administration’s claims regarding inflation, tax cuts, and job creation are contradicted by underlying economic data, with job growth remaining stagnant and inflation rates understated. This disconnect between official rhetoric and economic reality is contributing to growing uncertainty both domestically and internationally.
+  Recent weeks have seen heightened concerns about the sustainability of U.S. financial markets. According to **Jack Rasmus**, financial asset bubbles—spanning stocks, cryptocurrencies, and precious metals—have reached unprecedented levels under Trump, but “experienced significant contractions in early February 2026.” This contraction is seen as a warning sign, with Rasmus noting that “the contagion across various asset classes” could lead to a market implosion by 2026 or 2027. He emphasizes that the job market remains stagnant, contradicting the administration’s claims of robust economic health.
   
-  Geopolitically, the U.S. continues to recalibrate its foreign policy focus. While the Ukraine conflict remains unresolved, with negotiations stalled and Russian military capabilities undiminished, the Trump administration is increasingly prioritizing influence in Latin America and the western Pacific. As Rasmus observes, this marks “a shift in focus from Europe and Ukraine to assert influence and counter threats in the region.” This pivot is seen as an attempt to shore up U.S. strategic interests amid declining global economic leverage.
+  **Federal Reserve Policy and Dollar Weakness**
   
-  Finally, concerns over democratic backsliding in the U.S. have intensified following Trump’s January announcement that he would personally dictate all war and policy decisions, disregarding constitutional checks. Critics, including Rasmus, argue this development “signifies a shift towards tyranny in the country,” raising alarms about the future of U.S. governance and its implications for global stability.
+  Monetary policy is under renewed scrutiny as the U.S. dollar continues to decline and gold prices fluctuate sharply. **Jack Rasmus** highlights the anticipation of lower short-term interest rates under the new Federal Reserve chair, which could further weaken the dollar’s global standing. He argues that these trends “signal a weakening of the US empire’s global economic standing,” with broader implications for U.S. monetary policy and international confidence in the dollar.
   
-  **Trends and Predictions:**  
-  - The financial sector is expected to remain volatile, with a high probability of a significant market correction or crash by 2027.  
-  - U.S. foreign policy will likely continue its pivot toward the Western Hemisphere and Pacific, deprioritizing Europe.  
-  - Domestically, political polarization and institutional strain are set to intensify, with the erosion of constitutional norms now a central risk factor.
+  **Geopolitical Shifts: Ukraine and Beyond**
   
-  Based on the majority of independent analysis, these trends are most definitely shaping the geopolitical and economic outlook for the remainder of 2026 and beyond.
+  On the international front, the Ukraine conflict remains unresolved, with U.S. and NATO strategies facing significant challenges. **Jack Rasmus** points out that “the challenges to achieving a negotiated settlement” persist, and the Trump administration’s focus appears to be shifting away from Europe toward asserting influence in Latin America and the western Pacific. This pivot is interpreted as an attempt to “counter threats in the region” and maintain U.S. hegemony amid growing global competition.
+  
+  **Domestic Political Climate**
+  
+  Domestically, the political environment is increasingly contentious. Trump’s recent declaration that he will “personally dictate all U.S. war and policy decisions” has been widely criticized as a move toward authoritarianism, with Rasmus warning that this “signifies a shift towards tyranny in the country.”
+  
+  **Trends and Predictions**
+  
+  Looking ahead, the majority of independent analysis suggests that the risk of a significant financial crisis is growing, with a high chance of market instability in the next 12–18 months. The U.S. dollar’s decline and the Federal Reserve’s anticipated rate cuts are likely to exacerbate these vulnerabilities. On the geopolitical front, the U.S. is expected to continue shifting its focus toward the Western Hemisphere and Pacific, while the Ukraine conflict remains deadlocked. Domestically, political polarization is set to intensify, especially as Trump consolidates executive power.
+  
+  **Jack Rasmus** concludes with high confidence that “there is a high chance of a major financial crisis before the end of 2027,” and that U.S. global influence will most definitely continue to erode if current trends persist.
 articles:
   - title: 'Trump’s 2026 SOTU Speech: Economic Obfuscation & Political Theater'
     url: https://jackrasmus.com/2026/02/26/trumps-2026-sotu-speech-economic-obfuscation-political-theater/

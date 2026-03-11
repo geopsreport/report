@@ -7,26 +7,309 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict grinds on into March 2026, the geopolitical landscape remains tense, with mounting pressures on all sides and shifting dynamics within Europe. The most recent developments center on the internal situation in Russia, the evolving state of Ukrainian leadership, and the broader European response to the ongoing war.
+  As Europe grapples with mounting internal and external pressures, recent commentary from independent analysts highlights deepening dissatisfaction with EU leadership and growing calls for institutional reform. The latest developments focus on the fallout from sanctions, the ongoing energy crisis, and the broader implications for European stability.
   
-  **Mounting Pressure on Putin and the Role of Russian State Media**
+  In a recent interview, **Harley Schlanger**—as cited by Gilbert Doctorow—criticized the European Union’s decision to sanction Jacques Baud, a move he sees as emblematic of a wider pattern of political repression within EU institutions. Schlanger advocates for similar sanctions against high-profile leaders such as Ursula von der Leyen and Kaja Kallas, arguing that their removal is necessary to restore democratic accountability and a proper separation of powers in Brussels. This sentiment reflects a broader frustration among analysts regarding the current direction of EU governance.
   
-  A notable shift in analytical focus has emerged regarding the sources used to assess Russian political dynamics. **Gilbert Doctorow** emphasizes the importance of Russian state television as a primary, identifiable source for understanding the pressures facing President Vladimir Putin. He argues that, despite skepticism from some Western analysts, these public broadcasts offer a more transparent and debatable window into Russian politics than the often-cited but unverifiable insider leaks. This methodological approach signals a move toward more rigorous, source-based analysis of the Kremlin’s internal challenges, especially as the war’s costs mount and public debate intensifies.
+  The energy crisis remains a central issue. According to **Gilbert Doctorow**, the ongoing shortages and soaring prices are “largely due to the incompetence of Ursula von der Leyen and her team.” Doctorow asserts that only a change in leadership can resolve the crisis, a view increasingly echoed across independent commentary. The EU’s recent emergency meetings have yet to yield effective solutions, and the risk of a prolonged economic downturn—potentially a depression—continues to loom over the continent.
   
-  **Ukrainian Leadership and Internal Strains**
+  Meanwhile, the situation in Ukraine and its reverberations across Europe persist as underlying factors. While not the focus of the most recent reports, earlier analysis by Doctorow notes that public sources, particularly Russian state media, remain crucial for understanding the pressures facing Vladimir Putin and the evolving dynamics of the war. This reliance on open-source intelligence is seen as vital for informed debate, especially as Western access to Russian decision-making circles remains limited.
   
-  On the Ukrainian side, President Zelensky’s recent call for European troops near the front lines, ostensibly to facilitate a ceasefire, has drawn criticism. **Doctorow** describes this as “misguided advice,” highlighting concerns about internal power struggles in Kyiv and suggesting that Ukraine may require a period of military rule to stabilize and reassess its position. This reflects growing skepticism among analysts about the coherence and sustainability of Ukraine’s current political and military strategy, especially as external support becomes more conditional and the domestic situation remains volatile.
-  
-  **European Policy and the Risk of Escalation**
-  
-  Meanwhile, the European Union’s approach continues to draw scrutiny. Recent discussions have focused on the EU’s controversial plans to intercept Russian tankers as part of new sanctions, a move that **Doctorow** warns could escalate the conflict and have severe repercussions for Western Europe. He likens the potential fallout to a “Gaza-like situation,” underscoring the risks of further entanglement and the fragility of European unity in the face of prolonged conflict.
-  
-  **Trends and Predictions**
-  
-  The prevailing trend is one of increasing pressure on all major actors, with internal divisions in both Russia and Ukraine complicating prospects for a negotiated settlement. The reliance on public Russian media for analysis is likely to continue, offering a more grounded perspective on Kremlin politics. In Ukraine, leadership instability and calls for drastic measures point to a period of uncertainty and potential upheaval.
-  
-  Looking ahead, there is a high chance that European attempts to tighten sanctions will provoke further Russian countermeasures, potentially destabilizing energy supplies and economic stability in the region. The prospect of a negotiated ceasefire remains distant, with most analysts agreeing that both sides are far from a sustainable compromise. As **Doctorow**’s recent analysis suggests, the situation is likely to remain volatile, with no immediate resolution in sight.
+  **Trends and Predictions:**  
+  The consensus among independent analysts is that the EU’s current leadership is unlikely to survive the mounting crises without significant reform. There is a high chance of increasing public and political pressure for institutional change, particularly if the energy situation deteriorates further. As Doctorow puts it, there is “high chance” that only a fundamental restructuring of EU governance can avert a deeper economic and political crisis. The outlook for the coming weeks suggests growing instability within EU institutions and a continued search for alternative leadership and policy solutions.
 articles:
+  - title: Interview with Harley Schlanger, Schiller Institute/LaRouche movement on
+      the barbarians who now rule Europe
+    url: https://gilbertdoctorow.com/2026/03/10/interview-with-harley-schlanger-schiller-institute-larouche-movement-on-the-barbarians-who-now-rule-europe/
+    text: I am especially appreciative of my friend Harley Schlanger’s giving me 45
+      minutes to delve into the issues surrounding the sanctioning of Swiss national
+      Jacques Baud and my related campaign to petition the European Council to impose
+      these very same personal sanctions on European Commission president Ursula von
+      der Leyen and her vice president for foreign policy and security Kaja Kallas over
+      their spreading disinformation that is leading Europe into a suicidal armed conflict
+      with Russia. As I explain here, the immediate task of a write-in campaign should
+      be the removal of these barbaric persons from the levers of power in Europe. The
+      follow-on task arising from careful inspection of the fundamental structure of
+      the European Institutions should be their dismantlement and reconstruction on
+      principles of Separation of the Executive, Legislative and Judicial powers to
+      put an end to the Absolutism that allows our unelected Commission seated in Brussels
+      to ride roughshod over the governments of the Member States and to trample on
+      the human rights of citizens across the Union. We need a ‘looser union’ that restores
+      to the Member States powers that have been stolen from them by the usurpers in
+      Brussels. But it all begins with members of our Community taking i-phone in hand
+      and writing in to gsdoctorow@gmail.com to express support for sanctioning von
+      der Leyen and Kallas over the crime of building European policies on blatant and
+      self-serving lies. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author expresses gratitude to Harley Schlanger for discussing
+      the sanctions against Jacques Baud and advocates for similar sanctions against
+      European leaders Ursula von der Leyen and Kaja Kallas, calling for their removal
+      from power and a restructuring of European institutions to ensure a separation
+      of powers.
+    paragraph_summary: The author, Gilbert Doctorow, expresses gratitude to his friend
+      Harley Schlanger for discussing the sanctions imposed on Swiss national Jacques
+      Baud and advocates for similar sanctions against European Commission President
+      Ursula von der Leyen and Vice President Kaja Kallas. He argues that their dissemination
+      of disinformation is pushing Europe towards a dangerous conflict with Russia.
+      Doctorow calls for a write-in campaign aimed at removing these leaders from power
+      and suggests a fundamental restructuring of European institutions to ensure a
+      separation of powers, thereby restoring authority to member states and protecting
+      citizens' rights. He emphasizes the need for a "looser union" that prioritizes
+      transparency and accountability, urging community members to support his campaign
+      by contacting him directly.
+    published: '2026-03-10T06:30:20+00:00'
+  - title: Interview with Harley Schlanger, Schiller Institute/LaRouche movement on
+      the barbarians who now rule Europe
+    url: https://gilbertdoctorow.com/2026/03/10/interview-with-harley-schlanger-schiller-institute-larouche-movement-on-the-barbarians-who-now-rule-europe/
+    text: I am especially appreciative of my friend Harley Schlanger’s giving me 45
+      minutes to delve into the issues surrounding the sanctioning of Swiss national
+      Jacques Baud and my related campaign to petition the European Council to impose
+      these very same personal sanctions on European Commission president Ursula von
+      der Leyen and her vice president for foreign policy and security Kaja Kallas over
+      their spreading disinformation that is leading Europe into a suicidal armed conflict
+      with Russia. As I explain here, the immediate task of a write-in campaign should
+      be the removal of these barbaric persons from the levers of power in Europe. The
+      follow-on task arising from careful inspection of the fundamental structure of
+      the European Institutions should be their dismantlement and reconstruction on
+      principles of Separation of the Executive, Legislative and Judicial powers to
+      put an end to the Absolutism that allows our unelected Commission seated in Brussels
+      to ride roughshod over the governments of the Member States and to trample on
+      the human rights of citizens across the Union. We need a ‘looser union’ that restores
+      to the Member States powers that have been stolen from them by the usurpers in
+      Brussels. But it all begins with members of our Community taking i-phone in hand
+      and writing in to gsdoctorow@gmail.com to express support for sanctioning von
+      der Leyen and Kallas over the crime of building European policies on blatant and
+      self-serving lies. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author expresses gratitude to Harley Schlanger for discussing
+      the sanctions against Jacques Baud and advocates for similar sanctions against
+      European leaders Ursula von der Leyen and Kaja Kallas, calling for their removal
+      from power and a restructuring of European institutions to ensure a separation
+      of powers.
+    paragraph_summary: The author, Gilbert Doctorow, expresses gratitude to his friend
+      Harley Schlanger for discussing the sanctions imposed on Swiss national Jacques
+      Baud and advocates for similar sanctions against European Commission President
+      Ursula von der Leyen and Vice President Kaja Kallas. He argues that their dissemination
+      of disinformation is pushing Europe towards a dangerous conflict with Russia.
+      Doctorow calls for a write-in campaign aimed at removing these leaders from power
+      and suggests a fundamental restructuring of European institutions to ensure a
+      separation of powers, thereby restoring authority to member states and protecting
+      citizens' rights. He emphasizes the need for a "looser union" that prioritizes
+      transparency and accountability, urging community members to support his campaign
+      by contacting him directly.
+    published: '2026-03-10T06:30:20+00:00'
+  - title: 'News X World: interview today on Russian Rosatom facilities in Iran, on
+      EU meetings today to address the energy crisis and on the coming Depression in
+      Europe'
+    url: https://gilbertdoctorow.com/2026/03/09/news-x-world-interview-today-on-russian-rosatom-facilities-in-iran-on-eu-meetings-today-to-address-the-energy-crisis-and-on-the-coming-depression-in-europe/
+    text: This 9-minute interview has been extracted from the 4pm (Indian time) news
+      wrap-up.  I think several of my answers left the presenter speechless, but that
+      seems to be fine for their producers and I trust the Community will also be pleased
+      by my truculent frankness about what has caused the energy crisis Europe is now
+      experiencing and why there is no solution short of the Parliament’s removing Ursula
+      von der Leyen and her utterly incompetent and ideologically driven team from power.
+    one_sentence_summary: In a candid 9-minute interview, the speaker expresses their
+      belief that the energy crisis in Europe is largely due to the incompetence of
+      Ursula von der Leyen and her team, suggesting that their removal is the only viable
+      solution.
+    paragraph_summary: In a 9-minute interview from a news wrap-up, the speaker expresses
+      candid views on the causes of the current energy crisis in Europe, suggesting
+      that the only viable solution is the removal of Ursula von der Leyen and her ineffective,
+      ideologically motivated team from power. The speaker's forthrightness appears
+      to have left the presenter momentarily speechless, but they believe this approach
+      will resonate positively with the community.
+    published: '2026-03-09T19:00:40+00:00'
+  - title: 'News X World: interview today on Russian Rosatom facilities in Iran, on
+      EU meetings today to address the energy crisis and on the coming Depression in
+      Europe'
+    url: https://gilbertdoctorow.com/2026/03/09/news-x-world-interview-today-on-russian-rosatom-facilities-in-iran-on-eu-meetings-today-to-address-the-energy-crisis-and-on-the-coming-depression-in-europe/
+    text: This 9-minute interview has been extracted from the 4pm (Indian time) news
+      wrap-up.  I think several of my answers left the presenter speechless, but that
+      seems to be fine for their producers and I trust the Community will also be pleased
+      by my truculent frankness about what has caused the energy crisis Europe is now
+      experiencing and why there is no solution short of the Parliament’s removing Ursula
+      von der Leyen and her utterly incompetent and ideologically driven team from power.
+    one_sentence_summary: In a candid 9-minute interview, the speaker expresses their
+      belief that the energy crisis in Europe is largely due to the incompetence of
+      Ursula von der Leyen and her team, suggesting that their removal is the only viable
+      solution.
+    paragraph_summary: In a 9-minute interview from a news wrap-up, the speaker expresses
+      candid views on the causes of the current energy crisis in Europe, suggesting
+      that the only viable solution is the removal of Ursula von der Leyen and her ineffective,
+      ideologically motivated team from power. The speaker's forthrightness appears
+      to have left the presenter momentarily speechless, but they believe this approach
+      will resonate positively with the community.
+    published: '2026-03-09T19:00:40+00:00'
+  - title: 'Getting through to the Kremlin: an important online article by Alexander
+      Dugin'
+    url: https://gilbertdoctorow.com/2026/03/09/getting-through-to-the-kremlin-an-important-online-article-by-alexander-dugin/
+    text: I am pleased to inform the Community that my efforts to bring advice on changing
+      direction in the Ukraine war to the attention of President Putin have just received
+      an unexpected and quite remarkable boost from Russia’s court philosopher, Alexander
+      Dugin. On his own dzen.ru page (Russian equivalent of Google), Dugin has just
+      published an article entitled «Любопытный аналитик и интересные наблюдения» (A
+      curious analyst and interesting observations). https://dzen.ru/a/aa2VmfMfGw2qRZNG?ysclid=mmiigf1v40340242948
+      (in Russian, but, of course, you can run it through your internet translator Deep
+      L on linguee.com) The article summarizes my thinking and makes specific reference
+      to what I said last week during interviews with ‘Judging Freedom’ and the Glenn
+      Diesen youtube channel. As I have noted in passing, both of these interviews were
+      reposted on the rutube.ru in Russian voice over within hours of their being posted
+      in the English original on youtube.com. The Diesen interview in particular has
+      done very well in Russia where its 8,000 plus views as of this morning is equal
+      to this little channel’s number of subcribers. Among other points, Dugin restates
+      my points about how the US attack on Iran has shocked Russia’s foreign policy
+      establishment, how there is no longer any faith in negotiating with Trump, how
+      Putin should change course on the war in Ukraine from ‘gently, gently’ to bombing
+      the Kiev regime to ashes. Dugin has rounded the corners a bit to avoid giving
+      offense to Vladimir Vladimirovich but the salient and, shall we say ‘positive’
+      recommendations in my interviews are accurately reproduced. Let us just remember
+      that Alexander Dugin is the father of the pro-Russia, anti-Kiev journalist Darya
+      Dugina who was assassinated in August 2022 by Ukrainian special forces in a bomb
+      attack on her car that more likely was intended to kill her father. She and he
+      have been lionized by the patriotic Russian press and Dugin is therefore untouchable
+      for Putin and his minions. We can be sure that his article on my interviews has
+      reached into the Kremlin and, who knows, may help build pressure for a change
+      of course in Russian conduct of the war which is absolutely essential if Russia
+      is to avoid the fate of Iran. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author expresses satisfaction that their insights on changing
+      the direction of the Ukraine war have gained unexpected support from Russian philosopher
+      Alexander Dugin, who referenced their ideas in a recent article.
+    paragraph_summary: The article discusses the author's successful efforts to influence
+      President Putin's strategy in the Ukraine war, which received unexpected support
+      from Alexander Dugin, a prominent Russian philosopher. Dugin published an article
+      on his dzen.ru page that summarizes the author's viewpoints, including insights
+      shared during recent interviews that have gained traction in Russia. He echoes
+      the author's concerns about the impact of U.S. actions in Iran on Russian foreign
+      policy and suggests a more aggressive military approach towards Ukraine. Dugin,
+      who is notable for his connections to the pro-Russia journalist Darya Dugina,
+      assassinated in 2022, presents the author's recommendations in a way that avoids
+      directly offending Putin, indicating his significant standing within the Russian
+      political landscape.
+    published: '2026-03-09T08:57:19+00:00'
+  - title: 'Getting through to the Kremlin: an important online article by Alexander
+      Dugin'
+    url: https://gilbertdoctorow.com/2026/03/09/getting-through-to-the-kremlin-an-important-online-article-by-alexander-dugin/
+    text: I am pleased to inform the Community that my efforts to bring advice on changing
+      direction in the Ukraine war to the attention of President Putin have just received
+      an unexpected and quite remarkable boost from Russia’s court philosopher, Alexander
+      Dugin. On his own dzen.ru page (Russian equivalent of Google), Dugin has just
+      published an article entitled «Любопытный аналитик и интересные наблюдения» (A
+      curious analyst and interesting observations). https://dzen.ru/a/aa2VmfMfGw2qRZNG?ysclid=mmiigf1v40340242948
+      (in Russian, but, of course, you can run it through your internet translator Deep
+      L on linguee.com) The article summarizes my thinking and makes specific reference
+      to what I said last week during interviews with ‘Judging Freedom’ and the Glenn
+      Diesen youtube channel. As I have noted in passing, both of these interviews were
+      reposted on the rutube.ru in Russian voice over within hours of their being posted
+      in the English original on youtube.com. The Diesen interview in particular has
+      done very well in Russia where its 8,000 plus views as of this morning is equal
+      to this little channel’s number of subcribers. Among other points, Dugin restates
+      my points about how the US attack on Iran has shocked Russia’s foreign policy
+      establishment, how there is no longer any faith in negotiating with Trump, how
+      Putin should change course on the war in Ukraine from ‘gently, gently’ to bombing
+      the Kiev regime to ashes. Dugin has rounded the corners a bit to avoid giving
+      offense to Vladimir Vladimirovich but the salient and, shall we say ‘positive’
+      recommendations in my interviews are accurately reproduced. Let us just remember
+      that Alexander Dugin is the father of the pro-Russia, anti-Kiev journalist Darya
+      Dugina who was assassinated in August 2022 by Ukrainian special forces in a bomb
+      attack on her car that more likely was intended to kill her father. She and he
+      have been lionized by the patriotic Russian press and Dugin is therefore untouchable
+      for Putin and his minions. We can be sure that his article on my interviews has
+      reached into the Kremlin and, who knows, may help build pressure for a change
+      of course in Russian conduct of the war which is absolutely essential if Russia
+      is to avoid the fate of Iran. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The author expresses satisfaction that their insights on changing
+      the direction of the Ukraine war have gained unexpected support from Russian philosopher
+      Alexander Dugin, who referenced their ideas in a recent article.
+    paragraph_summary: The article discusses the author's successful efforts to influence
+      President Putin's strategy in the Ukraine war, which received unexpected support
+      from Alexander Dugin, a prominent Russian philosopher. Dugin published an article
+      on his dzen.ru page that summarizes the author's viewpoints, including insights
+      shared during recent interviews that have gained traction in Russia. He echoes
+      the author's concerns about the impact of U.S. actions in Iran on Russian foreign
+      policy and suggests a more aggressive military approach towards Ukraine. Dugin,
+      who is notable for his connections to the pro-Russia journalist Darya Dugina,
+      assassinated in 2022, presents the author's recommendations in a way that avoids
+      directly offending Putin, indicating his significant standing within the Russian
+      political landscape.
+    published: '2026-03-09T08:57:19+00:00'
+  - title: 'A conversation with Professor Glenn Diesen: edition of 5 March 2026'
+    url: https://gilbertdoctorow.com/2026/03/06/a-conversation-with-professor-glenn-diesen-edition-of-5-march-2026/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his previous work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand observations in St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries detailing
+      his experiences and insights, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional Russia analyst
+      and extensive experience in business and academia, including a Ph.D. from Columbia
+      University and leadership roles in literary circles, Doctorow provides a unique
+      and informed viewpoint on Russian affairs, making his contributions to the literature
+      on the war particularly valuable.
+    published: '2026-03-06T06:32:42+00:00'
+  - title: Today’s edition of ‘Judging Freedom’
+    url: https://gilbertdoctorow.com/2026/03/04/todays-edition-of-judging-freedom/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by providing
+      insights from his visits to St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia and has had
+      a diverse career in business and academia, including leadership roles in literary
+      and cultural institutions. He currently resides in Brussels.
+    published: '2026-03-04T14:23:10+00:00'
   - title: Pressure mounts on Vladimir Putin
     url: https://gilbertdoctorow.com/2026/03/03/pressure-mounts-on-vladimir-putin/
     text: 'I am fully aware of the skepticism some of my colleagues have regarding the

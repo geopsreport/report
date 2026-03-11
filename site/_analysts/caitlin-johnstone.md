@@ -7,16 +7,1152 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The US-Israeli military campaign against Iran has entered a new and more brutal phase, with recent reports highlighting the intensification of direct attacks on Iranian soil. This escalation follows the assassination of Ayatollah Ali Khamenei and subsequent Iranian retaliatory strikes on US and Israeli targets. The conflict has already resulted in significant casualties, rising oil prices, and mounting international concern.
+  The US-Israel war with Iran continues to dominate the global agenda, with public narratives and moral framing now taking center stage alongside ongoing military operations. Since the assassination of Ayatollah Khamenei and the subsequent escalation—including missile strikes, air raids, and mounting civilian and military casualties—the discourse has shifted to the legitimacy and ethics of the conflict.
   
-  The latest development, as detailed by **Caitlin Johnstone** referencing Drop Site News, is a devastating double-tap airstrike by the US-Israel alliance in Tehran. Eyewitness accounts describe scenes of chaos and severe civilian injuries, underscoring the growing humanitarian toll of the conflict. These direct strikes on Iran’s capital mark a notable escalation, moving beyond military targets to urban centers and raising the risk of further civilian harm.
+  A new perspective is gaining traction among independent analysts. **Tim Foley** highlights in his latest article that “many people prefer to believe their government is benevolent rather than confront the uncomfortable truth that it often acts as a villain,” suggesting that Western populations are largely shielded from the war’s brutal realities and are susceptible to government-driven narratives justifying intervention. This theme is echoed by **Caitlin Johnstone**, who argues that the insistence on “opposing both sides” in the conflict is a distraction that ultimately serves US propaganda and prolongs violence against Iranian civilians.
   
-  Meanwhile, the US government continues to frame Iranian retaliatory actions as “unprovoked,” despite the sequence of events leading up to the current hostilities. **Johnstone** notes that former President Trump has publicly predicted a protracted conflict with continued American casualties, placing responsibility for the deaths of US soldiers on both himself and Israeli leadership. This admission, while unusual, reflects the entrenched positions on both sides and the lack of a clear path to de-escalation.
+  Recent reports also critique the Western public’s detachment from the consequences of military action. **Tim Foley** draws a stark contrast between the consumerist comfort of Western societies and the suffering in Iran, underscoring a growing moral divide. This critique is not just about the war itself, but about the broader societal willingness to ignore or rationalize the harm inflicted abroad.
   
-  Looking at broader trends, skepticism remains high regarding the justifications for war, with many analysts and media voices questioning the narrative of an imminent Iranian nuclear threat and the motives behind the military campaign. The majority view across independent sources is that the conflict is likely to continue escalating, with little sign of diplomatic engagement or meaningful opposition from US political leaders.
-  
-  Given the current trajectory, there is a high chance that the humanitarian situation in Iran will deteriorate further, and that the war will persist for the foreseeable future. I guarantee that unless there is a dramatic shift in US or Israeli policy, or significant international intervention, the cycle of violence and retaliation will most definitely continue.
+  Looking ahead, the majority of analysts agree that the US and Israeli governments are unlikely to shift course in the near term. The prevailing expectation is that, absent significant public pressure or a dramatic change in battlefield dynamics, the conflict will persist, with high civilian costs and continued attempts to control the narrative at home. There is a high chance that Western governments will intensify efforts to frame their actions as defensive and justified, while dissenting voices will remain marginalized. Based on current trends, I guarantee that the moral and informational battles over this war will only intensify in the coming weeks, as the gap between official narratives and independent reporting continues to widen.
 articles:
+  - title: We Are The Villains In This Story
+    url: https://www.caitlinjohnst.one/p/we-are-the-villains-in-this-story
+    text: 'Reading by Tim Foley : Subscribe now Nobody wants to believe they’re the
+      villain in the story. Nobody wants to believe their government is run by psychopaths
+      who are inflicting unfathomable evils upon populations around the globe in order
+      to rule the world. It’s much nicer to believe you’re the Good Guys. Much easier
+      to sit with the idea that your government might make an innocent mistake here
+      and there, but overall is a driving force for the good of humankind, and is certainly
+      superior to the villains it makes war with. That’s a fiction, though. It’s a comfortable
+      lie. A fairy tale that westerners tell themselves to avoid a profoundly uncomfortable
+      truth. The truth is that we are the villains. We are the terrorists. We are the
+      tyrants. We are the evil regime. Our soldiers aren’t out there defending our country,
+      they’re out there murdering people for defending their country. They’re not fighting
+      for freedom and democracy, they’re fighting for money and power. Daniel Crimmins
+      from the US Army 3rd Infantry Division wrote the following about the Iraq War
+      in 2015: “Then you realize you haven’t seen anything to support the idea that
+      these poor fuckers are a threat to your home. You look around and you see all
+      the contractors making six figure salaries to fix your shit, train Iraqis, maintain
+      the ridiculous SUVs the KBR dicks ride around in. You consider the fact that every
+      25mm shell costs about forty bucks, and your company has been handing those fuckers
+      out like shrapnel flavored parade candies. You think about all the fuel you’re
+      going through, all the ammo and missiles and grenades. You think about every time
+      you lose a vehicle, the Army buys a new one. Maybe you start to see a lot of people
+      making a lot of money on huge amounts of human suffering. “Then you go on leave,
+      and realize that Ayn Rand has no idea what the fuck she’s talking about. You realize
+      that Fox News and Limbaugh and John McCain don’t respect you or your buddies.
+      They don’t give a fuck if you get a parade or a box when you get home, you’re
+      nothing to them but a prop. “Then you get out, and you hate the news. You hate
+      the apathy, and you hate the murder being carried out in your name. You grew up
+      wanting so bad to be Luke Skywalker, but you realize that you were basically a
+      Stormtrooper, a faceless, nameless rifleman, carrying a spear for empire, and
+      you start to accept the startlingly obvious truth that these are people like you.”
+      That’s the reality right there, folks. We can wake up and start living in reality,
+      or we can remain asleep in the fiction. It’s time to wake up to the reality that
+      western civilization is a depraved dystopia where most people are sleepwalking
+      in a propaganda-addled stupor under an empire that is fueled by human blood. And
+      it’s time to awaken to the fact that as westerners it is our duty to tear that
+      empire down brick by brick, for the sake of our children and grandchildren, and
+      for the sake of our fellow man. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: In his article, Tim Foley argues that many people prefer to
+      believe their government is benevolent rather than confront the uncomfortable
+      truth that it often acts as a villain, inflicting harm and pursuing power under
+      the guise of promoting freedom and democracy.
+    paragraph_summary: In his article, Tim Foley challenges the comforting narrative
+      that Western governments are inherently good and their military actions justified,
+      arguing instead that they often embody the role of the villain in global conflicts.
+      He highlights the disconnect between the perception of soldiers as defenders of
+      freedom and the reality of their involvement in profit-driven wars that result
+      in significant suffering for others. Citing a reflection from a U.S. Army soldier,
+      Foley underscores the realization that military operations are less about protecting
+      home soil and more about financial gain for contractors and the military-industrial
+      complex. This perspective forces a confrontation with the uncomfortable truth
+      that Western nations may be perpetuating tyranny and violence rather than promoting
+      democracy and peace.
+    published: '2026-03-11T01:42:54+00:00'
+  - title: We Are The Villains In This Story
+    url: https://www.caitlinjohnst.one/p/we-are-the-villains-in-this-story
+    text: 'Reading by Tim Foley : Subscribe now Nobody wants to believe they’re the
+      villain in the story. Nobody wants to believe their government is run by psychopaths
+      who are inflicting unfathomable evils upon populations around the globe in order
+      to rule the world. It’s much nicer to believe you’re the Good Guys. Much easier
+      to sit with the idea that your government might make an innocent mistake here
+      and there, but overall is a driving force for the good of humankind, and is certainly
+      superior to the villains it makes war with. That’s a fiction, though. It’s a comfortable
+      lie. A fairy tale that westerners tell themselves to avoid a profoundly uncomfortable
+      truth. The truth is that we are the villains. We are the terrorists. We are the
+      tyrants. We are the evil regime. Our soldiers aren’t out there defending our country,
+      they’re out there murdering people for defending their country. They’re not fighting
+      for freedom and democracy, they’re fighting for money and power. Daniel Crimmins
+      from the US Army 3rd Infantry Division wrote the following about the Iraq War
+      in 2015: “Then you realize you haven’t seen anything to support the idea that
+      these poor fuckers are a threat to your home. You look around and you see all
+      the contractors making six figure salaries to fix your shit, train Iraqis, maintain
+      the ridiculous SUVs the KBR dicks ride around in. You consider the fact that every
+      25mm shell costs about forty bucks, and your company has been handing those fuckers
+      out like shrapnel flavored parade candies. You think about all the fuel you’re
+      going through, all the ammo and missiles and grenades. You think about every time
+      you lose a vehicle, the Army buys a new one. Maybe you start to see a lot of people
+      making a lot of money on huge amounts of human suffering. “Then you go on leave,
+      and realize that Ayn Rand has no idea what the fuck she’s talking about. You realize
+      that Fox News and Limbaugh and John McCain don’t respect you or your buddies.
+      They don’t give a fuck if you get a parade or a box when you get home, you’re
+      nothing to them but a prop. “Then you get out, and you hate the news. You hate
+      the apathy, and you hate the murder being carried out in your name. You grew up
+      wanting so bad to be Luke Skywalker, but you realize that you were basically a
+      Stormtrooper, a faceless, nameless rifleman, carrying a spear for empire, and
+      you start to accept the startlingly obvious truth that these are people like you.”
+      That’s the reality right there, folks. We can wake up and start living in reality,
+      or we can remain asleep in the fiction. It’s time to wake up to the reality that
+      western civilization is a depraved dystopia where most people are sleepwalking
+      in a propaganda-addled stupor under an empire that is fueled by human blood. And
+      it’s time to awaken to the fact that as westerners it is our duty to tear that
+      empire down brick by brick, for the sake of our children and grandchildren, and
+      for the sake of our fellow man. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: In his article, Tim Foley argues that many people prefer to
+      believe their government is benevolent rather than confront the uncomfortable
+      truth that it often acts as a villain, inflicting harm and pursuing power under
+      the guise of promoting freedom and democracy.
+    paragraph_summary: In his article, Tim Foley challenges the comforting narrative
+      that Western governments are inherently good and their military actions justified,
+      arguing instead that they often embody the role of the villain in global conflicts.
+      He highlights the disconnect between the perception of soldiers as defenders of
+      freedom and the reality of their involvement in profit-driven wars that result
+      in significant suffering for others. Citing a reflection from a U.S. Army soldier,
+      Foley underscores the realization that military operations are less about protecting
+      home soil and more about financial gain for contractors and the military-industrial
+      complex. This perspective forces a confrontation with the uncomfortable truth
+      that Western nations may be perpetuating tyranny and violence rather than promoting
+      democracy and peace.
+    published: '2026-03-11T01:42:54+00:00'
+  - title: Opposing "Both Sides" In This War Is Crazy Imperialist Nonsense, And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/opposing-both-sides-in-this-war-is
+    text: 'Reading by Tim Foley : Subscribe now People tell me, “It’s possible to oppose
+      this war AND oppose the Iranian regime. You can denounce BOTH.” Sure you can.
+      But you shouldn’t. You should not do this. You should not be a pro bono Pentagon
+      propagandist in the middle of a US war of immense consequence. You should not
+      do the hasbarists’ job for them. Make them do their own job themselves. This war
+      already has a huge number of propagandists screaming “REGIME BAD” at the top of
+      their lungs in order to ensure that the slaughter continues. You don’t need to
+      add your voice to the chorus, and you shouldn’t. You should not help them manufacture
+      consent for more human butchery. You should be using your voice solely and exclusively
+      to end the butchery your government and its allies are inflicting on human beings.
+      All your “REGIME BAD” sloganeering accomplished was paving the way to the carnage
+      you see before you today. Your self-righteous denunciations of the Iranian government
+      failed to expand the rights of a single Iranian woman or LGBTQ individual. All
+      you accomplished was helping to grease the wheels for a war of unfathomable horror,
+      ensuring that all Iranians now live under more fear and misery than ever before.
+      If you live under the western empire, you have an ethical obligation to use your
+      voice responsibly in that context. You don’t get to just irresponsibly feed into
+      an active war propaganda campaign by regurgitating the same regime change narratives
+      about an empire-targeted country as the US and Israeli governments, and then pretend
+      this doesn’t make you culpable for the consequences of your actions. If your words
+      help grease the wheels of the war machine, then you bear partial moral responsibility
+      for what the war machine does with your assistance. You don’t get to just pretend
+      that responsibility doesn’t exist. The families who are being torn apart with
+      the help of your pro bono war propaganda efforts do not care about your anarchist
+      or Trotskyist “all tyranny is equally bad” political philosophy or how good your
+      virtuous purity posturing makes you feel about yourself. All they experience is
+      the consequences of your actions. As a westerner, your one and only duty is to
+      oppose the depravity of the western empire. That’s your only job. Don’t lean out
+      the window of the Empire of Perpetual Bloodlust to wag your finger at empire-targeted
+      countries in the global south. It’s obnoxious. Curb the murderousness of your
+      own government and its allies. THAT’S your job. If you get your job done, THEN
+      come talk to me about how bad and wrong some random government in west Asia looks
+      to you. Until then, shut the fuck up and do your job. ❖ ❖ Everyone’s always telling
+      me to mind my own business and write about Australia instead of the war in Iran.
+      Meanwhile Australia has added to its already extensive involvement in this war
+      by sending war machinery to help defend against Iranian missile strikes in the
+      United Arab Emirates. So Australia isn’t just joining another American war, we’re
+      also defending the fucking UAE — one of the most evil countries on earth. All
+      that carnage you’ve been seeing in Sudan? That was backed by the UAE . Those emaciated
+      kids you were seeing in Yemen a few years ago? Starved by the UAE in collaboration
+      with Saudi Arabia, with the backing of the US and its allies. It was bad enough
+      when we were selling these freaks mountains of weapons , now we’re actively defending
+      them from the consequences of their ally’s unprovoked attack on Iran. Our alliance
+      with Washington poisons the soul of this entire continent. ❖ The 2015 Iran nuclear
+      deal was working fine ; anyone who says otherwise is a lying warmonger. Trump
+      and his handlers torched the JCPOA in 2018 because it was the primary obstacle
+      preventing them from getting to the war that is currently happening. ❖ ❖ Iran
+      is reportedly preparing to lay mines in the Strait of Hormuz to block shipping,
+      which will surprise nobody who knows anything about why the US empire held off
+      on waging this war in the first place. Sean McCarthy writes on Twitter, “For literally
+      45 years US planners have discussed this exact scenario and always decided against
+      war with Iran for this reason. It took an incredible combination of blackmail,
+      graft, lobby money and end time prophecy lunatics for Israel to make the US commit
+      imperial suicide.” This is what’s so crazy about all this: every reason it was
+      a bad idea to go to war with Iran in the past is still a very valid reason why
+      it’s a bad idea to go to war with Iran. It didn’t surprise anyone when Iran closed
+      the Strait of Hormuz; they always knew that would happen if this war started.
+      It didn’t surprise anyone when Iran started destroying US military assets in surrounding
+      Arab states; they always knew that would happen if this war started. It didn’t
+      surprise anyone that Iran would dig in and rely on its powerful military and invasion-proof
+      terrain to repel a US-Israeli offensive; they always knew that would happen if
+      this war started. None of this is catching anyone who knew anything off-guard.
+      It’s playing out exactly how leaders, military officials and analysts on both
+      sides have always said it would. Nothing changed about the reasons not to attack
+      Iran. All that’s changed is Washington’s willingness to try putting a very bad
+      idea into practice. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues against the idea of simultaneously opposing
+      the war and the Iranian regime, asserting that doing so aids U.S. propaganda efforts
+      and distracts from the urgent need to end the violence inflicted by the government
+      and its allies.
+    paragraph_summary: In his article, Tim Foley argues against the notion that one
+      can simultaneously oppose a war and the regime of a targeted country, specifically
+      Iran, without contributing to war propaganda. He asserts that denouncing the Iranian
+      government while a war is ongoing only aids in manufacturing consent for violence
+      and suffering, ultimately exacerbating the plight of ordinary citizens. Foley
+      emphasizes the ethical responsibility of individuals in the West to refrain from
+      echoing regime change narratives that align with U.S. and Israeli interests, as
+      doing so makes them complicit in the resulting humanitarian crises. He calls for
+      a focus on ending the violence rather than participating in the rhetoric that
+      fuels it, highlighting the moral implications of one's words and actions in the
+      context of war.
+    published: '2026-03-11T01:05:38+00:00'
+  - title: Opposing "Both Sides" In This War Is Crazy Imperialist Nonsense, And Other
+      Notes
+    url: https://www.caitlinjohnst.one/p/opposing-both-sides-in-this-war-is
+    text: 'Reading by Tim Foley : Subscribe now People tell me, “It’s possible to oppose
+      this war AND oppose the Iranian regime. You can denounce BOTH.” Sure you can.
+      But you shouldn’t. You should not do this. You should not be a pro bono Pentagon
+      propagandist in the middle of a US war of immense consequence. You should not
+      do the hasbarists’ job for them. Make them do their own job themselves. This war
+      already has a huge number of propagandists screaming “REGIME BAD” at the top of
+      their lungs in order to ensure that the slaughter continues. You don’t need to
+      add your voice to the chorus, and you shouldn’t. You should not help them manufacture
+      consent for more human butchery. You should be using your voice solely and exclusively
+      to end the butchery your government and its allies are inflicting on human beings.
+      All your “REGIME BAD” sloganeering accomplished was paving the way to the carnage
+      you see before you today. Your self-righteous denunciations of the Iranian government
+      failed to expand the rights of a single Iranian woman or LGBTQ individual. All
+      you accomplished was helping to grease the wheels for a war of unfathomable horror,
+      ensuring that all Iranians now live under more fear and misery than ever before.
+      If you live under the western empire, you have an ethical obligation to use your
+      voice responsibly in that context. You don’t get to just irresponsibly feed into
+      an active war propaganda campaign by regurgitating the same regime change narratives
+      about an empire-targeted country as the US and Israeli governments, and then pretend
+      this doesn’t make you culpable for the consequences of your actions. If your words
+      help grease the wheels of the war machine, then you bear partial moral responsibility
+      for what the war machine does with your assistance. You don’t get to just pretend
+      that responsibility doesn’t exist. The families who are being torn apart with
+      the help of your pro bono war propaganda efforts do not care about your anarchist
+      or Trotskyist “all tyranny is equally bad” political philosophy or how good your
+      virtuous purity posturing makes you feel about yourself. All they experience is
+      the consequences of your actions. As a westerner, your one and only duty is to
+      oppose the depravity of the western empire. That’s your only job. Don’t lean out
+      the window of the Empire of Perpetual Bloodlust to wag your finger at empire-targeted
+      countries in the global south. It’s obnoxious. Curb the murderousness of your
+      own government and its allies. THAT’S your job. If you get your job done, THEN
+      come talk to me about how bad and wrong some random government in west Asia looks
+      to you. Until then, shut the fuck up and do your job. ❖ ❖ Everyone’s always telling
+      me to mind my own business and write about Australia instead of the war in Iran.
+      Meanwhile Australia has added to its already extensive involvement in this war
+      by sending war machinery to help defend against Iranian missile strikes in the
+      United Arab Emirates. So Australia isn’t just joining another American war, we’re
+      also defending the fucking UAE — one of the most evil countries on earth. All
+      that carnage you’ve been seeing in Sudan? That was backed by the UAE . Those emaciated
+      kids you were seeing in Yemen a few years ago? Starved by the UAE in collaboration
+      with Saudi Arabia, with the backing of the US and its allies. It was bad enough
+      when we were selling these freaks mountains of weapons , now we’re actively defending
+      them from the consequences of their ally’s unprovoked attack on Iran. Our alliance
+      with Washington poisons the soul of this entire continent. ❖ The 2015 Iran nuclear
+      deal was working fine ; anyone who says otherwise is a lying warmonger. Trump
+      and his handlers torched the JCPOA in 2018 because it was the primary obstacle
+      preventing them from getting to the war that is currently happening. ❖ ❖ Iran
+      is reportedly preparing to lay mines in the Strait of Hormuz to block shipping,
+      which will surprise nobody who knows anything about why the US empire held off
+      on waging this war in the first place. Sean McCarthy writes on Twitter, “For literally
+      45 years US planners have discussed this exact scenario and always decided against
+      war with Iran for this reason. It took an incredible combination of blackmail,
+      graft, lobby money and end time prophecy lunatics for Israel to make the US commit
+      imperial suicide.” This is what’s so crazy about all this: every reason it was
+      a bad idea to go to war with Iran in the past is still a very valid reason why
+      it’s a bad idea to go to war with Iran. It didn’t surprise anyone when Iran closed
+      the Strait of Hormuz; they always knew that would happen if this war started.
+      It didn’t surprise anyone when Iran started destroying US military assets in surrounding
+      Arab states; they always knew that would happen if this war started. It didn’t
+      surprise anyone that Iran would dig in and rely on its powerful military and invasion-proof
+      terrain to repel a US-Israeli offensive; they always knew that would happen if
+      this war started. None of this is catching anyone who knew anything off-guard.
+      It’s playing out exactly how leaders, military officials and analysts on both
+      sides have always said it would. Nothing changed about the reasons not to attack
+      Iran. All that’s changed is Washington’s willingness to try putting a very bad
+      idea into practice. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues against the idea of simultaneously opposing
+      the war and the Iranian regime, asserting that doing so aids U.S. propaganda efforts
+      and distracts from the urgent need to end the violence inflicted by the government
+      and its allies.
+    paragraph_summary: In his article, Tim Foley argues against the notion that one
+      can simultaneously oppose a war and the regime of a targeted country, specifically
+      Iran, without contributing to war propaganda. He asserts that denouncing the Iranian
+      government while a war is ongoing only aids in manufacturing consent for violence
+      and suffering, ultimately exacerbating the plight of ordinary citizens. Foley
+      emphasizes the ethical responsibility of individuals in the West to refrain from
+      echoing regime change narratives that align with U.S. and Israeli interests, as
+      doing so makes them complicit in the resulting humanitarian crises. He calls for
+      a focus on ending the violence rather than participating in the rhetoric that
+      fuels it, highlighting the moral implications of one's words and actions in the
+      context of war.
+    published: '2026-03-11T01:05:38+00:00'
+  - title: Watching Amazon Prime While The Iranians Burn
+    url: https://www.caitlinjohnst.one/p/watching-amazon-prime-while-the-iranians
+    text: 'Reading by Tim Foley : Subscribe now Watching Amazon Prime while the Iranians
+      burn. Stuffing our mouths with cheesysugarbacon while the sky turns black over
+      Tehran. Laughing without smiling. Laughing with full mouths and empty eyes while
+      their water mixes with oil and blood. “Hoho this will hurt Trump in the midterms”
+      the liberal chortles, masturbating furiously while ruined parents pull ruined
+      schoolbags out of ruined schools. Frolicking on lawns with hamburgers in both
+      fists doing patchouli tai chi in clothes made by slaves as black rain waters gardens
+      of severed limbs and blown-out eyeballs. This is our culture. This is our religion.
+      Praying to Pornhub while children scream, telling ourselves it will all be worth
+      it when Iranian women can do OnlyFans to pay for boob jobs and butt lifts and
+      go to Capitalist Heaven when they die. Jizzing Taco Bells and bail bonds firms
+      all over the global south, our bellies full of the flesh of children, our veins
+      full of plastic and our mouths full of Lexapro, dancing at the ballroom covered
+      in blood and brains, gyrating to AI-generated music cranked up to maximum volume
+      to hide the sounds of the explosions and the gasps of our dying souls. Oh I’m
+      sorry, am I bumming you out? Have a hamburger and a Xanax. Everything’s fine.
+      This is all normal. Let’s pick the bits of skull and teeth from our hair and go
+      party. _________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley critiques the superficiality and
+      moral indifference of contemporary Western culture, highlighting the stark contrast
+      between indulgent consumerism and the suffering experienced by people in places
+      like Iran.
+    paragraph_summary: In Tim Foley's article, he critiques modern society's detachment
+      from global suffering, using stark imagery to illustrate a culture obsessed with
+      consumerism and entertainment while ignoring the violence and tragedy occurring
+      elsewhere, particularly in Iran. He juxtaposes the frivolity of Western life—filled
+      with fast food, mindless distractions, and superficial pleasures—with the grim
+      realities faced by those in war-torn regions, highlighting a disturbing disconnection
+      between privilege and pain. The piece serves as a harsh commentary on the moral
+      bankruptcy of a society that prioritizes comfort and distraction over empathy
+      and awareness, ultimately questioning the values that underpin contemporary existence.
+    published: '2026-03-09T01:06:17+00:00'
+  - title: Watching Amazon Prime While The Iranians Burn
+    url: https://www.caitlinjohnst.one/p/watching-amazon-prime-while-the-iranians
+    text: 'Reading by Tim Foley : Subscribe now Watching Amazon Prime while the Iranians
+      burn. Stuffing our mouths with cheesysugarbacon while the sky turns black over
+      Tehran. Laughing without smiling. Laughing with full mouths and empty eyes while
+      their water mixes with oil and blood. “Hoho this will hurt Trump in the midterms”
+      the liberal chortles, masturbating furiously while ruined parents pull ruined
+      schoolbags out of ruined schools. Frolicking on lawns with hamburgers in both
+      fists doing patchouli tai chi in clothes made by slaves as black rain waters gardens
+      of severed limbs and blown-out eyeballs. This is our culture. This is our religion.
+      Praying to Pornhub while children scream, telling ourselves it will all be worth
+      it when Iranian women can do OnlyFans to pay for boob jobs and butt lifts and
+      go to Capitalist Heaven when they die. Jizzing Taco Bells and bail bonds firms
+      all over the global south, our bellies full of the flesh of children, our veins
+      full of plastic and our mouths full of Lexapro, dancing at the ballroom covered
+      in blood and brains, gyrating to AI-generated music cranked up to maximum volume
+      to hide the sounds of the explosions and the gasps of our dying souls. Oh I’m
+      sorry, am I bumming you out? Have a hamburger and a Xanax. Everything’s fine.
+      This is all normal. Let’s pick the bits of skull and teeth from our hair and go
+      party. _________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley critiques the superficiality and
+      moral indifference of contemporary Western culture, highlighting the stark contrast
+      between indulgent consumerism and the suffering experienced by people in places
+      like Iran.
+    paragraph_summary: In Tim Foley's article, he critiques modern society's detachment
+      from global suffering, using stark imagery to illustrate a culture obsessed with
+      consumerism and entertainment while ignoring the violence and tragedy occurring
+      elsewhere, particularly in Iran. He juxtaposes the frivolity of Western life—filled
+      with fast food, mindless distractions, and superficial pleasures—with the grim
+      realities faced by those in war-torn regions, highlighting a disturbing disconnection
+      between privilege and pain. The piece serves as a harsh commentary on the moral
+      bankruptcy of a society that prioritizes comfort and distraction over empathy
+      and awareness, ultimately questioning the values that underpin contemporary existence.
+    published: '2026-03-09T01:06:17+00:00'
+  - title: It Is Not Okay For Grown Adults To Believe Infantile Fairy Tales About Iran
+    url: https://www.caitlinjohnst.one/p/it-is-not-okay-for-grown-adults-to
+    text: 'Reading by Tim Foley : Subscribe now It’s not okay for grown adults to believe
+      the United States wages wars to promote humanitarian interests and bring freedom
+      and democracy to oppressed populations. It’s not okay for grown adults to believe
+      that US soldiers fight and die to protect their country and its citizens. It’s
+      not okay for grown adults to believe US military interventionism in the middle
+      east has anything to do with women’s rights or making life better for women. It’s
+      not okay for grown adults to believe good things come from the US military attacking
+      middle eastern nations and toppling their governments. It’s not okay for grown
+      adults to believe the US government tells the truth about its wars and the reasons
+      it wages them. It’s not okay for grown adults to believe the US are the Good Guys
+      who are fighting evil Bad Guys like the heroes in a children’s cartoon show. It’s
+      not okay for grown adults to believe the US government is less murderous and tyrannical
+      than the Iranian government. It’s not okay for grown adults to swallow obvious
+      atrocity propaganda about horrific actions allegedly perpetrated by a US-targeted
+      government. It’s not okay for grown adults to consume western news media about
+      a war without extreme skepticism about all the information they’re being fed.
+      It’s not okay for grown adults to believe the US fights wars for self-defense.
+      It’s not okay for grown adults to believe the government that allows its own citizens
+      to die of poverty and disease cares deeply about the plight of the Iranian people.
+      It’s not okay for grown adults to support this war because of some shit that was
+      written in the Bible. It’s not okay for grown adults to believe the life of an
+      Iranian matters less than the life of an American. It’s not okay for grown adults
+      to believe the US military is used to make the world a better place. It’s not
+      okay for grown adults to believe this war will make Iran more free and democratic.
+      It’s not okay for grown adults to believe this war will benefit anyone besides
+      Israel and western oligarchs. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that it is misguided for adults to hold
+      naive beliefs about the motivations and consequences of U.S. military interventions,
+      particularly in the Middle East, suggesting that such views ignore the complexities
+      and realities of these actions.
+    paragraph_summary: In Tim Foley's article, he argues that it is misguided for adults
+      to hold various beliefs about U.S. military interventions, particularly in the
+      Middle East. He criticizes the notion that these wars are fought for humanitarian
+      reasons, to protect American citizens, or to promote women's rights, asserting
+      that such beliefs are naive and ignore the complexities of U.S. foreign policy.
+      Foley emphasizes the importance of skepticism towards government narratives and
+      mainstream media portrayals of war, contending that the U.S. government is not
+      inherently more virtuous than other regimes, such as Iran. He challenges readers
+      to reconsider the moral implications of their support for military actions that
+      claim to bring freedom and democracy, while also highlighting the hypocrisy of
+      a government that neglects its own citizens.
+    published: '2026-03-08T01:30:00+00:00'
+  - title: It Is Not Okay For Grown Adults To Believe Infantile Fairy Tales About Iran
+    url: https://www.caitlinjohnst.one/p/it-is-not-okay-for-grown-adults-to
+    text: 'Reading by Tim Foley : Subscribe now It’s not okay for grown adults to believe
+      the United States wages wars to promote humanitarian interests and bring freedom
+      and democracy to oppressed populations. It’s not okay for grown adults to believe
+      that US soldiers fight and die to protect their country and its citizens. It’s
+      not okay for grown adults to believe US military interventionism in the middle
+      east has anything to do with women’s rights or making life better for women. It’s
+      not okay for grown adults to believe good things come from the US military attacking
+      middle eastern nations and toppling their governments. It’s not okay for grown
+      adults to believe the US government tells the truth about its wars and the reasons
+      it wages them. It’s not okay for grown adults to believe the US are the Good Guys
+      who are fighting evil Bad Guys like the heroes in a children’s cartoon show. It’s
+      not okay for grown adults to believe the US government is less murderous and tyrannical
+      than the Iranian government. It’s not okay for grown adults to swallow obvious
+      atrocity propaganda about horrific actions allegedly perpetrated by a US-targeted
+      government. It’s not okay for grown adults to consume western news media about
+      a war without extreme skepticism about all the information they’re being fed.
+      It’s not okay for grown adults to believe the US fights wars for self-defense.
+      It’s not okay for grown adults to believe the government that allows its own citizens
+      to die of poverty and disease cares deeply about the plight of the Iranian people.
+      It’s not okay for grown adults to support this war because of some shit that was
+      written in the Bible. It’s not okay for grown adults to believe the life of an
+      Iranian matters less than the life of an American. It’s not okay for grown adults
+      to believe the US military is used to make the world a better place. It’s not
+      okay for grown adults to believe this war will make Iran more free and democratic.
+      It’s not okay for grown adults to believe this war will benefit anyone besides
+      Israel and western oligarchs. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that it is misguided for adults to hold
+      naive beliefs about the motivations and consequences of U.S. military interventions,
+      particularly in the Middle East, suggesting that such views ignore the complexities
+      and realities of these actions.
+    paragraph_summary: In Tim Foley's article, he argues that it is misguided for adults
+      to hold various beliefs about U.S. military interventions, particularly in the
+      Middle East. He criticizes the notion that these wars are fought for humanitarian
+      reasons, to protect American citizens, or to promote women's rights, asserting
+      that such beliefs are naive and ignore the complexities of U.S. foreign policy.
+      Foley emphasizes the importance of skepticism towards government narratives and
+      mainstream media portrayals of war, contending that the U.S. government is not
+      inherently more virtuous than other regimes, such as Iran. He challenges readers
+      to reconsider the moral implications of their support for military actions that
+      claim to bring freedom and democracy, while also highlighting the hypocrisy of
+      a government that neglects its own citizens.
+    published: '2026-03-08T01:30:00+00:00'
+  - title: The US Soldiers Killed In This War Were Not Heroes, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-us-soldiers-killed-in-this-war
+    text: 'Reading by Tim Foley : Subscribe now The US soldiers who are getting killed
+      in the war with Iran were not heroes. They did not die defending their country.
+      They did not die fighting to protect Americans. They died advancing the geostrategic
+      agendas of oligarchs and empire managers which benefit ordinary Americans in no
+      way. It’s important not to valorize these people for two reasons. Firstly, it
+      assists US military recruitment by falsely portraying these imperial stormtrooper
+      careers as noble and heroic. Secondly, it falsely frames the war they died in
+      as a righteous cause which is making the world a better place, rather than as
+      a war of aggression against a nation that posed literally zero threat to their
+      homeland. These are not harmless little white lies. They are extremely destructive
+      propaganda narratives which facilitate acts of mass military slaughter on real
+      human beings. Don’t assist the warmongers in circulating these lies. Don’t pretend
+      they are true to help people feel nice feelings about the dead soldiers. People
+      should not be feeling nice feelings about the dead soldiers. People should be
+      angry and upset, and they should be demanding that this horrific war end immediately.
+      Those soldiers did not die for any noble reason. They died for money, for power,
+      and for Israel. They wasted their lives, and they died for stupid, unworthy reasons.
+      Don’t let anyone claim otherwise. ❖ On February 28, President Trump told Axios
+      that the war on Iran could end “in two or three days”. On March 1, Trump released
+      a video message saying the war would “take four weeks or less.” On March 2, Trump
+      said from the White House that the war is “projected four to five weeks”, adding
+      the US military has the “capability to go far longer than that”. On March 4, Secretary
+      of War Pete Hegseth told the press , “you can say four weeks, but it could be
+      six, it could be eight.” On March 6, Politico reported that the Pentagon is planning
+      for the war to run through September. I wonder what they’ll be saying after September?
+      ❖ https://x.com/caitoz/status/2028577136932798823?s=20 ❖ The left’s resistance
+      to the Iran war has been relatively muted and inadequate up to this point. One
+      reason for this is because a lot of pro-regime change voices inserted themselves
+      into the pro-Palestine movement and have been promoting their view for three years.
+      I used to follow a few pro-Palestine accounts on TikTok and Instagram who sound
+      great when they’re talking about Gaza but suddenly transform into Lindsey Graham
+      whenever they’re talking about Iran. I mean I’m exaggerating slightly — they dress
+      it up in leftist-sounding language etc — but functionally their position hasn’t
+      been much different from that of Marco Rubio. I don’t have time to get into a
+      big flame war with minor internet personalities so I’m not going to call anyone
+      out or cite specific examples, but the long and short of it is they wanted regime
+      change and promoted the idea that we should all “center Iranian voices,” ie the
+      voices of warmongering Iranian diaspora. That’s been happening throughout the
+      pro-Palestine movement, both online and off, and it’s put a wobble on people’s
+      confidence when it comes to resisting Trump’s latest mass atrocity. This idea
+      that we need to defer to Iranian diaspora about the morality of this war is bat
+      shit insane, and does not deserve to be taken seriously. Too many leftists have
+      let warmongers of Iranian descent bully them into silence on this front, in exactly
+      the same way they let western Jews bully them into silence about Palestine for
+      decades. Their wholesome leftist sensibilities get exploited by cynical manipulators
+      because they want to be receptive to what they perceive as a marginalized group,
+      and it leads them to espouse the exact same foreign policy positions as the CIA
+      and the US State Department. This is stupid, and it needs to stop. Your instincts
+      about the horrific nature of this war are correct. Anyone who told you not to
+      oppose this is an asshole. Don’t let anyone shout you down and shut you up, regardless
+      of where their family happens to come from. Shout right back at them. Tell them
+      to shut up. You are right, and they are wrong. Get out there and start resisting
+      this thing. ❖ https://x.com/Acyn/status/2028953598210576631 I don’t understand
+      people who fret about sending American boots on the ground in a war of aggression
+      that’s already slaughtering hundreds of civilians every day. These people are
+      like space aliens to me. I cannot for the life of me imagine what it would be
+      like to inhabit a mind that sees bombing civilians as fine, and only becomes “fearful”
+      of a horrific military conflict if it will kill a lot of soldiers from the same
+      country as you. ❖ CNN has a write-up titled “ One Tehran resident was hoping for
+      war, but the death of a friend in a bombing raid ‘destroyed’ him ”, which reports
+      the following: “A resident of Tehran who spoke with CNN on Friday said that he
+      had been hoping for a war that would topple Iran’s ruling government, but the
+      death of his friend in a bombing raid ‘destroyed’ him. “‘I was waiting for war,
+      I was begging for it,’ he told CNN. ‘I knew that there will be sadness and pain,
+      but I didn’t expect to get involved so quick.’” I’m sorry to be insensitive but
+      what the fuck did pro-war Iranians think “please bomb our country” was asking
+      for? What did they think that would look like in practice? This is why you need
+      to be dismissive of EVERYONE who supports this war. Even Iranian diaspora, and
+      even Iranians in Iran. Nobody who wants the US and Israel to bomb the place where
+      their family lives truly understands what it is they’re asking for. They’re not
+      interfacing with reality in their worldview; they’ve bought into the war propaganda
+      and ingested a fantasy, just like all the shitbrained warmongering westerners.
+      Nobody with a truth-based relationship with reality would ever ask for this. Now
+      they’ve got what they asked for, and they’re probably going to watch their country
+      get bombed to rubble and then plunged into chaos and instability for the foreseeable
+      future as the US and Israel try to create a gigantic Libya in west Asia. Sometimes
+      you need to tell people to shut the fuck up and stop demanding crazy acts of war,
+      regardless of what country their family happens to be from. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that U.S. soldiers killed in the war with
+      Iran should not be valorized as heroes, as their deaths serve the interests of
+      oligarchs rather than the defense of their country, and perpetuating this narrative
+      aids military recruitment and misrepresents the war as a righteous cause.
+    paragraph_summary: In his article, Tim Foley argues that U.S. soldiers killed in
+      the war with Iran should not be regarded as heroes, as their deaths serve the
+      interests of oligarchs and imperial agendas rather than the defense of their country
+      or its citizens. He emphasizes that valorizing these soldiers misrepresents the
+      nature of the conflict as a noble cause, thereby aiding military recruitment and
+      perpetuating harmful propaganda that obscures the reality of the war as an act
+      of aggression against a nation that posed no threat to the U.S. Foley asserts
+      that instead of feeling sympathy for the fallen soldiers, people should be outraged
+      and demand an end to the war, which he characterizes as driven by greed and power
+      rather than any worthy ideals. He also highlights the contradictory statements
+      from President Trump and military officials regarding the expected duration of
+      the conflict, suggesting a lack of clarity and planning in the U.S. military's
+      approach.
+    published: '2026-03-07T01:42:12+00:00'
+  - title: The US Soldiers Killed In This War Were Not Heroes, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-us-soldiers-killed-in-this-war
+    text: 'Reading by Tim Foley : Subscribe now The US soldiers who are getting killed
+      in the war with Iran were not heroes. They did not die defending their country.
+      They did not die fighting to protect Americans. They died advancing the geostrategic
+      agendas of oligarchs and empire managers which benefit ordinary Americans in no
+      way. It’s important not to valorize these people for two reasons. Firstly, it
+      assists US military recruitment by falsely portraying these imperial stormtrooper
+      careers as noble and heroic. Secondly, it falsely frames the war they died in
+      as a righteous cause which is making the world a better place, rather than as
+      a war of aggression against a nation that posed literally zero threat to their
+      homeland. These are not harmless little white lies. They are extremely destructive
+      propaganda narratives which facilitate acts of mass military slaughter on real
+      human beings. Don’t assist the warmongers in circulating these lies. Don’t pretend
+      they are true to help people feel nice feelings about the dead soldiers. People
+      should not be feeling nice feelings about the dead soldiers. People should be
+      angry and upset, and they should be demanding that this horrific war end immediately.
+      Those soldiers did not die for any noble reason. They died for money, for power,
+      and for Israel. They wasted their lives, and they died for stupid, unworthy reasons.
+      Don’t let anyone claim otherwise. ❖ On February 28, President Trump told Axios
+      that the war on Iran could end “in two or three days”. On March 1, Trump released
+      a video message saying the war would “take four weeks or less.” On March 2, Trump
+      said from the White House that the war is “projected four to five weeks”, adding
+      the US military has the “capability to go far longer than that”. On March 4, Secretary
+      of War Pete Hegseth told the press , “you can say four weeks, but it could be
+      six, it could be eight.” On March 6, Politico reported that the Pentagon is planning
+      for the war to run through September. I wonder what they’ll be saying after September?
+      ❖ https://x.com/caitoz/status/2028577136932798823?s=20 ❖ The left’s resistance
+      to the Iran war has been relatively muted and inadequate up to this point. One
+      reason for this is because a lot of pro-regime change voices inserted themselves
+      into the pro-Palestine movement and have been promoting their view for three years.
+      I used to follow a few pro-Palestine accounts on TikTok and Instagram who sound
+      great when they’re talking about Gaza but suddenly transform into Lindsey Graham
+      whenever they’re talking about Iran. I mean I’m exaggerating slightly — they dress
+      it up in leftist-sounding language etc — but functionally their position hasn’t
+      been much different from that of Marco Rubio. I don’t have time to get into a
+      big flame war with minor internet personalities so I’m not going to call anyone
+      out or cite specific examples, but the long and short of it is they wanted regime
+      change and promoted the idea that we should all “center Iranian voices,” ie the
+      voices of warmongering Iranian diaspora. That’s been happening throughout the
+      pro-Palestine movement, both online and off, and it’s put a wobble on people’s
+      confidence when it comes to resisting Trump’s latest mass atrocity. This idea
+      that we need to defer to Iranian diaspora about the morality of this war is bat
+      shit insane, and does not deserve to be taken seriously. Too many leftists have
+      let warmongers of Iranian descent bully them into silence on this front, in exactly
+      the same way they let western Jews bully them into silence about Palestine for
+      decades. Their wholesome leftist sensibilities get exploited by cynical manipulators
+      because they want to be receptive to what they perceive as a marginalized group,
+      and it leads them to espouse the exact same foreign policy positions as the CIA
+      and the US State Department. This is stupid, and it needs to stop. Your instincts
+      about the horrific nature of this war are correct. Anyone who told you not to
+      oppose this is an asshole. Don’t let anyone shout you down and shut you up, regardless
+      of where their family happens to come from. Shout right back at them. Tell them
+      to shut up. You are right, and they are wrong. Get out there and start resisting
+      this thing. ❖ https://x.com/Acyn/status/2028953598210576631 I don’t understand
+      people who fret about sending American boots on the ground in a war of aggression
+      that’s already slaughtering hundreds of civilians every day. These people are
+      like space aliens to me. I cannot for the life of me imagine what it would be
+      like to inhabit a mind that sees bombing civilians as fine, and only becomes “fearful”
+      of a horrific military conflict if it will kill a lot of soldiers from the same
+      country as you. ❖ CNN has a write-up titled “ One Tehran resident was hoping for
+      war, but the death of a friend in a bombing raid ‘destroyed’ him ”, which reports
+      the following: “A resident of Tehran who spoke with CNN on Friday said that he
+      had been hoping for a war that would topple Iran’s ruling government, but the
+      death of his friend in a bombing raid ‘destroyed’ him. “‘I was waiting for war,
+      I was begging for it,’ he told CNN. ‘I knew that there will be sadness and pain,
+      but I didn’t expect to get involved so quick.’” I’m sorry to be insensitive but
+      what the fuck did pro-war Iranians think “please bomb our country” was asking
+      for? What did they think that would look like in practice? This is why you need
+      to be dismissive of EVERYONE who supports this war. Even Iranian diaspora, and
+      even Iranians in Iran. Nobody who wants the US and Israel to bomb the place where
+      their family lives truly understands what it is they’re asking for. They’re not
+      interfacing with reality in their worldview; they’ve bought into the war propaganda
+      and ingested a fantasy, just like all the shitbrained warmongering westerners.
+      Nobody with a truth-based relationship with reality would ever ask for this. Now
+      they’ve got what they asked for, and they’re probably going to watch their country
+      get bombed to rubble and then plunged into chaos and instability for the foreseeable
+      future as the US and Israel try to create a gigantic Libya in west Asia. Sometimes
+      you need to tell people to shut the fuck up and stop demanding crazy acts of war,
+      regardless of what country their family happens to be from. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that U.S. soldiers killed in the war with
+      Iran should not be valorized as heroes, as their deaths serve the interests of
+      oligarchs rather than the defense of their country, and perpetuating this narrative
+      aids military recruitment and misrepresents the war as a righteous cause.
+    paragraph_summary: In his article, Tim Foley argues that U.S. soldiers killed in
+      the war with Iran should not be regarded as heroes, as their deaths serve the
+      interests of oligarchs and imperial agendas rather than the defense of their country
+      or its citizens. He emphasizes that valorizing these soldiers misrepresents the
+      nature of the conflict as a noble cause, thereby aiding military recruitment and
+      perpetuating harmful propaganda that obscures the reality of the war as an act
+      of aggression against a nation that posed no threat to the U.S. Foley asserts
+      that instead of feeling sympathy for the fallen soldiers, people should be outraged
+      and demand an end to the war, which he characterizes as driven by greed and power
+      rather than any worthy ideals. He also highlights the contradictory statements
+      from President Trump and military officials regarding the expected duration of
+      the conflict, suggesting a lack of clarity and planning in the U.S. military's
+      approach.
+    published: '2026-03-07T01:42:12+00:00'
+  - title: This Is Even Dumber And Crazier Than The Iraq War
+    url: https://www.caitlinjohnst.one/p/this-is-even-dumber-and-crazier-than
+    text: 'Reading by Tim Foley : Subscribe now Young people keep asking me if this
+      was what the Iraq invasion was like. I’ve been telling them “Sort of, but this
+      is way dumber and crazier.” There were fairly intelligent people who bought into
+      the Iraq war propaganda. Many anti-war folk assumed Saddam probably did have weapons
+      of mass destruction — they just didn’t buy into the narrative that war was the
+      answer. There really were interventionists who sincerely believed the war could
+      do good things for the Iraqi people. This is nothing like that. Only the most
+      shitbrained of morons sincerely believe the narratives supporting the Trumpanyahu
+      administration’s attack on Iran. Mostly it’s just liars and manipulators cynically
+      pretending to believe the stories about nuclear weapons and massacred protesters
+      and bringing freedom and democracy to the Iranian people, because they want Iran
+      to be bombed. This time they’re not even pretending to care about the will of
+      the American people. They’re not even pretending to care about humanitarian interests
+      or the future of the people they are bombing. They’re just spouting extremely
+      obvious lies that get fact-checked and debunked by the mainstream media in real
+      time, and then murdering people and bragging about it. https://x.com/mehdirhasan/status/2029544008926568900
+      The Iraq invasion was an unforgivable mass atrocity of unfathomable evil, but
+      looking back on it you can understand how a person acting in good faith could
+      have been taken in by the post-9/11 hysteria and the uniform war propaganda of
+      the mass media. There was an argument put forward that Saddam Hussein would be
+      replaced with a government that serves the interests of the Iraqi people, and
+      then the US coalition really did stay in the country and build up a new regime
+      to run things. Compared to what we’re seeing now, it’s almost quaint. This is
+      just open savagery. The US and Israel are pursuing the Libya model with Iran:
+      smashing and decapitating the nation and then leaving the people to pick up the
+      pieces and deal with all the chaos, lawlessness and sectarian conflict that ensues.
+      They intend to plunge a nation of 90 million people into mass-scale strife and
+      potential state collapse or balkanization, and then casually stroll away from
+      the wreckage in cool indifference to the suffering they just unleashed upon the
+      world. They make no claim to be replacing the Iranian government with a better
+      one. They make no claim to be bringing freedom and democracy to an oppressed people.
+      They’re selling WMD lies and atrocity propaganda, but only in the most half-assed
+      and low-energy of ways, with no interest in whether anyone actually believes them.
+      Mostly they’re just destroying an ancient nation because they can, and looking
+      at the world saying “Yeah we’re thugs. What are you gonna do about it?” This is
+      the new George W Bush. Trump is what Bush metamorphoses into when it emerges from
+      its red cocoon. The crazier the US empire gets, the more insane its managers are
+      becoming. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley argues that the current narratives supporting the
+      Trump administration's potential attack on Iran are far less credible and more
+      manipulative than the justifications used for the Iraq invasion, with many proponents
+      lacking genuine belief in their claims.
+    paragraph_summary: In his article, Tim Foley compares the current U.S. and Israeli
+      aggression towards Iran to the Iraq invasion, arguing that while the latter involved
+      some individuals who genuinely believed in the war's justifications, the current
+      situation is marked by blatant dishonesty and manipulation. He asserts that the
+      narratives supporting the Trump administration's actions against Iran are not
+      taken seriously by anyone with intelligence, as they are transparently false claims
+      about nuclear threats and humanitarian concerns. Unlike the Iraq war, which had
+      some semblance of a rationale rooted in post-9/11 fears, the ongoing aggression
+      towards Iran is characterized by outright brutality and a disregard for both American
+      public opinion and the welfare of the Iranian people, reflecting a shift towards
+      a more savage and cynical approach to foreign policy.
+    published: '2026-03-06T00:24:53+00:00'
+  - title: This Is Even Dumber And Crazier Than The Iraq War
+    url: https://www.caitlinjohnst.one/p/this-is-even-dumber-and-crazier-than
+    text: 'Reading by Tim Foley : Subscribe now Young people keep asking me if this
+      was what the Iraq invasion was like. I’ve been telling them “Sort of, but this
+      is way dumber and crazier.” There were fairly intelligent people who bought into
+      the Iraq war propaganda. Many anti-war folk assumed Saddam probably did have weapons
+      of mass destruction — they just didn’t buy into the narrative that war was the
+      answer. There really were interventionists who sincerely believed the war could
+      do good things for the Iraqi people. This is nothing like that. Only the most
+      shitbrained of morons sincerely believe the narratives supporting the Trumpanyahu
+      administration’s attack on Iran. Mostly it’s just liars and manipulators cynically
+      pretending to believe the stories about nuclear weapons and massacred protesters
+      and bringing freedom and democracy to the Iranian people, because they want Iran
+      to be bombed. This time they’re not even pretending to care about the will of
+      the American people. They’re not even pretending to care about humanitarian interests
+      or the future of the people they are bombing. They’re just spouting extremely
+      obvious lies that get fact-checked and debunked by the mainstream media in real
+      time, and then murdering people and bragging about it. https://x.com/mehdirhasan/status/2029544008926568900
+      The Iraq invasion was an unforgivable mass atrocity of unfathomable evil, but
+      looking back on it you can understand how a person acting in good faith could
+      have been taken in by the post-9/11 hysteria and the uniform war propaganda of
+      the mass media. There was an argument put forward that Saddam Hussein would be
+      replaced with a government that serves the interests of the Iraqi people, and
+      then the US coalition really did stay in the country and build up a new regime
+      to run things. Compared to what we’re seeing now, it’s almost quaint. This is
+      just open savagery. The US and Israel are pursuing the Libya model with Iran:
+      smashing and decapitating the nation and then leaving the people to pick up the
+      pieces and deal with all the chaos, lawlessness and sectarian conflict that ensues.
+      They intend to plunge a nation of 90 million people into mass-scale strife and
+      potential state collapse or balkanization, and then casually stroll away from
+      the wreckage in cool indifference to the suffering they just unleashed upon the
+      world. They make no claim to be replacing the Iranian government with a better
+      one. They make no claim to be bringing freedom and democracy to an oppressed people.
+      They’re selling WMD lies and atrocity propaganda, but only in the most half-assed
+      and low-energy of ways, with no interest in whether anyone actually believes them.
+      Mostly they’re just destroying an ancient nation because they can, and looking
+      at the world saying “Yeah we’re thugs. What are you gonna do about it?” This is
+      the new George W Bush. Trump is what Bush metamorphoses into when it emerges from
+      its red cocoon. The crazier the US empire gets, the more insane its managers are
+      becoming. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley argues that the current narratives supporting the
+      Trump administration's potential attack on Iran are far less credible and more
+      manipulative than the justifications used for the Iraq invasion, with many proponents
+      lacking genuine belief in their claims.
+    paragraph_summary: In his article, Tim Foley compares the current U.S. and Israeli
+      aggression towards Iran to the Iraq invasion, arguing that while the latter involved
+      some individuals who genuinely believed in the war's justifications, the current
+      situation is marked by blatant dishonesty and manipulation. He asserts that the
+      narratives supporting the Trump administration's actions against Iran are not
+      taken seriously by anyone with intelligence, as they are transparently false claims
+      about nuclear threats and humanitarian concerns. Unlike the Iraq war, which had
+      some semblance of a rationale rooted in post-9/11 fears, the ongoing aggression
+      towards Iran is characterized by outright brutality and a disregard for both American
+      public opinion and the welfare of the Iranian people, reflecting a shift towards
+      a more savage and cynical approach to foreign policy.
+    published: '2026-03-06T00:24:53+00:00'
+  - title: The US War Machine Is Run By Deranged Armageddon Cultists
+    url: https://www.caitlinjohnst.one/p/the-us-war-machine-is-run-by-deranged
+    text: 'Reading by Tim Foley : Subscribe now Secretary of War Pete Hegseth gave one
+      of his signature “I don’t have a small penis” tirades at the Pentagon on Wednesday
+      , ranting and raving about the big, powerful, masculine war machinery that’s currently
+      raining death and destruction upon the people of Iran. “We will fly all day, all
+      night, day and night finding, fixing and finishing the missiles and defense industrial
+      base of the Iranian military, finding and fixing their leaders and their military
+      leaders, flying over Tehran, flying over Iran, flying over their capital, flying
+      over the IRGC, Iranian leaders looking up and seeing only US and Israeli air power
+      every minute of every day until we decide it’s over,” Hegseth bloviated, saying
+      there will be “B-2s, B-52s, B-1s, Predator drones, fighters controlling the skies,
+      picking targets, death and destruction from the sky all day long.” “This was never
+      meant to be a fair fight, and it is not a fair fight. We are punching them while
+      they’re down, which is exactly how it should be,” the War Secretary spouted. https://x.com/ProudSocialist/status/2029217598450151861
+      This would be the same Pete Hegseth who was mentioned in a recent article by Jonathan
+      Larsen titled “ U.S. Troops Were Told Iran War Is for ‘Armageddon,’ Return of
+      Jesus ”, which reports that US military commanders are telling American soldiers
+      that they are on a mission from God to fulfill a biblical prophecy and bring about
+      the end of the world. “Defense Secretary Pete Hegseth has enshrined evangelical
+      Christianity at the uppermost levels of the U.S. military, airing monthly prayer
+      meetings throughout the Pentagon,” Larsen reports, saying that “Last year, the
+      Pentagon confirmed to me that Hegseth attends a weekly White House Bible study.
+      It’s led by a preacher who says God commands America to support Israel.” Larsen
+      reports that the Military Religious Freedom Foundation has been inundated with
+      complaints from every branch of the US military that troops are being told by
+      their leaders that President Trump has been “anointed by Jesus to light the signal
+      fire in Iran to cause Armageddon and mark his return to Earth,” and similar statements.
+      Then you’ve got House Speaker Mike Johnson spouting religious war rhetoric, claiming
+      Iranians have been led to evil by a “misguided religion”. “The largest state sponsor
+      of terrorism, Iran and its proxies, have killed more Americans than any other
+      terrorist regime on Earth,” said Johnson on Wednesday. “They are dedicated to
+      it. They have been, and they say the quiet parts out loud. They wanted to wipe
+      Israel off the face of the Earth, and they’d like to take us out as well. We’re
+      the great Satan in their analogy and their misguided religion.” So as if we didn’t
+      have enough problems to deal with, it turns out the world is ruled by a nuclear-armed
+      Armageddon cult. The US empire is the most evil, destructive and dangerous power
+      structure on this planet. It is operated by psychopaths and guided by demented
+      religious zealotry. These freaks wouldn’t be believable as villains in a children’s
+      cartoon show. These are the people claiming to have the moral authority to decide
+      who should be the leader of a sovereign nation on the other side of the planet.
+      These are the powerful individuals whose choices are determining the path our
+      species will take into the future. They are everything they accuse Iran of being.
+      They are dangerous religious fanatics. They cannot be trusted with nuclear weapons.
+      They are the tyrants. They are the monsters. This is unsustainable. These guys
+      gotta go. The US empire must fall. Humanity depends on it. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Secretary of War Pete Hegseth delivered a fiery speech at
+      the Pentagon, emphasizing the overwhelming military power the U.S. and Israel
+      will exert over Iran, vowing relentless air operations to dismantle its military
+      capabilities.
+    paragraph_summary: Secretary of War Pete Hegseth delivered a fervent speech at the
+      Pentagon, emphasizing the overwhelming military power of the U.S. against Iran,
+      vowing relentless air assaults on Iranian military targets and leadership. He
+      characterized the conflict as an unbalanced fight, asserting that the U.S. would
+      dominate the skies and inflict destruction without mercy. This rhetoric aligns
+      with reports that Hegseth has integrated evangelical Christian beliefs into military
+      operations, with claims that U.S. troops are being told their mission is divinely
+      ordained to fulfill biblical prophecies, particularly regarding support for Israel.
+      The Military Religious Freedom Foundation has received numerous complaints from
+      service members about the influence of religious ideology within the military
+      ranks.
+    published: '2026-03-05T13:14:21+00:00'
+  - title: The US War Machine Is Run By Deranged Armageddon Cultists
+    url: https://www.caitlinjohnst.one/p/the-us-war-machine-is-run-by-deranged
+    text: 'Reading by Tim Foley : Subscribe now Secretary of War Pete Hegseth gave one
+      of his signature “I don’t have a small penis” tirades at the Pentagon on Wednesday
+      , ranting and raving about the big, powerful, masculine war machinery that’s currently
+      raining death and destruction upon the people of Iran. “We will fly all day, all
+      night, day and night finding, fixing and finishing the missiles and defense industrial
+      base of the Iranian military, finding and fixing their leaders and their military
+      leaders, flying over Tehran, flying over Iran, flying over their capital, flying
+      over the IRGC, Iranian leaders looking up and seeing only US and Israeli air power
+      every minute of every day until we decide it’s over,” Hegseth bloviated, saying
+      there will be “B-2s, B-52s, B-1s, Predator drones, fighters controlling the skies,
+      picking targets, death and destruction from the sky all day long.” “This was never
+      meant to be a fair fight, and it is not a fair fight. We are punching them while
+      they’re down, which is exactly how it should be,” the War Secretary spouted. https://x.com/ProudSocialist/status/2029217598450151861
+      This would be the same Pete Hegseth who was mentioned in a recent article by Jonathan
+      Larsen titled “ U.S. Troops Were Told Iran War Is for ‘Armageddon,’ Return of
+      Jesus ”, which reports that US military commanders are telling American soldiers
+      that they are on a mission from God to fulfill a biblical prophecy and bring about
+      the end of the world. “Defense Secretary Pete Hegseth has enshrined evangelical
+      Christianity at the uppermost levels of the U.S. military, airing monthly prayer
+      meetings throughout the Pentagon,” Larsen reports, saying that “Last year, the
+      Pentagon confirmed to me that Hegseth attends a weekly White House Bible study.
+      It’s led by a preacher who says God commands America to support Israel.” Larsen
+      reports that the Military Religious Freedom Foundation has been inundated with
+      complaints from every branch of the US military that troops are being told by
+      their leaders that President Trump has been “anointed by Jesus to light the signal
+      fire in Iran to cause Armageddon and mark his return to Earth,” and similar statements.
+      Then you’ve got House Speaker Mike Johnson spouting religious war rhetoric, claiming
+      Iranians have been led to evil by a “misguided religion”. “The largest state sponsor
+      of terrorism, Iran and its proxies, have killed more Americans than any other
+      terrorist regime on Earth,” said Johnson on Wednesday. “They are dedicated to
+      it. They have been, and they say the quiet parts out loud. They wanted to wipe
+      Israel off the face of the Earth, and they’d like to take us out as well. We’re
+      the great Satan in their analogy and their misguided religion.” So as if we didn’t
+      have enough problems to deal with, it turns out the world is ruled by a nuclear-armed
+      Armageddon cult. The US empire is the most evil, destructive and dangerous power
+      structure on this planet. It is operated by psychopaths and guided by demented
+      religious zealotry. These freaks wouldn’t be believable as villains in a children’s
+      cartoon show. These are the people claiming to have the moral authority to decide
+      who should be the leader of a sovereign nation on the other side of the planet.
+      These are the powerful individuals whose choices are determining the path our
+      species will take into the future. They are everything they accuse Iran of being.
+      They are dangerous religious fanatics. They cannot be trusted with nuclear weapons.
+      They are the tyrants. They are the monsters. This is unsustainable. These guys
+      gotta go. The US empire must fall. Humanity depends on it. __________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Secretary of War Pete Hegseth delivered a fiery speech at
+      the Pentagon, emphasizing the overwhelming military power the U.S. and Israel
+      will exert over Iran, vowing relentless air operations to dismantle its military
+      capabilities.
+    paragraph_summary: Secretary of War Pete Hegseth delivered a fervent speech at the
+      Pentagon, emphasizing the overwhelming military power of the U.S. against Iran,
+      vowing relentless air assaults on Iranian military targets and leadership. He
+      characterized the conflict as an unbalanced fight, asserting that the U.S. would
+      dominate the skies and inflict destruction without mercy. This rhetoric aligns
+      with reports that Hegseth has integrated evangelical Christian beliefs into military
+      operations, with claims that U.S. troops are being told their mission is divinely
+      ordained to fulfill biblical prophecies, particularly regarding support for Israel.
+      The Military Religious Freedom Foundation has received numerous complaints from
+      service members about the influence of religious ideology within the military
+      ranks.
+    published: '2026-03-05T13:14:21+00:00'
+  - title: Iran Is Morally Superior To The United States
+    url: https://www.caitlinjohnst.one/p/iran-is-morally-superior-to-the-united
+    text: 'Reading by Tim Foley : Subscribe now Iran is better than the United States.
+      The United States is worse than Iran. This is true not because Iran is especially
+      good, but because the United States is especially evil. Iran isn’t blanketing
+      a major metropolis with military explosives, killing over a thousand people including
+      hundreds of children. The United States is doing this with its partner in crime
+      Israel. Iran isn’t continuously bombing and invading countries around the world,
+      toppling governments, circling the globe with hundreds of military bases, targeting
+      civilian populations with siege warfare and brandishing nuclear weapons at its
+      enemies in the name of securing planetary domination. Only the United States is.
+      The US empire is the single most murderous and tyrannical power structure on earth,
+      by an extremely massive margin. No one else comes anywhere remotely close. Not
+      Iran. Not anybody. Every government in the world is morally superior to the most
+      evil government, and the most evil government is the United States. Whenever I
+      say this I get US empire apologists going “We’re only the ones fighting the wars
+      and dropping the bombs because we happen to be the ones with the power to do so!”
+      But that’s false. The US isn’t the world’s most vicious government because it
+      happens to be the most powerful, it’s the most powerful government because it’s
+      the most vicious. It’s the power structure which was willing to do whatever it
+      takes to rule the world, no matter how profoundly evil. Genocides. Starvation
+      sanctions. Nuclear brinkmanship. Imperialist extraction. The deliberate creation
+      of failed states and humanitarian catastrophes. Policies designed to keep entire
+      regions in a continuous state of division and strife. The United States and the
+      globe-spanning empire structured around it have inflicted depravities upon our
+      species which cry out to the heavens for vengeance. If you could truly comprehend
+      the scale of the suffering it has created over the years, even for a second, you
+      would never stop screaming. Another objection I’ll encounter when I make these
+      observations is “Well, I’d rather live in the US than Iran!” And it says so much
+      about the western worldview that people think this is an argument. Sure it’s probably
+      nicer to live in the United States than Iran, especially now, and certainly ever
+      since the US has been deliberately strangling the Iranian economy with the explicitly
+      stated goal of making its citizenry so miserable they wage a civil war against
+      their government. But it’s so revealing that westerners see someone saying Iran
+      is better than the United States and think it’s a statement about where they personally
+      would prefer to live, because it shows how completely invisible US warmongering
+      is in their worldview. Washington’s acts of mass military slaughter simply do
+      not count as immoral or abusive behavior in their eyes, because they are being
+      inflicted on foreigners overseas. So they automatically assume the comparison
+      is asking which country would make your feelings feel nicer to live in as an individual.
+      The fact that the US government happens to export the majority of its abusiveness
+      to other countries outside its own borders doesn’t make it any less murderous
+      and tyrannical, it just means the people bearing the brunt of its savagery happen
+      to live in other places. Their lives don’t matter any less than American lives,
+      and only a warped, American supremacist worldview would feel otherwise. The US
+      government is quantifiably morally inferior to the Iranian government. It is quantifiably
+      more tyrannical, more murderous, more destructive, and more megalomaniacal. It
+      is the very last power structure on earth that should have any say in who leads
+      Iran and how the Iranians ought to conduct their affairs. It is not morally qualified
+      to be making those decisions. ____________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that while Iran has its flaws, the United
+      States is portrayed as a far more malevolent force globally due to its military
+      actions and imperialistic policies, making it the most tyrannical power on Earth.
+    paragraph_summary: In his article, Tim Foley argues that the United States is the
+      most evil government in the world, surpassing even Iran in its destructive actions
+      and imperialistic behavior. He contends that while Iran may not be ideal, it does
+      not engage in the widespread military aggression, civilian targeting, and global
+      domination tactics that characterize U.S. foreign policy. Foley emphasizes that
+      the U.S. empire is responsible for immense suffering, including genocides, sanctions
+      that lead to starvation, and the creation of humanitarian crises, asserting that
+      its power stems from its willingness to commit these atrocities. He challenges
+      the notion that the U.S. is merely acting out of power dynamics, claiming instead
+      that its viciousness is the root of its dominance on the global stage.
+    published: '2026-03-04T12:43:26+00:00'
+  - title: Iran Is Morally Superior To The United States
+    url: https://www.caitlinjohnst.one/p/iran-is-morally-superior-to-the-united
+    text: 'Reading by Tim Foley : Subscribe now Iran is better than the United States.
+      The United States is worse than Iran. This is true not because Iran is especially
+      good, but because the United States is especially evil. Iran isn’t blanketing
+      a major metropolis with military explosives, killing over a thousand people including
+      hundreds of children. The United States is doing this with its partner in crime
+      Israel. Iran isn’t continuously bombing and invading countries around the world,
+      toppling governments, circling the globe with hundreds of military bases, targeting
+      civilian populations with siege warfare and brandishing nuclear weapons at its
+      enemies in the name of securing planetary domination. Only the United States is.
+      The US empire is the single most murderous and tyrannical power structure on earth,
+      by an extremely massive margin. No one else comes anywhere remotely close. Not
+      Iran. Not anybody. Every government in the world is morally superior to the most
+      evil government, and the most evil government is the United States. Whenever I
+      say this I get US empire apologists going “We’re only the ones fighting the wars
+      and dropping the bombs because we happen to be the ones with the power to do so!”
+      But that’s false. The US isn’t the world’s most vicious government because it
+      happens to be the most powerful, it’s the most powerful government because it’s
+      the most vicious. It’s the power structure which was willing to do whatever it
+      takes to rule the world, no matter how profoundly evil. Genocides. Starvation
+      sanctions. Nuclear brinkmanship. Imperialist extraction. The deliberate creation
+      of failed states and humanitarian catastrophes. Policies designed to keep entire
+      regions in a continuous state of division and strife. The United States and the
+      globe-spanning empire structured around it have inflicted depravities upon our
+      species which cry out to the heavens for vengeance. If you could truly comprehend
+      the scale of the suffering it has created over the years, even for a second, you
+      would never stop screaming. Another objection I’ll encounter when I make these
+      observations is “Well, I’d rather live in the US than Iran!” And it says so much
+      about the western worldview that people think this is an argument. Sure it’s probably
+      nicer to live in the United States than Iran, especially now, and certainly ever
+      since the US has been deliberately strangling the Iranian economy with the explicitly
+      stated goal of making its citizenry so miserable they wage a civil war against
+      their government. But it’s so revealing that westerners see someone saying Iran
+      is better than the United States and think it’s a statement about where they personally
+      would prefer to live, because it shows how completely invisible US warmongering
+      is in their worldview. Washington’s acts of mass military slaughter simply do
+      not count as immoral or abusive behavior in their eyes, because they are being
+      inflicted on foreigners overseas. So they automatically assume the comparison
+      is asking which country would make your feelings feel nicer to live in as an individual.
+      The fact that the US government happens to export the majority of its abusiveness
+      to other countries outside its own borders doesn’t make it any less murderous
+      and tyrannical, it just means the people bearing the brunt of its savagery happen
+      to live in other places. Their lives don’t matter any less than American lives,
+      and only a warped, American supremacist worldview would feel otherwise. The US
+      government is quantifiably morally inferior to the Iranian government. It is quantifiably
+      more tyrannical, more murderous, more destructive, and more megalomaniacal. It
+      is the very last power structure on earth that should have any say in who leads
+      Iran and how the Iranians ought to conduct their affairs. It is not morally qualified
+      to be making those decisions. ____________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that while Iran has its flaws, the United
+      States is portrayed as a far more malevolent force globally due to its military
+      actions and imperialistic policies, making it the most tyrannical power on Earth.
+    paragraph_summary: In his article, Tim Foley argues that the United States is the
+      most evil government in the world, surpassing even Iran in its destructive actions
+      and imperialistic behavior. He contends that while Iran may not be ideal, it does
+      not engage in the widespread military aggression, civilian targeting, and global
+      domination tactics that characterize U.S. foreign policy. Foley emphasizes that
+      the U.S. empire is responsible for immense suffering, including genocides, sanctions
+      that lead to starvation, and the creation of humanitarian crises, asserting that
+      its power stems from its willingness to commit these atrocities. He challenges
+      the notion that the U.S. is merely acting out of power dynamics, claiming instead
+      that its viciousness is the root of its dominance on the global stage.
+    published: '2026-03-04T12:43:26+00:00'
   - title: If Westerners Could Wrap Their Minds Around What War Really Is
     url: https://www.caitlinjohnst.one/p/if-westerners-could-wrap-their-minds
     text: 'Reading by Tim Foley : Subscribe now Drop Site News has a new article out
