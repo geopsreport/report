@@ -7,14 +7,730 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The US-Israel war with Iran continues to dominate the global agenda, with public narratives and moral framing now taking center stage alongside ongoing military operations. Since the assassination of Ayatollah Khamenei and the subsequent escalation—including missile strikes, air raids, and mounting civilian and military casualties—the discourse has shifted to the legitimacy and ethics of the conflict.
+  The ongoing crisis in the Middle East continues to be marked by escalating violence, deepening humanitarian crises, and persistent efforts by Western governments to control the narrative. Recent independent analysis, particularly from **Tim Foley** writing for Caitlin Johnstone, underscores the destabilizing impact of Zionist policies in the region, with Foley highlighting “the extensive violence, suffering, and destabilization” that has resulted from their implementation. The humanitarian toll remains severe, with civilian populations bearing the brunt of both direct conflict and the broader societal impacts.
   
-  A new perspective is gaining traction among independent analysts. **Tim Foley** highlights in his latest article that “many people prefer to believe their government is benevolent rather than confront the uncomfortable truth that it often acts as a villain,” suggesting that Western populations are largely shielded from the war’s brutal realities and are susceptible to government-driven narratives justifying intervention. This theme is echoed by **Caitlin Johnstone**, who argues that the insistence on “opposing both sides” in the conflict is a distraction that ultimately serves US propaganda and prolongs violence against Iranian civilians.
+  A significant development is the internal US military investigation confirming responsibility for the Tomahawk missile strike on an Iranian girls’ school, which killed at least 175 people. This finding directly contradicts earlier official claims that blamed a misfired Iranian missile. The rhetoric from US officials regarding civilian casualties has drawn sharp criticism, with Foley emphasizing the “troubling rhetoric” that seeks to minimize or justify such incidents. This revelation is likely to further erode trust in official statements and intensify calls for accountability.
   
-  Recent reports also critique the Western public’s detachment from the consequences of military action. **Tim Foley** draws a stark contrast between the consumerist comfort of Western societies and the suffering in Iran, underscoring a growing moral divide. This critique is not just about the war itself, but about the broader societal willingness to ignore or rationalize the harm inflicted abroad.
+  Domestically, the discourse within Western societies is increasingly focused on the role of government and media in shaping public perception. Foley argues that many prefer to believe in the benevolence of their governments, despite mounting evidence of harmful actions taken under the guise of promoting freedom and democracy. This sentiment is echoed in critiques of the valorization of US soldiers killed in the conflict, with Foley asserting that such narratives serve to perpetuate recruitment and misrepresent the true nature of the war.
   
-  Looking ahead, the majority of analysts agree that the US and Israeli governments are unlikely to shift course in the near term. The prevailing expectation is that, absent significant public pressure or a dramatic change in battlefield dynamics, the conflict will persist, with high civilian costs and continued attempts to control the narrative at home. There is a high chance that Western governments will intensify efforts to frame their actions as defensive and justified, while dissenting voices will remain marginalized. Based on current trends, I guarantee that the moral and informational battles over this war will only intensify in the coming weeks, as the gap between official narratives and independent reporting continues to widen.
+  Looking ahead, it is quite likely that skepticism toward official narratives will continue to grow, especially as more evidence emerges contradicting government statements. The humanitarian crisis in the Middle East shows no sign of abating, and the destabilizing effects of current policies are expected to persist. There is a high chance that public pressure for transparency and accountability will increase, but entrenched interests and propaganda efforts are most definitely set to continue shaping the discourse for the foreseeable future.
 articles:
+  - title: This Is What It Looks Like When You Give Zionists Everything They Want
+    url: https://www.caitlinjohnst.one/p/this-is-what-it-looks-like-when-you
+    text: 'Reading by Tim Foley : Subscribe now This is what it looks like when you
+      give Zionists everything they want. This is Zionism put into practice. The wars.
+      The massacres. The bombed-out schools and hospitals. The millions of displaced
+      individuals. The invasion of Lebanon The explosions carpeting Tehran. The hollowed-out
+      moonscape of Gaza. The horrific pogroms in the West Bank. The child amputees.
+      The smell of rotting corpses. The assassinated doctors and journalists. The blackened
+      sky and the poisoned water. The nonstop deluge of brain-melting propaganda. The
+      aggressive promotion of Islamophobia and anti-Arab racism. The erosion of free
+      speech rights throughout the western world. The corrupt warmongering politicians.
+      The legions of online hasbara trolls. The soaring fuel prices. Money which could
+      pay for social services buying bombs for Israel instead. All the death, destruction,
+      instability and suffering that’s being visited upon countless civilians throughout
+      west Asia. This is Zionism. This is what it looks like when you apply the political
+      ideology of forcibly imposing the existence of a Jewish ethnonationalist apartheid
+      state on historic Palestine. This is it. You’re looking at it. There is no alternate-reality
+      version of Zionism where all these nightmares are not happening. There is no other
+      kind of Zionism out there waiting in the wings. The liberal Zionist fantasy of
+      a peaceful, egalitarian Israel is just that: a fantasy. It has never existed in
+      real life. In real life Israel cannot exist without nonstop violence and abuse.
+      It’s like a house that will fall down if it’s not in a constant state of construction.
+      At some point you realize the house should never have been built where it was
+      built, and that steps need to be taken to rectify this error. Zionism is a failed
+      experiment. How do we know? Look around you. Time to pull the plug. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley critiques Zionism by highlighting
+      the extensive violence, suffering, and destabilization it has caused in the Middle
+      East, emphasizing the humanitarian crises and societal impacts resulting from
+      its implementation.
+    paragraph_summary: In Tim Foley's article, he presents a stark critique of Zionism,
+      arguing that its implementation has resulted in widespread violence, destruction,
+      and suffering across the Middle East, particularly in Palestine. He highlights
+      the devastating consequences of the political ideology, including wars, massacres,
+      and the displacement of millions, as well as the erosion of free speech and the
+      rise of Islamophobia and anti-Arab racism in the West. Foley asserts that the
+      notion of a peaceful, egalitarian Israel is a fantasy, emphasizing that the existence
+      of Israel is inherently tied to ongoing violence and oppression. He concludes
+      that Zionism is a failed experiment that should be reconsidered and dismantled,
+      urging readers to recognize the harsh realities of its impact.
+    published: '2026-03-17T12:28:37+00:00'
+  - title: This Is What It Looks Like When You Give Zionists Everything They Want
+    url: https://www.caitlinjohnst.one/p/this-is-what-it-looks-like-when-you
+    text: 'Reading by Tim Foley : Subscribe now This is what it looks like when you
+      give Zionists everything they want. This is Zionism put into practice. The wars.
+      The massacres. The bombed-out schools and hospitals. The millions of displaced
+      individuals. The invasion of Lebanon The explosions carpeting Tehran. The hollowed-out
+      moonscape of Gaza. The horrific pogroms in the West Bank. The child amputees.
+      The smell of rotting corpses. The assassinated doctors and journalists. The blackened
+      sky and the poisoned water. The nonstop deluge of brain-melting propaganda. The
+      aggressive promotion of Islamophobia and anti-Arab racism. The erosion of free
+      speech rights throughout the western world. The corrupt warmongering politicians.
+      The legions of online hasbara trolls. The soaring fuel prices. Money which could
+      pay for social services buying bombs for Israel instead. All the death, destruction,
+      instability and suffering that’s being visited upon countless civilians throughout
+      west Asia. This is Zionism. This is what it looks like when you apply the political
+      ideology of forcibly imposing the existence of a Jewish ethnonationalist apartheid
+      state on historic Palestine. This is it. You’re looking at it. There is no alternate-reality
+      version of Zionism where all these nightmares are not happening. There is no other
+      kind of Zionism out there waiting in the wings. The liberal Zionist fantasy of
+      a peaceful, egalitarian Israel is just that: a fantasy. It has never existed in
+      real life. In real life Israel cannot exist without nonstop violence and abuse.
+      It’s like a house that will fall down if it’s not in a constant state of construction.
+      At some point you realize the house should never have been built where it was
+      built, and that steps need to be taken to rectify this error. Zionism is a failed
+      experiment. How do we know? Look around you. Time to pull the plug. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article by Tim Foley critiques Zionism by highlighting
+      the extensive violence, suffering, and destabilization it has caused in the Middle
+      East, emphasizing the humanitarian crises and societal impacts resulting from
+      its implementation.
+    paragraph_summary: In Tim Foley's article, he presents a stark critique of Zionism,
+      arguing that its implementation has resulted in widespread violence, destruction,
+      and suffering across the Middle East, particularly in Palestine. He highlights
+      the devastating consequences of the political ideology, including wars, massacres,
+      and the displacement of millions, as well as the erosion of free speech and the
+      rise of Islamophobia and anti-Arab racism in the West. Foley asserts that the
+      notion of a peaceful, egalitarian Israel is a fantasy, emphasizing that the existence
+      of Israel is inherently tied to ongoing violence and oppression. He concludes
+      that Zionism is a failed experiment that should be reconsidered and dismantled,
+      urging readers to recognize the harsh realities of its impact.
+    published: '2026-03-17T12:28:37+00:00'
+  - title: My Enemies Are Not In Iran
+    url: https://www.caitlinjohnst.one/p/my-enemies-are-not-in-iran
+    text: 'Reading by Tim Foley : Subscribe now My enemies are not in Iran. My enemies
+      are in Washington and Tel Aviv. In London and Canberra. My enemies are the western
+      oligarchs and empire managers who are poisoning my society and making everything
+      awful while slaughtering human beings with the help of my tax dollars. My enemies
+      are the tyrants who are turning our civilization into a mind-controlled dystopia
+      where it is increasingly illegal to criticize the abuses of my government and
+      its allies, and increasingly difficult to find information which runs counter
+      to the imperial narrative. My enemies are the empire apologists and the hasbarists.
+      The propagandists and spinmeisters. Those who side with Israel and the United
+      States against basic human interests. Imperial bootlickers always accuse me of
+      writing “propaganda” for the “enemy”, with “enemy” meaning whoever the US-centralized
+      empire happens to be attacking or preparing to attack on any given day. I always
+      want to tell them “Motherfucker YOU are my enemy. YOU. You and the empire you
+      simp for.” The Iranians have never done anything to me. The Iranians pose no threat
+      to me. They didn’t bring war to my country. The empire I live under brought war
+      to theirs. The Iranians haven’t robbed me and my fellow westerners of all democratic
+      political agency to create an oligarchy run by megalomaniacal plutocrats and psychopathic
+      government agencies. The Iranians haven’t locked down all political systems throughout
+      western society making it impossible to vote our way into peace, economic justice,
+      and government transparency. The Iranians aren’t working tirelessly to brainwash
+      and manipulate everyone in my society to turn us all into apathetic flag-waving
+      morons who care more about sports and celebrities than the fact that their government
+      is committing horrifying war crimes. The Iranians aren’t trying to make it illegal
+      for me to criticize Israel and its abuses, or working to imprison my countrymen
+      for uttering normal political slogans in opposition to a genocidal apartheid state.
+      The Iranians aren’t making my society crazy, stupid and evil while we hurtle toward
+      ecological disaster, nuclear armageddon and AI tech dystopia. I haven’t spent
+      years watching a live-streamed genocide in Gaza being perpetrated by the Iranians.
+      I’m not frightened that the Iranians will try to draft my son to fight and die
+      in a crazy, evil war. The Iranians are not doing any of these things to me. These
+      are things the western power structure is doing. I have no loyalty to that power
+      structure. I have loyalty to my species, to my family, and to the values I hold
+      sacred in my heart of hearts. The US empire can get fucked. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The author, Tim Foley, expresses that his true enemies are
+      not foreign nations like Iran, but rather the Western oligarchs and government
+      officials who perpetuate societal harm and suppress dissent in favor of imperial
+      interests.
+    paragraph_summary: In Tim Foley's article, he expresses his belief that the true
+      enemies of society are not foreign nations like Iran, but rather the Western oligarchs
+      and government officials in Washington, Tel Aviv, London, and Canberra who perpetuate
+      war and oppression while misusing taxpayer money. He criticizes these figures
+      for creating a dystopian environment where dissent against government actions
+      is increasingly suppressed, and where the public is manipulated into apathy regarding
+      serious issues like war crimes. Foley argues that the Iranian people pose no threat
+      to him or his country, and instead, it is the imperialistic actions of his own
+      government that have led to the erosion of democracy and political agency in the
+      West. He challenges the notion that criticizing the empire's actions equates to
+      siding with an "enemy," asserting that those who support such imperialism are
+      the real adversaries.
+    published: '2026-03-16T00:47:31+00:00'
+  - title: My Enemies Are Not In Iran
+    url: https://www.caitlinjohnst.one/p/my-enemies-are-not-in-iran
+    text: 'Reading by Tim Foley : Subscribe now My enemies are not in Iran. My enemies
+      are in Washington and Tel Aviv. In London and Canberra. My enemies are the western
+      oligarchs and empire managers who are poisoning my society and making everything
+      awful while slaughtering human beings with the help of my tax dollars. My enemies
+      are the tyrants who are turning our civilization into a mind-controlled dystopia
+      where it is increasingly illegal to criticize the abuses of my government and
+      its allies, and increasingly difficult to find information which runs counter
+      to the imperial narrative. My enemies are the empire apologists and the hasbarists.
+      The propagandists and spinmeisters. Those who side with Israel and the United
+      States against basic human interests. Imperial bootlickers always accuse me of
+      writing “propaganda” for the “enemy”, with “enemy” meaning whoever the US-centralized
+      empire happens to be attacking or preparing to attack on any given day. I always
+      want to tell them “Motherfucker YOU are my enemy. YOU. You and the empire you
+      simp for.” The Iranians have never done anything to me. The Iranians pose no threat
+      to me. They didn’t bring war to my country. The empire I live under brought war
+      to theirs. The Iranians haven’t robbed me and my fellow westerners of all democratic
+      political agency to create an oligarchy run by megalomaniacal plutocrats and psychopathic
+      government agencies. The Iranians haven’t locked down all political systems throughout
+      western society making it impossible to vote our way into peace, economic justice,
+      and government transparency. The Iranians aren’t working tirelessly to brainwash
+      and manipulate everyone in my society to turn us all into apathetic flag-waving
+      morons who care more about sports and celebrities than the fact that their government
+      is committing horrifying war crimes. The Iranians aren’t trying to make it illegal
+      for me to criticize Israel and its abuses, or working to imprison my countrymen
+      for uttering normal political slogans in opposition to a genocidal apartheid state.
+      The Iranians aren’t making my society crazy, stupid and evil while we hurtle toward
+      ecological disaster, nuclear armageddon and AI tech dystopia. I haven’t spent
+      years watching a live-streamed genocide in Gaza being perpetrated by the Iranians.
+      I’m not frightened that the Iranians will try to draft my son to fight and die
+      in a crazy, evil war. The Iranians are not doing any of these things to me. These
+      are things the western power structure is doing. I have no loyalty to that power
+      structure. I have loyalty to my species, to my family, and to the values I hold
+      sacred in my heart of hearts. The US empire can get fucked. _______________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The author, Tim Foley, expresses that his true enemies are
+      not foreign nations like Iran, but rather the Western oligarchs and government
+      officials who perpetuate societal harm and suppress dissent in favor of imperial
+      interests.
+    paragraph_summary: In Tim Foley's article, he expresses his belief that the true
+      enemies of society are not foreign nations like Iran, but rather the Western oligarchs
+      and government officials in Washington, Tel Aviv, London, and Canberra who perpetuate
+      war and oppression while misusing taxpayer money. He criticizes these figures
+      for creating a dystopian environment where dissent against government actions
+      is increasingly suppressed, and where the public is manipulated into apathy regarding
+      serious issues like war crimes. Foley argues that the Iranian people pose no threat
+      to him or his country, and instead, it is the imperialistic actions of his own
+      government that have led to the erosion of democracy and political agency in the
+      West. He challenges the notion that criticizing the empire's actions equates to
+      siding with an "enemy," asserting that those who support such imperialism are
+      the real adversaries.
+    published: '2026-03-16T00:47:31+00:00'
+  - title: 'New Issue Of JOHNSTONE: They''re Going To Keep Lying About This War The
+      Entire Time'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-theyre-going
+    text: 'Subscribe now Every month I publish a collection of my work called JOHNSTONE
+      magazine. The new issue is now available to order in print or download as a pay-what-you-want
+      e-book version . This one is titled “They’re Going To Keep Lying About This War
+      The Entire Time,” and features a painting of Donald Trump. They lied about the
+      girls’ school being struck by an Iranian missile. They lied about nuclear weapons.
+      They lied about tens of thousands of protesters being killed. They lied that this
+      war is about women’s rights. They lied that this war is about bringing freedom
+      and democracy to the Iranian people. They’ve been lying since before this war
+      started, and they’re going to keep lying every day until it’s over. Don’t believe
+      anything they say. Don’t trust anyone who sides with these lying warmongers. Don’t
+      trust any of them ever again. Their murderousness is showing you the true nature
+      of the US empire. Their lies are unmasking the true face of the people who rule
+      our world. They are telling you who they are. Believe them. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . As with all my work, everything contained in this magazine
+      is free to reuse, reproduce or republish in any way. CONTENTS: Political Maturity
+      Is Realizing The Commies Were Correct … 3 The US Keeps Openly Admitting It Deliberately
+      Caused The Iran Protests … 5 The Plutocrats Who Rule Our World Aren’t Even Enjoying
+      Themselves … 8 If You Think Our Rulers Do Bad Things In Secret, Wait Til You See
+      What They Do Out In The Open … 10 In Australia The Police Beat You Up For Opposing
+      Genocide … 11 Our Leaders Couldn’t Fix Our Problems If They Wanted To (And They
+      Don’t Want To) … 14 More Shockingly Honest Confessions From The Empire Managers
+      … 16 The Ticking Time Bomb Looming Over Gaza, And Other Notes … 18 Democrats Aren’t
+      Resisting Trump’s Iran War Because They Secretly Support It … 21 It’s Very Possible
+      To Be Both Happy And Well-Informed … 23 Tell Iranian And Cuban Diaspora Warmongers
+      To Shut The Fuck Up … 25 We Deserve Better War Propaganda … 26 If You Think The
+      US Wants To Bring Democracy To Iran, Watch What They’re Currently Doing To Iraq
+      … 27 No Bro This War Will Be Completely Different, Bro … 29 If Iran Kills US Troops,
+      The Blame Rests Solely On The US And Israel … 30 Fuck Everyone Who Made This War
+      Possible … 33 US Calls Iranian Retaliatory Strikes “Unprovoked”, And Other Notes
+      … 35 If Westerners Could Wrap Their Minds Around What War Really Is … 38 Iran
+      Is Morally Superior To The United States … 40 The US War Machine Is Run By Deranged
+      Armageddon Cultists … 42 This Is Even Dumber And Crazier Than The Iraq War … 44
+      The US Soldiers Killed In This War Were Not Heroes, And Other Notes … 45 It Is
+      Not Okay For Grown Adults To Believe Infantile Fairy Tales About Iran … 48 Opposing
+      “Both Sides” In This War Is Crazy Imperialist Nonsense, And Other Notes … 49 We
+      Are The Villains In This Story … 52 They Lied About The School Bombing In Iran,
+      And They’re Going To Keep On Lying … 54 Israel And Its Supporters Are Causing
+      Attacks On Jewish Institutions … 58 Again, you can get a paperback copy of this
+      issue by clicking here , or click here for a digital pay-what-you-feel copy. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest issue of JOHNSTONE magazine, titled “They’re Going
+      To Keep Lying About This War The Entire Time,” critiques the misinformation surrounding
+      the war, particularly regarding claims made by U.S. officials, and emphasizes
+      the need for skepticism towards those in power.
+    paragraph_summary: The latest issue of JOHNSTONE magazine, titled “They’re Going
+      To Keep Lying About This War The Entire Time,” critiques the ongoing misinformation
+      surrounding a war, particularly focusing on the U.S. government's narrative regarding
+      Iran. The issue highlights various alleged falsehoods, including claims about
+      missile strikes, nuclear weapons, and the motivations behind the war, such as
+      women's rights and democracy. The author urges readers to distrust the narratives
+      propagated by what they term "lying warmongers," asserting that these lies reveal
+      the true nature of the U.S. empire and its rulers. The magazine is available for
+      order in print or as a pay-what-you-want e-book, and it encourages readers to
+      reuse its content freely.
+    published: '2026-03-15T00:18:46+00:00'
+  - title: 'New Issue Of JOHNSTONE: They''re Going To Keep Lying About This War The
+      Entire Time'
+    url: https://www.caitlinjohnst.one/p/new-issue-of-johnstone-theyre-going
+    text: 'Subscribe now Every month I publish a collection of my work called JOHNSTONE
+      magazine. The new issue is now available to order in print or download as a pay-what-you-want
+      e-book version . This one is titled “They’re Going To Keep Lying About This War
+      The Entire Time,” and features a painting of Donald Trump. They lied about the
+      girls’ school being struck by an Iranian missile. They lied about nuclear weapons.
+      They lied about tens of thousands of protesters being killed. They lied that this
+      war is about women’s rights. They lied that this war is about bringing freedom
+      and democracy to the Iranian people. They’ve been lying since before this war
+      started, and they’re going to keep lying every day until it’s over. Don’t believe
+      anything they say. Don’t trust anyone who sides with these lying warmongers. Don’t
+      trust any of them ever again. Their murderousness is showing you the true nature
+      of the US empire. Their lies are unmasking the true face of the people who rule
+      our world. They are telling you who they are. Believe them. You can get a paperback
+      copy of this issue by clicking here , or a pay-what-you-feel digital copy by clicking
+      here . Other paperback editions of JOHNSTONE can be purchased by clicking here
+      . Other digital editions can be downloaded by clicking here . You can also get
+      a subscription to the digital versions which will be sent to your inbox every
+      month by clicking here . As with all my work, everything contained in this magazine
+      is free to reuse, reproduce or republish in any way. CONTENTS: Political Maturity
+      Is Realizing The Commies Were Correct … 3 The US Keeps Openly Admitting It Deliberately
+      Caused The Iran Protests … 5 The Plutocrats Who Rule Our World Aren’t Even Enjoying
+      Themselves … 8 If You Think Our Rulers Do Bad Things In Secret, Wait Til You See
+      What They Do Out In The Open … 10 In Australia The Police Beat You Up For Opposing
+      Genocide … 11 Our Leaders Couldn’t Fix Our Problems If They Wanted To (And They
+      Don’t Want To) … 14 More Shockingly Honest Confessions From The Empire Managers
+      … 16 The Ticking Time Bomb Looming Over Gaza, And Other Notes … 18 Democrats Aren’t
+      Resisting Trump’s Iran War Because They Secretly Support It … 21 It’s Very Possible
+      To Be Both Happy And Well-Informed … 23 Tell Iranian And Cuban Diaspora Warmongers
+      To Shut The Fuck Up … 25 We Deserve Better War Propaganda … 26 If You Think The
+      US Wants To Bring Democracy To Iran, Watch What They’re Currently Doing To Iraq
+      … 27 No Bro This War Will Be Completely Different, Bro … 29 If Iran Kills US Troops,
+      The Blame Rests Solely On The US And Israel … 30 Fuck Everyone Who Made This War
+      Possible … 33 US Calls Iranian Retaliatory Strikes “Unprovoked”, And Other Notes
+      … 35 If Westerners Could Wrap Their Minds Around What War Really Is … 38 Iran
+      Is Morally Superior To The United States … 40 The US War Machine Is Run By Deranged
+      Armageddon Cultists … 42 This Is Even Dumber And Crazier Than The Iraq War … 44
+      The US Soldiers Killed In This War Were Not Heroes, And Other Notes … 45 It Is
+      Not Okay For Grown Adults To Believe Infantile Fairy Tales About Iran … 48 Opposing
+      “Both Sides” In This War Is Crazy Imperialist Nonsense, And Other Notes … 49 We
+      Are The Villains In This Story … 52 They Lied About The School Bombing In Iran,
+      And They’re Going To Keep On Lying … 54 Israel And Its Supporters Are Causing
+      Attacks On Jewish Institutions … 58 Again, you can get a paperback copy of this
+      issue by clicking here , or click here for a digital pay-what-you-feel copy. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The latest issue of JOHNSTONE magazine, titled “They’re Going
+      To Keep Lying About This War The Entire Time,” critiques the misinformation surrounding
+      the war, particularly regarding claims made by U.S. officials, and emphasizes
+      the need for skepticism towards those in power.
+    paragraph_summary: The latest issue of JOHNSTONE magazine, titled “They’re Going
+      To Keep Lying About This War The Entire Time,” critiques the ongoing misinformation
+      surrounding a war, particularly focusing on the U.S. government's narrative regarding
+      Iran. The issue highlights various alleged falsehoods, including claims about
+      missile strikes, nuclear weapons, and the motivations behind the war, such as
+      women's rights and democracy. The author urges readers to distrust the narratives
+      propagated by what they term "lying warmongers," asserting that these lies reveal
+      the true nature of the U.S. empire and its rulers. The magazine is available for
+      order in print or as a pay-what-you-want e-book, and it encourages readers to
+      reuse its content freely.
+    published: '2026-03-15T00:18:46+00:00'
+  - title: Israel And Its Supporters Are Causing Attacks On Jewish Institutions
+    url: https://www.caitlinjohnst.one/p/israel-and-its-supporters-are-causing
+    text: 'Reading by Tim Foley : Subscribe now Anti-Defamation League CEO Jonathan
+      Greenblatt gave a bizarre appearance on CNN in response to an attempted car bombing
+      of a Michigan synagogue by a man whose Lebanese family members were killed by
+      Israeli forces . “We are seeing Jewish people, the Jewish state, blamed for the
+      war in the Middle East,” Greenblatt said. “That is wrong. It is wrong to scapegoat,
+      it is wrong to hold Jewish people accountable for something you don’t like on
+      the other side of the planet. And we really need leaders on all sides in politics,
+      running for office, podcasters, to stop with the conspiracies, to stop with the
+      accusations, and then tell us ‘but we oppose antisemitism’. You don’t get to say
+      you’re opposed to hate if you’re trafficking in hateful conspiracy theories.”
+      Now, at first glance it this might read like Greenblatt is taking the entirely
+      reasonable position that it is wrong to blame Jewish Americans for the actions
+      of the Israeli government. But take a closer look at his use of the phrase “the
+      Jewish state”. What Greenblatt is actually doing here is claiming it’s an antisemitic
+      conspiracy theory to blame the state of Israel for its war crimes, while simultaneously
+      lumping all Jewish people in with the actions of that state. That’s what he’s
+      doing when he says “Jewish people, the Jewish state” in the same breath while
+      talking about Israeli acts of mass military violence. It’s so obnoxious how genocide
+      apologists like Greenblatt make a living actively telling everyone that Jews and
+      Judaism are inseparable from the acts of the Israeli government, but whenever
+      there’s an extremist attack by someone who doesn’t distinguish between western
+      Jews and the state of Israel it gets blamed on the pro-Palestine left. Pro-Palestine
+      leftists perform endless verbal gymnastics to avoid conflating Jewish people with
+      the state of Israel, while Israel and its supporters conflate them constantly.
+      Yet we’re always the ones who get blamed whenever there’s a terror attack on a
+      Jewish institution by someone enraged by Israel’s actions. Zionists are the ones
+      doing everything they can to make sure people see the state of Israel as synonymous
+      with Jews and Judaism. That is what they are doing every time they claim a criticism
+      of Israel’s actions is hate speech against Jews. They are claiming that the nation
+      and its government are one and the same as the entirety of the Jewish faith and
+      its adherents. Pro-Palestine leftists have been doing the exact opposite. We go
+      to great pains to make sure all our arguments are carefully worded to avoid being
+      interpreted as an attack on the Jewish faith, making it clear that our grievance
+      is with the state of Israel and the political ideology of Zionism which supports
+      that state’s abusive nature. And then Israel apologists come in and smear those
+      meticulously crafted arguments as a hateful attack on all Jews everywhere. Zionists
+      are therefore responsible for the growing perception that our Jewish neighbors
+      and countrymen are culpable for the abuses of the Israeli government. When more
+      attacks on Jewish institutions occur (and they will), it is Israel and its supporters
+      who will hold the blame for this, not the pro-Palestine left. I am not saying
+      attacks on Jewish institutions should happen. I am not saying it will be good
+      when they do happen. I’m saying it will happen, and when it happens it will be
+      a terrible thing. And it will be the fault of Israel and its supporters. We’ve
+      been running around like crazy trying to stop this, falling all over ourselves
+      to thwart the Zionist efforts to conflate Jews with Israel, but our voices aren’t
+      strong enough. We’re not the ones getting loudly amplified by every mass media
+      outlet, they are. It’s not people like me getting invited to appear on CNN to
+      talk to Wolf Blitzer, it’s people like Jonathan Greenblatt. So when we lose the
+      narrative war on this front and the next extremist attack occurs, it won’t be
+      our fault. It will be theirs. It will be the fault of Israel and its apologists.
+      We fought them as hard as we could to prevent this, but they won. And the consequences
+      of this will therefore rest squarely on their shoulders. _____________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: In a CNN appearance, Anti-Defamation League CEO Jonathan Greenblatt
+      condemned the scapegoating of Jewish people for the actions of the Israeli government
+      in the context of rising antisemitism amid Middle Eastern conflicts, urging leaders
+      to refrain from spreading hateful conspiracy theories.
+    paragraph_summary: In a recent CNN appearance, Anti-Defamation League CEO Jonathan
+      Greenblatt addressed the attempted car bombing of a Michigan synagogue, emphasizing
+      that it is wrong to blame Jewish people for the actions of the Israeli government
+      amid the ongoing conflict in the Middle East. He criticized political leaders
+      and commentators for perpetuating conspiracies and accusations that contribute
+      to antisemitism. However, the article argues that Greenblatt's phrasing, particularly
+      his reference to "the Jewish state," implies a conflation of Jewish identity with
+      Israeli state actions, suggesting that he inadvertently supports the narrative
+      that links Jewish people to the Israeli government's military actions. This perspective
+      highlights a broader issue where supporters of Israel often merge Jewish identity
+      with state actions, while those on the pro-Palestine left strive to separate the
+      two, yet still face blame for extremist attacks.
+    published: '2026-03-14T01:19:22+00:00'
+  - title: Israel And Its Supporters Are Causing Attacks On Jewish Institutions
+    url: https://www.caitlinjohnst.one/p/israel-and-its-supporters-are-causing
+    text: 'Reading by Tim Foley : Subscribe now Anti-Defamation League CEO Jonathan
+      Greenblatt gave a bizarre appearance on CNN in response to an attempted car bombing
+      of a Michigan synagogue by a man whose Lebanese family members were killed by
+      Israeli forces . “We are seeing Jewish people, the Jewish state, blamed for the
+      war in the Middle East,” Greenblatt said. “That is wrong. It is wrong to scapegoat,
+      it is wrong to hold Jewish people accountable for something you don’t like on
+      the other side of the planet. And we really need leaders on all sides in politics,
+      running for office, podcasters, to stop with the conspiracies, to stop with the
+      accusations, and then tell us ‘but we oppose antisemitism’. You don’t get to say
+      you’re opposed to hate if you’re trafficking in hateful conspiracy theories.”
+      Now, at first glance it this might read like Greenblatt is taking the entirely
+      reasonable position that it is wrong to blame Jewish Americans for the actions
+      of the Israeli government. But take a closer look at his use of the phrase “the
+      Jewish state”. What Greenblatt is actually doing here is claiming it’s an antisemitic
+      conspiracy theory to blame the state of Israel for its war crimes, while simultaneously
+      lumping all Jewish people in with the actions of that state. That’s what he’s
+      doing when he says “Jewish people, the Jewish state” in the same breath while
+      talking about Israeli acts of mass military violence. It’s so obnoxious how genocide
+      apologists like Greenblatt make a living actively telling everyone that Jews and
+      Judaism are inseparable from the acts of the Israeli government, but whenever
+      there’s an extremist attack by someone who doesn’t distinguish between western
+      Jews and the state of Israel it gets blamed on the pro-Palestine left. Pro-Palestine
+      leftists perform endless verbal gymnastics to avoid conflating Jewish people with
+      the state of Israel, while Israel and its supporters conflate them constantly.
+      Yet we’re always the ones who get blamed whenever there’s a terror attack on a
+      Jewish institution by someone enraged by Israel’s actions. Zionists are the ones
+      doing everything they can to make sure people see the state of Israel as synonymous
+      with Jews and Judaism. That is what they are doing every time they claim a criticism
+      of Israel’s actions is hate speech against Jews. They are claiming that the nation
+      and its government are one and the same as the entirety of the Jewish faith and
+      its adherents. Pro-Palestine leftists have been doing the exact opposite. We go
+      to great pains to make sure all our arguments are carefully worded to avoid being
+      interpreted as an attack on the Jewish faith, making it clear that our grievance
+      is with the state of Israel and the political ideology of Zionism which supports
+      that state’s abusive nature. And then Israel apologists come in and smear those
+      meticulously crafted arguments as a hateful attack on all Jews everywhere. Zionists
+      are therefore responsible for the growing perception that our Jewish neighbors
+      and countrymen are culpable for the abuses of the Israeli government. When more
+      attacks on Jewish institutions occur (and they will), it is Israel and its supporters
+      who will hold the blame for this, not the pro-Palestine left. I am not saying
+      attacks on Jewish institutions should happen. I am not saying it will be good
+      when they do happen. I’m saying it will happen, and when it happens it will be
+      a terrible thing. And it will be the fault of Israel and its supporters. We’ve
+      been running around like crazy trying to stop this, falling all over ourselves
+      to thwart the Zionist efforts to conflate Jews with Israel, but our voices aren’t
+      strong enough. We’re not the ones getting loudly amplified by every mass media
+      outlet, they are. It’s not people like me getting invited to appear on CNN to
+      talk to Wolf Blitzer, it’s people like Jonathan Greenblatt. So when we lose the
+      narrative war on this front and the next extremist attack occurs, it won’t be
+      our fault. It will be theirs. It will be the fault of Israel and its apologists.
+      We fought them as hard as we could to prevent this, but they won. And the consequences
+      of this will therefore rest squarely on their shoulders. _____________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: In a CNN appearance, Anti-Defamation League CEO Jonathan Greenblatt
+      condemned the scapegoating of Jewish people for the actions of the Israeli government
+      in the context of rising antisemitism amid Middle Eastern conflicts, urging leaders
+      to refrain from spreading hateful conspiracy theories.
+    paragraph_summary: In a recent CNN appearance, Anti-Defamation League CEO Jonathan
+      Greenblatt addressed the attempted car bombing of a Michigan synagogue, emphasizing
+      that it is wrong to blame Jewish people for the actions of the Israeli government
+      amid the ongoing conflict in the Middle East. He criticized political leaders
+      and commentators for perpetuating conspiracies and accusations that contribute
+      to antisemitism. However, the article argues that Greenblatt's phrasing, particularly
+      his reference to "the Jewish state," implies a conflation of Jewish identity with
+      Israeli state actions, suggesting that he inadvertently supports the narrative
+      that links Jewish people to the Israeli government's military actions. This perspective
+      highlights a broader issue where supporters of Israel often merge Jewish identity
+      with state actions, while those on the pro-Palestine left strive to separate the
+      two, yet still face blame for extremist attacks.
+    published: '2026-03-14T01:19:22+00:00'
+  - title: They Lied About The School Bombing In Iran, And They're Going To Keep On
+      Lying
+    url: https://www.caitlinjohnst.one/p/they-lied-about-the-school-bombing
+    text: 'Reading by Tim Foley : Subscribe now An ongoing internal US military investigation
+      has reportedly found the United States responsible for a Tomahawk missile strike
+      on an Iranian girls’ school which killed at least 175 people at the beginning
+      of the US-Israeli onslaught. Remember all the hasbarists and empire apologists
+      who said it was a misfired Iranian missile that hit the school. Remember how aggressively
+      and uniformly they all pushed this lie, including the president of the United
+      States . Then understand that they’re going to keep lying like this throughout
+      the entire war. Remember Secretary of War Pete Hegseth boasting about how the
+      US has gotten rid of “stupid rules of engagement” intended to protect civilians,
+      tough talking about how “This was never meant to be a fair fight, and it is not
+      a fair fight. We are punching them while they’re down, which is exactly how it
+      should be.” Those words land a bit different now that we know he was talking about
+      mass murdering little girls. In hindsight I guess it shouldn’t have surprised
+      anyone that the guy who wrote a book called “American Crusade” immediately changed
+      his title to Secretary of War and initiated a crusade against the Muslim world.
+      ❖ Queensland police have begun making arrests of protesters who utter the now-illegal
+      slogan “From the river to the sea, Palestine will be free,” with one demonstrator
+      facing charges which could see him imprisoned for up to two years. As I’ve said
+      before , this new Queensland state law is the single most bat shit insane assault
+      on free speech in Australian history, which is a very, very high bar. Zionism
+      is poisoning our country and making everything crazy. There is no greater threat
+      to free speech in our society than Israel and its supporters. ❖ Everyone on social
+      media is making fun of the latest narrative that Iran is planning a drone attack
+      on California, which many are calling an obvious setup for an impending false
+      flag. This is an entirely reasonable assumption, but it’s worth mentioning that
+      Iran would be absolutely within its rights to bomb the United States right now.
+      It says so much about how divorced Americans are from the reality of the horrors
+      their government inflicts upon other countries that the possibility of Iran bombing
+      the United States while Tehran is being turned into a human slaughterhouse even
+      raises an eyebrow. ❖ For as long as I’ve been doing commentary I’ve been hearing
+      experts and analysts say Iran will close the Strait of Hormuz if it comes under
+      attack from the United States. This didn’t blindside anybody. They knew it would
+      happen, and they chose to start this war anyway. ❖ It’s nuts how a huge segment
+      of the Christian religion has been revised and restructured to now completely
+      revolve around giving military support to a nation that’s younger than Dolly Parton.
+      Christian Zionism didn’t become a mainstream political force until the 1970s.
+      For two millennia Christianity trotted along without any modern state called “Israel”
+      to pay attention to, and even after that state’s whole-cloth creation in 1948
+      most Christians went decades without taking much notice. It wasn’t until freaks
+      like Jerry Falwell and Billy Graham began herding Christians into the belief that
+      God commands them to vote for politicians who’ll send Apache helicopters to Tel
+      Aviv that this psychotic worldview achieved meaningful purchase in public consciousness.
+      And at that point it actually transformed into an entirely different religion.
+      For those branches of Christianity, the central figure was no longer Jesus, the
+      Bible or the Church, but this brand new ethnostate run by western immigrants which
+      cannot exist without nonstop military violence. They torched two thousand years
+      of theology and tradition and burnt the whole thing to the ground, and in its
+      place they built up a late-20th century religion which revolves around sending
+      US war machinery to west Asia. I’m not saying Christianity was a wonderful religion
+      that did nothing wrong prior to the advent of Christian Zionism, but it was undeniably
+      a completely different faith from one which places military support for the modern
+      state of Israel as its central and foremost value. And it’s just plain bizarre
+      how rarely people notice this and talk about it. ❖ There’s been another synagogue
+      attack , this one in Michigan, reportedly by a man whose family members have been
+      killed by Israeli forces in Lebanon. Drop Site’s Ryan Grim reports , “The man
+      who rammed his explosives-laden truck into a Michigan synagogue today was named
+      Ayman Ghazaleh, according to a source familiar with the situation. Ghazaleh posted
+      photos overnight of his family members, including young children, who were killed
+      in a recent Israeli attack on the town of Mashghara, Lebanon.” You know the drill
+      by now. Step 1: Help Israel murder children in genocides and wars of aggression.
+      Step 2: Wait for blowback in the form of extremist attacks in the west. Step 3:
+      Use the blowback to justify authoritarian domestic policies in the name of fighting
+      terrorism. Step 4: Repeat from Step 1. ❖ They built an entire empire around extracting
+      resources and labor from the global south to supply the citizenry of the imperial
+      core with bread and circuses that are just barely cheap enough to keep them from
+      guillotining the billionaires who own and run everything. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: An internal US military investigation has reportedly concluded
+      that the US was responsible for a Tomahawk missile strike on an Iranian girls'
+      school, killing at least 175 people, contradicting earlier claims that it was
+      a misfired Iranian missile, while highlighting the troubling rhetoric of US officials
+      regarding civilian casualties in warfare.
+    paragraph_summary: An internal US military investigation has reportedly determined
+      that a Tomahawk missile strike, which killed at least 175 people at an Iranian
+      girls' school, was conducted by the United States at the onset of the US-Israeli
+      military campaign, contradicting earlier claims that it was a misfired Iranian
+      missile. This revelation has reignited criticism of US officials, including Secretary
+      of War Pete Hegseth, who previously dismissed civilian protection measures and
+      advocated for aggressive military tactics. The article also highlights recent
+      developments in Queensland, Australia, where police have begun arresting protesters
+      for using the slogan "From the river to the sea, Palestine will be free," which
+      has been deemed illegal under new state laws, raising concerns about free speech.
+      Additionally, there is skepticism on social media regarding claims that Iran is
+      planning a drone attack on California, with many viewing it as a potential setup
+      for a false flag operation.
+    published: '2026-03-13T01:38:12+00:00'
+  - title: They Lied About The School Bombing In Iran, And They're Going To Keep On
+      Lying
+    url: https://www.caitlinjohnst.one/p/they-lied-about-the-school-bombing
+    text: 'Reading by Tim Foley : Subscribe now An ongoing internal US military investigation
+      has reportedly found the United States responsible for a Tomahawk missile strike
+      on an Iranian girls’ school which killed at least 175 people at the beginning
+      of the US-Israeli onslaught. Remember all the hasbarists and empire apologists
+      who said it was a misfired Iranian missile that hit the school. Remember how aggressively
+      and uniformly they all pushed this lie, including the president of the United
+      States . Then understand that they’re going to keep lying like this throughout
+      the entire war. Remember Secretary of War Pete Hegseth boasting about how the
+      US has gotten rid of “stupid rules of engagement” intended to protect civilians,
+      tough talking about how “This was never meant to be a fair fight, and it is not
+      a fair fight. We are punching them while they’re down, which is exactly how it
+      should be.” Those words land a bit different now that we know he was talking about
+      mass murdering little girls. In hindsight I guess it shouldn’t have surprised
+      anyone that the guy who wrote a book called “American Crusade” immediately changed
+      his title to Secretary of War and initiated a crusade against the Muslim world.
+      ❖ Queensland police have begun making arrests of protesters who utter the now-illegal
+      slogan “From the river to the sea, Palestine will be free,” with one demonstrator
+      facing charges which could see him imprisoned for up to two years. As I’ve said
+      before , this new Queensland state law is the single most bat shit insane assault
+      on free speech in Australian history, which is a very, very high bar. Zionism
+      is poisoning our country and making everything crazy. There is no greater threat
+      to free speech in our society than Israel and its supporters. ❖ Everyone on social
+      media is making fun of the latest narrative that Iran is planning a drone attack
+      on California, which many are calling an obvious setup for an impending false
+      flag. This is an entirely reasonable assumption, but it’s worth mentioning that
+      Iran would be absolutely within its rights to bomb the United States right now.
+      It says so much about how divorced Americans are from the reality of the horrors
+      their government inflicts upon other countries that the possibility of Iran bombing
+      the United States while Tehran is being turned into a human slaughterhouse even
+      raises an eyebrow. ❖ For as long as I’ve been doing commentary I’ve been hearing
+      experts and analysts say Iran will close the Strait of Hormuz if it comes under
+      attack from the United States. This didn’t blindside anybody. They knew it would
+      happen, and they chose to start this war anyway. ❖ It’s nuts how a huge segment
+      of the Christian religion has been revised and restructured to now completely
+      revolve around giving military support to a nation that’s younger than Dolly Parton.
+      Christian Zionism didn’t become a mainstream political force until the 1970s.
+      For two millennia Christianity trotted along without any modern state called “Israel”
+      to pay attention to, and even after that state’s whole-cloth creation in 1948
+      most Christians went decades without taking much notice. It wasn’t until freaks
+      like Jerry Falwell and Billy Graham began herding Christians into the belief that
+      God commands them to vote for politicians who’ll send Apache helicopters to Tel
+      Aviv that this psychotic worldview achieved meaningful purchase in public consciousness.
+      And at that point it actually transformed into an entirely different religion.
+      For those branches of Christianity, the central figure was no longer Jesus, the
+      Bible or the Church, but this brand new ethnostate run by western immigrants which
+      cannot exist without nonstop military violence. They torched two thousand years
+      of theology and tradition and burnt the whole thing to the ground, and in its
+      place they built up a late-20th century religion which revolves around sending
+      US war machinery to west Asia. I’m not saying Christianity was a wonderful religion
+      that did nothing wrong prior to the advent of Christian Zionism, but it was undeniably
+      a completely different faith from one which places military support for the modern
+      state of Israel as its central and foremost value. And it’s just plain bizarre
+      how rarely people notice this and talk about it. ❖ There’s been another synagogue
+      attack , this one in Michigan, reportedly by a man whose family members have been
+      killed by Israeli forces in Lebanon. Drop Site’s Ryan Grim reports , “The man
+      who rammed his explosives-laden truck into a Michigan synagogue today was named
+      Ayman Ghazaleh, according to a source familiar with the situation. Ghazaleh posted
+      photos overnight of his family members, including young children, who were killed
+      in a recent Israeli attack on the town of Mashghara, Lebanon.” You know the drill
+      by now. Step 1: Help Israel murder children in genocides and wars of aggression.
+      Step 2: Wait for blowback in the form of extremist attacks in the west. Step 3:
+      Use the blowback to justify authoritarian domestic policies in the name of fighting
+      terrorism. Step 4: Repeat from Step 1. ❖ They built an entire empire around extracting
+      resources and labor from the global south to supply the citizenry of the imperial
+      core with bread and circuses that are just barely cheap enough to keep them from
+      guillotining the billionaires who own and run everything. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: An internal US military investigation has reportedly concluded
+      that the US was responsible for a Tomahawk missile strike on an Iranian girls'
+      school, killing at least 175 people, contradicting earlier claims that it was
+      a misfired Iranian missile, while highlighting the troubling rhetoric of US officials
+      regarding civilian casualties in warfare.
+    paragraph_summary: An internal US military investigation has reportedly determined
+      that a Tomahawk missile strike, which killed at least 175 people at an Iranian
+      girls' school, was conducted by the United States at the onset of the US-Israeli
+      military campaign, contradicting earlier claims that it was a misfired Iranian
+      missile. This revelation has reignited criticism of US officials, including Secretary
+      of War Pete Hegseth, who previously dismissed civilian protection measures and
+      advocated for aggressive military tactics. The article also highlights recent
+      developments in Queensland, Australia, where police have begun arresting protesters
+      for using the slogan "From the river to the sea, Palestine will be free," which
+      has been deemed illegal under new state laws, raising concerns about free speech.
+      Additionally, there is skepticism on social media regarding claims that Iran is
+      planning a drone attack on California, with many viewing it as a potential setup
+      for a false flag operation.
+    published: '2026-03-13T01:38:12+00:00'
   - title: We Are The Villains In This Story
     url: https://www.caitlinjohnst.one/p/we-are-the-villains-in-this-story
     text: 'Reading by Tim Foley : Subscribe now Nobody wants to believe they’re the

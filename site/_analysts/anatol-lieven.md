@@ -8,24 +8,190 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  The geopolitical landscape in early March 2026 remains shaped by the aftermath of the Ukraine War, the ongoing crisis in the Middle East, and mounting instability within Europe itself. Recent independent analysis highlights several new developments with significant implications for both regional and global security.
+  As the Israeli-U.S. conflict with Iran intensifies, Europe faces mounting economic and political pressures. The most recent development is the controversial call by Belgian Prime Minister Bart de Wever for the European Union to normalize relations with Russia and resume energy imports. According to **Anatol Lieven**, de Wever’s proposal is driven by soaring energy prices and the threat to Europe’s economic stability, but it has been met with “widespread negative reactions” from other European leaders who remain committed to a hard line against Moscow.
   
-  **European Political Radicalization and Erosion of Influence**
+  This episode highlights deep divisions within the EU over how to balance economic imperatives with geopolitical principles. The ongoing conflict in the Middle East is exacerbating Europe’s energy insecurity, reviving debates about the continent’s dependence on Russian resources. **Lieven** notes that while de Wever’s stance is unpopular, it reflects growing anxiety about the sustainability of current policies as the war with Iran drags on.
   
-  The most notable new development is the intensifying political fallout within Europe due to its perceived weak response to the U.S. and Israeli war against Iran and the ongoing conflict in Gaza. According to **Anatol Lieven**, European leaders’ inability to assert an independent or effective stance has “undermined their global influence and democratic integrity,” while also fueling domestic crises. This vacuum is increasingly filled by extremist factions, threatening the erosion of democratic norms and stability across the continent. The majority of analysts now agree that unless European governments recalibrate their foreign and domestic policies, the rise of radical parties and the weakening of democratic institutions will most definitely continue. I guarantee that this trend, if unchecked, will have enduring consequences for European unity and its role on the world stage.
+  Meanwhile, the broader context remains one of political fragility across Western Europe. Recent analyses underscore that Europe’s perceived weakness and lack of unified response to the Iran crisis are fueling domestic radicalization. As **Lieven** previously argued, “European leaders’ weak response to the U.S. and Israeli war against Iran not only undermines their global influence... but also exacerbates internal political crises.” This trend is likely to continue, with a high chance of further polarization and the rise of extremist factions if the EU fails to adapt its strategy.
   
-  **Ukraine War: Military Innovation and Negotiation Stalemate**
-  
-  On the Ukraine front, the war has catalyzed the largest evolution in military tactics since World War II, particularly through the widespread use of drones and advanced defensive systems. **Anatol Lieven** notes that these innovations have “implications for future conflicts, particularly regarding potential U.S.-China tensions over Taiwan.” Meanwhile, the negotiation process between Russia and Ukraine remains stalled over unresolved issues such as territorial status and security guarantees. While Russia has conceded on Ukraine’s EU accession and military size, Ukraine’s acceptance of territorial losses and search for alternative security arrangements leaves key disagreements unresolved. There is a high chance that a fragile compromise could be reached, but only if both sides are willing to make further painful concessions.
-  
-  **Transatlantic Tensions and Security Dilemmas**
-  
-  The broader transatlantic relationship is under strain, with European governments facing internal revolts and economic crises, as well as doubts about their ability to support Ukraine militarily. The possibility of NATO countries seizing Russian cargo ships, as previously discussed, remains a flashpoint that could escalate into direct confrontation. However, the current focus has shifted to Europe’s internal vulnerabilities and the risk that political instability at home will further undermine its international commitments.
-  
-  **Trends and Predictions**
-  
-  The prevailing trend is one of growing fragmentation and radicalization within Europe, compounded by external pressures from ongoing conflicts and shifting U.S. policies. The Ukraine War continues to drive military innovation but also exposes the limits of Western unity and resolve. Looking ahead, it is most definitely expected that European political instability will worsen unless there is a decisive change in leadership or strategy. The Ukraine conflict is quite likely to remain unresolved in the near term, with only incremental progress possible at the negotiating table. The risk of escalation in other theaters, such as the Arctic or Taiwan, remains present but secondary to the immediate crises facing Europe and Ukraine.
+  Looking ahead, the majority of analysts agree that unless Europe finds a way to reconcile its economic needs with its foreign policy stance, internal divisions will deepen. There is a high chance that calls for pragmatic engagement with Russia will grow louder, especially if energy prices remain high and the Middle East conflict escalates. However, given the entrenched opposition among most EU leaders, any significant policy shift is unlikely in the immediate term. I guarantee that the debate over Europe’s Russia policy will remain a central fault line in the months ahead, with significant implications for both EU unity and its global standing.
 articles:
+  - title: A Euro leader cursed for calling for peace — with Russia
+    url: https://responsiblestatecraft.org/europe-russia/
+    text: 'At long last, a European leader has said what should have been apparent from
+      the very first: that the Israeli-U.S. war against Iran and Iran’s retaliation
+      against energy exports from the Persian Gulf, make it urgently necessary for European
+      Union countries to normalize relations with Russia and resume buying Russian energy.
+
+
+      Belgian Prime Minister Bart de Wever said over the weekend that Europe needs to
+      rearm, but:
+
+
+      “We are losing on all fronts, we must end the [Ukraine] conflict in Europe’s interest…we
+      must normalize relations with Russia and regain access to cheap energy. It is
+      common sense. In private European leaders tell me I am right, but no one dares
+      say it out loud. Given that we are unable to pressure Putin by sending weapons
+      to Ukraine, and cannot suffocate his economy without U.S. support, only one method
+      remains: making a deal.”
+
+
+      De Wever’s statement must be set against the background of a steep rise in oil
+      and gas prices as a result of the U.S.-Israeli war against Iran. If the war continues
+      and prices remain at the existing level or rise further, then the Russian government
+      will have no difficulty both paying for the war and stabilizing the Russian economy.
+      Europe by contrast risks stumbling into a disastrous combination of high energy
+      costs, economic crisis, high refugee flows from Ukraine and Iran, and declining
+      capacity to help Ukraine. The result could be a disaster for Ukraine, and a dire
+      threat to the EU itself.
+
+
+      Recognizing the threats to the world and U.S. economies posed by the blocking
+      of Gulf energy — and the consequent threat to Republican chances in the midterm
+      elections — the Trump administration has already suspended sanctions against Russian
+      oil exports. Trump has also resumed his harsh criticism of Ukrainian President
+      Volodymyr Zelensky for his refusal to make a deal. British and European (entirely
+      correct) refusal to join in the war against Iran is also unlikely to make Trump
+      more sympathetic to European positions on Ukraine.
+
+
+      As long as the war on Iran lasts, the chances of “100%” U.S. support for increased
+      pressure on Russia therefore appear to be close to zero. Russia’s leverage over
+      the U.S. will grow still more if Trump is forced to call on Putin to mediate with
+      Iran in order to get the U.S. out of the hole Trump has dug for his country in
+      the Middle East.
+
+
+      Moreover, Iranian drone and missile attacks have led both the U.S. and European
+      countries to divert to the Middle East air-defense systems that are vital to Ukraine’s
+      ability to defend itself. British Prime Minister Keir Starmer has said that, “We
+      cannot allow the war in the Gulf to turn into a windfall for Putin” — but it is
+      obviously not in his power, or that of the EU, to prevent this.
+
+
+      Normalization of relations with Russia should not be seen as the abandonment of
+      Ukraine. On the contrary, the EU should offer the resumption of energy purchases
+      and the suspension of all sanctions in return for Russia giving up its demand
+      for the small part of the Donbas still held by Ukraine — the issue that, more
+      than any other, has been preventing a settlement.
+
+
+      Of course, we cannot be sure that Russia would accept such a deal — though it
+      would be very much in Russia’s long-term interests; but at the very least, such
+      a proposal would give the Europeans a positive role in negotiations. If — as they
+      constantly complain — the U.S. and Russia have so far cut them out of negotiations,
+      that is because so far they have refused to put forward anything useful or sensible.
+
+
+      It seems however that anyone waiting for common sense from European governments
+      has a long wait in store. Official reactions to de Wever’s statement have been
+      overwhelmingly negative. EU Energy Commissioner Dan Jorgensen replied that not
+      just during the Ukraine war but “in the future, we will not import even one molecule
+      of energy from Russia.” De Wever’s own foreign minister, Maxime Prevot, declared
+      that:
+
+
+      “Should we engage in dialogue with Russia? Yes. That is what diplomacy is: Talking
+      with those with whom you disagree. But dialogue is not the same as normalization.
+      And that is a crucial distinction…Today, Russia refuses a European seat at the
+      table. It maintains maximalist demands. As long as that is the case, talking about
+      normalization sends a signal of weakness and undermines the European unity we
+      need more than ever.”
+
+
+      This contains a fundamental error that has plagued European and U.S. diplomacy
+      for a generation and more: that talking with opponents is a concession in itself
+      and a goal in itself. It’s true: “Dialogue is not the same as normalization.”
+      But normalization has to be offered to Russia as part of dialogue leading to a
+      compromise of peace, or, in present circumstances, there is little point in talking
+      at all.
+
+
+      Emphasizing the need for “European unity” has become a wonderful way for European
+      politicians to avoid having to take unpopular and courageous stances themselves.
+      The problem is that it effectively throws European policy into the hands of an
+      EU Commission, which is not democratically accountable to any electorate, and
+      of the most Russophobe states of Eastern Europe, which can be expected to veto
+      any EU move towards compromise with Russia. That is why individual West European
+      governments will have to take the lead.
+
+
+      Prevot’s attack on Wever contained one statement that at present is entirely false
+      – that Russia maintains “maximalist” demands on Ukraine. This was echoed by Lithuanian
+      Foreign Minister Kestutis Budrys, who said that: “We know their demands coming
+      back from ‘21. And that will be not only related to Ukraine , that will be related
+      also to us and to the deployment of the forces and many other things. So we have
+      to collect our strength.”
+
+
+      In fact, as a result of its failed attempt at a quick victory and the agonizing
+      slowness of its advances on the ground, Russia has long since abandoned its “maximalist”
+      demands. Even the demand for the whole of the Donbas is far less than the territorial
+      demands it was making in 2024. It is hard to know whether European officials’
+      constant repetition of this obvious falsehood is the result of paranoid delusion
+      or a deliberate effort to frustrate a peace settlement.
+
+
+
+
+      Mr. Budrys also said that he expects positive results from talks with Russia only
+      when “Europe has the sticks in its hands.” As long as the Iran war continues however,
+      the “sticks” are simply not going to be there. And if the wars in Iran and Ukraine
+      both continue, then it is likely that any future settlement is going to be much
+      more unfavorable to Ukraine than the one on the table now.
+
+
+      European governments and commentators like to congratulate themselves on their
+      new “realism” with regard to Russia. They seem not to understand that realism
+      is not just about building up your military forces. It is also about accurately
+      and honestly assessing relative strengths and likely (as opposed to desirable)
+      outcomes, and negotiating compromises on that basis.
+
+
+      It would be an immense help in this regard if European governments could drop
+      some of the self-righteous hypocritical moralizing and hysterical demonization
+      of Russia in which they have engaged, and which has been used to oppose any compromise
+      with Moscow. Thus in her response to de Wever’s statement, Swedish Energy Minister
+      Ebba Busch said that if Europeans resume purchases of Russian energy “then we’ve
+      completely lost our moral compass.”
+
+
+
+
+      But as indicated by the grotesquely different European response to Russian aggression
+      and crimes and those of Israel and the U.S., Europe’s moral compass appears to
+      be a highly inaccurate guide of European behavior. German officials who continue
+      to mouth the mantra of Germany’s commitment to a “rules-based order” remind one
+      vividly of their East German predecessors, who continued to mouth Marxist-Leninist
+      mantras as their system disintegrated beneath their feet.
+
+
+
+
+      Betonkoepfe (“concrete heads”) was the popular name for them, and they were supposed
+      to have disappeared along with Communism. But it seems that democratic bureaucrats
+      can be just as good at pouring concrete into their ears as communist ones. All
+      it takes is a sufficient dose of hypocrisy, conformism and moral cowardice.'
+    one_sentence_summary: Belgian Prime Minister Bart de Wever has called for the European
+      Union to normalize relations with Russia and resume energy imports in light of
+      the ongoing Israeli-U.S. conflict with Iran, which is driving up energy prices
+      and threatening Europe's economic stability, despite widespread negative reactions
+      from other European leaders who prioritize unity and a hard stance against Russia.
+    paragraph_summary: Belgian Prime Minister Bart de Wever has called for European
+      Union countries to normalize relations with Russia and resume purchasing Russian
+      energy, highlighting the urgent need for Europe to address rising energy prices
+      exacerbated by the ongoing U.S.-Israeli conflict with Iran. He argues that the
+      current situation threatens Europe's economic stability and its ability to support
+      Ukraine, suggesting that a deal with Russia could facilitate peace negotiations.
+      Despite his reasoning, reactions from European officials have been largely negative,
+      with many insisting on maintaining sanctions against Russia and rejecting any
+      notion of normalization. This resistance reflects a broader trend of European
+      leaders prioritizing unity and moral posturing over pragmatic diplomacy, which
+      could lead to unfavorable outcomes for Ukraine and further economic challenges
+      for Europe if the conflicts continue. The article critiques the prevailing mindset
+      among European politicians, suggesting that a realistic assessment of the geopolitical
+      landscape is necessary for effective negotiations and peace efforts.
+    published: '2026-03-18T04:05:03+00:00'
   - title: Europe's weakness on Iran, Gaza has radicalized politics at home
     url: https://responsiblestatecraft.org/europe-trump-iran-war/
     text: 'By their shameful, spineless stance on the U.S. and Israeli war against Iran,

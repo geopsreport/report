@@ -8,17 +8,203 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains highly volatile as of March 11, 2026, with escalating tensions in the Middle East and persistent fractures in Europe’s relationship with Russia. Recent developments underscore growing concerns over the erosion of international law and the increasing use of hybrid warfare by major powers.
+  The geopolitical landscape remains dominated by the escalating conflict between the United States, Israel, and Iran, with significant implications for global stability and economic security. Recent reports highlight the growing risk of a broader regional war, particularly as the US and Israel intensify military and economic pressure on Iran. **Jeffrey Sachs** warns that the current trajectory "threatens to escalate into a global war," especially if hostilities disrupt the vital Strait of Hormuz, which would have severe economic repercussions worldwide.
   
-  The most significant new development is the joint U.S.-Israeli military action against Iran, which **Jeffrey Sachs** characterizes as “an illegal war” that not only violates the UN Charter but also undermines the legitimacy of the United Nations itself. Sachs highlights a pattern of U.S. aggression, noting that “their allies shamefully shift blame onto Iran,” thereby deepening global instability and threatening the future of Israel. This escalation follows earlier warnings that U.S. threats against Iran risk igniting a major regional conflict, with diplomatic avenues such as the JCPOA sidelined in favor of military solutions.
+  Diplomatic efforts persist, with Iran recently presenting a comprehensive peace proposal aimed at resolving the Palestinian statehood issue and renewing the nuclear agreement. However, implementation faces "significant challenges due to the aggressive policies of the US and Israel," according to **Sachs**. The majority view among analysts is that without a fundamental shift in US and Israeli strategy, prospects for a negotiated settlement remain slim.
   
-  In parallel, the ongoing economic confrontation between the U.S. and its adversaries continues to intensify. Sachs has repeatedly criticized the use of economic sanctions and tariffs as forms of “economic warfare,” arguing that these measures are not only illegal but also counterproductive. The imposition of tariffs under President Trump, for instance, is described as unlawfully burdening American families while enriching the wealthy, with Sachs urging the return of the $140 billion collected and calling for genuine tax reform.
+  Meanwhile, the US continues to employ hybrid warfare tactics—economic sanctions, military strikes, and information campaigns—against both Iran and Venezuela. **Sachs** argues that these measures are "illegal, harmful, and increasingly prompting other nations to seek alternatives to the US dollar in international trade." This trend is accelerating global moves toward de-dollarization and the formation of alternative economic blocs.
   
-  On the European front, the persistent rejection of Russia’s security concerns—rooted in what Sachs terms “structural Russophobia”—has led to a collapse of diplomatic relations and a protracted conflict in Ukraine. The majority view among analysts is that Europe’s failure to engage with Russia’s legitimate interests has resulted in self-defeating consequences, further entrenching divisions and undermining prospects for peace.
+  In Europe, longstanding structural Russophobia and the rejection of Russia's security concerns have led to a deepening crisis, particularly in Ukraine. The collapse of diplomatic relations and the failure to address Russia's legitimate interests have resulted in "self-defeating consequences for European security," as noted by **Sachs**.
   
-  **Trends and Predictions:**  
-  The prevailing trend is a marked decline in respect for international law, with the U.S. and its allies increasingly resorting to military and economic coercion. The likelihood of a broader regional war involving Iran is now “quite likely,” given the current trajectory of U.S.-Israeli actions and the absence of meaningful diplomatic engagement. In Europe, the entrenched stance against Russia is expected to prolong the conflict in Ukraine and exacerbate the continent’s security and economic challenges. I guarantee that unless there is a fundamental shift towards diplomacy and respect for international norms, global instability will continue to worsen in the coming months.
+  Looking ahead, the risk of a major regional conflict involving Iran remains high unless there is a decisive shift toward diplomacy and respect for international law. There is a high chance that economic instability will worsen if the Strait of Hormuz is threatened. The continued use of economic warfare by the US is quite likely to further erode its global influence and accelerate the realignment of international alliances. Without substantive policy changes, I guarantee that the cycle of conflict and instability will persist across the Middle East and beyond.
 articles:
+  - title: Ending the Trump-Netanyahu War in the Middle East
+    url: https://www.commondreams.org/opinion/how-to-end-the-iran-war
+    text: 'The Israel-US war on Iran is engulfing the entire Middle East and could escalate
+      to global war. The economic consequences are already severe and could become catastrophic.
+      The Strait of Hormuz carries approximately one-fifth of all oil traded globally,
+      and 30 percent of the world''s LNG. A sustained closure of the Strait would trigger
+      an energy shock without modern precedent.
+
+
+      The conflict is likely to spiral out of control because the US and Israel are
+      dead set on hegemony in the Arab world and West Asia – one that combines Israeli
+      territorial expansion with American-backed regime control across the region. The
+      ultimate goal is a Greater Israel that absorbs all historic Palestine, combined
+      with compliant Arab and Islamic governments stripped of genuine sovereignty, including
+      on choices as to how and where they export their oil and gas.
+
+
+      This is delusional. No country across the region wants Israel to run wild as it
+      is doing, murdering civilians across the entire region, destroying Gaza and the
+      West Bank, invading Lebanon, striking Iraq and Yemen, and carpet-bombing Tehran.
+      No country wants its hydrocarbon exports under effective US control. The war will
+      end if and only if global revulsion at US and Israeli aggression force these countries
+      to stop. Short of that, we are likely to see the Middle East in flames and the
+      world in an energy and economic crisis unprecedented in modern history. The war
+      could easily turn into a global conflagration, effectively into World War III.
+
+
+      Yet, there exists an alternative. The war could stop on rational grounds if Israel
+      and the US are decisively called to account by the rest of the world. Ending the
+      war requires a set of interlinked steps to provide basic security for all parties,
+      and indeed for the world. Iran needs a permanent end to the US-Israel aggression.
+      The Gulf countries need an end to Iran’s retaliatory strikes. The Palestinians
+      need an independent state. Israel needs lasting security and the disarmament of
+      Hamas and Hezbollah. The whole world needs the opening of the Strait of Hormuz,
+      and international monitoring of Iran’s nuclear program to ensure it abides by
+      the Nuclear Non-Proliferation Treaty, as Iran says it wants to do. And all countries
+      want, or should want, real sovereignty for themselves and their region.
+
+
+      We are not optimistic about the likelihood of our plan. The Israeli government
+      is murderous and Trump is delusional about US power. We are perhaps already in
+      the early days of WWIII. Yet because the stakes are so high, it’s worth laying
+      out real solutions even if they are long shots.
+
+
+      Collective security could be achieved in five interconnected measures. First,
+      the US and Israel would immediately end their armed aggression across the entire
+      region and withdraw their forces. Second, Iran would stop its retaliatory strikes
+      across the GCC and resubmit to monitoring by the International Atomic Energy Agency
+      under a revised Joint Comprehensive Plan of Action (JCPOA), which President Trump
+      recklessly abandoned in 2018. Third, the Strait of Hormuz would reopen with mutual
+      agreement of Iran and the GCC. Fourth, the two-state solution would be immediately
+      implemented by admitting Palestine as a full member state of the UN. Israel would
+      be required to end its occupation of the West Bank and East Jerusalem and to withdraw
+      its forces from Lebanon and Syria. Fifth, the UN recognition of the State of Palestine
+      would form the basis for a comprehensive regional disarmament of all non-state
+      actors, verified under international monitoring. The end result would be a return
+      to international law and the UN Charter.
+
+
+      Who would win in this plan? The people of the region, of Israel, Palestine, Lebanon,
+      Syria, Iraq, Iran, and the rest of the world. Who would lose? Only the backers
+      of Greater Israel, led by Benjamin Netanyahu, Itamar Ben-Gvir, Bezalel Smotrich,
+      and Mike Huckabee, who have brought the world to the brink of destruction.
+
+
+      Here are the five steps in more detail.
+
+
+      First: End the US-Israeli Armed Aggression.
+
+
+      Israel and the US would stop their aggression and withdraw their forces. In turn,
+      Iran would cease its retaliatory strikes. This would not be a mere ceasefire.
+      Rather, it would be the first step of an overall peace agreement and collective
+      security arrangement.
+
+
+      Second: Return to the JCPOA.
+
+
+      The nuclear question would be resolved through strict monitoring by the International
+      Atomic Energy Agency, not through bombing campaigns that merely put Iran’s enriched
+      uranium beyond international monitoring. The UN Security Council would immediately
+      reinstate the basic framework of the 2015 Joint Comprehensive Plan of Action (JCPOA),
+      under which Iran must strictly comply with IAEA monitoring and agreed limits on
+      its nuclear program, while economic sanctions on Iran would be lifted.
+
+
+      Third: Reopen the Strait of Hormuz in an Iran-GCC Framework
+
+
+      The Strait of Hormuz would be quickly reopened, with safe passage jointly guaranteed
+      by Iran and the GCC. The GCC countries would assert sovereignty over the military
+      bases in their countries to ensure that the bases would not be used as launchpads
+      for renewed offensive strikes against Iran.
+
+
+      Fourth: The Two-State Solution.
+
+
+      The two-state solution would be implemented, by admitting Palestine into the UN
+      as the 194th permanent member state. This requires nothing more than the US lifting
+      its veto. Palestinian statehood is in accord with international law and with the
+      Arab Peace Initiative, which has been on the table since 2002. In turn, the countries
+      in the region would establish diplomatic relations with Israel, and the UN Security
+      Council would introduce peacekeepers to ensure the security of both Palestine
+      and Israel.
+
+
+      Fifth: An End to Armed Belligerency.
+
+
+      In conjunction with the two-state solution, all armed belligerency in the region
+      would end forthwith, including the disarmament of Hamas, Hezbollah, and other
+      armed non-state actors. In the case of Palestine, the disarmament of Hamas would
+      underpin the authority of the Palestinian state. In the case of Lebanon, the disarmament
+      of Hezbollah would restore Lebanon''s full sovereignty, with the Lebanese Armed
+      Forces as the sole military authority in the country.
+
+
+      The disarmament would be verified by international monitors and guaranteed by
+      the UN Security Council.
+
+
+      The key point is that the Israel-US war on Iran has not occurred in a vacuum.
+      The Clean Break strategy, developed by Netanyahu and his American neocon backers
+      in 1996, and implemented since then, calls for Israel to establish hegemony in
+      the region through wars of regime change, with the US as the implementing partner.
+      As NATO Supreme Commander Wesley Clark revealed after 9/11, the US drew up plans
+      a quarter century ago to overthrow governments in seven countries: “starting with
+      Iraq, and then Syria, Lebanon, Libya, Somalia, Sudan and, finishing off, Iran.”
+      We are therefore living through the culmination of a long-standing plan by Israel
+      and the US to dominate the Arab world and West Asia, create a Greater Israel,
+      and permanently block Palestinian statehood.
+
+
+      We are not optimistic about the likelihood of our plan. The Israeli government
+      is murderous and Trump is delusional about US power. We are perhaps already in
+      the early days of WWIII. Yet because the stakes are so high, it’s worth laying
+      out real solutions even if they are long shots. We do believe, however, that the
+      non-Western world—the part that is not vassal states to US power—understands the
+      urgency of peace and security.
+
+
+      Who, then, could champion a peace plan that the US and Israel will resist with
+      every means at their disposal, until the weight of global opposition and economic
+      catastrophe leaves them no choice but to accept it?
+
+
+
+
+      There is one main group, and that is the BRICS nations.
+
+
+      Brazil, Russia, India, China, South Africa, and the bloc''s expanded membership,
+      which now includes the UAE, Iran, Egypt, Ethiopia, and Indonesia, represent approximately
+      half of the world''s population and more than 40 percent of global GDP (compared
+      to 28 percent for the vaunted but overblown G7 countries). The BRICS have the
+      credibility, the economic weight, and the absence of the historical complicity
+      in Middle East imperialism to bring the world to its senses. The BRICS should
+      convene an emergency summit and present a unified framework incorporating the
+      conditions for peace and security, which in turn would be pressed at the UN Security
+      Council. There, world opinion would tell the US and Israel to stop pushing the
+      world towards catastrophe, and would remind all countries to adhere to the UN
+      Charter.'
+    one_sentence_summary: The ongoing Israel-US conflict with Iran threatens to escalate
+      into a global war, causing severe economic repercussions, particularly through
+      potential disruptions in the Strait of Hormuz, and while a comprehensive peace
+      plan involving regional cooperation and sovereignty exists, its implementation
+      faces significant challenges due to the aggressive policies of the US and Israel.
+    paragraph_summary: 'The ongoing conflict between Israel and the US against Iran
+      is escalating tensions throughout the Middle East and poses a risk of a global
+      war, with severe economic repercussions, particularly concerning the vital Strait
+      of Hormuz, which is crucial for global oil and gas trade. The article argues that
+      the aggressive pursuit of hegemony by the US and Israel, aimed at establishing
+      a Greater Israel and controlling regional resources, is met with widespread regional
+      opposition, as no country supports Israel''s violent actions or desires US dominance
+      over their hydrocarbon exports. The proposed solution involves five interconnected
+      steps: ending US-Israeli aggression, reinstating the Joint Comprehensive Plan
+      of Action (JCPOA) for Iran''s nuclear program, reopening the Strait of Hormuz,
+      implementing a two-state solution for Palestine, and disarming non-state actors
+      in the region. The article emphasizes the need for a collective security framework
+      led by the BRICS nations to counter US and Israeli actions and promote peace,
+      despite skepticism about the feasibility of such a plan given the current geopolitical
+      landscape.'
+    published: '2026-03-16T10:33:01+00:00'
   - title: This Illegal US-Israeli Attack on Iran Is Also an Assault on the United Nations
     url: https://www.commondreams.org/opinion/united-nations-israel-us-attack-iran
     text: 'On February 16, 2026, one of us (Jeffrey Sachs) sent a letter to the UN Security

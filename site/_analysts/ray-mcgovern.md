@@ -7,16 +7,746 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing U.S.-Israeli war on Iran continues to escalate, with new developments highlighting the widening regional and global implications. The conflict, now entering its eleventh day, has seen increased international involvement and growing concerns over information control and the true costs of the war.
+  As the war in Iran enters its third week, the humanitarian and geopolitical fallout continues to intensify, with new reports highlighting both the scale of civilian suffering and the growing risk of broader conflict.
   
-  In a recent live discussion, former Israeli military intelligence officer **Ari Ben-Menashe** emphasized Iran’s central role in shaping Israel’s security environment, noting that the origins of the current conflict are deeply rooted in longstanding regional rivalries. Ben-Menashe warned that Iran’s capacity for asymmetric warfare remains underestimated, and predicted that “the longer this war drags on, the more unpredictable and costly it will become for all sides.”
+  Recent analysis by **Ramzy Baroud** underscores the criminal nature of the ongoing U.S.-Israeli campaign, particularly in light of strikes on civilian areas in Minab that have resulted in the deaths of hundreds, predominantly women and children. Baroud’s assessment reflects a consensus among independent observers that the targeting of non-combatants is fueling outrage across the region and further undermining the legitimacy of Western intervention.
   
-  Meanwhile, **Patrick Lawrence** draws attention to the deliberate suppression of information by both combatants and the media. He argues that “the more intense the efforts to conceal, the more significant the truths being hidden,” suggesting that the public remains largely unaware of the war’s true scope and consequences.
+  In parallel, **Jeffrey Sachs** and **Sybil Fares** have outlined a five-point plan aimed at preventing the current conflict from escalating into a global war, warning that without immediate de-escalation, the risk of a wider confrontation—potentially even World War III—remains acute. Their proposals, which include diplomatic engagement and a halt to offensive operations, are gaining traction among analysts who see the present trajectory as unsustainable.
   
-  Australia’s deepening involvement has also come into focus. **Peter Cronau** reports that Australia’s provision of a spy plane to the UAE and its hosting of U.S. military bases are now integral to the U.S. campaign against Iran. This marks a notable shift in Canberra’s role, signaling a broader coalition behind U.S. military operations in the Gulf.
+  Meanwhile, **Chris Hedges** draws attention to a broader pattern of impunity among powerful actors, linking the devastation in Gaza and the revelations from the Epstein files as evidence of systemic exploitation of the vulnerable. Hedges argues that the normalization of such abuses in both war and society at large is eroding public trust and deepening societal divisions.
   
-  Looking ahead, the majority of analysts agree that the war is unlikely to end soon. Based on the current trajectory and the entrenched positions of the main actors, I guarantee that the conflict will persist, with a high likelihood of further regional escalation and increased international entanglement. Efforts to control the narrative and suppress dissent—both within the military and in the public sphere—are expected to intensify, further obscuring the realities on the ground.
+  Looking ahead, the majority of sources agree that unless there is a dramatic shift in policy—particularly from Washington and Tel Aviv—the conflict is likely to persist, with high civilian casualties and mounting geopolitical costs. There is a high chance that the U.S. and Israel will attempt to declare a symbolic victory, but the underlying dynamics suggest that any such claims will be met with skepticism both regionally and internationally. Based on current trends, I guarantee that the humanitarian crisis will worsen in the coming days, and there is a high chance of further destabilization across the Middle East unless de-escalatory measures are urgently adopted.
 articles:
+  - title: 'Chris Hedges: The World According to Gaza'
+    url: https://consortiumnews.com/2026/03/17/chris-hedges-the-world-according-to-gaza/
+    text: 'The events of the last few years: Gaza, the Epstein files and more, have
+      revealed that the new order of things is the open predation of the powerful on
+      the rest of us. By Chris Hedges ScheerPost Gaza is only the… Read more →'
+    one_sentence_summary: The article by Chris Hedges discusses how recent events, including
+      the situation in Gaza and the Epstein files, illustrate a troubling trend of powerful
+      individuals exploiting and preying on the vulnerable in society.
+    paragraph_summary: In his article, Chris Hedges discusses how recent events, including
+      the situation in Gaza and revelations from the Epstein files, highlight a troubling
+      trend of blatant exploitation by those in power against the general populace.
+      He argues that these incidents illustrate a broader systemic issue where the powerful
+      engage in predatory behavior, undermining justice and equity, and calls attention
+      to the urgent need for societal awareness and action against such injustices.
+    published: '2026-03-17T18:00:24+00:00'
+  - title: 'Chris Hedges: The World According to Gaza'
+    url: https://consortiumnews.com/2026/03/17/chris-hedges-the-world-according-to-gaza/
+    text: 'The events of the last few years: Gaza, the Epstein files and more, have
+      revealed that the new order of things is the open predation of the powerful on
+      the rest of us. By Chris Hedges ScheerPost Gaza is only the… Read more →'
+    one_sentence_summary: The article by Chris Hedges discusses how recent events, including
+      the situation in Gaza and the Epstein files, illustrate a troubling trend of powerful
+      individuals exploiting and preying on the vulnerable in society.
+    paragraph_summary: In his article, Chris Hedges discusses how recent events, including
+      the situation in Gaza and revelations from the Epstein files, highlight a troubling
+      trend of blatant exploitation by those in power against the general populace.
+      He argues that these incidents illustrate a broader systemic issue where the powerful
+      engage in predatory behavior, undermining justice and equity, and calls attention
+      to the urgent need for societal awareness and action against such injustices.
+    published: '2026-03-17T18:00:24+00:00'
+  - title: Liberal Media Immorality on Iran War
+    url: https://consortiumnews.com/2026/03/17/liberal-media-immorality-on-iran-war/
+    text: The criminality of the war was clear from the start and made more blatant
+      when U.S.-Israeli strikes hit civilian areas in Minab, killing hundreds of civilians,
+      mostly children and women, writes Ramzy Baroud. By Ramzy Baroud Common Dreams
+      Doubtless, the war… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the criminal nature of the war was
+      evident from the beginning, particularly highlighted by U.S.-Israeli strikes on
+      civilian areas in Minab that resulted in the deaths of hundreds, predominantly
+      women and children.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the evident criminality
+      of the war, particularly highlighting the devastating impact of U.S.-Israeli strikes
+      on civilian areas in Minab, which resulted in the deaths of hundreds, predominantly
+      women and children. Baroud argues that these actions underscore the blatant disregard
+      for civilian life and raise serious ethical concerns regarding the conduct of
+      the war.
+    published: '2026-03-17T16:00:46+00:00'
+  - title: Liberal Media Immorality on Iran War
+    url: https://consortiumnews.com/2026/03/17/liberal-media-immorality-on-iran-war/
+    text: The criminality of the war was clear from the start and made more blatant
+      when U.S.-Israeli strikes hit civilian areas in Minab, killing hundreds of civilians,
+      mostly children and women, writes Ramzy Baroud. By Ramzy Baroud Common Dreams
+      Doubtless, the war… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the criminal nature of the war was
+      evident from the beginning, particularly highlighted by U.S.-Israeli strikes on
+      civilian areas in Minab that resulted in the deaths of hundreds, predominantly
+      women and children.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the evident criminality
+      of the war, particularly highlighting the devastating impact of U.S.-Israeli strikes
+      on civilian areas in Minab, which resulted in the deaths of hundreds, predominantly
+      women and children. Baroud argues that these actions underscore the blatant disregard
+      for civilian life and raise serious ethical concerns regarding the conduct of
+      the war.
+    published: '2026-03-17T16:00:46+00:00'
+  - title: 'Jeffrey Sachs: Ending the Trump-Netanyahu War'
+    url: https://consortiumnews.com/2026/03/17/jeffrey-sachs-ending-the-trump-netanyahu-war/
+    text: It’s a long shot but here are five steps to stop this war, which could easily
+      turn into a global conflagration, effectively into World War III, write Jeffrey
+      Sachs and Sybil Fares. By Jeffrey D. Sachs and Sybil Fares Common Dreams The Israel-U.S.…
+      Read more →
+    one_sentence_summary: Jeffrey Sachs and Sybil Fares propose five steps to prevent
+      the escalation of the current conflict into a global war, potentially leading
+      to World War III.
+    paragraph_summary: In their article, Jeffrey Sachs and Sybil Fares outline five
+      steps aimed at preventing the escalation of the current conflict into a global
+      war, potentially leading to World War III. They emphasize the urgent need for
+      diplomatic efforts and strategic actions by the U.S. and Israel to de-escalate
+      tensions and foster peace in the region. The authors argue that without proactive
+      measures, the situation could spiral out of control, impacting global stability
+      and security.
+    published: '2026-03-17T13:09:32+00:00'
+  - title: 'Jeffrey Sachs: Ending the Trump-Netanyahu War'
+    url: https://consortiumnews.com/2026/03/17/jeffrey-sachs-ending-the-trump-netanyahu-war/
+    text: It’s a long shot but here are five steps to stop this war, which could easily
+      turn into a global conflagration, effectively into World War III, write Jeffrey
+      Sachs and Sybil Fares. By Jeffrey D. Sachs and Sybil Fares Common Dreams The Israel-U.S.…
+      Read more →
+    one_sentence_summary: Jeffrey Sachs and Sybil Fares propose five steps to prevent
+      the escalation of the current conflict into a global war, potentially leading
+      to World War III.
+    paragraph_summary: In their article, Jeffrey Sachs and Sybil Fares outline five
+      steps aimed at preventing the escalation of the current conflict into a global
+      war, potentially leading to World War III. They emphasize the urgent need for
+      diplomatic efforts and strategic actions by the U.S. and Israel to de-escalate
+      tensions and foster peace in the region. The authors argue that without proactive
+      measures, the situation could spiral out of control, impacting global stability
+      and security.
+    published: '2026-03-17T13:09:32+00:00'
+  - title: Imperial Decline in the Strait of Hormuz
+    url: https://consortiumnews.com/2026/03/16/imperial-decline-in-the-strait-of-hormuz/
+    text: By exploring the geopolitical implications of Washington’s latest intervention
+      in Iran, Alfred McCoy says it’s possible to imagine how Trump’s war of choice
+      might well become Washington’s very own version of the Suez crisis.  By Alfred
+      McCoy TomDispatch.com In the first… Read more →
+    one_sentence_summary: Alfred McCoy argues that the geopolitical consequences of
+      Washington's recent intervention in Iran could mirror the Suez crisis, suggesting
+      that Trump's military actions may lead to significant repercussions for U.S. foreign
+      policy.
+    paragraph_summary: In his article, Alfred McCoy examines the geopolitical ramifications
+      of the United States' recent intervention in Iran, suggesting that it could parallel
+      the historical Suez Crisis in terms of its impact on American foreign policy and
+      global standing. He argues that this intervention, framed as a strategic choice
+      by the Trump administration, may lead to significant consequences for U.S. influence
+      in the region and beyond, potentially reshaping the dynamics of international
+      relations in a manner reminiscent of past crises.
+    published: '2026-03-16T22:26:42+00:00'
+  - title: Imperial Decline in the Strait of Hormuz
+    url: https://consortiumnews.com/2026/03/16/imperial-decline-in-the-strait-of-hormuz/
+    text: By exploring the geopolitical implications of Washington’s latest intervention
+      in Iran, Alfred McCoy says it’s possible to imagine how Trump’s war of choice
+      might well become Washington’s very own version of the Suez crisis.  By Alfred
+      McCoy TomDispatch.com In the first… Read more →
+    one_sentence_summary: Alfred McCoy argues that the geopolitical consequences of
+      Washington's recent intervention in Iran could mirror the Suez crisis, suggesting
+      that Trump's military actions may lead to significant repercussions for U.S. foreign
+      policy.
+    paragraph_summary: In his article, Alfred McCoy examines the geopolitical ramifications
+      of the United States' recent intervention in Iran, suggesting that it could parallel
+      the historical Suez Crisis in terms of its impact on American foreign policy and
+      global standing. He argues that this intervention, framed as a strategic choice
+      by the Trump administration, may lead to significant consequences for U.S. influence
+      in the region and beyond, potentially reshaping the dynamics of international
+      relations in a manner reminiscent of past crises.
+    published: '2026-03-16T22:26:42+00:00'
+  - title: 'WATCH: ‘Don’t Forget Epstein’'
+    url: https://consortiumnews.com/2026/03/16/watch-dont-forget-epstein/
+    text: 'The war in Iran has knocked the Epstein files off the front page. We are
+      here to remind you of its enduring importance in this in-depth interview with
+      author Nick Bryant. Guest: Nick Bryant. Host: Elizabeth Vos. Producer: Cathy Vogan.
+      Read more →'
+    one_sentence_summary: The article features an in-depth interview with author Nick
+      Bryant, discussing the ongoing significance of the Epstein files amidst the overshadowing
+      news of the war in Iran.
+    paragraph_summary: In an in-depth interview with author Nick Bryant, host Elizabeth
+      Vos discusses the significance of the Epstein files, which have been overshadowed
+      by the ongoing war in Iran. The conversation emphasizes the enduring relevance
+      of the Epstein case and its implications, despite the current geopolitical events
+      dominating the news cycle. Producer Cathy Vogan contributes to the production
+      of this insightful dialogue.
+    published: '2026-03-16T16:00:38+00:00'
+  - title: 'WATCH: ‘Don’t Forget Epstein’'
+    url: https://consortiumnews.com/2026/03/16/watch-dont-forget-epstein/
+    text: 'The war in Iran has knocked the Epstein files off the front page. We are
+      here to remind you of its enduring importance in this in-depth interview with
+      author Nick Bryant. Guest: Nick Bryant. Host: Elizabeth Vos. Producer: Cathy Vogan.
+      Read more →'
+    one_sentence_summary: The article features an in-depth interview with author Nick
+      Bryant, discussing the ongoing significance of the Epstein files amidst the overshadowing
+      news of the war in Iran.
+    paragraph_summary: In an in-depth interview with author Nick Bryant, host Elizabeth
+      Vos discusses the significance of the Epstein files, which have been overshadowed
+      by the ongoing war in Iran. The conversation emphasizes the enduring relevance
+      of the Epstein case and its implications, despite the current geopolitical events
+      dominating the news cycle. Producer Cathy Vogan contributes to the production
+      of this insightful dialogue.
+    published: '2026-03-16T16:00:38+00:00'
+  - title: 'DAYS 15-16: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/16/days-15-16-war-on-iran/
+    text: Are Israel and the U.S. ready to declare a bogus victory and walk away — if
+      Iran lets them? Or is Trump doubling down asking NATO for help, while Israel applies
+      the Gaza playbook to Lebanon? SUNDAY  By Joe Lauria… Read more →
+    one_sentence_summary: The article discusses the potential for the U.S. and Israel
+      to declare a false victory regarding their strategies in the Middle East, particularly
+      in relation to Iran, while considering NATO's involvement and Israel's military
+      tactics in Lebanon.
+    paragraph_summary: The article discusses the complexities of U.S. and Israeli strategies
+      regarding Iran and regional conflicts, particularly in Lebanon and Gaza. It questions
+      whether the U.S. and Israel might declare a superficial victory and disengage
+      if Iran permits it, or if former President Trump is intensifying efforts by seeking
+      NATO's assistance. The piece suggests that Israel may be applying its military
+      tactics used in Gaza to the situation in Lebanon, indicating a potential escalation
+      in regional tensions.
+    published: '2026-03-16T15:27:20+00:00'
+  - title: 'DAYS 15-16: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/16/days-15-16-war-on-iran/
+    text: Are Israel and the U.S. ready to declare a bogus victory and walk away — if
+      Iran lets them? Or is Trump doubling down asking NATO for help, while Israel applies
+      the Gaza playbook to Lebanon? SUNDAY  By Joe Lauria… Read more →
+    one_sentence_summary: The article discusses the potential for the U.S. and Israel
+      to declare a false victory regarding their strategies in the Middle East, particularly
+      in relation to Iran, while considering NATO's involvement and Israel's military
+      tactics in Lebanon.
+    paragraph_summary: The article discusses the complexities of U.S. and Israeli strategies
+      regarding Iran and regional conflicts, particularly in Lebanon and Gaza. It questions
+      whether the U.S. and Israel might declare a superficial victory and disengage
+      if Iran permits it, or if former President Trump is intensifying efforts by seeking
+      NATO's assistance. The piece suggests that Israel may be applying its military
+      tactics used in Gaza to the situation in Lebanon, indicating a potential escalation
+      in regional tensions.
+    published: '2026-03-16T15:27:20+00:00'
+  - title: 'WATCH: CN Live! — ‘The View From Tehran’'
+    url: https://consortiumnews.com/2026/03/15/watch-cn-live-the-view-from-tehran/
+    text: 'Sayed Mohammad Marandi speaks to CN Live! from the Iranian capital under
+      fire from a barbaric U.S. and Israeli aggression rooted in profound ignorance
+      of the country they seek to conquer. Sunday 8 pm EDT. Guest: Sayed Mohammad Marandi.
+      Interviewer:… Read more →'
+    one_sentence_summary: Sayed Mohammad Marandi discusses the ongoing U.S. and Israeli
+      aggression towards Iran, emphasizing their ignorance and the impact on the country
+      during an interview with CN Live!
+    paragraph_summary: In an interview with CN Live!, Sayed Mohammad Marandi discusses
+      the ongoing aggression faced by Iran from the U.S. and Israel, which he characterizes
+      as barbaric and driven by a deep misunderstanding of the nation. He emphasizes
+      the resilience of Iran amidst these challenges and critiques the motivations behind
+      the foreign interventions. The interview highlights the geopolitical tensions
+      and the complexities of the situation in the region.
+    published: '2026-03-15T15:29:36+00:00'
+  - title: 'WATCH: CN Live! — ‘The View From Tehran’'
+    url: https://consortiumnews.com/2026/03/15/watch-cn-live-the-view-from-tehran/
+    text: 'Sayed Mohammad Marandi speaks to CN Live! from the Iranian capital under
+      fire from a barbaric U.S. and Israeli aggression rooted in profound ignorance
+      of the country they seek to conquer. Sunday 8 pm EDT. Guest: Sayed Mohammad Marandi.
+      Interviewer:… Read more →'
+    one_sentence_summary: Sayed Mohammad Marandi discusses the ongoing U.S. and Israeli
+      aggression towards Iran, emphasizing their ignorance and the impact on the country
+      during an interview with CN Live!
+    paragraph_summary: In an interview with CN Live!, Sayed Mohammad Marandi discusses
+      the ongoing aggression faced by Iran from the U.S. and Israel, which he characterizes
+      as barbaric and driven by a deep misunderstanding of the nation. He emphasizes
+      the resilience of Iran amidst these challenges and critiques the motivations behind
+      the foreign interventions. The interview highlights the geopolitical tensions
+      and the complexities of the situation in the region.
+    published: '2026-03-15T15:29:36+00:00'
+  - title: Silent Attacks
+    url: https://consortiumnews.com/2026/03/14/silent-attacks/
+    text: Israel’s zero-click spyware is profoundly unconstitutional as it is an AI
+      version of computer hacking, which is a felony, writes Andrew P. Napolitano. But
+      don’t expect the feds to prosecute their own. By Andrew P. Napolitano During the
+      first Trump administration,… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Israel's zero-click spyware,
+      which functions as an AI-driven form of computer hacking, is fundamentally unconstitutional,
+      yet federal authorities are unlikely to hold themselves accountable for its use.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Israel's zero-click
+      spyware, which allows for covert access to devices without user interaction, is
+      fundamentally unconstitutional and akin to computer hacking, a criminal offense.
+      He expresses skepticism about the likelihood of federal prosecution against those
+      involved in its use, particularly given the government's complicity in such actions
+      during the Trump administration. Napolitano emphasizes the legal and ethical implications
+      of using advanced surveillance technologies that infringe on individual rights.
+    published: '2026-03-14T18:00:03+00:00'
+  - title: Silent Attacks
+    url: https://consortiumnews.com/2026/03/14/silent-attacks/
+    text: Israel’s zero-click spyware is profoundly unconstitutional as it is an AI
+      version of computer hacking, which is a felony, writes Andrew P. Napolitano. But
+      don’t expect the feds to prosecute their own. By Andrew P. Napolitano During the
+      first Trump administration,… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Israel's zero-click spyware,
+      which functions as an AI-driven form of computer hacking, is fundamentally unconstitutional,
+      yet federal authorities are unlikely to hold themselves accountable for its use.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Israel's zero-click
+      spyware, which allows for covert access to devices without user interaction, is
+      fundamentally unconstitutional and akin to computer hacking, a criminal offense.
+      He expresses skepticism about the likelihood of federal prosecution against those
+      involved in its use, particularly given the government's complicity in such actions
+      during the Trump administration. Napolitano emphasizes the legal and ethical implications
+      of using advanced surveillance technologies that infringe on individual rights.
+    published: '2026-03-14T18:00:03+00:00'
+  - title: 'DAY 14: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/14/day-14-war-on-iran/
+    text: U.S. bombs Kharg Island military targets and announces deployment of 2,500
+      Marines to the region as the war completes two weeks of destruction.  FRIDAY By
+      Joe Lauria Special to Consortium News Attack on Kharg Island and a Deployment
+      of US… Read more →
+    one_sentence_summary: The U.S. has bombed military targets on Kharg Island and announced
+      the deployment of 2,500 Marines to the region as the ongoing war reaches its two-week
+      mark.
+    paragraph_summary: The U.S. has conducted airstrikes on military targets in Kharg
+      Island as part of ongoing conflict that has now lasted two weeks, resulting in
+      significant destruction. In conjunction with these strikes, the U.S. has announced
+      the deployment of 2,500 Marines to the region, signaling an escalation of military
+      involvement in the area.
+    published: '2026-03-14T16:56:26+00:00'
+  - title: 'DAY 14: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/14/day-14-war-on-iran/
+    text: U.S. bombs Kharg Island military targets and announces deployment of 2,500
+      Marines to the region as the war completes two weeks of destruction.  FRIDAY By
+      Joe Lauria Special to Consortium News Attack on Kharg Island and a Deployment
+      of US… Read more →
+    one_sentence_summary: The U.S. has bombed military targets on Kharg Island and announced
+      the deployment of 2,500 Marines to the region as the ongoing war reaches its two-week
+      mark.
+    paragraph_summary: The U.S. has conducted airstrikes on military targets in Kharg
+      Island as part of ongoing conflict that has now lasted two weeks, resulting in
+      significant destruction. In conjunction with these strikes, the U.S. has announced
+      the deployment of 2,500 Marines to the region, signaling an escalation of military
+      involvement in the area.
+    published: '2026-03-14T16:56:26+00:00'
+  - title: 'WATCH: The World This Week w/John Kiriakou'
+    url: https://consortiumnews.com/2026/03/14/watch-the-world-this-week-w-john-kiriakou/
+    text: War rages as destruction spreads in Iran, Israel and on U.S. bases, while
+      Gulf Arabs reconsider U.S. ties and the U.S. considers a ground invasion. Ex-C.I.A.
+      officer John Kiriakou gives his insight. Watch the reply. Read more →
+    one_sentence_summary: The article discusses the ongoing conflict and destruction
+      in Iran, Israel, and U.S. bases, highlighting Gulf Arab nations' reassessment
+      of their ties with the U.S. as the possibility of a ground invasion is considered,
+      with insights from former C.I.A. officer John Kiriakou.
+    paragraph_summary: The article discusses the escalating conflict in the Middle East,
+      highlighting the ongoing violence in Iran, Israel, and U.S. military bases, as
+      well as the shifting dynamics of Gulf Arab nations in relation to their ties with
+      the United States. It also mentions the possibility of a U.S. ground invasion
+      in response to the situation. Former C.I.A. officer John Kiriakou provides his
+      perspective on these developments, emphasizing the complexities of the geopolitical
+      landscape.
+    published: '2026-03-14T07:50:59+00:00'
+  - title: 'WATCH: The World This Week w/John Kiriakou'
+    url: https://consortiumnews.com/2026/03/14/watch-the-world-this-week-w-john-kiriakou/
+    text: War rages as destruction spreads in Iran, Israel and on U.S. bases, while
+      Gulf Arabs reconsider U.S. ties and the U.S. considers a ground invasion. Ex-C.I.A.
+      officer John Kiriakou gives his insight. Watch the reply. Read more →
+    one_sentence_summary: The article discusses the ongoing conflict and destruction
+      in Iran, Israel, and U.S. bases, highlighting Gulf Arab nations' reassessment
+      of their ties with the U.S. as the possibility of a ground invasion is considered,
+      with insights from former C.I.A. officer John Kiriakou.
+    paragraph_summary: The article discusses the escalating conflict in the Middle East,
+      highlighting the ongoing violence in Iran, Israel, and U.S. military bases, as
+      well as the shifting dynamics of Gulf Arab nations in relation to their ties with
+      the United States. It also mentions the possibility of a U.S. ground invasion
+      in response to the situation. Former C.I.A. officer John Kiriakou provides his
+      perspective on these developments, emphasizing the complexities of the geopolitical
+      landscape.
+    published: '2026-03-14T07:50:59+00:00'
+  - title: 'Craig Murray: Joy at Death & Destruction'
+    url: https://consortiumnews.com/2026/03/13/craig-murray-joy-at-death-destruction/
+    text: After the genocide in Gaza, and now on a far larger field in Iran, those in
+      power in Israel and the U.S. have a lust to kill and revel in impunity. There’s
+      an urgent need for regime change – in… Read more →
+    one_sentence_summary: The article argues that following the genocide in Gaza and
+      escalating violence in Iran, the leaders of Israel and the U.S. exhibit a dangerous
+      desire for violence and a lack of accountability, highlighting an urgent need
+      for regime change.
+    paragraph_summary: The article discusses the aftermath of the genocide in Gaza and
+      the escalating violence in Iran, criticizing the leaders in Israel and the U.S.
+      for their apparent eagerness to engage in lethal actions without accountability.
+      It emphasizes the pressing necessity for a change in governance to address these
+      issues and prevent further atrocities.
+    published: '2026-03-13T23:41:52+00:00'
+  - title: 'Craig Murray: Joy at Death & Destruction'
+    url: https://consortiumnews.com/2026/03/13/craig-murray-joy-at-death-destruction/
+    text: After the genocide in Gaza, and now on a far larger field in Iran, those in
+      power in Israel and the U.S. have a lust to kill and revel in impunity. There’s
+      an urgent need for regime change – in… Read more →
+    one_sentence_summary: The article argues that following the genocide in Gaza and
+      escalating violence in Iran, the leaders of Israel and the U.S. exhibit a dangerous
+      desire for violence and a lack of accountability, highlighting an urgent need
+      for regime change.
+    paragraph_summary: The article discusses the aftermath of the genocide in Gaza and
+      the escalating violence in Iran, criticizing the leaders in Israel and the U.S.
+      for their apparent eagerness to engage in lethal actions without accountability.
+      It emphasizes the pressing necessity for a change in governance to address these
+      issues and prevent further atrocities.
+    published: '2026-03-13T23:41:52+00:00'
+  - title: Europe & the War on Iran
+    url: https://consortiumnews.com/2026/03/13/europe-the-war-on-iran/
+    text: The British and European reaction to the war on Iran is part of a wider trend
+      of increased vassalization of the continent to the U.S., writes Alan MacLeod.
+      By Alan MacLeod MintPress News European nations are joining the United States…
+      Read more →
+    one_sentence_summary: Alan MacLeod argues that the British and European response
+      to the war on Iran reflects a broader trend of increasing subservience of Europe
+      to U.S. interests.
+    paragraph_summary: In his article for MintPress News, Alan MacLeod discusses how
+      the British and European response to the conflict in Iran reflects a broader trend
+      of increasing subservience of European nations to U.S. interests. He argues that
+      these countries are aligning more closely with American foreign policy, indicating
+      a shift in their autonomy and decision-making in international affairs. This development
+      highlights the growing influence of the U.S. over European political dynamics,
+      particularly in relation to military and diplomatic actions.
+    published: '2026-03-13T18:00:38+00:00'
+  - title: Europe & the War on Iran
+    url: https://consortiumnews.com/2026/03/13/europe-the-war-on-iran/
+    text: The British and European reaction to the war on Iran is part of a wider trend
+      of increased vassalization of the continent to the U.S., writes Alan MacLeod.
+      By Alan MacLeod MintPress News European nations are joining the United States…
+      Read more →
+    one_sentence_summary: Alan MacLeod argues that the British and European response
+      to the war on Iran reflects a broader trend of increasing subservience of Europe
+      to U.S. interests.
+    paragraph_summary: In his article for MintPress News, Alan MacLeod discusses how
+      the British and European response to the conflict in Iran reflects a broader trend
+      of increasing subservience of European nations to U.S. interests. He argues that
+      these countries are aligning more closely with American foreign policy, indicating
+      a shift in their autonomy and decision-making in international affairs. This development
+      highlights the growing influence of the U.S. over European political dynamics,
+      particularly in relation to military and diplomatic actions.
+    published: '2026-03-13T18:00:38+00:00'
+  - title: How the Gas Crisis Impacts the Most Populous Country
+    url: https://consortiumnews.com/2026/03/13/how-the-gas-crisis-impacts-the-most-populous-country/
+    text: The LPG shortage in India following Iran’s wartime blockage of the Hormuz
+      Strait is leaving people and businesses in India frightened and suffering real
+      losses, Betwa Sharma reports. By Betwa Sharma in Lucknow, India Special to Consortium
+      News What began with… Read more →
+    one_sentence_summary: The LPG shortage in India, caused by Iran's wartime blockage
+      of the Hormuz Strait, is resulting in significant fear and financial losses for
+      individuals and businesses across the country.
+    paragraph_summary: The LPG shortage in India, triggered by Iran's wartime blockage
+      of the Hormuz Strait, is causing significant distress among individuals and businesses
+      across the country, as reported by Betwa Sharma. The situation has led to widespread
+      fear and tangible economic losses, highlighting the severe impact of geopolitical
+      tensions on essential resources in India.
+    published: '2026-03-13T16:01:56+00:00'
+  - title: How the Gas Crisis Impacts the Most Populous Country
+    url: https://consortiumnews.com/2026/03/13/how-the-gas-crisis-impacts-the-most-populous-country/
+    text: The LPG shortage in India following Iran’s wartime blockage of the Hormuz
+      Strait is leaving people and businesses in India frightened and suffering real
+      losses, Betwa Sharma reports. By Betwa Sharma in Lucknow, India Special to Consortium
+      News What began with… Read more →
+    one_sentence_summary: The LPG shortage in India, caused by Iran's wartime blockage
+      of the Hormuz Strait, is resulting in significant fear and financial losses for
+      individuals and businesses across the country.
+    paragraph_summary: The LPG shortage in India, triggered by Iran's wartime blockage
+      of the Hormuz Strait, is causing significant distress among individuals and businesses
+      across the country, as reported by Betwa Sharma. The situation has led to widespread
+      fear and tangible economic losses, highlighting the severe impact of geopolitical
+      tensions on essential resources in India.
+    published: '2026-03-13T16:01:56+00:00'
+  - title: 'DAY 13: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/13/day-13-war-on-iran/
+    text: Militia claim ignored about 4 dead U.S. airmen; Gulf Arabs’ strong second
+      thoughts about the U.S.; Washington forced to lift Russian sanctions because of
+      a war of choice for which there’s no price tag. THURSDAY By Joe Lauria Special
+      to… Read more →
+    one_sentence_summary: The article discusses the overlooked claims of a militia regarding
+      the deaths of four U.S. airmen, the Gulf Arabs' growing skepticism towards the
+      U.S., and Washington's compelled lifting of Russian sanctions amid an unquantified
+      war of choice.
+    paragraph_summary: The article discusses several geopolitical issues, including
+      a militia's claim regarding the deaths of four U.S. airmen that has been overlooked,
+      the growing skepticism among Gulf Arab states about their alliance with the U.S.,
+      and the necessity for Washington to lift sanctions on Russia due to a conflict
+      that lacks a clear financial cost. The piece highlights the complexities and shifting
+      dynamics in international relations, particularly in the context of U.S. foreign
+      policy and its implications for regional allies.
+    published: '2026-03-13T13:42:13+00:00'
+  - title: 'DAY 13: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/13/day-13-war-on-iran/
+    text: Militia claim ignored about 4 dead U.S. airmen; Gulf Arabs’ strong second
+      thoughts about the U.S.; Washington forced to lift Russian sanctions because of
+      a war of choice for which there’s no price tag. THURSDAY By Joe Lauria Special
+      to… Read more →
+    one_sentence_summary: The article discusses the overlooked claims of a militia regarding
+      the deaths of four U.S. airmen, the Gulf Arabs' growing skepticism towards the
+      U.S., and Washington's compelled lifting of Russian sanctions amid an unquantified
+      war of choice.
+    paragraph_summary: The article discusses several geopolitical issues, including
+      a militia's claim regarding the deaths of four U.S. airmen that has been overlooked,
+      the growing skepticism among Gulf Arab states about their alliance with the U.S.,
+      and the necessity for Washington to lift sanctions on Russia due to a conflict
+      that lacks a clear financial cost. The piece highlights the complexities and shifting
+      dynamics in international relations, particularly in the context of U.S. foreign
+      policy and its implications for regional allies.
+    published: '2026-03-13T13:42:13+00:00'
+  - title: 'Max Blumenthal:  How FBI & Israel Got Trump to Attack'
+    url: https://consortiumnews.com/2026/03/13/max-blumenthal-how-fbi-israel-got-trump-to-attack/
+    text: The F.B.I. manufactured plots to convince Donald Trump that Iran sought to
+      kill him, while Israel and its administration allies exploited the president’s
+      deepest fears to keep him on the path to war. By Max Blumenthal The Grayzone “I
+      got him… Read more →
+    one_sentence_summary: The article by Max Blumenthal alleges that the F.B.I. created
+      false plots to persuade Donald Trump that Iran intended to assassinate him, while
+      Israeli officials and their allies manipulated his fears to push him towards military
+      conflict.
+    paragraph_summary: The article by Max Blumenthal in The Grayzone discusses how the
+      F.B.I. allegedly created fabricated plots to persuade Donald Trump that Iran was
+      planning to assassinate him. It argues that Israel and its allies took advantage
+      of Trump's fears to manipulate him into pursuing a confrontational stance towards
+      Iran, ultimately steering him towards the possibility of war.
+    published: '2026-03-13T08:02:33+00:00'
+  - title: 'Max Blumenthal:  How FBI & Israel Got Trump to Attack'
+    url: https://consortiumnews.com/2026/03/13/max-blumenthal-how-fbi-israel-got-trump-to-attack/
+    text: The F.B.I. manufactured plots to convince Donald Trump that Iran sought to
+      kill him, while Israel and its administration allies exploited the president’s
+      deepest fears to keep him on the path to war. By Max Blumenthal The Grayzone “I
+      got him… Read more →
+    one_sentence_summary: The article by Max Blumenthal alleges that the F.B.I. created
+      false plots to persuade Donald Trump that Iran intended to assassinate him, while
+      Israeli officials and their allies manipulated his fears to push him towards military
+      conflict.
+    paragraph_summary: The article by Max Blumenthal in The Grayzone discusses how the
+      F.B.I. allegedly created fabricated plots to persuade Donald Trump that Iran was
+      planning to assassinate him. It argues that Israel and its allies took advantage
+      of Trump's fears to manipulate him into pursuing a confrontational stance towards
+      Iran, ultimately steering him towards the possibility of war.
+    published: '2026-03-13T08:02:33+00:00'
+  - title: 'Hedges Report: The Trillion Dollar War Machine'
+    url: https://consortiumnews.com/2026/03/12/hedges-report-the-trillion-dollar-war-machine/
+    text: The military-industrial-complex has grown into a monster so powerful that
+      even its earliest critics likely never foresaw its evolution. In the age of Big
+      Tech’s rising power, can anything stop it? By Chris Hedges The Chris Hedges Report
+      This interview is… Read more →
+    one_sentence_summary: The article discusses the overwhelming growth of the military-industrial
+      complex and questions whether it can be curtailed in the face of increasing influence
+      from Big Tech.
+    paragraph_summary: In his article, Chris Hedges discusses the overwhelming growth
+      of the military-industrial complex, which has evolved into a formidable entity
+      that surpasses the expectations of its initial critics. He raises concerns about
+      its increasing influence, especially in the context of the burgeoning power of
+      Big Tech, questioning whether there is any force capable of curbing its dominance.
+      The piece reflects on the intertwining of military interests and technological
+      advancements, suggesting a troubling trajectory for society and governance.
+    published: '2026-03-12T20:53:20+00:00'
+  - title: 'Hedges Report: The Trillion Dollar War Machine'
+    url: https://consortiumnews.com/2026/03/12/hedges-report-the-trillion-dollar-war-machine/
+    text: The military-industrial-complex has grown into a monster so powerful that
+      even its earliest critics likely never foresaw its evolution. In the age of Big
+      Tech’s rising power, can anything stop it? By Chris Hedges The Chris Hedges Report
+      This interview is… Read more →
+    one_sentence_summary: The article discusses the overwhelming growth of the military-industrial
+      complex and questions whether it can be curtailed in the face of increasing influence
+      from Big Tech.
+    paragraph_summary: In his article, Chris Hedges discusses the overwhelming growth
+      of the military-industrial complex, which has evolved into a formidable entity
+      that surpasses the expectations of its initial critics. He raises concerns about
+      its increasing influence, especially in the context of the burgeoning power of
+      Big Tech, questioning whether there is any force capable of curbing its dominance.
+      The piece reflects on the intertwining of military interests and technological
+      advancements, suggesting a troubling trajectory for society and governance.
+    published: '2026-03-12T20:53:20+00:00'
+  - title: When the Security Council Cannot Utter the Truth
+    url: https://consortiumnews.com/2026/03/12/when-the-security-council-cannot-utter-the-truth/
+    text: The world deserves better than this choreography of half-truths and strategic
+      silences. It deserves leaders who act with integrity, not calculation, writes
+      Annette Morgan. By Annette Morgan Special to Consortium News What unfolded at
+      the Security Council on Wednesday is… Read more →
+    one_sentence_summary: Annette Morgan argues that the world needs leaders who prioritize
+      integrity over strategic manipulation, criticizing the recent events at the Security
+      Council for their reliance on half-truths and silence.
+    paragraph_summary: In her article for Consortium News, Annette Morgan criticizes
+      the recent proceedings at the Security Council, describing them as a "choreography
+      of half-truths and strategic silences." She argues that the world deserves leaders
+      who prioritize integrity over calculated political maneuvers, emphasizing the
+      need for genuine accountability and transparency in international governance.
+      Morgan's call to action highlights the importance of principled leadership in
+      addressing global challenges.
+    published: '2026-03-12T17:44:56+00:00'
+  - title: When the Security Council Cannot Utter the Truth
+    url: https://consortiumnews.com/2026/03/12/when-the-security-council-cannot-utter-the-truth/
+    text: The world deserves better than this choreography of half-truths and strategic
+      silences. It deserves leaders who act with integrity, not calculation, writes
+      Annette Morgan. By Annette Morgan Special to Consortium News What unfolded at
+      the Security Council on Wednesday is… Read more →
+    one_sentence_summary: Annette Morgan argues that the world needs leaders who prioritize
+      integrity over strategic manipulation, criticizing the recent events at the Security
+      Council for their reliance on half-truths and silence.
+    paragraph_summary: In her article for Consortium News, Annette Morgan criticizes
+      the recent proceedings at the Security Council, describing them as a "choreography
+      of half-truths and strategic silences." She argues that the world deserves leaders
+      who prioritize integrity over calculated political maneuvers, emphasizing the
+      need for genuine accountability and transparency in international governance.
+      Morgan's call to action highlights the importance of principled leadership in
+      addressing global challenges.
+    published: '2026-03-12T17:44:56+00:00'
+  - title: 'DAYS 11-12: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/12/days-11-12-war-on-iran/
+    text: 'Trump has a choice: him or the world; wants way out of war; Security Council
+      blames Iran; Iranian ‘sleeper cells;’ the Pope’s deep sorrow; U.S. bases damaged
+      as reckoning begins; and ‘Nothing Will Remain of Tehran.’ WEDNESDAY By Joe Lauria…
+      Read more →'
+    one_sentence_summary: The article discusses Trump's dilemma between prioritizing
+      his interests or global stability amidst escalating tensions with Iran, as the
+      Security Council holds Iran accountable, while also highlighting the Pope's sorrow
+      and the damage to U.S. bases as the situation intensifies.
+    paragraph_summary: In a complex geopolitical landscape, former President Trump faces
+      a critical decision regarding his stance on international conflicts, particularly
+      as tensions rise with Iran, which has been blamed by the UN Security Council for
+      various provocations. Reports suggest the existence of Iranian sleeper cells,
+      raising concerns about security threats. The Pope has expressed profound sorrow
+      over the escalating violence, while U.S. military bases have sustained damage
+      amidst the unfolding crisis. As the situation intensifies, there are ominous predictions
+      about the potential consequences for Tehran, highlighting the urgent need for
+      diplomatic resolution.
+    published: '2026-03-12T13:25:04+00:00'
+  - title: 'DAYS 11-12: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/12/days-11-12-war-on-iran/
+    text: 'Trump has a choice: him or the world; wants way out of war; Security Council
+      blames Iran; Iranian ‘sleeper cells;’ the Pope’s deep sorrow; U.S. bases damaged
+      as reckoning begins; and ‘Nothing Will Remain of Tehran.’ WEDNESDAY By Joe Lauria…
+      Read more →'
+    one_sentence_summary: The article discusses Trump's dilemma between prioritizing
+      his interests or global stability amidst escalating tensions with Iran, as the
+      Security Council holds Iran accountable, while also highlighting the Pope's sorrow
+      and the damage to U.S. bases as the situation intensifies.
+    paragraph_summary: In a complex geopolitical landscape, former President Trump faces
+      a critical decision regarding his stance on international conflicts, particularly
+      as tensions rise with Iran, which has been blamed by the UN Security Council for
+      various provocations. Reports suggest the existence of Iranian sleeper cells,
+      raising concerns about security threats. The Pope has expressed profound sorrow
+      over the escalating violence, while U.S. military bases have sustained damage
+      amidst the unfolding crisis. As the situation intensifies, there are ominous predictions
+      about the potential consequences for Tehran, highlighting the urgent need for
+      diplomatic resolution.
+    published: '2026-03-12T13:25:04+00:00'
+  - title: 'WATCH: UN Security Council Blames Iran'
+    url: https://consortiumnews.com/2026/03/12/watch-un-security-council-blames-iran/
+    text: Russia and China failed to veto a resolution that blatantly blamed the victim
+      rather than the aggressor in the war against Iran. Joe Lauria reports. By Joe
+      Lauria Special to Consortium News Neither Russia nor China vetoed a U.N. Security…
+      Read more →
+    one_sentence_summary: Russia and China did not veto a U.N. Security Council resolution
+      that criticized Iran, which Joe Lauria argues unfairly blames the victim instead
+      of the aggressor in the conflict.
+    paragraph_summary: In a recent article by Joe Lauria for Consortium News, it is
+      reported that Russia and China did not exercise their veto power against a U.N.
+      Security Council resolution that criticized Iran, which many view as placing blame
+      on the victim rather than addressing the actions of the aggressor in the conflict.
+      This decision has raised concerns about the implications for international relations
+      and the perception of justice in the ongoing situation involving Iran.
+    published: '2026-03-12T10:41:12+00:00'
+  - title: 'WATCH: UN Security Council Blames Iran'
+    url: https://consortiumnews.com/2026/03/12/watch-un-security-council-blames-iran/
+    text: Russia and China failed to veto a resolution that blatantly blamed the victim
+      rather than the aggressor in the war against Iran. Joe Lauria reports. By Joe
+      Lauria Special to Consortium News Neither Russia nor China vetoed a U.N. Security…
+      Read more →
+    one_sentence_summary: Russia and China did not veto a U.N. Security Council resolution
+      that criticized Iran, which Joe Lauria argues unfairly blames the victim instead
+      of the aggressor in the conflict.
+    paragraph_summary: In a recent article by Joe Lauria for Consortium News, it is
+      reported that Russia and China did not exercise their veto power against a U.N.
+      Security Council resolution that criticized Iran, which many view as placing blame
+      on the victim rather than addressing the actions of the aggressor in the conflict.
+      This decision has raised concerns about the implications for international relations
+      and the perception of justice in the ongoing situation involving Iran.
+    published: '2026-03-12T10:41:12+00:00'
+  - title: ‘It Was More Fun’ to Kill Than Capture Iranians
+    url: https://consortiumnews.com/2026/03/11/it-was-more-fun-to-kill-than-capture-iranians/
+    text: The U.S. president said a military official told him it was “more fun” to
+      kill rather than capture more than 100 Iranian sailors in the Indian Ocean who
+      had just finished a training session. U.S. forces made no rescue effort. … Read
+      more →
+    one_sentence_summary: The U.S. president revealed that a military official expressed
+      a preference for killing over capturing over 100 Iranian sailors in the Indian
+      Ocean, following their training session, with no rescue efforts made by U.S. forces.
+    paragraph_summary: In a recent statement, the U.S. president revealed that a military
+      official expressed a preference for killing over capturing over 100 Iranian sailors
+      in the Indian Ocean, who had just completed a training session. This comment came
+      in the context of U.S. forces not attempting any rescue efforts for the sailors.
+    published: '2026-03-12T03:51:05+00:00'
+  - title: ‘It Was More Fun’ to Kill Than Capture Iranians
+    url: https://consortiumnews.com/2026/03/11/it-was-more-fun-to-kill-than-capture-iranians/
+    text: The U.S. president said a military official told him it was “more fun” to
+      kill rather than capture more than 100 Iranian sailors in the Indian Ocean who
+      had just finished a training session. U.S. forces made no rescue effort. … Read
+      more →
+    one_sentence_summary: The U.S. president revealed that a military official expressed
+      a preference for killing over capturing over 100 Iranian sailors in the Indian
+      Ocean, following their training session, with no rescue efforts made by U.S. forces.
+    paragraph_summary: In a recent statement, the U.S. president revealed that a military
+      official expressed a preference for killing over capturing over 100 Iranian sailors
+      in the Indian Ocean, who had just completed a training session. This comment came
+      in the context of U.S. forces not attempting any rescue efforts for the sailors.
+    published: '2026-03-12T03:51:05+00:00'
+  - title: 'Planet Palantir: The Brave New War Machine'
+    url: https://consortiumnews.com/2026/03/11/planet-palantir-the-brave-new-war-machine/
+    text: William Hartung and Janet Abou-Elias describe how a clique of unhinged techno-optimists
+      is putting humanity at risk. By William Hartung and Janet Abou-Elias TomDispatch
+      “I love the idea of getting a drone and having light fentanyl-laced urine spraying
+      on analysts that… Read more →
+    one_sentence_summary: William Hartung and Janet Abou-Elias warn that a group of
+      reckless techno-optimists is endangering humanity with their dangerous and irresponsible
+      ideas about technology and warfare.
+    paragraph_summary: In their article, William Hartung and Janet Abou-Elias highlight
+      the dangers posed by a group of extreme techno-optimists who advocate for reckless
+      technological advancements without considering the potential consequences for
+      humanity. They illustrate this concern with a disturbing example of a proposal
+      to use drones for harmful purposes, emphasizing the need for a more cautious and
+      ethical approach to technology development. The authors argue that unchecked enthusiasm
+      for technology can lead to significant risks, urging a reevaluation of how such
+      innovations are implemented in society.
+    published: '2026-03-11T18:00:52+00:00'
+  - title: 'Planet Palantir: The Brave New War Machine'
+    url: https://consortiumnews.com/2026/03/11/planet-palantir-the-brave-new-war-machine/
+    text: William Hartung and Janet Abou-Elias describe how a clique of unhinged techno-optimists
+      is putting humanity at risk. By William Hartung and Janet Abou-Elias TomDispatch
+      “I love the idea of getting a drone and having light fentanyl-laced urine spraying
+      on analysts that… Read more →
+    one_sentence_summary: William Hartung and Janet Abou-Elias warn that a group of
+      reckless techno-optimists is endangering humanity with their dangerous and irresponsible
+      ideas about technology and warfare.
+    paragraph_summary: In their article, William Hartung and Janet Abou-Elias highlight
+      the dangers posed by a group of extreme techno-optimists who advocate for reckless
+      technological advancements without considering the potential consequences for
+      humanity. They illustrate this concern with a disturbing example of a proposal
+      to use drones for harmful purposes, emphasizing the need for a more cautious and
+      ethical approach to technology development. The authors argue that unchecked enthusiasm
+      for technology can lead to significant risks, urging a reevaluation of how such
+      innovations are implemented in society.
+    published: '2026-03-11T18:00:52+00:00'
+  - title: Iran War ‘Biggest Opportunity’ for US Oil Lobby
+    url: https://consortiumnews.com/2026/03/11/iran-war-biggest-opportunity-for-us-oil-lobby/
+    text: After resisting Trump’s demands for quick investments in Venezuela, oil industry
+      bigs see Iran regime change as a “wonderful day,” reports Max Blumenthal. By Max
+      Blumenthal The Grayzone When the American Petroleum Institute (A.P.I.) gathered
+      oil industry leaders and lobbyists for… Read more →
+    one_sentence_summary: Oil industry leaders, initially hesitant to comply with Trump's
+      calls for rapid investments in Venezuela, view the potential regime change in
+      Iran as a promising opportunity, according to Max Blumenthal.
+    paragraph_summary: In an article by Max Blumenthal for The Grayzone, it is reported
+      that oil industry executives, after initially resisting former President Trump's
+      calls for rapid investments in Venezuela, are now viewing the potential for regime
+      change in Iran as a highly favorable opportunity. The gathering of leaders and
+      lobbyists from the American Petroleum Institute (A.P.I.) reflects a shift in focus
+      towards the geopolitical landscape, with the prospect of a new regime in Iran
+      being seen as beneficial for their interests in the oil sector.
+    published: '2026-03-11T16:00:16+00:00'
+  - title: Iran War ‘Biggest Opportunity’ for US Oil Lobby
+    url: https://consortiumnews.com/2026/03/11/iran-war-biggest-opportunity-for-us-oil-lobby/
+    text: After resisting Trump’s demands for quick investments in Venezuela, oil industry
+      bigs see Iran regime change as a “wonderful day,” reports Max Blumenthal. By Max
+      Blumenthal The Grayzone When the American Petroleum Institute (A.P.I.) gathered
+      oil industry leaders and lobbyists for… Read more →
+    one_sentence_summary: Oil industry leaders, initially hesitant to comply with Trump's
+      calls for rapid investments in Venezuela, view the potential regime change in
+      Iran as a promising opportunity, according to Max Blumenthal.
+    paragraph_summary: In an article by Max Blumenthal for The Grayzone, it is reported
+      that oil industry executives, after initially resisting former President Trump's
+      calls for rapid investments in Venezuela, are now viewing the potential for regime
+      change in Iran as a highly favorable opportunity. The gathering of leaders and
+      lobbyists from the American Petroleum Institute (A.P.I.) reflects a shift in focus
+      towards the geopolitical landscape, with the prospect of a new regime in Iran
+      being seen as beneficial for their interests in the oil sector.
+    published: '2026-03-11T16:00:16+00:00'
   - title: 'WATCH: CN Live! — ‘The Toll on Israel’'
     url: https://consortiumnews.com/2026/03/10/watch-cn-live-the-toll-on-israel/
     text: 'Former Israeli military intelligence officer Ari Ben-Menashe discusses what

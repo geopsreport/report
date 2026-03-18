@@ -8,17 +8,1494 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As of March 11, 2026, the global geopolitical landscape remains volatile, shaped by escalating conflict in the Middle East, economic decline in Europe, and persistent tensions over U.S. foreign policy. The most recent developments underscore the deepening crisis in several key regions.
+  The Middle East remains at the center of escalating geopolitical tensions, with the ongoing conflict between the U.S. and Iran dominating recent developments. Over the past week, a series of military escalations, diplomatic maneuvers, and economic disruptions have further destabilized the region, drawing parallels to the early 2000s but with new complexities.
   
-  The aftermath of the U.S.-Israel joint attack on Iran continues to reverberate. According to **Michael Hudson**, the strike occurred while negotiations were still ongoing, casting doubt on the sincerity of diplomatic efforts and signaling a shift toward open confrontation. This event has not only derailed the tentative progress made in nuclear talks—where Iran had agreed to halt uranium enrichment and allow IAEA verification—but also heightened the risk of broader regional destabilization. **Hudson** notes, “Negotiations have become little more than a cover for war as policy,” reflecting a consensus among analysts that military action is now being prioritized over diplomacy.
+  **Recent Developments in the U.S.-Iran Standoff**
   
-  In Europe, economic turmoil persists. **Hudson**’s recent roundtable discussion highlights a significant decline across the continent, with rentier capitalism exacerbating inequality and undermining productive sectors. The illusion of growth, propped up by financialization, is giving way to social and political unrest. “Europe faces a period of turmoil and decline,” **Hudson** asserts, echoing widespread concerns about the region’s trajectory.
+  According to **Michael Hudson**, the U.S. continues to demand Iran’s unconditional surrender, with former President Trump openly seeking to influence the selection of Iran’s next leader. Iranian officials, meanwhile, have acknowledged that U.S. military actions are likely to persist until American forces are expelled from the region. This uncompromising posture on both sides has led to a hardening of positions, making a negotiated settlement increasingly unlikely in the near term.
   
-  Meanwhile, U.S. policy under the current administration continues to emphasize military dominance as a means of maintaining global order. **Hudson** critiques this approach, arguing that the rhetoric of peace masks an underlying strategy of imperial assertion. The recent State of the Union speech, as discussed by **Nima Alkhorchid**, made clear that the U.S. intends to sustain its involvement in the Ukraine conflict, further entrenching divisions with Russia and China.
+  **Economic Fallout and Oil Market Instability**
   
-  **Trends and Predictions:**  
-  The majority of independent analysts agree that the Middle East is entering a new phase of instability, with a high chance of further escalation following the collapse of nuclear negotiations. In Europe, the economic downturn is most definitely set to deepen, driven by structural weaknesses and policy missteps. U.S. foreign policy will likely remain confrontational, with military solutions favored over genuine diplomatic engagement. I guarantee that these dynamics will continue to fuel global uncertainty and intensify the civilizational divide between rentier and productive economies.
+  The conflict’s economic repercussions are being felt globally, particularly in energy markets. As noted by **Nima Alkhorshid**, the specter of an oil shock looms over the Persian Gulf, with disruptions to supply chains and heightened risk premiums driving up prices. The situation is reminiscent of previous oil crises, but with the added volatility of modern financial markets and geopolitical fragmentation.
+  
+  **European Decline Amid Global Turmoil**
+  
+  While the Middle East dominates headlines, Europe faces its own challenges. **Michael Hudson** recently highlighted the continent’s ongoing decline, marked by economic stagnation and political turmoil. The inability of European powers to assert a coherent foreign policy or shield themselves from the fallout of U.S.-led conflicts underscores their growing marginalization on the world stage.
+  
+  **Trends and Predictions**
+  
+  The majority of analysts agree that the U.S.-Iran confrontation is unlikely to de-escalate soon. There is a high chance of continued military actions and economic disruptions, particularly in the oil sector. As **Michael Hudson** observes, “U.S. military actions will persist until American forces are expelled from the Middle East,” a scenario that appears increasingly plausible given current trajectories. Meanwhile, Europe’s decline is set to continue, with little evidence of a turnaround.
+  
+  In summary, the region is entering a period of heightened instability, with global economic and political ramifications. I guarantee that, barring a major diplomatic breakthrough, the Middle East will remain a flashpoint, and the risk of broader conflict and economic disruption is most definitely rising.
 articles:
+  - title: War, Oil and Empire
+    url: https://michael-hudson.com/2026/03/war-oil-and-empire/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, March 5, 2026, and our
+      dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣NIMA ALKHORSHID: I think
+      we have to talk about what’s going on in the Middle East because of the war that
+      is happening right now. Let me start, Michael, with you. And what is your understanding?
+      Many people are asking themselves. You know, you see Democrats, Republicans, many
+      people outside of the United States, inside of the United States, they’re saying—what
+      is happening? What was the main reason for this war? Why did it happen? What is
+      your understanding of that? ⁣MICHAEL HUDSON: The same reason that we had for the
+      war against Iraq in 2003. The same shock-and-awe policy taking over the country
+      and the same enabling lie that began it. You remember the lie that was used by
+      Secretary of State Colin Powell that was given to him by Cheney and Rumsfeld that
+      Iraq had weapons of mass destruction, not only moving towards an atom bomb, but
+      bioweapons and chemical weapons, and was buying uranium from Niger. All of that
+      was a lie promoted by the CIA and also by Tony Blair and MI6, in fact. Well, you
+      have the same identical lie with Iran today. Iran is moving towards getting an
+      atom bomb. Well, what happened last Friday, I think, explains why the United States
+      and Israel had to go to war very quickly by Saturday. And that is because, after
+      the negotiations between the Iranians and the Americans in Oman were taking place,
+      the Omani foreign minister, who had acted as a mediator, went public and said,
+      “Iran has made unprecedented agreements to surrender to the American position
+      in order to avoid war. It’s actually going to dispose of its 60% enriched uranium
+      and move it to other countries. It’s actually going to promise not to undertake
+      further enrichment and to any uranium that it keeps, it’s going to dilute it.”
+      Well, right after you had this agreement on Friday, Ayatollah Khomeini brought
+      together his other religious leaders and the head of the Iranian army to draft
+      their proposed agreement and the language that they were going to give, going
+      way beyond what the original agreements under the Obama administration had been
+      to guarantee Israel, America, and all other countries that Iran was going to be
+      the only country in the world that was willing to give up the enrichment of uranium
+      over a given point. Well, imagine what would have happened if this report had
+      come out. That would have destroyed the whole lie that justified the American
+      attack on Iran. It would have said that, contrary to what Donald Trump was saying,
+      Iran was not set on getting an atomic bomb, that everything Trump said would have
+      been exposed as a lie. The United States and Israel desperately had to go to war
+      to bomb not only Khomeini, but the whole group of Iranians that were in charge
+      of making the official reply to the negotiations and [drafting] the official agreement.
+      They had to be killed before they could come out and say, “Wait a minute, all
+      this is not what we agreed on. And we agreed on exactly what the Omani foreign
+      minister said.” So they had to do it in a hurry. And so Trump and Netanyahu, the
+      United States and Israel agreed to make a surprise attack on these officials and
+      to bomb them because the real aim was never to stop Iran from having an atom bomb
+      because Iran was never running the policy of getting an atom bomb. The immediate
+      aim was exactly what Donald Trump has said it was. Regime change. “We want a regime
+      change.” And yesterday he came out and said, “Not only is there a regime change,
+      but I, Donald Trump, will be appointing the new heads of Iran. We can’t have any
+      one religious leader there.” Obviously, the United States wants to bring back
+      the Shah’s son with all of his torture groups and the whole group that Khomeini
+      so brilliantly overthrew when the whole Iranian population fought back against
+      all of this. So the United States wants the regime change and why does it want
+      a regime change? It wants oil. So we’re brought back to a policy that the United
+      States has had at least since 2003, when General Wesley Clark said, “We’re going
+      to attack seven near Eastern countries in five years and we’re going to take control
+      of the oil.” Just as when Donald Trump said, “You know, when we’re in Iraq, we’ve
+      got to take our oil.” That’s what it’s all about. And that’s what, from the very
+      beginning, the role of Israel has been in the Near East, to act as what I’ve heard
+      military officers in America say Israel is: our landed aircraft carrier there,
+      to make sure that there’s no regime that’s going to emerge that breaks the basic
+      agreement that Saudi Arabia and the other OPEC countries made in 1974 [when] they
+      were told they can charge whatever they want for their oil but they have to price
+      their oil in dollars and they have to keep all of the savings from their oil exports
+      in the United States in the form of bank deposits, [of] U.S. Treasury securities,
+      and of U.S. stocks and bonds. And this overwhelming, overriding position has been
+      the basis for American foreign policy ever since 1974. And the reason that America
+      has gone to war with Iran, and before that, gone to war with Iraq to seize its
+      oil, gone to war with Libya to grab its money and to seize its oil, gone to war
+      with Syria using al-Qaeda troops to have a civil war there is to seize its oil.
+      And the purpose of seizing oil isn’t simply to assert U.S. ownership of oil. The
+      U.S. doesn’t have to actually own the oil. It just has to have a client oligarchy
+      in place that agrees that all of the money from the oil exports will be taken
+      in dollars and sent to the United States as the national savings of the countries
+      that are doing the exportation of the oil. Well, why is the United States gone
+      to war in Venezuela? Well, now Venezuela has said, “We’re going to begin pricing
+      Venezuelan oil in Chinese currency, the RMB. We’re not going to price it in dollars
+      because we’re not selling oil to America. We’re under attack by America. We’re
+      going to sell it to friendly countries and countries that are investing in us.”
+      The United States has gone to war with Russia in Ukraine because Russia’s not
+      pricing its oil in dollars. It can’t do it in dollars because the dollars in foreign
+      exchange savings of 300 billion were all confiscated by the Europeans. So it can’t
+      do that. So the United States needed to take Iran out of the picture so that Iran
+      wouldn’t be the one country that was powerful enough to continue to export oil,
+      not only in foreign currency, not dollars, but in Chinese currency, because 80%
+      of Iran’s oil is sent to China. Now, that accounts only for 5% of Chinese oil,
+      but the United States is also trying to block Russian oil from being transported
+      to China. Just a few days ago, the British shot down a Russian tanker off Gibraltar
+      that was trying to trade Russian oil, and the Europeans are trying to threaten
+      to blow up Russian tankers in the Baltic to prevent Russia from having any access
+      at all to its exports. So Iran defended itself, obviously, and it defended itself
+      basically against letting itself be torn apart in the way that America’s proxy
+      armies are trying to destroy it. America has two proxy armies in the Middle East.
+      Obviously, Israel has long been the main army, and the Israeli-American ally is
+      al-Qaeda. And the terrorists, it’s al-Qaeda that was all put in place as a result
+      of America’s war in Afghanistan to control that part of the region. And together,
+      al-Qaeda and Israel have acted as attack dogs against any country that is moving
+      to assert its own sovereignty in taking control of its oil trade. So Iran [is]
+      finally under attack. I want to talk about the way in which it’s fought back.
+      And I know this takes another minute, but the first thing it did was it began
+      to attack the American military bases throughout the neighboring Arab countries
+      that were used to bomb it. It bombed the bases in Kuwait and other countries.
+      And Kuwait said, “Why are you bombing us? We’re not attacking you, Iran.” And
+      Iran said, “Well, of course you are. You’re leasing your bases to the Americans,
+      and the American airplanes and missiles are coming from your country. So, of course,
+      you’re at war with us. If you’re not, if you don’t want to be attacked by us,
+      then don’t act as the basis for America to attack us.” And Iran followed up by
+      blowing up the gas refineries that were being used in Bahrain and other countries
+      that were making the LNG. This is as important as blocking the Strait of Hormuz
+      and blocking the oil trade. The gas refineries that are making the LNG have been
+      blown up, it takes at least two weeks to rebuild the refineries, the photographs
+      of the bomb hits have been all over the internet, and it’ll take another two weeks
+      to mount them up again. Within one day the price of gas in Europe jumped 20 percent
+      and the price of gas, LNG, in Japan and Korea jumped a similar amount, and yesterday
+      the Korean stock market plunged by almost 80 percent. So the whole world is threatened
+      now not by Iran but by the American terrorist attack on Iran. The neighboring
+      countries that thought that they were gaining protection from America by letting
+      it have the military bases there are now all being endangered by Iran’s response
+      to, quite rightly, attack these military bases and the allies of America—Japan,
+      Korea and Europe—that are dependent on near eastern oil are all suffering. So
+      the U.S. attack on Iran has become an attack basically on its allies, and it’s
+      turned the war in Iran into I think. . .what you have to look at is a World War,
+      because oil is consumed all over the world. And America’s strategy against Iran
+      is part of the overall global strategy of the United States to control the world’s
+      oil trade so that it can use sanctions to turn off the spigot to other countries
+      and cause chaos there. So this has led the whole rest of the world to say, “Well,
+      wait a minute.” It turns out that the whole enabling fiction that has justified
+      all of America’s demands for subsidies, for special givebacks to Trump for his
+      tariffs, all the demands that you have to support America because we are spending
+      the money to defend you against the attack of Russia, fictitious, against the
+      attack in case China attacks Asia, which is fictitious. It doesn’t need to attack
+      anyone given its economic power. And against the attack of Iran with atomic bombs,
+      completely fictitious. It turns out that the countries under attack are America’s
+      allies and they’re under attack by the United States in the backwash from the
+      American attempt to control the Near East and lead to what, as of yesterday, was
+      announced to be a war that’s going to go at least three months through September.
+      I think that Trump will be desperate to try to wind all this up by the time that
+      the elections and the off-year elections occur in November, because the whole
+      country is being. . . America will be confronted with rising oil prices. The price
+      won’t be so much in America. The war in Iran will be a bonanza for American oil
+      companies because the price of world oil is going to go up abroad. But that’s
+      going to create a price umbrella for the domestic American oil producers and the
+      fracking producers and gas producers, which is going to make them highly profitable.
+      So the Americans will be primarily the large winners here. And the American government
+      has been stockpiling huge oil reserves. It’s going to deplete the oil reserves
+      that the government has to flood the economy with enough oil that prices are not
+      going to go up for drivers. And Europe has spent the last year also increasing
+      its oil reserves, as has China. So the governments are going to deplete their
+      oil reserves just as they’ve depleted their arms reserves and reserves of bombs
+      and missiles. It is part of the war in Ukraine and now the war in Iran. But they’re
+      painting themselves way into a corner where, without the reserves to hold down
+      variations in prices, you’re going to have a huge increase in the price of gas,
+      electricity, fertilizer made out of gas, and chemicals made out of gas and oil.
+      The attack on Iran has become a destabilizing factor on the entire world economy
+      that is worldwide, is military, and in that sense, America has become the very
+      threat that it’s been promising to protect other countries against. That’s the
+      irony of all this. It’s all a fiction, the Americans’ enabling fiction that we’re
+      here to protect you, when actually we’re here to destabilize you if you don’t
+      acquiesce in U.S.-controlled foreign policy, as we’ve outlined, if you don’t give
+      up your loyalty to the principles of the United Nations and international law.
+      This is really what’s at stake, and this is what makes the war in Iran civilizational
+      in character, as we’ve said on previous broadcasts. ⁣NIMA ALKHORSHID: Richard,
+      jump in. ⁣RICHARD WOLFF: Okay, I like Michael’s invocation of irony, and I like
+      his history. So I’d like to build on those two and talk about other histories
+      that bear upon all of this. I’m going to start with Israel because we’ve talked
+      about that in the past. Israel is trying to undertake what is called in history
+      “settler colonialism.” It wants to move into areas occupied by other human beings
+      in order to acquire economic benefits and geopolitical and population benefits
+      by either moving or destroying the existing population. And that’s why it’s called
+      a genocide, and that’s why it has all these others. . . And we have been arguing
+      or developing the idea that the settler colonialisms undertaken two centuries
+      ago in South Africa, in Australia, in New Zealand, in Canada, and in the United
+      States, were possible, then, because of the relationships between [the colonized
+      countries and] a colonizing capitalism that had to find new sources of raw materials,
+      new sources of food, new markets, etc. And so colonialism solved certain problems
+      for them, but that the world has evolved over the last two centuries. And so the
+      settler colonialism that you could undertake and achieve [back] then is a completely
+      different proposition now. And that, in fact, we are living in an age that has
+      been called by others an anti-colonialism period of human history. Almost all
+      of the old colonies have been overthrown, almost always by one or another kind
+      of revolutionary upsurge demanding political independence, economic independence,
+      and so forth. And that therefore the Israeli project is more difficult, has more
+      opposition, and takes even more horrific forms than the old one did because the
+      conditions are different. And now Israel, because it can’t face what I just said,
+      does not agree with that, finds itself having made an historical deal. And I’m
+      quite persuaded that this is understood, perhaps not in the words I’m about to
+      use, but basically understood. The United States will fund, arm, and protect Israel
+      if, in return, Israel functions as the military arm of the United States, threatening
+      and where necessary, fighting any effort of the rest of the Middle East to get
+      out from under its colonial history, which has not changed much, even though they
+      have won political independence. Now, the next irony of history. It was 1953,
+      so three quarters of a century ago, that an Iranian prime minister, Mosaddegh,
+      tried to find a way to make the oil discovered under the soil of Iran be a valuable
+      national asset for the national development of Iran. And the Americans and the
+      British overthrew his government. That has since been admitted and verified by
+      records that have been opened up under the 50-year rule—[the time limit under
+      which] you allow records to be exposed—and England and America had more than enough
+      records to show that this was a deliberate overthrow. In its place, the British
+      and the Americans put the Shah family, the Pahlavi family of Iran, to be a loyal
+      asset of the United States, which the Shah was for quite some time. When the revolution,
+      the Islamic Revolution and the Mujahideen Revolution explodes in the late 70s,
+      the Shah has to leave the country and goes to the United States, where Henry Kissinger
+      welcomes him as the hero for America. So what we are now viewing, Americans need
+      to know, is not the first time that the United States has gone militarily into
+      that country to get rid of one government and replace it with another. This is
+      not new. But here’s the parallel with Israel. What you could do in the 1950s,
+      you can’t do now. That’s the problem. In the 1950s, the only ally Mosaddegh could
+      have turned to was the Soviet Union, which at that time had barely recovered from
+      World War II. There was no China, in the modern sense, able to help them. The
+      Chinese Revolution didn’t end until 1949, which is four short years before the
+      Mosaddegh [overthrow] happens. So everything has changed since that time. And
+      it is now much easier for the country to function, even though it has a government. . .
+      granted, it’s a government of the Ayatollahs and the Mullahs and all that means,
+      it is a religiously shaped and dominated society. . . But that’s not what the
+      United States wanted. That’s why Mr. Trump is able to say, “I have to pick the
+      [next] one, because we don’t want another Ayatollah.” And what he doesn’t say
+      is, “We don’t want another Shah either, because that’s a very bad part of Iranian
+      history, and if we pick someone like that, it’s going to look like what it is,
+      and that’s going to make the opposition, if we take over there. . .” let’s remember,
+      we have just murdered its leader. Try to imagine with me what would go on inside
+      the United States if folks had come and murdered our leader. So we’re going to
+      have opposition in Iran. Lots of opposition. The people of Iran have been in opposition
+      against the existing government. Lots of people know how to organize, they have
+      things to learn, they have problems, but you are undertaking quite a risk. If
+      you know much about Iranian history, you’ll also know that they had the most developed,
+      most sophisticated, and most powerful communist party in all of the Middle East,
+      the Tudeh Party. And the children of Tudeh are still around, and they learn things
+      from their parents, just like such children do everywhere else. My point is to
+      suggest to everyone that what we have here are historically out-of-date attempts,
+      and they are desperate. The Israelis [are] desperate because the great gamble,
+      the great risk of Israel is that they cut a deal with the most powerful power.
+      And now that most powerful power isn’t the most powerful power anymore, and the
+      deal you struck is a more dangerous deal with every passing day and leads to more
+      desperate activity. And the same is true, in my judgment. . . It’s not about the
+      oil alone. I agree with what Michael said, but it’s also a bigger project. It’s
+      a project to try in every way you can to slow down the decline of the empire.
+      You can’t control Venezuela. It’s got a revolutionary half of its people. It has
+      mountains. It has terrain. And it has all of Latin America on its side. That’s
+      one of the reasons there isn’t an overthrow there beyond snatching Mr. Maduro.
+      It’s very important. . . You can’t do. . . you can’t just get rid of one leader
+      and bring in another. That’s the old Monroe Doctrine. Can’t do that anymore. They
+      don’t know what to do in its place, so they talk a lot about the Monroe Doctrine.
+      They didn’t have to talk about it for the last century. They just did it. They
+      can’t anymore. And you can’t in the Middle East either. Look at all of those countries.
+      I’ll conclude with that. I’m going to be crude for a moment, but in the interest
+      of time. . . The countries of the Middle East now being threatened by Iran are
+      all concoctions of Western imperialism. This was one large desert carved up into
+      little groups by Europeans, turned over by them to selected families who looked
+      like they would be loyal if you paid them enough. These are tiny countries. They’re
+      desperate. They live on oil and gas, and they will die on oil and gas. They have
+      tried, in some cases, for 70 years to diversify. They don’t have much to show
+      for that. They’re still dependent on oil and gas. They’re dispensable to everyone
+      except themselves. Very dangerous place to be. So the United States picks two
+      very vulnerable things: Venezuela and the Middle East. Nice, it gets you little
+      corners on the oil. And look how hard Mr. Trump works to keep fossil fuels, to
+      denounce every effort to switch to other forms of energy. So the area of the empire
+      he can try to expand and hold on to, to demonstrate that the empire isn’t dying,
+      which he has to do because it is. . . And he can feed that into the continuing
+      oil-dependent global economy. The anti-climate is part of the same debt. They
+      know that it’s not good for our health. They know that we don’t want to be reliant
+      on burning fossil fuels because they will eventually kill us and the pollution
+      from it will eventually make us. . . they know all that. They don’t need us for
+      that. They’re fighting to hold on. If it costs them, they will still fight to
+      hold on. They may be coughing all night, but they will hold on. . . It’s important
+      to understand that mentality is applicable here. If we control the Venezuelan
+      oil a little for a while, we’ve slowed down where things were going. And if we
+      can dictate a new Middle East configuration, if the Iranians allow us to do it,
+      and don’t mount a resistance that will make running Iran impossible, way too expensive. . .
+      And we can get Israel to be the paid goon for the United States to keep people
+      in line with military horror. . . All I can say is that’s a tremendous long-shot
+      theory and approach. This is the policy of a dying empire. And if the people who
+      are suffering the most, whether it be in Gaza or now in Tehran, if and when they
+      get their act together, the revenge on the West will be staggering. And you know,
+      the Europeans get it. Spain broke from NATO. NATO endorsed the American-Israeli
+      attack. Unbelievably stupid for NATO, but that’s, you know, they’re slavish in
+      NATO. They couldn’t resist the tariffs. They couldn’t resist Mr. Trump. And now
+      they can’t resist here either. They are, like Israel, the paid underling. But
+      it’s breaking apart. Even Macron, wobbling. Only Mertz so far is staying with
+      the Iran-Israel move. The Spanish have been very clear, Mr. Sanchez. . . and that’s
+      the breakup of NATO that everyone has been [foreseeing]. Now, even our military
+      doesn’t agree, and the disagreement is so strong that it bursts into the public.
+      I think you need to see it. Otherwise, the mainstream media here, who focus on
+      everything other than what we’re talking about, leave you with the impression
+      that this is some clever maneuver of Mr. Trump. This is another desperate effort
+      to hold on a little longer, to slow down economic processes. And if you remember
+      who lost the war in Korea, in Vietnam, in Afghanistan, and in Iraq, then don’t
+      be so quick to assume who will win this war. Oh, we’ll hear about wonderful bombing,
+      precision bombing. Then we’ll hear about an invasion. Then we’ll hear about surges
+      of our troops. We’ll hear all about it. And then one day they’ll all be [cramming]
+      onto a helicopter, getting out of Tehran as fast as they can. ⁣MICHAEL HUDSON:
+      If they really get in. I think Richard’s quite right in saying, “Look at this
+      exercise in Iran,” that I agree with him. It’s going to go the same way that America’s
+      war in Vietnam went, Afghanistan, Iraq, everywhere it’s done, it’s ended up losing.
+      I can’t believe that they’re really going to try to mount an American invasion
+      with American troops. You’ve seen how that’s worked in every other country. They’ve
+      gotten slaughtered. America prefers to use proxy troops. As we’ve said, it’s used
+      Israeli troops to let them die and let al-Qaeda die, and now, in the last few
+      days, America has backed the Kurdish groups. President Trump has called the Kurdish
+      leaders in Iran to say, you know, “Why don’t you fight against Iran?” I think
+      I’ve mentioned before that I’ve sat in on meetings and military meetings with
+      Herman Khan way back in 1975, 74, when he outlined the U.S. plans to break up
+      Iran into five regions. And Iran is, I won’t say, unique, but very different from
+      the Western civilizations and from Christian civilizations in many ways. The most
+      important way is [that] it’s multi-ethnic and there has not been any ethnic separatist
+      movement there. The ethnic ethnicities all get along just fine. That used to be
+      a characteristic of all of the empires in the Middle East ever since the Babylonian
+      Empire and the Persian Empire, which were multi-ethnic with the Jews, right down
+      through the Iranian state when it was no longer an empire, but was just a multi-ethnic
+      country. There’s a very active Jewish population in Iran, many of whom I’ve met
+      who have told me about how free and open Iran is to the Jews. But now the Americans
+      are trying to make the Kurds sacrificial. . . the Iranian version of the Ukrainians.
+      Die to the last Ukrainian. “Will you Kurds please follow the leader who is being
+      supported by Trump, and die to the last Iranian Kurd?” I’m told that the Kurdish
+      People’s Party in Turkey is not at all in favor of this and is opposing them.
+      And so you’re having a fight among the Kurds, but the Kurds in Iran are apparently
+      willing to mount some kind of a fight there. Well, the point that I want to get
+      that Richard was making was: how do you stop an empire in decline from desperately
+      flailing out and taking down the whole rest of the world with it? Well, you prevent
+      an alternative from developing, and that’s what the United States had to do. It
+      needed to prevent an alternative from developing in China, in Russia, in Venezuela,
+      in Cuba, and now in Iran. And Iran is unique in another way, and that’s the role
+      of the clergy there. I have a book coming out on the history of world banking
+      from the Crusades to World War I that’ll be out by the spring. And I have a chapter
+      on Iran and its role in foreign investment. Iran was one of the most marginalized
+      countries in Europe throughout most of the 19th century. And gradually. . . it
+      was not forced to let foreign countries invest in its resources, but it wanted
+      to industrialize and do for itself what the Western European countries were doing
+      for themselves—put in power and [an] industrial base. It made a number of agreements
+      with British investors, and the agreements were pretty awful. And the worst agreement
+      was when Iran sold its tobacco monopoly to a British consortium that would take
+      complete control of all the production of tobacco and the marketing of tobacco
+      within Iran, and merge that with heroin cultivation. And the origins of essentially
+      much of the Chinese opium trade were based for quite a while out of Iran as a
+      byproduct of tobacco. Well, the entire Iranian people revolted and the revolts
+      were led by the clergy who put fatwas on dealing with the companies that were
+      British-owned and had taken over. And it was the clergy in Iran that had led not
+      only to overthrowing and ending the British takeover of Iranian tobacco and railroads
+      and other areas, but also led to a constitutional reform in 2005 that led to the
+      Iranian people, again, working very closely with the clergy, to overthrow the
+      ruling Klan that had been running it through dominating Iranian politics through
+      the entire 19th century. Well, finally, in 1925, they were attempting to create
+      a civilian authority and civilian independent democratic rule. That’s when Britain
+      stepped in militarily and selected a Persian general, and that was the Shah’s
+      father, the first Shah, to put in. And this was in 1925. And just as Richard mentioned,
+      the Tudeh Communist Party [was] very strong in Iran after World War II. It was
+      very strong after the Russian Revolution there. And the role from the very beginning
+      of the British-backed military in Iran was to get rid of the communists and the
+      left-wingers there and act as the proxy government for the British and for other
+      foreign investors, including what became the British Petroleum. . . the Anglo-Persian
+      Oil Company and concession in Iran is what led to British petroleum and the power
+      of Britain in the first place. So that when the overthrow of Mosaddegh was trying
+      to maintain and perpetuate Britain’s declining empire, well, America had pretty
+      much absorbed the British Empire in the sterling area by that time, 1953, but
+      at least it thought it could maintain its power in Iran under the Shah. And that
+      happened, and the Shah imposed a brutal dictatorship there that finally, once
+      again, was overthrown by the clergy because the only place that Iranians could
+      gather free of the Shah’s secret police was in the mosques. And that’s part of
+      it. So the result is that the Iranians, rather than being a terrorist state, they
+      put an end to the Shah’s terrorism that had been imposed on Iran for many decades.
+      And you have today America being in the same position that Britain was in. All
+      it has [is] to prevent an alternative from developing, to replace the American
+      empire, to replace dollarization, to replace the control of world oil, so that
+      countries can buy oil from suppliers other than those backed by the United States
+      and Europe. The only way that America can do it is by terrorist acts, not only
+      such as we’re seeing in Iran, but the terrorist acts in Ukraine against the Russian
+      population, the terrorist acts, the military buildup in the China Sea to try to
+      arm Taiwan, to drag the Philippines into a fight in Japan, into a fight against
+      China. All that America can do is try to find allies who are going to fight its
+      wars, to fight to the last Ukrainian, to the last Kurd, to the last Japanese,
+      to the last Philippine, and maybe ultimately, if there is an American armed invasion,
+      to the last American infantryman there. And what are other countries going to
+      do? The costs of this American terrorism and the destabilization of oil that is
+      being created by the United States trying to keep control of oil to. . . as the
+      financial and trade buttress of the old American empire increases, this is going
+      to threaten other countries’ ability to import oil and import gas. It threatens
+      to turn the whole world into what’s happened to Germany when Germany was directed
+      to cut off oil and gas imports from Russia. So rather than America basing its
+      empire on other countries contributing to it, saving the world from terrorism,
+      the fact is that controlling the world’s oil trade requires ongoing terrorism
+      and a permanent war in the Middle East. You’ll have to continue this war against
+      it. And the only way to oppose it is, as the president and the head of Spain said
+      two days ago, we are not going to permit any American military base in Spain to
+      act as a base to attack Iran. We think the war is wrong. We think that Europe
+      should turn away from the United States and turn toward where we want to turn,
+      toward the part of the world that is growing and offers us a much better trade
+      deal, a much better financial deal, and a much better market for our investors,
+      namely China, Russia, and Iran. These are the three countries that are the core
+      of what is often called BRICS, but it’s really Russia and Iran, not India, and
+      China that are the core of what’s going to emerge as the other pole of the world,
+      acting as a magnet to attract Europe, Africa, South America, the global south,
+      and Eurasia into their orbit because America has nothing to offer now that it’s
+      deindustrialized and become a world debtor instead of a world creditor. And so
+      that the world no longer needs the dollars for its own savings, no longer needs
+      the dollars for their economic growth. And in fact, adopting the dollar and paying
+      the price of belonging to the dollar area means a sacrifice of their growth to
+      participate in the American war against the whole rest of the world, vainly trying
+      to keep its empire with the aid of Britain, France, and Germany. ⁣RICHARD WOLFF:
+      I’d like to use a little bit of the time we have left to talk about the limits
+      to all of this that come from inside the U.S. economy. Let’s go through this with
+      a little arithmetic. Our current budget for war, what we used to call the defense
+      budget, I guess now we call it the war budget, is about $900 billion. There are
+      not that many numbers to keep in one’s mind: $900 billion. Before the war in Iran,
+      before, Mr. Trump indicated he wanted to increase that in next year’s budget to
+      $1.5 trillion. In other words, he wants to add $600 billion. That’s a two-thirds
+      increase in your military budget. Now, what should have been asked is: what in
+      the world is going on that a country that is already the most militarily armed
+      in the world should be wanting to increase its military spending at all, let alone
+      by an unprecedented two thirds in one year? Okay? That question was not asked.
+      With a wave of the hand, we were told Russia and China present a bigger problem,
+      and therefore, okay. We now have a war in Iran, on top of the fact that we’re
+      still hemorrhaging money by producing weapons and so forth for Ukraine. And there
+      are the other warlike issues on the horizon. If anything, that means the money
+      going to defense will be even larger than the 600 billion that were budgeted for
+      it before Iran. Keep now in mind that the United States, as Michael just said,
+      is the world’s largest debtor country. That a few years ago, our debt crossed
+      100% of our GDP, which is a kind of number people pay attention to. I believe
+      it’s now crossed 120% of our GDP, which is usually a warning sign that you have
+      got a problem here. And there are a number of countries around the world that
+      have spent the last few years reducing their holdings of Treasury instruments
+      so that the ability of the United States to borrow is shrinking, as seen by the
+      unwillingness of the normal buyers, lenders to us, to continue to do so. And now
+      we have discovered that the tariffs, which raised about $160, $170 billion, are
+      unconstitutional, and that money is going to have to be refunded or something
+      like that. You know what that put those together. That means a federal deficit
+      that may really surprise us by requiring an additional trillion or more dollars
+      when we have absolutely no way to raise that money. We are not going to be able
+      to borrow. Or let me put it differently. Were we to be able to borrow a trillion
+      dollars, given that we’re overindebted, given that all three of the major rating
+      agencies have taken away the AAA rating for American debt, we’re going to have
+      to pay, here we go, higher interest rates to get such money. And we all know that
+      higher interest rates, especially if prices go up, are an environment that is
+      going to make the affordability problem, which is the only plank the Democratic
+      Party has figured out to offer the people, is going to make it very powerful over
+      the next six months and make a desperate government even more desperate than it
+      has been as the financial impossibility of its. . . and nor do I see anything.
+      Michael should correct me if I’m wrong, but I don’t see anything on the horizon
+      that’s going to step in here. Are they going to forego their military buildup
+      when they’re in a new war and they admitted they needed 600 billion more? They’re
+      going to say, well, we won’t be able to do it. What kind of message does that
+      send? And if they’re not willing to forego it, and if they don’t want to have
+      higher interest rates, then the only way will be to cut back on social programs
+      here in the United States. And we will have another crazy Elon Musk Doge experiment
+      in the year ahead. And that’s not politically sustainable anymore either. ⁣MICHAEL
+      HUDSON: Well, here’s why we’re going to have what exactly Richard is talking about.
+      The increase in the military budget to one and a half trillion was done before
+      the attack on Iran. Every day that America’s naval force is in Iran and the army
+      [and] air force are sending bombs and missiles costs, I think they’ve calculated,
+      many billions of dollars per day of the war. And these billions of dollars are
+      not only in current costs, but the depletion of America’s supply of bombs and
+      missiles and maybe F-14 fighters as they’re shot down and aircraft. And all of
+      this has been calculated. I think I made a calculation when I had the daily expenditures
+      before me a few days ago. This is going to add by September another trillion dollars
+      just to replace the armaments that have been expended in Iran and the cost of
+      outfitting and fueling and keeping the Navy and the Air Force and the troops at
+      the ready in Iran. So the costs are going to be much greater, even than the absurdly
+      high costs that Richard just mentioned. And he’s absolutely right in saying that
+      America is following the same path as Merz is in Germany. Talking to labor and
+      saying, Labor, are you patriotic? It’s worth lowering your salaries and lowering
+      your government support for your programs and taking away your social security
+      to help defend you from the imminent Russian attack and to prevent you from the
+      Iranians dropping bombs that if they. . . once they attack the Near East, the
+      next thing you’ll know, they’ll be landing in New York, just as the Vietnam would
+      have. . . If we didn’t defeat them in Iran, we would have had to [defeat] them
+      here, as the Army and the Navy and the Air Force said again and again and again.
+      So this is the political fight. And, unfortunately, there’s only one group, one
+      group to the right of Trump, and that’s the Democratic Party that is all in favor. . .
+      The Democratic Party, finally, [has] in sight the dream of President Obama, to
+      privatize the social security system, to abolish. . . to slash Social Security
+      way back and tell American labor, you’re on [your] own, to put your savings in
+      the hands of Wall Street investment funds to be privatized. We’re going to roll
+      back social programs just as Germany’s doing it, being patriotic as it is. And
+      we’re asking you to be patriotic. And that’s their enabling mythology that they’re
+      going to use to put the class war back in business in the United States. So it’s
+      not only the American empire that’s being run down, it’s the whole social contract,
+      the illusion that the role of the American government is to raise living standards
+      for a strong government to protect savings of labor, to raise living standards
+      and prosperity. . . [it’s] just the opposite. The role of the American government
+      is to subsidize the financial real estate sector and the rent extraction, to polarize
+      the economy to serve its campaign contributors: the 1%, basically, maybe the 10%,
+      but basically to continue the polarization. And all of this. . . what Trump has
+      done that is, I guess, unique to the Democrats is he’s made the president and
+      the cabinet and Congress the direct beneficiaries of all of this war spending
+      by insisting that the U.S. participates. Trump’s family has made billions already
+      in the last year from Qatar and Saudi Arabia and other countries, giving money
+      to his stepson and to Witkoff for the Trump family fortune. And that’s why people
+      have sort of joked that Trump’s MAGA Make America Great Again policy is really
+      Miriam Adelson Governs America. I mean, it turns out that Trump has put American
+      foreign policy and domestic policy up for sale, and he’s profiteering, along with
+      the buyers of his policy, the neocons in Congress, the Warhawks, the military-industrial
+      complex, and most to which most of the Democratic as well as Republican politicians
+      belong. ⁣RICHARD WOLFF: Let me add if I could. ⁣NIMA ALKHORSHID: Go ahead, Richard.
+      ⁣RICHARD WOLFF: I know what I’m about to say is ominous, but someone has to say
+      it. What happens to Israel as the empire goes down, as the various strategies
+      to slow the process, whether in Venezuela or the Middle East, play out with no
+      better result than you got in Vietnam or in Afghanistan. At that time, what do
+      we expect? Here’s what I expect: a falling out among the thieves, a decision in
+      America that. . .to paraphrase Tucker Carlson, you spent your time doing what
+      the Israelis wanted you to do. And so the Americans can blame the Israelis for
+      what happened. And the Israelis, for their part, will blame the United States.
+      But out of that falling apart will come one thing for certain: the worst possible
+      outcome for the Israelis one can imagine. The very, very dangerous gamble that’s
+      going on here, and that should not be lost sight of, especially by the people
+      who stand, if I’m right, to lose as much in the future as is now being imposed
+      on the people of Iran. ⁣MICHAEL HUDSON: Well, there’s only one solution then for
+      Israel to conquer Saudi Arabia. ⁣NIMA ALKHORSHID: Thank you. Thank you, Richard
+      and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Thank you. ⁣NIMA ALKHORSHID: See you soon. ⁣RICHARD WOLFF: Bye-bye. Transcription
+      and Diarization: https://scripthub.dev/ Editing: RALPH LOMBREGLIA Review: ced
+      Photo by Susan Wilkinson on Unsplash The post War, Oil and Empire first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion on March 5, 2026, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson analyze the ongoing war in the Middle East, drawing
+      parallels to the 2003 Iraq war and highlighting the underlying motivations and
+      justifications behind such conflicts.
+    paragraph_summary: In a discussion on March 5, 2026, Nima Alkhorchid, Richard Wolff,
+      and Michael Hudson analyzed the ongoing war in the Middle East, particularly focusing
+      on the conflict involving Iran. Michael Hudson drew parallels between the current
+      situation and the 2003 Iraq war, suggesting that both conflicts were initiated
+      based on misleading narratives. He highlighted that the U.S. and Israel's rapid
+      escalation to war was influenced by recent negotiations in Oman, where Iran appeared
+      to agree to significant concessions regarding its nuclear program. Hudson argued
+      that the announcement of these agreements prompted immediate military action,
+      reflecting a pattern of using fabricated threats to justify intervention.
+    published: '2026-03-12T11:46:36+00:00'
+  - title: War, Oil and Empire
+    url: https://michael-hudson.com/2026/03/war-oil-and-empire/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, March 5, 2026, and our
+      dear friends, Richard Wolff and Michael Hudson, are here with us. Welcome back,
+      Richard and Michael. ⁣MICHAEL HUDSON: Good to be back. ⁣NIMA ALKHORSHID: I think
+      we have to talk about what’s going on in the Middle East because of the war that
+      is happening right now. Let me start, Michael, with you. And what is your understanding?
+      Many people are asking themselves. You know, you see Democrats, Republicans, many
+      people outside of the United States, inside of the United States, they’re saying—what
+      is happening? What was the main reason for this war? Why did it happen? What is
+      your understanding of that? ⁣MICHAEL HUDSON: The same reason that we had for the
+      war against Iraq in 2003. The same shock-and-awe policy taking over the country
+      and the same enabling lie that began it. You remember the lie that was used by
+      Secretary of State Colin Powell that was given to him by Cheney and Rumsfeld that
+      Iraq had weapons of mass destruction, not only moving towards an atom bomb, but
+      bioweapons and chemical weapons, and was buying uranium from Niger. All of that
+      was a lie promoted by the CIA and also by Tony Blair and MI6, in fact. Well, you
+      have the same identical lie with Iran today. Iran is moving towards getting an
+      atom bomb. Well, what happened last Friday, I think, explains why the United States
+      and Israel had to go to war very quickly by Saturday. And that is because, after
+      the negotiations between the Iranians and the Americans in Oman were taking place,
+      the Omani foreign minister, who had acted as a mediator, went public and said,
+      “Iran has made unprecedented agreements to surrender to the American position
+      in order to avoid war. It’s actually going to dispose of its 60% enriched uranium
+      and move it to other countries. It’s actually going to promise not to undertake
+      further enrichment and to any uranium that it keeps, it’s going to dilute it.”
+      Well, right after you had this agreement on Friday, Ayatollah Khomeini brought
+      together his other religious leaders and the head of the Iranian army to draft
+      their proposed agreement and the language that they were going to give, going
+      way beyond what the original agreements under the Obama administration had been
+      to guarantee Israel, America, and all other countries that Iran was going to be
+      the only country in the world that was willing to give up the enrichment of uranium
+      over a given point. Well, imagine what would have happened if this report had
+      come out. That would have destroyed the whole lie that justified the American
+      attack on Iran. It would have said that, contrary to what Donald Trump was saying,
+      Iran was not set on getting an atomic bomb, that everything Trump said would have
+      been exposed as a lie. The United States and Israel desperately had to go to war
+      to bomb not only Khomeini, but the whole group of Iranians that were in charge
+      of making the official reply to the negotiations and [drafting] the official agreement.
+      They had to be killed before they could come out and say, “Wait a minute, all
+      this is not what we agreed on. And we agreed on exactly what the Omani foreign
+      minister said.” So they had to do it in a hurry. And so Trump and Netanyahu, the
+      United States and Israel agreed to make a surprise attack on these officials and
+      to bomb them because the real aim was never to stop Iran from having an atom bomb
+      because Iran was never running the policy of getting an atom bomb. The immediate
+      aim was exactly what Donald Trump has said it was. Regime change. “We want a regime
+      change.” And yesterday he came out and said, “Not only is there a regime change,
+      but I, Donald Trump, will be appointing the new heads of Iran. We can’t have any
+      one religious leader there.” Obviously, the United States wants to bring back
+      the Shah’s son with all of his torture groups and the whole group that Khomeini
+      so brilliantly overthrew when the whole Iranian population fought back against
+      all of this. So the United States wants the regime change and why does it want
+      a regime change? It wants oil. So we’re brought back to a policy that the United
+      States has had at least since 2003, when General Wesley Clark said, “We’re going
+      to attack seven near Eastern countries in five years and we’re going to take control
+      of the oil.” Just as when Donald Trump said, “You know, when we’re in Iraq, we’ve
+      got to take our oil.” That’s what it’s all about. And that’s what, from the very
+      beginning, the role of Israel has been in the Near East, to act as what I’ve heard
+      military officers in America say Israel is: our landed aircraft carrier there,
+      to make sure that there’s no regime that’s going to emerge that breaks the basic
+      agreement that Saudi Arabia and the other OPEC countries made in 1974 [when] they
+      were told they can charge whatever they want for their oil but they have to price
+      their oil in dollars and they have to keep all of the savings from their oil exports
+      in the United States in the form of bank deposits, [of] U.S. Treasury securities,
+      and of U.S. stocks and bonds. And this overwhelming, overriding position has been
+      the basis for American foreign policy ever since 1974. And the reason that America
+      has gone to war with Iran, and before that, gone to war with Iraq to seize its
+      oil, gone to war with Libya to grab its money and to seize its oil, gone to war
+      with Syria using al-Qaeda troops to have a civil war there is to seize its oil.
+      And the purpose of seizing oil isn’t simply to assert U.S. ownership of oil. The
+      U.S. doesn’t have to actually own the oil. It just has to have a client oligarchy
+      in place that agrees that all of the money from the oil exports will be taken
+      in dollars and sent to the United States as the national savings of the countries
+      that are doing the exportation of the oil. Well, why is the United States gone
+      to war in Venezuela? Well, now Venezuela has said, “We’re going to begin pricing
+      Venezuelan oil in Chinese currency, the RMB. We’re not going to price it in dollars
+      because we’re not selling oil to America. We’re under attack by America. We’re
+      going to sell it to friendly countries and countries that are investing in us.”
+      The United States has gone to war with Russia in Ukraine because Russia’s not
+      pricing its oil in dollars. It can’t do it in dollars because the dollars in foreign
+      exchange savings of 300 billion were all confiscated by the Europeans. So it can’t
+      do that. So the United States needed to take Iran out of the picture so that Iran
+      wouldn’t be the one country that was powerful enough to continue to export oil,
+      not only in foreign currency, not dollars, but in Chinese currency, because 80%
+      of Iran’s oil is sent to China. Now, that accounts only for 5% of Chinese oil,
+      but the United States is also trying to block Russian oil from being transported
+      to China. Just a few days ago, the British shot down a Russian tanker off Gibraltar
+      that was trying to trade Russian oil, and the Europeans are trying to threaten
+      to blow up Russian tankers in the Baltic to prevent Russia from having any access
+      at all to its exports. So Iran defended itself, obviously, and it defended itself
+      basically against letting itself be torn apart in the way that America’s proxy
+      armies are trying to destroy it. America has two proxy armies in the Middle East.
+      Obviously, Israel has long been the main army, and the Israeli-American ally is
+      al-Qaeda. And the terrorists, it’s al-Qaeda that was all put in place as a result
+      of America’s war in Afghanistan to control that part of the region. And together,
+      al-Qaeda and Israel have acted as attack dogs against any country that is moving
+      to assert its own sovereignty in taking control of its oil trade. So Iran [is]
+      finally under attack. I want to talk about the way in which it’s fought back.
+      And I know this takes another minute, but the first thing it did was it began
+      to attack the American military bases throughout the neighboring Arab countries
+      that were used to bomb it. It bombed the bases in Kuwait and other countries.
+      And Kuwait said, “Why are you bombing us? We’re not attacking you, Iran.” And
+      Iran said, “Well, of course you are. You’re leasing your bases to the Americans,
+      and the American airplanes and missiles are coming from your country. So, of course,
+      you’re at war with us. If you’re not, if you don’t want to be attacked by us,
+      then don’t act as the basis for America to attack us.” And Iran followed up by
+      blowing up the gas refineries that were being used in Bahrain and other countries
+      that were making the LNG. This is as important as blocking the Strait of Hormuz
+      and blocking the oil trade. The gas refineries that are making the LNG have been
+      blown up, it takes at least two weeks to rebuild the refineries, the photographs
+      of the bomb hits have been all over the internet, and it’ll take another two weeks
+      to mount them up again. Within one day the price of gas in Europe jumped 20 percent
+      and the price of gas, LNG, in Japan and Korea jumped a similar amount, and yesterday
+      the Korean stock market plunged by almost 80 percent. So the whole world is threatened
+      now not by Iran but by the American terrorist attack on Iran. The neighboring
+      countries that thought that they were gaining protection from America by letting
+      it have the military bases there are now all being endangered by Iran’s response
+      to, quite rightly, attack these military bases and the allies of America—Japan,
+      Korea and Europe—that are dependent on near eastern oil are all suffering. So
+      the U.S. attack on Iran has become an attack basically on its allies, and it’s
+      turned the war in Iran into I think. . .what you have to look at is a World War,
+      because oil is consumed all over the world. And America’s strategy against Iran
+      is part of the overall global strategy of the United States to control the world’s
+      oil trade so that it can use sanctions to turn off the spigot to other countries
+      and cause chaos there. So this has led the whole rest of the world to say, “Well,
+      wait a minute.” It turns out that the whole enabling fiction that has justified
+      all of America’s demands for subsidies, for special givebacks to Trump for his
+      tariffs, all the demands that you have to support America because we are spending
+      the money to defend you against the attack of Russia, fictitious, against the
+      attack in case China attacks Asia, which is fictitious. It doesn’t need to attack
+      anyone given its economic power. And against the attack of Iran with atomic bombs,
+      completely fictitious. It turns out that the countries under attack are America’s
+      allies and they’re under attack by the United States in the backwash from the
+      American attempt to control the Near East and lead to what, as of yesterday, was
+      announced to be a war that’s going to go at least three months through September.
+      I think that Trump will be desperate to try to wind all this up by the time that
+      the elections and the off-year elections occur in November, because the whole
+      country is being. . . America will be confronted with rising oil prices. The price
+      won’t be so much in America. The war in Iran will be a bonanza for American oil
+      companies because the price of world oil is going to go up abroad. But that’s
+      going to create a price umbrella for the domestic American oil producers and the
+      fracking producers and gas producers, which is going to make them highly profitable.
+      So the Americans will be primarily the large winners here. And the American government
+      has been stockpiling huge oil reserves. It’s going to deplete the oil reserves
+      that the government has to flood the economy with enough oil that prices are not
+      going to go up for drivers. And Europe has spent the last year also increasing
+      its oil reserves, as has China. So the governments are going to deplete their
+      oil reserves just as they’ve depleted their arms reserves and reserves of bombs
+      and missiles. It is part of the war in Ukraine and now the war in Iran. But they’re
+      painting themselves way into a corner where, without the reserves to hold down
+      variations in prices, you’re going to have a huge increase in the price of gas,
+      electricity, fertilizer made out of gas, and chemicals made out of gas and oil.
+      The attack on Iran has become a destabilizing factor on the entire world economy
+      that is worldwide, is military, and in that sense, America has become the very
+      threat that it’s been promising to protect other countries against. That’s the
+      irony of all this. It’s all a fiction, the Americans’ enabling fiction that we’re
+      here to protect you, when actually we’re here to destabilize you if you don’t
+      acquiesce in U.S.-controlled foreign policy, as we’ve outlined, if you don’t give
+      up your loyalty to the principles of the United Nations and international law.
+      This is really what’s at stake, and this is what makes the war in Iran civilizational
+      in character, as we’ve said on previous broadcasts. ⁣NIMA ALKHORSHID: Richard,
+      jump in. ⁣RICHARD WOLFF: Okay, I like Michael’s invocation of irony, and I like
+      his history. So I’d like to build on those two and talk about other histories
+      that bear upon all of this. I’m going to start with Israel because we’ve talked
+      about that in the past. Israel is trying to undertake what is called in history
+      “settler colonialism.” It wants to move into areas occupied by other human beings
+      in order to acquire economic benefits and geopolitical and population benefits
+      by either moving or destroying the existing population. And that’s why it’s called
+      a genocide, and that’s why it has all these others. . . And we have been arguing
+      or developing the idea that the settler colonialisms undertaken two centuries
+      ago in South Africa, in Australia, in New Zealand, in Canada, and in the United
+      States, were possible, then, because of the relationships between [the colonized
+      countries and] a colonizing capitalism that had to find new sources of raw materials,
+      new sources of food, new markets, etc. And so colonialism solved certain problems
+      for them, but that the world has evolved over the last two centuries. And so the
+      settler colonialism that you could undertake and achieve [back] then is a completely
+      different proposition now. And that, in fact, we are living in an age that has
+      been called by others an anti-colonialism period of human history. Almost all
+      of the old colonies have been overthrown, almost always by one or another kind
+      of revolutionary upsurge demanding political independence, economic independence,
+      and so forth. And that therefore the Israeli project is more difficult, has more
+      opposition, and takes even more horrific forms than the old one did because the
+      conditions are different. And now Israel, because it can’t face what I just said,
+      does not agree with that, finds itself having made an historical deal. And I’m
+      quite persuaded that this is understood, perhaps not in the words I’m about to
+      use, but basically understood. The United States will fund, arm, and protect Israel
+      if, in return, Israel functions as the military arm of the United States, threatening
+      and where necessary, fighting any effort of the rest of the Middle East to get
+      out from under its colonial history, which has not changed much, even though they
+      have won political independence. Now, the next irony of history. It was 1953,
+      so three quarters of a century ago, that an Iranian prime minister, Mosaddegh,
+      tried to find a way to make the oil discovered under the soil of Iran be a valuable
+      national asset for the national development of Iran. And the Americans and the
+      British overthrew his government. That has since been admitted and verified by
+      records that have been opened up under the 50-year rule—[the time limit under
+      which] you allow records to be exposed—and England and America had more than enough
+      records to show that this was a deliberate overthrow. In its place, the British
+      and the Americans put the Shah family, the Pahlavi family of Iran, to be a loyal
+      asset of the United States, which the Shah was for quite some time. When the revolution,
+      the Islamic Revolution and the Mujahideen Revolution explodes in the late 70s,
+      the Shah has to leave the country and goes to the United States, where Henry Kissinger
+      welcomes him as the hero for America. So what we are now viewing, Americans need
+      to know, is not the first time that the United States has gone militarily into
+      that country to get rid of one government and replace it with another. This is
+      not new. But here’s the parallel with Israel. What you could do in the 1950s,
+      you can’t do now. That’s the problem. In the 1950s, the only ally Mosaddegh could
+      have turned to was the Soviet Union, which at that time had barely recovered from
+      World War II. There was no China, in the modern sense, able to help them. The
+      Chinese Revolution didn’t end until 1949, which is four short years before the
+      Mosaddegh [overthrow] happens. So everything has changed since that time. And
+      it is now much easier for the country to function, even though it has a government. . .
+      granted, it’s a government of the Ayatollahs and the Mullahs and all that means,
+      it is a religiously shaped and dominated society. . . But that’s not what the
+      United States wanted. That’s why Mr. Trump is able to say, “I have to pick the
+      [next] one, because we don’t want another Ayatollah.” And what he doesn’t say
+      is, “We don’t want another Shah either, because that’s a very bad part of Iranian
+      history, and if we pick someone like that, it’s going to look like what it is,
+      and that’s going to make the opposition, if we take over there. . .” let’s remember,
+      we have just murdered its leader. Try to imagine with me what would go on inside
+      the United States if folks had come and murdered our leader. So we’re going to
+      have opposition in Iran. Lots of opposition. The people of Iran have been in opposition
+      against the existing government. Lots of people know how to organize, they have
+      things to learn, they have problems, but you are undertaking quite a risk. If
+      you know much about Iranian history, you’ll also know that they had the most developed,
+      most sophisticated, and most powerful communist party in all of the Middle East,
+      the Tudeh Party. And the children of Tudeh are still around, and they learn things
+      from their parents, just like such children do everywhere else. My point is to
+      suggest to everyone that what we have here are historically out-of-date attempts,
+      and they are desperate. The Israelis [are] desperate because the great gamble,
+      the great risk of Israel is that they cut a deal with the most powerful power.
+      And now that most powerful power isn’t the most powerful power anymore, and the
+      deal you struck is a more dangerous deal with every passing day and leads to more
+      desperate activity. And the same is true, in my judgment. . . It’s not about the
+      oil alone. I agree with what Michael said, but it’s also a bigger project. It’s
+      a project to try in every way you can to slow down the decline of the empire.
+      You can’t control Venezuela. It’s got a revolutionary half of its people. It has
+      mountains. It has terrain. And it has all of Latin America on its side. That’s
+      one of the reasons there isn’t an overthrow there beyond snatching Mr. Maduro.
+      It’s very important. . . You can’t do. . . you can’t just get rid of one leader
+      and bring in another. That’s the old Monroe Doctrine. Can’t do that anymore. They
+      don’t know what to do in its place, so they talk a lot about the Monroe Doctrine.
+      They didn’t have to talk about it for the last century. They just did it. They
+      can’t anymore. And you can’t in the Middle East either. Look at all of those countries.
+      I’ll conclude with that. I’m going to be crude for a moment, but in the interest
+      of time. . . The countries of the Middle East now being threatened by Iran are
+      all concoctions of Western imperialism. This was one large desert carved up into
+      little groups by Europeans, turned over by them to selected families who looked
+      like they would be loyal if you paid them enough. These are tiny countries. They’re
+      desperate. They live on oil and gas, and they will die on oil and gas. They have
+      tried, in some cases, for 70 years to diversify. They don’t have much to show
+      for that. They’re still dependent on oil and gas. They’re dispensable to everyone
+      except themselves. Very dangerous place to be. So the United States picks two
+      very vulnerable things: Venezuela and the Middle East. Nice, it gets you little
+      corners on the oil. And look how hard Mr. Trump works to keep fossil fuels, to
+      denounce every effort to switch to other forms of energy. So the area of the empire
+      he can try to expand and hold on to, to demonstrate that the empire isn’t dying,
+      which he has to do because it is. . . And he can feed that into the continuing
+      oil-dependent global economy. The anti-climate is part of the same debt. They
+      know that it’s not good for our health. They know that we don’t want to be reliant
+      on burning fossil fuels because they will eventually kill us and the pollution
+      from it will eventually make us. . . they know all that. They don’t need us for
+      that. They’re fighting to hold on. If it costs them, they will still fight to
+      hold on. They may be coughing all night, but they will hold on. . . It’s important
+      to understand that mentality is applicable here. If we control the Venezuelan
+      oil a little for a while, we’ve slowed down where things were going. And if we
+      can dictate a new Middle East configuration, if the Iranians allow us to do it,
+      and don’t mount a resistance that will make running Iran impossible, way too expensive. . .
+      And we can get Israel to be the paid goon for the United States to keep people
+      in line with military horror. . . All I can say is that’s a tremendous long-shot
+      theory and approach. This is the policy of a dying empire. And if the people who
+      are suffering the most, whether it be in Gaza or now in Tehran, if and when they
+      get their act together, the revenge on the West will be staggering. And you know,
+      the Europeans get it. Spain broke from NATO. NATO endorsed the American-Israeli
+      attack. Unbelievably stupid for NATO, but that’s, you know, they’re slavish in
+      NATO. They couldn’t resist the tariffs. They couldn’t resist Mr. Trump. And now
+      they can’t resist here either. They are, like Israel, the paid underling. But
+      it’s breaking apart. Even Macron, wobbling. Only Mertz so far is staying with
+      the Iran-Israel move. The Spanish have been very clear, Mr. Sanchez. . . and that’s
+      the breakup of NATO that everyone has been [foreseeing]. Now, even our military
+      doesn’t agree, and the disagreement is so strong that it bursts into the public.
+      I think you need to see it. Otherwise, the mainstream media here, who focus on
+      everything other than what we’re talking about, leave you with the impression
+      that this is some clever maneuver of Mr. Trump. This is another desperate effort
+      to hold on a little longer, to slow down economic processes. And if you remember
+      who lost the war in Korea, in Vietnam, in Afghanistan, and in Iraq, then don’t
+      be so quick to assume who will win this war. Oh, we’ll hear about wonderful bombing,
+      precision bombing. Then we’ll hear about an invasion. Then we’ll hear about surges
+      of our troops. We’ll hear all about it. And then one day they’ll all be [cramming]
+      onto a helicopter, getting out of Tehran as fast as they can. ⁣MICHAEL HUDSON:
+      If they really get in. I think Richard’s quite right in saying, “Look at this
+      exercise in Iran,” that I agree with him. It’s going to go the same way that America’s
+      war in Vietnam went, Afghanistan, Iraq, everywhere it’s done, it’s ended up losing.
+      I can’t believe that they’re really going to try to mount an American invasion
+      with American troops. You’ve seen how that’s worked in every other country. They’ve
+      gotten slaughtered. America prefers to use proxy troops. As we’ve said, it’s used
+      Israeli troops to let them die and let al-Qaeda die, and now, in the last few
+      days, America has backed the Kurdish groups. President Trump has called the Kurdish
+      leaders in Iran to say, you know, “Why don’t you fight against Iran?” I think
+      I’ve mentioned before that I’ve sat in on meetings and military meetings with
+      Herman Khan way back in 1975, 74, when he outlined the U.S. plans to break up
+      Iran into five regions. And Iran is, I won’t say, unique, but very different from
+      the Western civilizations and from Christian civilizations in many ways. The most
+      important way is [that] it’s multi-ethnic and there has not been any ethnic separatist
+      movement there. The ethnic ethnicities all get along just fine. That used to be
+      a characteristic of all of the empires in the Middle East ever since the Babylonian
+      Empire and the Persian Empire, which were multi-ethnic with the Jews, right down
+      through the Iranian state when it was no longer an empire, but was just a multi-ethnic
+      country. There’s a very active Jewish population in Iran, many of whom I’ve met
+      who have told me about how free and open Iran is to the Jews. But now the Americans
+      are trying to make the Kurds sacrificial. . . the Iranian version of the Ukrainians.
+      Die to the last Ukrainian. “Will you Kurds please follow the leader who is being
+      supported by Trump, and die to the last Iranian Kurd?” I’m told that the Kurdish
+      People’s Party in Turkey is not at all in favor of this and is opposing them.
+      And so you’re having a fight among the Kurds, but the Kurds in Iran are apparently
+      willing to mount some kind of a fight there. Well, the point that I want to get
+      that Richard was making was: how do you stop an empire in decline from desperately
+      flailing out and taking down the whole rest of the world with it? Well, you prevent
+      an alternative from developing, and that’s what the United States had to do. It
+      needed to prevent an alternative from developing in China, in Russia, in Venezuela,
+      in Cuba, and now in Iran. And Iran is unique in another way, and that’s the role
+      of the clergy there. I have a book coming out on the history of world banking
+      from the Crusades to World War I that’ll be out by the spring. And I have a chapter
+      on Iran and its role in foreign investment. Iran was one of the most marginalized
+      countries in Europe throughout most of the 19th century. And gradually. . . it
+      was not forced to let foreign countries invest in its resources, but it wanted
+      to industrialize and do for itself what the Western European countries were doing
+      for themselves—put in power and [an] industrial base. It made a number of agreements
+      with British investors, and the agreements were pretty awful. And the worst agreement
+      was when Iran sold its tobacco monopoly to a British consortium that would take
+      complete control of all the production of tobacco and the marketing of tobacco
+      within Iran, and merge that with heroin cultivation. And the origins of essentially
+      much of the Chinese opium trade were based for quite a while out of Iran as a
+      byproduct of tobacco. Well, the entire Iranian people revolted and the revolts
+      were led by the clergy who put fatwas on dealing with the companies that were
+      British-owned and had taken over. And it was the clergy in Iran that had led not
+      only to overthrowing and ending the British takeover of Iranian tobacco and railroads
+      and other areas, but also led to a constitutional reform in 2005 that led to the
+      Iranian people, again, working very closely with the clergy, to overthrow the
+      ruling Klan that had been running it through dominating Iranian politics through
+      the entire 19th century. Well, finally, in 1925, they were attempting to create
+      a civilian authority and civilian independent democratic rule. That’s when Britain
+      stepped in militarily and selected a Persian general, and that was the Shah’s
+      father, the first Shah, to put in. And this was in 1925. And just as Richard mentioned,
+      the Tudeh Communist Party [was] very strong in Iran after World War II. It was
+      very strong after the Russian Revolution there. And the role from the very beginning
+      of the British-backed military in Iran was to get rid of the communists and the
+      left-wingers there and act as the proxy government for the British and for other
+      foreign investors, including what became the British Petroleum. . . the Anglo-Persian
+      Oil Company and concession in Iran is what led to British petroleum and the power
+      of Britain in the first place. So that when the overthrow of Mosaddegh was trying
+      to maintain and perpetuate Britain’s declining empire, well, America had pretty
+      much absorbed the British Empire in the sterling area by that time, 1953, but
+      at least it thought it could maintain its power in Iran under the Shah. And that
+      happened, and the Shah imposed a brutal dictatorship there that finally, once
+      again, was overthrown by the clergy because the only place that Iranians could
+      gather free of the Shah’s secret police was in the mosques. And that’s part of
+      it. So the result is that the Iranians, rather than being a terrorist state, they
+      put an end to the Shah’s terrorism that had been imposed on Iran for many decades.
+      And you have today America being in the same position that Britain was in. All
+      it has [is] to prevent an alternative from developing, to replace the American
+      empire, to replace dollarization, to replace the control of world oil, so that
+      countries can buy oil from suppliers other than those backed by the United States
+      and Europe. The only way that America can do it is by terrorist acts, not only
+      such as we’re seeing in Iran, but the terrorist acts in Ukraine against the Russian
+      population, the terrorist acts, the military buildup in the China Sea to try to
+      arm Taiwan, to drag the Philippines into a fight in Japan, into a fight against
+      China. All that America can do is try to find allies who are going to fight its
+      wars, to fight to the last Ukrainian, to the last Kurd, to the last Japanese,
+      to the last Philippine, and maybe ultimately, if there is an American armed invasion,
+      to the last American infantryman there. And what are other countries going to
+      do? The costs of this American terrorism and the destabilization of oil that is
+      being created by the United States trying to keep control of oil to. . . as the
+      financial and trade buttress of the old American empire increases, this is going
+      to threaten other countries’ ability to import oil and import gas. It threatens
+      to turn the whole world into what’s happened to Germany when Germany was directed
+      to cut off oil and gas imports from Russia. So rather than America basing its
+      empire on other countries contributing to it, saving the world from terrorism,
+      the fact is that controlling the world’s oil trade requires ongoing terrorism
+      and a permanent war in the Middle East. You’ll have to continue this war against
+      it. And the only way to oppose it is, as the president and the head of Spain said
+      two days ago, we are not going to permit any American military base in Spain to
+      act as a base to attack Iran. We think the war is wrong. We think that Europe
+      should turn away from the United States and turn toward where we want to turn,
+      toward the part of the world that is growing and offers us a much better trade
+      deal, a much better financial deal, and a much better market for our investors,
+      namely China, Russia, and Iran. These are the three countries that are the core
+      of what is often called BRICS, but it’s really Russia and Iran, not India, and
+      China that are the core of what’s going to emerge as the other pole of the world,
+      acting as a magnet to attract Europe, Africa, South America, the global south,
+      and Eurasia into their orbit because America has nothing to offer now that it’s
+      deindustrialized and become a world debtor instead of a world creditor. And so
+      that the world no longer needs the dollars for its own savings, no longer needs
+      the dollars for their economic growth. And in fact, adopting the dollar and paying
+      the price of belonging to the dollar area means a sacrifice of their growth to
+      participate in the American war against the whole rest of the world, vainly trying
+      to keep its empire with the aid of Britain, France, and Germany. ⁣RICHARD WOLFF:
+      I’d like to use a little bit of the time we have left to talk about the limits
+      to all of this that come from inside the U.S. economy. Let’s go through this with
+      a little arithmetic. Our current budget for war, what we used to call the defense
+      budget, I guess now we call it the war budget, is about $900 billion. There are
+      not that many numbers to keep in one’s mind: $900 billion. Before the war in Iran,
+      before, Mr. Trump indicated he wanted to increase that in next year’s budget to
+      $1.5 trillion. In other words, he wants to add $600 billion. That’s a two-thirds
+      increase in your military budget. Now, what should have been asked is: what in
+      the world is going on that a country that is already the most militarily armed
+      in the world should be wanting to increase its military spending at all, let alone
+      by an unprecedented two thirds in one year? Okay? That question was not asked.
+      With a wave of the hand, we were told Russia and China present a bigger problem,
+      and therefore, okay. We now have a war in Iran, on top of the fact that we’re
+      still hemorrhaging money by producing weapons and so forth for Ukraine. And there
+      are the other warlike issues on the horizon. If anything, that means the money
+      going to defense will be even larger than the 600 billion that were budgeted for
+      it before Iran. Keep now in mind that the United States, as Michael just said,
+      is the world’s largest debtor country. That a few years ago, our debt crossed
+      100% of our GDP, which is a kind of number people pay attention to. I believe
+      it’s now crossed 120% of our GDP, which is usually a warning sign that you have
+      got a problem here. And there are a number of countries around the world that
+      have spent the last few years reducing their holdings of Treasury instruments
+      so that the ability of the United States to borrow is shrinking, as seen by the
+      unwillingness of the normal buyers, lenders to us, to continue to do so. And now
+      we have discovered that the tariffs, which raised about $160, $170 billion, are
+      unconstitutional, and that money is going to have to be refunded or something
+      like that. You know what that put those together. That means a federal deficit
+      that may really surprise us by requiring an additional trillion or more dollars
+      when we have absolutely no way to raise that money. We are not going to be able
+      to borrow. Or let me put it differently. Were we to be able to borrow a trillion
+      dollars, given that we’re overindebted, given that all three of the major rating
+      agencies have taken away the AAA rating for American debt, we’re going to have
+      to pay, here we go, higher interest rates to get such money. And we all know that
+      higher interest rates, especially if prices go up, are an environment that is
+      going to make the affordability problem, which is the only plank the Democratic
+      Party has figured out to offer the people, is going to make it very powerful over
+      the next six months and make a desperate government even more desperate than it
+      has been as the financial impossibility of its. . . and nor do I see anything.
+      Michael should correct me if I’m wrong, but I don’t see anything on the horizon
+      that’s going to step in here. Are they going to forego their military buildup
+      when they’re in a new war and they admitted they needed 600 billion more? They’re
+      going to say, well, we won’t be able to do it. What kind of message does that
+      send? And if they’re not willing to forego it, and if they don’t want to have
+      higher interest rates, then the only way will be to cut back on social programs
+      here in the United States. And we will have another crazy Elon Musk Doge experiment
+      in the year ahead. And that’s not politically sustainable anymore either. ⁣MICHAEL
+      HUDSON: Well, here’s why we’re going to have what exactly Richard is talking about.
+      The increase in the military budget to one and a half trillion was done before
+      the attack on Iran. Every day that America’s naval force is in Iran and the army
+      [and] air force are sending bombs and missiles costs, I think they’ve calculated,
+      many billions of dollars per day of the war. And these billions of dollars are
+      not only in current costs, but the depletion of America’s supply of bombs and
+      missiles and maybe F-14 fighters as they’re shot down and aircraft. And all of
+      this has been calculated. I think I made a calculation when I had the daily expenditures
+      before me a few days ago. This is going to add by September another trillion dollars
+      just to replace the armaments that have been expended in Iran and the cost of
+      outfitting and fueling and keeping the Navy and the Air Force and the troops at
+      the ready in Iran. So the costs are going to be much greater, even than the absurdly
+      high costs that Richard just mentioned. And he’s absolutely right in saying that
+      America is following the same path as Merz is in Germany. Talking to labor and
+      saying, Labor, are you patriotic? It’s worth lowering your salaries and lowering
+      your government support for your programs and taking away your social security
+      to help defend you from the imminent Russian attack and to prevent you from the
+      Iranians dropping bombs that if they. . . once they attack the Near East, the
+      next thing you’ll know, they’ll be landing in New York, just as the Vietnam would
+      have. . . If we didn’t defeat them in Iran, we would have had to [defeat] them
+      here, as the Army and the Navy and the Air Force said again and again and again.
+      So this is the political fight. And, unfortunately, there’s only one group, one
+      group to the right of Trump, and that’s the Democratic Party that is all in favor. . .
+      The Democratic Party, finally, [has] in sight the dream of President Obama, to
+      privatize the social security system, to abolish. . . to slash Social Security
+      way back and tell American labor, you’re on [your] own, to put your savings in
+      the hands of Wall Street investment funds to be privatized. We’re going to roll
+      back social programs just as Germany’s doing it, being patriotic as it is. And
+      we’re asking you to be patriotic. And that’s their enabling mythology that they’re
+      going to use to put the class war back in business in the United States. So it’s
+      not only the American empire that’s being run down, it’s the whole social contract,
+      the illusion that the role of the American government is to raise living standards
+      for a strong government to protect savings of labor, to raise living standards
+      and prosperity. . . [it’s] just the opposite. The role of the American government
+      is to subsidize the financial real estate sector and the rent extraction, to polarize
+      the economy to serve its campaign contributors: the 1%, basically, maybe the 10%,
+      but basically to continue the polarization. And all of this. . . what Trump has
+      done that is, I guess, unique to the Democrats is he’s made the president and
+      the cabinet and Congress the direct beneficiaries of all of this war spending
+      by insisting that the U.S. participates. Trump’s family has made billions already
+      in the last year from Qatar and Saudi Arabia and other countries, giving money
+      to his stepson and to Witkoff for the Trump family fortune. And that’s why people
+      have sort of joked that Trump’s MAGA Make America Great Again policy is really
+      Miriam Adelson Governs America. I mean, it turns out that Trump has put American
+      foreign policy and domestic policy up for sale, and he’s profiteering, along with
+      the buyers of his policy, the neocons in Congress, the Warhawks, the military-industrial
+      complex, and most to which most of the Democratic as well as Republican politicians
+      belong. ⁣RICHARD WOLFF: Let me add if I could. ⁣NIMA ALKHORSHID: Go ahead, Richard.
+      ⁣RICHARD WOLFF: I know what I’m about to say is ominous, but someone has to say
+      it. What happens to Israel as the empire goes down, as the various strategies
+      to slow the process, whether in Venezuela or the Middle East, play out with no
+      better result than you got in Vietnam or in Afghanistan. At that time, what do
+      we expect? Here’s what I expect: a falling out among the thieves, a decision in
+      America that. . .to paraphrase Tucker Carlson, you spent your time doing what
+      the Israelis wanted you to do. And so the Americans can blame the Israelis for
+      what happened. And the Israelis, for their part, will blame the United States.
+      But out of that falling apart will come one thing for certain: the worst possible
+      outcome for the Israelis one can imagine. The very, very dangerous gamble that’s
+      going on here, and that should not be lost sight of, especially by the people
+      who stand, if I’m right, to lose as much in the future as is now being imposed
+      on the people of Iran. ⁣MICHAEL HUDSON: Well, there’s only one solution then for
+      Israel to conquer Saudi Arabia. ⁣NIMA ALKHORSHID: Thank you. Thank you, Richard
+      and Michael, for being with us today. Great pleasure, as always. ⁣RICHARD WOLFF:
+      Thank you. ⁣NIMA ALKHORSHID: See you soon. ⁣RICHARD WOLFF: Bye-bye. Transcription
+      and Diarization: https://scripthub.dev/ Editing: RALPH LOMBREGLIA Review: ced
+      Photo by Susan Wilkinson on Unsplash The post War, Oil and Empire first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion on March 5, 2026, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson analyze the ongoing war in the Middle East, drawing
+      parallels to the 2003 Iraq war and highlighting the underlying motivations and
+      justifications behind such conflicts.
+    paragraph_summary: In a discussion on March 5, 2026, Nima Alkhorchid, Richard Wolff,
+      and Michael Hudson analyzed the ongoing war in the Middle East, particularly focusing
+      on the conflict involving Iran. Michael Hudson drew parallels between the current
+      situation and the 2003 Iraq war, suggesting that both conflicts were initiated
+      based on misleading narratives. He highlighted that the U.S. and Israel's rapid
+      escalation to war was influenced by recent negotiations in Oman, where Iran appeared
+      to agree to significant concessions regarding its nuclear program. Hudson argued
+      that the announcement of these agreements prompted immediate military action,
+      reflecting a pattern of using fabricated threats to justify intervention.
+    published: '2026-03-12T11:46:36+00:00'
+  - title: 'Iran’s Challenge: Rewire the Region'
+    url: https://michael-hudson.com/2026/03/irans-challenge-rewire-the-region/
+    text: 'Counterpunch , March 8 2026 Thinking About the Unthinkable: Iran’s Grand
+      Plan to End U.S. Presence in the Middle East Iran and Donald Trump have each explained
+      why failure to fight the current war to the end would simply lead to a new set
+      of mutual attacks. Trump announced on March 6 that “There will be no deal with
+      Iran except unconditional surrender,” and announced that he must have a voice
+      in naming or at least approving Iran’s new leader, as he has just done in Venezuela.
+      “If the U.S. military must utterly defeat it and bring about a regime change,
+      or else “you go through this, and then in five years you realize you put somebody
+      in who’s no better.’” It will take at least that long for America to replace the
+      weaponry that has been depleted, rebuild its radar and related installations and
+      mount a new war. Iranian officials likewise recognize that U.S. attacks will keep
+      being repeated until the United States is driven out of the Middle East. Having
+      agreed to a ceasefire last June instead of pressing its advantage when Israeli
+      and regional U.S. anti-missile defenses were depleted, Iran realized that war
+      will be resumed as soon as the United States is able to re-arm its allies and
+      military bases to renew what both sides recognize is to be a fight to some kind
+      of final solution. The war that began on February 28 can realistically be deemed
+      to be the formal opening of World War III because what is at issue are the terms
+      on which the entire world will be able to buy oil and gas. Can they buy this energy
+      from exporters in currencies other than the dollar, headed by Russia and Iran
+      (and until recently, Venezuela)? Will the present U.S. demand to control of the
+      international oil trade require oil-exporting countries to price it in dollars,
+      and indeed to recycle their export earnings and national savings into investments
+      in U.S. government securities, bonds and stocks? That recycling of petrodollars
+      has been the basis of America’s financialization and weaponization of the world’s
+      oil trade, and its imperial strategy of isolating countries that resist adherence
+      to the U.S. ruler-based order (no real rules, but simply U.S. ad hoc demands).
+      So what is at issue is not only the U.S. military presence in the Middle East
+      – along with its two proxy armies, Israel and ISIS/al Qaeda jihadists. And the
+      U.S. and Israeli pretense that it is about Iran having atomic weapons of mass
+      destruction is as fictitious an accusation as that levied against Iraq in 2003.
+      What is at issue is ending the Middle East’s economic alliances with the United
+      States and whether its oil-export earnings will continue to be accumulated in
+      dollars as the buttress of the U.S. balance of payments to help pay for its military
+      bases throughout the world. Iran has announced that it will fight until it achieves
+      three aims to prevent future wars. First and foremost, the United States must
+      withdraw from al its military bases in the Middle East. Iran already has destroyed
+      the backbone of radar warning systems and anti-aircraft and missile defense sites
+      in Jordan, Qatar, the United Arab Emirates (UAE) and Bahrain, preventing them
+      from guiding U.S. or Israeli missile attacks or attacking Iran. Arab countries
+      have bases or U.S. installations will be bombed if they are not abandoned. The
+      next two Iranian demands seem to far-reaching that they seem unthinkable to the
+      West. Arab OPEC countries must end their close economic ties to the United States,
+      starting with the U.S. data centers operated by Amazon, Microsoft and Google.
+      And they not only must stop pricing their oil and gas in U.S. dollars, but disinvest
+      in their existing petrodollars holdings of the U.S. investments that have been
+      subsidizing the U.S. balance of payments since the 1974 agreements that made to
+      gain U.S. permission to quadruple their oil-export prices. These three demands
+      would end U.S. economic power over OPEC countries, and thus the world oil trade.
+      The result would be to dedollarize the world’s oil trade and re-orient it toward
+      Asia and Global Majority countries. And Iran’s plan involves not only a military
+      and economic defeat for the United States, but an end to the political character
+      of the Near Eastern client monarchies and their relations with their Shi’ite citizens.
+      Step 1: Driving the United States out of its Middle Eastern military bases Iraq’s
+      parliament has continued to demand that U.S. forces leave their country and stop
+      stealing its oil (sending most of it to Israel). It has just approved legislation
+      yet again directing that American forces to leave their country. Meeting with
+      senior advisor to Iraq’s interior minister and his accompanying military delegation
+      in Tehran last Monday (March 2), Iran’s Brigadier General Ali Abdollahi reiterated
+      the demand that Iran has been making for the last five years, ever since Donald
+      Trump closed his first administration on January 3, 2020. by ordering the treacherous
+      assassination of the two top Iranian and Iraqi anti-terror negotiators, Qassem
+      Soleimani and Abu Mahdi al-Muhandis, who were seeking to avoid an all-out war.
+      Seeing that Trump is now continuing the same policy, the Iranian commander stated:
+      “Expulsion of the United States is the most important step toward the restoration
+      of security and stability to the region.” But all the Arab kingdoms are hosting
+      U.S. military bases. Iran has announced that any country permitting U.S. aircraft
+      or other military forces to use these bases will risk immediate attack to destroy
+      them. Kuwait, Bahrain and the United Arab Emirates already have come under attack,
+      leading Saudi Arabia to promise Iran not to permit the U.S. military to use its
+      territory for part of its war. Spain has banned U.S. use of its airfields to support
+      its war against Iran. But when its Prime Minister Pedro Sánchez forbade the United
+      States from using them, President Trump pointed out at an Oval Office news conference
+      that there was nothing that Spain really could do to prevent the U.S. air force
+      from using the Rota and Morón installations in southern Spain that the U.S. and
+      Spain share, but which remain under Spanish command. “And now Spain actually said
+      we can’t use their bases. And that’s all right, we don’t want to do it. We could
+      use the base if we want. We could just fly in and use it, nobody is going to tell
+      us not to use it.” What would Spain do to prevent it, after all? Shoot down the
+      U.S. aircraft? This is the problem confronting the Arab monarchies if they try
+      to deny U.S. access to their own U.S. bases and air space to fight Iran. What
+      can they do? Or more to the point, what may they be willing to do? Iran is insisting
+      that Qatar, the United Arab Republics, Bahrain, Kuwait, Saudi Arabia, Jordan and
+      other Near Eastern monarchies close all U.S. military bases in their kingdoms
+      and block U.S. use of their airspace and airports as a condition for not bombing
+      them and extending the war to the monarchic regimes themselves. Refusal – or inability
+      to prevent the U.S. from using bases in their countries – will lead Iran to force
+      a regime change. This would be easiest in countries in which Palestinians are
+      a large proportion of the labor force, as in Jordan. Iran has called for Shi’ite
+      populations in Jordan and other Near Eastern countries to overthrow their monarchies
+      so as to break away from U.S. control. There are rumors that Bahrain’s king has
+      left the country. Step #2: Ending the Middle East’s commercial and financial linkages
+      to the U.S. Arab monarchies are under further pressure to meet Iran’s ultimate
+      demand that they decouple their economies from that of the United States. Ever
+      since 1974 they have tied their economies to the United States. Most recently
+      Bahrain, the UAE and Saudi Arabia have sought to use their energy resources to
+      attract computer data centers, including Starlink and other systems that have
+      been associated with U.S. regime-change and military attacks on Iran. Opposing
+      U.S. plans to tightly integrate its non-oil sectors with the Arab OPEC Middle
+      East, Iran has announced that these installations are “legitimate targets” for
+      its drive to expel America from the region. One cloud computing manager suggested
+      that Iran’s AWS attack on Amazon’s data center was targeted because it was serving
+      military needs, much as Starlink (which the UAE is interested in financing) was
+      used in February in the U.S. attempt to mobilize demonstrations against Iran’s
+      government. Step #3: Ending the recycling of OPEC oil exports into U.S. dollar
+      holdings The most radical Iranian demand has been for its Arab neighbors to dedollarize
+      their economies. That is a key to preventing U.S. businesses from dominating their
+      economies and hence their governments. An Iranian official told CNN that Iran
+      has accused companies that buy U.S. government debt and invest in Treasury bonds
+      of being partners in the war against itself, because it sees them as financiers
+      of this war. “Tehran considers these companies and their managers in the region
+      as legitimate targets. These individuals are warned to declare their capital withdrawal
+      as soon as possible.” Saudi Arabia, UAE, Kuwait, and Qatar are indeed discussing
+      withdrawing from U.S. and other investments as Iran’s blocking of Hormuz has led
+      them to stop producing oil and LNG now that their storage capacity is full. Their
+      income from energy, shipping and tourism has stopped. The Gulf States are meeting
+      on Sunday, March 8, to discuss drawing down their $2 trillion in U.S. dollar investments
+      (mainly from Saudi Arabia). The threat is that this is an initial step to diversifying
+      OPEC investment outside of the U.S. dollar. In conjunction with U.S. surrender
+      of its military bases in the Middle East, such decoupling from the dollar would
+      greatly reduce U.S. control of Middle Eastern oil, and hence the strategy to use
+      its oil trade as a major chokepoint with which to coerce other countries into
+      adhering to Trump’s America First ruler-based order (his own whims, with no clear
+      rules). For the monarchies themselves, the changes demanded by Iran to end the
+      U.S. war against the Middle East would have an effect similar to the aftermath
+      of World War I: the end of monarchic regimes in many of the Arab countries whose
+      economies and political alliances have been based on an alliance with the United
+      States. And for starters, pressure is now on Saudi Arabia, Qatar, Egypt, Jordan,
+      Bahrain, Kuwait and United Arab Emirates that have agreed to join Trump’s Board
+      of Peace. Indonesia, with the world’s largest Islamic population, has just withdrawn
+      its earlier offer to provide 8000 troops to the Trump “peace plan” in Gaza, and
+      Iran is pressuring Arab monarchies to follow suit by withdrawing in protest against
+      U.S. policy. Will they? Ending U.S. access to bases in their territory runs the
+      risk that the United States may simply seize their dollar holdings to force them
+      to change their mind. But if they try to avoid being offensive to the United States,
+      they will leave themselves open to Iranian accusations that they are not really
+      opposing the war. A number of other policies could escalate the Iranian challenge
+      to the U.S. renunciation of the UN Charter’s rules of international law and the
+      civilized laws of war. Countries could bring charges at the ICC against Trump
+      for committing war crimes by starting an undeclared war against Iran, targeting
+      and killing its leaders and bombing civilian centers such as the girls’ school
+      that was one of the first targets? Collateral effects of Iran’s goal to drive
+      the United States out of the Middle East Pursuit of Iranian aims means a long
+      war. It will escalate as Israel and the U.S. military exhaust their supply of
+      anti-aircraft and missile defense, enabling Iran to launch its serious attack
+      on a scale that it stopped short of last June when it agreee to a ceasefire. In
+      coming weeks Iran will start using its most sophisticated missiles to attack Israel
+      and other U.S. proxies. There’s nowhere to put additional oil production now that
+      Iran has closed the Strait of Hormuz to all but its own ships, most of which are
+      carrying oil destined for China.. No ships are even trying to approach it, because
+      Lloyds of London is not issuing insurance policies. The U.S. military has recently
+      sunk or seized Russian ships carrying oil, but the soaring oil prices have led
+      it to permit such transfers in order to stem the world inflation. Treasury Secretary
+      Scott Bessent has said the Treasury Department is examining whether additional
+      sanctioned Russian crude shipments could be released to the market. “We may unsanction
+      other Russian oil,” he said. “There are hundreds of millions of barrels of sanctioned
+      crude on the water … by unsanctioning them, Treasury can create supply.” His remarks
+      follow a U.S. decision to issue a temporary 30-day waiver allowing Indian refiners
+      to purchase Russian oil in an effort to maintain global supply. Matters are not
+      so easily cured for liquified natural gas, which is exported mainly by Qatar.
+      Its storage tanks are full, forcing production to be shut down. Its LNG gas works
+      have been bombed and will have to be rebuilt and put back on line. That will take
+      two weeks plus an equal time to cool this gas properly. The last few days have
+      seen Iran attack two Saudi oil depots, and a drone hit a desalinization plant
+      in Bahrain in response to an attack launched from its territory on Iran’s desalinization
+      plant on Qeshm Island. Most of the Arab kingdoms depend on desalinization to a
+      much higher degree, topped by Saudi Arabia at 70% and Bahrain at 60%. That makes
+      Bahrain’s attack akin to the folly of fighting with bricks while living in a glass
+      house oneself. Throughout the world, rising oil and gas prices will force economies
+      to choose between having to cut back domestic social spending in order to pay
+      their dollar debts and higher oil-import prices, or declare a moratorium on servicing
+      their dollar debts falling due. This war is splitting the US/NATO West from the
+      Global Majority, by creating strains that Japan, Korean and even Europe can no
+      longer afford. A change in consciousness is occurring – and that is the context
+      for how countries will act (or be forced to act by their populations). The effect
+      of this U.S. attack has destroyed the narrative that has enabled U.S. diplomats
+      to demand subsidy and tribute for its global military spending and demands for
+      U.S. subsidy and special tribute to finance it. The predicate fiction is that
+      the world needs U.S. military support to protect it against Russia and China –
+      and now Iran, as if these countries pose a real threat to Europe and Asia. The
+      pretense of U.S. foreign policy is that the United States is protecting the rest
+      of the world by waging the present Cold War . But the consequences of its attack
+      on Iran show that the United States actually is the greatest threat to the security
+      of its allies. The backwash of America’s war on Iran thus has dispelled the great
+      enabling fiction underlying the claim that America is protecting the world from
+      attack by Russia, China and Iran. The United States has not been able to protect
+      the OPEC countries, and its attack has hurt Japan, South Korea and Europe, whose
+      gas prices have soared by 20% and are now on their way further upward today. Korea’s
+      stock market has plunged 18% in the last two days. All this is shifting support
+      for removing U.S. control of Near Eastern oil. Image by LuisFerreira4x4 from Pixabay
+      The post Iran’s Challenge: Rewire the Region first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The article discusses the escalating tensions between Iran
+      and the U.S., highlighting Donald Trump's insistence on unconditional surrender
+      from Iran and his desire to influence the selection of its new leader, while Iranian
+      officials acknowledge that U.S. military actions will persist until American forces
+      are expelled from the Middle East.
+    paragraph_summary: The article from Counterpunch discusses the escalating conflict
+      between Iran and the United States, particularly in light of Donald Trump's recent
+      statements asserting that the U.S. will only accept unconditional surrender from
+      Iran and will play a role in determining Iran's leadership. Both nations recognize
+      that failure to decisively end the conflict will lead to ongoing cycles of violence,
+      with Iran aiming to expel U.S. influence from the Middle East. The piece suggests
+      that the war, which began on February 28, could mark the onset of World War III,
+      as it centers on critical issues regarding global oil and gas trade, particularly
+      the potential shift away from dollar-denominated transactions. The article highlights
+      the strategic implications of this conflict for U.S. financial interests and the
+      broader geopolitical landscape.
+    published: '2026-03-11T11:45:31+00:00'
+  - title: 'Iran’s Challenge: Rewire the Region'
+    url: https://michael-hudson.com/2026/03/irans-challenge-rewire-the-region/
+    text: 'Counterpunch , March 8 2026 Thinking About the Unthinkable: Iran’s Grand
+      Plan to End U.S. Presence in the Middle East Iran and Donald Trump have each explained
+      why failure to fight the current war to the end would simply lead to a new set
+      of mutual attacks. Trump announced on March 6 that “There will be no deal with
+      Iran except unconditional surrender,” and announced that he must have a voice
+      in naming or at least approving Iran’s new leader, as he has just done in Venezuela.
+      “If the U.S. military must utterly defeat it and bring about a regime change,
+      or else “you go through this, and then in five years you realize you put somebody
+      in who’s no better.’” It will take at least that long for America to replace the
+      weaponry that has been depleted, rebuild its radar and related installations and
+      mount a new war. Iranian officials likewise recognize that U.S. attacks will keep
+      being repeated until the United States is driven out of the Middle East. Having
+      agreed to a ceasefire last June instead of pressing its advantage when Israeli
+      and regional U.S. anti-missile defenses were depleted, Iran realized that war
+      will be resumed as soon as the United States is able to re-arm its allies and
+      military bases to renew what both sides recognize is to be a fight to some kind
+      of final solution. The war that began on February 28 can realistically be deemed
+      to be the formal opening of World War III because what is at issue are the terms
+      on which the entire world will be able to buy oil and gas. Can they buy this energy
+      from exporters in currencies other than the dollar, headed by Russia and Iran
+      (and until recently, Venezuela)? Will the present U.S. demand to control of the
+      international oil trade require oil-exporting countries to price it in dollars,
+      and indeed to recycle their export earnings and national savings into investments
+      in U.S. government securities, bonds and stocks? That recycling of petrodollars
+      has been the basis of America’s financialization and weaponization of the world’s
+      oil trade, and its imperial strategy of isolating countries that resist adherence
+      to the U.S. ruler-based order (no real rules, but simply U.S. ad hoc demands).
+      So what is at issue is not only the U.S. military presence in the Middle East
+      – along with its two proxy armies, Israel and ISIS/al Qaeda jihadists. And the
+      U.S. and Israeli pretense that it is about Iran having atomic weapons of mass
+      destruction is as fictitious an accusation as that levied against Iraq in 2003.
+      What is at issue is ending the Middle East’s economic alliances with the United
+      States and whether its oil-export earnings will continue to be accumulated in
+      dollars as the buttress of the U.S. balance of payments to help pay for its military
+      bases throughout the world. Iran has announced that it will fight until it achieves
+      three aims to prevent future wars. First and foremost, the United States must
+      withdraw from al its military bases in the Middle East. Iran already has destroyed
+      the backbone of radar warning systems and anti-aircraft and missile defense sites
+      in Jordan, Qatar, the United Arab Emirates (UAE) and Bahrain, preventing them
+      from guiding U.S. or Israeli missile attacks or attacking Iran. Arab countries
+      have bases or U.S. installations will be bombed if they are not abandoned. The
+      next two Iranian demands seem to far-reaching that they seem unthinkable to the
+      West. Arab OPEC countries must end their close economic ties to the United States,
+      starting with the U.S. data centers operated by Amazon, Microsoft and Google.
+      And they not only must stop pricing their oil and gas in U.S. dollars, but disinvest
+      in their existing petrodollars holdings of the U.S. investments that have been
+      subsidizing the U.S. balance of payments since the 1974 agreements that made to
+      gain U.S. permission to quadruple their oil-export prices. These three demands
+      would end U.S. economic power over OPEC countries, and thus the world oil trade.
+      The result would be to dedollarize the world’s oil trade and re-orient it toward
+      Asia and Global Majority countries. And Iran’s plan involves not only a military
+      and economic defeat for the United States, but an end to the political character
+      of the Near Eastern client monarchies and their relations with their Shi’ite citizens.
+      Step 1: Driving the United States out of its Middle Eastern military bases Iraq’s
+      parliament has continued to demand that U.S. forces leave their country and stop
+      stealing its oil (sending most of it to Israel). It has just approved legislation
+      yet again directing that American forces to leave their country. Meeting with
+      senior advisor to Iraq’s interior minister and his accompanying military delegation
+      in Tehran last Monday (March 2), Iran’s Brigadier General Ali Abdollahi reiterated
+      the demand that Iran has been making for the last five years, ever since Donald
+      Trump closed his first administration on January 3, 2020. by ordering the treacherous
+      assassination of the two top Iranian and Iraqi anti-terror negotiators, Qassem
+      Soleimani and Abu Mahdi al-Muhandis, who were seeking to avoid an all-out war.
+      Seeing that Trump is now continuing the same policy, the Iranian commander stated:
+      “Expulsion of the United States is the most important step toward the restoration
+      of security and stability to the region.” But all the Arab kingdoms are hosting
+      U.S. military bases. Iran has announced that any country permitting U.S. aircraft
+      or other military forces to use these bases will risk immediate attack to destroy
+      them. Kuwait, Bahrain and the United Arab Emirates already have come under attack,
+      leading Saudi Arabia to promise Iran not to permit the U.S. military to use its
+      territory for part of its war. Spain has banned U.S. use of its airfields to support
+      its war against Iran. But when its Prime Minister Pedro Sánchez forbade the United
+      States from using them, President Trump pointed out at an Oval Office news conference
+      that there was nothing that Spain really could do to prevent the U.S. air force
+      from using the Rota and Morón installations in southern Spain that the U.S. and
+      Spain share, but which remain under Spanish command. “And now Spain actually said
+      we can’t use their bases. And that’s all right, we don’t want to do it. We could
+      use the base if we want. We could just fly in and use it, nobody is going to tell
+      us not to use it.” What would Spain do to prevent it, after all? Shoot down the
+      U.S. aircraft? This is the problem confronting the Arab monarchies if they try
+      to deny U.S. access to their own U.S. bases and air space to fight Iran. What
+      can they do? Or more to the point, what may they be willing to do? Iran is insisting
+      that Qatar, the United Arab Republics, Bahrain, Kuwait, Saudi Arabia, Jordan and
+      other Near Eastern monarchies close all U.S. military bases in their kingdoms
+      and block U.S. use of their airspace and airports as a condition for not bombing
+      them and extending the war to the monarchic regimes themselves. Refusal – or inability
+      to prevent the U.S. from using bases in their countries – will lead Iran to force
+      a regime change. This would be easiest in countries in which Palestinians are
+      a large proportion of the labor force, as in Jordan. Iran has called for Shi’ite
+      populations in Jordan and other Near Eastern countries to overthrow their monarchies
+      so as to break away from U.S. control. There are rumors that Bahrain’s king has
+      left the country. Step #2: Ending the Middle East’s commercial and financial linkages
+      to the U.S. Arab monarchies are under further pressure to meet Iran’s ultimate
+      demand that they decouple their economies from that of the United States. Ever
+      since 1974 they have tied their economies to the United States. Most recently
+      Bahrain, the UAE and Saudi Arabia have sought to use their energy resources to
+      attract computer data centers, including Starlink and other systems that have
+      been associated with U.S. regime-change and military attacks on Iran. Opposing
+      U.S. plans to tightly integrate its non-oil sectors with the Arab OPEC Middle
+      East, Iran has announced that these installations are “legitimate targets” for
+      its drive to expel America from the region. One cloud computing manager suggested
+      that Iran’s AWS attack on Amazon’s data center was targeted because it was serving
+      military needs, much as Starlink (which the UAE is interested in financing) was
+      used in February in the U.S. attempt to mobilize demonstrations against Iran’s
+      government. Step #3: Ending the recycling of OPEC oil exports into U.S. dollar
+      holdings The most radical Iranian demand has been for its Arab neighbors to dedollarize
+      their economies. That is a key to preventing U.S. businesses from dominating their
+      economies and hence their governments. An Iranian official told CNN that Iran
+      has accused companies that buy U.S. government debt and invest in Treasury bonds
+      of being partners in the war against itself, because it sees them as financiers
+      of this war. “Tehran considers these companies and their managers in the region
+      as legitimate targets. These individuals are warned to declare their capital withdrawal
+      as soon as possible.” Saudi Arabia, UAE, Kuwait, and Qatar are indeed discussing
+      withdrawing from U.S. and other investments as Iran’s blocking of Hormuz has led
+      them to stop producing oil and LNG now that their storage capacity is full. Their
+      income from energy, shipping and tourism has stopped. The Gulf States are meeting
+      on Sunday, March 8, to discuss drawing down their $2 trillion in U.S. dollar investments
+      (mainly from Saudi Arabia). The threat is that this is an initial step to diversifying
+      OPEC investment outside of the U.S. dollar. In conjunction with U.S. surrender
+      of its military bases in the Middle East, such decoupling from the dollar would
+      greatly reduce U.S. control of Middle Eastern oil, and hence the strategy to use
+      its oil trade as a major chokepoint with which to coerce other countries into
+      adhering to Trump’s America First ruler-based order (his own whims, with no clear
+      rules). For the monarchies themselves, the changes demanded by Iran to end the
+      U.S. war against the Middle East would have an effect similar to the aftermath
+      of World War I: the end of monarchic regimes in many of the Arab countries whose
+      economies and political alliances have been based on an alliance with the United
+      States. And for starters, pressure is now on Saudi Arabia, Qatar, Egypt, Jordan,
+      Bahrain, Kuwait and United Arab Emirates that have agreed to join Trump’s Board
+      of Peace. Indonesia, with the world’s largest Islamic population, has just withdrawn
+      its earlier offer to provide 8000 troops to the Trump “peace plan” in Gaza, and
+      Iran is pressuring Arab monarchies to follow suit by withdrawing in protest against
+      U.S. policy. Will they? Ending U.S. access to bases in their territory runs the
+      risk that the United States may simply seize their dollar holdings to force them
+      to change their mind. But if they try to avoid being offensive to the United States,
+      they will leave themselves open to Iranian accusations that they are not really
+      opposing the war. A number of other policies could escalate the Iranian challenge
+      to the U.S. renunciation of the UN Charter’s rules of international law and the
+      civilized laws of war. Countries could bring charges at the ICC against Trump
+      for committing war crimes by starting an undeclared war against Iran, targeting
+      and killing its leaders and bombing civilian centers such as the girls’ school
+      that was one of the first targets? Collateral effects of Iran’s goal to drive
+      the United States out of the Middle East Pursuit of Iranian aims means a long
+      war. It will escalate as Israel and the U.S. military exhaust their supply of
+      anti-aircraft and missile defense, enabling Iran to launch its serious attack
+      on a scale that it stopped short of last June when it agreee to a ceasefire. In
+      coming weeks Iran will start using its most sophisticated missiles to attack Israel
+      and other U.S. proxies. There’s nowhere to put additional oil production now that
+      Iran has closed the Strait of Hormuz to all but its own ships, most of which are
+      carrying oil destined for China.. No ships are even trying to approach it, because
+      Lloyds of London is not issuing insurance policies. The U.S. military has recently
+      sunk or seized Russian ships carrying oil, but the soaring oil prices have led
+      it to permit such transfers in order to stem the world inflation. Treasury Secretary
+      Scott Bessent has said the Treasury Department is examining whether additional
+      sanctioned Russian crude shipments could be released to the market. “We may unsanction
+      other Russian oil,” he said. “There are hundreds of millions of barrels of sanctioned
+      crude on the water … by unsanctioning them, Treasury can create supply.” His remarks
+      follow a U.S. decision to issue a temporary 30-day waiver allowing Indian refiners
+      to purchase Russian oil in an effort to maintain global supply. Matters are not
+      so easily cured for liquified natural gas, which is exported mainly by Qatar.
+      Its storage tanks are full, forcing production to be shut down. Its LNG gas works
+      have been bombed and will have to be rebuilt and put back on line. That will take
+      two weeks plus an equal time to cool this gas properly. The last few days have
+      seen Iran attack two Saudi oil depots, and a drone hit a desalinization plant
+      in Bahrain in response to an attack launched from its territory on Iran’s desalinization
+      plant on Qeshm Island. Most of the Arab kingdoms depend on desalinization to a
+      much higher degree, topped by Saudi Arabia at 70% and Bahrain at 60%. That makes
+      Bahrain’s attack akin to the folly of fighting with bricks while living in a glass
+      house oneself. Throughout the world, rising oil and gas prices will force economies
+      to choose between having to cut back domestic social spending in order to pay
+      their dollar debts and higher oil-import prices, or declare a moratorium on servicing
+      their dollar debts falling due. This war is splitting the US/NATO West from the
+      Global Majority, by creating strains that Japan, Korean and even Europe can no
+      longer afford. A change in consciousness is occurring – and that is the context
+      for how countries will act (or be forced to act by their populations). The effect
+      of this U.S. attack has destroyed the narrative that has enabled U.S. diplomats
+      to demand subsidy and tribute for its global military spending and demands for
+      U.S. subsidy and special tribute to finance it. The predicate fiction is that
+      the world needs U.S. military support to protect it against Russia and China –
+      and now Iran, as if these countries pose a real threat to Europe and Asia. The
+      pretense of U.S. foreign policy is that the United States is protecting the rest
+      of the world by waging the present Cold War . But the consequences of its attack
+      on Iran show that the United States actually is the greatest threat to the security
+      of its allies. The backwash of America’s war on Iran thus has dispelled the great
+      enabling fiction underlying the claim that America is protecting the world from
+      attack by Russia, China and Iran. The United States has not been able to protect
+      the OPEC countries, and its attack has hurt Japan, South Korea and Europe, whose
+      gas prices have soared by 20% and are now on their way further upward today. Korea’s
+      stock market has plunged 18% in the last two days. All this is shifting support
+      for removing U.S. control of Near Eastern oil. Image by LuisFerreira4x4 from Pixabay
+      The post Iran’s Challenge: Rewire the Region first appeared on Michael Hudson
+      .'
+    one_sentence_summary: The article discusses the escalating tensions between Iran
+      and the U.S., highlighting Donald Trump's insistence on unconditional surrender
+      from Iran and his desire to influence the selection of its new leader, while Iranian
+      officials acknowledge that U.S. military actions will persist until American forces
+      are expelled from the Middle East.
+    paragraph_summary: The article from Counterpunch discusses the escalating conflict
+      between Iran and the United States, particularly in light of Donald Trump's recent
+      statements asserting that the U.S. will only accept unconditional surrender from
+      Iran and will play a role in determining Iran's leadership. Both nations recognize
+      that failure to decisively end the conflict will lead to ongoing cycles of violence,
+      with Iran aiming to expel U.S. influence from the Middle East. The piece suggests
+      that the war, which began on February 28, could mark the onset of World War III,
+      as it centers on critical issues regarding global oil and gas trade, particularly
+      the potential shift away from dollar-denominated transactions. The article highlights
+      the strategic implications of this conflict for U.S. financial interests and the
+      broader geopolitical landscape.
+    published: '2026-03-11T11:45:31+00:00'
   - title: Rentier Capitalism and the Illusion of Growth
     url: https://michael-hudson.com/2026/03/rentier-capitalism-and-the-illusion-of-growth/
     text: '12.04. 2025 KARL FITZGERALD: Welcome, ladies and gents, to the Hudson Roundtable,

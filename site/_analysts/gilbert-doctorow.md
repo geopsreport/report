@@ -7,17 +7,527 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As Europe grapples with mounting internal and external pressures, recent commentary from independent analysts highlights deepening dissatisfaction with EU leadership and growing calls for institutional reform. The latest developments focus on the fallout from sanctions, the ongoing energy crisis, and the broader implications for European stability.
+  Tensions in global geopolitics continue to escalate, with new developments in both the Middle East and Europe signaling a period of increased uncertainty and shifting alliances.
   
-  In a recent interview, **Harley Schlanger**—as cited by Gilbert Doctorow—criticized the European Union’s decision to sanction Jacques Baud, a move he sees as emblematic of a wider pattern of political repression within EU institutions. Schlanger advocates for similar sanctions against high-profile leaders such as Ursula von der Leyen and Kaja Kallas, arguing that their removal is necessary to restore democratic accountability and a proper separation of powers in Brussels. This sentiment reflects a broader frustration among analysts regarding the current direction of EU governance.
+  The most recent and notable shift comes from the European Union, where **Gilbert Doctorow** highlights Belgium’s Prime Minister Alexander De Wever’s decision to veto the European Commission’s proposal to confiscate Russian assets for a loan to Ukraine. This move, described as both courageous and independent, forced the EU to abandon its initial plan and seek alternatives. According to Doctorow, this is a rare instance of a European leader defying the prevailing consensus, and it may embolden other leaders to challenge the bloc’s dominant narrative. The majority opinion across sources is that De Wever’s stance could mark the beginning of more open dissent within the EU, especially regarding Ukraine policy and relations with Russia.
   
-  The energy crisis remains a central issue. According to **Gilbert Doctorow**, the ongoing shortages and soaring prices are “largely due to the incompetence of Ursula von der Leyen and her team.” Doctorow asserts that only a change in leadership can resolve the crisis, a view increasingly echoed across independent commentary. The EU’s recent emergency meetings have yet to yield effective solutions, and the risk of a prolonged economic downturn—potentially a depression—continues to loom over the continent.
+  Meanwhile, in the Middle East, the U.S. initiative to form a naval coalition in the Straits of Hormuz under Donald Trump’s leadership has met with growing skepticism, even among traditionally pro-American voices. In a recent debate on Republic TV, **Gilbert Doctorow** observed a “significant shift” in the panel’s attitude, noting that criticism of U.S. actions against Iran is now more mainstream. This reflects a broader trend of diminishing support for unilateral American military initiatives, particularly as the moral and human costs come under increased scrutiny.
   
-  Meanwhile, the situation in Ukraine and its reverberations across Europe persist as underlying factors. While not the focus of the most recent reports, earlier analysis by Doctorow notes that public sources, particularly Russian state media, remain crucial for understanding the pressures facing Vladimir Putin and the evolving dynamics of the war. This reliance on open-source intelligence is seen as vital for informed debate, especially as Western access to Russian decision-making circles remains limited.
+  On the global stage, skepticism remains high regarding the effectiveness of multilateral organizations like BRICS in challenging U.S. dominance. As Doctorow stated in a recent Press TV interview, “Iran and Russia are the only countries actively challenging American global dominance,” while the Global South lacks the military power to effect real change. This assessment is widely shared among independent analysts, suggesting that, despite diplomatic efforts, the balance of power remains firmly in Washington’s favor for now.
   
   **Trends and Predictions:**  
-  The consensus among independent analysts is that the EU’s current leadership is unlikely to survive the mounting crises without significant reform. There is a high chance of increasing public and political pressure for institutional change, particularly if the energy situation deteriorates further. As Doctorow puts it, there is “high chance” that only a fundamental restructuring of EU governance can avert a deeper economic and political crisis. The outlook for the coming weeks suggests growing instability within EU institutions and a continued search for alternative leadership and policy solutions.
+  - There is a high chance of further fragmentation within the EU as more leaders may follow De Wever’s example and resist policies perceived as detrimental to national interests or overly confrontational toward Russia.
+  - The U.S. is most definitely facing growing international isolation in its approach to Iran, with even erstwhile allies questioning the wisdom and morality of military escalation.
+  - The current geopolitical climate points to a period of uncertainty, with established alliances under strain and new blocs struggling to assert meaningful influence.
+  
+  In summary, the latest developments indicate a world order in flux, with both Europe and the Middle East experiencing shifts that could have lasting consequences for global stability.
 articles:
+  - title: 'Republic TV (India): Debate with Arnab – Trump Isolated on Hormuz Coalition'
+    url: https://gilbertdoctorow.com/2026/03/16/republic-tv-india-debate-with-arnab-trump-isolated-on-hormuz-coalition/
+    text: I was surprised and pleased to be invited onto the panel of debaters from
+      India, the USA, China brought together by India’s widely known host Arnab Goswani
+      to discuss Trump’s apparently failed initiative to form a joint naval force to
+      open the Straits of Hormuz and also the question of America taking or destroying
+      Iran’s export installations on Kharg Island. I was fortunate to be the second
+      panelist to speak coming on at about minute 18 on this podcast. Moreover, I was
+      allowed to speak my mind to the end without interruption.  However, I expect that
+      the Community will find nearly all of this podcast to be of interest because of
+      the behavior of the host, Goswani, who is distinctly unfriendly to, contemptuous
+      of Trump and by extension of the USA.  This is a 180 degree shift in position
+      from what I experienced during my first appearance on this Indian channel when
+      all but one of the panelists was very pro-American.
+    one_sentence_summary: The author participated in a debate hosted by Arnab Goswani,
+      discussing Trump's naval initiative in the Straits of Hormuz and U.S. actions
+      against Iran, noting a significant shift in the panel's attitude from pro-American
+      to critical of the U.S. and Trump.
+    paragraph_summary: The author reflects on their experience as a panelist in a debate
+      hosted by Arnab Goswani, discussing Trump's unsuccessful initiative to create
+      a joint naval force in the Straits of Hormuz and the potential U.S. actions against
+      Iran's export facilities. The author appreciated the opportunity to express their
+      views without interruption and noted a significant shift in the panel's tone compared
+      to their previous appearance, where most panelists were pro-American. In this
+      instance, Goswani's distinctly critical stance towards Trump and the U.S. marked
+      a stark contrast to the earlier pro-American sentiment, suggesting a change in
+      the political climate of the discussions.
+    published: '2026-03-16T19:18:43+00:00'
+  - title: 'Republic TV (India): Debate with Arnab – Trump Isolated on Hormuz Coalition'
+    url: https://gilbertdoctorow.com/2026/03/16/republic-tv-india-debate-with-arnab-trump-isolated-on-hormuz-coalition/
+    text: I was surprised and pleased to be invited onto the panel of debaters from
+      India, the USA, China brought together by India’s widely known host Arnab Goswani
+      to discuss Trump’s apparently failed initiative to form a joint naval force to
+      open the Straits of Hormuz and also the question of America taking or destroying
+      Iran’s export installations on Kharg Island. I was fortunate to be the second
+      panelist to speak coming on at about minute 18 on this podcast. Moreover, I was
+      allowed to speak my mind to the end without interruption.  However, I expect that
+      the Community will find nearly all of this podcast to be of interest because of
+      the behavior of the host, Goswani, who is distinctly unfriendly to, contemptuous
+      of Trump and by extension of the USA.  This is a 180 degree shift in position
+      from what I experienced during my first appearance on this Indian channel when
+      all but one of the panelists was very pro-American.
+    one_sentence_summary: The author participated in a debate hosted by Arnab Goswani,
+      discussing Trump's naval initiative in the Straits of Hormuz and U.S. actions
+      against Iran, noting a significant shift in the panel's attitude from pro-American
+      to critical of the U.S. and Trump.
+    paragraph_summary: The author reflects on their experience as a panelist in a debate
+      hosted by Arnab Goswani, discussing Trump's unsuccessful initiative to create
+      a joint naval force in the Straits of Hormuz and the potential U.S. actions against
+      Iran's export facilities. The author appreciated the opportunity to express their
+      views without interruption and noted a significant shift in the panel's tone compared
+      to their previous appearance, where most panelists were pro-American. In this
+      instance, Goswani's distinctly critical stance towards Trump and the U.S. marked
+      a stark contrast to the earlier pro-American sentiment, suggesting a change in
+      the political climate of the discussions.
+    published: '2026-03-16T19:18:43+00:00'
+  - title: Add Belgium’s Prime Minister Bart De Wever to the short list of European
+      leaders possessing both an independent mind and courage to stand his ground
+    url: https://gilbertdoctorow.com/2026/03/16/add-belgiums-prime-minister-bart-de-wever-to-the-short-list-of-european-leaders-possessing-both-an-independent-mind-and-courage-to-stand-his-ground/
+    text: 'Last December, Belgium’s prime minister went up against European Commission
+      President and German Chancellor Friedrich Merz at the monthly meeting of the European
+      Council, the executive body consisting of the heads of government of all EU Member
+      States, and flatly rejected the Commission’s plan to confiscate Russian state
+      assets held in Euroclear (Belgium) for the purpose of collateralizing a 95 billion
+      euro loan to Kiev to continue the war for a couple more years. The fur flew in
+      all directions, other EU leaders were aghast, but De Wever did what our celebrated
+      heroes of common sense, Viktor Orban of Hungary and Robert Fico of Slovakia had
+      never dared to do: veto an anti-Russian measure that was put to a vote of the
+      Members. De Wever attracted the support of Malta and a couple of other minor EU
+      states, but then was joined by Giorgia Meloni of Italy, which put paid to von
+      der Leyen’s insane plans. In the end, von der Leyen and Merz were compelled to
+      proceed with their Plan B, which was for the EU to assign reserves in its own
+      budget for purposes of collateral, a solution which would make it clear from the
+      very outset that financing Ukraine would come at a direct and immediate cost to
+      the taxpayers of Europe, where that notion is highly unpopular. I took my hat
+      off to De Wever in December. Now I do so again based on a news item on page one
+      of today’s Financial Times: “Belgian Prime Minister calls for EU to normalise
+      relations with Russia.” This article draws upon an interview which De Wever gave
+      to the French-speaking financial newspaper Echo de la Bourse in which he calls
+      upon his European colleagues to acknowledge that Europe cannot defeat Russia economically
+      or militarily without massive support from the USA which is not forthcoming. Accordingly,
+      it should reconcile itself with the necessity to strike a deal with Russia and
+      resume its access to Russian hydrocarbons. In its second-paragraph, the FT identifies
+      De Wever as “a rightwing Flemish nationalist” which might smack of the populism
+      and extremism that its readership may be presumed to detest.  In fact, De Wever
+      is a follower of Thatcherite economics and a ‘pocketbook’ as opposed to Romantic
+      nationalist. His first concern has always been the prosperity of Belgian citizens
+      which can be best served by pragmatism as opposed to the ideological posturing
+      so beloved by the European Commission and a large majority of the leaders in other
+      EU Member States. Unlike Fico and Orban, De Wever has been careful to maintain
+      the fiction of solidarity with Ukraine in its just cause against Russia. I sincerely
+      doubt that his public statements in this vein reflect his inner convictions on
+      who is right and who is wrong in the Russia-Ukraine war, but then again the public
+      statements of many EU leaders in favor of Ukraine do not reflect their inner thoughts,
+      as De Wever says openly in this interview. The FT article takes the trouble to
+      inform us that De Wever’s coalition partner, his foreign minister, Maxime Prévost,
+      of the center-left francophone party Les Engagés, has criticized the Prime Minister
+      for his advocacy of normalized relations with Russia. Per Prévost, Europe must
+      first be invited to the negotiating table and a peace treaty prepared before it
+      can relent on the anti-Russian sanctions. Of course, that is combining the irreconcilable,
+      because the EU’s presence at the negotiating table would only serve to sabotage
+      those talks.  I point out that not only Prévost but all the francophone parties
+      of Belgium are deeply anti-Russian. These parties have traditionally looked to
+      Paris for a cue on all political issues, and we all know where Emmanuel Macron
+      obstinately stands on peace with Russia and normalization of relations. As a 46
+      year long resident of Belgium who always looked up to the French speaking elites
+      in Brussels, who never took the time to speak Flemish properly, and who looked
+      skeptically at the seemingly provincial Flemish politicians in the North, I admit
+      that I was deeply mistaken as to where genuine sagesse is lodged. ©Gilbert Doctorow,
+      2026'
+    one_sentence_summary: Belgium's Prime Minister Alexander De Wever vetoed the European
+      Commission's proposal to confiscate Russian assets for a loan to Ukraine, defying
+      other EU leaders and ultimately forcing a shift to an alternative plan.
+    paragraph_summary: In a recent article, Belgium's Prime Minister, Bart De Wever,
+      made headlines for his bold stance against the European Commission's plan to confiscate
+      Russian state assets to fund a loan for Ukraine, a move he vetoed during a European
+      Council meeting, garnering support from several EU leaders, including Italy's
+      Giorgia Meloni. This opposition forced a shift in strategy, requiring the EU to
+      use its own budget reserves for collateral, a decision unpopular among European
+      taxpayers. De Wever has since called for a normalization of relations with Russia,
+      arguing that Europe cannot defeat Russia without significant U.S. support, which
+      is lacking, and suggesting that Europe should seek to strike a deal with Russia
+      to regain access to its hydrocarbons. The Financial Times described him as a "rightwing
+      Flemish nationalist," highlighting his controversial yet pragmatic approach to
+      European foreign policy.
+    published: '2026-03-16T14:34:20+00:00'
+  - title: Add Belgium’s Prime Minister Bart De Wever to the short list of European
+      leaders possessing both an independent mind and courage to stand his ground
+    url: https://gilbertdoctorow.com/2026/03/16/add-belgiums-prime-minister-bart-de-wever-to-the-short-list-of-european-leaders-possessing-both-an-independent-mind-and-courage-to-stand-his-ground/
+    text: 'Last December, Belgium’s prime minister went up against European Commission
+      President and German Chancellor Friedrich Merz at the monthly meeting of the European
+      Council, the executive body consisting of the heads of government of all EU Member
+      States, and flatly rejected the Commission’s plan to confiscate Russian state
+      assets held in Euroclear (Belgium) for the purpose of collateralizing a 95 billion
+      euro loan to Kiev to continue the war for a couple more years. The fur flew in
+      all directions, other EU leaders were aghast, but De Wever did what our celebrated
+      heroes of common sense, Viktor Orban of Hungary and Robert Fico of Slovakia had
+      never dared to do: veto an anti-Russian measure that was put to a vote of the
+      Members. De Wever attracted the support of Malta and a couple of other minor EU
+      states, but then was joined by Giorgia Meloni of Italy, which put paid to von
+      der Leyen’s insane plans. In the end, von der Leyen and Merz were compelled to
+      proceed with their Plan B, which was for the EU to assign reserves in its own
+      budget for purposes of collateral, a solution which would make it clear from the
+      very outset that financing Ukraine would come at a direct and immediate cost to
+      the taxpayers of Europe, where that notion is highly unpopular. I took my hat
+      off to De Wever in December. Now I do so again based on a news item on page one
+      of today’s Financial Times: “Belgian Prime Minister calls for EU to normalise
+      relations with Russia.” This article draws upon an interview which De Wever gave
+      to the French-speaking financial newspaper Echo de la Bourse in which he calls
+      upon his European colleagues to acknowledge that Europe cannot defeat Russia economically
+      or militarily without massive support from the USA which is not forthcoming. Accordingly,
+      it should reconcile itself with the necessity to strike a deal with Russia and
+      resume its access to Russian hydrocarbons. In its second-paragraph, the FT identifies
+      De Wever as “a rightwing Flemish nationalist” which might smack of the populism
+      and extremism that its readership may be presumed to detest.  In fact, De Wever
+      is a follower of Thatcherite economics and a ‘pocketbook’ as opposed to Romantic
+      nationalist. His first concern has always been the prosperity of Belgian citizens
+      which can be best served by pragmatism as opposed to the ideological posturing
+      so beloved by the European Commission and a large majority of the leaders in other
+      EU Member States. Unlike Fico and Orban, De Wever has been careful to maintain
+      the fiction of solidarity with Ukraine in its just cause against Russia. I sincerely
+      doubt that his public statements in this vein reflect his inner convictions on
+      who is right and who is wrong in the Russia-Ukraine war, but then again the public
+      statements of many EU leaders in favor of Ukraine do not reflect their inner thoughts,
+      as De Wever says openly in this interview. The FT article takes the trouble to
+      inform us that De Wever’s coalition partner, his foreign minister, Maxime Prévost,
+      of the center-left francophone party Les Engagés, has criticized the Prime Minister
+      for his advocacy of normalized relations with Russia. Per Prévost, Europe must
+      first be invited to the negotiating table and a peace treaty prepared before it
+      can relent on the anti-Russian sanctions. Of course, that is combining the irreconcilable,
+      because the EU’s presence at the negotiating table would only serve to sabotage
+      those talks.  I point out that not only Prévost but all the francophone parties
+      of Belgium are deeply anti-Russian. These parties have traditionally looked to
+      Paris for a cue on all political issues, and we all know where Emmanuel Macron
+      obstinately stands on peace with Russia and normalization of relations. As a 46
+      year long resident of Belgium who always looked up to the French speaking elites
+      in Brussels, who never took the time to speak Flemish properly, and who looked
+      skeptically at the seemingly provincial Flemish politicians in the North, I admit
+      that I was deeply mistaken as to where genuine sagesse is lodged. ©Gilbert Doctorow,
+      2026'
+    one_sentence_summary: Belgium's Prime Minister Alexander De Wever vetoed the European
+      Commission's proposal to confiscate Russian assets for a loan to Ukraine, defying
+      other EU leaders and ultimately forcing a shift to an alternative plan.
+    paragraph_summary: In a recent article, Belgium's Prime Minister, Bart De Wever,
+      made headlines for his bold stance against the European Commission's plan to confiscate
+      Russian state assets to fund a loan for Ukraine, a move he vetoed during a European
+      Council meeting, garnering support from several EU leaders, including Italy's
+      Giorgia Meloni. This opposition forced a shift in strategy, requiring the EU to
+      use its own budget reserves for collateral, a decision unpopular among European
+      taxpayers. De Wever has since called for a normalization of relations with Russia,
+      arguing that Europe cannot defeat Russia without significant U.S. support, which
+      is lacking, and suggesting that Europe should seek to strike a deal with Russia
+      to regain access to its hydrocarbons. The Financial Times described him as a "rightwing
+      Flemish nationalist," highlighting his controversial yet pragmatic approach to
+      European foreign policy.
+    published: '2026-03-16T14:34:20+00:00'
+  - title: How shall we describe Trump’s war on Iran?
+    url: https://gilbertdoctorow.com/2026/03/14/how-shall-we-describe-trumps-war-on-iran/
+    text: Is it ‘stupid,’ or ‘idiotic’ or ‘doomed to fail’? Or is it something entirely
+      different:  wanton murder? moral depravity? and the like… Political scientists
+      generally limit their commentary on current events, however tragic or drama-filled,
+      to what is quantifiable, to effectiveness of the given strategy and likely outcomes. 
+      Moral judgment is by nature outside their purview.  And so it is no surprise to
+      me that on the most widely watched youtube platforms of commentary in the past
+      week, my colleagues focus their minds on how realizable Donald Trump’s stated
+      objectives in his war of choice against Iran may be. Does the United States have
+      enough munitions and air defense missiles for a prolonged fight?  Is it possible
+      to force open the Straits of Hormuz? Can Trump withstand the growing threat of
+      political disaster in the November elections if gasolene prices continue to rise
+      at the current rate? In this brief essay, I put aside my degree in political science
+      and speak to you as I would around a dinner table, as your uncle or grandfather.
+      And I do not hesitate to introduce judgments grounded in Christian values rather
+      than in efficacy. Readers of my writings going back several years may recall that
+      in the autumn of 2017 I called for the impeachment of Donald Trump following his
+      outrageous speech to the UN General Assembly in which he spoke of wiping North
+      Korea off the face of the earth. Of course, Trump’s actions against North Korea
+      never went beyond bringing a U.S. aircraft carrier to its shores. The realization
+      that Pyongyang had several nuclear bombs and missiles for their delivery persuaded
+      Trump to back off. Iran, by contrast, has no nuclear weapon and now we see the
+      consequences:  Trump’s savage attack on the country, his decapitation strike on
+      its civilian and military leadership, his bombing of Tehran and other cities across
+      that country, and his step-by-step implementation of threats to utterly destroy
+      the nation. The only thing worse than Trump himself is the actions and talk of
+      his Secretary of War, Pete Hegseth, who is the embodiment of a bloody serial killer.
+      Of course, the obscene behavior of this American President is only the culmination
+      of a process that in recent history began with George W. Bush’s invasion of Iraq
+      in 2003. The world hailed the election of Barack Obama in 2008 and he was awarded
+      a Nobel Peace Prize solely for the fact that he was not George W. Bush and there
+      was the widely held expectation that Obama would bring the USA back into the civilized
+      world.  For that to happen, Obama should have called for a judicial inquiry into
+      the crimes against humanity committed by Bush and most particularly by his Vice
+      President Dick Cheney, who was the evil genius behind so many of the abuses, both
+      domestically and in foreign policy of the Bush administration.  However, from
+      the very first day in office when the Obamas allowed themselves to be hosted by
+      the Bushes and taken around the White House rooms that would be their new residence
+      it was clear that there would be no accountability for the outgoing criminals
+      at the apex of the U.S. government. ‘Accountability’ is a word that we have heard
+      used repeatedly in public discourse in the past week or so of this war.  Trump
+      violated the Constitution and federal law by not going to Congress for approval
+      of his planned war on Iran. He and his team were not being held accountable, i.e.
+      answerable for their actions. However, I maintain that this is too indeterminate
+      a censure.  The real rot in the upper levels of the U.S. government is properly
+      identified by the Russians as ‘безнаказанность’ or ‘impunity,’ going unpunished. 
+      No one has been forced to pay for their crimes. To be sure, this is not a uniquely
+      American problem.  Europe has its share of unpunished violators of international
+      law, leaders or followers in waging wars of aggression.  So far only one devil
+      among them was properly brought to justice and sentenced to prison, from which
+      he is presently temporarily let go free– Nicolas Sarkozy, who faces a return to
+      prison shortly for crimes that seem petty insofar as they relate to illegally
+      taking electoral contributions from Muammar Gaddafi, but in truth led to France’s
+      leading the way to Gaddafi’s eventual barbaric murder. In the past week, Pete
+      Hegseth has made public statements about the launch of the war on Iran, about
+      the bombing of the elementary school and killing of 165 young female students
+      on the first day of the war. If these statements were to be released to a Nuremburg
+      style tribunal they could rightfully end in his being sentenced to public hanging. 
+      Donald Trump’s public statements have been similarly outrageous in demonstrating
+      utter contempt for human life. If this war on Iran continues to go badly for American
+      forces and for the global economy, there is the prospect of Trump losing Congress
+      and essentially losing all power in November.  That is not quite the same as a
+      Nuremburg trial, but it does chip away at impunity. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The article critiques political scientists for focusing solely
+      on the quantifiable aspects of Donald Trump's potential military actions against
+      Iran, while neglecting the moral implications and the human cost of such decisions.
+    paragraph_summary: The article critiques the political analysis surrounding Donald
+      Trump's aggressive military strategies against Iran, contrasting it with a moral
+      perspective grounded in Christian values. While political scientists often focus
+      on the quantifiable aspects of such actions—like military logistics and potential
+      outcomes—the author emphasizes the ethical implications of Trump's decisions,
+      which include severe attacks on Iran's leadership and infrastructure. The author
+      reflects on past calls for Trump's impeachment due to his rhetoric and actions,
+      suggesting that unlike North Korea, which deterred Trump with its nuclear capabilities,
+      Iran's lack of nuclear weapons has led to increasingly brutal military tactics.
+      Ultimately, the piece argues for a moral evaluation of Trump's actions, highlighting
+      the dangers of prioritizing strategy over humanity.
+    published: '2026-03-14T19:24:20+00:00'
+  - title: How shall we describe Trump’s war on Iran?
+    url: https://gilbertdoctorow.com/2026/03/14/how-shall-we-describe-trumps-war-on-iran/
+    text: Is it ‘stupid,’ or ‘idiotic’ or ‘doomed to fail’? Or is it something entirely
+      different:  wanton murder? moral depravity? and the like… Political scientists
+      generally limit their commentary on current events, however tragic or drama-filled,
+      to what is quantifiable, to effectiveness of the given strategy and likely outcomes. 
+      Moral judgment is by nature outside their purview.  And so it is no surprise to
+      me that on the most widely watched youtube platforms of commentary in the past
+      week, my colleagues focus their minds on how realizable Donald Trump’s stated
+      objectives in his war of choice against Iran may be. Does the United States have
+      enough munitions and air defense missiles for a prolonged fight?  Is it possible
+      to force open the Straits of Hormuz? Can Trump withstand the growing threat of
+      political disaster in the November elections if gasolene prices continue to rise
+      at the current rate? In this brief essay, I put aside my degree in political science
+      and speak to you as I would around a dinner table, as your uncle or grandfather.
+      And I do not hesitate to introduce judgments grounded in Christian values rather
+      than in efficacy. Readers of my writings going back several years may recall that
+      in the autumn of 2017 I called for the impeachment of Donald Trump following his
+      outrageous speech to the UN General Assembly in which he spoke of wiping North
+      Korea off the face of the earth. Of course, Trump’s actions against North Korea
+      never went beyond bringing a U.S. aircraft carrier to its shores. The realization
+      that Pyongyang had several nuclear bombs and missiles for their delivery persuaded
+      Trump to back off. Iran, by contrast, has no nuclear weapon and now we see the
+      consequences:  Trump’s savage attack on the country, his decapitation strike on
+      its civilian and military leadership, his bombing of Tehran and other cities across
+      that country, and his step-by-step implementation of threats to utterly destroy
+      the nation. The only thing worse than Trump himself is the actions and talk of
+      his Secretary of War, Pete Hegseth, who is the embodiment of a bloody serial killer.
+      Of course, the obscene behavior of this American President is only the culmination
+      of a process that in recent history began with George W. Bush’s invasion of Iraq
+      in 2003. The world hailed the election of Barack Obama in 2008 and he was awarded
+      a Nobel Peace Prize solely for the fact that he was not George W. Bush and there
+      was the widely held expectation that Obama would bring the USA back into the civilized
+      world.  For that to happen, Obama should have called for a judicial inquiry into
+      the crimes against humanity committed by Bush and most particularly by his Vice
+      President Dick Cheney, who was the evil genius behind so many of the abuses, both
+      domestically and in foreign policy of the Bush administration.  However, from
+      the very first day in office when the Obamas allowed themselves to be hosted by
+      the Bushes and taken around the White House rooms that would be their new residence
+      it was clear that there would be no accountability for the outgoing criminals
+      at the apex of the U.S. government. ‘Accountability’ is a word that we have heard
+      used repeatedly in public discourse in the past week or so of this war.  Trump
+      violated the Constitution and federal law by not going to Congress for approval
+      of his planned war on Iran. He and his team were not being held accountable, i.e.
+      answerable for their actions. However, I maintain that this is too indeterminate
+      a censure.  The real rot in the upper levels of the U.S. government is properly
+      identified by the Russians as ‘безнаказанность’ or ‘impunity,’ going unpunished. 
+      No one has been forced to pay for their crimes. To be sure, this is not a uniquely
+      American problem.  Europe has its share of unpunished violators of international
+      law, leaders or followers in waging wars of aggression.  So far only one devil
+      among them was properly brought to justice and sentenced to prison, from which
+      he is presently temporarily let go free– Nicolas Sarkozy, who faces a return to
+      prison shortly for crimes that seem petty insofar as they relate to illegally
+      taking electoral contributions from Muammar Gaddafi, but in truth led to France’s
+      leading the way to Gaddafi’s eventual barbaric murder. In the past week, Pete
+      Hegseth has made public statements about the launch of the war on Iran, about
+      the bombing of the elementary school and killing of 165 young female students
+      on the first day of the war. If these statements were to be released to a Nuremburg
+      style tribunal they could rightfully end in his being sentenced to public hanging. 
+      Donald Trump’s public statements have been similarly outrageous in demonstrating
+      utter contempt for human life. If this war on Iran continues to go badly for American
+      forces and for the global economy, there is the prospect of Trump losing Congress
+      and essentially losing all power in November.  That is not quite the same as a
+      Nuremburg trial, but it does chip away at impunity. ©Gilbert Doctorow, 2026
+    one_sentence_summary: The article critiques political scientists for focusing solely
+      on the quantifiable aspects of Donald Trump's potential military actions against
+      Iran, while neglecting the moral implications and the human cost of such decisions.
+    paragraph_summary: The article critiques the political analysis surrounding Donald
+      Trump's aggressive military strategies against Iran, contrasting it with a moral
+      perspective grounded in Christian values. While political scientists often focus
+      on the quantifiable aspects of such actions—like military logistics and potential
+      outcomes—the author emphasizes the ethical implications of Trump's decisions,
+      which include severe attacks on Iran's leadership and infrastructure. The author
+      reflects on past calls for Trump's impeachment due to his rhetoric and actions,
+      suggesting that unlike North Korea, which deterred Trump with its nuclear capabilities,
+      Iran's lack of nuclear weapons has led to increasingly brutal military tactics.
+      Ultimately, the piece argues for a moral evaluation of Trump's actions, highlighting
+      the dangers of prioritizing strategy over humanity.
+    published: '2026-03-14T19:24:20+00:00'
+  - title: Press TV (Iran):  alive, well and broadcasting
+    url: https://gilbertdoctorow.com/2026/03/12/press-tv-iran-alive-well-and-broadcasting/
+    text: Last evening I gave a half hour live on-air interview to Press TV (Iran) 
+      that I will not be posting here because under  present war conditions their staff
+      is lucky to be alive and working. They surely do not have free time to edit and
+      upload podcasts.  But I did have the presence of mind to present some points in
+      that half-hour which I wish to share with the Community in this brief essay, namely
+      that BRICS is just another talking shop that counts for nothing in the world of
+      geopolitics, that the Global South has no military forces, no Hard Power to speak
+      of, that in all the world there are presently only two countries actively fighting
+      to bring down American global hegemony and usher in a fairer, multipolar world
+      –  Iran and Russia. ***** Stupid is as stupid does. That has been one of my core
+      analytical tools over the years. By this I mean that diplomas from prestige universities
+      do not necessarily tell us anything about a given person in positions of authority.
+      Yale law degrees did not ensure intelligent, effective behavior in James Sullivan
+      or Tony Blinken during their service in the Biden administration. On the contrary,
+      they espoused and implemented stupid, ignorant and destructive policies because
+      they lacked relevant knowledge, life experience and judgment. Similarly, Power
+      is as Power does. A country with enormous GDP, a nuclear arsenal and otherwise
+      well- armed is not a Great Power if its top officials behave like underlings (to
+      quote Shakespeare) and seek to engratiate themselves with bullies, displaying
+      a lack of dignity and self-respect. I have discussed the issues of Power, otherwise
+      called Deterrence with professor Glenn Diesen in past months when speaking critically,
+      in particular, about president Putin. A couple of days ago on ‘Judging Freedom,’
+      I remarked that the recent behavior of chairman Xi of China has been even more
+      depressing. His repeated invitation to Donald Trump to come to Beijing later this
+      spring is unseemly, in very poor taste coming so soon after Trump launched his
+      barbarous war of aggression on Iran in the midst of negotiations which seemed
+      so promising. Now let me add to this List of Shame prime minister Modi of India
+      who a couple of months ago caved in to U.S. pressure to stop buying Russian oil.
+      Why? To avoid 50% tariffs on a small part of Indian trade with the U.S. which
+      otherwise is dominated by Indian IT services which are irreplaceable for the US? 
+      The consequence was to publicly invalidate the value of BRICS as the creator of
+      a new, more just world order. Notwithstanding my recent criticism of Putin’s ‘gently,
+      gently’ approach to his war on Ukraine, he is fighting, he is smashing the combined
+      forces of NATO in and around Ukraine. Russia is thereby doing the world an invaluable
+      service.  Meanwhile, Iran’s fight for survival may be even more salutary for a
+      new world order if it is carried to its logical conclusion and inflicts a humiliating
+      defeat on Trump that brings him down, results in ‘regime change’ in the November
+      elections. Time will tell.  In the meantime, I say ‘hats off’ to the journalists
+      at Press TV ©Gilbert Doctorow, 2026
+    one_sentence_summary: In a recent interview with Press TV, the author expressed
+      skepticism about the effectiveness of BRICS in geopolitics, highlighted the lack
+      of military power in the Global South, and identified Iran and Russia as the only
+      countries actively challenging American global dominance.
+    paragraph_summary: In a recent live interview with Press TV, the speaker expressed
+      skepticism about the effectiveness of BRICS as a geopolitical entity, arguing
+      that the Global South lacks military power and that only Iran and Russia are actively
+      challenging American hegemony. The speaker criticized the notion that prestigious
+      academic credentials guarantee effective leadership, citing examples from the
+      Biden administration to illustrate how such qualifications do not equate to sound
+      decision-making. Furthermore, the speaker emphasized that true power is demonstrated
+      through actions and dignity, criticizing leaders like Xi Jinping for their seemingly
+      subservient behavior towards figures like Donald Trump, which undermines their
+      countries' status as great powers.
+    published: '2026-03-12T14:25:56+00:00'
+  - title: Press TV (Iran):  alive, well and broadcasting
+    url: https://gilbertdoctorow.com/2026/03/12/press-tv-iran-alive-well-and-broadcasting/
+    text: Last evening I gave a half hour live on-air interview to Press TV (Iran) 
+      that I will not be posting here because under  present war conditions their staff
+      is lucky to be alive and working. They surely do not have free time to edit and
+      upload podcasts.  But I did have the presence of mind to present some points in
+      that half-hour which I wish to share with the Community in this brief essay, namely
+      that BRICS is just another talking shop that counts for nothing in the world of
+      geopolitics, that the Global South has no military forces, no Hard Power to speak
+      of, that in all the world there are presently only two countries actively fighting
+      to bring down American global hegemony and usher in a fairer, multipolar world
+      –  Iran and Russia. ***** Stupid is as stupid does. That has been one of my core
+      analytical tools over the years. By this I mean that diplomas from prestige universities
+      do not necessarily tell us anything about a given person in positions of authority.
+      Yale law degrees did not ensure intelligent, effective behavior in James Sullivan
+      or Tony Blinken during their service in the Biden administration. On the contrary,
+      they espoused and implemented stupid, ignorant and destructive policies because
+      they lacked relevant knowledge, life experience and judgment. Similarly, Power
+      is as Power does. A country with enormous GDP, a nuclear arsenal and otherwise
+      well- armed is not a Great Power if its top officials behave like underlings (to
+      quote Shakespeare) and seek to engratiate themselves with bullies, displaying
+      a lack of dignity and self-respect. I have discussed the issues of Power, otherwise
+      called Deterrence with professor Glenn Diesen in past months when speaking critically,
+      in particular, about president Putin. A couple of days ago on ‘Judging Freedom,’
+      I remarked that the recent behavior of chairman Xi of China has been even more
+      depressing. His repeated invitation to Donald Trump to come to Beijing later this
+      spring is unseemly, in very poor taste coming so soon after Trump launched his
+      barbarous war of aggression on Iran in the midst of negotiations which seemed
+      so promising. Now let me add to this List of Shame prime minister Modi of India
+      who a couple of months ago caved in to U.S. pressure to stop buying Russian oil.
+      Why? To avoid 50% tariffs on a small part of Indian trade with the U.S. which
+      otherwise is dominated by Indian IT services which are irreplaceable for the US? 
+      The consequence was to publicly invalidate the value of BRICS as the creator of
+      a new, more just world order. Notwithstanding my recent criticism of Putin’s ‘gently,
+      gently’ approach to his war on Ukraine, he is fighting, he is smashing the combined
+      forces of NATO in and around Ukraine. Russia is thereby doing the world an invaluable
+      service.  Meanwhile, Iran’s fight for survival may be even more salutary for a
+      new world order if it is carried to its logical conclusion and inflicts a humiliating
+      defeat on Trump that brings him down, results in ‘regime change’ in the November
+      elections. Time will tell.  In the meantime, I say ‘hats off’ to the journalists
+      at Press TV ©Gilbert Doctorow, 2026
+    one_sentence_summary: In a recent interview with Press TV, the author expressed
+      skepticism about the effectiveness of BRICS in geopolitics, highlighted the lack
+      of military power in the Global South, and identified Iran and Russia as the only
+      countries actively challenging American global dominance.
+    paragraph_summary: In a recent live interview with Press TV, the speaker expressed
+      skepticism about the effectiveness of BRICS as a geopolitical entity, arguing
+      that the Global South lacks military power and that only Iran and Russia are actively
+      challenging American hegemony. The speaker criticized the notion that prestigious
+      academic credentials guarantee effective leadership, citing examples from the
+      Biden administration to illustrate how such qualifications do not equate to sound
+      decision-making. Furthermore, the speaker emphasized that true power is demonstrated
+      through actions and dignity, criticizing leaders like Xi Jinping for their seemingly
+      subservient behavior towards figures like Donald Trump, which undermines their
+      countries' status as great powers.
+    published: '2026-03-12T14:25:56+00:00'
+  - title: Judging Freedom edition of 11 March 2026
+    url: https://gilbertdoctorow.com/2026/03/11/judging-freedom-edition-of-11-march-2026/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand reports from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia and has had
+      a diverse career in business and academia, including leadership roles in literary
+      prizes and scholarly institutions. He currently resides in Brussels.
+    published: '2026-03-11T12:45:44+00:00'
   - title: Interview with Harley Schlanger, Schiller Institute/LaRouche movement on
       the barbarians who now rule Europe
     url: https://gilbertdoctorow.com/2026/03/10/interview-with-harley-schlanger-schiller-institute-larouche-movement-on-the-barbarians-who-now-rule-europe/

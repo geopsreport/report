@@ -7,14 +7,1546 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The ongoing Middle East conflict has entered a new phase of strategic deadlock, with the United States and Iran locked in a prolonged confrontation that neither side appears able to decisively resolve. As **Elijah J. Magnier** notes, former President Donald Trump’s expectation that Iran would be cowed by U.S. military threats and rapid strikes has proven misguided. Instead, Iran has demonstrated resilience and responded with its own retaliatory measures, leaving the U.S. administration unable to claim a clear victory or exit the conflict without political cost.
+  The Middle East remains locked in a protracted and increasingly complex confrontation, as the campaign initially launched by the U.S. and Israel to decisively weaken Iran has instead exposed the limits of military power and the resilience of Tehran’s response. As **Elijah J. Magnier** notes, the conflict—once envisioned as a swift operation—has evolved into an “endless war,” with Iran’s missile strikes on U.S. military installations across the region underlining the failure of the original strategy and the inability of coercive force to reshape the political order.
   
-  This impasse is compounded by differing perceptions of the conflict’s stakes. While regional actors such as Iran, Israel, and Hezbollah view the war as existential—fighting for their survival and fundamental interests—the United States approaches it as a matter of influence and regional posture. This divergence, highlighted by **Elijah J. Magnier**, has led to mismatched strategies and a persistent risk of further escalation, as local actors are willing to absorb greater costs and take bolder actions.
+  Recent developments highlight Iran’s capacity for sustained retaliation. The latest wave of Iranian missile attacks, targeting key American assets in the Middle East, demonstrates not only operational reach but also a calculated effort to impose costs and signal deterrence. According to **Magnier**, these actions have “revealed the resilience of [Iran] and the limitations of military coercion in readjusting the regional political balance.” This has forced a reassessment among Israeli and American policymakers, who had underestimated both the depth of Iranian resolve and the complexity of the regional power structure.
   
-  Recent weeks have also seen increased coordination between Iran and Hezbollah, including joint missile attacks on Israeli targets, underscoring the depth of their military alliance and the regionalization of the conflict. Israel, for its part, had prepared for a decisive blow against Hezbollah, believing the group was weakened. However, the aftermath has shown that such calculations underestimated Hezbollah’s capacity for sustained resistance and the broader consequences of escalation.
+  The broader impact is a significant shift in perceptions of U.S. power. The expansion of the battlefield—now encompassing shadowy strikes and ambiguous incidents in the Gulf—has eroded the aura of American dominance. As previously reported, unclaimed attacks and the threat of further escalation have introduced new uncertainties for regional actors and global markets, particularly given the Gulf’s centrality to the world energy system.
   
-  Looking ahead, the prevailing trend is one of continued stalemate and high-intensity, low-resolution conflict. The majority of analysts, including **Elijah J. Magnier**, assess with high confidence that neither the U.S. nor its regional adversaries are positioned to achieve a decisive breakthrough in the near term. The risk of miscalculation and further escalation remains significant, but a negotiated settlement appears unlikely as long as the existential stakes for regional actors persist. I guarantee that the strategic deadlock will continue, with periodic escalations and no clear resolution in sight.
+  Looking ahead, the prevailing trend is one of enduring attrition and strategic ambiguity. There is a high chance that the conflict will remain unresolved in the near term, with neither side able to achieve a decisive breakthrough. I guarantee that Iran’s leadership will continue to pursue its established course, leveraging both military and economic tools—especially its influence over Gulf oil flows—to maintain pressure and deter adversaries. The risk of wider escalation persists, but the most likely scenario is a drawn-out confrontation marked by periodic flare-ups and ongoing instability.
 articles:
+  - title: 'Underestimating Tehran: How Netanyahu and Trump Turned Quick Victory into
+      Endless War'
+    url: https://ejmagnier.com/2026/03/17/underestimating-tehran-how-netanyahu-and-trump-turned-quick-victory-into-endless-war/
+    text: By Elijah J. Magnier – When Israeli air raid sirens sounded again in 2026
+      following Iranian missile launches targeting military facilities and US installations
+      across the Middle East, the war’s central paradox became increasingly visible.
+      What had initially been presented as a decisive campaign designed to ‘change the
+      regime’, cripple Iran’s military capabilities, destroy its nuclear and missile
+      programs and deter its regional influence has instead evolved into a far more
+      complex strategic confrontation. The conflict has revealed not only the resilience
+      of Iranian retaliation but also the limits of military coercion in reshaping the
+      region’s political balance. Unlike Israeli Prime Minister Benjamin Netanyahu,
+      it is now widely acknowledged that President Donald Trump underestimated both
+      Iran’s capacity and its willingness to retaliate and sustain a prolonged confrontation.
+      Israel encouraged and supported the joint military campaign with the expectation
+      that Iranian retaliation against Israel and multiple US bases across the Middle
+      East would widen the conflict, potentially drawing Arab states more directly into
+      the confrontation or, at the very least, further damaging the already fragile
+      relationship between Iran and several Gulf governments. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The ongoing conflict, initially framed as a decisive effort
+      to weaken Iran, has instead highlighted the resilience of Iranian retaliation
+      and the limitations of military force in altering the political landscape of the
+      Middle East, revealing a complex strategic confrontation that challenges earlier
+      assumptions by leaders like Donald Trump and Benjamin Netanyahu.
+    paragraph_summary: In 2026, the ongoing conflict in the Middle East, initially framed
+      as a decisive campaign to dismantle Iran's military capabilities and influence,
+      has revealed a more complex strategic situation marked by Iranian resilience and
+      the limitations of military coercion. Following Iranian missile strikes on military
+      and US installations, the anticipated widening of the conflict, which Israel hoped
+      would involve Arab states and further isolate Iran, has not materialized as expected.
+      This shift in dynamics underscores a growing recognition, contrary to Israeli
+      Prime Minister Benjamin Netanyahu's views, that former President Donald Trump
+      miscalculated Iran's capacity and resolve to engage in a prolonged confrontation.
+    published: '2026-03-17T18:40:45+00:00'
+  - title: 'Underestimating Tehran: How Netanyahu and Trump Turned Quick Victory into
+      Endless War'
+    url: https://ejmagnier.com/2026/03/17/underestimating-tehran-how-netanyahu-and-trump-turned-quick-victory-into-endless-war/
+    text: By Elijah J. Magnier – When Israeli air raid sirens sounded again in 2026
+      following Iranian missile launches targeting military facilities and US installations
+      across the Middle East, the war’s central paradox became increasingly visible.
+      What had initially been presented as a decisive campaign designed to ‘change the
+      regime’, cripple Iran’s military capabilities, destroy its nuclear and missile
+      programs and deter its regional influence has instead evolved into a far more
+      complex strategic confrontation. The conflict has revealed not only the resilience
+      of Iranian retaliation but also the limits of military coercion in reshaping the
+      region’s political balance. Unlike Israeli Prime Minister Benjamin Netanyahu,
+      it is now widely acknowledged that President Donald Trump underestimated both
+      Iran’s capacity and its willingness to retaliate and sustain a prolonged confrontation.
+      Israel encouraged and supported the joint military campaign with the expectation
+      that Iranian retaliation against Israel and multiple US bases across the Middle
+      East would widen the conflict, potentially drawing Arab states more directly into
+      the confrontation or, at the very least, further damaging the already fragile
+      relationship between Iran and several Gulf governments. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The ongoing conflict, initially framed as a decisive effort
+      to weaken Iran, has instead highlighted the resilience of Iranian retaliation
+      and the limitations of military force in altering the political landscape of the
+      Middle East, revealing a complex strategic confrontation that challenges earlier
+      assumptions by leaders like Donald Trump and Benjamin Netanyahu.
+    paragraph_summary: In 2026, the ongoing conflict in the Middle East, initially framed
+      as a decisive campaign to dismantle Iran's military capabilities and influence,
+      has revealed a more complex strategic situation marked by Iranian resilience and
+      the limitations of military coercion. Following Iranian missile strikes on military
+      and US installations, the anticipated widening of the conflict, which Israel hoped
+      would involve Arab states and further isolate Iran, has not materialized as expected.
+      This shift in dynamics underscores a growing recognition, contrary to Israeli
+      Prime Minister Benjamin Netanyahu's views, that former President Donald Trump
+      miscalculated Iran's capacity and resolve to engage in a prolonged confrontation.
+    published: '2026-03-17T18:40:45+00:00'
+  - title: 'Sous-estimer Téhéran : comment Netanyahu et Trump ont transformé une victoire
+      rapide en guerre sans fin'
+    url: https://ejmagnier.com/2026/03/17/sous-estimer-teheran-comment-netanyahu-et-trump-ont-transforme-une-victoire-rapide-en-guerre-sans-fin/
+    text: Par Elijah J. Magnier – Lorsque les sirènes d’alerte aérienne israéliennes
+      ont de nouveau retenti en 2026 à la suite de tirs de missiles iraniens visant
+      des installations militaires et des bases américaines au Moyen-Orient, le paradoxe
+      central de la guerre est devenu de plus en plus évident. Ce qui avait été initialement
+      présenté comme une campagne décisive destinée à « changer le régime », affaiblir
+      les capacités militaires de l’Iran, détruire ses programmes nucléaires et balistiques
+      et dissuader son influence régionale s’est transformé en une confrontation stratégique
+      bien plus complexe. Le conflit a révélé non seulement la résilience de la riposte
+      iranienne, mais aussi les limites de la coercition militaire pour remodeler l’équilibre
+      politique régional. Contrairement au Premier ministre israélien Benjamin Netanyahu,
+      il est désormais largement admis que le président Donald Trump a sous-estimé à
+      la fois la capacité de l’Iran et sa volonté de riposter et de soutenir une confrontation
+      prolongée. Israël a encouragé et soutenu la campagne militaire conjointe en anticipant
+      que la riposte iranienne contre Israël et les multiples bases américaines au Moyen-Orient
+      élargirait le conflit, attirant potentiellement les États arabes plus directement
+      dans la confrontation ou, à tout le moins, fragilisant davantage les relations
+      déjà précaires entre l’Iran et plusieurs gouvernements du Golfe. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: En 2026, les attaques de missiles iraniens sur des installations
+      militaires américaines au Moyen-Orient ont mis en lumière l'échec d'une campagne
+      militaire israélienne et américaine initialement destinée à affaiblir l'Iran,
+      révélant la résilience de ce dernier et les limites de la coercition militaire
+      dans le réajustement de l'équilibre politique régional.
+    paragraph_summary: In 2026, the resurgence of Israeli air raid sirens following
+      Iranian missile strikes on military installations and U.S. bases in the Middle
+      East highlighted the complexities of the ongoing conflict, which had shifted from
+      an initial goal of regime change and military weakening of Iran to a more intricate
+      strategic confrontation. The resilience of Iran's response and the limitations
+      of military coercion in altering the regional political balance became evident,
+      challenging the earlier assumptions of Israeli Prime Minister Benjamin Netanyahu
+      and former U.S. President Donald Trump regarding Iran's capabilities and willingness
+      to engage in prolonged conflict. Israel's support for the military campaign aimed
+      to provoke a broader confrontation that could involve Arab states or further strain
+      Iran's relations with Gulf governments.
+    published: '2026-03-17T18:39:49+00:00'
+  - title: 'Sous-estimer Téhéran : comment Netanyahu et Trump ont transformé une victoire
+      rapide en guerre sans fin'
+    url: https://ejmagnier.com/2026/03/17/sous-estimer-teheran-comment-netanyahu-et-trump-ont-transforme-une-victoire-rapide-en-guerre-sans-fin/
+    text: Par Elijah J. Magnier – Lorsque les sirènes d’alerte aérienne israéliennes
+      ont de nouveau retenti en 2026 à la suite de tirs de missiles iraniens visant
+      des installations militaires et des bases américaines au Moyen-Orient, le paradoxe
+      central de la guerre est devenu de plus en plus évident. Ce qui avait été initialement
+      présenté comme une campagne décisive destinée à « changer le régime », affaiblir
+      les capacités militaires de l’Iran, détruire ses programmes nucléaires et balistiques
+      et dissuader son influence régionale s’est transformé en une confrontation stratégique
+      bien plus complexe. Le conflit a révélé non seulement la résilience de la riposte
+      iranienne, mais aussi les limites de la coercition militaire pour remodeler l’équilibre
+      politique régional. Contrairement au Premier ministre israélien Benjamin Netanyahu,
+      il est désormais largement admis que le président Donald Trump a sous-estimé à
+      la fois la capacité de l’Iran et sa volonté de riposter et de soutenir une confrontation
+      prolongée. Israël a encouragé et soutenu la campagne militaire conjointe en anticipant
+      que la riposte iranienne contre Israël et les multiples bases américaines au Moyen-Orient
+      élargirait le conflit, attirant potentiellement les États arabes plus directement
+      dans la confrontation ou, à tout le moins, fragilisant davantage les relations
+      déjà précaires entre l’Iran et plusieurs gouvernements du Golfe. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: En 2026, les attaques de missiles iraniens sur des installations
+      militaires américaines au Moyen-Orient ont mis en lumière l'échec d'une campagne
+      militaire israélienne et américaine initialement destinée à affaiblir l'Iran,
+      révélant la résilience de ce dernier et les limites de la coercition militaire
+      dans le réajustement de l'équilibre politique régional.
+    paragraph_summary: In 2026, the resurgence of Israeli air raid sirens following
+      Iranian missile strikes on military installations and U.S. bases in the Middle
+      East highlighted the complexities of the ongoing conflict, which had shifted from
+      an initial goal of regime change and military weakening of Iran to a more intricate
+      strategic confrontation. The resilience of Iran's response and the limitations
+      of military coercion in altering the regional political balance became evident,
+      challenging the earlier assumptions of Israeli Prime Minister Benjamin Netanyahu
+      and former U.S. President Donald Trump regarding Iran's capabilities and willingness
+      to engage in prolonged conflict. Israel's support for the military campaign aimed
+      to provoke a broader confrontation that could involve Arab states or further strain
+      Iran's relations with Gulf governments.
+    published: '2026-03-17T18:39:49+00:00'
+  - title: 'Teheran wurde unterschätzt: Wie Netanjahu und Trump einen schnellen Sieg
+      in einen endlosen Krieg verwandelten'
+    url: https://ejmagnier.com/2026/03/17/teheran-wurde-unterschatzt-wie-netanjahu-und-trump-einen-schnellen-sieg-in-einen-endlosen-krieg-verwandelten/
+    text: Von Elijah J. Magnier – Als im Jahr 2026 erneut israelische Luftschutzsirenen
+      heulten, nachdem der Iran Raketen auf militärische Einrichtungen und US-Stützpunkte
+      im gesamten Nahen Osten abgefeuert hatte, wurde das zentrale Paradoxon des Krieges
+      immer deutlicher. Was ursprünglich als entscheidende Kampagne präsentiert worden
+      war, um das „Regime zu ändern“, die militärischen Fähigkeiten des Iran zu lähmen,
+      seine Nuklear- und Raketenprogramme zu zerstören und seinen regionalen Einfluss
+      einzudämmen, hat sich stattdessen zu einer weitaus komplexeren strategischen Konfrontation
+      entwickelt. Der Konflikt hat nicht nur die Widerstandsfähigkeit der iranischen
+      Vergeltungsmaßnahmen offenbart, sondern auch die Grenzen militärischer Zwangsmaßnahmen
+      bei der Neugestaltung des politischen Gleichgewichts in der Region. Im Gegensatz
+      zum israelischen Premierminister Benjamin Netanjahu wird mittlerweile weithin
+      anerkannt, dass Präsident Donald Trump sowohl die Fähigkeit als auch die Bereitschaft
+      des Iran unterschätzt hat, Vergeltungsmaßnahmen zu ergreifen und eine langwierige
+      Konfrontation aufrechtzuerhalten. Israel förderte und unterstützte die gemeinsame
+      Militärkampagne in der Erwartung, dass iranische Vergeltungsmaßnahmen gegen Israel
+      und zahlreiche US-Stützpunkte im gesamten Nahen Osten den Konflikt ausweiten würden,
+      wodurch arabische Staaten möglicherweise direkter in die Konfrontation hineingezogen
+      würden oder zumindest die ohnehin schon fragilen Beziehungen zwischen dem Iran
+      und mehreren Regierungen am Golf weiter beschädigt würden. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Im Jahr 2026 offenbarte der Konflikt zwischen Israel und dem
+      Iran, der ursprünglich als Kampagne zur Regimeänderung gedacht war, die Komplexität
+      der strategischen Konfrontation und die Grenzen militärischer Maßnahmen zur Veränderung
+      des politischen Gleichgewichts im Nahen Osten.
+    paragraph_summary: Im Jahr 2026 kam es zu einem erneuten Konflikt, als der Iran
+      Raketen auf militärische Einrichtungen und US-Stützpunkte im Nahen Osten abfeuerte,
+      was die ursprünglichen Ziele einer militärischen Kampagne zur Veränderung des
+      iranischen Regimes und zur Eindämmung seines Einflusses in der Region in Frage
+      stellte. Statt einer schnellen Lösung offenbarte der Konflikt die Widerstandsfähigkeit
+      des Iran und die Grenzen militärischer Maßnahmen zur Neugestaltung des politischen
+      Gleichgewichts. Während israelische und US-amerikanische Führer, einschließlich
+      Premierminister Benjamin Netanjahu und Präsident Donald Trump, die Fähigkeit des
+      Iran zur Vergeltung unterschätzten, wurde klar, dass die militärischen Aktionen
+      nicht nur zu einer Eskalation führten, sondern auch die fragilen Beziehungen zwischen
+      dem Iran und verschiedenen arabischen Staaten weiter belasteten.
+    published: '2026-03-17T18:38:53+00:00'
+  - title: 'Teheran wurde unterschätzt: Wie Netanjahu und Trump einen schnellen Sieg
+      in einen endlosen Krieg verwandelten'
+    url: https://ejmagnier.com/2026/03/17/teheran-wurde-unterschatzt-wie-netanjahu-und-trump-einen-schnellen-sieg-in-einen-endlosen-krieg-verwandelten/
+    text: Von Elijah J. Magnier – Als im Jahr 2026 erneut israelische Luftschutzsirenen
+      heulten, nachdem der Iran Raketen auf militärische Einrichtungen und US-Stützpunkte
+      im gesamten Nahen Osten abgefeuert hatte, wurde das zentrale Paradoxon des Krieges
+      immer deutlicher. Was ursprünglich als entscheidende Kampagne präsentiert worden
+      war, um das „Regime zu ändern“, die militärischen Fähigkeiten des Iran zu lähmen,
+      seine Nuklear- und Raketenprogramme zu zerstören und seinen regionalen Einfluss
+      einzudämmen, hat sich stattdessen zu einer weitaus komplexeren strategischen Konfrontation
+      entwickelt. Der Konflikt hat nicht nur die Widerstandsfähigkeit der iranischen
+      Vergeltungsmaßnahmen offenbart, sondern auch die Grenzen militärischer Zwangsmaßnahmen
+      bei der Neugestaltung des politischen Gleichgewichts in der Region. Im Gegensatz
+      zum israelischen Premierminister Benjamin Netanjahu wird mittlerweile weithin
+      anerkannt, dass Präsident Donald Trump sowohl die Fähigkeit als auch die Bereitschaft
+      des Iran unterschätzt hat, Vergeltungsmaßnahmen zu ergreifen und eine langwierige
+      Konfrontation aufrechtzuerhalten. Israel förderte und unterstützte die gemeinsame
+      Militärkampagne in der Erwartung, dass iranische Vergeltungsmaßnahmen gegen Israel
+      und zahlreiche US-Stützpunkte im gesamten Nahen Osten den Konflikt ausweiten würden,
+      wodurch arabische Staaten möglicherweise direkter in die Konfrontation hineingezogen
+      würden oder zumindest die ohnehin schon fragilen Beziehungen zwischen dem Iran
+      und mehreren Regierungen am Golf weiter beschädigt würden. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Im Jahr 2026 offenbarte der Konflikt zwischen Israel und dem
+      Iran, der ursprünglich als Kampagne zur Regimeänderung gedacht war, die Komplexität
+      der strategischen Konfrontation und die Grenzen militärischer Maßnahmen zur Veränderung
+      des politischen Gleichgewichts im Nahen Osten.
+    paragraph_summary: Im Jahr 2026 kam es zu einem erneuten Konflikt, als der Iran
+      Raketen auf militärische Einrichtungen und US-Stützpunkte im Nahen Osten abfeuerte,
+      was die ursprünglichen Ziele einer militärischen Kampagne zur Veränderung des
+      iranischen Regimes und zur Eindämmung seines Einflusses in der Region in Frage
+      stellte. Statt einer schnellen Lösung offenbarte der Konflikt die Widerstandsfähigkeit
+      des Iran und die Grenzen militärischer Maßnahmen zur Neugestaltung des politischen
+      Gleichgewichts. Während israelische und US-amerikanische Führer, einschließlich
+      Premierminister Benjamin Netanjahu und Präsident Donald Trump, die Fähigkeit des
+      Iran zur Vergeltung unterschätzten, wurde klar, dass die militärischen Aktionen
+      nicht nur zu einer Eskalation führten, sondern auch die fragilen Beziehungen zwischen
+      dem Iran und verschiedenen arabischen Staaten weiter belasteten.
+    published: '2026-03-17T18:38:53+00:00'
+  - title: 'Shadow Strikes and Strategic Ambiguity: The Risk of a Wider Gulf war'
+    url: https://ejmagnier.com/2026/03/15/shadow-strikes-and-strategic-ambiguity-the-risk-of-a-wider-gulf-war/
+    text: 'By Elijah J Magnier – The current war is already reshaping perceptions of
+      American power. Iran’s ability to sustain confrontation with the United States
+      and Israel has weakened the long-standing image of Washington as an untouchable
+      and overwhelmingly dominant force. Even if the United States retains overwhelming
+      tactical capabilities, the strategic perception of its power has shifted across
+      the region. At the same time, the battlefield is no longer confined to clearly
+      defined fronts. It now extends across airspace, sea lanes, allied networks and
+      the opaque domain of covert operations. Iran has acknowledged thousands of missile
+      and drone strikes across the region as part of a broader war of attrition. Yet
+      the number of recorded attacks across the Gulf appears to exceed the operations
+      Tehran has officially claimed, raising a critical question: who is responsible
+      for the additional strikes? This discrepancy has fuelled growing speculation among
+      regional observers and analysts. Iran has openly conducted large-scale missile
+      and drone attacks on selective objectives in the Gulf states (UAE, Saudi Arabia,
+      Bahrain, Kuwait, Iraq, Qatar, Oman) in retaliation for US-Israeli strikes on Iran
+      itself, including on energy sites, bases, and civilian areas. These are widely
+      reported and directly attributed to Iran by Gulf governments, international media,
+      and defence ministries, along with interception statistics and damage claims.
+      Iran has not denied most of these; it frames them as legitimate responses. Indeed,
+      most major strikes (e.g., on Saudi and Iraqi oilfields, Kuwait and UAE airports,
+      and Qatari infrastructure) are widely attributed to Iran, which legitimises these
+      attacks as a response to the Gulf hosting US assets. However, several recent drone
+      attacks targeting selective infrastructure and strategic sites in Gulf countries
+      and Turkey have involved systems resembling Iranian-made drones. While such similarities
+      might point toward Iranian involvement, they have also raised an alternative possibility:
+      that some of these strikes may be part of deniable operations designed to mimic
+      Iranian capabilities. The suspicion in some security circles is that Israel may
+      be attempting to shape the battlefield indirectly by carrying out attacks that
+      could plausibly be attributed to Iran. Such a strategy would aim not only to damage
+      specific targets but also to manipulate the region’s political dynamics and further
+      demonise Iran to create a larger coalition against it. At the heart of this hypothesis
+      lies a simple strategic calculation. If attacks across the Gulf can be perceived
+      as Iranian actions, they could deepen even further mistrust and deepen the animosity between
+      Tehran and Arab governments, particularly in the Gulf monarchies. The resulting
+      political tension might push those states closer to direct involvement in the
+      confrontation, thereby shaping the course of the war. Whether or not such operations
+      are actually occurring, the logic behind them reflects a well-established pattern
+      in modern warfare and a non-unusual one: the use of ambiguity to shape perceptions
+      and alliances. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ongoing conflict is altering perceptions of American power
+      in the region, as Iran's sustained confrontations challenge the image of U.S.
+      dominance, while the battlefield has expanded beyond traditional fronts, leading
+      to speculation about unclaimed strikes in the Gulf.
+    paragraph_summary: speculation about the potential involvement of other actors in
+      these strikes, complicating the narrative of Iranian aggression. The ongoing conflict
+      has led to a reevaluation of American dominance in the region, as Iran's sustained
+      military actions challenge the perception of U.S. invulnerability. Despite the
+      U.S. maintaining superior tactical capabilities, the strategic landscape has evolved,
+      with battles now occurring in diverse domains beyond traditional frontlines. The
+      ambiguity surrounding the responsibility for various attacks has heightened tensions
+      and uncertainty among regional observers, as they seek to understand the broader
+      implications of these developments on U.S.-Iran relations and regional stability.
+    published: '2026-03-15T18:10:05+00:00'
+  - title: 'Shadow Strikes and Strategic Ambiguity: The Risk of a Wider Gulf war'
+    url: https://ejmagnier.com/2026/03/15/shadow-strikes-and-strategic-ambiguity-the-risk-of-a-wider-gulf-war/
+    text: 'By Elijah J Magnier – The current war is already reshaping perceptions of
+      American power. Iran’s ability to sustain confrontation with the United States
+      and Israel has weakened the long-standing image of Washington as an untouchable
+      and overwhelmingly dominant force. Even if the United States retains overwhelming
+      tactical capabilities, the strategic perception of its power has shifted across
+      the region. At the same time, the battlefield is no longer confined to clearly
+      defined fronts. It now extends across airspace, sea lanes, allied networks and
+      the opaque domain of covert operations. Iran has acknowledged thousands of missile
+      and drone strikes across the region as part of a broader war of attrition. Yet
+      the number of recorded attacks across the Gulf appears to exceed the operations
+      Tehran has officially claimed, raising a critical question: who is responsible
+      for the additional strikes? This discrepancy has fuelled growing speculation among
+      regional observers and analysts. Iran has openly conducted large-scale missile
+      and drone attacks on selective objectives in the Gulf states (UAE, Saudi Arabia,
+      Bahrain, Kuwait, Iraq, Qatar, Oman) in retaliation for US-Israeli strikes on Iran
+      itself, including on energy sites, bases, and civilian areas. These are widely
+      reported and directly attributed to Iran by Gulf governments, international media,
+      and defence ministries, along with interception statistics and damage claims.
+      Iran has not denied most of these; it frames them as legitimate responses. Indeed,
+      most major strikes (e.g., on Saudi and Iraqi oilfields, Kuwait and UAE airports,
+      and Qatari infrastructure) are widely attributed to Iran, which legitimises these
+      attacks as a response to the Gulf hosting US assets. However, several recent drone
+      attacks targeting selective infrastructure and strategic sites in Gulf countries
+      and Turkey have involved systems resembling Iranian-made drones. While such similarities
+      might point toward Iranian involvement, they have also raised an alternative possibility:
+      that some of these strikes may be part of deniable operations designed to mimic
+      Iranian capabilities. The suspicion in some security circles is that Israel may
+      be attempting to shape the battlefield indirectly by carrying out attacks that
+      could plausibly be attributed to Iran. Such a strategy would aim not only to damage
+      specific targets but also to manipulate the region’s political dynamics and further
+      demonise Iran to create a larger coalition against it. At the heart of this hypothesis
+      lies a simple strategic calculation. If attacks across the Gulf can be perceived
+      as Iranian actions, they could deepen even further mistrust and deepen the animosity between
+      Tehran and Arab governments, particularly in the Gulf monarchies. The resulting
+      political tension might push those states closer to direct involvement in the
+      confrontation, thereby shaping the course of the war. Whether or not such operations
+      are actually occurring, the logic behind them reflects a well-established pattern
+      in modern warfare and a non-unusual one: the use of ambiguity to shape perceptions
+      and alliances. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ongoing conflict is altering perceptions of American power
+      in the region, as Iran's sustained confrontations challenge the image of U.S.
+      dominance, while the battlefield has expanded beyond traditional fronts, leading
+      to speculation about unclaimed strikes in the Gulf.
+    paragraph_summary: speculation about the potential involvement of other actors in
+      these strikes, complicating the narrative of Iranian aggression. The ongoing conflict
+      has led to a reevaluation of American dominance in the region, as Iran's sustained
+      military actions challenge the perception of U.S. invulnerability. Despite the
+      U.S. maintaining superior tactical capabilities, the strategic landscape has evolved,
+      with battles now occurring in diverse domains beyond traditional frontlines. The
+      ambiguity surrounding the responsibility for various attacks has heightened tensions
+      and uncertainty among regional observers, as they seek to understand the broader
+      implications of these developments on U.S.-Iran relations and regional stability.
+    published: '2026-03-15T18:10:05+00:00'
+  - title: 'Frappes de l’ombre et ambiguïté stratégique : le risque d’une guerre élargie
+      dans le Golfe'
+    url: https://ejmagnier.com/2026/03/15/frappes-de-lombre-et-ambiguite-strategique-le-risque-dune-guerre-elargie-dans-le-golfe/
+    text: 'Par Elijah J Magnier La guerre actuelle est déjà en train de transformer
+      la perception de la puissance américaine. La capacité de l’Iran à soutenir une
+      confrontation avec les États Unis et Israël a affaibli l’image longtemps dominante
+      de Washington comme une force intouchable et écrasante. Même si les États Unis
+      conservent des capacités tactiques considérables, la perception stratégique de
+      leur puissance s’est déplacée dans toute la région. Dans le même temps, le champ
+      de bataille n’est plus limité à des fronts clairement définis. Il s’étend désormais
+      à l’espace aérien, aux routes maritimes, aux réseaux d’alliés et au domaine opaque
+      des opérations clandestines. L’Iran a reconnu des milliers de frappes de missiles
+      et de drones à travers la région dans le cadre d’une guerre d’attrition plus large.
+      Pourtant, le nombre d’attaques enregistrées dans le Golfe semble dépasser les
+      opérations officiellement revendiquées par Téhéran, ce qui soulève une question
+      cruciale : qui est responsable de ces frappes supplémentaires ? Cet écart a alimenté
+      de nombreuses spéculations parmi les observateurs et les analystes régionaux.
+      L’Iran a ouvertement mené des attaques de grande ampleur par missiles et drones
+      contre des objectifs ciblés dans les États du Golfe (Émirats arabes unis, Arabie
+      saoudite, Bahreïn, Koweït, Irak, Qatar et Oman) en représailles aux frappes américano
+      israéliennes contre l’Iran lui même, y compris contre des sites énergétiques,
+      des bases militaires et des zones civiles. Ces attaques sont largement rapportées
+      et directement attribuées à l’Iran par les gouvernements du Golfe, les médias
+      internationaux et les ministères de la défense, accompagnées de statistiques d’interception
+      et de bilans de dégâts. L’Iran n’en a pas nié la plupart et les présente comme
+      des réponses légitimes. En effet, la majorité des frappes majeures, par exemple
+      contre des champs pétroliers saoudiens et irakiens, des aéroports au Koweït et
+      aux Émirats arabes unis ou des infrastructures au Qatar, sont largement attribuées
+      à l’Iran qui les justifie comme des réponses au fait que ces États accueillent
+      des installations américaines. Cependant, plusieurs attaques récentes de drones
+      visant des infrastructures sélectives et des sites stratégiques dans les pays
+      du Golfe et en Turquie ont impliqué des systèmes ressemblant à des drones de fabrication
+      iranienne. Si ces similitudes peuvent suggérer une implication iranienne, elles
+      ont également fait émerger une autre possibilité : que certaines de ces frappes
+      fassent partie d’opérations déniables conçues pour imiter les capacités iraniennes.
+      Dans certains cercles sécuritaires, la suspicion est qu’Israël pourrait tenter
+      de façonner indirectement le champ de bataille en menant des attaques pouvant
+      être plausiblement attribuées à l’Iran. Une telle stratégie viserait non seulement
+      à endommager des cibles spécifiques, mais aussi à manipuler les dynamiques politiques
+      de la région et à accentuer la diabolisation de l’Iran afin de constituer une
+      coalition plus large contre lui. Au cœur de cette hypothèse se trouve un calcul
+      stratégique simple. Si les attaques à travers le Golfe sont perçues comme des
+      actions iraniennes, elles pourraient approfondir encore la méfiance et renforcer
+      l’animosité entre Téhéran et les gouvernements arabes, en particulier dans les
+      monarchies du Golfe. Les tensions politiques qui en résulteraient pourraient pousser
+      ces États à s’impliquer plus directement dans la confrontation afin d’influencer
+      le cours de la guerre. Que de telles opérations existent réellement ou non, la
+      logique qui les sous tend correspond à un schéma bien établi dans la guerre moderne
+      : l’utilisation de l’ambiguïté pour façonner les perceptions et les alliances.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: La guerre actuelle modifie la perception de la puissance américaine,
+      révélant la capacité de l'Iran à défier Washington et Israël, tout en élargissant
+      le champ de bataille à des dimensions plus complexes et moins définies.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne comment la guerre actuelle
+      a modifié la perception de la puissance américaine, révélant que l'Iran est capable
+      de soutenir une confrontation avec les États-Unis et Israël, ce qui affaiblit
+      l'image de Washington en tant que force dominante. Bien que les États-Unis disposent
+      encore de capacités tactiques importantes, leur puissance stratégique est remise
+      en question dans la région, où le champ de bataille s'étend au-delà des fronts
+      traditionnels pour inclure l'espace aérien, les routes maritimes et des opérations
+      clandestines. L'Iran a mené de nombreuses attaques par missiles et drones contre
+      des cibles dans les États du Golfe en réponse aux frappes américano-israéliennes,
+      et bien que ces attaques soient largement reconnues et attribuées à Téhéran, il
+      existe des interrogations sur la responsabilité d'autres frappes non revendiquées.
+    published: '2026-03-15T18:09:02+00:00'
+  - title: 'Frappes de l’ombre et ambiguïté stratégique : le risque d’une guerre élargie
+      dans le Golfe'
+    url: https://ejmagnier.com/2026/03/15/frappes-de-lombre-et-ambiguite-strategique-le-risque-dune-guerre-elargie-dans-le-golfe/
+    text: 'Par Elijah J Magnier La guerre actuelle est déjà en train de transformer
+      la perception de la puissance américaine. La capacité de l’Iran à soutenir une
+      confrontation avec les États Unis et Israël a affaibli l’image longtemps dominante
+      de Washington comme une force intouchable et écrasante. Même si les États Unis
+      conservent des capacités tactiques considérables, la perception stratégique de
+      leur puissance s’est déplacée dans toute la région. Dans le même temps, le champ
+      de bataille n’est plus limité à des fronts clairement définis. Il s’étend désormais
+      à l’espace aérien, aux routes maritimes, aux réseaux d’alliés et au domaine opaque
+      des opérations clandestines. L’Iran a reconnu des milliers de frappes de missiles
+      et de drones à travers la région dans le cadre d’une guerre d’attrition plus large.
+      Pourtant, le nombre d’attaques enregistrées dans le Golfe semble dépasser les
+      opérations officiellement revendiquées par Téhéran, ce qui soulève une question
+      cruciale : qui est responsable de ces frappes supplémentaires ? Cet écart a alimenté
+      de nombreuses spéculations parmi les observateurs et les analystes régionaux.
+      L’Iran a ouvertement mené des attaques de grande ampleur par missiles et drones
+      contre des objectifs ciblés dans les États du Golfe (Émirats arabes unis, Arabie
+      saoudite, Bahreïn, Koweït, Irak, Qatar et Oman) en représailles aux frappes américano
+      israéliennes contre l’Iran lui même, y compris contre des sites énergétiques,
+      des bases militaires et des zones civiles. Ces attaques sont largement rapportées
+      et directement attribuées à l’Iran par les gouvernements du Golfe, les médias
+      internationaux et les ministères de la défense, accompagnées de statistiques d’interception
+      et de bilans de dégâts. L’Iran n’en a pas nié la plupart et les présente comme
+      des réponses légitimes. En effet, la majorité des frappes majeures, par exemple
+      contre des champs pétroliers saoudiens et irakiens, des aéroports au Koweït et
+      aux Émirats arabes unis ou des infrastructures au Qatar, sont largement attribuées
+      à l’Iran qui les justifie comme des réponses au fait que ces États accueillent
+      des installations américaines. Cependant, plusieurs attaques récentes de drones
+      visant des infrastructures sélectives et des sites stratégiques dans les pays
+      du Golfe et en Turquie ont impliqué des systèmes ressemblant à des drones de fabrication
+      iranienne. Si ces similitudes peuvent suggérer une implication iranienne, elles
+      ont également fait émerger une autre possibilité : que certaines de ces frappes
+      fassent partie d’opérations déniables conçues pour imiter les capacités iraniennes.
+      Dans certains cercles sécuritaires, la suspicion est qu’Israël pourrait tenter
+      de façonner indirectement le champ de bataille en menant des attaques pouvant
+      être plausiblement attribuées à l’Iran. Une telle stratégie viserait non seulement
+      à endommager des cibles spécifiques, mais aussi à manipuler les dynamiques politiques
+      de la région et à accentuer la diabolisation de l’Iran afin de constituer une
+      coalition plus large contre lui. Au cœur de cette hypothèse se trouve un calcul
+      stratégique simple. Si les attaques à travers le Golfe sont perçues comme des
+      actions iraniennes, elles pourraient approfondir encore la méfiance et renforcer
+      l’animosité entre Téhéran et les gouvernements arabes, en particulier dans les
+      monarchies du Golfe. Les tensions politiques qui en résulteraient pourraient pousser
+      ces États à s’impliquer plus directement dans la confrontation afin d’influencer
+      le cours de la guerre. Que de telles opérations existent réellement ou non, la
+      logique qui les sous tend correspond à un schéma bien établi dans la guerre moderne
+      : l’utilisation de l’ambiguïté pour façonner les perceptions et les alliances.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: La guerre actuelle modifie la perception de la puissance américaine,
+      révélant la capacité de l'Iran à défier Washington et Israël, tout en élargissant
+      le champ de bataille à des dimensions plus complexes et moins définies.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne comment la guerre actuelle
+      a modifié la perception de la puissance américaine, révélant que l'Iran est capable
+      de soutenir une confrontation avec les États-Unis et Israël, ce qui affaiblit
+      l'image de Washington en tant que force dominante. Bien que les États-Unis disposent
+      encore de capacités tactiques importantes, leur puissance stratégique est remise
+      en question dans la région, où le champ de bataille s'étend au-delà des fronts
+      traditionnels pour inclure l'espace aérien, les routes maritimes et des opérations
+      clandestines. L'Iran a mené de nombreuses attaques par missiles et drones contre
+      des cibles dans les États du Golfe en réponse aux frappes américano-israéliennes,
+      et bien que ces attaques soient largement reconnues et attribuées à Téhéran, il
+      existe des interrogations sur la responsabilité d'autres frappes non revendiquées.
+    published: '2026-03-15T18:09:02+00:00'
+  - title: 'Schattenangriffe und strategische Unklarheit: Das Risiko eines umfassenderen
+      Golfkriegs'
+    url: https://ejmagnier.com/2026/03/15/schattenangriffe-und-strategische-unklarheit-das-risiko-eines-umfassenderen-golfkriegs/
+    text: 'Von Elijah J. Magnier – Der aktuelle Krieg verändert bereits die Wahrnehmung
+      der amerikanischen Macht. Die Fähigkeit des Iran, die Konfrontation mit den Vereinigten
+      Staaten und Israel aufrechtzuerhalten, hat das seit langem bestehende Bild von
+      Washington als unantastbarer und überwältigend dominanter Macht geschwächt. Auch
+      wenn die Vereinigten Staaten weiterhin über überwältigende taktische Fähigkeiten
+      verfügen, hat sich die strategische Wahrnehmung ihrer Macht in der gesamten Region
+      gewandelt. Gleichzeitig beschränkt sich das Schlachtfeld nicht mehr auf klar definierte
+      Fronten. Es erstreckt sich nun über den Luftraum, Seewege, verbündete Netzwerke
+      und den undurchsichtigen Bereich verdeckter Operationen. Der Iran hat Tausende
+      von Raketen- und Drohnenangriffen in der gesamten Region als Teil eines umfassenderen
+      Zermürbungskrieges zugegeben. Doch die Zahl der registrierten Angriffe im gesamten
+      Golf scheint die von Teheran offiziell beanspruchten Operationen zu übersteigen,
+      was eine entscheidende Frage aufwirft: Wer ist für die zusätzlichen Angriffe verantwortlich?
+      Diese Diskrepanz hat zu wachsenden Spekulationen unter regionalen Beobachtern
+      und Analysten geführt. Der Iran hat offen groß angelegte Raketen- und Drohnenangriffe
+      auf ausgewählte Ziele in den Golfstaaten (VAE, Saudi-Arabien, Bahrain, Kuwait,
+      Irak, Katar, Oman) durchgeführt, als Vergeltung für US-amerikanisch-israelische
+      Angriffe auf den Iran selbst, darunter auf Energieanlagen, Stützpunkte und zivile
+      Gebiete. Über diese Angriffe wird ausführlich berichtet, und sie werden von den
+      Regierungen der Golfstaaten, internationalen Medien und Verteidigungsministerien
+      direkt dem Iran zugeschrieben, zusammen mit Abfangstatistiken und Schadensmeldungen.
+      Der Iran hat die meisten davon nicht bestritten; er stellt sie als legitime Reaktionen
+      dar. Tatsächlich werden die meisten größeren Angriffe (z. B. auf saudische und
+      irakische Ölfelder, Flughäfen in Kuwait und den VAE sowie auf die Infrastruktur
+      Katars) weithin dem Iran zugeschrieben, der diese Angriffe als Reaktion auf die
+      Stationierung von US-Einrichtungen im Golf legitimiert. Bei mehreren jüngsten
+      Drohnenangriffen auf ausgewählte Infrastruktur und strategische Standorte in Golfstaaten
+      und der Türkei kamen jedoch Systeme zum Einsatz, die iranischen Drohnen ähnelten.
+      Während solche Ähnlichkeiten auf eine iranische Beteiligung hindeuten könnten,
+      haben sie auch eine alternative Möglichkeit aufkommen lassen: dass einige dieser
+      Angriffe Teil von Operationen sein könnten, die sich der Verantwortung entziehen
+      und darauf abzielen, iranische Fähigkeiten nachzuahmen. In einigen Sicherheitskreisen
+      besteht der Verdacht, dass Israel versucht, das Schlachtfeld indirekt zu beeinflussen,
+      indem es Angriffe durchführt, die plausibel dem Iran zugeschrieben werden könnten.
+      Eine solche Strategie würde nicht nur darauf abzielen, bestimmte Ziele zu schädigen,
+      sondern auch darauf, die politische Dynamik der Region zu manipulieren und den
+      Iran weiter zu dämonisieren, um eine größere Koalition gegen ihn zu schmieden.
+      Im Kern dieser Hypothese steht eine einfache strategische Überlegung. Wenn Angriffe
+      im gesamten Golf als iranische Aktionen wahrgenommen werden können, könnten sie
+      das Misstrauen und die Feindseligkeit zwischen Teheran und arabischen Regierungen,
+      insbesondere in den Golfmonarchien, noch weiter vertiefen. Die daraus resultierenden
+      politischen Spannungen könnten diese Staaten dazu bewegen, sich direkter in die
+      Konfrontation einzumischen, um den Verlauf des Krieges zu beeinflussen. Unabhängig
+      davon, ob solche Operationen tatsächlich stattfinden, spiegelt die ihnen zugrunde
+      liegende Logik ein in der modernen Kriegsführung fest etabliertes und keineswegs
+      ungewöhnliches Muster wider: den Einsatz von Mehrdeutigkeit, um Wahrnehmungen
+      und Allianzen zu beeinflussen. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Krieg hat die Wahrnehmung der amerikanischen
+      Macht in der Region verändert, indem der Iran seine Fähigkeit zur Konfrontation
+      mit den USA und Israel demonstriert hat, was das Bild von Washington als unantastbarer
+      Dominanz schwächt und das Schlachtfeld auf vielfältige, weniger definierte Bereiche
+      ausdehnt.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet, wie der aktuelle
+      Krieg die Wahrnehmung der amerikanischen Macht im Nahen Osten verändert hat, insbesondere
+      durch die Fähigkeit des Iran, die Konfrontation mit den USA und Israel aufrechtzuerhalten.
+      Trotz der überlegenen taktischen Fähigkeiten der USA hat sich das strategische
+      Bild ihrer Dominanz in der Region gewandelt, da das Schlachtfeld nun weitreichender
+      und komplexer ist, einschließlich Luftraum, Seewegen und verdeckten Operationen.
+      Der Iran hat zahlreiche Raketen- und Drohnenangriffe auf Golfstaaten als Teil
+      eines Zermürbungskriegs durchgeführt, wobei die tatsächliche Zahl der Angriffe
+      die offiziellen Angaben des Iran übersteigt, was zu Spekulationen über die Verantwortlichkeit
+      für die zusätzlichen Angriffe führt. Diese Angriffe werden von den Golfstaaten
+      und internationalen Medien dem Iran zugeschrieben, der sie als legitime Reaktionen
+      auf US-amerikanisch-israelische Angriffe darstellt.
+    published: '2026-03-15T18:07:32+00:00'
+  - title: 'Schattenangriffe und strategische Unklarheit: Das Risiko eines umfassenderen
+      Golfkriegs'
+    url: https://ejmagnier.com/2026/03/15/schattenangriffe-und-strategische-unklarheit-das-risiko-eines-umfassenderen-golfkriegs/
+    text: 'Von Elijah J. Magnier – Der aktuelle Krieg verändert bereits die Wahrnehmung
+      der amerikanischen Macht. Die Fähigkeit des Iran, die Konfrontation mit den Vereinigten
+      Staaten und Israel aufrechtzuerhalten, hat das seit langem bestehende Bild von
+      Washington als unantastbarer und überwältigend dominanter Macht geschwächt. Auch
+      wenn die Vereinigten Staaten weiterhin über überwältigende taktische Fähigkeiten
+      verfügen, hat sich die strategische Wahrnehmung ihrer Macht in der gesamten Region
+      gewandelt. Gleichzeitig beschränkt sich das Schlachtfeld nicht mehr auf klar definierte
+      Fronten. Es erstreckt sich nun über den Luftraum, Seewege, verbündete Netzwerke
+      und den undurchsichtigen Bereich verdeckter Operationen. Der Iran hat Tausende
+      von Raketen- und Drohnenangriffen in der gesamten Region als Teil eines umfassenderen
+      Zermürbungskrieges zugegeben. Doch die Zahl der registrierten Angriffe im gesamten
+      Golf scheint die von Teheran offiziell beanspruchten Operationen zu übersteigen,
+      was eine entscheidende Frage aufwirft: Wer ist für die zusätzlichen Angriffe verantwortlich?
+      Diese Diskrepanz hat zu wachsenden Spekulationen unter regionalen Beobachtern
+      und Analysten geführt. Der Iran hat offen groß angelegte Raketen- und Drohnenangriffe
+      auf ausgewählte Ziele in den Golfstaaten (VAE, Saudi-Arabien, Bahrain, Kuwait,
+      Irak, Katar, Oman) durchgeführt, als Vergeltung für US-amerikanisch-israelische
+      Angriffe auf den Iran selbst, darunter auf Energieanlagen, Stützpunkte und zivile
+      Gebiete. Über diese Angriffe wird ausführlich berichtet, und sie werden von den
+      Regierungen der Golfstaaten, internationalen Medien und Verteidigungsministerien
+      direkt dem Iran zugeschrieben, zusammen mit Abfangstatistiken und Schadensmeldungen.
+      Der Iran hat die meisten davon nicht bestritten; er stellt sie als legitime Reaktionen
+      dar. Tatsächlich werden die meisten größeren Angriffe (z. B. auf saudische und
+      irakische Ölfelder, Flughäfen in Kuwait und den VAE sowie auf die Infrastruktur
+      Katars) weithin dem Iran zugeschrieben, der diese Angriffe als Reaktion auf die
+      Stationierung von US-Einrichtungen im Golf legitimiert. Bei mehreren jüngsten
+      Drohnenangriffen auf ausgewählte Infrastruktur und strategische Standorte in Golfstaaten
+      und der Türkei kamen jedoch Systeme zum Einsatz, die iranischen Drohnen ähnelten.
+      Während solche Ähnlichkeiten auf eine iranische Beteiligung hindeuten könnten,
+      haben sie auch eine alternative Möglichkeit aufkommen lassen: dass einige dieser
+      Angriffe Teil von Operationen sein könnten, die sich der Verantwortung entziehen
+      und darauf abzielen, iranische Fähigkeiten nachzuahmen. In einigen Sicherheitskreisen
+      besteht der Verdacht, dass Israel versucht, das Schlachtfeld indirekt zu beeinflussen,
+      indem es Angriffe durchführt, die plausibel dem Iran zugeschrieben werden könnten.
+      Eine solche Strategie würde nicht nur darauf abzielen, bestimmte Ziele zu schädigen,
+      sondern auch darauf, die politische Dynamik der Region zu manipulieren und den
+      Iran weiter zu dämonisieren, um eine größere Koalition gegen ihn zu schmieden.
+      Im Kern dieser Hypothese steht eine einfache strategische Überlegung. Wenn Angriffe
+      im gesamten Golf als iranische Aktionen wahrgenommen werden können, könnten sie
+      das Misstrauen und die Feindseligkeit zwischen Teheran und arabischen Regierungen,
+      insbesondere in den Golfmonarchien, noch weiter vertiefen. Die daraus resultierenden
+      politischen Spannungen könnten diese Staaten dazu bewegen, sich direkter in die
+      Konfrontation einzumischen, um den Verlauf des Krieges zu beeinflussen. Unabhängig
+      davon, ob solche Operationen tatsächlich stattfinden, spiegelt die ihnen zugrunde
+      liegende Logik ein in der modernen Kriegsführung fest etabliertes und keineswegs
+      ungewöhnliches Muster wider: den Einsatz von Mehrdeutigkeit, um Wahrnehmungen
+      und Allianzen zu beeinflussen. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Krieg hat die Wahrnehmung der amerikanischen
+      Macht in der Region verändert, indem der Iran seine Fähigkeit zur Konfrontation
+      mit den USA und Israel demonstriert hat, was das Bild von Washington als unantastbarer
+      Dominanz schwächt und das Schlachtfeld auf vielfältige, weniger definierte Bereiche
+      ausdehnt.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet, wie der aktuelle
+      Krieg die Wahrnehmung der amerikanischen Macht im Nahen Osten verändert hat, insbesondere
+      durch die Fähigkeit des Iran, die Konfrontation mit den USA und Israel aufrechtzuerhalten.
+      Trotz der überlegenen taktischen Fähigkeiten der USA hat sich das strategische
+      Bild ihrer Dominanz in der Region gewandelt, da das Schlachtfeld nun weitreichender
+      und komplexer ist, einschließlich Luftraum, Seewegen und verdeckten Operationen.
+      Der Iran hat zahlreiche Raketen- und Drohnenangriffe auf Golfstaaten als Teil
+      eines Zermürbungskriegs durchgeführt, wobei die tatsächliche Zahl der Angriffe
+      die offiziellen Angaben des Iran übersteigt, was zu Spekulationen über die Verantwortlichkeit
+      für die zusätzlichen Angriffe führt. Diese Angriffe werden von den Golfstaaten
+      und internationalen Medien dem Iran zugeschrieben, der sie als legitime Reaktionen
+      auf US-amerikanisch-israelische Angriffe darstellt.
+    published: '2026-03-15T18:07:32+00:00'
+  - title: 'Defiance Amid Bombs: Iran’s Leadership Signals No Collapse, Enduring Attrition,
+      and Strait Leverage'
+    url: https://ejmagnier.com/2026/03/13/defiance-amid-bombs-irans-leadership-signals-no-collapse-enduring-attrition-and-strait-leverage/
+    text: By Elijah J. Magnier While Donald Trump boasted that all Iranian officials
+      had been “wiped off the face of the Earth,” Israeli officials now quietly acknowledge
+      a very different reality. Iran’s ruling system remains firmly in control, and
+      the conditions on the ground are far from ripe for a popular uprising. Despite
+      the heavy blows inflicted by the war, Tehran’s battered leadership has retained
+      its grip on the state, forcing even Israeli assessments to concede that the regime
+      is unlikely to collapse in the immediate future. Indeed, in his first public message—read
+      aloud on state television by a news anchor alongside a still photograph, as he
+      has not appeared in person amid the conflict— Ayatollah Sayyed Mojtaba Ali Khamenei,
+      after assuming the leadership of the Islamic Republic, projects a clear continuity
+      with the political and strategic line established by his father. The tone of the
+      speech reflects the same determination to prosecute the war by all available means
+      and to pursue a strategy that, according to officials in Tehran, had been prepared
+      in advance by the late Supreme Leader before his assassination. The new leader
+      himself reportedly survived an assassination attempt during the same turbulent
+      period, reinforcing the sense within Iran’s political establishment that the country
+      is now operating under conditions of existential confrontation. The circumstances
+      surrounding his selection also reveal much about Iran’s wartime political system.
+      Sayyed Mojtaba Khamenei was reportedly chosen without his prior consultation,
+      suggesting that the institutional apparatus surrounding the leadership, particularly
+      the Islamic Revolutionary Guard Corps (IRGC), played a decisive role in shaping
+      the outcome within the Assembly of Experts. Rather than indicating institutional
+      fragility, the transition appears designed to signal that the system remains fully
+      operational despite the shock of war and leadership loss. The message projected
+      domestically and externally is one of continuity, organisational discipline, and
+      readiness to retaliate against what Tehran describes as an unlawful war initiated
+      by the United States and Israel without authorisation from the United Nations
+      Security Council. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Despite Donald Trump's claims of Iranian officials being eliminated,
+      Israeli assessments reveal that Iran's leadership remains firmly in control and
+      unlikely to collapse, as demonstrated by Ayatollah Khamenei's commitment to continuing
+      the established political and strategic direction of the regime.
+    paragraph_summary: Despite Donald Trump's claims of a weakened Iranian leadership,
+      the reality is that Iran's ruling system remains intact and resilient, with no
+      imminent threat of collapse. Israeli officials have acknowledged that Tehran's
+      leadership, now under Ayatollah Sayyed Mojtaba Ali Khamenei, continues to maintain
+      control and pursue a determined wartime strategy, reflecting continuity with the
+      policies of the late Supreme Leader. Khamenei's first public message, delivered
+      through state media, emphasizes a commitment to ongoing conflict, and his selection
+      as leader—reportedly made without his prior consultation—highlights the influential
+      role of the Islamic Revolutionary Guard Corps (IRGC) in Iran's political landscape.
+      This transition signals that Iran's political system is operational and unified,
+      even amidst the challenges posed by war and leadership changes.
+    published: '2026-03-13T18:58:11+00:00'
+  - title: 'Defiance Amid Bombs: Iran’s Leadership Signals No Collapse, Enduring Attrition,
+      and Strait Leverage'
+    url: https://ejmagnier.com/2026/03/13/defiance-amid-bombs-irans-leadership-signals-no-collapse-enduring-attrition-and-strait-leverage/
+    text: By Elijah J. Magnier While Donald Trump boasted that all Iranian officials
+      had been “wiped off the face of the Earth,” Israeli officials now quietly acknowledge
+      a very different reality. Iran’s ruling system remains firmly in control, and
+      the conditions on the ground are far from ripe for a popular uprising. Despite
+      the heavy blows inflicted by the war, Tehran’s battered leadership has retained
+      its grip on the state, forcing even Israeli assessments to concede that the regime
+      is unlikely to collapse in the immediate future. Indeed, in his first public message—read
+      aloud on state television by a news anchor alongside a still photograph, as he
+      has not appeared in person amid the conflict— Ayatollah Sayyed Mojtaba Ali Khamenei,
+      after assuming the leadership of the Islamic Republic, projects a clear continuity
+      with the political and strategic line established by his father. The tone of the
+      speech reflects the same determination to prosecute the war by all available means
+      and to pursue a strategy that, according to officials in Tehran, had been prepared
+      in advance by the late Supreme Leader before his assassination. The new leader
+      himself reportedly survived an assassination attempt during the same turbulent
+      period, reinforcing the sense within Iran’s political establishment that the country
+      is now operating under conditions of existential confrontation. The circumstances
+      surrounding his selection also reveal much about Iran’s wartime political system.
+      Sayyed Mojtaba Khamenei was reportedly chosen without his prior consultation,
+      suggesting that the institutional apparatus surrounding the leadership, particularly
+      the Islamic Revolutionary Guard Corps (IRGC), played a decisive role in shaping
+      the outcome within the Assembly of Experts. Rather than indicating institutional
+      fragility, the transition appears designed to signal that the system remains fully
+      operational despite the shock of war and leadership loss. The message projected
+      domestically and externally is one of continuity, organisational discipline, and
+      readiness to retaliate against what Tehran describes as an unlawful war initiated
+      by the United States and Israel without authorisation from the United Nations
+      Security Council. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Despite Donald Trump's claims of Iranian officials being eliminated,
+      Israeli assessments reveal that Iran's leadership remains firmly in control and
+      unlikely to collapse, as demonstrated by Ayatollah Khamenei's commitment to continuing
+      the established political and strategic direction of the regime.
+    paragraph_summary: Despite Donald Trump's claims of a weakened Iranian leadership,
+      the reality is that Iran's ruling system remains intact and resilient, with no
+      imminent threat of collapse. Israeli officials have acknowledged that Tehran's
+      leadership, now under Ayatollah Sayyed Mojtaba Ali Khamenei, continues to maintain
+      control and pursue a determined wartime strategy, reflecting continuity with the
+      policies of the late Supreme Leader. Khamenei's first public message, delivered
+      through state media, emphasizes a commitment to ongoing conflict, and his selection
+      as leader—reportedly made without his prior consultation—highlights the influential
+      role of the Islamic Revolutionary Guard Corps (IRGC) in Iran's political landscape.
+      This transition signals that Iran's political system is operational and unified,
+      even amidst the challenges posed by war and leadership changes.
+    published: '2026-03-13T18:58:11+00:00'
+  - title: 'Défi sous les bombes : la direction iranienne ne montre aucun signe d’effondrement,
+      mise sur l’usure et le levier du détroit'
+    url: https://ejmagnier.com/2026/03/13/defi-sous-les-bombes-la-direction-iranienne-ne-montre-aucun-signe-deffondrement-mise-sur-lusure-et-le-levier-du-detroit/
+    text: Par Elijah J. Magnier Alors que Donald Trump se vantait que tous les responsables
+      iraniens avaient été « effacés de la surface de la Terre », des responsables israéliens
+      reconnaissent désormais discrètement une réalité bien différente. Le système dirigeant
+      iranien reste fermement en place, et les conditions sur le terrain sont loin d’être
+      mûres pour un soulèvement populaire. Malgré les coups sévères infligés par la
+      guerre, la direction de Téhéran, bien que fragilisée, a conservé son emprise sur
+      l’État, obligeant même les évaluations israéliennes à admettre que le régime a
+      peu de chances de s’effondrer dans un avenir immédiat. En effet, dans son premier
+      message public – lu à la télévision d’État par un présentateur aux côtés d’une
+      photographie fixe, puisqu’il n’est pas apparu en personne dans le contexte du
+      conflit – l’ayatollah Sayyed Mojtaba Ali Khamenei, après avoir assumé la direction
+      de la République islamique, affiche une continuité claire avec la ligne politique
+      et stratégique établie par son père. Le ton du discours reflète la même détermination
+      à poursuivre la guerre par tous les moyens disponibles et à suivre une stratégie
+      qui, selon des responsables à Téhéran, avait été préparée à l’avance par le Guide
+      suprême défunt avant son assassinat. Le nouveau dirigeant aurait lui-même survécu
+      à une tentative d’assassinat durant cette période particulièrement agitée, renforçant
+      au sein de l’establishment politique iranien l’idée que le pays se trouve désormais
+      dans une situation de confrontation existentielle. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Malgré les affirmations de Donald Trump sur l'effondrement
+      du régime iranien, des responsables israéliens admettent que le système dirigeant
+      en Iran reste solide et que les conditions ne sont pas propices à un soulèvement
+      populaire.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que, contrairement aux
+      affirmations de Donald Trump sur l'effondrement du régime iranien, des responsables
+      israéliens reconnaissent que le système dirigeant en Iran reste solide et que
+      les conditions ne sont pas propices à un soulèvement populaire. Malgré les défis
+      posés par la guerre, la direction de Téhéran, bien que fragilisée, maintient son
+      contrôle, et les évaluations israéliennes indiquent que le régime n'est pas en
+      danger immédiat d'effondrement. L'ayatollah Sayyed Mojtaba Ali Khamenei, qui a
+      récemment pris la tête de la République islamique, a exprimé une continuité avec
+      les politiques de son prédécesseur, affichant une détermination à poursuivre la
+      guerre et à suivre une stratégie préparée avant l'assassinat du Guide suprême
+      précédent, tout en ayant survécu à une tentative d'assassinat, ce qui renforce
+      la perception d'une confrontation existentielle pour l'Iran.
+    published: '2026-03-13T18:57:16+00:00'
+  - title: 'Défi sous les bombes : la direction iranienne ne montre aucun signe d’effondrement,
+      mise sur l’usure et le levier du détroit'
+    url: https://ejmagnier.com/2026/03/13/defi-sous-les-bombes-la-direction-iranienne-ne-montre-aucun-signe-deffondrement-mise-sur-lusure-et-le-levier-du-detroit/
+    text: Par Elijah J. Magnier Alors que Donald Trump se vantait que tous les responsables
+      iraniens avaient été « effacés de la surface de la Terre », des responsables israéliens
+      reconnaissent désormais discrètement une réalité bien différente. Le système dirigeant
+      iranien reste fermement en place, et les conditions sur le terrain sont loin d’être
+      mûres pour un soulèvement populaire. Malgré les coups sévères infligés par la
+      guerre, la direction de Téhéran, bien que fragilisée, a conservé son emprise sur
+      l’État, obligeant même les évaluations israéliennes à admettre que le régime a
+      peu de chances de s’effondrer dans un avenir immédiat. En effet, dans son premier
+      message public – lu à la télévision d’État par un présentateur aux côtés d’une
+      photographie fixe, puisqu’il n’est pas apparu en personne dans le contexte du
+      conflit – l’ayatollah Sayyed Mojtaba Ali Khamenei, après avoir assumé la direction
+      de la République islamique, affiche une continuité claire avec la ligne politique
+      et stratégique établie par son père. Le ton du discours reflète la même détermination
+      à poursuivre la guerre par tous les moyens disponibles et à suivre une stratégie
+      qui, selon des responsables à Téhéran, avait été préparée à l’avance par le Guide
+      suprême défunt avant son assassinat. Le nouveau dirigeant aurait lui-même survécu
+      à une tentative d’assassinat durant cette période particulièrement agitée, renforçant
+      au sein de l’establishment politique iranien l’idée que le pays se trouve désormais
+      dans une situation de confrontation existentielle. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Malgré les affirmations de Donald Trump sur l'effondrement
+      du régime iranien, des responsables israéliens admettent que le système dirigeant
+      en Iran reste solide et que les conditions ne sont pas propices à un soulèvement
+      populaire.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que, contrairement aux
+      affirmations de Donald Trump sur l'effondrement du régime iranien, des responsables
+      israéliens reconnaissent que le système dirigeant en Iran reste solide et que
+      les conditions ne sont pas propices à un soulèvement populaire. Malgré les défis
+      posés par la guerre, la direction de Téhéran, bien que fragilisée, maintient son
+      contrôle, et les évaluations israéliennes indiquent que le régime n'est pas en
+      danger immédiat d'effondrement. L'ayatollah Sayyed Mojtaba Ali Khamenei, qui a
+      récemment pris la tête de la République islamique, a exprimé une continuité avec
+      les politiques de son prédécesseur, affichant une détermination à poursuivre la
+      guerre et à suivre une stratégie préparée avant l'assassinat du Guide suprême
+      précédent, tout en ayant survécu à une tentative d'assassinat, ce qui renforce
+      la perception d'une confrontation existentielle pour l'Iran.
+    published: '2026-03-13T18:57:16+00:00'
+  - title: 'Trotzig trotz Bomben: Irans Führung signalisiert keinen Zusammenbruch, anhaltenden
+      Verschleiß und Einfluss in der Meeresstraße'
+    url: https://ejmagnier.com/2026/03/13/trotzig-trotz-bomben-irans-fuhrung-signalisiert-keinen-zusammenbruch-anhaltenden-verschleis-und-einfluss-in-der-meeresstrase/
+    text: Von Elijah J. Magnier Während Donald Trump damit prahlte, dass alle iranischen
+      Beamten „von der Erde getilgt“ worden seien, erkennen israelische Beamte nun stillschweigend
+      eine ganz andere Realität an. Das iranische Regierungssystem hat weiterhin die
+      Kontrolle, und die Bedingungen vor Ort sind noch lange nicht reif für einen Volksaufstand.
+      Trotz der schweren Schläge, die der Krieg verursacht hat, hat die geschwächte
+      Führung in Teheran ihre Macht über den Staat behalten, sodass selbst israelische
+      Einschätzungen zugeben müssen, dass ein Zusammenbruch des Regimes in naher Zukunft
+      unwahrscheinlich ist. Tatsächlich signalisiert Ayatollah Sayyed Mojtaba Ali Khamenei
+      in seiner ersten öffentlichen Botschaft – die von einem Nachrichtensprecher im
+      staatlichen Fernsehen neben einem Standbild vorgelesen wurde, da er aufgrund des
+      anhaltenden Konflikts nicht persönlich erschien –, nachdem er die Führung der
+      Islamischen Republik übernommen hat, eine klare Kontinuität mit der politischen
+      und strategischen Linie seines Vaters. Der Ton der Rede spiegelt die gleiche Entschlossenheit
+      wider, den Krieg mit allen verfügbaren Mitteln fortzusetzen und eine Strategie
+      zu verfolgen, die laut offiziellen Angaben aus Teheran vom verstorbenen Obersten
+      Führer vor seiner Ermordung vorbereitet worden war. Der neue Führer selbst soll
+      während derselben turbulenten Zeit ein Attentat überlebt haben, was innerhalb
+      der politischen Führung des Iran das Gefühl verstärkt, dass sich das Land derzeit
+      in einer existenziellen Konfrontation befindet. Die Umstände seiner Wahl sagen
+      auch viel über die Funktionsweise des politischen Systems des Iran in Kriegszeiten
+      aus. Sayyed Mojtaba Khamenei wurde Berichten zufolge ohne vorherige Rücksprache
+      mit ihm ausgewählt, was darauf hindeutet, dass der institutionelle Apparat um
+      die Führung herum, insbesondere die Islamische Revolutionsgarde (IRGC), eine entscheidende
+      Rolle bei der Gestaltung des Ergebnisses innerhalb der Expertenversammlung gespielt
+      hat. Der Übergang deutet nicht auf institutionelle Schwäche hin, sondern soll
+      vielmehr signalisieren, dass das System trotz des Schocks des Krieges und des
+      Verlusts der Führung voll funktionsfähig bleibt. Die Botschaft, die nach innen
+      und außen vermittelt wird, ist eine Botschaft der Kontinuität, der organisatorischen
+      Disziplin und der Bereitschaft, sich gegen das zu wehren, was Teheran als einen
+      unrechtmäßigen Krieg bezeichnet, der von den Vereinigten Staaten und Israel ohne
+      Genehmigung des Sicherheitsrats der Vereinten Nationen begonnen wurde. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Trotz Donald Trumps Behauptungen über den Zusammenbruch des
+      iranischen Regimes erkennen israelische Beamte an, dass die iranische Führung
+      weiterhin an der Macht bleibt und ein Volksaufstand gegen das Regime unwahrscheinlich
+      ist.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Diskrepanz zwischen
+      Donald Trumps Behauptungen über den Zusammenbruch des iranischen Regimes und der
+      Realität, wie sie von israelischen Beamten wahrgenommen wird, beleuchtet. Trotz
+      der Herausforderungen durch den Krieg behält die iranische Führung unter Ayatollah
+      Sayyed Mojtaba Ali Khamenei, der die politische Linie seines Vaters fortsetzt,
+      die Kontrolle über den Staat. Khamenei signalisiert Entschlossenheit, den Konflikt
+      mit allen Mitteln fortzusetzen, und seine Wahl zeigt, dass die Islamische Revolutionsgarde
+      eine entscheidende Rolle im politischen System des Iran spielt, insbesondere in
+      Krisenzeiten. Dies deutet darauf hin, dass ein Regimewechsel in naher Zukunft
+      unwahrscheinlich ist, da das Land sich in einer existenziellen Konfrontation befindet.
+    published: '2026-03-13T18:56:03+00:00'
+  - title: 'Trotzig trotz Bomben: Irans Führung signalisiert keinen Zusammenbruch, anhaltenden
+      Verschleiß und Einfluss in der Meeresstraße'
+    url: https://ejmagnier.com/2026/03/13/trotzig-trotz-bomben-irans-fuhrung-signalisiert-keinen-zusammenbruch-anhaltenden-verschleis-und-einfluss-in-der-meeresstrase/
+    text: Von Elijah J. Magnier Während Donald Trump damit prahlte, dass alle iranischen
+      Beamten „von der Erde getilgt“ worden seien, erkennen israelische Beamte nun stillschweigend
+      eine ganz andere Realität an. Das iranische Regierungssystem hat weiterhin die
+      Kontrolle, und die Bedingungen vor Ort sind noch lange nicht reif für einen Volksaufstand.
+      Trotz der schweren Schläge, die der Krieg verursacht hat, hat die geschwächte
+      Führung in Teheran ihre Macht über den Staat behalten, sodass selbst israelische
+      Einschätzungen zugeben müssen, dass ein Zusammenbruch des Regimes in naher Zukunft
+      unwahrscheinlich ist. Tatsächlich signalisiert Ayatollah Sayyed Mojtaba Ali Khamenei
+      in seiner ersten öffentlichen Botschaft – die von einem Nachrichtensprecher im
+      staatlichen Fernsehen neben einem Standbild vorgelesen wurde, da er aufgrund des
+      anhaltenden Konflikts nicht persönlich erschien –, nachdem er die Führung der
+      Islamischen Republik übernommen hat, eine klare Kontinuität mit der politischen
+      und strategischen Linie seines Vaters. Der Ton der Rede spiegelt die gleiche Entschlossenheit
+      wider, den Krieg mit allen verfügbaren Mitteln fortzusetzen und eine Strategie
+      zu verfolgen, die laut offiziellen Angaben aus Teheran vom verstorbenen Obersten
+      Führer vor seiner Ermordung vorbereitet worden war. Der neue Führer selbst soll
+      während derselben turbulenten Zeit ein Attentat überlebt haben, was innerhalb
+      der politischen Führung des Iran das Gefühl verstärkt, dass sich das Land derzeit
+      in einer existenziellen Konfrontation befindet. Die Umstände seiner Wahl sagen
+      auch viel über die Funktionsweise des politischen Systems des Iran in Kriegszeiten
+      aus. Sayyed Mojtaba Khamenei wurde Berichten zufolge ohne vorherige Rücksprache
+      mit ihm ausgewählt, was darauf hindeutet, dass der institutionelle Apparat um
+      die Führung herum, insbesondere die Islamische Revolutionsgarde (IRGC), eine entscheidende
+      Rolle bei der Gestaltung des Ergebnisses innerhalb der Expertenversammlung gespielt
+      hat. Der Übergang deutet nicht auf institutionelle Schwäche hin, sondern soll
+      vielmehr signalisieren, dass das System trotz des Schocks des Krieges und des
+      Verlusts der Führung voll funktionsfähig bleibt. Die Botschaft, die nach innen
+      und außen vermittelt wird, ist eine Botschaft der Kontinuität, der organisatorischen
+      Disziplin und der Bereitschaft, sich gegen das zu wehren, was Teheran als einen
+      unrechtmäßigen Krieg bezeichnet, der von den Vereinigten Staaten und Israel ohne
+      Genehmigung des Sicherheitsrats der Vereinten Nationen begonnen wurde. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Trotz Donald Trumps Behauptungen über den Zusammenbruch des
+      iranischen Regimes erkennen israelische Beamte an, dass die iranische Führung
+      weiterhin an der Macht bleibt und ein Volksaufstand gegen das Regime unwahrscheinlich
+      ist.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Diskrepanz zwischen
+      Donald Trumps Behauptungen über den Zusammenbruch des iranischen Regimes und der
+      Realität, wie sie von israelischen Beamten wahrgenommen wird, beleuchtet. Trotz
+      der Herausforderungen durch den Krieg behält die iranische Führung unter Ayatollah
+      Sayyed Mojtaba Ali Khamenei, der die politische Linie seines Vaters fortsetzt,
+      die Kontrolle über den Staat. Khamenei signalisiert Entschlossenheit, den Konflikt
+      mit allen Mitteln fortzusetzen, und seine Wahl zeigt, dass die Islamische Revolutionsgarde
+      eine entscheidende Rolle im politischen System des Iran spielt, insbesondere in
+      Krisenzeiten. Dies deutet darauf hin, dass ein Regimewechsel in naher Zukunft
+      unwahrscheinlich ist, da das Land sich in einer existenziellen Konfrontation befindet.
+    published: '2026-03-13T18:56:03+00:00'
+  - title: 'Pas de pétrole du Golfe, pas d’économie mondiale: la guerre Trump–Netanyahu
+      et ses conséquences globales'
+    url: https://ejmagnier.com/2026/03/12/pas-de-petrole-du-golfe-pas-deconomie-mondiale-la-guerre-trump-netanyahu-et-ses-consequences-globales/
+    text: Par Elijah J. Magnier – Retirez 10 à 15 millions de barils de pétrole par
+      jour des marchés mondiaux et le choc ne resterait pas limité aux négociants en
+      énergie ou aux compagnies pétrolières. Il se répercuterait sur toute l’architecture
+      de l’économie moderne. Le Golfe n’est pas simplement une autre région productrice.
+      C’est l’artère centrale du système énergétique mondial. Interrompez ce flux et
+      les conséquences se propagent immédiatement aux marchés des carburants, à la production
+      d’électricité, aux transports, à la pétrochimie, à l’agriculture, à l’industrie
+      manufacturière et aux hautes technologies. Selon l’Agence internationale de l’énergie,
+      la demande mondiale de pétrole, d’après les prévisions récentes, se situe entre
+      environ 103 et 106 millions de barils par jour. Une perturbation retirant 10 à
+      15 millions de barils par jour représente donc environ 10 à 15 % de l’offre mondiale.
+      Peu de chocs d’une telle ampleur se sont produits dans l’histoire énergétique
+      moderne. Les crises pétrolières des années 1970 impliquaient des perturbations
+      d’approvisionnement plus modestes, mais ont pourtant provoqué une inflation sévère
+      et une contraction économique dans de nombreuses économies avancées. L’ampleur
+      du choc serait également mesurable en termes macroéconomiques. Les économistes
+      de l’énergie et les modèles utilisés par des institutions telles que le Fonds
+      monétaire international suggèrent que chaque augmentation durable de 10 dollars
+      du prix du pétrole tend à ajouter environ 0,1 à 0,2 point de pourcentage à l’inflation
+      mondiale tout en réduisant la croissance économique d’un ordre de grandeur similaire.
+      Si la disparition de 10 à 15 millions de barils par jour poussait les prix du
+      pétrole vers ou au-dessus de 100 dollars le baril pendant une période prolongée,
+      l’inflation mondiale pourrait augmenter d’environ 0,2 à 0,7 point de pourcentage.
+      Dans le même temps, la croissance économique mondiale pourrait ralentir d’environ
+      0,1 à 0,4 point de pourcentage. Dans les économies importatrices d’énergie, l’effet
+      pourrait être considérablement plus fort. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Un retrait de 10 à 15 millions de barils de pétrole par jour
+      des marchés mondiaux aurait des répercussions majeures sur l'ensemble de l'économie
+      moderne, affectant divers secteurs allant de l'énergie à l'agriculture, en raison
+      de l'importance centrale du Golfe dans le système énergétique mondial.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne les conséquences économiques
+      majeures d'une réduction de 10 à 15 millions de barils de pétrole par jour sur
+      les marchés mondiaux, en raison de l'importance cruciale du Golfe dans le système
+      énergétique global. Une telle perturbation, représentant environ 10 à 15 % de
+      l'offre mondiale, entraînerait des répercussions sur divers secteurs, y compris
+      les carburants, l'électricité, les transports, la pétrochimie, l'agriculture,
+      et l'industrie manufacturière. Les prévisions de l'Agence internationale de l'énergie
+      indiquent que la demande mondiale de pétrole se situe entre 103 et 106 millions
+      de barils par jour, et une telle crise pourrait provoquer une inflation mondiale
+      accrue de 0,2 à 0,7 point de pourcentage, tout en ralentissant la croissance économique
+      de 0,1 à 0,4 point de pourcentage, rappelant les crises pétrolières des années
+      1970 qui avaient déjà causé des effets économiques significatifs.
+    published: '2026-03-12T18:38:31+00:00'
+  - title: 'Pas de pétrole du Golfe, pas d’économie mondiale: la guerre Trump–Netanyahu
+      et ses conséquences globales'
+    url: https://ejmagnier.com/2026/03/12/pas-de-petrole-du-golfe-pas-deconomie-mondiale-la-guerre-trump-netanyahu-et-ses-consequences-globales/
+    text: Par Elijah J. Magnier – Retirez 10 à 15 millions de barils de pétrole par
+      jour des marchés mondiaux et le choc ne resterait pas limité aux négociants en
+      énergie ou aux compagnies pétrolières. Il se répercuterait sur toute l’architecture
+      de l’économie moderne. Le Golfe n’est pas simplement une autre région productrice.
+      C’est l’artère centrale du système énergétique mondial. Interrompez ce flux et
+      les conséquences se propagent immédiatement aux marchés des carburants, à la production
+      d’électricité, aux transports, à la pétrochimie, à l’agriculture, à l’industrie
+      manufacturière et aux hautes technologies. Selon l’Agence internationale de l’énergie,
+      la demande mondiale de pétrole, d’après les prévisions récentes, se situe entre
+      environ 103 et 106 millions de barils par jour. Une perturbation retirant 10 à
+      15 millions de barils par jour représente donc environ 10 à 15 % de l’offre mondiale.
+      Peu de chocs d’une telle ampleur se sont produits dans l’histoire énergétique
+      moderne. Les crises pétrolières des années 1970 impliquaient des perturbations
+      d’approvisionnement plus modestes, mais ont pourtant provoqué une inflation sévère
+      et une contraction économique dans de nombreuses économies avancées. L’ampleur
+      du choc serait également mesurable en termes macroéconomiques. Les économistes
+      de l’énergie et les modèles utilisés par des institutions telles que le Fonds
+      monétaire international suggèrent que chaque augmentation durable de 10 dollars
+      du prix du pétrole tend à ajouter environ 0,1 à 0,2 point de pourcentage à l’inflation
+      mondiale tout en réduisant la croissance économique d’un ordre de grandeur similaire.
+      Si la disparition de 10 à 15 millions de barils par jour poussait les prix du
+      pétrole vers ou au-dessus de 100 dollars le baril pendant une période prolongée,
+      l’inflation mondiale pourrait augmenter d’environ 0,2 à 0,7 point de pourcentage.
+      Dans le même temps, la croissance économique mondiale pourrait ralentir d’environ
+      0,1 à 0,4 point de pourcentage. Dans les économies importatrices d’énergie, l’effet
+      pourrait être considérablement plus fort. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Un retrait de 10 à 15 millions de barils de pétrole par jour
+      des marchés mondiaux aurait des répercussions majeures sur l'ensemble de l'économie
+      moderne, affectant divers secteurs allant de l'énergie à l'agriculture, en raison
+      de l'importance centrale du Golfe dans le système énergétique mondial.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne les conséquences économiques
+      majeures d'une réduction de 10 à 15 millions de barils de pétrole par jour sur
+      les marchés mondiaux, en raison de l'importance cruciale du Golfe dans le système
+      énergétique global. Une telle perturbation, représentant environ 10 à 15 % de
+      l'offre mondiale, entraînerait des répercussions sur divers secteurs, y compris
+      les carburants, l'électricité, les transports, la pétrochimie, l'agriculture,
+      et l'industrie manufacturière. Les prévisions de l'Agence internationale de l'énergie
+      indiquent que la demande mondiale de pétrole se situe entre 103 et 106 millions
+      de barils par jour, et une telle crise pourrait provoquer une inflation mondiale
+      accrue de 0,2 à 0,7 point de pourcentage, tout en ralentissant la croissance économique
+      de 0,1 à 0,4 point de pourcentage, rappelant les crises pétrolières des années
+      1970 qui avaient déjà causé des effets économiques significatifs.
+    published: '2026-03-12T18:38:31+00:00'
+  - title: 'Ohne Öl aus dem Golf keine Weltwirtschaft: Der Krieg zwischen Trump und
+      Netanjahu und seine globalen Folgen'
+    url: https://ejmagnier.com/2026/03/12/ohne-ol-aus-dem-golf-keine-weltwirtschaft-der-krieg-zwischen-trump-und-netanjahu-und-seine-globalen-folgen/
+    text: Von Elijah J. Magnier – Wenn täglich 10 bis 15 Millionen Barrel Öl vom Weltmarkt
+      verschwinden würden, wäre der Schock nicht auf Energiehändler oder Ölkonzerne
+      beschränkt. Er würde sich auf die gesamte Architektur der modernen Wirtschaft
+      auswirken. Der Golf ist nicht einfach nur eine weitere Förderregion. Er ist die
+      zentrale Arterie des globalen Energiesystems. Würde dieser Fluss unterbrochen,
+      hätten die Folgen sofort Auswirkungen auf die Kraftstoffmärkte, die Stromerzeugung,
+      den Transport, die Petrochemie, die Landwirtschaft, das verarbeitende Gewerbe
+      und die Hochtechnologie. Laut der Internationalen Energieagentur liegt die weltweite
+      Ölnachfrage in aktuellen Prognosen bei etwa 103 bis 106 Millionen Barrel pro Tag.
+      Eine Unterbrechung, die 10 bis 15 Millionen Barrel pro Tag ausfallen lässt, entspricht
+      daher etwa 10 bis 15 Prozent des weltweiten Angebots. In der modernen Energiegeschichte
+      gab es nur wenige Schocks dieser Größenordnung. Die Ölkrisen der 1970er Jahre
+      waren mit geringeren Versorgungsunterbrechungen verbunden, lösten jedoch in vielen
+      fortgeschrittenen Volkswirtschaften eine starke Inflation und eine wirtschaftliche
+      Kontraktion aus. Das Ausmaß des Schocks wäre auch in makroökonomischer Hinsicht
+      messbar. Energieökonomen und Modelle, die von Institutionen wie dem Internationalen
+      Währungsfonds verwendet werden, legen nahe, dass jeder anhaltende Anstieg des
+      Ölpreises um 10 US-Dollar tendenziell zu einem Anstieg der weltweiten Inflation
+      um etwa 0,1 bis 0,2 Prozentpunkte führt und gleichzeitig das Wirtschaftswachstum
+      in ähnlichem Umfang schmälert. Wenn die Entfernung von 10 bis 15 Millionen Barrel
+      pro Tag die Ölpreise über einen längeren Zeitraum auf oder über 100 US-Dollar
+      pro Barrel treiben würde, könnte die globale Inflation um etwa 0,2 bis 0,7 Prozentpunkte
+      steigen. Im Gegensatz dazu könnte sich das globale Wirtschaftswachstum um etwa
+      0,1 bis 0,4 Prozentpunkte verlangsamen. In energieimportierenden Volkswirtschaften
+      können die Auswirkungen erheblich stärker sein. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Ein plötzlicher Verlust von 10 bis 15 Millionen Barrel Öl
+      pro Tag vom Weltmarkt würde nicht nur die Energiebranche, sondern die gesamte
+      moderne Wirtschaft erheblich destabilisieren, da der Golf eine zentrale Rolle
+      im globalen Energiesystem spielt.
+    paragraph_summary: Elijah J. Magnier beschreibt die potenziellen wirtschaftlichen
+      Auswirkungen eines plötzlichen Verlusts von 10 bis 15 Millionen Barrel Öl pro
+      Tag vom Weltmarkt, was etwa 10 bis 15 Prozent des globalen Angebots entspricht.
+      Diese Unterbrechung würde nicht nur Energiehändler und Ölkonzerne betreffen, sondern
+      auch die gesamte moderne Wirtschaft, einschließlich Kraftstoffmärkte, Stromerzeugung,
+      Transport und Landwirtschaft. Historisch gesehen haben bereits kleinere Ölkrisen
+      in den 1970er Jahren zu Inflation und wirtschaftlicher Kontraktion geführt. Laut
+      der Internationalen Energieagentur könnte ein anhaltender Anstieg des Ölpreises
+      um 10 US-Dollar die weltweite Inflation um 0,1 bis 0,2 Prozentpunkte erhöhen und
+      das Wirtschaftswachstum entsprechend verringern. Ein Anstieg der Ölpreise über
+      100 US-Dollar pro Barrel könnte die globale Inflation um 0,2 bis 0,7 Prozentpunkte
+      ansteigen lassen und das Wirtschaftswachstum um 0,1 bis 0,4 Prozentpunkte verlangsamen,
+      wobei die Auswirkungen in energieimportierenden Volkswirtschaften noch gravierender
+      wären.
+    published: '2026-03-12T18:35:16+00:00'
+  - title: 'Ohne Öl aus dem Golf keine Weltwirtschaft: Der Krieg zwischen Trump und
+      Netanjahu und seine globalen Folgen'
+    url: https://ejmagnier.com/2026/03/12/ohne-ol-aus-dem-golf-keine-weltwirtschaft-der-krieg-zwischen-trump-und-netanjahu-und-seine-globalen-folgen/
+    text: Von Elijah J. Magnier – Wenn täglich 10 bis 15 Millionen Barrel Öl vom Weltmarkt
+      verschwinden würden, wäre der Schock nicht auf Energiehändler oder Ölkonzerne
+      beschränkt. Er würde sich auf die gesamte Architektur der modernen Wirtschaft
+      auswirken. Der Golf ist nicht einfach nur eine weitere Förderregion. Er ist die
+      zentrale Arterie des globalen Energiesystems. Würde dieser Fluss unterbrochen,
+      hätten die Folgen sofort Auswirkungen auf die Kraftstoffmärkte, die Stromerzeugung,
+      den Transport, die Petrochemie, die Landwirtschaft, das verarbeitende Gewerbe
+      und die Hochtechnologie. Laut der Internationalen Energieagentur liegt die weltweite
+      Ölnachfrage in aktuellen Prognosen bei etwa 103 bis 106 Millionen Barrel pro Tag.
+      Eine Unterbrechung, die 10 bis 15 Millionen Barrel pro Tag ausfallen lässt, entspricht
+      daher etwa 10 bis 15 Prozent des weltweiten Angebots. In der modernen Energiegeschichte
+      gab es nur wenige Schocks dieser Größenordnung. Die Ölkrisen der 1970er Jahre
+      waren mit geringeren Versorgungsunterbrechungen verbunden, lösten jedoch in vielen
+      fortgeschrittenen Volkswirtschaften eine starke Inflation und eine wirtschaftliche
+      Kontraktion aus. Das Ausmaß des Schocks wäre auch in makroökonomischer Hinsicht
+      messbar. Energieökonomen und Modelle, die von Institutionen wie dem Internationalen
+      Währungsfonds verwendet werden, legen nahe, dass jeder anhaltende Anstieg des
+      Ölpreises um 10 US-Dollar tendenziell zu einem Anstieg der weltweiten Inflation
+      um etwa 0,1 bis 0,2 Prozentpunkte führt und gleichzeitig das Wirtschaftswachstum
+      in ähnlichem Umfang schmälert. Wenn die Entfernung von 10 bis 15 Millionen Barrel
+      pro Tag die Ölpreise über einen längeren Zeitraum auf oder über 100 US-Dollar
+      pro Barrel treiben würde, könnte die globale Inflation um etwa 0,2 bis 0,7 Prozentpunkte
+      steigen. Im Gegensatz dazu könnte sich das globale Wirtschaftswachstum um etwa
+      0,1 bis 0,4 Prozentpunkte verlangsamen. In energieimportierenden Volkswirtschaften
+      können die Auswirkungen erheblich stärker sein. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Ein plötzlicher Verlust von 10 bis 15 Millionen Barrel Öl
+      pro Tag vom Weltmarkt würde nicht nur die Energiebranche, sondern die gesamte
+      moderne Wirtschaft erheblich destabilisieren, da der Golf eine zentrale Rolle
+      im globalen Energiesystem spielt.
+    paragraph_summary: Elijah J. Magnier beschreibt die potenziellen wirtschaftlichen
+      Auswirkungen eines plötzlichen Verlusts von 10 bis 15 Millionen Barrel Öl pro
+      Tag vom Weltmarkt, was etwa 10 bis 15 Prozent des globalen Angebots entspricht.
+      Diese Unterbrechung würde nicht nur Energiehändler und Ölkonzerne betreffen, sondern
+      auch die gesamte moderne Wirtschaft, einschließlich Kraftstoffmärkte, Stromerzeugung,
+      Transport und Landwirtschaft. Historisch gesehen haben bereits kleinere Ölkrisen
+      in den 1970er Jahren zu Inflation und wirtschaftlicher Kontraktion geführt. Laut
+      der Internationalen Energieagentur könnte ein anhaltender Anstieg des Ölpreises
+      um 10 US-Dollar die weltweite Inflation um 0,1 bis 0,2 Prozentpunkte erhöhen und
+      das Wirtschaftswachstum entsprechend verringern. Ein Anstieg der Ölpreise über
+      100 US-Dollar pro Barrel könnte die globale Inflation um 0,2 bis 0,7 Prozentpunkte
+      ansteigen lassen und das Wirtschaftswachstum um 0,1 bis 0,4 Prozentpunkte verlangsamen,
+      wobei die Auswirkungen in energieimportierenden Volkswirtschaften noch gravierender
+      wären.
+    published: '2026-03-12T18:35:16+00:00'
+  - title: 'No Gulf Oil, No Global Economy: The Trump–Netanyahu War and Its Global Consequences'
+    url: https://ejmagnier.com/2026/03/12/no-gulf-oil-no-global-economy-the-trump-netanyahu-war-and-its-global-consequences/
+    text: By Elijah J. Magnier – Remove 10 to 15 million barrels of oil per day from
+      global markets, and the shock would not remain confined to energy traders or oil
+      companies. It would reverberate across the entire architecture of the modern economy.
+      The Gulf is not simply another producing region. It is the central artery of the
+      global energy system. Interrupt that flow and the consequences spread immediately
+      through fuel markets, electricity generation, transport, petrochemicals, agriculture,
+      manufacturing and high technology. According to the International Energy Agency,
+      global oil demand in recent forecasts stands at roughly 103 to 106 million barrels
+      per day. A disruption removing 10 to 15 million barrels per day, therefore, represents
+      roughly 10 to 15 per cent of global supply. Few shocks of that scale have occurred
+      in modern energy history. The oil crises of the 1970s involved smaller supply
+      disruptions yet triggered severe inflation and economic contraction across many
+      advanced economies. The scale of the shock would also be measurable in macroeconomic
+      terms. Energy economists and modelling used by institutions such as the International
+      Monetary Fund suggest that every sustained increase of $10 in the price of oil
+      tends to add roughly 0.1 to 0.2 percentage points to global inflation while shaving
+      a similar magnitude from economic growth. If the removal of 10 to 15 million barrels
+      per day pushed oil prices toward or above $100 per barrel for a prolonged period,
+      global inflation could rise by roughly 0.2 to 0.7 percentage points. In contrast,
+      global economic growth could slow by approximately 0.1 to 0.4 percentage points.
+      In energy-importing economies, the effect can be considerably stronger. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: A significant reduction of 10 to 15 million barrels of oil
+      per day from global markets would have widespread and severe repercussions on
+      the entire modern economy, affecting various sectors beyond just energy.
+    paragraph_summary: Elijah J. Magnier discusses the profound impact that a disruption
+      of 10 to 15 million barrels of oil per day from global markets would have on the
+      modern economy, emphasizing that the Gulf region is crucial to the global energy
+      system. Such a significant reduction, representing about 10 to 15 percent of global
+      oil supply, would trigger widespread consequences beyond just the energy sector,
+      affecting fuel markets, electricity generation, transportation, and various industries.
+      Historical precedents, like the oil crises of the 1970s, illustrate how smaller
+      supply disruptions led to severe inflation and economic downturns. Current economic
+      models suggest that a sustained increase in oil prices due to this disruption
+      could elevate global inflation by 0.2 to 0.7 percentage points and slow economic
+      growth by 0.1 to 0.4 percentage points, with even more pronounced effects in energy-importing
+      countries.
+    published: '2026-03-12T18:32:16+00:00'
+  - title: 'No Gulf Oil, No Global Economy: The Trump–Netanyahu War and Its Global Consequences'
+    url: https://ejmagnier.com/2026/03/12/no-gulf-oil-no-global-economy-the-trump-netanyahu-war-and-its-global-consequences/
+    text: By Elijah J. Magnier – Remove 10 to 15 million barrels of oil per day from
+      global markets, and the shock would not remain confined to energy traders or oil
+      companies. It would reverberate across the entire architecture of the modern economy.
+      The Gulf is not simply another producing region. It is the central artery of the
+      global energy system. Interrupt that flow and the consequences spread immediately
+      through fuel markets, electricity generation, transport, petrochemicals, agriculture,
+      manufacturing and high technology. According to the International Energy Agency,
+      global oil demand in recent forecasts stands at roughly 103 to 106 million barrels
+      per day. A disruption removing 10 to 15 million barrels per day, therefore, represents
+      roughly 10 to 15 per cent of global supply. Few shocks of that scale have occurred
+      in modern energy history. The oil crises of the 1970s involved smaller supply
+      disruptions yet triggered severe inflation and economic contraction across many
+      advanced economies. The scale of the shock would also be measurable in macroeconomic
+      terms. Energy economists and modelling used by institutions such as the International
+      Monetary Fund suggest that every sustained increase of $10 in the price of oil
+      tends to add roughly 0.1 to 0.2 percentage points to global inflation while shaving
+      a similar magnitude from economic growth. If the removal of 10 to 15 million barrels
+      per day pushed oil prices toward or above $100 per barrel for a prolonged period,
+      global inflation could rise by roughly 0.2 to 0.7 percentage points. In contrast,
+      global economic growth could slow by approximately 0.1 to 0.4 percentage points.
+      In energy-importing economies, the effect can be considerably stronger. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: A significant reduction of 10 to 15 million barrels of oil
+      per day from global markets would have widespread and severe repercussions on
+      the entire modern economy, affecting various sectors beyond just energy.
+    paragraph_summary: Elijah J. Magnier discusses the profound impact that a disruption
+      of 10 to 15 million barrels of oil per day from global markets would have on the
+      modern economy, emphasizing that the Gulf region is crucial to the global energy
+      system. Such a significant reduction, representing about 10 to 15 percent of global
+      oil supply, would trigger widespread consequences beyond just the energy sector,
+      affecting fuel markets, electricity generation, transportation, and various industries.
+      Historical precedents, like the oil crises of the 1970s, illustrate how smaller
+      supply disruptions led to severe inflation and economic downturns. Current economic
+      models suggest that a sustained increase in oil prices due to this disruption
+      could elevate global inflation by 0.2 to 0.7 percentage points and slow economic
+      growth by 0.1 to 0.4 percentage points, with even more pronounced effects in energy-importing
+      countries.
+    published: '2026-03-12T18:32:16+00:00'
+  - title: Hat der Iran seine Raketen und Drohnen aufgebraucht? Argumente für strategische
+      Einsparungen und Zermürbung
+    url: https://ejmagnier.com/2026/03/11/hat-der-iran-seine-raketen-und-drohnen-aufgebraucht-argumente-fur-strategische-einsparungen-und-zermurbung/
+    text: 'Von Elijah J. Magnier Der Iran verfügt über eine große heimische Raketenindustrie,
+      die in der Lage ist, ballistische Raketen und Drohnen in großem Umfang herzustellen.
+      In langwierigen Konflikten ist die entscheidende Frage nicht nur, wie viele Raketen
+      auf Lager sind, sondern auch, wie schnell sie durch die heimische Produktion wieder
+      aufgefüllt werden können. Während US-Präsident Donald Trump offenbar bestrebt
+      ist, den Krieg zu beenden, bevor er für Washington und seine Partner am Golf größere
+      militärische, finanzielle und strategische Kosten verursacht, scheint Israel darauf
+      bedacht zu sein, den Iran sowohl wirtschaftlich als auch militärisch zu schwächen.
+      Teheran seinerseits könnte einen Vorteil darin sehen, den Konflikt in die Länge
+      zu ziehen. Die wiederkehrende Behauptung, dass dem Iran die Raketen und Drohnen
+      ausgehen, sollte mit Vorsicht behandelt werden. Eine Verringerung des Abschusstempos
+      deutet nicht unbedingt auf eine verminderte Leistungsfähigkeit hin. In der Raketenkriegsführung
+      kann ein geringeres Tempo eine bewusste strategische Veränderung widerspiegeln.
+      Nach einer Anfangsphase mit schweren Salven, die darauf abzielen, den Gegner zu
+      schockieren, Absichten zu signalisieren und seine Verteidigung zu testen, kann
+      eine Raketenstreitmacht einen gemäßigteren Rhythmus annehmen, um Vorräte zu schonen,
+      die Zielgenauigkeit zu verbessern und den Druck über einen längeren Zeitraum aufrechtzuerhalten.
+      In diesem Zusammenhang ist Sparsamkeit nicht unbedingt eine Schwäche, sondern
+      kann Teil eines operativen Konzepts sein, das darauf abzielt, den Konflikt zu
+      verlängern und den Verteidiger zu erschöpfen. Raketenkriege werden nicht nur durch
+      das Feueraufkommen in der Anfangsphase bestimmt, sondern auch durch das Tempo.
+      Eine Streitmacht, die zu schnell zu viel abschießt, kann zwar eine unmittelbare
+      Wirkung erzielen, läuft jedoch Gefahr, ihre Vorräte vorzeitig zu erschöpfen. Eine
+      Verlangsamung des Tempos nach dem ersten Beschuss kann stattdessen einem kalkulierten
+      Zweck dienen: den Verteidiger in ständiger Alarmbereitschaft zu halten und gleichzeitig
+      die Fähigkeit zu bewahren, über einen längeren Zeitraum weiter zuzuschlagen. Ein
+      verlangsamtes Tempo ermöglicht auch die Bewertung der Kampfschäden und die Aktualisierung
+      der Informationen zwischen den Angriffswellen, wodurch nachfolgende Angriffe selektiver
+      und potenziell effektiver werden. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Iran verfügt über eine leistungsfähige Raketenindustrie,
+      die es ihm ermöglicht, ballistische Raketen und Drohnen schnell nachzuproduzieren,
+      während geopolitische Spannungen zwischen den USA und Israel bestehen, die darauf
+      abzielen, den Iran sowohl militärisch als auch wirtschaftlich zu schwächen.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die Fähigkeiten
+      der iranischen Raketenindustrie, die in der Lage ist, ballistische Raketen und
+      Drohnen in großem Umfang zu produzieren, und betont, dass die entscheidende Frage
+      in langwierigen Konflikten nicht nur die Anzahl der verfügbaren Raketen, sondern
+      auch die Geschwindigkeit ihrer Wiederauffüllung ist. Während US-Präsident Trump
+      möglicherweise an einer Beendigung des Konflikts interessiert ist, um höhere Kosten
+      für die USA und ihre Partner im Golf zu vermeiden, strebt Israel an, den Iran
+      sowohl wirtschaftlich als auch militärisch zu schwächen. Magnier warnt davor,
+      die Behauptungen über einen Mangel an iranischen Raketen und Drohnen zu überbewerten,
+      da eine Verringerung des Abschusstempos nicht unbedingt auf eine verminderte Leistungsfähigkeit
+      hinweist, sondern auch eine strategische Entscheidung sein kann, um Ressourcen
+      zu schonen und den Druck über einen längeren Zeitraum aufrechtzuerhalten. In diesem
+      Kontext kann eine bewusste Sparsamkeit als Teil eines operativen Konzepts betrachtet
+      werden, das darauf abzielt, den Konflikt zu verlängern und den Gegner zu erschöpfen.
+    published: '2026-03-11T22:37:46+00:00'
+  - title: Hat der Iran seine Raketen und Drohnen aufgebraucht? Argumente für strategische
+      Einsparungen und Zermürbung
+    url: https://ejmagnier.com/2026/03/11/hat-der-iran-seine-raketen-und-drohnen-aufgebraucht-argumente-fur-strategische-einsparungen-und-zermurbung/
+    text: 'Von Elijah J. Magnier Der Iran verfügt über eine große heimische Raketenindustrie,
+      die in der Lage ist, ballistische Raketen und Drohnen in großem Umfang herzustellen.
+      In langwierigen Konflikten ist die entscheidende Frage nicht nur, wie viele Raketen
+      auf Lager sind, sondern auch, wie schnell sie durch die heimische Produktion wieder
+      aufgefüllt werden können. Während US-Präsident Donald Trump offenbar bestrebt
+      ist, den Krieg zu beenden, bevor er für Washington und seine Partner am Golf größere
+      militärische, finanzielle und strategische Kosten verursacht, scheint Israel darauf
+      bedacht zu sein, den Iran sowohl wirtschaftlich als auch militärisch zu schwächen.
+      Teheran seinerseits könnte einen Vorteil darin sehen, den Konflikt in die Länge
+      zu ziehen. Die wiederkehrende Behauptung, dass dem Iran die Raketen und Drohnen
+      ausgehen, sollte mit Vorsicht behandelt werden. Eine Verringerung des Abschusstempos
+      deutet nicht unbedingt auf eine verminderte Leistungsfähigkeit hin. In der Raketenkriegsführung
+      kann ein geringeres Tempo eine bewusste strategische Veränderung widerspiegeln.
+      Nach einer Anfangsphase mit schweren Salven, die darauf abzielen, den Gegner zu
+      schockieren, Absichten zu signalisieren und seine Verteidigung zu testen, kann
+      eine Raketenstreitmacht einen gemäßigteren Rhythmus annehmen, um Vorräte zu schonen,
+      die Zielgenauigkeit zu verbessern und den Druck über einen längeren Zeitraum aufrechtzuerhalten.
+      In diesem Zusammenhang ist Sparsamkeit nicht unbedingt eine Schwäche, sondern
+      kann Teil eines operativen Konzepts sein, das darauf abzielt, den Konflikt zu
+      verlängern und den Verteidiger zu erschöpfen. Raketenkriege werden nicht nur durch
+      das Feueraufkommen in der Anfangsphase bestimmt, sondern auch durch das Tempo.
+      Eine Streitmacht, die zu schnell zu viel abschießt, kann zwar eine unmittelbare
+      Wirkung erzielen, läuft jedoch Gefahr, ihre Vorräte vorzeitig zu erschöpfen. Eine
+      Verlangsamung des Tempos nach dem ersten Beschuss kann stattdessen einem kalkulierten
+      Zweck dienen: den Verteidiger in ständiger Alarmbereitschaft zu halten und gleichzeitig
+      die Fähigkeit zu bewahren, über einen längeren Zeitraum weiter zuzuschlagen. Ein
+      verlangsamtes Tempo ermöglicht auch die Bewertung der Kampfschäden und die Aktualisierung
+      der Informationen zwischen den Angriffswellen, wodurch nachfolgende Angriffe selektiver
+      und potenziell effektiver werden. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Iran verfügt über eine leistungsfähige Raketenindustrie,
+      die es ihm ermöglicht, ballistische Raketen und Drohnen schnell nachzuproduzieren,
+      während geopolitische Spannungen zwischen den USA und Israel bestehen, die darauf
+      abzielen, den Iran sowohl militärisch als auch wirtschaftlich zu schwächen.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die Fähigkeiten
+      der iranischen Raketenindustrie, die in der Lage ist, ballistische Raketen und
+      Drohnen in großem Umfang zu produzieren, und betont, dass die entscheidende Frage
+      in langwierigen Konflikten nicht nur die Anzahl der verfügbaren Raketen, sondern
+      auch die Geschwindigkeit ihrer Wiederauffüllung ist. Während US-Präsident Trump
+      möglicherweise an einer Beendigung des Konflikts interessiert ist, um höhere Kosten
+      für die USA und ihre Partner im Golf zu vermeiden, strebt Israel an, den Iran
+      sowohl wirtschaftlich als auch militärisch zu schwächen. Magnier warnt davor,
+      die Behauptungen über einen Mangel an iranischen Raketen und Drohnen zu überbewerten,
+      da eine Verringerung des Abschusstempos nicht unbedingt auf eine verminderte Leistungsfähigkeit
+      hinweist, sondern auch eine strategische Entscheidung sein kann, um Ressourcen
+      zu schonen und den Druck über einen längeren Zeitraum aufrechtzuerhalten. In diesem
+      Kontext kann eine bewusste Sparsamkeit als Teil eines operativen Konzepts betrachtet
+      werden, das darauf abzielt, den Konflikt zu verlängern und den Gegner zu erschöpfen.
+    published: '2026-03-11T22:37:46+00:00'
+  - title: L’Iran a-t-il épuisé ses missiles et ses drones ? L’argument en faveur d’une
+      conservation stratégique et d’une guerre d’attrition
+    url: https://ejmagnier.com/2026/03/11/liran-a-t-il-epuise-ses-missiles-et-ses-drones-largument-en-faveur-dune-conservation-strategique-et-dune-guerre-dattrition/
+    text: 'Par Elijah J. Magnier L’Iran dispose d’une importante industrie nationale
+      de missiles capable de produire à grande échelle des missiles balistiques et des
+      drones. Dans les conflits prolongés, la question décisive n’est pas seulement
+      le nombre de missiles stockés, mais aussi la rapidité avec laquelle ils peuvent
+      être reconstitués grâce à la production nationale. Alors que le président américain
+      Donald Trump semble désireux de mettre fin à la guerre avant qu’elle n’engendre
+      des coûts militaires, financiers et stratégiques plus élevés pour Washington et
+      ses partenaires du Golfe, Israël semble concentré sur l’affaiblissement de l’Iran
+      autant sur le plan économique que militaire. Téhéran, pour sa part, pourrait voir
+      un avantage à prolonger le conflit. L’affirmation récurrente selon laquelle l’Iran
+      manquerait de missiles et de drones doit être abordée avec prudence. Une réduction
+      du rythme de lancement n’indique pas nécessairement une dégradation des capacités.
+      Dans la guerre des missiles, un rythme plus lent peut refléter un changement stratégique
+      délibéré. Après une phase initiale de salves massives destinées à provoquer un
+      choc, à signaler des intentions et à tester les défenses adverses, une force de
+      missiles peut adopter un rythme plus mesuré afin de préserver ses stocks, d’améliorer
+      la précision du ciblage et de maintenir une pression sur la durée. Dans ce contexte,
+      la conservation n’est pas forcément un signe de faiblesse mais peut faire partie
+      d’un dispositif opérationnel visant à prolonger le conflit et à épuiser le défenseur.
+      Les guerres de missiles ne sont pas seulement déterminées par le volume de feu
+      lors de la phase initiale, mais aussi par le rythme des attaques. Une force qui
+      lance trop de missiles trop rapidement peut produire un effet immédiat, mais risque
+      d’épuiser prématurément ses stocks. Ralentir le rythme après la première salve
+      peut servir un objectif calculé : maintenir le défenseur en alerte permanente
+      tout en conservant la capacité de frapper sur une période plus longue. Un rythme
+      réduit permet également d’évaluer les dommages infligés et d’actualiser les renseignements
+      entre les vagues d’attaque, rendant les frappes suivantes plus sélectives et potentiellement
+      plus efficaces. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'Iran possède une industrie de missiles robuste capable de
+      produire rapidement des missiles balistiques et des drones, ce qui soulève des
+      questions sur la durabilité des capacités militaires dans le contexte des tensions
+      avec les États-Unis et Israël, qui cherchent à affaiblir Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne l'importance de l'industrie
+      iranienne des missiles, capable de produire des missiles balistiques et des drones
+      à grande échelle, et met en lumière la stratégie de Téhéran dans le cadre des
+      conflits prolongés. Alors que les États-Unis, sous la présidence de Donald Trump,
+      cherchent à éviter des coûts militaires et stratégiques croissants, Israël vise
+      à affaiblir l'Iran économiquement et militairement. L'article souligne que la
+      perception d'un manque de missiles en Iran doit être reconsidérée, car une diminution
+      du rythme de lancement peut être une stratégie délibérée pour préserver les stocks,
+      améliorer la précision et maintenir la pression sur l'adversaire. En effet, la
+      guerre des missiles ne dépend pas seulement du volume de feu initial, mais aussi
+      du rythme des attaques, où un ralentissement peut servir à garder l'ennemi en
+      alerte tout en conservant la capacité d'attaque.
+    published: '2026-03-11T22:30:20+00:00'
+  - title: L’Iran a-t-il épuisé ses missiles et ses drones ? L’argument en faveur d’une
+      conservation stratégique et d’une guerre d’attrition
+    url: https://ejmagnier.com/2026/03/11/liran-a-t-il-epuise-ses-missiles-et-ses-drones-largument-en-faveur-dune-conservation-strategique-et-dune-guerre-dattrition/
+    text: 'Par Elijah J. Magnier L’Iran dispose d’une importante industrie nationale
+      de missiles capable de produire à grande échelle des missiles balistiques et des
+      drones. Dans les conflits prolongés, la question décisive n’est pas seulement
+      le nombre de missiles stockés, mais aussi la rapidité avec laquelle ils peuvent
+      être reconstitués grâce à la production nationale. Alors que le président américain
+      Donald Trump semble désireux de mettre fin à la guerre avant qu’elle n’engendre
+      des coûts militaires, financiers et stratégiques plus élevés pour Washington et
+      ses partenaires du Golfe, Israël semble concentré sur l’affaiblissement de l’Iran
+      autant sur le plan économique que militaire. Téhéran, pour sa part, pourrait voir
+      un avantage à prolonger le conflit. L’affirmation récurrente selon laquelle l’Iran
+      manquerait de missiles et de drones doit être abordée avec prudence. Une réduction
+      du rythme de lancement n’indique pas nécessairement une dégradation des capacités.
+      Dans la guerre des missiles, un rythme plus lent peut refléter un changement stratégique
+      délibéré. Après une phase initiale de salves massives destinées à provoquer un
+      choc, à signaler des intentions et à tester les défenses adverses, une force de
+      missiles peut adopter un rythme plus mesuré afin de préserver ses stocks, d’améliorer
+      la précision du ciblage et de maintenir une pression sur la durée. Dans ce contexte,
+      la conservation n’est pas forcément un signe de faiblesse mais peut faire partie
+      d’un dispositif opérationnel visant à prolonger le conflit et à épuiser le défenseur.
+      Les guerres de missiles ne sont pas seulement déterminées par le volume de feu
+      lors de la phase initiale, mais aussi par le rythme des attaques. Une force qui
+      lance trop de missiles trop rapidement peut produire un effet immédiat, mais risque
+      d’épuiser prématurément ses stocks. Ralentir le rythme après la première salve
+      peut servir un objectif calculé : maintenir le défenseur en alerte permanente
+      tout en conservant la capacité de frapper sur une période plus longue. Un rythme
+      réduit permet également d’évaluer les dommages infligés et d’actualiser les renseignements
+      entre les vagues d’attaque, rendant les frappes suivantes plus sélectives et potentiellement
+      plus efficaces. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: L'Iran possède une industrie de missiles robuste capable de
+      produire rapidement des missiles balistiques et des drones, ce qui soulève des
+      questions sur la durabilité des capacités militaires dans le contexte des tensions
+      avec les États-Unis et Israël, qui cherchent à affaiblir Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne l'importance de l'industrie
+      iranienne des missiles, capable de produire des missiles balistiques et des drones
+      à grande échelle, et met en lumière la stratégie de Téhéran dans le cadre des
+      conflits prolongés. Alors que les États-Unis, sous la présidence de Donald Trump,
+      cherchent à éviter des coûts militaires et stratégiques croissants, Israël vise
+      à affaiblir l'Iran économiquement et militairement. L'article souligne que la
+      perception d'un manque de missiles en Iran doit être reconsidérée, car une diminution
+      du rythme de lancement peut être une stratégie délibérée pour préserver les stocks,
+      améliorer la précision et maintenir la pression sur l'adversaire. En effet, la
+      guerre des missiles ne dépend pas seulement du volume de feu initial, mais aussi
+      du rythme des attaques, où un ralentissement peut servir à garder l'ennemi en
+      alerte tout en conservant la capacité d'attaque.
+    published: '2026-03-11T22:30:20+00:00'
+  - title: Has Iran Depleted Its Missiles and Drones? The Case for Strategic Conservation
+      and Attrition
+    url: https://ejmagnier.com/2026/03/11/has-iran-depleted-its-missiles-and-drones-the-case-for-strategic-conservation-and-attrition/
+    text: 'By Elijah J. Magnier Iran possesses a large domestic missile industry capable
+      of producing ballistic missiles and drones at scale. In prolonged conflicts, the
+      decisive question is not only how many missiles exist in storage but how quickly
+      they can be replenished through domestic production. While the US president Donald
+      Trump appears eager to end the war before it generates larger military, financial
+      and strategic costs for Washington and its Gulf partners, Israel appears focused
+      on weakening Iran economically as much as militarily. Tehran, for its part, may
+      see advantage in stretching the conflict. The recurring claim that Iran is running
+      out of missiles and drones should be treated with caution. A reduction in launch
+      tempo does not necessarily indicate degraded capability. In missile warfare, a
+      lower tempo may reflect a deliberate strategic shift. After an initial phase of
+      heavy salvos intended to shock, signal intent and test the opponent’s defences,
+      a missile force may adopt a more measured rhythm to preserve inventory, improve
+      targeting and sustain pressure over time. Conservation in this context is not
+      necessarily weakness but can form part of an operational design aimed at prolonging
+      the conflict and exhausting the defender. Missile wars are shaped not only by
+      the volume of fire in the opening phase but also by pacing. A force that launches
+      too much too quickly may create immediate impact but risks prematurely exhausting
+      its stockpile. Slowing the tempo after the initial barrage may instead serve a
+      calculated purpose: keeping the defender on constant alert while maintaining the
+      capacity to continue striking over a longer period. A reduced pace also allows
+      for battle damage assessment and updated intelligence between waves, making subsequent
+      strikes more selective and potentially more effective. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Iran has a robust domestic missile industry capable of producing
+      ballistic missiles and drones, and while the U.S. seeks to end conflicts to avoid
+      escalating costs, Israel aims to weaken Iran, which may benefit from prolonging
+      the conflict despite claims of dwindling missile supplies being misleading.
+    paragraph_summary: The article by Elijah J. Magnier discusses Iran's robust domestic
+      missile and drone production capabilities, emphasizing that the key factor in
+      prolonged conflicts is not just the quantity of missiles but the speed of replenishment
+      through domestic manufacturing. While U.S. President Donald Trump seeks to end
+      conflicts to avoid escalating costs, Israel aims to weaken Iran economically and
+      militarily. The notion that Iran is running low on missiles should be approached
+      with skepticism, as a decrease in launch frequency may indicate a strategic shift
+      rather than diminished capability. After an initial barrage designed to shock
+      and test defenses, Iran may opt for a slower launch tempo to conserve resources,
+      enhance targeting, and sustain pressure over time. This deliberate pacing allows
+      for better assessment of damage and intelligence updates, ultimately making subsequent
+      strikes more effective while keeping adversaries on high alert.
+    published: '2026-03-11T22:14:17+00:00'
+  - title: Has Iran Depleted Its Missiles and Drones? The Case for Strategic Conservation
+      and Attrition
+    url: https://ejmagnier.com/2026/03/11/has-iran-depleted-its-missiles-and-drones-the-case-for-strategic-conservation-and-attrition/
+    text: 'By Elijah J. Magnier Iran possesses a large domestic missile industry capable
+      of producing ballistic missiles and drones at scale. In prolonged conflicts, the
+      decisive question is not only how many missiles exist in storage but how quickly
+      they can be replenished through domestic production. While the US president Donald
+      Trump appears eager to end the war before it generates larger military, financial
+      and strategic costs for Washington and its Gulf partners, Israel appears focused
+      on weakening Iran economically as much as militarily. Tehran, for its part, may
+      see advantage in stretching the conflict. The recurring claim that Iran is running
+      out of missiles and drones should be treated with caution. A reduction in launch
+      tempo does not necessarily indicate degraded capability. In missile warfare, a
+      lower tempo may reflect a deliberate strategic shift. After an initial phase of
+      heavy salvos intended to shock, signal intent and test the opponent’s defences,
+      a missile force may adopt a more measured rhythm to preserve inventory, improve
+      targeting and sustain pressure over time. Conservation in this context is not
+      necessarily weakness but can form part of an operational design aimed at prolonging
+      the conflict and exhausting the defender. Missile wars are shaped not only by
+      the volume of fire in the opening phase but also by pacing. A force that launches
+      too much too quickly may create immediate impact but risks prematurely exhausting
+      its stockpile. Slowing the tempo after the initial barrage may instead serve a
+      calculated purpose: keeping the defender on constant alert while maintaining the
+      capacity to continue striking over a longer period. A reduced pace also allows
+      for battle damage assessment and updated intelligence between waves, making subsequent
+      strikes more selective and potentially more effective. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Iran has a robust domestic missile industry capable of producing
+      ballistic missiles and drones, and while the U.S. seeks to end conflicts to avoid
+      escalating costs, Israel aims to weaken Iran, which may benefit from prolonging
+      the conflict despite claims of dwindling missile supplies being misleading.
+    paragraph_summary: The article by Elijah J. Magnier discusses Iran's robust domestic
+      missile and drone production capabilities, emphasizing that the key factor in
+      prolonged conflicts is not just the quantity of missiles but the speed of replenishment
+      through domestic manufacturing. While U.S. President Donald Trump seeks to end
+      conflicts to avoid escalating costs, Israel aims to weaken Iran economically and
+      militarily. The notion that Iran is running low on missiles should be approached
+      with skepticism, as a decrease in launch frequency may indicate a strategic shift
+      rather than diminished capability. After an initial barrage designed to shock
+      and test defenses, Iran may opt for a slower launch tempo to conserve resources,
+      enhance targeting, and sustain pressure over time. This deliberate pacing allows
+      for better assessment of damage and intelligence updates, ultimately making subsequent
+      strikes more effective while keeping adversaries on high alert.
+    published: '2026-03-11T22:14:17+00:00'
   - title: 'Der Krieg gegen den Iran: Vom Blitzschlag zum strategischen Patt'
     url: https://ejmagnier.com/2026/03/10/der-krieg-gegen-den-iran-vom-blitzschlag-zum-strategischen-patt/
     text: 'Von Elijah J. Magnier – „Friedenspräsident“ Donald Trump ging davon aus,

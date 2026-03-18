@@ -7,26 +7,142 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The geopolitical landscape remains tense following the escalation of violence in Iran and the deepening involvement of the United States and Israel in the region. Over the past 48 hours, new reports have highlighted the intensification of targeted attacks within Iran, the strategic motivations behind Israeli policy, and the broader implications for European security and international law.
+  The geopolitical landscape remains tense following the recent escalation of US and Israeli military actions against Iran, with reverberations across Europe and the global information environment. The aftermath of these events continues to shape international relations, media discourse, and security policies.
   
-  **Targeted Attacks in Iran Intensify**
+  **Sanctions and Humanitarian Impact**  
+  A significant new point of debate has emerged around the humanitarian consequences of Western sanctions. In his latest analysis, **Jan Oberg** highlights John Mearsheimer's assertion that US sanctions have resulted in approximately 38 million deaths, a figure that has sparked renewed calls for a critical reassessment of sanctions as a tool of statecraft. Oberg stresses the urgent need for open discourse on the comparative impact of sanctions versus conventional warfare, noting that such discussions are largely absent from mainstream policy debates.
   
-  Recent events in Iran, particularly in Minab, have underscored a shift in the nature of violence. As **Elaheh Pooyandeh** notes, “Iranians are not merely collateral damage but are the primary targets of violence.” This perspective is gaining traction among independent analysts, who point to a deliberate strategy aimed at destabilizing Iranian society rather than incidental harm. The attacks are widely seen as part of a broader campaign to weaken Iran internally, coinciding with ongoing military operations.
+  **Transformation of the Information Environment**  
+  Oberg also draws attention to the ongoing decline of free media and democratic discourse in the West. He observes that peace-oriented perspectives, such as those advocated by the Transnational Foundation for Peace and Future Research (TFF), are increasingly marginalized. This shift, he argues, has contributed to a narrowing of acceptable viewpoints and a diminished public understanding of the true costs of conflict and sanctions.
   
-  **Israeli Policy and U.S. Involvement**
+  **European Security and Nuclear Policy**  
+  In the context of heightened tensions, the Danish government's recent openness to a French proposal on extending French nuclear forces has raised questions about the future of European security. Oberg points out that this move reflects broader anxieties about the continent's vulnerability amid US and Israeli military assertiveness, particularly regarding Iran. The debate over the viability of "nuclear small states" is expected to intensify as European leaders seek to balance deterrence with non-proliferation commitments.
   
-  A significant development comes from Israeli Prime Minister Benjamin Netanyahu’s recent statement, in which he expressed satisfaction at having involved the United States in a major conflict with Iran after decades of effort. **Jan Oberg** highlights that this marks the culmination of a long-standing “anti-Iran policy as a significant objective for Israeli propagandists.” The explicit acknowledgment of this objective signals a new phase in regional power dynamics, with Israel openly framing its actions as a “sacred mission” and leveraging U.S. military support.
+  **Trends and Predictions**  
+  Looking ahead, Oberg predicts with high confidence that the humanitarian impact of sanctions will become a central issue in international policy debates, especially as independent analysts continue to challenge prevailing narratives. There is also a high chance that the marginalization of peace-oriented voices in Western media will persist, further complicating efforts to foster open dialogue on security and humanitarian issues. Finally, the evolution of European nuclear policy is quite likely to accelerate, driven by ongoing instability in the Middle East and uncertainty over US commitments to European defense.
   
-  **European Security and Nuclear Policy**
-  
-  In parallel, the Danish government’s acceptance of a French proposal to explore the extension of French nuclear forces has raised questions about the future of European security. As **Jan Oberg** observes, this move reflects growing anxiety among smaller European states regarding their vulnerability in the face of escalating U.S./Israeli actions against Iran. The debate over the viability of a “nuclear small state” is intensifying, with implications for NATO cohesion and the broader European security architecture.
-  
-  **Trends and Predictions**
-  
-  The majority of independent analysts agree that the conflict in Iran is entering a more dangerous phase, with civilians increasingly at risk and regional actors pursuing more aggressive strategies. The explicit alignment of U.S. and Israeli objectives, coupled with European uncertainty, suggests that further escalation is “most definitely” likely in the coming weeks. There is a “high chance” that targeted attacks will continue and possibly expand in scope, while European states may accelerate discussions on nuclear deterrence and collective security.
-  
-  In summary, the situation remains volatile, with new evidence of deliberate targeting of Iranian civilians, open strategic alignment between the U.S. and Israel, and growing unease in Europe. The outlook points toward continued instability and the potential for broader regional consequences.
+  In summary, the current period is marked by increasing scrutiny of sanctions, a shrinking space for dissenting voices in Western discourse, and a reevaluation of security strategies in Europe—all set against the backdrop of continued conflict and humanitarian concern in Iran.
 articles:
+  - title: What Mearsheimer Gets Right — and Wrong — About 38 Million Sanctions Deaths
+    url: https://transnational.live/2026/03/16/what-mearsheimer-gets-right-and-wrong-about-38-million-sanctions-deaths/
+    text: A friendly quarrel while we agree that the US sanctions are a weapon of mass
+      destruction and kill more people than wars do. And that we must talk much more
+      about sanctions than we have so far. Jan Oberg, TFF director March 16, 2026 John
+      Mearsheimer recently stated that U.S. sanctions murdered around 38 million […]
+      The post What Mearsheimer Gets Right — and Wrong — About 38 Million Sanctions
+      Deaths appeared first on The Transnational .
+    one_sentence_summary: The article discusses the debate surrounding U.S. sanctions,
+      highlighting John Mearsheimer's claim that they have caused approximately 38 million
+      deaths, and emphasizes the need for more discourse on the impact of sanctions
+      compared to traditional warfare.
+    paragraph_summary: In a recent discussion, Jan Oberg, director of The Transnational
+      Foundation, reflects on John Mearsheimer's assertion that U.S. sanctions have
+      resulted in approximately 38 million deaths, arguing that these sanctions function
+      as a form of mass destruction that often goes unaddressed in public discourse.
+      Oberg emphasizes the need for greater dialogue surrounding the impact of sanctions,
+      suggesting that their lethal consequences may surpass those of traditional warfare.
+      The article critiques Mearsheimer's claims while underscoring the importance of
+      acknowledging the humanitarian toll of sanctions.
+    published: '2026-03-16T21:29:31+00:00'
+  - title: What Mearsheimer Gets Right — and Wrong — About 38 Million Sanctions Deaths
+    url: https://transnational.live/2026/03/16/what-mearsheimer-gets-right-and-wrong-about-38-million-sanctions-deaths/
+    text: A friendly quarrel while we agree that the US sanctions are a weapon of mass
+      destruction and kill more people than wars do. And that we must talk much more
+      about sanctions than we have so far. Jan Oberg, TFF director March 16, 2026 John
+      Mearsheimer recently stated that U.S. sanctions murdered around 38 million […]
+      The post What Mearsheimer Gets Right — and Wrong — About 38 Million Sanctions
+      Deaths appeared first on The Transnational .
+    one_sentence_summary: The article discusses the debate surrounding U.S. sanctions,
+      highlighting John Mearsheimer's claim that they have caused approximately 38 million
+      deaths, and emphasizes the need for more discourse on the impact of sanctions
+      compared to traditional warfare.
+    paragraph_summary: In a recent discussion, Jan Oberg, director of The Transnational
+      Foundation, reflects on John Mearsheimer's assertion that U.S. sanctions have
+      resulted in approximately 38 million deaths, arguing that these sanctions function
+      as a form of mass destruction that often goes unaddressed in public discourse.
+      Oberg emphasizes the need for greater dialogue surrounding the impact of sanctions,
+      suggesting that their lethal consequences may surpass those of traditional warfare.
+      The article critiques Mearsheimer's claims while underscoring the importance of
+      acknowledging the humanitarian toll of sanctions.
+    published: '2026-03-16T21:29:31+00:00'
+  - title: How the Information Environment Changed — And How TFF And Peace Were Pushed
+      Aside
+    url: https://transnational.live/2026/03/16/how-the-information-environment-changed-and-how-tff-and-peace-were-pushed-aside/
+    text: And how we make the necessary changes now to secure our future. “We witness
+      the attempted abolition of the West’s relatively free media and open democratic
+      debate about international affairs. War is peace, aggression is defence. The Internet
+      and social media are no longer the open, decentralised public sphere they were
+      twenty years ago. They […] The post How the Information Environment Changed —
+      And How TFF And Peace Were Pushed Aside appeared first on The Transnational .
+    one_sentence_summary: The article discusses the decline of free media and open democratic
+      discourse in the West, highlighting how the information environment has transformed
+      and marginalized peace-oriented perspectives.
+    paragraph_summary: The article discusses the decline of free media and open democratic
+      discourse in the West, highlighting how the information environment has transformed
+      over the past two decades. It emphasizes the troubling shift where concepts like
+      "war is peace" and "aggression is defense" have become prevalent, suggesting that
+      the Internet and social media, once platforms for decentralized public debate,
+      are now increasingly controlled and manipulated. The piece calls for urgent changes
+      to reclaim and secure a future that supports genuine dialogue and peace, while
+      noting that organizations like TFF (Transnational Foundation for Peace and Future
+      Research) have been marginalized in this evolving landscape.
+    published: '2026-03-16T21:15:10+00:00'
+  - title: How the Information Environment Changed — And How TFF And Peace Were Pushed
+      Aside
+    url: https://transnational.live/2026/03/16/how-the-information-environment-changed-and-how-tff-and-peace-were-pushed-aside/
+    text: And how we make the necessary changes now to secure our future. “We witness
+      the attempted abolition of the West’s relatively free media and open democratic
+      debate about international affairs. War is peace, aggression is defence. The Internet
+      and social media are no longer the open, decentralised public sphere they were
+      twenty years ago. They […] The post How the Information Environment Changed —
+      And How TFF And Peace Were Pushed Aside appeared first on The Transnational .
+    one_sentence_summary: The article discusses the decline of free media and open democratic
+      discourse in the West, highlighting how the information environment has transformed
+      and marginalized peace-oriented perspectives.
+    paragraph_summary: The article discusses the decline of free media and open democratic
+      discourse in the West, highlighting how the information environment has transformed
+      over the past two decades. It emphasizes the troubling shift where concepts like
+      "war is peace" and "aggression is defense" have become prevalent, suggesting that
+      the Internet and social media, once platforms for decentralized public debate,
+      are now increasingly controlled and manipulated. The piece calls for urgent changes
+      to reclaim and secure a future that supports genuine dialogue and peace, while
+      noting that organizations like TFF (Transnational Foundation for Peace and Future
+      Research) have been marginalized in this evolving landscape.
+    published: '2026-03-16T21:15:10+00:00'
+  - title: CV of TFF Associate – Li Xing
+    url: https://transnational.live/2026/03/11/cv-of-tff-associate-li-xing/
+    text: Li Xing Professor at Guangdong, China We are happy to announce that Professor
+      Li Xing has accepted to become a TFF Associate upon our invitation to him in February
+      2026. Li Xing, born 1962, is a Danish national. Since the summer of 2024, has
+      been appointed as Yunshan Leading Scholar, Distinguished Professor, Director of
+      the […] The post CV of TFF Associate – Li Xing appeared first on The Transnational
+      .
+    one_sentence_summary: Professor Li Xing, a Danish national and Yunshan Leading Scholar,
+      has accepted an invitation to become a TFF Associate in February 2026.
+    paragraph_summary: Professor Li Xing, a Danish national born in 1962, has accepted
+      an invitation to become a TFF Associate starting in February 2026. Currently serving
+      as the Yunshan Leading Scholar and Distinguished Professor at Guangdong, China,
+      he has held this position since the summer of 2024. The announcement highlights
+      his academic contributions and the significance of his new role within the Transnational
+      Foundation for Peace and Future Research.
+    published: '2026-03-11T22:40:07+00:00'
+  - title: CV of TFF Associate – Li Xing
+    url: https://transnational.live/2026/03/11/cv-of-tff-associate-li-xing/
+    text: Li Xing Professor at Guangdong, China We are happy to announce that Professor
+      Li Xing has accepted to become a TFF Associate upon our invitation to him in February
+      2026. Li Xing, born 1962, is a Danish national. Since the summer of 2024, has
+      been appointed as Yunshan Leading Scholar, Distinguished Professor, Director of
+      the […] The post CV of TFF Associate – Li Xing appeared first on The Transnational
+      .
+    one_sentence_summary: Professor Li Xing, a Danish national and Yunshan Leading Scholar,
+      has accepted an invitation to become a TFF Associate in February 2026.
+    paragraph_summary: Professor Li Xing, a Danish national born in 1962, has accepted
+      an invitation to become a TFF Associate starting in February 2026. Currently serving
+      as the Yunshan Leading Scholar and Distinguished Professor at Guangdong, China,
+      he has held this position since the summer of 2024. The announcement highlights
+      his academic contributions and the significance of his new role within the Transnational
+      Foundation for Peace and Future Research.
+    published: '2026-03-11T22:40:07+00:00'
   - title: These Targetted Attacks – Minab among them
     url: https://transnational.live/2026/03/09/these-targetted-attacks-minab-among-them/
     text: Iranians enjoying life 2016 © Jan Oberg An Iranian voice of true peace “The

@@ -7,18 +7,93 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The geopolitical landscape remains tense as the United States intensifies its assertive posture in both the Caribbean and the Middle East, with ripple effects for regional actors and global alignments. Recent developments underscore Washington’s willingness to leverage hard power and economic pressure, particularly in its dealings with Russia, Cuba, and Iran.
+  The ongoing US-Israeli war in Iran continues to dominate the geopolitical landscape, with international calls for de-escalation intensifying. The conflict, which has seen the closure of the Strait of Hormuz under orders from Iran's new leader, Ayatollah Seyyed Mojtaba Khamenei, has entered a phase of prolonged attrition, with both sides showing little sign of backing down.
   
-  The most recent and notable event is the diversion of the Russian oil tanker Sea Horse, which was forced to abandon its delivery of 200,000 barrels of gas oil to Cuba due to a US naval blockade. **M. K. Bhadrakumar** highlights this as a direct demonstration of US resolve to enforce its sanctions regime and limit Russian influence in the Western Hemisphere. This move not only exacerbates Cuba’s ongoing energy crisis but also signals to Moscow and its allies that the US is prepared to escalate maritime enforcement in the region.
+  In a significant development, **M. K. Bhadrakumar** reports that Pope Leo XIV has publicly called for an immediate end to hostilities during an address in St. Peter’s Square. This intervention from the Vatican underscores the growing global concern over the humanitarian and economic consequences of the conflict, particularly as energy markets remain volatile due to disruptions in the Persian Gulf.
   
-  In the Middle East, the US continues to pressure India to align more closely with its stance on Iran. **M. K. Bhadrakumar** argues that the Modi government faces increasing difficulty balancing its strategic autonomy with Washington’s demands, especially as the US seeks to expand the scope of its confrontation with Iran. There is growing advocacy within Indian policy circles for a more independent approach, including collaboration with other regional powers to de-escalate tensions.
+  Meanwhile, diplomatic efforts remain stalled. The US, under President Trump, continues its confrontational posture, while Iran’s leadership insists on maintaining the closure of the Strait of Hormuz as leverage. According to **M. K. Bhadrakumar**, Ayatollah Mojtaba’s message to Trump—"Bring it on!"—signals Tehran’s readiness for a drawn-out confrontation rather than seeking a negotiated settlement at this stage.
   
-  Meanwhile, the US remains deeply engaged in shaping the political future of Venezuela. Washington’s support for acting president Delcy Rodriguez, as reported earlier, is part of a broader effort to manage the transition from Nicolás Maduro and counter both Russian and Chinese influence in Latin America. The recent military buildup in Puerto Rico, including the deployment of F-35 fighter jets, further illustrates the Pentagon’s readiness to project force in the Caribbean.
+  The regional implications are profound. Previous reports highlighted the diversion of Russian oil shipments due to US naval blockades, and the Modi government in India faces mounting pressure to distance itself from the US-Israeli axis and play a more active role in de-escalation efforts. However, there is no new information on shifts in India’s position or on the progress of US-Iran negotiations since the last update.
   
-  Looking ahead, the trends point toward sustained US assertiveness in both the Caribbean and Middle East theaters. The blockade of Russian shipments to Cuba is likely to persist, with high confidence that further confrontations at sea may occur. In the Middle East, there is a high chance that India will continue to face pressure from Washington, but the likelihood of New Delhi decisively breaking with the US line remains low in the near term. The situation in Venezuela will remain fluid, but US military and diplomatic engagement is most definitely set to continue, with the aim of shaping post-Maduro outcomes.
-  
-  Overall, the prevailing trend is one of intensifying US interventionism, with secondary powers like India and Russia maneuvering to protect their interests amid shifting global alignments.
+  **Trends and Predictions:**  
+  The majority of analysts, including **M. K. Bhadrakumar**, assess that the conflict is set to continue as a war of attrition, with neither side willing to make significant concessions in the near term. There is a high chance that international diplomatic pressure, as exemplified by the Pope’s intervention, will increase, but the prospects for a rapid ceasefire remain low. The economic fallout, especially regarding global energy supplies, is expected to persist, with most sources agreeing that the situation will remain tense and unpredictable for the foreseeable future.
 articles:
+  - title: 'Mojtaba’s message to Trump: ‘Bring it on!’'
+    url: https://www.indianpunchline.com/mojtabas-message-to-trump-bring-it-on/
+    text: 'Pope Leo XIV issued his strongest and most direct demand to date for an end
+      to the US-Israeli war in Iran, addressing those gathered to pray the Angelus in
+      St. Peter’s Square, Vatican, March 15, 2026 There is an English proverb, ‘The
+      darkest hours are just before the dawn.’ Maybe, hope should linger on that … Continue
+      reading "Mojtaba’s message to Trump: ‘Bring it on!’" The post Mojtaba’s message
+      to Trump: ‘Bring it on!’ appeared first on Indian Punchline .'
+    one_sentence_summary: Pope Leo XIV called for an immediate end to the US-Israeli
+      war in Iran during a public address in St. Peter’s Square, expressing hope amidst
+      the ongoing conflict.
+    paragraph_summary: Pope Leo XIV made a powerful appeal for the cessation of the
+      US-Israeli conflict in Iran during a prayer gathering at St. Peter's Square on
+      March 15, 2026, emphasizing the need for hope amidst turmoil. His remarks reflect
+      a growing concern over the escalating violence and a call for peace, resonating
+      with the proverb that suggests hope often emerges in the darkest times. The article
+      also references a provocative message from Mojtaba to Trump, signaling a tense
+      political climate.
+    published: '2026-03-16T06:38:30+00:00'
+  - title: 'Mojtaba’s message to Trump: ‘Bring it on!’'
+    url: https://www.indianpunchline.com/mojtabas-message-to-trump-bring-it-on/
+    text: 'Pope Leo XIV issued his strongest and most direct demand to date for an end
+      to the US-Israeli war in Iran, addressing those gathered to pray the Angelus in
+      St. Peter’s Square, Vatican, March 15, 2026 There is an English proverb, ‘The
+      darkest hours are just before the dawn.’ Maybe, hope should linger on that … Continue
+      reading "Mojtaba’s message to Trump: ‘Bring it on!’" The post Mojtaba’s message
+      to Trump: ‘Bring it on!’ appeared first on Indian Punchline .'
+    one_sentence_summary: Pope Leo XIV called for an immediate end to the US-Israeli
+      war in Iran during a public address in St. Peter’s Square, expressing hope amidst
+      the ongoing conflict.
+    paragraph_summary: Pope Leo XIV made a powerful appeal for the cessation of the
+      US-Israeli conflict in Iran during a prayer gathering at St. Peter's Square on
+      March 15, 2026, emphasizing the need for hope amidst turmoil. His remarks reflect
+      a growing concern over the escalating violence and a call for peace, resonating
+      with the proverb that suggests hope often emerges in the darkest times. The article
+      also references a provocative message from Mojtaba to Trump, signaling a tense
+      political climate.
+    published: '2026-03-16T06:38:30+00:00'
+  - title: Iran-US conflict turns into prolonged attrition
+    url: https://www.indianpunchline.com/iran-us-conflict-turns-into-prolonged-attrition/
+    text: Iran’s new Leader Ayatollah Seyyed Mojtaba Khamenei (File photo) The stunning
+      message from the first public message on Thursday by Iran’s new Leader, Ayatollah
+      Seyyed Mojtaba Khamenei is that “The Strait of Hormuz must remain closed.” In
+      seven words, he threw the gauntlet at President Trump belying all expectations
+      that he will opt for continuity … Continue reading "Iran-US conflict turns into
+      prolonged attrition" The post Iran-US conflict turns into prolonged attrition
+      appeared first on Indian Punchline .
+    one_sentence_summary: Iran's new leader, Ayatollah Seyyed Mojtaba Khamenei, declared
+      that the Strait of Hormuz must remain closed, signaling a confrontational stance
+      towards the U.S. under President Trump.
+    paragraph_summary: In his first public statement, Iran's new Leader Ayatollah Seyyed
+      Mojtaba Khamenei declared that "The Strait of Hormuz must remain closed," signaling
+      a defiant stance against President Trump and contradicting expectations of a more
+      conciliatory approach. This bold declaration suggests that the ongoing conflict
+      between Iran and the U.S. is evolving into a prolonged state of attrition, highlighting
+      the escalating tensions and the potential for further confrontation in the region.
+    published: '2026-03-13T07:52:35+00:00'
+  - title: Iran-US conflict turns into prolonged attrition
+    url: https://www.indianpunchline.com/iran-us-conflict-turns-into-prolonged-attrition/
+    text: Iran’s new Leader Ayatollah Seyyed Mojtaba Khamenei (File photo) The stunning
+      message from the first public message on Thursday by Iran’s new Leader, Ayatollah
+      Seyyed Mojtaba Khamenei is that “The Strait of Hormuz must remain closed.” In
+      seven words, he threw the gauntlet at President Trump belying all expectations
+      that he will opt for continuity … Continue reading "Iran-US conflict turns into
+      prolonged attrition" The post Iran-US conflict turns into prolonged attrition
+      appeared first on Indian Punchline .
+    one_sentence_summary: Iran's new leader, Ayatollah Seyyed Mojtaba Khamenei, declared
+      that the Strait of Hormuz must remain closed, signaling a confrontational stance
+      towards the U.S. under President Trump.
+    paragraph_summary: In his first public statement, Iran's new Leader Ayatollah Seyyed
+      Mojtaba Khamenei declared that "The Strait of Hormuz must remain closed," signaling
+      a defiant stance against President Trump and contradicting expectations of a more
+      conciliatory approach. This bold declaration suggests that the ongoing conflict
+      between Iran and the U.S. is evolving into a prolonged state of attrition, highlighting
+      the escalating tensions and the potential for further confrontation in the region.
+    published: '2026-03-13T07:52:35+00:00'
   - title: US makes India perform in a circus tent
     url: https://www.indianpunchline.com/us-makes-india-perform-in-a-circus-tent/
     text: Russian oil tanker Sea Horse carrying 200,000 barrels of gas oil diverted

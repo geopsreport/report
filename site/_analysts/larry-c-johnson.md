@@ -7,22 +7,2928 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains dominated by the escalating crisis in the Persian Gulf, with the aftermath of the US-Israeli military campaign against Iran continuing to reverberate across global energy and security sectors. Despite official statements from the Trump administration suggesting imminent Iranian capitulation, the reality on the ground is markedly different.
+  As the war between Iran and the US/Israel coalition intensifies, recent developments have underscored deepening divisions within US leadership and growing doubts about the effectiveness of current military strategies. The resignation of Joe Kent, director of the National Counterterrorism Center, marks a significant moment: according to **Larry C. Johnson**, Kent stepped down due to his opposition to the war in Iran, despite his extensive military and intelligence background and after facing criticism from Donald Trump. This high-profile departure signals mounting internal dissent over the US approach to the conflict.
   
-  The most significant new development, as detailed by **Larry C. Johnson** in his latest analysis, is the looming threat of a sustained closure of the Strait of Hormuz by Iran. Johnson warns that such a move would "severely disrupt global oil, liquefied natural gas, and urea exports, leading to unprecedented economic shocks that could impact energy markets, food security, and the fiscal stability of many nations." This scenario, if realized, would mark a critical escalation with far-reaching consequences for both producer and consumer countries.
+  Strategically, the destruction of US air defense assets in the region continues to shape the battlefield. **Larry C. Johnson** draws a historical parallel, noting that the loss of THAAD radar systems in the UAE and the prospect of a bombing campaign against Iran are unlikely to force a rapid Iranian surrender. He points to World War II, arguing that, much like Japan, Iran is unlikely to capitulate solely due to aerial bombardment—implying that US and Israeli hopes for a quick resolution are misplaced.
   
-  Meanwhile, the military situation remains fluid. Despite high-profile claims of victory, Iran continues to launch effective drone and missile attacks against US and Israeli targets. According to Johnson, "Trump's advisers privately push for an exit strategy from the conflict amid rising oil prices and potential political repercussions." This internal debate within the US administration underscores growing doubts about the feasibility of achieving strategic objectives in Iran, especially as the conflict exerts increasing pressure on global energy prices.
+  Meanwhile, the broader trajectory of the conflict remains unfavorable for the US and its allies. Iran’s robust missile capabilities have allowed it to inflict sustained damage on Israel, despite Israel’s superior air force, leading to a protracted and costly confrontation. The war has also triggered a surge in Iranian nationalism, undermining Western ambitions for regime change and further complicating US objectives in the region.
   
-  In the broader context, Russia's role as a geopolitical counterweight is becoming more pronounced. Johnson references the proverb "revenge is a dish best served cold" to describe Moscow's calculated posture towards both the Gulf Cooperation Council and India, suggesting that Russia is leveraging the current instability to advance its own interests in the region.
-  
-  **Trends and Predictions:**  
-  - There is a high chance of continued Iranian resistance, with no imminent collapse of the regime.  
-  - The risk of a prolonged closure of the Strait of Hormuz is rising; if this occurs, I guarantee a global economic shock, particularly in energy and food markets.  
-  - US and Israeli efforts to force regime change in Iran have most definitely backfired, uniting the Iranian public and complicating prospects for a negotiated settlement.  
-  - Russia is quite likely to exploit the situation to expand its influence in the Gulf and South Asia.
-  
-  The coming days are expected to see further volatility in energy markets and heightened diplomatic maneuvering, as all sides grapple with the consequences of a conflict that shows no signs of resolution.
+  Looking ahead, the consensus among analysts is clear: the US is facing a strategic impasse. As **Larry C. Johnson** asserts, “a significant miscalculation by the U.S. regarding its foreign policy in the Middle East could lead to the potential downfall of Israel and a decline in U.S. influence in the region.” With high confidence, I guarantee that unless there is a dramatic shift in policy or strategy, the conflict will remain unresolved and US regional influence will continue to erode. The resignation of key officials and the resilience of Iranian defenses point to a prolonged and unpredictable crisis.
 articles:
+  - title: Joe Kent Hero… Tulsi Gabbard, a Contemptible, Craven Zero
+    url: https://sonar21.com/joe-kent-hero-tulsi-gabbard-a-contemptible-craven-zero/
+    text: 'Miriam Adelson, Tulsi Gabbard and the degenerate Rabbi Shmuley Boteach Joe
+      Kent resigned today as the director of the National Counterterrorism Center, the
+      top U.S. government post responsible for integrating and analyzing terrorism-related
+      intelligence because of his opposition to the war in Iran. Let’s hear it for the
+      boy!!! Before taking this job, Joe served as a Army Ranger, as a Green Beret,
+      as a member of a Top Secret special access program Army Intelligence unit and
+      served with the CIA’s Special Operations Division. The man had 11 combat deployments
+      and was awarded SIX bronze stars. And the despicable, loathsome Donald Trump had
+      the audacity to call this man “weak” on security matters. Contrary to the smears
+      being spread by the Trump sycophants about Joe Kent, Joe was the man in the intelligence
+      community who had the most knowledge of terrorist threats and terrorist activities
+      confronting the US. When he wrote in his resignation letter that Iran did not
+      pose an imminent threat to the United States, he was not offering up a personal
+      opinion… That is what the intelligence shows. Most of you have no idea how impressive
+      his service record is, so let me explain the different jobs he had with the Army
+      and the CIA [NOTE — All of the information I am presenting is from Open Source
+      Information]: The 75th Ranger Regiment (commonly known as the US Army Rangers)
+      is the United States Army’s premier light infantry special operations force, serving
+      under the US Army Special Operations Command (USASOC). It is widely regarded as
+      the Army’s elite direct-action raid unit, often described as a “lethal, agile,
+      and flexible force” capable of executing complex, high-risk missions worldwide.
+      The 75th Ranger Regiment is commonly described as a Tier 2 unit within the US
+      special operations community due to an unofficial but widely used classification
+      system that ranks special operations forces (SOF) based on factors like funding
+      priority, command structure, mission sensitivity, selection rigor, operational
+      tempo, and access to national-level taskings. He worked directly providing support
+      to Delta Force and Seal Team 6. Subsequent to his time with the 75th Rangers,
+      Joe served with the US Army Special Forces (Green Berets) as a Chief Warrant Officer
+      3 (CW3), specializing as an 18B Weapons Sergeant with the 5th Special Forces Group.
+      He had a Ranger Tab and a Green Beret Tab. Joe fought in the First Battle of Fallujah
+      (Operation Vigilant Resolve) in April 2004 as a relatively new Green Beret with
+      the 5th Special Forces Group, shortly after qualifying for Special Forces in 2003.
+      Specific details on his individual actions during that operation are sparse in
+      public records, but he was involved in combat operations alongside Iraqi commandos
+      from the Iraqi 36th Commando Battalion, led by Special Forces ODAs (Operational
+      Detachment Alphas) including 535, 533, and 513, focusing on urban clearance and
+      searching for high-value Iraqi officials amid intense house-to-house fighting.
+      Joe also served with Task Force Orange (also known as the Intelligence Support
+      Activity, or ISA), a highly secretive US Army special mission unit focused on
+      intelligence gathering, signals intelligence (SIGINT), and direct action support
+      for Tier 1 operations. His role involved close collaboration with JSOC elements,
+      leveraging his weapons sergeant expertise for high-risk operations, including
+      those on the Iraq-Syria border, where he noted envy for their rules of engagement
+      in interviews. After multiple combat deployments blending direct action, unconventional
+      warfare, and intelligence roles (including Task Force Orange’s SIGINT and targeting
+      missions), Kent left active duty, leveraging his elite clearances and operational
+      experience. His Task Force Orange background—highly valued for its compartmentalized
+      intel work supporting JSOC—made him a prime recruit for CIA’s Special Activities
+      Center (SAC), specifically Ground Branch, which conducts paramilitary covert operations
+      worldwide. I need you to understand that Joe Kent is a legit operator who is widely-versed
+      in the work of Special Operations and intelligence. And he paid the ultimate price
+      in serving his country, which has now betrayed him… His wife, a NAVY sigint specialist,
+      was killed in a suicide bombing in Syria, leaving him a widow with two small boys.
+      He was a Trump supporter and has learned, much to his chagrin, that loyalty is
+      a one way street with Donald Trump. Joe started with the Trump administration
+      as Tulsi Gabbard’s Chief of Staff, but was quickly promoted to head up the National
+      Counter Terrorism Center (NCTC). What a difference a year makes, and what a despicable
+      coward President Donald Trump is. Joe knows better than Donald Trump what the
+      terrorist threats are for the United States. His brave resignation speaks volumes
+      about the lies Trump and his national security advisors are feeding the American
+      people. His letter speaks for thousands of Americans who supported Trump and are
+      now filled with extreme buyers remorse: I was hoping that his boss, Tulsi Gabbard,
+      would follow suit. She did not. She revealed herself to be a spineless, gutless
+      pretender who previously insisted she opposed such reckless military actions as
+      attacking Iran. I was wondering why she caved until I saw the photo at the top
+      of this article. A picture is worth a thousand words… The picture above of Miriam
+      Adelson, Tulsi Gabbard and the degenerate Rabbi Shmuley Boteach, means that Tulsi
+      has sold out to the Zionists. The job of the Director of National Intelligence
+      is to tell the truth to the President, regardless of the political cost. It is
+      now clear that Tulsi has sold out. She is just one more craven politician who
+      values access to power more than upholding the Constitution. Her X post excusing
+      Trump’s unlawful and inexcusable conduct will hang around her neck like a rotting
+      albatross for the rest of her life. Hell, it is not Trump’s job to decide if Iran
+      poses an imminent threat to the US… That was her job and she has failed spectacularly.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Joe Kent resigned as the director of the National Counterterrorism
+      Center due to his opposition to the war in Iran, despite his extensive military
+      and intelligence background, after facing criticism from Donald Trump.
+    paragraph_summary: Joe Kent resigned from his position as director of the National
+      Counterterrorism Center due to his opposition to the war in Iran, despite his
+      impressive military background, which includes service as an Army Ranger, Green
+      Beret, and multiple deployments with the CIA. His resignation letter stated that
+      Iran does not pose an imminent threat to the U.S., a conclusion supported by intelligence
+      data, contradicting claims made by former President Donald Trump, who labeled
+      Kent as "weak" on security matters. Kent's extensive experience in the intelligence
+      community and combat, including six bronze stars, underscores his credibility
+      in assessing terrorist threats, challenging the narrative pushed by Trump supporters.
+    published: '2026-03-18T03:19:11+00:00'
+  - title: Joe Kent Hero… Tulsi Gabbard, a Contemptible, Craven Zero
+    url: https://sonar21.com/joe-kent-hero-tulsi-gabbard-a-contemptible-craven-zero/
+    text: 'Miriam Adelson, Tulsi Gabbard and the degenerate Rabbi Shmuley Boteach Joe
+      Kent resigned today as the director of the National Counterterrorism Center, the
+      top U.S. government post responsible for integrating and analyzing terrorism-related
+      intelligence because of his opposition to the war in Iran. Let’s hear it for the
+      boy!!! Before taking this job, Joe served as a Army Ranger, as a Green Beret,
+      as a member of a Top Secret special access program Army Intelligence unit and
+      served with the CIA’s Special Operations Division. The man had 11 combat deployments
+      and was awarded SIX bronze stars. And the despicable, loathsome Donald Trump had
+      the audacity to call this man “weak” on security matters. Contrary to the smears
+      being spread by the Trump sycophants about Joe Kent, Joe was the man in the intelligence
+      community who had the most knowledge of terrorist threats and terrorist activities
+      confronting the US. When he wrote in his resignation letter that Iran did not
+      pose an imminent threat to the United States, he was not offering up a personal
+      opinion… That is what the intelligence shows. Most of you have no idea how impressive
+      his service record is, so let me explain the different jobs he had with the Army
+      and the CIA [NOTE — All of the information I am presenting is from Open Source
+      Information]: The 75th Ranger Regiment (commonly known as the US Army Rangers)
+      is the United States Army’s premier light infantry special operations force, serving
+      under the US Army Special Operations Command (USASOC). It is widely regarded as
+      the Army’s elite direct-action raid unit, often described as a “lethal, agile,
+      and flexible force” capable of executing complex, high-risk missions worldwide.
+      The 75th Ranger Regiment is commonly described as a Tier 2 unit within the US
+      special operations community due to an unofficial but widely used classification
+      system that ranks special operations forces (SOF) based on factors like funding
+      priority, command structure, mission sensitivity, selection rigor, operational
+      tempo, and access to national-level taskings. He worked directly providing support
+      to Delta Force and Seal Team 6. Subsequent to his time with the 75th Rangers,
+      Joe served with the US Army Special Forces (Green Berets) as a Chief Warrant Officer
+      3 (CW3), specializing as an 18B Weapons Sergeant with the 5th Special Forces Group.
+      He had a Ranger Tab and a Green Beret Tab. Joe fought in the First Battle of Fallujah
+      (Operation Vigilant Resolve) in April 2004 as a relatively new Green Beret with
+      the 5th Special Forces Group, shortly after qualifying for Special Forces in 2003.
+      Specific details on his individual actions during that operation are sparse in
+      public records, but he was involved in combat operations alongside Iraqi commandos
+      from the Iraqi 36th Commando Battalion, led by Special Forces ODAs (Operational
+      Detachment Alphas) including 535, 533, and 513, focusing on urban clearance and
+      searching for high-value Iraqi officials amid intense house-to-house fighting.
+      Joe also served with Task Force Orange (also known as the Intelligence Support
+      Activity, or ISA), a highly secretive US Army special mission unit focused on
+      intelligence gathering, signals intelligence (SIGINT), and direct action support
+      for Tier 1 operations. His role involved close collaboration with JSOC elements,
+      leveraging his weapons sergeant expertise for high-risk operations, including
+      those on the Iraq-Syria border, where he noted envy for their rules of engagement
+      in interviews. After multiple combat deployments blending direct action, unconventional
+      warfare, and intelligence roles (including Task Force Orange’s SIGINT and targeting
+      missions), Kent left active duty, leveraging his elite clearances and operational
+      experience. His Task Force Orange background—highly valued for its compartmentalized
+      intel work supporting JSOC—made him a prime recruit for CIA’s Special Activities
+      Center (SAC), specifically Ground Branch, which conducts paramilitary covert operations
+      worldwide. I need you to understand that Joe Kent is a legit operator who is widely-versed
+      in the work of Special Operations and intelligence. And he paid the ultimate price
+      in serving his country, which has now betrayed him… His wife, a NAVY sigint specialist,
+      was killed in a suicide bombing in Syria, leaving him a widow with two small boys.
+      He was a Trump supporter and has learned, much to his chagrin, that loyalty is
+      a one way street with Donald Trump. Joe started with the Trump administration
+      as Tulsi Gabbard’s Chief of Staff, but was quickly promoted to head up the National
+      Counter Terrorism Center (NCTC). What a difference a year makes, and what a despicable
+      coward President Donald Trump is. Joe knows better than Donald Trump what the
+      terrorist threats are for the United States. His brave resignation speaks volumes
+      about the lies Trump and his national security advisors are feeding the American
+      people. His letter speaks for thousands of Americans who supported Trump and are
+      now filled with extreme buyers remorse: I was hoping that his boss, Tulsi Gabbard,
+      would follow suit. She did not. She revealed herself to be a spineless, gutless
+      pretender who previously insisted she opposed such reckless military actions as
+      attacking Iran. I was wondering why she caved until I saw the photo at the top
+      of this article. A picture is worth a thousand words… The picture above of Miriam
+      Adelson, Tulsi Gabbard and the degenerate Rabbi Shmuley Boteach, means that Tulsi
+      has sold out to the Zionists. The job of the Director of National Intelligence
+      is to tell the truth to the President, regardless of the political cost. It is
+      now clear that Tulsi has sold out. She is just one more craven politician who
+      values access to power more than upholding the Constitution. Her X post excusing
+      Trump’s unlawful and inexcusable conduct will hang around her neck like a rotting
+      albatross for the rest of her life. Hell, it is not Trump’s job to decide if Iran
+      poses an imminent threat to the US… That was her job and she has failed spectacularly.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Joe Kent resigned as the director of the National Counterterrorism
+      Center due to his opposition to the war in Iran, despite his extensive military
+      and intelligence background, after facing criticism from Donald Trump.
+    paragraph_summary: Joe Kent resigned from his position as director of the National
+      Counterterrorism Center due to his opposition to the war in Iran, despite his
+      impressive military background, which includes service as an Army Ranger, Green
+      Beret, and multiple deployments with the CIA. His resignation letter stated that
+      Iran does not pose an imminent threat to the U.S., a conclusion supported by intelligence
+      data, contradicting claims made by former President Donald Trump, who labeled
+      Kent as "weak" on security matters. Kent's extensive experience in the intelligence
+      community and combat, including six bronze stars, underscores his credibility
+      in assessing terrorist threats, challenging the narrative pushed by Trump supporters.
+    published: '2026-03-18T03:19:11+00:00'
+  - title: Bombing Japan, A Retrospective and the Implications for Iran
+    url: https://sonar21.com/bombing-japan-a-retrospective-and-the-implications-for-iran/
+    text: 'Destruction of the American Terminal High Altitude Area Defense (THAAD) radar
+      systems in early March 2026, stationed in the UAE, at Al Ruwais Anyone who thinks
+      a massive bombing campaign will compel the Iranians to surrender and dump the
+      mullahs, does not know the history of Japan, the United States and the Soviet
+      Union in 1945. The US bombing of Japan started in earnest in March 1945 and continued
+      through August 8, 1945. The conventional bombing killed an estimated 500,000 Japanese
+      — mostly civilians. The atomic bombs dropped on Hiroshima and Nagasaki in August
+      added as many as 226,000 to that macabre sum. Yet, it was not the bombings alone
+      that prodded Japan to surrender… It was the Soviet entry into the war that forced
+      Japan to surrender. In doing this comparison, consider this: Iran is almost 5
+      times the geographic size of Japan, and Iran has 91 million people compared to
+      Japan’s population in January 1945, which was an estimated 72 million. Below is
+      a chronological list of major US bombing raids on Japan during 1945, focusing
+      on the strategic air campaign conducted by the United States Army Air Forces (USAAF),
+      primarily using B-29 Superfortress bombers. This includes both conventional firebombing
+      raids (incendiary attacks on urban areas) and the atomic bombings. The list is
+      derived from historical records and focuses on raids with documented impacts;
+      smaller or reconnaissance missions are omitted. Estimated killed figures refer
+      to civilian and military deaths directly from the raids (immediate and short-term
+      from injuries/fire/radiation), often including ranges due to varying historical
+      assessments. Many estimates are approximate because of the destruction of records,
+      population displacement, and challenges in post-war accounting. Where specific
+      figures are unavailable, I’ve noted “not specified” or provided context from aggregated
+      data: March 9-10, 1945 : Tokyo (Operation Meetinghouse, firebombing). Estimated
+      killed: 80,000–100,000. March 11, 1945 : Nagoya (firebombing). Estimated killed:
+      Minimal (fewer than 200; raid was ineffective due to high winds dispersing incendiaries).
+      March 13-14, 1945 : Osaka (firebombing). Estimated killed: 3,000–4,000. March
+      16-17, 1945 : Kobe (firebombing). Estimated killed: 8,000–8,841. March 18-19,
+      1945 : Nagoya (firebombing). Estimated killed: 1,000–2,000. April 13, 1945 : Tokyo
+      arsenal district (firebombing). Estimated killed: Not specified (raid targeted
+      industrial areas; casualties lower than major urban raids, likely hundreds). April
+      15, 1945 : Tokyo region, including Kawasaki and Yokohama (firebombing). Estimated
+      killed: Not specified (industrial focus; estimated hundreds to low thousands).
+      May 13, 1945 : Nagoya (daylight incendiary). Estimated killed: 3,866. May 16-17,
+      1945 : Nagoya (firebombing). Estimated killed: Not specified (follow-up raid;
+      likely hundreds). May 23, 1945 : Southern Tokyo (firebombing). Estimated killed:
+      Not specified (urban raid; estimates around 500–1,000). May 25, 1945 : Central
+      Tokyo, including Tokyo Imperial Palace area (firebombing). Estimated killed: 3,000–4,000.
+      May 29, 1945 : Yokohama (daylight incendiary). Estimated killed: Over 1,000 (up
+      to 2,600). June 1, 1945 : Osaka (daylight incendiary). Estimated killed: 3,960.
+      June 5, 1945 : Kobe (daylight incendiary). Estimated killed: Not specified (follow-up;
+      likely 1,000–2,000). June 7, 1945 : Osaka (firebombing). Estimated killed: Not
+      specified (likely hundreds). June 15, 1945 : Osaka and Amagasaki (firebombing).
+      Estimated killed: Not specified (combined; around 500–1,000). June 17, 1945 :
+      Hamamatsu, Kagoshima, Ōmuta, Yokkaichi (firebombing). Estimated killed: Not specified
+      (dispersed; low hundreds per city). June 19, 1945 : Fukuoka, Shizuoka, Toyohashi
+      (firebombing). Estimated killed: Not specified (similar to above). June 28, 1945
+      : Moji, Nobeoka, Okayama, Sasebo (firebombing). Estimated killed: Not specified.
+      July 1, 1945 : Kumamoto, Kure, Shimonoseki, Ube (firebombing). Estimated killed:
+      Not specified. July 3, 1945 : Himeji, Kōchi, Takamatsu, Tokushima (firebombing).
+      Estimated killed: Not specified. July 6, 1945 : Akashi, Chiba, Kōfu, Shimizu (firebombing).
+      Estimated killed: Not specified. July 9, 1945 : Gifu, Sakai, Sendai, Wakayama
+      (firebombing). Estimated killed: Not specified. July 12, 1945 : Ichinomiya, Tsuruga,
+      Utsunomiya, Uwajima (firebombing). Estimated killed: Not specified. July 16, 1945
+      : Hiratsuka, Kuwana, Numazu, Ōita (firebombing). Estimated killed: Not specified.
+      July 19, 1945 : Chōshi, Fukui, Hitachi, Okazaki (firebombing). Estimated killed:
+      Not specified. July 26, 1945 : Matsuyama, Ōmuta, Tokuyama (firebombing). Estimated
+      killed: Not specified. July 28, 1945 : Aomori, Ichinomiya, Tsu, Uji-Yamada, Ōgaki,
+      Uwajima (firebombing). Estimated killed: Not specified. August 1, 1945 : Hachiōji,
+      Mito, Nagaoka, Toyama (firebombing). Estimated killed: 1,000–2,000 (Toyama had
+      highest destruction; around 1,500 killed there alone). August 5, 1945 : Imabari,
+      Maebashi, Nishinomiya, Saga (firebombing). Estimated killed: Not specified. August
+      6, 1945 : Hiroshima (atomic bombing). Estimated killed: 70,000–146,000 (including
+      later deaths from radiation by end of 1945). August 9, 1945 : Nagasaki (atomic
+      bombing). Estimated killed: 40,000–80,000 (including later deaths from radiation
+      by end of 1945). The good news for Iran — if you dare to call it good news — is
+      that the daily bombings by Israel and the United States have caused only a fraction
+      of the fatalities Japan experience during a six-month bombing campaign. Russia’s
+      (Soviet Union’s) entry into the Pacific theater of the war was a critical factor
+      in Japan’s surrender, eroding any remaining hope for negotiation and exposing
+      military vulnerabilities. While intertwined with the atomic bombings, it likely
+      accelerated the decision by making total defeat inevitable. In the final months
+      of World War II, Japan was facing mounting defeats in the Pacific, with US forces
+      closing in and a devastating strategic bombing campaign underway. By mid-1945,
+      Japanese leaders were seeking ways to end the war on terms short of unconditional
+      surrender, as outlined in the Potsdam Declaration (July 26, 1945). A key part
+      of this strategy involved approaching the Soviet Union—then neutral under the
+      1941 Soviet-Japanese Neutrality Pact—to act as a mediator with the Allies. However,
+      at the Yalta Conference in February 1945, Soviet Premier Joseph Stalin had secretly
+      agreed with US President Franklin D. Roosevelt and British Prime Minister Winston
+      Churchill to enter the war against Japan within three months of Germany’s surrender
+      (which occurred on May 8, 1945). The atomic bombing of Hiroshima on August 6,
+      1945, killed tens of thousands and shocked Japan’s leadership, but it did not
+      immediately prompt surrender. On August 8, the Soviet Union declared war on Japan,
+      abrogating the neutrality pact. The next day, August 9, over 1.5 million Soviet
+      troops launched a massive invasion (Operation August Storm) into Japanese-occupied
+      Manchuria, Sakhalin, the Kuril Islands, and northern Korea. This assault overwhelmed
+      the Japanese Kwantung Army, which numbered around 700,000 but was undermanned
+      and poorly equipped. The Soviets advanced rapidly, capturing vast territories
+      and inflicting heavy casualties—estimates suggest 84,000 Japanese killed and over
+      600,000 captured by the operation’s end. The same day as the invasion’s start,
+      the US dropped a second atomic bomb on Nagasaki. The Soviet declaration of war
+      and subsequent invasion played a significant role in Japan’s decision to surrender,
+      often viewed as a “twin shock” alongside the atomic bombings. Japan had pinned
+      its strategy on Soviet mediation to secure a conditional peace, preserving the
+      emperor’s status and avoiding full occupation. Soviet entry into the war shattered
+      this illusion, signaling that no neutral third party would intervene. As noted
+      in declassified documents and historical analyses, Japan’s Supreme War Council
+      was divided post-Hiroshima, with some hardliners still resisting surrender in
+      hopes of Soviet assistance. The invasion opened a new northern front, threatening
+      Japan’s continental empire and homeland. The Kwantung Army’s rapid collapse—losing
+      Manchuria (a key industrial and resource base) in days—was a psychological blow,
+      demonstrating Japan’s inability to sustain a prolonged defense. This compounded
+      the exhaustion from US island-hopping and bombing campaigns, making continued
+      resistance futile. Soviet forces also seized Sakhalin and the Kurils, cutting
+      off potential retreat routes and supply lines. In Hirohito’s August 15 surrender
+      broadcast (the “Jewel Voice Broadcast”), he cited the atomic bombs but also alluded
+      to the “new and most cruel bomb” and the broader strategic situation, which implicitly
+      included the Soviet threat. A subsequent message to the armed forces on August
+      17 explicitly referenced Soviet entry as a reason for surrender. Military leaders,
+      fearing Soviet occupation of the home islands, saw it as a tipping point. Even
+      after the emperor’s decision, a failed coup by hardline officers on August 14–15
+      aimed to continue the war, underscoring the internal resistance that Soviet actions
+      helped overcome. My point in revisiting Japan’s decision to end the war is to
+      emphasize the limitations of achieving a surrender or a regime change via bombing
+      alone. Even the use of two atomic bombs did not persuade the Japanese to surrender…
+      The entrance of Russian troops into the fray tipped the scales in Japan’s decision
+      to accept unconditional surrender. Compared to what the US did to Japan in 1945,
+      the current attack on Iran represents a much smaller scale of destruction… Thank
+      God for that. Meanwhile, the comparison photos at the top of this article show
+      that Iran is exacting a high price on US radars and air defense systems. Unlike
+      Japan, who was bleeding out in the final year of the war, Iran continues to hit
+      key US military installations in the Persian Gulf while pummeling Israel’s economic
+      and military infrastructure. As long as Iran maintains control of the Persian
+      Gulf, this war will go on for several months. It was a busy video day. First up
+      is me and the Judge: Nima interviewed Pepe Escobar and me back-to-back: Dr. David
+      Oualaalou and I discussed the war in Iran: Mario Nawfal and I had an engaging
+      conversation about some of the myths being pushed by Washington with respect to
+      Iran: And I closed out the day with Kyle Anzalone: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article argues that the destruction of the THAAD radar
+      systems in the UAE and a potential bombing campaign against Iran would not lead
+      to a swift surrender, drawing parallels to Japan's World War II experience where
+      it was the Soviet entry into the war, rather than the bombings alone, that compelled
+      Japan to capitulate.
+    paragraph_summary: The article discusses the destruction of the American Terminal
+      High Altitude Area Defense (THAAD) radar systems in the UAE in March 2026 and
+      draws a historical parallel between the U.S. bombing campaigns in Japan during
+      World War II and potential military actions against Iran. It argues that a massive
+      bombing campaign alone is unlikely to compel Iran to surrender, similar to how
+      Japan's surrender was influenced more by the Soviet Union's entry into the war
+      than by the bombings. The article highlights the scale of the U.S. bombing raids
+      on Japan in 1945, which resulted in significant civilian casualties, and emphasizes
+      the challenges of comparing the two nations due to Iran's larger size and population.
+      It also provides a chronological list of major bombing raids on Japan, detailing
+      the estimated casualties from these attacks.
+    published: '2026-03-17T02:36:23+00:00'
+  - title: Bombing Japan, A Retrospective and the Implications for Iran
+    url: https://sonar21.com/bombing-japan-a-retrospective-and-the-implications-for-iran/
+    text: 'Destruction of the American Terminal High Altitude Area Defense (THAAD) radar
+      systems in early March 2026, stationed in the UAE, at Al Ruwais Anyone who thinks
+      a massive bombing campaign will compel the Iranians to surrender and dump the
+      mullahs, does not know the history of Japan, the United States and the Soviet
+      Union in 1945. The US bombing of Japan started in earnest in March 1945 and continued
+      through August 8, 1945. The conventional bombing killed an estimated 500,000 Japanese
+      — mostly civilians. The atomic bombs dropped on Hiroshima and Nagasaki in August
+      added as many as 226,000 to that macabre sum. Yet, it was not the bombings alone
+      that prodded Japan to surrender… It was the Soviet entry into the war that forced
+      Japan to surrender. In doing this comparison, consider this: Iran is almost 5
+      times the geographic size of Japan, and Iran has 91 million people compared to
+      Japan’s population in January 1945, which was an estimated 72 million. Below is
+      a chronological list of major US bombing raids on Japan during 1945, focusing
+      on the strategic air campaign conducted by the United States Army Air Forces (USAAF),
+      primarily using B-29 Superfortress bombers. This includes both conventional firebombing
+      raids (incendiary attacks on urban areas) and the atomic bombings. The list is
+      derived from historical records and focuses on raids with documented impacts;
+      smaller or reconnaissance missions are omitted. Estimated killed figures refer
+      to civilian and military deaths directly from the raids (immediate and short-term
+      from injuries/fire/radiation), often including ranges due to varying historical
+      assessments. Many estimates are approximate because of the destruction of records,
+      population displacement, and challenges in post-war accounting. Where specific
+      figures are unavailable, I’ve noted “not specified” or provided context from aggregated
+      data: March 9-10, 1945 : Tokyo (Operation Meetinghouse, firebombing). Estimated
+      killed: 80,000–100,000. March 11, 1945 : Nagoya (firebombing). Estimated killed:
+      Minimal (fewer than 200; raid was ineffective due to high winds dispersing incendiaries).
+      March 13-14, 1945 : Osaka (firebombing). Estimated killed: 3,000–4,000. March
+      16-17, 1945 : Kobe (firebombing). Estimated killed: 8,000–8,841. March 18-19,
+      1945 : Nagoya (firebombing). Estimated killed: 1,000–2,000. April 13, 1945 : Tokyo
+      arsenal district (firebombing). Estimated killed: Not specified (raid targeted
+      industrial areas; casualties lower than major urban raids, likely hundreds). April
+      15, 1945 : Tokyo region, including Kawasaki and Yokohama (firebombing). Estimated
+      killed: Not specified (industrial focus; estimated hundreds to low thousands).
+      May 13, 1945 : Nagoya (daylight incendiary). Estimated killed: 3,866. May 16-17,
+      1945 : Nagoya (firebombing). Estimated killed: Not specified (follow-up raid;
+      likely hundreds). May 23, 1945 : Southern Tokyo (firebombing). Estimated killed:
+      Not specified (urban raid; estimates around 500–1,000). May 25, 1945 : Central
+      Tokyo, including Tokyo Imperial Palace area (firebombing). Estimated killed: 3,000–4,000.
+      May 29, 1945 : Yokohama (daylight incendiary). Estimated killed: Over 1,000 (up
+      to 2,600). June 1, 1945 : Osaka (daylight incendiary). Estimated killed: 3,960.
+      June 5, 1945 : Kobe (daylight incendiary). Estimated killed: Not specified (follow-up;
+      likely 1,000–2,000). June 7, 1945 : Osaka (firebombing). Estimated killed: Not
+      specified (likely hundreds). June 15, 1945 : Osaka and Amagasaki (firebombing).
+      Estimated killed: Not specified (combined; around 500–1,000). June 17, 1945 :
+      Hamamatsu, Kagoshima, Ōmuta, Yokkaichi (firebombing). Estimated killed: Not specified
+      (dispersed; low hundreds per city). June 19, 1945 : Fukuoka, Shizuoka, Toyohashi
+      (firebombing). Estimated killed: Not specified (similar to above). June 28, 1945
+      : Moji, Nobeoka, Okayama, Sasebo (firebombing). Estimated killed: Not specified.
+      July 1, 1945 : Kumamoto, Kure, Shimonoseki, Ube (firebombing). Estimated killed:
+      Not specified. July 3, 1945 : Himeji, Kōchi, Takamatsu, Tokushima (firebombing).
+      Estimated killed: Not specified. July 6, 1945 : Akashi, Chiba, Kōfu, Shimizu (firebombing).
+      Estimated killed: Not specified. July 9, 1945 : Gifu, Sakai, Sendai, Wakayama
+      (firebombing). Estimated killed: Not specified. July 12, 1945 : Ichinomiya, Tsuruga,
+      Utsunomiya, Uwajima (firebombing). Estimated killed: Not specified. July 16, 1945
+      : Hiratsuka, Kuwana, Numazu, Ōita (firebombing). Estimated killed: Not specified.
+      July 19, 1945 : Chōshi, Fukui, Hitachi, Okazaki (firebombing). Estimated killed:
+      Not specified. July 26, 1945 : Matsuyama, Ōmuta, Tokuyama (firebombing). Estimated
+      killed: Not specified. July 28, 1945 : Aomori, Ichinomiya, Tsu, Uji-Yamada, Ōgaki,
+      Uwajima (firebombing). Estimated killed: Not specified. August 1, 1945 : Hachiōji,
+      Mito, Nagaoka, Toyama (firebombing). Estimated killed: 1,000–2,000 (Toyama had
+      highest destruction; around 1,500 killed there alone). August 5, 1945 : Imabari,
+      Maebashi, Nishinomiya, Saga (firebombing). Estimated killed: Not specified. August
+      6, 1945 : Hiroshima (atomic bombing). Estimated killed: 70,000–146,000 (including
+      later deaths from radiation by end of 1945). August 9, 1945 : Nagasaki (atomic
+      bombing). Estimated killed: 40,000–80,000 (including later deaths from radiation
+      by end of 1945). The good news for Iran — if you dare to call it good news — is
+      that the daily bombings by Israel and the United States have caused only a fraction
+      of the fatalities Japan experience during a six-month bombing campaign. Russia’s
+      (Soviet Union’s) entry into the Pacific theater of the war was a critical factor
+      in Japan’s surrender, eroding any remaining hope for negotiation and exposing
+      military vulnerabilities. While intertwined with the atomic bombings, it likely
+      accelerated the decision by making total defeat inevitable. In the final months
+      of World War II, Japan was facing mounting defeats in the Pacific, with US forces
+      closing in and a devastating strategic bombing campaign underway. By mid-1945,
+      Japanese leaders were seeking ways to end the war on terms short of unconditional
+      surrender, as outlined in the Potsdam Declaration (July 26, 1945). A key part
+      of this strategy involved approaching the Soviet Union—then neutral under the
+      1941 Soviet-Japanese Neutrality Pact—to act as a mediator with the Allies. However,
+      at the Yalta Conference in February 1945, Soviet Premier Joseph Stalin had secretly
+      agreed with US President Franklin D. Roosevelt and British Prime Minister Winston
+      Churchill to enter the war against Japan within three months of Germany’s surrender
+      (which occurred on May 8, 1945). The atomic bombing of Hiroshima on August 6,
+      1945, killed tens of thousands and shocked Japan’s leadership, but it did not
+      immediately prompt surrender. On August 8, the Soviet Union declared war on Japan,
+      abrogating the neutrality pact. The next day, August 9, over 1.5 million Soviet
+      troops launched a massive invasion (Operation August Storm) into Japanese-occupied
+      Manchuria, Sakhalin, the Kuril Islands, and northern Korea. This assault overwhelmed
+      the Japanese Kwantung Army, which numbered around 700,000 but was undermanned
+      and poorly equipped. The Soviets advanced rapidly, capturing vast territories
+      and inflicting heavy casualties—estimates suggest 84,000 Japanese killed and over
+      600,000 captured by the operation’s end. The same day as the invasion’s start,
+      the US dropped a second atomic bomb on Nagasaki. The Soviet declaration of war
+      and subsequent invasion played a significant role in Japan’s decision to surrender,
+      often viewed as a “twin shock” alongside the atomic bombings. Japan had pinned
+      its strategy on Soviet mediation to secure a conditional peace, preserving the
+      emperor’s status and avoiding full occupation. Soviet entry into the war shattered
+      this illusion, signaling that no neutral third party would intervene. As noted
+      in declassified documents and historical analyses, Japan’s Supreme War Council
+      was divided post-Hiroshima, with some hardliners still resisting surrender in
+      hopes of Soviet assistance. The invasion opened a new northern front, threatening
+      Japan’s continental empire and homeland. The Kwantung Army’s rapid collapse—losing
+      Manchuria (a key industrial and resource base) in days—was a psychological blow,
+      demonstrating Japan’s inability to sustain a prolonged defense. This compounded
+      the exhaustion from US island-hopping and bombing campaigns, making continued
+      resistance futile. Soviet forces also seized Sakhalin and the Kurils, cutting
+      off potential retreat routes and supply lines. In Hirohito’s August 15 surrender
+      broadcast (the “Jewel Voice Broadcast”), he cited the atomic bombs but also alluded
+      to the “new and most cruel bomb” and the broader strategic situation, which implicitly
+      included the Soviet threat. A subsequent message to the armed forces on August
+      17 explicitly referenced Soviet entry as a reason for surrender. Military leaders,
+      fearing Soviet occupation of the home islands, saw it as a tipping point. Even
+      after the emperor’s decision, a failed coup by hardline officers on August 14–15
+      aimed to continue the war, underscoring the internal resistance that Soviet actions
+      helped overcome. My point in revisiting Japan’s decision to end the war is to
+      emphasize the limitations of achieving a surrender or a regime change via bombing
+      alone. Even the use of two atomic bombs did not persuade the Japanese to surrender…
+      The entrance of Russian troops into the fray tipped the scales in Japan’s decision
+      to accept unconditional surrender. Compared to what the US did to Japan in 1945,
+      the current attack on Iran represents a much smaller scale of destruction… Thank
+      God for that. Meanwhile, the comparison photos at the top of this article show
+      that Iran is exacting a high price on US radars and air defense systems. Unlike
+      Japan, who was bleeding out in the final year of the war, Iran continues to hit
+      key US military installations in the Persian Gulf while pummeling Israel’s economic
+      and military infrastructure. As long as Iran maintains control of the Persian
+      Gulf, this war will go on for several months. It was a busy video day. First up
+      is me and the Judge: Nima interviewed Pepe Escobar and me back-to-back: Dr. David
+      Oualaalou and I discussed the war in Iran: Mario Nawfal and I had an engaging
+      conversation about some of the myths being pushed by Washington with respect to
+      Iran: And I closed out the day with Kyle Anzalone: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article argues that the destruction of the THAAD radar
+      systems in the UAE and a potential bombing campaign against Iran would not lead
+      to a swift surrender, drawing parallels to Japan's World War II experience where
+      it was the Soviet entry into the war, rather than the bombings alone, that compelled
+      Japan to capitulate.
+    paragraph_summary: The article discusses the destruction of the American Terminal
+      High Altitude Area Defense (THAAD) radar systems in the UAE in March 2026 and
+      draws a historical parallel between the U.S. bombing campaigns in Japan during
+      World War II and potential military actions against Iran. It argues that a massive
+      bombing campaign alone is unlikely to compel Iran to surrender, similar to how
+      Japan's surrender was influenced more by the Soviet Union's entry into the war
+      than by the bombings. The article highlights the scale of the U.S. bombing raids
+      on Japan in 1945, which resulted in significant civilian casualties, and emphasizes
+      the challenges of comparing the two nations due to Iran's larger size and population.
+      It also provides a chronological list of major bombing raids on Japan, detailing
+      the estimated casualties from these attacks.
+    published: '2026-03-17T02:36:23+00:00'
+  - title: US Air Defense THAAD and Patriot PAC3 Missiles are Kaput or Soon Will Be
+    url: https://sonar21.com/us-air-defense-thaad-and-patriot-pac3-missiles-are-kaput-or-soon-will-be/
+    text: 'THAAD LAUNCHER The war between Iran and the US/Israel coalition is now in
+      its third week with no end in sight. While Israel clearly has a superior air force,
+      it cannot match Iran’s missile force. This is a war of attrition, and no matter
+      how many times Donald Trump insists Iran is destroyed and the US has won, Iran
+      will continue to pummel Israel with at least three waves of big missile attacks
+      every day until there is a negotiated settlement. Let me offer you a crude, simplistic
+      model that highlights the disparity in force that favors Iran. Let’s assume that
+      Israel and Iran hit each other with 50 2,000 pound bombs/missiles every day. At
+      that rate, Iran’s bombs would theoretically cover all of Israel’s land area in
+      under 3 years, while Israel’s bombs would take over two centuries to do the same
+      to Iran. This highlights the asymmetry: Israel’s smaller size makes it far more
+      vulnerable to sustained aerial bombardment. Here the calculation for a saturation
+      bombing campaign by either side: For Israel (bombed by Iran) : 8,019 sq mi ÷ 8.1
+      sq mi/day ≈ 990 days (about 2.7 years). For Iran (bombed by Israel) : 636,372
+      sq mi ÷ 8.1 sq mi/day ≈ 78,600 days (about 215 years). No one but the Iranians
+      know how many ballistic and cruise missiles Iran has, but judging from videos
+      of massive underground missile cities I think Iran is capable of sustaining multiple
+      daily launches for at least six months. Israel’s air defense systems have been
+      seriously degraded… In fact, the THAAD and Patriot systems may already be depleted.
+      Let’s look at the actual number of THAADs. Lockheed Martin received its first
+      production contract in January 2007 for initial missiles, launchers, and components.
+      Lockheed Martin subsequently delivered over 900 THAAD interceptors as of January
+      2025 (announced delivery of the 900th interceptor). That is an average annual
+      production of 50 missiles over that 18 year period. The standard practice to defend
+      against an inbound ballistic missile is to fire two THAADs. If the US gave Israel
+      all of its THAADs that means Israel will run out of THAAD missiles after Iran
+      launches 450 ballistic missiles. Iran is firing an average of 40 missiles per
+      day at Israel since the start of the war on 28 February. That means Iran has fired
+      640 ballistic missiles into Israel. I believe that based on these numbers, there
+      are no more THAAD missiles available. The supply is either depleted or nearing
+      depletion. It is simple math. Israel and the US have the same problem with the
+      Patriot missiles. As I discussed in a previous article, the US, as of January
+      1, 2026, had produced a grand total of 4,620 PAC3 missiles. Approximately 1,000
+      have already been expended in Ukraine, which brings the number down to 3,620.
+      USINDOPACOM (US Pacific command) has an inventory of at least 1,296 and perhaps
+      as many as 1,728 PAC3s. Let’s go with the lower number, i.e., Oh, I forgot to
+      mention USEUCOM… It has one Patriot missile battalion, which means a minimal number
+      of 432 PAC3s (I assumed 6 batteries and 72 missiles per battery). That means there
+      are only 1,892 PAC3s left for USCENTCOM. I don’t know how many of CENTCOM’s inventory
+      has been given to Israel but, according to open sources, several Patriot batteries
+      were sent to Saudi Arabia, Qatar, Bahrain and Kuwait. Using the assumption that
+      each battery was supplied with 72 PAC3s, and that only one battery was deployed
+      to each of those four countries, we are left with a total of 1,584 Patriot missiles
+      for Israel. This is the best case scenario, which means that Israel can engage
+      a maximum of 792 Iranian ballistic and cruise missiles. If Israel’s supply is
+      not already depleted, it soon will be. Semafor , a US news website, reported that
+      Israel informed the US this week that it is running critically low on ballistic
+      missile interceptors as the conflict with Iran rages on, and that Israel had reportedly
+      entered the current war already low on interceptors that were fired during last
+      summer’s conflict with Iran. While US and Israeli officials insist that is not
+      the case, I think the numbers I presented above confrim the Semafor report. I
+      recorded a Counter Currents video earlier this week discussing the Strait of Hormuz
+      blockade: Glenn Diesen called me up on Saturday and we discussed the logistical
+      and tactical problems confronting the US if it tries to send ground forces into
+      battle: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The ongoing war between Iran and the US/Israel coalition is
+      characterized by Iran's overwhelming missile capabilities, allowing it to inflict
+      significant damage on Israel despite Israel's superior air force, leading to a
+      prolonged conflict with no immediate resolution in sight.
+    paragraph_summary: The ongoing conflict between Iran and the US/Israel coalition
+      has entered its third week, with Iran employing a strategy of sustained missile
+      attacks on Israel that outmatches Israel's air capabilities. Despite claims from
+      former President Donald Trump that Iran has been defeated, the reality is that
+      Iran can launch multiple waves of missile strikes daily, creating a significant
+      asymmetry in the conflict. A hypothetical analysis suggests that while Israel
+      could theoretically bomb Iran for over two centuries before covering its land
+      area, Iran could saturate Israel's territory in under three years. This disparity
+      highlights Israel's vulnerability due to its smaller size. Additionally, Israel's
+      air defense systems, including THAAD and Patriot, are reportedly facing depletion,
+      raising concerns about their effectiveness against Iran's missile capabilities,
+      which are believed to be substantial based on evidence of extensive underground
+      missile facilities.
+    published: '2026-03-16T03:19:10+00:00'
+  - title: US Air Defense THAAD and Patriot PAC3 Missiles are Kaput or Soon Will Be
+    url: https://sonar21.com/us-air-defense-thaad-and-patriot-pac3-missiles-are-kaput-or-soon-will-be/
+    text: 'THAAD LAUNCHER The war between Iran and the US/Israel coalition is now in
+      its third week with no end in sight. While Israel clearly has a superior air force,
+      it cannot match Iran’s missile force. This is a war of attrition, and no matter
+      how many times Donald Trump insists Iran is destroyed and the US has won, Iran
+      will continue to pummel Israel with at least three waves of big missile attacks
+      every day until there is a negotiated settlement. Let me offer you a crude, simplistic
+      model that highlights the disparity in force that favors Iran. Let’s assume that
+      Israel and Iran hit each other with 50 2,000 pound bombs/missiles every day. At
+      that rate, Iran’s bombs would theoretically cover all of Israel’s land area in
+      under 3 years, while Israel’s bombs would take over two centuries to do the same
+      to Iran. This highlights the asymmetry: Israel’s smaller size makes it far more
+      vulnerable to sustained aerial bombardment. Here the calculation for a saturation
+      bombing campaign by either side: For Israel (bombed by Iran) : 8,019 sq mi ÷ 8.1
+      sq mi/day ≈ 990 days (about 2.7 years). For Iran (bombed by Israel) : 636,372
+      sq mi ÷ 8.1 sq mi/day ≈ 78,600 days (about 215 years). No one but the Iranians
+      know how many ballistic and cruise missiles Iran has, but judging from videos
+      of massive underground missile cities I think Iran is capable of sustaining multiple
+      daily launches for at least six months. Israel’s air defense systems have been
+      seriously degraded… In fact, the THAAD and Patriot systems may already be depleted.
+      Let’s look at the actual number of THAADs. Lockheed Martin received its first
+      production contract in January 2007 for initial missiles, launchers, and components.
+      Lockheed Martin subsequently delivered over 900 THAAD interceptors as of January
+      2025 (announced delivery of the 900th interceptor). That is an average annual
+      production of 50 missiles over that 18 year period. The standard practice to defend
+      against an inbound ballistic missile is to fire two THAADs. If the US gave Israel
+      all of its THAADs that means Israel will run out of THAAD missiles after Iran
+      launches 450 ballistic missiles. Iran is firing an average of 40 missiles per
+      day at Israel since the start of the war on 28 February. That means Iran has fired
+      640 ballistic missiles into Israel. I believe that based on these numbers, there
+      are no more THAAD missiles available. The supply is either depleted or nearing
+      depletion. It is simple math. Israel and the US have the same problem with the
+      Patriot missiles. As I discussed in a previous article, the US, as of January
+      1, 2026, had produced a grand total of 4,620 PAC3 missiles. Approximately 1,000
+      have already been expended in Ukraine, which brings the number down to 3,620.
+      USINDOPACOM (US Pacific command) has an inventory of at least 1,296 and perhaps
+      as many as 1,728 PAC3s. Let’s go with the lower number, i.e., Oh, I forgot to
+      mention USEUCOM… It has one Patriot missile battalion, which means a minimal number
+      of 432 PAC3s (I assumed 6 batteries and 72 missiles per battery). That means there
+      are only 1,892 PAC3s left for USCENTCOM. I don’t know how many of CENTCOM’s inventory
+      has been given to Israel but, according to open sources, several Patriot batteries
+      were sent to Saudi Arabia, Qatar, Bahrain and Kuwait. Using the assumption that
+      each battery was supplied with 72 PAC3s, and that only one battery was deployed
+      to each of those four countries, we are left with a total of 1,584 Patriot missiles
+      for Israel. This is the best case scenario, which means that Israel can engage
+      a maximum of 792 Iranian ballistic and cruise missiles. If Israel’s supply is
+      not already depleted, it soon will be. Semafor , a US news website, reported that
+      Israel informed the US this week that it is running critically low on ballistic
+      missile interceptors as the conflict with Iran rages on, and that Israel had reportedly
+      entered the current war already low on interceptors that were fired during last
+      summer’s conflict with Iran. While US and Israeli officials insist that is not
+      the case, I think the numbers I presented above confrim the Semafor report. I
+      recorded a Counter Currents video earlier this week discussing the Strait of Hormuz
+      blockade: Glenn Diesen called me up on Saturday and we discussed the logistical
+      and tactical problems confronting the US if it tries to send ground forces into
+      battle: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The ongoing war between Iran and the US/Israel coalition is
+      characterized by Iran's overwhelming missile capabilities, allowing it to inflict
+      significant damage on Israel despite Israel's superior air force, leading to a
+      prolonged conflict with no immediate resolution in sight.
+    paragraph_summary: The ongoing conflict between Iran and the US/Israel coalition
+      has entered its third week, with Iran employing a strategy of sustained missile
+      attacks on Israel that outmatches Israel's air capabilities. Despite claims from
+      former President Donald Trump that Iran has been defeated, the reality is that
+      Iran can launch multiple waves of missile strikes daily, creating a significant
+      asymmetry in the conflict. A hypothetical analysis suggests that while Israel
+      could theoretically bomb Iran for over two centuries before covering its land
+      area, Iran could saturate Israel's territory in under three years. This disparity
+      highlights Israel's vulnerability due to its smaller size. Additionally, Israel's
+      air defense systems, including THAAD and Patriot, are reportedly facing depletion,
+      raising concerns about their effectiveness against Iran's missile capabilities,
+      which are believed to be substantial based on evidence of extensive underground
+      missile facilities.
+    published: '2026-03-16T03:19:10+00:00'
+  - title: The Empire is Losing Control – Consequences
+    url: https://sonar21.com/the-empire-is-losing-control-consequences/
+    text: 'Will this complete miscalculation by the US lead to the downfall of Israel
+      and the loss of U.S. influence in the Middle East? By Peter Hanseler via ForumGeopolitica.com
+      Introduction Some considered the assessment in our article “ Attack on Iran –
+      the Defining Turning Point of 21st Century History ” to be an exaggeration; however,
+      it appears we were quite correct: The greatest geopolitical blunder of the 21st
+      century so far—the latest in a series of misguided decisions—will redraw the map
+      of the Middle East. The parties that will dominate decision-making in the future
+      at one of the world’s most important energy and transportation hubs will be other
+      than those we know today. A turning point in world history—one unthinkable to
+      the West—is beginning. In this article, I reflect on the consequences of this
+      senseless attack. It does indeed appear that the very existence of Israel as a
+      Zionist project—and thus as a state in its current form—is now up for debate.
+      Furthermore, we currently see no path that will allow the US to maintain its power
+      in the Middle East. Its military infrastructure depends on Gulf states, which
+      see their existence threatened by their proximity to the US. They have realized
+      that the US cannot protect them—indeed, does not even want to—while the Iranians
+      are very much capable of destroying them. Europe is now realizing that it is merely
+      a footnote in geopolitics and risks becoming the world’s poorhouse. We can safely
+      set aside the outcry from Merz & Co. in this article. Ms. von der Leyen will go
+      down in history as the destroyer of the EU. One of the Americans’ goals was to
+      destroy China’s energy sector, for after Venezuela, they wanted to bring a second
+      major energy supplier of the Middle Kingdom under their control. Another inconvenient
+      truth will emerge. Russia is becoming richer and more powerful as a result of
+      this failed US adventure. Will the US suffer the same fate in the Middle East
+      as the Ottomans once did? However, the Trump administration appears to have achieved
+      one goal: new revelations about Epstein—which have the potential to bring Trump
+      down—are being drowned out by the clamor of war—at least for now. The Iranian
+      People Stand with Their Government If one looks behind the curtain of Western
+      propaganda, one finds a picture that could not be more alarming for Israelis and
+      Americans. While the attacks on Iran continue, costing the lives of thousands
+      of civilians, the Iranian people show not the slightest sign of giving up or turning
+      against their own government. U.S. Secretary of War Pete Hegseth told reporters
+      on Friday that the Iranian leadership had “gone underground and gone into hiding,”
+      adding, “That’s what rats do.” In doing so, Hegseth is using the same vocabulary
+      as the Nazis, who referred to Jews as rats—a testament to this man’s level of
+      education. On the same day, high-ranking Iranian officials, including the president,
+      the head of security, and the foreign minister, took part in the Quds Day rally
+      in Tehran, as shown in videos of the protests. The officials marched despite the
+      risk of Israeli and American attacks, which have killed dozens of high-ranking
+      figures—including former Supreme Leader Ayatollah Khamenei—since the war against
+      Iran began on February 28. President Masoud Pezeshkian, security chief Ali Larijani,
+      and Foreign Minister Abbas Araghchi were among the demonstrators. The head of
+      the judiciary, Gholam-Hossein Mohseni-Ejei, was also seen in images and video
+      footage broadcast by state television. He was being interviewed when explosions
+      were heard. This is the Iranian president marching thru the streets of Tehran
+      with no security escort as his country is being bombed. https://t.co/RSDE0MIvjM
+      pic.twitter.com/ecmBJR41QR — Krystal Ball (@krystalball) March 13, 2026 Quds Day,
+      Tehran – Foreign Minister Abbas Araghchi among the people This mandate from the
+      people naturally has an impact on the Iranian leadership. Iranian Foreign Minister
+      Abbas Araghchi speaks with such confidence and composure that he is sure to leave
+      a lasting mark in the history books. Araghchi earned a bachelor’s degree in international
+      relations from the School of International Relations, which is affiliated with
+      the Ministry of Foreign Affairs. He then earned a master’s degree in political
+      science from Islamic Azad University in Tehran. Araghchi also earned a Ph.D. in
+      political thought from the University of Kent with a dissertation titled The Evolution
+      of the Concept of Political Participation in Twentieth-Century Islamic Political
+      Thought (1996). With his international education, this man does not fit at all
+      into the image the West paints of the Iranian government. While he gives interviews
+      to American television networks with confidence and poise, people like Hegseth
+      or Rubio—who rose to their positions without the necessary education—rely primarily
+      on hatred and arrogance in their public appearances. Note that Araghchi is not
+      afraid of his own people. He stands in the middle of the street, and people greet
+      him warmly. Social Media changed the game… Imagine if we were relying on BBC &
+      CNN for information, we would be totally in the dark Here is Iran’s Foreign Minister
+      on the streets of Tehran today… While other are in bunkers, he is on the streets
+      with the people pic.twitter.com/I7wotHW6YB — 𝑲𝒖𝒅𝒛𝒂𝒊 𝑴𝒖𝒕𝒊𝒔𝒊 (@KMutisi) March 13,
+      2026 Is Netanyahu Dead? Social media is abuzz with speculation about Netanyahu’s
+      fate, fueled by posts that the Israeli government initially uploaded to the internet
+      only to remove them shortly thereafter. A video clip showing Netanyahu with six
+      fingers and other inconsistencies typical of AI-manipulated fake videos only adds
+      fuel to the fire. At a meeting of Israel’s Security Cabinet—a domain under the
+      purview of the Israeli prime minister—the prime minister himself, Israeli Air
+      Force Commander Tomer Bar, Mossad Director David Barnea, and National Security
+      Minister Ben Gvir were all absent without any public explanation. Such a lack
+      of transparency in dealing with the media during wartime leaves plenty of room
+      for all kinds of speculation. Non mais vous êtes sérieux BFM-WC @BFMTV de foutre
+      du 100% IA à la téloche ? Le type a des doigts avec du pouce à l''auriculaire
+      complètement identiques, et pire, il y a même un passage où il se retrouve avec
+      6 doigts… Bande de baltringues !!! https://t.co/XKJiHozSRi pic.twitter.com/dMafTAINrz
+      — SIMON STRUEUX (30) compte secours (@SimonSecours) March 13, 2026 In the US,
+      Scott Bessent was unexpectedly—and, by American standards, quite unusually—summoned
+      by the president from an interview with Sky News to the Situation Room. When he
+      returned two hours later (!!), he was so shaken that he could barely speak. Watch
+      the moment a call from the White House situation room interrupts U.S. treasury
+      secretary Scott Bessent''s interview with Sky''s @WilfredFrost pic.twitter.com/4XNNvRuHJX
+      — Sky News (@SkyNews) March 12, 2026 The coming days will reveal whether Netanyahu
+      is indeed dead. It would be an irony of history if the Israelis, who launched
+      their attack by assassinating Khamenei, were now to suffer the same fate—with
+      the difference that the Iranians did not allow themselves to be rattled by these
+      actions. Military Situation American losses are mounting. On Friday, a tanker
+      plane was shot down over Iraq, and five more tanker planes have since been destroyed
+      or damaged in Saudi Arabia, according to the Wall Street Journal . Reports that
+      the American aircraft carrier USS Abraham Lincoln was severely damaged in an attack
+      and had to return home remain unconfirmed. The US naturally denies this, because
+      if Iran were to succeed in actually sinking an aircraft carrier—or even just damaging
+      one—it would destroy the entire aura of American military superiority, with potential
+      consequences of escalation that would be impossible to predict given the psychopathic
+      characters in Washington. The Iranian attacks on Tel Aviv continue unabated. Israel’s
+      defenses seem to be becoming increasingly ineffective. Here is footage of a Khorramshahr
+      missile striking Tel Aviv. It carries a 1,800-kg warhead. The attacks are intensifying,
+      with fewer but more modern and effective weapons being used. BREAKING Izrael experienced
+      KHORAMSHAHR 4 minutes ago !!! One to remember!! pic.twitter.com/GxljXhdlx0 — MIZGOL
+      (@Mizgol) March 13, 2026 Only the Iranians decide who is allowed to pass through
+      the Strait of Hormuz. Russian, Chinese, and Pakistani ships are permitted to pass,
+      and it appears that India may be able to reach an agreement with Iran. This is
+      surprising, given that India sided with Israel even before the conflict began,
+      thereby opposing Iran—another BRICS member—as a founding member of BRICS; see
+      my comments from March 8 . Americans are up in arms over this development, because
+      if this situation persists—and there are no signs that it will change—the price
+      of oil, which has already jumped 40% since the start of the war, from $73 to $103,
+      will skyrocket. Figures ranging from $150 to $300 are being bandied about. According
+      to Irina Slav, Oilprice.com , this is a realistic possibility if oil production
+      in the Gulf states is disrupted (20 million barrels per day). That could cause
+      the global economy to collapse. A scenario that is becoming increasingly likely.
+      According to the Wall Street Journal, Pentagon chief Pete Hegseth approved a request
+      from U.S. Central Command to deploy units from an amphibious ready group and the
+      associated Marine Expeditionary Unit—typically several warships carrying about
+      5,000 Marines and sailors. Where these ships might land is a complete mystery.
+      Whether this is being done merely for propaganda purposes, or whether the Americans
+      are about to launch another suicide mission, I have no way of judging. The fact
+      is, however, that the Americans attacked Iran’s Kharg Island, which handles over
+      90% of Iran’s crude oil exports. Iran’s response was swift; Fujairah, one of the
+      world’s largest oil terminals, located in the United Arab Emirates, was attacked.
+      This is catastrophic, as Fujairah lies on the Gulf of Oman and thus outside the
+      Persian Gulf. Tankers can load or refuel there without having to pass through
+      the Strait of Hormuz. This route is therefore also cut off. With their attack
+      on Kharg, the Americans seemed intent on further escalating the situation. They
+      actually seem to believe that they can bring Iran to its knees this way. Having
+      underestimated the Russians in Ukraine, they are now doing the same with the Iranians
+      in the Middle East. The Situation in the United Arab Emirates I successfully left
+      Dubai with my family. The Airbus 380 was full. On the day of our departure, our
+      hotel was still only about 20% occupied. Most flights to Dubai are empty, but
+      flights from Dubai are full. This is a disaster for this small country. It is
+      estimated that Emirates Airline alone is losing approximately $100 million per
+      day. The real estate market has plummeted by over 30% in a matter of days, and
+      things could get even worse. An investigation by Dark Box has revealed that the
+      United Arab Emirates is preparing a series of extraordinary measures targeting
+      investors who wish to withdraw their capital from Dubai, amid growing concerns
+      about the security and economic consequences of the Iranian attacks and regional
+      instability. According to financial and legal sources cited by Dark Box, the proposed
+      measures could include freezing bank accounts before funds are transferred, imposing
+      travel bans on businesspeople attempting to move their assets abroad, and introducing
+      additional administrative or legal penalties to prevent a rapid capital flight.
+      The report indicates that authorities in Abu Dhabi and Dubai fear a potential
+      exodus of investors that could undermine the cities’ economic model, which relies
+      heavily on international capital flows, global logistics, and the perception of
+      stability. As regional tensions disrupt trade routes and investor confidence,
+      authorities appear determined to slow or prevent capital outflows to protect the
+      domestic financial system. Analysts warn, however, that such measures could raise
+      serious concerns among international investors regarding the predictability and
+      openness of the Emirati business environment. Dark Box concludes that while the
+      proposed measures aim to protect the economy during a time of geopolitical pressure,
+      they could also signal a profound shift in Dubai’s reputation as a free-flowing
+      global financial center. If these measures were to be implemented, it would likely
+      spell the end for the Emirates as a financial center. Russia Russia is benefiting
+      unintentionally from this war; unintentionally, because Iran is an important strategic
+      partner of Russia. Moscow has not commented on the extent of Russia’s support
+      for Iran. Speaking to NBC , Iranian Foreign Minister Araghchi commented on this
+      issue as follows: “Are you receiving any help from Russia?” “Well, we have a strategy
+      in partnership with Russia. […] Well, a military corporation between Iran and
+      Russia is not something new. It’s not it’s not a secret. It has been in the past
+      and still there and will continue in the future.” “Is Russia helping you locate
+      U.S. Forces?” “Well, I don’t have exact military information. As far as I know,
+      we have a very good partnership with Russia.” “So they are helping you.” “They
+      are providing intelligence. Well, they are helping us in many different directions.
+      I don’t have any detail information.” This is about as clear a statement as a
+      professional diplomat can make on these issues. The clear answer is “yes,” because
+      the precision of Iranian missiles leaves no room for any other conclusion. Combined
+      with the fact that American bases have virtually no air defense left due to a
+      lack of ammunition, and that Israel is also no longer able to defend itself, this
+      assistance could be decisive in determining the outcome of the war. According
+      to a study by CREA (Centre for Research and Clean Air) , a Finnish institute,
+      Russia’s revenue from the export of fossil fuels (coal, oil, liquefied natural
+      gas, petroleum products, and pipeline gas) amounted to 492 million euros per day.
+      These are huge sums. Assuming that energy prices may at least double as a result
+      of the conflict, Russia will earn approximately 15 billion euros more—per month.
+      Apart from the economic benefits Russia will derive from this conflict, its geopolitical
+      power will grow. Russia is the only major power that can credibly act as a mediator
+      between the warring parties, because unlike the US, European countries, India,
+      and Israel, Russia is reliable and enjoys a high level of trust. Three Statements
+      from Tehran There are three statements that should give the West food for thought:
+      No ceasefire , no fear of a ground invasion , and the Strait of Hormuz remains
+      closed to Iran’s enemies and their allies and supporters. Another threat to the
+      West is the possible closure of the Red Sea by the Houthis. Saudi Arabia has increased
+      exports from its port of Yanbu on the Red Sea to 2.3 million barrels per day—50%
+      more than the average—to bypass the blocked Strait of Hormuz. The cheers of the
+      Americans and Israelis, which the Western media interprets as victories, are irrelevant
+      in light of the facts. The US and Israel started this war; Iran will end it—in
+      my view, that is a mathematical certainty. Iran has been preparing for this conflict
+      for over 40 years and possesses an arsenal of weapons sufficient to last a long
+      time, certainly longer than the arsenals of the US and Israel—and that is all
+      that matters. The 92 million Iranians are prepared to suffer and are not afraid.
+      Even prolonged bombardments by enemy forces cannot bring this vast country—which
+      is 67 times larger than Israel—to its knees. The Israelis and Americans are accustomed
+      to waging short wars, “fighting” against civilians, and spreading terror. They
+      are no match for a formidable adversary like Iran. Conclusion and Implications
+      Financial Markets As long as this war continues, it is entirely possible that
+      energy prices around the world will skyrocket. The hope that this war would last
+      only a few days or weeks was naive from the start. Although the financial markets
+      have been nervous since the war began, people simply hoped that the war would
+      be over—or would not happen at all—by the time the stock market opened on Monday.
+      Iran’s resolve, however, will leave a significant mark on the energy markets.
+      For over a year, I have been warning that the greatest geopolitical risk is a
+      collapse of the financial markets. This risk has been exacerbated by this conflict,
+      and the panic in the private-credit market can no longer be concealed. The Wall
+      Street Journal reports that investors are growing increasingly nervous in light
+      of the mounting problems in the $3 trillion private credit market ; this bubble
+      amounts to $3,000 billion, and giants like BlackRock and Blackstone are already
+      blocking investors from selling their shares through so-called “ gates .” Deutsche
+      Bank alone has invested over $30 billion in these markets. We will soon find out
+      whether an exploding oil price will be the Black Swan. Goals of Iran Iran’s goal
+      is to eliminate the threats to its existence. Israel and the US, which have been
+      terrorizing the entire Middle East for nearly 80 years, must be neutralized to
+      achieve this. What does that mean? Zionist Israel, which openly advocates annexing
+      virtually the entire Middle East under the banner of “Greater Israel,” is incompatible
+      with a peaceful Middle East. Israel is indeed attempting to incite Gulf states
+      against Iran through false-flag attacks, but these states will not side with Israel.
+      Many of these states are supposed to become part of Greater Israel, and thus I
+      rule out Saudi Arabia, Jordan, Iraq, Syria, and Turkey entering the war on Israel’s
+      side—also because they are already weakened by the war, feel Iran’s power, and
+      are opportunists. The Middle East without Israel and the US The West must come
+      to terms with the idea that Israel, in its current form as a Zionist project,
+      has no future. My sympathy for Israel is rather limited—the majority of the Jewish
+      population supported the genocide in Gaza and also supports the insane war against
+      Iran, which is heavily backed by nearly all Western media; see my article from
+      last July, “Genocide as ‘ Self-Defense’—Western Media as Accomplices in the Genocide
+      in Gaza .” It is already evident that the Americans will not be able to hold onto
+      their bases in the Middle East. Iran is already attacking them with virtually
+      no resistance. I expect that the US will have to evacuate all its bases in the
+      Middle East. Sooner or later, the “host countries” will demand this of the US,
+      because these bases have become a liability for the Gulf states and offer them
+      no security whatsoever. People who are content to simply consume Western media—or
+      rather, propaganda—will be surprised by these conclusions and will not believe
+      them. Never before have people in the Collective West been so poorly informed
+      as they have been in recent years, and they will pay a heavy price. Sooner or
+      later, they will realize that their politicians are traitors who in no way represent
+      the interests of their own people, but rather the interests of criminals, for
+      whom they sell their souls. My contempt for virtually all media in the West is
+      almost boundless. Instead of holding the rulers in their countries in check through
+      critical journalism, they act as their accomplices. Peter Hanseler is a geopolitical
+      analyst who reports from Moscow. Peter was born in Zurich, Switzerland. He holds
+      a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and
+      Master in International Commercial Law (LL.M.) from Georgetown University Law
+      School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that a significant miscalculation by the
+      U.S. regarding its foreign policy in the Middle East could lead to the potential
+      downfall of Israel and a decline in U.S. influence in the region, marking a pivotal
+      turning point in global geopolitics.
+    paragraph_summary: In the article by Peter Hanseler, the author argues that the
+      recent U.S. military actions in the Middle East represent a significant geopolitical
+      miscalculation that could lead to the decline of Israel and diminish U.S. influence
+      in the region. He posits that the attack on Iran marks a pivotal moment in 21st-century
+      history, suggesting that the future power dynamics in the Middle East will shift
+      away from current players. The author expresses concern that Israel's existence
+      as a Zionist state is now in jeopardy, and highlights that Gulf states no longer
+      view the U.S. as a reliable protector, which could destabilize their security.
+      Additionally, he critiques Europe's diminishing role in global geopolitics and
+      notes that Russia is benefiting from the U.S.'s failed strategies. Overall, Hanseler
+      warns that the U.S. may face a fate similar to that of the Ottoman Empire in the
+      Middle East.
+    published: '2026-03-15T19:21:41+00:00'
+  - title: The Empire is Losing Control – Consequences
+    url: https://sonar21.com/the-empire-is-losing-control-consequences/
+    text: 'Will this complete miscalculation by the US lead to the downfall of Israel
+      and the loss of U.S. influence in the Middle East? By Peter Hanseler via ForumGeopolitica.com
+      Introduction Some considered the assessment in our article “ Attack on Iran –
+      the Defining Turning Point of 21st Century History ” to be an exaggeration; however,
+      it appears we were quite correct: The greatest geopolitical blunder of the 21st
+      century so far—the latest in a series of misguided decisions—will redraw the map
+      of the Middle East. The parties that will dominate decision-making in the future
+      at one of the world’s most important energy and transportation hubs will be other
+      than those we know today. A turning point in world history—one unthinkable to
+      the West—is beginning. In this article, I reflect on the consequences of this
+      senseless attack. It does indeed appear that the very existence of Israel as a
+      Zionist project—and thus as a state in its current form—is now up for debate.
+      Furthermore, we currently see no path that will allow the US to maintain its power
+      in the Middle East. Its military infrastructure depends on Gulf states, which
+      see their existence threatened by their proximity to the US. They have realized
+      that the US cannot protect them—indeed, does not even want to—while the Iranians
+      are very much capable of destroying them. Europe is now realizing that it is merely
+      a footnote in geopolitics and risks becoming the world’s poorhouse. We can safely
+      set aside the outcry from Merz & Co. in this article. Ms. von der Leyen will go
+      down in history as the destroyer of the EU. One of the Americans’ goals was to
+      destroy China’s energy sector, for after Venezuela, they wanted to bring a second
+      major energy supplier of the Middle Kingdom under their control. Another inconvenient
+      truth will emerge. Russia is becoming richer and more powerful as a result of
+      this failed US adventure. Will the US suffer the same fate in the Middle East
+      as the Ottomans once did? However, the Trump administration appears to have achieved
+      one goal: new revelations about Epstein—which have the potential to bring Trump
+      down—are being drowned out by the clamor of war—at least for now. The Iranian
+      People Stand with Their Government If one looks behind the curtain of Western
+      propaganda, one finds a picture that could not be more alarming for Israelis and
+      Americans. While the attacks on Iran continue, costing the lives of thousands
+      of civilians, the Iranian people show not the slightest sign of giving up or turning
+      against their own government. U.S. Secretary of War Pete Hegseth told reporters
+      on Friday that the Iranian leadership had “gone underground and gone into hiding,”
+      adding, “That’s what rats do.” In doing so, Hegseth is using the same vocabulary
+      as the Nazis, who referred to Jews as rats—a testament to this man’s level of
+      education. On the same day, high-ranking Iranian officials, including the president,
+      the head of security, and the foreign minister, took part in the Quds Day rally
+      in Tehran, as shown in videos of the protests. The officials marched despite the
+      risk of Israeli and American attacks, which have killed dozens of high-ranking
+      figures—including former Supreme Leader Ayatollah Khamenei—since the war against
+      Iran began on February 28. President Masoud Pezeshkian, security chief Ali Larijani,
+      and Foreign Minister Abbas Araghchi were among the demonstrators. The head of
+      the judiciary, Gholam-Hossein Mohseni-Ejei, was also seen in images and video
+      footage broadcast by state television. He was being interviewed when explosions
+      were heard. This is the Iranian president marching thru the streets of Tehran
+      with no security escort as his country is being bombed. https://t.co/RSDE0MIvjM
+      pic.twitter.com/ecmBJR41QR — Krystal Ball (@krystalball) March 13, 2026 Quds Day,
+      Tehran – Foreign Minister Abbas Araghchi among the people This mandate from the
+      people naturally has an impact on the Iranian leadership. Iranian Foreign Minister
+      Abbas Araghchi speaks with such confidence and composure that he is sure to leave
+      a lasting mark in the history books. Araghchi earned a bachelor’s degree in international
+      relations from the School of International Relations, which is affiliated with
+      the Ministry of Foreign Affairs. He then earned a master’s degree in political
+      science from Islamic Azad University in Tehran. Araghchi also earned a Ph.D. in
+      political thought from the University of Kent with a dissertation titled The Evolution
+      of the Concept of Political Participation in Twentieth-Century Islamic Political
+      Thought (1996). With his international education, this man does not fit at all
+      into the image the West paints of the Iranian government. While he gives interviews
+      to American television networks with confidence and poise, people like Hegseth
+      or Rubio—who rose to their positions without the necessary education—rely primarily
+      on hatred and arrogance in their public appearances. Note that Araghchi is not
+      afraid of his own people. He stands in the middle of the street, and people greet
+      him warmly. Social Media changed the game… Imagine if we were relying on BBC &
+      CNN for information, we would be totally in the dark Here is Iran’s Foreign Minister
+      on the streets of Tehran today… While other are in bunkers, he is on the streets
+      with the people pic.twitter.com/I7wotHW6YB — 𝑲𝒖𝒅𝒛𝒂𝒊 𝑴𝒖𝒕𝒊𝒔𝒊 (@KMutisi) March 13,
+      2026 Is Netanyahu Dead? Social media is abuzz with speculation about Netanyahu’s
+      fate, fueled by posts that the Israeli government initially uploaded to the internet
+      only to remove them shortly thereafter. A video clip showing Netanyahu with six
+      fingers and other inconsistencies typical of AI-manipulated fake videos only adds
+      fuel to the fire. At a meeting of Israel’s Security Cabinet—a domain under the
+      purview of the Israeli prime minister—the prime minister himself, Israeli Air
+      Force Commander Tomer Bar, Mossad Director David Barnea, and National Security
+      Minister Ben Gvir were all absent without any public explanation. Such a lack
+      of transparency in dealing with the media during wartime leaves plenty of room
+      for all kinds of speculation. Non mais vous êtes sérieux BFM-WC @BFMTV de foutre
+      du 100% IA à la téloche ? Le type a des doigts avec du pouce à l''auriculaire
+      complètement identiques, et pire, il y a même un passage où il se retrouve avec
+      6 doigts… Bande de baltringues !!! https://t.co/XKJiHozSRi pic.twitter.com/dMafTAINrz
+      — SIMON STRUEUX (30) compte secours (@SimonSecours) March 13, 2026 In the US,
+      Scott Bessent was unexpectedly—and, by American standards, quite unusually—summoned
+      by the president from an interview with Sky News to the Situation Room. When he
+      returned two hours later (!!), he was so shaken that he could barely speak. Watch
+      the moment a call from the White House situation room interrupts U.S. treasury
+      secretary Scott Bessent''s interview with Sky''s @WilfredFrost pic.twitter.com/4XNNvRuHJX
+      — Sky News (@SkyNews) March 12, 2026 The coming days will reveal whether Netanyahu
+      is indeed dead. It would be an irony of history if the Israelis, who launched
+      their attack by assassinating Khamenei, were now to suffer the same fate—with
+      the difference that the Iranians did not allow themselves to be rattled by these
+      actions. Military Situation American losses are mounting. On Friday, a tanker
+      plane was shot down over Iraq, and five more tanker planes have since been destroyed
+      or damaged in Saudi Arabia, according to the Wall Street Journal . Reports that
+      the American aircraft carrier USS Abraham Lincoln was severely damaged in an attack
+      and had to return home remain unconfirmed. The US naturally denies this, because
+      if Iran were to succeed in actually sinking an aircraft carrier—or even just damaging
+      one—it would destroy the entire aura of American military superiority, with potential
+      consequences of escalation that would be impossible to predict given the psychopathic
+      characters in Washington. The Iranian attacks on Tel Aviv continue unabated. Israel’s
+      defenses seem to be becoming increasingly ineffective. Here is footage of a Khorramshahr
+      missile striking Tel Aviv. It carries a 1,800-kg warhead. The attacks are intensifying,
+      with fewer but more modern and effective weapons being used. BREAKING Izrael experienced
+      KHORAMSHAHR 4 minutes ago !!! One to remember!! pic.twitter.com/GxljXhdlx0 — MIZGOL
+      (@Mizgol) March 13, 2026 Only the Iranians decide who is allowed to pass through
+      the Strait of Hormuz. Russian, Chinese, and Pakistani ships are permitted to pass,
+      and it appears that India may be able to reach an agreement with Iran. This is
+      surprising, given that India sided with Israel even before the conflict began,
+      thereby opposing Iran—another BRICS member—as a founding member of BRICS; see
+      my comments from March 8 . Americans are up in arms over this development, because
+      if this situation persists—and there are no signs that it will change—the price
+      of oil, which has already jumped 40% since the start of the war, from $73 to $103,
+      will skyrocket. Figures ranging from $150 to $300 are being bandied about. According
+      to Irina Slav, Oilprice.com , this is a realistic possibility if oil production
+      in the Gulf states is disrupted (20 million barrels per day). That could cause
+      the global economy to collapse. A scenario that is becoming increasingly likely.
+      According to the Wall Street Journal, Pentagon chief Pete Hegseth approved a request
+      from U.S. Central Command to deploy units from an amphibious ready group and the
+      associated Marine Expeditionary Unit—typically several warships carrying about
+      5,000 Marines and sailors. Where these ships might land is a complete mystery.
+      Whether this is being done merely for propaganda purposes, or whether the Americans
+      are about to launch another suicide mission, I have no way of judging. The fact
+      is, however, that the Americans attacked Iran’s Kharg Island, which handles over
+      90% of Iran’s crude oil exports. Iran’s response was swift; Fujairah, one of the
+      world’s largest oil terminals, located in the United Arab Emirates, was attacked.
+      This is catastrophic, as Fujairah lies on the Gulf of Oman and thus outside the
+      Persian Gulf. Tankers can load or refuel there without having to pass through
+      the Strait of Hormuz. This route is therefore also cut off. With their attack
+      on Kharg, the Americans seemed intent on further escalating the situation. They
+      actually seem to believe that they can bring Iran to its knees this way. Having
+      underestimated the Russians in Ukraine, they are now doing the same with the Iranians
+      in the Middle East. The Situation in the United Arab Emirates I successfully left
+      Dubai with my family. The Airbus 380 was full. On the day of our departure, our
+      hotel was still only about 20% occupied. Most flights to Dubai are empty, but
+      flights from Dubai are full. This is a disaster for this small country. It is
+      estimated that Emirates Airline alone is losing approximately $100 million per
+      day. The real estate market has plummeted by over 30% in a matter of days, and
+      things could get even worse. An investigation by Dark Box has revealed that the
+      United Arab Emirates is preparing a series of extraordinary measures targeting
+      investors who wish to withdraw their capital from Dubai, amid growing concerns
+      about the security and economic consequences of the Iranian attacks and regional
+      instability. According to financial and legal sources cited by Dark Box, the proposed
+      measures could include freezing bank accounts before funds are transferred, imposing
+      travel bans on businesspeople attempting to move their assets abroad, and introducing
+      additional administrative or legal penalties to prevent a rapid capital flight.
+      The report indicates that authorities in Abu Dhabi and Dubai fear a potential
+      exodus of investors that could undermine the cities’ economic model, which relies
+      heavily on international capital flows, global logistics, and the perception of
+      stability. As regional tensions disrupt trade routes and investor confidence,
+      authorities appear determined to slow or prevent capital outflows to protect the
+      domestic financial system. Analysts warn, however, that such measures could raise
+      serious concerns among international investors regarding the predictability and
+      openness of the Emirati business environment. Dark Box concludes that while the
+      proposed measures aim to protect the economy during a time of geopolitical pressure,
+      they could also signal a profound shift in Dubai’s reputation as a free-flowing
+      global financial center. If these measures were to be implemented, it would likely
+      spell the end for the Emirates as a financial center. Russia Russia is benefiting
+      unintentionally from this war; unintentionally, because Iran is an important strategic
+      partner of Russia. Moscow has not commented on the extent of Russia’s support
+      for Iran. Speaking to NBC , Iranian Foreign Minister Araghchi commented on this
+      issue as follows: “Are you receiving any help from Russia?” “Well, we have a strategy
+      in partnership with Russia. […] Well, a military corporation between Iran and
+      Russia is not something new. It’s not it’s not a secret. It has been in the past
+      and still there and will continue in the future.” “Is Russia helping you locate
+      U.S. Forces?” “Well, I don’t have exact military information. As far as I know,
+      we have a very good partnership with Russia.” “So they are helping you.” “They
+      are providing intelligence. Well, they are helping us in many different directions.
+      I don’t have any detail information.” This is about as clear a statement as a
+      professional diplomat can make on these issues. The clear answer is “yes,” because
+      the precision of Iranian missiles leaves no room for any other conclusion. Combined
+      with the fact that American bases have virtually no air defense left due to a
+      lack of ammunition, and that Israel is also no longer able to defend itself, this
+      assistance could be decisive in determining the outcome of the war. According
+      to a study by CREA (Centre for Research and Clean Air) , a Finnish institute,
+      Russia’s revenue from the export of fossil fuels (coal, oil, liquefied natural
+      gas, petroleum products, and pipeline gas) amounted to 492 million euros per day.
+      These are huge sums. Assuming that energy prices may at least double as a result
+      of the conflict, Russia will earn approximately 15 billion euros more—per month.
+      Apart from the economic benefits Russia will derive from this conflict, its geopolitical
+      power will grow. Russia is the only major power that can credibly act as a mediator
+      between the warring parties, because unlike the US, European countries, India,
+      and Israel, Russia is reliable and enjoys a high level of trust. Three Statements
+      from Tehran There are three statements that should give the West food for thought:
+      No ceasefire , no fear of a ground invasion , and the Strait of Hormuz remains
+      closed to Iran’s enemies and their allies and supporters. Another threat to the
+      West is the possible closure of the Red Sea by the Houthis. Saudi Arabia has increased
+      exports from its port of Yanbu on the Red Sea to 2.3 million barrels per day—50%
+      more than the average—to bypass the blocked Strait of Hormuz. The cheers of the
+      Americans and Israelis, which the Western media interprets as victories, are irrelevant
+      in light of the facts. The US and Israel started this war; Iran will end it—in
+      my view, that is a mathematical certainty. Iran has been preparing for this conflict
+      for over 40 years and possesses an arsenal of weapons sufficient to last a long
+      time, certainly longer than the arsenals of the US and Israel—and that is all
+      that matters. The 92 million Iranians are prepared to suffer and are not afraid.
+      Even prolonged bombardments by enemy forces cannot bring this vast country—which
+      is 67 times larger than Israel—to its knees. The Israelis and Americans are accustomed
+      to waging short wars, “fighting” against civilians, and spreading terror. They
+      are no match for a formidable adversary like Iran. Conclusion and Implications
+      Financial Markets As long as this war continues, it is entirely possible that
+      energy prices around the world will skyrocket. The hope that this war would last
+      only a few days or weeks was naive from the start. Although the financial markets
+      have been nervous since the war began, people simply hoped that the war would
+      be over—or would not happen at all—by the time the stock market opened on Monday.
+      Iran’s resolve, however, will leave a significant mark on the energy markets.
+      For over a year, I have been warning that the greatest geopolitical risk is a
+      collapse of the financial markets. This risk has been exacerbated by this conflict,
+      and the panic in the private-credit market can no longer be concealed. The Wall
+      Street Journal reports that investors are growing increasingly nervous in light
+      of the mounting problems in the $3 trillion private credit market ; this bubble
+      amounts to $3,000 billion, and giants like BlackRock and Blackstone are already
+      blocking investors from selling their shares through so-called “ gates .” Deutsche
+      Bank alone has invested over $30 billion in these markets. We will soon find out
+      whether an exploding oil price will be the Black Swan. Goals of Iran Iran’s goal
+      is to eliminate the threats to its existence. Israel and the US, which have been
+      terrorizing the entire Middle East for nearly 80 years, must be neutralized to
+      achieve this. What does that mean? Zionist Israel, which openly advocates annexing
+      virtually the entire Middle East under the banner of “Greater Israel,” is incompatible
+      with a peaceful Middle East. Israel is indeed attempting to incite Gulf states
+      against Iran through false-flag attacks, but these states will not side with Israel.
+      Many of these states are supposed to become part of Greater Israel, and thus I
+      rule out Saudi Arabia, Jordan, Iraq, Syria, and Turkey entering the war on Israel’s
+      side—also because they are already weakened by the war, feel Iran’s power, and
+      are opportunists. The Middle East without Israel and the US The West must come
+      to terms with the idea that Israel, in its current form as a Zionist project,
+      has no future. My sympathy for Israel is rather limited—the majority of the Jewish
+      population supported the genocide in Gaza and also supports the insane war against
+      Iran, which is heavily backed by nearly all Western media; see my article from
+      last July, “Genocide as ‘ Self-Defense’—Western Media as Accomplices in the Genocide
+      in Gaza .” It is already evident that the Americans will not be able to hold onto
+      their bases in the Middle East. Iran is already attacking them with virtually
+      no resistance. I expect that the US will have to evacuate all its bases in the
+      Middle East. Sooner or later, the “host countries” will demand this of the US,
+      because these bases have become a liability for the Gulf states and offer them
+      no security whatsoever. People who are content to simply consume Western media—or
+      rather, propaganda—will be surprised by these conclusions and will not believe
+      them. Never before have people in the Collective West been so poorly informed
+      as they have been in recent years, and they will pay a heavy price. Sooner or
+      later, they will realize that their politicians are traitors who in no way represent
+      the interests of their own people, but rather the interests of criminals, for
+      whom they sell their souls. My contempt for virtually all media in the West is
+      almost boundless. Instead of holding the rulers in their countries in check through
+      critical journalism, they act as their accomplices. Peter Hanseler is a geopolitical
+      analyst who reports from Moscow. Peter was born in Zurich, Switzerland. He holds
+      a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and
+      Master in International Commercial Law (LL.M.) from Georgetown University Law
+      School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that a significant miscalculation by the
+      U.S. regarding its foreign policy in the Middle East could lead to the potential
+      downfall of Israel and a decline in U.S. influence in the region, marking a pivotal
+      turning point in global geopolitics.
+    paragraph_summary: In the article by Peter Hanseler, the author argues that the
+      recent U.S. military actions in the Middle East represent a significant geopolitical
+      miscalculation that could lead to the decline of Israel and diminish U.S. influence
+      in the region. He posits that the attack on Iran marks a pivotal moment in 21st-century
+      history, suggesting that the future power dynamics in the Middle East will shift
+      away from current players. The author expresses concern that Israel's existence
+      as a Zionist state is now in jeopardy, and highlights that Gulf states no longer
+      view the U.S. as a reliable protector, which could destabilize their security.
+      Additionally, he critiques Europe's diminishing role in global geopolitics and
+      notes that Russia is benefiting from the U.S.'s failed strategies. Overall, Hanseler
+      warns that the U.S. may face a fate similar to that of the Ottoman Empire in the
+      Middle East.
+    published: '2026-03-15T19:21:41+00:00'
+  - title: Trump is Trapped, But Doesn’t Know It
+    url: https://sonar21.com/trump-is-trapped-but-doesnt-know-it/
+    text: 'Screenshot The image above reminds us that we are in Deja Vu land with respect
+      to the current war with Iran. Despite Trump’s campaign promise to not start a
+      new war in the Middle East he has done exactly that. Only one little problem…
+      He can’t win it and, even if he declares victory and tries to bring the air force
+      squadrons and carrier strike groups back home, Iran is not going to cooperate.
+      I was interviewed late Friday night by a 40 year old man who lives in Iran. He
+      was born during the Iraq/Iran war in the 1980s and has no real memory of how that
+      event resonated among the adults at the time. However, the US and Israeli attacks
+      of June 2025 and February 2026 have ignited a spirit of patriotism and nationalism
+      among the generation born between 1980 and 2010. Western hopes that the people
+      of Iran would demand the end of the Islamic Republic have been dashed. Iran is
+      more united now than at anytime since the revolution of 1979. A story has emerged
+      that explains why Israel and the United States were so confident that the attack
+      on 28 February would produce a regime change and the fall of the Islamic Republic…
+      Israel’s Mossad had recruited General Esmail Qaani. General Esmail Qaani (often
+      spelled Qaani or Qaani) was an Iranian brigadier general in the Islamic Revolutionary
+      Guard Corps (IRGC) who served as the commander of the IRGC’s Quds Force, the unit
+      in charge of Iran’s overseas and covert operations, until January 2020, when he
+      was appointed to replace Qassem Soleimani after Soleimani was killed in a U.S.
+      drone strike near Baghdad on January 3, 2020. General Qaani reportedly had promised
+      to deliver Iran to the West, but his role in facilitating the murder of the Ayatollah
+      Ali Khameni was exposed and he has been eliminated. Watch this video to understand
+      the extent of his treachery. During the week following the death of the Ayatollah
+      Khameni and his top generals, Iran military operations and missile strikes were
+      carried out in a decentralized fashion that gave each regional commander complete
+      autonomy to select targets. It now appears that the command-and-control system
+      of Iran’s military and security services has been restored and Iran is now carrying
+      out a very precise, coordinated plan to force the US from the Persian Gulf and
+      to destroy Israel’s ability to attack Iran. Here’s the report from Iran of its
+      activities on March 14: In the 52nd wave of Operation True Promise 4, under the
+      code “O Zainab al-Kubra, peace be upon her,” IRGC forces carried out combined
+      strikes on targets in the occupied territories and three US bases in retaliation
+      for the blood of martyred workers from Iran’s industrial towns. Ambulance sirens
+      and Zionist admissions of rising killed and wounded reveal the scale of the IRGC
+      missile strikes on the industrial sectors of Tel Aviv. Iranian missiles and drones
+      also struck the industrial sectors and US force gathering points at the Al-Harir
+      base in Erbil and the Ali Al-Salem and Arifjan bases. The unknown fate of the
+      Zionist Prime Minister and reports he may be dead or fleeing with his family highlight
+      the crisis within the Zionist regime. If this child-killing criminal is alive,
+      we will continue to pursue and kill him with full force. Iran is carrying out
+      an average of four waves of missile and drone attacks per day. The US and Israel
+      have grossly underestimated Iran’s arsenal of ballistic missiles. In the event
+      that Donald Trump tries to declare victory and disengage, Iran will not. Iran
+      will continue to pummel US military facilities in the Persian Gulf and Israel’s
+      military and infrastructure. I believe that Iran will not end its blockade of
+      the Strait of Hormuz until the US and Israel agree to Iran’s terms. These include
+      the lifting of all sanctions against Iran, the removal of US military installations
+      from the Persian Gulf and reparations for the damage inflicted on Iran during
+      the course of this war. Trump will face the dilemma of accepting Iran’s terms
+      (a humiliating outcome) or continuing a war of attrition while the while Iran
+      launches at least three waves of missiles every day. The pressure on Trump will
+      be enormous as long as Iran maintains control over the Strait of Hormuz… US allies,
+      particularly in Asia, will be pleading to an end of the war, and the domestic
+      economic picture will worsen. Trump is trapped and does not appear to have a politically
+      viable exit ramp. I had a pleasant chat with Pelle Neroth Taylor and retired journalist,
+      Martin Sieff, late on Friday. Please visit their channel: Stas and I discussed
+      the debacle that is unfolding in the Persian Gulf and the damage to US credibility:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how the current conflict with Iran,
+      despite Trump's initial promise to avoid new wars in the Middle East, has led
+      to increased nationalism and unity among Iranians, undermining Western hopes for
+      regime change.
+    paragraph_summary: The article discusses the current conflict between the U.S. and
+      Iran, highlighting the irony of President Trump's campaign promise to avoid new
+      wars in the Middle East, which he has contradicted by engaging in military actions
+      against Iran. Despite expectations that U.S. and Israeli attacks would lead to
+      regime change in Iran, the opposite has occurred; the Iranian populace, particularly
+      those born between 1980 and 2010, has rallied in a surge of nationalism and unity,
+      countering Western hopes for dissent against the Islamic Republic. The article
+      also reveals that Israel's confidence in achieving regime change was based on
+      the recruitment of Iranian General Esmail Qaani, who ultimately failed and was
+      eliminated after his betrayal was uncovered. Following the death of Ayatollah
+      Khamenei and his generals, Iran's military response has been decentralized, complicating
+      the situation further for the U.S. and its allies.
+    published: '2026-03-15T07:40:46+00:00'
+  - title: Trump is Trapped, But Doesn’t Know It
+    url: https://sonar21.com/trump-is-trapped-but-doesnt-know-it/
+    text: 'Screenshot The image above reminds us that we are in Deja Vu land with respect
+      to the current war with Iran. Despite Trump’s campaign promise to not start a
+      new war in the Middle East he has done exactly that. Only one little problem…
+      He can’t win it and, even if he declares victory and tries to bring the air force
+      squadrons and carrier strike groups back home, Iran is not going to cooperate.
+      I was interviewed late Friday night by a 40 year old man who lives in Iran. He
+      was born during the Iraq/Iran war in the 1980s and has no real memory of how that
+      event resonated among the adults at the time. However, the US and Israeli attacks
+      of June 2025 and February 2026 have ignited a spirit of patriotism and nationalism
+      among the generation born between 1980 and 2010. Western hopes that the people
+      of Iran would demand the end of the Islamic Republic have been dashed. Iran is
+      more united now than at anytime since the revolution of 1979. A story has emerged
+      that explains why Israel and the United States were so confident that the attack
+      on 28 February would produce a regime change and the fall of the Islamic Republic…
+      Israel’s Mossad had recruited General Esmail Qaani. General Esmail Qaani (often
+      spelled Qaani or Qaani) was an Iranian brigadier general in the Islamic Revolutionary
+      Guard Corps (IRGC) who served as the commander of the IRGC’s Quds Force, the unit
+      in charge of Iran’s overseas and covert operations, until January 2020, when he
+      was appointed to replace Qassem Soleimani after Soleimani was killed in a U.S.
+      drone strike near Baghdad on January 3, 2020. General Qaani reportedly had promised
+      to deliver Iran to the West, but his role in facilitating the murder of the Ayatollah
+      Ali Khameni was exposed and he has been eliminated. Watch this video to understand
+      the extent of his treachery. During the week following the death of the Ayatollah
+      Khameni and his top generals, Iran military operations and missile strikes were
+      carried out in a decentralized fashion that gave each regional commander complete
+      autonomy to select targets. It now appears that the command-and-control system
+      of Iran’s military and security services has been restored and Iran is now carrying
+      out a very precise, coordinated plan to force the US from the Persian Gulf and
+      to destroy Israel’s ability to attack Iran. Here’s the report from Iran of its
+      activities on March 14: In the 52nd wave of Operation True Promise 4, under the
+      code “O Zainab al-Kubra, peace be upon her,” IRGC forces carried out combined
+      strikes on targets in the occupied territories and three US bases in retaliation
+      for the blood of martyred workers from Iran’s industrial towns. Ambulance sirens
+      and Zionist admissions of rising killed and wounded reveal the scale of the IRGC
+      missile strikes on the industrial sectors of Tel Aviv. Iranian missiles and drones
+      also struck the industrial sectors and US force gathering points at the Al-Harir
+      base in Erbil and the Ali Al-Salem and Arifjan bases. The unknown fate of the
+      Zionist Prime Minister and reports he may be dead or fleeing with his family highlight
+      the crisis within the Zionist regime. If this child-killing criminal is alive,
+      we will continue to pursue and kill him with full force. Iran is carrying out
+      an average of four waves of missile and drone attacks per day. The US and Israel
+      have grossly underestimated Iran’s arsenal of ballistic missiles. In the event
+      that Donald Trump tries to declare victory and disengage, Iran will not. Iran
+      will continue to pummel US military facilities in the Persian Gulf and Israel’s
+      military and infrastructure. I believe that Iran will not end its blockade of
+      the Strait of Hormuz until the US and Israel agree to Iran’s terms. These include
+      the lifting of all sanctions against Iran, the removal of US military installations
+      from the Persian Gulf and reparations for the damage inflicted on Iran during
+      the course of this war. Trump will face the dilemma of accepting Iran’s terms
+      (a humiliating outcome) or continuing a war of attrition while the while Iran
+      launches at least three waves of missiles every day. The pressure on Trump will
+      be enormous as long as Iran maintains control over the Strait of Hormuz… US allies,
+      particularly in Asia, will be pleading to an end of the war, and the domestic
+      economic picture will worsen. Trump is trapped and does not appear to have a politically
+      viable exit ramp. I had a pleasant chat with Pelle Neroth Taylor and retired journalist,
+      Martin Sieff, late on Friday. Please visit their channel: Stas and I discussed
+      the debacle that is unfolding in the Persian Gulf and the damage to US credibility:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how the current conflict with Iran,
+      despite Trump's initial promise to avoid new wars in the Middle East, has led
+      to increased nationalism and unity among Iranians, undermining Western hopes for
+      regime change.
+    paragraph_summary: The article discusses the current conflict between the U.S. and
+      Iran, highlighting the irony of President Trump's campaign promise to avoid new
+      wars in the Middle East, which he has contradicted by engaging in military actions
+      against Iran. Despite expectations that U.S. and Israeli attacks would lead to
+      regime change in Iran, the opposite has occurred; the Iranian populace, particularly
+      those born between 1980 and 2010, has rallied in a surge of nationalism and unity,
+      countering Western hopes for dissent against the Islamic Republic. The article
+      also reveals that Israel's confidence in achieving regime change was based on
+      the recruitment of Iranian General Esmail Qaani, who ultimately failed and was
+      eliminated after his betrayal was uncovered. Following the death of Ayatollah
+      Khamenei and his generals, Iran's military response has been decentralized, complicating
+      the situation further for the U.S. and its allies.
+    published: '2026-03-15T07:40:46+00:00'
+  - title: Trump’s Kharg Island Fantasy… All Bark, No Bite
+    url: https://sonar21.com/trumps-kharg-island-fantasy-all-bark-no-bite/
+    text: 'Late on Friday Donald Trump claimed in a social media post that military
+      facilities on Kharg Island were targeted. Read his Truth carefully: Trump is deep
+      into fantasy land. Yes, I think he has lost touch with reality. He admits that
+      the oil terminals were not attacked, just some unidentified military targets.
+      Iran has previously warned of that an attack on Iran’s energy infrastructure would
+      be answered by a comparable attack on all oil and gas infrastructure in the region
+      in which the US and its allies have an interest would be set ablaze and destroyed.
+      If you don’t know it now, only one of Iran’s 5 operational oil export terminals
+      is located on Kharg Island. According to data from the international company Kepler,
+      the amount of oil loaded from the tanks installed on Kharg increased by 1.5 times
+      in the past month. This suggests that Iran, by quickly emptying Kharg’s tanks,
+      was prepared for this attack. If Iran’s oil terminal on Kharg had been destroyed,
+      Iran would have launched missiles at identified the oil terminals in all the countries
+      bordering the Persian Gulf. Here’s the list: Saudi Arabia Ras Tanura: The largest
+      marine oil loading center in the world; capacity: 6 million barrels per day. Ras
+      Al-Ju’aymah: The second most important terminal; capacity 3 to 3.6 million barrels
+      per day. United Arab Emirates Fujairah: Has multiple docks and is the largest
+      fueling center in the region. Jebel Ali: Site for crude oil and petrochemical
+      exports. Qatar Ras Laffan: The largest LNG export facility in the world. Kuwait
+      Mina Al-Ahmadi: Central crude oil export terminal with deep docks and high capacity.
+      Bahrain Sitra Terminal: Exports refined Here is Iran’s report on the limited impact
+      of US attacks on Kharg Island on Saturday morning: According to Fars field reports,
+      2-3h ago, Kharg Island was subject to US attacks with more than 15 explosions
+      on the island. During these attacks, the US attempted to damage the Army’s air
+      defense systems, the Joshan Naval Base, the airport control tower, and the Iranian
+      Offshore Oil Company (IOOC) helicopter hangar. Fars’ Field observations indicate
+      thick smoke rising from various parts of the island, but none of the oil infrastructure
+      was damaged in these attacks. Iran had previously warned of the consequences of
+      attacking the country’s energy infrastructure, stating that should such an event
+      occur, all oil and gas infrastructure in the region in which the US and its allies
+      have an interest would be set ablaze and destroyed. Following these attacks, Trump
+      claimed that the US had successfully targeted all military objectives on Kharg
+      Island & “complete destroyed” the island’s air defense systems. However, 1h after
+      the attack, there was air defense activity on the island which straight up debunks
+      their claims that they destroyed all air defenses here. Trump has also repeatedly
+      claimed the complete destruction of Iran’s missile capabilities, yet the wave
+      of missile and drone attacks [from Iran] has now reached its 48th round. There
+      are a couple of ways to look at this. Perhaps Trump’s lie about devastating Kharg
+      Island is the start of his PR campaign to gaslight the American public into believing
+      Iran is defeated, which would allow Trump to declare victory and start withdrawing
+      US forces. That’s one possibility. Alternatively, he really believes the lie and
+      is convinced that this latest strike will convince the Iranians to surrender.
+      If you want to glean some keen insights into Trump’s drift into madness, please
+      take an hour to watch Danny Davis’ interview with Robert Barnes ( linked here
+      ). Today has been a monster day of interviews. I started the day off with Nima
+      and Colonel Wilkerson: Later in the day was the Intelligence Roundtable with the
+      Judge and Ray: Danny Davis asked me back for a second appearance this week to
+      discuss the so-called Iranian Sleeper Cells that, in my judgment, do not exist
+      and are a tool the Trump administration is using to manipulate the public: Cyrus
+      Janssen invited me back for a new chat because of the positive reaction by his
+      subscribers to our last conversation: Pascual Lottaz, who hosts Neutrality Studies
+      , interviewed me last night regarding the war on Iran: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump claimed that military facilities on Kharg Island
+      were targeted, but his assertions are dismissed as unrealistic, especially given
+      Iran's warnings of retaliation against attacks on its energy infrastructure and
+      the recent increase in oil exports from the island, indicating Iran's preparedness
+      for potential strikes.
+    paragraph_summary: On Friday, Donald Trump claimed via social media that military
+      facilities on Kharg Island were targeted, but analysts suggest he is out of touch
+      with reality, as he acknowledged that oil terminals were not attacked, only unspecified
+      military targets. Iran has previously warned that any assault on its energy infrastructure
+      would provoke retaliatory strikes on oil and gas facilities in the region, which
+      could lead to widespread destruction. Notably, only one of Iran's five operational
+      oil export terminals is located on Kharg Island, and recent data indicates that
+      Iran has been rapidly emptying its tanks there in anticipation of potential attacks.
+      If the terminal had been destroyed, Iran would likely have targeted oil facilities
+      in neighboring countries, including major terminals in Saudi Arabia, the UAE,
+      Qatar, Kuwait, and Bahrain. Following the reported US attacks on Kharg Island,
+      which involved multiple explosions aimed at military installations, Iran's media
+      reported limited impact from these strikes.
+    published: '2026-03-14T04:48:58+00:00'
+  - title: Trump’s Kharg Island Fantasy… All Bark, No Bite
+    url: https://sonar21.com/trumps-kharg-island-fantasy-all-bark-no-bite/
+    text: 'Late on Friday Donald Trump claimed in a social media post that military
+      facilities on Kharg Island were targeted. Read his Truth carefully: Trump is deep
+      into fantasy land. Yes, I think he has lost touch with reality. He admits that
+      the oil terminals were not attacked, just some unidentified military targets.
+      Iran has previously warned of that an attack on Iran’s energy infrastructure would
+      be answered by a comparable attack on all oil and gas infrastructure in the region
+      in which the US and its allies have an interest would be set ablaze and destroyed.
+      If you don’t know it now, only one of Iran’s 5 operational oil export terminals
+      is located on Kharg Island. According to data from the international company Kepler,
+      the amount of oil loaded from the tanks installed on Kharg increased by 1.5 times
+      in the past month. This suggests that Iran, by quickly emptying Kharg’s tanks,
+      was prepared for this attack. If Iran’s oil terminal on Kharg had been destroyed,
+      Iran would have launched missiles at identified the oil terminals in all the countries
+      bordering the Persian Gulf. Here’s the list: Saudi Arabia Ras Tanura: The largest
+      marine oil loading center in the world; capacity: 6 million barrels per day. Ras
+      Al-Ju’aymah: The second most important terminal; capacity 3 to 3.6 million barrels
+      per day. United Arab Emirates Fujairah: Has multiple docks and is the largest
+      fueling center in the region. Jebel Ali: Site for crude oil and petrochemical
+      exports. Qatar Ras Laffan: The largest LNG export facility in the world. Kuwait
+      Mina Al-Ahmadi: Central crude oil export terminal with deep docks and high capacity.
+      Bahrain Sitra Terminal: Exports refined Here is Iran’s report on the limited impact
+      of US attacks on Kharg Island on Saturday morning: According to Fars field reports,
+      2-3h ago, Kharg Island was subject to US attacks with more than 15 explosions
+      on the island. During these attacks, the US attempted to damage the Army’s air
+      defense systems, the Joshan Naval Base, the airport control tower, and the Iranian
+      Offshore Oil Company (IOOC) helicopter hangar. Fars’ Field observations indicate
+      thick smoke rising from various parts of the island, but none of the oil infrastructure
+      was damaged in these attacks. Iran had previously warned of the consequences of
+      attacking the country’s energy infrastructure, stating that should such an event
+      occur, all oil and gas infrastructure in the region in which the US and its allies
+      have an interest would be set ablaze and destroyed. Following these attacks, Trump
+      claimed that the US had successfully targeted all military objectives on Kharg
+      Island & “complete destroyed” the island’s air defense systems. However, 1h after
+      the attack, there was air defense activity on the island which straight up debunks
+      their claims that they destroyed all air defenses here. Trump has also repeatedly
+      claimed the complete destruction of Iran’s missile capabilities, yet the wave
+      of missile and drone attacks [from Iran] has now reached its 48th round. There
+      are a couple of ways to look at this. Perhaps Trump’s lie about devastating Kharg
+      Island is the start of his PR campaign to gaslight the American public into believing
+      Iran is defeated, which would allow Trump to declare victory and start withdrawing
+      US forces. That’s one possibility. Alternatively, he really believes the lie and
+      is convinced that this latest strike will convince the Iranians to surrender.
+      If you want to glean some keen insights into Trump’s drift into madness, please
+      take an hour to watch Danny Davis’ interview with Robert Barnes ( linked here
+      ). Today has been a monster day of interviews. I started the day off with Nima
+      and Colonel Wilkerson: Later in the day was the Intelligence Roundtable with the
+      Judge and Ray: Danny Davis asked me back for a second appearance this week to
+      discuss the so-called Iranian Sleeper Cells that, in my judgment, do not exist
+      and are a tool the Trump administration is using to manipulate the public: Cyrus
+      Janssen invited me back for a new chat because of the positive reaction by his
+      subscribers to our last conversation: Pascual Lottaz, who hosts Neutrality Studies
+      , interviewed me last night regarding the war on Iran: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump claimed that military facilities on Kharg Island
+      were targeted, but his assertions are dismissed as unrealistic, especially given
+      Iran's warnings of retaliation against attacks on its energy infrastructure and
+      the recent increase in oil exports from the island, indicating Iran's preparedness
+      for potential strikes.
+    paragraph_summary: On Friday, Donald Trump claimed via social media that military
+      facilities on Kharg Island were targeted, but analysts suggest he is out of touch
+      with reality, as he acknowledged that oil terminals were not attacked, only unspecified
+      military targets. Iran has previously warned that any assault on its energy infrastructure
+      would provoke retaliatory strikes on oil and gas facilities in the region, which
+      could lead to widespread destruction. Notably, only one of Iran's five operational
+      oil export terminals is located on Kharg Island, and recent data indicates that
+      Iran has been rapidly emptying its tanks there in anticipation of potential attacks.
+      If the terminal had been destroyed, Iran would likely have targeted oil facilities
+      in neighboring countries, including major terminals in Saudi Arabia, the UAE,
+      Qatar, Kuwait, and Bahrain. Following the reported US attacks on Kharg Island,
+      which involved multiple explosions aimed at military installations, Iran's media
+      reported limited impact from these strikes.
+    published: '2026-03-14T04:48:58+00:00'
+  - title: Armageddon Now! Israel’s Nuclear Weapons Program by Kevin Kirk
+    url: https://sonar21.com/armageddon-now-israels-nuclear-weapons-program-by-kevin-kirk/
+    text: '[I am reposting this article that was first published at Naked Capitalism
+      with the permission of Yves Smith.] Yves here. I hope reader will circulate this
+      important and well-documented post on Israel’s nuclear weapons development, which
+      includes details such as the fact that Israel has used Gaza as a nuclear waste
+      dump. It would be poetic justice, in the unlikely event that Trump’s redevelopment
+      scheme goes forward, for those living on a mass grave to be exposed to radiation.
+      By Kevin Kirk, who has worked all over the world, first as an engineer, then a
+      visiting university Professor and finally as a diplomatic trainer. He mourns the
+      loss of what could have been in Israel if Jews and Arabs had lived in peace together
+      Ever since Israel came into being in 1948 – by a vote of 33 in favour (with 13
+      countries voting against it and with 11 abstentions) by United Nations resolution
+      181 , which also included a fully autonomous Palestinian state – Israel has sought
+      a nuclear deterrence. Indeed, it was stated by the first prime minister, David
+      Ben-Gurion, that: “Science could compensate us for what Nature has denied us.”
+      He believed it would show his commitment to Zionism , the political ideology that
+      underpins the state of Israel. It was considerably aided by the fact that many
+      of the leading scientists that worked on the Manhattan Project were Jewish and
+      some were enticed into relocating to and supporting the new state. France also
+      wanted access to these scientists and so entered into a pact with Israel to jointly
+      produce nuclear weapons. To this end Israeli scientists were given full and unhindered
+      access to the French nuclear research centre at Marcoule , where they also helped
+      to build the G1 plutonium production reactor and the UP1 reprocessing plant. In
+      return they were allowed to observe the development of France’s nuclear deterrent
+      and were provided full access to the data obtained from France’s nuclear weapons
+      tests. This was confirmed years later by the ‘father’ of France’s nuclear weapons,
+      Francis Perrin . In 1956, France (under the extremely pro-Zionist and Anglophile
+      prime minister, Guy Mollet ) agreed to build a 24 megawatt EL-102 heavy water
+       nuclear reactor at Dimona,  capable of producing plutonium, in the Negev desert
+      area of Israel, in return for Israel’s assistance during the Suez crisis . The
+      French also provided the designs for the separation technology for spent nuclear
+      fuel. Ben-Gurion described the reactor as being for entirely peaceful purposes
+      as it was going to be used to power desalination plants so the Negev could be
+      used to grow crops. French technicians were brought in, although their presence
+      there was officially denied – even going so far as to send their personal mail
+      via South America to disguise their actual location. Thousands of Sephardic Jews
+      were forcibly transported from Morocco, via Marseilles, in order to provide the
+      manual laborers under Operation Yachin . When questioned by the US, after the
+      construction was observed by US spy planes, Ben-Gurion stated that they were building
+      a furniture factory. At least half of the money ($80 million – around $1 billion
+      in today’s dollars) for the construction came, according to Ben-Gurion, from wealthy
+      Jewish donors based overseas, with the majority originating from the US. France
+      was not alone in providing nuclear materials and technology. In particular, in
+      order for a reactor to run on natural uranium (like the CAND U reactor in Canada)
+      it needs heavy water . For years it was assumed that Norway supplied the heavy
+      water to Israel as a Norwegian company, Noratom, had supplied at least 20 tons
+      of it to Israel. It later leaked out that it was, in fact, Great Britain that
+      had supplied it, using Noratom as a front company (for which they got a 2% commission).
+      A 2006 Newsnight (BBC political affairs) program revealed that not only did Britain
+      (who had their own nuclear weapons arsenal) supply the material but it also supplied
+      equipment, designs, chemicals used for separation, technology and research data.
+      Moreover, in the mid-1960s, when France, under De Gaulle, decided not to supply
+      any more uranium to Israel, they started buying their natural Uranium from Britain.
+      Britain also supplied Uranium 235 and plutonium so they could be used directly
+      in nuclear weapons. British officials stated that they had obtained assurances
+      from Israel that it was purely for peaceful purposes despite the fact that the
+      intelligence agencies warned about the real intentions. Argentina also supplied
+      100 tons of yellowcake, uranium oxide, which was also used to fuel the reactor.
+      One of the most significant collaborators was South Africa. For example, in 1965,
+      South Africa supplied a further 10 tons of yellowcake supposedly under the International
+      Atomic Energy Agency (IAEA) Safeguards Agreements as Israel was a signatory of
+      the Atoms for Peace initiative started by Eisenhower. This nuclear relationship
+      between the two countries was allegedly initiated by the, then South Africa based,
+      Zionist Lubner family. This family founded Belron , which is now based in the
+      UK, which owns automobile glass companies around the world, such as Safelite in
+      the US and Autoglass in the UK. The current scion, Gary Lubner, is one of the
+      main donors to the UK Labour party (along with Trevor Chinn , who was also the
+      prime mover of the removal of Jeremy Corbyn and the installation of Keir Starmer)
+      and donated over £70,000 to David Lammy, the deputy prime minister, ‘for his office’.
+      The nuclear collaboration deal between South Africa and Israel was subject to
+      yearly inspections by the South African Atomic Energy Board. But the inspections
+      only lasted until 1976, when South Africa agreed to remove the safeguards. Soon
+      afterwards, Israel obtained 500 tons of uranium specifically for plutonium production
+      in Dimona’s reactor in exchange for 30 grams of tritium for South Africa’s nuclear
+      weapons program. Israel also conducted a nuclear test off the coast of South Africa
+      ( Vela Incident ), which the US tried to cover up saying it was a typhoon or the
+      satellite wasn’t on station at that time,. However, President Jimmy Carter wrote
+      in his diary, “We have a growing belief among our scientists that the Israelis
+      did indeed conduct a nuclear test explosion in the ocean near the southern end
+      of Africa.” That broke the strategic ambiguity agreement that had been in force
+      since Nixon (more on that below). Belgium also supplied yellowcake to Israel,
+      albeit unknowingly, for the reactor. In 1968, Israel, acting through MOSSAD, purchased
+      200 tons of yellowcake from the Belgian company Union Minière , who obtained it
+      from their mines in the Congo. The basis of this operation, known as Operation
+      Plumbat , was for the Belgian company to ship the uranium from Antwerp to its
+      legal destination of Genoa in Italy, but the shipment was intercepted at sea and
+      the uranium was transferred to another vessel and sent to Israel. During the late
+      50s and early 60s some US officials were concerned about the construction of the
+      reactor; indeed, the CIA produced a report highlighting the dangers but the Eisenhower
+      administration suppressed it. President Kennedy, on the other hand, was very alarmed
+      about Israel acquiring nuclear weapons and demanded thorough inspections of what
+      was taking place on the site. He was in the final process of setting up the inspection
+      regime and possibly shutting down the production of nuclear weapons in Israel
+      when he was assassinated. After Kennedy’s assassination, the Johnson administration
+      cancelled the thorough inspection program but did, under pressure, allowed limited
+      inspections of certain parts of the site. The inspectors were barred from inspecting
+      the sensitive areas, where the plutonium was produced, for ‘safety reasons’ and
+      they were required to provide substantial warning before an inspection was due
+      to take place and the Israelis could cancel the inspections with no notice. This
+      was, according to US security analysts at the time, to allow plutonium production
+      to take place between visits. Prior to Kennedy’s assassination, Ben-Gurion’s’
+      successor, Levi Eshkol, told Kennedy: “If you want it, there will be no nuclear
+      weapons. But give us something else which will deter the Arabs.” Kennedy was extremely
+      reluctant to provide Israel with what would effectively be a carte blanche for
+      Israel to do what it wanted in the Middle East with full American backing. Kennedy
+      concerns were that it would undermine his balanced policy between the Arabs and
+      Israelis as it would seem to the Arabs that the US was taking Israel’s side in
+      every conflict they undertook. The State Department even issued a statement on
+      the matter saying: “Each matter arising in our relationship with Israel, is carefully
+      weighed in terms of its effect on our policy of impartiality as between Israel
+      and the Arabs and of its effect on Israel’s security. If the United States were
+      to align itself more closely with Israel it would constitute a direct challenge
+      to the Arabs by the US and would destroy growing Arab confidence in our impartiality.”
+      Fortunately for Israel, Kennedy’s removal also removed US impartiality from then
+      on, something that the Gulf Arab states have had demonstrated to them in the last
+      few days. It was during Johnson’s tenure at the White House, that the NUMEC affair
+      took place. This involved the alleged theft of 200–600 pounds (91–272 kg) of highly
+      enriched Uranium from a nuclear reprocessing plant in the Pittsburgh suburbs of
+      Apollo and Parks Township, Pennsylvania, called NUMEC, which was owned by a staunch
+      Zionist called Zalman Shapiro . This uranium was thought to have found its way
+      into Israel’s nuclear program. Subsequent investigations under the auspices of
+      the FBI, the CIA and the Department of Energy were stonewalled and eventually
+      petered out after pressure from the White House. No arrests were ever made nor
+      findings published. A General Accounting Office study of the investigations was
+      declassified in May 2010, which stated “We believe a timely, concerted effort
+      on the part of these three agencies would have greatly aided and possibly solved
+      the NUMEC diversion questions, if they desired to do so.” Reactions by other US
+      presidents have been weak, concerned by the intelligence from Israel that the
+      USSR would supply nuclear weapons to the Gulf Arab states, or at least help them
+      to build their own, if they got wind of Israel’s nuclear ambitions. For example,
+      Nixon had qualms about the nuclear program and he asked Henry Kissinger about
+      how he should approach the problem. Kissinger then came up with the strategy of
+      ‘strategic ambiguity’, where the US would neither confirm or deny the existence
+      of Israel’s nuclear weapons. This policy led to a meeting between Nixon and Golda
+      Meir, the then Israeli prime minister, in September 1969, where it was agreed
+      that Israel could pursue its nuclear ambitions without any interference by the
+      U.S. with the only conditions being that Israel would refrain from testing its
+      nuclear devices and going public about their possession. In exchange, the U.S.
+      would not press Israel to sign the Nuclear Non-Proliferation Treaty (NPT). The
+      documents giving the details of this meeting were kept secret until they were
+      declassified , in 2014, by the Obama administration. Note, it was during that
+      meeting that the US agreed to Israel having ballistic missiles as long as they
+      were not nuclear tipped. The weapons program progressed rapidly after that; so,
+      that by the time the Yom Kippur war started, Israel had enough warheads mounted
+      on French supplied missiles that discussions were held in Israel as to whether
+      nuclear strikes should be undertaken against Syria and Egypt. In the end Golda
+      Meir decided that Israel wasn’t in existential danger and so the strikes didn’t
+      go ahead. Little was known about the actual number of warheads Israel had produced
+      until Israeli whistleblower, Mordechai Vanunu , revealed to the British Press
+      (Sunday Times – followed by a BBC documentary ) that Israel had produced dozens
+      of kilograms of plutonium in Dimona each year between 1980 and 1986 and that  Israel
+      possessed between 100-200 nuclear weapons at that time. They were also producing
+      materials like exotic isotopes of Lithium (such as Lithium-6) and Tritium for
+      boosted fission or fusion weapons He also took a series of photographs inside
+      Dimona. It is currently estimated that Israel has up to 400 warheads and have
+      produced over 900kg of plutonium in the facility. Safety Issues Judging by the
+      amount of fuel being consumed by the reactor it is being run at two to four times
+      its rated capacity, which is obviously creating a huge amount of nuclear waste.
+      So, what does it do with this waste given that it is not a signatory to the NPT
+      and can’t, legally (if that still means anything anymore) ship it overseas? So
+      where is it going? According to Israel TV Channel Two, two of the four main waste
+      dumps are in Palestinian territory, primarily in Gaza such as the area east of
+      the Al Bureij refugee camp and the town of Deir El Balah. One example is where
+      Israel removed the fertile topsoil and carted it off to Israel and replaced it
+      with 50,000 tons of toxic waste. 30-meter-deep unlined pits were dug (1,000s of
+      meters across) and the waste was simply dumped into them. In addition, radioactive
+      waste is being imported from overseas such as the reports of 2,500 tons of radioactive
+      (4x safe limits) toxic waste which was sent from Italy, which was also disposed
+      in Gaza. The question is, do the customers for the Trump version of ‘Dubai in
+      the Med’ know that they’ll be living on a nuclear waste dump that will undoubtedly
+      be disturbed when the foundations are being dug for the sparkly new skyscrapers,
+      he and his fellow property moguls are envisaging, particularly as environmental
+      health monitoring is strictly forbidden in Gaza? Other dump sites in Palestinian
+      territory are in the Eastern hills of the West Bank. For example, 80 barrels of
+      Israeli waste were physically uncovered in the city of Hebron with another 120
+      found in the town of Al Ezareya, just outside Jerusalem.  Palestinian health authorities
+      in the West Bank grew increasingly alarmed after their monitors detected massive
+      radioactive, pesticide and other toxins leaching into the water supply. The IDF
+      responded by smashing the sensors and raiding their offices, where they destroyed
+      the data then threw all of the equipment out of a 5 th floor window. They also
+      blew up the environmental monitoring laboratories in Hebron and Ramallah. The
+      Palestinian Authority was not allowed to carry out any monitoring from that point
+      on. Understandably, Israel takes great pains to ensure that the dumps are not
+      located anywhere near aquifers that supply Israel proper or its West Bank settlements.
+      Israel also dumps its waste on the Egyptian and Jordanian borders after ensuring
+      that the prevailing winds will carry the radioactive dust out of Israeli territory.
+      This is creating health problems for people living in those areas. For example,
+      in the Al Tafila governorate of Jordan, downwind of the waste dumps on the Jordanian
+      border, cancer rates, particularly amongst children, are up to five times more
+      prevalent than anywhere else in the country. More concerning is the state of the
+      reactor itself, particularly in light of the amount of fuel it is consuming (estimated
+      at 1,400 tons p.a), suggesting that it is being run at many times more than its
+      designed capacity. An inspection back in 2016 revealed 1,537 unfixable, major
+      defects in the aluminum core of the reactor, caused by decades of heat and radioactive
+      bombardment. In addition, there are visible cracks in the concrete containment
+      structure leading to leaks of radioactive material into the local environment.
+      The Israeli authorities know about these leaks and have, since the turn of the
+      century, supplied Iodine tablets to Israelis in the area, but they don’t appear
+      unduly concerned as most of the surrounding villages are populated by Bedouins,
+      who the government feels shouldn’t be in Israel anyway. When the villagers protested,
+      Israel responded by bulldozing the villages . The reactor cooling system has also
+      come under scrutiny with Professor Uzi Leven, an ex-Knesset member and former
+      worker at the facility, sounding the alarm by saying that the 60 year old cooling
+      system hadn’t been upgraded and even a minor failure could cause a catastrophic
+      meltdown. Despite all of these serious safety concerns, Israel has just recertified
+      the reactor to run for another 40 years. A meltdown would smother the Middle East,
+      particularly the gulf states, in radioactive particles; however, they would be
+      carried away from Israeli territory so it was considered to be a risk worth taking.
+      Professor Leven recommended, back in 2010, that the reactor should be shut down
+      and Israel should build a new reactor. But, in order to do that they’d have to
+      sign the NPT and agree to IEAE inspections, which Israel is loath to do. It is
+      not only safety issues that affect the surrounding area but there is also evidence
+      of a lack of a safety culture within the complex itself such as the failure to
+      provide suitable safety equipment (like hazmat suits) and numerous fires and accidents.
+      This has led to a large number of workers contracting cancers as well as suffering
+      other injuries (such as serious burns). The Israeli government has censored this
+      but it came to light when the families of 5 workers (Ze’eiv Schforn,  Simon Dray,
+      Moshe Zegori, Yousif Cohen and an unnamed worker who was still alive, but undergoing
+      extensive treatment when the case was filed) at the plant dying from cancer, sued
+      the government over their deaths in Tel Aviv central court. Naturally, the Israeli
+      government is keeping these details from the Israeli public. Just as they did
+      when an Iranian missile destroyed the IIBS biological weapon research laboratory
+      in Ness Ziona (just outside Tel Aviv) during the 12-day war. The explosion released
+      a substantial amount of extremely dangerous biological agents into the environment
+      on a day when the prevailing wind blew it straight into Tel Aviv. Delivery Systems
+      Originally, the weapons were delivered solely by aircraft (F4 Phantoms), but Israel
+      now has three types of delivery systems. The central system consists of the Jericho
+      series of ballistic missiles all of which were primarily designed in conjunction
+      with the French company Dassault . These are: Jericho 1: A short range missile
+      with a range of 310 miles. Jericho 1 missiles were housed in Zekharia, located
+      in caves southeast of Tel Aviv, but are no longer believed to be in service. Jericho
+      2: After the US refused to supply longer range missiles, Israel together with
+      the Shah’s Iran jointly developed this 1,100-mile range missile. According to
+      ex-secretary of State, Colin Powell , these have all (approximately 200 missiles)
+      been pointed at Tehran. Jericho 3: This missile, which is capable of carrying
+      a 400-kiloton nuclear warhead, has an estimated range of up to 4,000 miles, bringing
+      most of Europe (including Moscow and St Petersburg) within range. In a stunning
+      example of “Capitalists will sell you the rope to hang them with”, it was co-designed
+      by Dassault who also sold them parts and is within range. It entered service in
+      2010. It is said to be primarily aimed at Pakistan. Many of these missiles are
+      housed in deep, first strike proof silos around Israel. It was one such silo that
+      was targeted when an Iranian missile hit Beit Shemesh, where Israel accused them
+      of deliberately targeting a Synagogue . Jericho 4: This officially unannounced
+      version of the missile, also believed to have been co-designed by Dassault, is
+      capable of reaching anywhere in the continental United States, even Mar A Lago,
+      as Bibi is wont to say. The Israeli government hasn’t disclosed why they need
+      such a missile. The majority are stored at the Sdot Micha airbase in nuclear proof
+      bunkers built, in partnership with the US, into limestone bunkers with huge blast
+      doors that can resist everything short of a direct nuclear strike. This base is
+      protected by Arrow 3 air defense missiles, which are in turn controlled by the
+      Green Pine radars . These radar systems are currently being targeted by the IRGC
+      as they form an important part of the early warning system for the whole country.
+      The second line of delivery is via aircraft like the F15 and the F35. The bombs
+      are said to be stored at Sdot Micha and the aircraft themselves are located at
+      the nearby Tel Nov airbase. The triad of delivery systems includes an uprated
+      version of the Popeye ACLM cruise missile , which is launched via the torpedo
+      tubes of Dolphin Class submarines , supplied by Germany and has a published range
+      of around 200 miles but has been observed by the US navy as being able to hit
+      a target over 1,000 miles away. Now that Egypt has allowed Israeli warships to
+      transit the Suez Canal, these submarines have been observed transiting the canal
+      on their way to the Indian ocean. It is believed that these are capable of carrying
+      warheads with a yield of 200 kilotons and were specifically designed to target
+      Iran from a safe distance. They can also be launched from F15 aircraft. The tests
+      of the air launched version were conducted by launching a completely unprovoked
+      attack against Syria in 2014. One missile (out of 4) was brought down by a Syrian
+      BUK2 air defense missile. Non-nuclear tipped versions were also used to target
+      the port in North Yemen last year. Are The Nuclear Warheads Likely To Be Used
+      and What Would Be the Effect? According to analysis undertaken by the Belorussian
+      military, BELTA, the likelihood of a nuclear strike being undertaken against Iran
+      by Israel is, in their opinion, extremely low. This is because of the Iranian
+      threat to completely destroy Dimona (on a day when the wind blows to the north)
+      and a massive missile attack that would destroy all of the vital services needed
+      for everyday life in Israel, like desalination plants, power stations, ports and
+      refineries. Iran also threatened to destroy ALL of the energy infrastructure in
+      the Middle East, threatening worldwide energy supplies for years to come. It is
+      definitely not in the USA’s best interests, nor Israel’s, because it would achieve
+      the opposite effect of what this war is purportedly about: the elimination of
+      another nuclear power in the Middle East, because Iran would undoubtedly either
+      build a bomb or acquire one from elsewhere. North Korea (DPRK) has already developed
+      (and tested) a bomb for Iran back in 2012. Iran paid for its development and given
+      the passage of time it is more than possible that Iran already has nuclear weapons
+      (two can play the strategic ambiguity game). Given how small Israel is, in that
+      one 400 kiloton weapon dropped on east Tel Aviv could, essentially, destroy the
+      whole country then it would reduce Israel’s chances of long-term survival to resort
+      to nukes, if Iran either already had one or was likely to acquire one of their
+      own in short order. However, Israel is noted for going for showy short-term tactical
+      victories over long-term strategy; so, it is entirely feasible that an increasingly
+      beleaguered Netanyahu may order a strike to stop the current destruction in Israel.
+      The USA could do little to nothing to stop them and, under the current Trump administration,
+      it is unlikely to want to as the destruction of Iran would solve the intractable
+      morass, he now finds himself it. Behind the scenes there are whispers in diplomatic
+      circles that Russia may offer protection under its nuclear umbrella. A nuclear
+      strike on Iran would likely kill 100,000s of people and would create fall out
+      that would definitely impact Southern Russia (another reason that has been put
+      forward as to why Russia may offer nuclear protection). It would also create a
+      rush for every other country to develop their own bombs, which, perversely, would
+      lead to more peace around the world. Would Trump have undertaken his adventure
+      in Caracas if they’d threatened to nuke Florida if they tried. The NPT would also
+      be completely dead. It would also turn Israel into more of a pariah state than
+      it currently is, particularly among young people in the US, who are dead set against
+      this war as it is. And it would create a massive global economic depression. In
+      short, it would be a catastrophe. Closing Thought : Back in 63 BC, a very wealthy
+      property mogul, politician and a member of the ruling Triumvirate in Rome, Marcus
+      Licinius Crassus, decided to attack Parthia (Iran) because the presumed easy military
+      victory and the immense wealth it would bring, would help with his re-election
+      chances. At his command was the might of the world’s biggest military super power;
+      namely, the power of the combined Roman empire. He marched with 7 of the best
+      legions of Roman infantry, equipped with the very best weapons paid for by Crassus
+      himself, expecting an easy victory. Roman military doctrine at that time was geared
+      towards putting down insurgencies and was resistant to change. It consisted of
+      massed ranks of infantry, supported by cavalry on the wings, smashing through
+      any opposition arrayed against them. The relatively small size of the Parthian
+      army of around 10,000 men, against 40,000 or so Romans, also augured well for
+      a stunning Roman victory because they’d be overwhelmed in a direct clash. Except…
+      When the two sides did clash, in the battle of Carrhea , the Parthians, under
+      General Surena, had no infantry and so he adopted a mosaic strategy, where small
+      groups of archers acting under their own volition and mounted on fast horses,
+      swooped in for lightning attacks on the ponderous squares of Roman infantry, shooting
+      blizzards of arrows before racing off when the Roman cavalry closed in on them.
+      These archers were trained extensively in shooting both forwards while attacking
+      and backwards while fleeing and this caused the Roman cavalry to back off, at
+      which point the Parthians swooped back in to attack the main body again. These
+      Parthian arrows were heavy enough to pierce both Roman shields and body armor
+      thus pinning the shields irretrievably to the soldiers. As this battle of attrition
+      unfolded, the Roman strategy was to hunker down and wait until their adversaries
+      had run out of missiles before they proceeded on their planned ground assault
+      on Parthia. Unfortunately for Crassus, Surena had arranged for huge convoys of
+      weapons to be brought in from the East (by caravans of camels in those days –
+      the equivalent of a direct railway line, say between China and Iran, today). The
+      end result was a crushing defeat for Rome who lost over 30,000 soldiers (20,000
+      killed and 10,000 captured) and Crassus, himself, was killed. The Parthians on
+      the other hand lost, according to some estimates, less than 100 men. Lesson to
+      be learned: never underestimate Iran.'
+    one_sentence_summary: The article discusses Israel's nuclear weapons development,
+      highlighting its controversial use of Gaza as a nuclear waste dump and reflecting
+      on the missed opportunities for peace between Jews and Arabs since the establishment
+      of Israel in 1948.
+    paragraph_summary: the Israeli nuclear program, Shimon Peres, who acknowledged the
+      collaboration with France. The article highlights Israel's strategic pursuit of
+      nuclear capabilities as a means of deterrence since its establishment in 1948,
+      emphasizing the historical context of its development, including the involvement
+      of Jewish scientists from the Manhattan Project and France's role in facilitating
+      Israel's nuclear ambitions. Additionally, it raises concerns about the environmental
+      impact of Israel's nuclear activities, specifically mentioning the use of Gaza
+      as a nuclear waste dump, and reflects on the tragic potential consequences of
+      these actions, particularly in light of ongoing conflicts in the region. The author,
+      Kevin Kirk, expresses a sense of loss over the missed opportunities for peace
+      between Jews and Arabs in Israel.
+    published: '2026-03-13T14:23:00+00:00'
+  - title: Armageddon Now! Israel’s Nuclear Weapons Program by Kevin Kirk
+    url: https://sonar21.com/armageddon-now-israels-nuclear-weapons-program-by-kevin-kirk/
+    text: '[I am reposting this article that was first published at Naked Capitalism
+      with the permission of Yves Smith.] Yves here. I hope reader will circulate this
+      important and well-documented post on Israel’s nuclear weapons development, which
+      includes details such as the fact that Israel has used Gaza as a nuclear waste
+      dump. It would be poetic justice, in the unlikely event that Trump’s redevelopment
+      scheme goes forward, for those living on a mass grave to be exposed to radiation.
+      By Kevin Kirk, who has worked all over the world, first as an engineer, then a
+      visiting university Professor and finally as a diplomatic trainer. He mourns the
+      loss of what could have been in Israel if Jews and Arabs had lived in peace together
+      Ever since Israel came into being in 1948 – by a vote of 33 in favour (with 13
+      countries voting against it and with 11 abstentions) by United Nations resolution
+      181 , which also included a fully autonomous Palestinian state – Israel has sought
+      a nuclear deterrence. Indeed, it was stated by the first prime minister, David
+      Ben-Gurion, that: “Science could compensate us for what Nature has denied us.”
+      He believed it would show his commitment to Zionism , the political ideology that
+      underpins the state of Israel. It was considerably aided by the fact that many
+      of the leading scientists that worked on the Manhattan Project were Jewish and
+      some were enticed into relocating to and supporting the new state. France also
+      wanted access to these scientists and so entered into a pact with Israel to jointly
+      produce nuclear weapons. To this end Israeli scientists were given full and unhindered
+      access to the French nuclear research centre at Marcoule , where they also helped
+      to build the G1 plutonium production reactor and the UP1 reprocessing plant. In
+      return they were allowed to observe the development of France’s nuclear deterrent
+      and were provided full access to the data obtained from France’s nuclear weapons
+      tests. This was confirmed years later by the ‘father’ of France’s nuclear weapons,
+      Francis Perrin . In 1956, France (under the extremely pro-Zionist and Anglophile
+      prime minister, Guy Mollet ) agreed to build a 24 megawatt EL-102 heavy water
+       nuclear reactor at Dimona,  capable of producing plutonium, in the Negev desert
+      area of Israel, in return for Israel’s assistance during the Suez crisis . The
+      French also provided the designs for the separation technology for spent nuclear
+      fuel. Ben-Gurion described the reactor as being for entirely peaceful purposes
+      as it was going to be used to power desalination plants so the Negev could be
+      used to grow crops. French technicians were brought in, although their presence
+      there was officially denied – even going so far as to send their personal mail
+      via South America to disguise their actual location. Thousands of Sephardic Jews
+      were forcibly transported from Morocco, via Marseilles, in order to provide the
+      manual laborers under Operation Yachin . When questioned by the US, after the
+      construction was observed by US spy planes, Ben-Gurion stated that they were building
+      a furniture factory. At least half of the money ($80 million – around $1 billion
+      in today’s dollars) for the construction came, according to Ben-Gurion, from wealthy
+      Jewish donors based overseas, with the majority originating from the US. France
+      was not alone in providing nuclear materials and technology. In particular, in
+      order for a reactor to run on natural uranium (like the CAND U reactor in Canada)
+      it needs heavy water . For years it was assumed that Norway supplied the heavy
+      water to Israel as a Norwegian company, Noratom, had supplied at least 20 tons
+      of it to Israel. It later leaked out that it was, in fact, Great Britain that
+      had supplied it, using Noratom as a front company (for which they got a 2% commission).
+      A 2006 Newsnight (BBC political affairs) program revealed that not only did Britain
+      (who had their own nuclear weapons arsenal) supply the material but it also supplied
+      equipment, designs, chemicals used for separation, technology and research data.
+      Moreover, in the mid-1960s, when France, under De Gaulle, decided not to supply
+      any more uranium to Israel, they started buying their natural Uranium from Britain.
+      Britain also supplied Uranium 235 and plutonium so they could be used directly
+      in nuclear weapons. British officials stated that they had obtained assurances
+      from Israel that it was purely for peaceful purposes despite the fact that the
+      intelligence agencies warned about the real intentions. Argentina also supplied
+      100 tons of yellowcake, uranium oxide, which was also used to fuel the reactor.
+      One of the most significant collaborators was South Africa. For example, in 1965,
+      South Africa supplied a further 10 tons of yellowcake supposedly under the International
+      Atomic Energy Agency (IAEA) Safeguards Agreements as Israel was a signatory of
+      the Atoms for Peace initiative started by Eisenhower. This nuclear relationship
+      between the two countries was allegedly initiated by the, then South Africa based,
+      Zionist Lubner family. This family founded Belron , which is now based in the
+      UK, which owns automobile glass companies around the world, such as Safelite in
+      the US and Autoglass in the UK. The current scion, Gary Lubner, is one of the
+      main donors to the UK Labour party (along with Trevor Chinn , who was also the
+      prime mover of the removal of Jeremy Corbyn and the installation of Keir Starmer)
+      and donated over £70,000 to David Lammy, the deputy prime minister, ‘for his office’.
+      The nuclear collaboration deal between South Africa and Israel was subject to
+      yearly inspections by the South African Atomic Energy Board. But the inspections
+      only lasted until 1976, when South Africa agreed to remove the safeguards. Soon
+      afterwards, Israel obtained 500 tons of uranium specifically for plutonium production
+      in Dimona’s reactor in exchange for 30 grams of tritium for South Africa’s nuclear
+      weapons program. Israel also conducted a nuclear test off the coast of South Africa
+      ( Vela Incident ), which the US tried to cover up saying it was a typhoon or the
+      satellite wasn’t on station at that time,. However, President Jimmy Carter wrote
+      in his diary, “We have a growing belief among our scientists that the Israelis
+      did indeed conduct a nuclear test explosion in the ocean near the southern end
+      of Africa.” That broke the strategic ambiguity agreement that had been in force
+      since Nixon (more on that below). Belgium also supplied yellowcake to Israel,
+      albeit unknowingly, for the reactor. In 1968, Israel, acting through MOSSAD, purchased
+      200 tons of yellowcake from the Belgian company Union Minière , who obtained it
+      from their mines in the Congo. The basis of this operation, known as Operation
+      Plumbat , was for the Belgian company to ship the uranium from Antwerp to its
+      legal destination of Genoa in Italy, but the shipment was intercepted at sea and
+      the uranium was transferred to another vessel and sent to Israel. During the late
+      50s and early 60s some US officials were concerned about the construction of the
+      reactor; indeed, the CIA produced a report highlighting the dangers but the Eisenhower
+      administration suppressed it. President Kennedy, on the other hand, was very alarmed
+      about Israel acquiring nuclear weapons and demanded thorough inspections of what
+      was taking place on the site. He was in the final process of setting up the inspection
+      regime and possibly shutting down the production of nuclear weapons in Israel
+      when he was assassinated. After Kennedy’s assassination, the Johnson administration
+      cancelled the thorough inspection program but did, under pressure, allowed limited
+      inspections of certain parts of the site. The inspectors were barred from inspecting
+      the sensitive areas, where the plutonium was produced, for ‘safety reasons’ and
+      they were required to provide substantial warning before an inspection was due
+      to take place and the Israelis could cancel the inspections with no notice. This
+      was, according to US security analysts at the time, to allow plutonium production
+      to take place between visits. Prior to Kennedy’s assassination, Ben-Gurion’s’
+      successor, Levi Eshkol, told Kennedy: “If you want it, there will be no nuclear
+      weapons. But give us something else which will deter the Arabs.” Kennedy was extremely
+      reluctant to provide Israel with what would effectively be a carte blanche for
+      Israel to do what it wanted in the Middle East with full American backing. Kennedy
+      concerns were that it would undermine his balanced policy between the Arabs and
+      Israelis as it would seem to the Arabs that the US was taking Israel’s side in
+      every conflict they undertook. The State Department even issued a statement on
+      the matter saying: “Each matter arising in our relationship with Israel, is carefully
+      weighed in terms of its effect on our policy of impartiality as between Israel
+      and the Arabs and of its effect on Israel’s security. If the United States were
+      to align itself more closely with Israel it would constitute a direct challenge
+      to the Arabs by the US and would destroy growing Arab confidence in our impartiality.”
+      Fortunately for Israel, Kennedy’s removal also removed US impartiality from then
+      on, something that the Gulf Arab states have had demonstrated to them in the last
+      few days. It was during Johnson’s tenure at the White House, that the NUMEC affair
+      took place. This involved the alleged theft of 200–600 pounds (91–272 kg) of highly
+      enriched Uranium from a nuclear reprocessing plant in the Pittsburgh suburbs of
+      Apollo and Parks Township, Pennsylvania, called NUMEC, which was owned by a staunch
+      Zionist called Zalman Shapiro . This uranium was thought to have found its way
+      into Israel’s nuclear program. Subsequent investigations under the auspices of
+      the FBI, the CIA and the Department of Energy were stonewalled and eventually
+      petered out after pressure from the White House. No arrests were ever made nor
+      findings published. A General Accounting Office study of the investigations was
+      declassified in May 2010, which stated “We believe a timely, concerted effort
+      on the part of these three agencies would have greatly aided and possibly solved
+      the NUMEC diversion questions, if they desired to do so.” Reactions by other US
+      presidents have been weak, concerned by the intelligence from Israel that the
+      USSR would supply nuclear weapons to the Gulf Arab states, or at least help them
+      to build their own, if they got wind of Israel’s nuclear ambitions. For example,
+      Nixon had qualms about the nuclear program and he asked Henry Kissinger about
+      how he should approach the problem. Kissinger then came up with the strategy of
+      ‘strategic ambiguity’, where the US would neither confirm or deny the existence
+      of Israel’s nuclear weapons. This policy led to a meeting between Nixon and Golda
+      Meir, the then Israeli prime minister, in September 1969, where it was agreed
+      that Israel could pursue its nuclear ambitions without any interference by the
+      U.S. with the only conditions being that Israel would refrain from testing its
+      nuclear devices and going public about their possession. In exchange, the U.S.
+      would not press Israel to sign the Nuclear Non-Proliferation Treaty (NPT). The
+      documents giving the details of this meeting were kept secret until they were
+      declassified , in 2014, by the Obama administration. Note, it was during that
+      meeting that the US agreed to Israel having ballistic missiles as long as they
+      were not nuclear tipped. The weapons program progressed rapidly after that; so,
+      that by the time the Yom Kippur war started, Israel had enough warheads mounted
+      on French supplied missiles that discussions were held in Israel as to whether
+      nuclear strikes should be undertaken against Syria and Egypt. In the end Golda
+      Meir decided that Israel wasn’t in existential danger and so the strikes didn’t
+      go ahead. Little was known about the actual number of warheads Israel had produced
+      until Israeli whistleblower, Mordechai Vanunu , revealed to the British Press
+      (Sunday Times – followed by a BBC documentary ) that Israel had produced dozens
+      of kilograms of plutonium in Dimona each year between 1980 and 1986 and that  Israel
+      possessed between 100-200 nuclear weapons at that time. They were also producing
+      materials like exotic isotopes of Lithium (such as Lithium-6) and Tritium for
+      boosted fission or fusion weapons He also took a series of photographs inside
+      Dimona. It is currently estimated that Israel has up to 400 warheads and have
+      produced over 900kg of plutonium in the facility. Safety Issues Judging by the
+      amount of fuel being consumed by the reactor it is being run at two to four times
+      its rated capacity, which is obviously creating a huge amount of nuclear waste.
+      So, what does it do with this waste given that it is not a signatory to the NPT
+      and can’t, legally (if that still means anything anymore) ship it overseas? So
+      where is it going? According to Israel TV Channel Two, two of the four main waste
+      dumps are in Palestinian territory, primarily in Gaza such as the area east of
+      the Al Bureij refugee camp and the town of Deir El Balah. One example is where
+      Israel removed the fertile topsoil and carted it off to Israel and replaced it
+      with 50,000 tons of toxic waste. 30-meter-deep unlined pits were dug (1,000s of
+      meters across) and the waste was simply dumped into them. In addition, radioactive
+      waste is being imported from overseas such as the reports of 2,500 tons of radioactive
+      (4x safe limits) toxic waste which was sent from Italy, which was also disposed
+      in Gaza. The question is, do the customers for the Trump version of ‘Dubai in
+      the Med’ know that they’ll be living on a nuclear waste dump that will undoubtedly
+      be disturbed when the foundations are being dug for the sparkly new skyscrapers,
+      he and his fellow property moguls are envisaging, particularly as environmental
+      health monitoring is strictly forbidden in Gaza? Other dump sites in Palestinian
+      territory are in the Eastern hills of the West Bank. For example, 80 barrels of
+      Israeli waste were physically uncovered in the city of Hebron with another 120
+      found in the town of Al Ezareya, just outside Jerusalem.  Palestinian health authorities
+      in the West Bank grew increasingly alarmed after their monitors detected massive
+      radioactive, pesticide and other toxins leaching into the water supply. The IDF
+      responded by smashing the sensors and raiding their offices, where they destroyed
+      the data then threw all of the equipment out of a 5 th floor window. They also
+      blew up the environmental monitoring laboratories in Hebron and Ramallah. The
+      Palestinian Authority was not allowed to carry out any monitoring from that point
+      on. Understandably, Israel takes great pains to ensure that the dumps are not
+      located anywhere near aquifers that supply Israel proper or its West Bank settlements.
+      Israel also dumps its waste on the Egyptian and Jordanian borders after ensuring
+      that the prevailing winds will carry the radioactive dust out of Israeli territory.
+      This is creating health problems for people living in those areas. For example,
+      in the Al Tafila governorate of Jordan, downwind of the waste dumps on the Jordanian
+      border, cancer rates, particularly amongst children, are up to five times more
+      prevalent than anywhere else in the country. More concerning is the state of the
+      reactor itself, particularly in light of the amount of fuel it is consuming (estimated
+      at 1,400 tons p.a), suggesting that it is being run at many times more than its
+      designed capacity. An inspection back in 2016 revealed 1,537 unfixable, major
+      defects in the aluminum core of the reactor, caused by decades of heat and radioactive
+      bombardment. In addition, there are visible cracks in the concrete containment
+      structure leading to leaks of radioactive material into the local environment.
+      The Israeli authorities know about these leaks and have, since the turn of the
+      century, supplied Iodine tablets to Israelis in the area, but they don’t appear
+      unduly concerned as most of the surrounding villages are populated by Bedouins,
+      who the government feels shouldn’t be in Israel anyway. When the villagers protested,
+      Israel responded by bulldozing the villages . The reactor cooling system has also
+      come under scrutiny with Professor Uzi Leven, an ex-Knesset member and former
+      worker at the facility, sounding the alarm by saying that the 60 year old cooling
+      system hadn’t been upgraded and even a minor failure could cause a catastrophic
+      meltdown. Despite all of these serious safety concerns, Israel has just recertified
+      the reactor to run for another 40 years. A meltdown would smother the Middle East,
+      particularly the gulf states, in radioactive particles; however, they would be
+      carried away from Israeli territory so it was considered to be a risk worth taking.
+      Professor Leven recommended, back in 2010, that the reactor should be shut down
+      and Israel should build a new reactor. But, in order to do that they’d have to
+      sign the NPT and agree to IEAE inspections, which Israel is loath to do. It is
+      not only safety issues that affect the surrounding area but there is also evidence
+      of a lack of a safety culture within the complex itself such as the failure to
+      provide suitable safety equipment (like hazmat suits) and numerous fires and accidents.
+      This has led to a large number of workers contracting cancers as well as suffering
+      other injuries (such as serious burns). The Israeli government has censored this
+      but it came to light when the families of 5 workers (Ze’eiv Schforn,  Simon Dray,
+      Moshe Zegori, Yousif Cohen and an unnamed worker who was still alive, but undergoing
+      extensive treatment when the case was filed) at the plant dying from cancer, sued
+      the government over their deaths in Tel Aviv central court. Naturally, the Israeli
+      government is keeping these details from the Israeli public. Just as they did
+      when an Iranian missile destroyed the IIBS biological weapon research laboratory
+      in Ness Ziona (just outside Tel Aviv) during the 12-day war. The explosion released
+      a substantial amount of extremely dangerous biological agents into the environment
+      on a day when the prevailing wind blew it straight into Tel Aviv. Delivery Systems
+      Originally, the weapons were delivered solely by aircraft (F4 Phantoms), but Israel
+      now has three types of delivery systems. The central system consists of the Jericho
+      series of ballistic missiles all of which were primarily designed in conjunction
+      with the French company Dassault . These are: Jericho 1: A short range missile
+      with a range of 310 miles. Jericho 1 missiles were housed in Zekharia, located
+      in caves southeast of Tel Aviv, but are no longer believed to be in service. Jericho
+      2: After the US refused to supply longer range missiles, Israel together with
+      the Shah’s Iran jointly developed this 1,100-mile range missile. According to
+      ex-secretary of State, Colin Powell , these have all (approximately 200 missiles)
+      been pointed at Tehran. Jericho 3: This missile, which is capable of carrying
+      a 400-kiloton nuclear warhead, has an estimated range of up to 4,000 miles, bringing
+      most of Europe (including Moscow and St Petersburg) within range. In a stunning
+      example of “Capitalists will sell you the rope to hang them with”, it was co-designed
+      by Dassault who also sold them parts and is within range. It entered service in
+      2010. It is said to be primarily aimed at Pakistan. Many of these missiles are
+      housed in deep, first strike proof silos around Israel. It was one such silo that
+      was targeted when an Iranian missile hit Beit Shemesh, where Israel accused them
+      of deliberately targeting a Synagogue . Jericho 4: This officially unannounced
+      version of the missile, also believed to have been co-designed by Dassault, is
+      capable of reaching anywhere in the continental United States, even Mar A Lago,
+      as Bibi is wont to say. The Israeli government hasn’t disclosed why they need
+      such a missile. The majority are stored at the Sdot Micha airbase in nuclear proof
+      bunkers built, in partnership with the US, into limestone bunkers with huge blast
+      doors that can resist everything short of a direct nuclear strike. This base is
+      protected by Arrow 3 air defense missiles, which are in turn controlled by the
+      Green Pine radars . These radar systems are currently being targeted by the IRGC
+      as they form an important part of the early warning system for the whole country.
+      The second line of delivery is via aircraft like the F15 and the F35. The bombs
+      are said to be stored at Sdot Micha and the aircraft themselves are located at
+      the nearby Tel Nov airbase. The triad of delivery systems includes an uprated
+      version of the Popeye ACLM cruise missile , which is launched via the torpedo
+      tubes of Dolphin Class submarines , supplied by Germany and has a published range
+      of around 200 miles but has been observed by the US navy as being able to hit
+      a target over 1,000 miles away. Now that Egypt has allowed Israeli warships to
+      transit the Suez Canal, these submarines have been observed transiting the canal
+      on their way to the Indian ocean. It is believed that these are capable of carrying
+      warheads with a yield of 200 kilotons and were specifically designed to target
+      Iran from a safe distance. They can also be launched from F15 aircraft. The tests
+      of the air launched version were conducted by launching a completely unprovoked
+      attack against Syria in 2014. One missile (out of 4) was brought down by a Syrian
+      BUK2 air defense missile. Non-nuclear tipped versions were also used to target
+      the port in North Yemen last year. Are The Nuclear Warheads Likely To Be Used
+      and What Would Be the Effect? According to analysis undertaken by the Belorussian
+      military, BELTA, the likelihood of a nuclear strike being undertaken against Iran
+      by Israel is, in their opinion, extremely low. This is because of the Iranian
+      threat to completely destroy Dimona (on a day when the wind blows to the north)
+      and a massive missile attack that would destroy all of the vital services needed
+      for everyday life in Israel, like desalination plants, power stations, ports and
+      refineries. Iran also threatened to destroy ALL of the energy infrastructure in
+      the Middle East, threatening worldwide energy supplies for years to come. It is
+      definitely not in the USA’s best interests, nor Israel’s, because it would achieve
+      the opposite effect of what this war is purportedly about: the elimination of
+      another nuclear power in the Middle East, because Iran would undoubtedly either
+      build a bomb or acquire one from elsewhere. North Korea (DPRK) has already developed
+      (and tested) a bomb for Iran back in 2012. Iran paid for its development and given
+      the passage of time it is more than possible that Iran already has nuclear weapons
+      (two can play the strategic ambiguity game). Given how small Israel is, in that
+      one 400 kiloton weapon dropped on east Tel Aviv could, essentially, destroy the
+      whole country then it would reduce Israel’s chances of long-term survival to resort
+      to nukes, if Iran either already had one or was likely to acquire one of their
+      own in short order. However, Israel is noted for going for showy short-term tactical
+      victories over long-term strategy; so, it is entirely feasible that an increasingly
+      beleaguered Netanyahu may order a strike to stop the current destruction in Israel.
+      The USA could do little to nothing to stop them and, under the current Trump administration,
+      it is unlikely to want to as the destruction of Iran would solve the intractable
+      morass, he now finds himself it. Behind the scenes there are whispers in diplomatic
+      circles that Russia may offer protection under its nuclear umbrella. A nuclear
+      strike on Iran would likely kill 100,000s of people and would create fall out
+      that would definitely impact Southern Russia (another reason that has been put
+      forward as to why Russia may offer nuclear protection). It would also create a
+      rush for every other country to develop their own bombs, which, perversely, would
+      lead to more peace around the world. Would Trump have undertaken his adventure
+      in Caracas if they’d threatened to nuke Florida if they tried. The NPT would also
+      be completely dead. It would also turn Israel into more of a pariah state than
+      it currently is, particularly among young people in the US, who are dead set against
+      this war as it is. And it would create a massive global economic depression. In
+      short, it would be a catastrophe. Closing Thought : Back in 63 BC, a very wealthy
+      property mogul, politician and a member of the ruling Triumvirate in Rome, Marcus
+      Licinius Crassus, decided to attack Parthia (Iran) because the presumed easy military
+      victory and the immense wealth it would bring, would help with his re-election
+      chances. At his command was the might of the world’s biggest military super power;
+      namely, the power of the combined Roman empire. He marched with 7 of the best
+      legions of Roman infantry, equipped with the very best weapons paid for by Crassus
+      himself, expecting an easy victory. Roman military doctrine at that time was geared
+      towards putting down insurgencies and was resistant to change. It consisted of
+      massed ranks of infantry, supported by cavalry on the wings, smashing through
+      any opposition arrayed against them. The relatively small size of the Parthian
+      army of around 10,000 men, against 40,000 or so Romans, also augured well for
+      a stunning Roman victory because they’d be overwhelmed in a direct clash. Except…
+      When the two sides did clash, in the battle of Carrhea , the Parthians, under
+      General Surena, had no infantry and so he adopted a mosaic strategy, where small
+      groups of archers acting under their own volition and mounted on fast horses,
+      swooped in for lightning attacks on the ponderous squares of Roman infantry, shooting
+      blizzards of arrows before racing off when the Roman cavalry closed in on them.
+      These archers were trained extensively in shooting both forwards while attacking
+      and backwards while fleeing and this caused the Roman cavalry to back off, at
+      which point the Parthians swooped back in to attack the main body again. These
+      Parthian arrows were heavy enough to pierce both Roman shields and body armor
+      thus pinning the shields irretrievably to the soldiers. As this battle of attrition
+      unfolded, the Roman strategy was to hunker down and wait until their adversaries
+      had run out of missiles before they proceeded on their planned ground assault
+      on Parthia. Unfortunately for Crassus, Surena had arranged for huge convoys of
+      weapons to be brought in from the East (by caravans of camels in those days –
+      the equivalent of a direct railway line, say between China and Iran, today). The
+      end result was a crushing defeat for Rome who lost over 30,000 soldiers (20,000
+      killed and 10,000 captured) and Crassus, himself, was killed. The Parthians on
+      the other hand lost, according to some estimates, less than 100 men. Lesson to
+      be learned: never underestimate Iran.'
+    one_sentence_summary: The article discusses Israel's nuclear weapons development,
+      highlighting its controversial use of Gaza as a nuclear waste dump and reflecting
+      on the missed opportunities for peace between Jews and Arabs since the establishment
+      of Israel in 1948.
+    paragraph_summary: the Israeli nuclear program, Shimon Peres, who acknowledged the
+      collaboration with France. The article highlights Israel's strategic pursuit of
+      nuclear capabilities as a means of deterrence since its establishment in 1948,
+      emphasizing the historical context of its development, including the involvement
+      of Jewish scientists from the Manhattan Project and France's role in facilitating
+      Israel's nuclear ambitions. Additionally, it raises concerns about the environmental
+      impact of Israel's nuclear activities, specifically mentioning the use of Gaza
+      as a nuclear waste dump, and reflects on the tragic potential consequences of
+      these actions, particularly in light of ongoing conflicts in the region. The author,
+      Kevin Kirk, expresses a sense of loss over the missed opportunities for peace
+      between Jews and Arabs in Israel.
+    published: '2026-03-13T14:23:00+00:00'
+  - title: Should Iran Build a Nuke… Game Theory Says Yes
+    url: https://sonar21.com/should-iran-build-a-nuke-game-theory-says-yes/
+    text: 'One of the most common questions surrounding what will happen to Iran if
+      it continues to blockade the Strait of Hormuz and to pummel Israel to the point
+      of exhaustion is whether Israel will go nuclear. To answer this question I decided
+      to query a couple of AI-engines about that grotesque scenario using game theory.
+      What is game theory ? Game theory is the study of strategic decision‑making in
+      situations where the outcome for each participant depends not just on their own
+      choice, but also on the choices of others. It uses mathematical models to analyze
+      how rational “players” select strategies and what outcomes (or “payoffs”) result
+      from the interaction of those strategies. Before I applied game theory analysis
+      to Iran’s current situation, I had concluded that the best way to prevent Israel
+      from using a nuclear weapon against Iran is for Iran to produce and demonstrate
+      that it has created a nuclear weapon. This would mean that the new Ayatollah,
+      Mojtaba Khameni, would reverse his father’s fatwah and secretly authorize the
+      production of at least two nuclear devices. I concluded that this would force
+      Israel to rethink using a nuke once it realized that Iran could retaliate in kind.
+      I started this analysis with the simple request to the AI-model: Using game theory,
+      explain the best course of action that Iran should pursue when confronted with
+      the threat of a nuclear attack from Israel. Here was the not so surprising answer:
+      The overarching game-theoretic conclusion is that Iran’s power in this confrontation
+      derives not from its willingness to use nuclear weapons, but from making the consequences
+      of an Israeli strike unacceptably costly. The goal is not to win a nuclear war
+      — no one does — but to make starting one irrational for the other side. That is
+      the essence of deterrence, and it is what game theory most clearly recommends.
+      I then asked the following: How does the fact that Iran has closed the Strait
+      of Hormuz, which has precluded the export of oil, liquid natural gas and urea,
+      and will continue to maintain the blockade for the forseeable future, change your
+      game theory analysis? The AI-model came back with an answer that confirms Iran
+      has made a game-changing move: This is a significant strategic shift. The closure
+      of the Strait changes the game structure fundamentally — moving Iran from a deterrence
+      game to an attrition and coercion game with a very different payoff matrix. .
+      . . In the original analysis, Iran was the threatened party seeking to deter an
+      Israeli nuclear strike. The closure of the Strait transforms Iran into the active
+      coercer — it has already imposed enormous economic costs on the world, and is
+      now in a fundamentally different strategic position. Iran’s imposition of a de
+      facto blockade of the Persian Gulf has fundamentally changed the possible outcomes
+      and aligns with what I have been saying before running the game theory scenario:
+      The blockade has transformed Iran from a reactive deterrer into an active coercer
+      holding the global economy hostage. Game theory’s clearest prescription is: this
+      position of leverage should be converted into a negotiated settlement as efficiently
+      as possible, before the attrition costs, miscalculation risks, and domestic pressures
+      erode the advantage Iran currently holds. The greatest strategic error Iran could
+      make would be to hold the blockade so long, and signal so inflexibly, that adversaries
+      conclude no negotiated exit exists — because that is precisely the condition under
+      which the nuclear threat regains its credibility and rational actors may choose
+      catastrophic action over indefinite attrition. The blockade is an instrument of
+      negotiation, not an end in itself. Used with discipline and clear signalling,
+      it represents Iran’s strongest strategic position in decades. Used recklessly
+      or held too long, it becomes the trigger for the very outcome it was designed
+      to prevent. I then added the final twist and asked: What happens if Iran reveals
+      it has now developed a nuclear weapon? Here is the answer if full: Iran revealing
+      a nuclear weapon while simultaneously maintaining the Strait of Hormuz blockade
+      is not merely an incremental escalation — it is a phase transition in the game.
+      The entire strategic architecture that existed before — deterrence calculations,
+      alliance commitments, third-party pressures, negotiating dynamics — must be rebuilt
+      from scratch around a new fundamental reality. The announcement combines two of
+      the most destabilising events in international relations into a single moment:
+      a nuclear breakout and an active economic siege of the global economy. No historical
+      precedent exists for this combination. The closest analogues — the Soviet Union’s
+      first nuclear test in 1949, China’s in 1964, North Korea’s in 2006 — all occurred
+      in periods of relative strategic stability, not during an active global economic
+      crisis that the new nuclear power was itself causing. 1. The Immediate Game-Theoretic
+      Effect: The Window of Maximum Danger The most important concept in nuclear deterrence
+      theory for understanding this moment is the stability-instability paradox in reverse.
+      Normally, nuclear acquisition stabilises the top of the escalation ladder. But
+      when a state reveals a nuclear weapon during an active confrontation, it creates
+      a brief but extraordinarily dangerous window in which adversaries must decide
+      whether to act before the new arsenal is fully secured, dispersed, and operationally
+      mature. This is the “use it or lose it” problem — but from Israel and the US’s
+      perspective, not Iran’s. The strategic logic runs as follows: Today Iran has one
+      weapon, or a handful, in unknown locations In six months it may have ten, dispersed
+      and hardened In two years it may have a fully survivable second-strike capability
+      The window for a disarming first strike, if it exists at all, is now Game theory’s
+      prediction is unambiguous: the revelation triggers the highest probability of
+      military strike in the entire confrontation timeline. Iran’s optimal strategy
+      must account for this window as the single most dangerous period it will face.
+      2. The Payoff Matrix Transforms Again — More Dramatically Than the Blockade Did
+      The nuclear revelation simultaneously: Eliminates Israel’s nuclear monopoly in
+      the region — permanently altering the Middle East’s strategic architecture Creates
+      mutual assured destruction as a live possibility for the first time in the conflict
+      Transforms the blockade from an act of economic coercion into a nuclear-armed
+      state’s siege of the global economy Forces every actor to reassess their position,
+      commitments, and red lines simultaneously The new payoff matrix looks like this:
+      Scenario Israel’s Payoff Iran’s Payoff US Payoff Global Payoff Immediate strike,
+      disarms Iran Possibly eliminates threat; risks massive retaliation; massive global
+      condemnation Catastrophic if successful Catastrophic politically; risks nuclear
+      use Devastating; oil shock + war Strike fails to disarm Nuclear retaliation near-certain
+      Retaliates; survives as nuclear power Drawn into nuclear conflict Existential
+      No strike; negotiate Iran permanent nuclear state; Israel’s monopoly gone Survives;
+      blockade leverage intact Avoids nuclear war; faces Iran as nuclear power Blockade
+      ends; new normal No strike; blockade continues Prolonged economic crisis; nuclear-armed
+      adversary Attrition; domestic pressure; nuclear deterrent established Recession
+      deepens; forced to lead resolution Catastrophic ongoing The critical observation
+      is that the “strike successfully” scenario has an extraordinarily narrow probability
+      band — Iran would not have revealed the weapon without having taken steps to secure
+      it against first-strike destruction. The revelation itself is a strategic signal
+      that Iran believes it has sufficient survivability to absorb a strike and still
+      retaliate. 3. Why Iran Revealed the Weapon: The Signal Being Sent In game theory,
+      the decision to reveal is itself a strategic move that must be decoded. Iran is
+      not simply announcing a technical fact — it is sending a precisely calculated
+      set of signals to multiple audiences simultaneously. To Israel: “A nuclear strike
+      on Iran is now a nuclear exchange. Your monopoly is gone. Recalculate.” To the
+      United States: “The cost of military support for Israel has just increased by
+      an order of magnitude. Are you willing to risk nuclear war to end a blockade you
+      could negotiate your way out of?” To third parties — Japan, India, Europe, the
+      Gulf states: “The only path to reopening the Strait that does not risk nuclear
+      war is a negotiated settlement. Pressure your allies accordingly.” To its own
+      domestic constituency: “The regime is invulnerable. The confrontation is won.
+      Rally behind the leadership.” To the broader non-Western world: “Another nation
+      has broken the Western monopoly on nuclear deterrence. The rules-based order does
+      not protect you — but deterrence does.” Each of these signals has a different
+      intended effect, and Iran has crafted a single act that advances all of them simultaneously.
+      This is a masterclass in multi-audience strategic communication — what game theorists
+      call signalling under incomplete information. 4. Israel’s Rational Response Set
+      — And Why Each Option Is Now Worse Than Before Israel now faces a decision tree
+      in which every branch has deteriorated: Option A: Immediate conventional strike
+      on nuclear facilities The logic: destroy the arsenal before it is dispersed. The
+      problem: Iran revealed the weapon precisely because it believes the arsenal is
+      survivable. A failed strike that leaves even one Iranian nuclear weapon intact
+      and a regime with the will to use it is strategically catastrophic for Israel.
+      The probability of complete success is low; the cost of failure is existential.
+      Expected value: deeply negative. Option B: Nuclear first strike The logic: overwhelming
+      force eliminates the threat permanently. The problems: near-certain retaliation
+      if even one Iranian weapon survives; complete international isolation including
+      likely abandonment by the US; global economic catastrophe from a nuclear exchange
+      in the Gulf; permanent delegitimisation of Israel internationally. This option
+      was always available but its expected payoff is so negative that rational actors
+      virtually never choose it. Expected value: catastrophically negative. Option C:
+      Accept the new reality and negotiate The logic: Israel has lived with a nuclear
+      Pakistan for decades, and with a nuclear North Korea. The MAD framework, while
+      terrifying, is stable once both sides have survivable arsenals. The problem for
+      Israel is that this means permanently accepting a nuclear-armed Iran as a regional
+      actor — and abandoning any notion of eliminating the Iranian nuclear programme.
+      Expected value: deeply unpleasant but survivable. Option D: Accelerate diplomatic
+      resolution of the blockade under the nuclear umbrella The logic: the blockade
+      is now even more dangerous than before; ending it removes the immediate crisis
+      even if the nuclear question remains unresolved. Separate the two problems — negotiate
+      an end to the blockade first, then address the nuclear question through a longer-term
+      process. Expected value: the least bad option available. Game theory’s prediction
+      is that rational actors, facing a choice between catastrophically negative expected
+      values and merely deeply unpleasant ones, choose the latter. Israel’s rational
+      move is Option D — though domestic political pressures may make this extraordinarily
+      difficult to implement. 5. The United States’ Position: From Reluctant Participant
+      to Indispensable Actor The nuclear revelation transforms the United States’ role
+      completely. Before, Washington could plausibly maintain some distance from the
+      confrontation. Now, it faces a situation in which: A nuclear-armed Iran is holding
+      the global economy hostage Its closest Middle Eastern ally faces an existential
+      nuclear threat Every major trading partner — Japan, South Korea, India, the EU
+      — is suffering severe economic damage and demanding resolution Domestic recession
+      pressure is building Any military action risks nuclear war The US is now the only
+      actor with the leverage, relationships, and capability to broker a resolution.
+      This is simultaneously its greatest burden and its greatest source of power in
+      the game. Washington becomes the indispensable mediator — which is precisely why
+      Iran’s revelation is also a signal to Washington: “You need to lead a negotiation
+      now, or face consequences neither of us wants.” The two-level game dynamic becomes
+      critical here. American leadership must simultaneously manage: Domestic political
+      pressure to act forcefully against Iran Allied pressure to resolve the crisis
+      diplomatically Israeli pressure to support military action The objective strategic
+      reality that military action risks nuclear war Game theory’s prescription for
+      the US is to use its unique position to construct a negotiated framework that
+      gives Iran sufficient security guarantees and sanctions relief to lift the blockade,
+      while establishing verifiable constraints on the Iranian nuclear arsenal — essentially
+      a supercharged version of the JCPOA, negotiated from a position in which Iran
+      holds far more leverage than it did in 2015. 6. The New Nuclear Deterrence Equilibrium
+      — If the Crisis Is Survived If the immediate window of maximum danger is navigated
+      without military escalation, game theory predicts the emergence of a new, ugly
+      but stable deterrence equilibrium in the Middle East — the extended MAD framework:
+      Iran has nuclear weapons and a credible second-strike capability Israel has nuclear
+      weapons and a credible second-strike capability Neither can use nuclear weapons
+      without near-certain mutual destruction Both sides know this; both sides’ behaviour
+      is constrained by it This is precisely the equilibrium that has governed India-Pakistan
+      relations since 1998 — tense, punctuated by periodic crises and proxy conflicts,
+      but ultimately stable because the consequences of nuclear use are too catastrophic
+      for rational actors on either side to accept. The blockade, in this scenario,
+      is resolved through negotiation because Iran has achieved its ultimate strategic
+      objective — regime security through nuclear deterrence — and no longer needs the
+      blockade as leverage. It can be lifted in exchange for a package of diplomatic,
+      economic, and security concessions without Iran appearing to have backed down.
+      The nuclear weapon is the achievement; the blockade becomes unnecessary once the
+      weapon’s existence is accepted. 7. The Proliferation Cascade: The Game Expands
+      Beyond Iran and Israel One of the most significant game-theoretic consequences
+      of an Iranian nuclear revelation is its effect on other regional actors — particularly
+      Saudi Arabia, Turkey, and Egypt. Nuclear deterrence theory predicts that when
+      one state in a region acquires nuclear weapons, the incentive for neighbours to
+      do so increases dramatically. This is the proliferation cascade problem. Saudi
+      Arabia has publicly stated it will acquire nuclear weapons if Iran does. Turkey
+      has the industrial base to pursue a programme. Egypt has significant scientific
+      infrastructure. The game is no longer a bilateral Iran-Israel confrontation —
+      it risks becoming a multi-player nuclear game in the world’s most volatile region
+      , with the oil infrastructure that underpins the global economy sitting at its
+      centre. This proliferation dimension changes the US calculus significantly. Washington’s
+      interest in preventing a regional nuclear cascade may actually exceed its interest
+      in defending Israel’s nuclear monopoly — creating an incentive for the US to broker
+      a regional security architecture that addresses multiple states’ security concerns
+      simultaneously, rather than simply targeting Iran. 8. Iran’s Optimal Strategy
+      Post-Revelation Given all of the above, Iran’s optimal strategic portfolio following
+      the nuclear revelation is: Immediately: Demonstrate survivability — make clear
+      through signals and statements that the arsenal cannot be destroyed in a first
+      strike, collapsing the case for military action Establish clear no-first-use signalling
+      — paradoxically, reassuring adversaries that Iran will not use the weapon first
+      reduces the pressure for pre-emption Separate the blockade from the nuclear question
+      — signal willingness to negotiate the blockade’s end on previously stated terms,
+      making clear the nuclear deterrent is a permanent feature regardless of the blockade’s
+      resolution In the short term: Offer a managed transparency framework — inviting
+      international inspection of the arsenal’s size and location, within limits, to
+      reduce miscalculation risk and demonstrate that Iran is a responsible nuclear
+      actor Engage China and Russia as guarantors of any settlement, creating great-power
+      investment in the stability of the new equilibrium Pursue rapid diplomatic normalisation
+      with Gulf states — Saudi Arabia in particular — to prevent the proliferation cascade
+      from materialising in the most dangerous form Structurally: Harden and disperse
+      the arsenal to establish an undeniable second-strike capability as quickly as
+      possible — the sooner this is achieved, the more stable the deterrence equilibrium
+      becomes Develop a nuclear doctrine — communicating clearly what would and would
+      not trigger nuclear use, reducing ambiguity and miscalculation risk The Core Strategic
+      Conclusion The nuclear revelation, combined with the active blockade, represents
+      the most powerful bargaining position Iran has ever occupied — and simultaneously
+      the most dangerous moment in the confrontation’s history. These two facts are
+      not in tension; they are the same fact viewed from different angles. Game theory’s
+      ultimate prescription is this: Iran has achieved maximum leverage at maximum risk.
+      The optimal strategy is to convert that leverage into durable, negotiated, irreversible
+      gains — security guarantees, sanctions relief, regional recognition — as rapidly
+      as possible, before the window of maximum danger produces the miscalculation or
+      domestic political pressure that triggers the very catastrophe deterrence is designed
+      to prevent. The nuclear weapon is most valuable the day before it is used. Once
+      used, it destroys everything — including Iran. Used as a deterrent, locked into
+      a stable MAD equilibrium, and combined with a negotiated end to the blockade,
+      it transforms Iran’s strategic position permanently. The regime that once feared
+      American-backed regime change now sits behind a nuclear shield. That is the endgame
+      game theory recommends — not war, but an unassailable peace on Iran’s own terms.
+      The greatest irony of nuclear deterrence, as Schelling observed decades ago, is
+      that the weapon achieves its purpose most completely when it is never used. Iran’s
+      optimal move is to make that outcome inevitable. Iran is a highly educated society
+      and it would not surprise me that Iranian scientists conversant in game theory
+      have already arrived at this conclusion. Ayatollah Mojtaba is not just an Islamic
+      scholar, he is a combat veteran who fought on the front lines against the US-backed
+      Iraqi army in the 1980s. His ultimate goal is to ensure the survival of the Islamic
+      Republic in the face of an existential threat from both the United States and
+      Israel. Meanwhile on the battlefield, US casualties are mounting. News broke late
+      Thursday afternoon that Iran, or a group supporting Iran, shot down a KC-135 with
+      at least five crew on board… All perished in the crash. Then there is this bit
+      of news from X : There have been at least 6 medevac flights conducted from CENTCOM
+      into Ramstein since the beginning of Operation EPIC FURY. This flight picked up
+      at Prince Sultan Air Base, Saudi Arabia before going to Muscat, Oman and then
+      back to Ramstein, Germany. https://t.co/HuHYKTqV5I pic.twitter.com/45irO5slAx
+      — TheIntelFrog (@TheIntelFrog) March 12, 2026 And Iran is continuing to pummel
+      US bases in the Persian Gulf and Israel with ballistic missiles and drones. Notwithstanding
+      Donald Trumps claim that Iran is defeated, the US position in the Persian Gulf
+      is weakening with each passing day. The Iranian closure of the Strait of Hormuz
+      is creating global disruption of supply chains and igniting an inflationary spiral
+      that will not be quashed anytime soon. I discussed this situation today with Suliaman
+      Ahmed, who happens to live in nearby Tampa: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article explores the potential consequences of Iran's
+      blockade of the Strait of Hormuz and aggression towards Israel, suggesting that
+      Iran's development and demonstration of a nuclear weapon might be the most effective
+      deterrent against Israel's possible nuclear response, analyzed through the lens
+      of game theory.
+    paragraph_summary: The article explores the potential consequences of Iran's actions,
+      particularly its blockade of the Strait of Hormuz and aggression towards Israel,
+      through the lens of game theory. It posits that Israel might consider a nuclear
+      response if threatened, prompting the question of whether Iran should develop
+      its own nuclear capabilities as a deterrent. The analysis suggests that Iran's
+      best strategy lies not in its willingness to use nuclear weapons, but in ensuring
+      that the costs of an Israeli strike are prohibitively high, thereby making the
+      initiation of a nuclear conflict irrational for Israel. This approach emphasizes
+      the principle of deterrence, where the goal is to prevent war rather than to win
+      one, and highlights the strategic implications of Iran's control over critical
+      oil export routes.
+    published: '2026-03-13T03:20:15+00:00'
+  - title: Should Iran Build a Nuke… Game Theory Says Yes
+    url: https://sonar21.com/should-iran-build-a-nuke-game-theory-says-yes/
+    text: 'One of the most common questions surrounding what will happen to Iran if
+      it continues to blockade the Strait of Hormuz and to pummel Israel to the point
+      of exhaustion is whether Israel will go nuclear. To answer this question I decided
+      to query a couple of AI-engines about that grotesque scenario using game theory.
+      What is game theory ? Game theory is the study of strategic decision‑making in
+      situations where the outcome for each participant depends not just on their own
+      choice, but also on the choices of others. It uses mathematical models to analyze
+      how rational “players” select strategies and what outcomes (or “payoffs”) result
+      from the interaction of those strategies. Before I applied game theory analysis
+      to Iran’s current situation, I had concluded that the best way to prevent Israel
+      from using a nuclear weapon against Iran is for Iran to produce and demonstrate
+      that it has created a nuclear weapon. This would mean that the new Ayatollah,
+      Mojtaba Khameni, would reverse his father’s fatwah and secretly authorize the
+      production of at least two nuclear devices. I concluded that this would force
+      Israel to rethink using a nuke once it realized that Iran could retaliate in kind.
+      I started this analysis with the simple request to the AI-model: Using game theory,
+      explain the best course of action that Iran should pursue when confronted with
+      the threat of a nuclear attack from Israel. Here was the not so surprising answer:
+      The overarching game-theoretic conclusion is that Iran’s power in this confrontation
+      derives not from its willingness to use nuclear weapons, but from making the consequences
+      of an Israeli strike unacceptably costly. The goal is not to win a nuclear war
+      — no one does — but to make starting one irrational for the other side. That is
+      the essence of deterrence, and it is what game theory most clearly recommends.
+      I then asked the following: How does the fact that Iran has closed the Strait
+      of Hormuz, which has precluded the export of oil, liquid natural gas and urea,
+      and will continue to maintain the blockade for the forseeable future, change your
+      game theory analysis? The AI-model came back with an answer that confirms Iran
+      has made a game-changing move: This is a significant strategic shift. The closure
+      of the Strait changes the game structure fundamentally — moving Iran from a deterrence
+      game to an attrition and coercion game with a very different payoff matrix. .
+      . . In the original analysis, Iran was the threatened party seeking to deter an
+      Israeli nuclear strike. The closure of the Strait transforms Iran into the active
+      coercer — it has already imposed enormous economic costs on the world, and is
+      now in a fundamentally different strategic position. Iran’s imposition of a de
+      facto blockade of the Persian Gulf has fundamentally changed the possible outcomes
+      and aligns with what I have been saying before running the game theory scenario:
+      The blockade has transformed Iran from a reactive deterrer into an active coercer
+      holding the global economy hostage. Game theory’s clearest prescription is: this
+      position of leverage should be converted into a negotiated settlement as efficiently
+      as possible, before the attrition costs, miscalculation risks, and domestic pressures
+      erode the advantage Iran currently holds. The greatest strategic error Iran could
+      make would be to hold the blockade so long, and signal so inflexibly, that adversaries
+      conclude no negotiated exit exists — because that is precisely the condition under
+      which the nuclear threat regains its credibility and rational actors may choose
+      catastrophic action over indefinite attrition. The blockade is an instrument of
+      negotiation, not an end in itself. Used with discipline and clear signalling,
+      it represents Iran’s strongest strategic position in decades. Used recklessly
+      or held too long, it becomes the trigger for the very outcome it was designed
+      to prevent. I then added the final twist and asked: What happens if Iran reveals
+      it has now developed a nuclear weapon? Here is the answer if full: Iran revealing
+      a nuclear weapon while simultaneously maintaining the Strait of Hormuz blockade
+      is not merely an incremental escalation — it is a phase transition in the game.
+      The entire strategic architecture that existed before — deterrence calculations,
+      alliance commitments, third-party pressures, negotiating dynamics — must be rebuilt
+      from scratch around a new fundamental reality. The announcement combines two of
+      the most destabilising events in international relations into a single moment:
+      a nuclear breakout and an active economic siege of the global economy. No historical
+      precedent exists for this combination. The closest analogues — the Soviet Union’s
+      first nuclear test in 1949, China’s in 1964, North Korea’s in 2006 — all occurred
+      in periods of relative strategic stability, not during an active global economic
+      crisis that the new nuclear power was itself causing. 1. The Immediate Game-Theoretic
+      Effect: The Window of Maximum Danger The most important concept in nuclear deterrence
+      theory for understanding this moment is the stability-instability paradox in reverse.
+      Normally, nuclear acquisition stabilises the top of the escalation ladder. But
+      when a state reveals a nuclear weapon during an active confrontation, it creates
+      a brief but extraordinarily dangerous window in which adversaries must decide
+      whether to act before the new arsenal is fully secured, dispersed, and operationally
+      mature. This is the “use it or lose it” problem — but from Israel and the US’s
+      perspective, not Iran’s. The strategic logic runs as follows: Today Iran has one
+      weapon, or a handful, in unknown locations In six months it may have ten, dispersed
+      and hardened In two years it may have a fully survivable second-strike capability
+      The window for a disarming first strike, if it exists at all, is now Game theory’s
+      prediction is unambiguous: the revelation triggers the highest probability of
+      military strike in the entire confrontation timeline. Iran’s optimal strategy
+      must account for this window as the single most dangerous period it will face.
+      2. The Payoff Matrix Transforms Again — More Dramatically Than the Blockade Did
+      The nuclear revelation simultaneously: Eliminates Israel’s nuclear monopoly in
+      the region — permanently altering the Middle East’s strategic architecture Creates
+      mutual assured destruction as a live possibility for the first time in the conflict
+      Transforms the blockade from an act of economic coercion into a nuclear-armed
+      state’s siege of the global economy Forces every actor to reassess their position,
+      commitments, and red lines simultaneously The new payoff matrix looks like this:
+      Scenario Israel’s Payoff Iran’s Payoff US Payoff Global Payoff Immediate strike,
+      disarms Iran Possibly eliminates threat; risks massive retaliation; massive global
+      condemnation Catastrophic if successful Catastrophic politically; risks nuclear
+      use Devastating; oil shock + war Strike fails to disarm Nuclear retaliation near-certain
+      Retaliates; survives as nuclear power Drawn into nuclear conflict Existential
+      No strike; negotiate Iran permanent nuclear state; Israel’s monopoly gone Survives;
+      blockade leverage intact Avoids nuclear war; faces Iran as nuclear power Blockade
+      ends; new normal No strike; blockade continues Prolonged economic crisis; nuclear-armed
+      adversary Attrition; domestic pressure; nuclear deterrent established Recession
+      deepens; forced to lead resolution Catastrophic ongoing The critical observation
+      is that the “strike successfully” scenario has an extraordinarily narrow probability
+      band — Iran would not have revealed the weapon without having taken steps to secure
+      it against first-strike destruction. The revelation itself is a strategic signal
+      that Iran believes it has sufficient survivability to absorb a strike and still
+      retaliate. 3. Why Iran Revealed the Weapon: The Signal Being Sent In game theory,
+      the decision to reveal is itself a strategic move that must be decoded. Iran is
+      not simply announcing a technical fact — it is sending a precisely calculated
+      set of signals to multiple audiences simultaneously. To Israel: “A nuclear strike
+      on Iran is now a nuclear exchange. Your monopoly is gone. Recalculate.” To the
+      United States: “The cost of military support for Israel has just increased by
+      an order of magnitude. Are you willing to risk nuclear war to end a blockade you
+      could negotiate your way out of?” To third parties — Japan, India, Europe, the
+      Gulf states: “The only path to reopening the Strait that does not risk nuclear
+      war is a negotiated settlement. Pressure your allies accordingly.” To its own
+      domestic constituency: “The regime is invulnerable. The confrontation is won.
+      Rally behind the leadership.” To the broader non-Western world: “Another nation
+      has broken the Western monopoly on nuclear deterrence. The rules-based order does
+      not protect you — but deterrence does.” Each of these signals has a different
+      intended effect, and Iran has crafted a single act that advances all of them simultaneously.
+      This is a masterclass in multi-audience strategic communication — what game theorists
+      call signalling under incomplete information. 4. Israel’s Rational Response Set
+      — And Why Each Option Is Now Worse Than Before Israel now faces a decision tree
+      in which every branch has deteriorated: Option A: Immediate conventional strike
+      on nuclear facilities The logic: destroy the arsenal before it is dispersed. The
+      problem: Iran revealed the weapon precisely because it believes the arsenal is
+      survivable. A failed strike that leaves even one Iranian nuclear weapon intact
+      and a regime with the will to use it is strategically catastrophic for Israel.
+      The probability of complete success is low; the cost of failure is existential.
+      Expected value: deeply negative. Option B: Nuclear first strike The logic: overwhelming
+      force eliminates the threat permanently. The problems: near-certain retaliation
+      if even one Iranian weapon survives; complete international isolation including
+      likely abandonment by the US; global economic catastrophe from a nuclear exchange
+      in the Gulf; permanent delegitimisation of Israel internationally. This option
+      was always available but its expected payoff is so negative that rational actors
+      virtually never choose it. Expected value: catastrophically negative. Option C:
+      Accept the new reality and negotiate The logic: Israel has lived with a nuclear
+      Pakistan for decades, and with a nuclear North Korea. The MAD framework, while
+      terrifying, is stable once both sides have survivable arsenals. The problem for
+      Israel is that this means permanently accepting a nuclear-armed Iran as a regional
+      actor — and abandoning any notion of eliminating the Iranian nuclear programme.
+      Expected value: deeply unpleasant but survivable. Option D: Accelerate diplomatic
+      resolution of the blockade under the nuclear umbrella The logic: the blockade
+      is now even more dangerous than before; ending it removes the immediate crisis
+      even if the nuclear question remains unresolved. Separate the two problems — negotiate
+      an end to the blockade first, then address the nuclear question through a longer-term
+      process. Expected value: the least bad option available. Game theory’s prediction
+      is that rational actors, facing a choice between catastrophically negative expected
+      values and merely deeply unpleasant ones, choose the latter. Israel’s rational
+      move is Option D — though domestic political pressures may make this extraordinarily
+      difficult to implement. 5. The United States’ Position: From Reluctant Participant
+      to Indispensable Actor The nuclear revelation transforms the United States’ role
+      completely. Before, Washington could plausibly maintain some distance from the
+      confrontation. Now, it faces a situation in which: A nuclear-armed Iran is holding
+      the global economy hostage Its closest Middle Eastern ally faces an existential
+      nuclear threat Every major trading partner — Japan, South Korea, India, the EU
+      — is suffering severe economic damage and demanding resolution Domestic recession
+      pressure is building Any military action risks nuclear war The US is now the only
+      actor with the leverage, relationships, and capability to broker a resolution.
+      This is simultaneously its greatest burden and its greatest source of power in
+      the game. Washington becomes the indispensable mediator — which is precisely why
+      Iran’s revelation is also a signal to Washington: “You need to lead a negotiation
+      now, or face consequences neither of us wants.” The two-level game dynamic becomes
+      critical here. American leadership must simultaneously manage: Domestic political
+      pressure to act forcefully against Iran Allied pressure to resolve the crisis
+      diplomatically Israeli pressure to support military action The objective strategic
+      reality that military action risks nuclear war Game theory’s prescription for
+      the US is to use its unique position to construct a negotiated framework that
+      gives Iran sufficient security guarantees and sanctions relief to lift the blockade,
+      while establishing verifiable constraints on the Iranian nuclear arsenal — essentially
+      a supercharged version of the JCPOA, negotiated from a position in which Iran
+      holds far more leverage than it did in 2015. 6. The New Nuclear Deterrence Equilibrium
+      — If the Crisis Is Survived If the immediate window of maximum danger is navigated
+      without military escalation, game theory predicts the emergence of a new, ugly
+      but stable deterrence equilibrium in the Middle East — the extended MAD framework:
+      Iran has nuclear weapons and a credible second-strike capability Israel has nuclear
+      weapons and a credible second-strike capability Neither can use nuclear weapons
+      without near-certain mutual destruction Both sides know this; both sides’ behaviour
+      is constrained by it This is precisely the equilibrium that has governed India-Pakistan
+      relations since 1998 — tense, punctuated by periodic crises and proxy conflicts,
+      but ultimately stable because the consequences of nuclear use are too catastrophic
+      for rational actors on either side to accept. The blockade, in this scenario,
+      is resolved through negotiation because Iran has achieved its ultimate strategic
+      objective — regime security through nuclear deterrence — and no longer needs the
+      blockade as leverage. It can be lifted in exchange for a package of diplomatic,
+      economic, and security concessions without Iran appearing to have backed down.
+      The nuclear weapon is the achievement; the blockade becomes unnecessary once the
+      weapon’s existence is accepted. 7. The Proliferation Cascade: The Game Expands
+      Beyond Iran and Israel One of the most significant game-theoretic consequences
+      of an Iranian nuclear revelation is its effect on other regional actors — particularly
+      Saudi Arabia, Turkey, and Egypt. Nuclear deterrence theory predicts that when
+      one state in a region acquires nuclear weapons, the incentive for neighbours to
+      do so increases dramatically. This is the proliferation cascade problem. Saudi
+      Arabia has publicly stated it will acquire nuclear weapons if Iran does. Turkey
+      has the industrial base to pursue a programme. Egypt has significant scientific
+      infrastructure. The game is no longer a bilateral Iran-Israel confrontation —
+      it risks becoming a multi-player nuclear game in the world’s most volatile region
+      , with the oil infrastructure that underpins the global economy sitting at its
+      centre. This proliferation dimension changes the US calculus significantly. Washington’s
+      interest in preventing a regional nuclear cascade may actually exceed its interest
+      in defending Israel’s nuclear monopoly — creating an incentive for the US to broker
+      a regional security architecture that addresses multiple states’ security concerns
+      simultaneously, rather than simply targeting Iran. 8. Iran’s Optimal Strategy
+      Post-Revelation Given all of the above, Iran’s optimal strategic portfolio following
+      the nuclear revelation is: Immediately: Demonstrate survivability — make clear
+      through signals and statements that the arsenal cannot be destroyed in a first
+      strike, collapsing the case for military action Establish clear no-first-use signalling
+      — paradoxically, reassuring adversaries that Iran will not use the weapon first
+      reduces the pressure for pre-emption Separate the blockade from the nuclear question
+      — signal willingness to negotiate the blockade’s end on previously stated terms,
+      making clear the nuclear deterrent is a permanent feature regardless of the blockade’s
+      resolution In the short term: Offer a managed transparency framework — inviting
+      international inspection of the arsenal’s size and location, within limits, to
+      reduce miscalculation risk and demonstrate that Iran is a responsible nuclear
+      actor Engage China and Russia as guarantors of any settlement, creating great-power
+      investment in the stability of the new equilibrium Pursue rapid diplomatic normalisation
+      with Gulf states — Saudi Arabia in particular — to prevent the proliferation cascade
+      from materialising in the most dangerous form Structurally: Harden and disperse
+      the arsenal to establish an undeniable second-strike capability as quickly as
+      possible — the sooner this is achieved, the more stable the deterrence equilibrium
+      becomes Develop a nuclear doctrine — communicating clearly what would and would
+      not trigger nuclear use, reducing ambiguity and miscalculation risk The Core Strategic
+      Conclusion The nuclear revelation, combined with the active blockade, represents
+      the most powerful bargaining position Iran has ever occupied — and simultaneously
+      the most dangerous moment in the confrontation’s history. These two facts are
+      not in tension; they are the same fact viewed from different angles. Game theory’s
+      ultimate prescription is this: Iran has achieved maximum leverage at maximum risk.
+      The optimal strategy is to convert that leverage into durable, negotiated, irreversible
+      gains — security guarantees, sanctions relief, regional recognition — as rapidly
+      as possible, before the window of maximum danger produces the miscalculation or
+      domestic political pressure that triggers the very catastrophe deterrence is designed
+      to prevent. The nuclear weapon is most valuable the day before it is used. Once
+      used, it destroys everything — including Iran. Used as a deterrent, locked into
+      a stable MAD equilibrium, and combined with a negotiated end to the blockade,
+      it transforms Iran’s strategic position permanently. The regime that once feared
+      American-backed regime change now sits behind a nuclear shield. That is the endgame
+      game theory recommends — not war, but an unassailable peace on Iran’s own terms.
+      The greatest irony of nuclear deterrence, as Schelling observed decades ago, is
+      that the weapon achieves its purpose most completely when it is never used. Iran’s
+      optimal move is to make that outcome inevitable. Iran is a highly educated society
+      and it would not surprise me that Iranian scientists conversant in game theory
+      have already arrived at this conclusion. Ayatollah Mojtaba is not just an Islamic
+      scholar, he is a combat veteran who fought on the front lines against the US-backed
+      Iraqi army in the 1980s. His ultimate goal is to ensure the survival of the Islamic
+      Republic in the face of an existential threat from both the United States and
+      Israel. Meanwhile on the battlefield, US casualties are mounting. News broke late
+      Thursday afternoon that Iran, or a group supporting Iran, shot down a KC-135 with
+      at least five crew on board… All perished in the crash. Then there is this bit
+      of news from X : There have been at least 6 medevac flights conducted from CENTCOM
+      into Ramstein since the beginning of Operation EPIC FURY. This flight picked up
+      at Prince Sultan Air Base, Saudi Arabia before going to Muscat, Oman and then
+      back to Ramstein, Germany. https://t.co/HuHYKTqV5I pic.twitter.com/45irO5slAx
+      — TheIntelFrog (@TheIntelFrog) March 12, 2026 And Iran is continuing to pummel
+      US bases in the Persian Gulf and Israel with ballistic missiles and drones. Notwithstanding
+      Donald Trumps claim that Iran is defeated, the US position in the Persian Gulf
+      is weakening with each passing day. The Iranian closure of the Strait of Hormuz
+      is creating global disruption of supply chains and igniting an inflationary spiral
+      that will not be quashed anytime soon. I discussed this situation today with Suliaman
+      Ahmed, who happens to live in nearby Tampa: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article explores the potential consequences of Iran's
+      blockade of the Strait of Hormuz and aggression towards Israel, suggesting that
+      Iran's development and demonstration of a nuclear weapon might be the most effective
+      deterrent against Israel's possible nuclear response, analyzed through the lens
+      of game theory.
+    paragraph_summary: The article explores the potential consequences of Iran's actions,
+      particularly its blockade of the Strait of Hormuz and aggression towards Israel,
+      through the lens of game theory. It posits that Israel might consider a nuclear
+      response if threatened, prompting the question of whether Iran should develop
+      its own nuclear capabilities as a deterrent. The analysis suggests that Iran's
+      best strategy lies not in its willingness to use nuclear weapons, but in ensuring
+      that the costs of an Israeli strike are prohibitively high, thereby making the
+      initiation of a nuclear conflict irrational for Israel. This approach emphasizes
+      the principle of deterrence, where the goal is to prevent war rather than to win
+      one, and highlights the strategic implications of Iran's control over critical
+      oil export routes.
+    published: '2026-03-13T03:20:15+00:00'
+  - title: Donald Trump’s War on Iran is Turning into a Debacle
+    url: https://sonar21.com/donald-trumps-war-on-iran-is-turning-into-a-debacle/
+    text: 'The image above tells you why Donald Trump is in political trouble over his
+      decision to launch a war on Iran. Previous presidents have understood that you
+      must rally public support before sending US troops and planes overseas to attack
+      another country, or else you risk political isolation and blame if the war goes
+      awry. And the war with Iran is going badly for the US, despite the nightly cheer-leading
+      broadcast round-the-clock on Fox News . The Trump administration genuinely believed
+      that the decapitation attack on 28 February would rally the Iranian people to
+      rise up and overthrow the Islamic Republic. Trump ignored the contrary warnings
+      from General Caine, the Chairman of the Joint Chiefs of Staff, and the National
+      Intelligence Council (NIC). Trump apparently never considered the possibility
+      that Iran would blockade the the Strait of Hormuz and shutdown the flow of oil,
+      liquid natural gas and nitrogen fertilizer from the Persian Gulf. As I discussed
+      in my last article — Choke Point: The Global Economic Consequences of The Persian
+      Gulf Shutdown — Iran’s shuttering of the Persian Gulf has sent in motion some
+      profound economic shocks that are going to cause a global recession and, if sustained
+      for more than a month, a global depression. Although the US is supposedly not
+      dependent on oil from the Persian Gulf, gas prices are rising dramatically across
+      the 50 states. When I filled my tank on Sunday, the price of gas had surged by
+      .50 cents from what I paid six days earlier. I checked again today (Wednesday)
+      and the price had moved up an additional .15 cents. The increase cost of fuel
+      is going to hit the entire economy as truckers and airlines and farmers have to
+      spend more to keep their machines running. Those costs will be passed on to the
+      consumers. This is going to create a double whammy — not just in the US, but around
+      the world — of rising prices and diminished economic growth. At some point, the
+      price of oil and LNG will start to tick down but only because the recession that
+      is going to hit most economies around the globe will reduce demand. The picture
+      is equally bleak and troubled on the military front. Despite wreaking massive
+      damage inside Iran, the US and Israeli militaries have failed to knockout Iran’s
+      ballistic and cruise missile forces as well as its drones. The US Department of
+      War has conceded that Iran defied the expectations of the US military as the Iranians
+      launched devastating counter attacks. The New York Times published an interactive
+      feature on March 11, 2026 that analyzes damage to US military and related sites
+      in the Middle East amid the ongoing US-Israel war with Iran. It uses high-resolution
+      commercial satellite imagery (from sources like Airbus DS and Planet Labs), verified
+      social media videos, and official statements from US officials and Iranian state
+      media to document at least 17 damaged US sites (including bases hosting US forces,
+      air defense infrastructure, and diplomatic facilities). The analysis is current
+      as of March 10, 2026, and highlights Iran’s retaliatory strikes—thousands of missiles
+      and drones—launched in response to the U.S.-Israeli assault on Iran that began
+      around late February 2026. Iran’s attacks began shortly after the conflict’s start
+      (e.g., February 28 onward) and targeted 13 sites in Kuwait, Qatar, Bahrain, Saudi
+      Arabia, UAE, Jordan, and Iraq : Kuwait : Multiple strikes on Ali Al Salem Air
+      Base (March 1), Camp Arifjan (March 4), Shuaiba port (March 2, killing six U.S.
+      service members with partial roof collapse visible in satellite images), and Camp
+      Buehring (March 5, drone explosion near sports facilities with no casualties).
+      Bahrain : U.S. Navy 5th Fleet HQ struck (February 28/March 1), including damage
+      to a communications radome shown in verified video. Saudi Arabia : Prince Sultan
+      Air Base (March 1), with one U.S. service member killed. Qatar : Al Udeid Air
+      Base (March 9) and Umm Dahal radar site (damage to AN/FPS-132 radar). UAE : Al
+      Dhafra Air Base (March 3), Jebel Ali port (March 1), Al Ruwais (near THAAD unit),
+      and Al Sader facilities. Jordan : Muwaffaq Salti Air Base (March 4), with severe
+      damage to air defense sensors. Iraq : Erbil Airport (March 1). Other : Strikes
+      reached as far as Turkey (NATO intercepted missiles aimed at Incirlik Air Base
+      on March 4, which Iran denied). Some bases (e.g., Al Udeid, Ali Al Salem, Al Dhafra)
+      were hit multiple times. Diplomatic targets included the U.S. consulate in Dubai
+      and embassies in Kuwait City, Riyadh, and Baghdad (rocket attack on March 8, no
+      casualties confirmed). While US CENTCOM continues to insist that Iran has done
+      little damage, the reality is that Iran has crippled the ability of the US to
+      launch and sustain combat operations from the bases and installations listed above.
+      There are several reports that Trump has tried to re-open talks with Iran in hopes
+      of securing a cease-fire or a staged victory withdrawal. Iran is having none of
+      that and will continue to attack US installations and Israel no matter what Trump
+      decides to do. Danny Davis and I discussed the state of the war with Iran: I sat
+      down for a chat today with Coffee and a Mike : I ventured into Canadian territory
+      with Shawn Newman. His audience was not happy with what I had to say: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's decision to launch a war on Iran has led to
+      political trouble for him due to a lack of public support and poor execution,
+      as he ignored warnings from military and intelligence officials and underestimated
+      Iran's potential response, which has resulted in negative consequences for the
+      U.S.
+    paragraph_summary: Donald Trump's decision to engage in military action against
+      Iran has led to significant political trouble, as previous presidents understood
+      the necessity of securing public support before deploying troops. The administration's
+      belief that a targeted attack would incite an uprising against the Iranian government
+      has backfired, with Iran retaliating by blockading the Strait of Hormuz, which
+      has severe implications for global oil and gas supplies. This blockade is causing
+      rising fuel prices in the U.S., contributing to broader economic shocks that could
+      lead to a global recession or even depression if prolonged. The increased costs
+      for transportation and agriculture will ultimately burden consumers, resulting
+      in a dual impact of rising prices and slowed economic growth both domestically
+      and internationally.
+    published: '2026-03-12T06:29:10+00:00'
+  - title: Donald Trump’s War on Iran is Turning into a Debacle
+    url: https://sonar21.com/donald-trumps-war-on-iran-is-turning-into-a-debacle/
+    text: 'The image above tells you why Donald Trump is in political trouble over his
+      decision to launch a war on Iran. Previous presidents have understood that you
+      must rally public support before sending US troops and planes overseas to attack
+      another country, or else you risk political isolation and blame if the war goes
+      awry. And the war with Iran is going badly for the US, despite the nightly cheer-leading
+      broadcast round-the-clock on Fox News . The Trump administration genuinely believed
+      that the decapitation attack on 28 February would rally the Iranian people to
+      rise up and overthrow the Islamic Republic. Trump ignored the contrary warnings
+      from General Caine, the Chairman of the Joint Chiefs of Staff, and the National
+      Intelligence Council (NIC). Trump apparently never considered the possibility
+      that Iran would blockade the the Strait of Hormuz and shutdown the flow of oil,
+      liquid natural gas and nitrogen fertilizer from the Persian Gulf. As I discussed
+      in my last article — Choke Point: The Global Economic Consequences of The Persian
+      Gulf Shutdown — Iran’s shuttering of the Persian Gulf has sent in motion some
+      profound economic shocks that are going to cause a global recession and, if sustained
+      for more than a month, a global depression. Although the US is supposedly not
+      dependent on oil from the Persian Gulf, gas prices are rising dramatically across
+      the 50 states. When I filled my tank on Sunday, the price of gas had surged by
+      .50 cents from what I paid six days earlier. I checked again today (Wednesday)
+      and the price had moved up an additional .15 cents. The increase cost of fuel
+      is going to hit the entire economy as truckers and airlines and farmers have to
+      spend more to keep their machines running. Those costs will be passed on to the
+      consumers. This is going to create a double whammy — not just in the US, but around
+      the world — of rising prices and diminished economic growth. At some point, the
+      price of oil and LNG will start to tick down but only because the recession that
+      is going to hit most economies around the globe will reduce demand. The picture
+      is equally bleak and troubled on the military front. Despite wreaking massive
+      damage inside Iran, the US and Israeli militaries have failed to knockout Iran’s
+      ballistic and cruise missile forces as well as its drones. The US Department of
+      War has conceded that Iran defied the expectations of the US military as the Iranians
+      launched devastating counter attacks. The New York Times published an interactive
+      feature on March 11, 2026 that analyzes damage to US military and related sites
+      in the Middle East amid the ongoing US-Israel war with Iran. It uses high-resolution
+      commercial satellite imagery (from sources like Airbus DS and Planet Labs), verified
+      social media videos, and official statements from US officials and Iranian state
+      media to document at least 17 damaged US sites (including bases hosting US forces,
+      air defense infrastructure, and diplomatic facilities). The analysis is current
+      as of March 10, 2026, and highlights Iran’s retaliatory strikes—thousands of missiles
+      and drones—launched in response to the U.S.-Israeli assault on Iran that began
+      around late February 2026. Iran’s attacks began shortly after the conflict’s start
+      (e.g., February 28 onward) and targeted 13 sites in Kuwait, Qatar, Bahrain, Saudi
+      Arabia, UAE, Jordan, and Iraq : Kuwait : Multiple strikes on Ali Al Salem Air
+      Base (March 1), Camp Arifjan (March 4), Shuaiba port (March 2, killing six U.S.
+      service members with partial roof collapse visible in satellite images), and Camp
+      Buehring (March 5, drone explosion near sports facilities with no casualties).
+      Bahrain : U.S. Navy 5th Fleet HQ struck (February 28/March 1), including damage
+      to a communications radome shown in verified video. Saudi Arabia : Prince Sultan
+      Air Base (March 1), with one U.S. service member killed. Qatar : Al Udeid Air
+      Base (March 9) and Umm Dahal radar site (damage to AN/FPS-132 radar). UAE : Al
+      Dhafra Air Base (March 3), Jebel Ali port (March 1), Al Ruwais (near THAAD unit),
+      and Al Sader facilities. Jordan : Muwaffaq Salti Air Base (March 4), with severe
+      damage to air defense sensors. Iraq : Erbil Airport (March 1). Other : Strikes
+      reached as far as Turkey (NATO intercepted missiles aimed at Incirlik Air Base
+      on March 4, which Iran denied). Some bases (e.g., Al Udeid, Ali Al Salem, Al Dhafra)
+      were hit multiple times. Diplomatic targets included the U.S. consulate in Dubai
+      and embassies in Kuwait City, Riyadh, and Baghdad (rocket attack on March 8, no
+      casualties confirmed). While US CENTCOM continues to insist that Iran has done
+      little damage, the reality is that Iran has crippled the ability of the US to
+      launch and sustain combat operations from the bases and installations listed above.
+      There are several reports that Trump has tried to re-open talks with Iran in hopes
+      of securing a cease-fire or a staged victory withdrawal. Iran is having none of
+      that and will continue to attack US installations and Israel no matter what Trump
+      decides to do. Danny Davis and I discussed the state of the war with Iran: I sat
+      down for a chat today with Coffee and a Mike : I ventured into Canadian territory
+      with Shawn Newman. His audience was not happy with what I had to say: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Donald Trump's decision to launch a war on Iran has led to
+      political trouble for him due to a lack of public support and poor execution,
+      as he ignored warnings from military and intelligence officials and underestimated
+      Iran's potential response, which has resulted in negative consequences for the
+      U.S.
+    paragraph_summary: Donald Trump's decision to engage in military action against
+      Iran has led to significant political trouble, as previous presidents understood
+      the necessity of securing public support before deploying troops. The administration's
+      belief that a targeted attack would incite an uprising against the Iranian government
+      has backfired, with Iran retaliating by blockading the Strait of Hormuz, which
+      has severe implications for global oil and gas supplies. This blockade is causing
+      rising fuel prices in the U.S., contributing to broader economic shocks that could
+      lead to a global recession or even depression if prolonged. The increased costs
+      for transportation and agriculture will ultimately burden consumers, resulting
+      in a dual impact of rising prices and slowed economic growth both domestically
+      and internationally.
+    published: '2026-03-12T06:29:10+00:00'
   - title: 'Choke Point: The Global Economic Consequences of The Persian Gulf Shutdown'
     url: https://sonar21.com/choke-point-the-global-economic-consequences-of-the-persian-gulf-shutdown/
     text: 'How the disruption of oil, liquefied natural gas, and urea exports will cascade

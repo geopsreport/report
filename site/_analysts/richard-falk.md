@@ -7,16 +7,103 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As tensions in the Middle East continue to escalate, the international community is bracing for further instability following recent Israeli and US attacks on Iran. This development is set to be the focus of a special webinar, "Humanity on the Brink," scheduled for March 15, which aims to dissect the regional and global ramifications of the conflict.
+  As of March 18, 2026, the geopolitical landscape remains dominated by the escalating conflict between Israel, the United States, and Iran, with ripple effects across the Middle East and beyond. This crisis is widely regarded as a pivotal moment with the potential to reshape global security dynamics and world order.
   
-  **Richard Falk** highlights the gravity of the situation, noting that the aggressive posture adopted by the Trump administration towards Iran constitutes an unlawful "war of choice." Falk argues that such actions are not only exacerbating existing global crises but are also undermining prospects for a just and peaceful future. The majority view among analysts is that this approach reflects a broader trend of power politics supplanting international law, a phenomenon that has accelerated with the rise of far-right and nationalist movements.
+  The most recent developments center on the aftermath of Israeli and US attacks on Iran, which have intensified fears of a broader regional war. **Richard Falk** notes that these hostilities are already impacting civilian infrastructure, international travel, and energy markets, raising concerns about the stability of global supply chains and the vulnerability of critical systems. The upcoming "Humanity on the Brink" webinar, scheduled for March 15, is expected to provide further analysis and public engagement on these urgent issues, reflecting the heightened anxiety within expert and policymaking circles.
   
-  In parallel, the exposure of elite criminal networks, as revealed in the Epstein case, continues to cast a shadow over global governance. **Richard Falk** points out that these networks operate with impunity, evading both legal and moral accountability, and their existence underscores the erosion of trust in international institutions.
+  In parallel, the legitimacy of emerging conflict resolution mechanisms is under scrutiny. The Trump administration's proposal for an independent peace council for Gaza, bypassing established UN frameworks, has been criticized by **Richard Falk** as "illegitimate and detrimental to international law and the rights of the Palestinian people." This move is seen as symptomatic of a broader trend: the marginalization of international law in favor of unilateral power politics, a pattern that has accelerated with the resurgence of far-right and nationalist movements globally.
   
-  Looking ahead, the upcoming webinar is expected to provide critical insights into the potential trajectories of the Middle East crisis. There is a high chance that the conflict will further destabilize the region and strain the international legal order. As **Falk** puts it, "the marginalization of international law in global politics" is now a defining feature of the current era.
+  Additionally, the recent US military operation in Venezuela is interpreted by analysts as further evidence of what **Richard Falk** describes as "nihilistic geopolitics." Such actions, he argues, undermine the United Nations' capacity to maintain global security and erode the foundations of the post-1945 international order.
   
-  **Prediction:** There is high confidence that unless there is a significant shift in US and Israeli policy, the violence in the Middle East will intensify, with global repercussions for security and the rule of law. The erosion of international norms is likely to continue, making the search for peaceful solutions increasingly difficult.
+  **Trends and Predictions:**  
+  The majority view among analysts is that the current trajectory—marked by escalating violence in the Middle East, the sidelining of international legal norms, and the proliferation of ad hoc conflict resolution bodies—signals a high likelihood of further instability. There is a high chance that energy markets and civilian infrastructure will continue to face disruptions, and that international law will remain under pressure from nationalist and unilateralist agendas. Most definitely, these developments will keep fueling debates about the future of world order and the adequacy of existing global governance structures.
 articles:
+  - title: 'The Global Crisis Facing Humanity: Diverse Views'
+    url: https://richardfalk.org/2026/03/11/the-global-crisis-facing-humanity-diverse-views/
+    text: 'Conversation opened. 1 unread message. Skip to content Using University of
+      California, Santa Barbara Mail with screen readers Top of Form Bottom of Form
+      1 of 171,541 WEBINAR External Inbox International Movement for a JUST World <justorg@just-international.org>
+      Unsubscribe 8:30 PM (17 minutes ago) to falk ­   ­ Humanity on the Brink: A Global
+      Conversation The rapidly escalating conflict involving Israel, the United States
+      and Iran is raising fears of a wider regional war with global consequences. Civilian
+      infrastructure has been struck, neighbouring countries are increasingly affected,
+      international air travel has been disrupted, and global energy markets are reacting
+      to the uncertainty. Is this the continuation of decades of geopolitical hostility?
+      Is it part of a struggle to maintain global supremacy? Or does it reflect the
+      emergence of a new world order shaped by the rise of China and the resurgence
+      of Russia? To explore these urgent questions, SHAPE (Serving Humanity and Planet
+      Earth) and JUST – International Movement for a Just World invite you to a global
+      webinar featuring leading public intellectuals: • Professor Richard Falk • Professor
+      Joseph Camilleri • Dr Chandra Muzaffar Respondent: Helena Cobban Their presentations
+      will be followed by an open Q&A with participants from around the world . Sunday,
+      15 March 2026 Global Time Zones Los Angeles – 6:30 AM New York – 9:30 AM London
+      – 1:30 PM Cairo – 3:30 PM Tehran – 5:00 PM New Delhi – 7:00 PM Jakarta – 8:30
+      PM Kuala Lumpur – 9:30 PM Tokyo – 10:30 PM Melbourne – 12:30 AM (Monday) Register
+      via the QR code in the poster Join scholars, analysts and concerned citizens from
+      across the world for this timely discussion. Register here. (Zoom meeting) ­  
+      ­ ­ ­ ­ This email was sent to falk@global.ucsb.edu You received this email because
+      you are registered with International Movement for a Just World Unsubscribe here
+      © 2024 International Movement for a Just World'
+    one_sentence_summary: The escalating conflict involving Israel, the U.S., and Iran
+      raises concerns about a broader regional war with significant global implications,
+      affecting civilian infrastructure, international travel, and energy markets, while
+      prompting discussions about geopolitical dynamics and the emergence of a new world
+      order.
+    paragraph_summary: 'The article announces a global webinar titled "Humanity on the
+      Brink: A Global Conversation," organized by SHAPE and the International Movement
+      for a Just World, focusing on the escalating conflict involving Israel, the United
+      States, and Iran, which raises concerns about a potential wider regional war and
+      its global implications. The discussion will feature prominent public intellectuals,
+      including Professors Richard Falk and Joseph Camilleri, and Dr. Chandra Muzaffar,
+      with a respondent, Helena Cobban. The event aims to address critical questions
+      regarding geopolitical tensions, global supremacy, and the influence of rising
+      powers like China and Russia. The webinar is scheduled for March 15, 2026, and
+      invites participants from around the world to engage in a Q&A session following
+      the presentations.'
+    published: '2026-03-12T03:55:53+00:00'
+  - title: 'The Global Crisis Facing Humanity: Diverse Views'
+    url: https://richardfalk.org/2026/03/11/the-global-crisis-facing-humanity-diverse-views/
+    text: 'Conversation opened. 1 unread message. Skip to content Using University of
+      California, Santa Barbara Mail with screen readers Top of Form Bottom of Form
+      1 of 171,541 WEBINAR External Inbox International Movement for a JUST World <justorg@just-international.org>
+      Unsubscribe 8:30 PM (17 minutes ago) to falk ­   ­ Humanity on the Brink: A Global
+      Conversation The rapidly escalating conflict involving Israel, the United States
+      and Iran is raising fears of a wider regional war with global consequences. Civilian
+      infrastructure has been struck, neighbouring countries are increasingly affected,
+      international air travel has been disrupted, and global energy markets are reacting
+      to the uncertainty. Is this the continuation of decades of geopolitical hostility?
+      Is it part of a struggle to maintain global supremacy? Or does it reflect the
+      emergence of a new world order shaped by the rise of China and the resurgence
+      of Russia? To explore these urgent questions, SHAPE (Serving Humanity and Planet
+      Earth) and JUST – International Movement for a Just World invite you to a global
+      webinar featuring leading public intellectuals: • Professor Richard Falk • Professor
+      Joseph Camilleri • Dr Chandra Muzaffar Respondent: Helena Cobban Their presentations
+      will be followed by an open Q&A with participants from around the world . Sunday,
+      15 March 2026 Global Time Zones Los Angeles – 6:30 AM New York – 9:30 AM London
+      – 1:30 PM Cairo – 3:30 PM Tehran – 5:00 PM New Delhi – 7:00 PM Jakarta – 8:30
+      PM Kuala Lumpur – 9:30 PM Tokyo – 10:30 PM Melbourne – 12:30 AM (Monday) Register
+      via the QR code in the poster Join scholars, analysts and concerned citizens from
+      across the world for this timely discussion. Register here. (Zoom meeting) ­  
+      ­ ­ ­ ­ This email was sent to falk@global.ucsb.edu You received this email because
+      you are registered with International Movement for a Just World Unsubscribe here
+      © 2024 International Movement for a Just World'
+    one_sentence_summary: The escalating conflict involving Israel, the U.S., and Iran
+      raises concerns about a broader regional war with significant global implications,
+      affecting civilian infrastructure, international travel, and energy markets, while
+      prompting discussions about geopolitical dynamics and the emergence of a new world
+      order.
+    paragraph_summary: 'The article announces a global webinar titled "Humanity on the
+      Brink: A Global Conversation," organized by SHAPE and the International Movement
+      for a Just World, focusing on the escalating conflict involving Israel, the United
+      States, and Iran, which raises concerns about a potential wider regional war and
+      its global implications. The discussion will feature prominent public intellectuals,
+      including Professors Richard Falk and Joseph Camilleri, and Dr. Chandra Muzaffar,
+      with a respondent, Helena Cobban. The event aims to address critical questions
+      regarding geopolitical tensions, global supremacy, and the influence of rising
+      powers like China and Russia. The webinar is scheduled for March 15, 2026, and
+      invites participants from around the world to engage in a Q&A session following
+      the presentations.'
+    published: '2026-03-12T03:55:53+00:00'
   - title: Humanity at the Brink, Program, Sunday March 15, 2026
     url: https://richardfalk.org/2026/03/09/5108/
     text: 'Humanity on the Brink -PROGRAM, March 15, 2026 War and Upheaval in the Middle

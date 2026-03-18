@@ -7,17 +7,46 @@ description: "Retired US diplomat and China/Middle East expert; realist voice on
 websites:
   - https://chasfreeman.net
 summary: |
-  The global geopolitical landscape continues to be shaped by escalating crises and shifting power dynamics, with recent developments underscoring the urgency for diplomatic recalibration. The ongoing attack on Venezuela has emerged as a focal point of international concern, while the broader context of Sino-American rivalry and the enduring instability in Ukraine reflect deeper systemic transformations.
+  As the international order continues its transformation in early 2026, several key geopolitical developments are shaping the global landscape. The most pressing issues remain the aftermath of the attack on Venezuela, the ongoing recalibration of U.S.-China relations, and the persistent instability in Europe driven by the unresolved Ukraine conflict.
   
-  The attack on Venezuela, as highlighted by **Chas W. Freeman, Jr.**, is rapidly evolving into a crisis with "far-reaching consequences." Freeman underscores the gravity of the situation, referencing German President Frank-Walter Steinmeier's warning about the potential for tragedy if the conflict is not addressed proactively. The consensus among analysts is that the risks of regional destabilization and humanitarian disaster are high, and that international cooperation is essential to prevent further deterioration. The call for urgent, coordinated action reflects a growing recognition that unilateral measures are insufficient to manage the crisis.
+  The attack on Venezuela has heightened anxieties across the Western Hemisphere. **Chas W. Freeman, Jr.** underscores the urgency of addressing the strategic implications, warning that “failure to respond adequately risks a looming tragedy.” This sentiment echoes recent concerns voiced by German President Frank-Walter Steinmeier, who has called for coordinated international action to prevent further destabilization in the region. The consensus among analysts is that unless diplomatic efforts are redoubled, the situation could spiral into a broader regional crisis. There is a high chance that external actors will intensify their involvement, with the risk of escalation remaining significant.
   
-  Meanwhile, the resurgence of China as a global power continues to reshape international relations. In his recent remarks, **Freeman** stresses that "the dynamics of change often reveal the ambitions of those who stand to gain from it," pointing to China's successful return to wealth and influence. He argues that the U.S. and its allies must carefully consider their response to China's rise, as it will "most definitely" shape the future of global stability. The prevailing view is that the current U.S. approach—marked by protectionism and military posturing—risks further empowering China and alienating traditional partners.
+  Turning to the global balance of power, the resurgence of China continues to challenge U.S. primacy. In his remarks at Brown University, **Chas W. Freeman, Jr.** observes that “China’s resurgence to wealth highlights the ambitions of those who benefit from global changes,” and urges the United States to reconsider its approach. The prevailing view is that Washington’s current policies—marked by ideological rigidity and insufficient engagement—are undermining its own competitiveness. There is a high chance that, absent a strategic shift, the U.S. will continue to lose influence in key regions, particularly as China forges stronger economic and diplomatic ties worldwide.
   
-  In Europe, the war in Ukraine persists as a symbol of the West's struggle to adapt to new realities. **Freeman** critiques the ongoing conflict as a "forever war" that has failed to achieve its strategic objectives, instead devastating Ukraine and leaving Russia largely unscathed. He warns that without a realistic peace plan that addresses Russia's security concerns, the conflict will continue to erode regional stability. The majority opinion is that a reassessment of Western strategy is overdue, with a high chance that continued exclusion of Russia from security discussions will prolong the crisis.
+  Meanwhile, the war in Ukraine persists with no end in sight. **Chas W. Freeman, Jr.** notes that “the ongoing war in Ukraine has not weakened Russia but has devastated Ukraine and highlighted the West’s lack of a realistic peace strategy.” The majority opinion among analysts is that the West’s refusal to address Russian security concerns has entrenched the conflict, making a negotiated settlement increasingly elusive. The risk of further escalation, including direct confrontation between NATO and Russia, remains a serious concern.
   
-  **Trends and Predictions:**  
-  The dominant trend is a move toward a more fragmented and multipolar world order, with traditional Western dominance increasingly challenged by rising powers and unresolved conflicts. There is a high chance that failure to adapt diplomatic strategies—particularly regarding Venezuela, China, and Ukraine—will result in further instability and diminished Western influence. As **Freeman** notes, "international cooperation and a reevaluation of grand strategy are essential" to navigate this pivotal moment. Without such shifts, the risks of prolonged conflict and systemic disorder remain significant.
+  In summary, the trends point toward a more fragmented and unstable international system. The U.S. faces mounting challenges to its global leadership, both from rising powers like China and from unresolved regional crises. Unless there is a marked shift toward diplomatic engagement and pragmatic policy adjustments, I guarantee that the coming months will see continued volatility and the erosion of established norms in international relations.
 articles:
+  - title: Robert Parke Freeman
+    url: https://chasfreeman.net/robert-parke-freeman/
+    text: Introductory Remarks to a Gathering at Balancing Rock, Bristol, Rhode Island
+      Chas W. Freeman, Jr,  October 18, 2025 My brother, Robert, lived for eighty years
+      – about fifteen years longer than our sister, Hope.  I miss her and I miss him. 
+      Others here will have a lot to say about …
+    one_sentence_summary: Chas W. Freeman, Jr. reflects on the lives of his late siblings,
+      Robert and Hope, during a gathering at Balancing Rock in Bristol, Rhode Island.
+    paragraph_summary: In his introductory remarks at a gathering at Balancing Rock
+      in Bristol, Rhode Island, Chas W. Freeman, Jr. reflects on the lives of his late
+      siblings, Robert and Hope, highlighting the emotional impact of their absence.
+      He acknowledges the significance of their memories and expresses his personal
+      sense of loss, while also indicating that others present will share their thoughts
+      and experiences related to the occasion.
+    published: '2026-03-16T19:57:28+00:00'
+  - title: Robert Parke Freeman
+    url: https://chasfreeman.net/robert-parke-freeman/
+    text: Introductory Remarks to a Gathering at Balancing Rock, Bristol, Rhode Island
+      Chas W. Freeman, Jr,  October 18, 2025 My brother, Robert, lived for eighty years
+      – about fifteen years longer than our sister, Hope.  I miss her and I miss him. 
+      Others here will have a lot to say about …
+    one_sentence_summary: Chas W. Freeman, Jr. reflects on the lives of his late siblings,
+      Robert and Hope, during a gathering at Balancing Rock in Bristol, Rhode Island.
+    paragraph_summary: In his introductory remarks at a gathering at Balancing Rock
+      in Bristol, Rhode Island, Chas W. Freeman, Jr. reflects on the lives of his late
+      siblings, Robert and Hope, highlighting the emotional impact of their absence.
+      He acknowledges the significance of their memories and expresses his personal
+      sense of loss, while also indicating that others present will share their thoughts
+      and experiences related to the occasion.
+    published: '2026-03-16T19:57:28+00:00'
   - title: The Strategic Implications of the Attack on Venezuela
     url: https://chasfreeman.net/the-strategic-implications-of-the-attack-on-venezuela/
     text: Remarks to an Emergency Roundtable  on The Strategic Implications of the Attack
