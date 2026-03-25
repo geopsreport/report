@@ -7,21 +7,188 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  Tensions in global geopolitics continue to escalate, with new developments in both the Middle East and Europe signaling a period of increased uncertainty and shifting alliances.
+  Amid ongoing instability in US-Iran relations and persistent fractures within the European Union, recent developments signal a shifting geopolitical landscape. The most significant new information centers on President Trump’s abrupt change in posture toward Iran and the continued divergence among European leaders regarding Russia policy.
   
-  The most recent and notable shift comes from the European Union, where **Gilbert Doctorow** highlights Belgium’s Prime Minister Alexander De Wever’s decision to veto the European Commission’s proposal to confiscate Russian assets for a loan to Ukraine. This move, described as both courageous and independent, forced the EU to abandon its initial plan and seek alternatives. According to Doctorow, this is a rare instance of a European leader defying the prevailing consensus, and it may embolden other leaders to challenge the bloc’s dominant narrative. The majority opinion across sources is that De Wever’s stance could mark the beginning of more open dissent within the EU, especially regarding Ukraine policy and relations with Russia.
+  The latest reports, including a detailed analysis by **Gilbert Doctorow**, highlight President Trump’s recent announcement of “productive talks” with Iran and his decision to suspend threats of military action. However, **Doctorow** interprets this as a “white flag”—a de facto surrender masked as negotiation—especially given Iran’s public denial that any such talks have occurred. This contradiction, coupled with the absence of concrete diplomatic progress, suggests a weakening US position in the region. According to **Doctorow**, “the suspension of threats is not a diplomatic breakthrough but an admission of limits,” reflecting growing US isolation in the Gulf.
   
-  Meanwhile, in the Middle East, the U.S. initiative to form a naval coalition in the Straits of Hormuz under Donald Trump’s leadership has met with growing skepticism, even among traditionally pro-American voices. In a recent debate on Republic TV, **Gilbert Doctorow** observed a “significant shift” in the panel’s attitude, noting that criticism of U.S. actions against Iran is now more mainstream. This reflects a broader trend of diminishing support for unilateral American military initiatives, particularly as the moral and human costs come under increased scrutiny.
+  Meanwhile, intra-European tensions remain high. Belgium’s Prime Minister Alexander De Wever’s recent veto of the European Commission’s plan to confiscate Russian assets for Ukraine has forced the EU to seek alternative solutions. **Doctorow** notes that De Wever’s stand demonstrates a rare independence among EU leaders, further complicating consensus on Russia policy. This move is emblematic of broader European disunity, with some leaders pushing for escalation while others resist further confrontation with Moscow.
   
-  On the global stage, skepticism remains high regarding the effectiveness of multilateral organizations like BRICS in challenging U.S. dominance. As Doctorow stated in a recent Press TV interview, “Iran and Russia are the only countries actively challenging American global dominance,” while the Global South lacks the military power to effect real change. This assessment is widely shared among independent analysts, suggesting that, despite diplomatic efforts, the balance of power remains firmly in Washington’s favor for now.
+  On the Russia-Ukraine front, there is little new operational information, but **Doctorow**’s ongoing commentary with Professor Glenn Diesen continues to emphasize the importance of firsthand perspectives from Russia, especially as Western media presence remains limited. This lack of Western reporting, he argues, is contributing to a distorted understanding of the conflict’s realities and Russia’s strategic calculations.
   
-  **Trends and Predictions:**  
-  - There is a high chance of further fragmentation within the EU as more leaders may follow De Wever’s example and resist policies perceived as detrimental to national interests or overly confrontational toward Russia.
-  - The U.S. is most definitely facing growing international isolation in its approach to Iran, with even erstwhile allies questioning the wisdom and morality of military escalation.
-  - The current geopolitical climate points to a period of uncertainty, with established alliances under strain and new blocs struggling to assert meaningful influence.
-  
-  In summary, the latest developments indicate a world order in flux, with both Europe and the Middle East experiencing shifts that could have lasting consequences for global stability.
+  Looking ahead, the trends point toward continued US retrenchment in the Middle East and persistent EU fragmentation over Russia policy. Based on the majority of recent analyses, there is a high chance that the US will further limit its military engagement with Iran, while the EU’s internal divisions will prevent any unified approach to Russia in the near term. As **Doctorow** concludes, “the present trajectory guarantees more uncertainty and a further erosion of Western leverage, both in the Gulf and on the European continent.”
 articles:
+  - title: Conversation with Professor Glenn Diesen, 24 March
+    url: https://gilbertdoctorow.com/2026/03/24/conversation-with-professor-glenn-diesen-24-march/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      reports from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the Russian expatriate community in the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand observations during visits to St. Petersburg when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a seasoned Russia analyst and
+      a professional career in business and literature, Doctorow brings a wealth of
+      knowledge and insight to his writings, further enriched by his academic credentials
+      and leadership roles in literary circles.
+    published: '2026-03-24T17:09:37+00:00'
+  - title: Breaking News:  Trump raises the white flag, surrenders to Iran
+    url: https://gilbertdoctorow.com/2026/03/23/breaking-news-trump-raises-the-white-flag-surrenders-to-iran/
+    text: Do not be put off by the several minutes at the start of this podcast without
+      video image only sound. The producers were obviously in a great hurry to prepare
+      the podcast for uploading on the internet and sacrificed a bit of visuals. Be
+      assured that I am speaking from the very start. My nearly 20 minute long interview
+      with News X World this morning was prompted by the breaking news coming from Trump
+      – that, in his words, the latest productive talks with Iran have shown that a
+      deal may be possible and accordingly he has suspended for 5 days his most recent
+      threats of ‘obliterating’ Iranian power generating plants if they do not open
+      the Straits of Hormuz to normal tanker traffic within 48 hours.  Meanwhile, the
+      Iranians deny that any talks have taken place with the United States. What are
+      we to make of this?  As I say in the interview, I believe this is a surrender
+      by Trump which he tries to mask in the language of successfully negotiating a
+      deal, suggesting that he remains in control of the situation even when he does
+      not. Of course, with Trump you never know what is real and what is illusion. 
+      It is also possible that he is just buying time until more US forces arrive in
+      the region and he can proceed with his attack on Iran, saying then that the negotiations
+      failed. Nonetheless, I stick with my interpretation of a surrender. If Trump declares
+      that U.S. objectives of degrading Iranian defenses worked and there is no longer
+      a threat of their building a bomb or continuing production of their missiles then,
+      logically, he can accede to the most important concession which Iran is demanding
+      of the US today, namely that the more than decade long economic sanctions be lifted.
+      This would provide the country with a big inflow of export earnings, all the more
+      so that their strikes on neighboring Gulf States and their restriction of tanker
+      flows through the Straits of Hormuz have significantly raised the price levels
+      and demand for their hydrocarbons. Thus, Iran could earn its own ‘reparations’.
+      Quite exceptionally, the News X World host asked for my advice to investors and
+      I offered my thoughts on gold, stocks and Certificates of Deposit under present
+      volatile conditions.  I can foresee numerous comments from readers on that issue.
+    one_sentence_summary: In a nearly 20-minute interview, the speaker discusses President
+      Trump's claims of productive talks with Iran and his temporary suspension of threats
+      against the country, interpreting this as a sign of surrender masked as negotiation,
+      while Iran denies any discussions took place.
+    paragraph_summary: In a recent podcast interview, the speaker discusses President
+      Trump's announcement regarding potential negotiations with Iran, which he claims
+      could lead to a deal, prompting him to temporarily suspend threats against Iranian
+      power plants. However, the Iranian government denies any such talks have occurred.
+      The speaker interprets Trump's actions as a form of surrender, suggesting that
+      he is attempting to present a façade of control while actually conceding to Iran's
+      demands, particularly regarding the lifting of long-standing economic sanctions.
+      This lifting could significantly benefit Iran's economy, especially given the
+      recent increases in oil prices due to regional tensions. The speaker also raises
+      the possibility that Trump may be stalling for time to bolster U.S. military presence
+      in the region before potentially escalating the situation further.
+    published: '2026-03-23T14:40:38+00:00'
+  - title: Breaking News:  Trump raises the white flag, surrenders to Iran
+    url: https://gilbertdoctorow.com/2026/03/23/breaking-news-trump-raises-the-white-flag-surrenders-to-iran/
+    text: Do not be put off by the several minutes at the start of this podcast without
+      video image only sound. The producers were obviously in a great hurry to prepare
+      the podcast for uploading on the internet and sacrificed a bit of visuals. Be
+      assured that I am speaking from the very start. My nearly 20 minute long interview
+      with News X World this morning was prompted by the breaking news coming from Trump
+      – that, in his words, the latest productive talks with Iran have shown that a
+      deal may be possible and accordingly he has suspended for 5 days his most recent
+      threats of ‘obliterating’ Iranian power generating plants if they do not open
+      the Straits of Hormuz to normal tanker traffic within 48 hours.  Meanwhile, the
+      Iranians deny that any talks have taken place with the United States. What are
+      we to make of this?  As I say in the interview, I believe this is a surrender
+      by Trump which he tries to mask in the language of successfully negotiating a
+      deal, suggesting that he remains in control of the situation even when he does
+      not. Of course, with Trump you never know what is real and what is illusion. 
+      It is also possible that he is just buying time until more US forces arrive in
+      the region and he can proceed with his attack on Iran, saying then that the negotiations
+      failed. Nonetheless, I stick with my interpretation of a surrender. If Trump declares
+      that U.S. objectives of degrading Iranian defenses worked and there is no longer
+      a threat of their building a bomb or continuing production of their missiles then,
+      logically, he can accede to the most important concession which Iran is demanding
+      of the US today, namely that the more than decade long economic sanctions be lifted.
+      This would provide the country with a big inflow of export earnings, all the more
+      so that their strikes on neighboring Gulf States and their restriction of tanker
+      flows through the Straits of Hormuz have significantly raised the price levels
+      and demand for their hydrocarbons. Thus, Iran could earn its own ‘reparations’.
+      Quite exceptionally, the News X World host asked for my advice to investors and
+      I offered my thoughts on gold, stocks and Certificates of Deposit under present
+      volatile conditions.  I can foresee numerous comments from readers on that issue.
+    one_sentence_summary: In a nearly 20-minute interview, the speaker discusses President
+      Trump's claims of productive talks with Iran and his temporary suspension of threats
+      against the country, interpreting this as a sign of surrender masked as negotiation,
+      while Iran denies any discussions took place.
+    paragraph_summary: In a recent podcast interview, the speaker discusses President
+      Trump's announcement regarding potential negotiations with Iran, which he claims
+      could lead to a deal, prompting him to temporarily suspend threats against Iranian
+      power plants. However, the Iranian government denies any such talks have occurred.
+      The speaker interprets Trump's actions as a form of surrender, suggesting that
+      he is attempting to present a façade of control while actually conceding to Iran's
+      demands, particularly regarding the lifting of long-standing economic sanctions.
+      This lifting could significantly benefit Iran's economy, especially given the
+      recent increases in oil prices due to regional tensions. The speaker also raises
+      the possibility that Trump may be stalling for time to bolster U.S. military presence
+      in the region before potentially escalating the situation further.
+    published: '2026-03-23T14:40:38+00:00'
+  - title: '‘Judging Freedom’ edition of 18 March 2026: How Trump’s War Affects Russia
+      and China'
+    url: https://gilbertdoctorow.com/2026/03/18/judging-freedom-edition-of-18-march-2026-how-trumps-war-affects-russia-and-china/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work, "Memoirs of a Russianist," which reflects on his extensive experience
+      and insights into Russian affairs.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand observations during visits to St. Petersburg when Western journalists
+      were largely absent due to visa restrictions. This work complements his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. A seasoned expert on Russian affairs since 1965, Doctorow
+      holds degrees from Harvard and Columbia and has a diverse background in business
+      and academia, including leadership roles in literary and scholarly institutions.
+      He currently resides in Brussels.
+    published: '2026-03-18T13:39:04+00:00'
   - title: 'Republic TV (India): Debate with Arnab – Trump Isolated on Hormuz Coalition'
     url: https://gilbertdoctorow.com/2026/03/16/republic-tv-india-debate-with-arnab-trump-isolated-on-hormuz-coalition/
     text: I was surprised and pleased to be invited onto the panel of debaters from

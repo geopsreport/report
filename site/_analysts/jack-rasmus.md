@@ -7,28 +7,796 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As of March 18, 2026, the global geopolitical and economic landscape remains highly volatile, with the United States at the center of several unfolding crises. The Trump administration’s recent actions and rhetoric continue to shape both domestic and international dynamics, while underlying economic fragilities are becoming increasingly difficult to obscure.
+  The global geopolitical landscape remains highly volatile as the Iran war continues to escalate, driving significant economic and strategic consequences. The latest developments, as analyzed by **Jack Rasmus**, show that Israel’s recent attacks on Iranian gas fields have provoked direct Iranian retaliation against Gulf states, deepening the conflict and amplifying its impact on global markets.
   
-  **Economic Instability and Market Bubbles**
+  The immediate effect has been a dramatic surge in crude oil and natural gas prices, which is now feeding into a broader economic crisis. Global stock markets are experiencing marked declines, and central banks are under increasing pressure to respond to inflationary shocks and supply chain disruptions. **Jack Rasmus** notes that “the economic crisis is rapidly escalating,” with food supply chains also coming under strain due to higher energy costs.
   
-  The most pressing development is the deepening concern over financial market instability. According to **Jack Rasmus**, “financial asset market bubbles have reached unprecedented levels but experienced significant contractions in early February 2026, raising concerns about the sustainability of these bubbles and the potential for a financial crash in the near future.” This contraction is not limited to equities but spans cryptocurrencies and precious metals, indicating systemic risk. The Federal Reserve’s anticipated lowering of short-term interest rates, as discussed by **Rasmus**, is seen as a reaction to these pressures but may further undermine the US dollar’s value and global standing.
+  The war’s economic repercussions are not limited to energy markets. Rising inflation, driven by oil price shocks, is forcing central banks—especially in the US and Europe—to consider further interest rate hikes, despite the risk of stalling already fragile economic recoveries. According to **Jack Rasmus**, these developments are “most definitely” setting the stage for a severe downturn in both the US and global economies.
   
-  **Political Theater and Economic Misrepresentation**
+  Financial markets, already vulnerable from previous asset bubbles, are now facing renewed contractions. The risk of a broader financial crisis is increasing, with **Jack Rasmus** warning that “there is a high chance” of a significant market implosion if current trends persist.
   
-  Domestically, President Trump’s 2026 State of the Union address has drawn sharp criticism for what analysts describe as “economic obfuscation and political theatrics.” **Jack Rasmus** notes that the speech was “historically lengthy but filled with economic misrepresentations,” particularly regarding inflation, tax cuts, and job creation. The administration’s narrative of economic strength is increasingly at odds with independent data, which points to stagnant job growth and persistent inflation.
-  
-  **Geopolitical Shifts and US Foreign Policy**
-  
-  On the international front, the US is shifting its strategic focus. While the Ukraine conflict remains unresolved, with little progress toward a negotiated settlement, the Trump administration is redirecting attention toward Latin America and the western Pacific. **Rasmus** highlights this as a move to “assert influence and counter threats in the region,” signaling a recalibration of US priorities away from Europe.
-  
-  **Authoritarian Trends in US Governance**
-  
-  A notable and concerning trend is the administration’s increasing disregard for constitutional norms. On January 12, President Trump declared his intention to personally dictate all US war and policy decisions, a move that **Rasmus** and other critics argue “signifies a shift towards tyranny in the country.” This centralization of power has profound implications for US democracy and its global image.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, there is a high chance—if not a guarantee—of continued financial volatility, with a potential market implosion by 2026 or 2027. The US dollar is likely to face further devaluation, especially if the Federal Reserve proceeds with rate cuts. Politically, the administration’s authoritarian drift and focus on hemispheric dominance are set to intensify, with little expectation of a negotiated peace in Ukraine or a reversal of domestic power consolidation. The majority of independent analysts agree: the coming months will most definitely be marked by heightened economic risk and geopolitical uncertainty.
+  Looking ahead, the majority view among analysts is that the Iran conflict will continue to drive instability in energy markets and global finance. Unless there is a rapid de-escalation, the world economy is likely to face sustained inflation, market volatility, and potential recession. The confidence level in these predictions is high, with **Jack Rasmus** stating, “I guarantee” that the economic fallout from the Iran war will be severe and prolonged if current dynamics remain unchanged.
 articles:
+  - title: 'How Oil Price Shock Is Undermining the Global Economy: An Update'
+    url: https://jackrasmus.com/2026/03/21/how-oil-price-shock-is-undermining-the-global-economy-an-update/
+    text: 'Two days ago I wrote an extended article, ‘Some Economic Consequences of
+      the Iran War’ now posted on my blog, http://jackrasmus.com . It addressed ten
+      areas of economic impact on the US and global economies. Now that Israel has just
+      expanded the war by attacking Iran’s gas fields–and Iran has responded by counter-attacking
+      UAE, Qatar and Saudi Arabia fields–the economic crisis from now further escalating
+      crude and gas oil prices is now accelerating faster. Its impact on global stock
+      markets, central bank interest rate hikes, currencies (including the $US) and
+      global food supply is intensifying. Here are some of the indicators now beginning
+      to worsen as the Iran war concludes its fourth week today, March 21: Brent benchmark
+      crude oil hit $112 at the start of the day, March 21, the highest since 2022.
+      Natgas prices in Europe surged 35% in one day. The oil shock is now hitting US
+      and global stock markets harder. The S&P 500 is down for the 4th week in a row,
+      as are Europe and other markets. Only the S&P energy index is up. Without that,
+      the S&P would be collapsing. After rising due to investors seeking a safety haven,
+      the US dollar is now falling once again, down 0.9% this past week (after having
+      fallen 10.2% in 2025. The declining dollar will contribute separately from oil
+      prices to rising grain and commodity prices in general. A falling dollar will
+      accelerate the global shift away from the US dollar as global reserve currency.
+      The US central bank, the Federal Reserve, stopped cutting rates this week and
+      will now move to raising its policy (short term) rate if the war continues. Long
+      term interest rates have begun to rise in the interim. The 10 yr. US Treasury
+      bond rate is up for the third week in a row to 4.4%. The 2 yr note up to 3.9%.
+      And US mortgage rates are rising sharply once again toward the 7% range. Other
+      central banks–Bank of England, European Central Bank, etc.–are raising rates as
+      well. The Bank of England’s bond rate is now 5%. Europe economies, now stagnating
+      or experiencing mild recession, will enter general recession as result of record
+      energy prices and rising interest rates. The IAEA announces the current global
+      energy crisis is now worse than that of 1973, impacting today now only oil and
+      gas, but chemicals, pharmaceuticals, plastics and urea fertilizer prices world
+      wide. Fuel rationing has already begun in several Asian countries. China has stopped
+      exporting any energy products. Jet fuel cost is rising and airline prices are
+      doubling and airlines cutting out more scheduled flights. Gasoline prices in the
+      US are up $1 a gallon on average. Fertilizer prices have risen 40% and Asian fertilizer
+      factories are shutting down. The UN says two more weeks of war and global food
+      supplies become critical for grains, meat, dairy products and spring plantings.
+      Meanwhile, it appears US plans for an invasion of Iran (boots on the ground) are
+      growing more likely, as US ships with 5 to 7,000 Marines approach the Iranian
+      gulf coast. And Israel simultaneously releases indirect threats it my use a tactical
+      nuclear weapon on Iran should Iran’s missiles continue to damage Israel airfields,
+      Haifa oil refinery, and critical Israeli infrastructure as that country’s ‘Iron
+      Dome’ missile defense system continues to fail. These intensifying and escalating
+      likely actions will accelerate the oil price shock and its economic impacts in
+      the next several weeks. Business sources predict global crude oil prices will
+      exceed $180 a barrel. At that price, global and US recession is inevitable. For
+      my recent March 20, 2026 TV interview on these and related political topics, watch
+      at: https://disk.360.yandex.ru/i/Ef6BILjvKLV5Pw Dr. Jack Rasmus March 21, 2026'
+    one_sentence_summary: The ongoing Iran war, now intensified by Israel's attacks
+      on Iranian gas fields and Iran's retaliation against Gulf states, is rapidly escalating
+      an economic crisis characterized by soaring crude oil and natural gas prices,
+      declining global stock markets, and increased pressure on central banks and food
+      supply chains.
+    paragraph_summary: In a recent article, the author discusses the escalating economic
+      consequences of the ongoing Iran war, particularly following Israel's attacks
+      on Iran's gas fields and Iran's retaliatory strikes on UAE, Qatar, and Saudi Arabia.
+      This conflict has led to a significant surge in crude oil and natural gas prices,
+      with Brent crude hitting $112 and European natural gas prices soaring by 35% in
+      a single day. The escalating oil crisis is negatively impacting global stock markets,
+      with the S&P 500 declining for four consecutive weeks, while only the energy sector
+      shows gains. Additionally, the US dollar is weakening, contributing to rising
+      grain and commodity prices and potentially diminishing its status as the global
+      reserve currency. The Federal Reserve has halted rate cuts and is poised to raise
+      interest rates if the war persists, leading to an increase in long-term interest
+      rates and mortgage rates. Other central banks are also responding by raising their
+      rates, indicating a broader economic impact across Europe and beyond.
+    published: '2026-03-21T18:10:47+00:00'
+  - title: 'How Oil Price Shock Is Undermining the Global Economy: An Update'
+    url: https://jackrasmus.com/2026/03/21/how-oil-price-shock-is-undermining-the-global-economy-an-update/
+    text: 'Two days ago I wrote an extended article, ‘Some Economic Consequences of
+      the Iran War’ now posted on my blog, http://jackrasmus.com . It addressed ten
+      areas of economic impact on the US and global economies. Now that Israel has just
+      expanded the war by attacking Iran’s gas fields–and Iran has responded by counter-attacking
+      UAE, Qatar and Saudi Arabia fields–the economic crisis from now further escalating
+      crude and gas oil prices is now accelerating faster. Its impact on global stock
+      markets, central bank interest rate hikes, currencies (including the $US) and
+      global food supply is intensifying. Here are some of the indicators now beginning
+      to worsen as the Iran war concludes its fourth week today, March 21: Brent benchmark
+      crude oil hit $112 at the start of the day, March 21, the highest since 2022.
+      Natgas prices in Europe surged 35% in one day. The oil shock is now hitting US
+      and global stock markets harder. The S&P 500 is down for the 4th week in a row,
+      as are Europe and other markets. Only the S&P energy index is up. Without that,
+      the S&P would be collapsing. After rising due to investors seeking a safety haven,
+      the US dollar is now falling once again, down 0.9% this past week (after having
+      fallen 10.2% in 2025. The declining dollar will contribute separately from oil
+      prices to rising grain and commodity prices in general. A falling dollar will
+      accelerate the global shift away from the US dollar as global reserve currency.
+      The US central bank, the Federal Reserve, stopped cutting rates this week and
+      will now move to raising its policy (short term) rate if the war continues. Long
+      term interest rates have begun to rise in the interim. The 10 yr. US Treasury
+      bond rate is up for the third week in a row to 4.4%. The 2 yr note up to 3.9%.
+      And US mortgage rates are rising sharply once again toward the 7% range. Other
+      central banks–Bank of England, European Central Bank, etc.–are raising rates as
+      well. The Bank of England’s bond rate is now 5%. Europe economies, now stagnating
+      or experiencing mild recession, will enter general recession as result of record
+      energy prices and rising interest rates. The IAEA announces the current global
+      energy crisis is now worse than that of 1973, impacting today now only oil and
+      gas, but chemicals, pharmaceuticals, plastics and urea fertilizer prices world
+      wide. Fuel rationing has already begun in several Asian countries. China has stopped
+      exporting any energy products. Jet fuel cost is rising and airline prices are
+      doubling and airlines cutting out more scheduled flights. Gasoline prices in the
+      US are up $1 a gallon on average. Fertilizer prices have risen 40% and Asian fertilizer
+      factories are shutting down. The UN says two more weeks of war and global food
+      supplies become critical for grains, meat, dairy products and spring plantings.
+      Meanwhile, it appears US plans for an invasion of Iran (boots on the ground) are
+      growing more likely, as US ships with 5 to 7,000 Marines approach the Iranian
+      gulf coast. And Israel simultaneously releases indirect threats it my use a tactical
+      nuclear weapon on Iran should Iran’s missiles continue to damage Israel airfields,
+      Haifa oil refinery, and critical Israeli infrastructure as that country’s ‘Iron
+      Dome’ missile defense system continues to fail. These intensifying and escalating
+      likely actions will accelerate the oil price shock and its economic impacts in
+      the next several weeks. Business sources predict global crude oil prices will
+      exceed $180 a barrel. At that price, global and US recession is inevitable. For
+      my recent March 20, 2026 TV interview on these and related political topics, watch
+      at: https://disk.360.yandex.ru/i/Ef6BILjvKLV5Pw Dr. Jack Rasmus March 21, 2026'
+    one_sentence_summary: The ongoing Iran war, now intensified by Israel's attacks
+      on Iranian gas fields and Iran's retaliation against Gulf states, is rapidly escalating
+      an economic crisis characterized by soaring crude oil and natural gas prices,
+      declining global stock markets, and increased pressure on central banks and food
+      supply chains.
+    paragraph_summary: In a recent article, the author discusses the escalating economic
+      consequences of the ongoing Iran war, particularly following Israel's attacks
+      on Iran's gas fields and Iran's retaliatory strikes on UAE, Qatar, and Saudi Arabia.
+      This conflict has led to a significant surge in crude oil and natural gas prices,
+      with Brent crude hitting $112 and European natural gas prices soaring by 35% in
+      a single day. The escalating oil crisis is negatively impacting global stock markets,
+      with the S&P 500 declining for four consecutive weeks, while only the energy sector
+      shows gains. Additionally, the US dollar is weakening, contributing to rising
+      grain and commodity prices and potentially diminishing its status as the global
+      reserve currency. The Federal Reserve has halted rate cuts and is poised to raise
+      interest rates if the war persists, leading to an increase in long-term interest
+      rates and mortgage rates. Other central banks are also responding by raising their
+      rates, indicating a broader economic impact across Europe and beyond.
+    published: '2026-03-21T18:10:47+00:00'
+  - title: Some Economic Consequences of the Iran War
+    url: https://jackrasmus.com/2026/03/19/some-economic-consequences-of-the-iran-war/
+    text: 'LA PROGRESSIVE Some Economic Consequences of the Iran War By Dr. Jack Rasmus
+      March 19, 2026 As the US-Israel war on Iran enters its third week, the outlines
+      of the economic consequences and fallout of the war have begun to emerge. As the
+      war continues—and by most indicators it appears it will for months longer—the
+      War’s negative impact on the US and world economies will deepen further. What
+      are some of the economic dimensions for the War’s negative consequences? First
+      and most obvious is the current oil price shock’s effect on inflation. Not for
+      just US prices but other countries as well. And not just for goods and services
+      but for asset prices (i.e. stocks, bonds, forex, derivatives, gold, silver, etc.).
+      Another is the long term disruption of global supply chains and the volume of
+      global trade. As inflation rises, central banks, led by the US Federal Reserve,
+      will continue to raise interest rates with a corresponding negative impact on
+      the US and other economies, many of which are already nearly stagnant or are beginning
+      to enter recession. Most heavily impacted will be Europe, the Gulf States, and
+      middle east energy dependent countries in east Asia like Japan and South Korea.
+      Another negative impact will be on global money capital flows—both real investment
+      and financial portfolio asset markets (stocks, bonds, forex, derivatives, etc.).
+      Then there’s the US budget deficit and national debt. The deficit will now approach
+      $2 trillion a year, for the third straight year. That deficit will drive the national
+      debt to exceed $39 trillion by later this spring and possibly $40 trillion by
+      year end. The Iran war and its costs converge with a host of other forces driving
+      the deficit and the debt into ever greater crisis: Trump’s escalating war spending
+      (including his plan for $400 billion more for just the Pentagon), the current
+      sharply slowing US real economy (that grew at a mere 0.7% rate in fourth quarter
+      2025), the present collapse of employment and job creation now underway in the
+      US and Trump’s massive 2025 $5 trillion tax cuts benefiting mostly investors and
+      corporations at the expense of US Treasury tax revenues which is estimated to
+      reduce corporate income tax revenues by $77 billion in 2026. Not least, the war
+      will accelerate the current fiscal crisis of the American Empire. The costs of
+      Empire now exceed $2.2 trillion a year when all categories of ‘defense’ in the
+      US budget are considered, not just the Pentagon and the US Department of Defense—the
+      latter alone which now exceeds $1.1 trillion a year. Trump’s war in Iran will
+      exacerbate all these negative economic trends, US and global; and the longer the
+      war continues—which by all indicators it will—the worse the negative economic
+      consequences. Putting some numbers and facts around the above trends, the picture
+      now beginning to appear in terms of economic consequences of the Iran war is as
+      follows: Oil Price Shock Throughout 2025 the price of global crude oil remained
+      at around $60 a barrel. It began to rise in late January 2026 and hit $71 just
+      before the war began Saturday, February 28. Prices initially spiked to $118 the
+      following Monday, March 2, but then settled down below $100 the rest of the first
+      week. On March 9 they were still $98. At the start of the second week Trump tried
+      to talk down the price by saying the war was “over soon”. His Energy Secretary
+      then posted on the department’s website that US warships had begun escorting tankers
+      through the Hormuz strait. Oil prices quickly fell to $87. But when the facts
+      revealed the war was not about to end in a week, and that there were no escorts,
+      the Energy Secretary quickly took down the fake claim from the department’s website
+      and oil prices rose again. By Thursday, March 12 they were $101. On March 15,
+      $104. On Monday, March 16 the price of benchmark Brent crude oil hit $106. The
+      price of crude oil will fluctuate day to day with events in the war in the short
+      run but steadily rise over time. At the retail gasoline level in the US, the Trump
+      administration has continued to under report the price of gasoline at the pump,
+      after two weeks of war claiming it has risen only 15 cents a gallon. In fact,
+      the average was closer to 70 cents, according to other official estimates, and
+      in regions like California more than $1.50/gallon. Strategic Petroleum Reserve
+      Failure Trump’s major policy response to address the crude oil supply shock during
+      has been to announce the release of 172 million barrels from the US Strategic
+      Petroleum Reserve (SPR). After Biden’s SPR release in 2022, the reserve was never
+      restored. Before Trump’s recent announcement, the SPR held only 412 million barrels
+      or about 60% of its total capacity. That’s to be reduced now by another 172 million
+      barrels. Europe, Japan and other countries have also announced inventory releases,
+      for a global total of around 400 million barrels of extra crude supply for the
+      global market. But neither the 172 or 400 million barrels will have much effect
+      on global and US prices. Here’s why: The shutdown of the Hormuz strait results
+      in a 20.3 million barrels a day reduction in total global oil supply, which is
+      about 30% of all seaborn crude oil. At 20.3 million barrels a day, 400 million
+      additional barrels from the US SPR and global reserves provides for roughly 20
+      days additional supply to offset the closure of the straits. But 20 days assumes
+      that 20 million barrels from the SPR and other inventories are released to the
+      market immediately on day one. That cannot occur. There’s a ‘flow rate’ limit
+      of release from the SPR which is no more than 2 million barrels a day. That means
+      it will take 200 days—not 20—for the SPR and other sources to reach global oil
+      markets. So global supply is still reduced by 18 million barrels a day due to
+      the Hormuz closure. The SPR release will hardly dent the supply effect of the
+      Hormuz closure and so little to dampen rising global crude prices in coming weeks.
+      Nor will it effect much the price of US gasoline at the pump which will also keep
+      rising—as Biden discovered when he released SPR oil back in 2022. And there’s
+      countervailing forces why gasoline at the US retail level will continue to rise.
+      Whenever there’s a jump in crude oil supply—due to SPR release or other causes—US
+      oil companies simply reduce their output accordingly and/or US drilling companies
+      take a number of their drilling rigs temporarily offline. The result is not a
+      net increase in supply of gasoline even if there’s an excess of crude oil supply
+      from the SPR. Moreover, US oil companies control the retail price of gasoline
+      at the pump by manipulating refinery output—not by changes in crude supply. They
+      have purposely not built a new refinery in the US in 50 years! As a result, they
+      can turn off the supply spigot at the pump whenever they want by simply reducing
+      refinery output regardless of crude supply changes. That typically occurs after
+      announcing refinery shutdowns for maintenance, repairs, fires or other such excuses.
+      So forget the politicians’ and media talk about the global price of crude. Oil
+      companies control gasoline prices by controlling the bottleneck of oil refinery
+      operations. As the war drags on—likely now for weeks if not months—the global
+      price of crude may spike much higher than the current $100 a barrel. The Goldman
+      Sachs bank has forecast the price can potentially rise to $200 a barrel, or more.
+      Not coincidentally, the Iran government has indicated its target is to push the
+      price to $200. Global Supply Chain Disruption The closing of the straits is not
+      only disrupting global crude oil supply but other commodities supply as well.
+      20% of the world’s natural gas supply also ships through the Hormuz strait. A
+      significant supply of fertilizer, petrochemicals, plastic packaging, and some
+      metals also pass through the strait. Their supply will be disrupted as well, with
+      various price impacts. The supply of fertilizer may especially have an impact
+      on crop production and food prices in emerging markets in Asia and Africa. There’s
+      also the matter of the disruption of the supply of shipping containers. A significant
+      supply of containers are locked up now in the Persian Gulf. That will have repercussions
+      on the availability of shipping containers world wide, creating shortages in places
+      and raising container prices. US Dollar and Gold The Iran war and rising oil prices
+      will have a significant impact on the value of the US dollar and in turn on the
+      price of Gold. The war and its effects comes on the wake of the bubble in Gold
+      prices in 2025 which rose from $1900 an ounce to more than $5000 throughout the
+      year. Conversely, 2025 witnessed a 10% devaluation (price decline) of the US dollar.
+      Both assets, the dollar and gold, have surged as the War erupted, as investors
+      seek safety havens. The Gold price surge will now continue. The US dollar recovery
+      will not. The dollar will resume its decline eventually as Demand for dollars
+      to buy oil declines as 20% of the global supply of oil is taken offline. Investors
+      will shift asset investing more to Gold, continuing to drive up its price. In
+      turn rising gold price will further depress the value of the US dollar. Thus,
+      longer term, the dollar will devalue further by year end while gold will rise
+      further. To try to accelerate the dollar’s decline, Iran has announced policies
+      to hasten decline in its Demand and thus the value of the dollar. It has announced
+      it will allow tankers to pass through the strait of Hormuz so long as they carry
+      oil that is bought and sold with the Chinese Yuan. US Inflation Economists’ estimates
+      are that the US consumer price level will rise by 1.3% points should the price
+      of crude oil remain around $100/ barrel. The US CPI has hovered in the 2.5%-2.9%
+      range. That means the CPI rises to more than 4.0%. But that’s not the full impact
+      of inflation on the consumer. The CPI (or its cousin US price index the PCE) does
+      not include interest rates which have already begun to spike, impacting auto loans,
+      mortgages, and credit cards. Nor does it fully reflect prices in other categories
+      of purchases that impact consumer budgets. The 1.3% estimate is for the direct
+      cost on energy expenditures, primarily regular gasoline (note most US car owners
+      buy premium but the media likes to quote regular). The CPI won’t fully reflect
+      the coming rise in utilities (gas and electric), transport (airlines, trucking,
+      railroad), and food prices as fertilizer and plastic packaging costs rise with
+      global crude prices. Nor does the estimated 1.3% account for consumers’ inflationary
+      expectations almost certainly to rise as well in coming months. Financial Asset
+      Price Volatility Effects on the US dollar and gold have already been noted. But
+      what about other financial assets like stocks, bonds, derivatives, forex, etc.?
+      The disruption of trade, energy, and money capital flows will likely mean a shift
+      by investors out of certain stocks and bonds and a rise in the cost of derivatives
+      insurance. More instability in US stock and bond markets is already appearing,
+      and it comes on the wake of a significant correction in February in US financial
+      markets. The S&P 500 and Nasdaq markets have contracted 5-7% since February. The
+      economic uncertainty unleashed by the War will dampen financial asset investment
+      further. And what about that sector that had driven almost all of stock price
+      appreciation in 2025—i.e. the tech and AI boom? What will be the impact of $100
+      or more oil prices on energy costs on the huge investments now underway in Artificial
+      Intelligence, most of which is targeted for the energy hungry AI data centers
+      being built out at present? The AI bubble was already showing signs of contraction
+      before the war. Will sustained surging energy prices lead to further AI stock
+      related instability? While some asset prices will accelerate further due to the
+      War, others may deflate due to the same. That includes certain stocks and bonds
+      as interest rates rise, emerging market currencies, and of course the dollar.
+      Interest Rates Another direct consequence of the War is the rise of interest rates
+      in the US. Already 10 and 30 year Treasury bonds have begun to rise since the
+      start of the war two weeks ago. They will rise further. The US Federal Reserve
+      will now be even more reluctant to reduce US short term rates at its next and
+      subsequent meetings, out of concern for rising inflation on the horizon. The Fed
+      cut rates three times last year. Trump opened a war on the Fed to force it to
+      reduce rates again further and faster. He needs big cuts in order to have an effect
+      on a US real economy that is weakening fast. He needs lower rates at least six
+      months before the US November 2026 elections. He’s running out of time. Trump
+      just lost a major court case in which he tried to legally force Fed chair, Powell,
+      out of office. Given the inflationary pressures generated by the War, the Fed
+      is now less likely to bow to Trump’s pressure and reduce rates. And the longer
+      the war, the less likely the Fed will reduce rates. US Real Economy The US real
+      economy enters the War on particularly shaky ground. As previously noted, real
+      US GDP for fourth quarter 2025 was a mere 0.7% and for all of 2025 barely 2%.
+      US job growth for all of 2025 was only 181,000 when 1.2m are needed just to absorb
+      new entrants to the labor force. February’s latest job numbers showed, moreover,
+      a contraction of 92,000 jobs. The US employment sector is already in recession.
+      Consumer spending has recently also slowed down. That’s 2/3s of US GDP. And the
+      Net exports category of GDP will again now worsen due to global trade disruptions.
+      That leaves business investment even more dependent on the AI bubble, as US government
+      spending continues to cut social program spending to make way for more war spending.
+      In short, the war may well push the US economy into a condition of Stagflation
+      —i.e. rising prices amidst declining jobs and slowing GDP. One should not forget
+      the role that oil price spikes can play in economic recessions. Economists generally
+      overlook the role spiking oil prices played in the 2008-09 great recession. It
+      was in the spring-summer 2008 that global crude oil prices shot up to $147 a barrel—a
+      record level which helped precipitate the great recession that year. The financial
+      crash of 2008 played a major role in causing the recession but the oil price explosion
+      that occurred in parallel with the financial crash contributed as well. One should
+      therefore not overlook the potential of price shocks in precipitating recessions—whether
+      2026 or 2008. Europe, Russia, Asia and Emerging Economies Europe economies are
+      in an even worse condition than the US. Already battered by energy costs of US
+      LNG gas and oil six times higher than former Russian natural gas, Europe’s economies
+      have been hovering around stagnation or mild recession, according to official
+      statistics. Europe political elites have exacerbated the conditions by continuing
+      to divert critical money capital for investment in their own economies to Ukraine
+      instead. Now the Iranian war effects will exacerbate energy cost inflation and
+      slow growth in Europe even further. Europe gets much of its oil and most of its
+      natural gas from the Gulf states. With that blocked, it will have to buy more
+      from the US—at likely even higher prices. The rising cost of energy may well push
+      the major economies of Europe—Germany, France, UK—over the recession cliff. The
+      Gulf states economies are in even worse state than Europe’s. Their main money
+      engine of oil and gas is virtually shut down or damaged. It will take months,
+      perhaps years, to restart production and repair damages. Their economies are clearly
+      already contracting sharply. Asian countries like South Korea and Japan are heavily
+      dependent on middle east oil and gas. Japan had created a significant stored reserve.
+      But South Korea had not. That country will almost certainly have to start rationing
+      energy use soon. Then there are those emerging economies that are heavily dependent
+      on the dollar, having ‘dollarized’ their economies. As interest rates rise, the
+      price of the bonds they have issued or hold will decline sharply. Their currencies
+      will decline and their reserves for purchasing critical imports will dry up. Some
+      will have to borrow more again from the IMF . Others, cut social spending. They
+      will import less food due to rising prices and their falling currencies. Serious
+      food shortages may occur in these dollarized emerging market economies. In contrast,
+      Russia is a big winner economically from the Iran war. The surge in the price
+      of crude from $60 to more than $100 a barrel is estimated to result in $150 million
+      a day in additional revenue for Russia. China benefits as well. While China imports
+      a significant amount of its total oil imports from Iran, it is thus far not significantly
+      impacted. Iran has reported it continues to export a significant volume of its
+      oil to China. China has developed alternative global sources for its oil imports
+      and has amassed a reserve of oil that reportedly can last five months. In addition,
+      it can always import more from Russia. Its net assets will rise appreciably with
+      the rising price of gold, which it has been acquiring and storing for years. Finally,
+      as the war in Iran drags on, there will be a further drift from the use of the
+      dollar to purchase oil and toward alternative currency arrangements now being
+      prepared by the BRICS . The war and its economic dislocations will benefit the
+      BRICS at the expense of the US dollar. Exodus from the Gulf States Reports abound
+      of the growing exodus of investors and wealthy local populations from the Gulf
+      states as the war intensifies and Iran continues to bomb their infrastructure
+      and US military bases, from the UAE in the south of the Gulf to Kuwait in the
+      north. As the wealthier population leaves, they take their wealth with them. That
+      means investment projects throughout the region are on hold or even being cancelled.
+      In addition, Western money capital is not entering the region now, and Gulf investors
+      are moving their capital from the region and investing it mostly in Gold and other
+      metals elsewhere. The entire economies of the region are being severely disrupted,
+      in other words, not just the flow of crude oil and natural gas. US Costs of Empire
+      A generally overlooked consequence of the Iran war is the effect it will have
+      on an already out of control US defense spending and related costs required to
+      maintain the US empire today in general. The US mainstream media and politicians
+      like the public to think that Pentagon spending represents the total costs of
+      defense in the US budget. That Pentagon will exceed $1 trillion in 2026. But that’s
+      not all the US defense department spends. Its total expenditure is now $1.2 trillion.
+      And that doesn’t include other obvious ‘defense’ or ‘war’ expenditures like funding
+      the CIA and intelligence agencies, costs of past wars in veterans benefits, development
+      of nuclear weapons in the Energy Department budget, military aid and assistance
+      to allies, Homeland Security escalating costs, costs for secret new weapons development
+      not indicated in the US budget, and interest payments on the national debt due
+      to defense/war spending’s share of deficits and national debt interest payments.
+      Nor does the US budget$1.1 trillion authorization for the Pentagon and Defense
+      Dept. include Trump’s 2026 current spending on what’s called ‘Overseas Contingency
+      Operations’ for direct war actions in Venezuela and now Iran. It is estimated
+      the US has been spending $2 billion a day on the war in Iran. And that probably
+      doesn’t include weapons replacement costs. Deploying three aircraft carrier tasks
+      forces is not cheap. Committing one third of US aircraft to the region isn’t either.
+      Nor repairing eventually the damage to the US dozen plus bases in the Gulf and
+      aid for the Gulf states to replace their destroyed air defense systems, the radars
+      of which alone cost $1 billion each. In short the tab for the Iran war after 20
+      days is at least $50 billion in OCO. And if Trump sends in the Marines and tries
+      to have the US navy escort ships through the Hormuz straits that tab will rise
+      by tens of billions $US more. Given the anticipated direct costs of the Iran war,
+      the Pentagon on March 19 requested Congress authorize $200 billion in OCO additional
+      spending. In addition to all that, Trump is calling for an increase of another
+      $400 billion for the Pentagon in the next budget as he obviously plans for more
+      wars. Conclusions The longer the war the greater the costs to the US across multiple
+      dimensions. Moreover, the longer the war the more likely Iran will ‘win’. Iran
+      is approaching the war strategically, while the US is doing so tactically. Trump
+      thinks bombing Iran’s infrastructure will force Iranian capitulation. Iran believes
+      if it an keep the Hormuz straight shut long enough it can create enough damage
+      to the US and western economies that Trump will have to ‘declare victory’ regardless
+      of the facts and discontinue the conflict. Trump started the war in expectation
+      he could repeat the outcome of Venezuela. His US deep state neocons, US oligarch
+      Zionist campaign contributors, and his friend Netanyahu no doubt convinced him
+      that was possible—even as senior US military advisors forewarned him it wasn’t.
+      So now he has a wildcat in a bag and he can’t decide whether to let the cat out
+      or drop the bag and run. Meanwhile, the US and world economies steadily deteriorate
+      and the November 2026 US elections grow closer and with it potential political
+      disaster for his war plans—unless of course his plan to somehow overturn or negate
+      the elections prove successful. Jack Rasmus is author of the recently published
+      book, ‘The Scourge of Neoliberalism: US Economic Policy from Reagan to Trump’,
+      Clarity Press, 2020 and the forthcoming 2026 book, ‘Twilight of American Imperialism’
+      also by Clarity Press. He publishes at Predicting the Global Economic Crisis at
+      http://jackrasmus.com and hosts the weekly radio show, Alternative Visions, on
+      the Progressive Radio Network every Friday at 2pm eastern time.'
+    one_sentence_summary: The ongoing US-Israel war on Iran is expected to have severe
+      economic repercussions, including rising inflation due to oil price shocks, disruptions
+      in global supply chains, and increased interest rates, which will negatively affect
+      both the US and global economies.
+    paragraph_summary: As the US-Israel war on Iran continues into its third week, the
+      economic repercussions are becoming increasingly evident, with significant negative
+      impacts anticipated for both the US and global economies. The ongoing conflict
+      has triggered an oil price shock, contributing to rising inflation not only in
+      the US but worldwide, affecting various asset prices and disrupting global supply
+      chains and trade volumes. Central banks, particularly the US Federal Reserve,
+      are likely to respond by raising interest rates, which could exacerbate economic
+      stagnation or recession in several regions, especially Europe and energy-dependent
+      countries in East Asia. Additionally, the US budget deficit is projected to reach
+      $2 trillion annually, pushing the national debt towards $40 trillion, as the war's
+      costs combine with other economic pressures, including slowing growth and escalating
+      military expenditures.
+    published: '2026-03-20T00:32:27+00:00'
+  - title: Some Economic Consequences of the Iran War
+    url: https://jackrasmus.com/2026/03/19/some-economic-consequences-of-the-iran-war/
+    text: 'LA PROGRESSIVE Some Economic Consequences of the Iran War By Dr. Jack Rasmus
+      March 19, 2026 As the US-Israel war on Iran enters its third week, the outlines
+      of the economic consequences and fallout of the war have begun to emerge. As the
+      war continues—and by most indicators it appears it will for months longer—the
+      War’s negative impact on the US and world economies will deepen further. What
+      are some of the economic dimensions for the War’s negative consequences? First
+      and most obvious is the current oil price shock’s effect on inflation. Not for
+      just US prices but other countries as well. And not just for goods and services
+      but for asset prices (i.e. stocks, bonds, forex, derivatives, gold, silver, etc.).
+      Another is the long term disruption of global supply chains and the volume of
+      global trade. As inflation rises, central banks, led by the US Federal Reserve,
+      will continue to raise interest rates with a corresponding negative impact on
+      the US and other economies, many of which are already nearly stagnant or are beginning
+      to enter recession. Most heavily impacted will be Europe, the Gulf States, and
+      middle east energy dependent countries in east Asia like Japan and South Korea.
+      Another negative impact will be on global money capital flows—both real investment
+      and financial portfolio asset markets (stocks, bonds, forex, derivatives, etc.).
+      Then there’s the US budget deficit and national debt. The deficit will now approach
+      $2 trillion a year, for the third straight year. That deficit will drive the national
+      debt to exceed $39 trillion by later this spring and possibly $40 trillion by
+      year end. The Iran war and its costs converge with a host of other forces driving
+      the deficit and the debt into ever greater crisis: Trump’s escalating war spending
+      (including his plan for $400 billion more for just the Pentagon), the current
+      sharply slowing US real economy (that grew at a mere 0.7% rate in fourth quarter
+      2025), the present collapse of employment and job creation now underway in the
+      US and Trump’s massive 2025 $5 trillion tax cuts benefiting mostly investors and
+      corporations at the expense of US Treasury tax revenues which is estimated to
+      reduce corporate income tax revenues by $77 billion in 2026. Not least, the war
+      will accelerate the current fiscal crisis of the American Empire. The costs of
+      Empire now exceed $2.2 trillion a year when all categories of ‘defense’ in the
+      US budget are considered, not just the Pentagon and the US Department of Defense—the
+      latter alone which now exceeds $1.1 trillion a year. Trump’s war in Iran will
+      exacerbate all these negative economic trends, US and global; and the longer the
+      war continues—which by all indicators it will—the worse the negative economic
+      consequences. Putting some numbers and facts around the above trends, the picture
+      now beginning to appear in terms of economic consequences of the Iran war is as
+      follows: Oil Price Shock Throughout 2025 the price of global crude oil remained
+      at around $60 a barrel. It began to rise in late January 2026 and hit $71 just
+      before the war began Saturday, February 28. Prices initially spiked to $118 the
+      following Monday, March 2, but then settled down below $100 the rest of the first
+      week. On March 9 they were still $98. At the start of the second week Trump tried
+      to talk down the price by saying the war was “over soon”. His Energy Secretary
+      then posted on the department’s website that US warships had begun escorting tankers
+      through the Hormuz strait. Oil prices quickly fell to $87. But when the facts
+      revealed the war was not about to end in a week, and that there were no escorts,
+      the Energy Secretary quickly took down the fake claim from the department’s website
+      and oil prices rose again. By Thursday, March 12 they were $101. On March 15,
+      $104. On Monday, March 16 the price of benchmark Brent crude oil hit $106. The
+      price of crude oil will fluctuate day to day with events in the war in the short
+      run but steadily rise over time. At the retail gasoline level in the US, the Trump
+      administration has continued to under report the price of gasoline at the pump,
+      after two weeks of war claiming it has risen only 15 cents a gallon. In fact,
+      the average was closer to 70 cents, according to other official estimates, and
+      in regions like California more than $1.50/gallon. Strategic Petroleum Reserve
+      Failure Trump’s major policy response to address the crude oil supply shock during
+      has been to announce the release of 172 million barrels from the US Strategic
+      Petroleum Reserve (SPR). After Biden’s SPR release in 2022, the reserve was never
+      restored. Before Trump’s recent announcement, the SPR held only 412 million barrels
+      or about 60% of its total capacity. That’s to be reduced now by another 172 million
+      barrels. Europe, Japan and other countries have also announced inventory releases,
+      for a global total of around 400 million barrels of extra crude supply for the
+      global market. But neither the 172 or 400 million barrels will have much effect
+      on global and US prices. Here’s why: The shutdown of the Hormuz strait results
+      in a 20.3 million barrels a day reduction in total global oil supply, which is
+      about 30% of all seaborn crude oil. At 20.3 million barrels a day, 400 million
+      additional barrels from the US SPR and global reserves provides for roughly 20
+      days additional supply to offset the closure of the straits. But 20 days assumes
+      that 20 million barrels from the SPR and other inventories are released to the
+      market immediately on day one. That cannot occur. There’s a ‘flow rate’ limit
+      of release from the SPR which is no more than 2 million barrels a day. That means
+      it will take 200 days—not 20—for the SPR and other sources to reach global oil
+      markets. So global supply is still reduced by 18 million barrels a day due to
+      the Hormuz closure. The SPR release will hardly dent the supply effect of the
+      Hormuz closure and so little to dampen rising global crude prices in coming weeks.
+      Nor will it effect much the price of US gasoline at the pump which will also keep
+      rising—as Biden discovered when he released SPR oil back in 2022. And there’s
+      countervailing forces why gasoline at the US retail level will continue to rise.
+      Whenever there’s a jump in crude oil supply—due to SPR release or other causes—US
+      oil companies simply reduce their output accordingly and/or US drilling companies
+      take a number of their drilling rigs temporarily offline. The result is not a
+      net increase in supply of gasoline even if there’s an excess of crude oil supply
+      from the SPR. Moreover, US oil companies control the retail price of gasoline
+      at the pump by manipulating refinery output—not by changes in crude supply. They
+      have purposely not built a new refinery in the US in 50 years! As a result, they
+      can turn off the supply spigot at the pump whenever they want by simply reducing
+      refinery output regardless of crude supply changes. That typically occurs after
+      announcing refinery shutdowns for maintenance, repairs, fires or other such excuses.
+      So forget the politicians’ and media talk about the global price of crude. Oil
+      companies control gasoline prices by controlling the bottleneck of oil refinery
+      operations. As the war drags on—likely now for weeks if not months—the global
+      price of crude may spike much higher than the current $100 a barrel. The Goldman
+      Sachs bank has forecast the price can potentially rise to $200 a barrel, or more.
+      Not coincidentally, the Iran government has indicated its target is to push the
+      price to $200. Global Supply Chain Disruption The closing of the straits is not
+      only disrupting global crude oil supply but other commodities supply as well.
+      20% of the world’s natural gas supply also ships through the Hormuz strait. A
+      significant supply of fertilizer, petrochemicals, plastic packaging, and some
+      metals also pass through the strait. Their supply will be disrupted as well, with
+      various price impacts. The supply of fertilizer may especially have an impact
+      on crop production and food prices in emerging markets in Asia and Africa. There’s
+      also the matter of the disruption of the supply of shipping containers. A significant
+      supply of containers are locked up now in the Persian Gulf. That will have repercussions
+      on the availability of shipping containers world wide, creating shortages in places
+      and raising container prices. US Dollar and Gold The Iran war and rising oil prices
+      will have a significant impact on the value of the US dollar and in turn on the
+      price of Gold. The war and its effects comes on the wake of the bubble in Gold
+      prices in 2025 which rose from $1900 an ounce to more than $5000 throughout the
+      year. Conversely, 2025 witnessed a 10% devaluation (price decline) of the US dollar.
+      Both assets, the dollar and gold, have surged as the War erupted, as investors
+      seek safety havens. The Gold price surge will now continue. The US dollar recovery
+      will not. The dollar will resume its decline eventually as Demand for dollars
+      to buy oil declines as 20% of the global supply of oil is taken offline. Investors
+      will shift asset investing more to Gold, continuing to drive up its price. In
+      turn rising gold price will further depress the value of the US dollar. Thus,
+      longer term, the dollar will devalue further by year end while gold will rise
+      further. To try to accelerate the dollar’s decline, Iran has announced policies
+      to hasten decline in its Demand and thus the value of the dollar. It has announced
+      it will allow tankers to pass through the strait of Hormuz so long as they carry
+      oil that is bought and sold with the Chinese Yuan. US Inflation Economists’ estimates
+      are that the US consumer price level will rise by 1.3% points should the price
+      of crude oil remain around $100/ barrel. The US CPI has hovered in the 2.5%-2.9%
+      range. That means the CPI rises to more than 4.0%. But that’s not the full impact
+      of inflation on the consumer. The CPI (or its cousin US price index the PCE) does
+      not include interest rates which have already begun to spike, impacting auto loans,
+      mortgages, and credit cards. Nor does it fully reflect prices in other categories
+      of purchases that impact consumer budgets. The 1.3% estimate is for the direct
+      cost on energy expenditures, primarily regular gasoline (note most US car owners
+      buy premium but the media likes to quote regular). The CPI won’t fully reflect
+      the coming rise in utilities (gas and electric), transport (airlines, trucking,
+      railroad), and food prices as fertilizer and plastic packaging costs rise with
+      global crude prices. Nor does the estimated 1.3% account for consumers’ inflationary
+      expectations almost certainly to rise as well in coming months. Financial Asset
+      Price Volatility Effects on the US dollar and gold have already been noted. But
+      what about other financial assets like stocks, bonds, derivatives, forex, etc.?
+      The disruption of trade, energy, and money capital flows will likely mean a shift
+      by investors out of certain stocks and bonds and a rise in the cost of derivatives
+      insurance. More instability in US stock and bond markets is already appearing,
+      and it comes on the wake of a significant correction in February in US financial
+      markets. The S&P 500 and Nasdaq markets have contracted 5-7% since February. The
+      economic uncertainty unleashed by the War will dampen financial asset investment
+      further. And what about that sector that had driven almost all of stock price
+      appreciation in 2025—i.e. the tech and AI boom? What will be the impact of $100
+      or more oil prices on energy costs on the huge investments now underway in Artificial
+      Intelligence, most of which is targeted for the energy hungry AI data centers
+      being built out at present? The AI bubble was already showing signs of contraction
+      before the war. Will sustained surging energy prices lead to further AI stock
+      related instability? While some asset prices will accelerate further due to the
+      War, others may deflate due to the same. That includes certain stocks and bonds
+      as interest rates rise, emerging market currencies, and of course the dollar.
+      Interest Rates Another direct consequence of the War is the rise of interest rates
+      in the US. Already 10 and 30 year Treasury bonds have begun to rise since the
+      start of the war two weeks ago. They will rise further. The US Federal Reserve
+      will now be even more reluctant to reduce US short term rates at its next and
+      subsequent meetings, out of concern for rising inflation on the horizon. The Fed
+      cut rates three times last year. Trump opened a war on the Fed to force it to
+      reduce rates again further and faster. He needs big cuts in order to have an effect
+      on a US real economy that is weakening fast. He needs lower rates at least six
+      months before the US November 2026 elections. He’s running out of time. Trump
+      just lost a major court case in which he tried to legally force Fed chair, Powell,
+      out of office. Given the inflationary pressures generated by the War, the Fed
+      is now less likely to bow to Trump’s pressure and reduce rates. And the longer
+      the war, the less likely the Fed will reduce rates. US Real Economy The US real
+      economy enters the War on particularly shaky ground. As previously noted, real
+      US GDP for fourth quarter 2025 was a mere 0.7% and for all of 2025 barely 2%.
+      US job growth for all of 2025 was only 181,000 when 1.2m are needed just to absorb
+      new entrants to the labor force. February’s latest job numbers showed, moreover,
+      a contraction of 92,000 jobs. The US employment sector is already in recession.
+      Consumer spending has recently also slowed down. That’s 2/3s of US GDP. And the
+      Net exports category of GDP will again now worsen due to global trade disruptions.
+      That leaves business investment even more dependent on the AI bubble, as US government
+      spending continues to cut social program spending to make way for more war spending.
+      In short, the war may well push the US economy into a condition of Stagflation
+      —i.e. rising prices amidst declining jobs and slowing GDP. One should not forget
+      the role that oil price spikes can play in economic recessions. Economists generally
+      overlook the role spiking oil prices played in the 2008-09 great recession. It
+      was in the spring-summer 2008 that global crude oil prices shot up to $147 a barrel—a
+      record level which helped precipitate the great recession that year. The financial
+      crash of 2008 played a major role in causing the recession but the oil price explosion
+      that occurred in parallel with the financial crash contributed as well. One should
+      therefore not overlook the potential of price shocks in precipitating recessions—whether
+      2026 or 2008. Europe, Russia, Asia and Emerging Economies Europe economies are
+      in an even worse condition than the US. Already battered by energy costs of US
+      LNG gas and oil six times higher than former Russian natural gas, Europe’s economies
+      have been hovering around stagnation or mild recession, according to official
+      statistics. Europe political elites have exacerbated the conditions by continuing
+      to divert critical money capital for investment in their own economies to Ukraine
+      instead. Now the Iranian war effects will exacerbate energy cost inflation and
+      slow growth in Europe even further. Europe gets much of its oil and most of its
+      natural gas from the Gulf states. With that blocked, it will have to buy more
+      from the US—at likely even higher prices. The rising cost of energy may well push
+      the major economies of Europe—Germany, France, UK—over the recession cliff. The
+      Gulf states economies are in even worse state than Europe’s. Their main money
+      engine of oil and gas is virtually shut down or damaged. It will take months,
+      perhaps years, to restart production and repair damages. Their economies are clearly
+      already contracting sharply. Asian countries like South Korea and Japan are heavily
+      dependent on middle east oil and gas. Japan had created a significant stored reserve.
+      But South Korea had not. That country will almost certainly have to start rationing
+      energy use soon. Then there are those emerging economies that are heavily dependent
+      on the dollar, having ‘dollarized’ their economies. As interest rates rise, the
+      price of the bonds they have issued or hold will decline sharply. Their currencies
+      will decline and their reserves for purchasing critical imports will dry up. Some
+      will have to borrow more again from the IMF . Others, cut social spending. They
+      will import less food due to rising prices and their falling currencies. Serious
+      food shortages may occur in these dollarized emerging market economies. In contrast,
+      Russia is a big winner economically from the Iran war. The surge in the price
+      of crude from $60 to more than $100 a barrel is estimated to result in $150 million
+      a day in additional revenue for Russia. China benefits as well. While China imports
+      a significant amount of its total oil imports from Iran, it is thus far not significantly
+      impacted. Iran has reported it continues to export a significant volume of its
+      oil to China. China has developed alternative global sources for its oil imports
+      and has amassed a reserve of oil that reportedly can last five months. In addition,
+      it can always import more from Russia. Its net assets will rise appreciably with
+      the rising price of gold, which it has been acquiring and storing for years. Finally,
+      as the war in Iran drags on, there will be a further drift from the use of the
+      dollar to purchase oil and toward alternative currency arrangements now being
+      prepared by the BRICS . The war and its economic dislocations will benefit the
+      BRICS at the expense of the US dollar. Exodus from the Gulf States Reports abound
+      of the growing exodus of investors and wealthy local populations from the Gulf
+      states as the war intensifies and Iran continues to bomb their infrastructure
+      and US military bases, from the UAE in the south of the Gulf to Kuwait in the
+      north. As the wealthier population leaves, they take their wealth with them. That
+      means investment projects throughout the region are on hold or even being cancelled.
+      In addition, Western money capital is not entering the region now, and Gulf investors
+      are moving their capital from the region and investing it mostly in Gold and other
+      metals elsewhere. The entire economies of the region are being severely disrupted,
+      in other words, not just the flow of crude oil and natural gas. US Costs of Empire
+      A generally overlooked consequence of the Iran war is the effect it will have
+      on an already out of control US defense spending and related costs required to
+      maintain the US empire today in general. The US mainstream media and politicians
+      like the public to think that Pentagon spending represents the total costs of
+      defense in the US budget. That Pentagon will exceed $1 trillion in 2026. But that’s
+      not all the US defense department spends. Its total expenditure is now $1.2 trillion.
+      And that doesn’t include other obvious ‘defense’ or ‘war’ expenditures like funding
+      the CIA and intelligence agencies, costs of past wars in veterans benefits, development
+      of nuclear weapons in the Energy Department budget, military aid and assistance
+      to allies, Homeland Security escalating costs, costs for secret new weapons development
+      not indicated in the US budget, and interest payments on the national debt due
+      to defense/war spending’s share of deficits and national debt interest payments.
+      Nor does the US budget$1.1 trillion authorization for the Pentagon and Defense
+      Dept. include Trump’s 2026 current spending on what’s called ‘Overseas Contingency
+      Operations’ for direct war actions in Venezuela and now Iran. It is estimated
+      the US has been spending $2 billion a day on the war in Iran. And that probably
+      doesn’t include weapons replacement costs. Deploying three aircraft carrier tasks
+      forces is not cheap. Committing one third of US aircraft to the region isn’t either.
+      Nor repairing eventually the damage to the US dozen plus bases in the Gulf and
+      aid for the Gulf states to replace their destroyed air defense systems, the radars
+      of which alone cost $1 billion each. In short the tab for the Iran war after 20
+      days is at least $50 billion in OCO. And if Trump sends in the Marines and tries
+      to have the US navy escort ships through the Hormuz straits that tab will rise
+      by tens of billions $US more. Given the anticipated direct costs of the Iran war,
+      the Pentagon on March 19 requested Congress authorize $200 billion in OCO additional
+      spending. In addition to all that, Trump is calling for an increase of another
+      $400 billion for the Pentagon in the next budget as he obviously plans for more
+      wars. Conclusions The longer the war the greater the costs to the US across multiple
+      dimensions. Moreover, the longer the war the more likely Iran will ‘win’. Iran
+      is approaching the war strategically, while the US is doing so tactically. Trump
+      thinks bombing Iran’s infrastructure will force Iranian capitulation. Iran believes
+      if it an keep the Hormuz straight shut long enough it can create enough damage
+      to the US and western economies that Trump will have to ‘declare victory’ regardless
+      of the facts and discontinue the conflict. Trump started the war in expectation
+      he could repeat the outcome of Venezuela. His US deep state neocons, US oligarch
+      Zionist campaign contributors, and his friend Netanyahu no doubt convinced him
+      that was possible—even as senior US military advisors forewarned him it wasn’t.
+      So now he has a wildcat in a bag and he can’t decide whether to let the cat out
+      or drop the bag and run. Meanwhile, the US and world economies steadily deteriorate
+      and the November 2026 US elections grow closer and with it potential political
+      disaster for his war plans—unless of course his plan to somehow overturn or negate
+      the elections prove successful. Jack Rasmus is author of the recently published
+      book, ‘The Scourge of Neoliberalism: US Economic Policy from Reagan to Trump’,
+      Clarity Press, 2020 and the forthcoming 2026 book, ‘Twilight of American Imperialism’
+      also by Clarity Press. He publishes at Predicting the Global Economic Crisis at
+      http://jackrasmus.com and hosts the weekly radio show, Alternative Visions, on
+      the Progressive Radio Network every Friday at 2pm eastern time.'
+    one_sentence_summary: The ongoing US-Israel war on Iran is expected to have severe
+      economic repercussions, including rising inflation due to oil price shocks, disruptions
+      in global supply chains, and increased interest rates, which will negatively affect
+      both the US and global economies.
+    paragraph_summary: As the US-Israel war on Iran continues into its third week, the
+      economic repercussions are becoming increasingly evident, with significant negative
+      impacts anticipated for both the US and global economies. The ongoing conflict
+      has triggered an oil price shock, contributing to rising inflation not only in
+      the US but worldwide, affecting various asset prices and disrupting global supply
+      chains and trade volumes. Central banks, particularly the US Federal Reserve,
+      are likely to respond by raising interest rates, which could exacerbate economic
+      stagnation or recession in several regions, especially Europe and energy-dependent
+      countries in East Asia. Additionally, the US budget deficit is projected to reach
+      $2 trillion annually, pushing the national debt towards $40 trillion, as the war's
+      costs combine with other economic pressures, including slowing growth and escalating
+      military expenditures.
+    published: '2026-03-20T00:32:27+00:00'
+  - title: Oil Price Shock and US/Israel War on Iran
+    url: https://jackrasmus.com/2026/03/18/oil-price-shock-and-us-israel-war-on-iran/
+    text: 'https://alternativevisions.podbean.com/e/alternative-visions-oil-price-shock-usisrael-war-on-iran/
+      Listen to my March 13 Alternative Visions show on Iran War and Oil Price shock:
+      As the IAEA predicts a global oil price shock worse than the 1970s, as the Iran
+      war enters its second week the economic effects and implications now begin to
+      deepen. Crude oil prices return to more than $100 barrel, with predictions by
+      Golden Sachs could hit $200. What are the Trump responses so far? Why are they
+      insufficient. What’s the impact on US inflation from the Oil shock by sector?
+      Jobs and GDP? Stock markets? Interest rates? US dollar devaluation? Why focusing
+      on just Supply as cause of oil prices is insufficient. What are the total causes
+      of oil inflation? Finally, what are the respective war strategies of Trump, Israel,
+      Iran?'
+    one_sentence_summary: The March 13 episode of Alternative Visions discusses the
+      escalating economic impact of the ongoing Iran war, highlighting predictions of
+      a severe global oil price shock, with crude oil prices potentially reaching $200
+      per barrel, and explores the inadequacy of current U.S. responses, the broader
+      implications for inflation, jobs, GDP, and financial markets, while analyzing
+      the war strategies of Trump, Israel, and Iran.
+    paragraph_summary: In the March 13 episode of "Alternative Visions," the host discusses
+      the escalating Iran war and its significant economic repercussions, particularly
+      a predicted global oil price shock that could surpass the 1970s crisis. With crude
+      oil prices exceeding $100 per barrel and Goldman Sachs forecasting a potential
+      rise to $200, the episode examines the inadequacy of Trump's responses to the
+      crisis and explores the broader implications for U.S. inflation across various
+      sectors, including jobs, GDP, stock markets, interest rates, and the devaluation
+      of the U.S. dollar. The discussion emphasizes that merely attributing rising oil
+      prices to supply issues is insufficient, urging a deeper analysis of the multifaceted
+      causes of oil inflation. Additionally, the episode outlines the differing war
+      strategies of Trump, Israel, and Iran amidst the ongoing conflict.
+    published: '2026-03-18T22:19:50+00:00'
+  - title: Oil Price Shock and US/Israel War on Iran
+    url: https://jackrasmus.com/2026/03/18/oil-price-shock-and-us-israel-war-on-iran/
+    text: 'https://alternativevisions.podbean.com/e/alternative-visions-oil-price-shock-usisrael-war-on-iran/
+      Listen to my March 13 Alternative Visions show on Iran War and Oil Price shock:
+      As the IAEA predicts a global oil price shock worse than the 1970s, as the Iran
+      war enters its second week the economic effects and implications now begin to
+      deepen. Crude oil prices return to more than $100 barrel, with predictions by
+      Golden Sachs could hit $200. What are the Trump responses so far? Why are they
+      insufficient. What’s the impact on US inflation from the Oil shock by sector?
+      Jobs and GDP? Stock markets? Interest rates? US dollar devaluation? Why focusing
+      on just Supply as cause of oil prices is insufficient. What are the total causes
+      of oil inflation? Finally, what are the respective war strategies of Trump, Israel,
+      Iran?'
+    one_sentence_summary: The March 13 episode of Alternative Visions discusses the
+      escalating economic impact of the ongoing Iran war, highlighting predictions of
+      a severe global oil price shock, with crude oil prices potentially reaching $200
+      per barrel, and explores the inadequacy of current U.S. responses, the broader
+      implications for inflation, jobs, GDP, and financial markets, while analyzing
+      the war strategies of Trump, Israel, and Iran.
+    paragraph_summary: In the March 13 episode of "Alternative Visions," the host discusses
+      the escalating Iran war and its significant economic repercussions, particularly
+      a predicted global oil price shock that could surpass the 1970s crisis. With crude
+      oil prices exceeding $100 per barrel and Goldman Sachs forecasting a potential
+      rise to $200, the episode examines the inadequacy of Trump's responses to the
+      crisis and explores the broader implications for U.S. inflation across various
+      sectors, including jobs, GDP, stock markets, interest rates, and the devaluation
+      of the U.S. dollar. The discussion emphasizes that merely attributing rising oil
+      prices to supply issues is insufficient, urging a deeper analysis of the multifaceted
+      causes of oil inflation. Additionally, the episode outlines the differing war
+      strategies of Trump, Israel, and Iran amidst the ongoing conflict.
+    published: '2026-03-18T22:19:50+00:00'
   - title: 'Trump’s 2026 SOTU Speech: Economic Obfuscation & Political Theater'
     url: https://jackrasmus.com/2026/02/26/trumps-2026-sotu-speech-economic-obfuscation-political-theater/
     text: 'Dr. Jack Rasmus, copyright 2026 “Trump’s 2026 State of the Union speech was

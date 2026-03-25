@@ -7,14 +7,1706 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Middle East remains locked in a protracted and increasingly complex confrontation, as the campaign initially launched by the U.S. and Israel to decisively weaken Iran has instead exposed the limits of military power and the resilience of Tehran’s response. As **Elijah J. Magnier** notes, the conflict—once envisioned as a swift operation—has evolved into an “endless war,” with Iran’s missile strikes on U.S. military installations across the region underlining the failure of the original strategy and the inability of coercive force to reshape the political order.
+  Tensions in the Persian Gulf remain high following weeks of escalation between the United States and Iran, with the strategic Strait of Hormuz at the center of the standoff. The situation reached a new phase after President Trump threatened to destroy Iranian power plants if Iran did not reopen the Strait, prompting Tehran to warn of retaliatory strikes against regional infrastructure and reinforcing internal unity for confrontation.
   
-  Recent developments highlight Iran’s capacity for sustained retaliation. The latest wave of Iranian missile attacks, targeting key American assets in the Middle East, demonstrates not only operational reach but also a calculated effort to impose costs and signal deterrence. According to **Magnier**, these actions have “revealed the resilience of [Iran] and the limitations of military coercion in readjusting the regional political balance.” This has forced a reassessment among Israeli and American policymakers, who had underestimated both the depth of Iranian resolve and the complexity of the regional power structure.
+  The most recent development, as reported by **Elijah J. Magnier**, is Washington’s announcement of a five-day pause in planned strikes against Iran’s energy infrastructure. This comes amid reports of initial contacts between the U.S. and Iran, although Tehran publicly denies that any direct talks have taken place. However, Iranian officials acknowledge receiving a U.S. request for negotiations and confirm that indirect communication channels remain active via intermediaries. The pause is widely interpreted as an attempt to deescalate the regional conflict and stabilize volatile oil prices.
   
-  The broader impact is a significant shift in perceptions of U.S. power. The expansion of the battlefield—now encompassing shadowy strikes and ambiguous incidents in the Gulf—has eroded the aura of American dominance. As previously reported, unclaimed attacks and the threat of further escalation have introduced new uncertainties for regional actors and global markets, particularly given the Gulf’s centrality to the world energy system.
+  **Elijah J. Magnier** notes that while both sides are publicly maintaining hardline positions, the existence of back-channel communications suggests a mutual interest in avoiding further escalation—at least temporarily. The U.S. move is seen as a tactical pause rather than a strategic shift, with military options, including a possible limited landing in the Strait of Hormuz, still under consideration.
   
-  Looking ahead, the prevailing trend is one of enduring attrition and strategic ambiguity. There is a high chance that the conflict will remain unresolved in the near term, with neither side able to achieve a decisive breakthrough. I guarantee that Iran’s leadership will continue to pursue its established course, leveraging both military and economic tools—especially its influence over Gulf oil flows—to maintain pressure and deter adversaries. The risk of wider escalation persists, but the most likely scenario is a drawn-out confrontation marked by periodic flare-ups and ongoing instability.
+  Looking ahead, the majority of sources agree that the current pause in hostilities is fragile. If negotiations fail to yield progress, there is a high chance that military actions could resume, potentially targeting critical infrastructure on both sides. However, as indirect talks continue and both Washington and Tehran seek to manage domestic and international pressures, there is a quite likely trend toward short-term de-escalation, though the risk of renewed confrontation remains significant. I guarantee that the situation will remain tense and unpredictable as long as fundamental disagreements over the Strait’s control persist.
 articles:
+  - title: 'Von Luftangriffen bis zur Küste: Bereitet Washington eine begrenzte Landung
+      in der Straße von Hormus vor?'
+    url: https://ejmagnier.com/2026/03/23/von-luftangriffen-bis-zur-kuste-bereitet-washington-eine-begrenzte-landung-in-der-strase-von-hormus-vor/
+    text: Von Elijah J. Magnier – Washington hat eine fünftägige Pause bei den geplanten
+      Angriffen auf die iranische Energie- und Strominfrastruktur angekündigt, nachdem
+      Präsident Donald Trump von ersten Kontakten mit iranischen Vertretern in den vergangenen
+      zwei Tagen gesprochen hatte. Teheran hat bestritten, dass Gespräche stattgefunden
+      hätten, bestätigte jedoch, am Samstag eine Anfrage der USA zu Verhandlungen erhalten
+      zu haben, auf die es jedoch noch nicht reagiert habe. Indirekte Kanäle bleiben
+      jedoch aktiv. Der Austausch zwischen dem Iran und Vermittlern wie der Türkei,
+      Ägypten und Oman wurde fortgesetzt, mit dem Ziel, die Intensität eines Konflikts
+      einzudämmen, der mittlerweile die gesamte Region Westasiens betrifft. Der Zeitpunkt
+      der Ankündigung scheint genau abgestimmt. Da sie kurz vor der Eröffnung der Märkte
+      erfolgte, trug sie dazu bei, einen starken Abwärtstrend zu stabilisieren und den
+      Anstieg der Ölpreise zumindest bis zum Ende der Handelswoche einzudämmen. Dies
+      ist besonders bedeutsam angesichts der Warnungen der Internationalen Energieagentur,
+      dass derzeit rund 11 Millionen Barrel pro Tag aufgrund des Krieges gegen den Iran
+      ausfallen. Über diese vorübergehende Pause hinaus bleibt die allgemeine Dynamik
+      unverändert. Die Militäroperationen gehen weiter, und die Aussetzung scheint darauf
+      beschränkt zu sein, direkte US-Angriffe auf die iranische Energieinfrastruktur
+      und damit eine wahrscheinliche iranische Vergeltungsmaßnahme gegen Energieanlagen
+      am Golf zu vermeiden. Anstatt eine Deeskalation zu signalisieren, deutet dieser
+      Schritt auf eine Neukalibrierung des Drucks hin, weg von Zielen, die eine unmittelbare
+      Ausweitung des Konflikts in der Region riskieren, während die Handlungsfreiheit
+      im militärischen Bereich gewahrt bleibt. In diesem Zusammenhang gewinnt die Ankunft
+      zusätzlicher US-Marines im Golf an Bedeutung. Dies ist weder eine bloße Routinerverstärkung,
+      noch bedeutet es bereits eine Entscheidung für Bodenoperationen. Es spiegelt eine
+      Verschiebung der Haltung wider, die die operativen Optionen über die maritime
+      Sicherheit hinaus erweitert, während sie dennoch im Bereich der Notfallplanung
+      verbleibt. In Verbindung mit dem verstärkten Einsatz von A-10-Flugzeugen und Apache-Kampfhubschraubern
+      in der Nähe der südlichen Zugänge zum Iran deutet dies auf eine Bewegung weg von
+      Abschreckung hin zu Einflussnahme und möglicherweise hin zu einem begrenzten,
+      kontrollierten Einsatz von Bodentruppen. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Washington hat eine fünf-tägige Pause bei geplanten Angriffen
+      auf die iranische Energieinfrastruktur angekündigt, nachdem Präsident Trump von
+      ersten Kontakten mit Iran gesprochen hat, während Teheran die Gespräche bestreitet,
+      jedoch eine Anfrage zu Verhandlungen erhalten hat, während indirekte Kommunikationskanäle
+      weiterhin aktiv sind, um den regionalen Konflikt zu deeskalieren.
+    paragraph_summary: Washington hat eine fünf-tägige Pause bei geplanten Angriffen
+      auf die iranische Energieinfrastruktur angekündigt, nachdem Präsident Trump von
+      ersten Kontakten mit iranischen Vertretern berichtete, während Teheran Gespräche
+      bestritt, jedoch eine Anfrage für Verhandlungen erhielt. Indirekte Kommunikationskanäle
+      mit Vermittlern wie der Türkei, Ägypten und Oman bleiben aktiv, um den Konflikt
+      in der Region zu entschärfen. Die Ankündigung kam kurz vor der Markteröffnung
+      und half, den Rückgang der Ölpreise zu stabilisieren, was angesichts der Warnungen
+      der Internationalen Energieagentur über den Verlust von 11 Millionen Barrel pro
+      Tag aufgrund des Konflikts bedeutend ist. Trotz dieser Pause bleiben die militärischen
+      Operationen im Allgemeinen unverändert, und die Maßnahme scheint darauf abzuzielen,
+      direkte Angriffe auf die iranische Infrastruktur zu vermeiden, während die militärische
+      Handlungsfreiheit erhalten bleibt, was durch die Ankunft zusätzlicher US-Marines
+      im Golf unterstrichen wird.
+    published: '2026-03-23T19:46:47+00:00'
+  - title: 'Von Luftangriffen bis zur Küste: Bereitet Washington eine begrenzte Landung
+      in der Straße von Hormus vor?'
+    url: https://ejmagnier.com/2026/03/23/von-luftangriffen-bis-zur-kuste-bereitet-washington-eine-begrenzte-landung-in-der-strase-von-hormus-vor/
+    text: Von Elijah J. Magnier – Washington hat eine fünftägige Pause bei den geplanten
+      Angriffen auf die iranische Energie- und Strominfrastruktur angekündigt, nachdem
+      Präsident Donald Trump von ersten Kontakten mit iranischen Vertretern in den vergangenen
+      zwei Tagen gesprochen hatte. Teheran hat bestritten, dass Gespräche stattgefunden
+      hätten, bestätigte jedoch, am Samstag eine Anfrage der USA zu Verhandlungen erhalten
+      zu haben, auf die es jedoch noch nicht reagiert habe. Indirekte Kanäle bleiben
+      jedoch aktiv. Der Austausch zwischen dem Iran und Vermittlern wie der Türkei,
+      Ägypten und Oman wurde fortgesetzt, mit dem Ziel, die Intensität eines Konflikts
+      einzudämmen, der mittlerweile die gesamte Region Westasiens betrifft. Der Zeitpunkt
+      der Ankündigung scheint genau abgestimmt. Da sie kurz vor der Eröffnung der Märkte
+      erfolgte, trug sie dazu bei, einen starken Abwärtstrend zu stabilisieren und den
+      Anstieg der Ölpreise zumindest bis zum Ende der Handelswoche einzudämmen. Dies
+      ist besonders bedeutsam angesichts der Warnungen der Internationalen Energieagentur,
+      dass derzeit rund 11 Millionen Barrel pro Tag aufgrund des Krieges gegen den Iran
+      ausfallen. Über diese vorübergehende Pause hinaus bleibt die allgemeine Dynamik
+      unverändert. Die Militäroperationen gehen weiter, und die Aussetzung scheint darauf
+      beschränkt zu sein, direkte US-Angriffe auf die iranische Energieinfrastruktur
+      und damit eine wahrscheinliche iranische Vergeltungsmaßnahme gegen Energieanlagen
+      am Golf zu vermeiden. Anstatt eine Deeskalation zu signalisieren, deutet dieser
+      Schritt auf eine Neukalibrierung des Drucks hin, weg von Zielen, die eine unmittelbare
+      Ausweitung des Konflikts in der Region riskieren, während die Handlungsfreiheit
+      im militärischen Bereich gewahrt bleibt. In diesem Zusammenhang gewinnt die Ankunft
+      zusätzlicher US-Marines im Golf an Bedeutung. Dies ist weder eine bloße Routinerverstärkung,
+      noch bedeutet es bereits eine Entscheidung für Bodenoperationen. Es spiegelt eine
+      Verschiebung der Haltung wider, die die operativen Optionen über die maritime
+      Sicherheit hinaus erweitert, während sie dennoch im Bereich der Notfallplanung
+      verbleibt. In Verbindung mit dem verstärkten Einsatz von A-10-Flugzeugen und Apache-Kampfhubschraubern
+      in der Nähe der südlichen Zugänge zum Iran deutet dies auf eine Bewegung weg von
+      Abschreckung hin zu Einflussnahme und möglicherweise hin zu einem begrenzten,
+      kontrollierten Einsatz von Bodentruppen. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Washington hat eine fünf-tägige Pause bei geplanten Angriffen
+      auf die iranische Energieinfrastruktur angekündigt, nachdem Präsident Trump von
+      ersten Kontakten mit Iran gesprochen hat, während Teheran die Gespräche bestreitet,
+      jedoch eine Anfrage zu Verhandlungen erhalten hat, während indirekte Kommunikationskanäle
+      weiterhin aktiv sind, um den regionalen Konflikt zu deeskalieren.
+    paragraph_summary: Washington hat eine fünf-tägige Pause bei geplanten Angriffen
+      auf die iranische Energieinfrastruktur angekündigt, nachdem Präsident Trump von
+      ersten Kontakten mit iranischen Vertretern berichtete, während Teheran Gespräche
+      bestritt, jedoch eine Anfrage für Verhandlungen erhielt. Indirekte Kommunikationskanäle
+      mit Vermittlern wie der Türkei, Ägypten und Oman bleiben aktiv, um den Konflikt
+      in der Region zu entschärfen. Die Ankündigung kam kurz vor der Markteröffnung
+      und half, den Rückgang der Ölpreise zu stabilisieren, was angesichts der Warnungen
+      der Internationalen Energieagentur über den Verlust von 11 Millionen Barrel pro
+      Tag aufgrund des Konflikts bedeutend ist. Trotz dieser Pause bleiben die militärischen
+      Operationen im Allgemeinen unverändert, und die Maßnahme scheint darauf abzuzielen,
+      direkte Angriffe auf die iranische Infrastruktur zu vermeiden, während die militärische
+      Handlungsfreiheit erhalten bleibt, was durch die Ankunft zusätzlicher US-Marines
+      im Golf unterstrichen wird.
+    published: '2026-03-23T19:46:47+00:00'
+  - title: 'Des frappes aériennes au rivage : Washington prépare-t-il un débarquement
+      limité dans le détroit d’Hormuz ?'
+    url: https://ejmagnier.com/2026/03/23/des-frappes-aeriennes-au-rivage-washington-prepare-t-il-un-debarquement-limite-dans-le-detroit-dhormuz/
+    text: Par Elijah J. Magnier – Washington a annoncé une pause de cinq jours dans
+      les frappes prévues contre les infrastructures énergétiques et électriques de
+      l’Iran, à la suite de ce que le président Donald Trump a présenté comme des contacts
+      initiaux avec des responsables iraniens au cours des deux derniers jours. Téhéran
+      a nié l’existence de tels échanges, tout en confirmant avoir reçu samedi une demande
+      américaine de négociation, restée sans réponse à ce jour. Des canaux indirects
+      restent toutefois actifs. Les échanges entre l’Iran et des intermédiaires tels
+      que la Turquie, l’Égypte et Oman se poursuivent, dans le but de contenir l’intensité
+      d’un conflit qui affecte désormais l’ensemble de l’Asie de l’Ouest. Le calendrier
+      de cette annonce semble calibré. Intervenue juste avant l’ouverture des marchés,
+      elle a contribué à stabiliser une tendance fortement baissière et à contenir la
+      hausse des prix du pétrole, au moins jusqu’à la fin de la semaine boursière. Cela
+      est d’autant plus significatif que l’Agence internationale de l’énergie a averti
+      qu’environ 11 millions de barils par jour sont actuellement perturbés en raison
+      de la guerre contre l’Iran. Au-delà de cette pause temporaire, la dynamique globale
+      reste inchangée. Les opérations militaires se poursuivent, et la suspension semble
+      se limiter à éviter des frappes américaines directes contre les infrastructures
+      énergétiques iraniennes et, en retour, une probable riposte iranienne contre les
+      installations énergétiques des pays du Golfe. Plutôt qu’un signal de désescalade,
+      cette décision suggère un réajustement de la pression, s’éloignant de cibles susceptibles
+      de provoquer un embrasement régional immédiat tout en préservant la liberté d’action
+      dans le domaine militaire. C’est dans ce contexte que l’arrivée de Marines américains
+      supplémentaires dans le Golfe prend toute son importance. Il ne s’agit pas simplement
+      d’un renforcement de routine, sans pour autant constituer une décision d’engagement
+      terrestre. Cela reflète un changement de posture qui élargit les options opérationnelles
+      au-delà de la sécurité maritime, tout en restant dans le cadre d’une planification
+      de contingence. Associée à l’usage accru d’avions A-10 et d’hélicoptères d’attaque
+      Apache près des approches méridionales de l’Iran, cette évolution suggère un passage
+      de la dissuasion à la préparation du champ de bataille, et potentiellement vers
+      un emploi limité et contrôlé de forces terrestres. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Washington a annoncé une pause de cinq jours dans les frappes
+      contre les infrastructures énergétiques de l'Iran après des contacts initiaux
+      évoqués par Donald Trump, tandis que Téhéran a nié ces échanges et a reçu une
+      demande de négociation américaine sans réponse, tout en maintenant des canaux
+      de communication indirects via des intermédiaires.
+    paragraph_summary: Washington a annoncé une pause de cinq jours dans les frappes
+      contre les infrastructures énergétiques de l'Iran, suite à des contacts initiaux
+      évoqués par le président Trump, que Téhéran a niés tout en confirmant avoir reçu
+      une demande de négociation non répondue. Des canaux indirects de communication,
+      notamment avec des intermédiaires comme la Turquie et l'Égypte, demeurent actifs
+      pour atténuer le conflit en Asie de l'Ouest. Cette annonce, faite avant l'ouverture
+      des marchés, a contribué à stabiliser les prix du pétrole, alors que l'Agence
+      internationale de l'énergie a signalé des perturbations majeures dans l'approvisionnement.
+      Cependant, la pause semble être une manœuvre tactique pour éviter une escalade
+      immédiate, tout en maintenant la possibilité d'opérations militaires, comme en
+      témoigne le renforcement des troupes américaines dans le Golfe.
+    published: '2026-03-23T19:43:04+00:00'
+  - title: 'Des frappes aériennes au rivage : Washington prépare-t-il un débarquement
+      limité dans le détroit d’Hormuz ?'
+    url: https://ejmagnier.com/2026/03/23/des-frappes-aeriennes-au-rivage-washington-prepare-t-il-un-debarquement-limite-dans-le-detroit-dhormuz/
+    text: Par Elijah J. Magnier – Washington a annoncé une pause de cinq jours dans
+      les frappes prévues contre les infrastructures énergétiques et électriques de
+      l’Iran, à la suite de ce que le président Donald Trump a présenté comme des contacts
+      initiaux avec des responsables iraniens au cours des deux derniers jours. Téhéran
+      a nié l’existence de tels échanges, tout en confirmant avoir reçu samedi une demande
+      américaine de négociation, restée sans réponse à ce jour. Des canaux indirects
+      restent toutefois actifs. Les échanges entre l’Iran et des intermédiaires tels
+      que la Turquie, l’Égypte et Oman se poursuivent, dans le but de contenir l’intensité
+      d’un conflit qui affecte désormais l’ensemble de l’Asie de l’Ouest. Le calendrier
+      de cette annonce semble calibré. Intervenue juste avant l’ouverture des marchés,
+      elle a contribué à stabiliser une tendance fortement baissière et à contenir la
+      hausse des prix du pétrole, au moins jusqu’à la fin de la semaine boursière. Cela
+      est d’autant plus significatif que l’Agence internationale de l’énergie a averti
+      qu’environ 11 millions de barils par jour sont actuellement perturbés en raison
+      de la guerre contre l’Iran. Au-delà de cette pause temporaire, la dynamique globale
+      reste inchangée. Les opérations militaires se poursuivent, et la suspension semble
+      se limiter à éviter des frappes américaines directes contre les infrastructures
+      énergétiques iraniennes et, en retour, une probable riposte iranienne contre les
+      installations énergétiques des pays du Golfe. Plutôt qu’un signal de désescalade,
+      cette décision suggère un réajustement de la pression, s’éloignant de cibles susceptibles
+      de provoquer un embrasement régional immédiat tout en préservant la liberté d’action
+      dans le domaine militaire. C’est dans ce contexte que l’arrivée de Marines américains
+      supplémentaires dans le Golfe prend toute son importance. Il ne s’agit pas simplement
+      d’un renforcement de routine, sans pour autant constituer une décision d’engagement
+      terrestre. Cela reflète un changement de posture qui élargit les options opérationnelles
+      au-delà de la sécurité maritime, tout en restant dans le cadre d’une planification
+      de contingence. Associée à l’usage accru d’avions A-10 et d’hélicoptères d’attaque
+      Apache près des approches méridionales de l’Iran, cette évolution suggère un passage
+      de la dissuasion à la préparation du champ de bataille, et potentiellement vers
+      un emploi limité et contrôlé de forces terrestres. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Washington a annoncé une pause de cinq jours dans les frappes
+      contre les infrastructures énergétiques de l'Iran après des contacts initiaux
+      évoqués par Donald Trump, tandis que Téhéran a nié ces échanges et a reçu une
+      demande de négociation américaine sans réponse, tout en maintenant des canaux
+      de communication indirects via des intermédiaires.
+    paragraph_summary: Washington a annoncé une pause de cinq jours dans les frappes
+      contre les infrastructures énergétiques de l'Iran, suite à des contacts initiaux
+      évoqués par le président Trump, que Téhéran a niés tout en confirmant avoir reçu
+      une demande de négociation non répondue. Des canaux indirects de communication,
+      notamment avec des intermédiaires comme la Turquie et l'Égypte, demeurent actifs
+      pour atténuer le conflit en Asie de l'Ouest. Cette annonce, faite avant l'ouverture
+      des marchés, a contribué à stabiliser les prix du pétrole, alors que l'Agence
+      internationale de l'énergie a signalé des perturbations majeures dans l'approvisionnement.
+      Cependant, la pause semble être une manœuvre tactique pour éviter une escalade
+      immédiate, tout en maintenant la possibilité d'opérations militaires, comme en
+      témoigne le renforcement des troupes américaines dans le Golfe.
+    published: '2026-03-23T19:43:04+00:00'
+  - title: 'From Air Strikes to Shoreline: Is Washington Preparing a Limited Landing
+      in the Strait of Hormuz?'
+    url: https://ejmagnier.com/2026/03/23/from-air-strikes-to-shoreline-is-washington-preparing-a-limited-landing-in-the-strait-of-hormuz/
+    text: By Elijah J. Magnier – Washington has announced a five day pause in planned
+      strikes against Iran’s energy and power infrastructure following what President
+      Donald Trump described as initial contacts with Iranian officials over the past
+      two days. Tehran has denied that any talks took place, while confirming it received
+      a US request to negotiate on Saturday but has not responded. Indirect channels,
+      however, remain active. Exchanges between Iran and intermediaries such as Turkey,
+      Egypt and Oman have continued, aimed at containing the intensity of a conflict
+      now affecting the wider West Asia region. The timing of the announcement appears
+      calibrated. Coming just before the opening of the markets, it helped stabilise
+      a sharp downward trend and contained the rise in oil prices at least until the
+      end of the trading week. This is particularly significant given warnings from
+      the International Energy Agency that around 11 million barrels per day are currently
+      disrupted due to the war on Iran. Beyond this temporary pause, the broader dynamic
+      remains unchanged. Military operations continue, and the suspension appears limited
+      to avoiding direct US strikes on Iranian energy infrastructure and, in turn, a
+      likely Iranian retaliation against Gulf energy facilities. Rather than signalling
+      de-escalation, this move suggests a recalibration of pressure, shifting away from
+      targets that risk immediate regional spillover while preserving freedom of action
+      across the military domain. It is within this context that the arrival of additional
+      US Marines in the Gulf takes on greater significance. This is not simply a routine
+      reinforcement, nor does it yet amount to a decision for ground action. It reflects
+      a shift in posture that expands operational options beyond maritime security,
+      while still remaining within the realm of contingency planning. When read alongside
+      the increased use of A-10 aircraft and Apache attack helicopters near Iran’s southern
+      approaches, it suggests movement from deterrence toward shaping, and potentially
+      toward a limited, controlled use of ground forces. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The U.S. has announced a five-day pause in planned strikes
+      against Iran's energy infrastructure amid reported initial contacts between the
+      two nations, while Iran denies any talks took place but acknowledges a U.S. request
+      for negotiations, as indirect communications continue through intermediaries to
+      manage regional conflict and stabilize oil prices.
+    paragraph_summary: The article discusses the recent announcement by Washington of
+      a five-day pause in planned strikes against Iran's energy infrastructure, following
+      President Trump's claims of initial contacts with Iranian officials, which Tehran
+      has denied. While Iran acknowledged a US request for negotiations, it has not
+      responded, although indirect communications through intermediaries like Turkey,
+      Egypt, and Oman continue. This pause appears strategically timed to stabilize
+      oil prices amid disruptions caused by the conflict, as the International Energy
+      Agency warns of significant oil supply impacts. However, the broader military
+      operations persist, indicating that this pause is more about recalibrating pressure
+      rather than de-escalation. The arrival of additional US Marines in the Gulf and
+      increased military activity suggests a shift in the US's operational posture,
+      enhancing its options while maintaining a focus on contingency planning rather
+      than immediate ground action.
+    published: '2026-03-23T19:35:57+00:00'
+  - title: 'From Air Strikes to Shoreline: Is Washington Preparing a Limited Landing
+      in the Strait of Hormuz?'
+    url: https://ejmagnier.com/2026/03/23/from-air-strikes-to-shoreline-is-washington-preparing-a-limited-landing-in-the-strait-of-hormuz/
+    text: By Elijah J. Magnier – Washington has announced a five day pause in planned
+      strikes against Iran’s energy and power infrastructure following what President
+      Donald Trump described as initial contacts with Iranian officials over the past
+      two days. Tehran has denied that any talks took place, while confirming it received
+      a US request to negotiate on Saturday but has not responded. Indirect channels,
+      however, remain active. Exchanges between Iran and intermediaries such as Turkey,
+      Egypt and Oman have continued, aimed at containing the intensity of a conflict
+      now affecting the wider West Asia region. The timing of the announcement appears
+      calibrated. Coming just before the opening of the markets, it helped stabilise
+      a sharp downward trend and contained the rise in oil prices at least until the
+      end of the trading week. This is particularly significant given warnings from
+      the International Energy Agency that around 11 million barrels per day are currently
+      disrupted due to the war on Iran. Beyond this temporary pause, the broader dynamic
+      remains unchanged. Military operations continue, and the suspension appears limited
+      to avoiding direct US strikes on Iranian energy infrastructure and, in turn, a
+      likely Iranian retaliation against Gulf energy facilities. Rather than signalling
+      de-escalation, this move suggests a recalibration of pressure, shifting away from
+      targets that risk immediate regional spillover while preserving freedom of action
+      across the military domain. It is within this context that the arrival of additional
+      US Marines in the Gulf takes on greater significance. This is not simply a routine
+      reinforcement, nor does it yet amount to a decision for ground action. It reflects
+      a shift in posture that expands operational options beyond maritime security,
+      while still remaining within the realm of contingency planning. When read alongside
+      the increased use of A-10 aircraft and Apache attack helicopters near Iran’s southern
+      approaches, it suggests movement from deterrence toward shaping, and potentially
+      toward a limited, controlled use of ground forces. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The U.S. has announced a five-day pause in planned strikes
+      against Iran's energy infrastructure amid reported initial contacts between the
+      two nations, while Iran denies any talks took place but acknowledges a U.S. request
+      for negotiations, as indirect communications continue through intermediaries to
+      manage regional conflict and stabilize oil prices.
+    paragraph_summary: The article discusses the recent announcement by Washington of
+      a five-day pause in planned strikes against Iran's energy infrastructure, following
+      President Trump's claims of initial contacts with Iranian officials, which Tehran
+      has denied. While Iran acknowledged a US request for negotiations, it has not
+      responded, although indirect communications through intermediaries like Turkey,
+      Egypt, and Oman continue. This pause appears strategically timed to stabilize
+      oil prices amid disruptions caused by the conflict, as the International Energy
+      Agency warns of significant oil supply impacts. However, the broader military
+      operations persist, indicating that this pause is more about recalibrating pressure
+      rather than de-escalation. The arrival of additional US Marines in the Gulf and
+      increased military activity suggests a shift in the US's operational posture,
+      enhancing its options while maintaining a focus on contingency planning rather
+      than immediate ground action.
+    published: '2026-03-23T19:35:57+00:00'
+  - title: 'Kontrolle vs. Verweigerung: Der strategische Kampf um die Straße von Hormus'
+    url: https://ejmagnier.com/2026/03/22/kontrolle-vs-verweigerung-der-strategische-kampf-um-die-strase-von-hormus/
+    text: 'Von Elijah J. Magnier Präsident Donald Trump drohte, „alle Kraftwerke zu
+      zerstören, angefangen mit dem größten, falls der Iran die Straße von Hormus nicht
+      freigibt“. Der iranische Sprecher Mohamad Bagher Galibaf antwortete darauf: „Sobald
+      die Kraftwerke und die Infrastruktur unseres Landes angegriffen werden, gelten
+      die kritische Infrastruktur, die Energieinfrastruktur und die Ölanlagen in der
+      gesamten Region als legitime Ziele und werden unwiderruflich zerstört.“ Auch die
+      IRGC meldet sich zu Wort: „Sollte Donald Trump unsere Kraftwerke angreifen, werden
+      wir die Straße von Hormus vollständig sperren.“ Dies sind keine rhetorischen Wortgefechte.
+      Es sind Absichtserklärungen. Im Iran festigen externe Bedrohungen die innenpolitische
+      Front, anstatt sie zu spalten. Die politische und militärische Führung signalisiert
+      strategischen Zusammenhalt, nicht Zögern, zeigt keinerlei Anzeichen eines Rückzugs
+      und eine klare Bereitschaft, in einer anhaltenden Konfrontation mit Washington
+      Kosten zu tragen und zu verursachen. Die Logik ist Eskalation durch Ausdauer:
+      Wenn Druck ausgeübt wird, wird diesem mit Gegen-Druck in einem Ausmaß begegnet,
+      das über den Iran selbst hinausgeht und den Golf, die globalen Energieflüsse und
+      das gesamte Wirtschaftssystem erreicht. In den vergangenen drei Wochen dieses
+      illegalen Krieges Israels und der USA hat Teheran keinerlei Neigung zu Verhandlungen
+      oder einer Deeskalation gezeigt. Die Konfrontation war nicht seine Wahl, aber
+      es ist bereit, sie durchzuhalten. Iranische Raketenangriffe verursachen bereits
+      spürbare Kosten in der gesamten Region und beeinträchtigen die Infrastruktur am
+      Golf, US-Militäranlagen und vor allem Israel. Dies ist keine kurze Kampagne. Es
+      ist die Anfangsphase eines Zermürbungskrieges, den der Iran offenbar langfristig
+      führen will. Im Zentrum dieser Konfrontation liegt eine kritische Schwachstelle:
+      die Straße von Hormus. Trumps Druckkampagne hat – vielleicht unbeabsichtigt –
+      die Meerenge von einem strategischen Aktivposten zu einem zentralen Schauplatz
+      der Auseinandersetzung erhoben. Der Iran ist sich dieser Verschiebung voll bewusst
+      und hat seine Haltung entsprechend ausgerichtet. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Präsident Donald Trump drohte, iranische Kraftwerke zu zerstören,
+      woraufhin Iran mit der Zerstörung kritischer Infrastruktur in der Region und der
+      Schließung der Straße von Hormus drohte, was die interne politische Einheit im
+      Iran stärkt und eine klare Bereitschaft zur Konfrontation mit den USA signalisiert.
+    paragraph_summary: In a tense exchange, President Donald Trump threatened to destroy
+      Iranian power plants if Iran does not keep the Strait of Hormuz open, prompting
+      a strong response from Iranian officials, including Speaker Mohamad Bagher Galibaf,
+      who warned that any attack on Iran's infrastructure would make regional energy
+      facilities legitimate targets for destruction. The Iranian Revolutionary Guard
+      Corps (IRGC) echoed this sentiment, stating that they would completely close the
+      Strait of Hormuz if attacked. This escalating rhetoric reflects a unified front
+      within Iran, where external threats are reinforcing internal political cohesion
+      rather than causing division. Iran appears committed to a prolonged confrontation
+      with Washington, demonstrating a willingness to endure and inflict costs on the
+      region, particularly targeting U.S. military installations and Israel. The situation
+      has evolved into what seems to be the early stages of a war of attrition, with
+      the Strait of Hormuz emerging as a critical focal point in this escalating conflict.
+    published: '2026-03-22T19:25:48+00:00'
+  - title: 'Kontrolle vs. Verweigerung: Der strategische Kampf um die Straße von Hormus'
+    url: https://ejmagnier.com/2026/03/22/kontrolle-vs-verweigerung-der-strategische-kampf-um-die-strase-von-hormus/
+    text: 'Von Elijah J. Magnier Präsident Donald Trump drohte, „alle Kraftwerke zu
+      zerstören, angefangen mit dem größten, falls der Iran die Straße von Hormus nicht
+      freigibt“. Der iranische Sprecher Mohamad Bagher Galibaf antwortete darauf: „Sobald
+      die Kraftwerke und die Infrastruktur unseres Landes angegriffen werden, gelten
+      die kritische Infrastruktur, die Energieinfrastruktur und die Ölanlagen in der
+      gesamten Region als legitime Ziele und werden unwiderruflich zerstört.“ Auch die
+      IRGC meldet sich zu Wort: „Sollte Donald Trump unsere Kraftwerke angreifen, werden
+      wir die Straße von Hormus vollständig sperren.“ Dies sind keine rhetorischen Wortgefechte.
+      Es sind Absichtserklärungen. Im Iran festigen externe Bedrohungen die innenpolitische
+      Front, anstatt sie zu spalten. Die politische und militärische Führung signalisiert
+      strategischen Zusammenhalt, nicht Zögern, zeigt keinerlei Anzeichen eines Rückzugs
+      und eine klare Bereitschaft, in einer anhaltenden Konfrontation mit Washington
+      Kosten zu tragen und zu verursachen. Die Logik ist Eskalation durch Ausdauer:
+      Wenn Druck ausgeübt wird, wird diesem mit Gegen-Druck in einem Ausmaß begegnet,
+      das über den Iran selbst hinausgeht und den Golf, die globalen Energieflüsse und
+      das gesamte Wirtschaftssystem erreicht. In den vergangenen drei Wochen dieses
+      illegalen Krieges Israels und der USA hat Teheran keinerlei Neigung zu Verhandlungen
+      oder einer Deeskalation gezeigt. Die Konfrontation war nicht seine Wahl, aber
+      es ist bereit, sie durchzuhalten. Iranische Raketenangriffe verursachen bereits
+      spürbare Kosten in der gesamten Region und beeinträchtigen die Infrastruktur am
+      Golf, US-Militäranlagen und vor allem Israel. Dies ist keine kurze Kampagne. Es
+      ist die Anfangsphase eines Zermürbungskrieges, den der Iran offenbar langfristig
+      führen will. Im Zentrum dieser Konfrontation liegt eine kritische Schwachstelle:
+      die Straße von Hormus. Trumps Druckkampagne hat – vielleicht unbeabsichtigt –
+      die Meerenge von einem strategischen Aktivposten zu einem zentralen Schauplatz
+      der Auseinandersetzung erhoben. Der Iran ist sich dieser Verschiebung voll bewusst
+      und hat seine Haltung entsprechend ausgerichtet. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Präsident Donald Trump drohte, iranische Kraftwerke zu zerstören,
+      woraufhin Iran mit der Zerstörung kritischer Infrastruktur in der Region und der
+      Schließung der Straße von Hormus drohte, was die interne politische Einheit im
+      Iran stärkt und eine klare Bereitschaft zur Konfrontation mit den USA signalisiert.
+    paragraph_summary: In a tense exchange, President Donald Trump threatened to destroy
+      Iranian power plants if Iran does not keep the Strait of Hormuz open, prompting
+      a strong response from Iranian officials, including Speaker Mohamad Bagher Galibaf,
+      who warned that any attack on Iran's infrastructure would make regional energy
+      facilities legitimate targets for destruction. The Iranian Revolutionary Guard
+      Corps (IRGC) echoed this sentiment, stating that they would completely close the
+      Strait of Hormuz if attacked. This escalating rhetoric reflects a unified front
+      within Iran, where external threats are reinforcing internal political cohesion
+      rather than causing division. Iran appears committed to a prolonged confrontation
+      with Washington, demonstrating a willingness to endure and inflict costs on the
+      region, particularly targeting U.S. military installations and Israel. The situation
+      has evolved into what seems to be the early stages of a war of attrition, with
+      the Strait of Hormuz emerging as a critical focal point in this escalating conflict.
+    published: '2026-03-22T19:25:48+00:00'
+  - title: 'Contrôle vs. Déni : la bataille stratégique pour le détroit d’Hormuz'
+    url: https://ejmagnier.com/2026/03/22/controle-vs-deni-la-bataille-strategique-pour-le-detroit-dhormuz/
+    text: 'Par Elijah J. Magnier Le président Donald Trump a menacé de « détruire toutes
+      les centrales électriques, en commençant par la plus grande, si l’Iran n’ouvre
+      pas le détroit d’Hormuz ». Le président du Parlement iranien, Mohamad Bagher Ghalibaf,
+      a répondu en déclarant que « immédiatement après que les centrales électriques
+      et les infrastructures de notre pays seront ciblées, les infrastructures critiques,
+      énergétiques et les installations pétrolières dans toute la région seront considérées
+      comme des cibles légitimes et seront détruites de manière irréversible ». Les
+      Gardiens de la Révolution ont également pris position : « Si Donald Trump frappe
+      nos centrales électriques, nous fermerons complètement le détroit d’Hormuz ».
+      Il ne s’agit pas d’échanges rhétoriques. Ce sont des déclarations d’intention.
+      En Iran, les menaces extérieures consolident le front intérieur plutôt qu’elles
+      ne le fragilisent. Les dirigeants politiques et militaires affichent une cohésion
+      stratégique, sans signe de recul, et une volonté claire d’absorber et d’imposer
+      des coûts dans une confrontation prolongée avec Washington. La logique est celle
+      d’une escalade par endurance : toute pression sera rencontrée par une contre-pression
+      à une échelle dépassant l’Iran lui-même, affectant le Golfe, les flux énergétiques
+      mondiaux et l’économie globale. Au cours des trois dernières semaines de cette
+      guerre illégale israélo-américaine, Téhéran n’a montré aucune volonté de négocier
+      ni de désamorcer la confrontation. Le conflit ne relève pas de son choix initial,
+      mais il est prêt à le soutenir. Les frappes de missiles iraniennes imposent déjà
+      des coûts tangibles dans la région, touchant les infrastructures du Golfe, les
+      bases militaires américaines et, surtout, Israël. Il ne s’agit pas d’une campagne
+      courte, mais de la phase initiale d’une guerre d’usure que l’Iran semble prêt
+      à mener sur le long terme. Au cœur de cette confrontation se trouve une vulnérabilité
+      critique : le détroit d’Hormuz. La stratégie de pression de Trump a, peut-être
+      involontairement, transformé le détroit d’un atout stratégique en champ de bataille
+      central. L’Iran est pleinement conscient de ce basculement et a ajusté sa posture
+      en conséquence. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le président Donald Trump a menacé de détruire les centrales
+      électriques iraniennes si l'Iran ne rouvre pas le détroit d'Hormuz, ce à quoi
+      les responsables iraniens ont répondu en menaçant de cibler les infrastructures
+      critiques de la région en retour, illustrant une cohésion stratégique face aux
+      menaces extérieures.
+    paragraph_summary: Le président Donald Trump a menacé de détruire les centrales
+      électriques iraniennes si Téhéran ne rouvre pas le détroit d'Hormuz, ce à quoi
+      le président du Parlement iranien, Mohamad Bagher Ghalibaf, a répondu en promettant
+      de cibler les infrastructures critiques de la région en cas d'attaque. Les Gardiens
+      de la Révolution ont également averti qu'une frappe sur les centrales entraînerait
+      la fermeture du détroit. Ces déclarations révèlent une volonté iranienne de résister
+      à la pression américaine et de mener une guerre d'usure, consolidant ainsi le
+      front intérieur face aux menaces extérieures. L'Iran semble déterminé à infliger
+      des coûts tangibles dans la région, affectant non seulement ses adversaires directs,
+      mais aussi les flux énergétiques mondiaux et l'économie globale, tout en affichant
+      une absence de volonté de négocier ou de désamorcer le conflit.
+    published: '2026-03-22T19:07:23+00:00'
+  - title: 'Contrôle vs. Déni : la bataille stratégique pour le détroit d’Hormuz'
+    url: https://ejmagnier.com/2026/03/22/controle-vs-deni-la-bataille-strategique-pour-le-detroit-dhormuz/
+    text: 'Par Elijah J. Magnier Le président Donald Trump a menacé de « détruire toutes
+      les centrales électriques, en commençant par la plus grande, si l’Iran n’ouvre
+      pas le détroit d’Hormuz ». Le président du Parlement iranien, Mohamad Bagher Ghalibaf,
+      a répondu en déclarant que « immédiatement après que les centrales électriques
+      et les infrastructures de notre pays seront ciblées, les infrastructures critiques,
+      énergétiques et les installations pétrolières dans toute la région seront considérées
+      comme des cibles légitimes et seront détruites de manière irréversible ». Les
+      Gardiens de la Révolution ont également pris position : « Si Donald Trump frappe
+      nos centrales électriques, nous fermerons complètement le détroit d’Hormuz ».
+      Il ne s’agit pas d’échanges rhétoriques. Ce sont des déclarations d’intention.
+      En Iran, les menaces extérieures consolident le front intérieur plutôt qu’elles
+      ne le fragilisent. Les dirigeants politiques et militaires affichent une cohésion
+      stratégique, sans signe de recul, et une volonté claire d’absorber et d’imposer
+      des coûts dans une confrontation prolongée avec Washington. La logique est celle
+      d’une escalade par endurance : toute pression sera rencontrée par une contre-pression
+      à une échelle dépassant l’Iran lui-même, affectant le Golfe, les flux énergétiques
+      mondiaux et l’économie globale. Au cours des trois dernières semaines de cette
+      guerre illégale israélo-américaine, Téhéran n’a montré aucune volonté de négocier
+      ni de désamorcer la confrontation. Le conflit ne relève pas de son choix initial,
+      mais il est prêt à le soutenir. Les frappes de missiles iraniennes imposent déjà
+      des coûts tangibles dans la région, touchant les infrastructures du Golfe, les
+      bases militaires américaines et, surtout, Israël. Il ne s’agit pas d’une campagne
+      courte, mais de la phase initiale d’une guerre d’usure que l’Iran semble prêt
+      à mener sur le long terme. Au cœur de cette confrontation se trouve une vulnérabilité
+      critique : le détroit d’Hormuz. La stratégie de pression de Trump a, peut-être
+      involontairement, transformé le détroit d’un atout stratégique en champ de bataille
+      central. L’Iran est pleinement conscient de ce basculement et a ajusté sa posture
+      en conséquence. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le président Donald Trump a menacé de détruire les centrales
+      électriques iraniennes si l'Iran ne rouvre pas le détroit d'Hormuz, ce à quoi
+      les responsables iraniens ont répondu en menaçant de cibler les infrastructures
+      critiques de la région en retour, illustrant une cohésion stratégique face aux
+      menaces extérieures.
+    paragraph_summary: Le président Donald Trump a menacé de détruire les centrales
+      électriques iraniennes si Téhéran ne rouvre pas le détroit d'Hormuz, ce à quoi
+      le président du Parlement iranien, Mohamad Bagher Ghalibaf, a répondu en promettant
+      de cibler les infrastructures critiques de la région en cas d'attaque. Les Gardiens
+      de la Révolution ont également averti qu'une frappe sur les centrales entraînerait
+      la fermeture du détroit. Ces déclarations révèlent une volonté iranienne de résister
+      à la pression américaine et de mener une guerre d'usure, consolidant ainsi le
+      front intérieur face aux menaces extérieures. L'Iran semble déterminé à infliger
+      des coûts tangibles dans la région, affectant non seulement ses adversaires directs,
+      mais aussi les flux énergétiques mondiaux et l'économie globale, tout en affichant
+      une absence de volonté de négocier ou de désamorcer le conflit.
+    published: '2026-03-22T19:07:23+00:00'
+  - title: 'Control vs. Denial: The Strategic Battle for the Strait of Hormuz'
+    url: https://ejmagnier.com/2026/03/22/control-vs-denial-the-strategic-battle-for-the-strait-of-hormuz/
+    text: 'By Elijah J. Magnier President Donald Trump threatened to ‘obliterate all
+      various power plants, starting with the biggest one first if Iran doesn’t open
+      the Strait of Hormuz.’ Iran speaker Mohamad Bagher Galibaf responded saying ‘immediately
+      after the power plants and infrastructure of our country are targeted, the critical
+      infrastructure, energy infrastructure and oil facilities throughout the region
+      will be considered legitimate targets and will be destroyed in an irreversible
+      manner.’ The IRGC has also a say: ‘If Donald Trump hit our power plants we shall
+      close the Strait of Hormuz completely.’ These are not rhetorical exchanges. They
+      are declarations of intent. In Iran, external threats consolidate rather than
+      fracture the domestic front. The political and military leadership is signalling
+      strategic cohesion, not hesitation, showing no indication of stepping back and
+      a clear readiness to absorb and impose costs in a sustained confrontation with
+      Washington. The logic is escalation through endurance: if pressure is applied,
+      it will be met with counter-pressure at a scale that extends beyond Iran itself,
+      reaching the Gulf, global energy flows, and the wider economic system. Over the
+      past three weeks of this Israeli-US illegal war, Tehran has shown no inclination
+      toward negotiation or de-escalation. The confrontation was not of its choosing,
+      but it is one it is prepared to sustain. Iranian missile strikes are already imposing
+      tangible costs across the region, affecting Gulf infrastructure, US military assets,
+      and, above all, Israel. This is not a short campaign. It is the opening phase
+      of a war of attrition that Iran appears willing to carry over the long term. At
+      the centre of this confrontation lies a critical vulnerability: the Strait of
+      Hormuz. Trump’s pressure campaign has, perhaps unintentionally, elevated the strait
+      from a strategic asset to a central battleground. Iran is fully aware of this
+      shift and has structured its posture accordingly. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: President Trump threatened to destroy Iran's power plants
+      if the Strait of Hormuz is not opened, prompting a strong response from Iranian
+      officials who declared that such actions would lead to retaliation against regional
+      infrastructure, indicating a readiness for sustained confrontation between the
+      two nations.
+    paragraph_summary: In response to President Donald Trump's threats to target Iranian
+      power plants if Iran does not open the Strait of Hormuz, Iranian officials, including
+      speaker Mohamad Bagher Galibaf and the IRGC, have declared that any attack on
+      their infrastructure would lead to severe retaliation against regional energy
+      and oil facilities, and a complete closure of the Strait. This exchange reflects
+      a firm resolve from Iran's leadership to maintain strategic cohesion and readiness
+      for a prolonged confrontation with the U.S., as they signal their willingness
+      to endure and escalate costs in response to external pressures. The ongoing conflict,
+      exacerbated by recent Israeli-U.S. military actions, has led Iran to adopt a posture
+      aimed at sustaining a war of attrition, with the Strait of Hormuz becoming a focal
+      point in this escalating tension, which Iran is prepared to leverage as a critical
+      battleground.
+    published: '2026-03-22T19:02:53+00:00'
+  - title: 'Control vs. Denial: The Strategic Battle for the Strait of Hormuz'
+    url: https://ejmagnier.com/2026/03/22/control-vs-denial-the-strategic-battle-for-the-strait-of-hormuz/
+    text: 'By Elijah J. Magnier President Donald Trump threatened to ‘obliterate all
+      various power plants, starting with the biggest one first if Iran doesn’t open
+      the Strait of Hormuz.’ Iran speaker Mohamad Bagher Galibaf responded saying ‘immediately
+      after the power plants and infrastructure of our country are targeted, the critical
+      infrastructure, energy infrastructure and oil facilities throughout the region
+      will be considered legitimate targets and will be destroyed in an irreversible
+      manner.’ The IRGC has also a say: ‘If Donald Trump hit our power plants we shall
+      close the Strait of Hormuz completely.’ These are not rhetorical exchanges. They
+      are declarations of intent. In Iran, external threats consolidate rather than
+      fracture the domestic front. The political and military leadership is signalling
+      strategic cohesion, not hesitation, showing no indication of stepping back and
+      a clear readiness to absorb and impose costs in a sustained confrontation with
+      Washington. The logic is escalation through endurance: if pressure is applied,
+      it will be met with counter-pressure at a scale that extends beyond Iran itself,
+      reaching the Gulf, global energy flows, and the wider economic system. Over the
+      past three weeks of this Israeli-US illegal war, Tehran has shown no inclination
+      toward negotiation or de-escalation. The confrontation was not of its choosing,
+      but it is one it is prepared to sustain. Iranian missile strikes are already imposing
+      tangible costs across the region, affecting Gulf infrastructure, US military assets,
+      and, above all, Israel. This is not a short campaign. It is the opening phase
+      of a war of attrition that Iran appears willing to carry over the long term. At
+      the centre of this confrontation lies a critical vulnerability: the Strait of
+      Hormuz. Trump’s pressure campaign has, perhaps unintentionally, elevated the strait
+      from a strategic asset to a central battleground. Iran is fully aware of this
+      shift and has structured its posture accordingly. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: President Trump threatened to destroy Iran's power plants
+      if the Strait of Hormuz is not opened, prompting a strong response from Iranian
+      officials who declared that such actions would lead to retaliation against regional
+      infrastructure, indicating a readiness for sustained confrontation between the
+      two nations.
+    paragraph_summary: In response to President Donald Trump's threats to target Iranian
+      power plants if Iran does not open the Strait of Hormuz, Iranian officials, including
+      speaker Mohamad Bagher Galibaf and the IRGC, have declared that any attack on
+      their infrastructure would lead to severe retaliation against regional energy
+      and oil facilities, and a complete closure of the Strait. This exchange reflects
+      a firm resolve from Iran's leadership to maintain strategic cohesion and readiness
+      for a prolonged confrontation with the U.S., as they signal their willingness
+      to endure and escalate costs in response to external pressures. The ongoing conflict,
+      exacerbated by recent Israeli-U.S. military actions, has led Iran to adopt a posture
+      aimed at sustaining a war of attrition, with the Strait of Hormuz becoming a focal
+      point in this escalating tension, which Iran is prepared to leverage as a critical
+      battleground.
+    published: '2026-03-22T19:02:53+00:00'
+  - title: 'Der Schlag, der nicht treffen musste: Diego Garcia und das Ende der strategischen
+      Distanz'
+    url: https://ejmagnier.com/2026/03/21/der-schlag-der-nicht-treffen-musste-diego-garcia-und-das-ende-der-strategischen-distanz/
+    text: 'Von Elijah J. Magnier Der Krieg ist in eine neue Phase eingetreten, nicht
+      aufgrund eines entscheidenden militärischen Durchbruchs, sondern aufgrund einer
+      Veränderung in der Art und Weise, wie Macht ausgeübt wird. Der Iran bewegt sich
+      nicht mehr innerhalb der erwarteten Grenzen des Konflikts. Er erweitert sie. Der
+      gemeldete Einsatz einer ballistischen Mittelstreckenrakete (IRBM) in Richtung
+      der Insel Diego Garcia, in einer Entfernung von schätzungsweise 3.800 bis 5.000
+      Kilometern, markiert eine deutliche Eskalation sowohl hinsichtlich der Reichweite
+      als auch der Absicht. Dies ist nicht nur ein technischer Fortschritt, sondern
+      ein strategisches Signal. Es zeigt, dass dem Iran die Optionen noch lange nicht
+      ausgehen. Im Gegenteil: Es deutet darauf hin, dass Teheran noch über vielfältige
+      Fähigkeiten in der Reserve verfügt und in der Lage ist, das Schlachtfeld weit
+      über seine unmittelbare Umgebung hinaus auszudehnen. Die Vorstellung, dass der
+      Iran seinen Einfluss verliert, trifft nicht zu. Er hat noch viele Asse im Ärmel.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Der Artikel beschreibt, dass der Iran seine militärischen
+      Möglichkeiten und strategischen Ambitionen erweitert, indem er eine ballistische
+      Mittelstreckenrakete in Richtung Diego Garcia einsetzt, was eine signifikante
+      Eskalation des Konflikts und ein Zeichen dafür ist, dass Teheran weiterhin über
+      vielfältige Fähigkeiten verfügt und seinen Einfluss nicht verliert.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt eine neue Phase
+      im Konflikt, die nicht durch militärische Erfolge, sondern durch eine veränderte
+      Machtdynamik gekennzeichnet ist. Der Iran überschreitet die erwarteten Grenzen
+      des Konflikts und demonstriert dies durch den Einsatz einer ballistischen Mittelstreckenrakete
+      in Richtung Diego Garcia, was eine signifikante Eskalation in Reichweite und Absicht
+      darstellt. Diese Entwicklung signalisiert, dass der Iran über vielfältige strategische
+      Optionen verfügt und seinen Einfluss nicht verliert, sondern vielmehr in der Lage
+      ist, das Schlachtfeld über seine unmittelbare Umgebung hinaus auszudehnen.
+    published: '2026-03-21T20:08:30+00:00'
+  - title: 'Der Schlag, der nicht treffen musste: Diego Garcia und das Ende der strategischen
+      Distanz'
+    url: https://ejmagnier.com/2026/03/21/der-schlag-der-nicht-treffen-musste-diego-garcia-und-das-ende-der-strategischen-distanz/
+    text: 'Von Elijah J. Magnier Der Krieg ist in eine neue Phase eingetreten, nicht
+      aufgrund eines entscheidenden militärischen Durchbruchs, sondern aufgrund einer
+      Veränderung in der Art und Weise, wie Macht ausgeübt wird. Der Iran bewegt sich
+      nicht mehr innerhalb der erwarteten Grenzen des Konflikts. Er erweitert sie. Der
+      gemeldete Einsatz einer ballistischen Mittelstreckenrakete (IRBM) in Richtung
+      der Insel Diego Garcia, in einer Entfernung von schätzungsweise 3.800 bis 5.000
+      Kilometern, markiert eine deutliche Eskalation sowohl hinsichtlich der Reichweite
+      als auch der Absicht. Dies ist nicht nur ein technischer Fortschritt, sondern
+      ein strategisches Signal. Es zeigt, dass dem Iran die Optionen noch lange nicht
+      ausgehen. Im Gegenteil: Es deutet darauf hin, dass Teheran noch über vielfältige
+      Fähigkeiten in der Reserve verfügt und in der Lage ist, das Schlachtfeld weit
+      über seine unmittelbare Umgebung hinaus auszudehnen. Die Vorstellung, dass der
+      Iran seinen Einfluss verliert, trifft nicht zu. Er hat noch viele Asse im Ärmel.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Der Artikel beschreibt, dass der Iran seine militärischen
+      Möglichkeiten und strategischen Ambitionen erweitert, indem er eine ballistische
+      Mittelstreckenrakete in Richtung Diego Garcia einsetzt, was eine signifikante
+      Eskalation des Konflikts und ein Zeichen dafür ist, dass Teheran weiterhin über
+      vielfältige Fähigkeiten verfügt und seinen Einfluss nicht verliert.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt eine neue Phase
+      im Konflikt, die nicht durch militärische Erfolge, sondern durch eine veränderte
+      Machtdynamik gekennzeichnet ist. Der Iran überschreitet die erwarteten Grenzen
+      des Konflikts und demonstriert dies durch den Einsatz einer ballistischen Mittelstreckenrakete
+      in Richtung Diego Garcia, was eine signifikante Eskalation in Reichweite und Absicht
+      darstellt. Diese Entwicklung signalisiert, dass der Iran über vielfältige strategische
+      Optionen verfügt und seinen Einfluss nicht verliert, sondern vielmehr in der Lage
+      ist, das Schlachtfeld über seine unmittelbare Umgebung hinaus auszudehnen.
+    published: '2026-03-21T20:08:30+00:00'
+  - title: 'The Strike That Didn’t Need to Hit: Diego Garcia and the End of Strategic
+      Distance'
+    url: https://ejmagnier.com/2026/03/21/the-strike-that-didnt-need-to-hit-diego-garcia-and-the-end-of-strategic-distance/
+    text: By Elijah J. Magnier The war has entered a new phase, not because of a decisive
+      military breakthrough, but because of a shift in how power is being projected.
+      Iran is no longer operating within the expected boundaries of the conflict. It
+      is expanding them. The reported use of an Intermediate-Range Ballistic Missile
+      (IRBM) directed toward Diego Garcia Island, at a distance estimated between 3,800
+      and 5,000 kilometers, marks a clear escalation in both reach and intent. This
+      is not just a technical step forward; it is a strategic signal. It shows that
+      Iran is far from running out of options. On the contrary, it suggests that Tehran
+      still holds multiple layers of capability in reserve, with the ability to extend
+      the battlefield far beyond its immediate environment. The idea that Iran is losing
+      its leverage does not hold. It still has many rabbits to pull out of the hat.
+      Over recent weeks, Iran has introduced and deployed a new generation of missile
+      systems against Israel, including more sophisticated ballistic and manoeuvrable
+      platforms specifically designed to stress and penetrate layered air defence networks.
+      These strikes are not simply about delivering impact; they are about adaptation.
+      They reflect a deliberate effort to evolve tactics in real time, probing interception
+      thresholds, identifying gaps, and forcing Israel and its allies into a continuous
+      cycle of recalibration. What emerges is a shift away from reactive exchanges toward
+      a more fluid and dynamic form of escalation. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses how Iran is expanding its military capabilities
+      and strategic reach, evidenced by its reported use of an Intermediate-Range Ballistic
+      Missile aimed at Diego Garcia Island, signaling that Tehran still possesses significant
+      leverage and options in the ongoing conflict.
+    paragraph_summary: The article by Elijah J. Magnier discusses a significant shift
+      in the dynamics of the ongoing conflict involving Iran, highlighting its expanded
+      military capabilities and strategic reach. Iran's reported use of an Intermediate-Range
+      Ballistic Missile (IRBM) aimed at Diego Garcia Island signals a notable escalation,
+      indicating that Tehran is not running out of options but rather has multiple capabilities
+      in reserve. The introduction of advanced missile systems targeting Israel demonstrates
+      Iran's adaptive tactics, as it seeks to exploit vulnerabilities in air defense
+      systems and create a more fluid and dynamic escalation of conflict, moving away
+      from mere reactive exchanges. This evolving strategy suggests that Iran retains
+      substantial leverage in the situation.
+    published: '2026-03-21T17:58:37+00:00'
+  - title: 'The Strike That Didn’t Need to Hit: Diego Garcia and the End of Strategic
+      Distance'
+    url: https://ejmagnier.com/2026/03/21/the-strike-that-didnt-need-to-hit-diego-garcia-and-the-end-of-strategic-distance/
+    text: By Elijah J. Magnier The war has entered a new phase, not because of a decisive
+      military breakthrough, but because of a shift in how power is being projected.
+      Iran is no longer operating within the expected boundaries of the conflict. It
+      is expanding them. The reported use of an Intermediate-Range Ballistic Missile
+      (IRBM) directed toward Diego Garcia Island, at a distance estimated between 3,800
+      and 5,000 kilometers, marks a clear escalation in both reach and intent. This
+      is not just a technical step forward; it is a strategic signal. It shows that
+      Iran is far from running out of options. On the contrary, it suggests that Tehran
+      still holds multiple layers of capability in reserve, with the ability to extend
+      the battlefield far beyond its immediate environment. The idea that Iran is losing
+      its leverage does not hold. It still has many rabbits to pull out of the hat.
+      Over recent weeks, Iran has introduced and deployed a new generation of missile
+      systems against Israel, including more sophisticated ballistic and manoeuvrable
+      platforms specifically designed to stress and penetrate layered air defence networks.
+      These strikes are not simply about delivering impact; they are about adaptation.
+      They reflect a deliberate effort to evolve tactics in real time, probing interception
+      thresholds, identifying gaps, and forcing Israel and its allies into a continuous
+      cycle of recalibration. What emerges is a shift away from reactive exchanges toward
+      a more fluid and dynamic form of escalation. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: The article discusses how Iran is expanding its military capabilities
+      and strategic reach, evidenced by its reported use of an Intermediate-Range Ballistic
+      Missile aimed at Diego Garcia Island, signaling that Tehran still possesses significant
+      leverage and options in the ongoing conflict.
+    paragraph_summary: The article by Elijah J. Magnier discusses a significant shift
+      in the dynamics of the ongoing conflict involving Iran, highlighting its expanded
+      military capabilities and strategic reach. Iran's reported use of an Intermediate-Range
+      Ballistic Missile (IRBM) aimed at Diego Garcia Island signals a notable escalation,
+      indicating that Tehran is not running out of options but rather has multiple capabilities
+      in reserve. The introduction of advanced missile systems targeting Israel demonstrates
+      Iran's adaptive tactics, as it seeks to exploit vulnerabilities in air defense
+      systems and create a more fluid and dynamic escalation of conflict, moving away
+      from mere reactive exchanges. This evolving strategy suggests that Iran retains
+      substantial leverage in the situation.
+    published: '2026-03-21T17:58:37+00:00'
+  - title: 'Le tir qui n’avait pas besoin d’atteindre sa cible : Diego Garcia et la
+      fin de la distance stratégique'
+    url: https://ejmagnier.com/2026/03/21/le-tir-qui-navait-pas-besoin-datteindre-sa-cible-diego-garcia-et-la-fin-de-la-distance-strategique/
+    text: Par Elijah J. Magnier La guerre est entrée dans une nouvelle phase, non pas
+      en raison d’une percée militaire décisive, mais à cause d’un changement dans la
+      manière dont la puissance est projetée. L’Iran n’opère plus dans les limites attendues
+      du conflit. Il les élargit. L’utilisation rapportée d’un missile balistique de
+      portée intermédiaire (IRBM) en direction de l’île de Diego Garcia, à une distance
+      estimée entre 3 800 et 5 000 kilomètres, marque une escalade claire à la fois
+      en portée et en intention. Ce n’est pas seulement une avancée technique ; c’est
+      un signal stratégique. Cela montre que l’Iran est loin d’avoir épuisé ses options.
+      Au contraire, cela suggère que Téhéran dispose encore de plusieurs niveaux de
+      capacités en réserve, avec la possibilité d’étendre le champ de bataille bien
+      au-delà de son environnement immédiat. L’idée selon laquelle l’Iran perdrait son
+      levier ne tient pas. Il a encore de nombreuses cartes en main. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'Iran a élargi les limites de son engagement militaire en
+      utilisant un missile balistique de portée intermédiaire, signalant une escalade
+      stratégique et une réserve de capacités qui lui permettent de projeter sa puissance
+      bien au-delà de son environnement immédiat.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre a évolué
+      vers une nouvelle phase, non pas à cause d'une victoire militaire décisive, mais
+      en raison d'un changement dans la projection de la puissance, notamment par l'Iran.
+      Ce dernier élargit les limites du conflit en utilisant un missile balistique de
+      portée intermédiaire (IRBM) visant l'île de Diego Garcia, démontrant ainsi une
+      escalade tant en portée qu'en intention. Cette avancée technique indique que l'Iran
+      n'a pas épuisé ses options et possède encore plusieurs capacités en réserve, suggérant
+      qu'il a la possibilité d'étendre le champ de bataille bien au-delà de son environnement
+      immédiat, contredisant l'idée qu'il perdrait son levier dans le conflit.
+    published: '2026-03-21T17:54:19+00:00'
+  - title: 'Le tir qui n’avait pas besoin d’atteindre sa cible : Diego Garcia et la
+      fin de la distance stratégique'
+    url: https://ejmagnier.com/2026/03/21/le-tir-qui-navait-pas-besoin-datteindre-sa-cible-diego-garcia-et-la-fin-de-la-distance-strategique/
+    text: Par Elijah J. Magnier La guerre est entrée dans une nouvelle phase, non pas
+      en raison d’une percée militaire décisive, mais à cause d’un changement dans la
+      manière dont la puissance est projetée. L’Iran n’opère plus dans les limites attendues
+      du conflit. Il les élargit. L’utilisation rapportée d’un missile balistique de
+      portée intermédiaire (IRBM) en direction de l’île de Diego Garcia, à une distance
+      estimée entre 3 800 et 5 000 kilomètres, marque une escalade claire à la fois
+      en portée et en intention. Ce n’est pas seulement une avancée technique ; c’est
+      un signal stratégique. Cela montre que l’Iran est loin d’avoir épuisé ses options.
+      Au contraire, cela suggère que Téhéran dispose encore de plusieurs niveaux de
+      capacités en réserve, avec la possibilité d’étendre le champ de bataille bien
+      au-delà de son environnement immédiat. L’idée selon laquelle l’Iran perdrait son
+      levier ne tient pas. Il a encore de nombreuses cartes en main. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: L'Iran a élargi les limites de son engagement militaire en
+      utilisant un missile balistique de portée intermédiaire, signalant une escalade
+      stratégique et une réserve de capacités qui lui permettent de projeter sa puissance
+      bien au-delà de son environnement immédiat.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre a évolué
+      vers une nouvelle phase, non pas à cause d'une victoire militaire décisive, mais
+      en raison d'un changement dans la projection de la puissance, notamment par l'Iran.
+      Ce dernier élargit les limites du conflit en utilisant un missile balistique de
+      portée intermédiaire (IRBM) visant l'île de Diego Garcia, démontrant ainsi une
+      escalade tant en portée qu'en intention. Cette avancée technique indique que l'Iran
+      n'a pas épuisé ses options et possède encore plusieurs capacités en réserve, suggérant
+      qu'il a la possibilité d'étendre le champ de bataille bien au-delà de son environnement
+      immédiat, contredisant l'idée qu'il perdrait son levier dans le conflit.
+    published: '2026-03-21T17:54:19+00:00'
+  - title: What are the reasons for Iran to attack the Gulf Countries and not only Israel
+      and the US bases?
+    url: https://ejmagnier.com/2026/03/20/what-are-the-reasons-for-iran-to-attack-the-gulf-countries-and-not-only-israel-and-the-us-bases/
+    text: 'By Elijah J. Magnier The war on Iran is agreed by a large part of the international
+      community to be unlawful and driven primarily by Israel and its agenda. Nevertheless,
+      the same international actors are asking Iran to exercise restraint and to stop
+      attacking Gulf countries’ energy infrastructure, actions described as illegal
+      and unacceptable. For Iran, this selective application of law exposes a deep contradiction.
+      International law, from Tehran’s perspective, appears to apply only to its actions,
+      while being ignored when it comes to the actions of others and the essence of
+      the ongoing war. Iran points to the widespread targeting it has endured: its energy
+      infrastructure, civilian facilities, police barracks, customs centres, hospitals,
+      schools, residential complexes, and individuals have all been struck. Its commercial
+      harbour on the Caspian Sea has been attacked, alongside other military and strategic
+      objectives. The UN Secretary-General, Antonio Guterres, said there are “reasonable
+      grounds” to believe both sides may have committed war crimes by attacking energy
+      infrastructure. He urged Iran to stop attacking neighbours (Gulf states) who “were
+      never parties to the conflict” and called for an end to all assaults on energy
+      sites. He did not single out only Iran’s actions as war crimes or remain silent
+      on the other side. This asymmetry reinforces Iran’s belief that it is being judged
+      by a different standard, in particular when the attacking forces, departing from
+      the Gulf and Arab countries, are destroying the wealth of the state and not the
+      elements that support the current ruling system. This raises the central question:
+      why would Iran choose to attack Gulf countries, and not limit its response to
+      Israel and US military bases? The answer lies in a combination of historical rivalry,
+      geopolitical calculations, and what Iran sees, from its point of view, as indirect and
+      direct cooperation and participation by Gulf states in the war. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The article argues that while the international community
+      largely views the war on Iran as unlawful and driven by Israel, it hypocritically
+      calls for Iran to refrain from retaliating against attacks on its own infrastructure,
+      highlighting a perceived double standard in the application of international law.
+    paragraph_summary: The article by Elijah J. Magnier discusses the ongoing conflict
+      involving Iran, highlighting the perceived hypocrisy in international responses
+      to the war, particularly regarding Israel's actions. While many in the international
+      community deem the war on Iran unlawful and driven by Israeli interests, they
+      simultaneously urge Iran to refrain from retaliating against Gulf countries' energy
+      infrastructure, which Iran argues is a double standard in the application of international
+      law. Iran contends that it has faced extensive attacks on its own infrastructure
+      and civilians, and notes that the UN Secretary-General has acknowledged potential
+      war crimes on both sides. The article suggests that Iran's choice to target Gulf
+      states, rather than solely Israel and US military bases, is influenced by historical
+      rivalries and perceived complicity of Gulf nations in the conflict against Iran.
+    published: '2026-03-20T18:31:27+00:00'
+  - title: What are the reasons for Iran to attack the Gulf Countries and not only Israel
+      and the US bases?
+    url: https://ejmagnier.com/2026/03/20/what-are-the-reasons-for-iran-to-attack-the-gulf-countries-and-not-only-israel-and-the-us-bases/
+    text: 'By Elijah J. Magnier The war on Iran is agreed by a large part of the international
+      community to be unlawful and driven primarily by Israel and its agenda. Nevertheless,
+      the same international actors are asking Iran to exercise restraint and to stop
+      attacking Gulf countries’ energy infrastructure, actions described as illegal
+      and unacceptable. For Iran, this selective application of law exposes a deep contradiction.
+      International law, from Tehran’s perspective, appears to apply only to its actions,
+      while being ignored when it comes to the actions of others and the essence of
+      the ongoing war. Iran points to the widespread targeting it has endured: its energy
+      infrastructure, civilian facilities, police barracks, customs centres, hospitals,
+      schools, residential complexes, and individuals have all been struck. Its commercial
+      harbour on the Caspian Sea has been attacked, alongside other military and strategic
+      objectives. The UN Secretary-General, Antonio Guterres, said there are “reasonable
+      grounds” to believe both sides may have committed war crimes by attacking energy
+      infrastructure. He urged Iran to stop attacking neighbours (Gulf states) who “were
+      never parties to the conflict” and called for an end to all assaults on energy
+      sites. He did not single out only Iran’s actions as war crimes or remain silent
+      on the other side. This asymmetry reinforces Iran’s belief that it is being judged
+      by a different standard, in particular when the attacking forces, departing from
+      the Gulf and Arab countries, are destroying the wealth of the state and not the
+      elements that support the current ruling system. This raises the central question:
+      why would Iran choose to attack Gulf countries, and not limit its response to
+      Israel and US military bases? The answer lies in a combination of historical rivalry,
+      geopolitical calculations, and what Iran sees, from its point of view, as indirect and
+      direct cooperation and participation by Gulf states in the war. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The article argues that while the international community
+      largely views the war on Iran as unlawful and driven by Israel, it hypocritically
+      calls for Iran to refrain from retaliating against attacks on its own infrastructure,
+      highlighting a perceived double standard in the application of international law.
+    paragraph_summary: The article by Elijah J. Magnier discusses the ongoing conflict
+      involving Iran, highlighting the perceived hypocrisy in international responses
+      to the war, particularly regarding Israel's actions. While many in the international
+      community deem the war on Iran unlawful and driven by Israeli interests, they
+      simultaneously urge Iran to refrain from retaliating against Gulf countries' energy
+      infrastructure, which Iran argues is a double standard in the application of international
+      law. Iran contends that it has faced extensive attacks on its own infrastructure
+      and civilians, and notes that the UN Secretary-General has acknowledged potential
+      war crimes on both sides. The article suggests that Iran's choice to target Gulf
+      states, rather than solely Israel and US military bases, is influenced by historical
+      rivalries and perceived complicity of Gulf nations in the conflict against Iran.
+    published: '2026-03-20T18:31:27+00:00'
+  - title: Quelles sont les raisons qui poussent l’Iran à attaquer les pays du Golfe
+      et pas seulement Israël et les bases américaines ?
+    url: https://ejmagnier.com/2026/03/20/quelles-sont-les-raisons-qui-poussent-liran-a-attaquer-les-pays-du-golfe-et-pas-seulement-israel-et-les-bases-americaines/
+    text: 'Par Elijah J. Magnier La guerre contre l’Iran est considérée par une large
+      partie de la communauté internationale comme illégale et principalement dictée
+      par Israël et son agenda. Néanmoins, les mêmes acteurs internationaux demandent
+      à l’Iran de faire preuve de retenue et de cesser de viser les infrastructures
+      énergétiques des pays du Golfe, des actions qualifiées d’illégales et d’inacceptables.
+      Pour l’Iran, cette application sélective du droit révèle une profonde contradiction.
+      Le droit international, du point de vue de Téhéran, semble s’appliquer uniquement
+      à ses propres actions, tout en étant ignoré lorsqu’il s’agit des actions des autres
+      et de la nature même de la guerre en cours. L’Iran souligne l’ampleur des frappes
+      qu’il a subies : ses infrastructures énergétiques, ses installations civiles,
+      ses casernes de police, ses centres douaniers, ses hôpitaux, ses écoles, ses complexes
+      résidentiels et des individus ont été visés. Son port commercial sur la mer Caspienne
+      a été attaqué, ainsi que d’autres objectifs militaires et stratégiques. Le Secrétaire
+      général de l’ONU, Antonio Guterres, a déclaré qu’il existait des « motifs raisonnables
+      » de croire que les deux camps pourraient avoir commis des crimes de guerre en
+      ciblant des infrastructures énergétiques. Il a exhorté l’Iran à cesser d’attaquer
+      des voisins (les États du Golfe) « qui n’étaient pas parties au conflit » et a
+      appelé à la fin de toutes les attaques contre les sites énergétiques. Il n’a pas
+      désigné uniquement les actions de l’Iran comme des crimes de guerre ni gardé le
+      silence sur celles de l’autre camp. Cette asymétrie renforce la conviction de
+      l’Iran d’être jugé selon un double standard, en particulier lorsque les forces
+      attaquantes, opérant depuis les pays du Golfe et arabes, détruisent les richesses
+      de l’État et non les éléments qui soutiennent le système dirigeant actuel. Cela
+      soulève la question centrale : pourquoi l’Iran choisirait-il d’attaquer les pays
+      du Golfe, et non de limiter sa réponse à Israël et aux bases militaires américaines
+      ? La réponse réside dans une combinaison de rivalité historique, de calculs géopolitiques
+      et de ce que l’Iran perçoit, de son point de vue, comme une collaboration et participation
+      indirecte et directe des États du Golfe à la guerre. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'Iran critique l'application sélective du droit international
+      par la communauté internationale, qui condamne ses actions tout en ignorant celles
+      d'Israël et des autres acteurs dans le cadre de la guerre en cours, malgré les
+      nombreuses frappes subies par ses infrastructures et civils.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la perception internationale
+      de la guerre contre l'Iran, souvent jugée illégale et influencée par l'agenda
+      israélien, tout en soulignant l'hypocrisie des appels à la retenue de l'Iran face
+      à des attaques contre ses infrastructures. Téhéran dénonce une application sélective
+      du droit international, arguant que ses propres actions sont condamnées tandis
+      que celles des autres, notamment des pays du Golfe, sont ignorées. Le secrétaire
+      général de l'ONU, Antonio Guterres, a reconnu des motifs raisonnables de crimes
+      de guerre des deux côtés, mais a spécifiquement exhorté l'Iran à cesser ses attaques
+      contre des pays non impliqués dans le conflit. Cette situation renforce la perception
+      iranienne d'un double standard dans le jugement des actions militaires, soulevant
+      des questions sur les raisons qui poussent l'Iran à cibler les États du Golfe
+      plutôt que de se concentrer sur ses adversaires directs.
+    published: '2026-03-20T18:30:26+00:00'
+  - title: Quelles sont les raisons qui poussent l’Iran à attaquer les pays du Golfe
+      et pas seulement Israël et les bases américaines ?
+    url: https://ejmagnier.com/2026/03/20/quelles-sont-les-raisons-qui-poussent-liran-a-attaquer-les-pays-du-golfe-et-pas-seulement-israel-et-les-bases-americaines/
+    text: 'Par Elijah J. Magnier La guerre contre l’Iran est considérée par une large
+      partie de la communauté internationale comme illégale et principalement dictée
+      par Israël et son agenda. Néanmoins, les mêmes acteurs internationaux demandent
+      à l’Iran de faire preuve de retenue et de cesser de viser les infrastructures
+      énergétiques des pays du Golfe, des actions qualifiées d’illégales et d’inacceptables.
+      Pour l’Iran, cette application sélective du droit révèle une profonde contradiction.
+      Le droit international, du point de vue de Téhéran, semble s’appliquer uniquement
+      à ses propres actions, tout en étant ignoré lorsqu’il s’agit des actions des autres
+      et de la nature même de la guerre en cours. L’Iran souligne l’ampleur des frappes
+      qu’il a subies : ses infrastructures énergétiques, ses installations civiles,
+      ses casernes de police, ses centres douaniers, ses hôpitaux, ses écoles, ses complexes
+      résidentiels et des individus ont été visés. Son port commercial sur la mer Caspienne
+      a été attaqué, ainsi que d’autres objectifs militaires et stratégiques. Le Secrétaire
+      général de l’ONU, Antonio Guterres, a déclaré qu’il existait des « motifs raisonnables
+      » de croire que les deux camps pourraient avoir commis des crimes de guerre en
+      ciblant des infrastructures énergétiques. Il a exhorté l’Iran à cesser d’attaquer
+      des voisins (les États du Golfe) « qui n’étaient pas parties au conflit » et a
+      appelé à la fin de toutes les attaques contre les sites énergétiques. Il n’a pas
+      désigné uniquement les actions de l’Iran comme des crimes de guerre ni gardé le
+      silence sur celles de l’autre camp. Cette asymétrie renforce la conviction de
+      l’Iran d’être jugé selon un double standard, en particulier lorsque les forces
+      attaquantes, opérant depuis les pays du Golfe et arabes, détruisent les richesses
+      de l’État et non les éléments qui soutiennent le système dirigeant actuel. Cela
+      soulève la question centrale : pourquoi l’Iran choisirait-il d’attaquer les pays
+      du Golfe, et non de limiter sa réponse à Israël et aux bases militaires américaines
+      ? La réponse réside dans une combinaison de rivalité historique, de calculs géopolitiques
+      et de ce que l’Iran perçoit, de son point de vue, comme une collaboration et participation
+      indirecte et directe des États du Golfe à la guerre. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'Iran critique l'application sélective du droit international
+      par la communauté internationale, qui condamne ses actions tout en ignorant celles
+      d'Israël et des autres acteurs dans le cadre de la guerre en cours, malgré les
+      nombreuses frappes subies par ses infrastructures et civils.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la perception internationale
+      de la guerre contre l'Iran, souvent jugée illégale et influencée par l'agenda
+      israélien, tout en soulignant l'hypocrisie des appels à la retenue de l'Iran face
+      à des attaques contre ses infrastructures. Téhéran dénonce une application sélective
+      du droit international, arguant que ses propres actions sont condamnées tandis
+      que celles des autres, notamment des pays du Golfe, sont ignorées. Le secrétaire
+      général de l'ONU, Antonio Guterres, a reconnu des motifs raisonnables de crimes
+      de guerre des deux côtés, mais a spécifiquement exhorté l'Iran à cesser ses attaques
+      contre des pays non impliqués dans le conflit. Cette situation renforce la perception
+      iranienne d'un double standard dans le jugement des actions militaires, soulevant
+      des questions sur les raisons qui poussent l'Iran à cibler les États du Golfe
+      plutôt que de se concentrer sur ses adversaires directs.
+    published: '2026-03-20T18:30:26+00:00'
+  - title: Was sind die Gründe dafür, dass der Iran die Golfstaaten angreift und nicht
+      nur Israel und die US-Stützpunkte?
+    url: https://ejmagnier.com/2026/03/20/was-sind-die-grunde-dafur-dass-der-iran-die-golfstaaten-angreift-und-nicht-nur-israel-und-die-us-stutzpunkte/
+    text: 'Von Elijah J. Magnier Ein Großteil der internationalen Gemeinschaft ist sich
+      einig, dass der Krieg gegen den Iran rechtswidrig ist und in erster Linie von
+      Israel und dessen Agenda vorangetrieben wird. Dennoch fordern dieselben internationalen
+      Akteure den Iran auf, Zurückhaltung zu üben und die Angriffe auf die Energieinfrastruktur
+      der Golfstaaten einzustellen – Handlungen, die als illegal und inakzeptabel bezeichnet
+      werden. Für den Iran offenbart diese selektive Anwendung des Rechts einen tiefen
+      Widerspruch. Aus Teherans Sicht scheint das Völkerrecht nur für seine eigenen
+      Handlungen zu gelten, während es ignoriert wird, wenn es um die Handlungen anderer
+      und den Kern des andauernden Krieges geht. Der Iran verweist auf die weitreichenden
+      Angriffe, denen er ausgesetzt war: Seine Energieinfrastruktur, zivile Einrichtungen,
+      Polizeikasernen, Zollzentren, Krankenhäuser, Schulen, Wohnkomplexe und Einzelpersonen
+      wurden alle getroffen. Sein Handelshafen am Kaspischen Meer wurde ebenso angegriffen
+      wie andere militärische und strategische Ziele. UN-Generalsekretär Antonio Guterres
+      sagte, es gebe „begründeten Anlass“ zu der Annahme, dass beide Seiten durch Angriffe
+      auf die Energieinfrastruktur Kriegsverbrechen begangen haben könnten. Er forderte
+      den Iran nachdrücklich auf, die Angriffe auf Nachbarn (die Golfstaaten) einzustellen,
+      die „nie Konfliktparteien waren“, und rief ein Ende aller Angriffe auf Energieanlagen
+      herbei. Er hat nicht nur die Handlungen des Iran als Kriegsverbrechen herausgestellt
+      oder zu der anderen Seite geschwiegen. Diese Asymmetrie bestärkt den Iran in seiner
+      Überzeugung, dass er nach anderen Maßstäben beurteilt wird, insbesondere wenn
+      die angreifenden Kräfte, die aus den Golfstaaten und arabischen Ländern stammen,
+      den Reichtum des Staates zerstören und nicht die Elemente, die das derzeitige
+      Herrschaftssystem stützen. Dies wirft die zentrale Frage auf: Warum sollte der
+      Iran sich dafür entscheiden, Golfstaaten anzugreifen, anstatt seine Reaktion auf
+      Israel und US-Militärstützpunkte zu beschränken? Die Antwort liegt in einer Kombination
+      aus historischer Rivalität, geopolitischen Kalkülen und dem, was der Iran aus
+      seiner Sicht als indirekte und direkte Beteiligung der Golfstaaten an dem Krieg
+      ansieht. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier kritisiert die internationale
+      Gemeinschaft für ihre selektive Anwendung des Völkerrechts, indem sie den Iran
+      auffordert, Angriffe auf die Energieinfrastruktur der Golfstaaten zu unterlassen,
+      während sie gleichzeitig den rechtswidrigen Krieg gegen den Iran, der hauptsächlich
+      von Israel vorangetrieben wird, ignoriert.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die internationale
+      Wahrnehmung des Konflikts zwischen dem Iran und seinen Nachbarn thematisiert,
+      wobei der Krieg gegen den Iran als rechtswidrig und von Israel getrieben angesehen
+      wird. Während die internationale Gemeinschaft den Iran auffordert, Angriffe auf
+      die Energieinfrastruktur der Golfstaaten zu unterlassen, kritisiert Teheran die
+      selektive Anwendung des Völkerrechts, die seiner Meinung nach nur für seine eigenen
+      Handlungen gilt. Der Iran hebt hervor, dass er selbst Ziel umfangreicher Angriffe
+      auf zivile und militärische Einrichtungen war und argumentiert, dass die asymmetrische
+      Behandlung durch internationale Akteure seine Überzeugung verstärkt, dass er nach
+      anderen Maßstäben beurteilt wird. UN-Generalsekretär Antonio Guterres hat beide
+      Seiten für mögliche Kriegsverbrechen verantwortlich gemacht und fordert ein Ende
+      aller Angriffe auf Energieanlagen, was die Frage aufwirft, warum der Iran sich
+      entscheiden sollte, Golfstaaten anzugreifen, anstatt auf Israel zu reagieren.
+    published: '2026-03-20T18:29:23+00:00'
+  - title: Was sind die Gründe dafür, dass der Iran die Golfstaaten angreift und nicht
+      nur Israel und die US-Stützpunkte?
+    url: https://ejmagnier.com/2026/03/20/was-sind-die-grunde-dafur-dass-der-iran-die-golfstaaten-angreift-und-nicht-nur-israel-und-die-us-stutzpunkte/
+    text: 'Von Elijah J. Magnier Ein Großteil der internationalen Gemeinschaft ist sich
+      einig, dass der Krieg gegen den Iran rechtswidrig ist und in erster Linie von
+      Israel und dessen Agenda vorangetrieben wird. Dennoch fordern dieselben internationalen
+      Akteure den Iran auf, Zurückhaltung zu üben und die Angriffe auf die Energieinfrastruktur
+      der Golfstaaten einzustellen – Handlungen, die als illegal und inakzeptabel bezeichnet
+      werden. Für den Iran offenbart diese selektive Anwendung des Rechts einen tiefen
+      Widerspruch. Aus Teherans Sicht scheint das Völkerrecht nur für seine eigenen
+      Handlungen zu gelten, während es ignoriert wird, wenn es um die Handlungen anderer
+      und den Kern des andauernden Krieges geht. Der Iran verweist auf die weitreichenden
+      Angriffe, denen er ausgesetzt war: Seine Energieinfrastruktur, zivile Einrichtungen,
+      Polizeikasernen, Zollzentren, Krankenhäuser, Schulen, Wohnkomplexe und Einzelpersonen
+      wurden alle getroffen. Sein Handelshafen am Kaspischen Meer wurde ebenso angegriffen
+      wie andere militärische und strategische Ziele. UN-Generalsekretär Antonio Guterres
+      sagte, es gebe „begründeten Anlass“ zu der Annahme, dass beide Seiten durch Angriffe
+      auf die Energieinfrastruktur Kriegsverbrechen begangen haben könnten. Er forderte
+      den Iran nachdrücklich auf, die Angriffe auf Nachbarn (die Golfstaaten) einzustellen,
+      die „nie Konfliktparteien waren“, und rief ein Ende aller Angriffe auf Energieanlagen
+      herbei. Er hat nicht nur die Handlungen des Iran als Kriegsverbrechen herausgestellt
+      oder zu der anderen Seite geschwiegen. Diese Asymmetrie bestärkt den Iran in seiner
+      Überzeugung, dass er nach anderen Maßstäben beurteilt wird, insbesondere wenn
+      die angreifenden Kräfte, die aus den Golfstaaten und arabischen Ländern stammen,
+      den Reichtum des Staates zerstören und nicht die Elemente, die das derzeitige
+      Herrschaftssystem stützen. Dies wirft die zentrale Frage auf: Warum sollte der
+      Iran sich dafür entscheiden, Golfstaaten anzugreifen, anstatt seine Reaktion auf
+      Israel und US-Militärstützpunkte zu beschränken? Die Antwort liegt in einer Kombination
+      aus historischer Rivalität, geopolitischen Kalkülen und dem, was der Iran aus
+      seiner Sicht als indirekte und direkte Beteiligung der Golfstaaten an dem Krieg
+      ansieht. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier kritisiert die internationale
+      Gemeinschaft für ihre selektive Anwendung des Völkerrechts, indem sie den Iran
+      auffordert, Angriffe auf die Energieinfrastruktur der Golfstaaten zu unterlassen,
+      während sie gleichzeitig den rechtswidrigen Krieg gegen den Iran, der hauptsächlich
+      von Israel vorangetrieben wird, ignoriert.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die internationale
+      Wahrnehmung des Konflikts zwischen dem Iran und seinen Nachbarn thematisiert,
+      wobei der Krieg gegen den Iran als rechtswidrig und von Israel getrieben angesehen
+      wird. Während die internationale Gemeinschaft den Iran auffordert, Angriffe auf
+      die Energieinfrastruktur der Golfstaaten zu unterlassen, kritisiert Teheran die
+      selektive Anwendung des Völkerrechts, die seiner Meinung nach nur für seine eigenen
+      Handlungen gilt. Der Iran hebt hervor, dass er selbst Ziel umfangreicher Angriffe
+      auf zivile und militärische Einrichtungen war und argumentiert, dass die asymmetrische
+      Behandlung durch internationale Akteure seine Überzeugung verstärkt, dass er nach
+      anderen Maßstäben beurteilt wird. UN-Generalsekretär Antonio Guterres hat beide
+      Seiten für mögliche Kriegsverbrechen verantwortlich gemacht und fordert ein Ende
+      aller Angriffe auf Energieanlagen, was die Frage aufwirft, warum der Iran sich
+      entscheiden sollte, Golfstaaten anzugreifen, anstatt auf Israel zu reagieren.
+    published: '2026-03-20T18:29:23+00:00'
+  - title: 'Israel’s Escalating Objectives and Assassinations in Iran: How Long Can
+      Washington Keep Up?'
+    url: https://ejmagnier.com/2026/03/20/israels-escalating-objectives-and-assassinations-in-iran-how-long-can-washington-keep-up/
+    text: 'By Elijah J. Magnier – Israel’s campaign is not only military but also aimed
+      at shaping the diplomatic endgame and constraining US policy options. It has included
+      an unprecedented wave of targeted assassinations against Iran’s senior leadership,
+      beginning with the opening strike that killed the Supreme Leader, Ali Khamenei,
+      alongside Ali Shamkhani, former secretary of the Supreme National Security Council,
+      Brigadier General Mohammad Shirazi, head of the Supreme Leader’s military office,
+      as well as the head of the Islamic Revolutionary Guard Corps, General Mohammad
+      Pakpour, and Defence Minister Aziz Nasirzadeh, both reported killed in the same
+      initial strike. The operation also eliminated key figures within the defence and
+      intelligence apparatus, including Hossein Jabal Amelian, chairman of the Organisation
+      of Defensive Innovation and Research, Saleh Asadi, a senior intelligence official,
+      and Bahram Hosseini Motlagh, involved in operational planning. More recent operations
+      have eliminated key power brokers such as Ali Larijani, head of the Supreme National
+      Security Council, Gholamreza Soleimani, commander of the Basij paramilitary force,
+      and Intelligence Minister Esmail Khatib, alongside broader strikes on intelligence
+      leadership and security networks. The pattern is unmistakable: a sustained effort
+      to degrade leadership continuity across political, military, and security institutions.
+      Yet, despite this intensified leadership attrition, there is no evidence of institutional
+      collapse or internal fragmentation, underscoring the limits of decapitation strategies
+      against a resilient and deeply embedded state system. While Israel and the US
+      concentrated on military targets in the first days of the war, Israel nevertheless
+      shifted towards a broader and more expansive targeting pattern, striking oil depots  and
+      Gas Field in Pars, civilian infrastructure, hospitals, police and customs stations,
+      ancient UNESCO sites, and the Basij (a paramilitary volunteer force under the
+      Islamic Revolutionary Guard Corps, composed largely of civilians mobilised to
+      defend the regime and enforce internal control). The conflict has now entered
+      a more serious and potentially dangerous phase, as Israel and the US have acknowledged
+      the bombardment of Iran’s offshore South Pars gas field. This marks the opening
+      of what can be described as an ‘energy destruction war’, targeting the economic
+      lifelines of the state. In such a context, Iran is unlikely to exercise restraint
+      and its response are probably leading to a wider regional and global consequences. The
+      red lines have been removed. This widening of the battlefield is accompanied by
+      the continued use of targeted assassinations, forming part of a broader strategy
+      aimed at simultaneous economic, institutional, and leadership disruption.Targeted
+      assassinations, even without clear strategic gains, fulfil several immediate military
+      and political objectives for Israel. They disrupt command and control temporarily,
+      eliminate experienced planners, and induce uncertainty within organisations and
+      the state by compelling rapid leadership transitions under pressure. Additionally,
+      these actions serve a signalling function by demonstrating operational reach through
+      electronic or human intelligence, deterrence, and the capacity to target high-value
+      individuals globally, addressing both adversaries and domestic audiences. In certain
+      instances, assassinations aim to degrade specific capabilities linked to individuals,
+      including operational planning, logistics, or external coordination. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Israel's military campaign against Iran has involved a series
+      of targeted assassinations of senior Iranian leaders and key military figures,
+      aiming to influence the diplomatic landscape and limit U.S. policy options.
+    paragraph_summary: Israel's military campaign against Iran has evolved into a strategic
+      effort not only to weaken Iran's military capabilities through targeted assassinations
+      of high-ranking officials, including Supreme Leader Ali Khamenei and other key
+      military and intelligence figures, but also to influence diplomatic outcomes and
+      limit U.S. policy options. This unprecedented wave of attacks aims to disrupt
+      leadership continuity within Iran's political and security institutions; however,
+      despite the significant losses, there is no indication of institutional collapse
+      or fragmentation within Iran, highlighting the resilience of its state system.
+      As the conflict progressed, Israel expanded its targeting to include civilian
+      infrastructure and cultural sites, indicating a shift from purely military objectives
+      to a broader strategy aimed at undermining Iran's societal and governmental structures.
+    published: '2026-03-20T05:07:02+00:00'
+  - title: 'Israel’s Escalating Objectives and Assassinations in Iran: How Long Can
+      Washington Keep Up?'
+    url: https://ejmagnier.com/2026/03/20/israels-escalating-objectives-and-assassinations-in-iran-how-long-can-washington-keep-up/
+    text: 'By Elijah J. Magnier – Israel’s campaign is not only military but also aimed
+      at shaping the diplomatic endgame and constraining US policy options. It has included
+      an unprecedented wave of targeted assassinations against Iran’s senior leadership,
+      beginning with the opening strike that killed the Supreme Leader, Ali Khamenei,
+      alongside Ali Shamkhani, former secretary of the Supreme National Security Council,
+      Brigadier General Mohammad Shirazi, head of the Supreme Leader’s military office,
+      as well as the head of the Islamic Revolutionary Guard Corps, General Mohammad
+      Pakpour, and Defence Minister Aziz Nasirzadeh, both reported killed in the same
+      initial strike. The operation also eliminated key figures within the defence and
+      intelligence apparatus, including Hossein Jabal Amelian, chairman of the Organisation
+      of Defensive Innovation and Research, Saleh Asadi, a senior intelligence official,
+      and Bahram Hosseini Motlagh, involved in operational planning. More recent operations
+      have eliminated key power brokers such as Ali Larijani, head of the Supreme National
+      Security Council, Gholamreza Soleimani, commander of the Basij paramilitary force,
+      and Intelligence Minister Esmail Khatib, alongside broader strikes on intelligence
+      leadership and security networks. The pattern is unmistakable: a sustained effort
+      to degrade leadership continuity across political, military, and security institutions.
+      Yet, despite this intensified leadership attrition, there is no evidence of institutional
+      collapse or internal fragmentation, underscoring the limits of decapitation strategies
+      against a resilient and deeply embedded state system. While Israel and the US
+      concentrated on military targets in the first days of the war, Israel nevertheless
+      shifted towards a broader and more expansive targeting pattern, striking oil depots  and
+      Gas Field in Pars, civilian infrastructure, hospitals, police and customs stations,
+      ancient UNESCO sites, and the Basij (a paramilitary volunteer force under the
+      Islamic Revolutionary Guard Corps, composed largely of civilians mobilised to
+      defend the regime and enforce internal control). The conflict has now entered
+      a more serious and potentially dangerous phase, as Israel and the US have acknowledged
+      the bombardment of Iran’s offshore South Pars gas field. This marks the opening
+      of what can be described as an ‘energy destruction war’, targeting the economic
+      lifelines of the state. In such a context, Iran is unlikely to exercise restraint
+      and its response are probably leading to a wider regional and global consequences. The
+      red lines have been removed. This widening of the battlefield is accompanied by
+      the continued use of targeted assassinations, forming part of a broader strategy
+      aimed at simultaneous economic, institutional, and leadership disruption.Targeted
+      assassinations, even without clear strategic gains, fulfil several immediate military
+      and political objectives for Israel. They disrupt command and control temporarily,
+      eliminate experienced planners, and induce uncertainty within organisations and
+      the state by compelling rapid leadership transitions under pressure. Additionally,
+      these actions serve a signalling function by demonstrating operational reach through
+      electronic or human intelligence, deterrence, and the capacity to target high-value
+      individuals globally, addressing both adversaries and domestic audiences. In certain
+      instances, assassinations aim to degrade specific capabilities linked to individuals,
+      including operational planning, logistics, or external coordination. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Israel's military campaign against Iran has involved a series
+      of targeted assassinations of senior Iranian leaders and key military figures,
+      aiming to influence the diplomatic landscape and limit U.S. policy options.
+    paragraph_summary: Israel's military campaign against Iran has evolved into a strategic
+      effort not only to weaken Iran's military capabilities through targeted assassinations
+      of high-ranking officials, including Supreme Leader Ali Khamenei and other key
+      military and intelligence figures, but also to influence diplomatic outcomes and
+      limit U.S. policy options. This unprecedented wave of attacks aims to disrupt
+      leadership continuity within Iran's political and security institutions; however,
+      despite the significant losses, there is no indication of institutional collapse
+      or fragmentation within Iran, highlighting the resilience of its state system.
+      As the conflict progressed, Israel expanded its targeting to include civilian
+      infrastructure and cultural sites, indicating a shift from purely military objectives
+      to a broader strategy aimed at undermining Iran's societal and governmental structures.
+    published: '2026-03-20T05:07:02+00:00'
+  - title: 'Les objectifs croissants d’Israël et les assassinats en Iran : combien de
+      temps Washington peut-il suivre ?'
+    url: https://ejmagnier.com/2026/03/20/les-objectifs-croissants-disrael-et-les-assassinats-en-iran-combien-de-temps-washington-peut-il-suivre/
+    text: 'Par Elijah J. Magnier La campagne israélienne n’est pas seulement militaire
+      ; elle vise également à façonner l’issue diplomatique et à restreindre les options
+      politiques des États-Unis. Elle comprend une vague sans précédent d’assassinats
+      ciblés contre les hauts dirigeants iraniens, à commencer par la frappe initiale
+      qui aurait tué le Guide suprême, Ali Khamenei, ainsi qu’Ali Shamkhani, ancien
+      secrétaire du Conseil suprême de sécurité nationale, le général de brigade Mohammad
+      Shirazi, chef du bureau militaire du Guide suprême, ainsi que le chef du Corps
+      des gardiens de la révolution islamique, le général Mohammad Pakpour, et le ministre
+      de la Défense Aziz Nasirzadeh, tous deux également annoncés morts lors de cette
+      première frappe. L’opération a également éliminé des figures clés de l’appareil
+      de défense et de renseignement, notamment Hossein Jabal Amelian, président de
+      l’Organisation de l’innovation et de la recherche défensive, Saleh Asadi, haut
+      responsable du renseignement, et Bahram Hosseini Motlagh, impliqué dans la planification
+      opérationnelle. Des opérations plus récentes ont éliminé d’importants acteurs
+      du pouvoir tels qu’Ali Larijani, chef du Conseil suprême de sécurité nationale,
+      Gholamreza Soleimani, commandant de la force paramilitaire Basij, et le ministre
+      du Renseignement Esmail Khatib, ainsi que des frappes plus larges contre les structures
+      du renseignement et les réseaux de sécurité. Le schéma est clair : un effort soutenu
+      pour dégrader la continuité du leadership à travers les institutions politiques,
+      militaires et sécuritaires. Pourtant, malgré cette attrition accrue des dirigeants,
+      rien n’indique un effondrement institutionnel ni une fragmentation interne, ce
+      qui souligne les limites des stratégies de « décapitation » face à un système
+      étatique résilient et profondément enraciné. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article d'Elijah J. Magnier décrit la campagne israélienne
+      comme une opération militaire et diplomatique visant à influencer l'issue politique
+      en restreignant les options des États-Unis, marquée par une série d'assassinats
+      ciblés de hauts dirigeants iraniens, y compris le Guide suprême Ali Khamenei et
+      d'autres figures clés de la défense et du renseignement.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la campagne israélienne
+      qui, au-delà d'une dimension militaire, vise à influencer les résultats diplomatiques
+      et à limiter les options politiques des États-Unis, en mettant en œuvre une série
+      d'assassinats ciblés contre des dirigeants iraniens de haut niveau. Parmi les
+      victimes figurent des figures clés telles que le Guide suprême Ali Khamenei et
+      d'autres responsables militaires et de renseignement. Malgré cette offensive visant
+      à affaiblir le leadership iranien, l'article souligne qu'il n'y a pas de signes
+      d'effondrement institutionnel en Iran, ce qui met en évidence les limites de la
+      stratégie israélienne de "décapitation" face à un système étatique résilient.
+    published: '2026-03-20T05:04:21+00:00'
+  - title: 'Les objectifs croissants d’Israël et les assassinats en Iran : combien de
+      temps Washington peut-il suivre ?'
+    url: https://ejmagnier.com/2026/03/20/les-objectifs-croissants-disrael-et-les-assassinats-en-iran-combien-de-temps-washington-peut-il-suivre/
+    text: 'Par Elijah J. Magnier La campagne israélienne n’est pas seulement militaire
+      ; elle vise également à façonner l’issue diplomatique et à restreindre les options
+      politiques des États-Unis. Elle comprend une vague sans précédent d’assassinats
+      ciblés contre les hauts dirigeants iraniens, à commencer par la frappe initiale
+      qui aurait tué le Guide suprême, Ali Khamenei, ainsi qu’Ali Shamkhani, ancien
+      secrétaire du Conseil suprême de sécurité nationale, le général de brigade Mohammad
+      Shirazi, chef du bureau militaire du Guide suprême, ainsi que le chef du Corps
+      des gardiens de la révolution islamique, le général Mohammad Pakpour, et le ministre
+      de la Défense Aziz Nasirzadeh, tous deux également annoncés morts lors de cette
+      première frappe. L’opération a également éliminé des figures clés de l’appareil
+      de défense et de renseignement, notamment Hossein Jabal Amelian, président de
+      l’Organisation de l’innovation et de la recherche défensive, Saleh Asadi, haut
+      responsable du renseignement, et Bahram Hosseini Motlagh, impliqué dans la planification
+      opérationnelle. Des opérations plus récentes ont éliminé d’importants acteurs
+      du pouvoir tels qu’Ali Larijani, chef du Conseil suprême de sécurité nationale,
+      Gholamreza Soleimani, commandant de la force paramilitaire Basij, et le ministre
+      du Renseignement Esmail Khatib, ainsi que des frappes plus larges contre les structures
+      du renseignement et les réseaux de sécurité. Le schéma est clair : un effort soutenu
+      pour dégrader la continuité du leadership à travers les institutions politiques,
+      militaires et sécuritaires. Pourtant, malgré cette attrition accrue des dirigeants,
+      rien n’indique un effondrement institutionnel ni une fragmentation interne, ce
+      qui souligne les limites des stratégies de « décapitation » face à un système
+      étatique résilient et profondément enraciné. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'article d'Elijah J. Magnier décrit la campagne israélienne
+      comme une opération militaire et diplomatique visant à influencer l'issue politique
+      en restreignant les options des États-Unis, marquée par une série d'assassinats
+      ciblés de hauts dirigeants iraniens, y compris le Guide suprême Ali Khamenei et
+      d'autres figures clés de la défense et du renseignement.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la campagne israélienne
+      qui, au-delà d'une dimension militaire, vise à influencer les résultats diplomatiques
+      et à limiter les options politiques des États-Unis, en mettant en œuvre une série
+      d'assassinats ciblés contre des dirigeants iraniens de haut niveau. Parmi les
+      victimes figurent des figures clés telles que le Guide suprême Ali Khamenei et
+      d'autres responsables militaires et de renseignement. Malgré cette offensive visant
+      à affaiblir le leadership iranien, l'article souligne qu'il n'y a pas de signes
+      d'effondrement institutionnel en Iran, ce qui met en évidence les limites de la
+      stratégie israélienne de "décapitation" face à un système étatique résilient.
+    published: '2026-03-20T05:04:21+00:00'
+  - title: 'Israels eskalierende Ziele und Attentate im Iran: Wie lange kann Washington
+      noch mithalten?'
+    url: https://ejmagnier.com/2026/03/20/israels-eskalierende-ziele-und-attentate-im-iran-wie-lange-kann-washington-noch-mithalten/
+    text: 'Von Elijah J. Magnier – Israels Kampagne ist nicht nur militärischer Natur,
+      sondern zielt auch darauf ab, den diplomatischen Endspielverlauf zu beeinflussen
+      und die politischen Handlungsoptionen der USA einzuschränken. Sie umfasst eine
+      beispiellose Welle gezielter Attentate auf die oberste Führung des Iran, beginnend
+      mit dem ersten Schlag, bei dem der Oberste Führer, Ali Khamenei, zusammen mit
+      Ali Shamkhani, dem ehemaligen Sekretär des Obersten Nationalen Sicherheitsrats,
+      Brigadegeneral Mohammad Shirazi, dem Leiter des Militärbüros des Obersten Führers,
+      sowie dem Chef des Korps der Islamischen Revolutionsgarden, General Mohammad Pakpour,
+      und Verteidigungsminister Aziz Nasirzadeh, die beide Berichten zufolge bei demselben
+      ersten Angriff getötet wurden. Die Operation eliminierte zudem Schlüsselfiguren
+      innerhalb des Verteidigungs- und Geheimdienstapparats, darunter Hossein Jabal
+      Amelian, Vorsitzender der Organisation für Verteidigungsinnovation und -forschung,
+      Saleh Asadi, ein hochrangiger Geheimdienstmitarbeiter, und Bahram Hosseini Motlagh,
+      der an der operativen Planung beteiligt war. Bei jüngeren Operationen wurden wichtige
+      Machtakteure wie Ali Larijani, Leiter des Obersten Nationalen Sicherheitsrats,
+      Gholamreza Soleimani, Kommandeur der paramilitärischen Basij-Truppe, und Geheimdienstminister
+      Esmail Khatib eliminiert, neben umfassenderen Angriffen auf die Führung des Geheimdienstes
+      und Sicherheitsnetzwerke. Das Muster ist unverkennbar: ein anhaltendes Bestreben,
+      die Kontinuität der Führung in politischen, militärischen und sicherheitspolitischen
+      Institutionen zu untergraben. Doch trotz dieses verstärkten Aderlasses in der
+      Führung gibt es keine Anzeichen für einen institutionellen Zusammenbruch oder
+      eine interne Zersplitterung, was die Grenzen von Strategien zur Entkopplung der
+      Führung gegenüber einem widerstandsfähigen und tief verwurzelten staatlichen System
+      unterstreicht. Während sich Israel und die USA in den ersten Kriegstagen auf militärische
+      Ziele konzentrierten, verlagerte Israel seinen Fokus dann auf ein breiteres und
+      umfassenderes Angriffsmuster und griff Öldepots und das Gasfeld in Pars, zivile
+      Infrastruktur, Krankenhäuser, Polizei- und Zollstationen, antike UNESCO-Stätten
+      sowie die Basij (eine paramilitärische Freiwilligentruppe unter dem Kommando der
+      Islamischen Revolutionsgarde, die sich größtenteils aus Zivilisten zusammensetzt,
+      die zur Verteidigung des Regimes und zur Durchsetzung der inneren Kontrolle mobilisiert
+      wurden) an. Der Konflikt ist nun in eine ernstere und potenziell gefährlichere
+      Phase eingetreten, da Israel und die USA die Bombardierung des iranischen Offshore-Gasfeldes
+      South Pars eingeräumt haben. Dies markiert den Beginn dessen, was als „Krieg zur
+      Zerstörung der Energieversorgung“ bezeichnet werden kann, der auf die wirtschaftlichen
+      Lebensadern des Staates abzielt. In einem solchen Kontext ist es unwahrscheinlich,
+      dass der Iran Zurückhaltung übt, und seine Reaktion wird wahrscheinlich weitreichende
+      regionale und globale Folgen haben. Die roten Linien sind aufgehoben worden. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die israelische Kampagne zielt darauf ab, nicht nur militärisch,
+      sondern auch diplomatisch Einfluss auf die USA auszuüben, indem sie eine Reihe
+      gezielter Attentate auf hochrangige iranische Führungspersönlichkeiten, einschließlich
+      des Obersten Führers Ali Khamenei, durchführt.
+    paragraph_summary: Elijah J. Magnier beschreibt in seinem Artikel, dass Israels
+      militärische Kampagne gegen den Iran nicht nur militärische Ziele verfolgt, sondern
+      auch darauf abzielt, die diplomatischen Optionen der USA zu beeinflussen. Die
+      Offensive umfasst eine Reihe gezielter Attentate auf hochrangige iranische Führungspersönlichkeiten,
+      darunter den Obersten Führer Ali Khamenei und andere Schlüsselakteure im Verteidigungs-
+      und Geheimdienstsektor. Trotz dieser Angriffe zeigt sich jedoch keine Anzeichen
+      für einen institutionellen Zusammenbruch oder interne Zersplitterung innerhalb
+      des iranischen Systems, was die Robustheit und Widerstandsfähigkeit der politischen
+      und militärischen Strukturen unterstreicht. Während der ersten Kriegstage konzentrieren
+      sich Israel und die USA auf militärische Ziele, doch die langfristigen Auswirkungen
+      auf die iranische Führung bleiben ungewiss.
+    published: '2026-03-20T05:03:14+00:00'
+  - title: 'Israels eskalierende Ziele und Attentate im Iran: Wie lange kann Washington
+      noch mithalten?'
+    url: https://ejmagnier.com/2026/03/20/israels-eskalierende-ziele-und-attentate-im-iran-wie-lange-kann-washington-noch-mithalten/
+    text: 'Von Elijah J. Magnier – Israels Kampagne ist nicht nur militärischer Natur,
+      sondern zielt auch darauf ab, den diplomatischen Endspielverlauf zu beeinflussen
+      und die politischen Handlungsoptionen der USA einzuschränken. Sie umfasst eine
+      beispiellose Welle gezielter Attentate auf die oberste Führung des Iran, beginnend
+      mit dem ersten Schlag, bei dem der Oberste Führer, Ali Khamenei, zusammen mit
+      Ali Shamkhani, dem ehemaligen Sekretär des Obersten Nationalen Sicherheitsrats,
+      Brigadegeneral Mohammad Shirazi, dem Leiter des Militärbüros des Obersten Führers,
+      sowie dem Chef des Korps der Islamischen Revolutionsgarden, General Mohammad Pakpour,
+      und Verteidigungsminister Aziz Nasirzadeh, die beide Berichten zufolge bei demselben
+      ersten Angriff getötet wurden. Die Operation eliminierte zudem Schlüsselfiguren
+      innerhalb des Verteidigungs- und Geheimdienstapparats, darunter Hossein Jabal
+      Amelian, Vorsitzender der Organisation für Verteidigungsinnovation und -forschung,
+      Saleh Asadi, ein hochrangiger Geheimdienstmitarbeiter, und Bahram Hosseini Motlagh,
+      der an der operativen Planung beteiligt war. Bei jüngeren Operationen wurden wichtige
+      Machtakteure wie Ali Larijani, Leiter des Obersten Nationalen Sicherheitsrats,
+      Gholamreza Soleimani, Kommandeur der paramilitärischen Basij-Truppe, und Geheimdienstminister
+      Esmail Khatib eliminiert, neben umfassenderen Angriffen auf die Führung des Geheimdienstes
+      und Sicherheitsnetzwerke. Das Muster ist unverkennbar: ein anhaltendes Bestreben,
+      die Kontinuität der Führung in politischen, militärischen und sicherheitspolitischen
+      Institutionen zu untergraben. Doch trotz dieses verstärkten Aderlasses in der
+      Führung gibt es keine Anzeichen für einen institutionellen Zusammenbruch oder
+      eine interne Zersplitterung, was die Grenzen von Strategien zur Entkopplung der
+      Führung gegenüber einem widerstandsfähigen und tief verwurzelten staatlichen System
+      unterstreicht. Während sich Israel und die USA in den ersten Kriegstagen auf militärische
+      Ziele konzentrierten, verlagerte Israel seinen Fokus dann auf ein breiteres und
+      umfassenderes Angriffsmuster und griff Öldepots und das Gasfeld in Pars, zivile
+      Infrastruktur, Krankenhäuser, Polizei- und Zollstationen, antike UNESCO-Stätten
+      sowie die Basij (eine paramilitärische Freiwilligentruppe unter dem Kommando der
+      Islamischen Revolutionsgarde, die sich größtenteils aus Zivilisten zusammensetzt,
+      die zur Verteidigung des Regimes und zur Durchsetzung der inneren Kontrolle mobilisiert
+      wurden) an. Der Konflikt ist nun in eine ernstere und potenziell gefährlichere
+      Phase eingetreten, da Israel und die USA die Bombardierung des iranischen Offshore-Gasfeldes
+      South Pars eingeräumt haben. Dies markiert den Beginn dessen, was als „Krieg zur
+      Zerstörung der Energieversorgung“ bezeichnet werden kann, der auf die wirtschaftlichen
+      Lebensadern des Staates abzielt. In einem solchen Kontext ist es unwahrscheinlich,
+      dass der Iran Zurückhaltung übt, und seine Reaktion wird wahrscheinlich weitreichende
+      regionale und globale Folgen haben. Die roten Linien sind aufgehoben worden. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die israelische Kampagne zielt darauf ab, nicht nur militärisch,
+      sondern auch diplomatisch Einfluss auf die USA auszuüben, indem sie eine Reihe
+      gezielter Attentate auf hochrangige iranische Führungspersönlichkeiten, einschließlich
+      des Obersten Führers Ali Khamenei, durchführt.
+    paragraph_summary: Elijah J. Magnier beschreibt in seinem Artikel, dass Israels
+      militärische Kampagne gegen den Iran nicht nur militärische Ziele verfolgt, sondern
+      auch darauf abzielt, die diplomatischen Optionen der USA zu beeinflussen. Die
+      Offensive umfasst eine Reihe gezielter Attentate auf hochrangige iranische Führungspersönlichkeiten,
+      darunter den Obersten Führer Ali Khamenei und andere Schlüsselakteure im Verteidigungs-
+      und Geheimdienstsektor. Trotz dieser Angriffe zeigt sich jedoch keine Anzeichen
+      für einen institutionellen Zusammenbruch oder interne Zersplitterung innerhalb
+      des iranischen Systems, was die Robustheit und Widerstandsfähigkeit der politischen
+      und militärischen Strukturen unterstreicht. Während der ersten Kriegstage konzentrieren
+      sich Israel und die USA auf militärische Ziele, doch die langfristigen Auswirkungen
+      auf die iranische Führung bleiben ungewiss.
+    published: '2026-03-20T05:03:14+00:00'
+  - title: 'Energy as a Battleground: Strategic Logic and Regional Risk'
+    url: https://ejmagnier.com/2026/03/18/energy-as-a-battleground-strategic-logic-and-regional-risk/
+    text: 'By Elijah J. Magnier The attacks on energy infrastructure indicate that the
+      conflict is entering a prolonged and more aggressive phase. Targeting such infrastructure
+      in warfare is rarely accidental; it reflects deliberate strategic considerations
+      regarding how wars are conducted, sustained, and ultimately resolved. Currently,
+      strikes on locations such as South Pars, areas near Bushehr, and fuel depots in
+      Tehran signify a shift in Israel’s strategy. Instead of focusing solely on military
+      or nuclear facilities, the approach appears to target the broader economic and
+      societal foundations of the Iranian state. This strategy is not mere escalation
+      but an effort to exert pressure where it will have the greatest material and psychological
+      impact. Central to this strategy is South Pars, a critical node in Iran’s energy
+      system. Although often linked to export capacity, its primary significance lies
+      in serving the domestic market. A substantial portion of the gas extracted there
+      is consumed within Iran, supporting electricity generation, industrial production,
+      and essential services. Even limited disruptions propagate rapidly through the
+      economy, causing factory slowdowns, increased blackouts, and greater difficulties
+      in daily life. Thus, the target extends beyond infrastructure to encompass societal
+      stability. The strategic calculation is clear: by pressuring systems that sustain
+      daily life, the internal cost of continuing the conflict increases. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The recent attacks on Iran's energy infrastructure, particularly
+      targeting South Pars and other key locations, signify a strategic shift in Israel's
+      approach to the conflict, aiming to undermine the economic and societal foundations
+      of the Iranian state rather than just its military capabilities.
+    paragraph_summary: The article by Elijah J. Magnier discusses a significant shift
+      in Israel's military strategy in its conflict with Iran, as evidenced by recent
+      attacks on energy infrastructure such as South Pars and fuel depots in Tehran.
+      These strikes indicate a move away from solely targeting military or nuclear sites
+      to focusing on the economic and societal foundations of Iran, aiming to exert
+      pressure where it will have the most substantial material and psychological effects.
+      South Pars, crucial for domestic energy consumption, plays a key role in supporting
+      electricity generation and essential services in Iran. Disruptions to this infrastructure
+      can lead to widespread economic challenges, increased blackouts, and societal
+      instability, thereby raising the internal costs of the ongoing conflict for Iran.
+    published: '2026-03-18T17:29:53+00:00'
+  - title: 'Energy as a Battleground: Strategic Logic and Regional Risk'
+    url: https://ejmagnier.com/2026/03/18/energy-as-a-battleground-strategic-logic-and-regional-risk/
+    text: 'By Elijah J. Magnier The attacks on energy infrastructure indicate that the
+      conflict is entering a prolonged and more aggressive phase. Targeting such infrastructure
+      in warfare is rarely accidental; it reflects deliberate strategic considerations
+      regarding how wars are conducted, sustained, and ultimately resolved. Currently,
+      strikes on locations such as South Pars, areas near Bushehr, and fuel depots in
+      Tehran signify a shift in Israel’s strategy. Instead of focusing solely on military
+      or nuclear facilities, the approach appears to target the broader economic and
+      societal foundations of the Iranian state. This strategy is not mere escalation
+      but an effort to exert pressure where it will have the greatest material and psychological
+      impact. Central to this strategy is South Pars, a critical node in Iran’s energy
+      system. Although often linked to export capacity, its primary significance lies
+      in serving the domestic market. A substantial portion of the gas extracted there
+      is consumed within Iran, supporting electricity generation, industrial production,
+      and essential services. Even limited disruptions propagate rapidly through the
+      economy, causing factory slowdowns, increased blackouts, and greater difficulties
+      in daily life. Thus, the target extends beyond infrastructure to encompass societal
+      stability. The strategic calculation is clear: by pressuring systems that sustain
+      daily life, the internal cost of continuing the conflict increases. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The recent attacks on Iran's energy infrastructure, particularly
+      targeting South Pars and other key locations, signify a strategic shift in Israel's
+      approach to the conflict, aiming to undermine the economic and societal foundations
+      of the Iranian state rather than just its military capabilities.
+    paragraph_summary: The article by Elijah J. Magnier discusses a significant shift
+      in Israel's military strategy in its conflict with Iran, as evidenced by recent
+      attacks on energy infrastructure such as South Pars and fuel depots in Tehran.
+      These strikes indicate a move away from solely targeting military or nuclear sites
+      to focusing on the economic and societal foundations of Iran, aiming to exert
+      pressure where it will have the most substantial material and psychological effects.
+      South Pars, crucial for domestic energy consumption, plays a key role in supporting
+      electricity generation and essential services in Iran. Disruptions to this infrastructure
+      can lead to widespread economic challenges, increased blackouts, and societal
+      instability, thereby raising the internal costs of the ongoing conflict for Iran.
+    published: '2026-03-18T17:29:53+00:00'
+  - title: 'L’énergie comme champ de bataille : logique stratégique et risque régional'
+    url: https://ejmagnier.com/2026/03/18/lenergie-comme-champ-de-bataille-logique-strategique-et-risque-regional/
+    text: Par Elijah J. Magnier Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article by Elijah J. Magnier discusses subscription options
+      for accessing content, highlighting the benefits of both one-time and recurring
+      donations.
+    paragraph_summary: The article by Elijah J. Magnier discusses various topics, but
+      specific details are not provided in the excerpt. It appears to focus on subscription-based
+      access to content, encouraging readers to subscribe or donate to support the work.
+      The emphasis is on the importance of contributions, whether one-time or recurring,
+      to sustain the publication.
+    published: '2026-03-18T17:28:40+00:00'
+  - title: 'L’énergie comme champ de bataille : logique stratégique et risque régional'
+    url: https://ejmagnier.com/2026/03/18/lenergie-comme-champ-de-bataille-logique-strategique-et-risque-regional/
+    text: Par Elijah J. Magnier Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly
+    one_sentence_summary: The article by Elijah J. Magnier discusses subscription options
+      for accessing content, highlighting the benefits of both one-time and recurring
+      donations.
+    paragraph_summary: The article by Elijah J. Magnier discusses various topics, but
+      specific details are not provided in the excerpt. It appears to focus on subscription-based
+      access to content, encouraging readers to subscribe or donate to support the work.
+      The emphasis is on the importance of contributions, whether one-time or recurring,
+      to sustain the publication.
+    published: '2026-03-18T17:28:40+00:00'
+  - title: 'Energie als Schlachtfeld: Strategische Logik und regionale Risiken'
+    url: https://ejmagnier.com/2026/03/18/energie-als-schlachtfeld-strategische-logik-und-regionale-risiken/
+    text: 'Von Elijah J. Magnier Die Angriffe auf die Energieinfrastruktur deuten darauf
+      hin, dass der Konflikt in eine langwierige und aggressivere Phase eintritt. Der
+      Angriff auf solche Infrastrukturen im Krieg ist selten zufällig; er spiegelt bewusste
+      strategische Überlegungen wider, wie Kriege geführt, aufrechterhalten und letztendlich
+      beigelegt werden. Derzeit deuten Angriffe auf Orte wie South Pars, Gebiete in
+      der Nähe von Bushehr und Treibstoffdepots in Teheran auf eine Verschiebung in
+      Israels Strategie hin. Anstatt sich ausschließlich auf militärische oder nukleare
+      Anlagen zu konzentrieren, scheint der Ansatz darauf abzuzielen, die breiteren
+      wirtschaftlichen und gesellschaftlichen Grundlagen des iranischen Staates ins
+      Visier zu nehmen. Diese Strategie ist keine bloße Eskalation, sondern ein Versuch,
+      dort Druck auszuüben, wo er die größten materiellen und psychologischen Auswirkungen
+      hat. Im Mittelpunkt dieser Strategie steht South Pars, ein kritischer Knotenpunkt
+      im iranischen Energiesystem. Obwohl oft mit der Exportkapazität in Verbindung
+      gebracht, liegt seine primäre Bedeutung in der Versorgung des heimischen Marktes.
+      Ein erheblicher Teil des dort geförderten Gases wird im Iran selbst verbraucht
+      und dient der Stromerzeugung, der industriellen Produktion und der Versorgung
+      mit grundlegenden Dienstleistungen. Selbst begrenzte Störungen breiten sich rasch
+      in der Wirtschaft aus und führen zu Produktionsverzögerungen in Fabriken, vermehrten
+      Stromausfällen und größeren Schwierigkeiten im täglichen Leben. Somit erstreckt
+      sich das Ziel über die Infrastruktur hinaus und umfasst die gesellschaftliche
+      Stabilität. Die strategische Kalkulation ist klar: Durch den Druck auf Systeme,
+      die das tägliche Leben aufrechterhalten, steigen die internen Kosten für die Fortsetzung
+      des Konflikts. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Die Angriffe auf die iranische Energieinfrastruktur, insbesondere
+      auf South Pars, deuten auf eine strategische Verschiebung Israels hin, die darauf
+      abzielt, die wirtschaftlichen und gesellschaftlichen Grundlagen des Iran zu destabilisieren
+      und den Konflikt in eine aggressivere Phase zu führen.
+    paragraph_summary: Elijah J. Magnier argues that recent attacks on Iran's energy
+      infrastructure signal a shift in the conflict towards a more prolonged and aggressive
+      phase, reflecting deliberate strategic considerations rather than random acts
+      of war. By targeting critical sites like South Pars, near Bushehr, and fuel depots
+      in Tehran, Israel appears to be moving beyond a focus on military and nuclear
+      facilities to undermine the broader economic and societal foundations of the Iranian
+      state. This strategy aims to exert pressure where it will have the most significant
+      material and psychological effects, particularly on the domestic market, as disruptions
+      in energy supply can lead to widespread economic repercussions, production delays,
+      and increased difficulties in daily life. Ultimately, the goal is to raise the
+      internal costs of continuing the conflict by destabilizing the systems that support
+      everyday life in Iran.
+    published: '2026-03-18T17:25:51+00:00'
+  - title: 'Energie als Schlachtfeld: Strategische Logik und regionale Risiken'
+    url: https://ejmagnier.com/2026/03/18/energie-als-schlachtfeld-strategische-logik-und-regionale-risiken/
+    text: 'Von Elijah J. Magnier Die Angriffe auf die Energieinfrastruktur deuten darauf
+      hin, dass der Konflikt in eine langwierige und aggressivere Phase eintritt. Der
+      Angriff auf solche Infrastrukturen im Krieg ist selten zufällig; er spiegelt bewusste
+      strategische Überlegungen wider, wie Kriege geführt, aufrechterhalten und letztendlich
+      beigelegt werden. Derzeit deuten Angriffe auf Orte wie South Pars, Gebiete in
+      der Nähe von Bushehr und Treibstoffdepots in Teheran auf eine Verschiebung in
+      Israels Strategie hin. Anstatt sich ausschließlich auf militärische oder nukleare
+      Anlagen zu konzentrieren, scheint der Ansatz darauf abzuzielen, die breiteren
+      wirtschaftlichen und gesellschaftlichen Grundlagen des iranischen Staates ins
+      Visier zu nehmen. Diese Strategie ist keine bloße Eskalation, sondern ein Versuch,
+      dort Druck auszuüben, wo er die größten materiellen und psychologischen Auswirkungen
+      hat. Im Mittelpunkt dieser Strategie steht South Pars, ein kritischer Knotenpunkt
+      im iranischen Energiesystem. Obwohl oft mit der Exportkapazität in Verbindung
+      gebracht, liegt seine primäre Bedeutung in der Versorgung des heimischen Marktes.
+      Ein erheblicher Teil des dort geförderten Gases wird im Iran selbst verbraucht
+      und dient der Stromerzeugung, der industriellen Produktion und der Versorgung
+      mit grundlegenden Dienstleistungen. Selbst begrenzte Störungen breiten sich rasch
+      in der Wirtschaft aus und führen zu Produktionsverzögerungen in Fabriken, vermehrten
+      Stromausfällen und größeren Schwierigkeiten im täglichen Leben. Somit erstreckt
+      sich das Ziel über die Infrastruktur hinaus und umfasst die gesellschaftliche
+      Stabilität. Die strategische Kalkulation ist klar: Durch den Druck auf Systeme,
+      die das tägliche Leben aufrechterhalten, steigen die internen Kosten für die Fortsetzung
+      des Konflikts. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Die Angriffe auf die iranische Energieinfrastruktur, insbesondere
+      auf South Pars, deuten auf eine strategische Verschiebung Israels hin, die darauf
+      abzielt, die wirtschaftlichen und gesellschaftlichen Grundlagen des Iran zu destabilisieren
+      und den Konflikt in eine aggressivere Phase zu führen.
+    paragraph_summary: Elijah J. Magnier argues that recent attacks on Iran's energy
+      infrastructure signal a shift in the conflict towards a more prolonged and aggressive
+      phase, reflecting deliberate strategic considerations rather than random acts
+      of war. By targeting critical sites like South Pars, near Bushehr, and fuel depots
+      in Tehran, Israel appears to be moving beyond a focus on military and nuclear
+      facilities to undermine the broader economic and societal foundations of the Iranian
+      state. This strategy aims to exert pressure where it will have the most significant
+      material and psychological effects, particularly on the domestic market, as disruptions
+      in energy supply can lead to widespread economic repercussions, production delays,
+      and increased difficulties in daily life. Ultimately, the goal is to raise the
+      internal costs of continuing the conflict by destabilizing the systems that support
+      everyday life in Iran.
+    published: '2026-03-18T17:25:51+00:00'
   - title: 'Underestimating Tehran: How Netanyahu and Trump Turned Quick Victory into
       Endless War'
     url: https://ejmagnier.com/2026/03/17/underestimating-tehran-how-netanyahu-and-trump-turned-quick-victory-into-endless-war/

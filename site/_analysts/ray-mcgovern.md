@@ -7,16 +7,672 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the war in Iran enters its third week, the humanitarian and geopolitical fallout continues to intensify, with new reports highlighting both the scale of civilian suffering and the growing risk of broader conflict.
+  As the war on Iran enters its fourth week, the geopolitical landscape remains volatile, with new revelations and policy maneuvers shaping the conflict’s trajectory. The latest developments highlight both the enduring complexity of Middle Eastern nuclear politics and the shifting dynamics within the U.S. administration.
   
-  Recent analysis by **Ramzy Baroud** underscores the criminal nature of the ongoing U.S.-Israeli campaign, particularly in light of strikes on civilian areas in Minab that have resulted in the deaths of hundreds, predominantly women and children. Baroud’s assessment reflects a consensus among independent observers that the targeting of non-combatants is fueling outrage across the region and further undermining the legitimacy of Western intervention.
+  Declassified British documents from the 1990s, analyzed by **Ray McGovern**, reveal that UK officials long considered Israel’s nuclear arsenal the principal obstacle to a nuclear weapons-free Middle East. This historical perspective, now resurfacing, underscores the persistent challenge of regional disarmament and the deep-seated mistrust among key players. The files suggest that Western powers, despite public rhetoric, have tacitly accepted Israel’s nuclear ambiguity, complicating efforts to curb Iran’s ambitions.
   
-  In parallel, **Jeffrey Sachs** and **Sybil Fares** have outlined a five-point plan aimed at preventing the current conflict from escalating into a global war, warning that without immediate de-escalation, the risk of a wider confrontation—potentially even World War III—remains acute. Their proposals, which include diplomatic engagement and a halt to offensive operations, are gaining traction among analysts who see the present trajectory as unsustainable.
+  On the U.S. front, **Ray McGovern** reports that President Trump has “backed down” in the most recent round of escalation with Iran, breaking the cycle of tit-for-tat attacks that has characterized the conflict. This move signals a possible recalibration of U.S. strategy, with Trump appearing increasingly hesitant to escalate further, despite pressure from Israeli officials and hawkish elements within his own administration.
   
-  Meanwhile, **Chris Hedges** draws attention to a broader pattern of impunity among powerful actors, linking the devastation in Gaza and the revelations from the Epstein files as evidence of systemic exploitation of the vulnerable. Hedges argues that the normalization of such abuses in both war and society at large is eroding public trust and deepening societal divisions.
+  Meanwhile, domestic tensions are rising as the Trump administration files a lawsuit against Harvard University, alleging the institution tolerates anti-Semitism under the guise of anti-genocide protests. **As`ad AbuKHALIL** highlights the administration’s conflation of legitimate dissent with anti-Jewish sentiment, reflecting broader efforts to police campus speech and shape public discourse around the war.
   
-  Looking ahead, the majority of sources agree that unless there is a dramatic shift in policy—particularly from Washington and Tel Aviv—the conflict is likely to persist, with high civilian casualties and mounting geopolitical costs. There is a high chance that the U.S. and Israel will attempt to declare a symbolic victory, but the underlying dynamics suggest that any such claims will be met with skepticism both regionally and internationally. Based on current trends, I guarantee that the humanitarian crisis will worsen in the coming days, and there is a high chance of further destabilization across the Middle East unless de-escalatory measures are urgently adopted.
+  Looking ahead, the majority of analysts agree that the economic fallout from the Iran conflict will be severe and protracted, regardless of when hostilities cease. The pattern of U.S.-Israeli coordination, punctuated by periodic American restraint, is likely to persist. Given recent de-escalation, I assess with high confidence that Trump will continue to avoid direct large-scale military engagement, though the risk of renewed clashes remains as long as underlying issues—particularly nuclear tensions—are unresolved. The information war, both in the media and on university campuses, is set to intensify, shaping public opinion and policy in unpredictable ways.
 articles:
+  - title: Truth, Media & the War on Iran
+    url: https://consortiumnews.com/2026/03/24/truth-media-the-war-on-iran/
+    text: We reject war. But for wars to end, journalists must work without fear or
+      intimidation, and media ownership can’t become a means of control, writes Ramzy
+      Baroud. By Ramzy Baroud Common Dreams U.S. Defense Secretary Pete Hegseth appears
+      to have little… Read more →
+    one_sentence_summary: Ramzy Baroud argues that to end wars, journalists must operate
+      freely and independently, without fear or control from media ownership.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the crucial role of journalists
+      in ending wars, arguing that they must operate without fear or intimidation to
+      effectively report on conflicts. He warns against media ownership becoming a tool
+      for control, which can hinder the free flow of information. Baroud's message highlights
+      the importance of independent journalism in promoting peace and accountability
+      in times of war.
+    published: '2026-03-24T18:00:24+00:00'
+  - title: Truth, Media & the War on Iran
+    url: https://consortiumnews.com/2026/03/24/truth-media-the-war-on-iran/
+    text: We reject war. But for wars to end, journalists must work without fear or
+      intimidation, and media ownership can’t become a means of control, writes Ramzy
+      Baroud. By Ramzy Baroud Common Dreams U.S. Defense Secretary Pete Hegseth appears
+      to have little… Read more →
+    one_sentence_summary: Ramzy Baroud argues that to end wars, journalists must operate
+      freely and independently, without fear or control from media ownership.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the crucial role of journalists
+      in ending wars, arguing that they must operate without fear or intimidation to
+      effectively report on conflicts. He warns against media ownership becoming a tool
+      for control, which can hinder the free flow of information. Baroud's message highlights
+      the importance of independent journalism in promoting peace and accountability
+      in times of war.
+    published: '2026-03-24T18:00:24+00:00'
+  - title: UK Saw Israel as ‘Chief Problem’ Curbing Iran’s Nuclear Ambitions
+    url: https://consortiumnews.com/2026/03/24/uk-saw-israel-as-chief-problem-curbing-irans-nuclear-ambitions/
+    text: Mark Curtis reports that Israel’s nuclear arms were seen by British officials
+      as the major obstacle to achieving a nuclear weapons-free zone in the Middle East,
+      declassified files from the 1990s show. By Mark Curtis Declassified UK Israel’s
+      nuclear arms programme… Read more →
+    one_sentence_summary: Declassified files from the 1990s reveal that British officials
+      viewed Israel's nuclear arsenal as the primary barrier to establishing a nuclear
+      weapons-free zone in the Middle East.
+    paragraph_summary: Declassified files from the 1990s reveal that British officials
+      viewed Israel's nuclear weapons as the primary barrier to establishing a nuclear
+      weapons-free zone in the Middle East, according to a report by Mark Curtis. The
+      documents highlight the concerns surrounding Israel's nuclear arms program and
+      its implications for regional security and non-proliferation efforts.
+    published: '2026-03-24T16:06:52+00:00'
+  - title: UK Saw Israel as ‘Chief Problem’ Curbing Iran’s Nuclear Ambitions
+    url: https://consortiumnews.com/2026/03/24/uk-saw-israel-as-chief-problem-curbing-irans-nuclear-ambitions/
+    text: Mark Curtis reports that Israel’s nuclear arms were seen by British officials
+      as the major obstacle to achieving a nuclear weapons-free zone in the Middle East,
+      declassified files from the 1990s show. By Mark Curtis Declassified UK Israel’s
+      nuclear arms programme… Read more →
+    one_sentence_summary: Declassified files from the 1990s reveal that British officials
+      viewed Israel's nuclear arsenal as the primary barrier to establishing a nuclear
+      weapons-free zone in the Middle East.
+    paragraph_summary: Declassified files from the 1990s reveal that British officials
+      viewed Israel's nuclear weapons as the primary barrier to establishing a nuclear
+      weapons-free zone in the Middle East, according to a report by Mark Curtis. The
+      documents highlight the concerns surrounding Israel's nuclear arms program and
+      its implications for regional security and non-proliferation efforts.
+    published: '2026-03-24T16:06:52+00:00'
+  - title: 'DAYS 21-23: WAR ON IRAN — Trump Backs Down'
+    url: https://consortiumnews.com/2026/03/24/days-21-23-war-on-iran-trump-backs-down/
+    text: 'A pattern has emerged in the war that the U.S. and Israel can’t shake after
+      three weeks: they hit Iran and Iran answers with the same attack.  This time though,
+      Trump has backed down. Friday, March 20 to Monday, March… Read more →'
+    one_sentence_summary: The article discusses a recurring pattern in the conflict
+      between the U.S. and Israel against Iran, where each attack is met with retaliation,
+      and notes that Trump has chosen to back down in the latest escalation.
+    paragraph_summary: The article discusses a recurring pattern in the ongoing conflict
+      involving the U.S. and Israel, where attacks on Iran are met with retaliatory
+      strikes from Iran. After three weeks of escalating tensions, the situation has
+      reached a point where former President Trump has chosen to back down from further
+      military engagement. The timeline mentioned spans from March 20 to the following
+      Monday, highlighting the cyclical nature of the conflict and the challenges faced
+      by U.S. and Israeli forces in addressing Iranian responses.
+    published: '2026-03-24T14:14:36+00:00'
+  - title: 'DAYS 21-23: WAR ON IRAN — Trump Backs Down'
+    url: https://consortiumnews.com/2026/03/24/days-21-23-war-on-iran-trump-backs-down/
+    text: 'A pattern has emerged in the war that the U.S. and Israel can’t shake after
+      three weeks: they hit Iran and Iran answers with the same attack.  This time though,
+      Trump has backed down. Friday, March 20 to Monday, March… Read more →'
+    one_sentence_summary: The article discusses a recurring pattern in the conflict
+      between the U.S. and Israel against Iran, where each attack is met with retaliation,
+      and notes that Trump has chosen to back down in the latest escalation.
+    paragraph_summary: The article discusses a recurring pattern in the ongoing conflict
+      involving the U.S. and Israel, where attacks on Iran are met with retaliatory
+      strikes from Iran. After three weeks of escalating tensions, the situation has
+      reached a point where former President Trump has chosen to back down from further
+      military engagement. The timeline mentioned spans from March 20 to the following
+      Monday, highlighting the cyclical nature of the conflict and the challenges faced
+      by U.S. and Israeli forces in addressing Iranian responses.
+    published: '2026-03-24T14:14:36+00:00'
+  - title: 'AS`AD AbuKHALIL: The Anti-Semitism Trap'
+    url: https://consortiumnews.com/2026/03/23/asad-abukhalil-the-anti-semitism-trap/
+    text: The Trump administration sued Harvard University on Friday for supposedly
+      tolerating anti-semitism in a serious confusion between protesting genocide and
+      hating Jews. Here is a look at the history of this phenomenon. By As`ad AbuKhalil
+      Special to Consortium News So much… Read more →
+    one_sentence_summary: The Trump administration filed a lawsuit against Harvard University,
+      alleging it permits anti-Semitism under the guise of protesting genocide, highlighting
+      a complex historical misunderstanding between legitimate protests and anti-Jewish
+      sentiment.
+    paragraph_summary: The Trump administration filed a lawsuit against Harvard University,
+      alleging that the institution has allowed anti-Semitism to persist, conflating
+      protests against genocide with hatred towards Jews. The article, authored by As'ad
+      AbuKhalil for Consortium News, explores the historical context of this issue,
+      highlighting the complexities and misunderstandings surrounding the distinction
+      between legitimate criticism of Israeli policies and expressions of anti-Semitism.
+    published: '2026-03-24T02:28:25+00:00'
+  - title: 'AS`AD AbuKHALIL: The Anti-Semitism Trap'
+    url: https://consortiumnews.com/2026/03/23/asad-abukhalil-the-anti-semitism-trap/
+    text: The Trump administration sued Harvard University on Friday for supposedly
+      tolerating anti-semitism in a serious confusion between protesting genocide and
+      hating Jews. Here is a look at the history of this phenomenon. By As`ad AbuKhalil
+      Special to Consortium News So much… Read more →
+    one_sentence_summary: The Trump administration filed a lawsuit against Harvard University,
+      alleging it permits anti-Semitism under the guise of protesting genocide, highlighting
+      a complex historical misunderstanding between legitimate protests and anti-Jewish
+      sentiment.
+    paragraph_summary: The Trump administration filed a lawsuit against Harvard University,
+      alleging that the institution has allowed anti-Semitism to persist, conflating
+      protests against genocide with hatred towards Jews. The article, authored by As'ad
+      AbuKhalil for Consortium News, explores the historical context of this issue,
+      highlighting the complexities and misunderstandings surrounding the distinction
+      between legitimate criticism of Israeli policies and expressions of anti-Semitism.
+    published: '2026-03-24T02:28:25+00:00'
+  - title: 'Hedges Report: Mangling the Global Economy'
+    url: https://consortiumnews.com/2026/03/23/hedges-report-mangling-the-global-economy/
+    text: Yanis Varoufakis says that even if the war in Iran ends soon — which it likely
+      will not — the economic consequences will be devastating and prolonged. By Chris
+      Hedges The Chris Hedges Report Alongside the death and destruction occurring all…
+      Read more →
+    one_sentence_summary: Yanis Varoufakis warns that the economic repercussions of
+      the ongoing war in Iran will be severe and long-lasting, regardless of when the
+      conflict concludes.
+    paragraph_summary: Yanis Varoufakis warns that the economic repercussions of the
+      ongoing war in Iran will be severe and long-lasting, regardless of whether the
+      conflict concludes soon. In an analysis by Chris Hedges, Varoufakis emphasizes
+      that the devastation from the war will extend beyond immediate violence, leading
+      to enduring economic challenges that will affect not only Iran but potentially
+      the broader region and global markets.
+    published: '2026-03-23T18:12:26+00:00'
+  - title: 'Hedges Report: Mangling the Global Economy'
+    url: https://consortiumnews.com/2026/03/23/hedges-report-mangling-the-global-economy/
+    text: Yanis Varoufakis says that even if the war in Iran ends soon — which it likely
+      will not — the economic consequences will be devastating and prolonged. By Chris
+      Hedges The Chris Hedges Report Alongside the death and destruction occurring all…
+      Read more →
+    one_sentence_summary: Yanis Varoufakis warns that the economic repercussions of
+      the ongoing war in Iran will be severe and long-lasting, regardless of when the
+      conflict concludes.
+    paragraph_summary: Yanis Varoufakis warns that the economic repercussions of the
+      ongoing war in Iran will be severe and long-lasting, regardless of whether the
+      conflict concludes soon. In an analysis by Chris Hedges, Varoufakis emphasizes
+      that the devastation from the war will extend beyond immediate violence, leading
+      to enduring economic challenges that will affect not only Iran but potentially
+      the broader region and global markets.
+    published: '2026-03-23T18:12:26+00:00'
+  - title: Free Speech for Me But Not for Thee
+    url: https://consortiumnews.com/2026/03/23/free-speech-for-me-but-not-for-thee/
+    text: The government is threatening to change the FCC’s equal-time rule and even
+      put broadcast giants out of business because they may paint the war in Iran in
+      an unflattering light, writes Andrew P. Napolitano. By Andrew P. Napolitano The
+      chair… Read more →
+    one_sentence_summary: The government is considering altering the FCC's equal-time
+      rule and potentially jeopardizing major broadcasters due to concerns that they
+      may portray the Iran war negatively, according to Andrew P. Napolitano.
+    paragraph_summary: In his article, Andrew P. Napolitano discusses the government's
+      potential move to alter the FCC's equal-time rule, which could jeopardize the
+      operations of major broadcasting companies. This threat arises from concerns that
+      these companies might portray the war in Iran negatively. Napolitano highlights
+      the implications of such government intervention on media freedom and the potential
+      consequences for broadcasters who may face penalties for their coverage.
+    published: '2026-03-23T16:00:55+00:00'
+  - title: Free Speech for Me But Not for Thee
+    url: https://consortiumnews.com/2026/03/23/free-speech-for-me-but-not-for-thee/
+    text: The government is threatening to change the FCC’s equal-time rule and even
+      put broadcast giants out of business because they may paint the war in Iran in
+      an unflattering light, writes Andrew P. Napolitano. By Andrew P. Napolitano The
+      chair… Read more →
+    one_sentence_summary: The government is considering altering the FCC's equal-time
+      rule and potentially jeopardizing major broadcasters due to concerns that they
+      may portray the Iran war negatively, according to Andrew P. Napolitano.
+    paragraph_summary: In his article, Andrew P. Napolitano discusses the government's
+      potential move to alter the FCC's equal-time rule, which could jeopardize the
+      operations of major broadcasting companies. This threat arises from concerns that
+      these companies might portray the war in Iran negatively. Napolitano highlights
+      the implications of such government intervention on media freedom and the potential
+      consequences for broadcasters who may face penalties for their coverage.
+    published: '2026-03-23T16:00:55+00:00'
+  - title: 'Craig Murray: Seeing Trump Clearly'
+    url: https://consortiumnews.com/2026/03/22/craig-murray-seeing-trump-clearly/
+    text: It’s comforting to see Donald Trump as a buffoon, to accept the facade he
+      presents of a blustering and ill-educated ignoramus who does not understand the
+      world of geopolitics. But that is nonsense. By Craig Murray CraigMurray.org.uk
+      What if Trump’s… Read more →
+    one_sentence_summary: The article argues that viewing Donald Trump merely as a foolish
+      and uninformed figure is misleading, suggesting that there is more complexity
+      to his understanding of geopolitics.
+    paragraph_summary: The article by Craig Murray challenges the perception of Donald
+      Trump as merely a blustering buffoon lacking understanding of geopolitics. Instead,
+      it suggests that this view is overly simplistic and dismissive of the complexities
+      of his actions and motivations. Murray implies that there is a deeper, more strategic
+      side to Trump's behavior that should not be overlooked, urging readers to reconsider
+      the implications of his approach to international relations.
+    published: '2026-03-22T13:55:14+00:00'
+  - title: 'Craig Murray: Seeing Trump Clearly'
+    url: https://consortiumnews.com/2026/03/22/craig-murray-seeing-trump-clearly/
+    text: It’s comforting to see Donald Trump as a buffoon, to accept the facade he
+      presents of a blustering and ill-educated ignoramus who does not understand the
+      world of geopolitics. But that is nonsense. By Craig Murray CraigMurray.org.uk
+      What if Trump’s… Read more →
+    one_sentence_summary: The article argues that viewing Donald Trump merely as a foolish
+      and uninformed figure is misleading, suggesting that there is more complexity
+      to his understanding of geopolitics.
+    paragraph_summary: The article by Craig Murray challenges the perception of Donald
+      Trump as merely a blustering buffoon lacking understanding of geopolitics. Instead,
+      it suggests that this view is overly simplistic and dismissive of the complexities
+      of his actions and motivations. Murray implies that there is a deeper, more strategic
+      side to Trump's behavior that should not be overlooked, urging readers to reconsider
+      the implications of his approach to international relations.
+    published: '2026-03-22T13:55:14+00:00'
+  - title: 'WATCH: The World This Week – w/Ray McGovern'
+    url: https://consortiumnews.com/2026/03/21/watch-the-world-this-week-w-ray-mcgovern-3/
+    text: IRAN- A U.S.-Israel split on hitting energy targets; Trump see-saws on pulling
+      out or sending in ground forces, while calling NATO “cowards;” plus Gabbard and
+      what the intel says. Sat. 8pm EDT. Read more →
+    one_sentence_summary: The article discusses the differing U.S. and Israeli strategies
+      regarding energy targets in Iran, Trump's fluctuating stance on military involvement,
+      his criticism of NATO, and insights from Tulsi Gabbard and intelligence reports.
+    paragraph_summary: The article discusses the differing approaches of the U.S. and
+      Israel regarding military action against Iranian energy targets, highlighting
+      former President Trump's indecision on whether to withdraw troops or deploy ground
+      forces, while criticizing NATO as "cowards." Additionally, it touches on Tulsi
+      Gabbard's stance and insights from intelligence reports, indicating a complex
+      geopolitical landscape as tensions rise in the region.
+    published: '2026-03-21T11:14:35+00:00'
+  - title: 'WATCH: The World This Week – w/Ray McGovern'
+    url: https://consortiumnews.com/2026/03/21/watch-the-world-this-week-w-ray-mcgovern-3/
+    text: IRAN- A U.S.-Israel split on hitting energy targets; Trump see-saws on pulling
+      out or sending in ground forces, while calling NATO “cowards;” plus Gabbard and
+      what the intel says. Sat. 8pm EDT. Read more →
+    one_sentence_summary: The article discusses the differing U.S. and Israeli strategies
+      regarding energy targets in Iran, Trump's fluctuating stance on military involvement,
+      his criticism of NATO, and insights from Tulsi Gabbard and intelligence reports.
+    paragraph_summary: The article discusses the differing approaches of the U.S. and
+      Israel regarding military action against Iranian energy targets, highlighting
+      former President Trump's indecision on whether to withdraw troops or deploy ground
+      forces, while criticizing NATO as "cowards." Additionally, it touches on Tulsi
+      Gabbard's stance and insights from intelligence reports, indicating a complex
+      geopolitical landscape as tensions rise in the region.
+    published: '2026-03-21T11:14:35+00:00'
+  - title: IDF Threatens ‘Elimination’ of Russian Leaders
+    url: https://consortiumnews.com/2026/03/21/idf-threatens-elimination-of-russian-leaders/
+    text: Israel’s veiled threat to Moscow came just after Russian media warned traffic
+      cameras in Moscow were vulnerable to the same exploits that Israel reportedly
+      used to monitor Ayatollah Khamenei’s residence before assassinating him. By Wyatt
+      Reed The Grayzone  Israeli military… Read more →
+    one_sentence_summary: Israel issued a subtle warning to Moscow following Russian
+      media reports that suggested traffic cameras in the city could be compromised
+      in a manner similar to how Israel allegedly monitored Ayatollah Khamenei's residence
+      prior to his assassination.
+    paragraph_summary: In a recent development, Israel issued a subtle warning to Moscow
+      following reports from Russian media that traffic cameras in the city could be
+      susceptible to the same hacking techniques Israel allegedly employed to surveil
+      Ayatollah Khamenei's residence prior to his assassination. This situation highlights
+      the escalating tensions between Israel and Russia, particularly in the context
+      of cybersecurity and intelligence operations.
+    published: '2026-03-21T08:48:14+00:00'
+  - title: IDF Threatens ‘Elimination’ of Russian Leaders
+    url: https://consortiumnews.com/2026/03/21/idf-threatens-elimination-of-russian-leaders/
+    text: Israel’s veiled threat to Moscow came just after Russian media warned traffic
+      cameras in Moscow were vulnerable to the same exploits that Israel reportedly
+      used to monitor Ayatollah Khamenei’s residence before assassinating him. By Wyatt
+      Reed The Grayzone  Israeli military… Read more →
+    one_sentence_summary: Israel issued a subtle warning to Moscow following Russian
+      media reports that suggested traffic cameras in the city could be compromised
+      in a manner similar to how Israel allegedly monitored Ayatollah Khamenei's residence
+      prior to his assassination.
+    paragraph_summary: In a recent development, Israel issued a subtle warning to Moscow
+      following reports from Russian media that traffic cameras in the city could be
+      susceptible to the same hacking techniques Israel allegedly employed to surveil
+      Ayatollah Khamenei's residence prior to his assassination. This situation highlights
+      the escalating tensions between Israel and Russia, particularly in the context
+      of cybersecurity and intelligence operations.
+    published: '2026-03-21T08:48:14+00:00'
+  - title: 'Hedges Report: How Israel Convinced Trump to Wage War'
+    url: https://consortiumnews.com/2026/03/20/hedges-report-how-israel-convinced-trump-to-wage-war/
+    text: Max Blumenthal explains how the Israelis and their allies convinced Donald
+      Trump that Iran was trying to assassinate him, luring the President into a war
+      with Iran. By Chris Hedges  ScheerPost As the chaos and destruction of the war
+      in Iran… Read more →
+    one_sentence_summary: Max Blumenthal discusses how Israeli influences persuaded
+      Donald Trump that Iran was plotting to assassinate him, ultimately drawing the
+      U.S. closer to conflict with Iran.
+    paragraph_summary: In the article by Chris Hedges on ScheerPost, Max Blumenthal
+      discusses how Israeli officials and their allies influenced Donald Trump into
+      believing that Iran was plotting to assassinate him, thereby steering the U.S.
+      towards potential conflict with Iran. Blumenthal argues that this manipulation
+      played a significant role in escalating tensions and could lead to further chaos
+      and destruction in the region.
+    published: '2026-03-20T18:00:03+00:00'
+  - title: 'Hedges Report: How Israel Convinced Trump to Wage War'
+    url: https://consortiumnews.com/2026/03/20/hedges-report-how-israel-convinced-trump-to-wage-war/
+    text: Max Blumenthal explains how the Israelis and their allies convinced Donald
+      Trump that Iran was trying to assassinate him, luring the President into a war
+      with Iran. By Chris Hedges  ScheerPost As the chaos and destruction of the war
+      in Iran… Read more →
+    one_sentence_summary: Max Blumenthal discusses how Israeli influences persuaded
+      Donald Trump that Iran was plotting to assassinate him, ultimately drawing the
+      U.S. closer to conflict with Iran.
+    paragraph_summary: In the article by Chris Hedges on ScheerPost, Max Blumenthal
+      discusses how Israeli officials and their allies influenced Donald Trump into
+      believing that Iran was plotting to assassinate him, thereby steering the U.S.
+      towards potential conflict with Iran. Blumenthal argues that this manipulation
+      played a significant role in escalating tensions and could lead to further chaos
+      and destruction in the region.
+    published: '2026-03-20T18:00:03+00:00'
+  - title: 'DAYS 19 & 20: WAR ON IRAN –Why Would Israel Care?'
+    url: https://consortiumnews.com/2026/03/20/days-19-20-war-on-iran-why-would-israel-care/
+    text: U.S. and Israel publicly disagree on attacking Iran’s energy infrastructure.
+      Why wouldn’t Israel want the Gulf’s oil and gas to go up in flames? By Joe Lauria
+      Special to Consortium News The past two days of the aggression against Iran… Read
+      more →
+    one_sentence_summary: The article discusses the public disagreement between the
+      U.S. and Israel regarding the potential attack on Iran's energy infrastructure,
+      questioning why Israel would not support such an action that could lead to increased
+      oil and gas prices in the Gulf.
+    paragraph_summary: The article discusses the public disagreement between the U.S.
+      and Israel regarding the potential attack on Iran's energy infrastructure. It
+      questions why Israel would not support the destruction of Gulf oil and gas resources,
+      given the ongoing tensions with Iran. The piece highlights the complexities of
+      the geopolitical situation, suggesting that Israel's strategic interests may not
+      align with the idea of escalating conflict that could lead to widespread energy
+      disruption in the region.
+    published: '2026-03-20T11:58:00+00:00'
+  - title: 'DAYS 19 & 20: WAR ON IRAN –Why Would Israel Care?'
+    url: https://consortiumnews.com/2026/03/20/days-19-20-war-on-iran-why-would-israel-care/
+    text: U.S. and Israel publicly disagree on attacking Iran’s energy infrastructure.
+      Why wouldn’t Israel want the Gulf’s oil and gas to go up in flames? By Joe Lauria
+      Special to Consortium News The past two days of the aggression against Iran… Read
+      more →
+    one_sentence_summary: The article discusses the public disagreement between the
+      U.S. and Israel regarding the potential attack on Iran's energy infrastructure,
+      questioning why Israel would not support such an action that could lead to increased
+      oil and gas prices in the Gulf.
+    paragraph_summary: The article discusses the public disagreement between the U.S.
+      and Israel regarding the potential attack on Iran's energy infrastructure. It
+      questions why Israel would not support the destruction of Gulf oil and gas resources,
+      given the ongoing tensions with Iran. The piece highlights the complexities of
+      the geopolitical situation, suggesting that Israel's strategic interests may not
+      align with the idea of escalating conflict that could lead to widespread energy
+      disruption in the region.
+    published: '2026-03-20T11:58:00+00:00'
+  - title: Manufacturing a Lebanese Civil War
+    url: https://consortiumnews.com/2026/03/20/manufacturing-a-lebanese-civil-war/
+    text: After failing to destroy Hezbollah, Tel Aviv is eager to use the current pro-U.S.
+      government in Beirut to fight the larger, better-armed, popular resistance group,
+      writes Robert Inlakesh. By Robert Inlakesh MintPress News Surprised by the intensity
+      of Hezbollah’s retaliatory… Read more →
+    one_sentence_summary: The article discusses how Tel Aviv, after unsuccessful attempts
+      to eliminate Hezbollah, is now looking to leverage the pro-U.S. government in
+      Beirut to combat the stronger and more popular resistance group.
+    paragraph_summary: In his article for MintPress News, Robert Inlakesh discusses
+      Israel's ongoing struggle against Hezbollah, highlighting Tel Aviv's frustration
+      after failing to eliminate the group. With the current pro-U.S. government in
+      Beirut, Israel is keen to leverage this political climate to combat Hezbollah,
+      which is characterized as a larger, better-armed, and popular resistance movement.
+      Inlakesh emphasizes the surprise Israel faced due to the intensity of Hezbollah's
+      retaliatory actions, indicating the complexities of the conflict and the shifting
+      dynamics in the region.
+    published: '2026-03-20T09:57:19+00:00'
+  - title: Manufacturing a Lebanese Civil War
+    url: https://consortiumnews.com/2026/03/20/manufacturing-a-lebanese-civil-war/
+    text: After failing to destroy Hezbollah, Tel Aviv is eager to use the current pro-U.S.
+      government in Beirut to fight the larger, better-armed, popular resistance group,
+      writes Robert Inlakesh. By Robert Inlakesh MintPress News Surprised by the intensity
+      of Hezbollah’s retaliatory… Read more →
+    one_sentence_summary: The article discusses how Tel Aviv, after unsuccessful attempts
+      to eliminate Hezbollah, is now looking to leverage the pro-U.S. government in
+      Beirut to combat the stronger and more popular resistance group.
+    paragraph_summary: In his article for MintPress News, Robert Inlakesh discusses
+      Israel's ongoing struggle against Hezbollah, highlighting Tel Aviv's frustration
+      after failing to eliminate the group. With the current pro-U.S. government in
+      Beirut, Israel is keen to leverage this political climate to combat Hezbollah,
+      which is characterized as a larger, better-armed, and popular resistance movement.
+      Inlakesh emphasizes the surprise Israel faced due to the intensity of Hezbollah's
+      retaliatory actions, indicating the complexities of the conflict and the shifting
+      dynamics in the region.
+    published: '2026-03-20T09:57:19+00:00'
+  - title: 'WATCH: Fighting America’s War'
+    url: https://consortiumnews.com/2026/03/19/watch-fighting-americas-war/
+    text: 'The Australian PM says a surveillance plane sent to the Gulf is purely defensive
+      but the plane is part of U.S. combat operations. Sen. David Shoebridge and Peter
+      Cronau join CNLive! Guests: Senator David Shoebridge; Peter Cronau, journalist,
+      former ABC… Read more →'
+    one_sentence_summary: The Australian Prime Minister claims that a surveillance plane
+      deployed to the Gulf is for defensive purposes, despite it being involved in U.S.
+      combat operations, as discussed by Senator David Shoebridge and journalist Peter
+      Cronau on CNLive!
+    paragraph_summary: The Australian Prime Minister has stated that a surveillance
+      plane deployed to the Gulf is intended solely for defensive purposes; however,
+      it is also involved in U.S. combat operations. This situation has sparked discussion
+      among guests on CNLive!, including Senator David Shoebridge and journalist Peter
+      Cronau, who are examining the implications of Australia's military involvement
+      in the region.
+    published: '2026-03-19T23:47:49+00:00'
+  - title: 'WATCH: Fighting America’s War'
+    url: https://consortiumnews.com/2026/03/19/watch-fighting-americas-war/
+    text: 'The Australian PM says a surveillance plane sent to the Gulf is purely defensive
+      but the plane is part of U.S. combat operations. Sen. David Shoebridge and Peter
+      Cronau join CNLive! Guests: Senator David Shoebridge; Peter Cronau, journalist,
+      former ABC… Read more →'
+    one_sentence_summary: The Australian Prime Minister claims that a surveillance plane
+      deployed to the Gulf is for defensive purposes, despite it being involved in U.S.
+      combat operations, as discussed by Senator David Shoebridge and journalist Peter
+      Cronau on CNLive!
+    paragraph_summary: The Australian Prime Minister has stated that a surveillance
+      plane deployed to the Gulf is intended solely for defensive purposes; however,
+      it is also involved in U.S. combat operations. This situation has sparked discussion
+      among guests on CNLive!, including Senator David Shoebridge and journalist Peter
+      Cronau, who are examining the implications of Australia's military involvement
+      in the region.
+    published: '2026-03-19T23:47:49+00:00'
+  - title: The War Meant to Save Israel May Destroy It
+    url: https://consortiumnews.com/2026/03/19/the-war-meant-to-save-israel-may-destroy-it/
+    text: 'The war on Iran may accelerate the transformations it was meant to prevent:
+      a declining U.S. strategic role and a weakened Israeli deterrent posture, writes
+      Ramzy Baroud. By Ramzy Baroud Z Network When Donald Trump and Benjamin Netanyahu
+      launched their military… Read more →'
+    one_sentence_summary: Ramzy Baroud argues that the war on Iran could paradoxically
+      hasten the very changes it aimed to avert, leading to a diminished U.S. strategic
+      influence and a compromised Israeli deterrent capability.
+    paragraph_summary: 'In his article, Ramzy Baroud argues that the potential war on
+      Iran, initiated by Donald Trump and Benjamin Netanyahu, could ironically lead
+      to the very outcomes they sought to avoid: a diminished strategic role for the
+      United States and a weakened deterrent capability for Israel. Baroud suggests
+      that rather than strengthening their positions in the region, such military actions
+      may accelerate shifts in power dynamics that undermine U.S. influence and Israel''s
+      security posture.'
+    published: '2026-03-19T18:00:08+00:00'
+  - title: The War Meant to Save Israel May Destroy It
+    url: https://consortiumnews.com/2026/03/19/the-war-meant-to-save-israel-may-destroy-it/
+    text: 'The war on Iran may accelerate the transformations it was meant to prevent:
+      a declining U.S. strategic role and a weakened Israeli deterrent posture, writes
+      Ramzy Baroud. By Ramzy Baroud Z Network When Donald Trump and Benjamin Netanyahu
+      launched their military… Read more →'
+    one_sentence_summary: Ramzy Baroud argues that the war on Iran could paradoxically
+      hasten the very changes it aimed to avert, leading to a diminished U.S. strategic
+      influence and a compromised Israeli deterrent capability.
+    paragraph_summary: 'In his article, Ramzy Baroud argues that the potential war on
+      Iran, initiated by Donald Trump and Benjamin Netanyahu, could ironically lead
+      to the very outcomes they sought to avoid: a diminished strategic role for the
+      United States and a weakened deterrent capability for Israel. Baroud suggests
+      that rather than strengthening their positions in the region, such military actions
+      may accelerate shifts in power dynamics that undermine U.S. influence and Israel''s
+      security posture.'
+    published: '2026-03-19T18:00:08+00:00'
+  - title: Will Trump Break the Nuclear Taboo?
+    url: https://consortiumnews.com/2026/03/19/will-trump-break-the-nuclear-taboo/
+    text: In addition to the widening of the war on Iran to the whole Middle East and
+      beyond, this conflict risks deliberate use of nuclear weapons, write Peter Kuznick
+      and Ivana Nikolic Hughes. By Peter Kuznick and Ivana Nikolic Hughes Al… Read more
+      →
+    one_sentence_summary: The article by Peter Kuznick and Ivana Nikolic Hughes warns
+      that the escalating conflict involving Iran could expand throughout the Middle
+      East and potentially lead to the deliberate use of nuclear weapons.
+    paragraph_summary: In their article, Peter Kuznick and Ivana Nikolic Hughes discuss
+      the escalating conflict involving Iran, which has the potential to expand throughout
+      the Middle East and beyond. They express concerns about the increasing likelihood
+      of nuclear weapons being deliberately used in this conflict, highlighting the
+      grave implications such actions could have for global security and stability.
+    published: '2026-03-19T16:00:17+00:00'
+  - title: Will Trump Break the Nuclear Taboo?
+    url: https://consortiumnews.com/2026/03/19/will-trump-break-the-nuclear-taboo/
+    text: In addition to the widening of the war on Iran to the whole Middle East and
+      beyond, this conflict risks deliberate use of nuclear weapons, write Peter Kuznick
+      and Ivana Nikolic Hughes. By Peter Kuznick and Ivana Nikolic Hughes Al… Read more
+      →
+    one_sentence_summary: The article by Peter Kuznick and Ivana Nikolic Hughes warns
+      that the escalating conflict involving Iran could expand throughout the Middle
+      East and potentially lead to the deliberate use of nuclear weapons.
+    paragraph_summary: In their article, Peter Kuznick and Ivana Nikolic Hughes discuss
+      the escalating conflict involving Iran, which has the potential to expand throughout
+      the Middle East and beyond. They express concerns about the increasing likelihood
+      of nuclear weapons being deliberately used in this conflict, highlighting the
+      grave implications such actions could have for global security and stability.
+    published: '2026-03-19T16:00:17+00:00'
+  - title: 'Jonathan Cook: BBC’s Protection of Israel on Trial'
+    url: https://consortiumnews.com/2026/03/19/jonathan-cook-bbcs-protection-of-israel-on-trial/
+    text: Raffi Berg may be fighting in court for damages, but it’s really the BBC in
+      the dock for being utterly wedded to an editor whose objectivity on Israel is
+      so clearly in question. By Jonathan Cook Jonathan-Cook.net The High Court of…
+      Read more →
+    one_sentence_summary: Raffi Berg's legal battle for damages highlights the BBC's
+      problematic commitment to an editor whose impartiality regarding Israel is significantly
+      questionable.
+    paragraph_summary: Raffi Berg is currently engaged in a legal battle for damages,
+      but the focus of the controversy is on the BBC and its commitment to an editor
+      whose impartiality regarding Israel is being seriously questioned. Jonathan Cook
+      highlights the implications of this situation, suggesting that the BBC's editorial
+      choices may undermine its credibility and objectivity in reporting on sensitive
+      issues related to Israel.
+    published: '2026-03-19T11:21:55+00:00'
+  - title: 'Jonathan Cook: BBC’s Protection of Israel on Trial'
+    url: https://consortiumnews.com/2026/03/19/jonathan-cook-bbcs-protection-of-israel-on-trial/
+    text: Raffi Berg may be fighting in court for damages, but it’s really the BBC in
+      the dock for being utterly wedded to an editor whose objectivity on Israel is
+      so clearly in question. By Jonathan Cook Jonathan-Cook.net The High Court of…
+      Read more →
+    one_sentence_summary: Raffi Berg's legal battle for damages highlights the BBC's
+      problematic commitment to an editor whose impartiality regarding Israel is significantly
+      questionable.
+    paragraph_summary: Raffi Berg is currently engaged in a legal battle for damages,
+      but the focus of the controversy is on the BBC and its commitment to an editor
+      whose impartiality regarding Israel is being seriously questioned. Jonathan Cook
+      highlights the implications of this situation, suggesting that the BBC's editorial
+      choices may undermine its credibility and objectivity in reporting on sensitive
+      issues related to Israel.
+    published: '2026-03-19T11:21:55+00:00'
+  - title: 'Hedges Report: Why the US Is Losing Its War With Iran'
+    url: https://consortiumnews.com/2026/03/18/hedges-report-why-the-us-is-losing-its-war-with-iran/
+    text: John Mearsheimer details how the American Empire stumbled into one of its
+      largest strategic blunders, and what it might entail for the rest of the world.
+      By Chris Hedges The Chris Hedges Report As the U.S.-Israel and Iran War enters
+      its third… Read more →
+    one_sentence_summary: John Mearsheimer analyzes the significant strategic missteps
+      of the American Empire, particularly in relation to the ongoing U.S.-Israel and
+      Iran conflict, and discusses the potential global repercussions of these actions.
+    paragraph_summary: In his analysis, John Mearsheimer discusses the significant strategic
+      missteps made by the American Empire, particularly in the context of the ongoing
+      conflict between the U.S.-Israel and Iran. He argues that these blunders could
+      have far-reaching implications not only for the involved nations but also for
+      global stability. Mearsheimer's insights highlight the complexities of international
+      relations and the potential consequences of U.S. foreign policy decisions, suggesting
+      that the current trajectory could lead to increased tensions and instability worldwide.
+    published: '2026-03-18T18:00:24+00:00'
+  - title: 'Hedges Report: Why the US Is Losing Its War With Iran'
+    url: https://consortiumnews.com/2026/03/18/hedges-report-why-the-us-is-losing-its-war-with-iran/
+    text: John Mearsheimer details how the American Empire stumbled into one of its
+      largest strategic blunders, and what it might entail for the rest of the world.
+      By Chris Hedges The Chris Hedges Report As the U.S.-Israel and Iran War enters
+      its third… Read more →
+    one_sentence_summary: John Mearsheimer analyzes the significant strategic missteps
+      of the American Empire, particularly in relation to the ongoing U.S.-Israel and
+      Iran conflict, and discusses the potential global repercussions of these actions.
+    paragraph_summary: In his analysis, John Mearsheimer discusses the significant strategic
+      missteps made by the American Empire, particularly in the context of the ongoing
+      conflict between the U.S.-Israel and Iran. He argues that these blunders could
+      have far-reaching implications not only for the involved nations but also for
+      global stability. Mearsheimer's insights highlight the complexities of international
+      relations and the potential consequences of U.S. foreign policy decisions, suggesting
+      that the current trajectory could lead to increased tensions and instability worldwide.
+    published: '2026-03-18T18:00:24+00:00'
+  - title: A Crack in US War Machine & a Slap in Trump’s Face
+    url: https://consortiumnews.com/2026/03/18/a-crack-in-us-war-machine-a-slap-in-trumps-face/
+    text: 'The moral and strategic contradictions of this war are so visible that even
+      loyalists such as Joe Kent are beginning to break, writes Ramzy Baroud. By Ramzy
+      Baroud MintPress News Joe Kent’s resignation is not an anomaly but an alarm: elite…
+      Read more →'
+    one_sentence_summary: Ramzy Baroud argues that the visible moral and strategic contradictions
+      of the war are causing even staunch supporters like Joe Kent to reconsider their
+      positions, signaling a broader alarm among elite loyalists.
+    paragraph_summary: In his article for MintPress News, Ramzy Baroud discusses the
+      growing discontent among loyalists regarding the moral and strategic contradictions
+      of the ongoing war, highlighting the resignation of Joe Kent as a significant
+      indicator of this shift. Baroud argues that Kent's departure reflects a broader
+      alarm within elite circles, suggesting that even staunch supporters are beginning
+      to question the war's legitimacy and effectiveness. This trend points to a potential
+      fracture in the unwavering support for the conflict, raising concerns about its
+      future trajectory.
+    published: '2026-03-18T14:50:39+00:00'
+  - title: A Crack in US War Machine & a Slap in Trump’s Face
+    url: https://consortiumnews.com/2026/03/18/a-crack-in-us-war-machine-a-slap-in-trumps-face/
+    text: 'The moral and strategic contradictions of this war are so visible that even
+      loyalists such as Joe Kent are beginning to break, writes Ramzy Baroud. By Ramzy
+      Baroud MintPress News Joe Kent’s resignation is not an anomaly but an alarm: elite…
+      Read more →'
+    one_sentence_summary: Ramzy Baroud argues that the visible moral and strategic contradictions
+      of the war are causing even staunch supporters like Joe Kent to reconsider their
+      positions, signaling a broader alarm among elite loyalists.
+    paragraph_summary: In his article for MintPress News, Ramzy Baroud discusses the
+      growing discontent among loyalists regarding the moral and strategic contradictions
+      of the ongoing war, highlighting the resignation of Joe Kent as a significant
+      indicator of this shift. Baroud argues that Kent's departure reflects a broader
+      alarm within elite circles, suggesting that even staunch supporters are beginning
+      to question the war's legitimacy and effectiveness. This trend points to a potential
+      fracture in the unwavering support for the conflict, raising concerns about its
+      future trajectory.
+    published: '2026-03-18T14:50:39+00:00'
+  - title: 'DAYS 17-18: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/18/days-17-18-war-on-iran/
+    text: Another Israeli assassination but war goes on in what is becoming Netanyahu’s
+      “Vietnam;” plus Iran’s numbers on U.S. killed. TUESDAY By Joe Lauria Special to
+      Consortium News Immanuel Kant Author Killed A pragmatic Iranian leader who took
+      part in nuclear… Read more →
+    one_sentence_summary: The article discusses the ongoing conflict in Israel, likening
+      it to a "Vietnam" situation for Netanyahu, while also highlighting the assassination
+      of an Iranian leader involved in nuclear negotiations and presenting Iran's statistics
+      on U.S. casualties.
+    paragraph_summary: The article discusses the ongoing conflict in the Middle East,
+      particularly focusing on Israeli assassinations and the implications for Prime
+      Minister Netanyahu, likening the situation to a "Vietnam" scenario due to its
+      prolonged nature and complexity. It also touches on Iran's statistics regarding
+      U.S. casualties, highlighting the broader geopolitical tensions in the region.
+      The piece suggests that despite targeted actions, the overarching war continues,
+      reflecting a cycle of violence and retaliation that complicates peace efforts.
+    published: '2026-03-18T14:22:50+00:00'
+  - title: 'DAYS 17-18: WAR ON IRAN'
+    url: https://consortiumnews.com/2026/03/18/days-17-18-war-on-iran/
+    text: Another Israeli assassination but war goes on in what is becoming Netanyahu’s
+      “Vietnam;” plus Iran’s numbers on U.S. killed. TUESDAY By Joe Lauria Special to
+      Consortium News Immanuel Kant Author Killed A pragmatic Iranian leader who took
+      part in nuclear… Read more →
+    one_sentence_summary: The article discusses the ongoing conflict in Israel, likening
+      it to a "Vietnam" situation for Netanyahu, while also highlighting the assassination
+      of an Iranian leader involved in nuclear negotiations and presenting Iran's statistics
+      on U.S. casualties.
+    paragraph_summary: The article discusses the ongoing conflict in the Middle East,
+      particularly focusing on Israeli assassinations and the implications for Prime
+      Minister Netanyahu, likening the situation to a "Vietnam" scenario due to its
+      prolonged nature and complexity. It also touches on Iran's statistics regarding
+      U.S. casualties, highlighting the broader geopolitical tensions in the region.
+      The piece suggests that despite targeted actions, the overarching war continues,
+      reflecting a cycle of violence and retaliation that complicates peace efforts.
+    published: '2026-03-18T14:22:50+00:00'
+  - title: 'PATRICK LAWRENCE: Pedro Sánchez’s ‘No a la Guerra’'
+    url: https://consortiumnews.com/2026/03/18/patrick-lawrence-pedro-sanchezs-no-a-la-guerra/
+    text: Spain’s leader, with his government and his people, is signaling that the
+      time has come to challenge the trans–Atlantic status quo and ultimately the world
+      order altogether. By Patrick Lawrence Special to Consortium News I saw a video
+      the other day… Read more →
+    one_sentence_summary: Spain's leader is indicating a readiness to confront the existing
+      trans-Atlantic status quo and reshape the global order alongside his government
+      and citizens.
+    paragraph_summary: Spain's leader, along with his government and citizens, is indicating
+      a readiness to confront the existing trans-Atlantic status quo and potentially
+      reshape the global order. This shift suggests a significant change in Spain's
+      foreign policy approach, as they seek to assert their influence and challenge
+      established norms in international relations.
+    published: '2026-03-18T09:43:02+00:00'
+  - title: 'PATRICK LAWRENCE: Pedro Sánchez’s ‘No a la Guerra’'
+    url: https://consortiumnews.com/2026/03/18/patrick-lawrence-pedro-sanchezs-no-a-la-guerra/
+    text: Spain’s leader, with his government and his people, is signaling that the
+      time has come to challenge the trans–Atlantic status quo and ultimately the world
+      order altogether. By Patrick Lawrence Special to Consortium News I saw a video
+      the other day… Read more →
+    one_sentence_summary: Spain's leader is indicating a readiness to confront the existing
+      trans-Atlantic status quo and reshape the global order alongside his government
+      and citizens.
+    paragraph_summary: Spain's leader, along with his government and citizens, is indicating
+      a readiness to confront the existing trans-Atlantic status quo and potentially
+      reshape the global order. This shift suggests a significant change in Spain's
+      foreign policy approach, as they seek to assert their influence and challenge
+      established norms in international relations.
+    published: '2026-03-18T09:43:02+00:00'
   - title: 'Chris Hedges: The World According to Gaza'
     url: https://consortiumnews.com/2026/03/17/chris-hedges-the-world-according-to-gaza/
     text: 'The events of the last few years: Gaza, the Epstein files and more, have

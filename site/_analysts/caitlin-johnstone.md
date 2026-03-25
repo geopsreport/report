@@ -7,14 +7,917 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in the Middle East continues to be marked by escalating violence, deepening humanitarian crises, and persistent efforts by Western governments to control the narrative. Recent independent analysis, particularly from **Tim Foley** writing for Caitlin Johnstone, underscores the destabilizing impact of Zionist policies in the region, with Foley highlighting “the extensive violence, suffering, and destabilization” that has resulted from their implementation. The humanitarian toll remains severe, with civilian populations bearing the brunt of both direct conflict and the broader societal impacts.
+  As the U.S. enters another contentious election season, the focus of domestic dissent is shifting. The upcoming "No Kings" protest, as highlighted by **Caitlin Johnstone**, underscores a growing frustration not just with individual leaders like Donald Trump, but with the broader system of presidential power itself. Johnstone argues that "the problem isn’t kings, it’s US presidents," emphasizing that systemic violence and imperial policy persist regardless of who occupies the Oval Office. This reflects a wider disillusionment with the bipartisan consensus on foreign and domestic policy, particularly as it relates to the maintenance of U.S. global hegemony and capitalist interests.
   
-  A significant development is the internal US military investigation confirming responsibility for the Tomahawk missile strike on an Iranian girls’ school, which killed at least 175 people. This finding directly contradicts earlier official claims that blamed a misfired Iranian missile. The rhetoric from US officials regarding civilian casualties has drawn sharp criticism, with Foley emphasizing the “troubling rhetoric” that seeks to minimize or justify such incidents. This revelation is likely to further erode trust in official statements and intensify calls for accountability.
+  Meanwhile, debates about Western culture are intensifying. In her recent analysis, **Caitlin Johnstone** contends that the only worthwhile aspect of modern Western culture is its resistance to the "dystopian and imperialistic actions" of the West itself. She notes that many, especially white Westerners, are struggling to find an authentic cultural identity that is not complicit in global injustice and ecological destruction. This cultural crisis is feeding into broader anti-establishment and anti-imperial sentiment across the U.S. and Europe.
   
-  Domestically, the discourse within Western societies is increasingly focused on the role of government and media in shaping public perception. Foley argues that many prefer to believe in the benevolence of their governments, despite mounting evidence of harmful actions taken under the guise of promoting freedom and democracy. This sentiment is echoed in critiques of the valorization of US soldiers killed in the conflict, with Foley asserting that such narratives serve to perpetuate recruitment and misrepresent the true nature of the war.
+  On the international front, the fallout from U.S. and Israeli actions in the Middle East continues to reverberate. Johnstone maintains a critical stance, arguing that sympathy for Israeli policy is being "weaponized to justify further violence and atrocities." The ongoing conflict with Iran, marked by attacks on energy infrastructure, is poised to trigger a global energy crisis, with a "high chance" of surging fuel prices and economic instability if escalation continues.
   
-  Looking ahead, it is quite likely that skepticism toward official narratives will continue to grow, especially as more evidence emerges contradicting government statements. The humanitarian crisis in the Middle East shows no sign of abating, and the destabilizing effects of current policies are expected to persist. There is a high chance that public pressure for transparency and accountability will increase, but entrenched interests and propaganda efforts are most definitely set to continue shaping the discourse for the foreseeable future.
+  **Trends and Predictions:**  
+  - The domestic U.S. protest movement is likely to intensify, with a high chance of broader critiques of the presidency and the political system itself, not just individual leaders.
+  - Cultural disaffection in the West will continue to grow, fueling opposition to imperial policies and possibly leading to new forms of activism and resistance.
+  - The U.S.-Israel-Iran conflict remains a major flashpoint, with a high chance of further escalation and global economic repercussions, particularly in energy markets.
+  
+  In summary, the prevailing trend is a deepening skepticism toward established power structures—both political and cultural—within the West, coupled with rising global instability linked to ongoing conflicts in the Middle East. Most definitely, these dynamics will continue to shape both domestic and international politics in the coming weeks.
 articles:
+  - title: The Problem Isn't "Kings", The Problem Is US Presidents
+    url: https://www.caitlinjohnst.one/p/the-problem-isnt-kings-the-problem
+    text: 'Reading by Tim Foley : Subscribe now There’s another giant “No Kings” protest
+      scheduled for this weekend , and right now all I can think about is how disgusting
+      it is that this is the closest thing to a mass-scale antiwar protest in the United
+      States right now. The problem with the “No Kings” protests is right there in the
+      title. They’re saying “We don’t want a king, we want a president!” But Donald
+      Trump is not a king. He is a president. And that’s the real problem: US presidents
+      are extremely evil men who do extremely evil things. Donald Trump is a US president
+      who is doing US president things. US presidents consistently murder people with
+      unforgivable acts of mass military violence, mistreat immigrants and marginalized
+      communities, and promote tyranny for the benefit of corrupting special interests
+      in defense of the US empire and the capitalist status quo. That’s what their job
+      is. If they weren’t willing to do these things, they wouldn’t get the job. Trump
+      is not some freakish aberration; he is the product of the same American political
+      status quo as his predecessors. He became president the same way they did, and
+      the powers he now wields were given to his office via mundane executive, legislative
+      and judicial decisions and precedents before he was ever elected. But because
+      the “No Kings” protests are organized by liberal defenders of that same political
+      status quo, the demonstrations cannot address any of this. The whole thing is
+      designed to be as large and inclusive as possible while also ensuring that it
+      doesn’t disrupt the established order in any meaningful way. They make no real
+      demands. They coordinate the demonstrations with police and government officials.
+      Protesters show up for a few hours with their brunch signs and their orange guy
+      shirts, and then they go home without inconveniencing anybody. They are not protesting
+      against the US empire. They just want a more polite, photogenic empire. They are
+      not protesting the corrupt oligarchic political system which gave rise to Donald
+      Trump. They just want the corrupt oligarchic political system to give rise to
+      presidents who make them feel less uncomfortable. The problem is US presidents,
+      not kings. The problem is the US empire, not Trump. The United States needs drastic,
+      revolutionary change, not daytime protests designed to be as inoffensive as possible.
+      As long as Americans are protesting against fictional monarchies and easily replaceable
+      oligarchic puppets instead of resisting the actual imperial machine, the abuses
+      are going to continue. The war in Iran is the most obviously evil American war
+      in generations. People should be flooding the streets in every major US city.
+      Washington DC should be on fire. Soldiers should be deserting en masse. Instead
+      we’re seeing these stupid fluffy lib theater conventions where people get together
+      to do nothing. Americans of conscience should be feeling deeply embarrassed right
+      now. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The upcoming "No Kings" protest highlights a troubling reality
+      in the U.S., where the focus on opposing Donald Trump as a president obscures
+      the broader issue of systemic violence and tyranny perpetuated by all U.S. presidents
+      in service of the empire and capitalist interests.
+    paragraph_summary: In Tim Foley's article, he critiques the upcoming "No Kings"
+      protest as a superficial response to the current political climate in the United
+      States, arguing that it fails to address the deeper issues of systemic violence
+      and corruption inherent in the presidency itself. He contends that Donald Trump,
+      while often vilified, is not an anomaly but rather a product of a political system
+      that consistently engages in harmful actions, including military violence and
+      the oppression of marginalized communities. Foley suggests that the protests,
+      organized by liberal supporters of the status quo, lack meaningful demands and
+      ultimately seek to maintain the existing order rather than challenge it, as they
+      are coordinated with authorities and designed to avoid any significant disruption.
+      He emphasizes that the protests do not confront the broader issues of the US empire
+      and oligarchic political system, instead desiring a more palatable version of
+      it.
+    published: '2026-03-25T00:55:33+00:00'
+  - title: The Problem Isn't "Kings", The Problem Is US Presidents
+    url: https://www.caitlinjohnst.one/p/the-problem-isnt-kings-the-problem
+    text: 'Reading by Tim Foley : Subscribe now There’s another giant “No Kings” protest
+      scheduled for this weekend , and right now all I can think about is how disgusting
+      it is that this is the closest thing to a mass-scale antiwar protest in the United
+      States right now. The problem with the “No Kings” protests is right there in the
+      title. They’re saying “We don’t want a king, we want a president!” But Donald
+      Trump is not a king. He is a president. And that’s the real problem: US presidents
+      are extremely evil men who do extremely evil things. Donald Trump is a US president
+      who is doing US president things. US presidents consistently murder people with
+      unforgivable acts of mass military violence, mistreat immigrants and marginalized
+      communities, and promote tyranny for the benefit of corrupting special interests
+      in defense of the US empire and the capitalist status quo. That’s what their job
+      is. If they weren’t willing to do these things, they wouldn’t get the job. Trump
+      is not some freakish aberration; he is the product of the same American political
+      status quo as his predecessors. He became president the same way they did, and
+      the powers he now wields were given to his office via mundane executive, legislative
+      and judicial decisions and precedents before he was ever elected. But because
+      the “No Kings” protests are organized by liberal defenders of that same political
+      status quo, the demonstrations cannot address any of this. The whole thing is
+      designed to be as large and inclusive as possible while also ensuring that it
+      doesn’t disrupt the established order in any meaningful way. They make no real
+      demands. They coordinate the demonstrations with police and government officials.
+      Protesters show up for a few hours with their brunch signs and their orange guy
+      shirts, and then they go home without inconveniencing anybody. They are not protesting
+      against the US empire. They just want a more polite, photogenic empire. They are
+      not protesting the corrupt oligarchic political system which gave rise to Donald
+      Trump. They just want the corrupt oligarchic political system to give rise to
+      presidents who make them feel less uncomfortable. The problem is US presidents,
+      not kings. The problem is the US empire, not Trump. The United States needs drastic,
+      revolutionary change, not daytime protests designed to be as inoffensive as possible.
+      As long as Americans are protesting against fictional monarchies and easily replaceable
+      oligarchic puppets instead of resisting the actual imperial machine, the abuses
+      are going to continue. The war in Iran is the most obviously evil American war
+      in generations. People should be flooding the streets in every major US city.
+      Washington DC should be on fire. Soldiers should be deserting en masse. Instead
+      we’re seeing these stupid fluffy lib theater conventions where people get together
+      to do nothing. Americans of conscience should be feeling deeply embarrassed right
+      now. _______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The upcoming "No Kings" protest highlights a troubling reality
+      in the U.S., where the focus on opposing Donald Trump as a president obscures
+      the broader issue of systemic violence and tyranny perpetuated by all U.S. presidents
+      in service of the empire and capitalist interests.
+    paragraph_summary: In Tim Foley's article, he critiques the upcoming "No Kings"
+      protest as a superficial response to the current political climate in the United
+      States, arguing that it fails to address the deeper issues of systemic violence
+      and corruption inherent in the presidency itself. He contends that Donald Trump,
+      while often vilified, is not an anomaly but rather a product of a political system
+      that consistently engages in harmful actions, including military violence and
+      the oppression of marginalized communities. Foley suggests that the protests,
+      organized by liberal supporters of the status quo, lack meaningful demands and
+      ultimately seek to maintain the existing order rather than challenge it, as they
+      are coordinated with authorities and designed to avoid any significant disruption.
+      He emphasizes that the protests do not confront the broader issues of the US empire
+      and oligarchic political system, instead desiring a more palatable version of
+      it.
+    published: '2026-03-25T00:55:33+00:00'
+  - title: The Only Worthwhile Western Culture Is That Which Opposes The Western Empire
+    url: https://www.caitlinjohnst.one/p/the-only-worthwhile-western-culture
+    text: 'Reading by Tim Foley : Subscribe now The only worthwhile “western culture”
+      in modern times is culture which rejects and opposes the dystopian nature of western
+      civilization and the abuses of the western empire. Western civilization is what’s
+      bombing Iran. It’s what’s strangling Cuba. It’s what’s torching Lebanon. It’s
+      what’s exterminating Palestine. It’s what stole Venezuela. It’s what’s plundering
+      the labor and resources of the global south. It’s what’s keeping the systems in
+      place which are killing our ecosystem and driving us closer to nuclear armageddon.
+      There is no sane and truthful position to have toward all this but vehement rejection.
+      Westerners — particularly white westerners in nations with colonialist histories
+      like the United States and Australia — often struggle to find their cultural moorings.
+      It can be difficult to find an authentic position from which to express art and
+      take your stand as a personality when you feel culturally rootless and historically
+      ungrounded. It causes a kind of dissonance with our lives that can haunt us until
+      we die. The best way to resolve this dissonance is to take your stand in opposition
+      to the perverse society into which you were born. Express from the standpoint
+      of resistance to this horrifying nightmare civilization that is fueled by human
+      blood. We live in a sick and intensely mind-controlled dystopia where everything
+      is fake and stupid. Mainstream culture is a nonstop celebration of the vapid and
+      inane. The movies glorify cops and soldiers. The music exalts capitalism, consumerism,
+      egotism and frivolity. The products are made by wage slaves and the fuel is obtained
+      by war. The food is designed to reap profits rather than to nourish. The news
+      media is designed to propagandize rather than to inform. It’s a disgusting civilization,
+      to be honest. The more you learn about it, the more repulsive it becomes. How
+      could anyone relate to the human experience from inside this hellscape in a truth-based
+      way, except by opposition? The only way to participate in “western culture” is
+      to help create a new kind of culture which stands squarely in opposition to it.
+      As Terence McKenna once said, “We have to create culture. Don’t watch TV. Don’t
+      read magazines. Don’t even listen to NPR. Create your own roadshow… Reclaim your
+      mind and get it out of the hands of the cultural engineers who want to turn you
+      into a half-baked moron consuming all this trash that’s being manufactured out
+      of the bones of a dying world.” The only way to create culture with sincerity
+      in this dystopia is by forcefully rejecting its fraudulence and abusiveness, and
+      embracing revolution and resistance. To do anything else is to give tacit approval
+      to the horrific nature of this civilization, and it will always ring a bit hollow
+      and dissonant, because it is ignoring the elephant in the room. The elephant in
+      the room is the unacceptable depravity and deceit that’s going on all around us.
+      So if you want to make art, make revolutionary art. If you want to express yourself,
+      express your defiance of the western empire. Oppose the wars. Oppose the militarism.
+      Oppose the capitalism, the imperialism, the ecocide, the injustice, the tyranny.
+      That’s the only way to be authentic in an inauthentic society. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the only valuable aspect of modern
+      western culture is its rejection of the dystopian and imperialistic actions of
+      western civilization, which are responsible for global injustices and ecological
+      destruction, particularly highlighting the struggles of white westerners to find
+      authentic cultural identity in this context.
+    paragraph_summary: In his article, Tim Foley argues that the only valuable aspect
+      of modern Western culture is its rejection of the dystopian realities and abuses
+      perpetuated by Western civilization, which he claims is responsible for global
+      injustices such as military aggression, exploitation of resources, and environmental
+      destruction. He highlights the cultural dissonance felt by many Westerners, particularly
+      those from colonialist backgrounds, who struggle to find authentic expressions
+      of identity in a society that often glorifies superficiality and consumerism.
+      Foley advocates for a stance of resistance against this "horrifying nightmare
+      civilization," suggesting that true artistic expression and personal identity
+      can only emerge from a position of vehement opposition to the pervasive injustices
+      and moral decay of contemporary culture.
+    published: '2026-03-24T01:30:03+00:00'
+  - title: The Only Worthwhile Western Culture Is That Which Opposes The Western Empire
+    url: https://www.caitlinjohnst.one/p/the-only-worthwhile-western-culture
+    text: 'Reading by Tim Foley : Subscribe now The only worthwhile “western culture”
+      in modern times is culture which rejects and opposes the dystopian nature of western
+      civilization and the abuses of the western empire. Western civilization is what’s
+      bombing Iran. It’s what’s strangling Cuba. It’s what’s torching Lebanon. It’s
+      what’s exterminating Palestine. It’s what stole Venezuela. It’s what’s plundering
+      the labor and resources of the global south. It’s what’s keeping the systems in
+      place which are killing our ecosystem and driving us closer to nuclear armageddon.
+      There is no sane and truthful position to have toward all this but vehement rejection.
+      Westerners — particularly white westerners in nations with colonialist histories
+      like the United States and Australia — often struggle to find their cultural moorings.
+      It can be difficult to find an authentic position from which to express art and
+      take your stand as a personality when you feel culturally rootless and historically
+      ungrounded. It causes a kind of dissonance with our lives that can haunt us until
+      we die. The best way to resolve this dissonance is to take your stand in opposition
+      to the perverse society into which you were born. Express from the standpoint
+      of resistance to this horrifying nightmare civilization that is fueled by human
+      blood. We live in a sick and intensely mind-controlled dystopia where everything
+      is fake and stupid. Mainstream culture is a nonstop celebration of the vapid and
+      inane. The movies glorify cops and soldiers. The music exalts capitalism, consumerism,
+      egotism and frivolity. The products are made by wage slaves and the fuel is obtained
+      by war. The food is designed to reap profits rather than to nourish. The news
+      media is designed to propagandize rather than to inform. It’s a disgusting civilization,
+      to be honest. The more you learn about it, the more repulsive it becomes. How
+      could anyone relate to the human experience from inside this hellscape in a truth-based
+      way, except by opposition? The only way to participate in “western culture” is
+      to help create a new kind of culture which stands squarely in opposition to it.
+      As Terence McKenna once said, “We have to create culture. Don’t watch TV. Don’t
+      read magazines. Don’t even listen to NPR. Create your own roadshow… Reclaim your
+      mind and get it out of the hands of the cultural engineers who want to turn you
+      into a half-baked moron consuming all this trash that’s being manufactured out
+      of the bones of a dying world.” The only way to create culture with sincerity
+      in this dystopia is by forcefully rejecting its fraudulence and abusiveness, and
+      embracing revolution and resistance. To do anything else is to give tacit approval
+      to the horrific nature of this civilization, and it will always ring a bit hollow
+      and dissonant, because it is ignoring the elephant in the room. The elephant in
+      the room is the unacceptable depravity and deceit that’s going on all around us.
+      So if you want to make art, make revolutionary art. If you want to express yourself,
+      express your defiance of the western empire. Oppose the wars. Oppose the militarism.
+      Oppose the capitalism, the imperialism, the ecocide, the injustice, the tyranny.
+      That’s the only way to be authentic in an inauthentic society. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the only valuable aspect of modern
+      western culture is its rejection of the dystopian and imperialistic actions of
+      western civilization, which are responsible for global injustices and ecological
+      destruction, particularly highlighting the struggles of white westerners to find
+      authentic cultural identity in this context.
+    paragraph_summary: In his article, Tim Foley argues that the only valuable aspect
+      of modern Western culture is its rejection of the dystopian realities and abuses
+      perpetuated by Western civilization, which he claims is responsible for global
+      injustices such as military aggression, exploitation of resources, and environmental
+      destruction. He highlights the cultural dissonance felt by many Westerners, particularly
+      those from colonialist backgrounds, who struggle to find authentic expressions
+      of identity in a society that often glorifies superficiality and consumerism.
+      Foley advocates for a stance of resistance against this "horrifying nightmare
+      civilization," suggesting that true artistic expression and personal identity
+      can only emerge from a position of vehement opposition to the pervasive injustices
+      and moral decay of contemporary culture.
+    published: '2026-03-24T01:30:03+00:00'
+  - title: It's Unethical To Have Sympathy For Israelis, And Other Notes
+    url: https://www.caitlinjohnst.one/p/its-unethical-to-have-sympathy-for
+    text: 'Reading by Tim Foley : Subscribe now Israel’s Foreign Ministry has posted
+      a statement on Twitter which reads, “The Iranian regime devastated Arad and Dimona
+      by deliberately striking civilians with missiles. Over 100 people were injured,
+      including children. A blatant war crime. Pure terrorism.” I don’t want to be one
+      of those people who wastes their time criticizing “hypocrisy” in foreign policy,
+      but holy fucking shit, dude. Jesus Christ. My God. I will never, ever express
+      sympathy for Israelis. Ever. Under any circumstances. To do so would be irresponsible,
+      because Israel always weaponizes sympathy and then uses that weapon to commit
+      mass atrocities. If the world gives Israel sympathy for civilians injured by an
+      Iranian airstrike over the weekend in a war Israel started, by Friday they’ll
+      be using that sympathy to justify nuking Tehran. I don’t enjoy holding this position.
+      It goes against every natural human impulse inside me. But Israel, by its nature,
+      has made it the only responsible position to hold. History has clearly established
+      that the world was wrong to give Israel sympathy for October 7. The correct and
+      moral thing to have done would have been for everyone to say “That’s what you
+      get for being a murderous apartheid state,” and then sanction Israel into the
+      Stone Age until they dismantled their abusive ethnonationalist regime. That would
+      have been the right position for the world to take. And that’s how we need to
+      be with Israel going forward. No sympathy. No support. We’ve got to treat them
+      the same way you’d treat a malignant narcissist who solicits sympathy and then
+      weaponizes it at every opportunity. To do otherwise would be irresponsible. It’s
+      just not safe. ❖ Trump is now tweeting that “If Iran doesn’t FULLY OPEN, WITHOUT
+      THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, the
+      United States of America will hit and obliterate their various POWER PLANTS, STARTING
+      WITH THE BIGGEST ONE FIRST…” Iran has of course responded that if its power plants
+      are attacked it will attack the energy infrastructure of US allies in the middle
+      east, saying that “the critical infrastructure, energy infrastructure, and oil
+      facilities throughout the region will be considered legitimate targets and will
+      be destroyed irreversibly.” It’s starting to look like it’s only a matter of time
+      before the US and/or Israel does something in Iran that makes the world a much
+      darker place than it already is. Someone’s got to rein these psychopaths in. ❖
+      MAGA was an eleven-year practical joke where at the end the cameras come out and
+      the prankster goes “Haha joke’s on you, we’re not making America great again,
+      we’re going to war with Iran!” ❖ It’s so silly how the propagandists are trying
+      to convince us to be concerned about an Iranian attack on a British-American airbase
+      in the Indian Ocean. It’s the funniest thing happening in the world right now
+      that the western political/media class is asking us to be shocked and outraged
+      that Iran would attack US allies who are actively collaborating toward its destruction
+      in an unprovoked war of aggression. It’s hilarious. Think about how dehumanized
+      the Muslim world would have to be in your perception in order for that kind of
+      thinking to make sense. You’d have to see them as so unlike yourself that it would
+      astonish and baffle you for them to be retaliating against unprovoked aggressions
+      like any normal human being. Your view would essentially have to be, “Why are
+      those Iranians hitting us back? Don’t they know their role is to be killed, and
+      our role is to do the killing? They’ve got the natural order of things completely
+      backward!” Iran is fighting for its very existence as a state. Obviously it’s
+      going to respond aggressively toward everyone who’s helping to destroy it. It’s
+      a symptom of a profoundly sick and twisted civilization that this would seem abnormal
+      or surprising to anyone. ❖ So, like, we’re going to start having mass protests
+      at some point, right? Against this horrific US-Israeli war of unfathomable consequence?
+      I mean, that’s on the agenda, right? Because it would be really weird if it wasn’t.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author expresses a strong refusal to sympathize with Israel
+      in light of its actions and the perceived hypocrisy in its foreign policy, arguing
+      that such sympathy is weaponized to justify further violence and atrocities.
+    paragraph_summary: In a recent statement, Israel's Foreign Ministry condemned Iranian
+      missile strikes on civilians in Arad and Dimona, labeling it a war crime and terrorism,
+      with over 100 injuries reported. The author, Tim Foley, expresses a strong stance
+      against sympathizing with Israel, arguing that such sympathy is often exploited
+      by the Israeli government to justify further violence and atrocities. Foley believes
+      that the global community should have responded to Israel's actions on October
+      7 with condemnation rather than sympathy, advocating for a more critical approach
+      towards Israel's policies and actions, akin to how one would deal with a manipulative
+      individual. He emphasizes that providing support or sympathy to Israel is irresponsible
+      and dangerous, especially in light of its history of using such sentiments to
+      justify aggressive actions.
+    published: '2026-03-22T12:58:48+00:00'
+  - title: It's Unethical To Have Sympathy For Israelis, And Other Notes
+    url: https://www.caitlinjohnst.one/p/its-unethical-to-have-sympathy-for
+    text: 'Reading by Tim Foley : Subscribe now Israel’s Foreign Ministry has posted
+      a statement on Twitter which reads, “The Iranian regime devastated Arad and Dimona
+      by deliberately striking civilians with missiles. Over 100 people were injured,
+      including children. A blatant war crime. Pure terrorism.” I don’t want to be one
+      of those people who wastes their time criticizing “hypocrisy” in foreign policy,
+      but holy fucking shit, dude. Jesus Christ. My God. I will never, ever express
+      sympathy for Israelis. Ever. Under any circumstances. To do so would be irresponsible,
+      because Israel always weaponizes sympathy and then uses that weapon to commit
+      mass atrocities. If the world gives Israel sympathy for civilians injured by an
+      Iranian airstrike over the weekend in a war Israel started, by Friday they’ll
+      be using that sympathy to justify nuking Tehran. I don’t enjoy holding this position.
+      It goes against every natural human impulse inside me. But Israel, by its nature,
+      has made it the only responsible position to hold. History has clearly established
+      that the world was wrong to give Israel sympathy for October 7. The correct and
+      moral thing to have done would have been for everyone to say “That’s what you
+      get for being a murderous apartheid state,” and then sanction Israel into the
+      Stone Age until they dismantled their abusive ethnonationalist regime. That would
+      have been the right position for the world to take. And that’s how we need to
+      be with Israel going forward. No sympathy. No support. We’ve got to treat them
+      the same way you’d treat a malignant narcissist who solicits sympathy and then
+      weaponizes it at every opportunity. To do otherwise would be irresponsible. It’s
+      just not safe. ❖ Trump is now tweeting that “If Iran doesn’t FULLY OPEN, WITHOUT
+      THREAT, the Strait of Hormuz, within 48 HOURS from this exact point in time, the
+      United States of America will hit and obliterate their various POWER PLANTS, STARTING
+      WITH THE BIGGEST ONE FIRST…” Iran has of course responded that if its power plants
+      are attacked it will attack the energy infrastructure of US allies in the middle
+      east, saying that “the critical infrastructure, energy infrastructure, and oil
+      facilities throughout the region will be considered legitimate targets and will
+      be destroyed irreversibly.” It’s starting to look like it’s only a matter of time
+      before the US and/or Israel does something in Iran that makes the world a much
+      darker place than it already is. Someone’s got to rein these psychopaths in. ❖
+      MAGA was an eleven-year practical joke where at the end the cameras come out and
+      the prankster goes “Haha joke’s on you, we’re not making America great again,
+      we’re going to war with Iran!” ❖ It’s so silly how the propagandists are trying
+      to convince us to be concerned about an Iranian attack on a British-American airbase
+      in the Indian Ocean. It’s the funniest thing happening in the world right now
+      that the western political/media class is asking us to be shocked and outraged
+      that Iran would attack US allies who are actively collaborating toward its destruction
+      in an unprovoked war of aggression. It’s hilarious. Think about how dehumanized
+      the Muslim world would have to be in your perception in order for that kind of
+      thinking to make sense. You’d have to see them as so unlike yourself that it would
+      astonish and baffle you for them to be retaliating against unprovoked aggressions
+      like any normal human being. Your view would essentially have to be, “Why are
+      those Iranians hitting us back? Don’t they know their role is to be killed, and
+      our role is to do the killing? They’ve got the natural order of things completely
+      backward!” Iran is fighting for its very existence as a state. Obviously it’s
+      going to respond aggressively toward everyone who’s helping to destroy it. It’s
+      a symptom of a profoundly sick and twisted civilization that this would seem abnormal
+      or surprising to anyone. ❖ So, like, we’re going to start having mass protests
+      at some point, right? Against this horrific US-Israeli war of unfathomable consequence?
+      I mean, that’s on the agenda, right? Because it would be really weird if it wasn’t.
+      __________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author expresses a strong refusal to sympathize with Israel
+      in light of its actions and the perceived hypocrisy in its foreign policy, arguing
+      that such sympathy is weaponized to justify further violence and atrocities.
+    paragraph_summary: In a recent statement, Israel's Foreign Ministry condemned Iranian
+      missile strikes on civilians in Arad and Dimona, labeling it a war crime and terrorism,
+      with over 100 injuries reported. The author, Tim Foley, expresses a strong stance
+      against sympathizing with Israel, arguing that such sympathy is often exploited
+      by the Israeli government to justify further violence and atrocities. Foley believes
+      that the global community should have responded to Israel's actions on October
+      7 with condemnation rather than sympathy, advocating for a more critical approach
+      towards Israel's policies and actions, akin to how one would deal with a manipulative
+      individual. He emphasizes that providing support or sympathy to Israel is irresponsible
+      and dangerous, especially in light of its history of using such sentiments to
+      justify aggressive actions.
+    published: '2026-03-22T12:58:48+00:00'
+  - title: You Can't Make People Cheer For Your Wars After Committing A Live-Streamed
+      Genocide, And Other Notes
+    url: https://www.caitlinjohnst.one/p/you-cant-make-people-cheer-for-your
+    text: 'Reading by Tim Foley : Subscribe now I saw a clip of Fox News war propagandist
+      Sean Hannity solemnly reading a tweet by Atlantic Council fellow Jamie Metzl which
+      said, “It is profoundly disturbing that a growing segment of the far left appears
+      to be almost rooting for Hamas, Hezbollah, the Iranian regime, and other forces
+      fundamentally opposed to the US and our allies. This seems to reflect a corrosive
+      strain of anti-Americanism dressed up in post-colonial theory that risks blinding
+      us to the moral realities of our world and the nature of our adversaries.” These
+      assholes really thought they could commit a genocide in full view of the entire
+      world for years and then expect everyone cheer for them to win. Of course we’re
+      seeing more “anti-Americanism”. You don’t get to commit horrific atrocities year
+      after year and then cry when the world starts to hate you. ❖ CBS News reports
+      the Pentagon has made detailed preparations to send US ground forces to Iran,
+      while conscientious objector nonprofit Center on Conscience & War reports that
+      they’re getting numerous calls from US service members who say they’ve received
+      surprise deployment orders. Military experts for decades: Don’t go to war with
+      Iran, they’ll close the Strait of Hormuz and kill US forces in the region, plus
+      their terrain makes a ground invasion impossible. USA: [bombs Iran] Iran: [closes
+      the Strait of Hormuz, kills US forces in the region] USA: USA: Let’s try a ground
+      invasion. ❖ I can’t get over how many leftists bought into the “we support the
+      Iran protests” schtick. Where the fuck did you idiots think this was headed? What
+      did you think you were promoting when you assisted the US empire’s regime change
+      sloganeering throughout the west? Fucking morons. ❖ Two great ways to make me
+      permanently lose interest in your political perspective: 1. Say negative things
+      about the Iranian government during an active war propaganda campaign by the US
+      empire. 2. Babble about “antisemitism on the left” like it’s a real thing in the
+      year 2026. ❖ I used to think it’s wrong to massacre civilians and carpet bomb
+      large cities but then a clever and insightful right winger informed me that if
+      I was Iranian I’d be wearing a hijab, so now I think it’s good. ❖ It’s so funny
+      how Trump apologists have started claiming the United States has been at war with
+      Iran for 47 years, because I had literally never once heard anyone utter that
+      claim until this war began. It’s just a talking point they all began regurgitating
+      at once in order to justify Trump’s warmongering. Pretty sure if there was an
+      ongoing decades-long American war I would have heard about it before March 2026.
+      ❖ ❖ FYI if your main reason for caring about Trump raining military explosives
+      on Iran is that it will help Democrats in the midterms, you’re a piece of shit.
+      ❖ The American far right lives in a fantasy world where the United States would
+      ordinarily be a beneficent, peaceful utopia if not for Israel, despite the fact
+      that the US has been steeped in the blood of the innocent throughout its entire
+      history since long before Israel existed. ❖ It’s just an unfortunate fact that
+      historically the only way to get Americans to start forcefully opposing a US war
+      is to give them some skin in the game. Last time it was the draft in Vietnam.
+      Maybe this time it will be everything getting crazy expensive due to the war on
+      Iran. ❖ The US would be as reluctant to go to war as Iran was if its leaders knew
+      they’d be killed by the other side in the opening days of any conflict. Iran has
+      shown that it’s always had the ability to bloody America’s nose in a war, yet
+      its leaders displayed remarkable restraint in their efforts to avoid it. There
+      are surely a lot of reasons for this, but one self-evident reason is that they
+      knew if they went to war with the US and Israel, their own necks would be on the
+      chopping block. Khamenei, Larijani and other officials who’ve been killed each
+      had a personal vested interest in de-escalation. Imagine if that were the case
+      for US and Israeli leadership? Their warmongering would stop immediately, and
+      they’d pursue peace at every turn. This is the kind of cowardice that is driving
+      these wars. They’re not fighting for causes they’d be willing to die for, they’re
+      sending other people’s sons and daughters to kill other people’s sons and daughters
+      for extremely stupid and unworthy reasons. Because they’re never the ones to pay
+      the price. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques Sean Hannity's reading of a tweet expressing
+      concern over perceived anti-American sentiment among the far left, arguing that
+      such sentiments are a response to the U.S.'s long history of committing atrocities
+      without accountability.
+    paragraph_summary: In a recent commentary, Tim Foley critiques the hypocrisy of
+      those who express outrage over perceived anti-American sentiments while ignoring
+      the atrocities committed by the U.S. and its allies, particularly in the context
+      of the ongoing conflict involving Hamas and Hezbollah. He highlights a tweet from
+      Jamie Metzl, which suggests that the far left is supporting these groups, arguing
+      that such sentiments are a reaction to years of U.S. aggression and war crimes.
+      Foley also discusses the Pentagon's preparations for potential military action
+      against Iran, warning that a ground invasion would be disastrous given Iran's
+      strategic advantages. He expresses frustration with leftists who naively supported
+      U.S. narratives about regime change, questioning their understanding of the consequences
+      of their actions. Ultimately, he dismisses certain political perspectives that
+      criticize the Iranian government during a time of U.S. military aggression and
+      those that trivialize discussions about antisemitism on the left.
+    published: '2026-03-21T12:20:06+00:00'
+  - title: You Can't Make People Cheer For Your Wars After Committing A Live-Streamed
+      Genocide, And Other Notes
+    url: https://www.caitlinjohnst.one/p/you-cant-make-people-cheer-for-your
+    text: 'Reading by Tim Foley : Subscribe now I saw a clip of Fox News war propagandist
+      Sean Hannity solemnly reading a tweet by Atlantic Council fellow Jamie Metzl which
+      said, “It is profoundly disturbing that a growing segment of the far left appears
+      to be almost rooting for Hamas, Hezbollah, the Iranian regime, and other forces
+      fundamentally opposed to the US and our allies. This seems to reflect a corrosive
+      strain of anti-Americanism dressed up in post-colonial theory that risks blinding
+      us to the moral realities of our world and the nature of our adversaries.” These
+      assholes really thought they could commit a genocide in full view of the entire
+      world for years and then expect everyone cheer for them to win. Of course we’re
+      seeing more “anti-Americanism”. You don’t get to commit horrific atrocities year
+      after year and then cry when the world starts to hate you. ❖ CBS News reports
+      the Pentagon has made detailed preparations to send US ground forces to Iran,
+      while conscientious objector nonprofit Center on Conscience & War reports that
+      they’re getting numerous calls from US service members who say they’ve received
+      surprise deployment orders. Military experts for decades: Don’t go to war with
+      Iran, they’ll close the Strait of Hormuz and kill US forces in the region, plus
+      their terrain makes a ground invasion impossible. USA: [bombs Iran] Iran: [closes
+      the Strait of Hormuz, kills US forces in the region] USA: USA: Let’s try a ground
+      invasion. ❖ I can’t get over how many leftists bought into the “we support the
+      Iran protests” schtick. Where the fuck did you idiots think this was headed? What
+      did you think you were promoting when you assisted the US empire’s regime change
+      sloganeering throughout the west? Fucking morons. ❖ Two great ways to make me
+      permanently lose interest in your political perspective: 1. Say negative things
+      about the Iranian government during an active war propaganda campaign by the US
+      empire. 2. Babble about “antisemitism on the left” like it’s a real thing in the
+      year 2026. ❖ I used to think it’s wrong to massacre civilians and carpet bomb
+      large cities but then a clever and insightful right winger informed me that if
+      I was Iranian I’d be wearing a hijab, so now I think it’s good. ❖ It’s so funny
+      how Trump apologists have started claiming the United States has been at war with
+      Iran for 47 years, because I had literally never once heard anyone utter that
+      claim until this war began. It’s just a talking point they all began regurgitating
+      at once in order to justify Trump’s warmongering. Pretty sure if there was an
+      ongoing decades-long American war I would have heard about it before March 2026.
+      ❖ ❖ FYI if your main reason for caring about Trump raining military explosives
+      on Iran is that it will help Democrats in the midterms, you’re a piece of shit.
+      ❖ The American far right lives in a fantasy world where the United States would
+      ordinarily be a beneficent, peaceful utopia if not for Israel, despite the fact
+      that the US has been steeped in the blood of the innocent throughout its entire
+      history since long before Israel existed. ❖ It’s just an unfortunate fact that
+      historically the only way to get Americans to start forcefully opposing a US war
+      is to give them some skin in the game. Last time it was the draft in Vietnam.
+      Maybe this time it will be everything getting crazy expensive due to the war on
+      Iran. ❖ The US would be as reluctant to go to war as Iran was if its leaders knew
+      they’d be killed by the other side in the opening days of any conflict. Iran has
+      shown that it’s always had the ability to bloody America’s nose in a war, yet
+      its leaders displayed remarkable restraint in their efforts to avoid it. There
+      are surely a lot of reasons for this, but one self-evident reason is that they
+      knew if they went to war with the US and Israel, their own necks would be on the
+      chopping block. Khamenei, Larijani and other officials who’ve been killed each
+      had a personal vested interest in de-escalation. Imagine if that were the case
+      for US and Israeli leadership? Their warmongering would stop immediately, and
+      they’d pursue peace at every turn. This is the kind of cowardice that is driving
+      these wars. They’re not fighting for causes they’d be willing to die for, they’re
+      sending other people’s sons and daughters to kill other people’s sons and daughters
+      for extremely stupid and unworthy reasons. Because they’re never the ones to pay
+      the price. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques Sean Hannity's reading of a tweet expressing
+      concern over perceived anti-American sentiment among the far left, arguing that
+      such sentiments are a response to the U.S.'s long history of committing atrocities
+      without accountability.
+    paragraph_summary: In a recent commentary, Tim Foley critiques the hypocrisy of
+      those who express outrage over perceived anti-American sentiments while ignoring
+      the atrocities committed by the U.S. and its allies, particularly in the context
+      of the ongoing conflict involving Hamas and Hezbollah. He highlights a tweet from
+      Jamie Metzl, which suggests that the far left is supporting these groups, arguing
+      that such sentiments are a reaction to years of U.S. aggression and war crimes.
+      Foley also discusses the Pentagon's preparations for potential military action
+      against Iran, warning that a ground invasion would be disastrous given Iran's
+      strategic advantages. He expresses frustration with leftists who naively supported
+      U.S. narratives about regime change, questioning their understanding of the consequences
+      of their actions. Ultimately, he dismisses certain political perspectives that
+      criticize the Iranian government during a time of U.S. military aggression and
+      those that trivialize discussions about antisemitism on the left.
+    published: '2026-03-21T12:20:06+00:00'
+  - title: The Warmongers Will Never Admit They Were Wrong And Will Never Learn From
+      Their Mistakes
+    url: https://www.caitlinjohnst.one/p/the-warmongers-will-never-admit-they
+    text: 'Reading by Tim Foley : Subscribe now Trump’s former national security advisor
+      John Bolton has a tweet that’s got me absolutely fuming right now. “In 2018–2019,
+      I made the case for regime change in Iran as often as I could. Voices in Trump’s
+      orbit often cited Iran’s capacity to close the Strait of Hormuz as a reason against
+      regime change. Trump has been fully aware this is a possibility, and yet did not
+      prepare,” Bolton posted. Can you believe this shit? Dude’s like “Hey, Trump should
+      have known this war would be hard because people tried to warn him not to listen
+      to me!” Motherfucker THIS WAS YOUR WAR. You were THE “bomb Iran” guy! You made
+      it your entire personality for DECADES. Over the years I’ve used your name God
+      knows how many times whenever I needed an example of a Beltway swamp monster who’s
+      got a throbbing hard-on for war with Iran. Now you’ve finally got it and it’s
+      going exactly as badly as everyone said it would, and you’re like “Yeah well he
+      should’ve known better, people tried to warn him about the Strait of Hormuz”?
+      Fuck you. These professional warmongers never, ever learn from their errors. Many
+      years after the Iraq invasion turned out to be a disaster, John Bolton was still
+      out there telling the media he believed it was a “resounding success,” conceding
+      only “mistakes that were made subsequently” to the ousting of Saddam Hussein.
+      They never admit they were wrong. They never admit that their war was a bad idea.
+      They only ever acknowledge that it didn’t happen in exactly the way they imagined
+      it happening in their minds. They live in this fantasy world where all their war
+      agendas would unfold beautifully so long as they could personally control every
+      molecule of matter involved in how it happens, completely ignoring that this is
+      impossible and any war is always going to have an unfathomable number of moving
+      parts you can’t control. In their eyes the wars are never wrong, they’re only
+      ever executed incorrectly. US military interventionism can never fail, it can
+      only be failed. Bolton doesn’t even seem to have any idea what Trump could have
+      done differently to stop Iran from closing the Strait of Hormuz. I listened to
+      an NPR interview the other day where he slammed Trump for not having “done the
+      planning in advance” to prevent the Iranian blockade, but he never at any time
+      outlined what Trump could have done to accomplish this. He just said there was
+      “a huge hole in the planning” and that “they apparently didn’t take as seriously
+      as they should have the potential to mine the Strait of Hormuz,” without ever
+      saying what they could have done. He doesn’t know. He himself, Mister Iran War,
+      had no plan for how to carry out this war without disastrous consequences for
+      the US and its allies. He’s spent his entire blood-soaked career pushing for a
+      war he never had any idea how to actually carry out. These are the kinds of minds
+      they have spearheading the US empire’s wars. All the worst people are getting
+      exactly what they want, and it turns out they don’t even want it, like Elon Musk
+      tweeting “Whoever said ‘money can’t buy happiness’ really knew what they were
+      talking about” last month. They’re getting everything they asked for and it’s
+      making everyone miserable, and it’s not even making THEM happy. The imperial status
+      quo elevates the worst among us. The least wise. The least insightful. The least
+      compassionate. The least deserving. The least qualified. We need drastic revolutionary
+      change, and we need it now. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via US Department of State (public
+      domain).'
+    one_sentence_summary: John Bolton's recent tweet blaming Trump for not preparing
+      for the difficulties of a potential war with Iran has sparked outrage, as it highlights
+      Bolton's long-standing advocacy for regime change in Iran, making him partially
+      responsible for the current situation.
+    paragraph_summary: In a recent tweet, former national security advisor John Bolton
+      expressed frustration over the challenges of regime change in Iran, suggesting
+      that Trump should have been better prepared for the complexities involved, particularly
+      regarding Iran's potential to close the Strait of Hormuz. This statement has sparked
+      outrage, as Bolton has long been an advocate for military action against Iran,
+      and critics argue that he is deflecting responsibility for the disastrous outcomes
+      of such interventions. The article highlights Bolton's history of promoting war
+      while failing to acknowledge the catastrophic consequences of past military actions,
+      such as the Iraq invasion, and critiques the mindset of professional warmongers
+      who refuse to learn from their mistakes, insisting that wars only fail due to
+      poor execution rather than flawed ideologies.
+    published: '2026-03-20T12:38:26+00:00'
+  - title: The Warmongers Will Never Admit They Were Wrong And Will Never Learn From
+      Their Mistakes
+    url: https://www.caitlinjohnst.one/p/the-warmongers-will-never-admit-they
+    text: 'Reading by Tim Foley : Subscribe now Trump’s former national security advisor
+      John Bolton has a tweet that’s got me absolutely fuming right now. “In 2018–2019,
+      I made the case for regime change in Iran as often as I could. Voices in Trump’s
+      orbit often cited Iran’s capacity to close the Strait of Hormuz as a reason against
+      regime change. Trump has been fully aware this is a possibility, and yet did not
+      prepare,” Bolton posted. Can you believe this shit? Dude’s like “Hey, Trump should
+      have known this war would be hard because people tried to warn him not to listen
+      to me!” Motherfucker THIS WAS YOUR WAR. You were THE “bomb Iran” guy! You made
+      it your entire personality for DECADES. Over the years I’ve used your name God
+      knows how many times whenever I needed an example of a Beltway swamp monster who’s
+      got a throbbing hard-on for war with Iran. Now you’ve finally got it and it’s
+      going exactly as badly as everyone said it would, and you’re like “Yeah well he
+      should’ve known better, people tried to warn him about the Strait of Hormuz”?
+      Fuck you. These professional warmongers never, ever learn from their errors. Many
+      years after the Iraq invasion turned out to be a disaster, John Bolton was still
+      out there telling the media he believed it was a “resounding success,” conceding
+      only “mistakes that were made subsequently” to the ousting of Saddam Hussein.
+      They never admit they were wrong. They never admit that their war was a bad idea.
+      They only ever acknowledge that it didn’t happen in exactly the way they imagined
+      it happening in their minds. They live in this fantasy world where all their war
+      agendas would unfold beautifully so long as they could personally control every
+      molecule of matter involved in how it happens, completely ignoring that this is
+      impossible and any war is always going to have an unfathomable number of moving
+      parts you can’t control. In their eyes the wars are never wrong, they’re only
+      ever executed incorrectly. US military interventionism can never fail, it can
+      only be failed. Bolton doesn’t even seem to have any idea what Trump could have
+      done differently to stop Iran from closing the Strait of Hormuz. I listened to
+      an NPR interview the other day where he slammed Trump for not having “done the
+      planning in advance” to prevent the Iranian blockade, but he never at any time
+      outlined what Trump could have done to accomplish this. He just said there was
+      “a huge hole in the planning” and that “they apparently didn’t take as seriously
+      as they should have the potential to mine the Strait of Hormuz,” without ever
+      saying what they could have done. He doesn’t know. He himself, Mister Iran War,
+      had no plan for how to carry out this war without disastrous consequences for
+      the US and its allies. He’s spent his entire blood-soaked career pushing for a
+      war he never had any idea how to actually carry out. These are the kinds of minds
+      they have spearheading the US empire’s wars. All the worst people are getting
+      exactly what they want, and it turns out they don’t even want it, like Elon Musk
+      tweeting “Whoever said ‘money can’t buy happiness’ really knew what they were
+      talking about” last month. They’re getting everything they asked for and it’s
+      making everyone miserable, and it’s not even making THEM happy. The imperial status
+      quo elevates the worst among us. The least wise. The least insightful. The least
+      compassionate. The least deserving. The least qualified. We need drastic revolutionary
+      change, and we need it now. ______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via US Department of State (public
+      domain).'
+    one_sentence_summary: John Bolton's recent tweet blaming Trump for not preparing
+      for the difficulties of a potential war with Iran has sparked outrage, as it highlights
+      Bolton's long-standing advocacy for regime change in Iran, making him partially
+      responsible for the current situation.
+    paragraph_summary: In a recent tweet, former national security advisor John Bolton
+      expressed frustration over the challenges of regime change in Iran, suggesting
+      that Trump should have been better prepared for the complexities involved, particularly
+      regarding Iran's potential to close the Strait of Hormuz. This statement has sparked
+      outrage, as Bolton has long been an advocate for military action against Iran,
+      and critics argue that he is deflecting responsibility for the disastrous outcomes
+      of such interventions. The article highlights Bolton's history of promoting war
+      while failing to acknowledge the catastrophic consequences of past military actions,
+      such as the Iraq invasion, and critiques the mindset of professional warmongers
+      who refuse to learn from their mistakes, insisting that wars only fail due to
+      poor execution rather than flawed ideologies.
+    published: '2026-03-20T12:38:26+00:00'
+  - title: Iran Is Forcing The World To Care About US-Israeli Warmongering
+    url: https://www.caitlinjohnst.one/p/iran-is-forcing-the-world-to-care
+    text: 'Reading by Tim Foley : Subscribe now Westerners are about to start paying
+      a lot more attention to the war in Iran as massive US-Israeli escalations point
+      to a coming energy crisis set to impact the whole world. Israel has bombed the
+      world’s largest natural gas field in southwestern Iran, reportedly in coordination
+      with the United States. Now that a major red line for Tehran has been crossed,
+      retaliatory strikes have already begun pummeling the energy infrastructure of
+      US allies in the region, with Qatar reporting that its primary gas facility has
+      sustained “significant damage” from an attack after Iran issued evacuation warnings
+      for energy facilities in Qatar, Saudi Arabia and the UAE. Fuel prices are already
+      surging . If middle eastern energy infrastructure starts taking extensive damage
+      on top of the already hugely significant Iranian blockade on the Strait of Hormuz,
+      this war could end up affecting virtually every corner of human civilization in
+      one way or another. Westerners are largely apathetic about US military explosives
+      landing on populations on other continents. But once it starts having a direct
+      impact on their personal bank accounts, you can expect them to get a lot more
+      interested in US foreign policy. This war has been a bit odd for me because as
+      an anti-imperialist peacemonger I’m not yet entirely sure what my role is in my
+      commentary here. Normally I’d be begging westerners to care about another horrific
+      act by the US war machine, but as things stand it looks like westerners are going
+      to be forced to care about this one whether they want to or not. Normally I’d
+      be writing furiously about how people should not support this war, but the war
+      has exceptionally low public support already. Normally I’d be trying to help everyone
+      open their eyes and recognize the US warmongers for the psychopaths that they
+      are, but the Trumpanyahu administration is openly waging an unprovoked war of
+      aggression while constantly thumping its chest and boasting about how it’s showing
+      the Iranians “ no quarter, no mercy ” and saying it can kill whoever it wants
+      with impunity. Normally I’d be writing about how the mass media are churning out
+      war propaganda to manufacture consent for more US military butchery, but the mass
+      media keep putting out stories about how the US government is lying about a war
+      that should never have happened while Trump administration figures have public
+      tantrums about how the media isn’t churning out war propaganda for them. President
+      Trump is on social media babbling about how news outlets “should be brought up
+      on Charges for TREASON” for not reporting on an embarrassing story about a US
+      aircraft carrier fire the way he wants, while Secretary of War Pete Hegseth gave
+      one of his fire-and-brimstone podium sermons bitching about how “an actual patriotic
+      press” would be framing this war in a more positive light. Do you see what I mean?
+      What am I supposed to do with this? Where does that leave dissident fringesters
+      like myself? All I can do is clear my throat and sheepishly go “Uh, yeah, I uh…
+      agree with CNN.” With Ukraine the mass media fell all over themselves to hide
+      the west’s role in provoking the conflict , framing Putin as an evil maniacal
+      Hitler figure who just spontaneously flipped out and invaded a country on Russia’s
+      border because he hates freedom. With Gaza the western press gave nonstop narrative
+      cover to Israel’s genocidal atrocities, constantly dragging public attention into
+      an endless conversation about antisemitism and Jewish feelings whenever opposition
+      to the slaughter got too hot. That’s just not happening with Iran. It’s the first
+      US war I’ve ever seen where a big chunk of the imperial power structure just refuses
+      to get on board. The media’s not playing along, US allies are telling Trump to
+      get stuffed when he asks for military assistance with the Strait of Hormuz, and
+      the public’s not buying the lies. This is a frightening time to be alive — but
+      you can’t say we’re in a period of stasis. Things are moving faster and faster.
+      They might get a whole lot worse. They might get a whole lot better. They might
+      get a whole lot worse and then get a whole lot better. But it seems a safe bet
+      that the situation won’t remain the same. _____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The escalating conflict between the US and Israel against
+      Iran, marked by attacks on critical energy infrastructure, is poised to trigger
+      a global energy crisis and surge in fuel prices, with potential widespread repercussions.
+    paragraph_summary: The article by Tim Foley discusses the escalating conflict in
+      Iran, particularly following Israeli airstrikes on Iran's largest natural gas
+      field, allegedly coordinated with the United States. This attack has crossed a
+      significant threshold for Tehran, leading to retaliatory strikes on the energy
+      infrastructure of US allies, including damage to Qatar's gas facility. As fuel
+      prices rise and the potential for extensive damage to Middle Eastern energy infrastructure
+      looms, the conflict threatens to impact global economies, particularly as the
+      Strait of Hormuz remains under blockade. Foley notes the general apathy of Westerners
+      towards foreign military actions, but suggests that rising energy costs will force
+      them to pay attention to US foreign policy. He expresses uncertainty about his
+      role in commenting on the war, as public support for it is already low, and he
+      reflects on the challenges of advocating against US military actions in this context.
+    published: '2026-03-19T00:38:18+00:00'
+  - title: Iran Is Forcing The World To Care About US-Israeli Warmongering
+    url: https://www.caitlinjohnst.one/p/iran-is-forcing-the-world-to-care
+    text: 'Reading by Tim Foley : Subscribe now Westerners are about to start paying
+      a lot more attention to the war in Iran as massive US-Israeli escalations point
+      to a coming energy crisis set to impact the whole world. Israel has bombed the
+      world’s largest natural gas field in southwestern Iran, reportedly in coordination
+      with the United States. Now that a major red line for Tehran has been crossed,
+      retaliatory strikes have already begun pummeling the energy infrastructure of
+      US allies in the region, with Qatar reporting that its primary gas facility has
+      sustained “significant damage” from an attack after Iran issued evacuation warnings
+      for energy facilities in Qatar, Saudi Arabia and the UAE. Fuel prices are already
+      surging . If middle eastern energy infrastructure starts taking extensive damage
+      on top of the already hugely significant Iranian blockade on the Strait of Hormuz,
+      this war could end up affecting virtually every corner of human civilization in
+      one way or another. Westerners are largely apathetic about US military explosives
+      landing on populations on other continents. But once it starts having a direct
+      impact on their personal bank accounts, you can expect them to get a lot more
+      interested in US foreign policy. This war has been a bit odd for me because as
+      an anti-imperialist peacemonger I’m not yet entirely sure what my role is in my
+      commentary here. Normally I’d be begging westerners to care about another horrific
+      act by the US war machine, but as things stand it looks like westerners are going
+      to be forced to care about this one whether they want to or not. Normally I’d
+      be writing furiously about how people should not support this war, but the war
+      has exceptionally low public support already. Normally I’d be trying to help everyone
+      open their eyes and recognize the US warmongers for the psychopaths that they
+      are, but the Trumpanyahu administration is openly waging an unprovoked war of
+      aggression while constantly thumping its chest and boasting about how it’s showing
+      the Iranians “ no quarter, no mercy ” and saying it can kill whoever it wants
+      with impunity. Normally I’d be writing about how the mass media are churning out
+      war propaganda to manufacture consent for more US military butchery, but the mass
+      media keep putting out stories about how the US government is lying about a war
+      that should never have happened while Trump administration figures have public
+      tantrums about how the media isn’t churning out war propaganda for them. President
+      Trump is on social media babbling about how news outlets “should be brought up
+      on Charges for TREASON” for not reporting on an embarrassing story about a US
+      aircraft carrier fire the way he wants, while Secretary of War Pete Hegseth gave
+      one of his fire-and-brimstone podium sermons bitching about how “an actual patriotic
+      press” would be framing this war in a more positive light. Do you see what I mean?
+      What am I supposed to do with this? Where does that leave dissident fringesters
+      like myself? All I can do is clear my throat and sheepishly go “Uh, yeah, I uh…
+      agree with CNN.” With Ukraine the mass media fell all over themselves to hide
+      the west’s role in provoking the conflict , framing Putin as an evil maniacal
+      Hitler figure who just spontaneously flipped out and invaded a country on Russia’s
+      border because he hates freedom. With Gaza the western press gave nonstop narrative
+      cover to Israel’s genocidal atrocities, constantly dragging public attention into
+      an endless conversation about antisemitism and Jewish feelings whenever opposition
+      to the slaughter got too hot. That’s just not happening with Iran. It’s the first
+      US war I’ve ever seen where a big chunk of the imperial power structure just refuses
+      to get on board. The media’s not playing along, US allies are telling Trump to
+      get stuffed when he asks for military assistance with the Strait of Hormuz, and
+      the public’s not buying the lies. This is a frightening time to be alive — but
+      you can’t say we’re in a period of stasis. Things are moving faster and faster.
+      They might get a whole lot worse. They might get a whole lot better. They might
+      get a whole lot worse and then get a whole lot better. But it seems a safe bet
+      that the situation won’t remain the same. _____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The escalating conflict between the US and Israel against
+      Iran, marked by attacks on critical energy infrastructure, is poised to trigger
+      a global energy crisis and surge in fuel prices, with potential widespread repercussions.
+    paragraph_summary: The article by Tim Foley discusses the escalating conflict in
+      Iran, particularly following Israeli airstrikes on Iran's largest natural gas
+      field, allegedly coordinated with the United States. This attack has crossed a
+      significant threshold for Tehran, leading to retaliatory strikes on the energy
+      infrastructure of US allies, including damage to Qatar's gas facility. As fuel
+      prices rise and the potential for extensive damage to Middle Eastern energy infrastructure
+      looms, the conflict threatens to impact global economies, particularly as the
+      Strait of Hormuz remains under blockade. Foley notes the general apathy of Westerners
+      towards foreign military actions, but suggests that rising energy costs will force
+      them to pay attention to US foreign policy. He expresses uncertainty about his
+      role in commenting on the war, as public support for it is already low, and he
+      reflects on the challenges of advocating against US military actions in this context.
+    published: '2026-03-19T00:38:18+00:00'
   - title: This Is What It Looks Like When You Give Zionists Everything They Want
     url: https://www.caitlinjohnst.one/p/this-is-what-it-looks-like-when-you
     text: 'Reading by Tim Foley : Subscribe now This is what it looks like when you

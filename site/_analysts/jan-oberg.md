@@ -7,22 +7,66 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The geopolitical landscape remains tense following the recent escalation of US and Israeli military actions against Iran, with reverberations across Europe and the global information environment. The aftermath of these events continues to shape international relations, media discourse, and security policies.
+  As of March 25, 2026, the geopolitical landscape remains tense, with ongoing repercussions from the US and Israeli military actions against Iran, shifting European security dynamics, and increasing scrutiny of Western information environments.
+  
+  **Sweden’s Security Narrative Under Scrutiny**  
+  Sweden’s current security posture is under debate, as **Jan Oberg** critiques the Swedish Security Service’s (SÄPO) threat assessments for being “overly simplistic and NATO-focused.” Oberg warns that such a narrow framing risks undermining Sweden’s broader national security interests by neglecting more nuanced, multi-dimensional threats. He argues that “AI could produce a more balanced analysis in minutes,” suggesting that current approaches are outdated and potentially counterproductive. There is a high chance that Sweden’s security debate will intensify, especially as public and political actors question the wisdom of deepening NATO alignment.
   
   **Sanctions and Humanitarian Impact**  
-  A significant new point of debate has emerged around the humanitarian consequences of Western sanctions. In his latest analysis, **Jan Oberg** highlights John Mearsheimer's assertion that US sanctions have resulted in approximately 38 million deaths, a figure that has sparked renewed calls for a critical reassessment of sanctions as a tool of statecraft. Oberg stresses the urgent need for open discourse on the comparative impact of sanctions versus conventional warfare, noting that such discussions are largely absent from mainstream policy debates.
+  The humanitarian cost of Western sanctions is gaining renewed attention. **Jan Oberg** highlights the claim by John Mearsheimer that US-led sanctions have resulted in approximately 38 million deaths globally, a figure that, while contested, underscores the need for deeper discourse on the real-world impact of economic warfare. Oberg stresses that “the debate about sanctions’ lethality versus traditional warfare is overdue,” and predicts with high confidence that scrutiny of sanctions as a tool of statecraft will increase, particularly as their effectiveness and moral legitimacy are challenged in academic and policy circles.
   
-  **Transformation of the Information Environment**  
-  Oberg also draws attention to the ongoing decline of free media and democratic discourse in the West. He observes that peace-oriented perspectives, such as those advocated by the Transnational Foundation for Peace and Future Research (TFF), are increasingly marginalized. This shift, he argues, has contributed to a narrowing of acceptable viewpoints and a diminished public understanding of the true costs of conflict and sanctions.
-  
-  **European Security and Nuclear Policy**  
-  In the context of heightened tensions, the Danish government's recent openness to a French proposal on extending French nuclear forces has raised questions about the future of European security. Oberg points out that this move reflects broader anxieties about the continent's vulnerability amid US and Israeli military assertiveness, particularly regarding Iran. The debate over the viability of "nuclear small states" is expected to intensify as European leaders seek to balance deterrence with non-proliferation commitments.
+  **Erosion of Free Media and Democratic Discourse**  
+  The Western information environment is undergoing significant change, with **Jan Oberg** noting a marked decline in free media and open democratic debate. He observes that peace-oriented perspectives have been increasingly marginalized, especially in the context of recent conflicts. This trend is quite likely to continue, with the information space becoming more polarized and less receptive to dissenting or peace-focused viewpoints.
   
   **Trends and Predictions**  
-  Looking ahead, Oberg predicts with high confidence that the humanitarian impact of sanctions will become a central issue in international policy debates, especially as independent analysts continue to challenge prevailing narratives. There is also a high chance that the marginalization of peace-oriented voices in Western media will persist, further complicating efforts to foster open dialogue on security and humanitarian issues. Finally, the evolution of European nuclear policy is quite likely to accelerate, driven by ongoing instability in the Middle East and uncertainty over US commitments to European defense.
+  - There is a high chance that European countries, especially those on NATO’s periphery, will face growing internal debates about the balance between alliance commitments and independent security assessments.
+  - The humanitarian consequences of sanctions will become a central issue in international forums, with calls for reforming or limiting their use.
+  - The marginalization of peace advocacy and critical media voices in the West is most definitely set to persist, further complicating efforts to foster dialogue and de-escalation in global hotspots.
   
-  In summary, the current period is marked by increasing scrutiny of sanctions, a shrinking space for dissenting voices in Western discourse, and a reevaluation of security strategies in Europe—all set against the backdrop of continued conflict and humanitarian concern in Iran.
+  In summary, the coming weeks will likely see heightened debate over security policy in Europe, increased focus on the ethics and effectiveness of sanctions, and continued challenges to open, pluralistic discourse in the West.
 articles:
+  - title: 'SÄPO:s hotbild är en analytiskt avrustad tabloid-produkt: AI gör en mycket
+      bättre på ett par minuter.'
+    url: https://transnational.live/2026/03/19/sapos-hotbild-ar-en-analytiskt-avrustad-tabloid-produkt-ai-gor-en-mycket-battre-pa-ett-par-minuter/
+    text: 'Jan Öberg, TFF direktör 19:e mars 2026 Det talas ofta om att Sverige befinner
+      sig i det allvarligaste säkerhetspolitiska läget sedan andra världskriget. Det
+      kan mycket väl stämma. Men det är också sant att den hotbild som nu dominerar
+      svensk politik är så naiv, snäv och NATO-militärt fixerad att den sannolikt gör
+      oss mindre säkra, […] The post SÄPO:s hotbild är en analytiskt avrustad tabloid-produkt:
+      AI gör en mycket bättre på ett par minuter. appeared first on The Transnational
+      .'
+    one_sentence_summary: Jan Öberg argues that while Sweden faces a serious security
+      situation, the current threat perception is overly simplistic and NATO-focused,
+      potentially undermining national security.
+    paragraph_summary: Jan Öberg, director of TFF, argues that while Sweden may indeed
+      be facing its most serious security situation since World War II, the prevailing
+      threat perception in Swedish politics is overly simplistic, narrowly focused on
+      NATO military concerns, and ultimately undermines national security. He critiques
+      the current assessment by the Swedish Security Service (SÄPO) as lacking analytical
+      depth and suggests that artificial intelligence could provide a more sophisticated
+      analysis in a matter of minutes.
+    published: '2026-03-19T12:09:03+00:00'
+  - title: 'SÄPO:s hotbild är en analytiskt avrustad tabloid-produkt: AI gör en mycket
+      bättre på ett par minuter.'
+    url: https://transnational.live/2026/03/19/sapos-hotbild-ar-en-analytiskt-avrustad-tabloid-produkt-ai-gor-en-mycket-battre-pa-ett-par-minuter/
+    text: 'Jan Öberg, TFF direktör 19:e mars 2026 Det talas ofta om att Sverige befinner
+      sig i det allvarligaste säkerhetspolitiska läget sedan andra världskriget. Det
+      kan mycket väl stämma. Men det är också sant att den hotbild som nu dominerar
+      svensk politik är så naiv, snäv och NATO-militärt fixerad att den sannolikt gör
+      oss mindre säkra, […] The post SÄPO:s hotbild är en analytiskt avrustad tabloid-produkt:
+      AI gör en mycket bättre på ett par minuter. appeared first on The Transnational
+      .'
+    one_sentence_summary: Jan Öberg argues that while Sweden faces a serious security
+      situation, the current threat perception is overly simplistic and NATO-focused,
+      potentially undermining national security.
+    paragraph_summary: Jan Öberg, director of TFF, argues that while Sweden may indeed
+      be facing its most serious security situation since World War II, the prevailing
+      threat perception in Swedish politics is overly simplistic, narrowly focused on
+      NATO military concerns, and ultimately undermines national security. He critiques
+      the current assessment by the Swedish Security Service (SÄPO) as lacking analytical
+      depth and suggests that artificial intelligence could provide a more sophisticated
+      analysis in a matter of minutes.
+    published: '2026-03-19T12:09:03+00:00'
   - title: What Mearsheimer Gets Right — and Wrong — About 38 Million Sanctions Deaths
     url: https://transnational.live/2026/03/16/what-mearsheimer-gets-right-and-wrong-about-38-million-sanctions-deaths/
     text: A friendly quarrel while we agree that the US sanctions are a weapon of mass

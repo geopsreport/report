@@ -8,26 +8,3310 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The Middle East remains at the center of escalating geopolitical tensions, with the ongoing conflict between the U.S. and Iran dominating recent developments. Over the past week, a series of military escalations, diplomatic maneuvers, and economic disruptions have further destabilized the region, drawing parallels to the early 2000s but with new complexities.
+  The ongoing U.S.-Iran conflict continues to dominate the geopolitical landscape, with recent developments raising the stakes for regional and global stability. The aftermath of the controversial U.S. attack on Iran, which targeted a school and reportedly involved tomahawk missiles, has intensified scrutiny of American military strategy and its broader implications.
   
-  **Recent Developments in the U.S.-Iran Standoff**
+  **Michael Hudson** notes a significant shift in U.S. foreign policy focus, emphasizing that the latest National Security Strategy report reveals discrepancies between official narratives and on-the-ground realities in the Middle East. He argues that the attack on civilian infrastructure, particularly educational facilities, signals a deliberate escalation and a potential turning point in the conflict’s trajectory.
   
-  According to **Michael Hudson**, the U.S. continues to demand Iran’s unconditional surrender, with former President Trump openly seeking to influence the selection of Iran’s next leader. Iranian officials, meanwhile, have acknowledged that U.S. military actions are likely to persist until American forces are expelled from the region. This uncompromising posture on both sides has led to a hardening of positions, making a negotiated settlement increasingly unlikely in the near term.
+  The discussion among analysts, including **Nima Alkhorshid** and **Richard Wolff**, highlights the persistent use of misinformation to justify military actions. There is consensus that the targeting of non-military sites is part of a broader pattern aimed at weakening Iran’s societal resilience, rather than achieving immediate military objectives. This approach, they contend, mirrors tactics seen in previous U.S.-led interventions, notably in Iraq.
   
-  **Economic Fallout and Oil Market Instability**
+  On the diplomatic front, earlier breakthroughs in nuclear negotiations—such as Iran’s agreement to halt uranium enrichment and allow IAEA inspections—now appear overshadowed by the renewed hostilities. The prospects for a negotiated settlement have diminished, with most analysts warning that U.S. military actions are likely to persist until there is a significant change in the regional balance of power.
   
-  The conflict’s economic repercussions are being felt globally, particularly in energy markets. As noted by **Nima Alkhorshid**, the specter of an oil shock looms over the Persian Gulf, with disruptions to supply chains and heightened risk premiums driving up prices. The situation is reminiscent of previous oil crises, but with the added volatility of modern financial markets and geopolitical fragmentation.
-  
-  **European Decline Amid Global Turmoil**
-  
-  While the Middle East dominates headlines, Europe faces its own challenges. **Michael Hudson** recently highlighted the continent’s ongoing decline, marked by economic stagnation and political turmoil. The inability of European powers to assert a coherent foreign policy or shield themselves from the fallout of U.S.-led conflicts underscores their growing marginalization on the world stage.
-  
-  **Trends and Predictions**
-  
-  The majority of analysts agree that the U.S.-Iran confrontation is unlikely to de-escalate soon. There is a high chance of continued military actions and economic disruptions, particularly in the oil sector. As **Michael Hudson** observes, “U.S. military actions will persist until American forces are expelled from the Middle East,” a scenario that appears increasingly plausible given current trajectories. Meanwhile, Europe’s decline is set to continue, with little evidence of a turnaround.
-  
-  In summary, the region is entering a period of heightened instability, with global economic and political ramifications. I guarantee that, barring a major diplomatic breakthrough, the Middle East will remain a flashpoint, and the risk of broader conflict and economic disruption is most definitely rising.
+  Looking ahead, the majority view expressed by **Michael Hudson** is that the conflict is set to reshape alliances and economic structures across the Middle East. He states, “The U.S. is doubling down on force as policy, not as a last resort but as a primary tool,” and predicts with high confidence that continued escalation will drive further instability, disrupt energy markets, and accelerate the decline of U.S. influence in the region. The consensus among independent analysts is that unless there is a dramatic policy reversal, the war’s consequences will be felt globally, with a high likelihood of prolonged instability and economic fallout.
 articles:
+  - title: Why This War Could Reshape the World
+    url: https://michael-hudson.com/2026/03/why-this-war-could-reshape-the-world/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, March 12, 2026, and our
+      dear friends Richard Wolff and Michael Hudson are here with us. Welcome, Mike,
+      Richard. MICHAEL HUDSON: Good to be here. RICHARD WOLFF: Glad to be here. NIMA
+      ALKHORSHID: Yeah. Let me start today with you, Richard, and with what has happened,
+      you know, the initial, the first day of the attack on Iranian, you know, the American
+      attack on Iran, and they hit one of the schools in Iran, which was argued by many
+      people. You know, it’s not mostly Democrats are talking about how did that happen?
+      Because you can find it on the map. You can find everything. And every time Donald
+      Trump comes out, they said tomahawk missiles. Then he said tomahawk missiles.
+      Maybe it came from Iran. Then it came out that Iran doesn’t have tomahawk missiles.
+      The United States, together with Germany and the United Kingdom and France, they
+      have these sorts of tomahawk missiles. And what is your understanding of Donald
+      Trump and the way that he’s trying to respond to these critics inside the United
+      States and what’s going on in the Middle East with the war? RICHARD WOLFF: Well,
+      I’m glad you started with me because I’m going to answer in a kind of blunt way
+      with an answer I know to be incomplete and then let Michael and you fill it in
+      and correct me where I make a misstep. I don’t understand the discussion that
+      has been going on in which people seem to want to ask Mr. Trump a simple question.
+      “What was the objective here so that we know when you’ve achieved it and we can
+      all talk about that and we’ll have a clear focus?” And Mr. Trump did what he has
+      often done: not answered that question, but chosen instead to give multiple answers
+      that don’t consist with one, you know, are not consistent one with the other.
+      Is it regime change? Is it to end their nuclear program? Is it to deprive them
+      of military capability to threaten their neighbors? I mean, I could go on, you’ve
+      heard them all. There’s no interest in this that I have. Why not? Because, I presume,
+      in the way I think about the world, that a decision to go to war, which is one
+      of the weightier decisions anybody ever makes, is, like all decisions, big and
+      small, determined by many factors that don’t all point in the same direction.
+      That every political leader who has ever declared a war has had to face the fact
+      that there were some aspects that made it wise to go to war and other aspects
+      that made it stupid and dangerous to go to war, and that he weighed or she weighed
+      them and reached a decision. I assume that that’s the way this works. Whether
+      that’s consciously in the minds of the leaders or not really doesn’t matter. It’s
+      what I think the process effectively is. All right. Having said that, now I’m
+      going to provoke. Here is what I suspect was the deciding factor. Not the only
+      factor. There is no only factor. I don’t even think there is a key factor. There
+      are multiple factors, and you have to think about them as an inconsistent group.
+      But the ones I want to focus people’s attention on, are the ones that are not
+      spoken. And they’re not spoken much by the Republicans, and they’re not spoken
+      much even by the Democrats. And that is that this is like so much of what Mr.
+      Trump ends up doing, a piece of political theater whose objectives are somewhere
+      else. So I don’t think this is a serious war in the sense you plan out a program,
+      you have contingency plans. Here’s what we’ll do if it lasts two weeks. Here’s
+      what we’ll do if it lasts two months. Here’s what we’ll do if it lasts two years.
+      And you take steps and you organize your allies and all of this stuff. I see most
+      of that missing, which reinforces in me the following conclusion. The two biggest
+      problems Mr. Trump faced three weeks ago, or however when this decision was made,
+      were number one, the endless scandal of Epstein, and number two, a bad economic
+      situation getting worse. Many of the dimensions that we’ve been talking about
+      on this program. I write about it, Michael writes about it, so we have been talking
+      about that. And there was nothing he could do. And when the Supreme Court took
+      away the tariffs, undoing the one bit of revenue generation the man had come up
+      with, while he proposes a $600 billion increase in the military budget for next
+      year, well, that means that we’re going to be a deficit country in the trillions
+      again. So he’s going to look bad there. Jobs are a disaster. Inflation is on the
+      way to resume rising. It stopped across, it declined across Biden, and then it
+      froze. He couldn’t get it to go down any further. The Democrats have a field day,
+      typical with the Democrats. They can’t say what it is, so they come up with a
+      clever ad term: affordability. You know, it’s like something bad descended on
+      America, like a rainy day, affordability crisis. All right, conclusion. We’re
+      going to war because war pushes Epstein off of the headlines. It pushes the bad
+      economy to the sideline or off the headlines. And instead, it focuses all the
+      attention on the commander-in-chief as he discusses the flames and the bombs and
+      the whole theatric of a war. He wants a theater war for as long as it takes to
+      distract the American people. And the longer he can keep it going without the
+      ramifications coming back to give him new problems, which it will. But for the
+      time being, here he has a distraction, and I can’t think of anything else he could
+      do, given who he is, that would offer him those benefits of distraction that this
+      caper actually does. The side benefit: it keeps Israel going. You know, he wants
+      to develop that relationship. There is a support in the United States, a significant
+      one, to keep that relationship going. Okay, that’s a little side benefit that
+      he can get for it. And since he doesn’t know history, you can see that all the
+      time, and doesn’t care much, he doesn’t have to worry about what all those ramifications
+      might be. Because if you try to think through what the ramifications of your acts
+      are, well, the only resource you really have is history. You can try to go back
+      and see how historically these problems were conceived and resolved, and then
+      you pick and choose and hope this subset might work in your particular circumstances.
+      One of the reasons Michael Hudson’s work on the ancient history of money is very
+      valuable is because, as Michael surely knows, what he found in history was shaped
+      by what he lives through right now. What he wants us to think about and see are
+      the things that were done in the past: the role money played, and the role monetary
+      policy played, that will give us clues into now. Mr. Trump can’t do that because
+      he has no idea and no respect for the historical realities that he could use.
+      So he ends up winging it, as I’m sure he says, and he’s now winging it by means
+      of a war. He is not the first president nor the first political leader to be driven
+      to war by domestic political considerations. That’s not new. I don’t mean to suggest
+      he’s the only person who’s ever done it, but I do think that’s what’s going on
+      here. NIMA ALKHORSHID: Michael? MICHAEL HUDSON: Well, I think it’s perfectly natural
+      that Trump is not going to announce what the real purpose is of the war in Iran
+      is. His whole business career had one purpose: to cheat his partners and to cheat
+      his suppliers and contractors. Well, he’s not going to come right out and say,
+      “My purpose as a businessman to cheat you. My purpose is to make you rich.” And
+      then he’s going to cheat them if he can convince them to be suckered into the
+      real estate deals that he did for so many years, so notoriously in New York City.
+      I think that the purpose of the war is very clear. It’s the same purpose that
+      led the United States to overthrow the Iranian regime in 1953. It’s all about
+      oil. And it’s not only about oil. Trump has said he wants to put in his own regime
+      and let the United States take control of Iran’s oil, just as he tried to do in
+      Venezuela. It’s all a repeat. But controlling this oil has a much broader scope
+      for what it’s trying to do that he’s obviously thought out and talked with his
+      other nations is to control the whole world’s oil trade, because you can’t control
+      the trade in oil without not only controlling the world’s oil trade, but to isolate
+      countries that are not under your control for this trade, such as Russia and Iran,
+      and such as Venezuela was. So I think it’s about oil, and that’s what makes what’s
+      happening something that is way beyond Trump’s willingness, not to mention capacity,
+      to explain to the world. And that is, this is really the start of World War III
+      and all of the alignments that that’s going to take. And it’s a world war because
+      oil is an international commodity. Every nation in the world needs oil in order
+      to power its factories, to provide electricity, to light its homes and heat its
+      homes, to back its chemical industry, and especially the fertilizer industry.
+      So, and because 20% of the world’s oil trade comes from OPEC and indeed goes through
+      the Strait of Hormuz, the effect is being felt over the entire world right now.
+      And so, I’m not going to try to read either Trump’s mind or even explain what’s
+      happening right now in the Near East because all of your military guests on your
+      show are able to do that. But I think I can see where all of this is leading in
+      the future. And the future is what this war is all about. How is the world going
+      to be structured from here on in under U.S. control or under Iran’s independence?
+      So, I want to talk about what both countries plan for the future, and each of
+      them has a plan, and what this means for oil. Iran has said that the war is going
+      to go on until it’s achieved its number one aim: to drive the United States out
+      of the Middle East permanently. And just this morning, Ayatollah Khomeini has
+      said that includes ending Israel. That’s going to take a long time, and that means
+      it’s going to be a long war. There are all sorts of reports that Trump has telephoned
+      Putin in Russia to say: “Can’t you try to bring some pressure on Iran to have
+      peace in the world and just let’s negotiate a ceasefire? You know, we’ve bombed
+      it. Now that we’ve bombed it, you know, we’re willing to stop.” As if Iran hasn’t
+      made long-term plans for this, that it’s announced to the world exactly what its
+      future is going to be for the rest of the half year, for the rest of 2026. It’s
+      held back its big bombs because it’s wanted Israel and the American military bases
+      and OPEC countries to expend all of their air defense systems and missile defense
+      systems against the Iranian drone attacks and the use of its old missiles. And
+      once these systems are exhausted, now Iran is going to come in with the heavy
+      hitting. It said this again and again as a strategy. And that’s why, last year
+      and again in the war last June, it’s demonstrated its ability to penetrate Israeli
+      and as a result, U.S. military base defenses. It will. So it tried to say, “Look,
+      if you really are attacking us, this is what’s going to happen. We’ve shown you
+      the future. We’ve shown you what it will do.” And Trump really didn’t believe
+      that. Trump did have a view of the future that went to war. He said, “First of
+      all, you know, we’re going to bomb Iran. We have to, if we bomb the leadership
+      and wipe it out, the Iranian people are going to rise up against and say that
+      the leader is dead. We can rise up and have a pro-U.S. government, basically.
+      Someone like the Shah and his father, who was [installed] in 1925. A client turned
+      into client dictatorship.” That’s what he believed. And he thought that that would
+      be a Yeltsin-like figure who would let American companies come in and develop
+      Iranian oil by controlling it and thereby absorbing Iran, making it into a U.S.
+      satellite. That didn’t work. Trump also announced, and the military announced,
+      “Well, we’re going to back the Kurds. We’re going to do to Iran what we have plans
+      to do to Russia and China. We’re going to cut Iran into five different ethnic
+      units and we’re going to start by backing the Kurds, who are going to fight for
+      their autonomy.” Well, in the last few days, you’ve had the Iraqi and the Iranian
+      Kurds send notes to the new Ayatollah. “We are not going to attack Iran. Don’t
+      worry. We know that that would be suicidal. We’ve already lost enough trust in
+      the United States before and been wiped out. Don’t worry about that.” So that
+      dream that Trump had has failed. And he really thought that somehow he could destroy
+      all of the Iranian missile defenses. And essentially, shock and oil were going
+      to do to Iran what America did to Iraq in the 2003 war. All of the future that
+      the Americans have forecast: a short war leading to an American victory or at
+      least wiping out Iran. And as Trump said, “If we don’t wipe out, really defeat
+      Iran now, we’re just going to have to spend the next five years rearming ourselves
+      and attack it all over again.” So it’s going to be a war to the end. Well, Iran
+      also says, “You’re absolutely right. It’s going to be a war to end the whole U.S.
+      occupation of the Near East.” That is going to take much more than just a few
+      months or a few weeks that Trump was hoping it would be solved by the time he
+      goes to China and meets with President Xi to talk about it. So you’re having Russia,
+      China, and Iran all together supporting what’s happening. And the effect of this
+      on the rest of the world, that’s drawing us all in, has forced the rest of the
+      world to take sides. Europe is being torn apart by the energy pressures that has
+      and has thrown its support behind the United States and Israel so far. And the
+      population of Europe, as we’ve said before, is against the war, but there are
+      not going to be new elections to replace Starmer and Meritz, Macron, and Merz
+      for a while. So that’s going to be there. The question is, what are the Asian
+      countries going to do? Well, blocking the Strait of Hormuz for six months causes
+      not only a blockage of oil, but a blockage of natural gas. And the main victims
+      of all of this are South Korea and Japan. What are they going to do with all of
+      this? It means that their major industry of their industries are going to be shut
+      down. It means unemployment. It means a shrinking GDP for Europe as well. So America’s
+      allies are going to be bearing the major cost. And to prevent this world crisis
+      from bringing on the kind of world depression that occurred in 1929 to 1931, Trump
+      has said, “All right, we’re letting Russia provide the world with oil.” He’s trying
+      to prevent Russia from supplying China with oil. And Iranian shipping has been
+      supplying China with oil, but it’s only been able to supply about 5% of China’s
+      oil needs. So, Russia is going to step in. And just in the last few days, President
+      Putin has said, “Well, Europe doesn’t want our oil and gas. Let’s do it right
+      now.” They’ve already said they’re going to cut off their purchase of it in April.
+      Russian ships have been turned around, and instead of delivering oil and gas to
+      Europe, they’re supplying it to the countries with which they intend to develop
+      long-term relationships when this war is over. And the relationships are going
+      to be with the BRICS countries, with Africa, and with South America. In particular,
+      Brazil is important for all of this because Brazil imports 80% of its fertilizer.
+      And this is needed for Brazil to grow the soybeans that it’s exporting to China
+      for its foreign exchange. Fertilizer is the key not only to feeding its own population,
+      but to supporting the balance of payments in other countries. The global south
+      countries are being absolutely squeezed by these rising oil prices and gas prices.
+      And the inability of them to get fertilizer threatens to cause a crop failure
+      in Africa and South America. And the only way of avoiding this, as long as the
+      Strait of Hormuz is closed to OPEC oil, is from Russia or from Iran. Well, Iran
+      is going to continue to support mainly China, so it’s really Russia that’s going
+      to be developing all of this. So, while the United States’ plan was to capture
+      Iran and restructure the world’s oil trade, it turns out that the restructuring
+      is going to probably strengthen Iran and Russia for the long term unless the United
+      States wipes out Iran. And that’s what this war is all about. The United States
+      is threatening to accelerate it, and Iran is just taking off with its big missiles
+      that are going to continue to go on. And I know that I’ve gone on along, but I
+      want to say, just for later discussion, I want to pose two future things that
+      I want to talk about. A major, the aim of Iran is said to isolate OPEC from the
+      United States and from the dollar. First of all, it says OPEC countries cannot
+      let the United States use their territory as military bases. That’s why it bombed
+      Bahrain, Kuwait and other countries. Second, Iran has said, “In order to really
+      lead the Arab countries to avoid reestablishing these bases, we have to stop the
+      economic linkages between the Arab countries and the United States.” And one of
+      the major linkages that they’ve pointed out are the large computer companies that
+      want to have computer stations to process automatic intelligence. Google, Microsoft,
+      and the others. So the Iranians have said, “We’re going to bomb enough of their
+      installations here so that they cannot do this.” And they’ve made a final, really
+      radical demand on the other Arab countries. “You have to begin disinvesting in
+      the United States. All of your huge national savings and the personal savings
+      of the Arab monarchies have been invested in U.S. stocks and bonds, mainly bonds
+      and bank deposits. You have to disinvest with the United States.” Well, that’s
+      already occurring voluntarily by the Arab countries because they say, especially
+      Saudi Arabia, “We’re a very heavy debt-leveraged economy. And now that we’re not
+      getting oil export revenues anymore, we need to balance our budget and to avoid
+      defaulting on our financial linkages by liquidating some of the savings that we’ve
+      been built up.” So you’re having the Arab countries already beginning to sell
+      off the savings. That’s one thing that’s happening. Another is something that’s
+      going to happen as a result of this World War III that’s very much the same as
+      occurred after World War II. That is, it’s going to end the monarchies in many
+      Arab OPEC countries. You’ve already seen Bahrain’s king, who was a protégé of
+      Saudi Arabia. He’s fled the country and gone to Saudi Arabia. And Bahrain has
+      a primarily Shiite population, whereas the king is Sunni and gone there. I would
+      expect that monarchy to fall, just as World War I saw the monarchies of Europe
+      end. England kept its monarchy because they were turned into a tourist attraction,
+      basically, without any real effect. But the monarchies ended. Well, also, Jordan
+      is probably a monarchy where you’re going to have the domestic, largely Palestinian
+      population, overthrow the monarchy of Jordan. And I think that the aim of Iran
+      is to replace the Arab family monarchies with monarchies that are more sympathetic
+      to them and at least tolerant of the Shiite religion, no longer the Sunni Wahhabi
+      supremacists. So I think you’re going to see this is a major characteristic. And
+      of course, the other thing I think we should talk about for the future result
+      of this World War III is the First World War led to the creation of an international
+      organization, the League of Nations. The United States did not join it because
+      it said, we won’t join any international organization in which we don’t have veto
+      power. No one’s going to tell us what to do. Well, the world fell into depression,
+      World War II. After World War II, there was another attempt to create a body of
+      international law, the United Nations. That has now been dissolved. We’ve seen
+      the utter hopelessness, the utter inability of the United Nations to stop this
+      war, to stop the United States, to stop Israel, to stop the genocide that you’re
+      seeing that is now spread from Gaza to the West Bank, and to stop what Israel
+      has been doing in the last week is it expects Iran to be able to wipe out most
+      of Israel. It sees the handwriting on the wall. So what is it doing? It’s moving
+      to Lebanon. It’s taking over Lebanon to say if we can’t live in Israel and that’s
+      all bombed out. Well, there’s one country that’s not bombed out, Lebanon. We’re
+      going to bomb it just enough to move there. So you’re seeing a whole attack on
+      military aggression in the world from the U.S., Israel, Access, and its allies.
+      Probably the result of all of this is going to be either to restructure the UN
+      or more likely to create a brand new organization that will not have U.S. veto
+      power, will not have the U.S. control, and will have its own financing and budget
+      and probably move out of New York, which, as we’ve said, the Secretary General
+      Gutierrez said the UN is broke and it’s going to have to move out of New York
+      anyway by August. So I think these are what I think we should talk about, how
+      the world will be evolving as the war winds down. And whatever the results are,
+      it looks like Iran is going to be in terms of the timing, certainly, not the United
+      States. Iran is in terms of the timing. And as the oil crisis goes down and the
+      gas liquefied natural gas crisis and the fertilizer crisis leading to a chemical
+      industry crisis and an industrial crisis, all of this is going to restructure
+      the world just as seriously, I think, as World War I and II did in their ways.
+      NIMA ALKHORSHID: Richard, one important point that Michael just mentioned is the
+      fertilizer. We’ve learned from the American farmers that, due to the war that
+      started by Donald Trump, the price of fertilizer has increased sharply. And the
+      people are talking about it in the United States. On the other hand, Richard,
+      let me a little bit focus on what is the outcome of what Donald Trump is doing
+      in a long run. For example, for South Korea, for Japan, and for all these Persian
+      Gulf Arab states. These are, you know, at least in the eyes of the leaders of
+      these countries, they thought that the American bases would bring prosperity and
+      security to their countries. And how do you see the outcome of what’s going on
+      right now? Because they’re bringing, you know, they left South Korea naked, simply
+      naked. They’re bringing the air defense system to the Middle East. And you see
+      all these bases being somehow, most of the radars being destroyed during, you
+      know, we are getting to 12 at least two weeks of war. What is your understanding
+      of these leaderships in these countries toward what Donald Trump is doing? RICHARD
+      WOLFF: Well, I think they have to face the same reality that the United States
+      faces and that we have been discussing for months. I am so taken by it, I have
+      no choice but to say it to you. We are experiencing, I have said this before;
+      we are living through the decline of the American empire. I have been asked countless
+      questions. “What’s your evidence for thinking that?” And then I point to the economy
+      and the difficulties that we’re having. But I don’t need to do that anymore. This
+      war is a literal chapter in the decline of the empire. When one of the leading
+      officials of Iran says what Michael repeated a few minutes ago, that the goal
+      of Iran is to remove the United States from the Middle East. Well, another way
+      of saying that is the American Empire, which included the Middle East, all those
+      bases in all those Gulf states, and all the fund relationships with oil, that
+      was a key part of the American Empire. And things have now come to the point where
+      there’s a part of the American Empire, Iran, forced by the nature of the global
+      oil market and everything else to be a part of that empire, has come to the position
+      and now they can act on it. You know, Prime Minister Mosaddegh, back in 1953,
+      he didn’t want to leave office. He was pushed out of office by the United States
+      and Britain, basically. Okay, but now, even when you kill the Ayatollah, it doesn’t
+      matter. There’s another Ayatollah standing right behind him. And there’ll be another
+      one if they kill this young man. Because it’s no longer the conditions you had
+      then. You now have an empire that’s in difficulty, having its own problems, shaping
+      what it can and cannot do. So when you ask what happens to South Korea, my answer
+      is that’s what we’re watching. The recognition in the minds of all of those governments
+      in the Middle East, in those seven Gulf, or whatever they are, seven or eight
+      Gulf states, you know, UAE, Bahrain, Kuwait, Oman, all of that. They’re discovering
+      that having an American military base is not only a wonderful thing, it’s a horrible
+      thing. It makes you a target. But you can only be a target if other forces are
+      closing in on the empire. So then, what’s the conclusion? Well, the issue between
+      the United States and Iran is exactly the same as the issue between the United
+      States and Russia or China. Russia and China have an alliance that explains and
+      enables and reflects their way of challenging the American empire. Drawing a line
+      at Ukraine’s border, saying that the Russians, that we will not allow NATO to
+      take over Ukraine the way we allowed NATO to take over Poland and the Czech Republic
+      and Slovakia and Labor. We all know this story. NATO moved to the east and Russia
+      couldn’t do anything. Then Russia decided, in response to this situation, it had
+      a radically changed many of the things. It got rid of the whole effort to be a
+      socialist country out the window. Big change for a country like that. Big change.
+      It decided Europe was not where it was located. Asia was where its future lay,
+      and it replaced Europe with China. I mean, these are enormous changes to the global
+      situation. And so the United States has a choice, doesn’t it, with Russia and
+      China. It can either fight to keep the empire going, in which case it risked World
+      War III. World War III didn’t come on the agenda now with Iran. I mean, people
+      are talking about it now. That’s a step forward. But it was the same issue before.
+      Europe made the decision to risk World War III by uniting against Russia in Ukraine.
+      That was a decision made by the Europeans because they thought, without admitting
+      it, that they could shore up the American empire upon which they depend. Big mistake.
+      You didn’t understand how far the empire had already declined. You didn’t understand
+      the forces making for more decline. So you allied yourself to the wrong horse,
+      and they’re suffering it right to this minute. Keir Starmer, in the first days
+      of this thing, stood up and said, “I won’t let the Americans use British airfields.”
+      Within 24 hours, he was in favor of the war, and 24 hours later, he turned against
+      the war. And now, Mr. Starmer, and this is really important, Mr. Starmer, whose
+      popularity is in the toilet, like Mr. Trump’s, only worse, who has no chance of
+      winning the next election and staying in power, has a chance. He is beating the
+      bushes in Britain, if you pay attention, which I do, attacking Badenoch, the head
+      of the Conservative Party, and Farage, the head of the Reform Party. They have
+      three parties in England that matter at this point. He’s attacking them for being
+      pro-American in this war. Why? Because he might actually stay in power because
+      the British people, like the American people, don’t want a war with Iran. He could
+      save his domestic position by cheering on the decline of the American empire.
+      When your closest ally is dishing you this way, it’s over. Now, of course, nobody
+      will admit it, but the very logic of the arguments we’ve been articulating, Michael,
+      me, and you, for months now, that’s what this is. This is the next step: logical
+      and predictable of the dismantling of the empire. A political force, and if Michael
+      is right, a military force has come together that’s in a position to tell the
+      United States you either get out of the Middle East, which is what that high official
+      said last week, the high Iranian official quoted, no rep, no denial later. Our
+      goal, the journalist asked, how long will you fight? The answer, I believe, it
+      was the foreign minister, as long as the United States is not out of the Middle
+      East. Oh my God, there it is, in stark letters. We are now in a position where
+      it’s not Ukraine. This is a whole massive region of a world economy more integrated
+      and therefore more dependent on each of its regions, a huge crucial globe, ultra-pole
+      as in all between Asia and Europe, only now global, is in a position of saying
+      to the United States, you’re not wanted here, you’re not needed here, and we’re
+      going to drive you out. What is the United States going to do? I’m less able to
+      predict the future than Michael. He’s one of the many ways he exceeds me in his
+      capabilities. I can’t do it. But I am tempted, like I know Michael is. And my
+      temptation is to say here that Mr. Trump should listen to the message from Joe
+      Rogan and from Megan Kelly. He should listen, get out now, cut your losses, because
+      what are you going to do? Take over Iran? Ninety-two million will wage a guerrilla
+      war against you forever. That’s what they’re telling you. You’ll not be able to
+      get oil out of that country. Every time you put a pipeline in, they’ll blow it
+      up. We know this story, we’ve been to, we’ve seen this movie. You’ve got to admit
+      the empire is over. Sit down with the Iranians, the Russians, and the Chinese,
+      while there is still in them a recognition that they too would be better off working
+      a deal out with you than waiting to see how far you will go. That’s the option
+      we have. The rest is make-believe. MICHAEL HUDSON: Richard, you’ve just made the
+      all-important point that should be the frame for the whole discussion. This war
+      has destroyed the whole enabling fiction that has underlined the whole U.S. Cold
+      War policy and the whole U.S. support of Israel and its war against Russia and
+      Ukraine and its war against Iran. This enabling fiction is that the world needed
+      U.S. protection against attack from Russia invading Europe, a silly fantasy, or
+      from China conquering, militarily, Asia, a silly fantasy, or from Iran attacking.
+      Iran hasn’t attacked anyone. It turns out that we’re just seeing that, as you
+      just illustrated perfectly, that instead of protecting the world from America’s
+      enemies, the U.S. is the great creator of chaos. The U.S. is the great threat
+      to the world. And this is going to last no matter even if the United States were
+      to go on fighting with Iran, that’s going to be what is shaping. What is going
+      to happen when the U.S. finally gives up and is driven out of the Middle East,
+      not simply by Iran, but by Europe, by Asia, by Russia, by China, with all of the
+      countries that realize that until the United States stops fighting, which it won’t
+      do until it drives the United States out of the Middle East, that their economies
+      are going to be shrinking as a result of an inability to supply energy, gas, chemicals,
+      fertilizer, and all the things we’ve been talking about. That’s really the choice.
+      And I think one effect of this is not only going to be in terms of trade, for
+      the oil trade, and for their economic growth, but it’s going to be financial.
+      And this is where the current war, and I do want to call it World War III, is
+      going to be different from World Wars I and II. After World War I, the dollar
+      emerged supreme because it insisted on the Allied countries paying their war debts
+      for arms they had bought before the United States entered the war. They said,
+      “All right, we’ll pay you. We’ll just insist that Germany pay reparations.” The
+      result was a collapse of the European economies, not only Germany, but France
+      with its hyperinflation, with Britain with its general strike of 1926. And then
+      we had the Great Depression. Well, there was an enormous flight of refugee capital
+      and flight capital and gold out of Europe and other countries to the United States
+      during the 30s. So that when World War II ended, the United States already had
+      75% of the world’s gold supply. Well, once again, the United States was able to
+      establish pro-creditor rules that have governed the entire international financial
+      system since 1945 in U.S. favor. The U.S. and dollar and gold were the two forms
+      and currencies in which trade would occur and in which other central banks and
+      other countries would keep their national savings in loans to the United States,
+      to the government for treasury bills, to corporations through treasury bonds,
+      and through U.S. government agencies such as Fannie Mae. All of this is now being
+      threatened, not only by other countries rebelling and saying this is unfair, but
+      by the fact that the United States itself has destroyed this system, by weaponizing
+      the dollar, by weaponizing the financial system as a means of imposing sanctions
+      and forcing its allies to impose sanctions against Russian oil, Ukrainian oil,
+      and to isolate Iran for ever since 1979, when finally they drove out the Shah
+      and the main rallying point against the Shah for all Iran was the Shiite clergy
+      led by Khomeini at that time, because that was the mosques were the only places
+      in Iran, you could go where the Savak couldn’t follow you, grab you, and torture
+      you. Well, the result of this isolation since 1979 has been other countries, instead
+      of linking their oil to Iran, they linked it to the Arab OPEC countries, which
+      weren’t isolated. And you saw that in the United Nations vote that happened yesterday.
+      And it’s amazing. The U.S. and its allies sponsored a vote blaming Iran for attacking
+      American Israel when it was the victim of the attack. And yet more countries supported
+      this resolution against Iran than had ever supported any Security Council proposal
+      in United Nations history. So we’re dealing with a situation now where the whole
+      world is only thinking about its oil. Where is it going to get its oil with the
+      Arab monarchies? There’s been no thought that maybe it’ll get its oil, number
+      one, from Iran as well, as Iran has driven the U.S. out of the Middle East and
+      as Russia and China by themselves have ended America’s attack on freedom of the
+      seas and its attack on international law providing freedom of the seas. And with
+      Iranian oil restructured, this is going to go hand in hand with what I mentioned:
+      a transformation of the politics of the Arab oil countries, ending the fight encouraged
+      by the United States to have the Sunni and the Shia fight each other so that America
+      can divide and conquer the old British empire style. So all of this, this realignment
+      is going to happen because other countries will realize this situation of an American
+      war for Israel to control the Near East has failed. Neither Israel nor al-Qaeda
+      in Syria, the Wahhabi terrorists, nor the United States can protect our oil. It
+      looked like the only way of resuming oil supplies to the whole world is on Iran’s
+      terms. The U.S. bases must be removed from the Near East, and the Arab monarchies
+      must either decouple themselves and their finances and their foreign investment
+      in their computer centers there. Unless this happens, the whole world will continue
+      to shrink. That’s the choice before it, and that’s what makes this a world war
+      that cannot maintain the current economic system except the price of all America’s
+      allies going into 1930s-type depression as a result of the war. That’s what has
+      broken up the whole enabling fiction that America is protecting the world rather
+      than terrorizing the world and destabilizing the world and creating chaos throughout
+      the world economy. RICHARD WOLFF: If I could add quickly, if my information is
+      correct, closing the Strait of Hormuz also deprives a number of those Gulf states
+      of food and water because they are isolated and they need the ships to bring them
+      food for sure and then water, depending on whether Iran has hit the desalinization
+      plants the way; apparently, Israel has hit desalinization plants in the Middle
+      East. So it could become very urgent very quickly if you’re seeing no food. That’s
+      a different level of crisis. But now let me expand on a point Michael made. Imagine,
+      because it’s already there, a movement among the Arab people of the Gulf state
+      areas, a political movement that says, “We are mortgaged up to here by the debts
+      of our leaders, which we are required to pay.” They are super rich because they
+      get to skim off the oil business; plus, they collect the interest off the loans
+      to the U.S. government. We have military bases that render us targets. We have
+      the enmity of Iran that risks the closing of the Strait of Hormuz pretty much
+      when they want to. Here’s an alternative. We get rid of the monarchy, Michael’s
+      earlier point, and we declare, henceforth, we will nationalize, we’ll take over,
+      and we’ll have little Mosaddeghs in every one of these countries. We’ll take over
+      the oil. We will carefully sell oil to multiple buyers so that we never get into
+      a lopsided dependence on any one of them. That’s already done by other countries.
+      And likewise, we will make our investments if we don’t use oil money to develop
+      our economy. Let’s remember: every advice given by an economist, myself included,
+      to these governments over the years was: you better take your oil revenue and
+      diversify because a day will come when either you’ll run out of oil or the oil
+      business will disappear and you will have nothing. They all nodded in agreement,
+      but they didn’t do it. None of them. Tourism is not an alternative. Okay, now
+      there’s a political party operating in the United Arab Public, in Kuwait, everywhere,
+      which has a program, a nationalization program that solves the relationship with
+      Iran, that changes the relationship with the United States, and builds a new relationship
+      with China, which will be eager to buy as much oil as they can sell. And not that
+      China is the only one, not at all. The Europeans will need it and so forth. And
+      they can diversify. This is a much better future for them than the leadership
+      in position now can offer them. If you add a little civil liberties and a little
+      civil rights, wow, and a parliament that really matters and voting, you begin
+      to have a program for progressive political change in the Middle East that has
+      a real chance and that has not been part of the equation in that part of the world
+      for quite a while. And it echoes. Here’s the irony: it echoes ideas that were
+      advanced many years ago about the future of Iran by the Tudeh Party in that country,
+      which had conferences and debates. I remember some of them, which raised; that’s
+      where my idea about this comes from. So it’s more of a Middle Eastern-based notion
+      of their position in that part of the world. Everybody should understand. If you
+      think in ethnic terms, which is okay, you can’t think only Shiite Sunni. Persians
+      are not Arabs, and that distinction is very important in that part of the world
+      and has to be sort of factored in. But I don’t want to lose the most important
+      dimension, which is this is a momentous moment in which the decline of the American
+      Empire becomes much more visible than it was before. It takes another step, but
+      even more dramatic is the visibility. A leader of Iran is in the position to say,
+      America is out, and it is serious. And the United States, sooner or later, is
+      going to have to deal with that demand because they’ve started a war that at this
+      point looks like it will not end until that demand is met. MICHAEL HUDSON: It’s
+      very interesting, Richard. You’ve described the Arab countries as being in the
+      situation that Iran was in in 1905 when it tried to begin to get rid of the ruling
+      family dynasty that had ruled the country for 100 years and had invited in Britain
+      to have all sorts of trade concessions, especially in the tobacco trade. Iran
+      rewrote the constitution as a means of dislodging the ruling family. And finally,
+      in 1925, there was an overall revolt to replace the ruling family with self-rule
+      by Iranians as a whole. Well, the British intervened, as they had been doing for
+      30 years, and installed a military leader, the Shah’s father, also a Shah, who
+      essentially acted as a client oligarch on behalf of Britain. And that was even
+      so, they could not prevent Iran’s attempt to elect a head Mossadegh who wanted
+      to take regain control of Iran’s oil for the people at large. And that’s why there
+      were the MI6 and the CIA to overthrow him. What happened in Iran is exactly what
+      you forecast as happening in the other Arab countries. They are absolutely concentrated
+      wealth by a very selfish and ignorant ruling class. I’ve met their kings; they
+      are living in the short run, very parochial point of view. They are made fun of
+      by the British and by the other Western bankers and officials that have had contact
+      with them. They are as obsolete today as the kings and queens of Europe were after
+      World War I. There’s no question. You don’t need the two-day Communist Party today
+      to overthrow them. The pressure of the populations themselves, we can even call
+      it democratic pressure because the majority of the population know that they’re
+      just oppressed as low-wage laborers, while these kings have such enormous wealth
+      that they’re wasting it all. You talk about diversifying the economy. What have
+      they done? They’ve diversified into luxury housing, all of these huge housing
+      projects and tourism. Well, tourism and luxury housing are not a diversification
+      of the economic base. This is exactly what’s going to be an issue. And it means,
+      finally, the Arab countries are catching up to the position that Iran was in,
+      already 100 years ago. RICHARD WOLFF: And a footnote. Let’s remember, the British
+      Empire, when it was finally dying and being pushed out of India, Asia, everywhere
+      else, understood that, in leaving, it would do something like what armies sometimes
+      do when they retreat. It’s called a scorched earth policy. And what the British
+      version of this was, you divide the territory you’re forced to leave. Find whatever
+      forces you can that are hostile to one another and exacerbate that hostility.
+      Look at how the British undid everything Mahatma Gandhi tried to do. He wanted
+      to bring the Hindu and Muslim people together in many ways. They made sure that
+      didn’t happen. The great separation: the Bangladesh later Pakistan, all of that.
+      Well, in the desert area of the Gulf, they created seven or eight little countries
+      instead of another Iran. Iran is big. These countries are very little. It understood
+      it would have an easier chance managing and manipulating if it had this family
+      in charge of these square miles and this family. So it’d be the emir here and
+      the sheikh over there, and they could buy and replace them easily. And when the
+      American Empire, after World War II, replaced the British, this was ready-made
+      for them to resume the same thing. The Iranians, in a way, had had to struggle
+      with the effort of the British to do that there. They knew very well what they
+      were up against. They worked real hard to try to hold that country together, which
+      is paying off now confronted by the United States. It’s a little bit like what
+      China was able to do by never quite being anybody’s colony, half, but not quite.
+      And that held them together for a solidity that is standing them in good stead
+      now that they come later. So I think we should keep in mind that those countries
+      in the Gulf states are very new. They are very artificial creations of a declining
+      British empire, and therefore they have a new world, as the American Empire that
+      replaced the British is also dying. Hopefully, they will not be passed on to yet
+      another empire that they should have in their minds as the crucial thing not to
+      allow to happen to them. MICHAEL HUDSON: Well, the point you’ve just made brings
+      us back to the original question that Nima asks: “What is the plan of the United
+      States?” The U.S. plan has always been short run. It was to be what the Germans
+      called a Früchrieg, a happy war, a short war. They will attack Iran, the people
+      will rise up, Trump will appoint a new leader, and Iran will be in the U.S. orbit.
+      This was a short-term thinking, and he had no concept of the long-term consequences.
+      And the Arab countries so far have the situation that you describe as Britain
+      having created, divide and conquer. Let’s put each local kingdom in the hands
+      of a particular royal, a particular clan and family. That has prevented any kind
+      of organization here. That has forced the Arab countries to live in the short
+      run for the last hundred years. And what you and I are talking about is that the
+      world cannot afford to live in this short run anymore because the short run is
+      chaos. And the only solution is a long-term restructuring. And neither the United
+      States nor Europe nor Israel have thought of restructuring. It never occurred
+      to them that there could be a restructuring away from the shards of the British
+      Empire and the American Empire that’s replaced it. Well, now this restructuring
+      is being forced on not only the Arab countries and kingdoms, but on Europe, on
+      Asia, and on the global south. They’re all having to restructure the world in
+      a way that leaves the United States and the West to be isolated. All it has brought
+      about is chaos and genocide and a violation of all of the international laws that
+      the world thought was going to govern the economy for the long term after 1945.
+      Now there has to be a new institution, new international laws, a new financial
+      system, a new trading system, and new military alliances. That’s what is, that’s
+      the future. RICHARD WOLFF: I know we’re running out of time, but I would like
+      to end with asking Nima a question. And I’m asking you because you are of Iranian
+      origin. Here is the big question. Can the Iranian people today do two things?
+      Tolerate, withstand, absorb the military assault of the United States and Israel?
+      And can they do it long enough for everything we have said today to play out?
+      Do they have the capacity? Because I know much of the world, that’s the question,
+      number one in people’s minds. NIMA ALKHORSHID: My answer to both of those questions
+      is positive because Iran sees no other solution to what’s going on. They have
+      tried to negotiate with the United States two times, and both times they were
+      deceived by the United States. And they themselves said that there is no ceasefire.
+      They’re not thinking of ceasefire. They’re not thinking of negotiations with the
+      United States. So what is the path forward for them and for the Iranian people?
+      They’re not going to put an end to this conflict, to this war, so easily because
+      they know if they go with some sort of ceasefire, they’re going to be attacked
+      again and again. They don’t want this and they don’t go in that direction. I think
+      they’re prepared to go all the way down, to go totally against the United States
+      and what the United States and Israel are seeking for, in Iran. And the people
+      are prepared. And what I see, what I witnessed, I was there for 40 days, I saw
+      something, you know, the people are not, they understand these, all these sufferings
+      that are happening right now in Iran because of these economic difficulties coming
+      from the United States and their tremendous sanctions for more than 46 years.
+      This is a nation that was, you know, sustained itself for more than 46 years of
+      sanctions. And they are prepared to go as far as it takes to defeat the United
+      States in the region. RICHARD WOLFF: All right, that’s what I wanted to know.
+      NIMA ALKHORSHID: Thank you so much for being with us today. Great pleasure, as
+      always. Photo by omid armin on Unsplash Transcription – ced The post Why This
+      War Could Reshape the World first appeared on Michael Hudson . The post Why This
+      War Could Reshape the World first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on March 12, 2026, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson address the controversial U.S. attack on Iran, particularly
+      focusing on the implications of targeting a school and the misinformation surrounding
+      the use of tomahawk missiles.
+    paragraph_summary: In a discussion on March 12, 2026, Nima Alkhorshid, Richard Wolff,
+      and Michael Hudson addressed the recent U.S. military attack on Iran, which notably
+      struck a school, raising questions about the rationale behind such actions. Wolff
+      criticized Donald Trump's inconsistent responses to inquiries about the objectives
+      of the attack, highlighting the lack of clarity regarding whether the goals were
+      regime change, curtailing Iran's nuclear program, or diminishing its military
+      capabilities. He expressed confusion over the ongoing debate and the absence of
+      a straightforward answer from Trump, suggesting that the discourse around the
+      attack lacks a clear focus on its intended outcomes.
+    published: '2026-03-22T23:46:44+00:00'
+  - title: Why This War Could Reshape the World
+    url: https://michael-hudson.com/2026/03/why-this-war-could-reshape-the-world/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, March 12, 2026, and our
+      dear friends Richard Wolff and Michael Hudson are here with us. Welcome, Mike,
+      Richard. MICHAEL HUDSON: Good to be here. RICHARD WOLFF: Glad to be here. NIMA
+      ALKHORSHID: Yeah. Let me start today with you, Richard, and with what has happened,
+      you know, the initial, the first day of the attack on Iranian, you know, the American
+      attack on Iran, and they hit one of the schools in Iran, which was argued by many
+      people. You know, it’s not mostly Democrats are talking about how did that happen?
+      Because you can find it on the map. You can find everything. And every time Donald
+      Trump comes out, they said tomahawk missiles. Then he said tomahawk missiles.
+      Maybe it came from Iran. Then it came out that Iran doesn’t have tomahawk missiles.
+      The United States, together with Germany and the United Kingdom and France, they
+      have these sorts of tomahawk missiles. And what is your understanding of Donald
+      Trump and the way that he’s trying to respond to these critics inside the United
+      States and what’s going on in the Middle East with the war? RICHARD WOLFF: Well,
+      I’m glad you started with me because I’m going to answer in a kind of blunt way
+      with an answer I know to be incomplete and then let Michael and you fill it in
+      and correct me where I make a misstep. I don’t understand the discussion that
+      has been going on in which people seem to want to ask Mr. Trump a simple question.
+      “What was the objective here so that we know when you’ve achieved it and we can
+      all talk about that and we’ll have a clear focus?” And Mr. Trump did what he has
+      often done: not answered that question, but chosen instead to give multiple answers
+      that don’t consist with one, you know, are not consistent one with the other.
+      Is it regime change? Is it to end their nuclear program? Is it to deprive them
+      of military capability to threaten their neighbors? I mean, I could go on, you’ve
+      heard them all. There’s no interest in this that I have. Why not? Because, I presume,
+      in the way I think about the world, that a decision to go to war, which is one
+      of the weightier decisions anybody ever makes, is, like all decisions, big and
+      small, determined by many factors that don’t all point in the same direction.
+      That every political leader who has ever declared a war has had to face the fact
+      that there were some aspects that made it wise to go to war and other aspects
+      that made it stupid and dangerous to go to war, and that he weighed or she weighed
+      them and reached a decision. I assume that that’s the way this works. Whether
+      that’s consciously in the minds of the leaders or not really doesn’t matter. It’s
+      what I think the process effectively is. All right. Having said that, now I’m
+      going to provoke. Here is what I suspect was the deciding factor. Not the only
+      factor. There is no only factor. I don’t even think there is a key factor. There
+      are multiple factors, and you have to think about them as an inconsistent group.
+      But the ones I want to focus people’s attention on, are the ones that are not
+      spoken. And they’re not spoken much by the Republicans, and they’re not spoken
+      much even by the Democrats. And that is that this is like so much of what Mr.
+      Trump ends up doing, a piece of political theater whose objectives are somewhere
+      else. So I don’t think this is a serious war in the sense you plan out a program,
+      you have contingency plans. Here’s what we’ll do if it lasts two weeks. Here’s
+      what we’ll do if it lasts two months. Here’s what we’ll do if it lasts two years.
+      And you take steps and you organize your allies and all of this stuff. I see most
+      of that missing, which reinforces in me the following conclusion. The two biggest
+      problems Mr. Trump faced three weeks ago, or however when this decision was made,
+      were number one, the endless scandal of Epstein, and number two, a bad economic
+      situation getting worse. Many of the dimensions that we’ve been talking about
+      on this program. I write about it, Michael writes about it, so we have been talking
+      about that. And there was nothing he could do. And when the Supreme Court took
+      away the tariffs, undoing the one bit of revenue generation the man had come up
+      with, while he proposes a $600 billion increase in the military budget for next
+      year, well, that means that we’re going to be a deficit country in the trillions
+      again. So he’s going to look bad there. Jobs are a disaster. Inflation is on the
+      way to resume rising. It stopped across, it declined across Biden, and then it
+      froze. He couldn’t get it to go down any further. The Democrats have a field day,
+      typical with the Democrats. They can’t say what it is, so they come up with a
+      clever ad term: affordability. You know, it’s like something bad descended on
+      America, like a rainy day, affordability crisis. All right, conclusion. We’re
+      going to war because war pushes Epstein off of the headlines. It pushes the bad
+      economy to the sideline or off the headlines. And instead, it focuses all the
+      attention on the commander-in-chief as he discusses the flames and the bombs and
+      the whole theatric of a war. He wants a theater war for as long as it takes to
+      distract the American people. And the longer he can keep it going without the
+      ramifications coming back to give him new problems, which it will. But for the
+      time being, here he has a distraction, and I can’t think of anything else he could
+      do, given who he is, that would offer him those benefits of distraction that this
+      caper actually does. The side benefit: it keeps Israel going. You know, he wants
+      to develop that relationship. There is a support in the United States, a significant
+      one, to keep that relationship going. Okay, that’s a little side benefit that
+      he can get for it. And since he doesn’t know history, you can see that all the
+      time, and doesn’t care much, he doesn’t have to worry about what all those ramifications
+      might be. Because if you try to think through what the ramifications of your acts
+      are, well, the only resource you really have is history. You can try to go back
+      and see how historically these problems were conceived and resolved, and then
+      you pick and choose and hope this subset might work in your particular circumstances.
+      One of the reasons Michael Hudson’s work on the ancient history of money is very
+      valuable is because, as Michael surely knows, what he found in history was shaped
+      by what he lives through right now. What he wants us to think about and see are
+      the things that were done in the past: the role money played, and the role monetary
+      policy played, that will give us clues into now. Mr. Trump can’t do that because
+      he has no idea and no respect for the historical realities that he could use.
+      So he ends up winging it, as I’m sure he says, and he’s now winging it by means
+      of a war. He is not the first president nor the first political leader to be driven
+      to war by domestic political considerations. That’s not new. I don’t mean to suggest
+      he’s the only person who’s ever done it, but I do think that’s what’s going on
+      here. NIMA ALKHORSHID: Michael? MICHAEL HUDSON: Well, I think it’s perfectly natural
+      that Trump is not going to announce what the real purpose is of the war in Iran
+      is. His whole business career had one purpose: to cheat his partners and to cheat
+      his suppliers and contractors. Well, he’s not going to come right out and say,
+      “My purpose as a businessman to cheat you. My purpose is to make you rich.” And
+      then he’s going to cheat them if he can convince them to be suckered into the
+      real estate deals that he did for so many years, so notoriously in New York City.
+      I think that the purpose of the war is very clear. It’s the same purpose that
+      led the United States to overthrow the Iranian regime in 1953. It’s all about
+      oil. And it’s not only about oil. Trump has said he wants to put in his own regime
+      and let the United States take control of Iran’s oil, just as he tried to do in
+      Venezuela. It’s all a repeat. But controlling this oil has a much broader scope
+      for what it’s trying to do that he’s obviously thought out and talked with his
+      other nations is to control the whole world’s oil trade, because you can’t control
+      the trade in oil without not only controlling the world’s oil trade, but to isolate
+      countries that are not under your control for this trade, such as Russia and Iran,
+      and such as Venezuela was. So I think it’s about oil, and that’s what makes what’s
+      happening something that is way beyond Trump’s willingness, not to mention capacity,
+      to explain to the world. And that is, this is really the start of World War III
+      and all of the alignments that that’s going to take. And it’s a world war because
+      oil is an international commodity. Every nation in the world needs oil in order
+      to power its factories, to provide electricity, to light its homes and heat its
+      homes, to back its chemical industry, and especially the fertilizer industry.
+      So, and because 20% of the world’s oil trade comes from OPEC and indeed goes through
+      the Strait of Hormuz, the effect is being felt over the entire world right now.
+      And so, I’m not going to try to read either Trump’s mind or even explain what’s
+      happening right now in the Near East because all of your military guests on your
+      show are able to do that. But I think I can see where all of this is leading in
+      the future. And the future is what this war is all about. How is the world going
+      to be structured from here on in under U.S. control or under Iran’s independence?
+      So, I want to talk about what both countries plan for the future, and each of
+      them has a plan, and what this means for oil. Iran has said that the war is going
+      to go on until it’s achieved its number one aim: to drive the United States out
+      of the Middle East permanently. And just this morning, Ayatollah Khomeini has
+      said that includes ending Israel. That’s going to take a long time, and that means
+      it’s going to be a long war. There are all sorts of reports that Trump has telephoned
+      Putin in Russia to say: “Can’t you try to bring some pressure on Iran to have
+      peace in the world and just let’s negotiate a ceasefire? You know, we’ve bombed
+      it. Now that we’ve bombed it, you know, we’re willing to stop.” As if Iran hasn’t
+      made long-term plans for this, that it’s announced to the world exactly what its
+      future is going to be for the rest of the half year, for the rest of 2026. It’s
+      held back its big bombs because it’s wanted Israel and the American military bases
+      and OPEC countries to expend all of their air defense systems and missile defense
+      systems against the Iranian drone attacks and the use of its old missiles. And
+      once these systems are exhausted, now Iran is going to come in with the heavy
+      hitting. It said this again and again as a strategy. And that’s why, last year
+      and again in the war last June, it’s demonstrated its ability to penetrate Israeli
+      and as a result, U.S. military base defenses. It will. So it tried to say, “Look,
+      if you really are attacking us, this is what’s going to happen. We’ve shown you
+      the future. We’ve shown you what it will do.” And Trump really didn’t believe
+      that. Trump did have a view of the future that went to war. He said, “First of
+      all, you know, we’re going to bomb Iran. We have to, if we bomb the leadership
+      and wipe it out, the Iranian people are going to rise up against and say that
+      the leader is dead. We can rise up and have a pro-U.S. government, basically.
+      Someone like the Shah and his father, who was [installed] in 1925. A client turned
+      into client dictatorship.” That’s what he believed. And he thought that that would
+      be a Yeltsin-like figure who would let American companies come in and develop
+      Iranian oil by controlling it and thereby absorbing Iran, making it into a U.S.
+      satellite. That didn’t work. Trump also announced, and the military announced,
+      “Well, we’re going to back the Kurds. We’re going to do to Iran what we have plans
+      to do to Russia and China. We’re going to cut Iran into five different ethnic
+      units and we’re going to start by backing the Kurds, who are going to fight for
+      their autonomy.” Well, in the last few days, you’ve had the Iraqi and the Iranian
+      Kurds send notes to the new Ayatollah. “We are not going to attack Iran. Don’t
+      worry. We know that that would be suicidal. We’ve already lost enough trust in
+      the United States before and been wiped out. Don’t worry about that.” So that
+      dream that Trump had has failed. And he really thought that somehow he could destroy
+      all of the Iranian missile defenses. And essentially, shock and oil were going
+      to do to Iran what America did to Iraq in the 2003 war. All of the future that
+      the Americans have forecast: a short war leading to an American victory or at
+      least wiping out Iran. And as Trump said, “If we don’t wipe out, really defeat
+      Iran now, we’re just going to have to spend the next five years rearming ourselves
+      and attack it all over again.” So it’s going to be a war to the end. Well, Iran
+      also says, “You’re absolutely right. It’s going to be a war to end the whole U.S.
+      occupation of the Near East.” That is going to take much more than just a few
+      months or a few weeks that Trump was hoping it would be solved by the time he
+      goes to China and meets with President Xi to talk about it. So you’re having Russia,
+      China, and Iran all together supporting what’s happening. And the effect of this
+      on the rest of the world, that’s drawing us all in, has forced the rest of the
+      world to take sides. Europe is being torn apart by the energy pressures that has
+      and has thrown its support behind the United States and Israel so far. And the
+      population of Europe, as we’ve said before, is against the war, but there are
+      not going to be new elections to replace Starmer and Meritz, Macron, and Merz
+      for a while. So that’s going to be there. The question is, what are the Asian
+      countries going to do? Well, blocking the Strait of Hormuz for six months causes
+      not only a blockage of oil, but a blockage of natural gas. And the main victims
+      of all of this are South Korea and Japan. What are they going to do with all of
+      this? It means that their major industry of their industries are going to be shut
+      down. It means unemployment. It means a shrinking GDP for Europe as well. So America’s
+      allies are going to be bearing the major cost. And to prevent this world crisis
+      from bringing on the kind of world depression that occurred in 1929 to 1931, Trump
+      has said, “All right, we’re letting Russia provide the world with oil.” He’s trying
+      to prevent Russia from supplying China with oil. And Iranian shipping has been
+      supplying China with oil, but it’s only been able to supply about 5% of China’s
+      oil needs. So, Russia is going to step in. And just in the last few days, President
+      Putin has said, “Well, Europe doesn’t want our oil and gas. Let’s do it right
+      now.” They’ve already said they’re going to cut off their purchase of it in April.
+      Russian ships have been turned around, and instead of delivering oil and gas to
+      Europe, they’re supplying it to the countries with which they intend to develop
+      long-term relationships when this war is over. And the relationships are going
+      to be with the BRICS countries, with Africa, and with South America. In particular,
+      Brazil is important for all of this because Brazil imports 80% of its fertilizer.
+      And this is needed for Brazil to grow the soybeans that it’s exporting to China
+      for its foreign exchange. Fertilizer is the key not only to feeding its own population,
+      but to supporting the balance of payments in other countries. The global south
+      countries are being absolutely squeezed by these rising oil prices and gas prices.
+      And the inability of them to get fertilizer threatens to cause a crop failure
+      in Africa and South America. And the only way of avoiding this, as long as the
+      Strait of Hormuz is closed to OPEC oil, is from Russia or from Iran. Well, Iran
+      is going to continue to support mainly China, so it’s really Russia that’s going
+      to be developing all of this. So, while the United States’ plan was to capture
+      Iran and restructure the world’s oil trade, it turns out that the restructuring
+      is going to probably strengthen Iran and Russia for the long term unless the United
+      States wipes out Iran. And that’s what this war is all about. The United States
+      is threatening to accelerate it, and Iran is just taking off with its big missiles
+      that are going to continue to go on. And I know that I’ve gone on along, but I
+      want to say, just for later discussion, I want to pose two future things that
+      I want to talk about. A major, the aim of Iran is said to isolate OPEC from the
+      United States and from the dollar. First of all, it says OPEC countries cannot
+      let the United States use their territory as military bases. That’s why it bombed
+      Bahrain, Kuwait and other countries. Second, Iran has said, “In order to really
+      lead the Arab countries to avoid reestablishing these bases, we have to stop the
+      economic linkages between the Arab countries and the United States.” And one of
+      the major linkages that they’ve pointed out are the large computer companies that
+      want to have computer stations to process automatic intelligence. Google, Microsoft,
+      and the others. So the Iranians have said, “We’re going to bomb enough of their
+      installations here so that they cannot do this.” And they’ve made a final, really
+      radical demand on the other Arab countries. “You have to begin disinvesting in
+      the United States. All of your huge national savings and the personal savings
+      of the Arab monarchies have been invested in U.S. stocks and bonds, mainly bonds
+      and bank deposits. You have to disinvest with the United States.” Well, that’s
+      already occurring voluntarily by the Arab countries because they say, especially
+      Saudi Arabia, “We’re a very heavy debt-leveraged economy. And now that we’re not
+      getting oil export revenues anymore, we need to balance our budget and to avoid
+      defaulting on our financial linkages by liquidating some of the savings that we’ve
+      been built up.” So you’re having the Arab countries already beginning to sell
+      off the savings. That’s one thing that’s happening. Another is something that’s
+      going to happen as a result of this World War III that’s very much the same as
+      occurred after World War II. That is, it’s going to end the monarchies in many
+      Arab OPEC countries. You’ve already seen Bahrain’s king, who was a protégé of
+      Saudi Arabia. He’s fled the country and gone to Saudi Arabia. And Bahrain has
+      a primarily Shiite population, whereas the king is Sunni and gone there. I would
+      expect that monarchy to fall, just as World War I saw the monarchies of Europe
+      end. England kept its monarchy because they were turned into a tourist attraction,
+      basically, without any real effect. But the monarchies ended. Well, also, Jordan
+      is probably a monarchy where you’re going to have the domestic, largely Palestinian
+      population, overthrow the monarchy of Jordan. And I think that the aim of Iran
+      is to replace the Arab family monarchies with monarchies that are more sympathetic
+      to them and at least tolerant of the Shiite religion, no longer the Sunni Wahhabi
+      supremacists. So I think you’re going to see this is a major characteristic. And
+      of course, the other thing I think we should talk about for the future result
+      of this World War III is the First World War led to the creation of an international
+      organization, the League of Nations. The United States did not join it because
+      it said, we won’t join any international organization in which we don’t have veto
+      power. No one’s going to tell us what to do. Well, the world fell into depression,
+      World War II. After World War II, there was another attempt to create a body of
+      international law, the United Nations. That has now been dissolved. We’ve seen
+      the utter hopelessness, the utter inability of the United Nations to stop this
+      war, to stop the United States, to stop Israel, to stop the genocide that you’re
+      seeing that is now spread from Gaza to the West Bank, and to stop what Israel
+      has been doing in the last week is it expects Iran to be able to wipe out most
+      of Israel. It sees the handwriting on the wall. So what is it doing? It’s moving
+      to Lebanon. It’s taking over Lebanon to say if we can’t live in Israel and that’s
+      all bombed out. Well, there’s one country that’s not bombed out, Lebanon. We’re
+      going to bomb it just enough to move there. So you’re seeing a whole attack on
+      military aggression in the world from the U.S., Israel, Access, and its allies.
+      Probably the result of all of this is going to be either to restructure the UN
+      or more likely to create a brand new organization that will not have U.S. veto
+      power, will not have the U.S. control, and will have its own financing and budget
+      and probably move out of New York, which, as we’ve said, the Secretary General
+      Gutierrez said the UN is broke and it’s going to have to move out of New York
+      anyway by August. So I think these are what I think we should talk about, how
+      the world will be evolving as the war winds down. And whatever the results are,
+      it looks like Iran is going to be in terms of the timing, certainly, not the United
+      States. Iran is in terms of the timing. And as the oil crisis goes down and the
+      gas liquefied natural gas crisis and the fertilizer crisis leading to a chemical
+      industry crisis and an industrial crisis, all of this is going to restructure
+      the world just as seriously, I think, as World War I and II did in their ways.
+      NIMA ALKHORSHID: Richard, one important point that Michael just mentioned is the
+      fertilizer. We’ve learned from the American farmers that, due to the war that
+      started by Donald Trump, the price of fertilizer has increased sharply. And the
+      people are talking about it in the United States. On the other hand, Richard,
+      let me a little bit focus on what is the outcome of what Donald Trump is doing
+      in a long run. For example, for South Korea, for Japan, and for all these Persian
+      Gulf Arab states. These are, you know, at least in the eyes of the leaders of
+      these countries, they thought that the American bases would bring prosperity and
+      security to their countries. And how do you see the outcome of what’s going on
+      right now? Because they’re bringing, you know, they left South Korea naked, simply
+      naked. They’re bringing the air defense system to the Middle East. And you see
+      all these bases being somehow, most of the radars being destroyed during, you
+      know, we are getting to 12 at least two weeks of war. What is your understanding
+      of these leaderships in these countries toward what Donald Trump is doing? RICHARD
+      WOLFF: Well, I think they have to face the same reality that the United States
+      faces and that we have been discussing for months. I am so taken by it, I have
+      no choice but to say it to you. We are experiencing, I have said this before;
+      we are living through the decline of the American empire. I have been asked countless
+      questions. “What’s your evidence for thinking that?” And then I point to the economy
+      and the difficulties that we’re having. But I don’t need to do that anymore. This
+      war is a literal chapter in the decline of the empire. When one of the leading
+      officials of Iran says what Michael repeated a few minutes ago, that the goal
+      of Iran is to remove the United States from the Middle East. Well, another way
+      of saying that is the American Empire, which included the Middle East, all those
+      bases in all those Gulf states, and all the fund relationships with oil, that
+      was a key part of the American Empire. And things have now come to the point where
+      there’s a part of the American Empire, Iran, forced by the nature of the global
+      oil market and everything else to be a part of that empire, has come to the position
+      and now they can act on it. You know, Prime Minister Mosaddegh, back in 1953,
+      he didn’t want to leave office. He was pushed out of office by the United States
+      and Britain, basically. Okay, but now, even when you kill the Ayatollah, it doesn’t
+      matter. There’s another Ayatollah standing right behind him. And there’ll be another
+      one if they kill this young man. Because it’s no longer the conditions you had
+      then. You now have an empire that’s in difficulty, having its own problems, shaping
+      what it can and cannot do. So when you ask what happens to South Korea, my answer
+      is that’s what we’re watching. The recognition in the minds of all of those governments
+      in the Middle East, in those seven Gulf, or whatever they are, seven or eight
+      Gulf states, you know, UAE, Bahrain, Kuwait, Oman, all of that. They’re discovering
+      that having an American military base is not only a wonderful thing, it’s a horrible
+      thing. It makes you a target. But you can only be a target if other forces are
+      closing in on the empire. So then, what’s the conclusion? Well, the issue between
+      the United States and Iran is exactly the same as the issue between the United
+      States and Russia or China. Russia and China have an alliance that explains and
+      enables and reflects their way of challenging the American empire. Drawing a line
+      at Ukraine’s border, saying that the Russians, that we will not allow NATO to
+      take over Ukraine the way we allowed NATO to take over Poland and the Czech Republic
+      and Slovakia and Labor. We all know this story. NATO moved to the east and Russia
+      couldn’t do anything. Then Russia decided, in response to this situation, it had
+      a radically changed many of the things. It got rid of the whole effort to be a
+      socialist country out the window. Big change for a country like that. Big change.
+      It decided Europe was not where it was located. Asia was where its future lay,
+      and it replaced Europe with China. I mean, these are enormous changes to the global
+      situation. And so the United States has a choice, doesn’t it, with Russia and
+      China. It can either fight to keep the empire going, in which case it risked World
+      War III. World War III didn’t come on the agenda now with Iran. I mean, people
+      are talking about it now. That’s a step forward. But it was the same issue before.
+      Europe made the decision to risk World War III by uniting against Russia in Ukraine.
+      That was a decision made by the Europeans because they thought, without admitting
+      it, that they could shore up the American empire upon which they depend. Big mistake.
+      You didn’t understand how far the empire had already declined. You didn’t understand
+      the forces making for more decline. So you allied yourself to the wrong horse,
+      and they’re suffering it right to this minute. Keir Starmer, in the first days
+      of this thing, stood up and said, “I won’t let the Americans use British airfields.”
+      Within 24 hours, he was in favor of the war, and 24 hours later, he turned against
+      the war. And now, Mr. Starmer, and this is really important, Mr. Starmer, whose
+      popularity is in the toilet, like Mr. Trump’s, only worse, who has no chance of
+      winning the next election and staying in power, has a chance. He is beating the
+      bushes in Britain, if you pay attention, which I do, attacking Badenoch, the head
+      of the Conservative Party, and Farage, the head of the Reform Party. They have
+      three parties in England that matter at this point. He’s attacking them for being
+      pro-American in this war. Why? Because he might actually stay in power because
+      the British people, like the American people, don’t want a war with Iran. He could
+      save his domestic position by cheering on the decline of the American empire.
+      When your closest ally is dishing you this way, it’s over. Now, of course, nobody
+      will admit it, but the very logic of the arguments we’ve been articulating, Michael,
+      me, and you, for months now, that’s what this is. This is the next step: logical
+      and predictable of the dismantling of the empire. A political force, and if Michael
+      is right, a military force has come together that’s in a position to tell the
+      United States you either get out of the Middle East, which is what that high official
+      said last week, the high Iranian official quoted, no rep, no denial later. Our
+      goal, the journalist asked, how long will you fight? The answer, I believe, it
+      was the foreign minister, as long as the United States is not out of the Middle
+      East. Oh my God, there it is, in stark letters. We are now in a position where
+      it’s not Ukraine. This is a whole massive region of a world economy more integrated
+      and therefore more dependent on each of its regions, a huge crucial globe, ultra-pole
+      as in all between Asia and Europe, only now global, is in a position of saying
+      to the United States, you’re not wanted here, you’re not needed here, and we’re
+      going to drive you out. What is the United States going to do? I’m less able to
+      predict the future than Michael. He’s one of the many ways he exceeds me in his
+      capabilities. I can’t do it. But I am tempted, like I know Michael is. And my
+      temptation is to say here that Mr. Trump should listen to the message from Joe
+      Rogan and from Megan Kelly. He should listen, get out now, cut your losses, because
+      what are you going to do? Take over Iran? Ninety-two million will wage a guerrilla
+      war against you forever. That’s what they’re telling you. You’ll not be able to
+      get oil out of that country. Every time you put a pipeline in, they’ll blow it
+      up. We know this story, we’ve been to, we’ve seen this movie. You’ve got to admit
+      the empire is over. Sit down with the Iranians, the Russians, and the Chinese,
+      while there is still in them a recognition that they too would be better off working
+      a deal out with you than waiting to see how far you will go. That’s the option
+      we have. The rest is make-believe. MICHAEL HUDSON: Richard, you’ve just made the
+      all-important point that should be the frame for the whole discussion. This war
+      has destroyed the whole enabling fiction that has underlined the whole U.S. Cold
+      War policy and the whole U.S. support of Israel and its war against Russia and
+      Ukraine and its war against Iran. This enabling fiction is that the world needed
+      U.S. protection against attack from Russia invading Europe, a silly fantasy, or
+      from China conquering, militarily, Asia, a silly fantasy, or from Iran attacking.
+      Iran hasn’t attacked anyone. It turns out that we’re just seeing that, as you
+      just illustrated perfectly, that instead of protecting the world from America’s
+      enemies, the U.S. is the great creator of chaos. The U.S. is the great threat
+      to the world. And this is going to last no matter even if the United States were
+      to go on fighting with Iran, that’s going to be what is shaping. What is going
+      to happen when the U.S. finally gives up and is driven out of the Middle East,
+      not simply by Iran, but by Europe, by Asia, by Russia, by China, with all of the
+      countries that realize that until the United States stops fighting, which it won’t
+      do until it drives the United States out of the Middle East, that their economies
+      are going to be shrinking as a result of an inability to supply energy, gas, chemicals,
+      fertilizer, and all the things we’ve been talking about. That’s really the choice.
+      And I think one effect of this is not only going to be in terms of trade, for
+      the oil trade, and for their economic growth, but it’s going to be financial.
+      And this is where the current war, and I do want to call it World War III, is
+      going to be different from World Wars I and II. After World War I, the dollar
+      emerged supreme because it insisted on the Allied countries paying their war debts
+      for arms they had bought before the United States entered the war. They said,
+      “All right, we’ll pay you. We’ll just insist that Germany pay reparations.” The
+      result was a collapse of the European economies, not only Germany, but France
+      with its hyperinflation, with Britain with its general strike of 1926. And then
+      we had the Great Depression. Well, there was an enormous flight of refugee capital
+      and flight capital and gold out of Europe and other countries to the United States
+      during the 30s. So that when World War II ended, the United States already had
+      75% of the world’s gold supply. Well, once again, the United States was able to
+      establish pro-creditor rules that have governed the entire international financial
+      system since 1945 in U.S. favor. The U.S. and dollar and gold were the two forms
+      and currencies in which trade would occur and in which other central banks and
+      other countries would keep their national savings in loans to the United States,
+      to the government for treasury bills, to corporations through treasury bonds,
+      and through U.S. government agencies such as Fannie Mae. All of this is now being
+      threatened, not only by other countries rebelling and saying this is unfair, but
+      by the fact that the United States itself has destroyed this system, by weaponizing
+      the dollar, by weaponizing the financial system as a means of imposing sanctions
+      and forcing its allies to impose sanctions against Russian oil, Ukrainian oil,
+      and to isolate Iran for ever since 1979, when finally they drove out the Shah
+      and the main rallying point against the Shah for all Iran was the Shiite clergy
+      led by Khomeini at that time, because that was the mosques were the only places
+      in Iran, you could go where the Savak couldn’t follow you, grab you, and torture
+      you. Well, the result of this isolation since 1979 has been other countries, instead
+      of linking their oil to Iran, they linked it to the Arab OPEC countries, which
+      weren’t isolated. And you saw that in the United Nations vote that happened yesterday.
+      And it’s amazing. The U.S. and its allies sponsored a vote blaming Iran for attacking
+      American Israel when it was the victim of the attack. And yet more countries supported
+      this resolution against Iran than had ever supported any Security Council proposal
+      in United Nations history. So we’re dealing with a situation now where the whole
+      world is only thinking about its oil. Where is it going to get its oil with the
+      Arab monarchies? There’s been no thought that maybe it’ll get its oil, number
+      one, from Iran as well, as Iran has driven the U.S. out of the Middle East and
+      as Russia and China by themselves have ended America’s attack on freedom of the
+      seas and its attack on international law providing freedom of the seas. And with
+      Iranian oil restructured, this is going to go hand in hand with what I mentioned:
+      a transformation of the politics of the Arab oil countries, ending the fight encouraged
+      by the United States to have the Sunni and the Shia fight each other so that America
+      can divide and conquer the old British empire style. So all of this, this realignment
+      is going to happen because other countries will realize this situation of an American
+      war for Israel to control the Near East has failed. Neither Israel nor al-Qaeda
+      in Syria, the Wahhabi terrorists, nor the United States can protect our oil. It
+      looked like the only way of resuming oil supplies to the whole world is on Iran’s
+      terms. The U.S. bases must be removed from the Near East, and the Arab monarchies
+      must either decouple themselves and their finances and their foreign investment
+      in their computer centers there. Unless this happens, the whole world will continue
+      to shrink. That’s the choice before it, and that’s what makes this a world war
+      that cannot maintain the current economic system except the price of all America’s
+      allies going into 1930s-type depression as a result of the war. That’s what has
+      broken up the whole enabling fiction that America is protecting the world rather
+      than terrorizing the world and destabilizing the world and creating chaos throughout
+      the world economy. RICHARD WOLFF: If I could add quickly, if my information is
+      correct, closing the Strait of Hormuz also deprives a number of those Gulf states
+      of food and water because they are isolated and they need the ships to bring them
+      food for sure and then water, depending on whether Iran has hit the desalinization
+      plants the way; apparently, Israel has hit desalinization plants in the Middle
+      East. So it could become very urgent very quickly if you’re seeing no food. That’s
+      a different level of crisis. But now let me expand on a point Michael made. Imagine,
+      because it’s already there, a movement among the Arab people of the Gulf state
+      areas, a political movement that says, “We are mortgaged up to here by the debts
+      of our leaders, which we are required to pay.” They are super rich because they
+      get to skim off the oil business; plus, they collect the interest off the loans
+      to the U.S. government. We have military bases that render us targets. We have
+      the enmity of Iran that risks the closing of the Strait of Hormuz pretty much
+      when they want to. Here’s an alternative. We get rid of the monarchy, Michael’s
+      earlier point, and we declare, henceforth, we will nationalize, we’ll take over,
+      and we’ll have little Mosaddeghs in every one of these countries. We’ll take over
+      the oil. We will carefully sell oil to multiple buyers so that we never get into
+      a lopsided dependence on any one of them. That’s already done by other countries.
+      And likewise, we will make our investments if we don’t use oil money to develop
+      our economy. Let’s remember: every advice given by an economist, myself included,
+      to these governments over the years was: you better take your oil revenue and
+      diversify because a day will come when either you’ll run out of oil or the oil
+      business will disappear and you will have nothing. They all nodded in agreement,
+      but they didn’t do it. None of them. Tourism is not an alternative. Okay, now
+      there’s a political party operating in the United Arab Public, in Kuwait, everywhere,
+      which has a program, a nationalization program that solves the relationship with
+      Iran, that changes the relationship with the United States, and builds a new relationship
+      with China, which will be eager to buy as much oil as they can sell. And not that
+      China is the only one, not at all. The Europeans will need it and so forth. And
+      they can diversify. This is a much better future for them than the leadership
+      in position now can offer them. If you add a little civil liberties and a little
+      civil rights, wow, and a parliament that really matters and voting, you begin
+      to have a program for progressive political change in the Middle East that has
+      a real chance and that has not been part of the equation in that part of the world
+      for quite a while. And it echoes. Here’s the irony: it echoes ideas that were
+      advanced many years ago about the future of Iran by the Tudeh Party in that country,
+      which had conferences and debates. I remember some of them, which raised; that’s
+      where my idea about this comes from. So it’s more of a Middle Eastern-based notion
+      of their position in that part of the world. Everybody should understand. If you
+      think in ethnic terms, which is okay, you can’t think only Shiite Sunni. Persians
+      are not Arabs, and that distinction is very important in that part of the world
+      and has to be sort of factored in. But I don’t want to lose the most important
+      dimension, which is this is a momentous moment in which the decline of the American
+      Empire becomes much more visible than it was before. It takes another step, but
+      even more dramatic is the visibility. A leader of Iran is in the position to say,
+      America is out, and it is serious. And the United States, sooner or later, is
+      going to have to deal with that demand because they’ve started a war that at this
+      point looks like it will not end until that demand is met. MICHAEL HUDSON: It’s
+      very interesting, Richard. You’ve described the Arab countries as being in the
+      situation that Iran was in in 1905 when it tried to begin to get rid of the ruling
+      family dynasty that had ruled the country for 100 years and had invited in Britain
+      to have all sorts of trade concessions, especially in the tobacco trade. Iran
+      rewrote the constitution as a means of dislodging the ruling family. And finally,
+      in 1925, there was an overall revolt to replace the ruling family with self-rule
+      by Iranians as a whole. Well, the British intervened, as they had been doing for
+      30 years, and installed a military leader, the Shah’s father, also a Shah, who
+      essentially acted as a client oligarch on behalf of Britain. And that was even
+      so, they could not prevent Iran’s attempt to elect a head Mossadegh who wanted
+      to take regain control of Iran’s oil for the people at large. And that’s why there
+      were the MI6 and the CIA to overthrow him. What happened in Iran is exactly what
+      you forecast as happening in the other Arab countries. They are absolutely concentrated
+      wealth by a very selfish and ignorant ruling class. I’ve met their kings; they
+      are living in the short run, very parochial point of view. They are made fun of
+      by the British and by the other Western bankers and officials that have had contact
+      with them. They are as obsolete today as the kings and queens of Europe were after
+      World War I. There’s no question. You don’t need the two-day Communist Party today
+      to overthrow them. The pressure of the populations themselves, we can even call
+      it democratic pressure because the majority of the population know that they’re
+      just oppressed as low-wage laborers, while these kings have such enormous wealth
+      that they’re wasting it all. You talk about diversifying the economy. What have
+      they done? They’ve diversified into luxury housing, all of these huge housing
+      projects and tourism. Well, tourism and luxury housing are not a diversification
+      of the economic base. This is exactly what’s going to be an issue. And it means,
+      finally, the Arab countries are catching up to the position that Iran was in,
+      already 100 years ago. RICHARD WOLFF: And a footnote. Let’s remember, the British
+      Empire, when it was finally dying and being pushed out of India, Asia, everywhere
+      else, understood that, in leaving, it would do something like what armies sometimes
+      do when they retreat. It’s called a scorched earth policy. And what the British
+      version of this was, you divide the territory you’re forced to leave. Find whatever
+      forces you can that are hostile to one another and exacerbate that hostility.
+      Look at how the British undid everything Mahatma Gandhi tried to do. He wanted
+      to bring the Hindu and Muslim people together in many ways. They made sure that
+      didn’t happen. The great separation: the Bangladesh later Pakistan, all of that.
+      Well, in the desert area of the Gulf, they created seven or eight little countries
+      instead of another Iran. Iran is big. These countries are very little. It understood
+      it would have an easier chance managing and manipulating if it had this family
+      in charge of these square miles and this family. So it’d be the emir here and
+      the sheikh over there, and they could buy and replace them easily. And when the
+      American Empire, after World War II, replaced the British, this was ready-made
+      for them to resume the same thing. The Iranians, in a way, had had to struggle
+      with the effort of the British to do that there. They knew very well what they
+      were up against. They worked real hard to try to hold that country together, which
+      is paying off now confronted by the United States. It’s a little bit like what
+      China was able to do by never quite being anybody’s colony, half, but not quite.
+      And that held them together for a solidity that is standing them in good stead
+      now that they come later. So I think we should keep in mind that those countries
+      in the Gulf states are very new. They are very artificial creations of a declining
+      British empire, and therefore they have a new world, as the American Empire that
+      replaced the British is also dying. Hopefully, they will not be passed on to yet
+      another empire that they should have in their minds as the crucial thing not to
+      allow to happen to them. MICHAEL HUDSON: Well, the point you’ve just made brings
+      us back to the original question that Nima asks: “What is the plan of the United
+      States?” The U.S. plan has always been short run. It was to be what the Germans
+      called a Früchrieg, a happy war, a short war. They will attack Iran, the people
+      will rise up, Trump will appoint a new leader, and Iran will be in the U.S. orbit.
+      This was a short-term thinking, and he had no concept of the long-term consequences.
+      And the Arab countries so far have the situation that you describe as Britain
+      having created, divide and conquer. Let’s put each local kingdom in the hands
+      of a particular royal, a particular clan and family. That has prevented any kind
+      of organization here. That has forced the Arab countries to live in the short
+      run for the last hundred years. And what you and I are talking about is that the
+      world cannot afford to live in this short run anymore because the short run is
+      chaos. And the only solution is a long-term restructuring. And neither the United
+      States nor Europe nor Israel have thought of restructuring. It never occurred
+      to them that there could be a restructuring away from the shards of the British
+      Empire and the American Empire that’s replaced it. Well, now this restructuring
+      is being forced on not only the Arab countries and kingdoms, but on Europe, on
+      Asia, and on the global south. They’re all having to restructure the world in
+      a way that leaves the United States and the West to be isolated. All it has brought
+      about is chaos and genocide and a violation of all of the international laws that
+      the world thought was going to govern the economy for the long term after 1945.
+      Now there has to be a new institution, new international laws, a new financial
+      system, a new trading system, and new military alliances. That’s what is, that’s
+      the future. RICHARD WOLFF: I know we’re running out of time, but I would like
+      to end with asking Nima a question. And I’m asking you because you are of Iranian
+      origin. Here is the big question. Can the Iranian people today do two things?
+      Tolerate, withstand, absorb the military assault of the United States and Israel?
+      And can they do it long enough for everything we have said today to play out?
+      Do they have the capacity? Because I know much of the world, that’s the question,
+      number one in people’s minds. NIMA ALKHORSHID: My answer to both of those questions
+      is positive because Iran sees no other solution to what’s going on. They have
+      tried to negotiate with the United States two times, and both times they were
+      deceived by the United States. And they themselves said that there is no ceasefire.
+      They’re not thinking of ceasefire. They’re not thinking of negotiations with the
+      United States. So what is the path forward for them and for the Iranian people?
+      They’re not going to put an end to this conflict, to this war, so easily because
+      they know if they go with some sort of ceasefire, they’re going to be attacked
+      again and again. They don’t want this and they don’t go in that direction. I think
+      they’re prepared to go all the way down, to go totally against the United States
+      and what the United States and Israel are seeking for, in Iran. And the people
+      are prepared. And what I see, what I witnessed, I was there for 40 days, I saw
+      something, you know, the people are not, they understand these, all these sufferings
+      that are happening right now in Iran because of these economic difficulties coming
+      from the United States and their tremendous sanctions for more than 46 years.
+      This is a nation that was, you know, sustained itself for more than 46 years of
+      sanctions. And they are prepared to go as far as it takes to defeat the United
+      States in the region. RICHARD WOLFF: All right, that’s what I wanted to know.
+      NIMA ALKHORSHID: Thank you so much for being with us today. Great pleasure, as
+      always. Photo by omid armin on Unsplash Transcription – ced The post Why This
+      War Could Reshape the World first appeared on Michael Hudson . The post Why This
+      War Could Reshape the World first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on March 12, 2026, Nima Alkhorshid, Richard
+      Wolff, and Michael Hudson address the controversial U.S. attack on Iran, particularly
+      focusing on the implications of targeting a school and the misinformation surrounding
+      the use of tomahawk missiles.
+    paragraph_summary: In a discussion on March 12, 2026, Nima Alkhorshid, Richard Wolff,
+      and Michael Hudson addressed the recent U.S. military attack on Iran, which notably
+      struck a school, raising questions about the rationale behind such actions. Wolff
+      criticized Donald Trump's inconsistent responses to inquiries about the objectives
+      of the attack, highlighting the lack of clarity regarding whether the goals were
+      regime change, curtailing Iran's nuclear program, or diminishing its military
+      capabilities. He expressed confusion over the ongoing debate and the absence of
+      a straightforward answer from Trump, suggesting that the discourse around the
+      attack lacks a clear focus on its intended outcomes.
+    published: '2026-03-22T23:46:44+00:00'
+  - title: Chaos As US Power
+    url: https://michael-hudson.com/2026/03/chaos-as-us-power/
+    text: 'March 13, 2026 Robinson Erhardt You’ve been on the show and joined me a number
+      of times now, but we’ve rarely spoken about the contemporary situation in the
+      United States in our foreign policy. We tend to talk more about history, I’d say.
+      So, I wanted to ask — just to begin — why it is that you’re more interested in
+      talking about the present today. Michael Hudson Well, I’d originally planned when
+      you suggested talking about US foreign policy. I was going to go through my usual
+      approach, which we’ve discussed, starting in the Bronze Age for, debt and debt
+      financial policy and say, well, here’s how American foreign policy has evolved.
+      And here is why we don’t have the world that we helped create in nineteen forty
+      five. But I think that what has happened in the Middle East in the last few days,
+      has shown how really fictitious the whole National Security Strategy report that
+      the government published last December is in its historical description. And I
+      think I want to begin today by saying, look at the mess that American foreign
+      policy has created today. How did we get here and what are the policies that have
+      created this? Because obviously, no announcement or explanation of American foreign
+      policy by the Americans is going to say, here’s how we’ve pursued a policy that’s
+      splitting the world in two between the United States and NATO, Europe and our
+      allies in Japan and South Korea, on the one hand, and the whole rest of the world
+      against which we’ve weaponized our foreign trade. The use of the dollar and weaponized
+      warfare itself with the attack on the Near East. So I think, just to begin with,
+      what’s happening today shows that US foreign policy has become so self-serving,
+      so insistent that, as Donald Trump says, America has to be the winner. We’re in
+      a win-lose situation. And that is a basic strategy. And as we trace this, how
+      the strategies worked out really from nineteen forty five, when the United States
+      could appeal to market forces to have other countries rely on the United States
+      and after World War Two for their industrial support and monetary support, at
+      least under the creditor-oriented rules that the IMF and the United States laid
+      down. All of these factors that had favored the United States have been undercut
+      by the fact that the United States has deindustrialized and weaponized the US
+      dollar. And that word weaponized, I don’t think was ever used in relation to foreign
+      policy before, last year. And I think that the fact that now almost every major
+      media, newspapers are using the word weaponization of foreign trade, weaponization
+      of the dollar, I think that that indicates the adversarial position of American
+      foreign policy and the fact that basically it’s the opposite of what it claims
+      to do. For instance, just in the last twenty-four hours, President Trump has announced
+      — let me quote — “If necessary, the United States Navy will begin secure escorting
+      tankers through the Strait of Hormuz as soon as possible. And, he posted this
+      on his Truth Social blog today. He said, ‘No matter what, the United States will
+      ensure the free flow of energy to the world.”  Well, the entire thrust of the
+      United States foreign policy for the last seventy years is to prevent the free
+      flow of oil to other countries. It’s been to isolate access to all the countries
+      that are not willing to give up control of their foreign policy or agree to price
+      their oil in dollars. And since nineteen seventy four, when OPEC quadrupled its
+      oil prices, to agree that they’re going to save all of the export earnings in
+      dollars by recycling them to the United States to invest in US Treasury securities
+      as their savings, US bonds, and US stocks. The petrodollar trade. And if you look
+      at what the United States has done, look at the history of the US vis-à-vis other
+      oil-producing countries. Iran was overthrown in nineteen fifty three for trying
+      to nationalize its own oil trade. Then you have the two wars in Iraq, by George
+      Bush around nineteen ninety and then by his son, George W Bush. Then you have
+      Libya under President Obama. Then you have the isolation of the Russian oil and
+      gas trade in twenty twenty two as a result of the war in Ukraine. Then you have
+      Syria, in the last two years, being torn up, and Venezuela most recently. So if
+      you look at the fact that here are all of these countries that would like the
+      free flow of oil, but they’ve said a number of things. They don’t want to price
+      their oil in dollars. They want to use their, they want to trade with China and
+      with, regimes that the United States says, well, they are rivals, they are existential
+      enemies. You can’t trade with them. That was the whole aim of Trump’s Liberation
+      Day tariff policy. So you have the United States essentially using oil as the
+      basis of its international diplomacy. Really, throughout the twentieth century,
+      and especially since nineteen forty-five, because all countries need oil. And,
+      if you’re the United States, and of course, you want to use market forces that
+      you can, create a system of international law to shape the market forces that
+      are in ways that benefit the United States. But at the same time, you want to
+      maintain your ability to be very coercive in all of this. Well, that’s basically,
+      basically what’s been happening, the US policy from the very beginning, certainly
+      in, after nineteen forty five, has this coercive element, and the United States
+      basically said there are a number of buttresses for our foreign policy. Number
+      one, we won’t join any organization, any international organization in which we
+      don’t have veto power. So the United States insisted on veto power within the
+      United Nations Security Council. It insisted on a strong enough stock ownership
+      of the International Monetary Fund and World Bank so it could veto things, and
+      it wouldn’t join the international court or other international regulatory organizations
+      or things like the Paris climate Agreement, unless it had veto power. And it is
+      at the same time that it says, well, I think the national security study that
+      was published, as I said, in December, said our security depends on — basically,
+      to paraphrase — denying other countries their sovereignty. We don’t feel secure
+      if other countries are able to pursue policies that are adverse or threatening
+      to the United States. So you had Marco Rubio, the Secretary of State, saying that,
+      well, the United States national security is threatened by the International Criminal
+      Court and its authority. because it’s accused Netanyahu of being a war criminal,
+      and for what Israel has done in Gaza, and the other statements by the Trump administration
+      are, well, our national security is threatened by the United Nations and the whole
+      principle of international law. Ever since the Peace of Westphalia in sixteen
+      forty eight, right down through the United Nations Security Council, it is illegal
+      under international law to interfere with the politics and the internal administration
+      and freedom of other countries. Well, that’s exactly what the United States has
+      been doing ever since World War Two, meddling in foreign elections, in Greece,
+      fighting against the Communist Party that was the main partisans, in Italy under
+      Operation Gladio. The whole National endowment for democracy, has been basically
+      to bring about regime change of unpopular governments. So you have the whole U.S.
+      foreign policy of trying to control other countries, being adverse to the United
+      Nations principles of international law. And that’s just what Donald Trump explained
+      a few months ago when he said, “Well, the United Nations is obsolete. I’m going
+      to create the Board of Peace that I’ll be in charge of.” I wrote a long piece
+      that was just published a few days ago by Democracy Collaborative, that goes over
+      and describes this whole fight by US foreign policy against the principles of
+      international law. And what that does is essentially make the United States, instead
+      of protecting the world from attack and terrorism, become just the opposite. And
+      if you look at what the United States has, essentially claiming today, in NATO,
+      Europe, and other countries, is essentially a declaration of World War three.
+      And so let’s say, how is U.S. foreign policy leading towards World War three?
+      Well, the attack on Iran is to be looked at in the same view of NATO and the United
+      States mounting a coup. Coup d’etat in Ukraine to fight Russia, in using Ukraine
+      as a battlefield, the the fight in Afghanistan. All of these fights that the United
+      States has gone through are essentially threatening the whole world with war.
+      We, I think we’ve discussed briefly before how the whole fight in Iran, I’m sorry,
+      in Ukraine now you have Merz in Germany and Macron in France saying, well, we
+      want to provide Ukraine with atomic missiles to defend itself against Russia.
+      And President Putin responded, if that’s the case, then we are going to preempt
+      this, meaning war with Russia. The enabling fiction of all of Trump’s demands
+      on NATO and other countries. You have to support the United States. You have to
+      pay the equivalent of economic tribute to the United States so that we can afford
+      to have enough money to invest in the eight hundred military bases we have all
+      around you and protect you from the fact that Russia may be deciding it wants
+      to recreate the Soviet empire by marching right back through Poland and Germany
+      to conquer all of Europe. This is such an obvious fiction. It’s so crazy. And
+      yet it’s being used as the narrative to, try to justify, Europe’s, moving towards
+      a very heavy, armament spending, raising its military spending from two percent
+      before to five percent that is supposed to be spent largely on buying American
+      munitions now that Germany and Europe are industrially injured by the fact that
+      they’ve isolated themselves from importing Russian energy. You’re having the threat
+      of war between Russia and Western Europe rise, and you’re having it in Iran, too.
+      Now, the whole Middle East is being engulfed in war, and this war because it’s
+      about oil, and because all of the countries of the world need oil in order to
+      power their factories and heat their homes and provide electricity and provide
+      fuels, and use gas as the basis for their chemical industry, their fertilizer
+      industry. All of this is paralyzing the world’s industry, especially in the last
+      two days, when you’ve had Qatar and others, I think the United Arab Emirates,
+      stopping their gas exports and shutting them down in the last day or two. And
+      it’ll take, it takes a few weeks to restart all of these things. So you’re having
+      the whole world face a choke point. And in the United States, foreign policy has
+      been based on creating choke points and maintaining the ability to weaponize these
+      choke points and to use them to say that, well, if other countries deviate from
+      our rules-based order and they follow their own, economic interests and, sovereign
+      power, then, we’re going to impose sanctions on them, just like we’ve imposed
+      sanctions on Russia and China and Iran and Venezuela and other countries that,
+      disagree with this. So you cannot say that the United States foreign policy is
+      based on promoting free trade, whether in oil or anything else, it’s not based
+      on free capital movements because we’ve seen the sanctions that it’s imposed upon
+      Russia, including the confiscation of Russia’s three hundred billion dollars in
+      foreign exchange savings that it had in euroclear in, in, in Belgium. So, you’re
+      having the actual practice of American foreign policy being diametrically opposed
+      to the US narrative of foreign policy being we’re the peaceful country protecting
+      the world from war instead of bringing war wherever it, feels necessary and protecting
+      the world’s trade, free trade and free movements and, essentially protecting the
+      democracy of other countries to act in their own self-interest. Robinson Erhardt
+      Well, one of the things that I love about having you on the show is that I get
+      to be the audience to these spontaneous lectures. One of the problems with that
+      is that there are always too many questions I have after each time you speak to
+      get them all out. But I mean, one of the things. Yeah, one of the things that
+      really jumps out at me, though, is you said a few minutes ago that you interpret
+      the US’s behavior as a declaration of World War three, or our intent on World
+      War three. And because — even though I’m an American — I’m kind of an outsider
+      of the decision-making apparatus. It’s hard for me to imagine why anyone in power
+      or why any American at all would want World War Three. So it’s a basic question.
+      It’s a speculative question, but who would benefit from it and how? Michael Hudson
+      The benefit, ultimately, is ideological. What this fight is about — between, as
+      I said, the American NATO, West, Western Europe, and its allies, and the global
+      majority. It’s about what kind of economic system we’re going to have. Is it going
+      to be one of neoliberal financialization, privatization, and the kind of policies
+      that were started in the nineteen eighties by Margaret Thatcher in Britain and
+      Ronald Reagan in the United States, where essentially you dismantle government
+      infrastructure, you privatize it, you sell it off. And instead of government infrastructure
+      being used to subsidize economic growth and to lower the cost of living and the
+      cost of doing business by avoiding natural monopoly charges, for instance, in
+      water, you’ve replaced government supply of water at cost or at subsidized rates
+      with Thames Water in Britain. That’s the perfect example of the Western version
+      of the alternative to how the West, Western industrial nations developed themselves
+      in the nineteenth century. And if you look at, you know, how Britain and Germany
+      and the United States developed all of their industry? Well, I think we’ve discussed
+      before how the whole spirit of industrial capitalism was revolutionary, first
+      in Britain. They said, if we want to make Britain the workshop of the world, we
+      have to lower our cost of food, our cost of living, so that our employers do not
+      have to pay our labor force enough money to rely on British landlords making enormous
+      land rents by blocking foreign trade. We need to free the economy from economic
+      rent of all forms, and every economist from Adam Smith through John Stuart Mill
+      and Marx. and the whole movement to, essentially, break the power of landlords
+      and the power of monopolists, to create rent-extracting monopolies and prices
+      that raise the cost of living and the cost of production. The whole fight against
+      them was a movement to strengthen governments, authority to lower the cost of
+      production, and essentially to do what China’s doing today. And when today you
+      have the United States saying, well, we’re a democracy. China is an autocracy.
+      And yet what China has done is reinvent the same wheel that, Britain, Germany,
+      France, the United States all followed to get rich government subsidy, protective
+      tariffs, import control, minimizing the ability of monopolies, to be created,
+      such as the Americas, antitrust act of eighteen ninety, and the protective tariffs
+      and the one thing that China has done that was not done in Europe, in the United
+      States was to treat money itself as a public utility to be provided to finance
+      industrial growth. Germany began to do this in the nineteenth century. And you
+      had German banking evolve along very different lines from British and American
+      English-speaking banking. German banking essentially, wanted to create money and
+      banking in a kind of in conjunction with heavy industry and with the government.
+      So you had a three-way, between governments, banks, and industry. And that’s what
+      led Germany to become so successful in catching up and surpassing Britain so rapidly
+      with its industry. Same thing in the United States, in the United States and Europe,
+      the whole movement towards government regulation to prevent rent seeking and exploitation
+      was called socialism, and socialism wasn’t a bad word. You had the leading American
+      protectionists. I think I’ve mentioned Simon Patton before. The first American,
+      an economics professor at the first business school, the Wharton School, said
+      that government infrastructure spending, public spending, is different from industrial
+      capitalist spending. The industrialist wants to make a profit, and the industrialist
+      earns that profit by organizing, industry, organizing the supply, organizing the
+      production, organizing the market. But a government infrastructure, first of all,
+      is mainly natural monopolies, like transportation, such as the Erie Canal, or
+      its public improvements. that are, basically lowering the cost of doing business,
+      and providing basic needs at the lowest cost possible to make the economy low
+      cost. So the return on government investment, Patten said, is the degree to which
+      it lowers the cost structure of the private sector. And to him, that was socialism.
+      It was social spending. And, Patton was one of the many leading American economists
+      who had been trained in Germany with the historical school. And Patton essentially
+      broke away from the American Economic Association. That was very narrow minded
+      free trade, very, on the way to today’s neoliberalism, and it founded the American
+      Sociological Association. You had a whole extension of national strategy and economic
+      thought into the social consequences, which were called externalities by economists
+      and what Patton said. Well, government, regulation, and government investment
+      is all about externalities, in the way that he said. So, leading up to World War
+      I, the whole world thought that it was moving towards socialism. Then you had
+      the rentier interests fight back. The landlord interests, the financial interests,
+      and the monopoly interests all got together. And, I described this in my book,
+      Killing the Host. John Bates Clark in America said no such thing as economic rent.
+      There is no distinction between value and price. Everybody earns whatever they
+      want. It doesn’t matter how they earn it, as long as they earn it, it’s their
+      income. And all wealth is earned by being productive. And that’s the opposite
+      of what classical economics is all about. Well, your question relates to the modern
+      world — the modern world wants to go back to the fact that said, well, wait a
+      minute, there is a difference as to how you make your wealth. And, we in other
+      countries don’t want to let, the neoliberal free market enable, companies to come
+      in, create, absorb rivals, create monopolies, extract monopoly rents, use their,
+      the wealth that they gain by monopolistic ways and by financial ways to buy control
+      of government and to lower the taxes on financial wealth, on real estate wealth
+      and shift them on to labor and industry. We want free labor in industry from the
+      tax burden and, and you make the government either self-financing or creating
+      our own money, which is what China does. So you’re having two different philosophies
+      and the economic philosophies of how to develop. And that’s really what this whole
+      World War three is all about. Is the United States going to do what Donald Trump
+      says it’s about to prevent other countries from decolonising their economies and
+      creating trade in their own currencies, and avoid having to send their foreign
+      export earnings to the United States? And essentially use their savings to finance
+      their own industrial growth and their own development. So successfully by following,
+      you could call it the Chinese model. And before that, it was the Japanese model.
+      But the one thing these. The most rapidly growing economies. And now it seems,
+      Russia. Also, if you’re looking at GDP, it’s part of it. The other countries of
+      the world are growing and industrializing rapidly, raising their living standards,
+      living conditions, and social conditions, while the United States and Europe,
+      and its allies are going in the other direction there. loading their economies
+      down with debt. they’re, essentially have such a, they’re polarizing so that almost
+      all of the growth in wealth that is financial fortunes since the two thousand
+      and eight junk mortgage crisis. All this growth of wealth has been to the financial
+      sector, finance, insurance, and real estate, the fire sector, in the United States,
+      other countries have not followed this. Other countries have used their wealth
+      essentially to the wealth that’s been recycled into new research development,
+      the building of new factories and tools, and means of production to increase their
+      productivity. Whereas the industrial productivity and labor force, and research
+      and development in the United States and Europe have all been cut back. So the
+      what’s the what does that leave the United States with only the ability to try
+      to monopolize, foreign, foreign trade to say, well, all right, we’re going to
+      try to, not only monopolize oil, but also information technology and, the, the
+      whole, Silicon Valley companies of social media platforms, we’re going to have,
+      we can make monopoly rents off the rest of the world as long as we can prevent
+      other countries from producing these same products abroad in their way, which
+      would make them independent of the United States. Well, you can imagine how the
+      gauntlet that this has thrown down with other countries. Are you going to develop
+      your own technology for your own use to enrich your own populations and recycle
+      into economic growth? Or are you going to let your main choke points, information
+      technology, oil, and other exports controlled by the United States, be a means
+      of subsidizing and essentially paying tribute to the US economy? That’s what,
+      that’s what the fight is all about. Robinson Erhardt So it seems like it’s all
+      about this, which is sort of what you said at the beginning. It’s an ideological
+      war about the global economic structure. One problem that I see with this hypothesis,
+      just facially, when I first look at it, is that it seems, at least the media portrays
+      it in this way, that this is really Donald Trump’s war. He called the shots, and
+      I just don’t see him as being this ideologically savvy that he really cares so
+      much about this ideological, global economic war. So I just wonder where you see
+      him and his administration fitting into why this is happening right now. Michael
+      Hudson I think you’re quite right. In practice, Trump is following exactly the
+      same policy that the Biden administration was following. And it’s the neocon strategy.
+      I mean, you have way back in two thousand and one, General Wesley Clark said,
+      well, we’re going to invade, seven Near Eastern countries in five years, and we’re
+      going to control the Near East, because if we can control the Near East, we can
+      control the world oil as long as we can block other countries from trading with
+      any other oil-producing areas. So you have this is a quarter century policy in
+      the making. And what Trump has made a difference. You could say that one of the
+      main aims of US foreign policy under Trump is to make personal gains for himself
+      and his family and his coterie of insiders. And the way of doing this is not only
+      to go to the Saudi Arabians and the United Arab Republics and say, ” Will you
+      make big loans to my family, for real estate? will be glad to support your countries
+      and give you defense against Iran. If you make loans that’ll help us become millionaires,
+      so that Trump can become a millionaire, just like the Clintons became. So you
+      have, you have Trump essentially putting foreign policy up for sale to the highest
+      bidder. And of course, the highest bidders are the people who’ve been the neocons,
+      who’ve been controlling American foreign policy all along. And I think, Trump’s
+      mega policy, Make America Great Again has been called “Miriam Adelson Governs
+      America,” because she paid him two hundred and fifty million dollars, a quarter
+      of a billion dollars to name Marco Rubio Secretary of State — to back Israel and
+      the single largest backer of the senators and congressmen, has been, AIPAC and
+      its allied, you know, pro-zionist, political action organizations. So, yeah, you’re
+      having that degree of, what used to be called corruption, putting economic and
+      political policy up for sale, is the characteristic of American policy. And the
+      only thing that makes Trump different from the other, the former neocons and the
+      Democrats, and even former Republicans, is the degree to which he wants his family
+      and friends to benefit personally, from all of this. But the policy is unchanged.
+      Only his personal benefit, and let’s call them idiosyncrasies are there. Robinson
+      Erhardt Well, since you mentioned Israel, another question I have is, at least
+      naively, what I’ve always been told and what I’ve thought is that our alliance
+      with Israel is largely based on the need for the United States to have a strategic
+      foothold in the Middle East. But many people I’ve spoken to have told me that
+      this is wrong and it is naive. So I wanted to ask you — [interrupted] Michael
+      Hudson Absolutely not. Okay, so I’ll give you an example. I worked with the Hudson
+      Institute from nineteen seventy two through about nineteen seventy five, and that
+      was a major national security institute today. And one of my colleagues was Uzi
+      Arad, who became the head of Mossad and the head of Netanyahu’s chief national
+      security advisor. And one day — I think it must have been nineteen seventy-three
+      or seventy-four — we were, we’d made a number of trips to Asia together to Japan
+      and Korea, and we had a stopover in San Francisco. And there we met a number of
+      generals and usual military types. One general ran over, threw his arm around
+      his Israeli colleague Uzi, and said, Here is a landed aircraft carrier over there.
+      You know, we depend upon you to, you know, control the whole region so that we
+      don’t have to. Uzi looked quite uncomfortable for the whole thing, but what could
+      he say? So the United States, from the very beginning, has said, well, we don’t
+      want to have to bear the expense of fighting with our own army in foreign countries,
+      because our own army loses every fight we’re in. We lost in Vietnam. We lost in
+      Afghanistan. We don’t want to get involved in the Near East because it’s a hornet’s
+      nest. So we have two client Armies. First of all, they depended on Israel to control
+      the region, and now, with Israel, which is allied with al-Qaeda. So America’s
+      essentially fight, under Brzezinski in the Carter administration, the Russophobia,
+      which led Brzezinski to fight in Afghanistan, led to the creation of al Qaeda.
+      And America has thrown its whole support for the last few decades behind al Qaeda
+      to essentially terrorize, first Iraq and then, tear Syria apart, from that side.
+      al Qaeda and ISIS have worked hand in hand with Israel, never ever attacking each
+      other. So both of these countries are using ethnic terrorism to essentially dominate
+      the region on behalf of the United States. So, of course, there’s, let’s say,
+      a harmony of interest between Israel and the United States. And that harmony of
+      interest goes way beyond merely the fact that Israel and Zionists contribute a
+      lot to American political candidates, because essentially, Congress gives large
+      monetary grants to Israel. Israel takes some of the monetary grants and recycles
+      them into AIPAC and other groups to back the politicians who’ve given Israel the
+      money that ends up partly recycled into their own pockets. Well, look at what
+      was said yesterday or two days ago. He said, ” Well, we knew that Israel was going
+      to attack Iran because for the last fifteen years or so, Netanyahu said again
+      and again the fiction, the great lie, that it was about creating an atom bomb.
+      Israel wants to conquer the oil-producing areas for itself. Way back in the seventies,
+      I knew a number of Israeli security people, and they were all joking. How did
+      God not lead us to Saudi Arabia? You know, why didn’t he put it there? I mean,
+      they want control of the oil. And the United States is quite happy to let Israel
+      take control of this oil as long as it administers it on behalf of the United
+      States, along the same lines or similar lines that Saudi Arabia is indeed doing.
+      So, yeah, it’s, Rubio said, well, we knew that the, that Israel is going to attack
+      Iran. And so we think that Iran feels for some reason that America is so close
+      to Israel that America will attack us. So we wanted to attack Iran before it had
+      a chance to respond to us fighting it. And we attacked Iran because Israel attacked
+      at first, and we. And Israel has created such a big problem for us by inflaming
+      the Near East that we would have been collateral damage. And we want the Iranians
+      to be the collateral damage. I mean, I’m paraphrasing him, but it’s all. The quote
+      has gone all over the media. So just listen to what the Americans say. Robinson
+      Erhardt I also like this phrase that you used harmony of interests. And we, we
+      know that Israel exerts a lot of political influence in the United States. But
+      I’m wondering if a very simple way of putting it is that you think this would
+      be reasonable. Reasonable: insomuch as we’re construing this war as the United
+      States’ interest, as an ideological war about global economic structure, is the
+      main harmony of interest that we use Israel to advance these goals, and Israel
+      uses us to help with their national security and other, maybe domestic political
+      interests. Michael Hudson It’s way beyond Israel. Look at you. Could you say the
+      same thing about Ukraine? Ukraine is a terrorist country indulging in ethnic terrorism,
+      saying, we are human beings. Russian speakers are subhumans. They are not human
+      beings that we have to exterminate them — our fight against Russian-speaking Ukrainians
+      is a fight to exterminate them, to essentially ban their speech. Essentially,
+      you could say that Ukraine is Europe’s and America’s Gaza area. Very similar.
+      It’s a similar ethnic cleansing. It’s a similar philosophy and a similar behavior
+      of foreign policy that goes way, way beyond Israel. You can look at the other
+      terrorist groups that America supported al Qaeda, in Afghanistan, another, a terrorist
+      group, that the whole Taliban, movement, the whole religious extremist movement
+      that you have everywhere from, the, the, Wahhabi Sunni Arab countries, to, make
+      an ethnic, war against, other, Islamic groups and anyone who’s not a Salafist,
+      law, to the Israeli war against the Palestinians, to the Ukrainian, war against,
+      the, the Russian speakers, they’re all very, very similar and they have the same
+      approach. And that’s what makes American foreign policy terrorist. It’s not protecting
+      the world against terrorism. It is the terrorist policy threatening the whole
+      rest of the secular world, saying, wait a minute, everybody’s a human being. It’s
+      a crime against humanity to do what Ukraine is doing against Russia. It’s, it
+      breaks all the rules of war that are laid down by the UN charter, just as they’ve
+      accused Israel of doing it, and you could say they could bring the same charges
+      against the Saudi Arabian Wahhabi group for financing al Qaeda. So all of these
+      terrorist groups that are America’s alternatives to socialism, it’s America’s
+      alternative to other countries acting democratically in their own interests to
+      support their own national growth instead of that of the United States. This is
+      what, What other countries are finally coming to realize? And it’s such an in
+      such a contrast to the narrative that we’re the good guys, we’re protecting you
+      from terrorism when we’re the terrorists. Robinson Erhardt I’m surprised to hear
+      you so strongly condemning Ukraine, just because most commentators, especially
+      those on the left, that I hear are much quicker to talk about Russia as the absolute
+      unmitigated evil in this conflict. So I’m just wondering if you could explain
+      a bit more about how you view that conflict more broadly, especially because,
+      as we continue to talk, I imagine it’ll be one of the conflicts that is most vital
+      to contemporary US foreign policy. Michael Hudson Well, I think. The Soviet Union
+      fell apart in the late nineteen eighties because there was a universal perception
+      that Stalinism didn’t work, that it just didn’t work. And they, and they were
+      invited, the, they thought, well, what’s the opposite of Stalinism? They fell
+      for the fake Russian narrative that, well, Stalinism is communism, Russia’s communist,
+      Russia’s socialist. Well, it’s not at all. It was Stalinist. It was a bureaucratic
+      collectivism. It was managerialism. You could call it. But the one thing you could
+      hardly say is that it was socialism. Unless you want to identify socialism as
+      everything that’s bureaucratically inept and bad. They invited the Americans and
+      the IMF, and the world Bank to try to redesign Russian society. And the hope was
+      that the Americans and Europeans would help make Russia recover and create an
+      industrialization along the lines that Europe and the United States did. But that’s
+      not what the United States did at all. They created a kleptocracy, a disaster
+      of economic crisis, essentially broke down the government, and put in a kleptocracy.
+      Register the factories, the oil reserves, the nickel companies, and the electric
+      utilities in their own name. And, you had the population fall by so many, far
+      over ten million people, that when President Putin came to office in two thousand,
+      two thousand, he said, almost as many Russians lost their lives as a result of
+      depending on the United States for that, it was going to help Russia develop industrially
+      instead of dismantling it. is, Russia lost in World War two. So, Russia had no,
+      gradually, Putin realized, well, Europe is not trying to help us at all. It just
+      wanted to disengage. The United States kept pushing NATO forward. I’ve been reading
+      the speeches of Foreign Minister Lavrov and President Putin for years. and I’ve
+      followed Russian history very closely from, the time that I was a child, because
+      of my family and, the, Russia, the last thing Russia wanted was to re-create the
+      Soviet empire because actually, Russia had made sacrifices, bizarre as it seems,
+      and is oppressive and inept, as inept as Russian administration of Central Europe
+      and, was, and from East Germany to Hungary and Poland, Russia had sacrificed much
+      of its own wealth to help support the, the communist countries, to the west, although
+      obviously the support was, not appreciated because it was so inept and inherently
+      bureaucratic and corrupt. So, it was the United States, deciding, well, now that
+      communism has fallen. Now, let’s extend NATO eastward, and they turned NATO instead
+      of a defensive organization into an offensive organization with the idea of recreating
+      a Yeltsin-type kleptocracy in Russia and, ideally, breaking Russia into five different
+      regions. and that became especially the case after the effect of the US, NATO
+      expansion was to drive Russia together with China. And that made the United States
+      Redouble its efforts against Russia, thinking that if we can drain Russia’s economic
+      energy by fighting in Ukraine, it would. Peter and go broke. And this will lead
+      the population of Russia to want to overthrow the Yeltsin regime, overthrow the
+      Putin regime, and overthrow the existing regime, and bring back a US-oriented
+      Russia. That was the dream. And it was a silly dream. But that’s what they believed.
+      And they said also that by draining Russia’s military power, it won’t be able
+      to really support China, which is our real enemy, because China provides not simply
+      a rival, but an alternative form of economic organization, industrial socialism.
+      That is the real threat because of America, were it to follow the same logic that
+      has made China so successful and industrial. Then there goes the fire sector’s
+      control. There goes the financial control. There goes the real estate, rentier
+      capitalism, rentier finance, and capitalist control. So I think Russia was under
+      attack. And, the result is that just reading the speeches of the Russians, you
+      can find, if anything, a disgust that Putin feels with the behavior of Germany,
+      France, and Britain, and all that, all that Russia wants to do is say, well, you
+      know, we’re turning our eyes eastward. We don’t, you know, you America, you can
+      have Europe. We don’t need it. I think yesterday, Putin said we’re now, Europe
+      doesn’t have to impose sanctions on Russia’s gas and oil. We’re stopping our gas
+      exports to Europe. Now that Iran has essentially destroyed much of the Middle
+      Eastern gas export capacity, we’re now shifting our gas exports to our more friendly
+      allies in the east. So, you know, this is the basic geopolitics, and there’s just
+      a Russophobia in Europe, in the American press. It’s, it’s, and you’re right,
+      much of the left is the Democratic Party. They’re not really the left at all.
+      There’s, they’re it’s Russophobic. Robinson Erhardt Again, to use your phrase,
+      on a very large scale. You view World War three as being about ideology and global
+      economic structure. But then you also said more locally within Iran. This war
+      is about oil. First and foremost, is that correct? Michael Hudson Yes, yes, because
+      oil is such a key to the American balance of payments. And I mean, for one thing,
+      economists don’t really know when they talk about trade theory, it’s all general.
+      It’s an export or something they’ll call widgets, but they don’t look at the actual
+      statistics for oil. That was my job on Wall Street at Chase Manhattan in the nineteen
+      sixties, to study oil in the balance of payments. And then, the same for Arthur
+      Andersen and for the United Nations. So I and I worked very closely. I think the
+      balance of payments is something that isn’t taught in universities and certainly
+      not, specifics like the form of the oil industry. You almost have to work in the
+      field. And I was walked through it by the treasurer at Standard Oil of New Jersey.
+      That was one of the backers of the statistical studies that I was doing for Chase.
+      Well, I became, I was the only guy working on it. Robinson Erhardt What I was
+      going to ask, though, is granted, we’re not actually at war in Ukraine and Russia.
+      What is this war about for us? For Trump. Michael Hudson The attempt to hurt Russia,
+      the only way, the only tool that America has left to it, is the ability to hurt
+      other countries to create chaos. And so the Americans say we have something to
+      offer you and the other countries that no other country has to offer. And you’re
+      really going to want to take our offer? What we can offer you is to refrain from
+      deranging your economy and causing chaos by suddenly closing the American market
+      to you, which you’ve come to depend upon. imposing sanctions on you or overthrowing
+      you with regime change. So if you back us, we will agree not to hurt you. We’ll
+      stop hurting you if you give in to joining our sanctions policy so that we can
+      break up Russia, break up Iran, and then finally confront China and try to break
+      it up. Break it up. I mean, that’s the big picture. Robinson Erhardt So at the
+      outset of our conversation today, you mentioned that in discussing America’s foreign
+      policy and how we got here, we wanted to begin by laying out sort of where we
+      are today, and then turning to how we got here. And I’m wondering what the other
+      critical elements or events of foreign policy are today. So we’ve got the war
+      with Iran. We have our relationship with Israel. We have the Russia-Ukraine war.
+      I also imagine maybe we should talk a bit more about our relationship with China,
+      but I also wanted to ask what other events or situations we should be discussing
+      before we turn to how we got here. Michael Hudson It’s whatever you really find
+      important. I mean, there are so many dimensions of this. It’s like an onion. I
+      think the original hatred of Russia was the hatred of socialism. And the fact
+      that Russia really did not provide anywhere near a real socialism that you had
+      at least in Yugoslavia under Tito, was much more successful in that. And, the
+      Chinese, when they decided to develop their socialism or industrial capitalism
+      with Chinese characteristics, the last thing they ever wanted was any was to talk
+      to Marxists from the West. They made that very clear to me, way back in the nineteen
+      seventies. They, they. And the irony is that that was Milton Friedman, from the
+      University of Chicago, going to Shanghai and, essentially, talking about how you
+      need a free market. Government planning cannot possibly be innovative. You need
+      to let a hundred flowers bloom. And it was a sort of adopting this, flexibility
+      of a mixed economy, a strong, social, socialist, social democratic, infrastructure.
+      And that would give free rein to a private initiative and enterprise. And, that’s,
+      that was the perfect mix. China achieved the very mix that Europe and America
+      were going through in the late nineteenth century. So, this is basically it. The
+      United States, when they de-industrialized, when, they de-industrialized and offshored
+      the industry to China under the Clinton administration, they thought, okay, now
+      we’ll just have Chinese cheap labor. We’ll, have American companies come in, they
+      can hire labor and factories over there to produce the goods that were not being
+      made anymore. We’ll import them at a much lower cost than if we had to pay the
+      high costs of American labor. And that was what America actually welcomed. They
+      called it the post-industrial society. So they didn’t call it deindustrialization.
+      There was already in the nineteen seventies, nineteen eighties, a whole discussion.
+      Daniel Bell and others are talking about the post-industrial economy, post-industrial
+      society. There won’t be a working class anymore. No more blue-collar labour. Everybody
+      will be a member of the professional managerial class, basically. And that was,
+      that was sort of the imagery. Well, America’s been trying to maneuver to say,
+      well, if another country, if China, industrializes, you know, let it industrialize
+      and we’re all for it, but we have to be able to get the profits. It has to let
+      American banks create credit and loans to, potential monopolies. Like we American
+      banks would have loved to have financed. Jack Ma’s monopoly and others ended up
+      with all of the stock market and financial gains that they did. But that’s not
+      what China did. China wanted to keep its technology and its innovations, and in
+      itself, and to create an institutional environment that prevented billionaires
+      from becoming, let’s say, what Americans would call filthy rich. Robinson Erhardt
+      I can’t help but think that it’s important to ask, so long as we’re talking about
+      the balance of global economic power, where you see AI fitting into the conflict
+      to come, and our foreign policy, especially with a place like China. Michael Hudson
+      I really think it’s not my specialty. And I really can’t tell, the AI that the
+      Americans are doing is very different from what the Chinese are doing. They focused
+      on robotics, obviously, to a much greater extent. Robotizing factories, the, the,
+      the key to artificial intelligence. Well, it’s precondition is electricity because
+      there are just enormous requirements for electricity to run all of these computers.
+      And secondly, the design of computer chips that America so far has had a monopoly
+      and was hoping on, to have Nvidia show the enormous ability of to make hundreds
+      of billions of dollars by innovating on computer chips. The United States has
+      tried to prevent the Dutch company that’s developed the ultra, Ultra violet etching
+      machinery that costs, I think, twenty million dollars or so for each machine that’s
+      sold. The United States has tried to keep that out of Chinese hands. And the United
+      States, in the last year, has pressed Europe not to permit any Chinese company
+      to own more than fifty percent of a company in China, because China is the enemy.
+      This is a racist policy. The first effect of this was that it said, well, you,
+      to the Dutch government, you’ve got to close down. I’m sorry, I’m not pronouncing
+      it right. Next. That is essentially, battery making, machinery because they’re,
+      they’re keeping control in Chinese hands. And, if, if a company is owned by a
+      Chinese. China is the existential enemy and is a threat to you. instead of looking
+      at China as here’s our growth area that we can partner with China and let it,
+      and we can both benefit. The United States has tried to block it. And the result
+      is that battery makers throughout Europe right now are having real problems getting
+      all of these very simple battery projects that the Nexperia company was, was producing.
+      So, and you’re having a similar, you had a similar fight here over TikTok, where
+      America said, we cannot have a Chinese media platform that is so successful in
+      making so much money. It must be controlled by Americans so that we can use TikTok
+      to censor the discussions there were discussions on TikTok about American foreign
+      policy. There were even criticisms that you shouldn’t have genocide against the
+      Palestinians. And so that new buyers at TikTok had said we were going to, you
+      know, they were going to block certain words. Like if they see the word Israel
+      in anything, they block it. You having, you’re using AI to thought control and
+      essentially, to impose fascism, cultural fascism on the country to prevent any
+      kind of political discussion or economic discussion and analysis that is not America’s
+      mainstream discussion. You had the same thing with Paramount’s degree to take
+      over, which Time Warner let. We have to control all of the media, and we’re going
+      to use automatic intelligence to control the media, to, to scan the internet and
+      to see who’s saying what and to block things you’re having. There was talk way
+      back in the nineteen seventies about, well, the American and the Soviet economies
+      converging. They’re all going in the same way. Well, it turns out they are converging,
+      but people thought that the convergence would be the Soviet Union breaking up
+      and becoming more democratic. And it turns out that the American culture is becoming
+      much more Soviet when it comes to the mass media, who’s who, the centralized control
+      of the mass media in the United States, and the internet, TikTok and, the, the
+      the entertainment and the news that you see on CBS. These days, you have all of
+      this, a heavy degree of censorship. So AI in the United States is used very, very
+      heavily for censorship. I suspect something similar occurs in every other country
+      with AI, and it’s not necessarily very democratic. And it looks like the effect
+      of AI is going to be to polarize economies and to create quite a bit of unemployment
+      of those kinds of labor that can be replaced by AI, such as warehousing. I think
+      Amazon is trying to use AI to replace labor in its warehouses. And, you’ve seen
+      factories in China where entire automobiles are made. The whole assembly line
+      is done by robotics. That’s AI. So it’s transforming things. But to really develop
+      it into something so-called supercomputing requires energy. And the fact that
+      the United States is so committed to letting the oil industry dominate its policies
+      across the board is that Donald Trump has said, well, we don’t want any alternative
+      to oil in the United States or by the green policies of Europe. Talking about
+      climate, control, and getting rid of carbon fuels. Trump – one of the first things
+      he did was to close down the wind energy, windmills, investments that were taking
+      place in the United States, and to prevent solar energy from being developed here,
+      very largely because China has taken the lead in making windmill blades and solar
+      energy panels. So China has used much of the Gobi Desert area is essentially huge
+      solar energy accumulation system to power its AI. Whereas the United States has
+      a problem. How are they going to get the existing electricity that’s needed to
+      operate AI without causing such an overload, low demand for electricity that you’re
+      bidding up the electric prices, and it’s going to cost American workers and American
+      businesses much more money to turn on the lights and operate their machinery?
+      And to run the home. So Trump has said, well, AI companies are going to have to
+      produce their own electricity. And so far, this has turned out to be something
+      very difficult to do in practice because of all of the administrative hurdles
+      that are required to either to create a new electric utility extension or to create
+      even independent sources of sulfur for the company. AI companies are producing
+      their own energy. So America has a huge bottleneck blocking this. And as an economist,
+      I can study the bottlenecks and I can look at the, wealth and income distribution
+      patterns and stock market patterns without knowing that much about actually how
+      the computer systems themselves work and whether it’s all self-referential and,
+      AI, computers tend to make up fictions of their own and can make really, really
+      big mistakes so that, you know, they end up, looking about as sophisticated as
+      Donald Trump. Robinson Erhardt When I asked you how you thought AI would figure
+      into the economics of the future and how it figures into foreign policy, I had
+      not expected that it would be your answer would be so closely related to energy,
+      but it makes total sense, given that a lot of the news that I hear today about
+      AI is. Oh, they’re building these huge warehouses in some rural area that’s causing
+      tremendous power demands, surging power prices, and power surges in nearby areas.
+      So it makes sense that energy is going to be so vital. And I wonder then, though,
+      how this also fits into the shifting energy landscape in that energy today is
+      being increasingly, or it increasingly comes from renewable sources. So how does
+      this fit into the global landscape and dependence on oil, and how is power balanced
+      because of the same? Michael Hudson The United States is a single major backer
+      of exacerbating global warming. Trump is absolutely, set against, withdrawing
+      from the Paris Agreement on climate, as being the, as fighting any non-carbon
+      energy. He’s totally; he acts as if a total lobbyist for the oil industry. And,
+      is this policy one of the most dangerous American foreign policies? I didn’t get
+      into the fact that supporting oil, and controlling the oil trade means, well,
+      what’s the point of controlling the oil trade if there’s an alternative to oil
+      to produce electricity and power? Well, solar energy, windmill energy, and renewable
+      energy is a threat to the American control of that. So the byproduct of this American
+      attempt to use oil is a choke point for the world. The world’s energy is creating
+      a choke point in the form of all of this extreme weather that is sweeping across
+      the entire world right now, causing such destruction. Robinson Erhardt I guess
+      I’d, I’d like to transition now from talking about the present to how we got here.
+      Michael Hudson I know much more about something. Robinson Erhardt Well, then maybe
+      I should let you take it from here. Then. What do you think are the crucial things
+      that we should be looking at first when we ask this question, which is how we
+      got here with our foreign policy? Michael Hudson Well, how I got here from where
+      the last time you asked me a question like that, I began by talking about the
+      Bronze Age for forty five minutes. Robinson Erhardt Well, I feel like two good
+      periods to begin with. Granted that a lot of what we’ve been discussing has revolved
+      around World War three is, maybe it would be good to start around World War One
+      or World War Two, whichever you think makes more sense. Michael Hudson Well, the
+      aftermath of World War I was largely financial, and that was the fact internationally.
+      The Inter-Allied debts. The Americans insisted that Europe pay for the arms that
+      it had bought from the United States before the US entry into the war. My book,
+      Super Imperialism, starts by explaining this whole period and the only way that
+      Britain, France, and other allies could pay their debts that the United States
+      ‘ insistence. That was unique in the past. After the Napoleonic Wars and other
+      wars, allies usually forgave the war debts of each other’s countries because they
+      were all together. But the United States said, ” We’re different, we’re not going
+      to forgive. A loan is a loan. And so the Allies turned to Germany to impose reparations.
+      That created an absolute economic crisis. There was this idea, you could say that
+      the legacy of World War One was to establish that once debts are undertaken, countries
+      have an obligation to pay their foreign debts even before using their, Income
+      and their fiscal resources to, for their own purposes and the fiction that governed
+      economic thought, at the end of World War One, the, the financial sector got together
+      with such a, thought control, such an intolerant autocracy that said, any country
+      can repay its debts if you only cut back your payments to labor enough, if you
+      can only impoverish your labor and industry by enough, you can pay your debts.
+      This is the theory that David Ricardo developed of, it is saying that in Britain
+      can of course, paper credit can be created, but other countries cannot create
+      paper credit. And, the way to pay your foreign debt is to oppose austerity. So
+      Britain, forced into austerity, ended up with a general strike, and I think nineteen
+      twenty-six France imposed austerity, had hyperinflation, and Germany imposed austerity.
+      and by essentially throwing it, Deutschmarks onto the foreign exchange markets,
+      which plunged the market exchange rate against in order to buy dollars to pay
+      the allies to pay the United States. So, you had this, financial dominance of
+      the world economy with one consequence of World War One, and that led to the economic
+      collapse in nineteen of the stock market in nineteen twenty nine, and then the
+      depression that led to World War Two. So you could say World War Two, and fascism
+      was the product of the instability caused by the financial demands by the financial
+      sector to get paid, specifically by the United States financial sector. Therefore
+      the legacy of World War Two was that the United States had ended up with three-quarters
+      of the world’s gold stock, and that enabled it to use gold and bullion as a choke
+      point in the economy. And it said, well, we’re creating the IMF and the World
+      Bank, and, you know, we’re willing to lend you money, in order that you can recover.
+      But you have, you’re not allowed to create your own money. You’re not allowed
+      to do what Britain did with the Bank of England, which created paper currency.
+      You’re not allowed to do what America does. You have to base all of your currency
+      on hard money, on gold or on the US dollar. That was as good as gold. So the result
+      of World War Two was, once again, to create a world economy centered on the financial
+      power of the United States, which initially thought that, well, we can avoid what
+      we did in World War One. We’re not going to insist on moving directly into a depression.
+      We’re going to say that, well, you can depend upon the dollar and, do your trade
+      in dollars in a way that will enable you to develop at the same time. And, the
+      but in order to join this American-centered world order, you have to agree on
+      free trade. Well, the, the, the first geopolitical aim of American foreign policy
+      after World War, during the closing days of World War two, nineteen forty four,
+      was to break up the British Empire. America wanted to absorb it into the American
+      economic area. Dollar area. We won’t call it an empire. I have a whole chapter,
+      two chapters on this in my book, Super Imperialism. And so the United States said,
+      well, the were for, one of the principles of the international order that we’re
+      sponsoring is free trade. Countries can spend their savings wherever they want.
+      Well, that meant the end of Britain’s sterling area during World War Two. India
+      and other British colonies had accumulated very large foreign reserves as a result
+      of their supply of raw materials. So did Argentina and other Global South countries
+      had that. Many of these were sterling area countries. And the Americans made an
+      agreement as a condition for the British loan of nineteen forty four that Britain
+      would not block these foreign savings by its colonies from being spent in Britain.
+      They ended up being spent on the United States because the United States had the
+      industrial power that Britain didn’t have. And other countries were not allowed
+      to devalue their currency in order to gain an industrial advantage. Britain had
+      to promise not to devalue its sterling to a degree that would be competitive with
+      American industrial exports. So you could say that the post-World War II order
+      started with America destroying the British economic empire and also that of France,
+      and other countries that were, and it was founded on pro-creditor rules that ended
+      up with the fact that international debts grew exponentially at compound interest.
+      And by the nineteen eighties, nineteen, you had the whole breakdown of the Latin
+      American debt bomb, the whole Latin American default, the whole nineteen eighties
+      were a period of default among internet among countries. And all the countries
+      wanted to get free from the IMF at that time. They, they, they realized that if
+      they, if a country was having to borrow from the IMF and it said, you have to
+      impoverish your labor force. This is class war. This is America’s foreign policy
+      is a class war against labor, above all. And, in order to pay your foreign debts,
+      you have to agree to reduce your labor. wages of labor. As if that will make you
+      more competitive. Well, of course, it didn’t make them more competitive. The lower
+      the labor costs you pay, the less productive it is. If you impose austerity, you
+      don’t have the money to mechanize production to increase industrialization. The
+      whole of America started World War two with the post-war period, with the ability
+      to crush other countries’ ability to develop. So you had a dual economy developing
+      during the whole post-1945 period. You had more industrialized economies in the
+      West, Europe, the United States, and its allies. And you had the global South
+      countries, the raw materials exporters that dissipated the foreign exchange savings
+      that they’d accumulated during World War Two by essentially being forced to follow
+      free trade, and were blocked from imposing protective tariffs, as the United States
+      and all the European countries had done to build up their industry. They had to
+      agree not to use government subsidy of industry like the United States was doing.
+      And they had to agree not to produce their own food. That was the central role
+      of the World Bank, which was willing to lend money for port development, road
+      development, electrification, and other public infrastructure. But this would
+      mean countries could not develop family farming. They could not undertake land
+      reform to develop their own food production. The tropical countries were obliged
+      to focus on plantation crops from large plantations, largely foreign-owned, such
+      as, most notoriously, the United Fruit Company in Guatemala, and the American
+      government said we will assassinate any foreign leaders or governments that wanted
+      to take control of their own land to feed themselves. They are. Feeding yourself
+      is an. Viewed not only as a threat to American security, meaning our dominance,
+      but as an act of war and it. Wage a war against Guatemala, Nicaragua, and the
+      whole. Almost the whole of Latin America is dependent on the United States for
+      its food. So the United States added foreign food dependency to the foreign oil
+      dependency, that it had, and it fought against any socialist regimes in these
+      countries, culminating in the fight against the Chilean regime, the destabilization
+      of Latin American countries. So you had an increasingly belligerent American foreign
+      policy that was designed to prevent any kind of socialist opposition. And in fact,
+      any kind of attempt by countries to use government to develop their economies
+      along the same industrial, strong government lines that the United States, Britain,
+      and Germany had used to develop their own industry in the nineteenth century.
+      That was, you could say, the shaping force of the world after nineteen forty-five.
+      Robinson Erhardt You mentioned that the post-World War II era was founded on sort
+      of the destruction of the British Empire and the French Empire and these European
+      empires. And I’m wondering if we could just briefly, I know it’s a distraction,
+      I guess, from our main topic, which is US foreign policy and its place in the
+      world order. But what has Europe’s trajectory been since this period, and where
+      is it going today? How relevant is it? Michael Hudson It’s a bit of a diversion.
+      The question is: what is Europe? So that’s a trick question. On the one hand,
+      you have what do the European voters want? They didn’t want a continued war with
+      Russia. They didn’t. They wanted to heat their homes with inexpensive Russian
+      gas. And they wanted to keep being employed by the industrial companies, the chemical
+      companies, and the fertilizer companies importing Russian oil and gas. And so
+      they’re against the Cold War conflict. The new Cold War conflict with post-Soviet
+      Russia. But the leaders of these countries are Merz in Germany, Starmer in Britain,
+      and Macron in France. Look at the first wave of demonstrations by the farmers
+      in France with their tractors against Macron. I think last summer and before,
+      Macron is incredibly unpopular in France. Then you have Starmer in Britain, and
+      you wonder how he ever could have gotten there. You have, the Labour Starmer has
+      destroyed the Labour party, as being the apotheosis, the ultimate trajectory of
+      where Tony Blair had been taking it. And so, Labour just came in third, after
+      the Conservative Party, and even the Greens won, the last by election last week
+      in, in Britain. So, Starmer has essentially ended the Labour Party’s role in Britain.
+      And yet, he’s the prime minister. And then you have Merz in Germany, the hyper,
+      Russophobe, and, you and you have the heads of the European Union, von der Leyen,
+      and both of whom are extreme Cold War Russophobes, and their policies are to intensify
+      the Cold War against Russia to the point of scaling back social spending programs.
+      Also, scaling back the subsidies that European governments have given to homeowners
+      so that, well, it’s true. Now we know that it’s more expensive now that you’re
+      buying U.S. liquefied natural gas, and four times the price that Russian gas would
+      have cost. So we’re going to give you a subsidy so you can afford to heat your
+      homes without suffering a decline in your living standards. Well, the, the, the,
+      the Russophobe leaders have said, well, it’s, we’re, we’re going to end that.
+      We’ve really got to devote our GDP much more to the GDP that in the past was based
+      on social spending and helping your standard of living and keeping your employment
+      going. Now we’re abandoning all this. We’re sacrificing ourselves in the same
+      way that our Ukrainian Democratic friends have done by engaging, accelerating
+      our Cold War against Russia, because if we don’t fight them, you know, who knows?
+      They’re going to be walking right through us on their way to Britain. So, what
+      is Europe? Is Europe what the people want? Or is it that the governments of these
+      countries, especially the European Union, are so anti-labour, so anti-industry,
+      so willing to sacrifice German industry and European industry in general in order
+      just to indulge in their hatred of Russia, that they’re willing to impose chronic
+      depression on European industry? That, of course, now is greatly exacerbated by
+      what’s happening in, in the Middle East, the, There’s a question of whether the
+      European Union can remain. The European Union has just said, we’re abolishing
+      the principles of the Constitution. Forget what we wrote. If the Americans can
+      ignore their constitution, we can do the same thing. We’re a democracy. We’re
+      whatever the leaders tell us to do, we will do and forget the Constitution. Forget
+      the written law. We’re essentially going to prevent the main constitutional feature
+      of the EU was that it has to be unanimous, in that any country has the right to
+      veto war spending and war power. Well, you have Hungary and Czechoslovakia. I’m
+      sorry. The Czech Republic, slip of the tongue from my childhood usage, thing.
+      Well, wait a minute. We don’t we cannot afford to go to war with Russia, and we
+      need Russian oil. The Ukrainians have just blown up the Russian pipeline that
+      was feeding oil to Hungary, threatening to cause a whole crisis there. And, the
+      Europeans are essentially have just, abandoned NATO. They said NATO knows the
+      rules of NATO no longer apply. The whole Enabling fiction of NATO was that if
+      one country was attacked by an outside, we would all support it. They now say
+      we will not support you if you’re attacked by a country that we like, like Ukraine,
+      and we don’t like you. So, of course, any European country can be attacked at
+      will by Ukraine or us or whoever wants, as long as they’re not a right-wing, financialized,
+      neoliberal country. Well, this is not what the EU was supposed to be. It wasn’t
+      supposed to be a neoliberal, polarizing country. As an adjunct of NATO. And now
+      that you have, the EU foreign policy leadership and the, the, fight, the, you
+      could call it a legal civil war of the, of NATO against Hungary and the Czech
+      Republic and other countries, members that want to say we don’t want to sacrifice
+      our economic growth, just to fight Russia when Russia hasn’t attacked us. And
+      it’s all a myth. You’re making up all these stories. This is all a fiction. The
+      emperor has no clothes. You know, the reality is we were doing just fine. Getting
+      inexpensive Russian oil and gas and making Russia a profitable market for the
+      industrial exports that we were making. There was a circular flow that was very
+      good. And now you stopped it just because you personally and ethnically hate Russians
+      and you’ve. You’re in. You’ve recovered the neo-Nazi. The old Nazi fight that
+      the Russians and the Slavs are genetically inferior to the rest of the human race.
+      We don’t believe in that genetic inferiority. This is. This is abhorrent. The
+      reality is that the World Bank and every other observer says Ukraine was the most
+      corrupt country in the Northern Hemisphere, that is, in America, says Ukraine
+      is the democracy that we’re fighting for, just as Israel is the democracy that
+      we’re fighting for. And the third great democracy we’re fighting for now is al-Qaeda
+      in Syria. Well, look at the three democracies that America’s holding up to protect
+      the world and its allies against autocracy, which are involved in racist ethnic
+      cleansing. What does that tell you about how the world is splitting up? So any
+      rate, that was a long answer to, to Europe. Europe one has the European leaders
+      have decided that, the wrong country, one or, one World war two and that, they’re
+      going to refight World War two. And this time the Germans are going to win. I’m
+      paraphrasing. I think that’s the inner meaning of chancellor emeritus, speak.
+      Germany is going to win the war against Russia this time. And this is crazy, but
+      that’s, that’s our ally. Germany is our land. An aircraft carrier. You could say,
+      or an atom bomb carrier now, along with France, in the war against Russia. Robinson
+      Erhardt Again, I’m taken by your description or discussion of racism and ethnic
+      cleansing in Ukraine, because, I mean, I’ve done a number of dedicated episodes
+      about Israel and Palestine. And for those, I read many books. So I’m at least
+      aware of this. I have a basic awareness of the issues going on. I’m not a scholar
+      in these subjects, but I haven’t done that with Russia and Ukraine. And I remember
+      at the outset of the war, hearing that this was one of Putin’s motivations, that
+      there was persecution of Russian speakers in Ukraine. But I thought. Michael Hudson
+      And persecution, murder, mass murder, and bombing of their apartments. Destruction,
+      killing. open killings. Robinson Erhardt And what I had heard, though, at the
+      time was that this was overblown. And not actually the case. And it was just an
+      excuse for Putin to annex territory. So it’s interesting for me to hear from you
+      that this is very much the case. Michael Hudson Well, read the speeches of Zelenskyy.
+      And, I think, Lavrov has certainly given his speeches. Describe the history, case
+      by case, in great detail, the burning of all Russian language books, in public.
+      The banning of the performance of Russian music by Russian composers. The banning
+      of plays written by Russian playwrights. I mean, all of that is so well documented.
+      Robinson Erhardt Yeah. Well, I mean, one thing it tells me is that I need to do
+      some dedicated episodes on this topic, just so that I have an excuse to spend
+      more time studying it. But you mentioned earlier, you alluded to Europeans alleging
+      that we’re ignoring the Constitution, so why can’t they ignore the Constitution,
+      their own constitutions? And I happen to be taking a constitutional law course
+      here right now. So I’m just particularly curious what about our Constitution?
+      Do they or do you think that we’re ignoring right now that’s particularly relevant
+      to our discussion? Michael Hudson Well, in both cases of Europe and the United
+      States. The First Amendment protects free speech. You can look at what the United
+      States has done to punish the judges of the International Criminal Court who ruled
+      that Netanyahu and Israel were war criminals, and against the UN, the United Nations
+      rapporteur, who essentially presented the case against Israel. America has blocked
+      the judges and the UN rapporteur from traveling to the United States has frozen,
+      all of their assets in the United States has prevented the judges from, using,
+      credit cards, for instance, has done, essentially has waged a personal war against
+      them saying if any member of the quorum of the International Judiciary or the
+      United Nations takes the policy that criticizes the United States, we will make
+      life personal hell for them. They do not have free speech. There’s also the move
+      in the last month against a Swiss military historian — Baud — whose work was very
+      good. They’ve essentially confiscated all of his money and banned him from the
+      internet. You have, you have in Britain, the criminalization of making a public
+      speech, criticizing Israeli policy against Palestine, or criticizing Ukrainian
+      policy against the Russians. You’ve had a criminalization of free speech from
+      the, in Europe, From Europe, the EU, to the United States and Britain. So you’re
+      having all of these principles of constitutional law in these countries. And I
+      wrote in my article that I wrote on Democracy Collaborative a few days ago. I
+      go into all of the elements of international law and the Constitution that the
+      United States has banned in its fight against the United Nations. Reporter and
+      judge. Robinson Erhardt Well, thank you for entertaining these digressions and
+      tangents going back to — I mean, sorry — the United States’ trajectory from World
+      War One to the present. When exactly was the apex of American and Geopolitical
+      American economic and geopolitical power in this time period throughout the world?
+      In the world. Well. Michael Hudson The idea convinced the Europeans that what
+      was at issue was private property, in debt, and that Europe’s government debts
+      to the United States were, if the debts were not paid, that was a threat to the
+      private property system. And that was socialism. So every means that Europe had
+      for economic survival of its economies to avoid economic collapse that led to
+      fascism was deemed socialism, just as, in Latin America, every attempt that governments
+      made to achieve self-sufficiency in trade, self-sufficiency in their food that
+      they could produce at home instead of importing, was called, socialism, and the
+      demonization of, any government investment itself, any price regulation, any anti-monopoly
+      or, action was considered an interference with the free market, the free market,
+      meaning, there are no rules at all to provide, rentier exploitation, no rules
+      to prevent monopoly rent, no rules to tax away land rent, which was the core policys.
+      As I said, from Adam Smith through John Stuart Mill to the Communist Manifesto
+      to the entire, nineteenth century liberal movement of a free market, meaning a
+      market free from rent seeking a market free from landlordism. A market free from
+      monopolies. The whole economic vocabulary was transformed. And you could say the
+      apex of American policy was to create a new fictitious narrative of how economies
+      really developed, how Europe and the United States had successfully industrialized
+      their own economies as a whole. And as we discussed in one of our first interviews,
+      a rewriting of the origins of civilization, as if it all began as if Margaret
+      Thatcher and Ronald Reagan got in a time machine and went back to Sumer and Egypt
+      and created a free market. And that’s what created money and interest and all
+      of civilization, whereas there never would have been a civilization if Margaret
+      Thatcher and Milton Friedman had been advising the kings of Mesopotamia, Babylonia,
+      and Egypt. Robinson Erhardt Well, I imagine it is quite, quite difficult for you
+      to predict the outcome of current events quite specifically, like what’s going
+      to happen over the next week or two, let alone a few months in Iran, for instance.
+      But I wonder, given that we’ve spoken about the trajectories of the United States
+      of Russia, of Europe over the last hundred years or so, how do you see that playing
+      out today and in the years or decades to come, like what’s happening in this global
+      conflict over economic structure? Michael Hudson Well, Donald Trump, in the last
+      week, has said this war is going to be over in four weeks. But it’s not going
+      to be over in four weeks. It’s going to go on to the point where it creates an
+      economic depression in Western Europe, and in other certain other oil using countries.
+      Now it’s true, they all have oil reserves. America has huge oil reserves. Europe
+      has it. They’re going to, there’s going to be enough transition to avoid a quick
+      depression because Europe is going to use up its oil reserves to prevent economic
+      collapse, which would mean the political collapse at the polls of the leading
+      Russophobic policies. But the fact is that the whole financial trajectory that
+      the West has taken since the nineteen eighties is, is going to break down. It’s
+      been polarizing all the growth in wealth in Western Europe and the United States
+      has accrued to the mainly to the wealthiest one percent of the population and
+      at most the wealthiest ten percent. The ninety percent are being impoverished.
+      Something has to give. Well, there really isn’t any left wing anymore. That’s
+      the left wing. Doesn’t the ideology and the the the. Based on the value and rent
+      theory that used to be socialism. Value, price, and rent. How do we bring prices
+      in line with the actual cost value to minimize the cost of living and doing business?
+      So we can use the economic surplus to finance our own growth? All that’s gone.
+      So you’re going to have China and other countries trying to pull ahead further
+      and further by using government as the coordinator and engine of growth, and the
+      Western countries opposing government, with neoliberalism, shifting economic planning
+      away from the government sector to the financial sector. So you’re going to have
+      a Financialized West, becoming increasingly polarized and impoverished compared
+      to a more balanced public-private, throughout the Asian countries and Russia,
+      that are joining together, more and more. And, the focus really is going to be
+      on China, Russia, and Iran. It’s not possible, really, to see what the other BRICs
+      members are going to be; there really isn’t a BRICS ideology yet. There’s no ideology.
+      It’s as if the rest of the world is acting just improvisationally on an ad hoc
+      basis, without any kind of economic or theoretical context for what the purpose
+      of our growth is. What’s the purpose of government, and for that matter, what’s
+      the purpose of this Cold War? What does America want to achieve by conquering
+      the war with Iran, except to carve it up and end up making Iran look just like
+      Syria? We’ve destroyed Syria, Iraq, and Libya. Is the world going into the Middle
+      East and end up like Libya and Syria, with al Qaeda and Israel together governing
+      it? Or is it going to become more self-sufficient? Saudi Arabia and the other
+      Arab countries said, well, America promised that it would protect us. And that’s
+      why we made all these loans to the United States and kept all our investments
+      in the United States. But the United States didn’t protect us. Look, Iran has
+      blown up our gas export capacity. They’ve blown up our oil world. They’re they’re,
+      hitting us, at, well, maybe, we cannot depend on the United States in Europe anymore.
+      And Europe apparently has said we’re going to join the United States, attack Iran,
+      and come in. And so that, you’re going to have the threat of it spreading. And,
+      if Macron and Mertz succeed in actually giving Iran an atomic missile, to say,
+      you know, now send it to Moscow and Saint Petersburg, Russia’s already said we’re
+      going to retaliate against the countries that produced the missiles, and Iran,
+      we realized our fight isn’t with Ukraine. Ukraine is merely the battlefield, the
+      arena. Our fight is with Western Europe acting as a U.S. proxy. And, if we’re
+      really threatened, existentially, with an atomic bomb from Europe. There won’t.
+      I think Putin said, the war will last one day, there won’t be any more Europe.
+      So, you know, that’s what it’s all about, confrontation. I think this time you’ll
+      have, just as Iran is fighting back, you’ll have Russia fighting back and China
+      fighting back, a spreading conflagration, at the same time that there’s a, a polarization
+      and deindustrialization and economic depression in the West. Robinson Erhardt
+      So given that we’ve spoken so much about Iran today, maybe it would come as a
+      surprise to you that I’m surprised to hear you say that the focus going forward
+      will be on China, Russia, and Iran. But China and Russia, for a long time, have
+      been discussed as I mean, these other crucial powers in the world order. And I’m
+      wondering if Iran is so important just because there’s this war going on there
+      right now, or if it’s because it’s important for the balance of powers in the
+      Middle East, or because of its connection to oil, or just because it’s representative
+      of something larger. Michael Hudson Eighty percent of Iran’s oil exports go to
+      China. Now, it’s true that only five percent of these exports are imports of oil
+      from Iran. But China is dependent on Near Eastern oil, as are other countries.
+      And it realizes that this fight in the Near East is for American control of oil
+      with the intent of depriving China of oil from either Iran or the OPEC countries
+      generally. And just I think in the last twenty-four hours, you had Britain, I
+      think, a Russian tanker off Gibraltar and carrying oil that, Europe has said we’re
+      going to block Russian tankers from access to the Baltic so that other countries
+      cannot import Russian oil. And, all of this is an attempt to squeeze China. China
+      will be hurt by the inability to obtain access to oil, which drives its industry
+      despite all of its leadership in creating alternatives to carbon fuels; it still
+      needs it. So China needs Iran, and to use Iran is the protection against al Qaeda
+      and the crazy, vicious Wahhabism that is being used to train, what? Thinking,
+      Uyghur areas, too, have terrorism. Do you have Syria and Ukraine training, anti-Chinese
+      figures to try to break the Uyghur area, Xinjiang province, away from China right
+      there? So, this, this fight, in Ukraine and Iran directly affects China’s integrity
+      because the intent is to break up, to use the Islamic terrorism and the US terrorism
+      and the Israeli terrorism and the Ukrainian terrorism all together to break up,
+      Russia, China, and Iran into component parts. This is a purely destructive core
+      of American policy and European and Western policy that is forcing China to make
+      this a world conflict. So, all the to answer your questions, all three, it’s about
+      oil. It’s about the military. It’s about the larger picture, and it’s about the
+      whole, whether there’s going to be, in fact, an economic freedom of countries
+      to act in their sovereign self-interest or whether America will succeed in using
+      terrorism to prevent countries from doing that. Robinson Erhardt Well, the last
+      question I will ask you for today is, you and I, a little over a year ago, we
+      had a joint conversation with Rick Wolfe. And I’ve had many conversations with
+      him about the, quote unquote, American empire and its decline. And I’m just wondering
+      if how you how you see the American empire going forward? Is it declining precipitously?
+      What are things going to look like in five, ten, and fifteen years? Michael Hudson
+      Well, it’s already transformed into the opposite strategy of what it was after
+      World War Two. That was what the national security strategy said last December.
+      We’re no longer basing ourselves on the international law of the sovereignty of
+      nations. We’re asserting American dominance. So, this transformation is a sign
+      that the positive basis that enabled America to create an empire by being industrially
+      and financially strong, it no longer exists. And so, you could say that the turn
+      into saying all that we have left is America’s ability to create chaos in other
+      countries. This is not a long-term solution. At some point, other countries are
+      going to say, we want to avoid chaos. We have to act on our own to prevent chaos
+      in the way that we do, that we’re not going to fight with America. We’re not going
+      to fight with Europe. We’re just going to decouple. You go your way, and we get
+      our way. So instead of the United States succeeding in isolating Russia, China,
+      and Iran, the United States will end up isolating itself from the global majority.
+      And that’s essentially like once you’ve isolated yourself from the majority of
+      the world, and all you’re left with is Western Europe that you’ve impoverished
+      by, dragging it into the Cold War, sanctions against Russia, then you’re economically
+      shrinking. And if you’re economically shrinking, then your ability to finance
+      your world military presence by other countries. Transferring their wealth to
+      you is all over. And that’s what empires are all about. Empires impose tribute.
+      America has lost its ability to extract tribute, except by threatening to cause
+      chaos in other countries. And other countries are now trying to decouple as radical
+      as rapidly as they can. That’s why Merz has gone to China. Starmer has gone to
+      China. And why the Europeans are saying, maybe we made a wrong, we backed the
+      wrong horse. Robinson Erhardt Well, Michael, as always, it’s been an absolute
+      pleasure talking to you. So thanks so much for joining me today. Michael Hudson
+      Well, it was a far ranging discussion. Thanks for having me, Robinson. I’m glad
+      we could tie all these different strands together into a system. Photo by Tim
+      Oun on Unsplash The post Chaos As US Power first appeared on Michael Hudson .
+      The post Chaos As US Power first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent discussion, Michael Hudson expresses a shift in
+      focus from historical analysis of U.S. foreign policy to addressing the contemporary
+      implications of recent events in the Middle East, highlighting the discrepancies
+      in the government's National Security Strategy report.
+    paragraph_summary: In a recent discussion, Michael Hudson shifted the focus of his
+      analysis from historical perspectives on U.S. foreign policy to the contemporary
+      issues arising from recent events in the Middle East. He expressed concern that
+      the current National Security Strategy report fails to accurately reflect the
+      realities of American foreign policy, which he argues has become increasingly
+      self-serving and divisive. Hudson highlighted the detrimental effects of U.S.
+      policies that have polarized the world into opposing factions, with the U.S. and
+      its allies on one side and the rest of the world on the other. He emphasized that
+      this win-lose mentality, as articulated by Donald Trump, has led to a weaponization
+      of trade and warfare, ultimately creating a complex and troubling geopolitical
+      landscape.
+    published: '2026-03-21T00:03:27+00:00'
+  - title: Chaos As US Power
+    url: https://michael-hudson.com/2026/03/chaos-as-us-power/
+    text: 'March 13, 2026 Robinson Erhardt You’ve been on the show and joined me a number
+      of times now, but we’ve rarely spoken about the contemporary situation in the
+      United States in our foreign policy. We tend to talk more about history, I’d say.
+      So, I wanted to ask — just to begin — why it is that you’re more interested in
+      talking about the present today. Michael Hudson Well, I’d originally planned when
+      you suggested talking about US foreign policy. I was going to go through my usual
+      approach, which we’ve discussed, starting in the Bronze Age for, debt and debt
+      financial policy and say, well, here’s how American foreign policy has evolved.
+      And here is why we don’t have the world that we helped create in nineteen forty
+      five. But I think that what has happened in the Middle East in the last few days,
+      has shown how really fictitious the whole National Security Strategy report that
+      the government published last December is in its historical description. And I
+      think I want to begin today by saying, look at the mess that American foreign
+      policy has created today. How did we get here and what are the policies that have
+      created this? Because obviously, no announcement or explanation of American foreign
+      policy by the Americans is going to say, here’s how we’ve pursued a policy that’s
+      splitting the world in two between the United States and NATO, Europe and our
+      allies in Japan and South Korea, on the one hand, and the whole rest of the world
+      against which we’ve weaponized our foreign trade. The use of the dollar and weaponized
+      warfare itself with the attack on the Near East. So I think, just to begin with,
+      what’s happening today shows that US foreign policy has become so self-serving,
+      so insistent that, as Donald Trump says, America has to be the winner. We’re in
+      a win-lose situation. And that is a basic strategy. And as we trace this, how
+      the strategies worked out really from nineteen forty five, when the United States
+      could appeal to market forces to have other countries rely on the United States
+      and after World War Two for their industrial support and monetary support, at
+      least under the creditor-oriented rules that the IMF and the United States laid
+      down. All of these factors that had favored the United States have been undercut
+      by the fact that the United States has deindustrialized and weaponized the US
+      dollar. And that word weaponized, I don’t think was ever used in relation to foreign
+      policy before, last year. And I think that the fact that now almost every major
+      media, newspapers are using the word weaponization of foreign trade, weaponization
+      of the dollar, I think that that indicates the adversarial position of American
+      foreign policy and the fact that basically it’s the opposite of what it claims
+      to do. For instance, just in the last twenty-four hours, President Trump has announced
+      — let me quote — “If necessary, the United States Navy will begin secure escorting
+      tankers through the Strait of Hormuz as soon as possible. And, he posted this
+      on his Truth Social blog today. He said, ‘No matter what, the United States will
+      ensure the free flow of energy to the world.”  Well, the entire thrust of the
+      United States foreign policy for the last seventy years is to prevent the free
+      flow of oil to other countries. It’s been to isolate access to all the countries
+      that are not willing to give up control of their foreign policy or agree to price
+      their oil in dollars. And since nineteen seventy four, when OPEC quadrupled its
+      oil prices, to agree that they’re going to save all of the export earnings in
+      dollars by recycling them to the United States to invest in US Treasury securities
+      as their savings, US bonds, and US stocks. The petrodollar trade. And if you look
+      at what the United States has done, look at the history of the US vis-à-vis other
+      oil-producing countries. Iran was overthrown in nineteen fifty three for trying
+      to nationalize its own oil trade. Then you have the two wars in Iraq, by George
+      Bush around nineteen ninety and then by his son, George W Bush. Then you have
+      Libya under President Obama. Then you have the isolation of the Russian oil and
+      gas trade in twenty twenty two as a result of the war in Ukraine. Then you have
+      Syria, in the last two years, being torn up, and Venezuela most recently. So if
+      you look at the fact that here are all of these countries that would like the
+      free flow of oil, but they’ve said a number of things. They don’t want to price
+      their oil in dollars. They want to use their, they want to trade with China and
+      with, regimes that the United States says, well, they are rivals, they are existential
+      enemies. You can’t trade with them. That was the whole aim of Trump’s Liberation
+      Day tariff policy. So you have the United States essentially using oil as the
+      basis of its international diplomacy. Really, throughout the twentieth century,
+      and especially since nineteen forty-five, because all countries need oil. And,
+      if you’re the United States, and of course, you want to use market forces that
+      you can, create a system of international law to shape the market forces that
+      are in ways that benefit the United States. But at the same time, you want to
+      maintain your ability to be very coercive in all of this. Well, that’s basically,
+      basically what’s been happening, the US policy from the very beginning, certainly
+      in, after nineteen forty five, has this coercive element, and the United States
+      basically said there are a number of buttresses for our foreign policy. Number
+      one, we won’t join any organization, any international organization in which we
+      don’t have veto power. So the United States insisted on veto power within the
+      United Nations Security Council. It insisted on a strong enough stock ownership
+      of the International Monetary Fund and World Bank so it could veto things, and
+      it wouldn’t join the international court or other international regulatory organizations
+      or things like the Paris climate Agreement, unless it had veto power. And it is
+      at the same time that it says, well, I think the national security study that
+      was published, as I said, in December, said our security depends on — basically,
+      to paraphrase — denying other countries their sovereignty. We don’t feel secure
+      if other countries are able to pursue policies that are adverse or threatening
+      to the United States. So you had Marco Rubio, the Secretary of State, saying that,
+      well, the United States national security is threatened by the International Criminal
+      Court and its authority. because it’s accused Netanyahu of being a war criminal,
+      and for what Israel has done in Gaza, and the other statements by the Trump administration
+      are, well, our national security is threatened by the United Nations and the whole
+      principle of international law. Ever since the Peace of Westphalia in sixteen
+      forty eight, right down through the United Nations Security Council, it is illegal
+      under international law to interfere with the politics and the internal administration
+      and freedom of other countries. Well, that’s exactly what the United States has
+      been doing ever since World War Two, meddling in foreign elections, in Greece,
+      fighting against the Communist Party that was the main partisans, in Italy under
+      Operation Gladio. The whole National endowment for democracy, has been basically
+      to bring about regime change of unpopular governments. So you have the whole U.S.
+      foreign policy of trying to control other countries, being adverse to the United
+      Nations principles of international law. And that’s just what Donald Trump explained
+      a few months ago when he said, “Well, the United Nations is obsolete. I’m going
+      to create the Board of Peace that I’ll be in charge of.” I wrote a long piece
+      that was just published a few days ago by Democracy Collaborative, that goes over
+      and describes this whole fight by US foreign policy against the principles of
+      international law. And what that does is essentially make the United States, instead
+      of protecting the world from attack and terrorism, become just the opposite. And
+      if you look at what the United States has, essentially claiming today, in NATO,
+      Europe, and other countries, is essentially a declaration of World War three.
+      And so let’s say, how is U.S. foreign policy leading towards World War three?
+      Well, the attack on Iran is to be looked at in the same view of NATO and the United
+      States mounting a coup. Coup d’etat in Ukraine to fight Russia, in using Ukraine
+      as a battlefield, the the fight in Afghanistan. All of these fights that the United
+      States has gone through are essentially threatening the whole world with war.
+      We, I think we’ve discussed briefly before how the whole fight in Iran, I’m sorry,
+      in Ukraine now you have Merz in Germany and Macron in France saying, well, we
+      want to provide Ukraine with atomic missiles to defend itself against Russia.
+      And President Putin responded, if that’s the case, then we are going to preempt
+      this, meaning war with Russia. The enabling fiction of all of Trump’s demands
+      on NATO and other countries. You have to support the United States. You have to
+      pay the equivalent of economic tribute to the United States so that we can afford
+      to have enough money to invest in the eight hundred military bases we have all
+      around you and protect you from the fact that Russia may be deciding it wants
+      to recreate the Soviet empire by marching right back through Poland and Germany
+      to conquer all of Europe. This is such an obvious fiction. It’s so crazy. And
+      yet it’s being used as the narrative to, try to justify, Europe’s, moving towards
+      a very heavy, armament spending, raising its military spending from two percent
+      before to five percent that is supposed to be spent largely on buying American
+      munitions now that Germany and Europe are industrially injured by the fact that
+      they’ve isolated themselves from importing Russian energy. You’re having the threat
+      of war between Russia and Western Europe rise, and you’re having it in Iran, too.
+      Now, the whole Middle East is being engulfed in war, and this war because it’s
+      about oil, and because all of the countries of the world need oil in order to
+      power their factories and heat their homes and provide electricity and provide
+      fuels, and use gas as the basis for their chemical industry, their fertilizer
+      industry. All of this is paralyzing the world’s industry, especially in the last
+      two days, when you’ve had Qatar and others, I think the United Arab Emirates,
+      stopping their gas exports and shutting them down in the last day or two. And
+      it’ll take, it takes a few weeks to restart all of these things. So you’re having
+      the whole world face a choke point. And in the United States, foreign policy has
+      been based on creating choke points and maintaining the ability to weaponize these
+      choke points and to use them to say that, well, if other countries deviate from
+      our rules-based order and they follow their own, economic interests and, sovereign
+      power, then, we’re going to impose sanctions on them, just like we’ve imposed
+      sanctions on Russia and China and Iran and Venezuela and other countries that,
+      disagree with this. So you cannot say that the United States foreign policy is
+      based on promoting free trade, whether in oil or anything else, it’s not based
+      on free capital movements because we’ve seen the sanctions that it’s imposed upon
+      Russia, including the confiscation of Russia’s three hundred billion dollars in
+      foreign exchange savings that it had in euroclear in, in, in Belgium. So, you’re
+      having the actual practice of American foreign policy being diametrically opposed
+      to the US narrative of foreign policy being we’re the peaceful country protecting
+      the world from war instead of bringing war wherever it, feels necessary and protecting
+      the world’s trade, free trade and free movements and, essentially protecting the
+      democracy of other countries to act in their own self-interest. Robinson Erhardt
+      Well, one of the things that I love about having you on the show is that I get
+      to be the audience to these spontaneous lectures. One of the problems with that
+      is that there are always too many questions I have after each time you speak to
+      get them all out. But I mean, one of the things. Yeah, one of the things that
+      really jumps out at me, though, is you said a few minutes ago that you interpret
+      the US’s behavior as a declaration of World War three, or our intent on World
+      War three. And because — even though I’m an American — I’m kind of an outsider
+      of the decision-making apparatus. It’s hard for me to imagine why anyone in power
+      or why any American at all would want World War Three. So it’s a basic question.
+      It’s a speculative question, but who would benefit from it and how? Michael Hudson
+      The benefit, ultimately, is ideological. What this fight is about — between, as
+      I said, the American NATO, West, Western Europe, and its allies, and the global
+      majority. It’s about what kind of economic system we’re going to have. Is it going
+      to be one of neoliberal financialization, privatization, and the kind of policies
+      that were started in the nineteen eighties by Margaret Thatcher in Britain and
+      Ronald Reagan in the United States, where essentially you dismantle government
+      infrastructure, you privatize it, you sell it off. And instead of government infrastructure
+      being used to subsidize economic growth and to lower the cost of living and the
+      cost of doing business by avoiding natural monopoly charges, for instance, in
+      water, you’ve replaced government supply of water at cost or at subsidized rates
+      with Thames Water in Britain. That’s the perfect example of the Western version
+      of the alternative to how the West, Western industrial nations developed themselves
+      in the nineteenth century. And if you look at, you know, how Britain and Germany
+      and the United States developed all of their industry? Well, I think we’ve discussed
+      before how the whole spirit of industrial capitalism was revolutionary, first
+      in Britain. They said, if we want to make Britain the workshop of the world, we
+      have to lower our cost of food, our cost of living, so that our employers do not
+      have to pay our labor force enough money to rely on British landlords making enormous
+      land rents by blocking foreign trade. We need to free the economy from economic
+      rent of all forms, and every economist from Adam Smith through John Stuart Mill
+      and Marx. and the whole movement to, essentially, break the power of landlords
+      and the power of monopolists, to create rent-extracting monopolies and prices
+      that raise the cost of living and the cost of production. The whole fight against
+      them was a movement to strengthen governments, authority to lower the cost of
+      production, and essentially to do what China’s doing today. And when today you
+      have the United States saying, well, we’re a democracy. China is an autocracy.
+      And yet what China has done is reinvent the same wheel that, Britain, Germany,
+      France, the United States all followed to get rich government subsidy, protective
+      tariffs, import control, minimizing the ability of monopolies, to be created,
+      such as the Americas, antitrust act of eighteen ninety, and the protective tariffs
+      and the one thing that China has done that was not done in Europe, in the United
+      States was to treat money itself as a public utility to be provided to finance
+      industrial growth. Germany began to do this in the nineteenth century. And you
+      had German banking evolve along very different lines from British and American
+      English-speaking banking. German banking essentially, wanted to create money and
+      banking in a kind of in conjunction with heavy industry and with the government.
+      So you had a three-way, between governments, banks, and industry. And that’s what
+      led Germany to become so successful in catching up and surpassing Britain so rapidly
+      with its industry. Same thing in the United States, in the United States and Europe,
+      the whole movement towards government regulation to prevent rent seeking and exploitation
+      was called socialism, and socialism wasn’t a bad word. You had the leading American
+      protectionists. I think I’ve mentioned Simon Patton before. The first American,
+      an economics professor at the first business school, the Wharton School, said
+      that government infrastructure spending, public spending, is different from industrial
+      capitalist spending. The industrialist wants to make a profit, and the industrialist
+      earns that profit by organizing, industry, organizing the supply, organizing the
+      production, organizing the market. But a government infrastructure, first of all,
+      is mainly natural monopolies, like transportation, such as the Erie Canal, or
+      its public improvements. that are, basically lowering the cost of doing business,
+      and providing basic needs at the lowest cost possible to make the economy low
+      cost. So the return on government investment, Patten said, is the degree to which
+      it lowers the cost structure of the private sector. And to him, that was socialism.
+      It was social spending. And, Patton was one of the many leading American economists
+      who had been trained in Germany with the historical school. And Patton essentially
+      broke away from the American Economic Association. That was very narrow minded
+      free trade, very, on the way to today’s neoliberalism, and it founded the American
+      Sociological Association. You had a whole extension of national strategy and economic
+      thought into the social consequences, which were called externalities by economists
+      and what Patton said. Well, government, regulation, and government investment
+      is all about externalities, in the way that he said. So, leading up to World War
+      I, the whole world thought that it was moving towards socialism. Then you had
+      the rentier interests fight back. The landlord interests, the financial interests,
+      and the monopoly interests all got together. And, I described this in my book,
+      Killing the Host. John Bates Clark in America said no such thing as economic rent.
+      There is no distinction between value and price. Everybody earns whatever they
+      want. It doesn’t matter how they earn it, as long as they earn it, it’s their
+      income. And all wealth is earned by being productive. And that’s the opposite
+      of what classical economics is all about. Well, your question relates to the modern
+      world — the modern world wants to go back to the fact that said, well, wait a
+      minute, there is a difference as to how you make your wealth. And, we in other
+      countries don’t want to let, the neoliberal free market enable, companies to come
+      in, create, absorb rivals, create monopolies, extract monopoly rents, use their,
+      the wealth that they gain by monopolistic ways and by financial ways to buy control
+      of government and to lower the taxes on financial wealth, on real estate wealth
+      and shift them on to labor and industry. We want free labor in industry from the
+      tax burden and, and you make the government either self-financing or creating
+      our own money, which is what China does. So you’re having two different philosophies
+      and the economic philosophies of how to develop. And that’s really what this whole
+      World War three is all about. Is the United States going to do what Donald Trump
+      says it’s about to prevent other countries from decolonising their economies and
+      creating trade in their own currencies, and avoid having to send their foreign
+      export earnings to the United States? And essentially use their savings to finance
+      their own industrial growth and their own development. So successfully by following,
+      you could call it the Chinese model. And before that, it was the Japanese model.
+      But the one thing these. The most rapidly growing economies. And now it seems,
+      Russia. Also, if you’re looking at GDP, it’s part of it. The other countries of
+      the world are growing and industrializing rapidly, raising their living standards,
+      living conditions, and social conditions, while the United States and Europe,
+      and its allies are going in the other direction there. loading their economies
+      down with debt. they’re, essentially have such a, they’re polarizing so that almost
+      all of the growth in wealth that is financial fortunes since the two thousand
+      and eight junk mortgage crisis. All this growth of wealth has been to the financial
+      sector, finance, insurance, and real estate, the fire sector, in the United States,
+      other countries have not followed this. Other countries have used their wealth
+      essentially to the wealth that’s been recycled into new research development,
+      the building of new factories and tools, and means of production to increase their
+      productivity. Whereas the industrial productivity and labor force, and research
+      and development in the United States and Europe have all been cut back. So the
+      what’s the what does that leave the United States with only the ability to try
+      to monopolize, foreign, foreign trade to say, well, all right, we’re going to
+      try to, not only monopolize oil, but also information technology and, the, the
+      whole, Silicon Valley companies of social media platforms, we’re going to have,
+      we can make monopoly rents off the rest of the world as long as we can prevent
+      other countries from producing these same products abroad in their way, which
+      would make them independent of the United States. Well, you can imagine how the
+      gauntlet that this has thrown down with other countries. Are you going to develop
+      your own technology for your own use to enrich your own populations and recycle
+      into economic growth? Or are you going to let your main choke points, information
+      technology, oil, and other exports controlled by the United States, be a means
+      of subsidizing and essentially paying tribute to the US economy? That’s what,
+      that’s what the fight is all about. Robinson Erhardt So it seems like it’s all
+      about this, which is sort of what you said at the beginning. It’s an ideological
+      war about the global economic structure. One problem that I see with this hypothesis,
+      just facially, when I first look at it, is that it seems, at least the media portrays
+      it in this way, that this is really Donald Trump’s war. He called the shots, and
+      I just don’t see him as being this ideologically savvy that he really cares so
+      much about this ideological, global economic war. So I just wonder where you see
+      him and his administration fitting into why this is happening right now. Michael
+      Hudson I think you’re quite right. In practice, Trump is following exactly the
+      same policy that the Biden administration was following. And it’s the neocon strategy.
+      I mean, you have way back in two thousand and one, General Wesley Clark said,
+      well, we’re going to invade, seven Near Eastern countries in five years, and we’re
+      going to control the Near East, because if we can control the Near East, we can
+      control the world oil as long as we can block other countries from trading with
+      any other oil-producing areas. So you have this is a quarter century policy in
+      the making. And what Trump has made a difference. You could say that one of the
+      main aims of US foreign policy under Trump is to make personal gains for himself
+      and his family and his coterie of insiders. And the way of doing this is not only
+      to go to the Saudi Arabians and the United Arab Republics and say, ” Will you
+      make big loans to my family, for real estate? will be glad to support your countries
+      and give you defense against Iran. If you make loans that’ll help us become millionaires,
+      so that Trump can become a millionaire, just like the Clintons became. So you
+      have, you have Trump essentially putting foreign policy up for sale to the highest
+      bidder. And of course, the highest bidders are the people who’ve been the neocons,
+      who’ve been controlling American foreign policy all along. And I think, Trump’s
+      mega policy, Make America Great Again has been called “Miriam Adelson Governs
+      America,” because she paid him two hundred and fifty million dollars, a quarter
+      of a billion dollars to name Marco Rubio Secretary of State — to back Israel and
+      the single largest backer of the senators and congressmen, has been, AIPAC and
+      its allied, you know, pro-zionist, political action organizations. So, yeah, you’re
+      having that degree of, what used to be called corruption, putting economic and
+      political policy up for sale, is the characteristic of American policy. And the
+      only thing that makes Trump different from the other, the former neocons and the
+      Democrats, and even former Republicans, is the degree to which he wants his family
+      and friends to benefit personally, from all of this. But the policy is unchanged.
+      Only his personal benefit, and let’s call them idiosyncrasies are there. Robinson
+      Erhardt Well, since you mentioned Israel, another question I have is, at least
+      naively, what I’ve always been told and what I’ve thought is that our alliance
+      with Israel is largely based on the need for the United States to have a strategic
+      foothold in the Middle East. But many people I’ve spoken to have told me that
+      this is wrong and it is naive. So I wanted to ask you — [interrupted] Michael
+      Hudson Absolutely not. Okay, so I’ll give you an example. I worked with the Hudson
+      Institute from nineteen seventy two through about nineteen seventy five, and that
+      was a major national security institute today. And one of my colleagues was Uzi
+      Arad, who became the head of Mossad and the head of Netanyahu’s chief national
+      security advisor. And one day — I think it must have been nineteen seventy-three
+      or seventy-four — we were, we’d made a number of trips to Asia together to Japan
+      and Korea, and we had a stopover in San Francisco. And there we met a number of
+      generals and usual military types. One general ran over, threw his arm around
+      his Israeli colleague Uzi, and said, Here is a landed aircraft carrier over there.
+      You know, we depend upon you to, you know, control the whole region so that we
+      don’t have to. Uzi looked quite uncomfortable for the whole thing, but what could
+      he say? So the United States, from the very beginning, has said, well, we don’t
+      want to have to bear the expense of fighting with our own army in foreign countries,
+      because our own army loses every fight we’re in. We lost in Vietnam. We lost in
+      Afghanistan. We don’t want to get involved in the Near East because it’s a hornet’s
+      nest. So we have two client Armies. First of all, they depended on Israel to control
+      the region, and now, with Israel, which is allied with al-Qaeda. So America’s
+      essentially fight, under Brzezinski in the Carter administration, the Russophobia,
+      which led Brzezinski to fight in Afghanistan, led to the creation of al Qaeda.
+      And America has thrown its whole support for the last few decades behind al Qaeda
+      to essentially terrorize, first Iraq and then, tear Syria apart, from that side.
+      al Qaeda and ISIS have worked hand in hand with Israel, never ever attacking each
+      other. So both of these countries are using ethnic terrorism to essentially dominate
+      the region on behalf of the United States. So, of course, there’s, let’s say,
+      a harmony of interest between Israel and the United States. And that harmony of
+      interest goes way beyond merely the fact that Israel and Zionists contribute a
+      lot to American political candidates, because essentially, Congress gives large
+      monetary grants to Israel. Israel takes some of the monetary grants and recycles
+      them into AIPAC and other groups to back the politicians who’ve given Israel the
+      money that ends up partly recycled into their own pockets. Well, look at what
+      was said yesterday or two days ago. He said, ” Well, we knew that Israel was going
+      to attack Iran because for the last fifteen years or so, Netanyahu said again
+      and again the fiction, the great lie, that it was about creating an atom bomb.
+      Israel wants to conquer the oil-producing areas for itself. Way back in the seventies,
+      I knew a number of Israeli security people, and they were all joking. How did
+      God not lead us to Saudi Arabia? You know, why didn’t he put it there? I mean,
+      they want control of the oil. And the United States is quite happy to let Israel
+      take control of this oil as long as it administers it on behalf of the United
+      States, along the same lines or similar lines that Saudi Arabia is indeed doing.
+      So, yeah, it’s, Rubio said, well, we knew that the, that Israel is going to attack
+      Iran. And so we think that Iran feels for some reason that America is so close
+      to Israel that America will attack us. So we wanted to attack Iran before it had
+      a chance to respond to us fighting it. And we attacked Iran because Israel attacked
+      at first, and we. And Israel has created such a big problem for us by inflaming
+      the Near East that we would have been collateral damage. And we want the Iranians
+      to be the collateral damage. I mean, I’m paraphrasing him, but it’s all. The quote
+      has gone all over the media. So just listen to what the Americans say. Robinson
+      Erhardt I also like this phrase that you used harmony of interests. And we, we
+      know that Israel exerts a lot of political influence in the United States. But
+      I’m wondering if a very simple way of putting it is that you think this would
+      be reasonable. Reasonable: insomuch as we’re construing this war as the United
+      States’ interest, as an ideological war about global economic structure, is the
+      main harmony of interest that we use Israel to advance these goals, and Israel
+      uses us to help with their national security and other, maybe domestic political
+      interests. Michael Hudson It’s way beyond Israel. Look at you. Could you say the
+      same thing about Ukraine? Ukraine is a terrorist country indulging in ethnic terrorism,
+      saying, we are human beings. Russian speakers are subhumans. They are not human
+      beings that we have to exterminate them — our fight against Russian-speaking Ukrainians
+      is a fight to exterminate them, to essentially ban their speech. Essentially,
+      you could say that Ukraine is Europe’s and America’s Gaza area. Very similar.
+      It’s a similar ethnic cleansing. It’s a similar philosophy and a similar behavior
+      of foreign policy that goes way, way beyond Israel. You can look at the other
+      terrorist groups that America supported al Qaeda, in Afghanistan, another, a terrorist
+      group, that the whole Taliban, movement, the whole religious extremist movement
+      that you have everywhere from, the, the, Wahhabi Sunni Arab countries, to, make
+      an ethnic, war against, other, Islamic groups and anyone who’s not a Salafist,
+      law, to the Israeli war against the Palestinians, to the Ukrainian, war against,
+      the, the Russian speakers, they’re all very, very similar and they have the same
+      approach. And that’s what makes American foreign policy terrorist. It’s not protecting
+      the world against terrorism. It is the terrorist policy threatening the whole
+      rest of the secular world, saying, wait a minute, everybody’s a human being. It’s
+      a crime against humanity to do what Ukraine is doing against Russia. It’s, it
+      breaks all the rules of war that are laid down by the UN charter, just as they’ve
+      accused Israel of doing it, and you could say they could bring the same charges
+      against the Saudi Arabian Wahhabi group for financing al Qaeda. So all of these
+      terrorist groups that are America’s alternatives to socialism, it’s America’s
+      alternative to other countries acting democratically in their own interests to
+      support their own national growth instead of that of the United States. This is
+      what, What other countries are finally coming to realize? And it’s such an in
+      such a contrast to the narrative that we’re the good guys, we’re protecting you
+      from terrorism when we’re the terrorists. Robinson Erhardt I’m surprised to hear
+      you so strongly condemning Ukraine, just because most commentators, especially
+      those on the left, that I hear are much quicker to talk about Russia as the absolute
+      unmitigated evil in this conflict. So I’m just wondering if you could explain
+      a bit more about how you view that conflict more broadly, especially because,
+      as we continue to talk, I imagine it’ll be one of the conflicts that is most vital
+      to contemporary US foreign policy. Michael Hudson Well, I think. The Soviet Union
+      fell apart in the late nineteen eighties because there was a universal perception
+      that Stalinism didn’t work, that it just didn’t work. And they, and they were
+      invited, the, they thought, well, what’s the opposite of Stalinism? They fell
+      for the fake Russian narrative that, well, Stalinism is communism, Russia’s communist,
+      Russia’s socialist. Well, it’s not at all. It was Stalinist. It was a bureaucratic
+      collectivism. It was managerialism. You could call it. But the one thing you could
+      hardly say is that it was socialism. Unless you want to identify socialism as
+      everything that’s bureaucratically inept and bad. They invited the Americans and
+      the IMF, and the world Bank to try to redesign Russian society. And the hope was
+      that the Americans and Europeans would help make Russia recover and create an
+      industrialization along the lines that Europe and the United States did. But that’s
+      not what the United States did at all. They created a kleptocracy, a disaster
+      of economic crisis, essentially broke down the government, and put in a kleptocracy.
+      Register the factories, the oil reserves, the nickel companies, and the electric
+      utilities in their own name. And, you had the population fall by so many, far
+      over ten million people, that when President Putin came to office in two thousand,
+      two thousand, he said, almost as many Russians lost their lives as a result of
+      depending on the United States for that, it was going to help Russia develop industrially
+      instead of dismantling it. is, Russia lost in World War two. So, Russia had no,
+      gradually, Putin realized, well, Europe is not trying to help us at all. It just
+      wanted to disengage. The United States kept pushing NATO forward. I’ve been reading
+      the speeches of Foreign Minister Lavrov and President Putin for years. and I’ve
+      followed Russian history very closely from, the time that I was a child, because
+      of my family and, the, Russia, the last thing Russia wanted was to re-create the
+      Soviet empire because actually, Russia had made sacrifices, bizarre as it seems,
+      and is oppressive and inept, as inept as Russian administration of Central Europe
+      and, was, and from East Germany to Hungary and Poland, Russia had sacrificed much
+      of its own wealth to help support the, the communist countries, to the west, although
+      obviously the support was, not appreciated because it was so inept and inherently
+      bureaucratic and corrupt. So, it was the United States, deciding, well, now that
+      communism has fallen. Now, let’s extend NATO eastward, and they turned NATO instead
+      of a defensive organization into an offensive organization with the idea of recreating
+      a Yeltsin-type kleptocracy in Russia and, ideally, breaking Russia into five different
+      regions. and that became especially the case after the effect of the US, NATO
+      expansion was to drive Russia together with China. And that made the United States
+      Redouble its efforts against Russia, thinking that if we can drain Russia’s economic
+      energy by fighting in Ukraine, it would. Peter and go broke. And this will lead
+      the population of Russia to want to overthrow the Yeltsin regime, overthrow the
+      Putin regime, and overthrow the existing regime, and bring back a US-oriented
+      Russia. That was the dream. And it was a silly dream. But that’s what they believed.
+      And they said also that by draining Russia’s military power, it won’t be able
+      to really support China, which is our real enemy, because China provides not simply
+      a rival, but an alternative form of economic organization, industrial socialism.
+      That is the real threat because of America, were it to follow the same logic that
+      has made China so successful and industrial. Then there goes the fire sector’s
+      control. There goes the financial control. There goes the real estate, rentier
+      capitalism, rentier finance, and capitalist control. So I think Russia was under
+      attack. And, the result is that just reading the speeches of the Russians, you
+      can find, if anything, a disgust that Putin feels with the behavior of Germany,
+      France, and Britain, and all that, all that Russia wants to do is say, well, you
+      know, we’re turning our eyes eastward. We don’t, you know, you America, you can
+      have Europe. We don’t need it. I think yesterday, Putin said we’re now, Europe
+      doesn’t have to impose sanctions on Russia’s gas and oil. We’re stopping our gas
+      exports to Europe. Now that Iran has essentially destroyed much of the Middle
+      Eastern gas export capacity, we’re now shifting our gas exports to our more friendly
+      allies in the east. So, you know, this is the basic geopolitics, and there’s just
+      a Russophobia in Europe, in the American press. It’s, it’s, and you’re right,
+      much of the left is the Democratic Party. They’re not really the left at all.
+      There’s, they’re it’s Russophobic. Robinson Erhardt Again, to use your phrase,
+      on a very large scale. You view World War three as being about ideology and global
+      economic structure. But then you also said more locally within Iran. This war
+      is about oil. First and foremost, is that correct? Michael Hudson Yes, yes, because
+      oil is such a key to the American balance of payments. And I mean, for one thing,
+      economists don’t really know when they talk about trade theory, it’s all general.
+      It’s an export or something they’ll call widgets, but they don’t look at the actual
+      statistics for oil. That was my job on Wall Street at Chase Manhattan in the nineteen
+      sixties, to study oil in the balance of payments. And then, the same for Arthur
+      Andersen and for the United Nations. So I and I worked very closely. I think the
+      balance of payments is something that isn’t taught in universities and certainly
+      not, specifics like the form of the oil industry. You almost have to work in the
+      field. And I was walked through it by the treasurer at Standard Oil of New Jersey.
+      That was one of the backers of the statistical studies that I was doing for Chase.
+      Well, I became, I was the only guy working on it. Robinson Erhardt What I was
+      going to ask, though, is granted, we’re not actually at war in Ukraine and Russia.
+      What is this war about for us? For Trump. Michael Hudson The attempt to hurt Russia,
+      the only way, the only tool that America has left to it, is the ability to hurt
+      other countries to create chaos. And so the Americans say we have something to
+      offer you and the other countries that no other country has to offer. And you’re
+      really going to want to take our offer? What we can offer you is to refrain from
+      deranging your economy and causing chaos by suddenly closing the American market
+      to you, which you’ve come to depend upon. imposing sanctions on you or overthrowing
+      you with regime change. So if you back us, we will agree not to hurt you. We’ll
+      stop hurting you if you give in to joining our sanctions policy so that we can
+      break up Russia, break up Iran, and then finally confront China and try to break
+      it up. Break it up. I mean, that’s the big picture. Robinson Erhardt So at the
+      outset of our conversation today, you mentioned that in discussing America’s foreign
+      policy and how we got here, we wanted to begin by laying out sort of where we
+      are today, and then turning to how we got here. And I’m wondering what the other
+      critical elements or events of foreign policy are today. So we’ve got the war
+      with Iran. We have our relationship with Israel. We have the Russia-Ukraine war.
+      I also imagine maybe we should talk a bit more about our relationship with China,
+      but I also wanted to ask what other events or situations we should be discussing
+      before we turn to how we got here. Michael Hudson It’s whatever you really find
+      important. I mean, there are so many dimensions of this. It’s like an onion. I
+      think the original hatred of Russia was the hatred of socialism. And the fact
+      that Russia really did not provide anywhere near a real socialism that you had
+      at least in Yugoslavia under Tito, was much more successful in that. And, the
+      Chinese, when they decided to develop their socialism or industrial capitalism
+      with Chinese characteristics, the last thing they ever wanted was any was to talk
+      to Marxists from the West. They made that very clear to me, way back in the nineteen
+      seventies. They, they. And the irony is that that was Milton Friedman, from the
+      University of Chicago, going to Shanghai and, essentially, talking about how you
+      need a free market. Government planning cannot possibly be innovative. You need
+      to let a hundred flowers bloom. And it was a sort of adopting this, flexibility
+      of a mixed economy, a strong, social, socialist, social democratic, infrastructure.
+      And that would give free rein to a private initiative and enterprise. And, that’s,
+      that was the perfect mix. China achieved the very mix that Europe and America
+      were going through in the late nineteenth century. So, this is basically it. The
+      United States, when they de-industrialized, when, they de-industrialized and offshored
+      the industry to China under the Clinton administration, they thought, okay, now
+      we’ll just have Chinese cheap labor. We’ll, have American companies come in, they
+      can hire labor and factories over there to produce the goods that were not being
+      made anymore. We’ll import them at a much lower cost than if we had to pay the
+      high costs of American labor. And that was what America actually welcomed. They
+      called it the post-industrial society. So they didn’t call it deindustrialization.
+      There was already in the nineteen seventies, nineteen eighties, a whole discussion.
+      Daniel Bell and others are talking about the post-industrial economy, post-industrial
+      society. There won’t be a working class anymore. No more blue-collar labour. Everybody
+      will be a member of the professional managerial class, basically. And that was,
+      that was sort of the imagery. Well, America’s been trying to maneuver to say,
+      well, if another country, if China, industrializes, you know, let it industrialize
+      and we’re all for it, but we have to be able to get the profits. It has to let
+      American banks create credit and loans to, potential monopolies. Like we American
+      banks would have loved to have financed. Jack Ma’s monopoly and others ended up
+      with all of the stock market and financial gains that they did. But that’s not
+      what China did. China wanted to keep its technology and its innovations, and in
+      itself, and to create an institutional environment that prevented billionaires
+      from becoming, let’s say, what Americans would call filthy rich. Robinson Erhardt
+      I can’t help but think that it’s important to ask, so long as we’re talking about
+      the balance of global economic power, where you see AI fitting into the conflict
+      to come, and our foreign policy, especially with a place like China. Michael Hudson
+      I really think it’s not my specialty. And I really can’t tell, the AI that the
+      Americans are doing is very different from what the Chinese are doing. They focused
+      on robotics, obviously, to a much greater extent. Robotizing factories, the, the,
+      the key to artificial intelligence. Well, it’s precondition is electricity because
+      there are just enormous requirements for electricity to run all of these computers.
+      And secondly, the design of computer chips that America so far has had a monopoly
+      and was hoping on, to have Nvidia show the enormous ability of to make hundreds
+      of billions of dollars by innovating on computer chips. The United States has
+      tried to prevent the Dutch company that’s developed the ultra, Ultra violet etching
+      machinery that costs, I think, twenty million dollars or so for each machine that’s
+      sold. The United States has tried to keep that out of Chinese hands. And the United
+      States, in the last year, has pressed Europe not to permit any Chinese company
+      to own more than fifty percent of a company in China, because China is the enemy.
+      This is a racist policy. The first effect of this was that it said, well, you,
+      to the Dutch government, you’ve got to close down. I’m sorry, I’m not pronouncing
+      it right. Next. That is essentially, battery making, machinery because they’re,
+      they’re keeping control in Chinese hands. And, if, if a company is owned by a
+      Chinese. China is the existential enemy and is a threat to you. instead of looking
+      at China as here’s our growth area that we can partner with China and let it,
+      and we can both benefit. The United States has tried to block it. And the result
+      is that battery makers throughout Europe right now are having real problems getting
+      all of these very simple battery projects that the Nexperia company was, was producing.
+      So, and you’re having a similar, you had a similar fight here over TikTok, where
+      America said, we cannot have a Chinese media platform that is so successful in
+      making so much money. It must be controlled by Americans so that we can use TikTok
+      to censor the discussions there were discussions on TikTok about American foreign
+      policy. There were even criticisms that you shouldn’t have genocide against the
+      Palestinians. And so that new buyers at TikTok had said we were going to, you
+      know, they were going to block certain words. Like if they see the word Israel
+      in anything, they block it. You having, you’re using AI to thought control and
+      essentially, to impose fascism, cultural fascism on the country to prevent any
+      kind of political discussion or economic discussion and analysis that is not America’s
+      mainstream discussion. You had the same thing with Paramount’s degree to take
+      over, which Time Warner let. We have to control all of the media, and we’re going
+      to use automatic intelligence to control the media, to, to scan the internet and
+      to see who’s saying what and to block things you’re having. There was talk way
+      back in the nineteen seventies about, well, the American and the Soviet economies
+      converging. They’re all going in the same way. Well, it turns out they are converging,
+      but people thought that the convergence would be the Soviet Union breaking up
+      and becoming more democratic. And it turns out that the American culture is becoming
+      much more Soviet when it comes to the mass media, who’s who, the centralized control
+      of the mass media in the United States, and the internet, TikTok and, the, the
+      the entertainment and the news that you see on CBS. These days, you have all of
+      this, a heavy degree of censorship. So AI in the United States is used very, very
+      heavily for censorship. I suspect something similar occurs in every other country
+      with AI, and it’s not necessarily very democratic. And it looks like the effect
+      of AI is going to be to polarize economies and to create quite a bit of unemployment
+      of those kinds of labor that can be replaced by AI, such as warehousing. I think
+      Amazon is trying to use AI to replace labor in its warehouses. And, you’ve seen
+      factories in China where entire automobiles are made. The whole assembly line
+      is done by robotics. That’s AI. So it’s transforming things. But to really develop
+      it into something so-called supercomputing requires energy. And the fact that
+      the United States is so committed to letting the oil industry dominate its policies
+      across the board is that Donald Trump has said, well, we don’t want any alternative
+      to oil in the United States or by the green policies of Europe. Talking about
+      climate, control, and getting rid of carbon fuels. Trump – one of the first things
+      he did was to close down the wind energy, windmills, investments that were taking
+      place in the United States, and to prevent solar energy from being developed here,
+      very largely because China has taken the lead in making windmill blades and solar
+      energy panels. So China has used much of the Gobi Desert area is essentially huge
+      solar energy accumulation system to power its AI. Whereas the United States has
+      a problem. How are they going to get the existing electricity that’s needed to
+      operate AI without causing such an overload, low demand for electricity that you’re
+      bidding up the electric prices, and it’s going to cost American workers and American
+      businesses much more money to turn on the lights and operate their machinery?
+      And to run the home. So Trump has said, well, AI companies are going to have to
+      produce their own electricity. And so far, this has turned out to be something
+      very difficult to do in practice because of all of the administrative hurdles
+      that are required to either to create a new electric utility extension or to create
+      even independent sources of sulfur for the company. AI companies are producing
+      their own energy. So America has a huge bottleneck blocking this. And as an economist,
+      I can study the bottlenecks and I can look at the, wealth and income distribution
+      patterns and stock market patterns without knowing that much about actually how
+      the computer systems themselves work and whether it’s all self-referential and,
+      AI, computers tend to make up fictions of their own and can make really, really
+      big mistakes so that, you know, they end up, looking about as sophisticated as
+      Donald Trump. Robinson Erhardt When I asked you how you thought AI would figure
+      into the economics of the future and how it figures into foreign policy, I had
+      not expected that it would be your answer would be so closely related to energy,
+      but it makes total sense, given that a lot of the news that I hear today about
+      AI is. Oh, they’re building these huge warehouses in some rural area that’s causing
+      tremendous power demands, surging power prices, and power surges in nearby areas.
+      So it makes sense that energy is going to be so vital. And I wonder then, though,
+      how this also fits into the shifting energy landscape in that energy today is
+      being increasingly, or it increasingly comes from renewable sources. So how does
+      this fit into the global landscape and dependence on oil, and how is power balanced
+      because of the same? Michael Hudson The United States is a single major backer
+      of exacerbating global warming. Trump is absolutely, set against, withdrawing
+      from the Paris Agreement on climate, as being the, as fighting any non-carbon
+      energy. He’s totally; he acts as if a total lobbyist for the oil industry. And,
+      is this policy one of the most dangerous American foreign policies? I didn’t get
+      into the fact that supporting oil, and controlling the oil trade means, well,
+      what’s the point of controlling the oil trade if there’s an alternative to oil
+      to produce electricity and power? Well, solar energy, windmill energy, and renewable
+      energy is a threat to the American control of that. So the byproduct of this American
+      attempt to use oil is a choke point for the world. The world’s energy is creating
+      a choke point in the form of all of this extreme weather that is sweeping across
+      the entire world right now, causing such destruction. Robinson Erhardt I guess
+      I’d, I’d like to transition now from talking about the present to how we got here.
+      Michael Hudson I know much more about something. Robinson Erhardt Well, then maybe
+      I should let you take it from here. Then. What do you think are the crucial things
+      that we should be looking at first when we ask this question, which is how we
+      got here with our foreign policy? Michael Hudson Well, how I got here from where
+      the last time you asked me a question like that, I began by talking about the
+      Bronze Age for forty five minutes. Robinson Erhardt Well, I feel like two good
+      periods to begin with. Granted that a lot of what we’ve been discussing has revolved
+      around World War three is, maybe it would be good to start around World War One
+      or World War Two, whichever you think makes more sense. Michael Hudson Well, the
+      aftermath of World War I was largely financial, and that was the fact internationally.
+      The Inter-Allied debts. The Americans insisted that Europe pay for the arms that
+      it had bought from the United States before the US entry into the war. My book,
+      Super Imperialism, starts by explaining this whole period and the only way that
+      Britain, France, and other allies could pay their debts that the United States
+      ‘ insistence. That was unique in the past. After the Napoleonic Wars and other
+      wars, allies usually forgave the war debts of each other’s countries because they
+      were all together. But the United States said, ” We’re different, we’re not going
+      to forgive. A loan is a loan. And so the Allies turned to Germany to impose reparations.
+      That created an absolute economic crisis. There was this idea, you could say that
+      the legacy of World War One was to establish that once debts are undertaken, countries
+      have an obligation to pay their foreign debts even before using their, Income
+      and their fiscal resources to, for their own purposes and the fiction that governed
+      economic thought, at the end of World War One, the, the financial sector got together
+      with such a, thought control, such an intolerant autocracy that said, any country
+      can repay its debts if you only cut back your payments to labor enough, if you
+      can only impoverish your labor and industry by enough, you can pay your debts.
+      This is the theory that David Ricardo developed of, it is saying that in Britain
+      can of course, paper credit can be created, but other countries cannot create
+      paper credit. And, the way to pay your foreign debt is to oppose austerity. So
+      Britain, forced into austerity, ended up with a general strike, and I think nineteen
+      twenty-six France imposed austerity, had hyperinflation, and Germany imposed austerity.
+      and by essentially throwing it, Deutschmarks onto the foreign exchange markets,
+      which plunged the market exchange rate against in order to buy dollars to pay
+      the allies to pay the United States. So, you had this, financial dominance of
+      the world economy with one consequence of World War One, and that led to the economic
+      collapse in nineteen of the stock market in nineteen twenty nine, and then the
+      depression that led to World War Two. So you could say World War Two, and fascism
+      was the product of the instability caused by the financial demands by the financial
+      sector to get paid, specifically by the United States financial sector. Therefore
+      the legacy of World War Two was that the United States had ended up with three-quarters
+      of the world’s gold stock, and that enabled it to use gold and bullion as a choke
+      point in the economy. And it said, well, we’re creating the IMF and the World
+      Bank, and, you know, we’re willing to lend you money, in order that you can recover.
+      But you have, you’re not allowed to create your own money. You’re not allowed
+      to do what Britain did with the Bank of England, which created paper currency.
+      You’re not allowed to do what America does. You have to base all of your currency
+      on hard money, on gold or on the US dollar. That was as good as gold. So the result
+      of World War Two was, once again, to create a world economy centered on the financial
+      power of the United States, which initially thought that, well, we can avoid what
+      we did in World War One. We’re not going to insist on moving directly into a depression.
+      We’re going to say that, well, you can depend upon the dollar and, do your trade
+      in dollars in a way that will enable you to develop at the same time. And, the
+      but in order to join this American-centered world order, you have to agree on
+      free trade. Well, the, the, the first geopolitical aim of American foreign policy
+      after World War, during the closing days of World War two, nineteen forty four,
+      was to break up the British Empire. America wanted to absorb it into the American
+      economic area. Dollar area. We won’t call it an empire. I have a whole chapter,
+      two chapters on this in my book, Super Imperialism. And so the United States said,
+      well, the were for, one of the principles of the international order that we’re
+      sponsoring is free trade. Countries can spend their savings wherever they want.
+      Well, that meant the end of Britain’s sterling area during World War Two. India
+      and other British colonies had accumulated very large foreign reserves as a result
+      of their supply of raw materials. So did Argentina and other Global South countries
+      had that. Many of these were sterling area countries. And the Americans made an
+      agreement as a condition for the British loan of nineteen forty four that Britain
+      would not block these foreign savings by its colonies from being spent in Britain.
+      They ended up being spent on the United States because the United States had the
+      industrial power that Britain didn’t have. And other countries were not allowed
+      to devalue their currency in order to gain an industrial advantage. Britain had
+      to promise not to devalue its sterling to a degree that would be competitive with
+      American industrial exports. So you could say that the post-World War II order
+      started with America destroying the British economic empire and also that of France,
+      and other countries that were, and it was founded on pro-creditor rules that ended
+      up with the fact that international debts grew exponentially at compound interest.
+      And by the nineteen eighties, nineteen, you had the whole breakdown of the Latin
+      American debt bomb, the whole Latin American default, the whole nineteen eighties
+      were a period of default among internet among countries. And all the countries
+      wanted to get free from the IMF at that time. They, they, they realized that if
+      they, if a country was having to borrow from the IMF and it said, you have to
+      impoverish your labor force. This is class war. This is America’s foreign policy
+      is a class war against labor, above all. And, in order to pay your foreign debts,
+      you have to agree to reduce your labor. wages of labor. As if that will make you
+      more competitive. Well, of course, it didn’t make them more competitive. The lower
+      the labor costs you pay, the less productive it is. If you impose austerity, you
+      don’t have the money to mechanize production to increase industrialization. The
+      whole of America started World War two with the post-war period, with the ability
+      to crush other countries’ ability to develop. So you had a dual economy developing
+      during the whole post-1945 period. You had more industrialized economies in the
+      West, Europe, the United States, and its allies. And you had the global South
+      countries, the raw materials exporters that dissipated the foreign exchange savings
+      that they’d accumulated during World War Two by essentially being forced to follow
+      free trade, and were blocked from imposing protective tariffs, as the United States
+      and all the European countries had done to build up their industry. They had to
+      agree not to use government subsidy of industry like the United States was doing.
+      And they had to agree not to produce their own food. That was the central role
+      of the World Bank, which was willing to lend money for port development, road
+      development, electrification, and other public infrastructure. But this would
+      mean countries could not develop family farming. They could not undertake land
+      reform to develop their own food production. The tropical countries were obliged
+      to focus on plantation crops from large plantations, largely foreign-owned, such
+      as, most notoriously, the United Fruit Company in Guatemala, and the American
+      government said we will assassinate any foreign leaders or governments that wanted
+      to take control of their own land to feed themselves. They are. Feeding yourself
+      is an. Viewed not only as a threat to American security, meaning our dominance,
+      but as an act of war and it. Wage a war against Guatemala, Nicaragua, and the
+      whole. Almost the whole of Latin America is dependent on the United States for
+      its food. So the United States added foreign food dependency to the foreign oil
+      dependency, that it had, and it fought against any socialist regimes in these
+      countries, culminating in the fight against the Chilean regime, the destabilization
+      of Latin American countries. So you had an increasingly belligerent American foreign
+      policy that was designed to prevent any kind of socialist opposition. And in fact,
+      any kind of attempt by countries to use government to develop their economies
+      along the same industrial, strong government lines that the United States, Britain,
+      and Germany had used to develop their own industry in the nineteenth century.
+      That was, you could say, the shaping force of the world after nineteen forty-five.
+      Robinson Erhardt You mentioned that the post-World War II era was founded on sort
+      of the destruction of the British Empire and the French Empire and these European
+      empires. And I’m wondering if we could just briefly, I know it’s a distraction,
+      I guess, from our main topic, which is US foreign policy and its place in the
+      world order. But what has Europe’s trajectory been since this period, and where
+      is it going today? How relevant is it? Michael Hudson It’s a bit of a diversion.
+      The question is: what is Europe? So that’s a trick question. On the one hand,
+      you have what do the European voters want? They didn’t want a continued war with
+      Russia. They didn’t. They wanted to heat their homes with inexpensive Russian
+      gas. And they wanted to keep being employed by the industrial companies, the chemical
+      companies, and the fertilizer companies importing Russian oil and gas. And so
+      they’re against the Cold War conflict. The new Cold War conflict with post-Soviet
+      Russia. But the leaders of these countries are Merz in Germany, Starmer in Britain,
+      and Macron in France. Look at the first wave of demonstrations by the farmers
+      in France with their tractors against Macron. I think last summer and before,
+      Macron is incredibly unpopular in France. Then you have Starmer in Britain, and
+      you wonder how he ever could have gotten there. You have, the Labour Starmer has
+      destroyed the Labour party, as being the apotheosis, the ultimate trajectory of
+      where Tony Blair had been taking it. And so, Labour just came in third, after
+      the Conservative Party, and even the Greens won, the last by election last week
+      in, in Britain. So, Starmer has essentially ended the Labour Party’s role in Britain.
+      And yet, he’s the prime minister. And then you have Merz in Germany, the hyper,
+      Russophobe, and, you and you have the heads of the European Union, von der Leyen,
+      and both of whom are extreme Cold War Russophobes, and their policies are to intensify
+      the Cold War against Russia to the point of scaling back social spending programs.
+      Also, scaling back the subsidies that European governments have given to homeowners
+      so that, well, it’s true. Now we know that it’s more expensive now that you’re
+      buying U.S. liquefied natural gas, and four times the price that Russian gas would
+      have cost. So we’re going to give you a subsidy so you can afford to heat your
+      homes without suffering a decline in your living standards. Well, the, the, the,
+      the Russophobe leaders have said, well, it’s, we’re, we’re going to end that.
+      We’ve really got to devote our GDP much more to the GDP that in the past was based
+      on social spending and helping your standard of living and keeping your employment
+      going. Now we’re abandoning all this. We’re sacrificing ourselves in the same
+      way that our Ukrainian Democratic friends have done by engaging, accelerating
+      our Cold War against Russia, because if we don’t fight them, you know, who knows?
+      They’re going to be walking right through us on their way to Britain. So, what
+      is Europe? Is Europe what the people want? Or is it that the governments of these
+      countries, especially the European Union, are so anti-labour, so anti-industry,
+      so willing to sacrifice German industry and European industry in general in order
+      just to indulge in their hatred of Russia, that they’re willing to impose chronic
+      depression on European industry? That, of course, now is greatly exacerbated by
+      what’s happening in, in the Middle East, the, There’s a question of whether the
+      European Union can remain. The European Union has just said, we’re abolishing
+      the principles of the Constitution. Forget what we wrote. If the Americans can
+      ignore their constitution, we can do the same thing. We’re a democracy. We’re
+      whatever the leaders tell us to do, we will do and forget the Constitution. Forget
+      the written law. We’re essentially going to prevent the main constitutional feature
+      of the EU was that it has to be unanimous, in that any country has the right to
+      veto war spending and war power. Well, you have Hungary and Czechoslovakia. I’m
+      sorry. The Czech Republic, slip of the tongue from my childhood usage, thing.
+      Well, wait a minute. We don’t we cannot afford to go to war with Russia, and we
+      need Russian oil. The Ukrainians have just blown up the Russian pipeline that
+      was feeding oil to Hungary, threatening to cause a whole crisis there. And, the
+      Europeans are essentially have just, abandoned NATO. They said NATO knows the
+      rules of NATO no longer apply. The whole Enabling fiction of NATO was that if
+      one country was attacked by an outside, we would all support it. They now say
+      we will not support you if you’re attacked by a country that we like, like Ukraine,
+      and we don’t like you. So, of course, any European country can be attacked at
+      will by Ukraine or us or whoever wants, as long as they’re not a right-wing, financialized,
+      neoliberal country. Well, this is not what the EU was supposed to be. It wasn’t
+      supposed to be a neoliberal, polarizing country. As an adjunct of NATO. And now
+      that you have, the EU foreign policy leadership and the, the, fight, the, you
+      could call it a legal civil war of the, of NATO against Hungary and the Czech
+      Republic and other countries, members that want to say we don’t want to sacrifice
+      our economic growth, just to fight Russia when Russia hasn’t attacked us. And
+      it’s all a myth. You’re making up all these stories. This is all a fiction. The
+      emperor has no clothes. You know, the reality is we were doing just fine. Getting
+      inexpensive Russian oil and gas and making Russia a profitable market for the
+      industrial exports that we were making. There was a circular flow that was very
+      good. And now you stopped it just because you personally and ethnically hate Russians
+      and you’ve. You’re in. You’ve recovered the neo-Nazi. The old Nazi fight that
+      the Russians and the Slavs are genetically inferior to the rest of the human race.
+      We don’t believe in that genetic inferiority. This is. This is abhorrent. The
+      reality is that the World Bank and every other observer says Ukraine was the most
+      corrupt country in the Northern Hemisphere, that is, in America, says Ukraine
+      is the democracy that we’re fighting for, just as Israel is the democracy that
+      we’re fighting for. And the third great democracy we’re fighting for now is al-Qaeda
+      in Syria. Well, look at the three democracies that America’s holding up to protect
+      the world and its allies against autocracy, which are involved in racist ethnic
+      cleansing. What does that tell you about how the world is splitting up? So any
+      rate, that was a long answer to, to Europe. Europe one has the European leaders
+      have decided that, the wrong country, one or, one World war two and that, they’re
+      going to refight World War two. And this time the Germans are going to win. I’m
+      paraphrasing. I think that’s the inner meaning of chancellor emeritus, speak.
+      Germany is going to win the war against Russia this time. And this is crazy, but
+      that’s, that’s our ally. Germany is our land. An aircraft carrier. You could say,
+      or an atom bomb carrier now, along with France, in the war against Russia. Robinson
+      Erhardt Again, I’m taken by your description or discussion of racism and ethnic
+      cleansing in Ukraine, because, I mean, I’ve done a number of dedicated episodes
+      about Israel and Palestine. And for those, I read many books. So I’m at least
+      aware of this. I have a basic awareness of the issues going on. I’m not a scholar
+      in these subjects, but I haven’t done that with Russia and Ukraine. And I remember
+      at the outset of the war, hearing that this was one of Putin’s motivations, that
+      there was persecution of Russian speakers in Ukraine. But I thought. Michael Hudson
+      And persecution, murder, mass murder, and bombing of their apartments. Destruction,
+      killing. open killings. Robinson Erhardt And what I had heard, though, at the
+      time was that this was overblown. And not actually the case. And it was just an
+      excuse for Putin to annex territory. So it’s interesting for me to hear from you
+      that this is very much the case. Michael Hudson Well, read the speeches of Zelenskyy.
+      And, I think, Lavrov has certainly given his speeches. Describe the history, case
+      by case, in great detail, the burning of all Russian language books, in public.
+      The banning of the performance of Russian music by Russian composers. The banning
+      of plays written by Russian playwrights. I mean, all of that is so well documented.
+      Robinson Erhardt Yeah. Well, I mean, one thing it tells me is that I need to do
+      some dedicated episodes on this topic, just so that I have an excuse to spend
+      more time studying it. But you mentioned earlier, you alluded to Europeans alleging
+      that we’re ignoring the Constitution, so why can’t they ignore the Constitution,
+      their own constitutions? And I happen to be taking a constitutional law course
+      here right now. So I’m just particularly curious what about our Constitution?
+      Do they or do you think that we’re ignoring right now that’s particularly relevant
+      to our discussion? Michael Hudson Well, in both cases of Europe and the United
+      States. The First Amendment protects free speech. You can look at what the United
+      States has done to punish the judges of the International Criminal Court who ruled
+      that Netanyahu and Israel were war criminals, and against the UN, the United Nations
+      rapporteur, who essentially presented the case against Israel. America has blocked
+      the judges and the UN rapporteur from traveling to the United States has frozen,
+      all of their assets in the United States has prevented the judges from, using,
+      credit cards, for instance, has done, essentially has waged a personal war against
+      them saying if any member of the quorum of the International Judiciary or the
+      United Nations takes the policy that criticizes the United States, we will make
+      life personal hell for them. They do not have free speech. There’s also the move
+      in the last month against a Swiss military historian — Baud — whose work was very
+      good. They’ve essentially confiscated all of his money and banned him from the
+      internet. You have, you have in Britain, the criminalization of making a public
+      speech, criticizing Israeli policy against Palestine, or criticizing Ukrainian
+      policy against the Russians. You’ve had a criminalization of free speech from
+      the, in Europe, From Europe, the EU, to the United States and Britain. So you’re
+      having all of these principles of constitutional law in these countries. And I
+      wrote in my article that I wrote on Democracy Collaborative a few days ago. I
+      go into all of the elements of international law and the Constitution that the
+      United States has banned in its fight against the United Nations. Reporter and
+      judge. Robinson Erhardt Well, thank you for entertaining these digressions and
+      tangents going back to — I mean, sorry — the United States’ trajectory from World
+      War One to the present. When exactly was the apex of American and Geopolitical
+      American economic and geopolitical power in this time period throughout the world?
+      In the world. Well. Michael Hudson The idea convinced the Europeans that what
+      was at issue was private property, in debt, and that Europe’s government debts
+      to the United States were, if the debts were not paid, that was a threat to the
+      private property system. And that was socialism. So every means that Europe had
+      for economic survival of its economies to avoid economic collapse that led to
+      fascism was deemed socialism, just as, in Latin America, every attempt that governments
+      made to achieve self-sufficiency in trade, self-sufficiency in their food that
+      they could produce at home instead of importing, was called, socialism, and the
+      demonization of, any government investment itself, any price regulation, any anti-monopoly
+      or, action was considered an interference with the free market, the free market,
+      meaning, there are no rules at all to provide, rentier exploitation, no rules
+      to prevent monopoly rent, no rules to tax away land rent, which was the core policys.
+      As I said, from Adam Smith through John Stuart Mill to the Communist Manifesto
+      to the entire, nineteenth century liberal movement of a free market, meaning a
+      market free from rent seeking a market free from landlordism. A market free from
+      monopolies. The whole economic vocabulary was transformed. And you could say the
+      apex of American policy was to create a new fictitious narrative of how economies
+      really developed, how Europe and the United States had successfully industrialized
+      their own economies as a whole. And as we discussed in one of our first interviews,
+      a rewriting of the origins of civilization, as if it all began as if Margaret
+      Thatcher and Ronald Reagan got in a time machine and went back to Sumer and Egypt
+      and created a free market. And that’s what created money and interest and all
+      of civilization, whereas there never would have been a civilization if Margaret
+      Thatcher and Milton Friedman had been advising the kings of Mesopotamia, Babylonia,
+      and Egypt. Robinson Erhardt Well, I imagine it is quite, quite difficult for you
+      to predict the outcome of current events quite specifically, like what’s going
+      to happen over the next week or two, let alone a few months in Iran, for instance.
+      But I wonder, given that we’ve spoken about the trajectories of the United States
+      of Russia, of Europe over the last hundred years or so, how do you see that playing
+      out today and in the years or decades to come, like what’s happening in this global
+      conflict over economic structure? Michael Hudson Well, Donald Trump, in the last
+      week, has said this war is going to be over in four weeks. But it’s not going
+      to be over in four weeks. It’s going to go on to the point where it creates an
+      economic depression in Western Europe, and in other certain other oil using countries.
+      Now it’s true, they all have oil reserves. America has huge oil reserves. Europe
+      has it. They’re going to, there’s going to be enough transition to avoid a quick
+      depression because Europe is going to use up its oil reserves to prevent economic
+      collapse, which would mean the political collapse at the polls of the leading
+      Russophobic policies. But the fact is that the whole financial trajectory that
+      the West has taken since the nineteen eighties is, is going to break down. It’s
+      been polarizing all the growth in wealth in Western Europe and the United States
+      has accrued to the mainly to the wealthiest one percent of the population and
+      at most the wealthiest ten percent. The ninety percent are being impoverished.
+      Something has to give. Well, there really isn’t any left wing anymore. That’s
+      the left wing. Doesn’t the ideology and the the the. Based on the value and rent
+      theory that used to be socialism. Value, price, and rent. How do we bring prices
+      in line with the actual cost value to minimize the cost of living and doing business?
+      So we can use the economic surplus to finance our own growth? All that’s gone.
+      So you’re going to have China and other countries trying to pull ahead further
+      and further by using government as the coordinator and engine of growth, and the
+      Western countries opposing government, with neoliberalism, shifting economic planning
+      away from the government sector to the financial sector. So you’re going to have
+      a Financialized West, becoming increasingly polarized and impoverished compared
+      to a more balanced public-private, throughout the Asian countries and Russia,
+      that are joining together, more and more. And, the focus really is going to be
+      on China, Russia, and Iran. It’s not possible, really, to see what the other BRICs
+      members are going to be; there really isn’t a BRICS ideology yet. There’s no ideology.
+      It’s as if the rest of the world is acting just improvisationally on an ad hoc
+      basis, without any kind of economic or theoretical context for what the purpose
+      of our growth is. What’s the purpose of government, and for that matter, what’s
+      the purpose of this Cold War? What does America want to achieve by conquering
+      the war with Iran, except to carve it up and end up making Iran look just like
+      Syria? We’ve destroyed Syria, Iraq, and Libya. Is the world going into the Middle
+      East and end up like Libya and Syria, with al Qaeda and Israel together governing
+      it? Or is it going to become more self-sufficient? Saudi Arabia and the other
+      Arab countries said, well, America promised that it would protect us. And that’s
+      why we made all these loans to the United States and kept all our investments
+      in the United States. But the United States didn’t protect us. Look, Iran has
+      blown up our gas export capacity. They’ve blown up our oil world. They’re they’re,
+      hitting us, at, well, maybe, we cannot depend on the United States in Europe anymore.
+      And Europe apparently has said we’re going to join the United States, attack Iran,
+      and come in. And so that, you’re going to have the threat of it spreading. And,
+      if Macron and Mertz succeed in actually giving Iran an atomic missile, to say,
+      you know, now send it to Moscow and Saint Petersburg, Russia’s already said we’re
+      going to retaliate against the countries that produced the missiles, and Iran,
+      we realized our fight isn’t with Ukraine. Ukraine is merely the battlefield, the
+      arena. Our fight is with Western Europe acting as a U.S. proxy. And, if we’re
+      really threatened, existentially, with an atomic bomb from Europe. There won’t.
+      I think Putin said, the war will last one day, there won’t be any more Europe.
+      So, you know, that’s what it’s all about, confrontation. I think this time you’ll
+      have, just as Iran is fighting back, you’ll have Russia fighting back and China
+      fighting back, a spreading conflagration, at the same time that there’s a, a polarization
+      and deindustrialization and economic depression in the West. Robinson Erhardt
+      So given that we’ve spoken so much about Iran today, maybe it would come as a
+      surprise to you that I’m surprised to hear you say that the focus going forward
+      will be on China, Russia, and Iran. But China and Russia, for a long time, have
+      been discussed as I mean, these other crucial powers in the world order. And I’m
+      wondering if Iran is so important just because there’s this war going on there
+      right now, or if it’s because it’s important for the balance of powers in the
+      Middle East, or because of its connection to oil, or just because it’s representative
+      of something larger. Michael Hudson Eighty percent of Iran’s oil exports go to
+      China. Now, it’s true that only five percent of these exports are imports of oil
+      from Iran. But China is dependent on Near Eastern oil, as are other countries.
+      And it realizes that this fight in the Near East is for American control of oil
+      with the intent of depriving China of oil from either Iran or the OPEC countries
+      generally. And just I think in the last twenty-four hours, you had Britain, I
+      think, a Russian tanker off Gibraltar and carrying oil that, Europe has said we’re
+      going to block Russian tankers from access to the Baltic so that other countries
+      cannot import Russian oil. And, all of this is an attempt to squeeze China. China
+      will be hurt by the inability to obtain access to oil, which drives its industry
+      despite all of its leadership in creating alternatives to carbon fuels; it still
+      needs it. So China needs Iran, and to use Iran is the protection against al Qaeda
+      and the crazy, vicious Wahhabism that is being used to train, what? Thinking,
+      Uyghur areas, too, have terrorism. Do you have Syria and Ukraine training, anti-Chinese
+      figures to try to break the Uyghur area, Xinjiang province, away from China right
+      there? So, this, this fight, in Ukraine and Iran directly affects China’s integrity
+      because the intent is to break up, to use the Islamic terrorism and the US terrorism
+      and the Israeli terrorism and the Ukrainian terrorism all together to break up,
+      Russia, China, and Iran into component parts. This is a purely destructive core
+      of American policy and European and Western policy that is forcing China to make
+      this a world conflict. So, all the to answer your questions, all three, it’s about
+      oil. It’s about the military. It’s about the larger picture, and it’s about the
+      whole, whether there’s going to be, in fact, an economic freedom of countries
+      to act in their sovereign self-interest or whether America will succeed in using
+      terrorism to prevent countries from doing that. Robinson Erhardt Well, the last
+      question I will ask you for today is, you and I, a little over a year ago, we
+      had a joint conversation with Rick Wolfe. And I’ve had many conversations with
+      him about the, quote unquote, American empire and its decline. And I’m just wondering
+      if how you how you see the American empire going forward? Is it declining precipitously?
+      What are things going to look like in five, ten, and fifteen years? Michael Hudson
+      Well, it’s already transformed into the opposite strategy of what it was after
+      World War Two. That was what the national security strategy said last December.
+      We’re no longer basing ourselves on the international law of the sovereignty of
+      nations. We’re asserting American dominance. So, this transformation is a sign
+      that the positive basis that enabled America to create an empire by being industrially
+      and financially strong, it no longer exists. And so, you could say that the turn
+      into saying all that we have left is America’s ability to create chaos in other
+      countries. This is not a long-term solution. At some point, other countries are
+      going to say, we want to avoid chaos. We have to act on our own to prevent chaos
+      in the way that we do, that we’re not going to fight with America. We’re not going
+      to fight with Europe. We’re just going to decouple. You go your way, and we get
+      our way. So instead of the United States succeeding in isolating Russia, China,
+      and Iran, the United States will end up isolating itself from the global majority.
+      And that’s essentially like once you’ve isolated yourself from the majority of
+      the world, and all you’re left with is Western Europe that you’ve impoverished
+      by, dragging it into the Cold War, sanctions against Russia, then you’re economically
+      shrinking. And if you’re economically shrinking, then your ability to finance
+      your world military presence by other countries. Transferring their wealth to
+      you is all over. And that’s what empires are all about. Empires impose tribute.
+      America has lost its ability to extract tribute, except by threatening to cause
+      chaos in other countries. And other countries are now trying to decouple as radical
+      as rapidly as they can. That’s why Merz has gone to China. Starmer has gone to
+      China. And why the Europeans are saying, maybe we made a wrong, we backed the
+      wrong horse. Robinson Erhardt Well, Michael, as always, it’s been an absolute
+      pleasure talking to you. So thanks so much for joining me today. Michael Hudson
+      Well, it was a far ranging discussion. Thanks for having me, Robinson. I’m glad
+      we could tie all these different strands together into a system. Photo by Tim
+      Oun on Unsplash The post Chaos As US Power first appeared on Michael Hudson .
+      The post Chaos As US Power first appeared on Michael Hudson .'
+    one_sentence_summary: In a recent discussion, Michael Hudson expresses a shift in
+      focus from historical analysis of U.S. foreign policy to addressing the contemporary
+      implications of recent events in the Middle East, highlighting the discrepancies
+      in the government's National Security Strategy report.
+    paragraph_summary: In a recent discussion, Michael Hudson shifted the focus of his
+      analysis from historical perspectives on U.S. foreign policy to the contemporary
+      issues arising from recent events in the Middle East. He expressed concern that
+      the current National Security Strategy report fails to accurately reflect the
+      realities of American foreign policy, which he argues has become increasingly
+      self-serving and divisive. Hudson highlighted the detrimental effects of U.S.
+      policies that have polarized the world into opposing factions, with the U.S. and
+      its allies on one side and the rest of the world on the other. He emphasized that
+      this win-lose mentality, as articulated by Donald Trump, has led to a weaponization
+      of trade and warfare, ultimately creating a complex and troubling geopolitical
+      landscape.
+    published: '2026-03-21T00:03:27+00:00'
   - title: War, Oil and Empire
     url: https://michael-hudson.com/2026/03/war-oil-and-empire/
     text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, March 5, 2026, and our

@@ -7,16 +7,588 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past week has seen a marked escalation in nuclear posturing and military interventions, signaling a period of heightened instability across multiple geopolitical fronts. As global arms control frameworks unravel and Western powers double down on forceful deterrence, the prospects for diplomatic solutions appear increasingly remote.
+  The ongoing Iran War continues to reshape global geopolitics, with the closure of the Strait of Hormuz emerging as a critical flashpoint. This chokepoint, vital for both oil and fertilizer shipments, has triggered cascading disruptions across multiple sectors. As **Binoy Kampmark** notes, the blockade is not only spiking energy prices but also threatening food security worldwide, particularly in major agricultural economies like Brazil and India, which are heavily dependent on imported fertilizers. The resulting agricultural shock is expected to intensify in the coming months, with a high likelihood of price surges and potential shortages in the global food supply chain.
   
-  Most recently, France’s decision to expand its nuclear arsenal under President Macron has drawn sharp criticism from analysts. **Binoy Kampmark** argues that this move is emblematic of a broader “dangerous mindset” among world leaders who equate security with military might, especially as tensions with Iran and within Europe intensify. The expansion is widely interpreted as a reaction to the perceived erosion of international norms and the growing unpredictability of both allies and adversaries.
+  Meanwhile, the United States faces mounting challenges in sustaining "Operation Epic Fury" in the Middle East. Despite early assurances from President Trump to end "forever wars," the conflict has led to significant resource strain and ballooning costs for the U.S. military. **Kampmark** highlights the depletion of critical munitions and the resilience of Iranian forces, casting doubt on Washington's ability to achieve a decisive victory or maintain domestic support for the campaign.
   
-  Meanwhile, the expiration of the New START treaty on February 5 has further undermined global arms control efforts. With no replacement in sight, **Kampmark** warns of a “significant setback” that could trigger a new arms race between the U.S. and Russia. The lack of constraints on strategic arsenals is already fueling anxiety among European states, prompting some, like France, to pursue independent deterrence capabilities.
+  On the diplomatic front, the crisis has exposed the limitations of so-called "middle power" diplomacy. Recent speeches by Canadian Prime Minister Mark Carney and Australian Prime Minister Anthony Albanese have attempted to position their countries as independent actors. However, **Kampmark** argues that their failure to address complicity in U.S. and Israeli actions against Iran undermines these claims, revealing a pattern of subservience that weakens their credibility on the world stage.
   
-  On the Middle Eastern front, the U.S. and Israeli military strikes against Iran—dubbed Operation Lion’s Roar—continue to spark controversy. **Kampmark** likens the justifications for these actions to those used in the lead-up to the 2003 Iraq War, emphasizing the absence of ground troop involvement and questioning both the legality and effectiveness of the campaign. The complicity of U.S. allies in these strikes, despite clear violations of international law, signals a worrying abandonment of the UN Charter and established norms.
-  
-  Looking ahead, the prevailing trend is toward increased militarization and a retreat from multilateralism. There is a high chance that nuclear proliferation will accelerate, particularly among states feeling threatened by the dissolution of arms control agreements. The majority of analysts, including **Kampmark**, predict that unless there is a dramatic shift in leadership or public pressure, the world will “most definitely” see further erosion of international legal frameworks and a greater reliance on unilateral military actions. The risk of escalation—both nuclear and conventional—remains high, with diplomatic avenues narrowing by the day.
+  Looking ahead, the majority of analysts, including **Kampmark**, predict with high confidence that the disruptions in global supply chains—especially in energy and agriculture—will worsen before any resolution emerges. The U.S. military is likely to remain bogged down in an expensive and protracted conflict, while allied nations will continue to struggle with the diplomatic fallout of their involvement. The broader trend points toward increased instability in global markets and a further erosion of trust in Western leadership, with most observers warning that a swift or peaceful resolution remains unlikely in the near term.
 articles:
+  - title: 'Blocking Fertilisers: The Hormuz Strait and Agricultural Shock'
+    url: https://www.counterpunch.org/2026/03/19/blocking-fertilisers-the-hormuz-strait-and-agricultural-shock/
+    text: 'The closure of virtually all commercial traffic through the Strait of Hormuz
+      occasioned by the Iran War is not merely a matter of oil and gas, the usual prized
+      duo that feature in the nervous chatter of global markets. There are other less
+      conspicuous products that have also been snared in the process. Consider fertilisers,
+      with a supply shock that may well push prices beyond the 2022 peak following the
+      Russian invasion of Ukraine. Given their role in agriculture, another, less publicised
+      shock arising from this prolonged war is in the offing. Prices, at this writing,
+      are already biting. Egyptian urea prices have risen by 25%, reaching $625 per
+      metric tonne, up from $484 to $490 between February 17 and February 23.
+
+
+      The North Dakota State University’s Agricultural Trade Monitor may not make scintillating
+      reading, but it is of sufficient interest to note that the Gulf accounts for some
+      43% of seaborne urea exports, approximately 44% of seaborne sulphur, over a quarter
+      of traded ammonia and far from negligible quantities of phosphates. The effect
+      of the illegal war commenced by the US and Israel on February 28 had immediate
+      effects. “Within the first week of the crisis, major Gulf producers began declaring
+      force majeure and reducing operations across urea, ammonia, and sulfur.”
+
+
+      In their March report, the authors note that, unlike 2022, when Russian fertilizers
+      were rerouted, “limited alternative routes” present themselves with a closed Strait.
+      Risks for the US could be identified in urea, MAP (Mono-Ammonium Phosphate), and
+      DAP (Di-Ammonium Phosphate) fertilizers.
+
+
+      Serious risks present themselves to such heavily reliant fertilizer importers
+      as Brazil, given its reliance on nitrogen and phosphate. The country imports over
+      80% of its fertilisers. “The Hormuz closure simultaneously removes direct Gulf
+      supply to Brazil and constrains Morocco’s ability to substitute for it.” This
+      also involves the Chinese market, which, while self-sufficient in many respects,
+      still relies on Brazil, which in turn is highly dependent on urea from the Middle
+      East. Both need the fertilisers to grow soybeans which are consumed by livestock
+      such as pigs and cows.
+
+
+      India is also a country most conspicuously vulnerable. It is the largest importer
+      of DAP imports, accounting for 28.7% of the international market. Much to its
+      misfortune, its major suppliers – consider Saudi Arabia (24%) and Morocco (22%)
+      – face the problem of maritime access via Hormuz and the Red Sea. Similarly with
+      urea, India imports about $2.2 billion worth, accounting for 7.2% of global imports
+      and 20-25% of domestic needs. Again, major suppliers such as Oman (15%) and Saudi
+      Arabia (9.5%) find themselves in the zone of conflict and supply. Given that the
+      country has 30 urea manufacturing plants that require natural gas or naphtha feedstock,
+      disruptions in LNG supply will drive up production costs and is already reducing
+      capacity.
+
+
+      The continued closure of the Strait would also restrict the supply of global sulphur
+      “raising costs for phosphate producers in China, Morocco, and Indonesia, countries
+      that depend on Gulf sulfur such as feedstock, and constraining global phosphate
+      supply at a time when alternative sources are already limited.”
+
+
+      The cascading effects of this fertiliser choke in Hormuz lies, not only in the
+      closure that restricts Gulf product from making it to markets. It means that fertiliser
+      producers are unable to exploit vital ingredients. Take, for instance, the case
+      of Egypt’s urea plants: the natural gas supply upon which the country’s fertiliser
+      production requires was cut off with Israel shutting down offshore gas fields.
+      (This will necessitate diving into the ever-dearer LNG market.) With natural gas
+      supplies from Qatar severed, fertilizer firms in India, Bangladesh and Pakistan
+      have begun to cease production.
+
+
+      If the Trump administration thought it could be spared domestic grievances on
+      the agricultural front, the president of the American Farm Bureau Federation sought
+      to disabuse him. In a March 9 letter of praise and sorrow to President Donald
+      Trump, Zippy Duvall reminded him that global fertiliser markets, like oil, were
+      “highly vulnerable to disruptions in maritime transit routes, especially through
+      the Strait of Hormuz, a critical shipping corridor for key fertilizer materials
+      and finished fertilizer.” The halt of energy production in the Middle East would
+      also “affect the price and availability of many downstream products farmers depend
+      upon.” Such shocks in the supply chain would push “already record-high input prices
+      even higher at a time when farm margins are already extremely tight and many farmers
+      are under water.”
+
+
+      Duvall, filled with vim, went on to urge the President to “use your authority
+      to take proactive steps to safeguard fertilizer supply chains and reduce the risk
+      of market disruptions that could threaten American agriculture.” These included,
+      among several recommendations, deploying the US Navy to shield maritime suppliers
+      of fertilizer shipments through the Strait of Hormuz (the improbability and feasibility
+      of this does not seem to have dawned on Duvall), providing insurance coverage,
+      ensuring appropriate domestic port, rail and barge capacity “to expeditiously
+      deliver fertilizer inputs to rural America” in timely fashion and using Presidential
+      power “suspend countervailing duties on imported fertilizer products to moderate
+      price increases” on a temporary basis.
+
+
+      The historian Adam Tooze makes the essential point that, if you want to schedule
+      conflict, do it so as to avoid clashes with the agricultural cycle. By disrupting
+      the cycle and causing a rise in staples, food security is imperilled and social
+      unrest is sown. It is abundantly clear that the planners behind the war on Iran
+      have shown themselves both contemptible and inept in appreciating that fact. The
+      consequences will be borne globally, and international disorder in agriculture
+      and food is in the making. Truly, a crime against peace.'
+    one_sentence_summary: The closure of the Strait of Hormuz due to the Iran War is
+      causing significant disruptions in the global fertilizer supply chain, leading
+      to rising prices and potential agricultural crises, particularly affecting countries
+      like Brazil and India that heavily rely on imports for their agricultural needs.
+    paragraph_summary: The closure of commercial traffic through the Strait of Hormuz
+      due to the Iran War has significant implications beyond oil and gas, particularly
+      affecting the global fertilizer market. Fertilizer prices, such as Egyptian urea,
+      have surged dramatically, with a 25% increase noted recently. The Gulf region,
+      which supplies a substantial portion of the world's urea, ammonia, and sulfur,
+      has seen major producers declare force majeure, leading to supply shocks that
+      threaten agricultural production in countries like Brazil and India, both heavily
+      reliant on imports. The disruption in fertilizer supply chains is exacerbated
+      by the conflict's impact on natural gas availability, crucial for fertilizer production,
+      and could lead to higher food prices and insecurity globally. The American Farm
+      Bureau Federation has urged the U.S. government to take measures to safeguard
+      fertilizer supplies, highlighting the interconnectedness of agricultural cycles
+      and geopolitical conflicts. Overall, the ongoing war and its repercussions on
+      fertilizer supply chains pose a looming threat to global food security and stability.
+    published: '2026-03-19T05:51:30+00:00'
+  - title: The Growing Problems of Operation Epic Fury
+    url: https://www.counterpunch.org/2026/03/17/the-growing-problems-of-operation-epic-fury/
+    text: 'The big drain on military resources has begun. A war apparently already won
+      (and not), against an adversary supposedly without means to fight back, its air
+      force and navy destroyed, its missile capabilities blunted, is now drawing the
+      clumsy colossus of American power into the Middle East with embarrassing effect.
+      The Middle East, where US President Donald Trump promised the “forever wars” would
+      end, promises an end to his beginning.
+
+
+      The ledger of losses keeps rising with giddying pace. The US casualty list, for
+      now, remains manageably low, but the military purse is being raided with manic
+      relish. Operation Epic Fury cost US taxpayers $11.3 billion in munitions over
+      the first six days, an estimate that excludes operating and maintenance costs
+      of the engaged military force or the damage inflicted by Iran. The Washington-based
+      Center for Strategic and International Studies (CSIS) claims that the first 100
+      hours of the war cost $3.7 billion, approximating to $891.4 million each day.
+
+
+      Strain is also being placed on inventories. The US prides itself on deluxe, high
+      brand killing and extermination of targets, using chic weaponry and dull doctrine.
+      Expensive homicidal measures do have to be eventually accounted for. According
+      to reporting from Bloomberg, “as the conflict extends toward a third week, the
+      US war effort is showing unexpected signs of strain against an adversary whose
+      military budget is smaller than the GDP of Vermont – but which has an arsenal
+      of missiles and drones unlike anything the US has ever faced.”
+
+
+      Critical munitions are being depleted. With the campaign barely 100 hours old,
+      168 Tomahawk cruise missiles had been fired. (Each unit costs a mighty $3.6 million.)
+      This is a staggering figure when compared to the rate of procurement: the previous
+      five years had seen the production of 322 Tomahawks. According to a source quoted
+      in theFinancial Times, “The navy will be feeling this expenditure for several
+      years.”
+
+
+      While the Pentagon gloats at reducing Iranian strikes by 80% or more, Tehran has
+      gotten more economical with its targeting, successfully striking military and
+      energy infrastructure across the Middle East with telling effect. Ballistic missiles
+      have hit the US Navy’s Fifth Fleet headquarters in Bahrain, destroying two AN/GSC-52B
+      SATCOM terminals. A costly AN/FPS-132 early warning radar in Qatar – a facility
+      estimated to cost some $1.1 billion – was successfully struck by a ballistic missile.
+
+
+      The AN/TPY-2 radar facilities used by the lauded yet hideously expensive Terminal
+      High Altitude Area Defense (THAAD) system have also been struck in Saudi Arabia’s
+      Prince Sultan Air Base, Al Ruwais in the UAE, Al Dhafra Air Base in proximity
+      to Abu Dhabi and Jordan’s Muwaffaq Salti Air Base. A sense of how important that
+      facility is to the operation of the battery is provided by N.R. Jenzen, a munitions
+      specialist of Armament Research: “The AN/TPY-2 radar is essentially the heart
+      of the THAAD battery, enabling the launch of interceptor missiles and contributing
+      to a networked air defence picture.” Knocking out the radar blinds the system.
+
+
+      The outstanding feature of many of the strikes is their relative cheapness to
+      the interceptor missiles used to destroy them. “The round’s we’re firing – Patriot
+      rounds, THAAD rounds … these weapon systems, each around is millions of dollars,”
+      laments Arizona Democratic Senator Mark Kelly. “The math on this doesn’t work.”
+      Shahed-136 one-way drones, each one costing $35,000, have played a starring role
+      in upsetting “the math”. CENTCOM commander Adm. Brad Cooper has also noted that
+      the majority of wounded US personnel – some 140 troops – have been injured in
+      “one-way strikes.”
+
+
+      This has compelled the Pentagon to pay greater attention to its own Low-Cost Uncrewed
+      Combat Attack System (LUCAS), which is now seeing service in some instances against
+      Iranian attacks. But the department is also set to seek more cash, expecting to
+      ask $50 billion in additional funding from Congress. Given the sheer unpopularity
+      of the war, some lawmakers have reservations. “You’ve got to be able to provide
+      us with more information as […] justification,” insists Alaska Republican Senator
+      Lisa Murkowski, member of the Senate Appropriations Committee. “Don’t just take
+      it for granted that the Congress’s role is basically to write the cheque.”
+
+
+      US military power is now being drawn from other theatres of interest to feed the
+      Moloch of war. In a recent cabinet meeting, South Korean President Lee Jae Myung
+      confirmed that Washington might relocate air defence material to the Middle East.
+      Multiple launchers of the THAAD system have been or are in the process of being
+      moved to Osan Air Base in Pyeongtaek, roughly 70km south of Seoul, with the interceptor
+      missiles destined for the Middle East.
+
+
+      This shifting of pieces has not been without consequence. The THAAD batteries
+      had been sent to South Korea in 2017 to assure it against threats from its nuclear-armed
+      neighbour to the north. Depriving them of projectiles has gotten tongues wagging
+      about increasing vulnerability. Besides, the ostensible security provided by US
+      power for its allies and partners has been shown to be something of a dud, as
+      Iran’s attacks on the Gulf states has so convincingly demonstrated.
+
+
+      Concern from Taiwan about such moves was registered in an interview by Chen Kuan-ting,
+      a legislator and member of the country’s Foreign Affairs and Defence Committee.
+      As US military assets and resources could not “be deployed in two places at the
+      same time”, it was a case of priorities. And those priorities, it was implied,
+      should lie in Asia. “Deploying the main military assets in Asia and confronting
+      the US’s primary competitor here is more in line with US interests.” That may
+      well be what he hopes for, but it is clear that Washington is battling through
+      the another malady Trump had once campaigned against: the debilitating entanglement
+      of a foreign war with ill-defined objectives involving a resourceful, obstinate
+      foe.'
+    one_sentence_summary: The U.S. military is facing significant resource strain and
+      escalating costs in an ongoing conflict in the Middle East, which contradicts
+      President Trump's promise to end "forever wars," as the military grapples with
+      high expenditures on munitions and the depletion of critical inventories while
+      confronting a resilient adversary.
+    paragraph_summary: The article discusses the escalating costs and challenges faced
+      by the U.S. military in a conflict in the Middle East, which contradicts President
+      Trump's promise to end "forever wars." Despite initial claims of a swift victory
+      against a seemingly weak adversary, the U.S. is experiencing significant financial
+      strain, with Operation Epic Fury costing taxpayers $11.3 billion in just six days
+      and depleting critical munitions at an alarming rate. The Pentagon's reliance
+      on expensive weaponry is proving unsustainable as Iran effectively targets U.S.
+      military infrastructure, leading to calls for increased funding and resource reallocation
+      from other global theaters, such as South Korea. Concerns are growing about the
+      implications of these military shifts on U.S. commitments to allies, particularly
+      in Asia, as the conflict reveals the complexities and unintended consequences
+      of U.S. military engagements abroad.
+    published: '2026-03-17T05:50:57+00:00'
+  - title: 'Existential Attrition: Iran’s Closure of the Strait of Hormuz'
+    url: https://www.counterpunch.org/2026/03/16/existential-attrition-irans-closure-of-the-strait-of-hormuz/
+    text: '“The geopolitical genie is out of the bottle: by capitalizing on geography
+      to disrupt global trade, countries can strengthen their strategic position at
+      relatively low cost.” – Alex Mills, The Atlantic Council, March 12, 2026
+
+
+      With each day of glorified actions against Iran, with each cloudy press session
+      claiming supreme success through sheer force, the Trump administration is struggling
+      to keep up appearances. Through an approach of existential attrition, the clerical
+      regime in Tehran is now causing shocks and tingles in the global market, striking
+      where influence is strongest: the petrol pump, the cash register, the hip pocket.
+      Its missiles, drones or projectiles may not be able to reach the United States
+      or Australia, but a note of panic is setting in.
+
+
+      Even before shipping was attacked (threats sufficed), the Strait of Hormuz was
+      already being emptied of traffic. Fearing losses, major shipping firms such as
+      Maersk, Hapag-Lloyd and CMA CGM ceased transiting cargo through the waterways.
+      Since the war commenced on February 28, transits through the Strait have virtually
+      stopped. This putative closure imperils the transfer of a fifth of the world’s
+      oil supply, a fifth of the global trade in liquified natural gas, and some 13%
+      of the global share in chemicals, including essential fertilisers. Freight rates
+      for oil tankers, war risk insurance premiums and costs of marine fuel are all
+      rising steeply.
+
+
+      A social media post from Iran’s Foreign Minister Abbas Araghchi brimming with
+      satisfaction captured the mood: “9 days into Operation Epic Mistake, oil prices
+      have doubled while all commodities are skyrocketing. We know the US is plotting
+      against our oil and nuclear sites in hopes of containing huge inflationary shock.
+      Iran is fully prepared.” He also promised that Iran had “many surprises in store.”
+
+
+      On March 11, a spokesperson for the Islamic Revolutionary Guard Corps (IRGC)’s
+      Khatam al-Anbiya Headquarters resolutely declared that any vessel linked to Israel,
+      the United States or their allies would be “considered a legitimate target”. He
+      also rejected the effectualness of efforts to suppress price rises. “You will
+      not be able to artificially lower the price of oil. Expect oil at $200 per barrel,”
+      he warned. “The price of oil depends on regional security, and you are the main
+      source of insecurity in the region.”
+
+
+      An effort to halt the rise of the oil price was made with a decision by 32 member
+      states of the International Energy Agency (IEA) to release 400 million barrels
+      of oil. “This is a major action aiming to alleviate the immediate impacts of the
+      disruption in markets,” IEA Executive Director Fatih Birol explained in his address.
+      “But to be clear, the most important thing for the return to stable flows of oil
+      and gas is the resumption of transit through the Strait of Hormuz.”
+
+
+      Over March 11 and 12, in what seemed to be an effort to counter this move, the
+      IRGC made good its word, attacking some six vessels, using projectiles and explosive-laden
+      unmanned surface vessels. Targets included the Marshall Islands-flagged Safesea
+      Vishu and the Malta-flagged Zefyros, both carrying fuel cargoes from Iraq. The
+      Thai-flagged Mayuree Naree dry bulk vessel was hit by what was described as “two
+      projectiles of unknown origin”. Mines have also been deployed to further complicate
+      the prospect of transit.
+
+
+      The response from President Donald Trump and his officials to the price rises
+      has been one of unrelenting fantasy. “The recent increase of oil and gas prices
+      is temporary,” stated White House Press Secretary Karoline Leavitt, “and this
+      operation [attacking Iran] will result in lower gas prices in the long term”.
+      Energy Secretary Chris Wright was also unjustifiably confident that the price
+      shocks would endure for a matter of “weeks, not months”.
+
+
+      After attending a classified and seemingly confused briefing on the war on March
+      10, Democratic Senator Chris Murphy from Connecticut was left unimpressed. “I
+      can’t go into more detail about how Iran gums up the Strait,” he revealed, “but
+      suffice to say, right now, they don’t know how to get it safely back open.” This
+      was “unforgivable, because this part of the disaster was 100% foreseeable.” The
+      primary war goal of the administration, as Murphy understood, was “destroying
+      lots of missiles and boats and drone factories.” Such visionaries.
+
+
+      The Trump credo of estranged reality ignores the growing and enduring consequences
+      of the strait’s closure and the war. A backlog of tankers on both sides of the
+      waterway is growing. Ports are becoming congested with overstaying vessels. Production
+      of oil and gas, impaired by Iranian attacks and continued closure, will have to
+      resume in such states as Qatar, Bahrain, Iraq and Saudi Arabia. Anas Alhajji,
+      a global energy markets boffin, offers a grim analysis: “Ending the war does not
+      mean ending the crisis. We have countries that literally shut down production
+      because their storage is full. To bring back that oil to a pre-crisis level takes
+      time. For [liquified natural gas] in particular, it takes a very long time.”
+
+
+      Asked on whether vessels should still brave the journey through the Strait of
+      Hormuz, Trump spoke with unfounded optimism. “I think they should. I think you’re
+      going to see great safety”. The new round of strikes on shipping by Iran, initiated
+      at a fraction of the cost of the US-Israel campaign against it, coupled with the
+      inexorable rise of prices, suggests otherwise. In this regard at least, economics
+      may well prove to be destiny.'
+    one_sentence_summary: The article discusses how Iran's strategic actions in the
+      Strait of Hormuz, including missile attacks on shipping, have disrupted global
+      oil markets and increased prices, while the Trump administration struggles to
+      maintain a narrative of control and optimism amidst the escalating crisis.
+    paragraph_summary: The article discusses the escalating tensions between the Trump
+      administration and Iran, particularly focusing on the impact of Iran's military
+      actions on global trade and oil prices. As Iran disrupts shipping through the
+      Strait of Hormuz, a crucial passage for a significant portion of the world's oil
+      and gas supply, major shipping companies have halted transit, leading to rising
+      freight rates and fears of a broader economic crisis. Iranian officials boast
+      about the effectiveness of their strategy, claiming that oil prices have doubled
+      and warning of further disruptions. Despite efforts by the International Energy
+      Agency to stabilize the market by releasing oil reserves, the situation remains
+      precarious, with increasing attacks on vessels and a backlog of tankers. The U.S.
+      administration's optimistic rhetoric contrasts sharply with the grim realities
+      on the ground, as experts warn that the crisis will persist even if military actions
+      cease, highlighting the complex interplay of geopolitics and global economics.
+    published: '2026-03-16T05:51:57+00:00'
+  - title: 'Middle Power Nonsense: Australia, Canada and Capitulating to the Iran War'
+    url: https://www.counterpunch.org/2026/03/13/middle-power-nonsense-australia-canada-and-capitulating-to-the-iran-war/
+    text: 'In his January speech at the World Economic Forum in Davos, Canadian Prime
+      Minister Mark Carney gave the impression of a banker turned soothsayer, a Daniel
+      coming to judgment. Here was a born-again man of international relations who would
+      rally the middle powers (from the middle) and try to assert influence and power
+      in a way deemed fit for this rule-torn world.
+
+
+      So far, the middling powers have not gotten far. In fact, they have shown themselves
+      despicably fawning and incapable of taking a stance on the legality of the US
+      and Israeli strikes on Iran. Even worse, acts of predation and villainy in breach
+      of the United Nations Charter have received the seal of approval. Suggestions
+      that they can also do things separately from the United States in some fictional
+      coalition of law-abiding states are risible. It’s rather difficult to talk about
+      sound and sober independence when your real estate is essentially part of a foreign
+      imperium.
+
+
+      During his official visit to Australia earlier this month, Carney did little to
+      address this corrupting blight on a program of independence that is compromised
+      before it begins. He expressed admiration for the role played by Canada and Australia
+      in developing a structure of international order after the Second World War without
+      conceding that they had been complicit in undermining it. Cowardice can never
+      be officially accepted as policy, though governments do their best in behaving
+      along such lines.
+
+
+      His colleague and host, Australian Prime Minister Anthony Albanese, dared mention
+      Iran in his welcoming address, not as a target and victim of the crime against
+      peace – a grave offence in international law – but as a unilateral aggressor in
+      firing missiles, in retaliation, against various countries either friendly or
+      directly allied to the US with American military bases. These attacks had been
+      “indiscriminate”, adding to the “orchestrated antisemitic attacks on a synagogue
+      and a small business here in Australia in 2024.” (Evidence of Iranian involvement
+      in those events has been skimpy at best.) And, as the Australian PM said in a
+      joint press conference with Carney, “the possibility of Iran getting a nuclear
+      weapon [was to be] removed once and for all”, a remark both disingenuous and politically
+      illiterate.
+
+
+      Refusing to point any finger at the outlawry of Israel and the US, Albanese basked
+      in middle power smugness. “Australia and Canada must seek and create new ways
+      to stand with – and for – each other.” Both countries worked together as a “positive
+      choice – not a necessity.” Peace, security and prosperity should not be seen as
+      “the preserve of the great powers alone. They are our common cause – and our collective
+      responsibility.”
+
+
+      The Australian opposition leader, Angus Taylor, proved sinister in his interpretation
+      of the Davos speech as effectively warranting a continued trashing of the rules-based
+      order precisely because the rules were a sham front to begin with. But instead
+      of pointing out the brigands responsible for repudiating that order, Taylor swanned
+      off with mentioning “autocratic regimes that behave with impunity”. (Now who could
+      he have been referring to?)
+
+
+      In his address to Australia’s parliamentarians, Carney spoke of building something
+      more positive from the “rupture” in the international order. “In an era of rupture
+      in the global order, middle powers like ours must step up. By deepening our partnership,
+      Canada and Australia can lead in creating resilient economies, secure supply chains,
+      and a safer world for our citizens.” It was up to middle powers to “help write
+      the new rules that will determine our security and prosperity” rather than leaving
+      things to the “hegemons”. Multilateralism had not been abandoned so much as evolving.
+
+
+      These vague views about middle power heft as strategic gold dust are far from
+      convincing. They have nothing of the resonance of the non-aligned movement born
+      at Bandung in April 1955 when twenty-nine governments from Asia and Africa sought
+      a third way that would involve no participation from member states in “collective
+      defence agreements” favourable to the US or the Soviet Union. Neither Carney nor
+      Albanese have even mentioned that salutary precedent. Given the security, military
+      and economic ties shared by Australia and Canada with the United States, a third
+      way of noble virtue and high principle is hardly tenable. The lamentably subservient
+      conduct of both governments to the illegal predations of Washington against Iran
+      are a case in point. When international law needed to be defended, it was smeared
+      and distorted.
+
+
+      As if to illustrate the inability of middle powers to sever the yanking chain
+      of superpower submission, it subsequently emerged that three Australian personnel
+      were on board the US attack submarine responsible for the deaths of 87 sailors
+      in the strike on the Iranian frigate IRIS Dena off the coast of Sri Lanka. Absurdly,
+      Albanese asserted that Australian personnel did not participate “in any offensive
+      action against Iran” despite being part of a crew responsible for the lethal exercise.
+      There were “long-standing third-country arrangements that have been in place for
+      long periods of time, and what they do is ensure that Australian Defence personnel,
+      where there are embedded in third countries’ defence assets, they act in accordance
+      with Australian law, Australian policy, and that is, of course, taking place across
+      the board.” Middle power nonsense, at its best.'
+    one_sentence_summary: In his recent speeches, Canadian Prime Minister Mark Carney
+      and Australian Prime Minister Anthony Albanese have attempted to position their
+      countries as influential middle powers capable of shaping international order,
+      but their failure to address complicity in U.S. and Israeli aggression, particularly
+      regarding Iran, reveals a troubling subservience to superpower interests and undermines
+      their claims of independence and leadership.
+    paragraph_summary: In his recent address at the World Economic Forum, Canadian Prime
+      Minister Mark Carney positioned himself as a leader advocating for middle powers
+      to assert their influence in a tumultuous global landscape. However, the article
+      critiques the ineffectiveness of these middle powers, particularly Canada and
+      Australia, in taking a principled stance against the legality of US and Israeli
+      military actions in Iran, suggesting they have instead shown complicity in undermining
+      international law. During his visit to Australia, Carney praised the historical
+      contributions of both nations to international order while ignoring their current
+      complicity in its erosion. Australian Prime Minister Anthony Albanese echoed this
+      sentiment, framing Iran as the aggressor without acknowledging the violations
+      committed by the US and Israel. The article argues that the ambitions of middle
+      powers to redefine global governance are undermined by their existing ties to
+      superpowers, rendering their calls for independence and multilateralism hollow,
+      especially in light of their involvement in military actions against Iran. Ultimately,
+      it portrays the rhetoric of Carney and Albanese as disconnected from the realities
+      of their nations' foreign policy, which remains subservient to US interests.
+    published: '2026-03-13T05:50:57+00:00'
+  - title: 'Starmer’s Self-Defence Fudge: The UK’s Growing Involvement in the Iran War'
+    url: https://www.counterpunch.org/2026/03/12/starmers-self-defence-fudge-the-uks-growing-involvement-in-the-iran-war/
+    text: 'Wars can distract, and for leaders in political purgatory, they can be particularly
+      useful. It remains to be seen whether the UK’s increasing involvement in the illegal
+      war being waged on Iran by Israel and the United States will serve that purpose.
+      Prime Minister Sir Keir Starmer, the great saviour of the British Labour Party
+      in taking them to victory in 2024, is finding himself in sinking desperation.
+      Being less popular than a pandemic, he has much work to do if he is to retain
+      his premiership till and after the next election.
+
+
+      This deepening involvement in the Iran War has been messy. Britain, along with
+      France and Germany, were initially clear in their joint February 28 statement
+      that they had not participated in the strikes on Iran but were “in close contact
+      with our international partners, including the United States, Israel, and partners
+      in the region.” Instead of condemning the pre-emptive attack on Tehran as a crime
+      of aggression in breach of the United Nations Charter and international law, the
+      statement went on to “condemn Iranian attacks on countries in the region in the
+      strongest terms.”
+
+
+      Within a matter of hours, Starmer rebadged his country’s engagement in the conflict
+      as a matter of self-defence under Article 51 of the United Nations Charter, making
+      what can only be regarded as a spurious use of international law – or whatever
+      was left of it. The press release on March 1 again reiterated condemnation for
+      Iran’s “reckless and ongoing discriminate attacks against countries in the region”,
+      taking no account as to why Tehran was engaged in such an avenging task. But international
+      law permitted the UK and its allies “to use or support force in such circumstances
+      where acting in self-defence is the only feasible means to deal with an ongoing
+      armed attack and where the force used is necessary and proportionate.”
+
+
+      It followed from this that the UK had “military assets flying in the region to
+      intercept drones or missiles targeting countries not previously involved in the
+      conflict.” A request from Washington had also meant that his government would
+      “facilitate specific and limited defensive action against missile facilities in
+      Iran which were involved in launching strikes at regional allies.” The statement
+      went on, weakly, to ward off suggestions of any “wider involvement in the broader
+      ongoing conflict between the US, Israel and Iran.”
+
+
+      On March 9, in an oral statement to the House, the UK Secretary of State for Defence
+      John Healey revealed the sheer scale of British involvement. The briefest of references
+      was made to Starmer’s justification along lines of collective self-defence under
+      international law. To put some flesh on the bone, it was important to inflate
+      the threat posed by the Iranian regime, a force of cruel destruction that had
+      “slaughtered protestors in its own streets”, supplied Shahed drones to Russia
+      in its “illegal invasion of Ukraine” and conducted cyber-attacks against Britain
+      and plotted assassinations on it streets.
+
+
+      Healey confirmed that the US was using British bases to target Iranian missile
+      sites from RAF Fairford in Gloucestershire and Diego Garcia in the Indian Ocean.
+      He also outlined various “defensive operations” that had taken place: the destruction
+      of Iranian drones over Jordan by F-35s; the use of Typhoons to shoot “down targets
+      heading towards Qatar”; and “counter-drone units defeating further attacks against
+      coalition bases in Iraq.” Various “defensive air sorties in support of the UAE”
+      were also being conducted. Given this burgeoning list, it is surely a matter of
+      time, given the prolongation of conflict, for Starmer to join the full-blooded
+      effort and hit sites in Iran proper. The pretence to legality will have all but
+      collapsed by that point.
+
+
+      The US President Donald Trump, for his part, has been petulant, scornful of Starmer
+      for not doing more. “This is not Winston Churchill,” he moaned to journalists
+      over the PM’s initial tardiness in permitting the use of British bases to launch
+      strikes on Iran. In a social media post, Trump revealed that the UK, “our once
+      Great Ally, maybe the Greatest of them all, is finally giving serious thought
+      to sending two aircraft carriers to the Middle East.” With a bitchy turn, the
+      President informed the PM that “we don’t need them any longer – But we will remember.”
+      He had “no need for people that join Wars after we’ve already won!”
+
+
+      The dangers of closer involvement with the US in this war should be all too clear
+      for Starmer and the Labour Party. In March 2003, as a human rights lawyer, he
+      warned the government of Tony Blair that pre-emptive action against Iraq to disarm
+      the regime of Saddam Hussein of alleged weapons of mass destruction would find
+      itself, from a legal perspective, on thin ice. “The mere fact that Iraq has a
+      capacity to attack at some specified time in the future is not enough.” No one
+      believed that Iraq was imminently about to attack the UK or its allies, and any
+      claim to self-defence “would sit uncomfortably with the US position that military
+      action is justified to destroy such weapons of mass destruction as Iraq may have,
+      and to bring about a change of leadership.”
+
+
+      Despite these warnings, Blair, with a poodle’s dignity, joined President George
+      W. Bush alongside that other servitor, Australia, to attack Iraq, finding no WMDs
+      and inviting the deserved opprobrium of the international law community. The public
+      inquiry into Britain’s involvement in the war, chaired by John Chilcot, noted
+      that “the circumstances in which it was decided there was a legal basis for UK
+      military action were far from satisfactory”. The phase of planning and preparations
+      for a post-Saddam also proved “wholly inadequate”. But the inquiry report also
+      made an unimpeachable observation troublingly relevant as Britain gets ever more
+      involved in the current crime of aggression: “The US and UK are close allies,
+      but the relationship between the two is unequal.”'
+    one_sentence_summary: The article critiques UK Prime Minister Sir Keir Starmer's
+      increasingly controversial involvement in the US and Israel's military actions
+      against Iran, highlighting the potential political motivations behind this engagement
+      and drawing parallels to past military interventions that faced legal and ethical
+      scrutiny.
+    paragraph_summary: The article discusses the UK’s increasing involvement in the
+      ongoing conflict in Iran, particularly under Prime Minister Sir Keir Starmer,
+      who is facing declining popularity and pressure to maintain his leadership. Initially,
+      the UK, along with France and Germany, distanced itself from the strikes on Iran,
+      condemning Iranian actions instead. However, Starmer quickly redefined the UK's
+      role as one of self-defense, citing international law to justify military actions,
+      including intercepting Iranian threats and supporting US operations. The article
+      highlights the precarious legal and ethical grounds of this involvement, drawing
+      parallels to the UK's controversial participation in the Iraq War under Tony Blair,
+      which faced significant backlash for its legality and consequences. It warns that
+      as the conflict escalates, Starmer may be compelled to deepen military engagement,
+      risking further international law violations and political fallout, especially
+      given the unequal nature of the UK-US alliance.
+    published: '2026-03-12T05:50:53+00:00'
   - title: 'Doctrine and Proliferation: France, Forward Deterrence and Going Backwards'
     url: https://www.counterpunch.org/2026/03/11/doctrine-and-proliferation-france-forward-deterrence-and-going-backwards/
     text: 'To expand a stockpile of both the useless and the mindlessly murderous in

@@ -7,14 +7,1949 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As the war between Iran and the US/Israel coalition intensifies, recent developments have underscored deepening divisions within US leadership and growing doubts about the effectiveness of current military strategies. The resignation of Joe Kent, director of the National Counterterrorism Center, marks a significant moment: according to **Larry C. Johnson**, Kent stepped down due to his opposition to the war in Iran, despite his extensive military and intelligence background and after facing criticism from Donald Trump. This high-profile departure signals mounting internal dissent over the US approach to the conflict.
+  Amid escalating tensions in the Persian Gulf and ongoing U.S.-Iran hostilities, recent developments have centered on the credibility of U.S. diplomatic overtures and the strategic intent behind American military deployments. Over the past 24 hours, new analysis has emerged questioning the authenticity of President Trump’s public claims regarding direct negotiations with Iran.
   
-  Strategically, the destruction of US air defense assets in the region continues to shape the battlefield. **Larry C. Johnson** draws a historical parallel, noting that the loss of THAAD radar systems in the UAE and the prospect of a bombing campaign against Iran are unlikely to force a rapid Iranian surrender. He points to World War II, arguing that, much like Japan, Iran is unlikely to capitulate solely due to aerial bombardment—implying that US and Israeli hopes for a quick resolution are misplaced.
+  According to **Larry C. Johnson**, Trump’s assertions of direct talks are “patently false.” Instead, all communication is being conducted via intermediaries, with Trump’s optimistic rhetoric primarily intended to manipulate oil markets and boost U.S. stock prices. Johnson emphasizes that “there is no evidence of direct dialogue,” and suggests the administration’s public messaging is more about domestic economic optics than genuine diplomatic progress.
   
-  Meanwhile, the broader trajectory of the conflict remains unfavorable for the US and its allies. Iran’s robust missile capabilities have allowed it to inflict sustained damage on Israel, despite Israel’s superior air force, leading to a protracted and costly confrontation. The war has also triggered a surge in Iranian nationalism, undermining Western ambitions for regime change and further complicating US objectives in the region.
+  On the military front, Johnson’s latest reporting highlights the conspicuous deployment of U.S. Marine and Airborne units to the Persian Gulf. He notes a “remarkable lack of operational security,” speculating that this could be a deliberate ruse to distract Iranian intelligence from the true nature or timing of any potential ground operation. The public nature of these deployments, he argues, may serve as a smokescreen for more covert or unexpected military actions.
   
-  Looking ahead, the consensus among analysts is clear: the US is facing a strategic impasse. As **Larry C. Johnson** asserts, “a significant miscalculation by the U.S. regarding its foreign policy in the Middle East could lead to the potential downfall of Israel and a decline in U.S. influence in the region.” With high confidence, I guarantee that unless there is a dramatic shift in policy or strategy, the conflict will remain unresolved and US regional influence will continue to erode. The resignation of key officials and the resilience of Iranian defenses point to a prolonged and unpredictable crisis.
+  Looking at the broader context, Trump’s Iran policy continues to be marked by inconsistency—oscillating between aggressive threats and overtures of negotiation. This unpredictability is, according to Johnson, undermining U.S. relations with major powers like China and Russia, who view Washington’s stance as erratic and unreliable.
+  
+  **Trends and Predictions:**  
+  The prevailing analysis suggests that the U.S. is unlikely to achieve a diplomatic breakthrough with Iran in the near term, given the lack of direct talks and the performative nature of current communications. The risk of military escalation remains high, especially as public troop movements may be masking more serious intentions. Based on the available evidence, I assess with high confidence that Trump’s administration will continue to use both diplomatic posturing and military maneuvers to influence markets and adversaries, rather than to achieve a substantive resolution with Iran. The likelihood of a significant shift in the strategic balance in the Gulf remains low, and Iran is most definitely expected to retain control over its core interests regardless of U.S. actions.
 articles:
+  - title: Is Trump Serious About Negotiations with Iran?
+    url: https://sonar21.com/is-trump-serious-about-negotiations-with-iran/
+    text: 'I’ll give you my answer up front… NO! Trump’s claims on Monday and Tuesday
+      that the US and Iran are talking is false in my opinion. During previous talks
+      with Iran — including the last round in Geneva on February 26 — the communications
+      were indirect. An Oman government official was the intermediary… He would talk
+      to Witkoff and Kushner in one room and then trundle off to another room where
+      he would talk with the Iranian delegation. Any communication between Iran and
+      the US is being carried out through intermediaries. I believe Trump’s positive
+      spin that Iran is ready to make a deal is nothing more than market manipulation
+      with the goal being to lower the price of oil and boost the US stock market. Trump’s
+      Monday announcement of a so-called five day ceasefire was intended to persuade
+      US traders that the war with Iran is nearing a conclusion. I think Trump will
+      continue issuing upbeat, positive statements until Friday then, after the markets
+      close, he will announce that negotiations have collapsed because of Iranian intransigence.
+      Then what? Let’s first look at recent remarks by retired US General Keith Kellogg:
+      We don’t necessarily have to send troops into Iran, but we need to capture Kharg
+      Island. We need to do it the way the Romans did. We need to put legions on the
+      ground to secure the territory. I understand it’s risky. There’s always risk.
+      But these guys, these young men and women, they understand the risk they’re taking
+      to capture Kharg and open the Strait of Hormuz. Marine combat teams can open the
+      lower part of the strait. And then I’d call on the 82nd Airborne Division or the
+      Rangers to take Kharg Island. That way, I could essentially control the flow of
+      oil out of Iran. Taking Kharg Island will not open the Strait of Hormuz. All it
+      will accomplish, besides a temporary disruption of the flow of Iranian oil which
+      US Treasury Secretary Bessent has tacitly acknowledged is critical for keeping
+      the price of oil from exploding, is to expose US forces on Kharg to an unrelenting
+      barrage of drones, missiles and artillery. That means significant, if not massive,
+      casualties for those US forces. Ditto for any attempt by US Marines to “open the
+      lower part of the Strait.” With what? Neither the Marines nor the soldiers on
+      Kharg will have heavy weapons, and Iran’s ability to shutter the Strait is not
+      dependent on having their own troops on those islands. Iran, notwithstanding the
+      presence of US troops on those islands, will still be able to attack any ship
+      that tries to traverse the Strait of Hormuz with drones, missiles, maritime drones
+      and torpedoes. Amid the threat of a ground invasion of Iran, the Iranian Defense
+      Council issued a statement on how it would respond: “Any attempt by the enemy
+      to encroach upon Iranian coasts or islands will naturally, according to common
+      military procedure, cause all access points and communication lines in the Persian
+      Gulf and the coasts to be mined with various types of naval mines, including floating
+      mines releasable from the coasts;” “In which case practically the entire Persian
+      Gulf for long periods will find a status similar to the Strait of Hormuz, and
+      this time alongside the Strait of Hormuz, the entire Persian Gulf will in practice
+      be blocked, and the responsibility for it will be on the invader.” Unless Donald
+      Trump reconsiders his plan, we are likely to see the US attempt to seize both
+      Kharg and Qeshm islands. If you read my previous piece ( here ), it appears that
+      Trump will use both Delta Force and Seal Team 6, along with two Ranger battalions
+      and the 82nd Airborne’s 1st Brigade Combat Team, to sieze the islands. But then
+      what? Those troops will be sitting targets and will face a serious risk of being
+      cutoff from resupply. If Iran releases a tsunami of mines, then the only option
+      will be aerial resupply, which likely means those aircraft will face withering
+      fire from Iranian shore batteries and air defense systems. Instead of opening
+      the Strait of Hormuz, the anticipated US military action will make it virtually
+      impossible for any ship to enter or exit the Persian Gulf. The complete closure
+      of the Strait of Hormuz will further worsen the economic damage to the world economy.
+      In addition to shutting off the flow of 20% of the world’s oil supply, along with
+      liquid natural gas and fertilizer, there are other unanticipated, damaging consequences.
+      The sulfuric acid shortage caused by the Iran war is now threatening commodity
+      production. Sulfuric acid is essential to extract metals from rock. The market
+      was already tight, with prices up ~500% even before the conflict. The Middle East
+      accounts for ~24% of global sulfur production, and producers typically hold only
+      a few weeks to 2 months of supply. Without sulfuric acid, production drops. Around
+      20% of global copper, ~50% of uranium, and ~30% of nickel production depend directly
+      on it. With critical energy infrastructure being destroyed, these shortages won’t
+      disappear even if the Strait is reopened… they will persist. If Trump goes ahead
+      with this harebrained scheme over the upcoming weekend, or on Monday or Tuesday
+      next week, the effect on the oil market will be catastrophic. I sincerely hope
+      I am wrong, but the massive movement of troops and material that is being reported
+      in open sources signals that something more ominous than an intimidation tactic
+      is afoot. I had a brief chat with my Italian/Brazilian buddy today: I had my first
+      conversation with Myron Gaines, a former DHS Special Agent. A delightful young
+      man: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that Trump's claims about direct talks
+      between the US and Iran are false, suggesting that communications are actually
+      conducted through intermediaries and that his optimistic statements are aimed
+      at manipulating the oil market and boosting US stock prices.
+    paragraph_summary: The article argues against President Trump's claims that the
+      US and Iran are currently engaged in direct talks, asserting that any communication
+      is actually conducted through intermediaries, as seen in previous negotiations.
+      The author suggests that Trump's optimistic statements about a potential deal
+      are aimed at manipulating the market to lower oil prices and boost the US stock
+      market, predicting that he will announce a collapse in negotiations after the
+      markets close. Additionally, the article references retired General Keith Kellogg's
+      controversial suggestion to capture Kharg Island to control Iranian oil flow,
+      which the author believes would not effectively open the Strait of Hormuz and
+      would unnecessarily expose US forces to risk.
+    published: '2026-03-25T05:55:29+00:00'
+  - title: Is Trump Serious About Negotiations with Iran?
+    url: https://sonar21.com/is-trump-serious-about-negotiations-with-iran/
+    text: 'I’ll give you my answer up front… NO! Trump’s claims on Monday and Tuesday
+      that the US and Iran are talking is false in my opinion. During previous talks
+      with Iran — including the last round in Geneva on February 26 — the communications
+      were indirect. An Oman government official was the intermediary… He would talk
+      to Witkoff and Kushner in one room and then trundle off to another room where
+      he would talk with the Iranian delegation. Any communication between Iran and
+      the US is being carried out through intermediaries. I believe Trump’s positive
+      spin that Iran is ready to make a deal is nothing more than market manipulation
+      with the goal being to lower the price of oil and boost the US stock market. Trump’s
+      Monday announcement of a so-called five day ceasefire was intended to persuade
+      US traders that the war with Iran is nearing a conclusion. I think Trump will
+      continue issuing upbeat, positive statements until Friday then, after the markets
+      close, he will announce that negotiations have collapsed because of Iranian intransigence.
+      Then what? Let’s first look at recent remarks by retired US General Keith Kellogg:
+      We don’t necessarily have to send troops into Iran, but we need to capture Kharg
+      Island. We need to do it the way the Romans did. We need to put legions on the
+      ground to secure the territory. I understand it’s risky. There’s always risk.
+      But these guys, these young men and women, they understand the risk they’re taking
+      to capture Kharg and open the Strait of Hormuz. Marine combat teams can open the
+      lower part of the strait. And then I’d call on the 82nd Airborne Division or the
+      Rangers to take Kharg Island. That way, I could essentially control the flow of
+      oil out of Iran. Taking Kharg Island will not open the Strait of Hormuz. All it
+      will accomplish, besides a temporary disruption of the flow of Iranian oil which
+      US Treasury Secretary Bessent has tacitly acknowledged is critical for keeping
+      the price of oil from exploding, is to expose US forces on Kharg to an unrelenting
+      barrage of drones, missiles and artillery. That means significant, if not massive,
+      casualties for those US forces. Ditto for any attempt by US Marines to “open the
+      lower part of the Strait.” With what? Neither the Marines nor the soldiers on
+      Kharg will have heavy weapons, and Iran’s ability to shutter the Strait is not
+      dependent on having their own troops on those islands. Iran, notwithstanding the
+      presence of US troops on those islands, will still be able to attack any ship
+      that tries to traverse the Strait of Hormuz with drones, missiles, maritime drones
+      and torpedoes. Amid the threat of a ground invasion of Iran, the Iranian Defense
+      Council issued a statement on how it would respond: “Any attempt by the enemy
+      to encroach upon Iranian coasts or islands will naturally, according to common
+      military procedure, cause all access points and communication lines in the Persian
+      Gulf and the coasts to be mined with various types of naval mines, including floating
+      mines releasable from the coasts;” “In which case practically the entire Persian
+      Gulf for long periods will find a status similar to the Strait of Hormuz, and
+      this time alongside the Strait of Hormuz, the entire Persian Gulf will in practice
+      be blocked, and the responsibility for it will be on the invader.” Unless Donald
+      Trump reconsiders his plan, we are likely to see the US attempt to seize both
+      Kharg and Qeshm islands. If you read my previous piece ( here ), it appears that
+      Trump will use both Delta Force and Seal Team 6, along with two Ranger battalions
+      and the 82nd Airborne’s 1st Brigade Combat Team, to sieze the islands. But then
+      what? Those troops will be sitting targets and will face a serious risk of being
+      cutoff from resupply. If Iran releases a tsunami of mines, then the only option
+      will be aerial resupply, which likely means those aircraft will face withering
+      fire from Iranian shore batteries and air defense systems. Instead of opening
+      the Strait of Hormuz, the anticipated US military action will make it virtually
+      impossible for any ship to enter or exit the Persian Gulf. The complete closure
+      of the Strait of Hormuz will further worsen the economic damage to the world economy.
+      In addition to shutting off the flow of 20% of the world’s oil supply, along with
+      liquid natural gas and fertilizer, there are other unanticipated, damaging consequences.
+      The sulfuric acid shortage caused by the Iran war is now threatening commodity
+      production. Sulfuric acid is essential to extract metals from rock. The market
+      was already tight, with prices up ~500% even before the conflict. The Middle East
+      accounts for ~24% of global sulfur production, and producers typically hold only
+      a few weeks to 2 months of supply. Without sulfuric acid, production drops. Around
+      20% of global copper, ~50% of uranium, and ~30% of nickel production depend directly
+      on it. With critical energy infrastructure being destroyed, these shortages won’t
+      disappear even if the Strait is reopened… they will persist. If Trump goes ahead
+      with this harebrained scheme over the upcoming weekend, or on Monday or Tuesday
+      next week, the effect on the oil market will be catastrophic. I sincerely hope
+      I am wrong, but the massive movement of troops and material that is being reported
+      in open sources signals that something more ominous than an intimidation tactic
+      is afoot. I had a brief chat with my Italian/Brazilian buddy today: I had my first
+      conversation with Myron Gaines, a former DHS Special Agent. A delightful young
+      man: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that Trump's claims about direct talks
+      between the US and Iran are false, suggesting that communications are actually
+      conducted through intermediaries and that his optimistic statements are aimed
+      at manipulating the oil market and boosting US stock prices.
+    paragraph_summary: The article argues against President Trump's claims that the
+      US and Iran are currently engaged in direct talks, asserting that any communication
+      is actually conducted through intermediaries, as seen in previous negotiations.
+      The author suggests that Trump's optimistic statements about a potential deal
+      are aimed at manipulating the market to lower oil prices and boost the US stock
+      market, predicting that he will announce a collapse in negotiations after the
+      markets close. Additionally, the article references retired General Keith Kellogg's
+      controversial suggestion to capture Kharg Island to control Iranian oil flow,
+      which the author believes would not effectively open the Strait of Hormuz and
+      would unnecessarily expose US forces to risk.
+    published: '2026-03-25T05:55:29+00:00'
+  - title: Looks Like Donald Trump is Serious About Puting US Boots on the Ground in
+      Iran
+    url: https://sonar21.com/looks-like-donald-trump-is-serious-about-puting-us-boots-on-the-ground-in-iran/
+    text: 'In my recent article — Boots on the Ground in Iran… A Deception or a Suicide
+      Mission? — I was shocked by the lack of OPSEC (aka Operational Security) surrounding
+      the deployment of the 31st and 11th MEUs (Marine Expeditionary Unit). Then there
+      was the news that the 82nd Airborne had cancelled an upcoming exercise and also
+      were being deployed to the Persian Gulf as well. Why advertise that you are sending
+      an amphibious force and an airborne unit to the Persian Gulf with the ostensible
+      mission of breaking Iran’s blockade of the Strait of Hormuz? I speculated that
+      publicizing the movement of these units could be a deception operation, i.e.,
+      getting the Iranians to focus on the Marines and the 82nd while ignoring other
+      troop movements that will be the ones actually inserted on the ground. Based on
+      Donald Trump’s statements today, coupled with new information provided by OSINT
+      Defender and The Intel Frog , it appears that Trump has ordered a ground operation
+      inside Iran that could begin as early as Friday. Early on Monday morning, March
+      23, 2026 , President Donald Trump announced via a Truth Social post (in all caps)
+      that the United States and Iran had engaged in “ very good and productive conversations
+      ” over the previous two days regarding “a complete and total resolution of our
+      hostilities in the Middle East.” He stated that, based on the “in-depth, detailed,
+      and constructive” nature of these talks (which he said would continue throughout
+      the week), he had instructed the Department of Defense (“Department of War”) to
+      postpone any and all military strikes against Iranian power plants and energy
+      infrastructure for a five-day period , subject to the success of the ongoing discussions.
+      As a result of this announcement the Dow Jones surged $1,000 in the opening minutes
+      of the stock market and the price of oil futures fell. Happy days… Only one little
+      problem: It is a lie. Trump’s claim boosted the Dow Jones and cooled oil prices,
+      but it was firmly denied by Iran. The Iranian government wasted no time in denying
+      Trump’s claim. Iran has zero interest in working out a negotiated settlement to
+      the war on terms demanded by Trump. There is strong circumstantial evidence that
+      Trump — once again — is trying to lull the Iranians into a state of complacency
+      before launching a new attack… This one will be on the ground. The first clue
+      came from Trump’s announcement of a ceasefire on Iranian power plants and energy
+      infrastructure for a five-day period . Why five-days? The 31st MEU will be in
+      place in the Arabian Sea, ready for action. I want to remind you that the MEU
+      received its deployment order on March 13… Remember that date. I then learned
+      late on Monday that Trump cancelled his appearance at CPAC this weekend and that
+      he will not attend a fundraiser at Mar a Lago on Friday night for The Palm Beach
+      Ray of Hope Foundation , which is hosting Dancing with the Palm Beach Stars. Looks
+      like he will be otherwise occupied starting Friday. Then I saw this X-post by
+      the IntelFrog : A significant movement is underway from US Army, Navy and Air
+      Force bases in CONUS to the Middle East comprised of at least 35 C-17 flights
+      since March 12th , with 11 more flights on the way. Origins: 12-Hunter Army Air
+      Field/Fort Stewart, GA 8-Unknown 7-JB Lewis-McChord, WA 6-Pope Army Air Field/Fort
+      Bragg, NC 4-Campbell Army Airfield/Fort Campbell, KY 4-Gray Army Airfield/JB Lewis-McChord,
+      WA 4-Naval Air Station Oceana, VA 1-MacDill AFB, FL 1-JB McGuire-Dix-Lakehurst,
+      NJ Destinations: 17-Ovda Air Base, Israel 13-King Faisal Air Base, Jordan 4-King
+      Hussein Int’l Airport, Jordan When you Google the military units located at these
+      airfields in the US, a pattern begins to emerge (the following information is
+      derived from a Google AI search): Hunter Army Airfield (IATA: SVN, ICAO: KSVN)
+      is located in Savannah, Georgia, and is a military airfield and subordinate installation
+      to Fort Stewart, located in Hinesville, Georgia — about 45 miles to the southwest.
+      What could the C-17 be picking up? Cargo, helicopters or personnel? Important
+      to note that Hunter is home to some of the US military’s most elite aviation forces:
+      1st Battalion, 75th Ranger Regiment — not an aviation unit itself, but the Rangers
+      are based at Hunter and work closely with the 160th SOAR 3rd Battalion, 160th
+      Special Operations Aviation Regiment (Airborne) — the legendary “Night Stalkers,”
+      flying highly modified MH-60 Black Hawks and MH-47 Chinooks on classified special
+      operations missions worldwide. 15th Air Support Operations Squadron (USAF) — Air
+      Force unit embedded with Army ground forces to coordinate close air support 2nd
+      Battalion, 75th Ranger Regiment — not a flying unit, but the Rangers at JBLM are
+      closely integrated with the 160th SOAR in rapid-raid and direct-action mission
+      sets 1st Special Forces Group — the primary Army Special Forces group for the
+      Pacific theater, also at JBLM, relying on the 160th SOAR for aviation support
+      22nd Special Tactics Squadron (USAF) — Air Force special operations combat controllers
+      and pararescuemen embedded at McChord Field, supporting the full joint special
+      operations enterprise is an amalgamation of Fort Lewis and McChord Air Force Base,
+      which merged on February 1, 2010, as a result of 2005 Base Realignment and Closure
+      Commission recommendations. JBLM is the only Army power projection base west of
+      the Rocky Mountains in the Continental United States. Key units at this base include:
+      The 4th Battalion, 160th SOAR is listed as a major unit at JBLM. Army Like the
+      3rd Battalion at Hunter Army Airfield, the 4th Battalion is part of the legendary
+      Night Stalkers — the Army’s elite special operations aviation regiment that provides
+      aviation support to special operations forces worldwide. Flying highly modified
+      MH-60 and MH-47 variants with advanced navigation and survivability systems, the
+      Night Stalkers operate under the motto “Night Stalkers Don’t Quit” and support
+      the full range of classified special operations missions. JBLM’s 4th Battalion
+      supports Pacific-theater special operations requirements. 2nd Battalion, 75th
+      Ranger Regiment — not a flying unit, but the Rangers at JBLM are closely integrated
+      with the 160th SOAR in rapid-raid and direct-action mission sets. 1st Special
+      Forces Group — the primary Army Special Forces group for the Pacific theater,
+      also at JBLM, relying on the 160th SOAR for aviation support. 22nd Special Tactics
+      Squadron (USAF) — Air Force special operations combat controllers and pararescuemen
+      embedded at McChord Field, supporting the full joint special operations enterprise
+      Campbell Army Airfield/Fort Campbell, KY : Fort Campbell and Campbell Army Airfield
+      represent arguably the most aviation-dense installation in the entire US Army
+      — the spiritual home of Army rotary-wing aviation and the epicenter of special
+      operations aviation worldwide. Fort Campbell is the regimental home of the 160th
+      SOAR, the most elite rotary-wing aviation unit in the world. Key units include:
+      1st Battalion, 160th SOAR (Airborne): 1st Battalion is located at Fort Campbell,
+      KY and is equipped with MH-6 and AH-6 Little Bird light assault and attack helicopters
+      and MH-60 Black Hawk assault and attack helicopters. 1st Battalion is the primary
+      support battalion for Joint Special Operations Command (JSOC) , meaning it directly
+      supports the Army’s most classified and sensitive direct-action units including
+      Delta Force and SEAL Team Six (DEVGRU). 2nd Battalion, 160th SOAR (Airborne):
+      2nd Battalion is located at Fort Campbell, KY and is equipped with MH-47 Chinook
+      heavy assault helicopters, MH-60 Black Hawk assault helicopters, and MQ-1C Gray
+      Eagle unmanned aircraft systems. 160th SOAR The MH-47G Chinook is the regiment’s
+      workhorse for long-range infiltration and exfiltration of large special operations
+      teams, featuring aerial refueling capability, terrain-following radar, advanced
+      navigation systems, and extreme environmental modifications for Arctic, desert,
+      and maritime operations. The 2nd Battalion’s ability to refuel in flight makes
+      it capable of missions of virtually unlimited range. Fort Bragg/Pope Field is
+      unlike any of the previous installations — it is not primarily a rotary-wing aviation
+      base, but rather the beating heart of the entire US joint airborne and special
+      operations enterprise, with aviation assets drawn from multiple services and commands.
+      Notable ground units with deep aviation dependencies at this base include: 82nd
+      Airborne Division — the entire division’s rapid deployment concept depends on
+      Air Force strategic airlift (C-17s and C-130s) flowing through Pope Field and
+      Army rotary-wing aviation at Simmons 1st Special Forces Command (Airborne) — oversees
+      all active Army Special Forces Groups, relying on both 160th SOAR and AFSOC for
+      their aviation support 75th Ranger Regiment (HQ) — the regiment’s headquarters
+      is at Fort Bragg, with battalions at Fort Benning/Moore, Georgia; Fort Lewis,
+      Washington; and Hunter Army Airfield, Georgia 3rd Special Forces Group (Airborne)
+      — Africa-focused Special Forces Group based at Fort Bragg, relying on AFSOC and
+      160th SOAR support Delta Force (1st SFOD-D) — the Army’s Tier 1 direct-action
+      unit, based at Fort Bragg’s classified compound (“The Farm”), wholly dependent
+      on the Night Stalkers and JSOC aviation for operational support USASOAC (US Army
+      Special Operations Aviation Command) — the command headquarters overseeing all
+      Army special operations aviation, including the 160th SOAR, is at Fort Bragg Naval
+      Air Station Oceana, VA : The airfield is formally known as Apollo Soucek Field
+      , named after Lieutenant (later Admiral) Apollo Soucek, a Navy test pilot who
+      set the world altitude record in 1930 flying a Curtiss biplane to 43,166 feet.
+      It has four active runways, giving it the capacity to handle the enormous volume
+      of flight operations generated by its 17-plus squadrons simultaneously. NAS Oceana
+      is supplemented by the Dam Neck Annex — a separate, highly secured installation
+      a few miles away, home to the Naval Special Warfare Development Group (DEVGRU/SEAL
+      Team Six), various schoolhouses, and non-flying commands. Understanding the distinction
+      between DEVGRU at Dam Neck and the SEAL teams at Little Creek is important. The
+      conventional SEAL teams (Teams 2, 4, 8, 10) are Tier 2 special operations forces
+      — enormously capable by any standard, but operating under theater special operations
+      commands on assigned missions. They deploy on predictable cycles, supporting combatant
+      commanders with direct action, special reconnaissance, foreign internal defense,
+      and counter-terrorism. DEVGRU is Tier 1 — it answers directly to JSOC, takes missions
+      directly from the President and National Command Authority through JSOC, and deploys
+      in response to the most sensitive national priority targets. Its operators are
+      drawn exclusively from the existing SEAL community after a grueling selection
+      process called Green Team, with roughly a 50% attrition rate. I do not know what
+      is being planned, but the intense activity of at least 35 C-17 missions at these
+      bases indicates a major Special Operations activity is in the works. The activity
+      started on March 12 — one day before the 31st MEU was deployed. Coincidence? I
+      don’t think so. If I can figure this out using only open source data, I have no
+      doubt that the Iranians, the Russians and the Chinese are monitoring this activity
+      as well… They also have good intelligence analysts and, unlike me, access to classified
+      intelligence from their own sources. If these forces are inserted onto Iranian
+      territory, it will be only a matter of time before Iran starts hitting them with
+      drones and missiles. After 25 days of war, the US has suffered few casualties  considering
+      the number of missiles and drones that have been launched. This kind of operation
+      carries enormous risk for the operators who are deployed on the ground. I fear
+      that US planners have grossly underestimated the resolve and determination of
+      the Iranians to defend their home. I started the day with Judge Nap: Nima came
+      properly dressed, outclassing me: Sulaiman Ahmed had me back for a repeat visit:
+      I always enjoy the chance to converse with Mario Nawfal. I find him a good barometer
+      for how well the Deep State propagand is working: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses concerns over the lack of operational
+      security regarding the deployment of U.S. Marine and Airborne units to the Persian
+      Gulf, suggesting that their publicized presence may serve as a deceptive tactic
+      to distract Iran from a potential ground operation ordered by Trump.
+    paragraph_summary: In a recent article, the author expressed concern over the apparent
+      lack of operational security (OPSEC) regarding the deployment of U.S. Marine Expeditionary
+      Units and the 82nd Airborne to the Persian Gulf, speculating that this could be
+      a deceptive tactic to distract Iran from other military movements. Following statements
+      from President Trump indicating productive discussions with Iran aimed at resolving
+      hostilities, he announced a temporary halt to military strikes against Iranian
+      infrastructure, which led to a surge in the stock market and a drop in oil prices.
+      However, this claim was quickly denied by Iran, raising questions about the authenticity
+      of the U.S. narrative and the potential for an imminent ground operation in Iran.
+    published: '2026-03-24T06:25:33+00:00'
+  - title: Looks Like Donald Trump is Serious About Puting US Boots on the Ground in
+      Iran
+    url: https://sonar21.com/looks-like-donald-trump-is-serious-about-puting-us-boots-on-the-ground-in-iran/
+    text: 'In my recent article — Boots on the Ground in Iran… A Deception or a Suicide
+      Mission? — I was shocked by the lack of OPSEC (aka Operational Security) surrounding
+      the deployment of the 31st and 11th MEUs (Marine Expeditionary Unit). Then there
+      was the news that the 82nd Airborne had cancelled an upcoming exercise and also
+      were being deployed to the Persian Gulf as well. Why advertise that you are sending
+      an amphibious force and an airborne unit to the Persian Gulf with the ostensible
+      mission of breaking Iran’s blockade of the Strait of Hormuz? I speculated that
+      publicizing the movement of these units could be a deception operation, i.e.,
+      getting the Iranians to focus on the Marines and the 82nd while ignoring other
+      troop movements that will be the ones actually inserted on the ground. Based on
+      Donald Trump’s statements today, coupled with new information provided by OSINT
+      Defender and The Intel Frog , it appears that Trump has ordered a ground operation
+      inside Iran that could begin as early as Friday. Early on Monday morning, March
+      23, 2026 , President Donald Trump announced via a Truth Social post (in all caps)
+      that the United States and Iran had engaged in “ very good and productive conversations
+      ” over the previous two days regarding “a complete and total resolution of our
+      hostilities in the Middle East.” He stated that, based on the “in-depth, detailed,
+      and constructive” nature of these talks (which he said would continue throughout
+      the week), he had instructed the Department of Defense (“Department of War”) to
+      postpone any and all military strikes against Iranian power plants and energy
+      infrastructure for a five-day period , subject to the success of the ongoing discussions.
+      As a result of this announcement the Dow Jones surged $1,000 in the opening minutes
+      of the stock market and the price of oil futures fell. Happy days… Only one little
+      problem: It is a lie. Trump’s claim boosted the Dow Jones and cooled oil prices,
+      but it was firmly denied by Iran. The Iranian government wasted no time in denying
+      Trump’s claim. Iran has zero interest in working out a negotiated settlement to
+      the war on terms demanded by Trump. There is strong circumstantial evidence that
+      Trump — once again — is trying to lull the Iranians into a state of complacency
+      before launching a new attack… This one will be on the ground. The first clue
+      came from Trump’s announcement of a ceasefire on Iranian power plants and energy
+      infrastructure for a five-day period . Why five-days? The 31st MEU will be in
+      place in the Arabian Sea, ready for action. I want to remind you that the MEU
+      received its deployment order on March 13… Remember that date. I then learned
+      late on Monday that Trump cancelled his appearance at CPAC this weekend and that
+      he will not attend a fundraiser at Mar a Lago on Friday night for The Palm Beach
+      Ray of Hope Foundation , which is hosting Dancing with the Palm Beach Stars. Looks
+      like he will be otherwise occupied starting Friday. Then I saw this X-post by
+      the IntelFrog : A significant movement is underway from US Army, Navy and Air
+      Force bases in CONUS to the Middle East comprised of at least 35 C-17 flights
+      since March 12th , with 11 more flights on the way. Origins: 12-Hunter Army Air
+      Field/Fort Stewart, GA 8-Unknown 7-JB Lewis-McChord, WA 6-Pope Army Air Field/Fort
+      Bragg, NC 4-Campbell Army Airfield/Fort Campbell, KY 4-Gray Army Airfield/JB Lewis-McChord,
+      WA 4-Naval Air Station Oceana, VA 1-MacDill AFB, FL 1-JB McGuire-Dix-Lakehurst,
+      NJ Destinations: 17-Ovda Air Base, Israel 13-King Faisal Air Base, Jordan 4-King
+      Hussein Int’l Airport, Jordan When you Google the military units located at these
+      airfields in the US, a pattern begins to emerge (the following information is
+      derived from a Google AI search): Hunter Army Airfield (IATA: SVN, ICAO: KSVN)
+      is located in Savannah, Georgia, and is a military airfield and subordinate installation
+      to Fort Stewart, located in Hinesville, Georgia — about 45 miles to the southwest.
+      What could the C-17 be picking up? Cargo, helicopters or personnel? Important
+      to note that Hunter is home to some of the US military’s most elite aviation forces:
+      1st Battalion, 75th Ranger Regiment — not an aviation unit itself, but the Rangers
+      are based at Hunter and work closely with the 160th SOAR 3rd Battalion, 160th
+      Special Operations Aviation Regiment (Airborne) — the legendary “Night Stalkers,”
+      flying highly modified MH-60 Black Hawks and MH-47 Chinooks on classified special
+      operations missions worldwide. 15th Air Support Operations Squadron (USAF) — Air
+      Force unit embedded with Army ground forces to coordinate close air support 2nd
+      Battalion, 75th Ranger Regiment — not a flying unit, but the Rangers at JBLM are
+      closely integrated with the 160th SOAR in rapid-raid and direct-action mission
+      sets 1st Special Forces Group — the primary Army Special Forces group for the
+      Pacific theater, also at JBLM, relying on the 160th SOAR for aviation support
+      22nd Special Tactics Squadron (USAF) — Air Force special operations combat controllers
+      and pararescuemen embedded at McChord Field, supporting the full joint special
+      operations enterprise is an amalgamation of Fort Lewis and McChord Air Force Base,
+      which merged on February 1, 2010, as a result of 2005 Base Realignment and Closure
+      Commission recommendations. JBLM is the only Army power projection base west of
+      the Rocky Mountains in the Continental United States. Key units at this base include:
+      The 4th Battalion, 160th SOAR is listed as a major unit at JBLM. Army Like the
+      3rd Battalion at Hunter Army Airfield, the 4th Battalion is part of the legendary
+      Night Stalkers — the Army’s elite special operations aviation regiment that provides
+      aviation support to special operations forces worldwide. Flying highly modified
+      MH-60 and MH-47 variants with advanced navigation and survivability systems, the
+      Night Stalkers operate under the motto “Night Stalkers Don’t Quit” and support
+      the full range of classified special operations missions. JBLM’s 4th Battalion
+      supports Pacific-theater special operations requirements. 2nd Battalion, 75th
+      Ranger Regiment — not a flying unit, but the Rangers at JBLM are closely integrated
+      with the 160th SOAR in rapid-raid and direct-action mission sets. 1st Special
+      Forces Group — the primary Army Special Forces group for the Pacific theater,
+      also at JBLM, relying on the 160th SOAR for aviation support. 22nd Special Tactics
+      Squadron (USAF) — Air Force special operations combat controllers and pararescuemen
+      embedded at McChord Field, supporting the full joint special operations enterprise
+      Campbell Army Airfield/Fort Campbell, KY : Fort Campbell and Campbell Army Airfield
+      represent arguably the most aviation-dense installation in the entire US Army
+      — the spiritual home of Army rotary-wing aviation and the epicenter of special
+      operations aviation worldwide. Fort Campbell is the regimental home of the 160th
+      SOAR, the most elite rotary-wing aviation unit in the world. Key units include:
+      1st Battalion, 160th SOAR (Airborne): 1st Battalion is located at Fort Campbell,
+      KY and is equipped with MH-6 and AH-6 Little Bird light assault and attack helicopters
+      and MH-60 Black Hawk assault and attack helicopters. 1st Battalion is the primary
+      support battalion for Joint Special Operations Command (JSOC) , meaning it directly
+      supports the Army’s most classified and sensitive direct-action units including
+      Delta Force and SEAL Team Six (DEVGRU). 2nd Battalion, 160th SOAR (Airborne):
+      2nd Battalion is located at Fort Campbell, KY and is equipped with MH-47 Chinook
+      heavy assault helicopters, MH-60 Black Hawk assault helicopters, and MQ-1C Gray
+      Eagle unmanned aircraft systems. 160th SOAR The MH-47G Chinook is the regiment’s
+      workhorse for long-range infiltration and exfiltration of large special operations
+      teams, featuring aerial refueling capability, terrain-following radar, advanced
+      navigation systems, and extreme environmental modifications for Arctic, desert,
+      and maritime operations. The 2nd Battalion’s ability to refuel in flight makes
+      it capable of missions of virtually unlimited range. Fort Bragg/Pope Field is
+      unlike any of the previous installations — it is not primarily a rotary-wing aviation
+      base, but rather the beating heart of the entire US joint airborne and special
+      operations enterprise, with aviation assets drawn from multiple services and commands.
+      Notable ground units with deep aviation dependencies at this base include: 82nd
+      Airborne Division — the entire division’s rapid deployment concept depends on
+      Air Force strategic airlift (C-17s and C-130s) flowing through Pope Field and
+      Army rotary-wing aviation at Simmons 1st Special Forces Command (Airborne) — oversees
+      all active Army Special Forces Groups, relying on both 160th SOAR and AFSOC for
+      their aviation support 75th Ranger Regiment (HQ) — the regiment’s headquarters
+      is at Fort Bragg, with battalions at Fort Benning/Moore, Georgia; Fort Lewis,
+      Washington; and Hunter Army Airfield, Georgia 3rd Special Forces Group (Airborne)
+      — Africa-focused Special Forces Group based at Fort Bragg, relying on AFSOC and
+      160th SOAR support Delta Force (1st SFOD-D) — the Army’s Tier 1 direct-action
+      unit, based at Fort Bragg’s classified compound (“The Farm”), wholly dependent
+      on the Night Stalkers and JSOC aviation for operational support USASOAC (US Army
+      Special Operations Aviation Command) — the command headquarters overseeing all
+      Army special operations aviation, including the 160th SOAR, is at Fort Bragg Naval
+      Air Station Oceana, VA : The airfield is formally known as Apollo Soucek Field
+      , named after Lieutenant (later Admiral) Apollo Soucek, a Navy test pilot who
+      set the world altitude record in 1930 flying a Curtiss biplane to 43,166 feet.
+      It has four active runways, giving it the capacity to handle the enormous volume
+      of flight operations generated by its 17-plus squadrons simultaneously. NAS Oceana
+      is supplemented by the Dam Neck Annex — a separate, highly secured installation
+      a few miles away, home to the Naval Special Warfare Development Group (DEVGRU/SEAL
+      Team Six), various schoolhouses, and non-flying commands. Understanding the distinction
+      between DEVGRU at Dam Neck and the SEAL teams at Little Creek is important. The
+      conventional SEAL teams (Teams 2, 4, 8, 10) are Tier 2 special operations forces
+      — enormously capable by any standard, but operating under theater special operations
+      commands on assigned missions. They deploy on predictable cycles, supporting combatant
+      commanders with direct action, special reconnaissance, foreign internal defense,
+      and counter-terrorism. DEVGRU is Tier 1 — it answers directly to JSOC, takes missions
+      directly from the President and National Command Authority through JSOC, and deploys
+      in response to the most sensitive national priority targets. Its operators are
+      drawn exclusively from the existing SEAL community after a grueling selection
+      process called Green Team, with roughly a 50% attrition rate. I do not know what
+      is being planned, but the intense activity of at least 35 C-17 missions at these
+      bases indicates a major Special Operations activity is in the works. The activity
+      started on March 12 — one day before the 31st MEU was deployed. Coincidence? I
+      don’t think so. If I can figure this out using only open source data, I have no
+      doubt that the Iranians, the Russians and the Chinese are monitoring this activity
+      as well… They also have good intelligence analysts and, unlike me, access to classified
+      intelligence from their own sources. If these forces are inserted onto Iranian
+      territory, it will be only a matter of time before Iran starts hitting them with
+      drones and missiles. After 25 days of war, the US has suffered few casualties  considering
+      the number of missiles and drones that have been launched. This kind of operation
+      carries enormous risk for the operators who are deployed on the ground. I fear
+      that US planners have grossly underestimated the resolve and determination of
+      the Iranians to defend their home. I started the day with Judge Nap: Nima came
+      properly dressed, outclassing me: Sulaiman Ahmed had me back for a repeat visit:
+      I always enjoy the chance to converse with Mario Nawfal. I find him a good barometer
+      for how well the Deep State propagand is working: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses concerns over the lack of operational
+      security regarding the deployment of U.S. Marine and Airborne units to the Persian
+      Gulf, suggesting that their publicized presence may serve as a deceptive tactic
+      to distract Iran from a potential ground operation ordered by Trump.
+    paragraph_summary: In a recent article, the author expressed concern over the apparent
+      lack of operational security (OPSEC) regarding the deployment of U.S. Marine Expeditionary
+      Units and the 82nd Airborne to the Persian Gulf, speculating that this could be
+      a deceptive tactic to distract Iran from other military movements. Following statements
+      from President Trump indicating productive discussions with Iran aimed at resolving
+      hostilities, he announced a temporary halt to military strikes against Iranian
+      infrastructure, which led to a surge in the stock market and a drop in oil prices.
+      However, this claim was quickly denied by Iran, raising questions about the authenticity
+      of the U.S. narrative and the potential for an imminent ground operation in Iran.
+    published: '2026-03-24T06:25:33+00:00'
+  - title: When It Comes to Suicide Bombers, Sunni Radicals — Many Supported by the
+      West –Take the Prize
+    url: https://sonar21.com/when-it-comes-to-suicide-bombers-sunni-radicals-take-the-prize/
+    text: 'One of the frequent claims about Iran is that the Shia are fanatical, suicide
+      bombers. Turns out that is just one more lie. The data on incidents of suicide
+      bombers tells a different story. This is not my opinion… The numbers are from
+      data sources that include the Chicago Project on Security and Threats (CPOST)
+      Database on Suicide Attacks (1982–2019), Combating Terrorism Center reports, Global
+      Terrorism Database (START), and academic studies (e.g., Choi/Piazza 2022). Exact
+      percentages vary by dataset inclusion criteria and time frames, but the Sunni
+      dominance (especially post-1990s) is consistent across sources. Since 1980, the
+      vast majority of suicide bombings (often termed suicide attacks or suicide terrorism
+      in databases) have been carried out by Sunni Muslim perpetrators or groups, with
+      Shia involvement being significantly lower and largely limited to specific historical
+      periods. Why am I belaboring this issue? Because the United States has a 40-year
+      record of supporting and financing some of this Sunni extremists. The most recent
+      example… Backing the leader of Hayat Tahrir al-Sham, who is currently rebranded
+      as Al-Shara and was appointed President of Syria by the West. On more example
+      of the US being a major sponsor of terrorism that is directed against Shias. Reliable,
+      comprehensive databases tracking suicide attacks (primarily Islamist ones, as
+      they dominate post-1980 trends) show a clear sectarian breakdown. Sunni perpetrators
+      : Overwhelmingly dominant, especially from the 1990s onward. Major groups include
+      al-Qaeda affiliates, Islamic State (ISIS), Taliban, Boko Haram, al-Shabaab, Hamas
+      (Sunni Palestinian), and various Salafi-jihadi networks. These account for the
+      bulk of attacks in Iraq (post-2003), Afghanistan, Pakistan, Syria, Nigeria, Somalia,
+      and elsewhere. [Note: Hamas stopped using this attack vector in the early 2000s
+      during the Second Intifada.]: Studies (e.g., from the Combating Terrorism Center
+      at West Point, analyzing data up to the mid-2000s/early 2010s) indicate that Salafi-jihadi
+      (Sunni extremist) groups were responsible for roughly 45% of identifiable suicide
+      attacks in the 2000s decade, with hybrid Sunni-nationalist groups adding more
+      (totaling well over 70–80% Sunni-linked when grouped). In the post-2003 Iraq surge
+      and ISIS era (2006–present), nearly all suicide bombings (thousands) were by Sunni
+      insurgents targeting Shia civilians, Iraqi forces, or coalition targets. Empirical
+      analyses (e.g., Choi and Piazza, 2022) find countries with larger Sunni populations
+      are significantly more prone to suicide attacks, with Sunni Islam as the strongest
+      positive predictor (Shia showing no significant correlation). Shia perpetrators
+      : Far fewer overall. Shia groups (primarily Hezbollah and Iranian-backed militants)
+      pioneered modern suicide bombings in the early 1980s (e.g., 1983 Beirut barracks
+      bombings against U.S./French forces, and attacks in Lebanon during the 1980s Israeli
+      occupation). These accounted for a notable share in the 1980s–early 1990s (e.g.,
+      ~24% of attacks in some 1980s/1990s datasets per CTC analysis). However, Shia
+      militant groups largely abandoned the tactic after the mid-1990s (last confirmed
+      Hezbollah suicide operations around 1994–2000 against Israeli targets). No significant
+      Shia suicide bombings have been recorded since the 1990s, even during conflicts
+      like the 2006 Lebanon War or Syrian civil war (where Shia militias fight conventionally
+      or via proxies). Overall post-1980 estimates: Shia-linked attacks represent less
+      than 5–10% of the total (concentrated in early Lebanon phase), with some datasets
+      showing under 1% in recent decades. Overall percentage estimates (approximate,
+      based on aggregated data from sources like CPOST Database on Suicide Attacks,
+      CTC analyses, and empirical studies): Sunni : 90–98% of suicide attacks since
+      ~1990 (and dominant since 1980 overall, given the explosion in numbers from Sunni
+      groups post-2000). Shia : 2–10% (peaking in the 1980s at ~20–25% in some periods,
+      but near 0% in the 2000s–2020s). Secular/nationalist or other groups : A small
+      share in early periods carried out by groups such as the Tamil Tigers in Sri Lanka.
+      This shift reflects doctrinal, strategic, and organizational differences: Shia
+      groups (e.g., Hezbollah) used suicide tactics tactically against occupying forces
+      in the 1980s but largely phased them out after achieving goals or due to religious/political
+      constraints. Sunni Salafi-jihadi groups (e.g., al-Qaeda, ISIS) adopted and expanded
+      the tactic globally as a core strategy, often targeting civilians and intra-Muslim
+      rivals (including Shia). Pakistan has been the victim of such attacks by the Sunni
+      extremists. The most prominent recent terrorist bombing in Pakistan was specifically
+      targeting the Shia community. On 6 February 2026, a suicide attack occurred at
+      the Khadija Tul Kubra Mosque, a Shia mosque in the Tarlai Kalan area of southeastern
+      Islamabad, during Friday prayer, killing at least 32 people and injuring 170 others.
+      The Islamic State militant group claimed responsibility. Wikipedia Responsibility
+      was claimed specifically by the Islamic State of Pakistan Province (ISPP), a sister
+      franchise of the Islamic State – Khorasan Province (ISKP), and analysts noted
+      the attack at the Shia mosque seems aimed at fueling Shia-Sunni sectarian flames
+      to attract former Lashkar-e-Jhangvi militants to its ranks. The Diplomat CSIS
+      analysts noted that the sectarian nature of the target points toward IS-KP, as
+      the group has eagerly embraced sectarian violence, while other Pakistani militant
+      groups have sought to distance themselves from such forms of violence. The Trump
+      administration continues to gaslight the American public with the false claim
+      that Iran is the number one sponsor of terrorism, and suicidal to boot, in order
+      to justify waging an unjust and illegal war on the Islamic Republic of Iran. Just
+      thought you should know the facts. Randy Credico, who hosts a Friday radio show
+      on WBAI in New York called Live on the Fly , invited me, Andre Martyanov and Roger
+      Waters to interview Ambassador Dmitry Polyanskiy, Russia’s representative to the
+      OSCE in Vienna, Austria: Scott Horton just posted (Sunday night) his conversation
+      with me that was recorded on Friday: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article argues that the widespread belief that Shia Muslims
+      are predominantly responsible for suicide bombings is a misconception, as data
+      shows that the majority of such attacks have been carried out by Sunni Muslims,
+      particularly since the 1990s.
+    paragraph_summary: The article challenges the common perception that Shia Muslims
+      are predominantly responsible for suicide bombings, presenting data from various
+      reputable sources that indicate a significant majority of such attacks are carried
+      out by Sunni extremists. It highlights that since 1980, Sunni groups, particularly
+      after the 1990s, have overwhelmingly dominated suicide attacks, with notable organizations
+      like al-Qaeda, ISIS, and the Taliban leading these incidents. The author emphasizes
+      the importance of this distinction, particularly in light of the United States'
+      historical support for Sunni extremist groups, which has contributed to sectarian
+      violence against Shia populations. The article asserts that a comprehensive analysis
+      of suicide attack data reveals a clear sectarian divide, with Shia involvement
+      being minimal and largely confined to specific historical contexts.
+    published: '2026-03-23T04:01:23+00:00'
+  - title: When It Comes to Suicide Bombers, Sunni Radicals — Many Supported by the
+      West –Take the Prize
+    url: https://sonar21.com/when-it-comes-to-suicide-bombers-sunni-radicals-take-the-prize/
+    text: 'One of the frequent claims about Iran is that the Shia are fanatical, suicide
+      bombers. Turns out that is just one more lie. The data on incidents of suicide
+      bombers tells a different story. This is not my opinion… The numbers are from
+      data sources that include the Chicago Project on Security and Threats (CPOST)
+      Database on Suicide Attacks (1982–2019), Combating Terrorism Center reports, Global
+      Terrorism Database (START), and academic studies (e.g., Choi/Piazza 2022). Exact
+      percentages vary by dataset inclusion criteria and time frames, but the Sunni
+      dominance (especially post-1990s) is consistent across sources. Since 1980, the
+      vast majority of suicide bombings (often termed suicide attacks or suicide terrorism
+      in databases) have been carried out by Sunni Muslim perpetrators or groups, with
+      Shia involvement being significantly lower and largely limited to specific historical
+      periods. Why am I belaboring this issue? Because the United States has a 40-year
+      record of supporting and financing some of this Sunni extremists. The most recent
+      example… Backing the leader of Hayat Tahrir al-Sham, who is currently rebranded
+      as Al-Shara and was appointed President of Syria by the West. On more example
+      of the US being a major sponsor of terrorism that is directed against Shias. Reliable,
+      comprehensive databases tracking suicide attacks (primarily Islamist ones, as
+      they dominate post-1980 trends) show a clear sectarian breakdown. Sunni perpetrators
+      : Overwhelmingly dominant, especially from the 1990s onward. Major groups include
+      al-Qaeda affiliates, Islamic State (ISIS), Taliban, Boko Haram, al-Shabaab, Hamas
+      (Sunni Palestinian), and various Salafi-jihadi networks. These account for the
+      bulk of attacks in Iraq (post-2003), Afghanistan, Pakistan, Syria, Nigeria, Somalia,
+      and elsewhere. [Note: Hamas stopped using this attack vector in the early 2000s
+      during the Second Intifada.]: Studies (e.g., from the Combating Terrorism Center
+      at West Point, analyzing data up to the mid-2000s/early 2010s) indicate that Salafi-jihadi
+      (Sunni extremist) groups were responsible for roughly 45% of identifiable suicide
+      attacks in the 2000s decade, with hybrid Sunni-nationalist groups adding more
+      (totaling well over 70–80% Sunni-linked when grouped). In the post-2003 Iraq surge
+      and ISIS era (2006–present), nearly all suicide bombings (thousands) were by Sunni
+      insurgents targeting Shia civilians, Iraqi forces, or coalition targets. Empirical
+      analyses (e.g., Choi and Piazza, 2022) find countries with larger Sunni populations
+      are significantly more prone to suicide attacks, with Sunni Islam as the strongest
+      positive predictor (Shia showing no significant correlation). Shia perpetrators
+      : Far fewer overall. Shia groups (primarily Hezbollah and Iranian-backed militants)
+      pioneered modern suicide bombings in the early 1980s (e.g., 1983 Beirut barracks
+      bombings against U.S./French forces, and attacks in Lebanon during the 1980s Israeli
+      occupation). These accounted for a notable share in the 1980s–early 1990s (e.g.,
+      ~24% of attacks in some 1980s/1990s datasets per CTC analysis). However, Shia
+      militant groups largely abandoned the tactic after the mid-1990s (last confirmed
+      Hezbollah suicide operations around 1994–2000 against Israeli targets). No significant
+      Shia suicide bombings have been recorded since the 1990s, even during conflicts
+      like the 2006 Lebanon War or Syrian civil war (where Shia militias fight conventionally
+      or via proxies). Overall post-1980 estimates: Shia-linked attacks represent less
+      than 5–10% of the total (concentrated in early Lebanon phase), with some datasets
+      showing under 1% in recent decades. Overall percentage estimates (approximate,
+      based on aggregated data from sources like CPOST Database on Suicide Attacks,
+      CTC analyses, and empirical studies): Sunni : 90–98% of suicide attacks since
+      ~1990 (and dominant since 1980 overall, given the explosion in numbers from Sunni
+      groups post-2000). Shia : 2–10% (peaking in the 1980s at ~20–25% in some periods,
+      but near 0% in the 2000s–2020s). Secular/nationalist or other groups : A small
+      share in early periods carried out by groups such as the Tamil Tigers in Sri Lanka.
+      This shift reflects doctrinal, strategic, and organizational differences: Shia
+      groups (e.g., Hezbollah) used suicide tactics tactically against occupying forces
+      in the 1980s but largely phased them out after achieving goals or due to religious/political
+      constraints. Sunni Salafi-jihadi groups (e.g., al-Qaeda, ISIS) adopted and expanded
+      the tactic globally as a core strategy, often targeting civilians and intra-Muslim
+      rivals (including Shia). Pakistan has been the victim of such attacks by the Sunni
+      extremists. The most prominent recent terrorist bombing in Pakistan was specifically
+      targeting the Shia community. On 6 February 2026, a suicide attack occurred at
+      the Khadija Tul Kubra Mosque, a Shia mosque in the Tarlai Kalan area of southeastern
+      Islamabad, during Friday prayer, killing at least 32 people and injuring 170 others.
+      The Islamic State militant group claimed responsibility. Wikipedia Responsibility
+      was claimed specifically by the Islamic State of Pakistan Province (ISPP), a sister
+      franchise of the Islamic State – Khorasan Province (ISKP), and analysts noted
+      the attack at the Shia mosque seems aimed at fueling Shia-Sunni sectarian flames
+      to attract former Lashkar-e-Jhangvi militants to its ranks. The Diplomat CSIS
+      analysts noted that the sectarian nature of the target points toward IS-KP, as
+      the group has eagerly embraced sectarian violence, while other Pakistani militant
+      groups have sought to distance themselves from such forms of violence. The Trump
+      administration continues to gaslight the American public with the false claim
+      that Iran is the number one sponsor of terrorism, and suicidal to boot, in order
+      to justify waging an unjust and illegal war on the Islamic Republic of Iran. Just
+      thought you should know the facts. Randy Credico, who hosts a Friday radio show
+      on WBAI in New York called Live on the Fly , invited me, Andre Martyanov and Roger
+      Waters to interview Ambassador Dmitry Polyanskiy, Russia’s representative to the
+      OSCE in Vienna, Austria: Scott Horton just posted (Sunday night) his conversation
+      with me that was recorded on Friday: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article argues that the widespread belief that Shia Muslims
+      are predominantly responsible for suicide bombings is a misconception, as data
+      shows that the majority of such attacks have been carried out by Sunni Muslims,
+      particularly since the 1990s.
+    paragraph_summary: The article challenges the common perception that Shia Muslims
+      are predominantly responsible for suicide bombings, presenting data from various
+      reputable sources that indicate a significant majority of such attacks are carried
+      out by Sunni extremists. It highlights that since 1980, Sunni groups, particularly
+      after the 1990s, have overwhelmingly dominated suicide attacks, with notable organizations
+      like al-Qaeda, ISIS, and the Taliban leading these incidents. The author emphasizes
+      the importance of this distinction, particularly in light of the United States'
+      historical support for Sunni extremist groups, which has contributed to sectarian
+      violence against Shia populations. The article asserts that a comprehensive analysis
+      of suicide attack data reveals a clear sectarian divide, with Shia involvement
+      being minimal and largely confined to specific historical contexts.
+    published: '2026-03-23T04:01:23+00:00'
+  - title: Anti-Zionism is not Anti-Semitism
+    url: https://sonar21.com/anti-zionism-is-not-anti-semitism/
+    text: 'In the West, the crimes of the Zionists and Israel are condoned by labeling
+      any critic as an anti-Semite. This approach obscures the following fact: The Zionists
+      promote anti-Semitism to legitimize their crimes. Introduction The Collective
+      West, which unconditionally supports the war of destruction against Iran, claims
+      that anyone who raises their voice against the Zionists and Israel is an anti-Semite
+      who must be punished. This strategy of the West is not only malicious, but it
+      ultimately leads to precisely what the “anti-Semitism” label purports to want
+      to prevent with all political and, increasingly, legal power: namely, the perception
+      of Israeli policy as a crime of Judaism. Anyone who perceives Israel’s policies
+      in this way and is unable to separate the wheat from the chaff is almost inevitably
+      drawn toward anti-Semitic attitudes in the uncritical political debate taking
+      place in the West. This tendency is fueled by the deliberately vague definitions
+      of anti-Semitism, Judaism, and Zionism, as well as the distinctions between them.
+      These definitions, which blur the boundaries of the concepts, form the very basis
+      upon which the West acts with all its might and passes judgment, particularly
+      in Germany. And so the circle closes. The Zionists need anti-Semitism so they
+      can portray themselves as its victims and use it to promote and achieve their
+      criminal goals. A few thoughts on a topic that is sure to get the blood boiling
+      among Zionists and uneducated fools in the West. Zionism, Israel, Judaism Judaism
+      is the sum of the culture, history, religion, and traditions of the Jewish people
+      and has existed for approximately 4,000 years (see also our discussion on this
+      topic in “ Judaism, Zionism, Anti-Semitism, and Israel: Misuse of Terms ” from
+      October 2023.) Zionism is a political movement that has existed in an organized
+      form since the First Zionist Congress in Basel in 1897. This movement has nothing
+      to do with Judaism; rather, it was founded by the Viennese journalist Theodor
+      Herzl, a completely non-religious man. The original goal of this political movement
+      was the establishment or proclamation of the State of Israel, which was achieved
+      in 1948. Today, the goal of Zionism is the creation of Greater Israel, which is
+      intended to dominate most of the Middle East. What will the goal be after that?
+      Theodor Herzl made the following statement: «The anti-Semites will become our
+      most dependable friends, the anti-Semitic countries our allies.» Theodor Herzl,
+      1896 The notion that Jews are under threat is a central element of the Zionist
+      master plan. The Zionists hide behind anti-Semitism and Judaism in order to carry
+      out their crimes. Another goal they pursue is the merging of Zionism and Judaism.
+      The reason is simple: Many people have—rightly so—reservations about criticizing
+      Jews, not only because of the Holocaust, but also because of the countless pogroms
+      that took place in nearly every European country. By merging Zionism and Judaism,
+      the Zionists create an excellent protective shield for themselves. As long as
+      Western politicians cannot distinguish between Zionism, Israel, and Greater Israel
+      as Zionist projects on the one hand, and Judaism on the other—and do not seem
+      willing to do so—Judaism is bound to lose, and the Zionist criminals hiding behind
+      it are bound to win. Who are the Zionists? The US Congress supports Israel as
+      a Zionist project with approximately $5 billion annually. Furthermore, the US
+      provides Israel with every form of political support for war, genocide, land theft,
+      and the complete enslavement of people. In addition to Adelson’s well-known large
+      donation to Trump, hordes of American politicians are being bought off en masse
+      so that they speak and vote in Israel’s interests. In the current 119th U.S. Congress
+      (532 members), only 32 Jews are represented (6%); nevertheless, the U.S. Congress,
+      which consists of 87% Christians, has voted staunchly in favor of Zionism since
+      1948 (figures: Pew Research ). To secure a majority in Congress, 50% plus one
+      vote (266+1) is required; thus, at least 235 non-Jews, together with 32 Jews,
+      determine the Zionist policy of the United States, bringing the non-Jewish share
+      of Zionists in the U.S. Congress to a staggering 88%. Israel is nothing more than
+      an American outpost through which the US controls the Middle East. In my view,
+      the question of whether Israel controls the US or the US controls and manipulates
+      Israel is irrelevant from a geopolitical perspective. Together, they form a power
+      bloc designed to subjugate one of the richest and most sensitive regions in the
+      world. Distinguishing who dominates whom only becomes relevant when considering
+      how to neutralize this alliance. What do Jews Say about Zionism and Israel? In
+      the West, especially in Europe, people are completely unaware that there are many
+      Jews who despise and oppose Zionism and the Israeli project. Non-Jews, on the
+      other hand—such as the German Chancellor—are pursuing a Zionist agenda regardless
+      of the consequences. This goes so far that Friedrich Merz unconditionally and
+      without reservation promotes and supports an Israeli and US attack on Iran, claiming
+      it is necessary. His hate-monger Marie-Agnes Strack-Zimmermann, who works for
+      the arms industry, supports every war as part of her job, and has no qualms whatsoever
+      about stoking hatred on a Nazi scale, said a few days ago on the public broadcaster
+      ARD: “Iran is a plague on this earth” Marie-Agnes Strack-Zimmermann, 19 March
+      2026 Marie-Agnes Strack-Zimmermann: Form follows function People have absolutely
+      no sense or idea that, in terms of communication, we have once again reached the
+      level of Hitler and Goebbels—and ultimately, once again at the expense of the
+      Jews—because many Jews who oppose Zionism are being persecuted anew for something
+      they cannot change: the fact that they are Jewish. In the following, I feature
+      two Jewish speakers: a rabbi who assesses the issue from a religious perspective,
+      and an Israeli journalist who touches on a sore spot in Israeli society. Rabbi
+      Abraham Silberstein Rabbi Abraham Silberstein Rabbi Abraham Silberstein is a leading
+      Jewish scholar who advocates for animal rights within Judaism and serves as the
+      Executive Director of Voice of Rabbis . He is known for his critical stance on
+      the biblical justification for land claims in the Middle East, based on teachings
+      from the Torah and the Talmud. “I want to be clear that violence against anyone
+      is never allowed. But let me explain this further. The Zionist government cannot
+      sustain itself without antisemitism. Zionists need Jewish people to live in constant
+      fear, in order for their existence, as so-called Jewish saviours should look true.
+      Zionists will always use words such as Holocaust and pogroms to describe incidents
+      that don’t even apply to Jewish people, but strictly to this Israeli government.
+      Also, Zionists are working day and night to merge the identity of Judaism and
+      Zionism into one. They need Jews  to be responsible for their action, or else
+      they cannot use antisemitism as a shield. They’ll always say it’s about all the
+      Jewish people. Not Israel, to get us to pay. We see this in the streets of Europe,
+      and now also in America. It must be stopped. Zionists are working for their selfish
+      agendas at the expense of Jewish people.” Rabbi Silberstein, 20 March 2026 Gideon
+      Levy Gideon Levy Gideon Levy, an Israeli journalist, is a vocal critic of Israeli
+      policy and condemns the widespread belief among Israelis that they are superior
+      to the rest of the world. In the linked speech , he sarcastically criticizes the
+      following points: Israel as the chosen people, Israelis as the great victims—the
+      only victims—and Palestinians as subhuman, since Israelis are superior. Israeli
+      journalist Gideon Levy educating the world on the sickness that is the Israeli
+      people! pic.twitter.com/WRqRYQ2IWr — Rania (@umyaznemo) June 20, 2025 Conclusion
+      Not only does the West give the criminal Zionists carte blanche to commit genocide
+      and wage illegal wars—acts that, under the Nuremberg criteria, would all be punishable
+      by death—but it also finances these malicious deeds at the expense of taxpayers,
+      who are driven into poverty as a result of these wars. Anyone who speaks up against
+      this is labeled an anti-Semite and ostracized—by people who don’t even realize
+      that anti-Semitism is the very lifeblood of the Zionists. Peter Hanseler is a
+      geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that the West's labeling of critics of
+      Zionism and Israel as anti-Semites obscures the reality that Zionists may exploit
+      anti-Semitism to justify their actions, ultimately fostering negative perceptions
+      of Israeli policies as tied to Judaism.
+    paragraph_summary: The article argues that the West, particularly in its support
+      for Israel, employs the label of anti-Semitism to silence critics of Zionism and
+      Israeli policies, thereby obscuring the reality that such tactics may actually
+      promote anti-Semitism. It contends that this strategy not only misrepresents legitimate
+      criticism but also fosters a perception of Israeli actions as representative of
+      Judaism, which can lead to anti-Semitic sentiments among those unable to distinguish
+      between the two. The author suggests that the vague definitions surrounding anti-Semitism,
+      Judaism, and Zionism contribute to this confusion, allowing Zionists to portray
+      themselves as victims of anti-Semitism while pursuing their political objectives.
+      The article emphasizes the distinction between Judaism as a cultural and religious
+      identity and Zionism as a political movement, asserting that the two should not
+      be conflated.
+    published: '2026-03-22T18:36:29+00:00'
+  - title: Anti-Zionism is not Anti-Semitism
+    url: https://sonar21.com/anti-zionism-is-not-anti-semitism/
+    text: 'In the West, the crimes of the Zionists and Israel are condoned by labeling
+      any critic as an anti-Semite. This approach obscures the following fact: The Zionists
+      promote anti-Semitism to legitimize their crimes. Introduction The Collective
+      West, which unconditionally supports the war of destruction against Iran, claims
+      that anyone who raises their voice against the Zionists and Israel is an anti-Semite
+      who must be punished. This strategy of the West is not only malicious, but it
+      ultimately leads to precisely what the “anti-Semitism” label purports to want
+      to prevent with all political and, increasingly, legal power: namely, the perception
+      of Israeli policy as a crime of Judaism. Anyone who perceives Israel’s policies
+      in this way and is unable to separate the wheat from the chaff is almost inevitably
+      drawn toward anti-Semitic attitudes in the uncritical political debate taking
+      place in the West. This tendency is fueled by the deliberately vague definitions
+      of anti-Semitism, Judaism, and Zionism, as well as the distinctions between them.
+      These definitions, which blur the boundaries of the concepts, form the very basis
+      upon which the West acts with all its might and passes judgment, particularly
+      in Germany. And so the circle closes. The Zionists need anti-Semitism so they
+      can portray themselves as its victims and use it to promote and achieve their
+      criminal goals. A few thoughts on a topic that is sure to get the blood boiling
+      among Zionists and uneducated fools in the West. Zionism, Israel, Judaism Judaism
+      is the sum of the culture, history, religion, and traditions of the Jewish people
+      and has existed for approximately 4,000 years (see also our discussion on this
+      topic in “ Judaism, Zionism, Anti-Semitism, and Israel: Misuse of Terms ” from
+      October 2023.) Zionism is a political movement that has existed in an organized
+      form since the First Zionist Congress in Basel in 1897. This movement has nothing
+      to do with Judaism; rather, it was founded by the Viennese journalist Theodor
+      Herzl, a completely non-religious man. The original goal of this political movement
+      was the establishment or proclamation of the State of Israel, which was achieved
+      in 1948. Today, the goal of Zionism is the creation of Greater Israel, which is
+      intended to dominate most of the Middle East. What will the goal be after that?
+      Theodor Herzl made the following statement: «The anti-Semites will become our
+      most dependable friends, the anti-Semitic countries our allies.» Theodor Herzl,
+      1896 The notion that Jews are under threat is a central element of the Zionist
+      master plan. The Zionists hide behind anti-Semitism and Judaism in order to carry
+      out their crimes. Another goal they pursue is the merging of Zionism and Judaism.
+      The reason is simple: Many people have—rightly so—reservations about criticizing
+      Jews, not only because of the Holocaust, but also because of the countless pogroms
+      that took place in nearly every European country. By merging Zionism and Judaism,
+      the Zionists create an excellent protective shield for themselves. As long as
+      Western politicians cannot distinguish between Zionism, Israel, and Greater Israel
+      as Zionist projects on the one hand, and Judaism on the other—and do not seem
+      willing to do so—Judaism is bound to lose, and the Zionist criminals hiding behind
+      it are bound to win. Who are the Zionists? The US Congress supports Israel as
+      a Zionist project with approximately $5 billion annually. Furthermore, the US
+      provides Israel with every form of political support for war, genocide, land theft,
+      and the complete enslavement of people. In addition to Adelson’s well-known large
+      donation to Trump, hordes of American politicians are being bought off en masse
+      so that they speak and vote in Israel’s interests. In the current 119th U.S. Congress
+      (532 members), only 32 Jews are represented (6%); nevertheless, the U.S. Congress,
+      which consists of 87% Christians, has voted staunchly in favor of Zionism since
+      1948 (figures: Pew Research ). To secure a majority in Congress, 50% plus one
+      vote (266+1) is required; thus, at least 235 non-Jews, together with 32 Jews,
+      determine the Zionist policy of the United States, bringing the non-Jewish share
+      of Zionists in the U.S. Congress to a staggering 88%. Israel is nothing more than
+      an American outpost through which the US controls the Middle East. In my view,
+      the question of whether Israel controls the US or the US controls and manipulates
+      Israel is irrelevant from a geopolitical perspective. Together, they form a power
+      bloc designed to subjugate one of the richest and most sensitive regions in the
+      world. Distinguishing who dominates whom only becomes relevant when considering
+      how to neutralize this alliance. What do Jews Say about Zionism and Israel? In
+      the West, especially in Europe, people are completely unaware that there are many
+      Jews who despise and oppose Zionism and the Israeli project. Non-Jews, on the
+      other hand—such as the German Chancellor—are pursuing a Zionist agenda regardless
+      of the consequences. This goes so far that Friedrich Merz unconditionally and
+      without reservation promotes and supports an Israeli and US attack on Iran, claiming
+      it is necessary. His hate-monger Marie-Agnes Strack-Zimmermann, who works for
+      the arms industry, supports every war as part of her job, and has no qualms whatsoever
+      about stoking hatred on a Nazi scale, said a few days ago on the public broadcaster
+      ARD: “Iran is a plague on this earth” Marie-Agnes Strack-Zimmermann, 19 March
+      2026 Marie-Agnes Strack-Zimmermann: Form follows function People have absolutely
+      no sense or idea that, in terms of communication, we have once again reached the
+      level of Hitler and Goebbels—and ultimately, once again at the expense of the
+      Jews—because many Jews who oppose Zionism are being persecuted anew for something
+      they cannot change: the fact that they are Jewish. In the following, I feature
+      two Jewish speakers: a rabbi who assesses the issue from a religious perspective,
+      and an Israeli journalist who touches on a sore spot in Israeli society. Rabbi
+      Abraham Silberstein Rabbi Abraham Silberstein Rabbi Abraham Silberstein is a leading
+      Jewish scholar who advocates for animal rights within Judaism and serves as the
+      Executive Director of Voice of Rabbis . He is known for his critical stance on
+      the biblical justification for land claims in the Middle East, based on teachings
+      from the Torah and the Talmud. “I want to be clear that violence against anyone
+      is never allowed. But let me explain this further. The Zionist government cannot
+      sustain itself without antisemitism. Zionists need Jewish people to live in constant
+      fear, in order for their existence, as so-called Jewish saviours should look true.
+      Zionists will always use words such as Holocaust and pogroms to describe incidents
+      that don’t even apply to Jewish people, but strictly to this Israeli government.
+      Also, Zionists are working day and night to merge the identity of Judaism and
+      Zionism into one. They need Jews  to be responsible for their action, or else
+      they cannot use antisemitism as a shield. They’ll always say it’s about all the
+      Jewish people. Not Israel, to get us to pay. We see this in the streets of Europe,
+      and now also in America. It must be stopped. Zionists are working for their selfish
+      agendas at the expense of Jewish people.” Rabbi Silberstein, 20 March 2026 Gideon
+      Levy Gideon Levy Gideon Levy, an Israeli journalist, is a vocal critic of Israeli
+      policy and condemns the widespread belief among Israelis that they are superior
+      to the rest of the world. In the linked speech , he sarcastically criticizes the
+      following points: Israel as the chosen people, Israelis as the great victims—the
+      only victims—and Palestinians as subhuman, since Israelis are superior. Israeli
+      journalist Gideon Levy educating the world on the sickness that is the Israeli
+      people! pic.twitter.com/WRqRYQ2IWr — Rania (@umyaznemo) June 20, 2025 Conclusion
+      Not only does the West give the criminal Zionists carte blanche to commit genocide
+      and wage illegal wars—acts that, under the Nuremberg criteria, would all be punishable
+      by death—but it also finances these malicious deeds at the expense of taxpayers,
+      who are driven into poverty as a result of these wars. Anyone who speaks up against
+      this is labeled an anti-Semite and ostracized—by people who don’t even realize
+      that anti-Semitism is the very lifeblood of the Zionists. Peter Hanseler is a
+      geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that the West's labeling of critics of
+      Zionism and Israel as anti-Semites obscures the reality that Zionists may exploit
+      anti-Semitism to justify their actions, ultimately fostering negative perceptions
+      of Israeli policies as tied to Judaism.
+    paragraph_summary: The article argues that the West, particularly in its support
+      for Israel, employs the label of anti-Semitism to silence critics of Zionism and
+      Israeli policies, thereby obscuring the reality that such tactics may actually
+      promote anti-Semitism. It contends that this strategy not only misrepresents legitimate
+      criticism but also fosters a perception of Israeli actions as representative of
+      Judaism, which can lead to anti-Semitic sentiments among those unable to distinguish
+      between the two. The author suggests that the vague definitions surrounding anti-Semitism,
+      Judaism, and Zionism contribute to this confusion, allowing Zionists to portray
+      themselves as victims of anti-Semitism while pursuing their political objectives.
+      The article emphasizes the distinction between Judaism as a cultural and religious
+      identity and Zionism as a political movement, asserting that the two should not
+      be conflated.
+    published: '2026-03-22T18:36:29+00:00'
+  - title: Trump’s Schizophrenic Policy Towards Iran is Sabotaging Relations with China
+      and Russia
+    url: https://sonar21.com/trumps-schizophrenic-policy-towards-iran-is-sabotaging-relations-with-china-and-russia/
+    text: 's Trying to define Donald Trump’s position with respect to Iran is akin to
+      watching a weather vane in a hurricane… i.e., it is spinning wildly in all directions.
+      Consider the following statments that President Trump: — Friday: “We can have
+      dialogue, but I don’t want to do a ceasefire. “ — Later on Friday: The U.S. is
+      “considering winding down” the war with Iran. — Earlier on Saturday: Axios reports
+      Trump is planning “possible peace talks with Iran.” — Now: “If Iran doesn’t open
+      the Strait of Hormuz within 48 hours the US will obliterate their various POWER
+      PLANTS.” Axios reported on Saturday that the Trump team is scrambling to try to
+      resurrect direct negotiations: President Trump said Friday that he was considering
+      “winding down” the war , though U.S. officials said the expectation was there
+      would still be two to three additional weeks of fighting. In the meantime, Trump’s
+      advisers want to start laying groundwork for diplomacy. Behind the scenes: Trump’s
+      envoys Jared Kushner and Steve Witkoff are involved in the discussions around
+      potential diplomacy, sources say. Any deal to end the war would need to include
+      the reopening of the Strait of Hormuz, address Iran’s stockpile of highly enriched
+      uranium, and also establish a long-term agreement on Iran’s nuclear program, ballistic
+      missiles and support for proxies in the region. There has been no direct contact
+      between the U.S. and Iran in recent days, though Egypt, Qatar and the U.K. have
+      all passed messages between the two, a U.S. official and two additional sources
+      with knowledge said. Egypt and Qatar have informed the U.S. and Israel that Iran
+      is interested in negotiating, but with very tough terms. Trump still labors under
+      the mistaken belief that he has leverage over Iran and that Iran is eager to end
+      the war. Nothing could be farther from the truth. Following Israel and US attacks
+      yesterday on Iran’s nuclear processing facilities, Iran hit back hard in Dimona,
+      which is the headquarters of Israel’s nuclear program. Notice in the following
+      videos the failure of Israel’s air defense system to destroy an Iranian missile:
+      Iran retains a firm grip on the Strait of Hormuz and continues to launch waves
+      of missiles — at least three waves per day — at targets in the Persian Gulf and
+      Israel. Trump’s war of choice in Iran has derailed the planned summit with China,
+      according to Politico. Contacts to prepare for the meeting were already underway,
+      but they have now been completely suspended, with no new dates set. Netanyahu
+      is not helping matters. During a press conference on military action against Iran,
+      Netanyahu said: “ Jesus Christ has no advantage over Genghis Khan. Because if
+      you are strong enough, ruthless enough, powerful enough, then evil will win over
+      good. ” EADaily His remarks sparked a wave of criticism on social media, particularly
+      from Christians angered by the comparison between Jesus — whom they regard as
+      God incarnate and the “Prince of Peace” — and Genghis Khan, founder of the 13th-century
+      Mongol Empire whose armies ravaged Asia from China to the Mediterranean. CP24
+      Netanyahu quickly pushed back on the backlash. He said he was citing the great
+      American historian Will Durant, and that “ a morally superior civilisation may
+      still fall to a ruthless enemy if it does not have the power to defend itself.
+      No offence was meant. ” South China Morning Post Critics were not satisfied. Palestinian
+      Lutheran pastor Munther Isaac from Bethlehem said on X that the statement was
+      “offensive on multiple levels” — that it “ not only compares Jesus to Genghis
+      Khan, but also suggests that the way of Jesus is naive, while a ruthless, ‘might
+      makes right’ approach is what ultimately allows good to overcome evil. ” CP24
+      He added that “Netanyahu, and his Christian Zionist supporters, are making a mockery
+      of the ethics of Jesus.” The Jerusalem Archbishop also weighed in, saying that
+      Netanyahu’s “inflammatory words reflect narcissism, arrogance, and a sense of
+      domination,” and that his provocative statements “demand responses from churches
+      around the world.” For the non-Christians who are reading this, it is important
+      to remember what Jesus said about dealing with people like Netanyahu and Genghis
+      Kahn… Jesus taught “turn the other cheek” in the Sermon on the Mount, recorded
+      in Matthew 5:38-39. He said: “You have heard that it was said, ‘Eye for eye, and
+      tooth for tooth.’ But I tell you, do not resist an evil person. If anyone slaps
+      you on the right cheek, turn to them the other cheek also.” The stupidity of Netanyahu
+      is illustrated in the following image: Trump’s evil antics in the Persian Gulf
+      has further undermined hopes of improved relations between Russia and the US.
+      Russian Foreign Minister Sergei Lavrov has made several recent statements in March
+      2026 criticizing US foreign policy and relations with Russia. His remarks emphasize
+      skepticism toward US intentions, accusations of unilateralism, and a lack of respect
+      for Russian interests. In a March 21, 2026, interview excerpt for the “Looking
+      Back” television program (hosted by Leonid Mlechin), Lavrov expressed deep pessimism
+      about bilateral ties, accusing the US of prioritizing its own dominance in global
+      energy markets and attempting to push Russia out of them. He highlighted actions
+      in Venezuela and Iran as examples where Washington allegedly pursues resources
+      through coups or aggression, stating that the US “does not hide” its energy dominance
+      doctrine. He described the current world as sliding toward one without international
+      law, where the US openly declares it cares only about its own interests and well-being,
+      with no regard for others—framing this as a return to a “winner-takes-all” logic.
+      During a March 5, 2026, Ambassadorial Roundtable on the Ukraine crisis and digital
+      threats (as per Russian Foreign Ministry transcripts), Lavrov called for an in-depth
+      dialogue on the US vision of the world and its role, questioning how current events
+      align with previously established norms. He noted that while the US pushes for
+      ending conflicts like Ukraine, it continues Biden-era sanctions and escalatory
+      actions (e.g., against Russian-linked tankers), showing no genuine shift under
+      Trump. On March 3, 2026, Lavrov stated there is “no clarity” on US goals in Iran,
+      describing US-Israeli strikes as aggression and urging an immediate halt to hostilities.
+      He emphasized that meaningful mediation requires understanding the parties’ directions,
+      which he said is absent from Washington. Earlier in March (e.g., March 8 comments
+      on “Moscow. Kremlin. Putin”), he reiterated the need for the US to explain its
+      plans and respect international norms, proposing a meeting of UN Security Council
+      permanent members to address global issues. Lavrov maintains that Russia is open
+      to cooperation if based on mutual respect and national interests, but sees little
+      prospect for improvement—particularly economically—due to ongoing sanctions, hostility
+      toward BRICS, and perceived US pursuit of dominance. These statements reflect
+      a consistent Russian line: cautious dialogue is possible (e.g., limited economic
+      working groups), but trust remains low, with no “bright future” absent major U.S.
+      policy changes. Looks like Trump’s chances of garnering a Nobel Peace Prize are
+      growing dimmer with each passing day. Instead of trying to reduce tensions in
+      the Persian Gulf, Trump has doubled-down on stupid and reckless: I discussed the
+      prospects for a US/Israel exit ramp with Glenn Diesen today (Saturday): I forgot
+      to post Danny Haiphong’s video with Colonel Wilkerson and me, which was recorded
+      on Friday: Stanislav “Stas” Krapivnik and I discussed the insanity of trying to
+      deploy Marines in the Persian Gulf: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Donald Trump's stance on Iran is highly inconsistent, fluctuating
+      between the possibility of dialogue and peace talks, and aggressive threats of
+      military action, leaving his position unclear and chaotic.
+    paragraph_summary: Donald Trump's stance on Iran is highly inconsistent and unpredictable,
+      resembling a weather vane caught in a storm. Recent statements from Trump indicate
+      a mix of potential dialogue and aggressive threats, including a warning to Iran
+      about the Strait of Hormuz and the possibility of peace talks. While Trump has
+      mentioned considering winding down the conflict, U.S. officials anticipate continued
+      fighting for several weeks. His advisers are reportedly working on laying the
+      groundwork for diplomacy, with key issues to address including Iran's nuclear
+      program and regional influence. Despite claims of leverage, there is skepticism
+      about Iran's willingness to negotiate, especially following recent military actions
+      against its nuclear facilities, which have escalated tensions further.
+    published: '2026-03-22T03:30:51+00:00'
+  - title: Trump’s Schizophrenic Policy Towards Iran is Sabotaging Relations with China
+      and Russia
+    url: https://sonar21.com/trumps-schizophrenic-policy-towards-iran-is-sabotaging-relations-with-china-and-russia/
+    text: 's Trying to define Donald Trump’s position with respect to Iran is akin to
+      watching a weather vane in a hurricane… i.e., it is spinning wildly in all directions.
+      Consider the following statments that President Trump: — Friday: “We can have
+      dialogue, but I don’t want to do a ceasefire. “ — Later on Friday: The U.S. is
+      “considering winding down” the war with Iran. — Earlier on Saturday: Axios reports
+      Trump is planning “possible peace talks with Iran.” — Now: “If Iran doesn’t open
+      the Strait of Hormuz within 48 hours the US will obliterate their various POWER
+      PLANTS.” Axios reported on Saturday that the Trump team is scrambling to try to
+      resurrect direct negotiations: President Trump said Friday that he was considering
+      “winding down” the war , though U.S. officials said the expectation was there
+      would still be two to three additional weeks of fighting. In the meantime, Trump’s
+      advisers want to start laying groundwork for diplomacy. Behind the scenes: Trump’s
+      envoys Jared Kushner and Steve Witkoff are involved in the discussions around
+      potential diplomacy, sources say. Any deal to end the war would need to include
+      the reopening of the Strait of Hormuz, address Iran’s stockpile of highly enriched
+      uranium, and also establish a long-term agreement on Iran’s nuclear program, ballistic
+      missiles and support for proxies in the region. There has been no direct contact
+      between the U.S. and Iran in recent days, though Egypt, Qatar and the U.K. have
+      all passed messages between the two, a U.S. official and two additional sources
+      with knowledge said. Egypt and Qatar have informed the U.S. and Israel that Iran
+      is interested in negotiating, but with very tough terms. Trump still labors under
+      the mistaken belief that he has leverage over Iran and that Iran is eager to end
+      the war. Nothing could be farther from the truth. Following Israel and US attacks
+      yesterday on Iran’s nuclear processing facilities, Iran hit back hard in Dimona,
+      which is the headquarters of Israel’s nuclear program. Notice in the following
+      videos the failure of Israel’s air defense system to destroy an Iranian missile:
+      Iran retains a firm grip on the Strait of Hormuz and continues to launch waves
+      of missiles — at least three waves per day — at targets in the Persian Gulf and
+      Israel. Trump’s war of choice in Iran has derailed the planned summit with China,
+      according to Politico. Contacts to prepare for the meeting were already underway,
+      but they have now been completely suspended, with no new dates set. Netanyahu
+      is not helping matters. During a press conference on military action against Iran,
+      Netanyahu said: “ Jesus Christ has no advantage over Genghis Khan. Because if
+      you are strong enough, ruthless enough, powerful enough, then evil will win over
+      good. ” EADaily His remarks sparked a wave of criticism on social media, particularly
+      from Christians angered by the comparison between Jesus — whom they regard as
+      God incarnate and the “Prince of Peace” — and Genghis Khan, founder of the 13th-century
+      Mongol Empire whose armies ravaged Asia from China to the Mediterranean. CP24
+      Netanyahu quickly pushed back on the backlash. He said he was citing the great
+      American historian Will Durant, and that “ a morally superior civilisation may
+      still fall to a ruthless enemy if it does not have the power to defend itself.
+      No offence was meant. ” South China Morning Post Critics were not satisfied. Palestinian
+      Lutheran pastor Munther Isaac from Bethlehem said on X that the statement was
+      “offensive on multiple levels” — that it “ not only compares Jesus to Genghis
+      Khan, but also suggests that the way of Jesus is naive, while a ruthless, ‘might
+      makes right’ approach is what ultimately allows good to overcome evil. ” CP24
+      He added that “Netanyahu, and his Christian Zionist supporters, are making a mockery
+      of the ethics of Jesus.” The Jerusalem Archbishop also weighed in, saying that
+      Netanyahu’s “inflammatory words reflect narcissism, arrogance, and a sense of
+      domination,” and that his provocative statements “demand responses from churches
+      around the world.” For the non-Christians who are reading this, it is important
+      to remember what Jesus said about dealing with people like Netanyahu and Genghis
+      Kahn… Jesus taught “turn the other cheek” in the Sermon on the Mount, recorded
+      in Matthew 5:38-39. He said: “You have heard that it was said, ‘Eye for eye, and
+      tooth for tooth.’ But I tell you, do not resist an evil person. If anyone slaps
+      you on the right cheek, turn to them the other cheek also.” The stupidity of Netanyahu
+      is illustrated in the following image: Trump’s evil antics in the Persian Gulf
+      has further undermined hopes of improved relations between Russia and the US.
+      Russian Foreign Minister Sergei Lavrov has made several recent statements in March
+      2026 criticizing US foreign policy and relations with Russia. His remarks emphasize
+      skepticism toward US intentions, accusations of unilateralism, and a lack of respect
+      for Russian interests. In a March 21, 2026, interview excerpt for the “Looking
+      Back” television program (hosted by Leonid Mlechin), Lavrov expressed deep pessimism
+      about bilateral ties, accusing the US of prioritizing its own dominance in global
+      energy markets and attempting to push Russia out of them. He highlighted actions
+      in Venezuela and Iran as examples where Washington allegedly pursues resources
+      through coups or aggression, stating that the US “does not hide” its energy dominance
+      doctrine. He described the current world as sliding toward one without international
+      law, where the US openly declares it cares only about its own interests and well-being,
+      with no regard for others—framing this as a return to a “winner-takes-all” logic.
+      During a March 5, 2026, Ambassadorial Roundtable on the Ukraine crisis and digital
+      threats (as per Russian Foreign Ministry transcripts), Lavrov called for an in-depth
+      dialogue on the US vision of the world and its role, questioning how current events
+      align with previously established norms. He noted that while the US pushes for
+      ending conflicts like Ukraine, it continues Biden-era sanctions and escalatory
+      actions (e.g., against Russian-linked tankers), showing no genuine shift under
+      Trump. On March 3, 2026, Lavrov stated there is “no clarity” on US goals in Iran,
+      describing US-Israeli strikes as aggression and urging an immediate halt to hostilities.
+      He emphasized that meaningful mediation requires understanding the parties’ directions,
+      which he said is absent from Washington. Earlier in March (e.g., March 8 comments
+      on “Moscow. Kremlin. Putin”), he reiterated the need for the US to explain its
+      plans and respect international norms, proposing a meeting of UN Security Council
+      permanent members to address global issues. Lavrov maintains that Russia is open
+      to cooperation if based on mutual respect and national interests, but sees little
+      prospect for improvement—particularly economically—due to ongoing sanctions, hostility
+      toward BRICS, and perceived US pursuit of dominance. These statements reflect
+      a consistent Russian line: cautious dialogue is possible (e.g., limited economic
+      working groups), but trust remains low, with no “bright future” absent major U.S.
+      policy changes. Looks like Trump’s chances of garnering a Nobel Peace Prize are
+      growing dimmer with each passing day. Instead of trying to reduce tensions in
+      the Persian Gulf, Trump has doubled-down on stupid and reckless: I discussed the
+      prospects for a US/Israel exit ramp with Glenn Diesen today (Saturday): I forgot
+      to post Danny Haiphong’s video with Colonel Wilkerson and me, which was recorded
+      on Friday: Stanislav “Stas” Krapivnik and I discussed the insanity of trying to
+      deploy Marines in the Persian Gulf: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: Donald Trump's stance on Iran is highly inconsistent, fluctuating
+      between the possibility of dialogue and peace talks, and aggressive threats of
+      military action, leaving his position unclear and chaotic.
+    paragraph_summary: Donald Trump's stance on Iran is highly inconsistent and unpredictable,
+      resembling a weather vane caught in a storm. Recent statements from Trump indicate
+      a mix of potential dialogue and aggressive threats, including a warning to Iran
+      about the Strait of Hormuz and the possibility of peace talks. While Trump has
+      mentioned considering winding down the conflict, U.S. officials anticipate continued
+      fighting for several weeks. His advisers are reportedly working on laying the
+      groundwork for diplomacy, with key issues to address including Iran's nuclear
+      program and regional influence. Despite claims of leverage, there is skepticism
+      about Iran's willingness to negotiate, especially following recent military actions
+      against its nuclear facilities, which have escalated tensions further.
+    published: '2026-03-22T03:30:51+00:00'
+  - title: Boots on the Ground in Iran… A Deception or a Suicide Mission?
+    url: https://sonar21.com/boots-on-the-ground-in-iran-a-deception-or-a-suicide-mission/
+    text: 'Iranian Shoreline in the Strait of Hormuz As of March 20, 2026, the United
+      States has ordered two Marine Expeditionary Units (MEUs) to the Arabian Sea/Middle
+      East region amid the ongoing US-Israel war with Iran (Operation Epic Fury, started
+      February 28, 2026). Why is the Trump administration announcing this when it is
+      at war with Iran. Normally, a commander wants to hide their troop movements. This
+      is either criminal negligence on the part of Trump’s Department of War or it is
+      part of a deception operation. Let’s first look at their composition and expected
+      arrival time in theater: 31st MEU (forward-deployed from Okinawa, Japan): Ordered
+      on or around March 13, 2026, to transit from the Indo-Pacific toward the Middle
+      East. It includes about 2,200–2,500 Marines, embarked on the USS Tripoli Amphibious
+      Ready Group (ARG), which features the amphibious assault ship USS Tripoli (LHA-7),
+      USS New Orleans (LPD-18), and escorts like USS Rafael Peralta (DDG-115) and USS
+      Robert Smalls (CG-62). As of mid-March, the group was transiting the Malacca Strait
+      and is expected to arrive in the Arabian Sea/Gulf region in between March 25 and
+      March 30. 11th MEU (based at Camp Pendleton, California): Ordered more recently
+      (reported around March 20, 2026), with elements deploying on the USS Boxer Amphibious
+      Ready Group (including USS Boxer and accompanying ships). This adds another ~2,500
+      Marines and warships, accelerating the buildup. Reports indicate this deployment
+      was expedited (potentially weeks ahead of schedule) to reinforce CENTCOM forces.
+      Arrival is expected in late March to early April 2026 (roughly 18–25 days from
+      mid-March departure), potentially overlapping or following the earlier 31st MEU/Tripoli
+      ARG (which transited faster from closer Pacific positions). Ok. Once they are
+      in the vicinity of Iran, what will be their mission? Some have suggested they
+      will be used in an amphibious assault to try to open up the Strait of Hormuz.
+      We’re talking about 5,000 Marines being asked to secure a rugged coastline that
+      is twice the size of the beaches at Normandy that the US, the Brits and the Canadians
+      stormed on June 6, 1944. Let me remind you of the scale of that operation: On
+      June 6, 1944, known as D-Day, Allied forces launched the largest seaborne invasion
+      in history, codenamed Operation Overlord, landing approximately 156,000 troops
+      (including airborne and seaborne elements) across a roughly 50-mile (80 km) stretch
+      of Normandy’s coastline in Nazi-occupied France. The assault targeted five beaches—Utah
+      and Omaha (American), Gold and Sword (British), and Juno (Canadian)—with each
+      beach varying in size: Utah spanned about 11 miles, Omaha around 10 miles, Gold
+      roughly 10 miles, Juno about 2 miles (the smallest), and Sword approximately 5–8
+      miles. These beaches were relatively narrow due to tides, cliffs, and obstacles,
+      forcing troops into confined landing zones under intense German fire from fortifications,
+      mines, and artillery. The sheer scale of manpower—nearly 133,000 landing by sea
+      on the first day alone, supported by over 7,000 ships, 11,000 aircraft, and 50,000
+      vehicles—created immense logistical challenges. Supplies had to be delivered over
+      open beaches without captured ports, requiring innovative solutions like the temporary
+      Mulberry artificial harbors (prefabricated concrete caissons and breakwaters towed
+      across the Channel) to enable unloading thousands of tons of fuel, ammunition,
+      food, and equipment daily amid rough seas, tidal shifts that reduced usable beach
+      width, and the constant threat of German counterattacks. Despite these hurdles,
+      by the end of June 11, over 326,000 troops and 100,000 tons of matériel had been
+      landed, securing the beachheads and paving the way for the liberation of Western
+      Europe. So let’s compare the geographies of those two beaches… The Iranian coastline
+      along the Strait of Hormuz (the northern side of this narrow, strategically vital
+      waterway) and the Normandy beaches assaulted during the D-Day invasion on June
+      6, 1944, share some superficial similarities as coastal zones targeted in major
+      military operations but differ dramatically in geography, scale, terrain, and
+      implications for amphibious assault. Both feature a mix of cliffs or high ground
+      overlooking the water and narrower, more accessible coastal strips in places.
+      On the Iranian side near Bandar Abbas and parts of the strait, there are vertical
+      cliffs and mountainous extensions from the Zagros range rising sharply from the
+      sea, providing natural defensive vantage points similar to the high bluffs and
+      cliffs flanking Omaha Beach in Normandy (which rose 100–150 feet and proved deadly
+      for attackers). In both cases, the terrain favors defenders: elevated positions
+      allow observation, artillery fire, and fortified positions (e.g., Iranian islands
+      and coastal batteries vs. German Atlantic Wall bunkers). Both areas involve tidal
+      influences and potential navigational hazards—Normandy had strong tides exposing
+      obstacles and reducing usable beach width at low tide, while the Strait of Hormuz
+      has deep waters but dust, haze, and narrow shipping lanes complicating large-scale
+      movement. The Normandy landing beaches spanned a continuous 50-mile (80 km) front
+      across five sectors (Utah ~11 miles, Omaha ~10 miles, Gold ~10 miles, Juno ~2
+      miles, Sword ~5–8 miles), creating a broad, linear assault zone for massive troop
+      landings. In contrast, the Iranian coastline along the Strait of Hormuz is more
+      fragmented and shorter in any potential amphibious focus—dominated by the narrow
+      strait (21–35 miles wide at points, with shipping lanes only ~2 miles each way)
+      and key developed areas like Bandar Abbas, rather than a long, uniform beachfront.
+      Iran’s coast includes a narrow coastal plain with beaches and flats in spots but
+      is mostly rugged and cliff-dominated, lacking the extended sandy expanses ideal
+      for large-scale landings seen in Normandy. Normandy’s beaches were relatively
+      flat and sandy (with dunes, obstacles like hedgehogs/mines, and seawalls), but
+      backed by bluffs, hedgerows, and flooded marshes inland—creating confined kill
+      zones but allowing vehicle movement once ashore. The Iranian shore is more mountainous
+      and arid, with steep cliffs, limited flat beaches, small estuaries, and inhospitable
+      desert-like conditions (hot, dusty, low freshwater). This would make sustained
+      beachhead establishment far harder, with fewer viable landing sites and rapid
+      chokepoints from cliffs/mountains. Normandy’s beaches were chosen for their relative
+      vulnerability to surprise assault despite fortifications, enabling ~156,000 troops
+      to land in one day with massive naval/artificial harbor support. An amphibious
+      operation against Iran’s Hormuz coast would face a much more defensible, narrower,
+      and deeper-water environment, with Iran’s control of islands (e.g., Qeshm, Hormuz)
+      and high ground offering layered defenses, missile/drone threats, and rapid reinforcement—making
+      it far less suitable for a D-Day-style mass landing and more akin to a high-risk,
+      limited raid or blockade scenario. Now let’s look at the aviation support that
+      accompanies each MEU. The Aviation Combat Element (ACE) for both the 31st Marine
+      Expeditionary Unit (MEU) (embarked on the USS Tripoli Amphibious Ready Group)
+      and the 11th MEU (embarked on the USS Boxer Amphibious Ready Group) forms the
+      airpower component of each MEU’s Marine Air-Ground Task Force (MAGTF). In 2026,
+      US Marine Corps MEU ACEs are composite squadrons tailored for expeditionary operations,
+      providing a mix of fixed-wing strike, tiltrotor assault support, rotary-wing attack/utility,
+      and logistics/transport capabilities. These are reinforced (“Rein.”) detachments
+      from various squadrons, optimized for amphibious assault ships like LHA-7 (Tripoli,
+      aviation-focused with no well deck) and LHD-4 (Boxer, with well deck for landing
+      craft). 31st MEU ACE (Tripoli ARG, 2026) The 31st MEU’s ACE is configured for
+      high-end aviation operations, leveraging the USS Tripoli’s large flight deck for
+      an augmented fixed-wing presence. Key components include: Marine Fighter Attack
+      Squadron (VMFA) 121 “Green Knights” — F-35B Lightning II stealth fighters (short
+      takeoff/vertical landing variant), providing multi-role strike, air superiority,
+      close air support, and intelligence/surveillance/reconnaissance (ISR). Marine
+      Medium Tiltrotor Squadron (VMM) 265 (Reinforced) — MV-22B Osprey tiltrotors for
+      rapid troop transport, assault support, and logistics over extended ranges. Rotary-wing
+      support — Typically includes detachments of AH-1Z Viper attack helicopters, UH-1Y
+      Venom utility helicopters (for armed escort and utility), and MH-60S Seahawk helicopters
+      (from Navy HSC squadrons, for search-and-rescue, utility, and special operations
+      support). Additional elements — Possible limited CH-53E/K Super Stallion/King
+      Stallion heavy-lift helicopters for outsized cargo/transport, though not always
+      full detachments on Tripoli due to deck space priorities. 11th MEU ACE (Boxer
+      ARG, 2026) The 11th MEU’s ACE follows a more traditional reinforced composite
+      configuration, with a balanced mix for amphibious assault and sustained operations.
+      It typically includes: Marine Medium Tiltrotor Squadron (VMM) (e.g., VMM-163 or
+      similar West Coast squadron, Reinforced) — MV-22B Ospreys as the core for troop
+      insertion, extraction, and logistics. Marine Fighter Attack Squadron (VMFA) detachment
+      — F-35B Lightning II fighters for tactical air support, increasingly standard
+      across West Coast MEUs. Attack/utility rotary-wing — AH-1Z Viper and UH-1Y Venom
+      detachments for close air support, armed escort, and reconnaissance. Heavy lift
+      and Navy support — Possible CH-53E/K detachments (transitioning to more K models)
+      and MH-60S Seahawks for heavy transport and utility. Looks like a pretty formidable
+      force to take a small island, but it is not capable of securing the Iranian coast
+      on the Strait of Hormuz. Here’s another problem… These ships lack the air defense
+      shield of destroyers that accompany a carrier strike group (CSG). If they venture
+      within 500 miles of the Iranian coast they will be vulnerable to Iranian missile
+      and drone attacks. If Pentagon planners intend to use the two MEUs to seize and
+      secure Kharg Island, which sits in the northern part of the Persian Gulf, the
+      MEUs will have to run the gauntlet of the Strait of Hormuz, which gives the Iranians
+      a much easier set of targets to hit with a drone swarm, missiles, maritime drones,
+      submarines and fast attack boats. There is one other possibility to consider…
+      Deception.  Maybe the Pentagon planners are using the MEUs much like Eisenhower
+      used General Patton’s fictitious Ghost army, which convinced the Germans that
+      the US would land at Pas de Calais rather than at Normandy. Maybe the MEUs are
+      being used to focus Iran’s attention on the Persian Gulf while the US military
+      carries out another mission, such as a ground attack on one of Iran’s underground
+      nuclear facilities that contain enriched uranium. Here’s the bottomline — The
+      MEUs will not be in position to do anything until the first week of April. If
+      the MEUs are used to secure some portion of Iranian territory in the Strait of
+      Hormuz or take Kharg Island, the resulting US casualties will likely be staggering
+      and the Strait will likely remain shuttered for most maritime traffic. Here’s
+      my conversation with Pascal Lottaz of Neutrality Studies, recorded late on Thursday:
+      Here’s the Friday Intelligence Roundtable with the Judge and Ray: Colonel Wilkerson
+      and I discussed the latest in Iran with Nima: As part of my Counter Currents channel,
+      I interviewed Professor Yakov Rabkin on the issue of Zionism: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: As of March 20, 2026, the U.S. has deployed two Marine Expeditionary
+      Units to the Arabian Sea amid the ongoing US-Israel war with Iran, raising questions
+      about the strategic rationale behind such a public troop movement during conflict.
+    paragraph_summary: As of March 20, 2026, the United States has deployed two Marine
+      Expeditionary Units (MEUs) to the Arabian Sea and Middle East region in response
+      to the ongoing US-Israel war with Iran, known as Operation Epic Fury, which began
+      on February 28, 2026. The 31st MEU, consisting of approximately 2,200–2,500 Marines,
+      is currently en route from Okinawa, Japan, aboard the USS Tripoli Amphibious Ready
+      Group and is expected to arrive between March 25 and March 30. Meanwhile, the
+      11th MEU, based in California, has been ordered to deploy on the USS Boxer Amphibious
+      Ready Group, adding another 2,500 Marines and expected to arrive in late March
+      to early April. The rapid deployment raises questions about the strategic intentions
+      of the Trump administration, with speculation that the troops may be preparing
+      for an amphibious assault aimed at securing the Strait of Hormuz.
+    published: '2026-03-21T03:45:51+00:00'
+  - title: Boots on the Ground in Iran… A Deception or a Suicide Mission?
+    url: https://sonar21.com/boots-on-the-ground-in-iran-a-deception-or-a-suicide-mission/
+    text: 'Iranian Shoreline in the Strait of Hormuz As of March 20, 2026, the United
+      States has ordered two Marine Expeditionary Units (MEUs) to the Arabian Sea/Middle
+      East region amid the ongoing US-Israel war with Iran (Operation Epic Fury, started
+      February 28, 2026). Why is the Trump administration announcing this when it is
+      at war with Iran. Normally, a commander wants to hide their troop movements. This
+      is either criminal negligence on the part of Trump’s Department of War or it is
+      part of a deception operation. Let’s first look at their composition and expected
+      arrival time in theater: 31st MEU (forward-deployed from Okinawa, Japan): Ordered
+      on or around March 13, 2026, to transit from the Indo-Pacific toward the Middle
+      East. It includes about 2,200–2,500 Marines, embarked on the USS Tripoli Amphibious
+      Ready Group (ARG), which features the amphibious assault ship USS Tripoli (LHA-7),
+      USS New Orleans (LPD-18), and escorts like USS Rafael Peralta (DDG-115) and USS
+      Robert Smalls (CG-62). As of mid-March, the group was transiting the Malacca Strait
+      and is expected to arrive in the Arabian Sea/Gulf region in between March 25 and
+      March 30. 11th MEU (based at Camp Pendleton, California): Ordered more recently
+      (reported around March 20, 2026), with elements deploying on the USS Boxer Amphibious
+      Ready Group (including USS Boxer and accompanying ships). This adds another ~2,500
+      Marines and warships, accelerating the buildup. Reports indicate this deployment
+      was expedited (potentially weeks ahead of schedule) to reinforce CENTCOM forces.
+      Arrival is expected in late March to early April 2026 (roughly 18–25 days from
+      mid-March departure), potentially overlapping or following the earlier 31st MEU/Tripoli
+      ARG (which transited faster from closer Pacific positions). Ok. Once they are
+      in the vicinity of Iran, what will be their mission? Some have suggested they
+      will be used in an amphibious assault to try to open up the Strait of Hormuz.
+      We’re talking about 5,000 Marines being asked to secure a rugged coastline that
+      is twice the size of the beaches at Normandy that the US, the Brits and the Canadians
+      stormed on June 6, 1944. Let me remind you of the scale of that operation: On
+      June 6, 1944, known as D-Day, Allied forces launched the largest seaborne invasion
+      in history, codenamed Operation Overlord, landing approximately 156,000 troops
+      (including airborne and seaborne elements) across a roughly 50-mile (80 km) stretch
+      of Normandy’s coastline in Nazi-occupied France. The assault targeted five beaches—Utah
+      and Omaha (American), Gold and Sword (British), and Juno (Canadian)—with each
+      beach varying in size: Utah spanned about 11 miles, Omaha around 10 miles, Gold
+      roughly 10 miles, Juno about 2 miles (the smallest), and Sword approximately 5–8
+      miles. These beaches were relatively narrow due to tides, cliffs, and obstacles,
+      forcing troops into confined landing zones under intense German fire from fortifications,
+      mines, and artillery. The sheer scale of manpower—nearly 133,000 landing by sea
+      on the first day alone, supported by over 7,000 ships, 11,000 aircraft, and 50,000
+      vehicles—created immense logistical challenges. Supplies had to be delivered over
+      open beaches without captured ports, requiring innovative solutions like the temporary
+      Mulberry artificial harbors (prefabricated concrete caissons and breakwaters towed
+      across the Channel) to enable unloading thousands of tons of fuel, ammunition,
+      food, and equipment daily amid rough seas, tidal shifts that reduced usable beach
+      width, and the constant threat of German counterattacks. Despite these hurdles,
+      by the end of June 11, over 326,000 troops and 100,000 tons of matériel had been
+      landed, securing the beachheads and paving the way for the liberation of Western
+      Europe. So let’s compare the geographies of those two beaches… The Iranian coastline
+      along the Strait of Hormuz (the northern side of this narrow, strategically vital
+      waterway) and the Normandy beaches assaulted during the D-Day invasion on June
+      6, 1944, share some superficial similarities as coastal zones targeted in major
+      military operations but differ dramatically in geography, scale, terrain, and
+      implications for amphibious assault. Both feature a mix of cliffs or high ground
+      overlooking the water and narrower, more accessible coastal strips in places.
+      On the Iranian side near Bandar Abbas and parts of the strait, there are vertical
+      cliffs and mountainous extensions from the Zagros range rising sharply from the
+      sea, providing natural defensive vantage points similar to the high bluffs and
+      cliffs flanking Omaha Beach in Normandy (which rose 100–150 feet and proved deadly
+      for attackers). In both cases, the terrain favors defenders: elevated positions
+      allow observation, artillery fire, and fortified positions (e.g., Iranian islands
+      and coastal batteries vs. German Atlantic Wall bunkers). Both areas involve tidal
+      influences and potential navigational hazards—Normandy had strong tides exposing
+      obstacles and reducing usable beach width at low tide, while the Strait of Hormuz
+      has deep waters but dust, haze, and narrow shipping lanes complicating large-scale
+      movement. The Normandy landing beaches spanned a continuous 50-mile (80 km) front
+      across five sectors (Utah ~11 miles, Omaha ~10 miles, Gold ~10 miles, Juno ~2
+      miles, Sword ~5–8 miles), creating a broad, linear assault zone for massive troop
+      landings. In contrast, the Iranian coastline along the Strait of Hormuz is more
+      fragmented and shorter in any potential amphibious focus—dominated by the narrow
+      strait (21–35 miles wide at points, with shipping lanes only ~2 miles each way)
+      and key developed areas like Bandar Abbas, rather than a long, uniform beachfront.
+      Iran’s coast includes a narrow coastal plain with beaches and flats in spots but
+      is mostly rugged and cliff-dominated, lacking the extended sandy expanses ideal
+      for large-scale landings seen in Normandy. Normandy’s beaches were relatively
+      flat and sandy (with dunes, obstacles like hedgehogs/mines, and seawalls), but
+      backed by bluffs, hedgerows, and flooded marshes inland—creating confined kill
+      zones but allowing vehicle movement once ashore. The Iranian shore is more mountainous
+      and arid, with steep cliffs, limited flat beaches, small estuaries, and inhospitable
+      desert-like conditions (hot, dusty, low freshwater). This would make sustained
+      beachhead establishment far harder, with fewer viable landing sites and rapid
+      chokepoints from cliffs/mountains. Normandy’s beaches were chosen for their relative
+      vulnerability to surprise assault despite fortifications, enabling ~156,000 troops
+      to land in one day with massive naval/artificial harbor support. An amphibious
+      operation against Iran’s Hormuz coast would face a much more defensible, narrower,
+      and deeper-water environment, with Iran’s control of islands (e.g., Qeshm, Hormuz)
+      and high ground offering layered defenses, missile/drone threats, and rapid reinforcement—making
+      it far less suitable for a D-Day-style mass landing and more akin to a high-risk,
+      limited raid or blockade scenario. Now let’s look at the aviation support that
+      accompanies each MEU. The Aviation Combat Element (ACE) for both the 31st Marine
+      Expeditionary Unit (MEU) (embarked on the USS Tripoli Amphibious Ready Group)
+      and the 11th MEU (embarked on the USS Boxer Amphibious Ready Group) forms the
+      airpower component of each MEU’s Marine Air-Ground Task Force (MAGTF). In 2026,
+      US Marine Corps MEU ACEs are composite squadrons tailored for expeditionary operations,
+      providing a mix of fixed-wing strike, tiltrotor assault support, rotary-wing attack/utility,
+      and logistics/transport capabilities. These are reinforced (“Rein.”) detachments
+      from various squadrons, optimized for amphibious assault ships like LHA-7 (Tripoli,
+      aviation-focused with no well deck) and LHD-4 (Boxer, with well deck for landing
+      craft). 31st MEU ACE (Tripoli ARG, 2026) The 31st MEU’s ACE is configured for
+      high-end aviation operations, leveraging the USS Tripoli’s large flight deck for
+      an augmented fixed-wing presence. Key components include: Marine Fighter Attack
+      Squadron (VMFA) 121 “Green Knights” — F-35B Lightning II stealth fighters (short
+      takeoff/vertical landing variant), providing multi-role strike, air superiority,
+      close air support, and intelligence/surveillance/reconnaissance (ISR). Marine
+      Medium Tiltrotor Squadron (VMM) 265 (Reinforced) — MV-22B Osprey tiltrotors for
+      rapid troop transport, assault support, and logistics over extended ranges. Rotary-wing
+      support — Typically includes detachments of AH-1Z Viper attack helicopters, UH-1Y
+      Venom utility helicopters (for armed escort and utility), and MH-60S Seahawk helicopters
+      (from Navy HSC squadrons, for search-and-rescue, utility, and special operations
+      support). Additional elements — Possible limited CH-53E/K Super Stallion/King
+      Stallion heavy-lift helicopters for outsized cargo/transport, though not always
+      full detachments on Tripoli due to deck space priorities. 11th MEU ACE (Boxer
+      ARG, 2026) The 11th MEU’s ACE follows a more traditional reinforced composite
+      configuration, with a balanced mix for amphibious assault and sustained operations.
+      It typically includes: Marine Medium Tiltrotor Squadron (VMM) (e.g., VMM-163 or
+      similar West Coast squadron, Reinforced) — MV-22B Ospreys as the core for troop
+      insertion, extraction, and logistics. Marine Fighter Attack Squadron (VMFA) detachment
+      — F-35B Lightning II fighters for tactical air support, increasingly standard
+      across West Coast MEUs. Attack/utility rotary-wing — AH-1Z Viper and UH-1Y Venom
+      detachments for close air support, armed escort, and reconnaissance. Heavy lift
+      and Navy support — Possible CH-53E/K detachments (transitioning to more K models)
+      and MH-60S Seahawks for heavy transport and utility. Looks like a pretty formidable
+      force to take a small island, but it is not capable of securing the Iranian coast
+      on the Strait of Hormuz. Here’s another problem… These ships lack the air defense
+      shield of destroyers that accompany a carrier strike group (CSG). If they venture
+      within 500 miles of the Iranian coast they will be vulnerable to Iranian missile
+      and drone attacks. If Pentagon planners intend to use the two MEUs to seize and
+      secure Kharg Island, which sits in the northern part of the Persian Gulf, the
+      MEUs will have to run the gauntlet of the Strait of Hormuz, which gives the Iranians
+      a much easier set of targets to hit with a drone swarm, missiles, maritime drones,
+      submarines and fast attack boats. There is one other possibility to consider…
+      Deception.  Maybe the Pentagon planners are using the MEUs much like Eisenhower
+      used General Patton’s fictitious Ghost army, which convinced the Germans that
+      the US would land at Pas de Calais rather than at Normandy. Maybe the MEUs are
+      being used to focus Iran’s attention on the Persian Gulf while the US military
+      carries out another mission, such as a ground attack on one of Iran’s underground
+      nuclear facilities that contain enriched uranium. Here’s the bottomline — The
+      MEUs will not be in position to do anything until the first week of April. If
+      the MEUs are used to secure some portion of Iranian territory in the Strait of
+      Hormuz or take Kharg Island, the resulting US casualties will likely be staggering
+      and the Strait will likely remain shuttered for most maritime traffic. Here’s
+      my conversation with Pascal Lottaz of Neutrality Studies, recorded late on Thursday:
+      Here’s the Friday Intelligence Roundtable with the Judge and Ray: Colonel Wilkerson
+      and I discussed the latest in Iran with Nima: As part of my Counter Currents channel,
+      I interviewed Professor Yakov Rabkin on the issue of Zionism: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: As of March 20, 2026, the U.S. has deployed two Marine Expeditionary
+      Units to the Arabian Sea amid the ongoing US-Israel war with Iran, raising questions
+      about the strategic rationale behind such a public troop movement during conflict.
+    paragraph_summary: As of March 20, 2026, the United States has deployed two Marine
+      Expeditionary Units (MEUs) to the Arabian Sea and Middle East region in response
+      to the ongoing US-Israel war with Iran, known as Operation Epic Fury, which began
+      on February 28, 2026. The 31st MEU, consisting of approximately 2,200–2,500 Marines,
+      is currently en route from Okinawa, Japan, aboard the USS Tripoli Amphibious Ready
+      Group and is expected to arrive between March 25 and March 30. Meanwhile, the
+      11th MEU, based in California, has been ordered to deploy on the USS Boxer Amphibious
+      Ready Group, adding another 2,500 Marines and expected to arrive in late March
+      to early April. The rapid deployment raises questions about the strategic intentions
+      of the Trump administration, with speculation that the troops may be preparing
+      for an amphibious assault aimed at securing the Strait of Hormuz.
+    published: '2026-03-21T03:45:51+00:00'
+  - title: Are Bibi and Trump Looking for an Exit Ramp From the War in Iran?
+    url: https://sonar21.com/are-bibi-and-trump-looking-for-an-exit-ramp-from-the-war-in-iran/
+    text: 'Price of Gas in Bradenton, FL on March 13, 2026 Price of Gas in Bradenton,
+      FL on March 20 The short answer to the question posed in the title of this article…
+      I don’t know. I do know that some US military personnel, perhaps many, believe
+      that Iran is ready to do this for another 40 years and that the US is never going
+      to “win.” Whether the US declares victory tomorrow or 18 years from now, the result
+      will be the exact same… The Islamic Republic of Iran will remain in control. That
+      said, Trump is deploying a MEU (i.e., a 2,200 man force) to the Persian Gulf.
+      MEU stands for Marine Expeditionary Unit. It is a small, self-contained Marine
+      Air-Ground Task Force that can deploy quickly from ships for crisis response,
+      amphibious operations, or limited combat missions. A MEU usually includes about
+      2,200 Marines and sailors, with an infantry battalion, aircraft, logistics support,
+      and a command element and is designed for short, quick missions and roughly 15
+      days of self-sustainment. I am hoping, perhaps foolishly, that this is just a
+      saber rattling gesture by Trump to try to gain some negotiating leverage over
+      Iran because the MEU is too small to pose any kind of serious threat to Iran’s
+      control of the Strait of Hormuz. If the ships carrying the Marines venture close
+      to the Iranian coast they will likely be destroyed. There is another possibility
+      to consider… The Marines are a feint — i.e., intended to draw Iran’s attention
+      while a US Special Operations Unit will attempt to storm a site in Iran believed
+      to be holding enriched uranium and take control of the material. While I have
+      no doubt that the US can insert a small number of Spec Ops operators into Iran,
+      getting them out safely is a huge challenge. And let’s not forget that the Iranian
+      military, which has the backing of Russian and Chinese intelligence, also will
+      have a vote on the outcome of any attempted raid by US forces. I think Trump’s
+      best option to end the war with Iran is to resurrect the JCPOA, only call it something
+      else. If Trump agrees to lift sanctions on Iran and withdraws US forces from the
+      Persian Gulf by proclaiming they are no longer needed because Iran has been totally
+      defeated, and Iran agrees to full IAEA inspections of its nuclear facilities,
+      he could declare victory. I think this is farfetched but I’m trying to come up
+      with something that is in the realm, albeit a distant one, of possibility. Bib
+      Netanyahu made an interesting comment on Thursday during a televised press conference
+      in Jerusalem. I may be reading too much into this, but I found the following statement
+      by Bibi quite curious: After 20 days, I can tell you — Iran today has no ability
+      to enrich uranium, and no ability to produce ballistic missiles. So, if Iran has
+      no ability to enrich uranium or produce ballistic missiles, then it is quite easy
+      to declare, Mission Accomplished , and end the attacks on Iran. Only one teeny,
+      tiny problem… Iran is not ready to quit. Iran is pounding of Israel with multiple
+      waves of missiles — the last count is 63 waves — and is just one day away from
+      starting the fourth week of the war. Iran has been hitting Israeli targets across
+      the breadth and length of Israel for 21 days and shows no signs of slackening.
+      While Israeli censors are battling to block the publication of any information
+      or videos that show the true scale and scope of the damage inflicted by Iran’s
+      missiles, information is still trickling out and Iran’s attempt to weaken Israel’s
+      defense and economic infrastructure appears to be succeeding. I see no evidence
+      that Iran is ready to bring an end to the missile offensive. The murders of the
+      Ayatollah and, more recently, Ali Larijani, have stiffened the resolve of Iran
+      to continue attacking Israeli and US targets for the foreseeable future. US hopes
+      for a quick settlement of the war against Iran are fading with each new missile
+      barrage launched  from Iranian territory. One last point, the price of gasoline
+      had gone up a $1 for regular grade in the last three weeks in my neighborhood.
+      The photos at the top of this article were taken a week apart. The price of gas
+      on Friday, February 27 was $2.54. The same thing is happening across the United
+      States — in some areas it has gone up $2 per gallon — and American drivers and
+      truckers are not happy. The continued closure of the Strait of Hormuz means that
+      gasoline and liquid natural gas will steadily increase in price, and that is creating
+      significant political problems for Trump and the Republicans. It was only four
+      weeks ago that Trump was singing a different tune… During his State of the Union
+      address on February 24, 2026 (just four days prior to attacking Iran), President
+      Donald Trump highlighted falling gasoline prices as a key economic achievement
+      of his administration. He contrasted them with higher prices under the previous
+      administration and tied them to his “America First” energy policies. He said:
+      “Gasoline, which reached a peak of over $6 a gallon in some states under my predecessor
+      — it was quite honestly a disaster — is now below $2.30 a gallon in most states,
+      and in some places, $1.99 a gallon. And when I visited the great state of Iowa
+      just a few weeks ago, I even saw $1.85 a gallon for gasoline, the lowest in four
+      years, and falling fast.” Coupled with his previous campaign promises to not start
+      a new war in the Middle East, the Trump presidency is turning into a dumpster
+      fire of epic proportions — gas prices are soaring and the US is losing the war
+      against Iran. Danny Davis and I discussed the Iran War and Trump’s false narratives:
+      I also had a brief conversation today with Jackson Hinkle: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses the uncertainty surrounding the long-term
+      outcome of U.S. military involvement in Iran, highlighting the deployment of a
+      Marine Expeditionary Unit to the Persian Gulf while suggesting that Iran will
+      likely remain in control regardless of U.S. actions.
+    paragraph_summary: The article discusses the uncertain future of U.S.-Iran relations,
+      particularly in light of President Trump's deployment of a Marine Expeditionary
+      Unit (MEU) to the Persian Gulf, which consists of about 2,200 Marines and is intended
+      for quick response missions. The author expresses skepticism about the effectiveness
+      of this deployment, suggesting it may be more of a show of force rather than a
+      serious threat to Iran, especially given the MEU's limited capabilities. There
+      is speculation that the deployment could serve as a distraction for a potential
+      U.S. Special Operations raid on Iranian sites believed to hold enriched uranium,
+      although the risks of such an operation are significant. Ultimately, the author
+      believes that the best path forward for the U.S. may be to revive the Joint Comprehensive
+      Plan of Action (JCPOA) with a new approach, as the current military strategies
+      may not lead to a favorable outcome in the long-standing conflict with Iran.
+    published: '2026-03-20T05:31:45+00:00'
+  - title: Are Bibi and Trump Looking for an Exit Ramp From the War in Iran?
+    url: https://sonar21.com/are-bibi-and-trump-looking-for-an-exit-ramp-from-the-war-in-iran/
+    text: 'Price of Gas in Bradenton, FL on March 13, 2026 Price of Gas in Bradenton,
+      FL on March 20 The short answer to the question posed in the title of this article…
+      I don’t know. I do know that some US military personnel, perhaps many, believe
+      that Iran is ready to do this for another 40 years and that the US is never going
+      to “win.” Whether the US declares victory tomorrow or 18 years from now, the result
+      will be the exact same… The Islamic Republic of Iran will remain in control. That
+      said, Trump is deploying a MEU (i.e., a 2,200 man force) to the Persian Gulf.
+      MEU stands for Marine Expeditionary Unit. It is a small, self-contained Marine
+      Air-Ground Task Force that can deploy quickly from ships for crisis response,
+      amphibious operations, or limited combat missions. A MEU usually includes about
+      2,200 Marines and sailors, with an infantry battalion, aircraft, logistics support,
+      and a command element and is designed for short, quick missions and roughly 15
+      days of self-sustainment. I am hoping, perhaps foolishly, that this is just a
+      saber rattling gesture by Trump to try to gain some negotiating leverage over
+      Iran because the MEU is too small to pose any kind of serious threat to Iran’s
+      control of the Strait of Hormuz. If the ships carrying the Marines venture close
+      to the Iranian coast they will likely be destroyed. There is another possibility
+      to consider… The Marines are a feint — i.e., intended to draw Iran’s attention
+      while a US Special Operations Unit will attempt to storm a site in Iran believed
+      to be holding enriched uranium and take control of the material. While I have
+      no doubt that the US can insert a small number of Spec Ops operators into Iran,
+      getting them out safely is a huge challenge. And let’s not forget that the Iranian
+      military, which has the backing of Russian and Chinese intelligence, also will
+      have a vote on the outcome of any attempted raid by US forces. I think Trump’s
+      best option to end the war with Iran is to resurrect the JCPOA, only call it something
+      else. If Trump agrees to lift sanctions on Iran and withdraws US forces from the
+      Persian Gulf by proclaiming they are no longer needed because Iran has been totally
+      defeated, and Iran agrees to full IAEA inspections of its nuclear facilities,
+      he could declare victory. I think this is farfetched but I’m trying to come up
+      with something that is in the realm, albeit a distant one, of possibility. Bib
+      Netanyahu made an interesting comment on Thursday during a televised press conference
+      in Jerusalem. I may be reading too much into this, but I found the following statement
+      by Bibi quite curious: After 20 days, I can tell you — Iran today has no ability
+      to enrich uranium, and no ability to produce ballistic missiles. So, if Iran has
+      no ability to enrich uranium or produce ballistic missiles, then it is quite easy
+      to declare, Mission Accomplished , and end the attacks on Iran. Only one teeny,
+      tiny problem… Iran is not ready to quit. Iran is pounding of Israel with multiple
+      waves of missiles — the last count is 63 waves — and is just one day away from
+      starting the fourth week of the war. Iran has been hitting Israeli targets across
+      the breadth and length of Israel for 21 days and shows no signs of slackening.
+      While Israeli censors are battling to block the publication of any information
+      or videos that show the true scale and scope of the damage inflicted by Iran’s
+      missiles, information is still trickling out and Iran’s attempt to weaken Israel’s
+      defense and economic infrastructure appears to be succeeding. I see no evidence
+      that Iran is ready to bring an end to the missile offensive. The murders of the
+      Ayatollah and, more recently, Ali Larijani, have stiffened the resolve of Iran
+      to continue attacking Israeli and US targets for the foreseeable future. US hopes
+      for a quick settlement of the war against Iran are fading with each new missile
+      barrage launched  from Iranian territory. One last point, the price of gasoline
+      had gone up a $1 for regular grade in the last three weeks in my neighborhood.
+      The photos at the top of this article were taken a week apart. The price of gas
+      on Friday, February 27 was $2.54. The same thing is happening across the United
+      States — in some areas it has gone up $2 per gallon — and American drivers and
+      truckers are not happy. The continued closure of the Strait of Hormuz means that
+      gasoline and liquid natural gas will steadily increase in price, and that is creating
+      significant political problems for Trump and the Republicans. It was only four
+      weeks ago that Trump was singing a different tune… During his State of the Union
+      address on February 24, 2026 (just four days prior to attacking Iran), President
+      Donald Trump highlighted falling gasoline prices as a key economic achievement
+      of his administration. He contrasted them with higher prices under the previous
+      administration and tied them to his “America First” energy policies. He said:
+      “Gasoline, which reached a peak of over $6 a gallon in some states under my predecessor
+      — it was quite honestly a disaster — is now below $2.30 a gallon in most states,
+      and in some places, $1.99 a gallon. And when I visited the great state of Iowa
+      just a few weeks ago, I even saw $1.85 a gallon for gasoline, the lowest in four
+      years, and falling fast.” Coupled with his previous campaign promises to not start
+      a new war in the Middle East, the Trump presidency is turning into a dumpster
+      fire of epic proportions — gas prices are soaring and the US is losing the war
+      against Iran. Danny Davis and I discussed the Iran War and Trump’s false narratives:
+      I also had a brief conversation today with Jackson Hinkle: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses the uncertainty surrounding the long-term
+      outcome of U.S. military involvement in Iran, highlighting the deployment of a
+      Marine Expeditionary Unit to the Persian Gulf while suggesting that Iran will
+      likely remain in control regardless of U.S. actions.
+    paragraph_summary: The article discusses the uncertain future of U.S.-Iran relations,
+      particularly in light of President Trump's deployment of a Marine Expeditionary
+      Unit (MEU) to the Persian Gulf, which consists of about 2,200 Marines and is intended
+      for quick response missions. The author expresses skepticism about the effectiveness
+      of this deployment, suggesting it may be more of a show of force rather than a
+      serious threat to Iran, especially given the MEU's limited capabilities. There
+      is speculation that the deployment could serve as a distraction for a potential
+      U.S. Special Operations raid on Iranian sites believed to hold enriched uranium,
+      although the risks of such an operation are significant. Ultimately, the author
+      believes that the best path forward for the U.S. may be to revive the Joint Comprehensive
+      Plan of Action (JCPOA) with a new approach, as the current military strategies
+      may not lead to a favorable outcome in the long-standing conflict with Iran.
+    published: '2026-03-20T05:31:45+00:00'
+  - title: Joe Kent Speaks, While the Gulf Arabs Face Economic Catastrophe
+    url: https://sonar21.com/joe-kent-speaks-while-the-gulf-arabs-face-economic-catastrophe/
+    text: 'Joe Kent’s interview with Tucker tonight was quite revealing. Joe went out
+      of his way to praise Donald Trump — a wise strategy when dealing with a toxic
+      narcissist — and tamped down his anger over the attacks being hurled at him by
+      Trump loyalists That said, Joe demonstrated a woeful ignorance about the history
+      of the region, especially with respect to Iran. He described much of his combat
+      experience as “fighting against Iranian proxies,” apparently buying into the nonsense
+      that groups like ISIS and Al Qaeda and Al Nusra were supported by Iran. While
+      Joe served with four different elite units in the US Army and the CIA, I know
+      from personal experience that most of the soldiers serving in those units didn’t
+      know the difference between Sunni and Shia muslims. The most surprising comments
+      from Joe concerned the petro dollar . He was quite clear that the preferred outcome
+      for the United States in reaching a negotiated settlement with Iran would be a
+      demand that Iran eschew BRICS and sell oil and gas only with petro dollars. There
+      you have it… It is all about the money. While I strongly disagree with Joe on
+      his views about the Iranians vice the Gulf Arabs, I admire his bravery and integrity
+      in resigning over this needless, senseless war. He knows the war with Iran does
+      not serve US national interests and has taken a stand that has made him a target
+      of the vindictive pricks that control the Deep State. I awakened Wednesday morning
+      to the awful news that Israel, with US support, had bombed Iran’s oil fields.
+      As promised, Iran wasted no time in retaliating. Iran issued an EVACUATION order
+      for petrochemical facilities in Saudi Arabia, Qatar, and the UAE, and then proceeded
+      to set them on fire. Here are the specific targets: Samref Refinery – Kingdom
+      of Saudi Arabia Al-Hasan Gas Field – United Arab Emirates Jubail Petrochemical
+      Complex – Jubail, Kingdom of Saudi Arabia Mesaieed Petrochemical Complex and Mesaieed
+      Holding Company (affiliated with Chevron) – Qatar Apart from ensuring that the
+      shortage of Persian Gulf oil will continue for several months — if not longer
+      — which will cause a global recession, the Gulf arabs are going to take a major
+      hit. One of the most vulnerable is the United Arab Emirates. In terms of losing
+      the ability to export oil, UAE is not totally dependent on oil. As of early 2026
+      (with data reflecting 2025 figures and projections), the United Arab Emirates’
+      economy is dependent on oil and natural gas (hydrocarbons) for approximately 22–25%
+      of its total GDP. Good news, right? Wrong. On the surface, the UAE has one of
+      the most successful diversification stories in the Gulf, with non-oil growth often
+      outpacing hydrocarbons (e.g., non-oil GDP grew ~4.9–5.5% in 2025 projections,
+      vs. hydrocarbon growth tied to OPEC+ output). But this diversification is largely
+      in the Services sector, and that is where the UAE’s troubles begin. As of early
+      to mid-2026 (based on the latest available data from 2025 full-year estimates
+      and Q1 2025 figures, with projections holding steady), the services sector accounts
+      for approximately 50–58% of the UAE’s total GDP. That sector consists of the following:
+      Wholesale and Retail Trade : Often the largest single contributor within non-oil/services
+      (around 15–16% of non-oil output or a significant share of total GDP). This includes
+      re-exports, e-commerce, and domestic retail, bolstered by Dubai’s role as a global
+      trade hub. Financial and Insurance Services : A high-growth area (e.g., 9% expansion
+      in recent quarters), including banking, fintech, insurance, and wealth management.
+      Abu Dhabi and Dubai are emerging as major financial centers, with strong capital
+      inflows and digital finance adoption. Real Estate Activities : Robust growth (e.g.,
+      7–8% in recent periods), driven by residential/commercial development, mega-projects,
+      population inflows, and investor-friendly policies. This includes property transactions,
+      development, and related services. Tourism and Hospitality : A major driver, fueled
+      by Dubai and Abu Dhabi’s attractions (e.g., Expo legacy, events, luxury travel).
+      Tourism supports hotels, aviation, entertainment, and related retail—contributing
+      significantly to non-oil momentum despite occasional war-related disruptions.
+      Construction : Frequently grouped with services in UAE reporting (though sometimes
+      classified separately), it has seen strong expansion (e.g., 8–9%) from infrastructure
+      projects, housing, and commercial builds. Transport, Storage, and Logistics :
+      Key for Dubai’s ports/airports (e.g., Jebel Ali, DXB), re-exports, and supply
+      chains—vital amid global trade rerouting. Other Professional and Business Services
+      : Including ICT (information and communication technology), professional consulting,
+      education, healthcare, and government services. With the closure of the Strait
+      of Hormuz and Iran’s continued missile strikes on oil and maritime infrastructure,
+      it is highly likely that economic activity in each of those sectors is crashing.
+      Wholesale and Retail Trade and Transport, Storage, and Logistics are frozen. There
+      will be no economic growth in those sectors unless the UAE negotiates a deal with
+      Iran which, as of this writing, is highly unlikely. Tourism and Hospitality ,
+      Financial and Insurance Services and Real Estate Activities also have been dramatically
+      curtailed, if not halted, as a result of the war. That leaves Construction … Is
+      there a sane real estate investor who is going to spend millions of dollars to
+      build luxury condos or business towers when the wealthy global elite who had flocked
+      to Dubai are fleeing the country? I don’t think so. In other words, at least 75%
+      of the UAE economy (it could be as high as 83%) is now stalled or frozen, with
+      no immediate relief in sight. Unless there is a solid agreement with Iran that
+      ensures there will be no future attacks on Iran, there is little chance that the
+      UAE will return to its former glory of explosive growth. Marcello and I had a
+      brief chat on Tuesday about the war in Iran: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In his interview with Tucker Carlson, Joe Kent praised Donald
+      Trump while downplaying his anger towards Trump loyalists, but he displayed a
+      significant misunderstanding of Middle Eastern history and the complexities of
+      Iranian influence, particularly regarding groups like ISIS and Al Qaeda, and expressed
+      a desire for Iran to abandon BRICS in favor of the petro dollar in any potential
+      negotiations.
+    paragraph_summary: In a revealing interview with Tucker Carlson, Joe Kent expressed
+      strong support for Donald Trump while attempting to downplay his frustration with
+      Trump loyalists' attacks. Despite his extensive military background, Kent displayed
+      a concerning lack of understanding regarding the complexities of Middle Eastern
+      geopolitics, particularly in relation to Iran, mistakenly linking groups like
+      ISIS and Al Qaeda to Iranian support. He emphasized the importance of the petro
+      dollar in negotiations with Iran, advocating for a settlement that would require
+      Iran to sell oil exclusively in US currency, highlighting the financial motivations
+      behind US foreign policy. While he holds controversial views on Iran compared
+      to Gulf Arabs, Kent's resignation over the ongoing conflict reflects his belief
+      that the war with Iran is not in the best interest of the US, positioning him
+      against the prevailing narratives of the "Deep State." The situation escalated
+      further when Israel, backed by the US, bombed Iranian oil fields, prompting Iran
+      to retaliate by issuing evacuation orders and attacking petrochemical facilities
+      in Saudi Arabia, Qatar, and the UAE.
+    published: '2026-03-19T03:48:19+00:00'
+  - title: Joe Kent Speaks, While the Gulf Arabs Face Economic Catastrophe
+    url: https://sonar21.com/joe-kent-speaks-while-the-gulf-arabs-face-economic-catastrophe/
+    text: 'Joe Kent’s interview with Tucker tonight was quite revealing. Joe went out
+      of his way to praise Donald Trump — a wise strategy when dealing with a toxic
+      narcissist — and tamped down his anger over the attacks being hurled at him by
+      Trump loyalists That said, Joe demonstrated a woeful ignorance about the history
+      of the region, especially with respect to Iran. He described much of his combat
+      experience as “fighting against Iranian proxies,” apparently buying into the nonsense
+      that groups like ISIS and Al Qaeda and Al Nusra were supported by Iran. While
+      Joe served with four different elite units in the US Army and the CIA, I know
+      from personal experience that most of the soldiers serving in those units didn’t
+      know the difference between Sunni and Shia muslims. The most surprising comments
+      from Joe concerned the petro dollar . He was quite clear that the preferred outcome
+      for the United States in reaching a negotiated settlement with Iran would be a
+      demand that Iran eschew BRICS and sell oil and gas only with petro dollars. There
+      you have it… It is all about the money. While I strongly disagree with Joe on
+      his views about the Iranians vice the Gulf Arabs, I admire his bravery and integrity
+      in resigning over this needless, senseless war. He knows the war with Iran does
+      not serve US national interests and has taken a stand that has made him a target
+      of the vindictive pricks that control the Deep State. I awakened Wednesday morning
+      to the awful news that Israel, with US support, had bombed Iran’s oil fields.
+      As promised, Iran wasted no time in retaliating. Iran issued an EVACUATION order
+      for petrochemical facilities in Saudi Arabia, Qatar, and the UAE, and then proceeded
+      to set them on fire. Here are the specific targets: Samref Refinery – Kingdom
+      of Saudi Arabia Al-Hasan Gas Field – United Arab Emirates Jubail Petrochemical
+      Complex – Jubail, Kingdom of Saudi Arabia Mesaieed Petrochemical Complex and Mesaieed
+      Holding Company (affiliated with Chevron) – Qatar Apart from ensuring that the
+      shortage of Persian Gulf oil will continue for several months — if not longer
+      — which will cause a global recession, the Gulf arabs are going to take a major
+      hit. One of the most vulnerable is the United Arab Emirates. In terms of losing
+      the ability to export oil, UAE is not totally dependent on oil. As of early 2026
+      (with data reflecting 2025 figures and projections), the United Arab Emirates’
+      economy is dependent on oil and natural gas (hydrocarbons) for approximately 22–25%
+      of its total GDP. Good news, right? Wrong. On the surface, the UAE has one of
+      the most successful diversification stories in the Gulf, with non-oil growth often
+      outpacing hydrocarbons (e.g., non-oil GDP grew ~4.9–5.5% in 2025 projections,
+      vs. hydrocarbon growth tied to OPEC+ output). But this diversification is largely
+      in the Services sector, and that is where the UAE’s troubles begin. As of early
+      to mid-2026 (based on the latest available data from 2025 full-year estimates
+      and Q1 2025 figures, with projections holding steady), the services sector accounts
+      for approximately 50–58% of the UAE’s total GDP. That sector consists of the following:
+      Wholesale and Retail Trade : Often the largest single contributor within non-oil/services
+      (around 15–16% of non-oil output or a significant share of total GDP). This includes
+      re-exports, e-commerce, and domestic retail, bolstered by Dubai’s role as a global
+      trade hub. Financial and Insurance Services : A high-growth area (e.g., 9% expansion
+      in recent quarters), including banking, fintech, insurance, and wealth management.
+      Abu Dhabi and Dubai are emerging as major financial centers, with strong capital
+      inflows and digital finance adoption. Real Estate Activities : Robust growth (e.g.,
+      7–8% in recent periods), driven by residential/commercial development, mega-projects,
+      population inflows, and investor-friendly policies. This includes property transactions,
+      development, and related services. Tourism and Hospitality : A major driver, fueled
+      by Dubai and Abu Dhabi’s attractions (e.g., Expo legacy, events, luxury travel).
+      Tourism supports hotels, aviation, entertainment, and related retail—contributing
+      significantly to non-oil momentum despite occasional war-related disruptions.
+      Construction : Frequently grouped with services in UAE reporting (though sometimes
+      classified separately), it has seen strong expansion (e.g., 8–9%) from infrastructure
+      projects, housing, and commercial builds. Transport, Storage, and Logistics :
+      Key for Dubai’s ports/airports (e.g., Jebel Ali, DXB), re-exports, and supply
+      chains—vital amid global trade rerouting. Other Professional and Business Services
+      : Including ICT (information and communication technology), professional consulting,
+      education, healthcare, and government services. With the closure of the Strait
+      of Hormuz and Iran’s continued missile strikes on oil and maritime infrastructure,
+      it is highly likely that economic activity in each of those sectors is crashing.
+      Wholesale and Retail Trade and Transport, Storage, and Logistics are frozen. There
+      will be no economic growth in those sectors unless the UAE negotiates a deal with
+      Iran which, as of this writing, is highly unlikely. Tourism and Hospitality ,
+      Financial and Insurance Services and Real Estate Activities also have been dramatically
+      curtailed, if not halted, as a result of the war. That leaves Construction … Is
+      there a sane real estate investor who is going to spend millions of dollars to
+      build luxury condos or business towers when the wealthy global elite who had flocked
+      to Dubai are fleeing the country? I don’t think so. In other words, at least 75%
+      of the UAE economy (it could be as high as 83%) is now stalled or frozen, with
+      no immediate relief in sight. Unless there is a solid agreement with Iran that
+      ensures there will be no future attacks on Iran, there is little chance that the
+      UAE will return to its former glory of explosive growth. Marcello and I had a
+      brief chat on Tuesday about the war in Iran: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In his interview with Tucker Carlson, Joe Kent praised Donald
+      Trump while downplaying his anger towards Trump loyalists, but he displayed a
+      significant misunderstanding of Middle Eastern history and the complexities of
+      Iranian influence, particularly regarding groups like ISIS and Al Qaeda, and expressed
+      a desire for Iran to abandon BRICS in favor of the petro dollar in any potential
+      negotiations.
+    paragraph_summary: In a revealing interview with Tucker Carlson, Joe Kent expressed
+      strong support for Donald Trump while attempting to downplay his frustration with
+      Trump loyalists' attacks. Despite his extensive military background, Kent displayed
+      a concerning lack of understanding regarding the complexities of Middle Eastern
+      geopolitics, particularly in relation to Iran, mistakenly linking groups like
+      ISIS and Al Qaeda to Iranian support. He emphasized the importance of the petro
+      dollar in negotiations with Iran, advocating for a settlement that would require
+      Iran to sell oil exclusively in US currency, highlighting the financial motivations
+      behind US foreign policy. While he holds controversial views on Iran compared
+      to Gulf Arabs, Kent's resignation over the ongoing conflict reflects his belief
+      that the war with Iran is not in the best interest of the US, positioning him
+      against the prevailing narratives of the "Deep State." The situation escalated
+      further when Israel, backed by the US, bombed Iranian oil fields, prompting Iran
+      to retaliate by issuing evacuation orders and attacking petrochemical facilities
+      in Saudi Arabia, Qatar, and the UAE.
+    published: '2026-03-19T03:48:19+00:00'
   - title: Joe Kent Hero… Tulsi Gabbard, a Contemptible, Craven Zero
     url: https://sonar21.com/joe-kent-hero-tulsi-gabbard-a-contemptible-craven-zero/
     text: 'Miriam Adelson, Tulsi Gabbard and the degenerate Rabbi Shmuley Boteach Joe

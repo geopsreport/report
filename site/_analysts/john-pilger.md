@@ -7,15 +7,25 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As the global geopolitical landscape continues to be shaped by protracted conflicts and shifting alliances, recent independent analysis highlights the ongoing human and political costs of major crises in the Middle East, Eastern Europe, and the United States.
+  As the global geopolitical landscape continues to be shaped by entrenched conflicts and shifting alliances, recent independent analyses highlight the enduring consequences of U.S. foreign policy, the intensification of the Israel-Palestine crisis, and the ongoing struggle for justice and accountability in Western legal systems.
   
-  In the aftermath of years of U.S. foreign policy decisions, particularly during the Trump Administration, the devastating impact on Iranian civilians remains a focal point. **Dennis Kucinich** offers a harrowing account of Iranian families searching for missing loved ones amid rubble, underscoring the enduring consequences of military interventions. The majority of analysts agree that the region’s instability is directly linked to these policies, with the human toll likely to persist unless there is a significant shift in approach. There is high confidence that without diplomatic engagement and a reevaluation of sanctions and military strategies, the suffering of ordinary Iranians will most definitely continue.
+  **Human Cost of U.S. Foreign Policy in Iran**
   
-  Turning to the ongoing conflict in Ukraine, **Joe Lauria** contextualizes Russia’s stated objectives of “demilitarization” and “de-Nazification” as part of a broader narrative shaped by decades of escalating U.S.-Russia tensions. The consensus among sources is that the conflict is entrenched, with little sign of a near-term resolution. Given the entrenched positions and continued Western support for Ukraine, there is high chance that the war will drag on, with further humanitarian and economic fallout expected across the region.
+  Reflecting on the aftermath of American intervention in Iran, **Dennis Kucinich** underscores the profound suffering inflicted on ordinary families. He describes scenes of parents searching through rubble for their missing daughters, a direct result of decisions made during the Trump Administration. Kucinich’s account serves as a stark reminder that, beyond strategic calculations, the real cost of war is borne by civilians. This narrative is increasingly echoed by analysts who argue that U.S. policy in the region has prioritized geopolitical objectives over human life, with little sign of meaningful change.
   
-  Meanwhile, within the United States, the issue of police violence and systemic racism remains unresolved. **Marjorie Cohn**’s analysis of the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis highlights ongoing challenges in legal accountability and justice reform. The proximity of this incident to the site of George Floyd’s death serves as a stark reminder of the persistent societal divisions and the slow pace of systemic change. The majority view is that, barring substantial legal and policy reforms, such incidents are quite likely to recur.
+  **Escalation and International Response to the Gaza Crisis**
   
-  In summary, the prevailing trends across these crises point toward continued instability and human suffering, driven by entrenched political positions and insufficient international intervention. Without significant policy changes or diplomatic breakthroughs, the outlook for meaningful resolution in these regions remains bleak. I guarantee that, in the absence of decisive action, the patterns of violence, displacement, and political stalemate will most definitely persist.
+  The situation in Gaza remains dire, with mounting evidence of indiscriminate violence. An anonymous Israeli soldier, quoted by Sky News and cited in John Pilger’s reporting, revealed a chilling directive within the IDF: “You need to kill them. No matter who it is.” This testimony adds weight to calls for international accountability and intervention. **Nicolas J. S. Davies** argues that global governments have the authority to halt what he terms the genocide and illegal occupation of Palestine, criticizing the Trump Administration’s “20-point Gaza plan” for exacerbating the crisis. Meanwhile, the U.S. continues to discourage international efforts aimed at holding Israel accountable, as highlighted by **Mick Hall** in his analysis of the Bogota joint action plan.
+  
+  **Legal and Societal Reckoning in the U.S.**
+  
+  Domestically, the U.S. faces ongoing challenges regarding police violence and systemic racism. **Marjorie Cohn** examines the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis, noting the broader context of legal defenses and the persistent lack of accountability in cases involving law enforcement. This incident, occurring near the site of George Floyd’s death, has reignited debates over justice and reform, with analysts warning that without substantive change, public trust in the legal system will continue to erode.
+  
+  **Trends and Predictions**
+  
+  The majority of sources anticipate continued instability in the Middle East, driven by entrenched U.S. policies and a lack of effective international intervention. There is a high chance that the humanitarian crisis in Gaza will worsen absent coordinated global action, and it is quite likely that civilian suffering in Iran and Palestine will persist. Domestically, the U.S. is expected to face increasing pressure to address systemic issues in law enforcement and the judiciary, though meaningful reform remains uncertain in the near term.
+  
+  In summary, the prevailing trend is one of deepening crises—both abroad and at home—rooted in longstanding policy choices and a reluctance to embrace accountability. Without significant shifts in approach, these patterns are most definitely set to continue.
 articles:
   - title: Iran, Epstein & Human Sacrifice
     url: https://consortiumnews.com/2026/03/02/iran-epstein-human-sacrifice/

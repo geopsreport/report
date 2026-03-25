@@ -7,20 +7,909 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As of March 18, 2026, the geopolitical landscape remains defined by the transactional and often unpredictable approach of the Trump administration, with major flashpoints in Ukraine, Iran, and the broader Middle East. The latest analyses highlight deepening fractures between the U.S. and its traditional allies, as well as the persistent intertwining of business interests and foreign policy.
+  As tensions in West Asia continue to escalate, the geopolitical landscape remains defined by the ongoing standoff between the U.S.-Israel axis and Iran, with broader implications for global power dynamics and energy security. Over the past 24 hours, new analysis has highlighted the increasing effectiveness of Iran’s asymmetric warfare strategy and the mounting challenges facing the U.S. and its allies.
   
-  **Ukraine: Stalemate and Transactionalism**
-  Recent developments in the Ukraine conflict underscore the lack of substantive progress toward resolution. According to **Alastair Crooke**, Trump’s approach is “transactional, prioritizing financial gain for stakeholders over genuine resolution,” which has only exacerbated tensions. The U.S. continues to push for European allies to shoulder more of the financial and military burden, while negotiations with Russia remain stalled due to fundamental disconnects over security guarantees and the nature of any potential settlement. There is a high chance that this stalemate will persist, as both sides appear unwilling to address the root causes of the conflict.
+  **Iran’s Asymmetric Strategy Alters Regional Calculus**
   
-  **Middle East: Gaza and Iran—Business Over Security**
-  In the Middle East, the Trump administration’s push for a Gaza reconstruction plan has highlighted a growing divergence with Israeli interests. **Crooke** notes that “the Trump administration is pushing for a reconstruction plan for Gaza that conflicts with Israeli interests, highlighting the intertwining of geopolitics and business interests in the region.” At the same time, Iran has rebuffed U.S. and Israeli overtures, viewing any potential U.S. military action as an existential threat that would provoke a comprehensive response. There is a high chance that tensions will remain elevated, with no clear path to de-escalation.
+  According to **Alastair Crooke**, Iran’s two-decade investment in asymmetric warfare is now bearing fruit, presenting a formidable obstacle to conventional U.S.-Israeli military tactics. Crooke notes that Iran’s resilience is not only military but also strategic, as Tehran seeks to shift the regional balance of power. “Iran’s long-planned asymmetric warfare strategy… poses a significant challenge to the conventional air-strike approach of the U.S. and Israel,” Crooke writes, emphasizing that Iran’s ability to target U.S. military infrastructure could have cascading effects on energy markets and U.S. interests, particularly with regard to China’s energy security.
   
-  **Western Institutions: Crisis of Legitimacy**
-  Domestically, the ongoing fallout from the Epstein revelations continues to erode public trust in Western institutions. **Crooke** argues that this has “exposed the moral decay and systemic corruption within Western elites,” fueling a broader crisis of legitimacy and a potential shift toward nihilism and authoritarianism among younger generations. This trend is likely to persist, further complicating the ability of Western governments to project stability and unity abroad.
+  **Diplomatic Deadlock and the Risk of Escalation**
+  
+  Recent failed negotiations between Washington and Tehran have further entrenched the risk of conflict. Crooke points out that the U.S.’s “unrealistic demands” in nuclear talks led to a breakdown in diplomacy, leaving military confrontation as a growing possibility. He highlights that the Trump administration’s approach is driven more by domestic political considerations and psychological imperatives than by coherent strategy, raising the risk of miscalculation.
+  
+  **Global Repercussions: China and the BRICS Factor**
+  
+  The broader context involves the U.S. effort to assert dominance not only in West Asia but also in the global order, with China and the BRICS bloc emerging as key players. Crooke argues that if Iran withstands current pressures and maintains its stance, the U.S. campaign to contain China—particularly through resource and energy leverage—could falter. “If Iran survives and stays steadfast, Trump’s resource war on China and BRICS collapses,” Crooke asserts, suggesting that the resilience of Iran is now a critical variable in the wider contest for global influence.
   
   **Trends and Predictions**
-  The prevailing trend is a shift toward a more transactional, business-oriented model of foreign policy, often at the expense of traditional alliances and long-term strategic stability. The majority of analysts, including **Crooke**, suggest that the U.S. will continue to prioritize short-term economic gains and domestic political considerations over comprehensive diplomatic solutions. There is high confidence that the Ukraine conflict will remain unresolved in the near term, and that U.S.-Israeli relations will continue to be strained by conflicting priorities in Gaza and Iran. The crisis of legitimacy within Western institutions is most definitely set to deepen, with significant implications for both domestic and international politics.
+  
+  Looking ahead, the majority of independent analysis points to a continued stalemate, with high confidence that Iran will maintain its asymmetric posture and that the U.S. will struggle to achieve its objectives through either military or diplomatic means. The risk of escalation remains high, but a full-scale war is not guaranteed—there is a high chance that both sides will continue to probe and test each other’s resolve without crossing the threshold into open conflict. The energy markets and global alliances, especially involving China and the BRICS, will remain highly sensitive to developments in the region.
+  
+  In summary, the latest developments underscore a shifting regional balance, with Iran’s resilience and strategic patience complicating U.S. and Israeli ambitions. The situation remains volatile, with the potential for sudden escalation, but the prevailing trend is one of protracted contestation and strategic uncertainty.
 articles:
+  - title: Is Having No War Plan Trump’s ‘Plan’? – OpEd
+    url: https://www.eurasiareview.com/16032026-is-having-no-war-plan-trumps-plan-oped/
+    text: 'By Alastair Crooke
+
+
+      The U.S.-Israeli stand-off air-strike model of waging war is being challenged
+      by a quite different strategic asymmetric war – one first planned by Iran more
+      than 20 years ago.
+
+
+      This is important to understand when trying to judge where the war balance sheet
+      truly lies. It is like comparing oranges with lemons; they are essentially different
+      in character.
+
+
+      The U.S. and Israel are dropping a lot of stand-off munitions at Iran. But, to
+      what point and to what effect? We don’t know.
+
+
+      We do, however, know that Iran has its asymmetric war plan. And it is only just
+      starting, incrementally moving towards full implementation. The full armoury of
+      Iranian missiles has not yet been revealed – neither its latest missiles, nor
+      its submersible drones and anti-ship-equipped missile speed boats that have yet
+      to be deployed. So we do not know Iran’s full potential – and we cannot say to
+      what effect its full deployment might yet be. Hizbullah is now fully operational,
+      and the Houthi’s (seemingly) are waiting for the ‘green light’ to gate Bab el-Mandeb
+      in tandem to the Hormuz blockade.
+
+
+      The root to the move of this Iranian asymmetric paradigm arose in the wake of
+      the U.S.’ utter destruction of Iraq’s centralised military command in 2003 – the
+      result of a three week massive air assault.
+
+
+      The issue for the Iranians that arose in the Iraq war’s wake was how Iran might
+      build a deterrent military structure when it did not have – and could not have
+      – anything resembling a peer air capability. And when the U.S. could also look
+      down upon the extent of Iran military infrastructure from their high-resolution
+      satellite cameras.
+
+
+      Well, the first answer simply was to have as little of the Iranian military structure
+      out in the open to be observed from above – from space. Its components had to
+      be buried, and buried deeply (beyond the reach of most bombs).
+
+
+      The second answer was that deeply buried missiles could indeed, in effect, become
+      Iran’s ‘air force’ – i.e. they could become a substitute for a conventional air
+      force. Iran thus has been constructing and stockpiling missiles for more than
+      twenty years.
+
+
+      With Iran’s intense research focus on missile technology, it reportedly manufactures
+      some 10-12 models of cruise and ballistic missiles. Some are hypersonic; others
+      can deliver an array of explosive sub-munitions that are steerable (to avoid defence
+      interceptors).
+
+
+      The big missiles are launched from deep underground silos dispersed across Iran
+      (which is the size of western Europe and is well endowed with mountain ranges
+      and forests). Shore-to-ship missiles too, are honey-combed into Iran’s coastal
+      expanse.
+
+
+      The third response was to find a solution to the successful 2003 shock and awe
+      decapitation of Sadam Hussein’s military command.
+
+
+      In 2007, the Mosaic doctrine was introduced.
+
+
+      The thinking behind the doctrine was to divide Iran’s military infrastructure
+      into autonomous provincial commands — each with its separate stockpiled munitions,
+      separate missile silos, and where appropriate, its own separate naval forces and
+      militia.
+
+
+      Commanders were given pre-delegated battle-plans together with the authority to
+      launch military action at their own initiative, in the event of a decapitation
+      strike on the capital. The battle-plans and protocols were to be triggered automatically
+      upon the decapitation of a Supreme Leader.
+
+
+      Article 110 of Iran’s 1979 Constitution gives command authority over the armed
+      forces exclusively to the Supreme Leader. No one, and no institution, can override
+      or rescind his directives. Should the new Leader subsequently be assassinated,
+      the earlier pre-delegated instructions would then come into force, and would be
+      irreversible by any other authority.
+
+
+      In short, Iran’s military machine – in the event of a decapitation strike – operates
+      as an automated, decentralized retaliation machine that cannot be easily stopped,
+      or controlled.
+
+
+      Military commentator Patricia Marins observes:
+
+
+      “Iran is waging an almost perfect asymmetric war, absorbing attacks, strategically
+      rendering the surrounding bases unusable, destroying radars, and maintaining control
+      of the Strait of Hormuz while still preserving its missile launch capability”.
+
+
+      “The U.S. and Israel are in an extremely difficult situation because they only
+      know one kind of war: [indiscriminate aerial bombardment of largely civilian targets
+      as they fail to destroy the underground missile cities]. Now they’re facing a
+      strategically well-positioned Iran that is fighting on its own terms and timeline.
+      What did Iran do? It focused on resilience against bombings – and kept almost
+      its entire arsenal in large underground bases that the U.S. and Israel have already
+      spent huge amounts of munitions trying to penetrate”.
+
+
+      An additional major lesson that Iran took from the 2003 Iraq war was that the
+      U.S. and Israeli ‘way of war’ is wholly centred on short aerial bombardments to
+      decapitate leadership echelons and command structures. The vulnerability of having
+      a centralised command structure was countered by the Mosaic structure that de-centralised
+      and defused command widely and over multiple commands – so that it could not seize
+      up in the event of a surprise decapitation strike.
+
+
+      And a further strategic insight drawn by Iran from the Iraq war was that the West
+      is militarily structured around short intensive air wars.
+
+
+      The antidote in the Iranian analysis was to ‘go long’: The current Iranian leadership’s
+      strategic decision to opt for a long war flows directly from this insight — that
+      western militaries are built for the shoot-and-scoot approach – plus their conviction
+      that the Iranian people have more resilience to bear the pain of war, than have
+      either the Israeli or western publics.
+
+
+      The mechanics for choosing to extend a war for longer than might suit Trump essentially
+      comes down to logistics.
+
+
+      Iran’s logistics ‘squeeze’
+
+
+      Israel and the U.S. initially prepared and equipped themselves for a short war.
+      In the case of the U.S., very short – from the Saturday morning when Khomeini
+      was assassinated until Monday, when U.S. stock markets were due to open.
+
+
+      Iran responded within the hour of Imam Khamenei’s assassination to the prepared
+      Mosaic blueprint by targeting U.S. bases in the Persian Gulf. Reportedly, the
+      IRGC used old ballistic missiles and drones from the 2012/2013 production cycle.
+      The purpose of using old missiles and drones so prolifically clearly was to degrade
+      the stock of interceptor missiles held in by American bases in the Gulf.
+
+
+      A similar process of degrading Israel’s interceptor stock was pursued in tandem.
+      Depletion of interceptors across the Gulf and Israel has become obvious. This
+      constituted the first layer of the logistics ‘squeeze’.
+
+
+      The second layer is the economic and energy squeeze brought about by gating the
+      Strait of Hormuz to all ‘adversaries’, yet not to ‘friends’. The Hormuz gating
+      is intended to trigger a financial and supply line crisis in the West so as to
+      ‘squeeze’ the financial prospects that the war might be seen to offer the West.
+      Weakening markets equates to weakening Trump’s resolve.
+
+
+      The third ‘squeeze’ is centred on public support for the war in the U.S.. The
+      Iranian refusal to accept a ceasefire or negotiations, but rather to opt for long
+      war, capsizes public expectations, challenges consensus expectations and raises
+      anxiety and uncertainty.
+
+
+      What are Iran’s probable strategic objectives?
+
+
+      What then might be Iran’s ultimate objectives? Firstly, to remove the constant
+      threat of military attack; to force the lifting of the constant siege on the Iranian
+      people through sanctions; the return of its frozen assets, and the lifting of
+      Israel’s occupation of Gaza and Palestinian lands.
+
+
+      Possibly Iran believes too that it will ‘flip’ the geo-political balance across
+      the Persian Gulf area to take the regions’ naval choke-points and sea corridors
+      out from U.S. hegemony and open them to the passage of BRICS vessels, without
+      sanction, seizure or blockade by Washington. To launch a reverse ‘freedom of navigation’,
+      as it were, in the original meaning of the phrase.
+
+
+      Plainly, the Iranian leadership understands full well that the successful deployment
+      of their asymmetric war plan could upend the geo-strategic balance of not just
+      West Asia, but of the globe.
+
+
+      And so, what of Trump’s plan? President Trump’s biographer, Michael Wolff, said
+      just yesterday:
+
+
+      “He [Trump] has no plan. He doesn’t know what is going on. He’s not really capable
+      of formulating a plan. He creates a cliffhanger and that also becomes something
+      in his own mind as a point of pride: No one knows what I am going to do next.
+      So everyone is afraid of me – so that gives me maximum leverage. Having no plan
+      becomes the plan”.
+
+
+      The metaphor is one, Wolff suggests, of Trump as a performer:
+
+
+      “He’s on stage and he’s making it up as he goes along and is very proud of that
+      ability, which is a considerable ability”.
+
+
+      Wolff characterises Trump saying:
+
+
+      “We’re going to stop the war. We’re going to start the war. We’re going to bomb
+      them; we’re going to negotiate; we’re going to have an unconditional surrender.
+      Nothing happens without emanating from him [Trump]. And that changes on a moment
+      by moment basis”.
+
+
+      In reality, the only metric that matters for Trump is to be seen as a winner.
+      Yesterday, he declared the U.S. has “won” the war — “We won. We won the bet. In
+      the first hour”. But within another couple of weeks, the vulnerability of his
+      fickleness may become more apparent as oil, equity and bond markets spiral downwards.
+      Trump is phoning around trying to find someone that can give him a winning ‘way
+      out’ from the war he started.
+
+
+      But the Iranians have a vote on when the war ends. And they say that they are
+      just getting started…'
+    one_sentence_summary: The article discusses how Iran's long-planned asymmetric warfare
+      strategy, developed over two decades in response to U.S. military tactics, poses
+      a significant challenge to the conventional air-strike approach of the U.S. and
+      Israel, highlighting Iran's resilience and strategic objectives to shift the geopolitical
+      balance in the region.
+    paragraph_summary: The article by Alastair Crooke discusses the evolving nature
+      of warfare between the U.S.-Israeli alliance and Iran, emphasizing Iran's strategic
+      shift towards asymmetric warfare, which has been in development for over two decades.
+      Following the U.S. invasion of Iraq in 2003, Iran adapted by decentralizing its
+      military command structure to ensure resilience against potential decapitation
+      strikes, creating a network of buried missile silos and autonomous provincial
+      commands. This approach allows Iran to maintain a formidable retaliatory capability
+      while complicating U.S. and Israeli military strategies, which rely heavily on
+      aerial bombardment. As Iran continues to implement its asymmetric war plan, it
+      aims to leverage its military capabilities to deter attacks, lift sanctions, and
+      reshape regional power dynamics, all while the U.S. grapples with its own strategic
+      uncertainties under President Trump's erratic leadership. Ultimately, the article
+      suggests that Iran's long-term strategy could significantly alter the geopolitical
+      landscape in West Asia and beyond.
+    published: '2026-03-16T16:38:07+00:00'
+  - title: If Iran Survives And Stays Steadfast, Trump’s Resource War On China And BRICS
+      Collapses – OpEd
+    url: https://www.eurasiareview.com/05032026-if-iran-survives-and-stays-steadfast-trumps-resource-war-on-china-and-brics-collapses-oped/
+    text: 'By Alastair Crooke
+
+
+      The U.S.-Israeli war primordially is being waged to create Israeli hegemony across
+      West Asia.
+
+
+      At one level, the conflict is an existential battle, fought out between Iranian
+      missile and intercept capabilities, versus those of the U.S. and Israel.
+
+
+      Conventional thinking has been that this was a no-brainer contest: Iran would
+      be outmatched by U.S. technology and firepower, and forced to capitulate.
+
+
+      Iran’s military humiliation, plus the decapitation of its leadership, would result
+      – it is presumed – in an organic upsurge of populist resentment that would overwhelm
+      the Iranian State, and roll it back into the western sphere.
+
+
+      On the plane of the purely bilateral struggle – as the war enters the fourth day
+      – Iran sits in the driving seat. The State has not crumbled, but rather is visiting
+      drone and missile carnage on to American military bases across the Gulf, and is
+      striking Israel with hypersonic missiles, armed (for the first time) with multiple
+      steerable warheads.
+
+
+      At this point, Iran is on the verge of exhausting Gulf interceptor stockpiles
+      entirely – and too, has eaten deeply into Israeli-American dwindling air defence
+      reserves through Iran initially prioritising older missiles and drones that deplete
+      air defences. Iranian high-end missiles flying at speeds above Mach Four are proving
+      largely impervious to Israeli air defences.
+
+
+      The U.S. intelligence-led assassination of the Supreme Leader has proved to be
+      a cardinal error. Rather than precipitate a collapse of morale, it led instead
+      to massive outpourings of support for the Islamic Republic. To evident surprise
+      in Washington, it has also fired-up Shi’a across the region with calls for jihad
+      and for revenge for the killing of a revered Shi’a religious leader. Tel Aviv
+      and Washington badly misread the terrain.
+
+
+      In sum, Iran is resilient and holding its ground for the long-term against the
+      U.S., whose calculus was grounded in a quick ‘shoot and scoot’ war – a strategy
+      largely imposed by paucity of munitions. The Gulf monarchies are wobbling. The
+      Gulf ‘brand’ – Prosperity, big money, AI, beaches and tourism – likely is over.
+      Israel too, may not survive in its present state.
+
+
+      The geopolitical ramifications, however, extend far beyond Iran and the Gulf States.
+      Iran’s selective closure of the Hormuz Strait, and the destruction of Gulf port
+      facilities more widely, tells another tale.
+
+
+      Take Iran’s particular focus on destroying the U.S. Fifth Fleet’s infrastructure
+      at Bahrain. The Fifth Fleet forms the backbone to U.S. regional hegemony – as
+      laid out here:
+
+
+      “Approximately 90% of the world’s oil trade passes through these areas, and U.S.
+      control guarantees the linked energy supply chains. The fleet also covers three
+      vital strategic chokepoints: the Strait of Hormuz, the Suez Canal, and the Bab
+      al-Mandeb Strait. And its HQ is not just a port. It’s a comprehensive radar, intelligence
+      and database centre”.
+
+
+      Iran has succeeded in destroying the radars and much of Bahrain’s port logistic
+      and administrative infrastructure. It is systematically driving U.S. forces out
+      of the Gulf.
+
+
+      The war on Iran is not projected just for the U.S. to add Iranian resources to
+      the U.S. energy ‘domination portfolio’, as per the Venezuelan model. Iran, last
+      year, represented only about 13.4% of total oil imported by China by sea — not
+      a crucial component.
+
+
+      The Iran war however, is all about a bigger U.S. play: Control of strategic chokepoints,
+      and of energy transit more generally, so as to deny China access to energy markets
+      and so to curtail its growth.
+
+
+      The Trump National Security Strategy (NSS) set a goal for U.S. policy of “rebalanc[ing]
+      China’s economy towards household consumption”.
+
+
+      This is American code-speak for coercing China to export less, and for it to import
+      more through a radical economic reconfiguration to consuming more domestically
+      — the object being to restore America’s share of global exports versus hyper-competitive
+      and cheaper Chinese exports.
+
+
+      One way to impose this shift would be through tariffs and trade war. But another
+      would be to deny China access to energy markets that it — and the wider BRICS
+      market — requires for growth. This might be achieved, the NSS strategy hints,
+      by constricting resource supply – i.e. by imposing naval blockades of chokepoints,
+      by siege, and the seizure of vessels through the arbitrary sanctioning of vessels
+      (as seen in the Venezuelan stand off.
+
+
+      In brief, Iran’s strikes on the Gulf may be firstly intended to convey a message
+      that, for Gulf neighbours to align with Israel and America and against Iran, is
+      no longer acceptable to Iran. But what Iran also seems to be doing is to attempt
+      to wrest key sea chokepoints, ports and naval corridors from U.S. control — and
+      to bring them under Iranian control.
+
+
+      In other words, to bring the seaways adjacent to the Persian Gulf under Iranian
+      control. Such a shift would be hugely important – not just to China and Iran’s
+      relations with China, but to Russia too, which needs to keep seaborne export routes
+      open.
+
+
+      Should Iran prevail in this mammoth struggle against Israel and the Trump Administration,
+      the ramifications would be huge. The (selective) closure of Hormuz over months,
+      in itself, would play havoc in European gas markets, as well as possibly trigger
+      a debt market crisis.
+
+
+      Further, the breaking of the ‘Gulf Brand’ as a safe investment haven will likely
+      see the dollar devalue, as investors search for alternative geography in which
+      to situate their assets.
+
+
+      The U.S.’ Trump Route for International Peace and Prosperity corridor across the
+      South Caucasus will likely bite the dust. This likely will induce India to return
+      to — and stay with — Russian oil imports, and impact on India’s relations with
+      Israel.
+
+
+      Beyond the geo-political reconfiguration as a result of the war, the geo-financial
+      architecture will change significantly too.'
+    one_sentence_summary: The article argues that the ongoing U.S.-Israeli conflict
+      aims to establish Israeli dominance in West Asia, but Iran has proven resilient
+      and is successfully targeting U.S. military infrastructure, which could significantly
+      alter geopolitical dynamics and energy markets, particularly affecting U.S. interests
+      and China's access to energy resources.
+    paragraph_summary: The article by Alastair Crooke discusses the ongoing U.S.-Israeli
+      conflict, which is primarily aimed at establishing Israeli dominance in West Asia.
+      Contrary to conventional expectations of a swift U.S. victory over Iran, the conflict
+      has revealed Iran's resilience and capability to inflict significant damage on
+      U.S. and Israeli military assets, including the destruction of critical infrastructure
+      in Bahrain that supports U.S. regional hegemony. The author argues that the U.S.
+      strategy is not merely about acquiring Iranian resources but is part of a broader
+      effort to control strategic chokepoints and restrict China's access to energy
+      markets, thereby reshaping global economic dynamics. Iran's military actions are
+      seen as a response to U.S. and Israeli aggression, signaling that alliances with
+      these powers will no longer be tolerated. The potential outcomes of Iran's success
+      could lead to significant geopolitical and financial shifts, affecting global
+      energy markets, investment patterns, and international relations, particularly
+      involving China, Russia, and India.
+    published: '2026-03-05T18:14:39+00:00'
+  - title: The End To Deceptive Trumpian Diplomacy – OpEd
+    url: https://www.eurasiareview.com/02032026-the-end-to-deceptive-trumpian-diplomacy-oped/
+    text: 'By Alastair Crooke
+
+
+      Thursday’s diplomatic negotiations (26 Feb) – for all the panglossian noise from
+      mediators and negotiators – confirmed the essential impasse. The U.S. demands
+      presented to Iran were:
+
+
+      The complete dismantling of the Fordow, Natanz, and Isfahan nuclear sites.
+
+
+      The transfer all enriched uranium to the United States.
+
+
+      The ending of all sunset clauses, and permanent restrictions.
+
+
+      The Acceptance of Zero Enrichment – with only the Tehran Research Reactor allowed
+      to remain.
+
+
+      Minimal sanctions relief upfront; further relief only after full compliance.
+
+
+      These demands plainly were formulated to obstruct, rather than facilitate, any
+      diplomatic solution. It reflects a strategy rooted in the viscerally-held presumption
+      of Iranian weakness that, in the face of a U.S. military show of force, was confidently
+      anticipated would surely yield to Iranian capitulation. That hypothesis always
+      was hubristic. It has proved manifestly false as predictably, Tehran rejected
+      the U.S.’ demands:
+
+
+      [Iran] insisted on recognition of its right (under the NPT) to enrich uranium
+      for civilian needs.
+
+
+      Rejected ‘zero enrichment’.
+
+
+      Refused to transfer Iranian enriched uranium from its territory.
+
+
+      Insisted that any agreement must both include recognition of its right to enrich
+      – and a significant lifting of sanctions. Iran rejects the notion of indefinite
+      restrictions placed upon it.
+
+
+      The mood music at the end of the talks was determinedly upbeat. Iran’s lead negotiator
+      FM Araghchi said: “Today’s round was the best among the rounds so far. We clearly
+      presented our demands”. The Iranian side wanted to make clear for both domestic
+      and overseas audiences that they (at least) had negotiated in earnest.
+
+
+      Reports from the U.S. however, suggest that the decision to attack was already
+      madeduring the 29 December 2025 Mar-a-Lago summit, between Netanyahu and Trump.
+
+
+      The Iranian leadership well understood that any concessions that Iran might reasonably
+      have offered in the talks would not have given Trump his desired quick political
+      ‘win’. The more so, as Iran insisted that missile defences were non-negotiable.
+
+
+      Whilst placing Iran’s nuclear program at the centre of the talks, U.S. Secretary
+      of State Rubio – ahead of this (last) round of negotiations – nonetheless underlined
+      that from Washington’s perspective, the threat of Iran’s ballistic missiles to
+      be “a fundamental component that cannot be ignored”.
+
+
+      Rubio’s unlikely claim however is consonant with Israeli Hebrew press reporting
+      that after Netanyahu’s December 2025 meeting with Trump, it was Netanyahu who
+      demanded that the U.S. strike Iran’s ballistic missile capabilities — and that
+      striking its missile armoury must take priority over attacks on Iran’s nuclear
+      facilities.
+
+
+      The same (Israeli) reporting said that Trump accepted Netanyahu’s peremptory demand.
+
+
+      Overall, Trump has remained adamant that whatever the Iranian stand-off outcome
+      – whether achieved through Iranian capitulation or attained by military force
+      – he personally had to exit the confrontation appearing ‘strong’ and having an
+      historic ‘achievement’ under his belt.
+
+
+      A war in search of a rationale
+
+
+      Thus, with the demise of diplomacy, the conflict has moved from the realm of strategic
+      calculus and realism into one of psychological conditioning. That is, how to characterise
+      a war without any clear rationale to an increasingly doubting American public.
+      And how best to trigger war in such a way to provide the right psychological advantage
+      to Trump in the lead up to Midterm elections.
+
+
+      Hence, we have the absurd claims by Trump that Iran is working to produce ICBMs
+      with which to attack the U.S. mainland. In this psy-narrative, Trump is not just
+      saving Israel, he is saving America!
+
+
+      These psychological conditioning considerations are forcing a divided Trump Team
+      to move further and further away from reality – scrabbling to find the plausible
+      casus belli to justify a military strike on Iran. Iran, despite Rubio’s claims,
+      does not threaten the U.S. with ICBMs. Iran does not pose a threat to the U.S.
+      at all — nor does it possess nuclear weapons.
+
+
+      Make no mistake, Will Schryver observes,
+
+
+      “This is an American war of choice. This war – and all its consequences – are
+      owned by the United States. This is Trump’s war. This war was started January
+      3, 2020, by Donald Trump’s direct order”.
+
+
+      But for Team Trump to say out loud that a strike on Iran is about cementing Israel’s
+      Middle East hegemony, is considered by the Team to be a non-palatable framing
+      for touting ‘another big Middle East war’ to an U.S. electorate adverse to casualties
+      and increasingly sceptical of Trump’s prioritising of Israeli interests.
+
+
+      The dilemma of a lack of rationale for war evidently became so acute that U.S.
+      officials agreed that Israel should strike first, in order to make an Iranian
+      war as ‘politically palatable’ to the domestic audience as possible.
+
+
+      Anna Barsky, writing in Hebrew Ma’ariv last week, argued that the suggestion that
+      Israel ‘goes first’ “… seeps from the ironic to the chilling. Because it outlines
+      a scenario in which Israel functions, consciously and by design, as the opening
+      shot of a move that is intended first and foremost to produce a consciousness
+      effect in the United States”.
+
+
+      The build-up of U.S. forces was first imagined by Trump to be, of itself, sufficiently
+      intimidating psychologically for Iran, that capitulation was pre-ordained. Witkoff
+      said it plainly on Fox News: Trump was confused and frustrated as to why Iran
+      had not already capitulated in face of such an American array of forces near to
+      Iran.
+
+
+      But more than this, for Trump – who lives by grandiose statements and promises
+      of ‘unbelievable American military prowess’ — he was disconcerted to see leaks
+      revealing that, despite the force build-up, the U.S. does not have the military
+      capacity “to sustain [beyond] a four to five day intense aerial assault on Iran
+      – or a week of lower intensity strikes”. He later contradicted his Generals.
+
+
+      Trump’s Generals had provided him with a much more complex picture: They were
+      not willing to guarantee regime change; there would be no certainty about the
+      length of the campaign, and there would be no ability to accurately predict Tehran’s
+      response – or the regional implications.
+
+
+      Likely, Trump, despite the warnings, imagined (or hoped for …) a short bloody
+      war of a few days, after which he could claim ‘Victory’ over the extended debris,
+      and then hope to manoeuvre towards a ceasefire — with media headlines shouting
+      another ‘Trump Peace’.
+
+
+      Wars, of course, are never determined by one side alone. Iran warned that if it
+      was attacked, it would trigger all-out war – not just in Iran, but across the
+      region. On just the first day of the war, this is what Iran has now done, with
+      attacks on U.S. bases across the Persian Gulf – U.S. military bases are on fire
+      and smoking for all to see. Major oil companies have just suspended shipments
+      through the Strait of Hormuz.
+
+
+      Trump – but more precisely Netanyahu – has just triggered a multi front war, with
+      attacks on Israel from many directions (from Iran, Yemen, Iraq …). A long war
+      is more likely than a quick war.
+
+
+      Trump is stuck in Zugzwang. He is compelled to make the move on Iran, but in so
+      moving, aggravates his own situation – ‘Zugzwang’. Reportedly, “many inside the
+      Pentagon believe the U.S. will face generational disaster if it over-commits to
+      a large-scale conflict with Iran [and does not perform ‘brilliantly’]”.
+
+
+      Yet the ideological momentum for a strike originating from the camp of Netanyahu
+      and his diverse auxiliaries and donors in the U.S. proved compelling. These latter
+      see a U.S. strike as a ‘once in a generation opportunity’ to re-cast the geo-strategic
+      map – to remake Iran as a pro-western ally of Israel in a new coalition at war
+      with Islamic radicalism.
+
+
+      Such sentiments – though fantastical – should not be brushed aside lightly. They
+      are deeply embedded in culture and in various eschatological beliefs.
+
+
+      War logistics carry their own momentum: Once the ‘spring’ of military deployment
+      is released, it takes a major effort to wind it back. At the outset to WW1, it
+      proved impossible for the European leadership to reverse the mechanics of deployment
+      – simply owing to the limitations inherent to the railway system. It takes a major
+      effort to bring wide war-momentum to a halt.
+
+
+      In triggering such an existential global trial of strength, Trump will not be
+      able, like King Canute, to ‘command’ the tide to recede. He has started events
+      that will determine our global geo-political future. The future of China, Russia
+      and Iran will hang in the balance, one way or another.
+
+
+      The economic order hangs in the balance too. Trump’s solution to the debt crisis
+      hangs largely on his trade war. The viability of Trump tariffs to mitigate its
+      debt obligations hangs on dollar hegemony. And dollar hegemony largely is a function
+      of preserving the myth of U.S. exceptional military invulnerability.
+
+
+      But with Iran effectively having called Trump’s bluff, he is faced with the humiliating
+      choices of either TACO-ing out (i.e. by twisting some premature call for ceasefire,
+      as in the 12-day war, to proclaim ‘Victory’), or were it to be a longer war, to
+      accept the U.S. military being perceived as a paper tiger and seeing the consequences
+      reverberate across debt markets.
+
+
+      Trump is a truly committed supporter of Israel, but he is within a whisker from
+      sinking his Presidency on this rock.
+
+
+      Perhaps he had no choice.'
+    one_sentence_summary: The article discusses the failed diplomatic negotiations between
+      the U.S. and Iran regarding nuclear disarmament, highlighting the U.S.'s unrealistic
+      demands that led to Iran's rejection and the potential for escalating military
+      conflict, driven by political motivations and psychological conditioning rather
+      than strategic rationale.
+    paragraph_summary: In the wake of recent diplomatic negotiations between the U.S.
+      and Iran, it has become evident that the talks have reached a stalemate, with
+      the U.S. presenting demands that Iran categorically rejected, including the complete
+      dismantling of its nuclear facilities and zero enrichment of uranium. The article
+      argues that these U.S. demands were designed to obstruct rather than facilitate
+      a diplomatic resolution, reflecting a misguided belief in Iranian weakness. As
+      tensions escalate, the narrative surrounding a potential military strike on Iran
+      is being shaped by psychological conditioning, particularly in light of upcoming
+      U.S. elections, with Trump seeking a political victory. The article suggests that
+      the U.S. military buildup is intended to intimidate Iran into capitulation, but
+      it risks igniting a broader conflict, as Iran has vowed to respond aggressively
+      to any attack. Ultimately, the situation has evolved into a complex geopolitical
+      crisis, with Trump caught between his commitment to Israeli interests and the
+      potential for a disastrous military engagement that could undermine his presidency
+      and U.S. global standing.
+    published: '2026-03-02T17:37:10+00:00'
+  - title: Who Can Halt The ‘America First’ Ambition Rolling Across The Globe? China
+      Can – OpEd
+    url: https://www.eurasiareview.com/24022026-who-can-halt-the-america-first-ambition-rolling-across-the-globe-china-can-oped/
+    text: 'By Alastair Crooke
+
+
+      We now can see more clearly the Trump Administration’s chosen path: In the wake
+      of Davos and Munich, we have some light – both on Trump’s towering ambitions,
+      and the means by which he hopes to achieve them. It may nonetheless be too late.
+      Past policies shackle America’s future. Russia acting alone may not be able to
+      burst Trump’s bubble, but China, Russia and Iran together can and might.
+
+
+      At Munich, Marco Rubio laid out the context to an unashamedly brash ambition:
+      His premise is grounded on the view that decolonisation was effectively a sinister
+      communist plot that destroyed 500 years of Western empires:
+
+
+      For five centuries, before the end of the Second World War, the West had been
+      expanding – its missionaries, its pilgrims, its soldiers, its explorers pouring
+      out from its shores to cross oceans, settle new continents, build vast empires
+      extending out across the globe. But in 1945, for the first time since the age
+      of Columbus, it was contracting. Europe was in ruins. Half of it lived behind
+      an Iron Curtain and the rest looked like it would soon follow. The great Western
+      empires had entered into terminal decline, accelerated by godless communist revolutions
+      and by anti-colonial uprisings that would transform the world and drape the red
+      hammer and sickle across vast swaths of the map in the years to come.
+
+
+      His gist is that such anticipated decline was a choice, and it is a choice Trump
+      refuses to make:
+
+
+      This is what we [the US and Europe] did together once before, and this is what
+      President Trump and the United States want to do again now, together with you
+      [Europe] … We do not want to be shacked by guilt or to be the caretakers of managed
+      decline … Instead, we want an alliance that boldly races into the future. And
+      the only fear we have is the fear of the shame of not leaving our nations prouder,
+      stronger, and wealthier for our children.
+
+
+      There it is plainly set out: The US is intent on restoring western Dominance.
+      That past age can be recovered, Rubio insisted.
+
+
+      “We did together once before … We defended a great civilisation … We can do [it]
+      again now, together with you.” Or we can do it alone. The choice is Europe’s to
+      make.
+
+
+      All the actions that the imperial powers once did in the past, Trump plans to
+      revive, in a jarring “might makes right” nihilism. Ben Shapiro and Stephen Miller
+      both echo the “vibe”:
+
+
+      There is no such thing as international law. It is nonsense. You know what international
+      law really is? Law of the jungle.
+
+
+      What could put a halt to this ambitious Trumpian enterprise of upending law, asking
+      no one’s permission to act? Lacking any other measure beyond cultivating a Nietzsche-esque
+      Will to Power. What might stand in its way?
+
+
+      Well … China. China, together with Russia, Iran and the BRICS more widely might
+      stand in the way. And as always, Hubris – alone in herself – can lead to downfall.
+      Recall how Treasury Secretary Bessent said of China’s riposte to US tariffs: “A
+      big mistake … they have a losing hand … they’re playing with a pair of twos.”
+      Hubris.
+
+
+      America is indeed shackled by its past decisions: Its skew to a financialised
+      economic model; its bipolar economic and political construct; its dependency on
+      external supply lines; its uncontrolled spending profligacy; its debt mountain
+      and the choice to pursue an AI model that will put many of the western Middle
+      Classes out of a job, all mitigate for “project failure.”
+
+
+      In practical terms, the Russia-Ukraine conflict has been off-loaded onto the Europeans
+      who repeatedly fail to present any political or security solution to the issue;
+      they simply demand a continuation to a conflict that Ukraine is badly losing.
+      Ukraine becomes Europe’s financial albatross now.
+
+
+      China is what America’s new posture is all about: Strangling the Chinese economy
+      through trade “war;” a naval blockade to choke off its energy corridors; militarising
+      the First Island Chain; seizing tankers and destroying Chinese supply lines. Blockades
+      on Venezuela, Cuba and Iran are all linked. If dollar hegemony cannot be maintained,
+      then Trump is determined to achieve US energy dominance.
+
+
+      The Trump Team is replete with China “hawks,” military hawks and trade hawks.
+      But China knows what the US plans – and has prepared. For now, Team Trump is focussed
+      on separating the fronts: The US cannot fight both Russia, China and Iran. So
+      it is “Iran First,” then a weakening of Russia – plus a tightening of blockades
+      and sieges around China.
+
+
+      Michael Vlahos, who taught war and strategy at the US Naval War College, however,
+      observes that:
+
+
+      China represents today a military force that is the opposite of that which faced
+      the US in the Pacific in 1941. [AT that time] Japan, in terms of its military
+      effectiveness and the size of its Navy, [wa]s really the equivalent of the US
+      and US Navy today – whereas China is the equivalent of the US as it was in 1941.
+
+
+
+
+      In other words, China has all the capacity to build and produce planes and ships.
+      It has 200 times the ship-building capacity of the US And the US is in a position
+      where today it cannot even maintain and repair the ships it has. If you look at
+      American warships, they are covered in rust. It’s shameful.
+
+
+      Yet the US already has lost the more consequential war – the financial war.
+
+
+      Both Bessent and Rubio are following the same playbook, which economist Sean Foo
+      calls “Neocon Basics 101”:
+
+
+      The harsh reality for Bessent (and Trump) is that China’s trade surplus has reached
+      an incredible $242 billion in Q4 last year – equivalent to 4.4 percent of GDP.
+
+
+      The other side of the coin to this US trade deficit is that whilst China’s trade
+      with the US is down by over 20 percent almost every month versus a year ago, with
+      the rest of the world (including Africa and Asia), China’s exports are Up – and
+      growing strongly.
+
+
+      Recall that Trump earlier had insisted that China would be forced to “eat” the
+      tariffs that he had imposed on it. That didn’t happen.Overwhelmingly those tariffs
+      were passed on to the US consumers and importers. China simply pivoted to exporting
+      to everywhere other than the US China today is both highly self-sufficient and
+      competitive — America is neither.
+
+
+      Traditionally the US covers such trade deficits in two ways — “Either Washington
+      begs the Federal Reserve to print money; or they issue more financial assets [i.e.
+      Treasuries],” notes Foo. Normally, the Treasury would indeed issue Bonds or Bills
+      to cover the deficit, but China is buying neither —
+
+
+      This leaves the US facing a structural trade deficit that will add $1.4 trillion
+      to the US annual deficit over the next decade. Which means that, instead of just
+      borrowing $1.9 trillion this year, the US will eventually need to borrow $3.1
+      trillion by 2036. And this is annual borrowing.
+
+
+
+
+      So, the value of all these debt-assets (US bonds) is also collapsing [interest
+      rates are rising]. It’s a big reason why the US has to go around the world and
+      shake down allies for money. There’s literally no spare cash to reinvest or subsidize
+      industries directly. The US is essentially broke.
+
+
+
+
+      All China needs to do is continue running a big current account surplus and the
+      US debt situation will get worse and worse. China’s surplus keeps growing larger
+      because China also has capital controls. The money earned by Beijing stays mostly
+      within the country and they strategically invest it elsewhere.
+
+
+
+
+      Trump, [for the moment], is surviving on foreign companies and countries shifting
+      production to the US So far there’s half a trillion dollars’ worth of investment
+      pledges from global companies. But if China continues to control global trade,
+      all these companies could simply U-turn their commitments.
+
+
+
+
+      Bessent’s solution is for China to consume more – and sell less to the world.
+      But there’s a problem with that statement. Even if China consumes more, that doesn’t
+      mean they will buy more US goods. It’s not a 1:1 correlation here. A lot of goods
+      the US sells, China can replace domestically. They can always source it from elsewhere
+      at a cheaper price, as well. There’s really no urgency from the Chinese side to
+      buy more stuff from Trump’s economy.
+
+
+      The heart to the Trump strategy is that he needs for China to give up global market
+      share in order to give space for US exports to grow globally, but US goods are
+      not competitive. Therefore the dollar would have to be further devalued to make
+      US manufacturing capable of capturing a greater share of global export markets.
+
+
+      China is just too competitive, argues Sean Foo:
+
+
+      The US is running out of cards to play, which just points to a bigger crisis in
+      the dollar. The bond markets – and everything financial going forward.
+
+
+      The fear, he explains, is that: “Trump is going to debase the dollar to spend
+      more. That Trump [is] going to goose up the numbers by making big government even
+      bigger. Now, the scary thing is that he might not have a choice here. The labour
+      market isn’t just wobbling. Under the tariff war regime it’s outright collapsing.
+      It’s even worse than we all thought. Now, the collapse totalled 2.1 million jobs
+      over the last 3 years. It’s even worse than the ‘08 housing crisis that only saw
+      losses of 1.2 million.”
+
+
+      Trump is really caught in a quandary. Either he U-turns the trade war or he commits
+      to a much weaker dollar and even bigger deficit spending. We probably know what
+      he’ll do, right? He’ll spend, spend, and spend. And this is one trade war that
+      the US can’t afford to lose. We are beginning to see the entire US system cracking.
+      This hyper financialized economy is buckling under its own weight. And the most
+      immediate crisis today is the AI bubble popping, risking multiple implosions.
+      There’s a reason why 64 percent of Americans feel the economy is not doing well:
+      It’s doing poorly. China has the cards.
+
+
+      The Hubris is to believe that the American market is exceptional and that no one
+      can afford to be excluded from it – but that is exactly what China is purposefully
+      doing.'
+    one_sentence_summary: The article discusses the Trump Administration's ambitions
+      to restore Western dominance, highlighting the challenges posed by China, Russia,
+      and Iran, while critiquing America's financial vulnerabilities and the unsustainable
+      nature of its current economic policies.
+    paragraph_summary: In the wake of recent international gatherings, Alastair Crooke
+      analyzes the Trump Administration's ambitions to restore Western dominance, as
+      articulated by figures like Marco Rubio, who views decolonization as a communist
+      plot that led to the decline of Western empires. Trump aims to revive imperialistic
+      strategies, emphasizing a "might makes right" approach while facing significant
+      challenges from China, Russia, and Iran. The article highlights America's economic
+      vulnerabilities, including a massive trade deficit exacerbated by an unsustainable
+      financial model and a reliance on external supply chains, which could lead to
+      a deeper crisis if the U.S. fails to adapt. Crooke argues that while Trump’s administration
+      seeks to assert U.S. power through military and economic means, it may be hampered
+      by hubris and the realities of a competitive global landscape, particularly as
+      China continues to strengthen its economic position and reduce reliance on U.S.
+      markets. Ultimately, the U.S. risks losing its financial footing and facing a
+      systemic crisis if it does not address these underlying issues.
+    published: '2026-02-24T17:34:23+00:00'
   - title: 'Trump Kabuki Theater In Ukraine: Nothing Of Substance Gets Resolved – OpEd'
     url: https://www.eurasiareview.com/16022026-trump-kabuki-theater-in-ukraine-nothing-of-substance-gets-resolved-oped/
     text: 'By Alastair Crooke

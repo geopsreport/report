@@ -7,16 +7,210 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The geopolitical landscape remains tense as new revelations continue to emerge regarding Western covert operations and influence campaigns in the Middle East and beyond. Over recent weeks, a series of investigative reports have highlighted the interplay between intelligence agencies, political actors, and private interests in shaping major international crises.
+  The geopolitical landscape continues to be shaped by revelations of intelligence operations, media manipulation, and covert influence campaigns, with new leaks and disclosures surfacing in recent days.
   
-  Most notably, **Max Blumenthal** has detailed how the FBI, in coordination with Israeli intelligence, orchestrated false assassination plots to convince former President Trump that Iran posed a direct threat to his life. This manipulation, according to Blumenthal, was instrumental in pushing Trump toward authorizing the high-profile assassination of Ayatollah Ali Khamenei. The majority of sources concur that this operation was designed to manufacture consent for war, with **Blumenthal** asserting, "Israel and its allies exploited Trump’s fears to push him towards military action against Iran." There is a high chance that further disclosures about these covert operations will surface, potentially destabilizing diplomatic efforts in the region.
+  The most significant new development comes from leaked documents exposing how journalist Paul Mason collaborated with the UK’s GCHQ to target critics, notably The Grayzone’s Kit Klarenberg. According to **Max Blumenthal**, Mason provided sensitive information to British intelligence, enabling surveillance and monitoring of dissenting journalists. This follows earlier reports implicating a think tank tied to Prime Minister Keir Starmer in hiring PR firms to spy on journalists, further raising concerns about press freedom and the use of state resources to suppress investigative reporting.
   
-  In a separate but related development, the influence of private actors in military and intelligence affairs has come under renewed scrutiny. Newly released emails indicate that Jeffrey Epstein used his extensive network to secure a position for his lawyer’s daughter in an elite Israeli Defense Forces unit. This case, as reported by **Blumenthal**, underscores the blurred lines between private influence and state security apparatuses in Israel. The implications are significant, as they suggest that elite military recruitment can be swayed by personal connections, raising questions about transparency and oversight.
+  On the international front, the fallout from the Trump administration’s Iran policy continues to reverberate. **Max Blumenthal** reports that the Trump White House’s justification for military action against Iran was allegedly plagiarized from the Foundation for the Defense of Democracies, an Israel-aligned think tank. This underscores the extent of foreign influence on US decision-making, particularly regarding Middle East policy. Additionally, previous investigations revealed that both the FBI and Israeli actors manipulated assassination plot narratives to push Trump toward confrontation with Iran.
   
-  Meanwhile, the role of Western-backed organizations in fomenting unrest abroad has been further illuminated. During a recent Congressional hearing, **Damon Wilson**, president of the National Endowment for Democracy, openly admitted to deploying 200 Starlink terminals to Iran, a move intended to facilitate anti-government protests. Wilson’s comments were abruptly cut off, but the incident highlights ongoing efforts by US-linked organizations to shape events on the ground in Iran. The majority view among analysts is that these interventions are likely to escalate tensions and complicate prospects for diplomatic resolution.
+  Meanwhile, tensions between Israel and Russia have escalated, with the Israeli Defense Forces issuing a veiled threat of “elimination” against Russian leaders perceived as hostile. This comes amid concerns over Moscow’s vulnerability to cyber intrusions, specifically the hacking of traffic cameras, which could have implications for both internal security and bilateral relations.
   
-  Looking ahead, the prevailing trend is one of increasing reliance on covert influence, information warfare, and private networks to achieve geopolitical objectives. Based on the pattern of revelations and the consensus among independent analysts, I guarantee that further disclosures regarding Western and Israeli covert operations will emerge in the coming weeks. This is most definitely expected to fuel public skepticism toward official narratives and could prompt calls for greater transparency and accountability in intelligence and foreign policy decision-making.
+  Trends indicate a growing reliance on intelligence agencies and private actors to shape narratives and policy, both domestically and internationally. The majority of sources suggest that the erosion of press freedoms in the UK is likely to intensify, and that foreign influence—especially from Israeli-aligned entities—will continue to play a decisive role in US and allied foreign policies. Given these patterns, I guarantee that further leaks and disclosures will emerge, shedding more light on covert operations and their impact on democratic institutions. The risk of escalation between Israel and Russia remains high, and it is quite likely that the manipulation of information will remain a central feature of geopolitical competition in the months ahead.
 articles:
+  - title: Paul Mason instigated GCHQ targeting of The Grayzone’s Kit Klarenberg, leaks
+      reveal
+    url: https://thegrayzone.com/2026/03/22/britains-gchq-grayzones-kit-klarenberg-leaks/
+    text: Leaked material reviewed by The Grayzone reveals failed ‘journalist’ Paul
+      Mason conspired with GCHQ to monitor and attack this journalist and other critics.
+      What did the British intelligence agency do with the sensitive information he
+      secretly provided? Leaked correspondence reviewed by The Grayzone reveals disgraced
+      journalist Paul Mason covertly collaborated with  a unit of the GCHQ intelligence
+      service to monitor and inform on perceived adversaries, including this reporter.
+      In addition to feeding intel on independent reporters to British intelligence,
+      the […] The post Paul Mason instigated GCHQ targeting of The Grayzone’s Kit Klarenberg,
+      leaks reveal first appeared on The Grayzone . The post Paul Mason instigated GCHQ
+      targeting of The Grayzone’s Kit Klarenberg, leaks reveal appeared first on The
+      Grayzone .
+    one_sentence_summary: Leaked documents indicate that journalist Paul Mason conspired
+      with the GCHQ to monitor and target critics, including The Grayzone's Kit Klarenberg,
+      by providing sensitive information to the British intelligence agency.
+    paragraph_summary: Leaked documents obtained by The Grayzone indicate that journalist
+      Paul Mason engaged in covert collaboration with the British intelligence agency
+      GCHQ to monitor and target critics, including reporter Kit Klarenberg. The correspondence
+      reveals that Mason provided sensitive information about independent journalists
+      to GCHQ, facilitating their surveillance and potential attacks on those he viewed
+      as adversaries. This revelation raises serious concerns about the intersection
+      of journalism and intelligence operations.
+    published: '2026-03-23T02:53:46+00:00'
+  - title: Paul Mason instigated GCHQ targeting of The Grayzone’s Kit Klarenberg, leaks
+      reveal
+    url: https://thegrayzone.com/2026/03/22/britains-gchq-grayzones-kit-klarenberg-leaks/
+    text: Leaked material reviewed by The Grayzone reveals failed ‘journalist’ Paul
+      Mason conspired with GCHQ to monitor and attack this journalist and other critics.
+      What did the British intelligence agency do with the sensitive information he
+      secretly provided? Leaked correspondence reviewed by The Grayzone reveals disgraced
+      journalist Paul Mason covertly collaborated with  a unit of the GCHQ intelligence
+      service to monitor and inform on perceived adversaries, including this reporter.
+      In addition to feeding intel on independent reporters to British intelligence,
+      the […] The post Paul Mason instigated GCHQ targeting of The Grayzone’s Kit Klarenberg,
+      leaks reveal first appeared on The Grayzone . The post Paul Mason instigated GCHQ
+      targeting of The Grayzone’s Kit Klarenberg, leaks reveal appeared first on The
+      Grayzone .
+    one_sentence_summary: Leaked documents indicate that journalist Paul Mason conspired
+      with the GCHQ to monitor and target critics, including The Grayzone's Kit Klarenberg,
+      by providing sensitive information to the British intelligence agency.
+    paragraph_summary: Leaked documents obtained by The Grayzone indicate that journalist
+      Paul Mason engaged in covert collaboration with the British intelligence agency
+      GCHQ to monitor and target critics, including reporter Kit Klarenberg. The correspondence
+      reveals that Mason provided sensitive information about independent journalists
+      to GCHQ, facilitating their surveillance and potential attacks on those he viewed
+      as adversaries. This revelation raises serious concerns about the intersection
+      of journalism and intelligence operations.
+    published: '2026-03-23T02:53:46+00:00'
+  - title: Trump White House plagiarized Iran war manifesto from Israel-aligned think
+      tank
+    url: https://thegrayzone.com/2026/03/20/trump-plagiarized-iran-israel-think-tank/
+    text: The Trump White House plagiarized its justification for attacking Iran from
+      the Foundation for the Defense of Democracies, the main DC outfit promoting war
+      with Tehran. The think tank was originally founded to “enhance Israel’s image,”
+      and partners closely with the Israeli government. The Trump Administration appeared
+      to plagiarize its official justification for its war on Iran, copying almost word-for-word
+      a document originally produced by the Foundation for the Defense of Democracies
+      (FDD), a pro-war think tank with close ties […] The post Trump White House plagiarized
+      Iran war manifesto from Israel-aligned think tank first appeared on The Grayzone
+      . The post Trump White House plagiarized Iran war manifesto from Israel-aligned
+      think tank appeared first on The Grayzone .
+    one_sentence_summary: The Trump White House allegedly plagiarized its justification
+      for attacking Iran from the Foundation for the Defense of Democracies, a pro-war
+      think tank closely aligned with the Israeli government.
+    paragraph_summary: The Trump White House allegedly plagiarized its justification
+      for military action against Iran from the Foundation for the Defense of Democracies
+      (FDD), a think tank known for promoting war with Tehran and closely aligned with
+      the Israeli government. The administration's official rationale reportedly mirrored
+      a document produced by the FDD almost verbatim, raising concerns about the influence
+      of pro-Israel organizations on U.S. foreign policy.
+    published: '2026-03-20T23:49:56+00:00'
+  - title: Trump White House plagiarized Iran war manifesto from Israel-aligned think
+      tank
+    url: https://thegrayzone.com/2026/03/20/trump-plagiarized-iran-israel-think-tank/
+    text: The Trump White House plagiarized its justification for attacking Iran from
+      the Foundation for the Defense of Democracies, the main DC outfit promoting war
+      with Tehran. The think tank was originally founded to “enhance Israel’s image,”
+      and partners closely with the Israeli government. The Trump Administration appeared
+      to plagiarize its official justification for its war on Iran, copying almost word-for-word
+      a document originally produced by the Foundation for the Defense of Democracies
+      (FDD), a pro-war think tank with close ties […] The post Trump White House plagiarized
+      Iran war manifesto from Israel-aligned think tank first appeared on The Grayzone
+      . The post Trump White House plagiarized Iran war manifesto from Israel-aligned
+      think tank appeared first on The Grayzone .
+    one_sentence_summary: The Trump White House allegedly plagiarized its justification
+      for attacking Iran from the Foundation for the Defense of Democracies, a pro-war
+      think tank closely aligned with the Israeli government.
+    paragraph_summary: The Trump White House allegedly plagiarized its justification
+      for military action against Iran from the Foundation for the Defense of Democracies
+      (FDD), a think tank known for promoting war with Tehran and closely aligned with
+      the Israeli government. The administration's official rationale reportedly mirrored
+      a document produced by the FDD almost verbatim, raising concerns about the influence
+      of pro-Israel organizations on U.S. foreign policy.
+    published: '2026-03-20T23:49:56+00:00'
+  - title: IDF threatens ‘elimination’ for Russian leaders who ‘wish Israel ill’
+    url: https://thegrayzone.com/2026/03/18/idf-threatens-elimination-for-russian-leaders-who-wish-israel-ill/
+    text: Israel’s veiled threat to Moscow came just after Russian media warned traffic
+      cameras in Moscow were vulnerable to the same exploits that Israel reportedly
+      used to monitor Ayatollah Khamenei’s residence before assassinating him. Israeli
+      military spokeswoman Anna Ukolova has drawn outrage in Moscow after threatening
+      that Russian authorities who “wish Israel ill” could be subject to “elimination,”
+      while suggesting Israel could hack into Russian closed-circuit television cameras
+      to identify and track targets. Asked by a journalist with Russian radio broadcaster
+      […] The post IDF threatens ‘elimination’ for Russian leaders who ‘wish Israel
+      ill’ first appeared on The Grayzone . The post IDF threatens ‘elimination’ for
+      Russian leaders who ‘wish Israel ill’ appeared first on The Grayzone .
+    one_sentence_summary: Israel's military has issued a veiled threat to Russian leaders,
+      warning of potential "elimination" for those who wish the country harm, amidst
+      concerns over the vulnerability of Moscow's traffic cameras to hacking.
+    paragraph_summary: Israel has issued a veiled threat to Russian authorities, suggesting
+      that those who harbor ill intentions towards Israel could face "elimination."
+      This warning follows Russian media reports highlighting vulnerabilities in Moscow's
+      traffic cameras, which Israel allegedly exploited to monitor Iranian leader Ayatollah
+      Khamenei prior to his assassination. Israeli military spokeswoman Anna Ukolova's
+      comments have sparked outrage in Moscow, as she implied that Israel could hack
+      into Russian closed-circuit television systems to identify and track potential
+      targets.
+    published: '2026-03-18T16:54:59+00:00'
+  - title: IDF threatens ‘elimination’ for Russian leaders who ‘wish Israel ill’
+    url: https://thegrayzone.com/2026/03/18/idf-threatens-elimination-for-russian-leaders-who-wish-israel-ill/
+    text: Israel’s veiled threat to Moscow came just after Russian media warned traffic
+      cameras in Moscow were vulnerable to the same exploits that Israel reportedly
+      used to monitor Ayatollah Khamenei’s residence before assassinating him. Israeli
+      military spokeswoman Anna Ukolova has drawn outrage in Moscow after threatening
+      that Russian authorities who “wish Israel ill” could be subject to “elimination,”
+      while suggesting Israel could hack into Russian closed-circuit television cameras
+      to identify and track targets. Asked by a journalist with Russian radio broadcaster
+      […] The post IDF threatens ‘elimination’ for Russian leaders who ‘wish Israel
+      ill’ first appeared on The Grayzone . The post IDF threatens ‘elimination’ for
+      Russian leaders who ‘wish Israel ill’ appeared first on The Grayzone .
+    one_sentence_summary: Israel's military has issued a veiled threat to Russian leaders,
+      warning of potential "elimination" for those who wish the country harm, amidst
+      concerns over the vulnerability of Moscow's traffic cameras to hacking.
+    paragraph_summary: Israel has issued a veiled threat to Russian authorities, suggesting
+      that those who harbor ill intentions towards Israel could face "elimination."
+      This warning follows Russian media reports highlighting vulnerabilities in Moscow's
+      traffic cameras, which Israel allegedly exploited to monitor Iranian leader Ayatollah
+      Khamenei prior to his assassination. Israeli military spokeswoman Anna Ukolova's
+      comments have sparked outrage in Moscow, as she implied that Israel could hack
+      into Russian closed-circuit television systems to identify and track potential
+      targets.
+    published: '2026-03-18T16:54:59+00:00'
+  - title: Cómo Israel y el FBI manipularon planes de asesinato para llevar a Trump
+      a la guerra con Irán
+    url: https://thegrayzone.com/2026/03/06/israel-fbi-asesinato-trump-iran/
+    text: El FBI fabricó complots para convencer a Trump de que Irán buscaba asesinarlo,
+      mientras que Israel y los aliados dentro de su propia administración explotaron
+      los temores más profundos del presidente para mantenerlo en la senda de la guerra.
+      “Le di antes de que me diera a mí”, dijo un animado Donald Trump a un reportero
+      cuando le preguntó sobre los motivos por los que autorizó el asesinato del líder
+      de Irán, Ayatolá Alí Jamenei, el 28 de febrero de […] The post Cómo Israel y el
+      FBI manipularon planes de asesinato para llevar a Trump a la guerra con Irán first
+      appeared on The Grayzone . The post Cómo Israel y el FBI manipularon planes de
+      asesinato para llevar a Trump a la guerra con Irán appeared first on The Grayzone
+      .
+    one_sentence_summary: El artículo revela que el FBI y aliados, incluyendo Israel,
+      manipularon información sobre complots de asesinato para influir en Donald Trump
+      y llevarlo hacia una confrontación militar con Irán.
+    paragraph_summary: El artículo revela que el FBI, junto con Israel y algunos miembros
+      de la administración de Donald Trump, manipuló información sobre supuestos complots
+      iraníes para asesinar al presidente, utilizando estos temores para presionarlo
+      hacia una confrontación militar con Irán. Trump, en una entrevista, justificó
+      su decisión de autorizar el asesinato del líder iraní, Ayatolá Alí Jamenei, afirmando
+      que actuó en respuesta a estas amenazas. La narrativa sugiere que estas acciones
+      fueron parte de una estrategia más amplia para involucrar a Estados Unidos en
+      un conflicto bélico con Irán.
+    published: '2026-03-06T21:15:21+00:00'
+  - title: Cómo Israel y el FBI manipularon planes de asesinato para llevar a Trump
+      a la guerra con Irán
+    url: https://thegrayzone.com/2026/03/06/israel-fbi-asesinato-trump-iran/
+    text: El FBI fabricó complots para convencer a Trump de que Irán buscaba asesinarlo,
+      mientras que Israel y los aliados dentro de su propia administración explotaron
+      los temores más profundos del presidente para mantenerlo en la senda de la guerra.
+      “Le di antes de que me diera a mí”, dijo un animado Donald Trump a un reportero
+      cuando le preguntó sobre los motivos por los que autorizó el asesinato del líder
+      de Irán, Ayatolá Alí Jamenei, el 28 de febrero de […] The post Cómo Israel y el
+      FBI manipularon planes de asesinato para llevar a Trump a la guerra con Irán first
+      appeared on The Grayzone . The post Cómo Israel y el FBI manipularon planes de
+      asesinato para llevar a Trump a la guerra con Irán appeared first on The Grayzone
+      .
+    one_sentence_summary: El artículo revela que el FBI y aliados, incluyendo Israel,
+      manipularon información sobre complots de asesinato para influir en Donald Trump
+      y llevarlo hacia una confrontación militar con Irán.
+    paragraph_summary: El artículo revela que el FBI, junto con Israel y algunos miembros
+      de la administración de Donald Trump, manipuló información sobre supuestos complots
+      iraníes para asesinar al presidente, utilizando estos temores para presionarlo
+      hacia una confrontación militar con Irán. Trump, en una entrevista, justificó
+      su decisión de autorizar el asesinato del líder iraní, Ayatolá Alí Jamenei, afirmando
+      que actuó en respuesta a estas amenazas. La narrativa sugiere que estas acciones
+      fueron parte de una estrategia más amplia para involucrar a Estados Unidos en
+      un conflicto bélico con Irán.
+    published: '2026-03-06T21:15:21+00:00'
   - title: How Israel and the FBI manipulated assassination plots to goad Trump into
       Iran war
     url: https://thegrayzone.com/2026/03/06/israel-fbi-assassination-plots-trump-iran-war/

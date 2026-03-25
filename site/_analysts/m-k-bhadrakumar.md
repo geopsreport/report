@@ -7,17 +7,102 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The ongoing US-Israeli war in Iran continues to dominate the geopolitical landscape, with international calls for de-escalation intensifying. The conflict, which has seen the closure of the Strait of Hormuz under orders from Iran's new leader, Ayatollah Seyyed Mojtaba Khamenei, has entered a phase of prolonged attrition, with both sides showing little sign of backing down.
+  The Gulf region remains at the epicenter of global tensions following a dramatic escalation: Iran’s retaliatory strike on Israel’s Dimona nuclear facility, itself a response to the earlier attack on Iran’s Natanz site. The destruction and casualties at Dimona have intensified the diplomatic dilemma for regional powers, particularly India, which finds itself in what **M. K. Bhadrakumar** describes as a “catch-22 situation.” India’s balancing act—maintaining ties with both the US-Israel axis and Iran—has become increasingly precarious as the conflict widens.
   
-  In a significant development, **M. K. Bhadrakumar** reports that Pope Leo XIV has publicly called for an immediate end to hostilities during an address in St. Peter’s Square. This intervention from the Vatican underscores the growing global concern over the humanitarian and economic consequences of the conflict, particularly as energy markets remain volatile due to disruptions in the Persian Gulf.
+  Meanwhile, the prospect of de-escalation appears to be fading. As **Bhadrakumar** notes, “the off-ramp in Iran is disappearing,” with the US showing little appetite for a prolonged conflict but unable to extricate itself from the cycle of escalation. President Trump’s initial expectations of a swift resolution have not materialized, and the US administration is now confronted with the reality of a drawn-out confrontation. The closure of the Strait of Hormuz, as declared by Iran’s new leader Ayatollah Seyyed Mojtaba Khamenei, further raises the stakes for global energy markets and maritime security.
   
-  Meanwhile, diplomatic efforts remain stalled. The US, under President Trump, continues its confrontational posture, while Iran’s leadership insists on maintaining the closure of the Strait of Hormuz as leverage. According to **M. K. Bhadrakumar**, Ayatollah Mojtaba’s message to Trump—"Bring it on!"—signals Tehran’s readiness for a drawn-out confrontation rather than seeking a negotiated settlement at this stage.
+  On the diplomatic front, international calls for restraint have so far had limited effect. Pope Leo XIV’s appeal for an immediate end to hostilities underscores the growing global concern, but the conflict’s momentum remains unchecked. Russia, for its part, is closely monitoring the shifts in US policy, with Foreign Minister Sergey Lavrov highlighting the broader implications for global development and multipolarity.
   
-  The regional implications are profound. Previous reports highlighted the diversion of Russian oil shipments due to US naval blockades, and the Modi government in India faces mounting pressure to distance itself from the US-Israeli axis and play a more active role in de-escalation efforts. However, there is no new information on shifts in India’s position or on the progress of US-Iran negotiations since the last update.
-  
-  **Trends and Predictions:**  
-  The majority of analysts, including **M. K. Bhadrakumar**, assess that the conflict is set to continue as a war of attrition, with neither side willing to make significant concessions in the near term. There is a high chance that international diplomatic pressure, as exemplified by the Pope’s intervention, will increase, but the prospects for a rapid ceasefire remain low. The economic fallout, especially regarding global energy supplies, is expected to persist, with most sources agreeing that the situation will remain tense and unpredictable for the foreseeable future.
+  Looking ahead, the majority view among analysts is that the conflict is set to continue in a state of attrition. There is a high chance that the US will avoid direct, large-scale escalation but will remain entangled in the region’s instability. India’s position is likely to become even more complicated, with increased pressure to clarify its stance. I guarantee that unless there is a dramatic diplomatic breakthrough, the Gulf crisis will persist, with ripple effects across global energy markets and strategic alliances.
 articles:
+  - title: 'Gulf War: India is in a catch-22 situation'
+    url: https://www.indianpunchline.com/gulf-war-india-is-in-a-catch-22-situation/
+    text: 'A massive Iranian retaliatory strike on Dimona, Israel’s “nuclear city,”
+      following latter’s attack on Iran’s Natanz nuclear plant, caused large-scale destruction
+      and casualties, Demona, March 22, 2026   The salience of the two readouts of the
+      phone call on Saturday by Prime Minister Narendra Modi to Iran’s President Masoud
+      Pezeshkian is that the bilateral relationship … Continue reading "Gulf War: India
+      is in a catch-22 situation" The post Gulf War: India is in a catch-22 situation
+      appeared first on Indian Punchline .'
+    one_sentence_summary: A significant Iranian retaliatory strike on Israel's Dimona,
+      following an attack on Iran's Natanz nuclear facility, resulted in extensive destruction
+      and casualties, highlighting India's complex diplomatic position amid escalating
+      tensions in the Gulf region.
+    paragraph_summary: The article discusses a significant Iranian retaliatory strike
+      on Dimona, Israel's nuclear facility, which occurred in response to an Israeli
+      attack on Iran's Natanz nuclear plant, resulting in substantial destruction and
+      casualties. It highlights a phone call between Indian Prime Minister Narendra
+      Modi and Iranian President Masoud Pezeshkian, emphasizing the complexities of
+      India's bilateral relationship with Iran amidst escalating tensions in the region.
+      The situation is described as a "catch-22" for India, caught between its strategic
+      interests and the unfolding conflict.
+    published: '2026-03-22T17:35:23+00:00'
+  - title: 'Gulf War: India is in a catch-22 situation'
+    url: https://www.indianpunchline.com/gulf-war-india-is-in-a-catch-22-situation/
+    text: 'A massive Iranian retaliatory strike on Dimona, Israel’s “nuclear city,”
+      following latter’s attack on Iran’s Natanz nuclear plant, caused large-scale destruction
+      and casualties, Demona, March 22, 2026   The salience of the two readouts of the
+      phone call on Saturday by Prime Minister Narendra Modi to Iran’s President Masoud
+      Pezeshkian is that the bilateral relationship … Continue reading "Gulf War: India
+      is in a catch-22 situation" The post Gulf War: India is in a catch-22 situation
+      appeared first on Indian Punchline .'
+    one_sentence_summary: A significant Iranian retaliatory strike on Israel's Dimona,
+      following an attack on Iran's Natanz nuclear facility, resulted in extensive destruction
+      and casualties, highlighting India's complex diplomatic position amid escalating
+      tensions in the Gulf region.
+    paragraph_summary: The article discusses a significant Iranian retaliatory strike
+      on Dimona, Israel's nuclear facility, which occurred in response to an Israeli
+      attack on Iran's Natanz nuclear plant, resulting in substantial destruction and
+      casualties. It highlights a phone call between Indian Prime Minister Narendra
+      Modi and Iranian President Masoud Pezeshkian, emphasizing the complexities of
+      India's bilateral relationship with Iran amidst escalating tensions in the region.
+      The situation is described as a "catch-22" for India, caught between its strategic
+      interests and the unfolding conflict.
+    published: '2026-03-22T17:35:23+00:00'
+  - title: Off-ramp in Iran is disappearing but US remains averse to prolonged conflict
+    url: https://www.indianpunchline.com/off-ramp-in-iran-is-disappearing-but-us-remains-averse-to-prolonged-conflict/
+    text: Fire after air strike at an oil storage facility in Tehran Less than three
+      weeks into the aggression against Iran since February 28, which the US President
+      Donald Trump called a “little excursion”, the war is assuming a scenario that
+      is the exact opposite of what he visualised.  On Tuesday, Trump declared, “We
+      will leave … Continue reading "Off-ramp in Iran is disappearing but US remains
+      averse to prolonged conflict" The post Off-ramp in Iran is disappearing but US
+      remains averse to prolonged conflict appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the escalating conflict in Iran following
+      a U.S. airstrike on an oil storage facility, highlighting President Trump's initial
+      expectations versus the current situation, which suggests a diminishing opportunity
+      for de-escalation despite U.S. reluctance for a prolonged war.
+    paragraph_summary: The article discusses the escalating conflict between the U.S.
+      and Iran, highlighting a recent airstrike that resulted in a fire at an oil storage
+      facility in Tehran. Despite President Trump's initial characterization of the
+      military actions as a "little excursion," the situation is evolving in a manner
+      contrary to his expectations. As tensions rise, the potential for a diplomatic
+      resolution seems to diminish, yet the U.S. remains hesitant to engage in a prolonged
+      conflict. The article suggests that the chances for de-escalation are fading,
+      raising concerns about the future of U.S.-Iran relations.
+    published: '2026-03-20T06:24:13+00:00'
+  - title: Off-ramp in Iran is disappearing but US remains averse to prolonged conflict
+    url: https://www.indianpunchline.com/off-ramp-in-iran-is-disappearing-but-us-remains-averse-to-prolonged-conflict/
+    text: Fire after air strike at an oil storage facility in Tehran Less than three
+      weeks into the aggression against Iran since February 28, which the US President
+      Donald Trump called a “little excursion”, the war is assuming a scenario that
+      is the exact opposite of what he visualised.  On Tuesday, Trump declared, “We
+      will leave … Continue reading "Off-ramp in Iran is disappearing but US remains
+      averse to prolonged conflict" The post Off-ramp in Iran is disappearing but US
+      remains averse to prolonged conflict appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the escalating conflict in Iran following
+      a U.S. airstrike on an oil storage facility, highlighting President Trump's initial
+      expectations versus the current situation, which suggests a diminishing opportunity
+      for de-escalation despite U.S. reluctance for a prolonged war.
+    paragraph_summary: The article discusses the escalating conflict between the U.S.
+      and Iran, highlighting a recent airstrike that resulted in a fire at an oil storage
+      facility in Tehran. Despite President Trump's initial characterization of the
+      military actions as a "little excursion," the situation is evolving in a manner
+      contrary to his expectations. As tensions rise, the potential for a diplomatic
+      resolution seems to diminish, yet the U.S. remains hesitant to engage in a prolonged
+      conflict. The article suggests that the chances for de-escalation are fading,
+      raising concerns about the future of U.S.-Iran relations.
+    published: '2026-03-20T06:24:13+00:00'
   - title: 'Mojtaba’s message to Trump: ‘Bring it on!’'
     url: https://www.indianpunchline.com/mojtabas-message-to-trump-bring-it-on/
     text: 'Pope Leo XIV issued his strongest and most direct demand to date for an end

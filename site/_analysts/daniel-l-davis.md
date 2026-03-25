@@ -7,18 +7,6462 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of March 18, 2026, the global security environment is marked by rapid military modernization, shifting strategic priorities, and mounting challenges for Western defense establishments.
+  As global military competition intensifies, recent independent analyses highlight significant shifts in naval and aerial power balances, with implications for both current conflicts and long-term strategic planning.
   
-  The most significant new development is Japan’s deployment of the Type-12 missile system to Kyushu, signaling a decisive shift in Tokyo’s defense posture. According to **Daniel L. Davis**, this move marks Japan’s transition from a purely defensive stance to one that includes credible offensive capabilities, intended to deter Chinese military advances in the region. The deployment is widely seen as a response to growing regional threats and is designed to complement U.S. defense efforts, enhancing the overall deterrence architecture in East Asia.
+  A major development concerns the vast disparity in naval shipbuilding capacity between China and the United States. **Jack Buckby** underscores that China now possesses 23 million tons of shipbuilding capacity, compared to less than 100,000 tons for the U.S. This gap, confirmed by a leaked U.S. Navy briefing, signals a potential crisis for American naval supremacy. Buckby warns that in any prolonged conflict, "Beijing could simply out-build and out-repair American forces," a view echoed by other defense experts. Given current trends, I guarantee this shipbuilding imbalance will remain a central factor in U.S.-China strategic calculations for the foreseeable future.
   
-  Meanwhile, France’s naval strategy is under scrutiny as the aging Charles de Gaulle aircraft carrier faces increasing demands. **Daniel L. Davis** highlights France’s “strategic vulnerability,” as Paris is forced to choose between supporting NATO’s northern flank and maintaining a presence in the Levant. The impending arrival of the new Porte-Avions de Nouvelle Génération (PANG) is expected to address these gaps, with **Isaac Seitz** noting it will be “the largest warship in Europe” and a major technological leap for the French Navy. However, until PANG is operational, France’s ability to project power remains constrained.
+  Meanwhile, France is signaling its commitment to European maritime power with the unveiling of the 80,000-ton nuclear aircraft carrier France Libre. **Christian D. Orr** notes that this next-generation vessel, set to replace the Charles de Gaulle by 2038, will incorporate advanced American technology and significantly enhance NATO's maritime strike capabilities. The move is widely interpreted as both a message to Russia and a step toward greater European defense autonomy. There is a high chance that France’s investment will prompt further naval modernization efforts among European allies.
   
-  On the U.S. front, modernization efforts are accelerating but not without setbacks. The B-52H Stratofortress fleet is undergoing a major upgrade, with **Christian D. Orr** reporting on the integration of Rolls-Royce F130 engines and advanced radar systems. This modernization is part of a broader push to ensure the bomber’s relevance and nuclear readiness well into the coming decades. In contrast, the F-35 program continues to struggle, as a Pentagon review found its critical TR-3 software upgrade “predominantly unusable,” with full capability now delayed until at least 2031.
+  On the aerial front, the U.S. Air Force has begun testing the upgraded F-22 Raptor 2.0 stealth fighter in the Mojave Desert. **Stephen Silver** reports that the new platform features advanced stealth and avionics, positioning it as a direct counter to China’s J-20 and J-35 fighters. This technological leap is expected to maintain U.S. air superiority in the near term, though the ongoing arms race in stealth technology remains intense.
   
-  Looking ahead, the majority of analysts agree that the Indo-Pacific will remain the primary theater of strategic competition, with Japan’s missile deployment likely to prompt further Chinese countermeasures. France’s naval modernization will eventually restore its global reach, but short-term vulnerabilities persist. The U.S. Air Force’s investments in both legacy and next-generation platforms reflect a high-confidence commitment to maintaining strategic deterrence, though software and procurement delays could hamper operational effectiveness in the near term.
-  
-  In summary, the current trend is toward accelerated military innovation and regional arms buildups, particularly in response to perceived threats from China. I guarantee that these dynamics will continue to shape defense planning and alliance coordination throughout 2026.
+  In summary, the latest intelligence points to a rapidly evolving military landscape. China’s shipbuilding dominance, France’s naval modernization, and the U.S. push for next-generation airpower all reflect a broader trend toward high-tech, high-capacity force projection. Most definitely, these developments will drive allied procurement strategies and shape global security dynamics through the next decade.
 articles:
+  - title: The Dassault Rafale and Eurofighter Typhoon Were Supposed to Be the Same
+      Fighter
+    url: https://www.19fortyfive.com/2026/03/the-dassault-rafale-and-eurofighter-typhoon-were-supposed-to-be-the-same-fighter/
+    text: British defense researcher Jack Buckby explores the fascinating divergence
+      of European air power. Stemming from a single 1980s initiative, differing strategic
+      needs led to the creation of the French Rafale and the Eurofighter Typhoon. Discover
+      how these distinct design philosophies shaped decades of aerial combat and international
+      exports. The post The Dassault Rafale and Eurofighter Typhoon Were Supposed to
+      Be the Same Fighter appeared first on 19FortyFive .
+    one_sentence_summary: Jack Buckby examines how differing strategic needs stemming
+      from a 1980s initiative led to the development of the French Rafale and the Eurofighter
+      Typhoon, resulting in distinct design philosophies that have influenced aerial
+      combat and international exports for decades.
+    paragraph_summary: In his article, British defense researcher Jack Buckby examines
+      the evolution of European air power, focusing on the contrasting development of
+      the French Rafale and the Eurofighter Typhoon, which originated from a shared
+      initiative in the 1980s. He highlights how differing strategic requirements and
+      design philosophies influenced the creation of these two aircraft, ultimately
+      shaping their roles in aerial combat and their international export success over
+      the decades.
+    published: '2026-03-25T00:00:54+00:00'
+  - title: The Dassault Rafale and Eurofighter Typhoon Were Supposed to Be the Same
+      Fighter
+    url: https://www.19fortyfive.com/2026/03/the-dassault-rafale-and-eurofighter-typhoon-were-supposed-to-be-the-same-fighter/
+    text: British defense researcher Jack Buckby explores the fascinating divergence
+      of European air power. Stemming from a single 1980s initiative, differing strategic
+      needs led to the creation of the French Rafale and the Eurofighter Typhoon. Discover
+      how these distinct design philosophies shaped decades of aerial combat and international
+      exports. The post The Dassault Rafale and Eurofighter Typhoon Were Supposed to
+      Be the Same Fighter appeared first on 19FortyFive .
+    one_sentence_summary: Jack Buckby examines how differing strategic needs stemming
+      from a 1980s initiative led to the development of the French Rafale and the Eurofighter
+      Typhoon, resulting in distinct design philosophies that have influenced aerial
+      combat and international exports for decades.
+    paragraph_summary: In his article, British defense researcher Jack Buckby examines
+      the evolution of European air power, focusing on the contrasting development of
+      the French Rafale and the Eurofighter Typhoon, which originated from a shared
+      initiative in the 1980s. He highlights how differing strategic requirements and
+      design philosophies influenced the creation of these two aircraft, ultimately
+      shaping their roles in aerial combat and their international export success over
+      the decades.
+    published: '2026-03-25T00:00:54+00:00'
+  - title: China Has 23,000,000 Tons of Navy Shipbuilding Capacity — America Has Less
+      Than 100,000 — and a Leaked U.S. Navy Briefing Slide Confirmed It
+    url: https://www.19fortyfive.com/2026/03/china-has-23000000-tons-of-navy-shipbuilding-capacity-america-has-less-than-100000-and-a-leaked-u-s-navy-briefing-slide-confirmed-it/
+    text: British defense researcher Jack Buckby warns of a looming crisis for American
+      naval supremacy. While the U.S. designs the world's most advanced warships, China's
+      massive state-owned shipbuilding empire boasts a production capacity that dwarfs
+      America's, ensuring Beijing can rapidly out-build and out-repair U.S. forces in
+      a prolonged conflict. The post China Has 23,000,000 Tons of Navy Shipbuilding
+      Capacity — America Has Less Than 100,000 — and a Leaked U.S. Navy Briefing Slide
+      Confirmed It appeared first on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby highlights a potential
+      crisis for American naval supremacy, as China's vast shipbuilding capacity significantly
+      surpasses that of the U.S., allowing Beijing to out-build and out-repair American
+      forces in a prolonged conflict.
+    paragraph_summary: British defense researcher Jack Buckby highlights a potential
+      crisis for American naval supremacy, noting that while the U.S. develops advanced
+      warships, China's extensive state-owned shipbuilding capabilities far exceed those
+      of the U.S. With a production capacity of 23 million tons compared to America's
+      less than 100,000 tons, China can significantly out-build and out-repair U.S.
+      naval forces during extended conflicts, as confirmed by a leaked U.S. Navy briefing
+      slide.
+    published: '2026-03-24T23:44:59+00:00'
+  - title: China Has 23,000,000 Tons of Navy Shipbuilding Capacity — America Has Less
+      Than 100,000 — and a Leaked U.S. Navy Briefing Slide Confirmed It
+    url: https://www.19fortyfive.com/2026/03/china-has-23000000-tons-of-navy-shipbuilding-capacity-america-has-less-than-100000-and-a-leaked-u-s-navy-briefing-slide-confirmed-it/
+    text: British defense researcher Jack Buckby warns of a looming crisis for American
+      naval supremacy. While the U.S. designs the world's most advanced warships, China's
+      massive state-owned shipbuilding empire boasts a production capacity that dwarfs
+      America's, ensuring Beijing can rapidly out-build and out-repair U.S. forces in
+      a prolonged conflict. The post China Has 23,000,000 Tons of Navy Shipbuilding
+      Capacity — America Has Less Than 100,000 — and a Leaked U.S. Navy Briefing Slide
+      Confirmed It appeared first on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby highlights a potential
+      crisis for American naval supremacy, as China's vast shipbuilding capacity significantly
+      surpasses that of the U.S., allowing Beijing to out-build and out-repair American
+      forces in a prolonged conflict.
+    paragraph_summary: British defense researcher Jack Buckby highlights a potential
+      crisis for American naval supremacy, noting that while the U.S. develops advanced
+      warships, China's extensive state-owned shipbuilding capabilities far exceed those
+      of the U.S. With a production capacity of 23 million tons compared to America's
+      less than 100,000 tons, China can significantly out-build and out-repair U.S.
+      naval forces during extended conflicts, as confirmed by a leaked U.S. Navy briefing
+      slide.
+    published: '2026-03-24T23:44:59+00:00'
+  - title: '80,000 Tons: France’s New PANG Nuclear Aircraft Carrier Has a Message for
+      NATO and Russia'
+    url: https://www.19fortyfive.com/2026/03/80000-tons-frances-new-pang-nuclear-aircraft-carrier-has-a-message-for-nato-and-russia/
+    text: 'Defense expert Christian D. Orr examines the future of French naval projection.
+      Recently named France Libre by President Emmanuel Macron, this 80,000-ton next-generation
+      nuclear aircraft carrier will replace the aging Charles de Gaulle, utilizing advanced
+      American launch technology to secure Europe''s most formidable maritime strike
+      capability by 2038. The post 80,000 Tons: France’s New PANG Nuclear Aircraft Carrier
+      Has a Message for NATO and Russia appeared first on 19FortyFive .'
+    one_sentence_summary: Defense expert Christian D. Orr discusses the future of French
+      naval power with the introduction of the 80,000-ton nuclear aircraft carrier France
+      Libre, set to replace the Charles de Gaulle and enhance Europe's maritime strike
+      capabilities by 2038 using advanced American technology.
+    paragraph_summary: Defense expert Christian D. Orr discusses the future of French
+      naval power with the introduction of the new 80,000-ton nuclear aircraft carrier,
+      France Libre, which is set to replace the aging Charles de Gaulle. Announced by
+      President Emmanuel Macron, this next-generation carrier will incorporate advanced
+      American launch technology, enhancing Europe's maritime strike capabilities significantly
+      by 2038. The development of France Libre sends a strategic message to both NATO
+      and Russia regarding France's commitment to strengthening its naval forces.
+    published: '2026-03-24T23:16:19+00:00'
+  - title: '80,000 Tons: France’s New PANG Nuclear Aircraft Carrier Has a Message for
+      NATO and Russia'
+    url: https://www.19fortyfive.com/2026/03/80000-tons-frances-new-pang-nuclear-aircraft-carrier-has-a-message-for-nato-and-russia/
+    text: 'Defense expert Christian D. Orr examines the future of French naval projection.
+      Recently named France Libre by President Emmanuel Macron, this 80,000-ton next-generation
+      nuclear aircraft carrier will replace the aging Charles de Gaulle, utilizing advanced
+      American launch technology to secure Europe''s most formidable maritime strike
+      capability by 2038. The post 80,000 Tons: France’s New PANG Nuclear Aircraft Carrier
+      Has a Message for NATO and Russia appeared first on 19FortyFive .'
+    one_sentence_summary: Defense expert Christian D. Orr discusses the future of French
+      naval power with the introduction of the 80,000-ton nuclear aircraft carrier France
+      Libre, set to replace the Charles de Gaulle and enhance Europe's maritime strike
+      capabilities by 2038 using advanced American technology.
+    paragraph_summary: Defense expert Christian D. Orr discusses the future of French
+      naval power with the introduction of the new 80,000-ton nuclear aircraft carrier,
+      France Libre, which is set to replace the aging Charles de Gaulle. Announced by
+      President Emmanuel Macron, this next-generation carrier will incorporate advanced
+      American launch technology, enhancing Europe's maritime strike capabilities significantly
+      by 2038. The development of France Libre sends a strategic message to both NATO
+      and Russia regarding France's commitment to strengthening its naval forces.
+    published: '2026-03-24T23:16:19+00:00'
+  - title: The U.S. Military’s Secret Program That Had American Pilots Flying Russian
+      MiG Fighters at Area 51 for a Decade
+    url: https://www.19fortyfive.com/2026/03/the-u-s-militarys-secret-program-that-had-american-pilots-flying-russia-mig-fighters-at-area-51-for-a-decade/
+    text: British defense researcher Jack Buckby dives into one of the Cold War’s most
+      fascinating secrets. Discover how the U.S. military acquired fully operational
+      Soviet MiG-21 and MiG-23 fighters, testing them in simulated combat out of Area
+      51 to completely rewrite American aerial tactics against near-peer adversaries.
+      The post The U.S. Military’s Secret Program That Had American Pilots Flying Russian
+      MiG Fighters at Area 51 for a Decade appeared first on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby reveals how the U.S.
+      military secretly acquired and tested Soviet MiG-21 and MiG-23 fighters at Area
+      51, significantly influencing American aerial tactics during the Cold War.
+    paragraph_summary: British defense researcher Jack Buckby explores a little-known
+      aspect of the Cold War, revealing how the U.S. military obtained fully operational
+      Soviet MiG-21 and MiG-23 fighters. These aircraft were tested in simulated combat
+      scenarios at Area 51, allowing American pilots to gain crucial insights that significantly
+      altered U.S. aerial tactics against comparable adversaries. This secret program,
+      which lasted for a decade, played a pivotal role in enhancing the U.S. military's
+      strategic approach to air combat during a tense period of geopolitical rivalry.
+    published: '2026-03-24T22:57:19+00:00'
+  - title: The U.S. Military’s Secret Program That Had American Pilots Flying Russian
+      MiG Fighters at Area 51 for a Decade
+    url: https://www.19fortyfive.com/2026/03/the-u-s-militarys-secret-program-that-had-american-pilots-flying-russia-mig-fighters-at-area-51-for-a-decade/
+    text: British defense researcher Jack Buckby dives into one of the Cold War’s most
+      fascinating secrets. Discover how the U.S. military acquired fully operational
+      Soviet MiG-21 and MiG-23 fighters, testing them in simulated combat out of Area
+      51 to completely rewrite American aerial tactics against near-peer adversaries.
+      The post The U.S. Military’s Secret Program That Had American Pilots Flying Russian
+      MiG Fighters at Area 51 for a Decade appeared first on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby reveals how the U.S.
+      military secretly acquired and tested Soviet MiG-21 and MiG-23 fighters at Area
+      51, significantly influencing American aerial tactics during the Cold War.
+    paragraph_summary: British defense researcher Jack Buckby explores a little-known
+      aspect of the Cold War, revealing how the U.S. military obtained fully operational
+      Soviet MiG-21 and MiG-23 fighters. These aircraft were tested in simulated combat
+      scenarios at Area 51, allowing American pilots to gain crucial insights that significantly
+      altered U.S. aerial tactics against comparable adversaries. This secret program,
+      which lasted for a decade, played a pivotal role in enhancing the U.S. military's
+      strategic approach to air combat during a tense period of geopolitical rivalry.
+    published: '2026-03-24T22:57:19+00:00'
+  - title: 'The Nuclear Aircraft Carrier Was ‘Sunk’: Australia’s Collins-Class Submarine
+      Defeated a U.S. Navy Supercarrier in a Wargame'
+    url: https://www.19fortyfive.com/2026/03/the-nuclear-aircraft-carrier-was-sunk-australias-collins-class-submarine-defeated-a-u-s-navy-supercarrier-in-a-wargame/
+    text: 'National security attorney and former USAF pilot selectee Harrison Kass explores
+      the shocking redemption of Australia''s Collins-class submarine. Once deemed a
+      costly failure, the diesel-electric sub proved its lethal asymmetric value by
+      silently penetrating a $20 billion U.S. Carrier Strike Group and "sinking" a supercarrier
+      during RIMPAC 2000. The post The Nuclear Aircraft Carrier Was ‘Sunk’: Australia’s
+      Collins-Class Submarine Defeated a U.S. Navy Supercarrier in a Wargame appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Harrison Kass highlights the unexpected success of Australia's
+      Collins-class submarine, which, once considered a failure, demonstrated its effectiveness
+      by successfully "sinking" a U.S. supercarrier during the RIMPAC 2000 wargame.
+    paragraph_summary: In an analysis by national security attorney and former USAF
+      pilot Harrison Kass, the Collins-class submarine of Australia, once considered
+      a costly failure, demonstrated its significant strategic value during a wargame
+      at RIMPAC 2000. The submarine successfully infiltrated a $20 billion U.S. Carrier
+      Strike Group and "sank" a supercarrier, showcasing its lethal asymmetric capabilities
+      and redefining perceptions of its effectiveness in naval warfare.
+    published: '2026-03-24T22:43:25+00:00'
+  - title: 'The Nuclear Aircraft Carrier Was ‘Sunk’: Australia’s Collins-Class Submarine
+      Defeated a U.S. Navy Supercarrier in a Wargame'
+    url: https://www.19fortyfive.com/2026/03/the-nuclear-aircraft-carrier-was-sunk-australias-collins-class-submarine-defeated-a-u-s-navy-supercarrier-in-a-wargame/
+    text: 'National security attorney and former USAF pilot selectee Harrison Kass explores
+      the shocking redemption of Australia''s Collins-class submarine. Once deemed a
+      costly failure, the diesel-electric sub proved its lethal asymmetric value by
+      silently penetrating a $20 billion U.S. Carrier Strike Group and "sinking" a supercarrier
+      during RIMPAC 2000. The post The Nuclear Aircraft Carrier Was ‘Sunk’: Australia’s
+      Collins-Class Submarine Defeated a U.S. Navy Supercarrier in a Wargame appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Harrison Kass highlights the unexpected success of Australia's
+      Collins-class submarine, which, once considered a failure, demonstrated its effectiveness
+      by successfully "sinking" a U.S. supercarrier during the RIMPAC 2000 wargame.
+    paragraph_summary: In an analysis by national security attorney and former USAF
+      pilot Harrison Kass, the Collins-class submarine of Australia, once considered
+      a costly failure, demonstrated its significant strategic value during a wargame
+      at RIMPAC 2000. The submarine successfully infiltrated a $20 billion U.S. Carrier
+      Strike Group and "sank" a supercarrier, showcasing its lethal asymmetric capabilities
+      and redefining perceptions of its effectiveness in naval warfare.
+    published: '2026-03-24T22:43:25+00:00'
+  - title: 'Sorry J-20 and J-35: The U.S. Air Force’s ‘New’ F-22 Raptor 2.0 Stealth
+      Fighter Just Broke Cover'
+    url: https://www.19fortyfive.com/2026/03/sorry-j-20-and-j-35-the-u-s-air-forces-new-f-22-raptor-2-0-stealth-fighter-just-broke-cover/
+    text: 'Summary and Key Points: Drawing on over a decade of experience covering national
+      security and defense technology, award-winning journalist Stephen Silver details
+      the emergence of the “Raptor 2.0.” As upgraded F-22 Raptors equipped with revolutionary
+      stealthy underwing fuel tanks are spotted testing over the Mojave Desert, Silver
+      connects these vital technological leaps to the aircraft’s […] The post Sorry
+      J-20 and J-35: The U.S. Air Force’s ‘New’ F-22 Raptor 2.0 Stealth Fighter Just
+      Broke Cover appeared first on 19FortyFive .'
+    one_sentence_summary: Journalist Stephen Silver reports on the unveiling of the
+      upgraded F-22 Raptor 2.0, featuring advanced stealth technology, as it undergoes
+      testing in the Mojave Desert, signaling significant advancements in U.S. Air Force
+      capabilities against competitors like China's J-20 and J-35.
+    paragraph_summary: In his article, journalist Stephen Silver discusses the unveiling
+      of the upgraded F-22 Raptor, dubbed "Raptor 2.0," which features advanced stealthy
+      underwing fuel tanks and has been spotted undergoing tests in the Mojave Desert.
+      Drawing on over ten years of experience in national security and defense technology,
+      Silver emphasizes the significance of these technological advancements for the
+      U.S. Air Force, positioning the Raptor 2.0 as a formidable competitor against
+      other stealth fighters like China's J-20 and J-35.
+    published: '2026-03-24T22:20:59+00:00'
+  - title: 'Sorry J-20 and J-35: The U.S. Air Force’s ‘New’ F-22 Raptor 2.0 Stealth
+      Fighter Just Broke Cover'
+    url: https://www.19fortyfive.com/2026/03/sorry-j-20-and-j-35-the-u-s-air-forces-new-f-22-raptor-2-0-stealth-fighter-just-broke-cover/
+    text: 'Summary and Key Points: Drawing on over a decade of experience covering national
+      security and defense technology, award-winning journalist Stephen Silver details
+      the emergence of the “Raptor 2.0.” As upgraded F-22 Raptors equipped with revolutionary
+      stealthy underwing fuel tanks are spotted testing over the Mojave Desert, Silver
+      connects these vital technological leaps to the aircraft’s […] The post Sorry
+      J-20 and J-35: The U.S. Air Force’s ‘New’ F-22 Raptor 2.0 Stealth Fighter Just
+      Broke Cover appeared first on 19FortyFive .'
+    one_sentence_summary: Journalist Stephen Silver reports on the unveiling of the
+      upgraded F-22 Raptor 2.0, featuring advanced stealth technology, as it undergoes
+      testing in the Mojave Desert, signaling significant advancements in U.S. Air Force
+      capabilities against competitors like China's J-20 and J-35.
+    paragraph_summary: In his article, journalist Stephen Silver discusses the unveiling
+      of the upgraded F-22 Raptor, dubbed "Raptor 2.0," which features advanced stealthy
+      underwing fuel tanks and has been spotted undergoing tests in the Mojave Desert.
+      Drawing on over ten years of experience in national security and defense technology,
+      Silver emphasizes the significance of these technological advancements for the
+      U.S. Air Force, positioning the Raptor 2.0 as a formidable competitor against
+      other stealth fighters like China's J-20 and J-35.
+    published: '2026-03-24T22:20:59+00:00'
+  - title: 2,000 Marines, 20 F-35s, and the ‘Mini Aircraft Carrier’ USS Tripoli — The
+      Pentagon’s Toolkit to Invade Iran’s Kharg Island
+    url: https://www.19fortyfive.com/2026/03/2000-marines-20-f-35s-and-the-mini-aircraft-carrier-uss-tripoli-the-pentagons-toolkit-to-invade-irans-kharg-island/
+    text: Kris Osborn details the high-tech future of Marine Corps amphibious warfare.
+      In a theoretical assault on Iran's Kharg Island, the USS Tripoli would serve as
+      a critical mothership, deploying AI drones, F-35B stealth fighters, and agile
+      infantry to secure the territory without relying on heavy armor. The post 2,000
+      Marines, 20 F-35s, and the ‘Mini Aircraft Carrier’ USS Tripoli — The Pentagon’s
+      Toolkit to Invade Iran’s Kharg Island appeared first on 19FortyFive .
+    one_sentence_summary: Kris Osborn outlines a futuristic Marine Corps amphibious
+      assault on Iran's Kharg Island, highlighting the USS Tripoli as a key mothership
+      that would deploy AI drones, F-35B stealth fighters, and agile infantry, minimizing
+      the need for heavy armor.
+    paragraph_summary: Kris Osborn explores the advanced strategies for Marine Corps
+      amphibious warfare, focusing on a hypothetical operation to seize Iran's Kharg
+      Island. In this scenario, the USS Tripoli functions as a pivotal mothership, utilizing
+      AI drones and F-35B stealth fighters to deploy over 2,000 Marines and agile infantry
+      forces, allowing for a territory takeover without the need for heavy armor. The
+      article highlights the Pentagon's innovative approach to modern warfare, emphasizing
+      technology's role in future military operations.
+    published: '2026-03-24T19:48:49+00:00'
+  - title: 2,000 Marines, 20 F-35s, and the ‘Mini Aircraft Carrier’ USS Tripoli — The
+      Pentagon’s Toolkit to Invade Iran’s Kharg Island
+    url: https://www.19fortyfive.com/2026/03/2000-marines-20-f-35s-and-the-mini-aircraft-carrier-uss-tripoli-the-pentagons-toolkit-to-invade-irans-kharg-island/
+    text: Kris Osborn details the high-tech future of Marine Corps amphibious warfare.
+      In a theoretical assault on Iran's Kharg Island, the USS Tripoli would serve as
+      a critical mothership, deploying AI drones, F-35B stealth fighters, and agile
+      infantry to secure the territory without relying on heavy armor. The post 2,000
+      Marines, 20 F-35s, and the ‘Mini Aircraft Carrier’ USS Tripoli — The Pentagon’s
+      Toolkit to Invade Iran’s Kharg Island appeared first on 19FortyFive .
+    one_sentence_summary: Kris Osborn outlines a futuristic Marine Corps amphibious
+      assault on Iran's Kharg Island, highlighting the USS Tripoli as a key mothership
+      that would deploy AI drones, F-35B stealth fighters, and agile infantry, minimizing
+      the need for heavy armor.
+    paragraph_summary: Kris Osborn explores the advanced strategies for Marine Corps
+      amphibious warfare, focusing on a hypothetical operation to seize Iran's Kharg
+      Island. In this scenario, the USS Tripoli functions as a pivotal mothership, utilizing
+      AI drones and F-35B stealth fighters to deploy over 2,000 Marines and agile infantry
+      forces, allowing for a territory takeover without the need for heavy armor. The
+      article highlights the Pentagon's innovative approach to modern warfare, emphasizing
+      technology's role in future military operations.
+    published: '2026-03-24T19:48:49+00:00'
+  - title: The Iran War Is Handing China A Playbook on How to Beat the U.S. Military
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-handing-china-a-playbook-on-how-to-beat-the-u-s-military/
+    text: International relations professor Dr. Robert Kelly warns that the U.S. war
+      in Iran is teaching China a dangerous lesson. By exposing America's reliance on
+      a small inventory of overpriced superweapons, the conflict reveals how Beijing
+      could easily overwhelm U.S. forces with massive swarms of cheap, mass-produced
+      drones and missiles. The post The Iran War Is Handing China A Playbook on How
+      to Beat the U.S. Military appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Robert Kelly cautions that the U.S. war in Iran is demonstrating
+      to China how it could exploit America's dependence on expensive superweapons by
+      potentially overwhelming U.S. forces with large numbers of inexpensive drones
+      and missiles.
+    paragraph_summary: International relations professor Dr. Robert Kelly cautions that
+      the ongoing U.S. war in Iran is providing China with critical insights into U.S.
+      military vulnerabilities. He argues that the conflict highlights America's dependence
+      on a limited stock of expensive superweapons, which could be exploited by Beijing.
+      Kelly suggests that China could potentially overpower U.S. forces by deploying
+      large numbers of inexpensive, mass-produced drones and missiles, thereby gaining
+      a strategic advantage in future military confrontations.
+    published: '2026-03-24T19:19:27+00:00'
+  - title: The Iran War Is Handing China A Playbook on How to Beat the U.S. Military
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-handing-china-a-playbook-on-how-to-beat-the-u-s-military/
+    text: International relations professor Dr. Robert Kelly warns that the U.S. war
+      in Iran is teaching China a dangerous lesson. By exposing America's reliance on
+      a small inventory of overpriced superweapons, the conflict reveals how Beijing
+      could easily overwhelm U.S. forces with massive swarms of cheap, mass-produced
+      drones and missiles. The post The Iran War Is Handing China A Playbook on How
+      to Beat the U.S. Military appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Robert Kelly cautions that the U.S. war in Iran is demonstrating
+      to China how it could exploit America's dependence on expensive superweapons by
+      potentially overwhelming U.S. forces with large numbers of inexpensive drones
+      and missiles.
+    paragraph_summary: International relations professor Dr. Robert Kelly cautions that
+      the ongoing U.S. war in Iran is providing China with critical insights into U.S.
+      military vulnerabilities. He argues that the conflict highlights America's dependence
+      on a limited stock of expensive superweapons, which could be exploited by Beijing.
+      Kelly suggests that China could potentially overpower U.S. forces by deploying
+      large numbers of inexpensive, mass-produced drones and missiles, thereby gaining
+      a strategic advantage in future military confrontations.
+    published: '2026-03-24T19:19:27+00:00'
+  - title: Russia Has Lost More Tanks in the Ukraine War Than Most Countries Have Ever
+      Owned
+    url: https://www.19fortyfive.com/2026/03/russia-has-lost-more-tanks-in-the-ukraine-war-than-most-countries-have-ever-owned/
+    text: Private sector intelligence analyst Isaac Seitz breaks down the staggering
+      loss of over 4,000 Russian tanks in Ukraine. While early tactical blunders and
+      modern FPV drones have decimated Russian armor, deep Soviet-era reserves and a
+      surging wartime industrial base ensure Moscow can sustain the brutal costs of
+      near-peer conflict. The post Russia Has Lost More Tanks in the Ukraine War Than
+      Most Countries Have Ever Owned appeared first on 19FortyFive .
+    one_sentence_summary: Private sector intelligence analyst Isaac Seitz highlights
+      that despite losing over 4,000 tanks in Ukraine due to tactical errors and advanced
+      drones, Russia's extensive Soviet-era reserves and increasing wartime production
+      capabilities allow it to endure the heavy losses in the conflict.
+    paragraph_summary: Private sector intelligence analyst Isaac Seitz highlights the
+      significant loss of over 4,000 Russian tanks in the Ukraine conflict, attributing
+      this to initial tactical errors and the effectiveness of modern first-person view
+      (FPV) drones. Despite these losses, Russia's extensive Soviet-era reserves and
+      a rapidly expanding wartime industrial capacity enable it to continue to absorb
+      the heavy costs associated with the ongoing near-peer conflict.
+    published: '2026-03-24T18:56:38+00:00'
+  - title: Russia Has Lost More Tanks in the Ukraine War Than Most Countries Have Ever
+      Owned
+    url: https://www.19fortyfive.com/2026/03/russia-has-lost-more-tanks-in-the-ukraine-war-than-most-countries-have-ever-owned/
+    text: Private sector intelligence analyst Isaac Seitz breaks down the staggering
+      loss of over 4,000 Russian tanks in Ukraine. While early tactical blunders and
+      modern FPV drones have decimated Russian armor, deep Soviet-era reserves and a
+      surging wartime industrial base ensure Moscow can sustain the brutal costs of
+      near-peer conflict. The post Russia Has Lost More Tanks in the Ukraine War Than
+      Most Countries Have Ever Owned appeared first on 19FortyFive .
+    one_sentence_summary: Private sector intelligence analyst Isaac Seitz highlights
+      that despite losing over 4,000 tanks in Ukraine due to tactical errors and advanced
+      drones, Russia's extensive Soviet-era reserves and increasing wartime production
+      capabilities allow it to endure the heavy losses in the conflict.
+    paragraph_summary: Private sector intelligence analyst Isaac Seitz highlights the
+      significant loss of over 4,000 Russian tanks in the Ukraine conflict, attributing
+      this to initial tactical errors and the effectiveness of modern first-person view
+      (FPV) drones. Despite these losses, Russia's extensive Soviet-era reserves and
+      a rapidly expanding wartime industrial capacity enable it to continue to absorb
+      the heavy costs associated with the ongoing near-peer conflict.
+    published: '2026-03-24T18:56:38+00:00'
+  - title: The U.S. Just Used New GBU-72 5,000-Pound Bomb That Penetrates 100 Feet to
+      Destroy Iran’s Missiles Aimed at Strait of Hormuz
+    url: https://www.19fortyfive.com/2026/03/the-u-s-just-used-new-gbu-72-5000-pound-bomb-that-penetrates-100-feet-to-destroy-irans-missiles-aimed-at-strait-of-hormuz/
+    text: Former Pentagon expert Kris Osborn details the devastating power of the U.S.
+      Air Force's GBU-72 bunker-buster. By plunging through 100 feet of earth before
+      detonating, this 5,000-pound precision bomb traps its explosive energy underground,
+      systematically collapsing the subterranean Iranian missile facilities threatening
+      the Strait of Hormuz. The post The U.S. Just Used New GBU-72 5,000-Pound Bomb
+      That Penetrates 100 Feet to Destroy Iran’s Missiles Aimed at Strait of Hormuz
+      appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Air Force's GBU-72 bunker-buster, a 5,000-pound bomb
+      capable of penetrating 100 feet of earth, effectively destroys Iranian missile
+      facilities threatening the Strait of Hormuz by collapsing them underground.
+    paragraph_summary: Former Pentagon expert Kris Osborn highlights the formidable
+      capabilities of the U.S. Air Force's GBU-72 bunker-buster bomb, which weighs 5,000
+      pounds and can penetrate 100 feet of earth before detonating. This bomb is designed
+      to effectively target and dismantle underground missile facilities in Iran that
+      pose a threat to the strategic Strait of Hormuz by trapping its explosive energy
+      underground and causing systematic collapses of these structures.
+    published: '2026-03-24T18:40:12+00:00'
+  - title: The U.S. Just Used New GBU-72 5,000-Pound Bomb That Penetrates 100 Feet to
+      Destroy Iran’s Missiles Aimed at Strait of Hormuz
+    url: https://www.19fortyfive.com/2026/03/the-u-s-just-used-new-gbu-72-5000-pound-bomb-that-penetrates-100-feet-to-destroy-irans-missiles-aimed-at-strait-of-hormuz/
+    text: Former Pentagon expert Kris Osborn details the devastating power of the U.S.
+      Air Force's GBU-72 bunker-buster. By plunging through 100 feet of earth before
+      detonating, this 5,000-pound precision bomb traps its explosive energy underground,
+      systematically collapsing the subterranean Iranian missile facilities threatening
+      the Strait of Hormuz. The post The U.S. Just Used New GBU-72 5,000-Pound Bomb
+      That Penetrates 100 Feet to Destroy Iran’s Missiles Aimed at Strait of Hormuz
+      appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Air Force's GBU-72 bunker-buster, a 5,000-pound bomb
+      capable of penetrating 100 feet of earth, effectively destroys Iranian missile
+      facilities threatening the Strait of Hormuz by collapsing them underground.
+    paragraph_summary: Former Pentagon expert Kris Osborn highlights the formidable
+      capabilities of the U.S. Air Force's GBU-72 bunker-buster bomb, which weighs 5,000
+      pounds and can penetrate 100 feet of earth before detonating. This bomb is designed
+      to effectively target and dismantle underground missile facilities in Iran that
+      pose a threat to the strategic Strait of Hormuz by trapping its explosive energy
+      underground and causing systematic collapses of these structures.
+    published: '2026-03-24T18:40:12+00:00'
+  - title: The U.S. Has Lost 20 Aircraft in the Iran War — 6 Killed in a Midair Collision,
+      3 Shot Down by Friendly Fire, and Only 1 Hit by Iran
+    url: https://www.19fortyfive.com/2026/03/the-u-s-has-lost-20-aircraft-in-the-iran-war-6-killed-in-a-midair-collision-3-shot-down-by-friendly-fire-and-only-1-hit-by-iran/
+    text: Former Army officer Dr. Brent M. Eastwood analyzes the startling aviation
+      losses in the Middle East. While 20 American aircraft have been damaged or destroyed,
+      only one was hit by Iranian fire, exposing the tragic reality of friendly fire
+      and mid-air collisions during high-tempo operations. The post The U.S. Has Lost
+      20 Aircraft in the Iran War — 6 Killed in a Midair Collision, 3 Shot Down by Friendly
+      Fire, and Only 1 Hit by Iran appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood highlights that out of 20 American aircraft
+      losses in the Middle East, only one was struck by Iranian fire, with the majority
+      resulting from friendly fire and mid-air collisions during intense operations.
+    paragraph_summary: In an analysis by former Army officer Dr. Brent M. Eastwood,
+      the significant aviation losses experienced by the U.S. in the Middle East are
+      highlighted, revealing that out of 20 damaged or destroyed American aircraft,
+      only one was struck by Iranian fire. The majority of these losses stemmed from
+      friendly fire incidents and mid-air collisions during intense operational activities,
+      with six aircraft lost in a midair collision and three shot down by friendly fire.
+      This situation underscores the tragic consequences of high-tempo military operations.
+    published: '2026-03-24T18:14:31+00:00'
+  - title: The U.S. Has Lost 20 Aircraft in the Iran War — 6 Killed in a Midair Collision,
+      3 Shot Down by Friendly Fire, and Only 1 Hit by Iran
+    url: https://www.19fortyfive.com/2026/03/the-u-s-has-lost-20-aircraft-in-the-iran-war-6-killed-in-a-midair-collision-3-shot-down-by-friendly-fire-and-only-1-hit-by-iran/
+    text: Former Army officer Dr. Brent M. Eastwood analyzes the startling aviation
+      losses in the Middle East. While 20 American aircraft have been damaged or destroyed,
+      only one was hit by Iranian fire, exposing the tragic reality of friendly fire
+      and mid-air collisions during high-tempo operations. The post The U.S. Has Lost
+      20 Aircraft in the Iran War — 6 Killed in a Midair Collision, 3 Shot Down by Friendly
+      Fire, and Only 1 Hit by Iran appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood highlights that out of 20 American aircraft
+      losses in the Middle East, only one was struck by Iranian fire, with the majority
+      resulting from friendly fire and mid-air collisions during intense operations.
+    paragraph_summary: In an analysis by former Army officer Dr. Brent M. Eastwood,
+      the significant aviation losses experienced by the U.S. in the Middle East are
+      highlighted, revealing that out of 20 damaged or destroyed American aircraft,
+      only one was struck by Iranian fire. The majority of these losses stemmed from
+      friendly fire incidents and mid-air collisions during intense operational activities,
+      with six aircraft lost in a midair collision and three shot down by friendly fire.
+      This situation underscores the tragic consequences of high-tempo military operations.
+    published: '2026-03-24T18:14:31+00:00'
+  - title: 8,000 Targets Hit, and Iran Still Won’t Open the Strait of Hormuz
+    url: https://www.19fortyfive.com/2026/03/8000-targets-hit-and-iran-still-wont-open-the-strait-of-hormuz/
+    text: Defense expert Dr. Brent M. Eastwood analyzes the strategic stalemate of Operation
+      Epic Fury. Despite suffering devastating military losses, Iran is weaponizing
+      the Strait of Hormuz with sea mines and fast-attack boats. By choking off the
+      global oil supply, Tehran aims to inflict severe economic pain and force a ceasefire.
+      The post 8,000 Targets Hit, and Iran Still Won’t Open the Strait of Hormuz appeared
+      first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood discusses how Iran, despite significant
+      military losses, is leveraging the Strait of Hormuz by deploying sea mines and
+      fast-attack boats to disrupt global oil supply and pressure for a ceasefire in
+      Operation Epic Fury.
+    paragraph_summary: In his analysis of Operation Epic Fury, defense expert Dr. Brent
+      M. Eastwood highlights the strategic stalemate faced by Iran, which, despite significant
+      military losses, is leveraging the Strait of Hormuz as a critical chokepoint by
+      deploying sea mines and fast-attack boats. This tactic aims to disrupt global
+      oil supplies, inflicting economic hardship on other nations and pressuring them
+      into a ceasefire. The situation remains tense, with Iran maintaining its grip
+      on the strait even after extensive military efforts to neutralize its capabilities.
+    published: '2026-03-24T17:58:36+00:00'
+  - title: 8,000 Targets Hit, and Iran Still Won’t Open the Strait of Hormuz
+    url: https://www.19fortyfive.com/2026/03/8000-targets-hit-and-iran-still-wont-open-the-strait-of-hormuz/
+    text: Defense expert Dr. Brent M. Eastwood analyzes the strategic stalemate of Operation
+      Epic Fury. Despite suffering devastating military losses, Iran is weaponizing
+      the Strait of Hormuz with sea mines and fast-attack boats. By choking off the
+      global oil supply, Tehran aims to inflict severe economic pain and force a ceasefire.
+      The post 8,000 Targets Hit, and Iran Still Won’t Open the Strait of Hormuz appeared
+      first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood discusses how Iran, despite significant
+      military losses, is leveraging the Strait of Hormuz by deploying sea mines and
+      fast-attack boats to disrupt global oil supply and pressure for a ceasefire in
+      Operation Epic Fury.
+    paragraph_summary: In his analysis of Operation Epic Fury, defense expert Dr. Brent
+      M. Eastwood highlights the strategic stalemate faced by Iran, which, despite significant
+      military losses, is leveraging the Strait of Hormuz as a critical chokepoint by
+      deploying sea mines and fast-attack boats. This tactic aims to disrupt global
+      oil supplies, inflicting economic hardship on other nations and pressuring them
+      into a ceasefire. The situation remains tense, with Iran maintaining its grip
+      on the strait even after extensive military efforts to neutralize its capabilities.
+    published: '2026-03-24T17:58:36+00:00'
+  - title: The U.S. Navy Has 11 Aircraft Carriers. Only 1 Is Fighting Iran Right Now
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-has-11-aircraft-carriers-only-1-is-fighting-iran-right-now/
+    text: Defense expert and former Air Force officer Christian D. Orr analyzes a critical
+      logistical gap in Operation Epic Fury. With the USS Gerald R. Ford sidelined by
+      a freak fire, discover why the U.S. Navy is relying on a single supercarrier to
+      execute its largest air campaign since 2003. The post The U.S. Navy Has 11 Aircraft
+      Carriers. Only 1 Is Fighting Iran Right Now appeared first on 19FortyFive .
+    one_sentence_summary: Defense expert Christian D. Orr highlights a significant logistical
+      challenge in Operation Epic Fury, as the U.S. Navy is forced to depend on a single
+      supercarrier for its largest air campaign since 2003 due to the USS Gerald R.
+      Ford being sidelined by a fire.
+    paragraph_summary: In his analysis, defense expert Christian D. Orr highlights a
+      significant logistical challenge faced by the U.S. Navy during Operation Epic
+      Fury, particularly due to the USS Gerald R. Ford being incapacitated by an unexpected
+      fire. As a result, the Navy is dependent on a single supercarrier to conduct its
+      largest air campaign since 2003 against Iran, despite having a total of 11 aircraft
+      carriers in its fleet. This reliance raises concerns about operational capacity
+      and effectiveness in a critical military engagement.
+    published: '2026-03-24T17:39:40+00:00'
+  - title: The U.S. Navy Has 11 Aircraft Carriers. Only 1 Is Fighting Iran Right Now
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-has-11-aircraft-carriers-only-1-is-fighting-iran-right-now/
+    text: Defense expert and former Air Force officer Christian D. Orr analyzes a critical
+      logistical gap in Operation Epic Fury. With the USS Gerald R. Ford sidelined by
+      a freak fire, discover why the U.S. Navy is relying on a single supercarrier to
+      execute its largest air campaign since 2003. The post The U.S. Navy Has 11 Aircraft
+      Carriers. Only 1 Is Fighting Iran Right Now appeared first on 19FortyFive .
+    one_sentence_summary: Defense expert Christian D. Orr highlights a significant logistical
+      challenge in Operation Epic Fury, as the U.S. Navy is forced to depend on a single
+      supercarrier for its largest air campaign since 2003 due to the USS Gerald R.
+      Ford being sidelined by a fire.
+    paragraph_summary: In his analysis, defense expert Christian D. Orr highlights a
+      significant logistical challenge faced by the U.S. Navy during Operation Epic
+      Fury, particularly due to the USS Gerald R. Ford being incapacitated by an unexpected
+      fire. As a result, the Navy is dependent on a single supercarrier to conduct its
+      largest air campaign since 2003 against Iran, despite having a total of 11 aircraft
+      carriers in its fleet. This reliance raises concerns about operational capacity
+      and effectiveness in a critical military engagement.
+    published: '2026-03-24T17:39:40+00:00'
+  - title: The Navy SEALs Have a Submarine That Costs More Than Most Countries’ Entire
+      Navy — and Nobody Knows What It Does
+    url: https://www.19fortyfive.com/2026/03/the-navy-seals-have-a-submarine-that-costs-more-than-most-countries-entire-navy-and-nobody-knows-what-it-does/
+    text: Defense columnist and former Special Forces Warrant Officer Steve Balestrieri
+      takes readers inside the USS Jimmy Carter. As the Navy's most expensive attack
+      submarine, this highly modified Seawolf-class vessel utilizes a 100-foot Multi-Mission
+      Platform and the new Dry Combat Submersible to deploy Navy SEALs on the world's
+      most classified espionage missions. The post The Navy SEALs Have a Submarine That
+      Costs More Than Most Countries’ Entire Navy — and Nobody Knows What It Does appeared
+      first on 19FortyFive .
+    one_sentence_summary: The USS Jimmy Carter, the Navy's most expensive attack submarine,
+      is a highly modified Seawolf-class vessel designed for covert operations, featuring
+      a 100-foot Multi-Mission Platform and a Dry Combat Submersible for deploying Navy
+      SEALs on classified missions.
+    paragraph_summary: In an article by defense columnist Steve Balestrieri, readers
+      are given an exclusive look at the USS Jimmy Carter, the Navy's most expensive
+      attack submarine, which is a modified Seawolf-class vessel. This advanced submarine
+      features a 100-foot Multi-Mission Platform and the innovative Dry Combat Submersible,
+      designed to deploy Navy SEALs for highly classified espionage missions around
+      the globe. The article highlights the submarine's significant capabilities and
+      the secrecy surrounding its operations, emphasizing its cost, which surpasses
+      the total naval budgets of many countries.
+    published: '2026-03-24T17:22:54+00:00'
+  - title: The Navy SEALs Have a Submarine That Costs More Than Most Countries’ Entire
+      Navy — and Nobody Knows What It Does
+    url: https://www.19fortyfive.com/2026/03/the-navy-seals-have-a-submarine-that-costs-more-than-most-countries-entire-navy-and-nobody-knows-what-it-does/
+    text: Defense columnist and former Special Forces Warrant Officer Steve Balestrieri
+      takes readers inside the USS Jimmy Carter. As the Navy's most expensive attack
+      submarine, this highly modified Seawolf-class vessel utilizes a 100-foot Multi-Mission
+      Platform and the new Dry Combat Submersible to deploy Navy SEALs on the world's
+      most classified espionage missions. The post The Navy SEALs Have a Submarine That
+      Costs More Than Most Countries’ Entire Navy — and Nobody Knows What It Does appeared
+      first on 19FortyFive .
+    one_sentence_summary: The USS Jimmy Carter, the Navy's most expensive attack submarine,
+      is a highly modified Seawolf-class vessel designed for covert operations, featuring
+      a 100-foot Multi-Mission Platform and a Dry Combat Submersible for deploying Navy
+      SEALs on classified missions.
+    paragraph_summary: In an article by defense columnist Steve Balestrieri, readers
+      are given an exclusive look at the USS Jimmy Carter, the Navy's most expensive
+      attack submarine, which is a modified Seawolf-class vessel. This advanced submarine
+      features a 100-foot Multi-Mission Platform and the innovative Dry Combat Submersible,
+      designed to deploy Navy SEALs for highly classified espionage missions around
+      the globe. The article highlights the submarine's significant capabilities and
+      the secrecy surrounding its operations, emphasizing its cost, which surpasses
+      the total naval budgets of many countries.
+    published: '2026-03-24T17:22:54+00:00'
+  - title: The U.S. Navy Cancelled the Montana-Class Battleship When Aircraft Carriers
+      Made It Obsolete — A Professor Says Missiles Are Now Doing the Same Thing to Supercarriers
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-cancelled-the-montana-class-battleship-when-aircraft-carriers-made-it-obsolete-a-professor-says-missiles-are-now-doing-the-same-thing-to-supercarriers/
+    text: International relations professor Dr. Andrew Latham examines the legacy of
+      the canceled Montana-class battleship. Scrapped in 1943 when it no longer fit
+      the realities of war, the Montana serves as a crucial warning today. As advanced
+      missiles threaten surface fleets, the U.S. Navy faces another critical turning
+      point. The post The U.S. Navy Cancelled the Montana-Class Battleship When Aircraft
+      Carriers Made It Obsolete — A Professor Says Missiles Are Now Doing the Same Thing
+      to Supercarriers appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Andrew Latham highlights the historical lesson of the
+      canceled Montana-class battleship, suggesting that just as it became obsolete
+      due to the rise of aircraft carriers, the U.S. Navy's supercarriers now face similar
+      threats from advanced missile technology.
+    paragraph_summary: In his analysis, Dr. Andrew Latham, an international relations
+      professor, reflects on the historical significance of the canceled Montana-class
+      battleship, which was scrapped in 1943 as it became obsolete due to the rise of
+      aircraft carriers. He draws parallels to the current state of the U.S. Navy, suggesting
+      that advanced missile technology poses a similar threat to supercarriers today,
+      marking a critical juncture for naval warfare strategy. Latham's insights highlight
+      the need for the Navy to adapt to evolving military technologies, just as it did
+      in the past.
+    published: '2026-03-24T16:19:34+00:00'
+  - title: The U.S. Navy Cancelled the Montana-Class Battleship When Aircraft Carriers
+      Made It Obsolete — A Professor Says Missiles Are Now Doing the Same Thing to Supercarriers
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-cancelled-the-montana-class-battleship-when-aircraft-carriers-made-it-obsolete-a-professor-says-missiles-are-now-doing-the-same-thing-to-supercarriers/
+    text: International relations professor Dr. Andrew Latham examines the legacy of
+      the canceled Montana-class battleship. Scrapped in 1943 when it no longer fit
+      the realities of war, the Montana serves as a crucial warning today. As advanced
+      missiles threaten surface fleets, the U.S. Navy faces another critical turning
+      point. The post The U.S. Navy Cancelled the Montana-Class Battleship When Aircraft
+      Carriers Made It Obsolete — A Professor Says Missiles Are Now Doing the Same Thing
+      to Supercarriers appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Andrew Latham highlights the historical lesson of the
+      canceled Montana-class battleship, suggesting that just as it became obsolete
+      due to the rise of aircraft carriers, the U.S. Navy's supercarriers now face similar
+      threats from advanced missile technology.
+    paragraph_summary: In his analysis, Dr. Andrew Latham, an international relations
+      professor, reflects on the historical significance of the canceled Montana-class
+      battleship, which was scrapped in 1943 as it became obsolete due to the rise of
+      aircraft carriers. He draws parallels to the current state of the U.S. Navy, suggesting
+      that advanced missile technology poses a similar threat to supercarriers today,
+      marking a critical juncture for naval warfare strategy. Latham's insights highlight
+      the need for the Navy to adapt to evolving military technologies, just as it did
+      in the past.
+    published: '2026-03-24T16:19:34+00:00'
+  - title: A $20,000,000,000 U.S. Navy Aircraft Carrier Strike Group Was ‘Sunk’ by a
+      $500,000,000 Dutch Submarine
+    url: https://www.19fortyfive.com/2026/03/a-20000000000-u-s-navy-aircraft-carrier-strike-group-was-sunk-by-a-500000000-dutch-submarine/
+    text: Former U.S. Air Force pilot selectee and national security attorney Harrison
+      Kass reveals a terrifying naval vulnerability. Uncover how ultra-quiet diesel-electric
+      submarines from the Netherlands and Sweden managed to slip past billion-dollar
+      defense networks and "sink" American supercarriers, permanently altering the future
+      of anti-submarine warfare. The post A $20,000,000,000 U.S. Navy Aircraft Carrier
+      Strike Group Was ‘Sunk’ by a $500,000,000 Dutch Submarine appeared first on 19FortyFive
+      .
+    one_sentence_summary: Harrison Kass highlights a significant naval vulnerability,
+      revealing how stealthy diesel-electric submarines from the Netherlands and Sweden
+      successfully evaded advanced U.S. defense systems to "sink" American supercarriers,
+      reshaping the landscape of anti-submarine warfare.
+    paragraph_summary: In a revealing article, former U.S. Air Force pilot and national
+      security attorney Harrison Kass highlights a significant vulnerability in U.S.
+      naval defenses, demonstrating how ultra-quiet diesel-electric submarines from
+      the Netherlands and Sweden successfully evaded advanced billion-dollar defense
+      systems to "sink" American supercarriers. This incident underscores a critical
+      shift in anti-submarine warfare dynamics, showcasing the effectiveness of these
+      relatively low-cost submarines against high-value naval assets, and raises concerns
+      about the future of U.S. naval strategy.
+    published: '2026-03-24T15:51:58+00:00'
+  - title: A $20,000,000,000 U.S. Navy Aircraft Carrier Strike Group Was ‘Sunk’ by a
+      $500,000,000 Dutch Submarine
+    url: https://www.19fortyfive.com/2026/03/a-20000000000-u-s-navy-aircraft-carrier-strike-group-was-sunk-by-a-500000000-dutch-submarine/
+    text: Former U.S. Air Force pilot selectee and national security attorney Harrison
+      Kass reveals a terrifying naval vulnerability. Uncover how ultra-quiet diesel-electric
+      submarines from the Netherlands and Sweden managed to slip past billion-dollar
+      defense networks and "sink" American supercarriers, permanently altering the future
+      of anti-submarine warfare. The post A $20,000,000,000 U.S. Navy Aircraft Carrier
+      Strike Group Was ‘Sunk’ by a $500,000,000 Dutch Submarine appeared first on 19FortyFive
+      .
+    one_sentence_summary: Harrison Kass highlights a significant naval vulnerability,
+      revealing how stealthy diesel-electric submarines from the Netherlands and Sweden
+      successfully evaded advanced U.S. defense systems to "sink" American supercarriers,
+      reshaping the landscape of anti-submarine warfare.
+    paragraph_summary: In a revealing article, former U.S. Air Force pilot and national
+      security attorney Harrison Kass highlights a significant vulnerability in U.S.
+      naval defenses, demonstrating how ultra-quiet diesel-electric submarines from
+      the Netherlands and Sweden successfully evaded advanced billion-dollar defense
+      systems to "sink" American supercarriers. This incident underscores a critical
+      shift in anti-submarine warfare dynamics, showcasing the effectiveness of these
+      relatively low-cost submarines against high-value naval assets, and raises concerns
+      about the future of U.S. naval strategy.
+    published: '2026-03-24T15:51:58+00:00'
+  - title: The M1 Abrams Has Fought in 5 Wars. It Has Never Been Destroyed by Another
+      Tank
+    url: https://www.19fortyfive.com/2026/03/the-m1-abrams-has-fought-in-5-wars-it-has-never-been-destroyed-by-another-tank/
+    text: Former intelligence analyst Isaac Seitz examines the legendary M1 Abrams.
+      From its dominant debut in Desert Storm to navigating the drone-filled skies of
+      Ukraine, discover how advanced armor and crew-centric engineering have kept America's
+      premier main battle tank relevant—and its crews safe—for over forty years. The
+      post The M1 Abrams Has Fought in 5 Wars. It Has Never Been Destroyed by Another
+      Tank appeared first on 19FortyFive .
+    one_sentence_summary: Former intelligence analyst Isaac Seitz explores the enduring
+      relevance and safety of the M1 Abrams tank, highlighting its performance in five
+      wars since its introduction, including its resilience against destruction by other
+      tanks.
+    paragraph_summary: Former intelligence analyst Isaac Seitz explores the enduring
+      legacy of the M1 Abrams tank, highlighting its impressive performance since its
+      introduction during Desert Storm and its continued relevance in modern warfare,
+      including the drone-dominated battlefield of Ukraine. The article emphasizes the
+      advanced armor and crew-centric design that have contributed to the tank's longevity
+      and effectiveness, noting that despite participating in five wars, the M1 Abrams
+      has never been destroyed by another tank.
+    published: '2026-03-24T15:31:49+00:00'
+  - title: The M1 Abrams Has Fought in 5 Wars. It Has Never Been Destroyed by Another
+      Tank
+    url: https://www.19fortyfive.com/2026/03/the-m1-abrams-has-fought-in-5-wars-it-has-never-been-destroyed-by-another-tank/
+    text: Former intelligence analyst Isaac Seitz examines the legendary M1 Abrams.
+      From its dominant debut in Desert Storm to navigating the drone-filled skies of
+      Ukraine, discover how advanced armor and crew-centric engineering have kept America's
+      premier main battle tank relevant—and its crews safe—for over forty years. The
+      post The M1 Abrams Has Fought in 5 Wars. It Has Never Been Destroyed by Another
+      Tank appeared first on 19FortyFive .
+    one_sentence_summary: Former intelligence analyst Isaac Seitz explores the enduring
+      relevance and safety of the M1 Abrams tank, highlighting its performance in five
+      wars since its introduction, including its resilience against destruction by other
+      tanks.
+    paragraph_summary: Former intelligence analyst Isaac Seitz explores the enduring
+      legacy of the M1 Abrams tank, highlighting its impressive performance since its
+      introduction during Desert Storm and its continued relevance in modern warfare,
+      including the drone-dominated battlefield of Ukraine. The article emphasizes the
+      advanced armor and crew-centric design that have contributed to the tank's longevity
+      and effectiveness, noting that despite participating in five wars, the M1 Abrams
+      has never been destroyed by another tank.
+    published: '2026-03-24T15:31:49+00:00'
+  - title: 'Back from Purgatory: How the Iran War Could Save the U.S. Navy’s Littoral
+      Combat Ship'
+    url: https://www.19fortyfive.com/2026/03/back-from-purgatory-how-the-iran-war-could-save-the-u-s-navys-littoral-combat-ship/
+    text: 'Former Pentagon expert Kris Osborn examines the surprising redemption of
+      the Littoral Combat Ship. Once criticized for its lack of blue-water survivability,
+      the LCS is now deploying advanced laser detection systems and undersea drones
+      to hunt and destroy Iranian sea mines in the shallow waters of the Strait of Hormuz.
+      The post Back from Purgatory: How the Iran War Could Save the U.S. Navy’s Littoral
+      Combat Ship appeared first on 19FortyFive .'
+    one_sentence_summary: Kris Osborn discusses the unexpected revival of the Littoral
+      Combat Ship, which, once criticized for its vulnerabilities, is now effectively
+      utilizing advanced technologies to combat Iranian sea mines in the Strait of Hormuz.
+    paragraph_summary: Former Pentagon expert Kris Osborn discusses the unexpected resurgence
+      of the Littoral Combat Ship (LCS), which had previously faced criticism for its
+      limited blue-water capabilities. The LCS is now equipped with advanced laser detection
+      systems and undersea drones, enabling it to effectively locate and neutralize
+      Iranian sea mines in the shallow waters of the Strait of Hormuz. This transformation
+      highlights the potential for the LCS to play a crucial role in naval operations
+      amid rising tensions in the region.
+    published: '2026-03-24T15:13:57+00:00'
+  - title: 'Back from Purgatory: How the Iran War Could Save the U.S. Navy’s Littoral
+      Combat Ship'
+    url: https://www.19fortyfive.com/2026/03/back-from-purgatory-how-the-iran-war-could-save-the-u-s-navys-littoral-combat-ship/
+    text: 'Former Pentagon expert Kris Osborn examines the surprising redemption of
+      the Littoral Combat Ship. Once criticized for its lack of blue-water survivability,
+      the LCS is now deploying advanced laser detection systems and undersea drones
+      to hunt and destroy Iranian sea mines in the shallow waters of the Strait of Hormuz.
+      The post Back from Purgatory: How the Iran War Could Save the U.S. Navy’s Littoral
+      Combat Ship appeared first on 19FortyFive .'
+    one_sentence_summary: Kris Osborn discusses the unexpected revival of the Littoral
+      Combat Ship, which, once criticized for its vulnerabilities, is now effectively
+      utilizing advanced technologies to combat Iranian sea mines in the Strait of Hormuz.
+    paragraph_summary: Former Pentagon expert Kris Osborn discusses the unexpected resurgence
+      of the Littoral Combat Ship (LCS), which had previously faced criticism for its
+      limited blue-water capabilities. The LCS is now equipped with advanced laser detection
+      systems and undersea drones, enabling it to effectively locate and neutralize
+      Iranian sea mines in the shallow waters of the Strait of Hormuz. This transformation
+      highlights the potential for the LCS to play a crucial role in naval operations
+      amid rising tensions in the region.
+    published: '2026-03-24T15:13:57+00:00'
+  - title: '$200,000,000,000: Operation Epic Fury Could Now Cost More Than Every Weapon
+      Iran Has Ever Owned'
+    url: https://www.19fortyfive.com/2026/03/200000000000-operation-epic-fury-could-now-cost-more-than-every-weapon-iran-has-ever-owned/
+    text: 'Defense expert Dr. Brent M. Eastwood analyzes the Pentagon''s staggering
+      $200 billion funding request for Operation Epic Fury. Highlighting the extreme
+      costs of modern "kinetic missile" warfare, Eastwood reveals that the U.S. is poised
+      to spend significantly more on the conflict than the entire estimated value of
+      Iran''s armed forces. The post $200,000,000,000: Operation Epic Fury Could Now
+      Cost More Than Every Weapon Iran Has Ever Owned appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Dr. Brent M. Eastwood examines the Pentagon's $200 billion
+      funding request for Operation Epic Fury, emphasizing that this expenditure on
+      modern missile warfare could surpass the total estimated value of Iran's military
+      assets.
+    paragraph_summary: In his analysis of the Pentagon's $200 billion funding request
+      for Operation Epic Fury, defense expert Dr. Brent M. Eastwood emphasizes the exorbitant
+      costs associated with modern "kinetic missile" warfare. He points out that this
+      funding could surpass the total estimated value of Iran's entire military arsenal,
+      indicating that the U.S. is prepared to invest significantly more in this conflict
+      than what Iran has ever possessed in weaponry.
+    published: '2026-03-24T14:44:24+00:00'
+  - title: '$200,000,000,000: Operation Epic Fury Could Now Cost More Than Every Weapon
+      Iran Has Ever Owned'
+    url: https://www.19fortyfive.com/2026/03/200000000000-operation-epic-fury-could-now-cost-more-than-every-weapon-iran-has-ever-owned/
+    text: 'Defense expert Dr. Brent M. Eastwood analyzes the Pentagon''s staggering
+      $200 billion funding request for Operation Epic Fury. Highlighting the extreme
+      costs of modern "kinetic missile" warfare, Eastwood reveals that the U.S. is poised
+      to spend significantly more on the conflict than the entire estimated value of
+      Iran''s armed forces. The post $200,000,000,000: Operation Epic Fury Could Now
+      Cost More Than Every Weapon Iran Has Ever Owned appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Dr. Brent M. Eastwood examines the Pentagon's $200 billion
+      funding request for Operation Epic Fury, emphasizing that this expenditure on
+      modern missile warfare could surpass the total estimated value of Iran's military
+      assets.
+    paragraph_summary: In his analysis of the Pentagon's $200 billion funding request
+      for Operation Epic Fury, defense expert Dr. Brent M. Eastwood emphasizes the exorbitant
+      costs associated with modern "kinetic missile" warfare. He points out that this
+      funding could surpass the total estimated value of Iran's entire military arsenal,
+      indicating that the U.S. is prepared to invest significantly more in this conflict
+      than what Iran has ever possessed in weaponry.
+    published: '2026-03-24T14:44:24+00:00'
+  - title: Spain Took 5,831 Days to Launch Its New S-80 Plus-Class Submarine — Its Navy
+      Has Been Running on Two Boats Built in the 1980s Ever Since
+    url: https://www.19fortyfive.com/2026/03/spain-took-5831-days-to-launch-its-new-s-80-plus-class-submarine-its-navy-has-been-running-on-two-boats-built-in-the-1980s-ever-since/
+    text: 'Summary and Key Points: Defense expert Christian D. Orr examines Spain’s
+      quiet resurgence in naval manufacturing amidst deepening geopolitical rifts with
+      Washington. While tensions over NATO spending and base access dominate the headlines,
+      the Spanish Navy is actively upgrading its aging fleet with the highly anticipated
+      S-80 Plus-class (Isaac Peral-class) submarines. -Armed with heavy torpedoes […]
+      The post Spain Took 5,831 Days to Launch Its New S-80 Plus-Class Submarine — Its
+      Navy Has Been Running on Two Boats Built in the 1980s Ever Since appeared first
+      on 19FortyFive .'
+    one_sentence_summary: Defense expert Christian D. Orr highlights Spain's resurgence
+      in naval manufacturing as it upgrades its aging fleet with the new S-80 Plus-class
+      submarines amid growing geopolitical tensions with Washington.
+    paragraph_summary: Defense expert Christian D. Orr highlights Spain's notable revival
+      in naval manufacturing, particularly in light of escalating geopolitical tensions
+      with Washington. While discussions around NATO spending and base access capture
+      media attention, the Spanish Navy is focused on modernizing its fleet, notably
+      with the introduction of the S-80 Plus-class submarines, which have been long-awaited.
+      Despite the challenges, the Spanish Navy has been operating with only two submarines
+      from the 1980s, emphasizing the urgency of this upgrade.
+    published: '2026-03-24T14:22:26+00:00'
+  - title: Spain Took 5,831 Days to Launch Its New S-80 Plus-Class Submarine — Its Navy
+      Has Been Running on Two Boats Built in the 1980s Ever Since
+    url: https://www.19fortyfive.com/2026/03/spain-took-5831-days-to-launch-its-new-s-80-plus-class-submarine-its-navy-has-been-running-on-two-boats-built-in-the-1980s-ever-since/
+    text: 'Summary and Key Points: Defense expert Christian D. Orr examines Spain’s
+      quiet resurgence in naval manufacturing amidst deepening geopolitical rifts with
+      Washington. While tensions over NATO spending and base access dominate the headlines,
+      the Spanish Navy is actively upgrading its aging fleet with the highly anticipated
+      S-80 Plus-class (Isaac Peral-class) submarines. -Armed with heavy torpedoes […]
+      The post Spain Took 5,831 Days to Launch Its New S-80 Plus-Class Submarine — Its
+      Navy Has Been Running on Two Boats Built in the 1980s Ever Since appeared first
+      on 19FortyFive .'
+    one_sentence_summary: Defense expert Christian D. Orr highlights Spain's resurgence
+      in naval manufacturing as it upgrades its aging fleet with the new S-80 Plus-class
+      submarines amid growing geopolitical tensions with Washington.
+    paragraph_summary: Defense expert Christian D. Orr highlights Spain's notable revival
+      in naval manufacturing, particularly in light of escalating geopolitical tensions
+      with Washington. While discussions around NATO spending and base access capture
+      media attention, the Spanish Navy is focused on modernizing its fleet, notably
+      with the introduction of the S-80 Plus-class submarines, which have been long-awaited.
+      Despite the challenges, the Spanish Navy has been operating with only two submarines
+      from the 1980s, emphasizing the urgency of this upgrade.
+    published: '2026-03-24T14:22:26+00:00'
+  - title: The U.S. Military Fired 400 Tomahawk Missiles at Iran in 72 Hours — RTX Can
+      Only Build 1,000 a Year and China Is Doing the Math on What’s Left
+    url: https://www.19fortyfive.com/2026/03/the-u-s-military-fired-400-tomahawk-missiles-at-iran-in-72-hours-rtx-can-only-build-1000-a-year-and-china-is-doing-the-math-on-whats-left/
+    text: Defense expert Dr. Brent M. Eastwood breaks down a critical vulnerability
+      facing the U.S. military. As the war in Iran rapidly drains American Tomahawk
+      missile stockpiles and severe maintenance issues sideline key aircraft carriers,
+      China is watching closely to gauge the limits of America's ability to fight a
+      two-front war. The post The U.S. Military Fired 400 Tomahawk Missiles at Iran
+      in 72 Hours — RTX Can Only Build 1,000 a Year and China Is Doing the Math on What’s
+      Left appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood highlights a significant vulnerability
+      in the U.S. military as the rapid depletion of Tomahawk missile stockpiles and
+      maintenance issues with aircraft carriers amid the Iran conflict raise concerns
+      about America's capacity to engage in a two-front war, which China is closely
+      monitoring.
+    paragraph_summary: In a recent analysis, defense expert Dr. Brent M. Eastwood highlights
+      a significant vulnerability in the U.S. military as the ongoing conflict in Iran
+      depletes American Tomahawk missile stockpiles, with 400 missiles fired within
+      just 72 hours. Compounding this issue are severe maintenance problems affecting
+      key aircraft carriers, raising concerns about the U.S. military's capacity to
+      engage in a two-front war. With missile production limited to 1,000 units per
+      year by RTX, China is closely monitoring the situation to assess the implications
+      for U.S. military readiness and strategy.
+    published: '2026-03-24T13:29:39+00:00'
+  - title: The U.S. Military Fired 400 Tomahawk Missiles at Iran in 72 Hours — RTX Can
+      Only Build 1,000 a Year and China Is Doing the Math on What’s Left
+    url: https://www.19fortyfive.com/2026/03/the-u-s-military-fired-400-tomahawk-missiles-at-iran-in-72-hours-rtx-can-only-build-1000-a-year-and-china-is-doing-the-math-on-whats-left/
+    text: Defense expert Dr. Brent M. Eastwood breaks down a critical vulnerability
+      facing the U.S. military. As the war in Iran rapidly drains American Tomahawk
+      missile stockpiles and severe maintenance issues sideline key aircraft carriers,
+      China is watching closely to gauge the limits of America's ability to fight a
+      two-front war. The post The U.S. Military Fired 400 Tomahawk Missiles at Iran
+      in 72 Hours — RTX Can Only Build 1,000 a Year and China Is Doing the Math on What’s
+      Left appeared first on 19FortyFive .
+    one_sentence_summary: Dr. Brent M. Eastwood highlights a significant vulnerability
+      in the U.S. military as the rapid depletion of Tomahawk missile stockpiles and
+      maintenance issues with aircraft carriers amid the Iran conflict raise concerns
+      about America's capacity to engage in a two-front war, which China is closely
+      monitoring.
+    paragraph_summary: In a recent analysis, defense expert Dr. Brent M. Eastwood highlights
+      a significant vulnerability in the U.S. military as the ongoing conflict in Iran
+      depletes American Tomahawk missile stockpiles, with 400 missiles fired within
+      just 72 hours. Compounding this issue are severe maintenance problems affecting
+      key aircraft carriers, raising concerns about the U.S. military's capacity to
+      engage in a two-front war. With missile production limited to 1,000 units per
+      year by RTX, China is closely monitoring the situation to assess the implications
+      for U.S. military readiness and strategy.
+    published: '2026-03-24T13:29:39+00:00'
+  - title: 'The US Navy’s Most Embarrassing Secret: A $2 Billion Submarine Is Stuck
+      in Dry Dock and Can’t Go to Sea'
+    url: https://www.19fortyfive.com/2026/03/the-us-navys-most-embarrassing-secret-a-2-billion-submarine-is-stuck-in-dry-dock-and-cant-go-to-sea/
+    text: 'Former Special Forces Warrant Officer Steve Balestrieri analyzes the U.S.
+      Navy''s maintenance crisis. Following a 2021 collision, the $3 billion USS Connecticut
+      remains stuck in dry dock due to a lack of Seawolf-class spare parts, exposing
+      severe vulnerabilities in America''s naval shipbuilding and repair infrastructure.
+      The post The US Navy’s Most Embarrassing Secret: A $2 Billion Submarine Is Stuck
+      in Dry Dock and Can’t Go to Sea appeared first on 19FortyFive .'
+    one_sentence_summary: Former Special Forces Warrant Officer Steve Balestrieri highlights
+      the U.S. Navy's maintenance crisis, exemplified by the $3 billion USS Connecticut
+      being stuck in dry dock due to a shortage of Seawolf-class spare parts, which
+      reveals significant weaknesses in the nation's naval shipbuilding and repair capabilities.
+    paragraph_summary: Former Special Forces Warrant Officer Steve Balestrieri examines
+      the U.S. Navy's ongoing maintenance crisis, highlighted by the USS Connecticut,
+      a $3 billion submarine that remains in dry dock since a 2021 collision due to
+      a shortage of Seawolf-class spare parts. This situation underscores significant
+      weaknesses in the U.S. naval shipbuilding and repair infrastructure, revealing
+      vulnerabilities that could impact naval readiness and operational capabilities.
+    published: '2026-03-24T12:38:58+00:00'
+  - title: 'The US Navy’s Most Embarrassing Secret: A $2 Billion Submarine Is Stuck
+      in Dry Dock and Can’t Go to Sea'
+    url: https://www.19fortyfive.com/2026/03/the-us-navys-most-embarrassing-secret-a-2-billion-submarine-is-stuck-in-dry-dock-and-cant-go-to-sea/
+    text: 'Former Special Forces Warrant Officer Steve Balestrieri analyzes the U.S.
+      Navy''s maintenance crisis. Following a 2021 collision, the $3 billion USS Connecticut
+      remains stuck in dry dock due to a lack of Seawolf-class spare parts, exposing
+      severe vulnerabilities in America''s naval shipbuilding and repair infrastructure.
+      The post The US Navy’s Most Embarrassing Secret: A $2 Billion Submarine Is Stuck
+      in Dry Dock and Can’t Go to Sea appeared first on 19FortyFive .'
+    one_sentence_summary: Former Special Forces Warrant Officer Steve Balestrieri highlights
+      the U.S. Navy's maintenance crisis, exemplified by the $3 billion USS Connecticut
+      being stuck in dry dock due to a shortage of Seawolf-class spare parts, which
+      reveals significant weaknesses in the nation's naval shipbuilding and repair capabilities.
+    paragraph_summary: Former Special Forces Warrant Officer Steve Balestrieri examines
+      the U.S. Navy's ongoing maintenance crisis, highlighted by the USS Connecticut,
+      a $3 billion submarine that remains in dry dock since a 2021 collision due to
+      a shortage of Seawolf-class spare parts. This situation underscores significant
+      weaknesses in the U.S. naval shipbuilding and repair infrastructure, revealing
+      vulnerabilities that could impact naval readiness and operational capabilities.
+    published: '2026-03-24T12:38:58+00:00'
+  - title: 'The F-47 NGAD Fighter Has 1 Problem Nobody Is Talking About: There’s No
+      Pilot Who Has Ever Flown It'
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-fighter-has-1-problem-nobody-is-talking-about-theres-no-pilot-who-has-ever-flown-it/
+    text: 'Defense columnist and former Special Forces Warrant Officer Steve Balestrieri
+      analyzes the U.S. Air Force’s race to field the F-47 stealth fighter. Transforming
+      pilots into drone-swarm commanders using an AI-enhanced cockpit and tailless design
+      presents a massive challenge: writing the training manual for an aircraft no one
+      has flown. The post The F-47 NGAD Fighter Has 1 Problem Nobody Is Talking About:
+      There’s No Pilot Who Has Ever Flown It appeared first on 19FortyFive .'
+    one_sentence_summary: Steve Balestrieri discusses the challenges faced by the U.S.
+      Air Force in training pilots for the F-47 stealth fighter, which features an AI-enhanced
+      cockpit and tailless design, highlighting the difficulty of creating a training
+      manual for an aircraft that has yet to be flown.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri discusses
+      the challenges facing the U.S. Air Force as it races to develop the F-47 stealth
+      fighter, particularly the need to train pilots to operate this advanced aircraft,
+      which features an AI-enhanced cockpit and a tailless design. A significant hurdle
+      is the absence of any pilot who has flown the F-47, complicating the creation
+      of a training manual for a platform that remains untested in the air. This situation
+      underscores the complexities involved in transitioning pilots into drone-swarm
+      commanders for the next generation of air combat.
+    published: '2026-03-24T11:36:36+00:00'
+  - title: 'The F-47 NGAD Fighter Has 1 Problem Nobody Is Talking About: There’s No
+      Pilot Who Has Ever Flown It'
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-fighter-has-1-problem-nobody-is-talking-about-theres-no-pilot-who-has-ever-flown-it/
+    text: 'Defense columnist and former Special Forces Warrant Officer Steve Balestrieri
+      analyzes the U.S. Air Force’s race to field the F-47 stealth fighter. Transforming
+      pilots into drone-swarm commanders using an AI-enhanced cockpit and tailless design
+      presents a massive challenge: writing the training manual for an aircraft no one
+      has flown. The post The F-47 NGAD Fighter Has 1 Problem Nobody Is Talking About:
+      There’s No Pilot Who Has Ever Flown It appeared first on 19FortyFive .'
+    one_sentence_summary: Steve Balestrieri discusses the challenges faced by the U.S.
+      Air Force in training pilots for the F-47 stealth fighter, which features an AI-enhanced
+      cockpit and tailless design, highlighting the difficulty of creating a training
+      manual for an aircraft that has yet to be flown.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri discusses
+      the challenges facing the U.S. Air Force as it races to develop the F-47 stealth
+      fighter, particularly the need to train pilots to operate this advanced aircraft,
+      which features an AI-enhanced cockpit and a tailless design. A significant hurdle
+      is the absence of any pilot who has flown the F-47, complicating the creation
+      of a training manual for a platform that remains untested in the air. This situation
+      underscores the complexities involved in transitioning pilots into drone-swarm
+      commanders for the next generation of air combat.
+    published: '2026-03-24T11:36:36+00:00'
+  - title: Australia Isn’t Cancelling Its F-35s — It’s Spending Big Money on Missiles
+      Instead of Buying 28 More Jets and Here Is Why
+    url: https://www.19fortyfive.com/2026/03/australia-isnt-cancelling-its-f-35s-its-spending-big-money-on-missiles-instead-of-buying-28-more-jets-and-here-is-why/
+    text: Despite recent headlines, Australia isn't abandoning the F-35. Journalist
+      Georgia Gilholy breaks down Canberra's strategic pivot to pause a 28-jet order,
+      opting instead to keep its Super Hornets and Growlers flying while investing A$2.12
+      billion into advanced long-range missiles to deepen its combat magazine in the
+      Indo-Pacific. The post Australia Isn’t Cancelling Its F-35s — It’s Spending Big
+      Money on Missiles Instead of Buying 28 More Jets and Here Is Why appeared first
+      on 19FortyFive .
+    one_sentence_summary: Australia is not canceling its F-35 order but is instead pausing
+      the purchase of 28 jets to focus on maintaining its Super Hornets and Growlers
+      while investing A$2.12 billion in advanced long-range missiles to enhance its
+      military capabilities in the Indo-Pacific.
+    paragraph_summary: Australia is not canceling its F-35 program but is instead pausing
+      an order for 28 additional jets to focus on enhancing its military capabilities
+      in the Indo-Pacific region. Journalist Georgia Gilholy explains that the Australian
+      government plans to maintain its existing fleet of Super Hornets and Growlers
+      while investing A$2.12 billion in advanced long-range missiles. This strategic
+      pivot aims to strengthen Australia's combat readiness and operational reach rather
+      than expanding its fighter jet inventory at this time.
+    published: '2026-03-24T01:00:14+00:00'
+  - title: Australia Isn’t Cancelling Its F-35s — It’s Spending Big Money on Missiles
+      Instead of Buying 28 More Jets and Here Is Why
+    url: https://www.19fortyfive.com/2026/03/australia-isnt-cancelling-its-f-35s-its-spending-big-money-on-missiles-instead-of-buying-28-more-jets-and-here-is-why/
+    text: Despite recent headlines, Australia isn't abandoning the F-35. Journalist
+      Georgia Gilholy breaks down Canberra's strategic pivot to pause a 28-jet order,
+      opting instead to keep its Super Hornets and Growlers flying while investing A$2.12
+      billion into advanced long-range missiles to deepen its combat magazine in the
+      Indo-Pacific. The post Australia Isn’t Cancelling Its F-35s — It’s Spending Big
+      Money on Missiles Instead of Buying 28 More Jets and Here Is Why appeared first
+      on 19FortyFive .
+    one_sentence_summary: Australia is not canceling its F-35 order but is instead pausing
+      the purchase of 28 jets to focus on maintaining its Super Hornets and Growlers
+      while investing A$2.12 billion in advanced long-range missiles to enhance its
+      military capabilities in the Indo-Pacific.
+    paragraph_summary: Australia is not canceling its F-35 program but is instead pausing
+      an order for 28 additional jets to focus on enhancing its military capabilities
+      in the Indo-Pacific region. Journalist Georgia Gilholy explains that the Australian
+      government plans to maintain its existing fleet of Super Hornets and Growlers
+      while investing A$2.12 billion in advanced long-range missiles. This strategic
+      pivot aims to strengthen Australia's combat readiness and operational reach rather
+      than expanding its fighter jet inventory at this time.
+    published: '2026-03-24T01:00:14+00:00'
+  - title: The AH-64 Apache Scored 13 Drone Kills in 14 Shots Last November — Now It’s
+      Destroying Iranian Drones Over the Strait of Hormuz for Real
+    url: https://www.19fortyfive.com/2026/03/the-ah-64-apache-scored-13-drone-kills-in-14-shots-last-november-now-its-destroying-iranian-drones-over-the-strait-of-hormuz-for-real/
+    text: The AH-64 Apache has returned to the front lines with a completely new mission.
+      Deployed to counter Iranian aggression in the Strait of Hormuz, the legendary
+      Cold War tank killer is now using its 30-mm chain gun and advanced missiles to
+      intercept deadly Shahed drones and fast-attack boats. The post The AH-64 Apache
+      Scored 13 Drone Kills in 14 Shots Last November — Now It’s Destroying Iranian
+      Drones Over the Strait of Hormuz for Real appeared first on 19FortyFive .
+    one_sentence_summary: The AH-64 Apache has been redeployed to the Strait of Hormuz
+      to counter Iranian threats, successfully targeting drones and fast-attack boats
+      with its advanced weaponry.
+    paragraph_summary: The AH-64 Apache helicopter has been redeployed to the Strait
+      of Hormuz to address Iranian threats, shifting from its traditional role as a
+      tank destroyer to intercepting drones and fast-attack boats. Equipped with a 30-mm
+      chain gun and advanced missile systems, the Apache has demonstrated its effectiveness
+      by scoring 13 drone kills in 14 shots last November, and it continues to play
+      a crucial role in neutralizing Iranian drones in the region.
+    published: '2026-03-23T23:41:26+00:00'
+  - title: The AH-64 Apache Scored 13 Drone Kills in 14 Shots Last November — Now It’s
+      Destroying Iranian Drones Over the Strait of Hormuz for Real
+    url: https://www.19fortyfive.com/2026/03/the-ah-64-apache-scored-13-drone-kills-in-14-shots-last-november-now-its-destroying-iranian-drones-over-the-strait-of-hormuz-for-real/
+    text: The AH-64 Apache has returned to the front lines with a completely new mission.
+      Deployed to counter Iranian aggression in the Strait of Hormuz, the legendary
+      Cold War tank killer is now using its 30-mm chain gun and advanced missiles to
+      intercept deadly Shahed drones and fast-attack boats. The post The AH-64 Apache
+      Scored 13 Drone Kills in 14 Shots Last November — Now It’s Destroying Iranian
+      Drones Over the Strait of Hormuz for Real appeared first on 19FortyFive .
+    one_sentence_summary: The AH-64 Apache has been redeployed to the Strait of Hormuz
+      to counter Iranian threats, successfully targeting drones and fast-attack boats
+      with its advanced weaponry.
+    paragraph_summary: The AH-64 Apache helicopter has been redeployed to the Strait
+      of Hormuz to address Iranian threats, shifting from its traditional role as a
+      tank destroyer to intercepting drones and fast-attack boats. Equipped with a 30-mm
+      chain gun and advanced missile systems, the Apache has demonstrated its effectiveness
+      by scoring 13 drone kills in 14 shots last November, and it continues to play
+      a crucial role in neutralizing Iranian drones in the region.
+    published: '2026-03-23T23:41:26+00:00'
+  - title: 'Flying Blind: Why New F-35 Lightning II Stealth Fighters Are Arriving Without
+      Radars'
+    url: https://www.19fortyfive.com/2026/03/flying-blind-why-new-f-35-lightening-ii-stealth-fighters-are-arriving-without-radars/
+    text: 'The U.S. military faces a critical combat readiness gap as new F-35 Joint
+      Strike Fighters begin arriving without operational radars. Delayed by the complex
+      certification of the next-generation APG-85 system and an incompatible forward
+      bulkhead redesign, these incoming stealth jets will carry ballasts and remain
+      strictly barred from combat missions. The post Flying Blind: Why New F-35 Lightning
+      II Stealth Fighters Are Arriving Without Radars appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The U.S. military is experiencing a significant combat readiness
+      issue as new F-35 Joint Strike Fighters are arriving without operational radars
+      due to delays in the certification of the APG-85 system and design incompatibilities,
+      preventing them from participating in combat missions.
+    paragraph_summary: The U.S. military is encountering a significant combat readiness
+      issue as new F-35 Joint Strike Fighters are being delivered without operational
+      radars due to delays in the certification of the advanced APG-85 radar system
+      and issues with an incompatible forward bulkhead redesign. As a result, these
+      stealth jets will be equipped with ballasts and prohibited from participating
+      in combat missions until the radar systems are fully operational.
+    published: '2026-03-23T23:27:56+00:00'
+  - title: 'Flying Blind: Why New F-35 Lightning II Stealth Fighters Are Arriving Without
+      Radars'
+    url: https://www.19fortyfive.com/2026/03/flying-blind-why-new-f-35-lightening-ii-stealth-fighters-are-arriving-without-radars/
+    text: 'The U.S. military faces a critical combat readiness gap as new F-35 Joint
+      Strike Fighters begin arriving without operational radars. Delayed by the complex
+      certification of the next-generation APG-85 system and an incompatible forward
+      bulkhead redesign, these incoming stealth jets will carry ballasts and remain
+      strictly barred from combat missions. The post Flying Blind: Why New F-35 Lightning
+      II Stealth Fighters Are Arriving Without Radars appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The U.S. military is experiencing a significant combat readiness
+      issue as new F-35 Joint Strike Fighters are arriving without operational radars
+      due to delays in the certification of the APG-85 system and design incompatibilities,
+      preventing them from participating in combat missions.
+    paragraph_summary: The U.S. military is encountering a significant combat readiness
+      issue as new F-35 Joint Strike Fighters are being delivered without operational
+      radars due to delays in the certification of the advanced APG-85 radar system
+      and issues with an incompatible forward bulkhead redesign. As a result, these
+      stealth jets will be equipped with ballasts and prohibited from participating
+      in combat missions until the radar systems are fully operational.
+    published: '2026-03-23T23:27:56+00:00'
+  - title: America Fired 800 Patriot Missiles in Iran War over 4 Days and Pulled Its
+      Only Pacific Marine Unit — China Is Watching Every Missile America Burns
+    url: https://www.19fortyfive.com/2026/03/america-fired-800-patriot-missiles-in-iran-war-over-4-days-and-pulled-its-only-pacific-marine-unit-china-is-watching-every-missile-america-burns/
+    text: The U.S. military's massive resource expenditure in Iran is creating a dangerous
+      strategic vacuum in the Indo-Pacific. By draining Tomahawk and Patriot missile
+      stockpiles and shifting vital Marine units away from Japan, Washington's focus
+      on the Middle East is handing Beijing a major geopolitical and economic advantage.
+      The post America Fired 800 Patriot Missiles in Iran War over 4 Days and Pulled
+      Its Only Pacific Marine Unit — China Is Watching Every Missile America Burns appeared
+      first on 19FortyFive .
+    one_sentence_summary: The U.S. military's extensive operations in Iran are depleting
+      critical resources and diverting attention from the Indo-Pacific, thereby giving
+      China a significant geopolitical advantage.
+    paragraph_summary: The U.S. military's significant resource allocation to operations
+      in Iran is leading to a strategic vacuum in the Indo-Pacific region, as it depletes
+      critical missile stockpiles, such as Tomahawk and Patriot missiles, and reallocates
+      essential Marine units from Japan. This shift in focus towards the Middle East
+      is perceived as providing China with a substantial geopolitical and economic edge,
+      as the U.S. diverts its attention and capabilities away from potential challenges
+      in the Indo-Pacific.
+    published: '2026-03-23T23:05:16+00:00'
+  - title: America Fired 800 Patriot Missiles in Iran War over 4 Days and Pulled Its
+      Only Pacific Marine Unit — China Is Watching Every Missile America Burns
+    url: https://www.19fortyfive.com/2026/03/america-fired-800-patriot-missiles-in-iran-war-over-4-days-and-pulled-its-only-pacific-marine-unit-china-is-watching-every-missile-america-burns/
+    text: The U.S. military's massive resource expenditure in Iran is creating a dangerous
+      strategic vacuum in the Indo-Pacific. By draining Tomahawk and Patriot missile
+      stockpiles and shifting vital Marine units away from Japan, Washington's focus
+      on the Middle East is handing Beijing a major geopolitical and economic advantage.
+      The post America Fired 800 Patriot Missiles in Iran War over 4 Days and Pulled
+      Its Only Pacific Marine Unit — China Is Watching Every Missile America Burns appeared
+      first on 19FortyFive .
+    one_sentence_summary: The U.S. military's extensive operations in Iran are depleting
+      critical resources and diverting attention from the Indo-Pacific, thereby giving
+      China a significant geopolitical advantage.
+    paragraph_summary: The U.S. military's significant resource allocation to operations
+      in Iran is leading to a strategic vacuum in the Indo-Pacific region, as it depletes
+      critical missile stockpiles, such as Tomahawk and Patriot missiles, and reallocates
+      essential Marine units from Japan. This shift in focus towards the Middle East
+      is perceived as providing China with a substantial geopolitical and economic edge,
+      as the U.S. diverts its attention and capabilities away from potential challenges
+      in the Indo-Pacific.
+    published: '2026-03-23T23:05:16+00:00'
+  - title: The A-10 Warthog Would Be Shot Down Instantly by Functioning Air Defenses
+      — Its Presence Over Iran Proves America Has Destroyed Them All
+    url: https://www.19fortyfive.com/2026/03/the-a-10-warthog-would-be-shot-down-instantly-by-functioning-air-defenses-its-presence-over-iran-proves-america-has-destroyed-them-all/
+    text: British defense researcher Jack Buckby analyzes the tactical deployment of
+      the A-10 Thunderbolt II to the Strait of Hormuz. Because the "Warthog" lacks stealth
+      and speed, its active presence hunting Iranian fast-attack boats proves that the
+      U.S. has successfully and severely degraded Iran's advanced air defense networks.
+      The post The A-10 Warthog Would Be Shot Down Instantly by Functioning Air Defenses
+      — Its Presence Over Iran Proves America Has Destroyed Them All appeared first
+      on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby argues that the deployment
+      of the A-10 Thunderbolt II in the Strait of Hormuz indicates the U.S. has effectively
+      neutralized Iran's advanced air defense systems, despite the aircraft's lack of
+      stealth and speed.
+    paragraph_summary: In an analysis by British defense researcher Jack Buckby, the
+      deployment of the A-10 Thunderbolt II, known as the "Warthog," to the Strait of
+      Hormuz is examined, highlighting its role in hunting Iranian fast-attack boats.
+      Despite the A-10's lack of stealth and speed, its active presence suggests that
+      the U.S. has effectively degraded Iran's advanced air defense systems, indicating
+      a significant reduction in their operational capabilities. Buckby argues that
+      the Warthog's ability to operate in this environment underscores the extent to
+      which American forces have neutralized Iranian air defenses.
+    published: '2026-03-23T22:44:20+00:00'
+  - title: The A-10 Warthog Would Be Shot Down Instantly by Functioning Air Defenses
+      — Its Presence Over Iran Proves America Has Destroyed Them All
+    url: https://www.19fortyfive.com/2026/03/the-a-10-warthog-would-be-shot-down-instantly-by-functioning-air-defenses-its-presence-over-iran-proves-america-has-destroyed-them-all/
+    text: British defense researcher Jack Buckby analyzes the tactical deployment of
+      the A-10 Thunderbolt II to the Strait of Hormuz. Because the "Warthog" lacks stealth
+      and speed, its active presence hunting Iranian fast-attack boats proves that the
+      U.S. has successfully and severely degraded Iran's advanced air defense networks.
+      The post The A-10 Warthog Would Be Shot Down Instantly by Functioning Air Defenses
+      — Its Presence Over Iran Proves America Has Destroyed Them All appeared first
+      on 19FortyFive .
+    one_sentence_summary: British defense researcher Jack Buckby argues that the deployment
+      of the A-10 Thunderbolt II in the Strait of Hormuz indicates the U.S. has effectively
+      neutralized Iran's advanced air defense systems, despite the aircraft's lack of
+      stealth and speed.
+    paragraph_summary: In an analysis by British defense researcher Jack Buckby, the
+      deployment of the A-10 Thunderbolt II, known as the "Warthog," to the Strait of
+      Hormuz is examined, highlighting its role in hunting Iranian fast-attack boats.
+      Despite the A-10's lack of stealth and speed, its active presence suggests that
+      the U.S. has effectively degraded Iran's advanced air defense systems, indicating
+      a significant reduction in their operational capabilities. Buckby argues that
+      the Warthog's ability to operate in this environment underscores the extent to
+      which American forces have neutralized Iranian air defenses.
+    published: '2026-03-23T22:44:20+00:00'
+  - title: A B-52 Was Just Photographed Carrying America’s New $14 Million Nuclear Cruise
+      Missile — and an F-22 Was Flying Alongside It
+    url: https://www.19fortyfive.com/2026/03/a-b-52-was-just-photographed-carrying-americas-new-14-million-nuclear-cruise-missile-and-an-f-22-was-flying-alongside-it/
+    text: The U.S. Air Force is accelerating its nuclear modernization. A B-52H Stratofortress
+      was recently spotted carrying two AGM-181 Long Range Stand Off (LRSO) test missiles.
+      Designed to bypass advanced air defenses, this stealthy cruise missile will replace
+      the aging Cold War-era AGM-86B ALCM by the end of the decade. The post A B-52
+      Was Just Photographed Carrying America’s New $14 Million Nuclear Cruise Missile
+      — and an F-22 Was Flying Alongside It appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Air Force is fast-tracking its nuclear modernization
+      efforts, as evidenced by a B-52H Stratofortress recently seen carrying two AGM-181
+      Long Range Stand Off missiles, which are set to replace the outdated AGM-86B ALCM
+      by the end of the decade.
+    paragraph_summary: The U.S. Air Force is fast-tracking its nuclear modernization
+      efforts, as evidenced by a recent sighting of a B-52H Stratofortress equipped
+      with two AGM-181 Long Range Stand Off (LRSO) test missiles. These advanced stealth
+      cruise missiles are intended to replace the outdated AGM-86B ALCM by the end of
+      the decade, with capabilities designed to evade sophisticated air defenses. The
+      article highlights this development alongside the presence of an F-22 fighter
+      jet flying in coordination with the B-52 during the test.
+    published: '2026-03-23T22:25:48+00:00'
+  - title: A B-52 Was Just Photographed Carrying America’s New $14 Million Nuclear Cruise
+      Missile — and an F-22 Was Flying Alongside It
+    url: https://www.19fortyfive.com/2026/03/a-b-52-was-just-photographed-carrying-americas-new-14-million-nuclear-cruise-missile-and-an-f-22-was-flying-alongside-it/
+    text: The U.S. Air Force is accelerating its nuclear modernization. A B-52H Stratofortress
+      was recently spotted carrying two AGM-181 Long Range Stand Off (LRSO) test missiles.
+      Designed to bypass advanced air defenses, this stealthy cruise missile will replace
+      the aging Cold War-era AGM-86B ALCM by the end of the decade. The post A B-52
+      Was Just Photographed Carrying America’s New $14 Million Nuclear Cruise Missile
+      — and an F-22 Was Flying Alongside It appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Air Force is fast-tracking its nuclear modernization
+      efforts, as evidenced by a B-52H Stratofortress recently seen carrying two AGM-181
+      Long Range Stand Off missiles, which are set to replace the outdated AGM-86B ALCM
+      by the end of the decade.
+    paragraph_summary: The U.S. Air Force is fast-tracking its nuclear modernization
+      efforts, as evidenced by a recent sighting of a B-52H Stratofortress equipped
+      with two AGM-181 Long Range Stand Off (LRSO) test missiles. These advanced stealth
+      cruise missiles are intended to replace the outdated AGM-86B ALCM by the end of
+      the decade, with capabilities designed to evade sophisticated air defenses. The
+      article highlights this development alongside the presence of an F-22 fighter
+      jet flying in coordination with the B-52 during the test.
+    published: '2026-03-23T22:25:48+00:00'
+  - title: The B-1B Lancer Can Drop 84 Precision Bombs in 1 Mission — Here Is Why America’s
+      Non-Stealth Bomber Is the Real Workhorse of the Iran War
+    url: https://www.19fortyfive.com/2026/03/the-b-1b-lancer-can-drop-84-precision-bombs-in-1-mission-here-is-why-americas-non-stealth-bomber-is-the-real-workhorse-of-the-iran-war/
+    text: Defense researcher Jack Buckby breaks down the B-1B Lancer's critical role
+      in the ongoing Iran conflict. While lacking modern stealth, the Lancer's massive
+      75,000-pound conventional payload capacity allows it to deliver overwhelming precision
+      firepower, making it an irreplaceable, heavyweight asset in the U.S. bomber fleet.
+      The post The B-1B Lancer Can Drop 84 Precision Bombs in 1 Mission — Here Is Why
+      America’s Non-Stealth Bomber Is the Real Workhorse of the Iran War appeared first
+      on 19FortyFive .
+    one_sentence_summary: Defense researcher Jack Buckby highlights the B-1B Lancer's
+      significant role in the Iran conflict, emphasizing its substantial payload capacity
+      and precision firepower, which make it an essential asset in the U.S. bomber fleet
+      despite its lack of modern stealth capabilities.
+    paragraph_summary: Defense researcher Jack Buckby highlights the significant role
+      of the B-1B Lancer in the ongoing conflict with Iran, emphasizing its impressive
+      75,000-pound conventional payload capacity that enables it to deliver substantial
+      precision firepower despite its lack of modern stealth capabilities. This capability
+      positions the Lancer as an invaluable asset within the U.S. bomber fleet, capable
+      of dropping up to 84 precision bombs in a single mission, thereby serving as a
+      crucial workhorse in the military's operations in the region.
+    published: '2026-03-23T22:08:10+00:00'
+  - title: The B-1B Lancer Can Drop 84 Precision Bombs in 1 Mission — Here Is Why America’s
+      Non-Stealth Bomber Is the Real Workhorse of the Iran War
+    url: https://www.19fortyfive.com/2026/03/the-b-1b-lancer-can-drop-84-precision-bombs-in-1-mission-here-is-why-americas-non-stealth-bomber-is-the-real-workhorse-of-the-iran-war/
+    text: Defense researcher Jack Buckby breaks down the B-1B Lancer's critical role
+      in the ongoing Iran conflict. While lacking modern stealth, the Lancer's massive
+      75,000-pound conventional payload capacity allows it to deliver overwhelming precision
+      firepower, making it an irreplaceable, heavyweight asset in the U.S. bomber fleet.
+      The post The B-1B Lancer Can Drop 84 Precision Bombs in 1 Mission — Here Is Why
+      America’s Non-Stealth Bomber Is the Real Workhorse of the Iran War appeared first
+      on 19FortyFive .
+    one_sentence_summary: Defense researcher Jack Buckby highlights the B-1B Lancer's
+      significant role in the Iran conflict, emphasizing its substantial payload capacity
+      and precision firepower, which make it an essential asset in the U.S. bomber fleet
+      despite its lack of modern stealth capabilities.
+    paragraph_summary: Defense researcher Jack Buckby highlights the significant role
+      of the B-1B Lancer in the ongoing conflict with Iran, emphasizing its impressive
+      75,000-pound conventional payload capacity that enables it to deliver substantial
+      precision firepower despite its lack of modern stealth capabilities. This capability
+      positions the Lancer as an invaluable asset within the U.S. bomber fleet, capable
+      of dropping up to 84 precision bombs in a single mission, thereby serving as a
+      crucial workhorse in the military's operations in the region.
+    published: '2026-03-23T22:08:10+00:00'
+  - title: '‘Cheyenne Mountain’: The U.S. Military Has a ‘Secret City’ Underground That
+      Can Survive a Nuclear War'
+    url: https://www.19fortyfive.com/2026/03/cheyenne-mountain-the-u-s-military-has-a-secret-city-underground-that-can-survive-a-nuclear-war/
+    text: 'Defense columnist Isaac Seitz takes readers inside the Cheyenne Mountain
+      Complex. Originally carved out of solid granite in the 1960s to survive a nuclear
+      strike, this legendary underground fortress now serves as the ultimate EMP-hardened
+      backup command center for NORAD, USNORTHCOM, and the U.S. Space Force. The post
+      ‘Cheyenne Mountain’: The U.S. Military Has a ‘Secret City’ Underground That Can
+      Survive a Nuclear War appeared first on 19FortyFive .'
+    one_sentence_summary: The Cheyenne Mountain Complex, originally built in the 1960s
+      to withstand nuclear attacks, now functions as a fortified underground command
+      center for NORAD, USNORTHCOM, and the U.S. Space Force, designed to endure electromagnetic
+      pulse (EMP) threats.
+    paragraph_summary: In his article, defense columnist Isaac Seitz explores the Cheyenne
+      Mountain Complex, an underground fortress built in the 1960s from solid granite
+      to withstand nuclear attacks. This legendary facility now functions as a highly
+      secure, EMP-hardened backup command center for key military organizations, including
+      NORAD, USNORTHCOM, and the U.S. Space Force, highlighting its critical role in
+      national defense and emergency preparedness.
+    published: '2026-03-23T19:47:29+00:00'
+  - title: '‘Cheyenne Mountain’: The U.S. Military Has a ‘Secret City’ Underground That
+      Can Survive a Nuclear War'
+    url: https://www.19fortyfive.com/2026/03/cheyenne-mountain-the-u-s-military-has-a-secret-city-underground-that-can-survive-a-nuclear-war/
+    text: 'Defense columnist Isaac Seitz takes readers inside the Cheyenne Mountain
+      Complex. Originally carved out of solid granite in the 1960s to survive a nuclear
+      strike, this legendary underground fortress now serves as the ultimate EMP-hardened
+      backup command center for NORAD, USNORTHCOM, and the U.S. Space Force. The post
+      ‘Cheyenne Mountain’: The U.S. Military Has a ‘Secret City’ Underground That Can
+      Survive a Nuclear War appeared first on 19FortyFive .'
+    one_sentence_summary: The Cheyenne Mountain Complex, originally built in the 1960s
+      to withstand nuclear attacks, now functions as a fortified underground command
+      center for NORAD, USNORTHCOM, and the U.S. Space Force, designed to endure electromagnetic
+      pulse (EMP) threats.
+    paragraph_summary: In his article, defense columnist Isaac Seitz explores the Cheyenne
+      Mountain Complex, an underground fortress built in the 1960s from solid granite
+      to withstand nuclear attacks. This legendary facility now functions as a highly
+      secure, EMP-hardened backup command center for key military organizations, including
+      NORAD, USNORTHCOM, and the U.S. Space Force, highlighting its critical role in
+      national defense and emergency preparedness.
+    published: '2026-03-23T19:47:29+00:00'
+  - title: The A-10 Warthog Is Destroying Iranian Boats in the Strait of Hormuz Right
+      Now — and the Air Force Might Retire Every One of Them on October 1
+    url: https://www.19fortyfive.com/2026/03/the-a-10-warthog-is-destroying-iranian-boats-in-the-strait-of-hormuz-right-now-and-the-air-force-might-retire-every-one-of-them-on-october-1/
+    text: The legendary A-10 Warthog has returned to the front lines. During Operation
+      Epic Fury, the Pentagon repurposed the iconic tank killer into a "boat buster,"
+      using its devastating 30mm Avenger cannon to neutralize Iranian fast-attack watercraft
+      harassing commercial shipping in the Strait of Hormuz. The post The A-10 Warthog
+      Is Destroying Iranian Boats in the Strait of Hormuz Right Now — and the Air Force
+      Might Retire Every One of Them on October 1 appeared first on 19FortyFive .
+    one_sentence_summary: The A-10 Warthog has been redeployed in Operation Epic Fury
+      to target Iranian fast-attack boats threatening commercial shipping in the Strait
+      of Hormuz, despite the possibility of its retirement by the Air Force on October
+      1.
+    paragraph_summary: The A-10 Warthog has been redeployed in Operation Epic Fury,
+      transforming from its traditional role as a tank killer to a "boat buster" by
+      targeting Iranian fast-attack boats that threaten commercial shipping in the Strait
+      of Hormuz. Utilizing its powerful 30mm Avenger cannon, the aircraft has been effective
+      in neutralizing these threats. However, despite its current operational success,
+      there are discussions about the potential retirement of the A-10 fleet by the
+      Air Force on October 1.
+    published: '2026-03-23T19:28:56+00:00'
+  - title: The A-10 Warthog Is Destroying Iranian Boats in the Strait of Hormuz Right
+      Now — and the Air Force Might Retire Every One of Them on October 1
+    url: https://www.19fortyfive.com/2026/03/the-a-10-warthog-is-destroying-iranian-boats-in-the-strait-of-hormuz-right-now-and-the-air-force-might-retire-every-one-of-them-on-october-1/
+    text: The legendary A-10 Warthog has returned to the front lines. During Operation
+      Epic Fury, the Pentagon repurposed the iconic tank killer into a "boat buster,"
+      using its devastating 30mm Avenger cannon to neutralize Iranian fast-attack watercraft
+      harassing commercial shipping in the Strait of Hormuz. The post The A-10 Warthog
+      Is Destroying Iranian Boats in the Strait of Hormuz Right Now — and the Air Force
+      Might Retire Every One of Them on October 1 appeared first on 19FortyFive .
+    one_sentence_summary: The A-10 Warthog has been redeployed in Operation Epic Fury
+      to target Iranian fast-attack boats threatening commercial shipping in the Strait
+      of Hormuz, despite the possibility of its retirement by the Air Force on October
+      1.
+    paragraph_summary: The A-10 Warthog has been redeployed in Operation Epic Fury,
+      transforming from its traditional role as a tank killer to a "boat buster" by
+      targeting Iranian fast-attack boats that threaten commercial shipping in the Strait
+      of Hormuz. Utilizing its powerful 30mm Avenger cannon, the aircraft has been effective
+      in neutralizing these threats. However, despite its current operational success,
+      there are discussions about the potential retirement of the A-10 fleet by the
+      Air Force on October 1.
+    published: '2026-03-23T19:28:56+00:00'
+  - title: U.S. Fighter Pilots Flew 22 Hours a Month in 1991 — Today Many Struggle to
+      Reach Half That, and the Iran War Is Making It Worse
+    url: https://www.19fortyfive.com/2026/03/u-s-fighter-pilots-flew-22-hours-a-month-in-1991-today-many-struggle-to-reach-half-that-and-the-iran-war-is-making-it-worse/
+    text: Reuben F. Johnson, 36-year weapons systems analyst and Director of Research
+      at the Casimir Pulaski Foundation, examines Rep. August Pfluger's Washington Post
+      warning that chronic underinvestment has left the U.S. Air Force "dangerously
+      thin in aircraft, munitions, and trained crews." The F-15 and F-22 veteran congressman
+      reveals fighter pilots now average half the monthly flight hours they logged during
+      the 1991 Persian Gulf War. The post U.S. Fighter Pilots Flew 22 Hours a Month
+      in 1991 — Today Many Struggle to Reach Half That, and the Iran War Is Making It
+      Worse appeared first on 19FortyFive .
+    one_sentence_summary: Reuben F. Johnson highlights Rep. August Pfluger's concerns
+      about the U.S. Air Force's critical underinvestment, leading to a significant
+      decline in fighter pilots' flight hours compared to the 1991 Persian Gulf War,
+      exacerbated by ongoing conflicts.
+    paragraph_summary: Reuben F. Johnson, a seasoned weapons systems analyst, discusses
+      Rep. August Pfluger's concerns in a Washington Post article about the U.S. Air
+      Force's critical underinvestment, which has resulted in a severe shortage of aircraft,
+      munitions, and trained personnel. Pfluger, a veteran fighter pilot, highlights
+      that current fighter pilots are averaging only half the flight hours they achieved
+      during the 1991 Persian Gulf War, with many struggling to meet even that reduced
+      benchmark. The situation is exacerbated by ongoing conflicts, including tensions
+      related to Iran, raising alarms about the readiness and capability of U.S. air
+      power.
+    published: '2026-03-23T19:01:07+00:00'
+  - title: U.S. Fighter Pilots Flew 22 Hours a Month in 1991 — Today Many Struggle to
+      Reach Half That, and the Iran War Is Making It Worse
+    url: https://www.19fortyfive.com/2026/03/u-s-fighter-pilots-flew-22-hours-a-month-in-1991-today-many-struggle-to-reach-half-that-and-the-iran-war-is-making-it-worse/
+    text: Reuben F. Johnson, 36-year weapons systems analyst and Director of Research
+      at the Casimir Pulaski Foundation, examines Rep. August Pfluger's Washington Post
+      warning that chronic underinvestment has left the U.S. Air Force "dangerously
+      thin in aircraft, munitions, and trained crews." The F-15 and F-22 veteran congressman
+      reveals fighter pilots now average half the monthly flight hours they logged during
+      the 1991 Persian Gulf War. The post U.S. Fighter Pilots Flew 22 Hours a Month
+      in 1991 — Today Many Struggle to Reach Half That, and the Iran War Is Making It
+      Worse appeared first on 19FortyFive .
+    one_sentence_summary: Reuben F. Johnson highlights Rep. August Pfluger's concerns
+      about the U.S. Air Force's critical underinvestment, leading to a significant
+      decline in fighter pilots' flight hours compared to the 1991 Persian Gulf War,
+      exacerbated by ongoing conflicts.
+    paragraph_summary: Reuben F. Johnson, a seasoned weapons systems analyst, discusses
+      Rep. August Pfluger's concerns in a Washington Post article about the U.S. Air
+      Force's critical underinvestment, which has resulted in a severe shortage of aircraft,
+      munitions, and trained personnel. Pfluger, a veteran fighter pilot, highlights
+      that current fighter pilots are averaging only half the flight hours they achieved
+      during the 1991 Persian Gulf War, with many struggling to meet even that reduced
+      benchmark. The situation is exacerbated by ongoing conflicts, including tensions
+      related to Iran, raising alarms about the readiness and capability of U.S. air
+      power.
+    published: '2026-03-23T19:01:07+00:00'
+  - title: Karoline Leavitt Wouldn’t Rule Out an Iran Military Draft on Live TV — A
+      Political Scientist and Army Veteran Says It Won’t Happen and Explains Why
+    url: https://www.19fortyfive.com/2026/03/karoline-leavitt-wouldnt-rule-out-an-iran-military-draft-on-live-tv-a-political-scientist-and-army-veteran-says-it-wont-happen-and-explains-why/
+    text: Defense expert Dr. Brent M. Eastwood tackles the rising fears of a military
+      draft for Operation Epic Fury. Despite ambiguous statements from the administration,
+      severe political, legal, and logistical roadblocks—including the War Powers Act
+      and a lack of training infrastructure—make modern conscription highly improbable.
+      The post Karoline Leavitt Wouldn’t Rule Out an Iran Military Draft on Live TV
+      — A Political Scientist and Army Veteran Says It Won’t Happen and Explains Why
+      appeared first on 19FortyFive .
+    one_sentence_summary: Defense expert Dr. Brent M. Eastwood argues that despite concerns
+      about a military draft for Operation Epic Fury, significant political, legal,
+      and logistical challenges make modern conscription unlikely.
+    paragraph_summary: In an article by defense expert Dr. Brent M. Eastwood, the concerns
+      surrounding a potential military draft for Operation Epic Fury are addressed.
+      Despite some ambiguous comments from government officials, Eastwood argues that
+      significant political, legal, and logistical challenges—such as the War Powers
+      Act and insufficient training infrastructure—render modern conscription highly
+      unlikely. He emphasizes that fears of a draft, as suggested by figures like Karoline
+      Leavitt, are unfounded and explains the reasons behind this assessment.
+    published: '2026-03-23T18:45:37+00:00'
+  - title: Karoline Leavitt Wouldn’t Rule Out an Iran Military Draft on Live TV — A
+      Political Scientist and Army Veteran Says It Won’t Happen and Explains Why
+    url: https://www.19fortyfive.com/2026/03/karoline-leavitt-wouldnt-rule-out-an-iran-military-draft-on-live-tv-a-political-scientist-and-army-veteran-says-it-wont-happen-and-explains-why/
+    text: Defense expert Dr. Brent M. Eastwood tackles the rising fears of a military
+      draft for Operation Epic Fury. Despite ambiguous statements from the administration,
+      severe political, legal, and logistical roadblocks—including the War Powers Act
+      and a lack of training infrastructure—make modern conscription highly improbable.
+      The post Karoline Leavitt Wouldn’t Rule Out an Iran Military Draft on Live TV
+      — A Political Scientist and Army Veteran Says It Won’t Happen and Explains Why
+      appeared first on 19FortyFive .
+    one_sentence_summary: Defense expert Dr. Brent M. Eastwood argues that despite concerns
+      about a military draft for Operation Epic Fury, significant political, legal,
+      and logistical challenges make modern conscription unlikely.
+    paragraph_summary: In an article by defense expert Dr. Brent M. Eastwood, the concerns
+      surrounding a potential military draft for Operation Epic Fury are addressed.
+      Despite some ambiguous comments from government officials, Eastwood argues that
+      significant political, legal, and logistical challenges—such as the War Powers
+      Act and insufficient training infrastructure—render modern conscription highly
+      unlikely. He emphasizes that fears of a draft, as suggested by figures like Karoline
+      Leavitt, are unfounded and explains the reasons behind this assessment.
+    published: '2026-03-23T18:45:37+00:00'
+  - title: The SR-71 Blackbird Was Shot At 4,000 Times. It Was Never Hit Once
+    url: https://www.19fortyfive.com/2026/03/the-sr-71-blackbird-was-shot-at-4000-times-it-was-never-hit-once/
+    text: The SR-71 Blackbird remains one of the most iconic aircraft ever built. Born
+      from the need to evade advanced Soviet air defenses, this Mach 3 marvel relied
+      on sheer speed and groundbreaking titanium engineering to conduct high-altitude
+      reconnaissance. Discover the history behind Lockheed's legendary Cold War spy
+      plane. The post The SR-71 Blackbird Was Shot At 4,000 Times. It Was Never Hit
+      Once appeared first on 19FortyFive .
+    one_sentence_summary: The SR-71 Blackbird, an iconic Cold War reconnaissance aircraft,
+      was designed to evade advanced Soviet air defenses with its incredible speed and
+      innovative titanium construction, and remarkably, it was shot at 4,000 times without
+      ever being hit.
+    paragraph_summary: The SR-71 Blackbird, a legendary aircraft developed during the
+      Cold War, was designed to evade sophisticated Soviet air defenses through its
+      incredible speed and innovative titanium construction, allowing it to fly at Mach
+      3 and conduct high-altitude reconnaissance missions. Despite being targeted approximately
+      4,000 times, the Blackbird remarkably never sustained any hits, showcasing its
+      effectiveness and the advanced technology behind its design. The article delves
+      into the history and significance of this iconic spy plane.
+    published: '2026-03-23T18:17:25+00:00'
+  - title: The SR-71 Blackbird Was Shot At 4,000 Times. It Was Never Hit Once
+    url: https://www.19fortyfive.com/2026/03/the-sr-71-blackbird-was-shot-at-4000-times-it-was-never-hit-once/
+    text: The SR-71 Blackbird remains one of the most iconic aircraft ever built. Born
+      from the need to evade advanced Soviet air defenses, this Mach 3 marvel relied
+      on sheer speed and groundbreaking titanium engineering to conduct high-altitude
+      reconnaissance. Discover the history behind Lockheed's legendary Cold War spy
+      plane. The post The SR-71 Blackbird Was Shot At 4,000 Times. It Was Never Hit
+      Once appeared first on 19FortyFive .
+    one_sentence_summary: The SR-71 Blackbird, an iconic Cold War reconnaissance aircraft,
+      was designed to evade advanced Soviet air defenses with its incredible speed and
+      innovative titanium construction, and remarkably, it was shot at 4,000 times without
+      ever being hit.
+    paragraph_summary: The SR-71 Blackbird, a legendary aircraft developed during the
+      Cold War, was designed to evade sophisticated Soviet air defenses through its
+      incredible speed and innovative titanium construction, allowing it to fly at Mach
+      3 and conduct high-altitude reconnaissance missions. Despite being targeted approximately
+      4,000 times, the Blackbird remarkably never sustained any hits, showcasing its
+      effectiveness and the advanced technology behind its design. The article delves
+      into the history and significance of this iconic spy plane.
+    published: '2026-03-23T18:17:25+00:00'
+  - title: A $13,000,000,000 Nuclear Aircraft Carrier Could Be Sunk by $1,000,000 ‘Cheap’
+      Torpedo
+    url: https://www.19fortyfive.com/2026/03/a-13000000000-nuclear-aircraft-carrier-could-be-sunk-by-1000000-cheap-torpedo/
+    text: National security journalist Harrison Kass examines the asymmetric threat
+      torpedoes pose to modern U.S. supercarriers. Despite possessing layered air defenses,
+      $13 billion supercarriers remain theoretically vulnerable to $1 million wake-homing
+      torpedoes. As adversaries leverage noisy littoral chokepoints, the U.S. Navy faces
+      a critical dilemma between power projection and survivability. The post A $13,000,000,000
+      Nuclear Aircraft Carrier Could Be Sunk by $1,000,000 ‘Cheap’ Torpedo appeared
+      first on 19FortyFive .
+    one_sentence_summary: National security journalist Harrison Kass highlights the
+      vulnerability of $13 billion U.S. supercarriers to relatively inexpensive $1 million
+      wake-homing torpedoes, raising concerns about the Navy's ability to balance power
+      projection with survivability in contested littoral environments.
+    paragraph_summary: National security journalist Harrison Kass highlights the vulnerability
+      of U.S. supercarriers, which cost $13 billion and are equipped with advanced air
+      defenses, to relatively inexpensive wake-homing torpedoes priced at $1 million.
+      As adversaries exploit noisy littoral chokepoints, the U.S. Navy confronts a significant
+      challenge in balancing power projection with the need for survivability, raising
+      concerns about the effectiveness of these massive vessels in modern warfare.
+    published: '2026-03-23T17:56:10+00:00'
+  - title: A $13,000,000,000 Nuclear Aircraft Carrier Could Be Sunk by $1,000,000 ‘Cheap’
+      Torpedo
+    url: https://www.19fortyfive.com/2026/03/a-13000000000-nuclear-aircraft-carrier-could-be-sunk-by-1000000-cheap-torpedo/
+    text: National security journalist Harrison Kass examines the asymmetric threat
+      torpedoes pose to modern U.S. supercarriers. Despite possessing layered air defenses,
+      $13 billion supercarriers remain theoretically vulnerable to $1 million wake-homing
+      torpedoes. As adversaries leverage noisy littoral chokepoints, the U.S. Navy faces
+      a critical dilemma between power projection and survivability. The post A $13,000,000,000
+      Nuclear Aircraft Carrier Could Be Sunk by $1,000,000 ‘Cheap’ Torpedo appeared
+      first on 19FortyFive .
+    one_sentence_summary: National security journalist Harrison Kass highlights the
+      vulnerability of $13 billion U.S. supercarriers to relatively inexpensive $1 million
+      wake-homing torpedoes, raising concerns about the Navy's ability to balance power
+      projection with survivability in contested littoral environments.
+    paragraph_summary: National security journalist Harrison Kass highlights the vulnerability
+      of U.S. supercarriers, which cost $13 billion and are equipped with advanced air
+      defenses, to relatively inexpensive wake-homing torpedoes priced at $1 million.
+      As adversaries exploit noisy littoral chokepoints, the U.S. Navy confronts a significant
+      challenge in balancing power projection with the need for survivability, raising
+      concerns about the effectiveness of these massive vessels in modern warfare.
+    published: '2026-03-23T17:56:10+00:00'
+  - title: Aircraft Carrier HMS Prince of Wales Has Spent Only 21.3% of Its Time At
+      Sea
+    url: https://www.19fortyfive.com/2026/03/aircraft-carrier-hms-prince-of-wales-has-spent-only-21-3-of-its-time-at-sea/
+    text: Former US Army Special Forces Warrant Officer Steve Balestrieri examines the
+      tactical hurdles facing the HMS Prince of Wales. Placed on advanced readiness
+      in Portsmouth amid Operation Epic Fury, the Royal Navy flagship suffers from critical
+      escort shortages, inadequate point defenses, and intense political friction with
+      the Trump administration. The post Aircraft Carrier HMS Prince of Wales Has Spent
+      Only 21.3% of Its Time At Sea appeared first on 19FortyFive .
+    one_sentence_summary: Former US Army Special Forces Warrant Officer Steve Balestrieri
+      highlights the significant tactical challenges facing the HMS Prince of Wales,
+      including critical escort shortages, insufficient point defenses, and political
+      tensions with the Trump administration, as it remains on advanced readiness in
+      Portsmouth during Operation Epic Fury.
+    paragraph_summary: Former US Army Special Forces Warrant Officer Steve Balestrieri
+      discusses the challenges confronting the HMS Prince of Wales, the Royal Navy's
+      flagship, which is currently on advanced readiness in Portsmouth as part of Operation
+      Epic Fury. The carrier is grappling with significant issues, including a lack
+      of escort vessels, insufficient point defense systems, and ongoing political tensions
+      with the Trump administration. Notably, the HMS Prince of Wales has only spent
+      21.3% of its time at sea, highlighting its operational limitations.
+    published: '2026-03-23T17:36:07+00:00'
+  - title: Aircraft Carrier HMS Prince of Wales Has Spent Only 21.3% of Its Time At
+      Sea
+    url: https://www.19fortyfive.com/2026/03/aircraft-carrier-hms-prince-of-wales-has-spent-only-21-3-of-its-time-at-sea/
+    text: Former US Army Special Forces Warrant Officer Steve Balestrieri examines the
+      tactical hurdles facing the HMS Prince of Wales. Placed on advanced readiness
+      in Portsmouth amid Operation Epic Fury, the Royal Navy flagship suffers from critical
+      escort shortages, inadequate point defenses, and intense political friction with
+      the Trump administration. The post Aircraft Carrier HMS Prince of Wales Has Spent
+      Only 21.3% of Its Time At Sea appeared first on 19FortyFive .
+    one_sentence_summary: Former US Army Special Forces Warrant Officer Steve Balestrieri
+      highlights the significant tactical challenges facing the HMS Prince of Wales,
+      including critical escort shortages, insufficient point defenses, and political
+      tensions with the Trump administration, as it remains on advanced readiness in
+      Portsmouth during Operation Epic Fury.
+    paragraph_summary: Former US Army Special Forces Warrant Officer Steve Balestrieri
+      discusses the challenges confronting the HMS Prince of Wales, the Royal Navy's
+      flagship, which is currently on advanced readiness in Portsmouth as part of Operation
+      Epic Fury. The carrier is grappling with significant issues, including a lack
+      of escort vessels, insufficient point defense systems, and ongoing political tensions
+      with the Trump administration. Notably, the HMS Prince of Wales has only spent
+      21.3% of its time at sea, highlighting its operational limitations.
+    published: '2026-03-23T17:36:07+00:00'
+  - title: 600 Sailors Are Sleeping on Decks Aboard the USS Gerald R. Ford Due to Fire
+      — Some Keep Suggesting the Aircraft Carrier Was Sabotaged
+    url: https://www.19fortyfive.com/2026/03/600-sailors-are-sleeping-on-floors-aboard-the-uss-gerald-r-ford-due-to-fire-some-keep-suggesting-the-aircraft-carrier-was-sabotaged/
+    text: Award-winning national security journalist Stephen Silver analyzes the recent
+      30-hour fire aboard the USS Gerald R. Ford aircraft carrier. While speculative
+      reports from British and Greek media suggest crew sabotage due to an exhausting
+      10-month deployment, Silver highlights the lack of evidence and the dangers of
+      misinformation during Operation Epic Fury. The post 600 Sailors Are Sleeping on
+      Decks Aboard the USS Gerald R. Ford Due to Fire — Some Keep Suggesting the Aircraft
+      Carrier Was Sabotaged appeared first on 19FortyFive .
+    one_sentence_summary: Stephen Silver examines the recent fire on the USS Gerald
+      R. Ford, emphasizing the absence of evidence for crew sabotage despite speculative
+      media reports, and warns against the spread of misinformation during Operation
+      Epic Fury.
+    paragraph_summary: In his analysis of the recent 30-hour fire on the USS Gerald
+      R. Ford aircraft carrier, award-winning national security journalist Stephen Silver
+      addresses speculative claims from British and Greek media suggesting crew sabotage
+      linked to the ship's exhausting 10-month deployment. He emphasizes the absence
+      of concrete evidence supporting these allegations and warns against the spread
+      of misinformation during Operation Epic Fury, noting that around 600 sailors are
+      currently sleeping on deck due to the incident.
+    published: '2026-03-23T17:19:48+00:00'
+  - title: 600 Sailors Are Sleeping on Decks Aboard the USS Gerald R. Ford Due to Fire
+      — Some Keep Suggesting the Aircraft Carrier Was Sabotaged
+    url: https://www.19fortyfive.com/2026/03/600-sailors-are-sleeping-on-floors-aboard-the-uss-gerald-r-ford-due-to-fire-some-keep-suggesting-the-aircraft-carrier-was-sabotaged/
+    text: Award-winning national security journalist Stephen Silver analyzes the recent
+      30-hour fire aboard the USS Gerald R. Ford aircraft carrier. While speculative
+      reports from British and Greek media suggest crew sabotage due to an exhausting
+      10-month deployment, Silver highlights the lack of evidence and the dangers of
+      misinformation during Operation Epic Fury. The post 600 Sailors Are Sleeping on
+      Decks Aboard the USS Gerald R. Ford Due to Fire — Some Keep Suggesting the Aircraft
+      Carrier Was Sabotaged appeared first on 19FortyFive .
+    one_sentence_summary: Stephen Silver examines the recent fire on the USS Gerald
+      R. Ford, emphasizing the absence of evidence for crew sabotage despite speculative
+      media reports, and warns against the spread of misinformation during Operation
+      Epic Fury.
+    paragraph_summary: In his analysis of the recent 30-hour fire on the USS Gerald
+      R. Ford aircraft carrier, award-winning national security journalist Stephen Silver
+      addresses speculative claims from British and Greek media suggesting crew sabotage
+      linked to the ship's exhausting 10-month deployment. He emphasizes the absence
+      of concrete evidence supporting these allegations and warns against the spread
+      of misinformation during Operation Epic Fury, noting that around 600 sailors are
+      currently sleeping on deck due to the incident.
+    published: '2026-03-23T17:19:48+00:00'
+  - title: 'Making China Play Our Game: The Fight for Critical Minerals'
+    url: https://www.19fortyfive.com/2026/03/making-china-play-our-game-the-fight-for-critical-minerals/
+    text: 'Despite securing raw critical minerals through initiatives like Project Vault,
+      the U.S. remains reliant on China for 85% of chemical processing. Jordan Sessler
+      argues that modular, high-purity separation technologies are essential to bypassing
+      toxic legacy systems and securing the American defense industrial base against
+      future supply shocks. The post Making China Play Our Game: The Fight for Critical
+      Minerals appeared first on 19FortyFive .'
+    one_sentence_summary: The U.S. relies heavily on China for chemical processing of
+      critical minerals, and Jordan Sessler advocates for the adoption of modular, high-purity
+      separation technologies to strengthen the American defense industrial base and
+      reduce this dependency.
+    paragraph_summary: The article discusses the U.S.'s heavy reliance on China for
+      85% of its chemical processing of critical minerals, despite efforts like Project
+      Vault to secure raw materials. Jordan Sessler emphasizes the need for modular,
+      high-purity separation technologies to move away from outdated and toxic processing
+      systems. This shift is deemed crucial for strengthening the American defense industrial
+      base and mitigating the risks of future supply disruptions.
+    published: '2026-03-23T16:25:50+00:00'
+  - title: 'Making China Play Our Game: The Fight for Critical Minerals'
+    url: https://www.19fortyfive.com/2026/03/making-china-play-our-game-the-fight-for-critical-minerals/
+    text: 'Despite securing raw critical minerals through initiatives like Project Vault,
+      the U.S. remains reliant on China for 85% of chemical processing. Jordan Sessler
+      argues that modular, high-purity separation technologies are essential to bypassing
+      toxic legacy systems and securing the American defense industrial base against
+      future supply shocks. The post Making China Play Our Game: The Fight for Critical
+      Minerals appeared first on 19FortyFive .'
+    one_sentence_summary: The U.S. relies heavily on China for chemical processing of
+      critical minerals, and Jordan Sessler advocates for the adoption of modular, high-purity
+      separation technologies to strengthen the American defense industrial base and
+      reduce this dependency.
+    paragraph_summary: The article discusses the U.S.'s heavy reliance on China for
+      85% of its chemical processing of critical minerals, despite efforts like Project
+      Vault to secure raw materials. Jordan Sessler emphasizes the need for modular,
+      high-purity separation technologies to move away from outdated and toxic processing
+      systems. This shift is deemed crucial for strengthening the American defense industrial
+      base and mitigating the risks of future supply disruptions.
+    published: '2026-03-23T16:25:50+00:00'
+  - title: America Originally Planned 750 F-22 Raptors and Built 189 — Now It Plans
+      185 F-47s While China Has 6th-Generation Fighters Already in the Air
+    url: https://www.19fortyfive.com/2026/03/america-originally-planned-750-f-22-raptors-and-built-189-now-it-plans-185-f-47s-while-china-has-6th-generation-fighters-already-in-the-air/
+    text: Award-winning defense analyst Reuben F. Johnson explores the severe consequences
+      of delaying the 6th-generation F-47 and F/A-XX programs. With China advancing
+      its own stealth platforms, the U.S. must rely on aging fleets and innovative drone
+      pairings to avoid a disastrous airpower deficit over the next decade. The post
+      America Originally Planned 750 F-22 Raptors and Built 189 — Now It Plans 185 F-47s
+      While China Has 6th-Generation Fighters Already in the Air appeared first on 19FortyFive
+      .
+    one_sentence_summary: Reuben F. Johnson warns that delaying the development of the
+      6th-generation F-47 and F/A-XX programs could leave the U.S. vulnerable to airpower
+      deficits as China advances its stealth capabilities, forcing reliance on outdated
+      fleets and drone pairings.
+    paragraph_summary: In his analysis, defense expert Reuben F. Johnson highlights
+      the critical risks associated with postponing the development of the 6th-generation
+      F-47 and F/A-XX fighter programs, particularly as China rapidly advances its own
+      stealth aircraft capabilities. He argues that the U.S. is left to depend on its
+      aging air fleet and innovative drone strategies to maintain air superiority, which
+      could lead to a significant airpower shortfall in the coming decade. Johnson notes
+      the stark contrast between the U.S. military's original plan to produce 750 F-22
+      Raptors and the current plan for only 185 F-47s, while China has already deployed
+      its own 6th-generation fighters.
+    published: '2026-03-23T15:50:08+00:00'
+  - title: America Originally Planned 750 F-22 Raptors and Built 189 — Now It Plans
+      185 F-47s While China Has 6th-Generation Fighters Already in the Air
+    url: https://www.19fortyfive.com/2026/03/america-originally-planned-750-f-22-raptors-and-built-189-now-it-plans-185-f-47s-while-china-has-6th-generation-fighters-already-in-the-air/
+    text: Award-winning defense analyst Reuben F. Johnson explores the severe consequences
+      of delaying the 6th-generation F-47 and F/A-XX programs. With China advancing
+      its own stealth platforms, the U.S. must rely on aging fleets and innovative drone
+      pairings to avoid a disastrous airpower deficit over the next decade. The post
+      America Originally Planned 750 F-22 Raptors and Built 189 — Now It Plans 185 F-47s
+      While China Has 6th-Generation Fighters Already in the Air appeared first on 19FortyFive
+      .
+    one_sentence_summary: Reuben F. Johnson warns that delaying the development of the
+      6th-generation F-47 and F/A-XX programs could leave the U.S. vulnerable to airpower
+      deficits as China advances its stealth capabilities, forcing reliance on outdated
+      fleets and drone pairings.
+    paragraph_summary: In his analysis, defense expert Reuben F. Johnson highlights
+      the critical risks associated with postponing the development of the 6th-generation
+      F-47 and F/A-XX fighter programs, particularly as China rapidly advances its own
+      stealth aircraft capabilities. He argues that the U.S. is left to depend on its
+      aging air fleet and innovative drone strategies to maintain air superiority, which
+      could lead to a significant airpower shortfall in the coming decade. Johnson notes
+      the stark contrast between the U.S. military's original plan to produce 750 F-22
+      Raptors and the current plan for only 185 F-47s, while China has already deployed
+      its own 6th-generation fighters.
+    published: '2026-03-23T15:50:08+00:00'
+  - title: 'China’s Aircraft Carriers Have 1 Fatal Flaw: They’ve Never Launched a Single
+      Fighter in Combat'
+    url: https://www.19fortyfive.com/2026/03/chinas-aircraft-carriers-have-1-fatal-flaw-theyve-never-launched-a-single-fighter-in-combat/
+    text: 'National security journalist Harrison Kass analyzes the strategic vulnerability
+      of China''s modernizing aircraft carrier fleet. Despite launching the EMALS-equipped
+      Fujian and developing the J-35 stealth fighter, the People’s Liberation Army Navy
+      has never executed a combat sortie, leaving a massive operational gap compared
+      to the battle-tested U.S. Navy. The post China’s Aircraft Carriers Have 1 Fatal
+      Flaw: They’ve Never Launched a Single Fighter in Combat appeared first on 19FortyFive
+      .'
+    one_sentence_summary: National security journalist Harrison Kass highlights that
+      despite advancements in China's aircraft carrier fleet, including the EMALS-equipped
+      Fujian and the J-35 stealth fighter, the People's Liberation Army Navy's lack
+      of combat sorties creates a significant operational disadvantage compared to the
+      experienced U.S. Navy.
+    paragraph_summary: In his analysis, national security journalist Harrison Kass highlights
+      a critical vulnerability in China's advancing aircraft carrier fleet, particularly
+      focusing on the newly launched EMALS-equipped Fujian and the development of the
+      J-35 stealth fighter. Despite these advancements, the People’s Liberation Army
+      Navy has yet to conduct a combat sortie, resulting in a significant operational
+      gap when compared to the experienced U.S. Navy, which has a proven track record
+      in combat operations. This lack of real-world combat experience poses a substantial
+      challenge for China's naval capabilities.
+    published: '2026-03-23T15:27:41+00:00'
+  - title: 'China’s Aircraft Carriers Have 1 Fatal Flaw: They’ve Never Launched a Single
+      Fighter in Combat'
+    url: https://www.19fortyfive.com/2026/03/chinas-aircraft-carriers-have-1-fatal-flaw-theyve-never-launched-a-single-fighter-in-combat/
+    text: 'National security journalist Harrison Kass analyzes the strategic vulnerability
+      of China''s modernizing aircraft carrier fleet. Despite launching the EMALS-equipped
+      Fujian and developing the J-35 stealth fighter, the People’s Liberation Army Navy
+      has never executed a combat sortie, leaving a massive operational gap compared
+      to the battle-tested U.S. Navy. The post China’s Aircraft Carriers Have 1 Fatal
+      Flaw: They’ve Never Launched a Single Fighter in Combat appeared first on 19FortyFive
+      .'
+    one_sentence_summary: National security journalist Harrison Kass highlights that
+      despite advancements in China's aircraft carrier fleet, including the EMALS-equipped
+      Fujian and the J-35 stealth fighter, the People's Liberation Army Navy's lack
+      of combat sorties creates a significant operational disadvantage compared to the
+      experienced U.S. Navy.
+    paragraph_summary: In his analysis, national security journalist Harrison Kass highlights
+      a critical vulnerability in China's advancing aircraft carrier fleet, particularly
+      focusing on the newly launched EMALS-equipped Fujian and the development of the
+      J-35 stealth fighter. Despite these advancements, the People’s Liberation Army
+      Navy has yet to conduct a combat sortie, resulting in a significant operational
+      gap when compared to the experienced U.S. Navy, which has a proven track record
+      in combat operations. This lack of real-world combat experience poses a substantial
+      challenge for China's naval capabilities.
+    published: '2026-03-23T15:27:41+00:00'
+  - title: The U.S. Army Replaced the M4 With a More Powerful Rifle — Then Gave Soldiers
+      70 Fewer Rounds to Fight With
+    url: https://www.19fortyfive.com/2026/03/the-army-replaced-the-m4-with-a-more-powerful-rifle-then-gave-soldiers-70-fewer-rounds-to-fight-with/
+    text: Former Special Forces Warrant Officer Steve Balestrieri explores the arrival
+      of the XM8 carbine. This compact version of the Army's new M7 rifle fires a devastating
+      6.8mm round, offering infantry units a lighter, more maneuverable weapon designed
+      to pierce modern body armor without sacrificing stopping power. The post The U.S.
+      Army Replaced the M4 With a More Powerful Rifle — Then Gave Soldiers 70 Fewer
+      Rounds to Fight With appeared first on 19FortyFive .
+    one_sentence_summary: Steve Balestrieri discusses the introduction of the XM8 carbine,
+      a lightweight and powerful weapon designed for infantry that fires a 6.8mm round,
+      but notes that soldiers received 70 fewer rounds compared to the previous M4 rifle.
+    paragraph_summary: In an article by former Special Forces Warrant Officer Steve
+      Balestrieri, the introduction of the XM8 carbine is discussed as a compact and
+      powerful alternative to the Army's M4 rifle. The XM8 fires a 6.8mm round, which
+      is designed to effectively penetrate modern body armor while providing infantry
+      units with a lighter and more maneuverable weapon. However, the transition to
+      this new rifle comes with a significant trade-off, as soldiers are now equipped
+      with 70 fewer rounds for combat.
+    published: '2026-03-23T14:57:44+00:00'
+  - title: The U.S. Army Replaced the M4 With a More Powerful Rifle — Then Gave Soldiers
+      70 Fewer Rounds to Fight With
+    url: https://www.19fortyfive.com/2026/03/the-army-replaced-the-m4-with-a-more-powerful-rifle-then-gave-soldiers-70-fewer-rounds-to-fight-with/
+    text: Former Special Forces Warrant Officer Steve Balestrieri explores the arrival
+      of the XM8 carbine. This compact version of the Army's new M7 rifle fires a devastating
+      6.8mm round, offering infantry units a lighter, more maneuverable weapon designed
+      to pierce modern body armor without sacrificing stopping power. The post The U.S.
+      Army Replaced the M4 With a More Powerful Rifle — Then Gave Soldiers 70 Fewer
+      Rounds to Fight With appeared first on 19FortyFive .
+    one_sentence_summary: Steve Balestrieri discusses the introduction of the XM8 carbine,
+      a lightweight and powerful weapon designed for infantry that fires a 6.8mm round,
+      but notes that soldiers received 70 fewer rounds compared to the previous M4 rifle.
+    paragraph_summary: In an article by former Special Forces Warrant Officer Steve
+      Balestrieri, the introduction of the XM8 carbine is discussed as a compact and
+      powerful alternative to the Army's M4 rifle. The XM8 fires a 6.8mm round, which
+      is designed to effectively penetrate modern body armor while providing infantry
+      units with a lighter and more maneuverable weapon. However, the transition to
+      this new rifle comes with a significant trade-off, as soldiers are now equipped
+      with 70 fewer rounds for combat.
+    published: '2026-03-23T14:57:44+00:00'
+  - title: Russia’s Entire Su-57 Felon Stealth Fighter Fleet Is Smaller Than 1 U.S.
+      Navy Aircraft Carrier’s Air Wing
+    url: https://www.19fortyfive.com/2026/03/russias-entire-su-57-felon-stealth-fighter-fleet-is-smaller-than-1-u-s-navy-aircraft-carriers-air-wing/
+    text: Defense columnist Steve Balestrieri analyzes the stark contrast between American
+      and Russian 5th-generation fighter programs. While the U.S. boasts nearly 1,300
+      F-35s, Russia's Su-57 fleet sits at roughly 25 aircraft. Plagued by poor stealth
+      characteristics and crippled supply chains, the Felon remains a highly questionable
+      asset in modern combat. The post Russia’s Entire Su-57 Felon Stealth Fighter Fleet
+      Is Smaller Than 1 U.S. Navy Aircraft Carrier’s Air Wing appeared first on 19FortyFive
+      .
+    one_sentence_summary: Defense columnist Steve Balestrieri highlights the significant
+      disparity between U.S. and Russian 5th-generation fighter programs, noting that
+      while the U.S. has nearly 1,300 F-35s, Russia's Su-57 fleet consists of only about
+      25 aircraft, which are hindered by poor stealth capabilities and supply chain
+      issues.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri highlights
+      the significant disparity between the American and Russian fifth-generation fighter
+      programs, noting that the U.S. has nearly 1,300 F-35s compared to Russia's meager
+      fleet of about 25 Su-57 Felon aircraft. He points out that the Su-57 suffers from
+      inadequate stealth capabilities and is hindered by supply chain issues, raising
+      doubts about its effectiveness in modern warfare. The article underscores the
+      challenges facing Russia's military aviation in contrast to the robust capabilities
+      of the U.S. forces.
+    published: '2026-03-23T14:39:39+00:00'
+  - title: Russia’s Entire Su-57 Felon Stealth Fighter Fleet Is Smaller Than 1 U.S.
+      Navy Aircraft Carrier’s Air Wing
+    url: https://www.19fortyfive.com/2026/03/russias-entire-su-57-felon-stealth-fighter-fleet-is-smaller-than-1-u-s-navy-aircraft-carriers-air-wing/
+    text: Defense columnist Steve Balestrieri analyzes the stark contrast between American
+      and Russian 5th-generation fighter programs. While the U.S. boasts nearly 1,300
+      F-35s, Russia's Su-57 fleet sits at roughly 25 aircraft. Plagued by poor stealth
+      characteristics and crippled supply chains, the Felon remains a highly questionable
+      asset in modern combat. The post Russia’s Entire Su-57 Felon Stealth Fighter Fleet
+      Is Smaller Than 1 U.S. Navy Aircraft Carrier’s Air Wing appeared first on 19FortyFive
+      .
+    one_sentence_summary: Defense columnist Steve Balestrieri highlights the significant
+      disparity between U.S. and Russian 5th-generation fighter programs, noting that
+      while the U.S. has nearly 1,300 F-35s, Russia's Su-57 fleet consists of only about
+      25 aircraft, which are hindered by poor stealth capabilities and supply chain
+      issues.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri highlights
+      the significant disparity between the American and Russian fifth-generation fighter
+      programs, noting that the U.S. has nearly 1,300 F-35s compared to Russia's meager
+      fleet of about 25 Su-57 Felon aircraft. He points out that the Su-57 suffers from
+      inadequate stealth capabilities and is hindered by supply chain issues, raising
+      doubts about its effectiveness in modern warfare. The article underscores the
+      challenges facing Russia's military aviation in contrast to the robust capabilities
+      of the U.S. forces.
+    published: '2026-03-23T14:39:39+00:00'
+  - title: France Just Closed Its Airspace to U.S. Bombers Attacking Iran — A B-1B Had
+      to Fly Around NATO Allies to Get Home From Its Mission
+    url: https://www.19fortyfive.com/2026/03/france-just-closed-its-airspace-to-u-s-bombers-attacking-iran-a-b-1b-had-to-fly-around-nato-allies-to-get-home-from-its-mission/
+    text: Defense expert Dr. Brent M. Eastwood breaks down the diplomatic rift impacting
+      Operation Epic Fury. With France, Spain, and Portugal denying airspace to U.S.
+      strike aircraft, a B-1B Lancer was forced into a massive detour to RAF Fairford,
+      highlighting the logistical and geopolitical toll of unilateral military action.
+      The post France Just Closed Its Airspace to U.S. Bombers Attacking Iran — A B-1B
+      Had to Fly Around NATO Allies to Get Home From Its Mission appeared first on 19FortyFive
+      .
+    one_sentence_summary: Dr. Brent M. Eastwood analyzes the diplomatic tensions affecting
+      Operation Epic Fury, as France, Spain, and Portugal's denial of airspace to U.S.
+      strike aircraft forced a B-1B Lancer to take a significant detour, underscoring
+      the logistical challenges of unilateral military operations.
+    paragraph_summary: In an analysis by defense expert Dr. Brent M. Eastwood, the diplomatic
+      tensions affecting Operation Epic Fury are examined, particularly following France,
+      Spain, and Portugal's decision to deny airspace to U.S. strike aircraft. This
+      resulted in a B-1B Lancer having to take a significant detour to RAF Fairford
+      after its mission, underscoring the logistical challenges and geopolitical ramifications
+      of unilateral military actions by the U.S. The situation highlights the complexities
+      of international relations within NATO, especially in the context of military
+      operations against Iran.
+    published: '2026-03-23T14:23:35+00:00'
+  - title: France Just Closed Its Airspace to U.S. Bombers Attacking Iran — A B-1B Had
+      to Fly Around NATO Allies to Get Home From Its Mission
+    url: https://www.19fortyfive.com/2026/03/france-just-closed-its-airspace-to-u-s-bombers-attacking-iran-a-b-1b-had-to-fly-around-nato-allies-to-get-home-from-its-mission/
+    text: Defense expert Dr. Brent M. Eastwood breaks down the diplomatic rift impacting
+      Operation Epic Fury. With France, Spain, and Portugal denying airspace to U.S.
+      strike aircraft, a B-1B Lancer was forced into a massive detour to RAF Fairford,
+      highlighting the logistical and geopolitical toll of unilateral military action.
+      The post France Just Closed Its Airspace to U.S. Bombers Attacking Iran — A B-1B
+      Had to Fly Around NATO Allies to Get Home From Its Mission appeared first on 19FortyFive
+      .
+    one_sentence_summary: Dr. Brent M. Eastwood analyzes the diplomatic tensions affecting
+      Operation Epic Fury, as France, Spain, and Portugal's denial of airspace to U.S.
+      strike aircraft forced a B-1B Lancer to take a significant detour, underscoring
+      the logistical challenges of unilateral military operations.
+    paragraph_summary: In an analysis by defense expert Dr. Brent M. Eastwood, the diplomatic
+      tensions affecting Operation Epic Fury are examined, particularly following France,
+      Spain, and Portugal's decision to deny airspace to U.S. strike aircraft. This
+      resulted in a B-1B Lancer having to take a significant detour to RAF Fairford
+      after its mission, underscoring the logistical challenges and geopolitical ramifications
+      of unilateral military actions by the U.S. The situation highlights the complexities
+      of international relations within NATO, especially in the context of military
+      operations against Iran.
+    published: '2026-03-23T14:23:35+00:00'
+  - title: Russia Designed a Submarine to Replace ‘Black Hole’ Kilo-Class — China Cancelled,
+      India Chose France, and Moscow Never Actually Built One
+    url: https://www.19fortyfive.com/2026/03/russia-designed-a-submarine-to-replace-black-hole-kilo-class-china-cancelled-india-chose-france-and-moscow-never-actually-built-one/
+    text: Defense columnist Steve Balestrieri analyzes the struggles of Russia’s Amur-class
+      submarine program. Marketed as the ultimate stealth successor to the Kilo-class
+      with AIP and VLS capabilities, the Amur has failed to secure a single buyer. Crippling
+      sanctions and technical failures have left this fifth-generation export sub completely
+      stalled. The post Russia Designed a Submarine to Replace ‘Black Hole’ Kilo-Class
+      — China Cancelled, India Chose France, and Moscow Never Actually Built One appeared
+      first on 19FortyFive .
+    one_sentence_summary: Steve Balestrieri examines the challenges facing Russia's
+      Amur-class submarine program, which, despite being promoted as a stealthy successor
+      to the Kilo-class, has not attracted any buyers due to sanctions and technical
+      issues.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri discusses
+      the challenges facing Russia's Amur-class submarine program, which was intended
+      to be a stealthy successor to the Kilo-class submarines, featuring air-independent
+      propulsion (AIP) and vertical launch system (VLS) capabilities. Despite its promising
+      design, the Amur has not attracted any buyers due to severe sanctions and ongoing
+      technical issues, leaving the fifth-generation export submarine program effectively
+      stalled. Balestrieri notes that potential customers like China have canceled orders,
+      while India opted for French submarines instead, highlighting the program's significant
+      setbacks.
+    published: '2026-03-23T14:11:57+00:00'
+  - title: Russia Designed a Submarine to Replace ‘Black Hole’ Kilo-Class — China Cancelled,
+      India Chose France, and Moscow Never Actually Built One
+    url: https://www.19fortyfive.com/2026/03/russia-designed-a-submarine-to-replace-black-hole-kilo-class-china-cancelled-india-chose-france-and-moscow-never-actually-built-one/
+    text: Defense columnist Steve Balestrieri analyzes the struggles of Russia’s Amur-class
+      submarine program. Marketed as the ultimate stealth successor to the Kilo-class
+      with AIP and VLS capabilities, the Amur has failed to secure a single buyer. Crippling
+      sanctions and technical failures have left this fifth-generation export sub completely
+      stalled. The post Russia Designed a Submarine to Replace ‘Black Hole’ Kilo-Class
+      — China Cancelled, India Chose France, and Moscow Never Actually Built One appeared
+      first on 19FortyFive .
+    one_sentence_summary: Steve Balestrieri examines the challenges facing Russia's
+      Amur-class submarine program, which, despite being promoted as a stealthy successor
+      to the Kilo-class, has not attracted any buyers due to sanctions and technical
+      issues.
+    paragraph_summary: In his analysis, defense columnist Steve Balestrieri discusses
+      the challenges facing Russia's Amur-class submarine program, which was intended
+      to be a stealthy successor to the Kilo-class submarines, featuring air-independent
+      propulsion (AIP) and vertical launch system (VLS) capabilities. Despite its promising
+      design, the Amur has not attracted any buyers due to severe sanctions and ongoing
+      technical issues, leaving the fifth-generation export submarine program effectively
+      stalled. Balestrieri notes that potential customers like China have canceled orders,
+      while India opted for French submarines instead, highlighting the program's significant
+      setbacks.
+    published: '2026-03-23T14:11:57+00:00'
+  - title: China Is Watching America Fail in the Strait of Hormuz — and Taking Notes
+      on How to Blockade the Taiwan Strait and 90% of the World’s Semiconductors
+    url: https://www.19fortyfive.com/2026/03/china-is-watching-america-fail-in-the-strait-of-hormuz-and-taking-notes-on-how-to-blockade-the-taiwan-strait-and-90-of-the-worlds-semiconductors/
+    text: Senior National Security Editor Brandon J. Weichert examines how the 2026
+      Iran War is providing a strategic blueprint for China. As the U.S. struggles to
+      reopen the Strait of Hormuz, Beijing is reportedly assessing a similar economic
+      blockade of the Taiwan Strait to cripple the global semiconductor supply chain.
+      The post China Is Watching America Fail in the Strait of Hormuz — and Taking Notes
+      on How to Blockade the Taiwan Strait and 90% of the World’s Semiconductors appeared
+      first on 19FortyFive .
+    one_sentence_summary: Brandon J. Weichert analyzes how the 2026 Iran War is influencing
+      China's strategy, as Beijing observes the U.S. challenges in the Strait of Hormuz
+      to potentially implement a blockade of the Taiwan Strait, targeting the global
+      semiconductor supply chain.
+    paragraph_summary: In his analysis, Senior National Security Editor Brandon J. Weichert
+      discusses how the ongoing 2026 Iran War is influencing China's strategic planning,
+      particularly in light of the U.S. difficulties in reopening the Strait of Hormuz.
+      He highlights that Beijing is reportedly observing these challenges to potentially
+      implement a similar economic blockade of the Taiwan Strait, which would threaten
+      the global semiconductor supply chain, as Taiwan produces 90% of the world's semiconductors.
+      This situation underscores the implications of U.S. military and diplomatic struggles
+      for global economic stability and security.
+    published: '2026-03-23T13:21:44+00:00'
+  - title: China Is Watching America Fail in the Strait of Hormuz — and Taking Notes
+      on How to Blockade the Taiwan Strait and 90% of the World’s Semiconductors
+    url: https://www.19fortyfive.com/2026/03/china-is-watching-america-fail-in-the-strait-of-hormuz-and-taking-notes-on-how-to-blockade-the-taiwan-strait-and-90-of-the-worlds-semiconductors/
+    text: Senior National Security Editor Brandon J. Weichert examines how the 2026
+      Iran War is providing a strategic blueprint for China. As the U.S. struggles to
+      reopen the Strait of Hormuz, Beijing is reportedly assessing a similar economic
+      blockade of the Taiwan Strait to cripple the global semiconductor supply chain.
+      The post China Is Watching America Fail in the Strait of Hormuz — and Taking Notes
+      on How to Blockade the Taiwan Strait and 90% of the World’s Semiconductors appeared
+      first on 19FortyFive .
+    one_sentence_summary: Brandon J. Weichert analyzes how the 2026 Iran War is influencing
+      China's strategy, as Beijing observes the U.S. challenges in the Strait of Hormuz
+      to potentially implement a blockade of the Taiwan Strait, targeting the global
+      semiconductor supply chain.
+    paragraph_summary: In his analysis, Senior National Security Editor Brandon J. Weichert
+      discusses how the ongoing 2026 Iran War is influencing China's strategic planning,
+      particularly in light of the U.S. difficulties in reopening the Strait of Hormuz.
+      He highlights that Beijing is reportedly observing these challenges to potentially
+      implement a similar economic blockade of the Taiwan Strait, which would threaten
+      the global semiconductor supply chain, as Taiwan produces 90% of the world's semiconductors.
+      This situation underscores the implications of U.S. military and diplomatic struggles
+      for global economic stability and security.
+    published: '2026-03-23T13:21:44+00:00'
+  - title: The F-47 NGAD and Its Secret Weapon Will Flip America’s Entire Air Defense
+      Strategy — Russia’s S-400 Will Have No Time to Move or Hide
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-and-its-secret-weapon-will-flip-americas-entire-air-defense-strategy-russias-s-400-will-have-no-time-to-move-or-hide/
+    text: British defense researcher Jack Buckby examines the U.S. Air Force's radical
+      shift in SEAD warfare. By combining the 6th-generation F-47 (NGAD) with Northrop
+      Grumman's Stand-in Attack Weapon (SiAW), the military is abandoning traditional
+      long-range stand-off tactics to hunt and destroy mobile air defenses directly
+      inside contested airspace. The post The F-47 NGAD and Its Secret Weapon Will Flip
+      America’s Entire Air Defense Strategy — Russia’s S-400 Will Have No Time to Move
+      or Hide appeared first on 19FortyFive .
+    one_sentence_summary: Jack Buckby discusses the U.S. Air Force's transformative
+      approach to SEAD warfare by integrating the 6th-generation F-47 with Northrop
+      Grumman's SiAW, enabling direct attacks on mobile air defenses within contested
+      airspace, thereby altering traditional tactics and challenging systems like Russia's
+      S-400.
+    paragraph_summary: British defense researcher Jack Buckby discusses a significant
+      transformation in U.S. Air Force SEAD (Suppression of Enemy Air Defenses) strategies,
+      highlighting the integration of the 6th-generation F-47 (Next Generation Air Dominance)
+      aircraft with Northrop Grumman's Stand-in Attack Weapon (SiAW). This new approach
+      marks a departure from traditional long-range tactics, as the military aims to
+      directly target and eliminate mobile air defenses within contested airspace, potentially
+      rendering systems like Russia's S-400 ineffective by not allowing them time to
+      relocate or conceal themselves.
+    published: '2026-03-23T12:26:20+00:00'
+  - title: The F-47 NGAD and Its Secret Weapon Will Flip America’s Entire Air Defense
+      Strategy — Russia’s S-400 Will Have No Time to Move or Hide
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-and-its-secret-weapon-will-flip-americas-entire-air-defense-strategy-russias-s-400-will-have-no-time-to-move-or-hide/
+    text: British defense researcher Jack Buckby examines the U.S. Air Force's radical
+      shift in SEAD warfare. By combining the 6th-generation F-47 (NGAD) with Northrop
+      Grumman's Stand-in Attack Weapon (SiAW), the military is abandoning traditional
+      long-range stand-off tactics to hunt and destroy mobile air defenses directly
+      inside contested airspace. The post The F-47 NGAD and Its Secret Weapon Will Flip
+      America’s Entire Air Defense Strategy — Russia’s S-400 Will Have No Time to Move
+      or Hide appeared first on 19FortyFive .
+    one_sentence_summary: Jack Buckby discusses the U.S. Air Force's transformative
+      approach to SEAD warfare by integrating the 6th-generation F-47 with Northrop
+      Grumman's SiAW, enabling direct attacks on mobile air defenses within contested
+      airspace, thereby altering traditional tactics and challenging systems like Russia's
+      S-400.
+    paragraph_summary: British defense researcher Jack Buckby discusses a significant
+      transformation in U.S. Air Force SEAD (Suppression of Enemy Air Defenses) strategies,
+      highlighting the integration of the 6th-generation F-47 (Next Generation Air Dominance)
+      aircraft with Northrop Grumman's Stand-in Attack Weapon (SiAW). This new approach
+      marks a departure from traditional long-range tactics, as the military aims to
+      directly target and eliminate mobile air defenses within contested airspace, potentially
+      rendering systems like Russia's S-400 ineffective by not allowing them time to
+      relocate or conceal themselves.
+    published: '2026-03-23T12:26:20+00:00'
+  - title: The Iran War Is Teaching America How to Fight China — and the Lessons About
+      Tomahawk Missiles and Drone Swarms Are Not Encouraging
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-teaching-america-how-to-fight-china-and-the-lessons-about-tomahawk-missiles-and-drone-swarms-are-not-encouraging/
+    text: Former Pentagon acquisition expert Kris Osborn explores how the ongoing conflict
+      in Iran serves as a real-world testing ground for a potential war with China.
+      While B-2 bombers demonstrate the power of effects-based warfare, the rapid depletion
+      of Tomahawk stockpiles exposes critical vulnerabilities in America's defense industrial
+      base. The post The Iran War Is Teaching America How to Fight China — and the Lessons
+      About Tomahawk Missiles and Drone Swarms Are Not Encouraging appeared first on
+      19FortyFive .
+    one_sentence_summary: Kris Osborn discusses how the conflict in Iran is providing
+      insights into potential warfare with China, highlighting the effectiveness of
+      B-2 bombers and the concerning depletion of Tomahawk missile stockpiles that reveal
+      weaknesses in the U.S. defense industrial base.
+    paragraph_summary: In his analysis, former Pentagon acquisition expert Kris Osborn
+      discusses how the conflict in Iran is providing valuable insights for a potential
+      conflict with China. He highlights the effectiveness of B-2 bombers in effects-based
+      warfare but also points out the concerning depletion of Tomahawk missile stockpiles,
+      which reveals significant weaknesses in the U.S. defense industrial base. Osborn's
+      examination underscores the challenges and lessons learned regarding missile and
+      drone warfare that may impact future military strategies against China.
+    published: '2026-03-23T12:09:49+00:00'
+  - title: The Iran War Is Teaching America How to Fight China — and the Lessons About
+      Tomahawk Missiles and Drone Swarms Are Not Encouraging
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-teaching-america-how-to-fight-china-and-the-lessons-about-tomahawk-missiles-and-drone-swarms-are-not-encouraging/
+    text: Former Pentagon acquisition expert Kris Osborn explores how the ongoing conflict
+      in Iran serves as a real-world testing ground for a potential war with China.
+      While B-2 bombers demonstrate the power of effects-based warfare, the rapid depletion
+      of Tomahawk stockpiles exposes critical vulnerabilities in America's defense industrial
+      base. The post The Iran War Is Teaching America How to Fight China — and the Lessons
+      About Tomahawk Missiles and Drone Swarms Are Not Encouraging appeared first on
+      19FortyFive .
+    one_sentence_summary: Kris Osborn discusses how the conflict in Iran is providing
+      insights into potential warfare with China, highlighting the effectiveness of
+      B-2 bombers and the concerning depletion of Tomahawk missile stockpiles that reveal
+      weaknesses in the U.S. defense industrial base.
+    paragraph_summary: In his analysis, former Pentagon acquisition expert Kris Osborn
+      discusses how the conflict in Iran is providing valuable insights for a potential
+      conflict with China. He highlights the effectiveness of B-2 bombers in effects-based
+      warfare but also points out the concerning depletion of Tomahawk missile stockpiles,
+      which reveals significant weaknesses in the U.S. defense industrial base. Osborn's
+      examination underscores the challenges and lessons learned regarding missile and
+      drone warfare that may impact future military strategies against China.
+    published: '2026-03-23T12:09:49+00:00'
+  - title: The U.S. Navy Cancelled the Constellation-Class Frigate After It Added 500
+      Tons to Its Own Design
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-cancelled-the-constellation-class-frigate-after-it-added-500-tons-to-its-own-design/
+    text: Kris Osborn explores the U.S. Navy's abrupt shift from the heavy, Aegis-equipped
+      Constellation-class to the new FF(X) frigate. Based on the Coast Guard's Legend-class
+      cutter, the FF(X) prioritizes modular mission spaces, speed, and production stability
+      to meet the demands of a distributed 2026 naval force. The post The U.S. Navy
+      Cancelled the Constellation-Class Frigate After It Added 500 Tons to Its Own Design
+      appeared first on 19FortyFive .
+    one_sentence_summary: Kris Osborn discusses the U.S. Navy's decision to replace
+      the heavy Aegis-equipped Constellation-class frigate with the new FF(X) frigate,
+      which focuses on modularity, speed, and production stability to align with the
+      needs of a future naval force.
+    paragraph_summary: Kris Osborn discusses the U.S. Navy's unexpected decision to
+      abandon the heavy, Aegis-equipped Constellation-class frigate in favor of the
+      new FF(X) frigate, which is based on the Coast Guard's Legend-class cutter. The
+      FF(X) emphasizes modular mission spaces, enhanced speed, and production stability,
+      aligning with the Navy's goal of creating a more versatile and efficient distributed
+      naval force by 2026. This shift was prompted by the Constellation-class's significant
+      weight increase of 500 tons, which influenced the Navy's strategic direction.
+    published: '2026-03-23T00:33:57+00:00'
+  - title: The U.S. Navy Cancelled the Constellation-Class Frigate After It Added 500
+      Tons to Its Own Design
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-cancelled-the-constellation-class-frigate-after-it-added-500-tons-to-its-own-design/
+    text: Kris Osborn explores the U.S. Navy's abrupt shift from the heavy, Aegis-equipped
+      Constellation-class to the new FF(X) frigate. Based on the Coast Guard's Legend-class
+      cutter, the FF(X) prioritizes modular mission spaces, speed, and production stability
+      to meet the demands of a distributed 2026 naval force. The post The U.S. Navy
+      Cancelled the Constellation-Class Frigate After It Added 500 Tons to Its Own Design
+      appeared first on 19FortyFive .
+    one_sentence_summary: Kris Osborn discusses the U.S. Navy's decision to replace
+      the heavy Aegis-equipped Constellation-class frigate with the new FF(X) frigate,
+      which focuses on modularity, speed, and production stability to align with the
+      needs of a future naval force.
+    paragraph_summary: Kris Osborn discusses the U.S. Navy's unexpected decision to
+      abandon the heavy, Aegis-equipped Constellation-class frigate in favor of the
+      new FF(X) frigate, which is based on the Coast Guard's Legend-class cutter. The
+      FF(X) emphasizes modular mission spaces, enhanced speed, and production stability,
+      aligning with the Navy's goal of creating a more versatile and efficient distributed
+      naval force by 2026. This shift was prompted by the Constellation-class's significant
+      weight increase of 500 tons, which influenced the Navy's strategic direction.
+    published: '2026-03-23T00:33:57+00:00'
+  - title: A Swedish Pilot Flew Alongside a Crippled SR-71 That Hit Mach 3 While Russian
+      MiGs Were In Pursuit — Here Is What Happened Next
+    url: https://www.19fortyfive.com/2026/03/a-swedish-pilot-flew-alongside-a-crippled-sr-71-that-hit-mach-3-while-russian-migs-were-in-pursuit-here-is-what-happened-next/
+    text: Former US Army Special Forces Warrant Officer Steve Balestrieri examines the
+      Saab JA-37 Viggen. Designed for Sweden's Bas 90 highway strips, this Mach 2 delta-wing
+      fighter made aviation history by routinely radar-locking the SR-71 Blackbird and
+      famously shielding a crippled American spy plane from Soviet MiG-25s in 1987.
+      The post A Swedish Pilot Flew Alongside a Crippled SR-71 That Hit Mach 3 While
+      Russian MiGs Were In Pursuit — Here Is What Happened Next appeared first on 19FortyFive
+      .
+    one_sentence_summary: Steve Balestrieri discusses the Saab JA-37 Viggen, a Mach
+      2 delta-wing fighter that played a crucial role in aviation history by successfully
+      radar-locking the SR-71 Blackbird and protecting a damaged American spy plane
+      from Soviet MiG-25s in 1987.
+    paragraph_summary: In an article by former US Army Special Forces Warrant Officer
+      Steve Balestrieri, the Saab JA-37 Viggen is highlighted for its unique design
+      tailored for Sweden's Bas 90 highway strips and its impressive capabilities as
+      a Mach 2 delta-wing fighter. Notably, the Viggen made aviation history by successfully
+      radar-locking the SR-71 Blackbird and played a crucial role in 1987 when it protected
+      a damaged American spy plane from pursuing Soviet MiG-25s. The article delves
+      into this remarkable incident, showcasing the Viggen's significance in aerial
+      defense during the Cold War era.
+    published: '2026-03-23T00:24:12+00:00'
+  - title: A Swedish Pilot Flew Alongside a Crippled SR-71 That Hit Mach 3 While Russian
+      MiGs Were In Pursuit — Here Is What Happened Next
+    url: https://www.19fortyfive.com/2026/03/a-swedish-pilot-flew-alongside-a-crippled-sr-71-that-hit-mach-3-while-russian-migs-were-in-pursuit-here-is-what-happened-next/
+    text: Former US Army Special Forces Warrant Officer Steve Balestrieri examines the
+      Saab JA-37 Viggen. Designed for Sweden's Bas 90 highway strips, this Mach 2 delta-wing
+      fighter made aviation history by routinely radar-locking the SR-71 Blackbird and
+      famously shielding a crippled American spy plane from Soviet MiG-25s in 1987.
+      The post A Swedish Pilot Flew Alongside a Crippled SR-71 That Hit Mach 3 While
+      Russian MiGs Were In Pursuit — Here Is What Happened Next appeared first on 19FortyFive
+      .
+    one_sentence_summary: Steve Balestrieri discusses the Saab JA-37 Viggen, a Mach
+      2 delta-wing fighter that played a crucial role in aviation history by successfully
+      radar-locking the SR-71 Blackbird and protecting a damaged American spy plane
+      from Soviet MiG-25s in 1987.
+    paragraph_summary: In an article by former US Army Special Forces Warrant Officer
+      Steve Balestrieri, the Saab JA-37 Viggen is highlighted for its unique design
+      tailored for Sweden's Bas 90 highway strips and its impressive capabilities as
+      a Mach 2 delta-wing fighter. Notably, the Viggen made aviation history by successfully
+      radar-locking the SR-71 Blackbird and played a crucial role in 1987 when it protected
+      a damaged American spy plane from pursuing Soviet MiG-25s. The article delves
+      into this remarkable incident, showcasing the Viggen's significance in aerial
+      defense during the Cold War era.
+    published: '2026-03-23T00:24:12+00:00'
+  - title: Sweden Built a Mach 2 Fighter in the 1950s That Could Do the Top Gun Cobra
+      Maneuver Before Anyone Else — and It Flew for 45 Years
+    url: https://www.19fortyfive.com/2026/03/sweden-built-a-mach-2-fighter-in-the-1950s-that-could-do-the-top-gun-cobra-maneuver-before-anyone-else-and-it-flew-for-45-years/
+    text: The Saab 35 Draken was a Cold War masterpiece. With its radical double-delta
+      wing and ability to operate from rural highways, this Mach 2 interceptor redefined
+      aerial combat. Discover how this iconic Swedish fighter pioneered the "Cobra maneuver"
+      and held the line against Soviet threats for nearly half a century. The post Sweden
+      Built a Mach 2 Fighter in the 1950s That Could Do the Top Gun Cobra Maneuver Before
+      Anyone Else — and It Flew for 45 Years appeared first on 19FortyFive .
+    one_sentence_summary: The Saab 35 Draken, a revolutionary Cold War fighter with
+      a unique double-delta wing design and the ability to perform the "Cobra maneuver,"
+      served as a formidable Mach 2 interceptor for Sweden against Soviet threats for
+      nearly 45 years.
+    paragraph_summary: The Saab 35 Draken, a groundbreaking Swedish fighter jet developed
+      during the Cold War, featured a unique double-delta wing design and the capability
+      to operate from rural highways, allowing it to redefine aerial combat as a Mach
+      2 interceptor. Notably, it pioneered the "Cobra maneuver," showcasing its advanced
+      agility and performance. The Draken played a crucial role in countering Soviet
+      threats for nearly 50 years, solidifying its status as an iconic aircraft in military
+      aviation history.
+    published: '2026-03-23T00:08:12+00:00'
+  - title: Sweden Built a Mach 2 Fighter in the 1950s That Could Do the Top Gun Cobra
+      Maneuver Before Anyone Else — and It Flew for 45 Years
+    url: https://www.19fortyfive.com/2026/03/sweden-built-a-mach-2-fighter-in-the-1950s-that-could-do-the-top-gun-cobra-maneuver-before-anyone-else-and-it-flew-for-45-years/
+    text: The Saab 35 Draken was a Cold War masterpiece. With its radical double-delta
+      wing and ability to operate from rural highways, this Mach 2 interceptor redefined
+      aerial combat. Discover how this iconic Swedish fighter pioneered the "Cobra maneuver"
+      and held the line against Soviet threats for nearly half a century. The post Sweden
+      Built a Mach 2 Fighter in the 1950s That Could Do the Top Gun Cobra Maneuver Before
+      Anyone Else — and It Flew for 45 Years appeared first on 19FortyFive .
+    one_sentence_summary: The Saab 35 Draken, a revolutionary Cold War fighter with
+      a unique double-delta wing design and the ability to perform the "Cobra maneuver,"
+      served as a formidable Mach 2 interceptor for Sweden against Soviet threats for
+      nearly 45 years.
+    paragraph_summary: The Saab 35 Draken, a groundbreaking Swedish fighter jet developed
+      during the Cold War, featured a unique double-delta wing design and the capability
+      to operate from rural highways, allowing it to redefine aerial combat as a Mach
+      2 interceptor. Notably, it pioneered the "Cobra maneuver," showcasing its advanced
+      agility and performance. The Draken played a crucial role in countering Soviet
+      threats for nearly 50 years, solidifying its status as an iconic aircraft in military
+      aviation history.
+    published: '2026-03-23T00:08:12+00:00'
+  - title: A Third U.S. Aircraft Carrier Is Heading to the Iran War — It’s Not an Escalation
+      Signal, It’s a Sign America Is Running Out of Options
+    url: https://www.19fortyfive.com/2026/03/a-third-u-s-aircraft-carrier-is-heading-to-the-iran-war-its-not-an-escalation-signal-its-a-sign-america-is-running-out-of-options/
+    text: With the USS George H.W. Bush (CVN-77) heading to the Middle East, the U.S.
+      Navy is establishing a massive three aircraft carrier presence around Iran. National
+      security expert Harrison Kass breaks down why this rare deployment is focused
+      on relieving the exhausted USS Ford and ensuring long-term logistical endurance
+      for Operation Epic Fury. The post A Third U.S. Aircraft Carrier Is Heading to
+      the Iran War — It’s Not an Escalation Signal, It’s a Sign America Is Running Out
+      of Options appeared first on 19FortyFive .
+    one_sentence_summary: The deployment of the USS George H.W. Bush alongside the USS
+      Ford in the Middle East signifies a strategic effort by the U.S. Navy to bolster
+      operational endurance for ongoing missions around Iran, rather than an escalation
+      of military engagement.
+    paragraph_summary: The USS George H.W. Bush (CVN-77) is en route to the Middle East,
+      contributing to a significant U.S. Navy presence of three aircraft carriers around
+      Iran. National security expert Harrison Kass explains that this deployment aims
+      to support the overextended USS Ford and enhance logistical sustainability for
+      Operation Epic Fury. Rather than signaling an escalation of military action, this
+      move reflects the dwindling options available to the U.S. in the region.
+    published: '2026-03-22T23:56:47+00:00'
+  - title: A Third U.S. Aircraft Carrier Is Heading to the Iran War — It’s Not an Escalation
+      Signal, It’s a Sign America Is Running Out of Options
+    url: https://www.19fortyfive.com/2026/03/a-third-u-s-aircraft-carrier-is-heading-to-the-iran-war-its-not-an-escalation-signal-its-a-sign-america-is-running-out-of-options/
+    text: With the USS George H.W. Bush (CVN-77) heading to the Middle East, the U.S.
+      Navy is establishing a massive three aircraft carrier presence around Iran. National
+      security expert Harrison Kass breaks down why this rare deployment is focused
+      on relieving the exhausted USS Ford and ensuring long-term logistical endurance
+      for Operation Epic Fury. The post A Third U.S. Aircraft Carrier Is Heading to
+      the Iran War — It’s Not an Escalation Signal, It’s a Sign America Is Running Out
+      of Options appeared first on 19FortyFive .
+    one_sentence_summary: The deployment of the USS George H.W. Bush alongside the USS
+      Ford in the Middle East signifies a strategic effort by the U.S. Navy to bolster
+      operational endurance for ongoing missions around Iran, rather than an escalation
+      of military engagement.
+    paragraph_summary: The USS George H.W. Bush (CVN-77) is en route to the Middle East,
+      contributing to a significant U.S. Navy presence of three aircraft carriers around
+      Iran. National security expert Harrison Kass explains that this deployment aims
+      to support the overextended USS Ford and enhance logistical sustainability for
+      Operation Epic Fury. Rather than signaling an escalation of military action, this
+      move reflects the dwindling options available to the U.S. in the region.
+    published: '2026-03-22T23:56:47+00:00'
+  - title: New K3 Hydrogen Tank Looks Like a B-21 Raider Stealth Bomber On Purpose
+    url: https://www.19fortyfive.com/2026/03/new-k3-hydrogen-tanks-looks-like-a-b-21-raider-stealth-bomber-on-purpose/
+    text: Senior National Security Editor Brandon J. Weichert explores South Korea’s
+      K3 Next-Generation Main Battle Tank. Designed by Hyundai Rotem with a hydrogen
+      fuel-cell powertrain, stealth shaping, and a 130mm cannon, this 2040-bound platform
+      signals a radical shift in armored warfare that the U.S. defense industry is struggling
+      to match. The post New K3 Hydrogen Tank Looks Like a B-21 Raider Stealth Bomber
+      On Purpose appeared first on 19FortyFive .
+    one_sentence_summary: Brandon J. Weichert discusses South Korea's K3 Next-Generation
+      Main Battle Tank, featuring a hydrogen fuel-cell powertrain, stealth design, and
+      a 130mm cannon, which represents a significant advancement in armored warfare
+      that the U.S. defense industry is finding difficult to keep up with.
+    paragraph_summary: Brandon J. Weichert discusses South Korea's K3 Next-Generation
+      Main Battle Tank, developed by Hyundai Rotem, which features a hydrogen fuel-cell
+      powertrain, stealth design, and a powerful 130mm cannon. Set for deployment by
+      2040, this innovative tank represents a significant evolution in armored warfare,
+      highlighting advancements that the U.S. defense industry is currently struggling
+      to keep pace with. The design of the K3 intentionally resembles the B-21 Raider
+      stealth bomber, emphasizing its modern capabilities and strategic importance.
+    published: '2026-03-22T23:37:08+00:00'
+  - title: New K3 Hydrogen Tank Looks Like a B-21 Raider Stealth Bomber On Purpose
+    url: https://www.19fortyfive.com/2026/03/new-k3-hydrogen-tanks-looks-like-a-b-21-raider-stealth-bomber-on-purpose/
+    text: Senior National Security Editor Brandon J. Weichert explores South Korea’s
+      K3 Next-Generation Main Battle Tank. Designed by Hyundai Rotem with a hydrogen
+      fuel-cell powertrain, stealth shaping, and a 130mm cannon, this 2040-bound platform
+      signals a radical shift in armored warfare that the U.S. defense industry is struggling
+      to match. The post New K3 Hydrogen Tank Looks Like a B-21 Raider Stealth Bomber
+      On Purpose appeared first on 19FortyFive .
+    one_sentence_summary: Brandon J. Weichert discusses South Korea's K3 Next-Generation
+      Main Battle Tank, featuring a hydrogen fuel-cell powertrain, stealth design, and
+      a 130mm cannon, which represents a significant advancement in armored warfare
+      that the U.S. defense industry is finding difficult to keep up with.
+    paragraph_summary: Brandon J. Weichert discusses South Korea's K3 Next-Generation
+      Main Battle Tank, developed by Hyundai Rotem, which features a hydrogen fuel-cell
+      powertrain, stealth design, and a powerful 130mm cannon. Set for deployment by
+      2040, this innovative tank represents a significant evolution in armored warfare,
+      highlighting advancements that the U.S. defense industry is currently struggling
+      to keep pace with. The design of the K3 intentionally resembles the B-21 Raider
+      stealth bomber, emphasizing its modern capabilities and strategic importance.
+    published: '2026-03-22T23:37:08+00:00'
+  - title: Russia Is the Big Winner in the Iran War
+    url: https://www.19fortyfive.com/2026/03/russia-is-the-big-winner-in-the-iran-war/
+    text: Strategic expert Andrew A. Michta explores how Russia is capitalizing on the
+      Iran War to consolidate gains in Europe. With U.S. resources drained and oil revenues
+      surging to $600 million daily, Moscow is actively undermining NATO unity while
+      preparing for a major military breakthrough in Ukraine this spring. The post Russia
+      Is the Big Winner in the Iran War appeared first on 19FortyFive .
+    one_sentence_summary: Strategic expert Andrew A. Michta argues that Russia is leveraging
+      the Iran War to strengthen its position in Europe, weaken NATO unity, and prepare
+      for significant military advances in Ukraine, all while benefiting from increased
+      oil revenues amid U.S. resource depletion.
+    paragraph_summary: Strategic expert Andrew A. Michta analyzes how Russia is leveraging
+      the ongoing Iran War to strengthen its position in Europe, particularly as U.S.
+      resources are stretched thin and Russian oil revenues soar to $600 million daily.
+      He highlights Moscow's efforts to weaken NATO cohesion while gearing up for a
+      significant military advancement in Ukraine anticipated for the upcoming spring.
+    published: '2026-03-22T20:29:41+00:00'
+  - title: Russia Is the Big Winner in the Iran War
+    url: https://www.19fortyfive.com/2026/03/russia-is-the-big-winner-in-the-iran-war/
+    text: Strategic expert Andrew A. Michta explores how Russia is capitalizing on the
+      Iran War to consolidate gains in Europe. With U.S. resources drained and oil revenues
+      surging to $600 million daily, Moscow is actively undermining NATO unity while
+      preparing for a major military breakthrough in Ukraine this spring. The post Russia
+      Is the Big Winner in the Iran War appeared first on 19FortyFive .
+    one_sentence_summary: Strategic expert Andrew A. Michta argues that Russia is leveraging
+      the Iran War to strengthen its position in Europe, weaken NATO unity, and prepare
+      for significant military advances in Ukraine, all while benefiting from increased
+      oil revenues amid U.S. resource depletion.
+    paragraph_summary: Strategic expert Andrew A. Michta analyzes how Russia is leveraging
+      the ongoing Iran War to strengthen its position in Europe, particularly as U.S.
+      resources are stretched thin and Russian oil revenues soar to $600 million daily.
+      He highlights Moscow's efforts to weaken NATO cohesion while gearing up for a
+      significant military advancement in Ukraine anticipated for the upcoming spring.
+    published: '2026-03-22T20:29:41+00:00'
+  - title: The F-15E Had 100+ Aerial Victories and Zero Combat Losses for 40 Years —
+      One Kuwaiti Pilot May Have Ended That Record With Three Missiles
+    url: https://www.19fortyfive.com/2026/03/the-f-15e-had-100-aerial-victories-and-zero-combat-losses-for-40-years-one-kuwaiti-pilot-may-have-ended-that-record-with-three-missiles/
+    text: Former Army officer Dr. Brent Eastwood examines the tragic end of the F-15E
+      Strike Eagle’s 104-0 record. During 2026's Operation Epic Fury, three F-15Es were
+      downed by friendly fire from a Kuwaiti F/A-18, highlighting the lethal "fog of
+      war" and IFF challenges in the high-stakes air campaign against Iran. The post
+      The F-15E Had 100+ Aerial Victories and Zero Combat Losses for 40 Years — One
+      Kuwaiti Pilot May Have Ended That Record With Three Missiles appeared first on
+      19FortyFive .
+    one_sentence_summary: Dr. Brent Eastwood analyzes how the F-15E Strike Eagle's impressive
+      104-0 combat record was tragically marred in 2026 when three of its aircraft were
+      shot down by friendly fire from a Kuwaiti F/A-18 during Operation Epic Fury, underscoring
+      the complexities of identification friend or foe (IFF) in warfare.
+    paragraph_summary: In a detailed analysis, former Army officer Dr. Brent Eastwood
+      reflects on the end of the F-15E Strike Eagle's impressive 104-0 combat record,
+      which was shattered during Operation Epic Fury in 2026 when three F-15Es were
+      mistakenly shot down by a Kuwaiti F/A-18 due to friendly fire. This incident underscores
+      the complexities and dangers of aerial warfare, particularly the challenges of
+      identifying friend from foe (IFF) amidst the chaotic environment of combat, as
+      the air campaign against Iran intensified.
+    published: '2026-03-22T15:54:04+00:00'
+  - title: The F-15E Had 100+ Aerial Victories and Zero Combat Losses for 40 Years —
+      One Kuwaiti Pilot May Have Ended That Record With Three Missiles
+    url: https://www.19fortyfive.com/2026/03/the-f-15e-had-100-aerial-victories-and-zero-combat-losses-for-40-years-one-kuwaiti-pilot-may-have-ended-that-record-with-three-missiles/
+    text: Former Army officer Dr. Brent Eastwood examines the tragic end of the F-15E
+      Strike Eagle’s 104-0 record. During 2026's Operation Epic Fury, three F-15Es were
+      downed by friendly fire from a Kuwaiti F/A-18, highlighting the lethal "fog of
+      war" and IFF challenges in the high-stakes air campaign against Iran. The post
+      The F-15E Had 100+ Aerial Victories and Zero Combat Losses for 40 Years — One
+      Kuwaiti Pilot May Have Ended That Record With Three Missiles appeared first on
+      19FortyFive .
+    one_sentence_summary: Dr. Brent Eastwood analyzes how the F-15E Strike Eagle's impressive
+      104-0 combat record was tragically marred in 2026 when three of its aircraft were
+      shot down by friendly fire from a Kuwaiti F/A-18 during Operation Epic Fury, underscoring
+      the complexities of identification friend or foe (IFF) in warfare.
+    paragraph_summary: In a detailed analysis, former Army officer Dr. Brent Eastwood
+      reflects on the end of the F-15E Strike Eagle's impressive 104-0 combat record,
+      which was shattered during Operation Epic Fury in 2026 when three F-15Es were
+      mistakenly shot down by a Kuwaiti F/A-18 due to friendly fire. This incident underscores
+      the complexities and dangers of aerial warfare, particularly the challenges of
+      identifying friend from foe (IFF) amidst the chaotic environment of combat, as
+      the air campaign against Iran intensified.
+    published: '2026-03-22T15:54:04+00:00'
+  - title: 'Military Quote of the Day by Sun Tzu: ‘Wheels of destiny are turned by the
+      ability to remain formless and inaudible…’'
+    url: https://www.19fortyfive.com/2026/03/military-quote-of-the-day-by-sun-tzu-wheels-of-destiny-are-turned-by-the-ability-to-remain-formless-and-inaudible/
+    text: 'Isaac Seitz examines the profound influence of Sun Tzu’s The Art of War on
+      modern military strategy. From Mao Zedong’s insurgencies to contemporary NATO
+      curricula, the philosophy of "winning without fighting" remains a cornerstone
+      for leaders navigating the psychological, informational, and kinetic complexities
+      of 21st-century global conflict. The post Military Quote of the Day by Sun Tzu:
+      ‘Wheels of destiny are turned by the ability to remain formless and inaudible…’
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Isaac Seitz explores how Sun Tzu's The Art of War continues
+      to shape modern military strategy, emphasizing the principle of "winning without
+      fighting" as essential for leaders addressing the complexities of 21st-century
+      conflicts.
+    paragraph_summary: Isaac Seitz explores the significant impact of Sun Tzu's "The
+      Art of War" on contemporary military strategy, highlighting its enduring principle
+      of "winning without fighting." This philosophy has shaped various military approaches,
+      from Mao Zedong's insurgencies to current NATO training programs, as leaders confront
+      the intricate psychological, informational, and kinetic challenges of modern global
+      conflicts. The article emphasizes the relevance of Sun Tzu's insights, particularly
+      the idea that success often lies in adaptability and subtlety.
+    published: '2026-03-22T15:32:51+00:00'
+  - title: 'Military Quote of the Day by Sun Tzu: ‘Wheels of destiny are turned by the
+      ability to remain formless and inaudible…’'
+    url: https://www.19fortyfive.com/2026/03/military-quote-of-the-day-by-sun-tzu-wheels-of-destiny-are-turned-by-the-ability-to-remain-formless-and-inaudible/
+    text: 'Isaac Seitz examines the profound influence of Sun Tzu’s The Art of War on
+      modern military strategy. From Mao Zedong’s insurgencies to contemporary NATO
+      curricula, the philosophy of "winning without fighting" remains a cornerstone
+      for leaders navigating the psychological, informational, and kinetic complexities
+      of 21st-century global conflict. The post Military Quote of the Day by Sun Tzu:
+      ‘Wheels of destiny are turned by the ability to remain formless and inaudible…’
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Isaac Seitz explores how Sun Tzu's The Art of War continues
+      to shape modern military strategy, emphasizing the principle of "winning without
+      fighting" as essential for leaders addressing the complexities of 21st-century
+      conflicts.
+    paragraph_summary: Isaac Seitz explores the significant impact of Sun Tzu's "The
+      Art of War" on contemporary military strategy, highlighting its enduring principle
+      of "winning without fighting." This philosophy has shaped various military approaches,
+      from Mao Zedong's insurgencies to current NATO training programs, as leaders confront
+      the intricate psychological, informational, and kinetic challenges of modern global
+      conflicts. The article emphasizes the relevance of Sun Tzu's insights, particularly
+      the idea that success often lies in adaptability and subtlety.
+    published: '2026-03-22T15:32:51+00:00'
+  - title: An F-35A Was Just Hit by Iranian Fire During a Combat Mission — The First
+      Time a Stealth Fighter Has Ever Been Struck by an Enemy
+    url: https://www.19fortyfive.com/2026/03/an-f-35a-was-just-hit-by-iranian-fire-during-a-combat-mission-the-first-time-a-stealth-fighter-has-ever-been-struck-by-an-enemy/
+    text: 'National security journalist Stephen Silver breaks down the first instance
+      of a U.S. F-35A being hit by enemy fire during the 2026 Iran campaign. As the
+      Pentagon investigates the strike, a new crisis emerges: next-generation F-35s
+      are being delivered without combat-ready radars due to APG-85 production delays.
+      The post An F-35A Was Just Hit by Iranian Fire During a Combat Mission — The First
+      Time a Stealth Fighter Has Ever Been Struck by an Enemy appeared first on 19FortyFive
+      .'
+    one_sentence_summary: National security journalist Stephen Silver reports on the
+      first instance of a U.S. F-35A being hit by enemy fire during the 2026 Iran campaign,
+      as the Pentagon investigates the incident amid concerns over delays in delivering
+      next-generation F-35s with combat-ready radars.
+    paragraph_summary: 'In a recent article, national security journalist Stephen Silver
+      discusses the unprecedented event of a U.S. F-35A being struck by enemy fire during
+      the 2026 Iran campaign, marking the first time a stealth fighter has been hit
+      in combat. As the Pentagon investigates this incident, it faces a new challenge:
+      the delivery of next-generation F-35s is being hampered by delays in the production
+      of combat-ready radars, specifically the APG-85. This situation raises concerns
+      about the operational readiness of these advanced aircraft amidst ongoing military
+      engagements.'
+    published: '2026-03-22T15:15:28+00:00'
+  - title: An F-35A Was Just Hit by Iranian Fire During a Combat Mission — The First
+      Time a Stealth Fighter Has Ever Been Struck by an Enemy
+    url: https://www.19fortyfive.com/2026/03/an-f-35a-was-just-hit-by-iranian-fire-during-a-combat-mission-the-first-time-a-stealth-fighter-has-ever-been-struck-by-an-enemy/
+    text: 'National security journalist Stephen Silver breaks down the first instance
+      of a U.S. F-35A being hit by enemy fire during the 2026 Iran campaign. As the
+      Pentagon investigates the strike, a new crisis emerges: next-generation F-35s
+      are being delivered without combat-ready radars due to APG-85 production delays.
+      The post An F-35A Was Just Hit by Iranian Fire During a Combat Mission — The First
+      Time a Stealth Fighter Has Ever Been Struck by an Enemy appeared first on 19FortyFive
+      .'
+    one_sentence_summary: National security journalist Stephen Silver reports on the
+      first instance of a U.S. F-35A being hit by enemy fire during the 2026 Iran campaign,
+      as the Pentagon investigates the incident amid concerns over delays in delivering
+      next-generation F-35s with combat-ready radars.
+    paragraph_summary: 'In a recent article, national security journalist Stephen Silver
+      discusses the unprecedented event of a U.S. F-35A being struck by enemy fire during
+      the 2026 Iran campaign, marking the first time a stealth fighter has been hit
+      in combat. As the Pentagon investigates this incident, it faces a new challenge:
+      the delivery of next-generation F-35s is being hampered by delays in the production
+      of combat-ready radars, specifically the APG-85. This situation raises concerns
+      about the operational readiness of these advanced aircraft amidst ongoing military
+      engagements.'
+    published: '2026-03-22T15:15:28+00:00'
+  - title: 'Forget the Ford-Class: The Essex-Class Aircraft Carriers Are the U.S. Navy’s
+      Best ‘Flattops’ Ever'
+    url: https://www.19fortyfive.com/2026/03/forget-the-ford-class-the-essex-class-aircraft-carriers-are-u-s-navys-best-flattops-ever/
+    text: 'Christian D. Orr explores the storied legacy of the Essex-class aircraft
+      carriers, the most numerous class of capital ships in the 20th century. Known
+      for their incredible survivability and 100-aircraft capacity, these flattops served
+      as the heart of U.S. Naval strength from World War II through the Vietnam War.
+      The post Forget the Ford-Class: The Essex-Class Aircraft Carriers Are the U.S.
+      Navy’s Best ‘Flattops’ Ever appeared first on 19FortyFive .'
+    one_sentence_summary: Christian D. Orr examines the significant legacy of the Essex-class
+      aircraft carriers, highlighting their unmatched survivability and capacity that
+      made them central to U.S. Naval power from World War II to the Vietnam War.
+    paragraph_summary: In the article, Christian D. Orr examines the significant legacy
+      of the Essex-class aircraft carriers, which were the most prevalent capital ships
+      of the 20th century. Renowned for their remarkable durability and ability to carry
+      up to 100 aircraft, these carriers played a crucial role in the U.S. Navy's operations
+      from World War II through the Vietnam War, solidifying their status as the backbone
+      of American naval power during that era. The piece argues that despite advancements
+      in naval technology, the Essex-class remains unparalleled in its effectiveness
+      as a "flattop."
+    published: '2026-03-22T15:01:36+00:00'
+  - title: 'Forget the Ford-Class: The Essex-Class Aircraft Carriers Are the U.S. Navy’s
+      Best ‘Flattops’ Ever'
+    url: https://www.19fortyfive.com/2026/03/forget-the-ford-class-the-essex-class-aircraft-carriers-are-u-s-navys-best-flattops-ever/
+    text: 'Christian D. Orr explores the storied legacy of the Essex-class aircraft
+      carriers, the most numerous class of capital ships in the 20th century. Known
+      for their incredible survivability and 100-aircraft capacity, these flattops served
+      as the heart of U.S. Naval strength from World War II through the Vietnam War.
+      The post Forget the Ford-Class: The Essex-Class Aircraft Carriers Are the U.S.
+      Navy’s Best ‘Flattops’ Ever appeared first on 19FortyFive .'
+    one_sentence_summary: Christian D. Orr examines the significant legacy of the Essex-class
+      aircraft carriers, highlighting their unmatched survivability and capacity that
+      made them central to U.S. Naval power from World War II to the Vietnam War.
+    paragraph_summary: In the article, Christian D. Orr examines the significant legacy
+      of the Essex-class aircraft carriers, which were the most prevalent capital ships
+      of the 20th century. Renowned for their remarkable durability and ability to carry
+      up to 100 aircraft, these carriers played a crucial role in the U.S. Navy's operations
+      from World War II through the Vietnam War, solidifying their status as the backbone
+      of American naval power during that era. The piece argues that despite advancements
+      in naval technology, the Essex-class remains unparalleled in its effectiveness
+      as a "flattop."
+    published: '2026-03-22T15:01:36+00:00'
+  - title: Aircraft Carrier USS John C. Stennis Won’t Be Ready to Deploy Until 2027
+      — 5.5 Years in the Shipyard and the U.S. Navy Is Still at War
+    url: https://www.19fortyfive.com/2026/03/aircraft-carrier-uss-john-c-stennis-wont-be-ready-to-deploy-until-2027-5-5-years-in-the-shipyard-and-the-u-s-navy-is-still-at-war/
+    text: The USS John C. Stennis overhaul has extended to 5.5 years, with a new 2026
+      completion date. Kris Osborn explores how "growth work," industrial bottlenecks,
+      and essential modernization have combined to delay the carrier's return, highlighting
+      the challenges of sustaining the U.S. Navy’s aging supercarrier fleet. The post
+      Aircraft Carrier USS John C. Stennis Won’t Be Ready to Deploy Until 2027 — 5.5
+      Years in the Shipyard and the U.S. Navy Is Still at War appeared first on 19FortyFive
+      .
+    one_sentence_summary: The USS John C. Stennis overhaul has been extended to 5.5
+      years with a new completion date in 2026 due to "growth work," industrial bottlenecks,
+      and necessary modernization, underscoring the difficulties in maintaining the
+      aging U.S. Navy supercarrier fleet.
+    paragraph_summary: The overhaul of the USS John C. Stennis has been extended to
+      5.5 years, with a new completion date set for 2026, due to factors such as "growth
+      work," industrial bottlenecks, and necessary modernization efforts. Kris Osborn
+      discusses the challenges faced by the U.S. Navy in maintaining its aging supercarrier
+      fleet, emphasizing the implications of these delays as the Navy remains engaged
+      in ongoing military operations.
+    published: '2026-03-22T14:44:44+00:00'
+  - title: Aircraft Carrier USS John C. Stennis Won’t Be Ready to Deploy Until 2027
+      — 5.5 Years in the Shipyard and the U.S. Navy Is Still at War
+    url: https://www.19fortyfive.com/2026/03/aircraft-carrier-uss-john-c-stennis-wont-be-ready-to-deploy-until-2027-5-5-years-in-the-shipyard-and-the-u-s-navy-is-still-at-war/
+    text: The USS John C. Stennis overhaul has extended to 5.5 years, with a new 2026
+      completion date. Kris Osborn explores how "growth work," industrial bottlenecks,
+      and essential modernization have combined to delay the carrier's return, highlighting
+      the challenges of sustaining the U.S. Navy’s aging supercarrier fleet. The post
+      Aircraft Carrier USS John C. Stennis Won’t Be Ready to Deploy Until 2027 — 5.5
+      Years in the Shipyard and the U.S. Navy Is Still at War appeared first on 19FortyFive
+      .
+    one_sentence_summary: The USS John C. Stennis overhaul has been extended to 5.5
+      years with a new completion date in 2026 due to "growth work," industrial bottlenecks,
+      and necessary modernization, underscoring the difficulties in maintaining the
+      aging U.S. Navy supercarrier fleet.
+    paragraph_summary: The overhaul of the USS John C. Stennis has been extended to
+      5.5 years, with a new completion date set for 2026, due to factors such as "growth
+      work," industrial bottlenecks, and necessary modernization efforts. Kris Osborn
+      discusses the challenges faced by the U.S. Navy in maintaining its aging supercarrier
+      fleet, emphasizing the implications of these delays as the Navy remains engaged
+      in ongoing military operations.
+    published: '2026-03-22T14:44:44+00:00'
+  - title: The U.S. Navy Keeps 11 Aircraft Carriers So 3 Can Always Be in Dry Dock —
+      The Iran War Just Broke That Math
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-keeps-11-aircraft-carriers-so-3-can-always-be-in-dry-dock-the-iran-war-just-broke-that-math/
+    text: As the USS Harry S. Truman prepares for its Refueling and Complex Overhaul
+      (RCOH), Kris Osborn analyzes the intricate process of nuclear refueling and system
+      modernization. This mid-life extension is critical for maintaining the U.S. Navy's
+      11-carrier fleet and ensuring continued maritime dominance through the 2040s.
+      The post The U.S. Navy Keeps 11 Aircraft Carriers So 3 Can Always Be in Dry Dock
+      — The Iran War Just Broke That Math appeared first on 19FortyFive .
+    one_sentence_summary: The USS Harry S. Truman's upcoming Refueling and Complex Overhaul
+      is essential for the U.S. Navy's carrier fleet modernization and maintaining maritime
+      superiority into the 2040s, despite recent challenges posed by the Iran War.
+    paragraph_summary: As the USS Harry S. Truman undergoes its Refueling and Complex
+      Overhaul (RCOH), Kris Osborn examines the complex procedures involved in nuclear
+      refueling and system upgrades, which are essential for the U.S. Navy's 11-carrier
+      fleet to maintain operational readiness and maritime superiority through the 2040s.
+      This mid-life extension is particularly crucial given the recent challenges posed
+      by geopolitical tensions, such as the Iran War, which have disrupted the Navy's
+      strategic calculations regarding carrier availability and deployment.
+    published: '2026-03-22T14:11:16+00:00'
+  - title: The U.S. Navy Keeps 11 Aircraft Carriers So 3 Can Always Be in Dry Dock —
+      The Iran War Just Broke That Math
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-keeps-11-aircraft-carriers-so-3-can-always-be-in-dry-dock-the-iran-war-just-broke-that-math/
+    text: As the USS Harry S. Truman prepares for its Refueling and Complex Overhaul
+      (RCOH), Kris Osborn analyzes the intricate process of nuclear refueling and system
+      modernization. This mid-life extension is critical for maintaining the U.S. Navy's
+      11-carrier fleet and ensuring continued maritime dominance through the 2040s.
+      The post The U.S. Navy Keeps 11 Aircraft Carriers So 3 Can Always Be in Dry Dock
+      — The Iran War Just Broke That Math appeared first on 19FortyFive .
+    one_sentence_summary: The USS Harry S. Truman's upcoming Refueling and Complex Overhaul
+      is essential for the U.S. Navy's carrier fleet modernization and maintaining maritime
+      superiority into the 2040s, despite recent challenges posed by the Iran War.
+    paragraph_summary: As the USS Harry S. Truman undergoes its Refueling and Complex
+      Overhaul (RCOH), Kris Osborn examines the complex procedures involved in nuclear
+      refueling and system upgrades, which are essential for the U.S. Navy's 11-carrier
+      fleet to maintain operational readiness and maritime superiority through the 2040s.
+      This mid-life extension is particularly crucial given the recent challenges posed
+      by geopolitical tensions, such as the Iran War, which have disrupted the Navy's
+      strategic calculations regarding carrier availability and deployment.
+    published: '2026-03-22T14:11:16+00:00'
+  - title: Ukraine’s M1A1 Abrams Tanks Are Being Destroyed on Camera by Russia — China’s
+      Military Is Watching Every Second
+    url: https://www.19fortyfive.com/2026/03/ukraines-m1a1-abrams-tanks-are-being-destroyed-on-camera-by-russia-chinas-military-is-watching-every-second/
+    text: America's M1A1 Abrams is supposed to be the world's most lethal tank. In Ukraine,
+      Russian drones and anti-tank missiles are killing them on camera. That should
+      worry every American defense planner — not because of Ukraine, but because China's
+      military is taking notes for Taiwan right now. The post Ukraine’s M1A1 Abrams
+      Tanks Are Being Destroyed on Camera by Russia — China’s Military Is Watching Every
+      Second appeared first on 19FortyFive .
+    one_sentence_summary: The destruction of America's M1A1 Abrams tanks in Ukraine
+      by Russian drones and anti-tank missiles raises concerns for U.S. defense planners,
+      as China's military observes these tactics for potential application in a conflict
+      over Taiwan.
+    paragraph_summary: The article discusses the vulnerability of America's M1A1 Abrams
+      tanks, which are considered the most lethal tanks globally, as they are being
+      destroyed on camera by Russian drones and anti-tank missiles in Ukraine. This
+      situation raises concerns for American defense planners, not only due to the implications
+      for the conflict in Ukraine but also because China's military is closely observing
+      these developments for potential lessons applicable to a future conflict over
+      Taiwan.
+    published: '2026-03-22T12:43:48+00:00'
+  - title: Ukraine’s M1A1 Abrams Tanks Are Being Destroyed on Camera by Russia — China’s
+      Military Is Watching Every Second
+    url: https://www.19fortyfive.com/2026/03/ukraines-m1a1-abrams-tanks-are-being-destroyed-on-camera-by-russia-chinas-military-is-watching-every-second/
+    text: America's M1A1 Abrams is supposed to be the world's most lethal tank. In Ukraine,
+      Russian drones and anti-tank missiles are killing them on camera. That should
+      worry every American defense planner — not because of Ukraine, but because China's
+      military is taking notes for Taiwan right now. The post Ukraine’s M1A1 Abrams
+      Tanks Are Being Destroyed on Camera by Russia — China’s Military Is Watching Every
+      Second appeared first on 19FortyFive .
+    one_sentence_summary: The destruction of America's M1A1 Abrams tanks in Ukraine
+      by Russian drones and anti-tank missiles raises concerns for U.S. defense planners,
+      as China's military observes these tactics for potential application in a conflict
+      over Taiwan.
+    paragraph_summary: The article discusses the vulnerability of America's M1A1 Abrams
+      tanks, which are considered the most lethal tanks globally, as they are being
+      destroyed on camera by Russian drones and anti-tank missiles in Ukraine. This
+      situation raises concerns for American defense planners, not only due to the implications
+      for the conflict in Ukraine but also because China's military is closely observing
+      these developments for potential lessons applicable to a future conflict over
+      Taiwan.
+    published: '2026-03-22T12:43:48+00:00'
+  - title: Scientists In China Think They Have Found A B-21 Raider U.S. Air Force Stealth
+      Bomber Flaw
+    url: https://www.19fortyfive.com/2026/03/scientists-in-china-think-they-have-found-a-b-21-raider-u-s-air-force-stealth-bomber-flaw/
+    text: America's B-21 Raider stealth bomber is supposed to be untouchable — the warplane
+      that can fly anywhere, hit anything, and come home safely. Chinese scientists
+      think they've found the flaw that changes that calculation entirely. The U.S.
+      Air Force needs to take this claim seriously, even if it doesn't want to. Noted
+      defense expert Harry J. Kazianis breaks down the issue. The post Scientists In
+      China Think They Have Found A B-21 Raider U.S. Air Force Stealth Bomber Flaw appeared
+      first on 19FortyFive .
+    one_sentence_summary: Chinese scientists claim to have identified a flaw in America's
+      B-21 Raider stealth bomber that could undermine its perceived invulnerability,
+      prompting the U.S. Air Force to reconsider its defense strategies.
+    paragraph_summary: Chinese scientists believe they have identified a vulnerability
+      in the U.S. Air Force's B-21 Raider stealth bomber, which is designed to be an
+      invulnerable warplane capable of operating undetected. This claim poses a significant
+      challenge to the bomber's perceived invincibility, and defense expert Harry J.
+      Kazianis emphasizes that the U.S. Air Force must take these findings seriously,
+      despite any reluctance to acknowledge potential flaws in their advanced technology.
+    published: '2026-03-22T12:18:41+00:00'
+  - title: Scientists In China Think They Have Found A B-21 Raider U.S. Air Force Stealth
+      Bomber Flaw
+    url: https://www.19fortyfive.com/2026/03/scientists-in-china-think-they-have-found-a-b-21-raider-u-s-air-force-stealth-bomber-flaw/
+    text: America's B-21 Raider stealth bomber is supposed to be untouchable — the warplane
+      that can fly anywhere, hit anything, and come home safely. Chinese scientists
+      think they've found the flaw that changes that calculation entirely. The U.S.
+      Air Force needs to take this claim seriously, even if it doesn't want to. Noted
+      defense expert Harry J. Kazianis breaks down the issue. The post Scientists In
+      China Think They Have Found A B-21 Raider U.S. Air Force Stealth Bomber Flaw appeared
+      first on 19FortyFive .
+    one_sentence_summary: Chinese scientists claim to have identified a flaw in America's
+      B-21 Raider stealth bomber that could undermine its perceived invulnerability,
+      prompting the U.S. Air Force to reconsider its defense strategies.
+    paragraph_summary: Chinese scientists believe they have identified a vulnerability
+      in the U.S. Air Force's B-21 Raider stealth bomber, which is designed to be an
+      invulnerable warplane capable of operating undetected. This claim poses a significant
+      challenge to the bomber's perceived invincibility, and defense expert Harry J.
+      Kazianis emphasizes that the U.S. Air Force must take these findings seriously,
+      despite any reluctance to acknowledge potential flaws in their advanced technology.
+    published: '2026-03-22T12:18:41+00:00'
+  - title: The U.S. Navy Is Losing Thousands of Tomahawk Missile Cells and Has No Way
+      to Replace Them Quickly
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-losing-thousands-of-tomahawk-missile-cells-and-has-no-way-to-replace-them-quickly/
+    text: America's Tomahawk cruise missile stockpile took a serious hit during the
+      ongoing Iran war. Pentagon planners are likely scrambling. But the more urgent
+      question isn't about Tehran — it's about China. With U.S. missile magazines running
+      low, Beijing may be calculating that the moment to act on Taiwan has never looked
+      better. The post The U.S. Navy Is Losing Thousands of Tomahawk Missile Cells and
+      Has No Way to Replace Them Quickly appeared first on 19FortyFive .
+    one_sentence_summary: The depletion of the U.S. Tomahawk cruise missile stockpile
+      due to the ongoing conflict in Iran raises concerns about national defense capabilities,
+      particularly regarding potential Chinese aggression towards Taiwan.
+    paragraph_summary: The ongoing conflict in Iran has significantly depleted the U.S.
+      stockpile of Tomahawk cruise missiles, raising concerns among Pentagon planners
+      about military readiness. While the immediate focus may be on Iran, the more pressing
+      issue lies with China, which could perceive the reduced U.S. missile capacity
+      as an opportune moment to assert its claims over Taiwan. As the U.S. Navy faces
+      a shortage of these critical missiles and lacks a rapid replacement strategy,
+      the situation poses potential risks for American military strategy in the Pacific.
+    published: '2026-03-22T11:48:31+00:00'
+  - title: The U.S. Navy Is Losing Thousands of Tomahawk Missile Cells and Has No Way
+      to Replace Them Quickly
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-losing-thousands-of-tomahawk-missile-cells-and-has-no-way-to-replace-them-quickly/
+    text: America's Tomahawk cruise missile stockpile took a serious hit during the
+      ongoing Iran war. Pentagon planners are likely scrambling. But the more urgent
+      question isn't about Tehran — it's about China. With U.S. missile magazines running
+      low, Beijing may be calculating that the moment to act on Taiwan has never looked
+      better. The post The U.S. Navy Is Losing Thousands of Tomahawk Missile Cells and
+      Has No Way to Replace Them Quickly appeared first on 19FortyFive .
+    one_sentence_summary: The depletion of the U.S. Tomahawk cruise missile stockpile
+      due to the ongoing conflict in Iran raises concerns about national defense capabilities,
+      particularly regarding potential Chinese aggression towards Taiwan.
+    paragraph_summary: The ongoing conflict in Iran has significantly depleted the U.S.
+      stockpile of Tomahawk cruise missiles, raising concerns among Pentagon planners
+      about military readiness. While the immediate focus may be on Iran, the more pressing
+      issue lies with China, which could perceive the reduced U.S. missile capacity
+      as an opportune moment to assert its claims over Taiwan. As the U.S. Navy faces
+      a shortage of these critical missiles and lacks a rapid replacement strategy,
+      the situation poses potential risks for American military strategy in the Pacific.
+    published: '2026-03-22T11:48:31+00:00'
+  - title: China Is Building 100 J-20 Stealth Fighters Per Year — Its New Production
+      Facilities Are Larger Than America’s Entire F-35 Complex
+    url: https://www.19fortyfive.com/2026/03/china-is-building-100-j-20-stealth-fighters-per-year-its-new-production-facilities-are-larger-than-americas-entire-f-35-complex/
+    text: China is narrowing the stealth production gap. Experts warn that Beijing’s
+      aviation infrastructure expansion now exceeds Lockheed Martin’s F-35 complex,
+      with a capacity to produce 400 advanced fighters annually by 2027. Despite engine
+      longevity issues, China’s massive output signals a shift in the global air superiority
+      calculus. The post China Is Building 100 J-20 Stealth Fighters Per Year — Its
+      New Production Facilities Are Larger Than America’s Entire F-35 Complex appeared
+      first on 19FortyFive .
+    one_sentence_summary: China is rapidly expanding its stealth fighter production
+      capabilities, aiming to produce 400 advanced fighters annually by 2027, which
+      surpasses the capacity of Lockheed Martin's F-35 complex and signals a significant
+      shift in global air superiority dynamics.
+    paragraph_summary: China is rapidly closing the gap in stealth fighter production,
+      with its aviation infrastructure now surpassing that of Lockheed Martin's F-35
+      complex. Experts indicate that China is on track to produce 400 advanced fighters
+      annually by 2027, including 100 J-20 stealth fighters each year. Despite facing
+      challenges with engine longevity, China's significant production capacity represents
+      a notable shift in the global dynamics of air superiority.
+    published: '2026-03-22T01:07:18+00:00'
+  - title: China Is Building 100 J-20 Stealth Fighters Per Year — Its New Production
+      Facilities Are Larger Than America’s Entire F-35 Complex
+    url: https://www.19fortyfive.com/2026/03/china-is-building-100-j-20-stealth-fighters-per-year-its-new-production-facilities-are-larger-than-americas-entire-f-35-complex/
+    text: China is narrowing the stealth production gap. Experts warn that Beijing’s
+      aviation infrastructure expansion now exceeds Lockheed Martin’s F-35 complex,
+      with a capacity to produce 400 advanced fighters annually by 2027. Despite engine
+      longevity issues, China’s massive output signals a shift in the global air superiority
+      calculus. The post China Is Building 100 J-20 Stealth Fighters Per Year — Its
+      New Production Facilities Are Larger Than America’s Entire F-35 Complex appeared
+      first on 19FortyFive .
+    one_sentence_summary: China is rapidly expanding its stealth fighter production
+      capabilities, aiming to produce 400 advanced fighters annually by 2027, which
+      surpasses the capacity of Lockheed Martin's F-35 complex and signals a significant
+      shift in global air superiority dynamics.
+    paragraph_summary: China is rapidly closing the gap in stealth fighter production,
+      with its aviation infrastructure now surpassing that of Lockheed Martin's F-35
+      complex. Experts indicate that China is on track to produce 400 advanced fighters
+      annually by 2027, including 100 J-20 stealth fighters each year. Despite facing
+      challenges with engine longevity, China's significant production capacity represents
+      a notable shift in the global dynamics of air superiority.
+    published: '2026-03-22T01:07:18+00:00'
+  - title: The U.S. Air Force Can’t Build Another F-22 Raptor and the F-47 Isn’t Coming
+      Until 2030s
+    url: https://www.19fortyfive.com/2026/03/the-u-s-air-force-cant-build-another-f-22-raptor-and-the-f-47-isnt-coming-until-2030s/
+    text: The F-47 (NGAD) and F/A-XX programs face an unavoidable delay until the mid-2030s,
+      forcing the U.S. to extend the service lives of the F-22 Raptor and F/A-18 Super
+      Hornet. This "fighter gap" is driving a radical shift toward government-led engineering
+      to secure future air superiority. The post The U.S. Air Force Can’t Build Another
+      F-22 Raptor and the F-47 Isn’t Coming Until 2030s appeared first on 19FortyFive
+      .
+    one_sentence_summary: The F-47 and F/A-XX programs will be delayed until the mid-2030s,
+      prompting the U.S. to extend the F-22 Raptor and F/A-18 Super Hornet's service
+      lives and shift towards government-led engineering to maintain air superiority.
+    paragraph_summary: The F-47 (NGAD) and F/A-XX programs are experiencing significant
+      delays, pushing their timelines to the mid-2030s and necessitating an extension
+      of the operational lives of the F-22 Raptor and F/A-18 Super Hornet. This situation,
+      referred to as a "fighter gap," is prompting a major shift towards government-led
+      engineering initiatives aimed at ensuring future air superiority for the U.S.
+      Air Force.
+    published: '2026-03-22T00:58:02+00:00'
+  - title: The U.S. Air Force Can’t Build Another F-22 Raptor and the F-47 Isn’t Coming
+      Until 2030s
+    url: https://www.19fortyfive.com/2026/03/the-u-s-air-force-cant-build-another-f-22-raptor-and-the-f-47-isnt-coming-until-2030s/
+    text: The F-47 (NGAD) and F/A-XX programs face an unavoidable delay until the mid-2030s,
+      forcing the U.S. to extend the service lives of the F-22 Raptor and F/A-18 Super
+      Hornet. This "fighter gap" is driving a radical shift toward government-led engineering
+      to secure future air superiority. The post The U.S. Air Force Can’t Build Another
+      F-22 Raptor and the F-47 Isn’t Coming Until 2030s appeared first on 19FortyFive
+      .
+    one_sentence_summary: The F-47 and F/A-XX programs will be delayed until the mid-2030s,
+      prompting the U.S. to extend the F-22 Raptor and F/A-18 Super Hornet's service
+      lives and shift towards government-led engineering to maintain air superiority.
+    paragraph_summary: The F-47 (NGAD) and F/A-XX programs are experiencing significant
+      delays, pushing their timelines to the mid-2030s and necessitating an extension
+      of the operational lives of the F-22 Raptor and F/A-18 Super Hornet. This situation,
+      referred to as a "fighter gap," is prompting a major shift towards government-led
+      engineering initiatives aimed at ensuring future air superiority for the U.S.
+      Air Force.
+    published: '2026-03-22T00:58:02+00:00'
+  - title: 'F-47 NGAD Stealth Fighter Problem: America Must Keep Flying F-22 Raptor
+      Until Mid-2030s'
+    url: https://www.19fortyfive.com/2026/03/f-47-ngad-stealth-fighter-problem-america-must-keep-flying-f-22-raptor-until-mid-2030s/
+    text: 'The U.S. Air Force’s F-47 (NGAD) fighter faces a decade-long wait, with operational
+      availability now pushed to the mid-2030s. Rep. Rob Wittman confirms that the F-22
+      Raptor and F/A-18 must serve as a "tactical bridge" to the 6th-generation, highlighting
+      a critical period for U.S. air dominance. The post F-47 NGAD Stealth Fighter Problem:
+      America Must Keep Flying F-22 Raptor Until Mid-2030s appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The U.S. Air Force's F-47 (NGAD) fighter will not be operational
+      until the mid-2030s, necessitating continued reliance on the F-22 Raptor and F/A-18
+      as a tactical bridge to maintain air dominance during this critical period.
+    paragraph_summary: The U.S. Air Force's F-47 (Next Generation Air Dominance, or
+      NGAD) fighter will not be operational until the mid-2030s, creating a significant
+      gap in air power. Representative Rob Wittman emphasized that the F-22 Raptor and
+      F/A-18 will need to serve as a "tactical bridge" during this decade-long wait,
+      underscoring the importance of maintaining U.S. air dominance in the interim.
+    published: '2026-03-22T00:46:03+00:00'
+  - title: 'F-47 NGAD Stealth Fighter Problem: America Must Keep Flying F-22 Raptor
+      Until Mid-2030s'
+    url: https://www.19fortyfive.com/2026/03/f-47-ngad-stealth-fighter-problem-america-must-keep-flying-f-22-raptor-until-mid-2030s/
+    text: 'The U.S. Air Force’s F-47 (NGAD) fighter faces a decade-long wait, with operational
+      availability now pushed to the mid-2030s. Rep. Rob Wittman confirms that the F-22
+      Raptor and F/A-18 must serve as a "tactical bridge" to the 6th-generation, highlighting
+      a critical period for U.S. air dominance. The post F-47 NGAD Stealth Fighter Problem:
+      America Must Keep Flying F-22 Raptor Until Mid-2030s appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The U.S. Air Force's F-47 (NGAD) fighter will not be operational
+      until the mid-2030s, necessitating continued reliance on the F-22 Raptor and F/A-18
+      as a tactical bridge to maintain air dominance during this critical period.
+    paragraph_summary: The U.S. Air Force's F-47 (Next Generation Air Dominance, or
+      NGAD) fighter will not be operational until the mid-2030s, creating a significant
+      gap in air power. Representative Rob Wittman emphasized that the F-22 Raptor and
+      F/A-18 will need to serve as a "tactical bridge" during this decade-long wait,
+      underscoring the importance of maintaining U.S. air dominance in the interim.
+    published: '2026-03-22T00:46:03+00:00'
+  - title: The U.S. Army Just Tested a PrSM Missile That Can Hit Moving Warships From
+      Land
+    url: https://www.19fortyfive.com/2026/03/the-u-s-army-just-tested-a-prsm-missile-that-can-hit-moving-warships-from-land/
+    text: Lockheed Martin successfully tested the Precision Strike Missile (PrSM) Increment
+      2 on March 12, 2026. Featuring an advanced multi-mode seeker for moving maritime
+      and land targets, this 499+ km weapon is already proving its lethality in Operation
+      Epic Fury, signaling a new era of theater-scale precision for the U.S. Army. The
+      post The U.S. Army Just Tested a PrSM Missile That Can Hit Moving Warships From
+      Land appeared first on 19FortyFive .
+    one_sentence_summary: Lockheed Martin's successful test of the Precision Strike
+      Missile (PrSM) Increment 2, capable of targeting moving maritime and land targets
+      over 499 km, marks a significant advancement in the U.S. Army's precision strike
+      capabilities during Operation Epic Fury.
+    paragraph_summary: Lockheed Martin conducted a successful test of the Precision
+      Strike Missile (PrSM) Increment 2 on March 12, 2026, demonstrating its advanced
+      multi-mode seeker designed to target moving maritime and land threats. With a
+      range exceeding 499 kilometers, this missile is already showcasing its effectiveness
+      in Operation Epic Fury, marking a significant advancement in the U.S. Army's capabilities
+      for theater-scale precision strikes against moving warships from land.
+    published: '2026-03-22T00:25:07+00:00'
+  - title: The U.S. Army Just Tested a PrSM Missile That Can Hit Moving Warships From
+      Land
+    url: https://www.19fortyfive.com/2026/03/the-u-s-army-just-tested-a-prsm-missile-that-can-hit-moving-warships-from-land/
+    text: Lockheed Martin successfully tested the Precision Strike Missile (PrSM) Increment
+      2 on March 12, 2026. Featuring an advanced multi-mode seeker for moving maritime
+      and land targets, this 499+ km weapon is already proving its lethality in Operation
+      Epic Fury, signaling a new era of theater-scale precision for the U.S. Army. The
+      post The U.S. Army Just Tested a PrSM Missile That Can Hit Moving Warships From
+      Land appeared first on 19FortyFive .
+    one_sentence_summary: Lockheed Martin's successful test of the Precision Strike
+      Missile (PrSM) Increment 2, capable of targeting moving maritime and land targets
+      over 499 km, marks a significant advancement in the U.S. Army's precision strike
+      capabilities during Operation Epic Fury.
+    paragraph_summary: Lockheed Martin conducted a successful test of the Precision
+      Strike Missile (PrSM) Increment 2 on March 12, 2026, demonstrating its advanced
+      multi-mode seeker designed to target moving maritime and land threats. With a
+      range exceeding 499 kilometers, this missile is already showcasing its effectiveness
+      in Operation Epic Fury, marking a significant advancement in the U.S. Army's capabilities
+      for theater-scale precision strikes against moving warships from land.
+    published: '2026-03-22T00:25:07+00:00'
+  - title: New U.S. Columbia-Class and UK Dreadnought Submarines Share the Same ‘World
+      War III’ Nuclear Missiles
+    url: https://www.19fortyfive.com/2026/03/new-u-s-columbia-class-and-uk-dreadnought-submarines-share-the-same-world-war-iii-nuclear-missiles/
+    text: The UK is advancing its Dreadnought-class submarines, a 18,600-ton "fly-by-wire"
+      platform designed to replace the Vanguard fleet. Built with U.S. synergy via the
+      Common Missile Compartment and upgraded Trident II D5LE2 missiles, these boats
+      ensure a continuous at-sea deterrent against rising global threats through the
+      late 21st century. The post New U.S. Columbia-Class and UK Dreadnought Submarines
+      Share the Same ‘World War III’ Nuclear Missiles appeared first on 19FortyFive
+      .
+    one_sentence_summary: The UK is developing its Dreadnought-class submarines, a modern
+      nuclear platform designed to replace the Vanguard fleet and maintain a continuous
+      deterrent capability through collaboration with the U.S. on missile technology.
+    paragraph_summary: The UK is progressing with its Dreadnought-class submarines,
+      which are 18,600-ton "fly-by-wire" vessels intended to succeed the Vanguard fleet.
+      These submarines are developed in collaboration with the U.S., featuring the Common
+      Missile Compartment and enhanced Trident II D5LE2 missiles. They are designed
+      to provide a continuous at-sea deterrent against increasing global threats well
+      into the late 21st century.
+    published: '2026-03-22T00:10:40+00:00'
+  - title: New U.S. Columbia-Class and UK Dreadnought Submarines Share the Same ‘World
+      War III’ Nuclear Missiles
+    url: https://www.19fortyfive.com/2026/03/new-u-s-columbia-class-and-uk-dreadnought-submarines-share-the-same-world-war-iii-nuclear-missiles/
+    text: The UK is advancing its Dreadnought-class submarines, a 18,600-ton "fly-by-wire"
+      platform designed to replace the Vanguard fleet. Built with U.S. synergy via the
+      Common Missile Compartment and upgraded Trident II D5LE2 missiles, these boats
+      ensure a continuous at-sea deterrent against rising global threats through the
+      late 21st century. The post New U.S. Columbia-Class and UK Dreadnought Submarines
+      Share the Same ‘World War III’ Nuclear Missiles appeared first on 19FortyFive
+      .
+    one_sentence_summary: The UK is developing its Dreadnought-class submarines, a modern
+      nuclear platform designed to replace the Vanguard fleet and maintain a continuous
+      deterrent capability through collaboration with the U.S. on missile technology.
+    paragraph_summary: The UK is progressing with its Dreadnought-class submarines,
+      which are 18,600-ton "fly-by-wire" vessels intended to succeed the Vanguard fleet.
+      These submarines are developed in collaboration with the U.S., featuring the Common
+      Missile Compartment and enhanced Trident II D5LE2 missiles. They are designed
+      to provide a continuous at-sea deterrent against increasing global threats well
+      into the late 21st century.
+    published: '2026-03-22T00:10:40+00:00'
+  - title: 'How America Can Hunt Iran’s Underwater Mines in the Strait of Hormuz: Laser
+      Helicopters, AI Drones, and Sonar That Maps the Ocean Floor'
+    url: https://www.19fortyfive.com/2026/03/how-america-can-hunt-irans-underwater-mines-in-the-strait-of-hormuz-laser-helicopters-ai-drones-and-sonar-that-maps-the-ocean-floor/
+    text: 'Summary and Key Points: As of March 21, 2026, the Strait of Hormuz has become
+      the primary laboratory for the U.S. Navy’s most advanced Mine Countermeasures
+      (MCM) “kill web” in the Iran war.  -In the context of Operation Epic Fury, the
+      challenge isn’t just the lethality of Iranian mines, but their ability to deny
+      strategic […] The post How America Can Hunt Iran’s Underwater Mines in the Strait
+      of Hormuz: Laser Helicopters, AI Drones, and Sonar That Maps the Ocean Floor appeared
+      first on 19FortyFive .'
+    one_sentence_summary: As of March 21, 2026, the U.S. Navy is utilizing advanced
+      Mine Countermeasures technology in the Strait of Hormuz as part of Operation Epic
+      Fury to address the threat posed by Iranian mines and ensure strategic access.
+    paragraph_summary: As of March 21, 2026, the Strait of Hormuz has emerged as a critical
+      testing ground for the U.S. Navy's advanced Mine Countermeasures (MCM) systems
+      amid the ongoing conflict with Iran. In the context of Operation Epic Fury, the
+      U.S. faces significant challenges not only from the deadly Iranian mines but also
+      from their strategic capability to obstruct maritime routes. The article highlights
+      the deployment of innovative technologies, including laser-equipped helicopters,
+      AI-driven drones, and advanced sonar systems designed to map the ocean floor,
+      as part of America's strategy to effectively detect and neutralize these underwater
+      threats.
+    published: '2026-03-21T15:54:47+00:00'
+  - title: 'How America Can Hunt Iran’s Underwater Mines in the Strait of Hormuz: Laser
+      Helicopters, AI Drones, and Sonar That Maps the Ocean Floor'
+    url: https://www.19fortyfive.com/2026/03/how-america-can-hunt-irans-underwater-mines-in-the-strait-of-hormuz-laser-helicopters-ai-drones-and-sonar-that-maps-the-ocean-floor/
+    text: 'Summary and Key Points: As of March 21, 2026, the Strait of Hormuz has become
+      the primary laboratory for the U.S. Navy’s most advanced Mine Countermeasures
+      (MCM) “kill web” in the Iran war.  -In the context of Operation Epic Fury, the
+      challenge isn’t just the lethality of Iranian mines, but their ability to deny
+      strategic […] The post How America Can Hunt Iran’s Underwater Mines in the Strait
+      of Hormuz: Laser Helicopters, AI Drones, and Sonar That Maps the Ocean Floor appeared
+      first on 19FortyFive .'
+    one_sentence_summary: As of March 21, 2026, the U.S. Navy is utilizing advanced
+      Mine Countermeasures technology in the Strait of Hormuz as part of Operation Epic
+      Fury to address the threat posed by Iranian mines and ensure strategic access.
+    paragraph_summary: As of March 21, 2026, the Strait of Hormuz has emerged as a critical
+      testing ground for the U.S. Navy's advanced Mine Countermeasures (MCM) systems
+      amid the ongoing conflict with Iran. In the context of Operation Epic Fury, the
+      U.S. faces significant challenges not only from the deadly Iranian mines but also
+      from their strategic capability to obstruct maritime routes. The article highlights
+      the deployment of innovative technologies, including laser-equipped helicopters,
+      AI-driven drones, and advanced sonar systems designed to map the ocean floor,
+      as part of America's strategy to effectively detect and neutralize these underwater
+      threats.
+    published: '2026-03-21T15:54:47+00:00'
+  - title: 'Saab 36: Sweden’s Secret Mach 2 Nuclear Bomber That Almost Made a Neutral
+      Country One of the World’s Nuclear Powers'
+    url: https://www.19fortyfive.com/2026/03/saab-36-swedens-secret-mach-2-nuclear-bomber-that-almost-made-a-neutral-country-one-of-the-worlds-nuclear-power/
+    text: 'The Saab 36 remains one of the most fascinating "what-ifs" in aerospace history—a
+      moment when a nominally neutral Sweden considered playing for the highest stakes
+      in the nuclear arena. While the project stayed grounded, its ambitious DNA eventually
+      fueled the legendary lineage of Swedish fighters that define NATO’s northern flank
+      in 2026. The post Saab 36: Sweden’s Secret Mach 2 Nuclear Bomber That Almost Made
+      a Neutral Country One of the World’s Nuclear Powers appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The Saab 36, a nearly realized nuclear bomber project from
+      Sweden, represents a pivotal moment in aerospace history where a neutral nation
+      contemplated nuclear capabilities, ultimately influencing the development of Sweden's
+      renowned fighter jets that bolster NATO's northern defense in 2026.
+    paragraph_summary: The Saab 36, a remarkable project in aerospace history, represents
+      Sweden's brief consideration of entering the nuclear arena during the Cold War,
+      despite its neutral stance. Although the aircraft never took flight, its innovative
+      design and ambitions laid the groundwork for a series of Swedish fighter jets
+      that have since become integral to NATO's defense in northern Europe by 2026.
+      The article highlights the Saab 36 as a significant "what-if" scenario that could
+      have transformed Sweden into a nuclear power.
+    published: '2026-03-21T15:34:42+00:00'
+  - title: 'Saab 36: Sweden’s Secret Mach 2 Nuclear Bomber That Almost Made a Neutral
+      Country One of the World’s Nuclear Powers'
+    url: https://www.19fortyfive.com/2026/03/saab-36-swedens-secret-mach-2-nuclear-bomber-that-almost-made-a-neutral-country-one-of-the-worlds-nuclear-power/
+    text: 'The Saab 36 remains one of the most fascinating "what-ifs" in aerospace history—a
+      moment when a nominally neutral Sweden considered playing for the highest stakes
+      in the nuclear arena. While the project stayed grounded, its ambitious DNA eventually
+      fueled the legendary lineage of Swedish fighters that define NATO’s northern flank
+      in 2026. The post Saab 36: Sweden’s Secret Mach 2 Nuclear Bomber That Almost Made
+      a Neutral Country One of the World’s Nuclear Powers appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The Saab 36, a nearly realized nuclear bomber project from
+      Sweden, represents a pivotal moment in aerospace history where a neutral nation
+      contemplated nuclear capabilities, ultimately influencing the development of Sweden's
+      renowned fighter jets that bolster NATO's northern defense in 2026.
+    paragraph_summary: The Saab 36, a remarkable project in aerospace history, represents
+      Sweden's brief consideration of entering the nuclear arena during the Cold War,
+      despite its neutral stance. Although the aircraft never took flight, its innovative
+      design and ambitions laid the groundwork for a series of Swedish fighter jets
+      that have since become integral to NATO's defense in northern Europe by 2026.
+      The article highlights the Saab 36 as a significant "what-if" scenario that could
+      have transformed Sweden into a nuclear power.
+    published: '2026-03-21T15:34:42+00:00'
+  - title: USS Gerald R. Ford’s Laundry Fire Was So Bad the Navy Had to Strip 1,000
+      Mattresses From America’s Next Aircraft Carrier to Replace Them
+    url: https://www.19fortyfive.com/2026/03/uss-gerald-r-fords-laundry-fire-was-so-bad-the-navy-had-to-strip-1000-mattresses-from-americas-next-aircraft-carrier-to-replace-them/
+    text: The USS Gerald R. Ford (CVN-78) is withdrawing to Crete for emergency repairs
+      following a major laundry fire in the Red Sea. After nine months of sustained
+      combat during Operation Epic Fury, the world’s largest aircraft carrier faces
+      significant smoke damage and logistical hurdles amidst a record-breaking 2026
+      deployment. The post USS Gerald R. Ford’s Laundry Fire Was So Bad the Navy Had
+      to Strip 1,000 Mattresses From America’s Next Aircraft Carrier to Replace Them
+      appeared first on 19FortyFive .
+    one_sentence_summary: The USS Gerald R. Ford is heading to Crete for emergency repairs
+      due to significant smoke damage from a major laundry fire during its deployment
+      in the Red Sea, necessitating the replacement of 1,000 mattresses.
+    paragraph_summary: The USS Gerald R. Ford (CVN-78) is heading to Crete for emergency
+      repairs after suffering a major laundry fire in the Red Sea, which has resulted
+      in significant smoke damage and logistical challenges. This incident comes after
+      nine months of continuous combat during Operation Epic Fury and has necessitated
+      the replacement of 1,000 mattresses due to the extent of the damage. The aircraft
+      carrier is currently undergoing a record-breaking deployment in 2026.
+    published: '2026-03-21T15:07:44+00:00'
+  - title: USS Gerald R. Ford’s Laundry Fire Was So Bad the Navy Had to Strip 1,000
+      Mattresses From America’s Next Aircraft Carrier to Replace Them
+    url: https://www.19fortyfive.com/2026/03/uss-gerald-r-fords-laundry-fire-was-so-bad-the-navy-had-to-strip-1000-mattresses-from-americas-next-aircraft-carrier-to-replace-them/
+    text: The USS Gerald R. Ford (CVN-78) is withdrawing to Crete for emergency repairs
+      following a major laundry fire in the Red Sea. After nine months of sustained
+      combat during Operation Epic Fury, the world’s largest aircraft carrier faces
+      significant smoke damage and logistical hurdles amidst a record-breaking 2026
+      deployment. The post USS Gerald R. Ford’s Laundry Fire Was So Bad the Navy Had
+      to Strip 1,000 Mattresses From America’s Next Aircraft Carrier to Replace Them
+      appeared first on 19FortyFive .
+    one_sentence_summary: The USS Gerald R. Ford is heading to Crete for emergency repairs
+      due to significant smoke damage from a major laundry fire during its deployment
+      in the Red Sea, necessitating the replacement of 1,000 mattresses.
+    paragraph_summary: The USS Gerald R. Ford (CVN-78) is heading to Crete for emergency
+      repairs after suffering a major laundry fire in the Red Sea, which has resulted
+      in significant smoke damage and logistical challenges. This incident comes after
+      nine months of continuous combat during Operation Epic Fury and has necessitated
+      the replacement of 1,000 mattresses due to the extent of the damage. The aircraft
+      carrier is currently undergoing a record-breaking deployment in 2026.
+    published: '2026-03-21T15:07:44+00:00'
+  - title: 145 Stealth B-21 Raiders Would Outnumber Every Bomber in the U.S. Air Force
+      Today
+    url: https://www.19fortyfive.com/2026/03/145-stealth-b-21-raiders-would-outnumber-every-bomber-in-the-u-s-air-force-today/
+    text: U.S. Strategic Command is officially advocating for a massive 45 percent increase
+      in the B-21 Raider fleet. Adm. Richard Correll’s recent testimony suggests a second
+      production line may be necessary to reach a 145-bomber target, ensuring the U.S.
+      can dominate contested electromagnetic spectrums in future high-end conflicts.
+      The post 145 Stealth B-21 Raiders Would Outnumber Every Bomber in the U.S. Air
+      Force Today appeared first on 19FortyFive .
+    one_sentence_summary: U.S. Strategic Command is pushing for a 45% increase in the
+      B-21 Raider fleet to reach a target of 145 bombers, potentially requiring a second
+      production line to maintain U.S. dominance in future high-end conflicts.
+    paragraph_summary: U.S. Strategic Command is pushing for a significant 45 percent
+      increase in the B-21 Raider fleet, with Adm. Richard Correll indicating that a
+      second production line may be needed to achieve a target of 145 bombers. This
+      expansion aims to enhance the U.S. military's capabilities in contested electromagnetic
+      environments during future high-end conflicts, ultimately allowing the B-21 Raiders
+      to outnumber all existing bombers in the U.S. Air Force.
+    published: '2026-03-21T14:56:56+00:00'
+  - title: 145 Stealth B-21 Raiders Would Outnumber Every Bomber in the U.S. Air Force
+      Today
+    url: https://www.19fortyfive.com/2026/03/145-stealth-b-21-raiders-would-outnumber-every-bomber-in-the-u-s-air-force-today/
+    text: U.S. Strategic Command is officially advocating for a massive 45 percent increase
+      in the B-21 Raider fleet. Adm. Richard Correll’s recent testimony suggests a second
+      production line may be necessary to reach a 145-bomber target, ensuring the U.S.
+      can dominate contested electromagnetic spectrums in future high-end conflicts.
+      The post 145 Stealth B-21 Raiders Would Outnumber Every Bomber in the U.S. Air
+      Force Today appeared first on 19FortyFive .
+    one_sentence_summary: U.S. Strategic Command is pushing for a 45% increase in the
+      B-21 Raider fleet to reach a target of 145 bombers, potentially requiring a second
+      production line to maintain U.S. dominance in future high-end conflicts.
+    paragraph_summary: U.S. Strategic Command is pushing for a significant 45 percent
+      increase in the B-21 Raider fleet, with Adm. Richard Correll indicating that a
+      second production line may be needed to achieve a target of 145 bombers. This
+      expansion aims to enhance the U.S. military's capabilities in contested electromagnetic
+      environments during future high-end conflicts, ultimately allowing the B-21 Raiders
+      to outnumber all existing bombers in the U.S. Air Force.
+    published: '2026-03-21T14:56:56+00:00'
+  - title: '‘Psychological Breaking Point’: U.S. Navy Aircraft Carrier Gerald R. Ford
+      Has Been Pushed to Its Limits'
+    url: https://www.19fortyfive.com/2026/03/psychological-breaking-point-u-s-navy-aircraft-carrier-gerald-r-ford-has-been-pushed-to-its-limits/
+    text: 'The USS Gerald R. Ford was designed as an engineering marvel, but a record-breaking
+      11-month deployment has pushed the supercarrier to its limits. Facing mechanical
+      fatigue and the aftermath of a March 2026 fire, the CVN-78 now highlights a critical
+      mismatch between U.S. naval commitments and available resources. The post ‘Psychological
+      Breaking Point’: U.S. Navy Aircraft Carrier Gerald R. Ford Has Been Pushed to
+      Its Limits appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Gerald R. Ford, despite being an engineering marvel,
+      has faced significant challenges during its record 11-month deployment, revealing
+      a critical gap between U.S. naval commitments and available resources due to mechanical
+      fatigue and a fire incident.
+    paragraph_summary: The USS Gerald R. Ford, hailed as an engineering marvel, has
+      recently endured a grueling 11-month deployment that has tested its capabilities,
+      revealing significant mechanical fatigue and the lingering effects of a fire in
+      March 2026. This situation underscores a troubling disparity between U.S. naval
+      commitments and the resources available to maintain such advanced vessels, raising
+      concerns about the operational readiness of the Navy's flagship carrier.
+    published: '2026-03-21T14:41:08+00:00'
+  - title: '‘Psychological Breaking Point’: U.S. Navy Aircraft Carrier Gerald R. Ford
+      Has Been Pushed to Its Limits'
+    url: https://www.19fortyfive.com/2026/03/psychological-breaking-point-u-s-navy-aircraft-carrier-gerald-r-ford-has-been-pushed-to-its-limits/
+    text: 'The USS Gerald R. Ford was designed as an engineering marvel, but a record-breaking
+      11-month deployment has pushed the supercarrier to its limits. Facing mechanical
+      fatigue and the aftermath of a March 2026 fire, the CVN-78 now highlights a critical
+      mismatch between U.S. naval commitments and available resources. The post ‘Psychological
+      Breaking Point’: U.S. Navy Aircraft Carrier Gerald R. Ford Has Been Pushed to
+      Its Limits appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Gerald R. Ford, despite being an engineering marvel,
+      has faced significant challenges during its record 11-month deployment, revealing
+      a critical gap between U.S. naval commitments and available resources due to mechanical
+      fatigue and a fire incident.
+    paragraph_summary: The USS Gerald R. Ford, hailed as an engineering marvel, has
+      recently endured a grueling 11-month deployment that has tested its capabilities,
+      revealing significant mechanical fatigue and the lingering effects of a fire in
+      March 2026. This situation underscores a troubling disparity between U.S. naval
+      commitments and the resources available to maintain such advanced vessels, raising
+      concerns about the operational readiness of the Navy's flagship carrier.
+    published: '2026-03-21T14:41:08+00:00'
+  - title: '11 Aircraft Carriers on Paper, Only 3-5 ‘Combat Ready’: The Iran War Is
+      Exposing the U.S. Navy’s Supercarrier Force at the Breaking Point'
+    url: https://www.19fortyfive.com/2026/03/11-aircraft-carriers-on-paper-only-3-5-combat-ready-the-iran-war-is-exposing-the-u-s-navys-supercarrier-force-at-the-breaking-point/
+    text: 'Brandon J. Weichert analyzes the U.S. Navy’s systemic "force-structure crunch"
+      as Operation Epic Fury strains a brittle aircraft carrier fleet. With the USS
+      Gerald R. Ford sidelined by fire and the John C. Stennis delayed in dry dock,
+      the Navy''s industrial bottleneck threatens American power projection at its most
+      critical moment. The post 11 Aircraft Carriers on Paper, Only 3-5 ‘Combat Ready’:
+      The Iran War Is Exposing the U.S. Navy’s Supercarrier Force at the Breaking Point
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Brandon J. Weichert highlights the U.S. Navy's critical "force-structure
+      crunch," exacerbated by the sidelining of key aircraft carriers, which jeopardizes
+      American military readiness and power projection during Operation Epic Fury.
+    paragraph_summary: Brandon J. Weichert examines the U.S. Navy's critical "force-structure
+      crunch," highlighting how Operation Epic Fury is exacerbating the vulnerabilities
+      of its aircraft carrier fleet. With the USS Gerald R. Ford out of commission due
+      to a fire and the John C. Stennis undergoing delays in dry dock, the Navy faces
+      significant industrial bottlenecks that jeopardize American military power projection
+      at a crucial time. The article underscores that while the Navy may have 11 aircraft
+      carriers on paper, only 3 to 5 are actually combat-ready, revealing the strain
+      on the supercarrier force amid rising tensions, particularly regarding the situation
+      with Iran.
+    published: '2026-03-21T14:23:34+00:00'
+  - title: '11 Aircraft Carriers on Paper, Only 3-5 ‘Combat Ready’: The Iran War Is
+      Exposing the U.S. Navy’s Supercarrier Force at the Breaking Point'
+    url: https://www.19fortyfive.com/2026/03/11-aircraft-carriers-on-paper-only-3-5-combat-ready-the-iran-war-is-exposing-the-u-s-navys-supercarrier-force-at-the-breaking-point/
+    text: 'Brandon J. Weichert analyzes the U.S. Navy’s systemic "force-structure crunch"
+      as Operation Epic Fury strains a brittle aircraft carrier fleet. With the USS
+      Gerald R. Ford sidelined by fire and the John C. Stennis delayed in dry dock,
+      the Navy''s industrial bottleneck threatens American power projection at its most
+      critical moment. The post 11 Aircraft Carriers on Paper, Only 3-5 ‘Combat Ready’:
+      The Iran War Is Exposing the U.S. Navy’s Supercarrier Force at the Breaking Point
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Brandon J. Weichert highlights the U.S. Navy's critical "force-structure
+      crunch," exacerbated by the sidelining of key aircraft carriers, which jeopardizes
+      American military readiness and power projection during Operation Epic Fury.
+    paragraph_summary: Brandon J. Weichert examines the U.S. Navy's critical "force-structure
+      crunch," highlighting how Operation Epic Fury is exacerbating the vulnerabilities
+      of its aircraft carrier fleet. With the USS Gerald R. Ford out of commission due
+      to a fire and the John C. Stennis undergoing delays in dry dock, the Navy faces
+      significant industrial bottlenecks that jeopardize American military power projection
+      at a crucial time. The article underscores that while the Navy may have 11 aircraft
+      carriers on paper, only 3 to 5 are actually combat-ready, revealing the strain
+      on the supercarrier force amid rising tensions, particularly regarding the situation
+      with Iran.
+    published: '2026-03-21T14:23:34+00:00'
+  - title: 'USS Defiant: $20 Billion Trump-Class Battleship Costs More Than a Nuclear
+      Ford-Class Aircraft Carrier'
+    url: https://www.19fortyfive.com/2026/03/uss-defiant-20-billion-trump-class-battleship-costs-more-than-a-nuclear-ford-class-aircraft-carrier/
+    text: 'The "Golden Fleet" initiative has introduced the Trump-class battleship,
+      a 40,000-ton "missile barge" equipped with hypersonics and railguns. At $20 billion
+      per vessel, the USS Defiant represents a massive investment in centralized naval
+      power designed to outmatch peer adversaries through sheer mass and lethal "Golden
+      Fleet" innovation. The post USS Defiant: $20 Billion Trump-Class Battleship Costs
+      More Than a Nuclear Ford-Class Aircraft Carrier appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The "Golden Fleet" initiative has unveiled the USS Defiant,
+      a $20 billion Trump-class battleship featuring advanced weaponry, aimed at enhancing
+      naval power to surpass rival forces.
+    paragraph_summary: The "Golden Fleet" initiative has unveiled the Trump-class battleship,
+      the USS Defiant, a 40,000-ton vessel dubbed a "missile barge" that features advanced
+      hypersonic weapons and railguns. Priced at $20 billion each, these battleships
+      signify a substantial investment in centralized naval power aimed at surpassing
+      rival nations through overwhelming force and innovative technology. This initiative
+      highlights a strategic shift in naval capabilities, positioning the USS Defiant
+      as a more costly option than the nuclear-powered Ford-class aircraft carriers.
+    published: '2026-03-21T14:03:00+00:00'
+  - title: 'USS Defiant: $20 Billion Trump-Class Battleship Costs More Than a Nuclear
+      Ford-Class Aircraft Carrier'
+    url: https://www.19fortyfive.com/2026/03/uss-defiant-20-billion-trump-class-battleship-costs-more-than-a-nuclear-ford-class-aircraft-carrier/
+    text: 'The "Golden Fleet" initiative has introduced the Trump-class battleship,
+      a 40,000-ton "missile barge" equipped with hypersonics and railguns. At $20 billion
+      per vessel, the USS Defiant represents a massive investment in centralized naval
+      power designed to outmatch peer adversaries through sheer mass and lethal "Golden
+      Fleet" innovation. The post USS Defiant: $20 Billion Trump-Class Battleship Costs
+      More Than a Nuclear Ford-Class Aircraft Carrier appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The "Golden Fleet" initiative has unveiled the USS Defiant,
+      a $20 billion Trump-class battleship featuring advanced weaponry, aimed at enhancing
+      naval power to surpass rival forces.
+    paragraph_summary: The "Golden Fleet" initiative has unveiled the Trump-class battleship,
+      the USS Defiant, a 40,000-ton vessel dubbed a "missile barge" that features advanced
+      hypersonic weapons and railguns. Priced at $20 billion each, these battleships
+      signify a substantial investment in centralized naval power aimed at surpassing
+      rival nations through overwhelming force and innovative technology. This initiative
+      highlights a strategic shift in naval capabilities, positioning the USS Defiant
+      as a more costly option than the nuclear-powered Ford-class aircraft carriers.
+    published: '2026-03-21T14:03:00+00:00'
+  - title: USS Tripoli and 2,200 Marines Are Headed to Iran — Joining a War That Is
+      Already Costing America $1 Billion a Day
+    url: https://www.19fortyfive.com/2026/03/uss-tripoli-and-2200-marines-are-headed-to-iran-joining-a-war-that-is-already-costing-america-1-billion-a-day/
+    text: The USS Tripoli and the 31st MEU are deploying to the Middle East to reinforce
+      Operation Epic Fury. As war costs exceed $1 billion daily, the Pentagon could
+      soon be requesting $200 billion in new funding while the White House uses unconventional
+      social media tactics to shore up public support for the campaign. The post USS
+      Tripoli and 2,200 Marines Are Headed to Iran — Joining a War That Is Already Costing
+      America $1 Billion a Day appeared first on 19FortyFive .
+    one_sentence_summary: The USS Tripoli and 2,200 Marines are deploying to the Middle
+      East to support Operation Epic Fury amid escalating war costs exceeding $1 billion
+      daily, prompting potential requests for $200 billion in new funding from the Pentagon
+      while the White House seeks to bolster public support through unconventional social
+      media strategies.
+    paragraph_summary: The USS Tripoli and the 31st Marine Expeditionary Unit (MEU)
+      are being deployed to the Middle East to support Operation Epic Fury, amid escalating
+      war costs that are surpassing $1 billion daily. As the Pentagon prepares to potentially
+      request an additional $200 billion in funding, the White House is employing unconventional
+      social media strategies to bolster public support for the ongoing military campaign.
+    published: '2026-03-21T12:22:31+00:00'
+  - title: USS Tripoli and 2,200 Marines Are Headed to Iran — Joining a War That Is
+      Already Costing America $1 Billion a Day
+    url: https://www.19fortyfive.com/2026/03/uss-tripoli-and-2200-marines-are-headed-to-iran-joining-a-war-that-is-already-costing-america-1-billion-a-day/
+    text: The USS Tripoli and the 31st MEU are deploying to the Middle East to reinforce
+      Operation Epic Fury. As war costs exceed $1 billion daily, the Pentagon could
+      soon be requesting $200 billion in new funding while the White House uses unconventional
+      social media tactics to shore up public support for the campaign. The post USS
+      Tripoli and 2,200 Marines Are Headed to Iran — Joining a War That Is Already Costing
+      America $1 Billion a Day appeared first on 19FortyFive .
+    one_sentence_summary: The USS Tripoli and 2,200 Marines are deploying to the Middle
+      East to support Operation Epic Fury amid escalating war costs exceeding $1 billion
+      daily, prompting potential requests for $200 billion in new funding from the Pentagon
+      while the White House seeks to bolster public support through unconventional social
+      media strategies.
+    paragraph_summary: The USS Tripoli and the 31st Marine Expeditionary Unit (MEU)
+      are being deployed to the Middle East to support Operation Epic Fury, amid escalating
+      war costs that are surpassing $1 billion daily. As the Pentagon prepares to potentially
+      request an additional $200 billion in funding, the White House is employing unconventional
+      social media strategies to bolster public support for the ongoing military campaign.
+    published: '2026-03-21T12:22:31+00:00'
+  - title: 79 F-14 Tomcats Delivered to Iran in 1979 — Operation Epic Fury Just Destroyed
+      the Last of Them Along With Khamenei’s Personal Plane
+    url: https://www.19fortyfive.com/2026/03/79-f-14-tomcats-delivered-to-iran-in-1979-operation-epic-fury-just-destroyed-the-last-of-them-along-with-khameneis-personal-plane/
+    text: Operation Epic Fury has brought the Iranian Air Force to the brink of extinction.
+      With the iconic F-14 Tomcat fleet decimated and Ali Khamenei’s personal "Iran
+      Force One" destroyed, Caleb Larson explores how ongoing strikes are permanently
+      removing Iran's strategic aerial assets from the 2026 battlespace. The post 79
+      F-14 Tomcats Delivered to Iran in 1979 — Operation Epic Fury Just Destroyed the
+      Last of Them Along With Khamenei’s Personal Plane appeared first on 19FortyFive
+      .
+    one_sentence_summary: Operation Epic Fury has significantly weakened the Iranian
+      Air Force by destroying its F-14 Tomcat fleet and Ali Khamenei's personal aircraft,
+      thereby eliminating key aerial assets from Iran's military capabilities.
+    paragraph_summary: Operation Epic Fury has significantly weakened the Iranian Air
+      Force, leading to the near-total destruction of its F-14 Tomcat fleet and the
+      loss of Ali Khamenei's personal aircraft, "Iran Force One." Caleb Larson discusses
+      how these ongoing military strikes are effectively eliminating Iran's strategic
+      aerial capabilities, thereby reshaping the aerial landscape for potential conflicts
+      in 2026. The article highlights the historical context of the F-14s, which were
+      delivered to Iran in 1979, and emphasizes the impact of this operation on Iran's
+      military strength.
+    published: '2026-03-21T12:09:37+00:00'
+  - title: 79 F-14 Tomcats Delivered to Iran in 1979 — Operation Epic Fury Just Destroyed
+      the Last of Them Along With Khamenei’s Personal Plane
+    url: https://www.19fortyfive.com/2026/03/79-f-14-tomcats-delivered-to-iran-in-1979-operation-epic-fury-just-destroyed-the-last-of-them-along-with-khameneis-personal-plane/
+    text: Operation Epic Fury has brought the Iranian Air Force to the brink of extinction.
+      With the iconic F-14 Tomcat fleet decimated and Ali Khamenei’s personal "Iran
+      Force One" destroyed, Caleb Larson explores how ongoing strikes are permanently
+      removing Iran's strategic aerial assets from the 2026 battlespace. The post 79
+      F-14 Tomcats Delivered to Iran in 1979 — Operation Epic Fury Just Destroyed the
+      Last of Them Along With Khamenei’s Personal Plane appeared first on 19FortyFive
+      .
+    one_sentence_summary: Operation Epic Fury has significantly weakened the Iranian
+      Air Force by destroying its F-14 Tomcat fleet and Ali Khamenei's personal aircraft,
+      thereby eliminating key aerial assets from Iran's military capabilities.
+    paragraph_summary: Operation Epic Fury has significantly weakened the Iranian Air
+      Force, leading to the near-total destruction of its F-14 Tomcat fleet and the
+      loss of Ali Khamenei's personal aircraft, "Iran Force One." Caleb Larson discusses
+      how these ongoing military strikes are effectively eliminating Iran's strategic
+      aerial capabilities, thereby reshaping the aerial landscape for potential conflicts
+      in 2026. The article highlights the historical context of the F-14s, which were
+      delivered to Iran in 1979, and emphasizes the impact of this operation on Iran's
+      military strength.
+    published: '2026-03-21T12:09:37+00:00'
+  - title: The B-21 Raider Is 76,500 Pounds Lighter Than B-2 — That Single Number Explains
+      Why It’s a More Dangerous Stealth Bomber
+    url: https://www.19fortyfive.com/2026/03/the-b-21-raider-is-76500-pounds-lighter-than-b-2-that-single-number-explains-why-its-a-more-dangerous-stealth-bomber/
+    text: The B-21 Raider is officially reshaping the U.S. bomber fleet. With a $4.5
+      billion production boost and a focus on 6th-generation 'sensing node' capabilities,
+      this smaller, smarter stealth platform is designed to penetrate the world's toughest
+      air defenses. Here is why the Raider is the new backbone of global deterrence.
+      The post The B-21 Raider Is 76,500 Pounds Lighter Than B-2 — That Single Number
+      Explains Why It’s a More Dangerous Stealth Bomber appeared first on 19FortyFive
+      .
+    one_sentence_summary: The B-21 Raider, a smaller and smarter stealth bomber with
+      enhanced capabilities and a $4.5 billion production increase, is set to become
+      the cornerstone of the U.S. bomber fleet and global deterrence due to its ability
+      to penetrate advanced air defenses.
+    paragraph_summary: The B-21 Raider is transforming the U.S. bomber fleet with a
+      significant $4.5 billion production increase and advanced 6th-generation 'sensing
+      node' capabilities, making it a smaller and more intelligent stealth platform.
+      Weighing 76,500 pounds less than its predecessor, the B-2, the Raider is engineered
+      to effectively penetrate the most challenging air defenses, positioning it as
+      a crucial element of global deterrence.
+    published: '2026-03-21T11:51:24+00:00'
+  - title: The B-21 Raider Is 76,500 Pounds Lighter Than B-2 — That Single Number Explains
+      Why It’s a More Dangerous Stealth Bomber
+    url: https://www.19fortyfive.com/2026/03/the-b-21-raider-is-76500-pounds-lighter-than-b-2-that-single-number-explains-why-its-a-more-dangerous-stealth-bomber/
+    text: The B-21 Raider is officially reshaping the U.S. bomber fleet. With a $4.5
+      billion production boost and a focus on 6th-generation 'sensing node' capabilities,
+      this smaller, smarter stealth platform is designed to penetrate the world's toughest
+      air defenses. Here is why the Raider is the new backbone of global deterrence.
+      The post The B-21 Raider Is 76,500 Pounds Lighter Than B-2 — That Single Number
+      Explains Why It’s a More Dangerous Stealth Bomber appeared first on 19FortyFive
+      .
+    one_sentence_summary: The B-21 Raider, a smaller and smarter stealth bomber with
+      enhanced capabilities and a $4.5 billion production increase, is set to become
+      the cornerstone of the U.S. bomber fleet and global deterrence due to its ability
+      to penetrate advanced air defenses.
+    paragraph_summary: The B-21 Raider is transforming the U.S. bomber fleet with a
+      significant $4.5 billion production increase and advanced 6th-generation 'sensing
+      node' capabilities, making it a smaller and more intelligent stealth platform.
+      Weighing 76,500 pounds less than its predecessor, the B-2, the Raider is engineered
+      to effectively penetrate the most challenging air defenses, positioning it as
+      a crucial element of global deterrence.
+    published: '2026-03-21T11:51:24+00:00'
+  - title: The F-22 Raptor Might Become the ‘B-52’ of U.S. Air Force Fighter Jets
+    url: https://www.19fortyfive.com/2026/03/the-f-22-raptor-might-become-the-b-52-of-u-s-air-force-fighter-jets/
+    text: The decision to extend the F-22 Raptor’s service life into the 2060s marks
+      a tectonic shift in U.S. air superiority doctrine. As of March 2026, it appears
+      the U.S. Air Force is no longer viewing the Raptor as a "bridge" to the future,
+      but as the only guaranteed insurance policy against a sixth-generation program
+      that may be too expensive to survive its own ambition. The post The F-22 Raptor
+      Might Become the ‘B-52’ of U.S. Air Force Fighter Jets appeared first on 19FortyFive
+      .
+    one_sentence_summary: The U.S. Air Force's decision to extend the F-22 Raptor's
+      service life into the 2060s signifies a fundamental change in air superiority
+      strategy, positioning the Raptor as a crucial and enduring asset rather than a
+      temporary solution while developing a costly sixth-generation fighter.
+    paragraph_summary: The U.S. Air Force's decision to extend the F-22 Raptor's service
+      life into the 2060s signifies a major change in its air superiority strategy,
+      indicating a shift from viewing the Raptor as a temporary solution to recognizing
+      it as a critical, long-term asset. As of March 2026, the Raptor is seen as a reliable
+      safeguard against the uncertainties surrounding the development of a potentially
+      costly sixth-generation fighter program, positioning it to play a role similar
+      to that of the B-52 bomber in the Air Force's fleet.
+    published: '2026-03-21T10:11:31+00:00'
+  - title: The F-22 Raptor Might Become the ‘B-52’ of U.S. Air Force Fighter Jets
+    url: https://www.19fortyfive.com/2026/03/the-f-22-raptor-might-become-the-b-52-of-u-s-air-force-fighter-jets/
+    text: The decision to extend the F-22 Raptor’s service life into the 2060s marks
+      a tectonic shift in U.S. air superiority doctrine. As of March 2026, it appears
+      the U.S. Air Force is no longer viewing the Raptor as a "bridge" to the future,
+      but as the only guaranteed insurance policy against a sixth-generation program
+      that may be too expensive to survive its own ambition. The post The F-22 Raptor
+      Might Become the ‘B-52’ of U.S. Air Force Fighter Jets appeared first on 19FortyFive
+      .
+    one_sentence_summary: The U.S. Air Force's decision to extend the F-22 Raptor's
+      service life into the 2060s signifies a fundamental change in air superiority
+      strategy, positioning the Raptor as a crucial and enduring asset rather than a
+      temporary solution while developing a costly sixth-generation fighter.
+    paragraph_summary: The U.S. Air Force's decision to extend the F-22 Raptor's service
+      life into the 2060s signifies a major change in its air superiority strategy,
+      indicating a shift from viewing the Raptor as a temporary solution to recognizing
+      it as a critical, long-term asset. As of March 2026, the Raptor is seen as a reliable
+      safeguard against the uncertainties surrounding the development of a potentially
+      costly sixth-generation fighter program, positioning it to play a role similar
+      to that of the B-52 bomber in the Air Force's fleet.
+    published: '2026-03-21T10:11:31+00:00'
+  - title: 'X-37B: China and Russia Fear America’s Mysterious ‘Space Plane’ Can Drop
+      a Nuclear Bomb From Orbit'
+    url: https://www.19fortyfive.com/2026/03/x-37b-china-and-russia-fear-americas-mysterious-space-plane-can-drop-a-nuclear-bomb-from-orbit/
+    text: 'The X-37B Orbital Test Vehicle (OTV) represents the ultimate "black box"
+      of 2026 American military strategy. While the U.S. Space Force insists the autonomous
+      craft is a scientific testbed, its ability to loiter in orbit for years and maneuver
+      unpredictably makes it a primary source of strategic anxiety for China and Russia.
+      The post X-37B: China and Russia Fear America’s Mysterious ‘Space Plane’ Can Drop
+      a Nuclear Bomb From Orbit appeared first on 19FortyFive .'
+    one_sentence_summary: The X-37B Orbital Test Vehicle, while presented by the U.S.
+      Space Force as a scientific tool, is viewed by China and Russia as a potential
+      military threat due to its long-duration orbital capabilities and unpredictable
+      maneuvers, raising concerns about its use in future military strategies.
+    paragraph_summary: The X-37B Orbital Test Vehicle, touted by the U.S. Space Force
+      as a scientific testbed, is viewed as a significant strategic concern by China
+      and Russia due to its long-duration orbital capabilities and unpredictable maneuvers.
+      This autonomous craft, often referred to as a "black box" in the context of American
+      military strategy for 2026, raises fears among adversaries that it could potentially
+      be used to deploy nuclear weapons from space. The article highlights the growing
+      anxiety surrounding the X-37B's role in modern warfare and its implications for
+      global security dynamics.
+    published: '2026-03-20T23:37:16+00:00'
+  - title: 'X-37B: China and Russia Fear America’s Mysterious ‘Space Plane’ Can Drop
+      a Nuclear Bomb From Orbit'
+    url: https://www.19fortyfive.com/2026/03/x-37b-china-and-russia-fear-americas-mysterious-space-plane-can-drop-a-nuclear-bomb-from-orbit/
+    text: 'The X-37B Orbital Test Vehicle (OTV) represents the ultimate "black box"
+      of 2026 American military strategy. While the U.S. Space Force insists the autonomous
+      craft is a scientific testbed, its ability to loiter in orbit for years and maneuver
+      unpredictably makes it a primary source of strategic anxiety for China and Russia.
+      The post X-37B: China and Russia Fear America’s Mysterious ‘Space Plane’ Can Drop
+      a Nuclear Bomb From Orbit appeared first on 19FortyFive .'
+    one_sentence_summary: The X-37B Orbital Test Vehicle, while presented by the U.S.
+      Space Force as a scientific tool, is viewed by China and Russia as a potential
+      military threat due to its long-duration orbital capabilities and unpredictable
+      maneuvers, raising concerns about its use in future military strategies.
+    paragraph_summary: The X-37B Orbital Test Vehicle, touted by the U.S. Space Force
+      as a scientific testbed, is viewed as a significant strategic concern by China
+      and Russia due to its long-duration orbital capabilities and unpredictable maneuvers.
+      This autonomous craft, often referred to as a "black box" in the context of American
+      military strategy for 2026, raises fears among adversaries that it could potentially
+      be used to deploy nuclear weapons from space. The article highlights the growing
+      anxiety surrounding the X-37B's role in modern warfare and its implications for
+      global security dynamics.
+    published: '2026-03-20T23:37:16+00:00'
+  - title: 'Quote of the Day By Apple’s Steve Jobs: ‘You can’t just ask customers what
+      they want and then try to give that to them…’'
+    url: https://www.19fortyfive.com/2026/03/quote-of-the-day-by-apples-steve-jobs-you-cant-just-ask-customers-what-they-want-and-then-try-to-give-that-to-them/
+    text: 'The creation of the iPhone was more than a product launch; it was a masterclass
+      in anticipatory design. By ignoring what customers said they wanted—usually a
+      better version of a BlackBerry—Steve Jobs delivered what they didn’t yet know
+      they couldn''t live without. As of 2026, the ripples of "Project Purple" still
+      define the "glass slab" geometry of our digital lives. The post Quote of the Day
+      By Apple’s Steve Jobs: ‘You can’t just ask customers what they want and then try
+      to give that to them…’ appeared first on 19FortyFive .'
+    one_sentence_summary: The iPhone's launch exemplified anticipatory design by Steve
+      Jobs, who focused on delivering innovative features that customers didn't yet
+      realize they needed, shaping the future of digital devices.
+    paragraph_summary: The launch of the iPhone was a pivotal moment in technology,
+      exemplifying anticipatory design by Steve Jobs, who chose to disregard customer
+      requests for improved BlackBerry features in favor of a groundbreaking device
+      that transformed user expectations. This approach led to the creation of a product
+      that consumers didn't realize they needed, shaping the modern "glass slab" design
+      that continues to influence digital devices as of 2026. The article emphasizes
+      Jobs' belief that simply asking customers what they want is insufficient for innovation.
+    published: '2026-03-20T23:17:28+00:00'
+  - title: 'Quote of the Day By Apple’s Steve Jobs: ‘You can’t just ask customers what
+      they want and then try to give that to them…’'
+    url: https://www.19fortyfive.com/2026/03/quote-of-the-day-by-apples-steve-jobs-you-cant-just-ask-customers-what-they-want-and-then-try-to-give-that-to-them/
+    text: 'The creation of the iPhone was more than a product launch; it was a masterclass
+      in anticipatory design. By ignoring what customers said they wanted—usually a
+      better version of a BlackBerry—Steve Jobs delivered what they didn’t yet know
+      they couldn''t live without. As of 2026, the ripples of "Project Purple" still
+      define the "glass slab" geometry of our digital lives. The post Quote of the Day
+      By Apple’s Steve Jobs: ‘You can’t just ask customers what they want and then try
+      to give that to them…’ appeared first on 19FortyFive .'
+    one_sentence_summary: The iPhone's launch exemplified anticipatory design by Steve
+      Jobs, who focused on delivering innovative features that customers didn't yet
+      realize they needed, shaping the future of digital devices.
+    paragraph_summary: The launch of the iPhone was a pivotal moment in technology,
+      exemplifying anticipatory design by Steve Jobs, who chose to disregard customer
+      requests for improved BlackBerry features in favor of a groundbreaking device
+      that transformed user expectations. This approach led to the creation of a product
+      that consumers didn't realize they needed, shaping the modern "glass slab" design
+      that continues to influence digital devices as of 2026. The article emphasizes
+      Jobs' belief that simply asking customers what they want is insufficient for innovation.
+    published: '2026-03-20T23:17:28+00:00'
+  - title: Staff Were Told to Hide Bearded Soldiers Before Pete Hegseth Arrived — Now
+      He’s Ordering the Pentagon to Strip Religious Beard Waivers
+    url: https://www.19fortyfive.com/2026/03/staff-were-told-to-hide-bearded-soldiers-before-pete-hegseth-arrived-now-hes-ordering-the-pentagon-to-strip-religious-beard-waivers/
+    text: 'The pivot toward strict grooming standards reflects a broader 2026 shift
+      in Department of Defense philosophy: the belief that uniformity is a prerequisite
+      for discipline. For leadership, the "beard" has become a proxy for a perceived
+      slide into individualism that distracts from the collective mission. The post
+      Staff Were Told to Hide Bearded Soldiers Before Pete Hegseth Arrived — Now He’s
+      Ordering the Pentagon to Strip Religious Beard Waivers appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The Department of Defense's shift towards strict grooming
+      standards, including the elimination of religious beard waivers, underscores a
+      belief that uniformity is essential for discipline and collective mission focus.
+    paragraph_summary: The article discusses a shift in the Department of Defense's
+      philosophy towards stricter grooming standards, emphasizing uniformity as essential
+      for discipline. Leadership views beards as a symbol of individualism that detracts
+      from the collective mission, leading to the decision to eliminate religious beard
+      waivers. This change is highlighted by an incident where staff were instructed
+      to conceal bearded soldiers prior to the arrival of Pete Hegseth, who is now advocating
+      for these stricter policies within the Pentagon.
+    published: '2026-03-20T23:05:06+00:00'
+  - title: Staff Were Told to Hide Bearded Soldiers Before Pete Hegseth Arrived — Now
+      He’s Ordering the Pentagon to Strip Religious Beard Waivers
+    url: https://www.19fortyfive.com/2026/03/staff-were-told-to-hide-bearded-soldiers-before-pete-hegseth-arrived-now-hes-ordering-the-pentagon-to-strip-religious-beard-waivers/
+    text: 'The pivot toward strict grooming standards reflects a broader 2026 shift
+      in Department of Defense philosophy: the belief that uniformity is a prerequisite
+      for discipline. For leadership, the "beard" has become a proxy for a perceived
+      slide into individualism that distracts from the collective mission. The post
+      Staff Were Told to Hide Bearded Soldiers Before Pete Hegseth Arrived — Now He’s
+      Ordering the Pentagon to Strip Religious Beard Waivers appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The Department of Defense's shift towards strict grooming
+      standards, including the elimination of religious beard waivers, underscores a
+      belief that uniformity is essential for discipline and collective mission focus.
+    paragraph_summary: The article discusses a shift in the Department of Defense's
+      philosophy towards stricter grooming standards, emphasizing uniformity as essential
+      for discipline. Leadership views beards as a symbol of individualism that detracts
+      from the collective mission, leading to the decision to eliminate religious beard
+      waivers. This change is highlighted by an incident where staff were instructed
+      to conceal bearded soldiers prior to the arrival of Pete Hegseth, who is now advocating
+      for these stricter policies within the Pentagon.
+    published: '2026-03-20T23:05:06+00:00'
+  - title: '2,117 Days in the Shipyard: Nuclear Aircraft Carrier USS George Washington’s
+      6-Year U.S. Navy Mess'
+    url: https://www.19fortyfive.com/2026/03/2117-days-in-the-shipyard-nuclear-aircraft-carrier-uss-george-washingtons-6-year-u-s-navy-mess/
+    text: 'The struggle to return the aircraft carrier USS George Washington to the
+      flight line highlights a systemic issue: the U.S. Navy is currently operating
+      with a maintenance infrastructure that cannot absorb "shocks"—whether they are
+      global pandemics or unexpected structural decay. The post 2,117 Days in the Shipyard:
+      Nuclear Aircraft Carrier USS George Washington’s 6-Year U.S. Navy Mess appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The prolonged maintenance challenges faced by the USS George
+      Washington underscore a broader systemic failure within the U.S. Navy's infrastructure,
+      which is ill-equipped to handle unexpected disruptions such as pandemics and structural
+      issues.
+    paragraph_summary: The article discusses the prolonged maintenance challenges faced
+      by the USS George Washington aircraft carrier, which has been out of service for
+      over six years due to a combination of factors, including the Navy's inadequate
+      maintenance infrastructure and the impact of global events like the pandemic.
+      This situation underscores a broader systemic issue within the U.S. Navy, revealing
+      its inability to effectively manage unexpected disruptions and structural decay,
+      ultimately hindering the fleet's operational readiness.
+    published: '2026-03-20T22:44:20+00:00'
+  - title: '2,117 Days in the Shipyard: Nuclear Aircraft Carrier USS George Washington’s
+      6-Year U.S. Navy Mess'
+    url: https://www.19fortyfive.com/2026/03/2117-days-in-the-shipyard-nuclear-aircraft-carrier-uss-george-washingtons-6-year-u-s-navy-mess/
+    text: 'The struggle to return the aircraft carrier USS George Washington to the
+      flight line highlights a systemic issue: the U.S. Navy is currently operating
+      with a maintenance infrastructure that cannot absorb "shocks"—whether they are
+      global pandemics or unexpected structural decay. The post 2,117 Days in the Shipyard:
+      Nuclear Aircraft Carrier USS George Washington’s 6-Year U.S. Navy Mess appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The prolonged maintenance challenges faced by the USS George
+      Washington underscore a broader systemic failure within the U.S. Navy's infrastructure,
+      which is ill-equipped to handle unexpected disruptions such as pandemics and structural
+      issues.
+    paragraph_summary: The article discusses the prolonged maintenance challenges faced
+      by the USS George Washington aircraft carrier, which has been out of service for
+      over six years due to a combination of factors, including the Navy's inadequate
+      maintenance infrastructure and the impact of global events like the pandemic.
+      This situation underscores a broader systemic issue within the U.S. Navy, revealing
+      its inability to effectively manage unexpected disruptions and structural decay,
+      ultimately hindering the fleet's operational readiness.
+    published: '2026-03-20T22:44:20+00:00'
+  - title: U.S. Navy Nuclear Aircraft Carrier USS Gerald R. Ford Might Be Out of Action
+      for 14 Months
+    url: https://www.19fortyfive.com/2026/03/u-s-navy-nuclear-aircraft-carrier-uss-gerald-r-ford-might-be-out-of-action-for-14-months/
+    text: The U.S. Navy faces a potential "aircraft carrier crunch" as its most advanced
+      warship, the USS Gerald R. Ford (CVN-78), sits at Souda Bay undergoing damage
+      assessment. The transition from active combat in the Red Sea to a shipyard in
+      Crete marks a critical pause in Operation Epic Fury, highlighting the physical
+      and industrial limits of 21st-century naval power. The post U.S. Navy Nuclear
+      Aircraft Carrier USS Gerald R. Ford Might Be Out of Action for 14 Months appeared
+      first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy is experiencing a potential "aircraft carrier
+      crunch" as the USS Gerald R. Ford undergoes damage assessment in Crete, underscoring
+      the challenges of maintaining modern naval power amid operational pauses.
+    paragraph_summary: The U.S. Navy is experiencing a potential "aircraft carrier crunch"
+      as the USS Gerald R. Ford (CVN-78), its most advanced warship, is currently at
+      Souda Bay for damage assessment after transitioning from active combat in the
+      Red Sea. This situation underscores the physical and industrial constraints of
+      modern naval power, particularly as the carrier may be out of action for up to
+      14 months, impacting ongoing operations like Operation Epic Fury.
+    published: '2026-03-20T22:27:56+00:00'
+  - title: U.S. Navy Nuclear Aircraft Carrier USS Gerald R. Ford Might Be Out of Action
+      for 14 Months
+    url: https://www.19fortyfive.com/2026/03/u-s-navy-nuclear-aircraft-carrier-uss-gerald-r-ford-might-be-out-of-action-for-14-months/
+    text: The U.S. Navy faces a potential "aircraft carrier crunch" as its most advanced
+      warship, the USS Gerald R. Ford (CVN-78), sits at Souda Bay undergoing damage
+      assessment. The transition from active combat in the Red Sea to a shipyard in
+      Crete marks a critical pause in Operation Epic Fury, highlighting the physical
+      and industrial limits of 21st-century naval power. The post U.S. Navy Nuclear
+      Aircraft Carrier USS Gerald R. Ford Might Be Out of Action for 14 Months appeared
+      first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy is experiencing a potential "aircraft carrier
+      crunch" as the USS Gerald R. Ford undergoes damage assessment in Crete, underscoring
+      the challenges of maintaining modern naval power amid operational pauses.
+    paragraph_summary: The U.S. Navy is experiencing a potential "aircraft carrier crunch"
+      as the USS Gerald R. Ford (CVN-78), its most advanced warship, is currently at
+      Souda Bay for damage assessment after transitioning from active combat in the
+      Red Sea. This situation underscores the physical and industrial constraints of
+      modern naval power, particularly as the carrier may be out of action for up to
+      14 months, impacting ongoing operations like Operation Epic Fury.
+    published: '2026-03-20T22:27:56+00:00'
+  - title: 'The U.S. Navy Is Running Out of Nuclear Aircraft Carriers: USS Harry S.
+      Truman Out of Action for 5 Years'
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-running-out-of-nuclear-aircraft-carriers-uss-harry-s-truman-out-of-action-for-5-years/
+    text: 'The scheduled withdrawal of the USS Harry S. Truman (CVN-75) in June 2026
+      marks a high-stakes transition for the U.S. Navy. As the aircraft carrier enters
+      its mid-life reset, the service must navigate a five-year "carrier gap" that tests
+      the limits of American power projection in an increasingly volatile global landscape.
+      The post The U.S. Navy Is Running Out of Nuclear Aircraft Carriers: USS Harry
+      S. Truman Out of Action for 5 Years appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Harry S. Truman's scheduled withdrawal in June 2026
+      will create a significant five-year gap in U.S. Navy aircraft carrier availability,
+      challenging American power projection amid rising global tensions.
+    paragraph_summary: The upcoming withdrawal of the USS Harry S. Truman (CVN-75) in
+      June 2026 signifies a critical juncture for the U.S. Navy, as the carrier undergoes
+      a mid-life reset that will result in a five-year "carrier gap." This gap poses
+      challenges for American power projection amid a volatile global environment, raising
+      concerns about the Navy's operational capabilities during this period. The situation
+      underscores the strategic implications of the diminishing number of nuclear aircraft
+      carriers available for deployment.
+    published: '2026-03-20T20:17:39+00:00'
+  - title: 'The U.S. Navy Is Running Out of Nuclear Aircraft Carriers: USS Harry S.
+      Truman Out of Action for 5 Years'
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-running-out-of-nuclear-aircraft-carriers-uss-harry-s-truman-out-of-action-for-5-years/
+    text: 'The scheduled withdrawal of the USS Harry S. Truman (CVN-75) in June 2026
+      marks a high-stakes transition for the U.S. Navy. As the aircraft carrier enters
+      its mid-life reset, the service must navigate a five-year "carrier gap" that tests
+      the limits of American power projection in an increasingly volatile global landscape.
+      The post The U.S. Navy Is Running Out of Nuclear Aircraft Carriers: USS Harry
+      S. Truman Out of Action for 5 Years appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Harry S. Truman's scheduled withdrawal in June 2026
+      will create a significant five-year gap in U.S. Navy aircraft carrier availability,
+      challenging American power projection amid rising global tensions.
+    paragraph_summary: The upcoming withdrawal of the USS Harry S. Truman (CVN-75) in
+      June 2026 signifies a critical juncture for the U.S. Navy, as the carrier undergoes
+      a mid-life reset that will result in a five-year "carrier gap." This gap poses
+      challenges for American power projection amid a volatile global environment, raising
+      concerns about the Navy's operational capabilities during this period. The situation
+      underscores the strategic implications of the diminishing number of nuclear aircraft
+      carriers available for deployment.
+    published: '2026-03-20T20:17:39+00:00'
+  - title: How I Got Selected as a U.S. Air Force Pilot With a Sub-3.0 GPA, No Military
+      Background, and 0-10% Odds — A Former Selectee Explains
+    url: https://www.19fortyfive.com/2026/03/how-i-got-selected-as-a-u-s-air-force-pilot-with-a-sub-3-0-gpa-no-military-background-and-0-10-odds-a-former-selectee-explains/
+    text: Securing a pilot slot through Air Force Officer Training School (OTS) is widely
+      regarded as the most statistically grueling path to the cockpit. In an environment
+      where selection rates can dip into the single digits, the process demands a blend
+      of mathematical precision in testing and a strategic "whole-person" approach to
+      the application package. The post How I Got Selected as a U.S. Air Force Pilot
+      With a Sub-3.0 GPA, No Military Background, and 0-10% Odds — A Former Selectee
+      Explains appeared first on 19FortyFive .
+    one_sentence_summary: The article discusses the challenging selection process for
+      becoming a U.S. Air Force pilot through Officer Training School, highlighting
+      the author's successful application despite a sub-3.0 GPA, no military background,
+      and low odds of acceptance.
+    paragraph_summary: The article discusses the challenging journey of securing a pilot
+      position through the Air Force Officer Training School (OTS), highlighting the
+      rigorous selection process characterized by low acceptance rates and the need
+      for a comprehensive application strategy. It emphasizes the importance of both
+      quantitative testing and a holistic evaluation of candidates, showcasing the experience
+      of a former selectee who, despite having a sub-3.0 GPA, no military background,
+      and facing odds as low as 10%, successfully navigated the competitive landscape
+      to achieve their goal of becoming a U.S. Air Force pilot.
+    published: '2026-03-20T19:51:30+00:00'
+  - title: How I Got Selected as a U.S. Air Force Pilot With a Sub-3.0 GPA, No Military
+      Background, and 0-10% Odds — A Former Selectee Explains
+    url: https://www.19fortyfive.com/2026/03/how-i-got-selected-as-a-u-s-air-force-pilot-with-a-sub-3-0-gpa-no-military-background-and-0-10-odds-a-former-selectee-explains/
+    text: Securing a pilot slot through Air Force Officer Training School (OTS) is widely
+      regarded as the most statistically grueling path to the cockpit. In an environment
+      where selection rates can dip into the single digits, the process demands a blend
+      of mathematical precision in testing and a strategic "whole-person" approach to
+      the application package. The post How I Got Selected as a U.S. Air Force Pilot
+      With a Sub-3.0 GPA, No Military Background, and 0-10% Odds — A Former Selectee
+      Explains appeared first on 19FortyFive .
+    one_sentence_summary: The article discusses the challenging selection process for
+      becoming a U.S. Air Force pilot through Officer Training School, highlighting
+      the author's successful application despite a sub-3.0 GPA, no military background,
+      and low odds of acceptance.
+    paragraph_summary: The article discusses the challenging journey of securing a pilot
+      position through the Air Force Officer Training School (OTS), highlighting the
+      rigorous selection process characterized by low acceptance rates and the need
+      for a comprehensive application strategy. It emphasizes the importance of both
+      quantitative testing and a holistic evaluation of candidates, showcasing the experience
+      of a former selectee who, despite having a sub-3.0 GPA, no military background,
+      and facing odds as low as 10%, successfully navigated the competitive landscape
+      to achieve their goal of becoming a U.S. Air Force pilot.
+    published: '2026-03-20T19:51:30+00:00'
+  - title: '19 B-2s Left, 145 B-21s Coming: The Air Force Just Tested Its New Stealth
+      Bomber Refueling — and It Has Plans to Sink China’s Navy'
+    url: https://www.19fortyfive.com/2026/03/19-b-2s-left-145-b-21s-coming-the-air-force-just-tested-its-new-stealth-bomber-refueling-and-it-has-plans-to-sink-chinas-navy/
+    text: 'The acceleration of the B-21 Raider program marks a significant shift in
+      American long-range strike doctrine as 2026 unfolds. By transitioning from a "boutique"
+      fleet model—which limited the B-2 Spirit to just 19 aircraft—to a mass-produced,
+      sixth-generation backbone, the Pentagon is preparing for a sustained, high-intensity
+      conflict in the Indo-Pacific. The post 19 B-2s Left, 145 B-21s Coming: The Air
+      Force Just Tested Its New Stealth Bomber Refueling — and It Has Plans to Sink
+      China’s Navy appeared first on 19FortyFive .'
+    one_sentence_summary: The B-21 Raider program's acceleration signifies a major change
+      in U.S. long-range strike strategy, moving from a limited fleet of B-2 Spirits
+      to a mass production of 145 B-21s to enhance military readiness for potential
+      high-intensity conflicts in the Indo-Pacific.
+    paragraph_summary: The B-21 Raider program represents a pivotal change in U.S. long-range
+      strike strategy as it moves from a limited fleet of 19 B-2 Spirits to a more robust
+      production of 145 B-21 bombers, reflecting the Pentagon's preparation for potential
+      high-intensity conflicts in the Indo-Pacific region. This shift emphasizes a transition
+      to a sixth-generation bomber fleet designed to enhance operational capabilities,
+      including recent tests of the B-21's refueling systems, as the U.S. aims to strengthen
+      its military posture against threats, particularly from China.
+    published: '2026-03-20T19:32:00+00:00'
+  - title: '19 B-2s Left, 145 B-21s Coming: The Air Force Just Tested Its New Stealth
+      Bomber Refueling — and It Has Plans to Sink China’s Navy'
+    url: https://www.19fortyfive.com/2026/03/19-b-2s-left-145-b-21s-coming-the-air-force-just-tested-its-new-stealth-bomber-refueling-and-it-has-plans-to-sink-chinas-navy/
+    text: 'The acceleration of the B-21 Raider program marks a significant shift in
+      American long-range strike doctrine as 2026 unfolds. By transitioning from a "boutique"
+      fleet model—which limited the B-2 Spirit to just 19 aircraft—to a mass-produced,
+      sixth-generation backbone, the Pentagon is preparing for a sustained, high-intensity
+      conflict in the Indo-Pacific. The post 19 B-2s Left, 145 B-21s Coming: The Air
+      Force Just Tested Its New Stealth Bomber Refueling — and It Has Plans to Sink
+      China’s Navy appeared first on 19FortyFive .'
+    one_sentence_summary: The B-21 Raider program's acceleration signifies a major change
+      in U.S. long-range strike strategy, moving from a limited fleet of B-2 Spirits
+      to a mass production of 145 B-21s to enhance military readiness for potential
+      high-intensity conflicts in the Indo-Pacific.
+    paragraph_summary: The B-21 Raider program represents a pivotal change in U.S. long-range
+      strike strategy as it moves from a limited fleet of 19 B-2 Spirits to a more robust
+      production of 145 B-21 bombers, reflecting the Pentagon's preparation for potential
+      high-intensity conflicts in the Indo-Pacific region. This shift emphasizes a transition
+      to a sixth-generation bomber fleet designed to enhance operational capabilities,
+      including recent tests of the B-21's refueling systems, as the U.S. aims to strengthen
+      its military posture against threats, particularly from China.
+    published: '2026-03-20T19:32:00+00:00'
+  - title: Hypersonic Dark Eagle Missile Can Hit China or Russia in Under 20 Minutes
+      — The Pentagon Just Admitted It Hasn’t Finished Testing It
+    url: https://www.19fortyfive.com/2026/03/hypersonic-dark-eagle-missile-can-hit-china-or-russia-in-under-20-minutes-the-pentagon-just-admitted-it-hasnt-finished-testing-it/
+    text: The deployment of the "Dark Eagle" (Long-Range Hypersonic Weapon) in March
+      2026 marks the end of the "hypersonic gap" and a fundamental shift in how the
+      U.S. Army handles long-range fires. By combining ballistic speeds with atmospheric
+      maneuverability, the Army is moving away from the predictable arcs of the Cold
+      War toward a "glide" profile that current air defenses simply aren't built to
+      stop. The post Hypersonic Dark Eagle Missile Can Hit China or Russia in Under
+      20 Minutes — The Pentagon Just Admitted It Hasn’t Finished Testing It appeared
+      first on 19FortyFive .
+    one_sentence_summary: The deployment of the "Dark Eagle" hypersonic weapon in March
+      2026 signifies a pivotal change in U.S. Army long-range fire capabilities, enabling
+      rapid strikes against adversaries like China and Russia while exploiting a new
+      glide profile that current air defenses cannot effectively counter.
+    paragraph_summary: The deployment of the "Dark Eagle" Long-Range Hypersonic Weapon
+      in March 2026 signifies a pivotal change in U.S. Army long-range fire capabilities,
+      effectively closing the "hypersonic gap." This weapon combines ballistic speeds
+      with atmospheric maneuverability, allowing it to follow a less predictable glide
+      profile that current air defense systems are ill-equipped to counter. Despite
+      its advanced capabilities, the Pentagon has acknowledged that testing for the
+      Dark Eagle is still incomplete, raising questions about its readiness for potential
+      use against adversaries like China and Russia, which could occur in under 20 minutes.
+    published: '2026-03-20T19:12:18+00:00'
+  - title: Hypersonic Dark Eagle Missile Can Hit China or Russia in Under 20 Minutes
+      — The Pentagon Just Admitted It Hasn’t Finished Testing It
+    url: https://www.19fortyfive.com/2026/03/hypersonic-dark-eagle-missile-can-hit-china-or-russia-in-under-20-minutes-the-pentagon-just-admitted-it-hasnt-finished-testing-it/
+    text: The deployment of the "Dark Eagle" (Long-Range Hypersonic Weapon) in March
+      2026 marks the end of the "hypersonic gap" and a fundamental shift in how the
+      U.S. Army handles long-range fires. By combining ballistic speeds with atmospheric
+      maneuverability, the Army is moving away from the predictable arcs of the Cold
+      War toward a "glide" profile that current air defenses simply aren't built to
+      stop. The post Hypersonic Dark Eagle Missile Can Hit China or Russia in Under
+      20 Minutes — The Pentagon Just Admitted It Hasn’t Finished Testing It appeared
+      first on 19FortyFive .
+    one_sentence_summary: The deployment of the "Dark Eagle" hypersonic weapon in March
+      2026 signifies a pivotal change in U.S. Army long-range fire capabilities, enabling
+      rapid strikes against adversaries like China and Russia while exploiting a new
+      glide profile that current air defenses cannot effectively counter.
+    paragraph_summary: The deployment of the "Dark Eagle" Long-Range Hypersonic Weapon
+      in March 2026 signifies a pivotal change in U.S. Army long-range fire capabilities,
+      effectively closing the "hypersonic gap." This weapon combines ballistic speeds
+      with atmospheric maneuverability, allowing it to follow a less predictable glide
+      profile that current air defense systems are ill-equipped to counter. Despite
+      its advanced capabilities, the Pentagon has acknowledged that testing for the
+      Dark Eagle is still incomplete, raising questions about its readiness for potential
+      use against adversaries like China and Russia, which could occur in under 20 minutes.
+    published: '2026-03-20T19:12:18+00:00'
+  - title: The U.S. Navy Built 3 Midway-Class Aircraft Carriers After WWII — One Lasted
+      47 Years, Fought in Vietnam, and Was Still Launching Jets in Desert Storm
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-built-3-midway-class-aircraft-carriers-after-wwii-one-lasted-47-years-fought-in-vietnam-and-was-still-launching-jets-in-desert-storm/
+    text: The Midway-class represents the pivotal evolutionary step that transformed
+      the U.S. Navy from a propeller-driven fleet into the jet-age supercarrier force
+      that currently dominates the 2026 maritime landscape. By blending British-inspired
+      survivability with American industrial scale, these ships ensured the Navy could
+      transition seamlessly from the lessons of Midway and Guadalcanal to the high-stakes
+      deterrence of the Cold War. The post The U.S. Navy Built 3 Midway-Class Aircraft
+      Carriers After WWII — One Lasted 47 Years, Fought in Vietnam, and Was Still Launching
+      Jets in Desert Storm appeared first on 19FortyFive .
+    one_sentence_summary: The Midway-class aircraft carriers marked a crucial evolution
+      in the U.S. Navy's transition from propeller-driven ships to jet-age supercarriers,
+      combining British survivability with American industrial strength to adapt to
+      Cold War challenges.
+    paragraph_summary: The Midway-class aircraft carriers marked a crucial evolution
+      in the U.S. Navy, transitioning it from a propeller-driven fleet to a dominant
+      jet-age supercarrier force by 2026. These carriers combined British-inspired survivability
+      with American industrial capabilities, allowing the Navy to effectively apply
+      lessons learned from pivotal battles like Midway and Guadalcanal to the strategic
+      challenges of the Cold War. Notably, one of the three Midway-class carriers served
+      for an impressive 47 years, participating in conflicts such as Vietnam and continuing
+      to launch jets during Operation Desert Storm.
+    published: '2026-03-20T18:55:24+00:00'
+  - title: The U.S. Navy Built 3 Midway-Class Aircraft Carriers After WWII — One Lasted
+      47 Years, Fought in Vietnam, and Was Still Launching Jets in Desert Storm
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-built-3-midway-class-aircraft-carriers-after-wwii-one-lasted-47-years-fought-in-vietnam-and-was-still-launching-jets-in-desert-storm/
+    text: The Midway-class represents the pivotal evolutionary step that transformed
+      the U.S. Navy from a propeller-driven fleet into the jet-age supercarrier force
+      that currently dominates the 2026 maritime landscape. By blending British-inspired
+      survivability with American industrial scale, these ships ensured the Navy could
+      transition seamlessly from the lessons of Midway and Guadalcanal to the high-stakes
+      deterrence of the Cold War. The post The U.S. Navy Built 3 Midway-Class Aircraft
+      Carriers After WWII — One Lasted 47 Years, Fought in Vietnam, and Was Still Launching
+      Jets in Desert Storm appeared first on 19FortyFive .
+    one_sentence_summary: The Midway-class aircraft carriers marked a crucial evolution
+      in the U.S. Navy's transition from propeller-driven ships to jet-age supercarriers,
+      combining British survivability with American industrial strength to adapt to
+      Cold War challenges.
+    paragraph_summary: The Midway-class aircraft carriers marked a crucial evolution
+      in the U.S. Navy, transitioning it from a propeller-driven fleet to a dominant
+      jet-age supercarrier force by 2026. These carriers combined British-inspired survivability
+      with American industrial capabilities, allowing the Navy to effectively apply
+      lessons learned from pivotal battles like Midway and Guadalcanal to the strategic
+      challenges of the Cold War. Notably, one of the three Midway-class carriers served
+      for an impressive 47 years, participating in conflicts such as Vietnam and continuing
+      to launch jets during Operation Desert Storm.
+    published: '2026-03-20T18:55:24+00:00'
+  - title: Battleship USS Texas Deliberately Flooded Itself on D-Day to Tilt Its Guns
+      Toward Nazi Targets — Now America’s Most Historic Warship Is Back
+    url: https://www.19fortyfive.com/2026/03/battleship-uss-texas-deliberately-flooded-itself-on-d-day-to-tilt-its-guns-toward-nazi-targets-now-americas-most-historic-warship-is-back/
+    text: The restoration of the USS Texas is not merely a paint job; it is a structural
+      resurrection. In 2026, the ship represents a rare success in maritime preservation,
+      utilizing modern engineering to save a hull that was literally dissolving in the
+      San Jacinto silt. By replacing 700 tons of steel and reconstructing the torpedo
+      blisters, the foundation has ensured that this "floating computer" of 1914 can
+      survive another century. The post Battleship USS Texas Deliberately Flooded Itself
+      on D-Day to Tilt Its Guns Toward Nazi Targets — Now America’s Most Historic Warship
+      Is Back appeared first on 19FortyFive .
+    one_sentence_summary: The USS Texas is undergoing a significant restoration that
+      involves replacing 700 tons of steel and reconstructing its structure to preserve
+      the historic battleship for another century, showcasing a successful blend of
+      modern engineering and maritime preservation.
+    paragraph_summary: The restoration of the USS Texas is a significant structural
+      revival rather than just a cosmetic update, showcasing a successful example of
+      maritime preservation. Scheduled for completion in 2026, the project employs modern
+      engineering techniques to address severe deterioration caused by the ship's exposure
+      to San Jacinto silt, involving the replacement of 700 tons of steel and the reconstruction
+      of torpedo blisters. This extensive work aims to ensure that the USS Texas, a
+      historic "floating computer" from 1914, can endure for another century, preserving
+      its legacy as a pivotal warship that played a crucial role during D-Day.
+    published: '2026-03-20T18:26:10+00:00'
+  - title: Battleship USS Texas Deliberately Flooded Itself on D-Day to Tilt Its Guns
+      Toward Nazi Targets — Now America’s Most Historic Warship Is Back
+    url: https://www.19fortyfive.com/2026/03/battleship-uss-texas-deliberately-flooded-itself-on-d-day-to-tilt-its-guns-toward-nazi-targets-now-americas-most-historic-warship-is-back/
+    text: The restoration of the USS Texas is not merely a paint job; it is a structural
+      resurrection. In 2026, the ship represents a rare success in maritime preservation,
+      utilizing modern engineering to save a hull that was literally dissolving in the
+      San Jacinto silt. By replacing 700 tons of steel and reconstructing the torpedo
+      blisters, the foundation has ensured that this "floating computer" of 1914 can
+      survive another century. The post Battleship USS Texas Deliberately Flooded Itself
+      on D-Day to Tilt Its Guns Toward Nazi Targets — Now America’s Most Historic Warship
+      Is Back appeared first on 19FortyFive .
+    one_sentence_summary: The USS Texas is undergoing a significant restoration that
+      involves replacing 700 tons of steel and reconstructing its structure to preserve
+      the historic battleship for another century, showcasing a successful blend of
+      modern engineering and maritime preservation.
+    paragraph_summary: The restoration of the USS Texas is a significant structural
+      revival rather than just a cosmetic update, showcasing a successful example of
+      maritime preservation. Scheduled for completion in 2026, the project employs modern
+      engineering techniques to address severe deterioration caused by the ship's exposure
+      to San Jacinto silt, involving the replacement of 700 tons of steel and the reconstruction
+      of torpedo blisters. This extensive work aims to ensure that the USS Texas, a
+      historic "floating computer" from 1914, can endure for another century, preserving
+      its legacy as a pivotal warship that played a crucial role during D-Day.
+    published: '2026-03-20T18:26:10+00:00'
+  - title: 6 Million More Veterans Now Qualify for Tax-Free ABLE Accounts in 2026 —
+      Most Don’t Know They’re Eligible
+    url: https://www.19fortyfive.com/2026/03/6-million-more-veterans-now-qualify-for-tax-free-able-accounts-in-2026-most-dont-know-theyre-eligible/
+    text: The 2026 expansion of the ABLE Act represents a massive shift in financial
+      security for the veteran community. By raising the disability onset age, the federal
+      government has effectively removed the "age barrier" that previously excluded
+      millions of service members whose disabilities were diagnosed or occurred in their
+      30s and 40s. The post 6 Million More Veterans Now Qualify for Tax-Free ABLE Accounts
+      in 2026 — Most Don’t Know They’re Eligible appeared first on 19FortyFive .
+    one_sentence_summary: The 2026 expansion of the ABLE Act significantly enhances
+      financial security for veterans by eliminating the age barrier for disability
+      onset, allowing over six million additional veterans to qualify for tax-free ABLE
+      accounts.
+    paragraph_summary: The 2026 expansion of the ABLE Act significantly enhances financial
+      security for veterans by raising the disability onset age, thereby eliminating
+      the previous "age barrier" that excluded many service members diagnosed with disabilities
+      in their 30s and 40s. This change allows an additional 6 million veterans to qualify
+      for tax-free ABLE accounts, although many remain unaware of their eligibility.
+    published: '2026-03-20T18:11:59+00:00'
+  - title: 6 Million More Veterans Now Qualify for Tax-Free ABLE Accounts in 2026 —
+      Most Don’t Know They’re Eligible
+    url: https://www.19fortyfive.com/2026/03/6-million-more-veterans-now-qualify-for-tax-free-able-accounts-in-2026-most-dont-know-theyre-eligible/
+    text: The 2026 expansion of the ABLE Act represents a massive shift in financial
+      security for the veteran community. By raising the disability onset age, the federal
+      government has effectively removed the "age barrier" that previously excluded
+      millions of service members whose disabilities were diagnosed or occurred in their
+      30s and 40s. The post 6 Million More Veterans Now Qualify for Tax-Free ABLE Accounts
+      in 2026 — Most Don’t Know They’re Eligible appeared first on 19FortyFive .
+    one_sentence_summary: The 2026 expansion of the ABLE Act significantly enhances
+      financial security for veterans by eliminating the age barrier for disability
+      onset, allowing over six million additional veterans to qualify for tax-free ABLE
+      accounts.
+    paragraph_summary: The 2026 expansion of the ABLE Act significantly enhances financial
+      security for veterans by raising the disability onset age, thereby eliminating
+      the previous "age barrier" that excluded many service members diagnosed with disabilities
+      in their 30s and 40s. This change allows an additional 6 million veterans to qualify
+      for tax-free ABLE accounts, although many remain unaware of their eligibility.
+    published: '2026-03-20T18:11:59+00:00'
+  - title: The U.S. Navy Built 24 Essex-Class Aircraft Carriers in WWII Across 5 Shipyards
+      — Today It Can’t Fix One on Time
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-built-24-essex-class-aircraft-carriers-in-wwii-across-5-shipyards-today-it-cant-fix-one-on-time/
+    text: The Essex-class aircraft carriers represent the pinnacle of industrial mobilization
+      and tactical evolution during the 20th century. By transitioning from the restrictive
+      treaty-era designs to a platform of mass-produced, high-survivability naval power,
+      the United States established a template for carrier-centric warfare that persists
+      into the 2026 era of Ford-class dominance. The post The U.S. Navy Built 24 Essex-Class
+      Aircraft Carriers in WWII Across 5 Shipyards — Today It Can’t Fix One on Time
+      appeared first on 19FortyFive .
+    one_sentence_summary: The Essex-class aircraft carriers exemplified the U.S. Navy's
+      shift to mass-produced, high-survivability naval power during WWII, setting a
+      lasting standard for carrier-centric warfare that continues to influence modern
+      naval strategy, despite contemporary challenges in timely repairs.
+    paragraph_summary: The Essex-class aircraft carriers exemplify the peak of industrial
+      mobilization and tactical advancement in the 20th century, marking a shift from
+      treaty-limited designs to robust, mass-produced naval power. This transition allowed
+      the United States to create a foundational model for carrier-centric warfare that
+      continues to influence modern naval strategies, even as the Navy faces challenges
+      in timely repairs and maintenance of contemporary vessels like the Ford-class
+      carriers.
+    published: '2026-03-20T18:02:04+00:00'
+  - title: The U.S. Navy Built 24 Essex-Class Aircraft Carriers in WWII Across 5 Shipyards
+      — Today It Can’t Fix One on Time
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-built-24-essex-class-aircraft-carriers-in-wwii-across-5-shipyards-today-it-cant-fix-one-on-time/
+    text: The Essex-class aircraft carriers represent the pinnacle of industrial mobilization
+      and tactical evolution during the 20th century. By transitioning from the restrictive
+      treaty-era designs to a platform of mass-produced, high-survivability naval power,
+      the United States established a template for carrier-centric warfare that persists
+      into the 2026 era of Ford-class dominance. The post The U.S. Navy Built 24 Essex-Class
+      Aircraft Carriers in WWII Across 5 Shipyards — Today It Can’t Fix One on Time
+      appeared first on 19FortyFive .
+    one_sentence_summary: The Essex-class aircraft carriers exemplified the U.S. Navy's
+      shift to mass-produced, high-survivability naval power during WWII, setting a
+      lasting standard for carrier-centric warfare that continues to influence modern
+      naval strategy, despite contemporary challenges in timely repairs.
+    paragraph_summary: The Essex-class aircraft carriers exemplify the peak of industrial
+      mobilization and tactical advancement in the 20th century, marking a shift from
+      treaty-limited designs to robust, mass-produced naval power. This transition allowed
+      the United States to create a foundational model for carrier-centric warfare that
+      continues to influence modern naval strategies, even as the Navy faces challenges
+      in timely repairs and maintenance of contemporary vessels like the Ford-class
+      carriers.
+    published: '2026-03-20T18:02:04+00:00'
+  - title: America Has 1 Shipyard That Can Refuel Nuclear Aircraft Carriers — It’s Already
+      Behind on the Stennis and the Truman Is Next in Line
+    url: https://www.19fortyfive.com/2026/03/america-has-1-shipyard-that-can-refuel-nuclear-aircraft-carriers-its-already-behind-on-the-stennis-and-the-truman-is-next-in-line/
+    text: The USS John C. Stennis (CVN-74) is currently the focal point of a systemic
+      industrial crisis that is eroding the U.S. Navy's global power projection. As
+      maintenance timelines stretch and costs balloon, the gap between the Navy's statutory
+      requirements and its operational reality is widening at a moment of peak geopolitical
+      tension. The post America Has 1 Shipyard That Can Refuel Nuclear Aircraft Carriers
+      — It’s Already Behind on the Stennis and the Truman Is Next in Line appeared first
+      on 19FortyFive .
+    one_sentence_summary: The USS John C. Stennis is at the center of a significant
+      industrial crisis that is undermining the U.S. Navy's ability to project power
+      globally, as maintenance delays and rising costs exacerbate the gap between operational
+      needs and capabilities amid heightened geopolitical tensions.
+    paragraph_summary: The USS John C. Stennis (CVN-74) is at the center of a significant
+      industrial crisis affecting the U.S. Navy's ability to project power globally.
+      As maintenance delays and rising costs continue, the disparity between the Navy's
+      operational capabilities and its statutory requirements is increasing, particularly
+      during a time of heightened geopolitical tensions. The situation is exacerbated
+      by the fact that there is only one shipyard capable of refueling nuclear aircraft
+      carriers, which is already behind schedule on the Stennis, with the USS Harry
+      S. Truman next in line for maintenance.
+    published: '2026-03-20T17:42:21+00:00'
+  - title: America Has 1 Shipyard That Can Refuel Nuclear Aircraft Carriers — It’s Already
+      Behind on the Stennis and the Truman Is Next in Line
+    url: https://www.19fortyfive.com/2026/03/america-has-1-shipyard-that-can-refuel-nuclear-aircraft-carriers-its-already-behind-on-the-stennis-and-the-truman-is-next-in-line/
+    text: The USS John C. Stennis (CVN-74) is currently the focal point of a systemic
+      industrial crisis that is eroding the U.S. Navy's global power projection. As
+      maintenance timelines stretch and costs balloon, the gap between the Navy's statutory
+      requirements and its operational reality is widening at a moment of peak geopolitical
+      tension. The post America Has 1 Shipyard That Can Refuel Nuclear Aircraft Carriers
+      — It’s Already Behind on the Stennis and the Truman Is Next in Line appeared first
+      on 19FortyFive .
+    one_sentence_summary: The USS John C. Stennis is at the center of a significant
+      industrial crisis that is undermining the U.S. Navy's ability to project power
+      globally, as maintenance delays and rising costs exacerbate the gap between operational
+      needs and capabilities amid heightened geopolitical tensions.
+    paragraph_summary: The USS John C. Stennis (CVN-74) is at the center of a significant
+      industrial crisis affecting the U.S. Navy's ability to project power globally.
+      As maintenance delays and rising costs continue, the disparity between the Navy's
+      operational capabilities and its statutory requirements is increasing, particularly
+      during a time of heightened geopolitical tensions. The situation is exacerbated
+      by the fact that there is only one shipyard capable of refueling nuclear aircraft
+      carriers, which is already behind schedule on the Stennis, with the USS Harry
+      S. Truman next in line for maintenance.
+    published: '2026-03-20T17:42:21+00:00'
+  - title: '122 VLS Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful
+      Surface Warship With No Replacement Ready During the Iran War'
+    url: https://www.19fortyfive.com/2026/03/122-vls-missile-cells-gone-the-u-s-navy-is-retiring-its-most-powerful-surface-warship-with-no-replacement-ready-during-the-iran-war/
+    text: 'The retirement of the Ticonderoga-class guided-missile cruisers represents
+      a structural transformation for the U.S. Navy in 2026. While these 1980s-era vessels
+      are aging and costly to maintain, their departure leaves a distinct "firepower
+      gap" that the current Arleigh Burke-class destroyers are struggling to fill during
+      the high-tempo operations of Operation Epic Fury. The post 122 VLS Missile Cells
+      Gone: The U.S. Navy Is Retiring Its Most Powerful Surface Warship With No Replacement
+      Ready During the Iran War appeared first on 19FortyFive .'
+    one_sentence_summary: The retirement of the aging Ticonderoga-class cruisers in
+      2026 will create a significant "firepower gap" for the U.S. Navy, as the current
+      Arleigh Burke-class destroyers are unable to adequately compensate during high-tempo
+      operations like Operation Epic Fury.
+    paragraph_summary: The retirement of the Ticonderoga-class guided-missile cruisers
+      in 2026 marks a significant shift for the U.S. Navy, as these aging vessels, which
+      have become expensive to maintain, will create a notable "firepower gap" that
+      the existing Arleigh Burke-class destroyers are currently unable to adequately
+      address amid the demanding operations of Operation Epic Fury. This transition
+      occurs during a critical period, particularly highlighted by the ongoing Iran
+      War, where the absence of these powerful surface warships, which feature 122 Vertical
+      Launch System (VLS) missile cells, raises concerns about the Navy's operational
+      capabilities without a ready replacement.
+    published: '2026-03-20T17:05:04+00:00'
+  - title: '122 VLS Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful
+      Surface Warship With No Replacement Ready During the Iran War'
+    url: https://www.19fortyfive.com/2026/03/122-vls-missile-cells-gone-the-u-s-navy-is-retiring-its-most-powerful-surface-warship-with-no-replacement-ready-during-the-iran-war/
+    text: 'The retirement of the Ticonderoga-class guided-missile cruisers represents
+      a structural transformation for the U.S. Navy in 2026. While these 1980s-era vessels
+      are aging and costly to maintain, their departure leaves a distinct "firepower
+      gap" that the current Arleigh Burke-class destroyers are struggling to fill during
+      the high-tempo operations of Operation Epic Fury. The post 122 VLS Missile Cells
+      Gone: The U.S. Navy Is Retiring Its Most Powerful Surface Warship With No Replacement
+      Ready During the Iran War appeared first on 19FortyFive .'
+    one_sentence_summary: The retirement of the aging Ticonderoga-class cruisers in
+      2026 will create a significant "firepower gap" for the U.S. Navy, as the current
+      Arleigh Burke-class destroyers are unable to adequately compensate during high-tempo
+      operations like Operation Epic Fury.
+    paragraph_summary: The retirement of the Ticonderoga-class guided-missile cruisers
+      in 2026 marks a significant shift for the U.S. Navy, as these aging vessels, which
+      have become expensive to maintain, will create a notable "firepower gap" that
+      the existing Arleigh Burke-class destroyers are currently unable to adequately
+      address amid the demanding operations of Operation Epic Fury. This transition
+      occurs during a critical period, particularly highlighted by the ongoing Iran
+      War, where the absence of these powerful surface warships, which feature 122 Vertical
+      Launch System (VLS) missile cells, raises concerns about the Navy's operational
+      capabilities without a ready replacement.
+    published: '2026-03-20T17:05:04+00:00'
+  - title: '$2 Trillion and It Only Works Half the Time: An Attorney Just Applied Lemon
+      Law to the F-35 — and Lockheed Would Lose'
+    url: https://www.19fortyfive.com/2026/03/2-trillion-and-it-only-works-half-the-time-an-attorney-just-applied-lemon-law-to-the-f-35-and-lockheed-would-lose/
+    text: 'While a consumer with a car that only starts 50% of the time has clear legal
+      recourse, the Department of Defense operates in a monopsony where the "seller"
+      (Lockheed Martin) is also a critical strategic partner. In the 2026 battlespace,
+      the "remedy" isn''t a refund—it''s more likely funding for software patches or
+      fixes. The post $2 Trillion and It Only Works Half the Time: An Attorney Just
+      Applied Lemon Law to the F-35 — and Lockheed Would Lose appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The article discusses how, unlike a consumer with a faulty
+      car who can seek a refund, the Department of Defense's reliance on Lockheed Martin
+      for the F-35 fighter jet, which only functions effectively 50% of the time, complicates
+      legal recourse, likely resulting in funding for software fixes rather than a straightforward
+      remedy.
+    paragraph_summary: The article discusses the challenges faced by the Department
+      of Defense in dealing with Lockheed Martin, particularly regarding the F-35 fighter
+      jet, which has been criticized for its inconsistent performance. Unlike a consumer
+      with a faulty car who can seek a refund, the DOD operates in a unique monopsony
+      where Lockheed is both a supplier and a strategic partner. As a result, the solutions
+      to the F-35's issues are more likely to involve funding for software updates rather
+      than traditional remedies like refunds. The piece highlights the complexities
+      of applying consumer protection laws, such as lemon laws, to military procurement
+      scenarios.
+    published: '2026-03-20T16:36:48+00:00'
+  - title: '$2 Trillion and It Only Works Half the Time: An Attorney Just Applied Lemon
+      Law to the F-35 — and Lockheed Would Lose'
+    url: https://www.19fortyfive.com/2026/03/2-trillion-and-it-only-works-half-the-time-an-attorney-just-applied-lemon-law-to-the-f-35-and-lockheed-would-lose/
+    text: 'While a consumer with a car that only starts 50% of the time has clear legal
+      recourse, the Department of Defense operates in a monopsony where the "seller"
+      (Lockheed Martin) is also a critical strategic partner. In the 2026 battlespace,
+      the "remedy" isn''t a refund—it''s more likely funding for software patches or
+      fixes. The post $2 Trillion and It Only Works Half the Time: An Attorney Just
+      Applied Lemon Law to the F-35 — and Lockheed Would Lose appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The article discusses how, unlike a consumer with a faulty
+      car who can seek a refund, the Department of Defense's reliance on Lockheed Martin
+      for the F-35 fighter jet, which only functions effectively 50% of the time, complicates
+      legal recourse, likely resulting in funding for software fixes rather than a straightforward
+      remedy.
+    paragraph_summary: The article discusses the challenges faced by the Department
+      of Defense in dealing with Lockheed Martin, particularly regarding the F-35 fighter
+      jet, which has been criticized for its inconsistent performance. Unlike a consumer
+      with a faulty car who can seek a refund, the DOD operates in a unique monopsony
+      where Lockheed is both a supplier and a strategic partner. As a result, the solutions
+      to the F-35's issues are more likely to involve funding for software updates rather
+      than traditional remedies like refunds. The piece highlights the complexities
+      of applying consumer protection laws, such as lemon laws, to military procurement
+      scenarios.
+    published: '2026-03-20T16:36:48+00:00'
+  - title: France Names Its 80,000-Ton Nuclear Carrier ‘Libre’ — and It Will Use the
+      Same Catapult Technology as America’s USS Gerald R. Ford
+    url: https://www.19fortyfive.com/2026/03/france-names-its-80000-ton-nuclear-carrier-libre-and-it-will-use-the-same-catapult-technology-as-americas-uss-gerald-r-ford/
+    text: The announcement of the "France Libre" (Free France) as the official name
+      for the Porte-Avions de Nouvelle Génération (PANG) marks a historic pivot for
+      European naval power. By 2038, this 80,000-ton behemoth will not only replace
+      the Charles de Gaulle but will also serve as a technological twin to the U.S.
+      Navy's Ford-class carriers, enabling a level of transatlantic "dual-carrier" interoperability
+      never before seen in maritime history. The post France Names Its 80,000-Ton Nuclear
+      Carrier ‘Libre’ — and It Will Use the Same Catapult Technology as America’s USS
+      Gerald R. Ford appeared first on 19FortyFive .
+    one_sentence_summary: France has officially named its new 80,000-ton aircraft carrier
+      "France Libre," which will replace the Charles de Gaulle and enhance transatlantic
+      naval cooperation by utilizing the same catapult technology as the U.S. Navy's
+      Ford-class carriers by 2038.
+    paragraph_summary: The French government has officially named its new aircraft carrier
+      "France Libre," which will replace the Charles de Gaulle by 2038 and enhance European
+      naval capabilities. Weighing 80,000 tons, this carrier will feature advanced technology
+      similar to the U.S. Navy's Ford-class carriers, facilitating unprecedented transatlantic
+      interoperability between the two naval forces. The introduction of the "France
+      Libre" marks a significant development in maritime history, particularly in terms
+      of collaborative military operations.
+    published: '2026-03-20T15:47:32+00:00'
+  - title: France Names Its 80,000-Ton Nuclear Carrier ‘Libre’ — and It Will Use the
+      Same Catapult Technology as America’s USS Gerald R. Ford
+    url: https://www.19fortyfive.com/2026/03/france-names-its-80000-ton-nuclear-carrier-libre-and-it-will-use-the-same-catapult-technology-as-americas-uss-gerald-r-ford/
+    text: The announcement of the "France Libre" (Free France) as the official name
+      for the Porte-Avions de Nouvelle Génération (PANG) marks a historic pivot for
+      European naval power. By 2038, this 80,000-ton behemoth will not only replace
+      the Charles de Gaulle but will also serve as a technological twin to the U.S.
+      Navy's Ford-class carriers, enabling a level of transatlantic "dual-carrier" interoperability
+      never before seen in maritime history. The post France Names Its 80,000-Ton Nuclear
+      Carrier ‘Libre’ — and It Will Use the Same Catapult Technology as America’s USS
+      Gerald R. Ford appeared first on 19FortyFive .
+    one_sentence_summary: France has officially named its new 80,000-ton aircraft carrier
+      "France Libre," which will replace the Charles de Gaulle and enhance transatlantic
+      naval cooperation by utilizing the same catapult technology as the U.S. Navy's
+      Ford-class carriers by 2038.
+    paragraph_summary: The French government has officially named its new aircraft carrier
+      "France Libre," which will replace the Charles de Gaulle by 2038 and enhance European
+      naval capabilities. Weighing 80,000 tons, this carrier will feature advanced technology
+      similar to the U.S. Navy's Ford-class carriers, facilitating unprecedented transatlantic
+      interoperability between the two naval forces. The introduction of the "France
+      Libre" marks a significant development in maritime history, particularly in terms
+      of collaborative military operations.
+    published: '2026-03-20T15:47:32+00:00'
+  - title: '19 B-2 Bombers, 2 Lost in Crashes, and Only a Handful Ready to Fight: Why
+      the Air Force Just Got $4.5 Billion to Build More B-21 Raiders'
+    url: https://www.19fortyfive.com/2026/03/19-b-2-bombers-2-lost-in-crashes-and-only-a-handful-ready-to-fight-why-the-air-force-just-got-4-5-billion-to-build-more-b-21-raiders/
+    text: 'Summary and Key Points: The recent $4.5 billion allocation from the One Big
+      Beautiful Bill Act is set to accelerate the Northrop Grumman B-21 Raider program,
+      increasing annual production capacity by 25%. -While the U.S. Air Force currently
+      maintains a program of record for 100 stealth bombers at Plant 42, STRATCOM’s
+      Admiral Richard Correll is […] The post 19 B-2 Bombers, 2 Lost in Crashes, and
+      Only a Handful Ready to Fight: Why the Air Force Just Got $4.5 Billion to Build
+      More B-21 Raiders appeared first on 19FortyFive .'
+    one_sentence_summary: The recent $4.5 billion funding from the One Big Beautiful
+      Bill Act will boost the production capacity of the Northrop Grumman B-21 Raider
+      program by 25%, addressing the U.S. Air Force's need for more stealth bombers
+      amid a limited operational fleet.
+    paragraph_summary: The recent $4.5 billion funding from the One Big Beautiful Bill
+      Act aims to enhance the Northrop Grumman B-21 Raider program by boosting its annual
+      production capacity by 25%. This investment comes as the U.S. Air Force has a
+      record program for 100 stealth bombers at Plant 42, amid concerns highlighted
+      by STRATCOM’s Admiral Richard Correll regarding the limited operational readiness
+      of the existing B-2 bombers, of which only a few are combat-ready and two have
+      been lost in crashes.
+    published: '2026-03-20T15:35:12+00:00'
+  - title: '19 B-2 Bombers, 2 Lost in Crashes, and Only a Handful Ready to Fight: Why
+      the Air Force Just Got $4.5 Billion to Build More B-21 Raiders'
+    url: https://www.19fortyfive.com/2026/03/19-b-2-bombers-2-lost-in-crashes-and-only-a-handful-ready-to-fight-why-the-air-force-just-got-4-5-billion-to-build-more-b-21-raiders/
+    text: 'Summary and Key Points: The recent $4.5 billion allocation from the One Big
+      Beautiful Bill Act is set to accelerate the Northrop Grumman B-21 Raider program,
+      increasing annual production capacity by 25%. -While the U.S. Air Force currently
+      maintains a program of record for 100 stealth bombers at Plant 42, STRATCOM’s
+      Admiral Richard Correll is […] The post 19 B-2 Bombers, 2 Lost in Crashes, and
+      Only a Handful Ready to Fight: Why the Air Force Just Got $4.5 Billion to Build
+      More B-21 Raiders appeared first on 19FortyFive .'
+    one_sentence_summary: The recent $4.5 billion funding from the One Big Beautiful
+      Bill Act will boost the production capacity of the Northrop Grumman B-21 Raider
+      program by 25%, addressing the U.S. Air Force's need for more stealth bombers
+      amid a limited operational fleet.
+    paragraph_summary: The recent $4.5 billion funding from the One Big Beautiful Bill
+      Act aims to enhance the Northrop Grumman B-21 Raider program by boosting its annual
+      production capacity by 25%. This investment comes as the U.S. Air Force has a
+      record program for 100 stealth bombers at Plant 42, amid concerns highlighted
+      by STRATCOM’s Admiral Richard Correll regarding the limited operational readiness
+      of the existing B-2 bombers, of which only a few are combat-ready and two have
+      been lost in crashes.
+    published: '2026-03-20T15:35:12+00:00'
+  - title: 'Broken Toilets, Laundry Fire, and Now Crete: Aircraft Carrier USS Gerald
+      R. Ford Is Limping Out of the Iran War After 9 Months at Sea'
+    url: https://www.19fortyfive.com/2026/03/broken-toilets-laundry-fire-and-now-crete-aircraft-carrier-uss-gerald-r-ford-is-limping-out-of-the-iran-war-after-9-months-at-sea/
+    text: 'The withdrawal of the USS Gerald R. Ford (CVN-78) to Naval Support Activity
+      Souda Bay in Crete marks a critical inflection point for Operation Epic Fury in
+      March 2026. While the fire in the ship’s laundry facility on March 12 was not
+      combat-related, its impact has proven strategically significant, forcing the U.S.
+      Navy to juggle its most advanced assets during a high-tempo air campaign. The
+      post Broken Toilets, Laundry Fire, and Now Crete: Aircraft Carrier USS Gerald
+      R. Ford Is Limping Out of the Iran War After 9 Months at Sea appeared first on
+      19FortyFive .'
+    one_sentence_summary: The USS Gerald R. Ford's withdrawal to Crete due to a laundry
+      fire, while not combat-related, highlights the strategic challenges faced by the
+      U.S. Navy during Operation Epic Fury amid ongoing tensions in the Iran War.
+    paragraph_summary: The USS Gerald R. Ford (CVN-78) has withdrawn to Naval Support
+      Activity Souda Bay in Crete, marking a pivotal moment in Operation Epic Fury amid
+      the ongoing conflict in Iran in March 2026. Although a fire in the ship's laundry
+      facility on March 12 was not related to combat, it has had significant strategic
+      repercussions, compelling the U.S. Navy to manage its advanced assets during a
+      demanding air campaign. This incident, along with other operational challenges,
+      underscores the difficulties faced by the aircraft carrier after nine months at
+      sea.
+    published: '2026-03-20T15:19:25+00:00'
+  - title: 'Broken Toilets, Laundry Fire, and Now Crete: Aircraft Carrier USS Gerald
+      R. Ford Is Limping Out of the Iran War After 9 Months at Sea'
+    url: https://www.19fortyfive.com/2026/03/broken-toilets-laundry-fire-and-now-crete-aircraft-carrier-uss-gerald-r-ford-is-limping-out-of-the-iran-war-after-9-months-at-sea/
+    text: 'The withdrawal of the USS Gerald R. Ford (CVN-78) to Naval Support Activity
+      Souda Bay in Crete marks a critical inflection point for Operation Epic Fury in
+      March 2026. While the fire in the ship’s laundry facility on March 12 was not
+      combat-related, its impact has proven strategically significant, forcing the U.S.
+      Navy to juggle its most advanced assets during a high-tempo air campaign. The
+      post Broken Toilets, Laundry Fire, and Now Crete: Aircraft Carrier USS Gerald
+      R. Ford Is Limping Out of the Iran War After 9 Months at Sea appeared first on
+      19FortyFive .'
+    one_sentence_summary: The USS Gerald R. Ford's withdrawal to Crete due to a laundry
+      fire, while not combat-related, highlights the strategic challenges faced by the
+      U.S. Navy during Operation Epic Fury amid ongoing tensions in the Iran War.
+    paragraph_summary: The USS Gerald R. Ford (CVN-78) has withdrawn to Naval Support
+      Activity Souda Bay in Crete, marking a pivotal moment in Operation Epic Fury amid
+      the ongoing conflict in Iran in March 2026. Although a fire in the ship's laundry
+      facility on March 12 was not related to combat, it has had significant strategic
+      repercussions, compelling the U.S. Navy to manage its advanced assets during a
+      demanding air campaign. This incident, along with other operational challenges,
+      underscores the difficulties faced by the aircraft carrier after nine months at
+      sea.
+    published: '2026-03-20T15:19:25+00:00'
+  - title: 'J-35A vs. F-35: China Built the Cheap Stealth Fighter America Promised in
+      the 1990s — and Never Delivered'
+    url: https://www.19fortyfive.com/2026/03/j-35a-vs-f-35-china-built-the-cheap-stealth-fighter-america-promised-in-the-1990s-and-never-delivered/
+    text: 'The evolution of the Shenyang J-35 from a struggling 2014 prototype to a
+      cornerstone of the PLAAF''s carrier-based power represents a significant industrial
+      pivot for China. By prioritizing cost-efficiency and domestic engine development,
+      Shenyang Aerospace has created a "budget" stealth fighter designed to flood the
+      battlespace in ways the heavy Chengdu J-20 cannot. The post J-35A vs. F-35: China
+      Built the Cheap Stealth Fighter America Promised in the 1990s — and Never Delivered
+      appeared first on 19FortyFive .'
+    one_sentence_summary: The Shenyang J-35 has evolved from a 2014 prototype into a
+      key component of China's carrier-based air power, emphasizing cost-efficiency
+      and domestic engine development to create a budget-friendly stealth fighter that
+      enhances battlefield presence compared to the heavier Chengdu J-20.
+    paragraph_summary: The Shenyang J-35 has transformed from a prototype in 2014 to
+      a key component of the People's Liberation Army Air Force's (PLAAF) carrier-based
+      capabilities, marking a significant shift in China's military aviation industry.
+      By focusing on cost-effectiveness and the development of domestic engines, Shenyang
+      Aerospace has produced a "budget" stealth fighter that aims to dominate the battlefield
+      through sheer numbers, contrasting with the more advanced but heavier Chengdu
+      J-20. This evolution positions the J-35 as a competitive alternative to the F-35,
+      embodying the affordable stealth fighter concept that the U.S. had envisioned
+      but failed to deliver in the 1990s.
+    published: '2026-03-20T15:04:19+00:00'
+  - title: 'J-35A vs. F-35: China Built the Cheap Stealth Fighter America Promised in
+      the 1990s — and Never Delivered'
+    url: https://www.19fortyfive.com/2026/03/j-35a-vs-f-35-china-built-the-cheap-stealth-fighter-america-promised-in-the-1990s-and-never-delivered/
+    text: 'The evolution of the Shenyang J-35 from a struggling 2014 prototype to a
+      cornerstone of the PLAAF''s carrier-based power represents a significant industrial
+      pivot for China. By prioritizing cost-efficiency and domestic engine development,
+      Shenyang Aerospace has created a "budget" stealth fighter designed to flood the
+      battlespace in ways the heavy Chengdu J-20 cannot. The post J-35A vs. F-35: China
+      Built the Cheap Stealth Fighter America Promised in the 1990s — and Never Delivered
+      appeared first on 19FortyFive .'
+    one_sentence_summary: The Shenyang J-35 has evolved from a 2014 prototype into a
+      key component of China's carrier-based air power, emphasizing cost-efficiency
+      and domestic engine development to create a budget-friendly stealth fighter that
+      enhances battlefield presence compared to the heavier Chengdu J-20.
+    paragraph_summary: The Shenyang J-35 has transformed from a prototype in 2014 to
+      a key component of the People's Liberation Army Air Force's (PLAAF) carrier-based
+      capabilities, marking a significant shift in China's military aviation industry.
+      By focusing on cost-effectiveness and the development of domestic engines, Shenyang
+      Aerospace has produced a "budget" stealth fighter that aims to dominate the battlefield
+      through sheer numbers, contrasting with the more advanced but heavier Chengdu
+      J-20. This evolution positions the J-35 as a competitive alternative to the F-35,
+      embodying the affordable stealth fighter concept that the U.S. had envisioned
+      but failed to deliver in the 1990s.
+    published: '2026-03-20T15:04:19+00:00'
+  - title: Iran Is Running Russia’s Ukraine Drone Playbook Against the Gulf States —
+      and Ukraine Just Sent Hundreds of Experts to Stop It
+    url: https://www.19fortyfive.com/2026/03/iran-is-running-russias-ukraine-drone-playbook-against-the-gulf-states-and-ukraine-just-sent-hundreds-of-experts-to-stop-it/
+    text: The Iranian military is currently executing a sophisticated "war of attrition"
+      across the Middle East, utilizing a playbook refined by Russia over four years
+      of combat in Ukraine. By flooding the airspace with low-cost, mass-produced systems,
+      Tehran is forcing a mathematical crisis upon Western-aligned air defenses. The
+      post Iran Is Running Russia’s Ukraine Drone Playbook Against the Gulf States —
+      and Ukraine Just Sent Hundreds of Experts to Stop It appeared first on 19FortyFive
+      .
+    one_sentence_summary: The Iranian military is employing a refined "war of attrition"
+      strategy inspired by Russia's tactics in Ukraine, overwhelming Western air defenses
+      with low-cost drone systems while Ukraine sends experts to counter this threat.
+    paragraph_summary: The Iranian military is implementing a strategic "war of attrition"
+      in the Middle East, drawing on tactics honed by Russia during its four-year conflict
+      in Ukraine. By overwhelming airspace with inexpensive, mass-produced drones, Iran
+      is creating significant challenges for Western-aligned air defense systems. In
+      response to this escalating threat, Ukraine has dispatched hundreds of experts
+      to counter Iran's drone strategy, which mirrors the operational playbook used
+      in the Ukraine conflict.
+    published: '2026-03-20T14:48:21+00:00'
+  - title: Iran Is Running Russia’s Ukraine Drone Playbook Against the Gulf States —
+      and Ukraine Just Sent Hundreds of Experts to Stop It
+    url: https://www.19fortyfive.com/2026/03/iran-is-running-russias-ukraine-drone-playbook-against-the-gulf-states-and-ukraine-just-sent-hundreds-of-experts-to-stop-it/
+    text: The Iranian military is currently executing a sophisticated "war of attrition"
+      across the Middle East, utilizing a playbook refined by Russia over four years
+      of combat in Ukraine. By flooding the airspace with low-cost, mass-produced systems,
+      Tehran is forcing a mathematical crisis upon Western-aligned air defenses. The
+      post Iran Is Running Russia’s Ukraine Drone Playbook Against the Gulf States —
+      and Ukraine Just Sent Hundreds of Experts to Stop It appeared first on 19FortyFive
+      .
+    one_sentence_summary: The Iranian military is employing a refined "war of attrition"
+      strategy inspired by Russia's tactics in Ukraine, overwhelming Western air defenses
+      with low-cost drone systems while Ukraine sends experts to counter this threat.
+    paragraph_summary: The Iranian military is implementing a strategic "war of attrition"
+      in the Middle East, drawing on tactics honed by Russia during its four-year conflict
+      in Ukraine. By overwhelming airspace with inexpensive, mass-produced drones, Iran
+      is creating significant challenges for Western-aligned air defense systems. In
+      response to this escalating threat, Ukraine has dispatched hundreds of experts
+      to counter Iran's drone strategy, which mirrors the operational playbook used
+      in the Ukraine conflict.
+    published: '2026-03-20T14:48:21+00:00'
+  - title: Iran Just Damaged an F-35A Stealth Fighter — and the Video Suggests America’s
+      Most Advanced Jet Never Saw the Missile Coming
+    url: https://www.19fortyfive.com/2026/03/iran-just-damaged-an-f-35a-stealth-fighter-and-the-video-suggests-americas-most-advanced-jet-never-saw-the-missile-coming/
+    text: This incident on March 19, 2026, represents a pivotal "reality check" for
+      the perceived invulnerability of fifth-generation stealth assets. While the F-35A
+      Lightning II remains the most sophisticated platform in the world, the damage
+      sustained during Operation Epic Fury highlights that even the quietest "flying
+      computer" can be caught in a high-stakes "Sambush" (SAM Ambush). The post Iran
+      Just Damaged an F-35A Stealth Fighter — and the Video Suggests America’s Most
+      Advanced Jet Never Saw the Missile Coming appeared first on 19FortyFive .
+    one_sentence_summary: On March 19, 2026, an incident during Operation Epic Fury
+      revealed vulnerabilities in the F-35A Lightning II stealth fighter, demonstrating
+      that even advanced stealth technology can be compromised by sophisticated surface-to-air
+      missile threats.
+    paragraph_summary: On March 19, 2026, an incident during Operation Epic Fury served
+      as a significant wake-up call regarding the perceived invulnerability of fifth-generation
+      stealth aircraft, particularly the F-35A Lightning II. Despite being the most
+      advanced military platform globally, the F-35A was damaged by an Iranian missile
+      in a high-stakes "Sambush" scenario, demonstrating that even the most sophisticated
+      stealth technology can be vulnerable to unexpected threats. This event has raised
+      concerns about the effectiveness of stealth capabilities in modern warfare, as
+      evidenced by video footage suggesting that the F-35A did not detect the incoming
+      missile.
+    published: '2026-03-20T14:35:31+00:00'
+  - title: Iran Just Damaged an F-35A Stealth Fighter — and the Video Suggests America’s
+      Most Advanced Jet Never Saw the Missile Coming
+    url: https://www.19fortyfive.com/2026/03/iran-just-damaged-an-f-35a-stealth-fighter-and-the-video-suggests-americas-most-advanced-jet-never-saw-the-missile-coming/
+    text: This incident on March 19, 2026, represents a pivotal "reality check" for
+      the perceived invulnerability of fifth-generation stealth assets. While the F-35A
+      Lightning II remains the most sophisticated platform in the world, the damage
+      sustained during Operation Epic Fury highlights that even the quietest "flying
+      computer" can be caught in a high-stakes "Sambush" (SAM Ambush). The post Iran
+      Just Damaged an F-35A Stealth Fighter — and the Video Suggests America’s Most
+      Advanced Jet Never Saw the Missile Coming appeared first on 19FortyFive .
+    one_sentence_summary: On March 19, 2026, an incident during Operation Epic Fury
+      revealed vulnerabilities in the F-35A Lightning II stealth fighter, demonstrating
+      that even advanced stealth technology can be compromised by sophisticated surface-to-air
+      missile threats.
+    paragraph_summary: On March 19, 2026, an incident during Operation Epic Fury served
+      as a significant wake-up call regarding the perceived invulnerability of fifth-generation
+      stealth aircraft, particularly the F-35A Lightning II. Despite being the most
+      advanced military platform globally, the F-35A was damaged by an Iranian missile
+      in a high-stakes "Sambush" scenario, demonstrating that even the most sophisticated
+      stealth technology can be vulnerable to unexpected threats. This event has raised
+      concerns about the effectiveness of stealth capabilities in modern warfare, as
+      evidenced by video footage suggesting that the F-35A did not detect the incoming
+      missile.
+    published: '2026-03-20T14:35:31+00:00'
+  - title: '120 Vessels Down: The Joint Chiefs Just Confirmed A-10 Warthogs Are Killing
+      Iranian Boats in the Strait'
+    url: https://www.19fortyfive.com/2026/03/120-vessels-down-the-joint-chiefs-just-confirmed-a-10-warthogs-are-killing-iranian-boats-in-the-strait/
+    text: 'The A-10’s survival into the late 2020s is a testament to tactical flexibility.
+      In a peer-contest, the Warthog is a "slow-moving target," but in the post-air-defense
+      environment of the 2026 Iran conflict, it has become an economical apex predator.
+      Its ability to absorb small-arms fire and loiter over the Strait of Hormuz provides
+      a persistent overwatch that faster, more expensive 5th-generation jets cannot
+      match. The post 120 Vessels Down: The Joint Chiefs Just Confirmed A-10 Warthogs
+      Are Killing Iranian Boats in the Strait appeared first on 19FortyFive .'
+    one_sentence_summary: The A-10 Warthog's continued relevance into the late 2020s
+      highlights its tactical adaptability, proving to be an effective and economical
+      asset in the post-air-defense landscape of the 2026 Iran conflict, where it excels
+      in providing persistent overwatch over the Strait of Hormuz.
+    paragraph_summary: The A-10 Warthog's continued relevance into the late 2020s highlights
+      its tactical adaptability, particularly in the context of the 2026 Iran conflict.
+      While considered a "slow-moving target" in a peer-contest scenario, the A-10 has
+      proven to be an economical and effective asset in a post-air-defense environment,
+      excelling in its ability to withstand small-arms fire and maintain a persistent
+      presence over the Strait of Hormuz. This capability allows it to provide overwatch
+      that surpasses that of faster, more costly fifth-generation jets, as confirmed
+      by recent reports of A-10s successfully targeting Iranian boats in the region.
+    published: '2026-03-20T14:02:35+00:00'
+  - title: '120 Vessels Down: The Joint Chiefs Just Confirmed A-10 Warthogs Are Killing
+      Iranian Boats in the Strait'
+    url: https://www.19fortyfive.com/2026/03/120-vessels-down-the-joint-chiefs-just-confirmed-a-10-warthogs-are-killing-iranian-boats-in-the-strait/
+    text: 'The A-10’s survival into the late 2020s is a testament to tactical flexibility.
+      In a peer-contest, the Warthog is a "slow-moving target," but in the post-air-defense
+      environment of the 2026 Iran conflict, it has become an economical apex predator.
+      Its ability to absorb small-arms fire and loiter over the Strait of Hormuz provides
+      a persistent overwatch that faster, more expensive 5th-generation jets cannot
+      match. The post 120 Vessels Down: The Joint Chiefs Just Confirmed A-10 Warthogs
+      Are Killing Iranian Boats in the Strait appeared first on 19FortyFive .'
+    one_sentence_summary: The A-10 Warthog's continued relevance into the late 2020s
+      highlights its tactical adaptability, proving to be an effective and economical
+      asset in the post-air-defense landscape of the 2026 Iran conflict, where it excels
+      in providing persistent overwatch over the Strait of Hormuz.
+    paragraph_summary: The A-10 Warthog's continued relevance into the late 2020s highlights
+      its tactical adaptability, particularly in the context of the 2026 Iran conflict.
+      While considered a "slow-moving target" in a peer-contest scenario, the A-10 has
+      proven to be an economical and effective asset in a post-air-defense environment,
+      excelling in its ability to withstand small-arms fire and maintain a persistent
+      presence over the Strait of Hormuz. This capability allows it to provide overwatch
+      that surpasses that of faster, more costly fifth-generation jets, as confirmed
+      by recent reports of A-10s successfully targeting Iranian boats in the region.
+    published: '2026-03-20T14:02:35+00:00'
+  - title: Iran Is Losing the War Faster Than Anyone Realizes — A Former IDF General
+      Explains Why Phase 3 Favors America
+    url: https://www.19fortyfive.com/2026/03/iran-is-losing-the-war-faster-than-anyone-realizes-a-former-idf-general-explains-why-phase-3-favors-america/
+    text: As of late March 2026, the strategic landscape of Operation Epic Fury has
+      shifted from a high-intensity "shock" campaign to a calculated war of attrition.
+      According to Brig. Gen. (res) Eran Ortal, the conflict has entered a decisive
+      third phase where the combined industrial and logistical weight of the United
+      States, Israel, and the Gulf states is systematically dismantling the Iranian
+      regime’s ability to project power. The post Iran Is Losing the War Faster Than
+      Anyone Realizes — A Former IDF General Explains Why Phase 3 Favors America appeared
+      first on 19FortyFive .
+    one_sentence_summary: As of late March 2026, Operation Epic Fury has transitioned
+      into a strategic war of attrition, with Brig. Gen. (res) Eran Ortal asserting
+      that the combined industrial and logistical efforts of the U.S., Israel, and Gulf
+      states are rapidly undermining Iran's military capabilities.
+    paragraph_summary: As of late March 2026, Operation Epic Fury has transitioned from
+      an intense "shock" campaign to a strategic war of attrition, according to Brig.
+      Gen. (res) Eran Ortal. In this decisive third phase, the collective industrial
+      and logistical strength of the United States, Israel, and Gulf states is effectively
+      undermining Iran's capacity to exert influence. The article emphasizes that Iran
+      is losing the conflict more rapidly than anticipated, highlighting the advantages
+      that the coalition forces hold in this ongoing war.
+    published: '2026-03-20T13:37:43+00:00'
+  - title: Iran Is Losing the War Faster Than Anyone Realizes — A Former IDF General
+      Explains Why Phase 3 Favors America
+    url: https://www.19fortyfive.com/2026/03/iran-is-losing-the-war-faster-than-anyone-realizes-a-former-idf-general-explains-why-phase-3-favors-america/
+    text: As of late March 2026, the strategic landscape of Operation Epic Fury has
+      shifted from a high-intensity "shock" campaign to a calculated war of attrition.
+      According to Brig. Gen. (res) Eran Ortal, the conflict has entered a decisive
+      third phase where the combined industrial and logistical weight of the United
+      States, Israel, and the Gulf states is systematically dismantling the Iranian
+      regime’s ability to project power. The post Iran Is Losing the War Faster Than
+      Anyone Realizes — A Former IDF General Explains Why Phase 3 Favors America appeared
+      first on 19FortyFive .
+    one_sentence_summary: As of late March 2026, Operation Epic Fury has transitioned
+      into a strategic war of attrition, with Brig. Gen. (res) Eran Ortal asserting
+      that the combined industrial and logistical efforts of the U.S., Israel, and Gulf
+      states are rapidly undermining Iran's military capabilities.
+    paragraph_summary: As of late March 2026, Operation Epic Fury has transitioned from
+      an intense "shock" campaign to a strategic war of attrition, according to Brig.
+      Gen. (res) Eran Ortal. In this decisive third phase, the collective industrial
+      and logistical strength of the United States, Israel, and Gulf states is effectively
+      undermining Iran's capacity to exert influence. The article emphasizes that Iran
+      is losing the conflict more rapidly than anticipated, highlighting the advantages
+      that the coalition forces hold in this ongoing war.
+    published: '2026-03-20T13:37:43+00:00'
+  - title: 319 Tomahawks Gone in the Iran War — 10% of America’s Entire Stockpile —
+      and RTX Can Only Build Hundreds Per Year to Replace Them
+    url: https://www.19fortyfive.com/2026/03/319-tomahawks-gone-in-the-iran-war-10-of-americas-entire-stockpile-and-rtx-can-only-build-hundreds-per-year-to-replace-them/
+    text: The U.S. has already fired 319 Tomahawk missiles in the Iran War — roughly
+      10% of its entire stockpile — and RTX builds fewer than 500 per year to replace
+      them. A new emergency contract promises 1,000 annually, but rebuilding depleted
+      stockpiles will take years, not months. The post 319 Tomahawks Gone in the Iran
+      War — 10% of America’s Entire Stockpile — and RTX Can Only Build Hundreds Per
+      Year to Replace Them appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. has used 319 Tomahawk missiles in the Iran War, depleting
+      about 10% of its stockpile, while RTX's current production capacity of fewer than
+      500 missiles per year means it will take years to replenish these stocks, despite
+      a new contract to increase production to 1,000 annually.
+    paragraph_summary: The article discusses the significant depletion of the U.S. Tomahawk
+      missile stockpile due to the ongoing Iran War, with 319 missiles already fired,
+      representing about 10% of the total inventory. RTX, the manufacturer, produces
+      fewer than 500 missiles annually to replace them, and although a new emergency
+      contract aims to increase production to 1,000 per year, it will still take years
+      to fully rebuild the stockpiles.
+    published: '2026-03-20T12:37:14+00:00'
+  - title: 319 Tomahawks Gone in the Iran War — 10% of America’s Entire Stockpile —
+      and RTX Can Only Build Hundreds Per Year to Replace Them
+    url: https://www.19fortyfive.com/2026/03/319-tomahawks-gone-in-the-iran-war-10-of-americas-entire-stockpile-and-rtx-can-only-build-hundreds-per-year-to-replace-them/
+    text: The U.S. has already fired 319 Tomahawk missiles in the Iran War — roughly
+      10% of its entire stockpile — and RTX builds fewer than 500 per year to replace
+      them. A new emergency contract promises 1,000 annually, but rebuilding depleted
+      stockpiles will take years, not months. The post 319 Tomahawks Gone in the Iran
+      War — 10% of America’s Entire Stockpile — and RTX Can Only Build Hundreds Per
+      Year to Replace Them appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. has used 319 Tomahawk missiles in the Iran War, depleting
+      about 10% of its stockpile, while RTX's current production capacity of fewer than
+      500 missiles per year means it will take years to replenish these stocks, despite
+      a new contract to increase production to 1,000 annually.
+    paragraph_summary: The article discusses the significant depletion of the U.S. Tomahawk
+      missile stockpile due to the ongoing Iran War, with 319 missiles already fired,
+      representing about 10% of the total inventory. RTX, the manufacturer, produces
+      fewer than 500 missiles annually to replace them, and although a new emergency
+      contract aims to increase production to 1,000 per year, it will still take years
+      to fully rebuild the stockpiles.
+    published: '2026-03-20T12:37:14+00:00'
+  - title: The A-10 Thunderbolt Was Built to Kill Russian Tanks — Now It’s the U.S.
+      Military’s Best Drone Hunter in the Iran War
+    url: https://www.19fortyfive.com/2026/03/the-a-10-thunderbolt-was-built-to-kill-russian-tanks-now-its-the-u-s-militarys-best-drone-hunter-in-the-iran-war/
+    text: The A-10 Thunderbolt II, a platform once destined for the scrap heap, has
+      found a second life in the 2026 battlespace. As Operation Epic Fury intensifies,
+      the "Warthog" is proving that sometimes the best way to handle futuristic drone
+      swarms is with a rugged, loitering relic from the Cold War. The post The A-10
+      Thunderbolt Was Built to Kill Russian Tanks — Now It’s the U.S. Military’s Best
+      Drone Hunter in the Iran War appeared first on 19FortyFive .
+    one_sentence_summary: The A-10 Thunderbolt II, originally designed for tank warfare,
+      has unexpectedly become the U.S. military's most effective drone hunter in the
+      ongoing Operation Epic Fury during the Iran War.
+    paragraph_summary: The A-10 Thunderbolt II, originally designed for tank destruction
+      during the Cold War, has unexpectedly emerged as a crucial asset in the 2026 battlespace,
+      particularly during Operation Epic Fury. Despite being considered outdated, the
+      "Warthog" has demonstrated its effectiveness in combating modern drone swarms,
+      showcasing the adaptability and enduring relevance of this rugged aircraft in
+      contemporary military operations, particularly in the ongoing conflict in Iran.
+    published: '2026-03-20T12:17:04+00:00'
+  - title: The A-10 Thunderbolt Was Built to Kill Russian Tanks — Now It’s the U.S.
+      Military’s Best Drone Hunter in the Iran War
+    url: https://www.19fortyfive.com/2026/03/the-a-10-thunderbolt-was-built-to-kill-russian-tanks-now-its-the-u-s-militarys-best-drone-hunter-in-the-iran-war/
+    text: The A-10 Thunderbolt II, a platform once destined for the scrap heap, has
+      found a second life in the 2026 battlespace. As Operation Epic Fury intensifies,
+      the "Warthog" is proving that sometimes the best way to handle futuristic drone
+      swarms is with a rugged, loitering relic from the Cold War. The post The A-10
+      Thunderbolt Was Built to Kill Russian Tanks — Now It’s the U.S. Military’s Best
+      Drone Hunter in the Iran War appeared first on 19FortyFive .
+    one_sentence_summary: The A-10 Thunderbolt II, originally designed for tank warfare,
+      has unexpectedly become the U.S. military's most effective drone hunter in the
+      ongoing Operation Epic Fury during the Iran War.
+    paragraph_summary: The A-10 Thunderbolt II, originally designed for tank destruction
+      during the Cold War, has unexpectedly emerged as a crucial asset in the 2026 battlespace,
+      particularly during Operation Epic Fury. Despite being considered outdated, the
+      "Warthog" has demonstrated its effectiveness in combating modern drone swarms,
+      showcasing the adaptability and enduring relevance of this rugged aircraft in
+      contemporary military operations, particularly in the ongoing conflict in Iran.
+    published: '2026-03-20T12:17:04+00:00'
+  - title: '42,500 Tons: France Deploys Only Nuclear Aircraft Carrier to the Middle
+      East as the Iran War Escalates'
+    url: https://www.19fortyfive.com/2026/03/42500-tons-france-delpoys-only-nuclear-aircraft-carrier-to-the-middle-east-as-the-iran-war-escalates/
+    text: 'The FS Charles de Gaulle (R91) remains the undisputed jewel of the French
+      Navy and a singular symbol of European strategic autonomy. As the only nuclear-powered
+      aircraft carrier operated outside of the United States, the "CDG" provides France
+      with a level of persistence and power projection that few nations can replicate.
+      The post 42,500 Tons: France Deploys Only Nuclear Aircraft Carrier to the Middle
+      East as the Iran War Escalates appeared first on 19FortyFive .'
+    one_sentence_summary: The FS Charles de Gaulle, France's sole nuclear-powered aircraft
+      carrier, exemplifies European strategic autonomy and enhances France's military
+      capabilities, particularly amid escalating tensions in the Middle East.
+    paragraph_summary: The FS Charles de Gaulle (R91) is a key asset of the French Navy
+      and a symbol of European strategic independence, being the only nuclear-powered
+      aircraft carrier outside the United States. Its capabilities enable France to
+      project power and maintain a persistent military presence that few other nations
+      can match. Recently, the carrier has been deployed to the Middle East amid escalating
+      tensions related to the Iran War, highlighting its strategic importance in contemporary
+      geopolitics.
+    published: '2026-03-19T23:38:52+00:00'
+  - title: '42,500 Tons: France Deploys Only Nuclear Aircraft Carrier to the Middle
+      East as the Iran War Escalates'
+    url: https://www.19fortyfive.com/2026/03/42500-tons-france-delpoys-only-nuclear-aircraft-carrier-to-the-middle-east-as-the-iran-war-escalates/
+    text: 'The FS Charles de Gaulle (R91) remains the undisputed jewel of the French
+      Navy and a singular symbol of European strategic autonomy. As the only nuclear-powered
+      aircraft carrier operated outside of the United States, the "CDG" provides France
+      with a level of persistence and power projection that few nations can replicate.
+      The post 42,500 Tons: France Deploys Only Nuclear Aircraft Carrier to the Middle
+      East as the Iran War Escalates appeared first on 19FortyFive .'
+    one_sentence_summary: The FS Charles de Gaulle, France's sole nuclear-powered aircraft
+      carrier, exemplifies European strategic autonomy and enhances France's military
+      capabilities, particularly amid escalating tensions in the Middle East.
+    paragraph_summary: The FS Charles de Gaulle (R91) is a key asset of the French Navy
+      and a symbol of European strategic independence, being the only nuclear-powered
+      aircraft carrier outside the United States. Its capabilities enable France to
+      project power and maintain a persistent military presence that few other nations
+      can match. Recently, the carrier has been deployed to the Middle East amid escalating
+      tensions related to the Iran War, highlighting its strategic importance in contemporary
+      geopolitics.
+    published: '2026-03-19T23:38:52+00:00'
+  - title: '616 Tomahawks, No Replacement: The U.S. Navy’s 4 Ohio-Class SSGNs Are Retiring
+      and Nothing Can Fill the Gap'
+    url: https://www.19fortyfive.com/2026/03/616-tomahawks-no-replacement-the-u-s-navys-4-ohio-class-ssgns-are-retiring-and-nothing-can-fill-the-gap/
+    text: 'The retirement of the Ohio-class SSGNs represents the single largest loss
+      of conventional "magazine depth" in the history of the U.S. Navy. In 2026, as
+      the "Fab Four" approach their 2028 retirement window, the strategic focus has
+      shifted to whether the Virginia-class Block V can truly "bridge the gap" during
+      a high-intensity conflict in the Indo-Pacific. The post 616 Tomahawks, No Replacement:
+      The U.S. Navy’s 4 Ohio-Class SSGNs Are Retiring and Nothing Can Fill the Gap appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The retirement of the Ohio-class SSGNs in 2026 marks a significant
+      reduction in the U.S. Navy's conventional strike capabilities, raising concerns
+      about whether the Virginia-class Block V submarines can adequately compensate
+      during potential high-intensity conflicts in the Indo-Pacific.
+    paragraph_summary: The retirement of the Ohio-class SSGNs marks a significant reduction
+      in the U.S. Navy's conventional strike capabilities, as it represents the largest
+      loss of "magazine depth" in its history. With the "Fab Four" SSGNs set to retire
+      by 2028, attention is now on whether the Virginia-class Block V submarines can
+      effectively compensate for this loss during potential high-intensity conflicts
+      in the Indo-Pacific region. The article highlights concerns over the Navy's ability
+      to maintain its strategic edge given the absence of a direct replacement for the
+      retiring Ohio-class submarines.
+    published: '2026-03-19T23:25:29+00:00'
+  - title: '616 Tomahawks, No Replacement: The U.S. Navy’s 4 Ohio-Class SSGNs Are Retiring
+      and Nothing Can Fill the Gap'
+    url: https://www.19fortyfive.com/2026/03/616-tomahawks-no-replacement-the-u-s-navys-4-ohio-class-ssgns-are-retiring-and-nothing-can-fill-the-gap/
+    text: 'The retirement of the Ohio-class SSGNs represents the single largest loss
+      of conventional "magazine depth" in the history of the U.S. Navy. In 2026, as
+      the "Fab Four" approach their 2028 retirement window, the strategic focus has
+      shifted to whether the Virginia-class Block V can truly "bridge the gap" during
+      a high-intensity conflict in the Indo-Pacific. The post 616 Tomahawks, No Replacement:
+      The U.S. Navy’s 4 Ohio-Class SSGNs Are Retiring and Nothing Can Fill the Gap appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The retirement of the Ohio-class SSGNs in 2026 marks a significant
+      reduction in the U.S. Navy's conventional strike capabilities, raising concerns
+      about whether the Virginia-class Block V submarines can adequately compensate
+      during potential high-intensity conflicts in the Indo-Pacific.
+    paragraph_summary: The retirement of the Ohio-class SSGNs marks a significant reduction
+      in the U.S. Navy's conventional strike capabilities, as it represents the largest
+      loss of "magazine depth" in its history. With the "Fab Four" SSGNs set to retire
+      by 2028, attention is now on whether the Virginia-class Block V submarines can
+      effectively compensate for this loss during potential high-intensity conflicts
+      in the Indo-Pacific region. The article highlights concerns over the Navy's ability
+      to maintain its strategic edge given the absence of a direct replacement for the
+      retiring Ohio-class submarines.
+    published: '2026-03-19T23:25:29+00:00'
+  - title: 'Su-34 Fighter-Bomber Destroyed: Why the Russian Air Force Is Falling From
+      the Skies Above Ukraine'
+    url: https://www.19fortyfive.com/2026/03/su-34-fighter-bomber-destroyed-why-the-russian-air-force-is-falling-from-the-skies-above-ukraine/
+    text: 'Steve Balestrieri, former U.S. Army Special Forces NCO and national security
+      columnist, reveals how Ukraine''s capture of an intact SAP-518SM "Regata" electronic
+      warfare jamming pod from a downed Russian Su-30SM near Izyum in September 2022
+      gave Western intelligence agencies the data needed to defeat Russia''s Khibiny
+      EW system — enabling U.S.-made PAC-3 Patriot missiles to shoot down Su-34 Fullback
+      fighter-bombers the pods were designed to protect. The post Su-34 Fighter-Bomber
+      Destroyed: Why the Russian Air Force Is Falling From the Skies Above Ukraine appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Steve Balestrieri discusses how Ukraine's acquisition of a
+      Russian electronic warfare jamming pod from a downed Su-30SM provided crucial
+      intelligence that helped Western forces overcome Russia's Khibiny EW system, leading
+      to the successful targeting of Russian Su-34 fighter-bombers by U.S.-made PAC-3
+      Patriot missiles.
+    paragraph_summary: Steve Balestrieri, a former U.S. Army Special Forces NCO and
+      national security columnist, discusses how Ukraine's recovery of an intact SAP-518SM
+      "Regata" electronic warfare jamming pod from a downed Russian Su-30SM in September
+      2022 provided critical intelligence to Western agencies. This intelligence was
+      instrumental in overcoming Russia's Khibiny electronic warfare system, allowing
+      U.S.-made PAC-3 Patriot missiles to effectively target and shoot down Russian
+      Su-34 Fullback fighter-bombers, which the jamming pods were intended to protect.
+    published: '2026-03-19T23:03:51+00:00'
+  - title: 'Su-34 Fighter-Bomber Destroyed: Why the Russian Air Force Is Falling From
+      the Skies Above Ukraine'
+    url: https://www.19fortyfive.com/2026/03/su-34-fighter-bomber-destroyed-why-the-russian-air-force-is-falling-from-the-skies-above-ukraine/
+    text: 'Steve Balestrieri, former U.S. Army Special Forces NCO and national security
+      columnist, reveals how Ukraine''s capture of an intact SAP-518SM "Regata" electronic
+      warfare jamming pod from a downed Russian Su-30SM near Izyum in September 2022
+      gave Western intelligence agencies the data needed to defeat Russia''s Khibiny
+      EW system — enabling U.S.-made PAC-3 Patriot missiles to shoot down Su-34 Fullback
+      fighter-bombers the pods were designed to protect. The post Su-34 Fighter-Bomber
+      Destroyed: Why the Russian Air Force Is Falling From the Skies Above Ukraine appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Steve Balestrieri discusses how Ukraine's acquisition of a
+      Russian electronic warfare jamming pod from a downed Su-30SM provided crucial
+      intelligence that helped Western forces overcome Russia's Khibiny EW system, leading
+      to the successful targeting of Russian Su-34 fighter-bombers by U.S.-made PAC-3
+      Patriot missiles.
+    paragraph_summary: Steve Balestrieri, a former U.S. Army Special Forces NCO and
+      national security columnist, discusses how Ukraine's recovery of an intact SAP-518SM
+      "Regata" electronic warfare jamming pod from a downed Russian Su-30SM in September
+      2022 provided critical intelligence to Western agencies. This intelligence was
+      instrumental in overcoming Russia's Khibiny electronic warfare system, allowing
+      U.S.-made PAC-3 Patriot missiles to effectively target and shoot down Russian
+      Su-34 Fullback fighter-bombers, which the jamming pods were intended to protect.
+    published: '2026-03-19T23:03:51+00:00'
+  - title: 'CF-18: Canada’s Old Fighter Jet Can’t Fly Much Longer (F-35 Could Soon Replace
+      It)'
+    url: https://www.19fortyfive.com/2026/03/cf-18-canadas-old-fighter-jet-cant-fly-much-longer-f-35-could-soon-replace-it/
+    text: 'The CF-18 Hornet is the definition of a "workhorse" that has been ridden
+      into the ground. In 2026, the structural fatigue of these airframes is no longer
+      a maintenance hurdle; it is a flight safety crisis. The post CF-18: Canada’s Old
+      Fighter Jet Can’t Fly Much Longer (F-35 Could Soon Replace It) appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The CF-18 Hornet, Canada's aging fighter jet, is facing a
+      critical flight safety crisis due to structural fatigue, prompting discussions
+      about its replacement with the F-35.
+    paragraph_summary: The CF-18 Hornet, a vital component of Canada's military aviation,
+      is facing a significant crisis as its airframes experience severe structural fatigue,
+      rendering them increasingly unsafe for flight by 2026. This situation has escalated
+      from a mere maintenance issue to a critical flight safety concern, prompting discussions
+      about the need for a replacement, with the F-35 fighter jet being a potential
+      candidate to succeed the aging CF-18 fleet.
+    published: '2026-03-19T22:50:27+00:00'
+  - title: 'CF-18: Canada’s Old Fighter Jet Can’t Fly Much Longer (F-35 Could Soon Replace
+      It)'
+    url: https://www.19fortyfive.com/2026/03/cf-18-canadas-old-fighter-jet-cant-fly-much-longer-f-35-could-soon-replace-it/
+    text: 'The CF-18 Hornet is the definition of a "workhorse" that has been ridden
+      into the ground. In 2026, the structural fatigue of these airframes is no longer
+      a maintenance hurdle; it is a flight safety crisis. The post CF-18: Canada’s Old
+      Fighter Jet Can’t Fly Much Longer (F-35 Could Soon Replace It) appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The CF-18 Hornet, Canada's aging fighter jet, is facing a
+      critical flight safety crisis due to structural fatigue, prompting discussions
+      about its replacement with the F-35.
+    paragraph_summary: The CF-18 Hornet, a vital component of Canada's military aviation,
+      is facing a significant crisis as its airframes experience severe structural fatigue,
+      rendering them increasingly unsafe for flight by 2026. This situation has escalated
+      from a mere maintenance issue to a critical flight safety concern, prompting discussions
+      about the need for a replacement, with the F-35 fighter jet being a potential
+      candidate to succeed the aging CF-18 fleet.
+    published: '2026-03-19T22:50:27+00:00'
+  - title: '2 Aircraft Carriers Down, 1 Breaking Apart: The U.S. Navy Is Running Out
+      of Supercarriers During the Iran War'
+    url: https://www.19fortyfive.com/2026/03/2-aircraft-carriers-down-1-breaking-apart-the-u-s-navy-is-running-out-of-supercarriers-during-the-iran-war/
+    text: 'The USS John C. Stennis is 14 months behind schedule and $483 million over
+      budget. The USS Harry S. Truman begins its overhaul in June 2026. Meanwhile the
+      Gerald R. Ford has been deployed over 300 days in the Iran War with sailors sleeping
+      on tables. The U.S. Navy is running dangerously short on supercarriers. The post
+      2 Aircraft Carriers Down, 1 Breaking Apart: The U.S. Navy Is Running Out of Supercarriers
+      During the Iran War appeared first on 19FortyFive .'
+    one_sentence_summary: The U.S. Navy is facing a critical shortage of supercarriers
+      due to significant delays and budget overruns with the USS John C. Stennis, an
+      upcoming overhaul for the USS Harry S. Truman, and extensive deployment of the
+      USS Gerald R. Ford amid the Iran War.
+    paragraph_summary: The U.S. Navy is facing a critical shortage of supercarriers
+      amid ongoing military operations in the Iran War, as the USS John C. Stennis is
+      significantly delayed by 14 months and over budget by $483 million, while the
+      USS Harry S. Truman is scheduled for overhaul starting in June 2026. The USS Gerald
+      R. Ford has been deployed for over 300 days, forcing sailors to sleep on tables
+      due to overcrowding. This situation highlights the Navy's urgent need for operational
+      supercarriers during a time of heightened conflict.
+    published: '2026-03-19T22:33:23+00:00'
+  - title: '2 Aircraft Carriers Down, 1 Breaking Apart: The U.S. Navy Is Running Out
+      of Supercarriers During the Iran War'
+    url: https://www.19fortyfive.com/2026/03/2-aircraft-carriers-down-1-breaking-apart-the-u-s-navy-is-running-out-of-supercarriers-during-the-iran-war/
+    text: 'The USS John C. Stennis is 14 months behind schedule and $483 million over
+      budget. The USS Harry S. Truman begins its overhaul in June 2026. Meanwhile the
+      Gerald R. Ford has been deployed over 300 days in the Iran War with sailors sleeping
+      on tables. The U.S. Navy is running dangerously short on supercarriers. The post
+      2 Aircraft Carriers Down, 1 Breaking Apart: The U.S. Navy Is Running Out of Supercarriers
+      During the Iran War appeared first on 19FortyFive .'
+    one_sentence_summary: The U.S. Navy is facing a critical shortage of supercarriers
+      due to significant delays and budget overruns with the USS John C. Stennis, an
+      upcoming overhaul for the USS Harry S. Truman, and extensive deployment of the
+      USS Gerald R. Ford amid the Iran War.
+    paragraph_summary: The U.S. Navy is facing a critical shortage of supercarriers
+      amid ongoing military operations in the Iran War, as the USS John C. Stennis is
+      significantly delayed by 14 months and over budget by $483 million, while the
+      USS Harry S. Truman is scheduled for overhaul starting in June 2026. The USS Gerald
+      R. Ford has been deployed for over 300 days, forcing sailors to sleep on tables
+      due to overcrowding. This situation highlights the Navy's urgent need for operational
+      supercarriers during a time of heightened conflict.
+    published: '2026-03-19T22:33:23+00:00'
+  - title: 'Forget F-35 or F-47: China’s White Emperor Fighter ‘Mock-Up’ Claimed Nuclear
+      Hypersonic Capabilities'
+    url: https://www.19fortyfive.com/2026/03/forget-f-35-or-f-47-chinas-white-emperor-fighter-mock-up-claimed-nuclear-hypersonic-capabilities/
+    text: 'The "White Emperor" represents one of the most successful accidental psychological
+      operations in modern aviation history. What began as a terrifying glimpse into
+      a hypersonic, space-capable future for the PLAAF turned out to be an elaborate
+      piece of "sci-fi-turned-billboard." The post Forget F-35 or F-47: China’s White
+      Emperor Fighter ‘Mock-Up’ Claimed Nuclear Hypersonic Capabilities appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The "White Emperor" fighter, initially perceived as a groundbreaking
+      advancement in hypersonic aviation for China's PLAAF, is revealed to be a mere
+      promotional mock-up rather than a functional aircraft with nuclear capabilities.
+    paragraph_summary: The "White Emperor" fighter jet, initially perceived as a groundbreaking
+      advancement in hypersonic and space-capable technology for the People's Liberation
+      Army Air Force (PLAAF), has been revealed to be a sophisticated marketing ploy
+      rather than a functional aircraft. This incident is regarded as one of the most
+      effective accidental psychological operations in modern aviation, transforming
+      what seemed like a terrifying glimpse into the future of military aviation into
+      a mere promotional spectacle reminiscent of science fiction. The article highlights
+      how the White Emperor's portrayal has shifted the narrative away from competing
+      aircraft like the F-35 and F-47, underscoring the impact of perception in military
+      technology.
+    published: '2026-03-19T22:08:06+00:00'
+  - title: 'Forget F-35 or F-47: China’s White Emperor Fighter ‘Mock-Up’ Claimed Nuclear
+      Hypersonic Capabilities'
+    url: https://www.19fortyfive.com/2026/03/forget-f-35-or-f-47-chinas-white-emperor-fighter-mock-up-claimed-nuclear-hypersonic-capabilities/
+    text: 'The "White Emperor" represents one of the most successful accidental psychological
+      operations in modern aviation history. What began as a terrifying glimpse into
+      a hypersonic, space-capable future for the PLAAF turned out to be an elaborate
+      piece of "sci-fi-turned-billboard." The post Forget F-35 or F-47: China’s White
+      Emperor Fighter ‘Mock-Up’ Claimed Nuclear Hypersonic Capabilities appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The "White Emperor" fighter, initially perceived as a groundbreaking
+      advancement in hypersonic aviation for China's PLAAF, is revealed to be a mere
+      promotional mock-up rather than a functional aircraft with nuclear capabilities.
+    paragraph_summary: The "White Emperor" fighter jet, initially perceived as a groundbreaking
+      advancement in hypersonic and space-capable technology for the People's Liberation
+      Army Air Force (PLAAF), has been revealed to be a sophisticated marketing ploy
+      rather than a functional aircraft. This incident is regarded as one of the most
+      effective accidental psychological operations in modern aviation, transforming
+      what seemed like a terrifying glimpse into the future of military aviation into
+      a mere promotional spectacle reminiscent of science fiction. The article highlights
+      how the White Emperor's portrayal has shifted the narrative away from competing
+      aircraft like the F-35 and F-47, underscoring the impact of perception in military
+      technology.
+    published: '2026-03-19T22:08:06+00:00'
+  - title: 'F-22 vs. F-35: When America’s Two Best Stealth Fighters Faced Each Other
+      in Simulated Combat'
+    url: https://www.19fortyfive.com/2026/03/f-22-vs-f-35-when-americas-two-best-stealth-fighters-faced-each-other-in-simulated-combat/
+    text: 'Red Flag 21 at Nellis Air Force Base marked a historic shift in aerial combat
+      training by introducing high-fidelity "stealth-on-stealth" simulations. The exercise
+      pitted F-22 Raptors against F-35 Lightning II aggressors to replicate threats
+      from peer adversaries like the Russian Su-57 Felon and Chinese J-20 Mighty Dragon.
+      The post F-22 vs. F-35: When America’s Two Best Stealth Fighters Faced Each Other
+      in Simulated Combat appeared first on 19FortyFive .'
+    one_sentence_summary: Red Flag 21 at Nellis Air Force Base introduced groundbreaking
+      "stealth-on-stealth" simulations, featuring F-22 Raptors and F-35 Lightning II
+      aggressors to simulate advanced threats from peer adversaries.
+    paragraph_summary: Red Flag 21 at Nellis Air Force Base represented a significant
+      evolution in aerial combat training by incorporating advanced "stealth-on-stealth"
+      simulations, where F-22 Raptors engaged F-35 Lightning II aggressors. This innovative
+      exercise aimed to mimic the challenges posed by peer adversaries such as the Russian
+      Su-57 Felon and the Chinese J-20 Mighty Dragon, enhancing the readiness and strategic
+      capabilities of U.S. air forces in modern combat scenarios.
+    published: '2026-03-19T20:02:45+00:00'
+  - title: 'F-22 vs. F-35: When America’s Two Best Stealth Fighters Faced Each Other
+      in Simulated Combat'
+    url: https://www.19fortyfive.com/2026/03/f-22-vs-f-35-when-americas-two-best-stealth-fighters-faced-each-other-in-simulated-combat/
+    text: 'Red Flag 21 at Nellis Air Force Base marked a historic shift in aerial combat
+      training by introducing high-fidelity "stealth-on-stealth" simulations. The exercise
+      pitted F-22 Raptors against F-35 Lightning II aggressors to replicate threats
+      from peer adversaries like the Russian Su-57 Felon and Chinese J-20 Mighty Dragon.
+      The post F-22 vs. F-35: When America’s Two Best Stealth Fighters Faced Each Other
+      in Simulated Combat appeared first on 19FortyFive .'
+    one_sentence_summary: Red Flag 21 at Nellis Air Force Base introduced groundbreaking
+      "stealth-on-stealth" simulations, featuring F-22 Raptors and F-35 Lightning II
+      aggressors to simulate advanced threats from peer adversaries.
+    paragraph_summary: Red Flag 21 at Nellis Air Force Base represented a significant
+      evolution in aerial combat training by incorporating advanced "stealth-on-stealth"
+      simulations, where F-22 Raptors engaged F-35 Lightning II aggressors. This innovative
+      exercise aimed to mimic the challenges posed by peer adversaries such as the Russian
+      Su-57 Felon and the Chinese J-20 Mighty Dragon, enhancing the readiness and strategic
+      capabilities of U.S. air forces in modern combat scenarios.
+    published: '2026-03-19T20:02:45+00:00'
+  - title: '145 B-21 Raiders: STRATCOM’s Commander Just Confirmed a Second Production
+      Line Might Be Coming'
+    url: https://www.19fortyfive.com/2026/03/145-b-21-raiders-stratcoms-commander-just-confirmed-a-second-production-line-might-be-coming/
+    text: 'The B-21 Raider program has reached a pivotal industrial crossroads in March
+      2026. As the Pentagon moves beyond the initial "black program" phase, the debate
+      has shifted from whether the stealth bomber works to how fast the American industrial
+      base can actually build it. The post 145 B-21 Raiders: STRATCOM’s Commander Just
+      Confirmed a Second Production Line Might Be Coming appeared first on 19FortyFive
+      .'
+    one_sentence_summary: In March 2026, the B-21 Raider program has transitioned from
+      testing its functionality to focusing on the speed of production, with STRATCOM's
+      Commander indicating the potential establishment of a second production line for
+      the stealth bomber.
+    paragraph_summary: In March 2026, the B-21 Raider program has transitioned from
+      its initial "black program" phase, with discussions now focusing on the speed
+      of production rather than the bomber's functionality. The U.S. military is considering
+      the establishment of a second production line to accelerate the manufacturing
+      of the B-21 Raiders, as confirmed by STRATCOM's Commander, following the completion
+      of the first 145 units. This marks a significant industrial milestone for the
+      program as the Pentagon aims to enhance its stealth bomber capabilities.
+    published: '2026-03-19T19:44:23+00:00'
+  - title: '145 B-21 Raiders: STRATCOM’s Commander Just Confirmed a Second Production
+      Line Might Be Coming'
+    url: https://www.19fortyfive.com/2026/03/145-b-21-raiders-stratcoms-commander-just-confirmed-a-second-production-line-might-be-coming/
+    text: 'The B-21 Raider program has reached a pivotal industrial crossroads in March
+      2026. As the Pentagon moves beyond the initial "black program" phase, the debate
+      has shifted from whether the stealth bomber works to how fast the American industrial
+      base can actually build it. The post 145 B-21 Raiders: STRATCOM’s Commander Just
+      Confirmed a Second Production Line Might Be Coming appeared first on 19FortyFive
+      .'
+    one_sentence_summary: In March 2026, the B-21 Raider program has transitioned from
+      testing its functionality to focusing on the speed of production, with STRATCOM's
+      Commander indicating the potential establishment of a second production line for
+      the stealth bomber.
+    paragraph_summary: In March 2026, the B-21 Raider program has transitioned from
+      its initial "black program" phase, with discussions now focusing on the speed
+      of production rather than the bomber's functionality. The U.S. military is considering
+      the establishment of a second production line to accelerate the manufacturing
+      of the B-21 Raiders, as confirmed by STRATCOM's Commander, following the completion
+      of the first 145 units. This marks a significant industrial milestone for the
+      program as the Pentagon aims to enhance its stealth bomber capabilities.
+    published: '2026-03-19T19:44:23+00:00'
+  - title: '1,220 Tomahawk Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful
+      Strike Platforms'
+    url: https://www.19fortyfive.com/2026/03/1220-tomahawk-missile-cells-gone-the-u-s-navy-is-retiring-its-most-powerful-strike-platforms/
+    text: 'The decommissioning of the Ticonderoga-class cruisers, which carry a fleet-high
+      122 VLS cells loaded with Tomahawk missiles, creates a structural firepower gap
+      that newer Arleigh Burke Flight III destroyers (96 cells) and Constellation-class
+      frigates (32 cells) cannot immediately fill. With the simultaneous loss of four
+      Ohio-class SSGNs (616 cells), the Navy enters a "doom loop" where declining launch
+      capacity meets a 24-month production lag for replacement Tomahawks. The post 1,220
+      Tomahawk Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful Strike
+      Platforms appeared first on 19FortyFive .'
+    one_sentence_summary: The decommissioning of Ticonderoga-class cruisers and Ohio-class
+      SSGNs significantly reduces the U.S. Navy's missile launch capacity, creating
+      a critical firepower gap that newer vessels cannot quickly address due to a production
+      lag in replacement missiles.
+    paragraph_summary: The decommissioning of Ticonderoga-class cruisers, which possess
+      the highest number of vertical launch system (VLS) cells for Tomahawk missiles
+      in the fleet, has created a significant firepower gap in the U.S. Navy's capabilities.
+      This gap is exacerbated by the concurrent retirement of four Ohio-class SSGNs,
+      leading to a substantial reduction in missile launch capacity. The newer Arleigh
+      Burke Flight III destroyers and Constellation-class frigates cannot compensate
+      for this loss due to their lower VLS cell counts, and the Navy faces a "doom loop"
+      scenario as it contends with a 24-month production delay for replacement Tomahawks.
+    published: '2026-03-19T19:16:26+00:00'
+  - title: '1,220 Tomahawk Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful
+      Strike Platforms'
+    url: https://www.19fortyfive.com/2026/03/1220-tomahawk-missile-cells-gone-the-u-s-navy-is-retiring-its-most-powerful-strike-platforms/
+    text: 'The decommissioning of the Ticonderoga-class cruisers, which carry a fleet-high
+      122 VLS cells loaded with Tomahawk missiles, creates a structural firepower gap
+      that newer Arleigh Burke Flight III destroyers (96 cells) and Constellation-class
+      frigates (32 cells) cannot immediately fill. With the simultaneous loss of four
+      Ohio-class SSGNs (616 cells), the Navy enters a "doom loop" where declining launch
+      capacity meets a 24-month production lag for replacement Tomahawks. The post 1,220
+      Tomahawk Missile Cells Gone: The U.S. Navy Is Retiring Its Most Powerful Strike
+      Platforms appeared first on 19FortyFive .'
+    one_sentence_summary: The decommissioning of Ticonderoga-class cruisers and Ohio-class
+      SSGNs significantly reduces the U.S. Navy's missile launch capacity, creating
+      a critical firepower gap that newer vessels cannot quickly address due to a production
+      lag in replacement missiles.
+    paragraph_summary: The decommissioning of Ticonderoga-class cruisers, which possess
+      the highest number of vertical launch system (VLS) cells for Tomahawk missiles
+      in the fleet, has created a significant firepower gap in the U.S. Navy's capabilities.
+      This gap is exacerbated by the concurrent retirement of four Ohio-class SSGNs,
+      leading to a substantial reduction in missile launch capacity. The newer Arleigh
+      Burke Flight III destroyers and Constellation-class frigates cannot compensate
+      for this loss due to their lower VLS cell counts, and the Navy faces a "doom loop"
+      scenario as it contends with a 24-month production delay for replacement Tomahawks.
+    published: '2026-03-19T19:16:26+00:00'
+  - title: 'Typhon: The U.S. Military Has New Missiles That Can Strike China or Supercarriers
+      from over 1,000 Miles Away'
+    url: https://www.19fortyfive.com/2026/03/typhon-the-u-s-military-has-new-missiles-that-can-strike-china-or-supercarriers-from-over-1000-miles-away/
+    text: 'The deployment of the Typhon Mid-Range Capability (MRC) to the First Island
+      Chain represents a fundamental shift in the Pacific theater''s geometry. By 2026,
+      the "Land-Based Spear" has become as critical to deterrence as the carrier strike
+      groups, effectively turning regional allies into "unsinkable" missile platforms.
+      The post Typhon: The U.S. Military Has New Missiles That Can Strike China or Supercarriers
+      from over 1,000 Miles Away appeared first on 19FortyFive .'
+    one_sentence_summary: The deployment of the Typhon Mid-Range Capability in the Pacific
+      is transforming regional military dynamics by enhancing deterrence and enabling
+      allies to serve as effective missile platforms against China and supercarriers
+      from over 1,000 miles away by 2026.
+    paragraph_summary: The deployment of the Typhon Mid-Range Capability (MRC) to the
+      First Island Chain marks a significant transformation in the Pacific military
+      landscape, as it enhances deterrence alongside traditional carrier strike groups.
+      By 2026, the Typhon system, referred to as the "Land-Based Spear," will enable
+      regional allies to function as "unsinkable" missile platforms, capable of striking
+      targets in China or against supercarriers from distances exceeding 1,000 miles.
+      This development underscores a strategic shift in U.S. military capabilities in
+      the region.
+    published: '2026-03-19T18:52:27+00:00'
+  - title: 'Typhon: The U.S. Military Has New Missiles That Can Strike China or Supercarriers
+      from over 1,000 Miles Away'
+    url: https://www.19fortyfive.com/2026/03/typhon-the-u-s-military-has-new-missiles-that-can-strike-china-or-supercarriers-from-over-1000-miles-away/
+    text: 'The deployment of the Typhon Mid-Range Capability (MRC) to the First Island
+      Chain represents a fundamental shift in the Pacific theater''s geometry. By 2026,
+      the "Land-Based Spear" has become as critical to deterrence as the carrier strike
+      groups, effectively turning regional allies into "unsinkable" missile platforms.
+      The post Typhon: The U.S. Military Has New Missiles That Can Strike China or Supercarriers
+      from over 1,000 Miles Away appeared first on 19FortyFive .'
+    one_sentence_summary: The deployment of the Typhon Mid-Range Capability in the Pacific
+      is transforming regional military dynamics by enhancing deterrence and enabling
+      allies to serve as effective missile platforms against China and supercarriers
+      from over 1,000 miles away by 2026.
+    paragraph_summary: The deployment of the Typhon Mid-Range Capability (MRC) to the
+      First Island Chain marks a significant transformation in the Pacific military
+      landscape, as it enhances deterrence alongside traditional carrier strike groups.
+      By 2026, the Typhon system, referred to as the "Land-Based Spear," will enable
+      regional allies to function as "unsinkable" missile platforms, capable of striking
+      targets in China or against supercarriers from distances exceeding 1,000 miles.
+      This development underscores a strategic shift in U.S. military capabilities in
+      the region.
+    published: '2026-03-19T18:52:27+00:00'
+  - title: China Claims It Found a Fatal Flaw in the B-21 Raider Stealth Bomber Before
+      It Even Entered Service — a Former Air Force Officer Says Not So Fast
+    url: https://www.19fortyfive.com/2026/03/china-claims-it-found-a-fatal-flaw-in-the-b-21-raider-stealth-bomber-before-it-even-entered-service-a-former-air-force-officer-says-not-so-fast/
+    text: China says it has already identified aerodynamic flaws in America's B-21 Raider
+      stealth bomber using simulation software — before the aircraft has even entered
+      service. Beijing has made similar claims about tracking the F-35 and intercepting
+      B-2 signals over Iran. A former U.S. Air Force officer reviewed every claim and
+      says none of them pass the smell test. The post China Claims It Found a Fatal
+      Flaw in the B-21 Raider Stealth Bomber Before It Even Entered Service — a Former
+      Air Force Officer Says Not So Fast appeared first on 19FortyFive .
+    one_sentence_summary: China claims to have identified aerodynamic flaws in the U.S.
+      B-21 Raider stealth bomber using simulation software, but a former U.S. Air Force
+      officer disputes these claims, suggesting they lack credibility.
+    paragraph_summary: China has claimed to have identified aerodynamic flaws in the
+      U.S. B-21 Raider stealth bomber using simulation software, despite the aircraft
+      not yet being operational. This assertion follows similar claims made by Beijing
+      regarding its ability to track the F-35 and intercept B-2 signals over Iran. However,
+      a former U.S. Air Force officer has scrutinized these claims and concluded that
+      they lack credibility.
+    published: '2026-03-19T18:27:24+00:00'
+  - title: China Claims It Found a Fatal Flaw in the B-21 Raider Stealth Bomber Before
+      It Even Entered Service — a Former Air Force Officer Says Not So Fast
+    url: https://www.19fortyfive.com/2026/03/china-claims-it-found-a-fatal-flaw-in-the-b-21-raider-stealth-bomber-before-it-even-entered-service-a-former-air-force-officer-says-not-so-fast/
+    text: China says it has already identified aerodynamic flaws in America's B-21 Raider
+      stealth bomber using simulation software — before the aircraft has even entered
+      service. Beijing has made similar claims about tracking the F-35 and intercepting
+      B-2 signals over Iran. A former U.S. Air Force officer reviewed every claim and
+      says none of them pass the smell test. The post China Claims It Found a Fatal
+      Flaw in the B-21 Raider Stealth Bomber Before It Even Entered Service — a Former
+      Air Force Officer Says Not So Fast appeared first on 19FortyFive .
+    one_sentence_summary: China claims to have identified aerodynamic flaws in the U.S.
+      B-21 Raider stealth bomber using simulation software, but a former U.S. Air Force
+      officer disputes these claims, suggesting they lack credibility.
+    paragraph_summary: China has claimed to have identified aerodynamic flaws in the
+      U.S. B-21 Raider stealth bomber using simulation software, despite the aircraft
+      not yet being operational. This assertion follows similar claims made by Beijing
+      regarding its ability to track the F-35 and intercept B-2 signals over Iran. However,
+      a former U.S. Air Force officer has scrutinized these claims and concluded that
+      they lack credibility.
+    published: '2026-03-19T18:27:24+00:00'
+  - title: 'America’s M1 Abrams vs. South Korea’s K2 Black Panther: The Winner Is the
+      Best Tank On Earth'
+    url: https://www.19fortyfive.com/2026/03/americas-m1-abrams-vs-south-koreas-k2-black-panther-the-winner-is-the-best-tank-on-earth/
+    text: 'The comparison between the M1A2 SEPv3 Abrams and the K2 Black Panther represents
+      the pinnacle of 2026 armored warfare theory. As noted by defense columnist Isaac
+      Seitz, the choice between these two platforms is essentially a choice between
+      "Maximum Survivability" and "Maximum Agility." The post America’s M1 Abrams vs.
+      South Korea’s K2 Black Panther: The Winner Is the Best Tank On Earth appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The article compares the M1A2 SEPv3 Abrams and the K2 Black
+      Panther tanks, highlighting that the decision between them reflects a trade-off
+      between maximum survivability and maximum agility in modern armored warfare.
+    paragraph_summary: The article compares the M1A2 SEPv3 Abrams and the K2 Black Panther
+      tanks, highlighting them as leading examples of armored warfare in 2026. Defense
+      columnist Isaac Seitz emphasizes that selecting between these two tanks boils
+      down to prioritizing either "Maximum Survivability" with the Abrams or "Maximum
+      Agility" with the K2 Black Panther. The discussion ultimately seeks to determine
+      which tank can be considered the best in the world.
+    published: '2026-03-19T18:11:43+00:00'
+  - title: 'America’s M1 Abrams vs. South Korea’s K2 Black Panther: The Winner Is the
+      Best Tank On Earth'
+    url: https://www.19fortyfive.com/2026/03/americas-m1-abrams-vs-south-koreas-k2-black-panther-the-winner-is-the-best-tank-on-earth/
+    text: 'The comparison between the M1A2 SEPv3 Abrams and the K2 Black Panther represents
+      the pinnacle of 2026 armored warfare theory. As noted by defense columnist Isaac
+      Seitz, the choice between these two platforms is essentially a choice between
+      "Maximum Survivability" and "Maximum Agility." The post America’s M1 Abrams vs.
+      South Korea’s K2 Black Panther: The Winner Is the Best Tank On Earth appeared
+      first on 19FortyFive .'
+    one_sentence_summary: The article compares the M1A2 SEPv3 Abrams and the K2 Black
+      Panther tanks, highlighting that the decision between them reflects a trade-off
+      between maximum survivability and maximum agility in modern armored warfare.
+    paragraph_summary: The article compares the M1A2 SEPv3 Abrams and the K2 Black Panther
+      tanks, highlighting them as leading examples of armored warfare in 2026. Defense
+      columnist Isaac Seitz emphasizes that selecting between these two tanks boils
+      down to prioritizing either "Maximum Survivability" with the Abrams or "Maximum
+      Agility" with the K2 Black Panther. The discussion ultimately seeks to determine
+      which tank can be considered the best in the world.
+    published: '2026-03-19T18:11:43+00:00'
+  - title: '$30,000,000,000 Question: Canada’s F-35 Debate Seems Paralyzed'
+    url: https://www.19fortyfive.com/2026/03/30000000000-question-canadas-f-35-debate-seems-paralyzed/
+    text: 'As of March 2026, the Royal Canadian Air Force’s (RCAF) path to modernization
+      has encountered a significant strategic hurdle. While the first batch of F-35
+      Lightning II fighters is currently in production, Prime Minister Mark Carney’s
+      government is re-evaluating the scale of the 88-jet procurement. The post $30,000,000,000
+      Question: Canada’s F-35 Debate Seems Paralyzed appeared first on 19FortyFive .'
+    one_sentence_summary: As of March 2026, the Royal Canadian Air Force faces a major
+      strategic challenge in its modernization efforts, as the government re-evaluates
+      its plan to procure 88 F-35 Lightning II fighters amidst ongoing debates about
+      the program's scale and cost.
+    paragraph_summary: As of March 2026, the Royal Canadian Air Force's modernization
+      efforts face a critical challenge as the government, led by Prime Minister Mark
+      Carney, reassesses its plan to procure 88 F-35 Lightning II fighters, despite
+      the initial batch being in production. This re-evaluation has sparked a significant
+      debate regarding the scale and cost of the procurement, raising concerns about
+      the future of Canada's military capabilities.
+    published: '2026-03-19T17:56:42+00:00'
+  - title: '$30,000,000,000 Question: Canada’s F-35 Debate Seems Paralyzed'
+    url: https://www.19fortyfive.com/2026/03/30000000000-question-canadas-f-35-debate-seems-paralyzed/
+    text: 'As of March 2026, the Royal Canadian Air Force’s (RCAF) path to modernization
+      has encountered a significant strategic hurdle. While the first batch of F-35
+      Lightning II fighters is currently in production, Prime Minister Mark Carney’s
+      government is re-evaluating the scale of the 88-jet procurement. The post $30,000,000,000
+      Question: Canada’s F-35 Debate Seems Paralyzed appeared first on 19FortyFive .'
+    one_sentence_summary: As of March 2026, the Royal Canadian Air Force faces a major
+      strategic challenge in its modernization efforts, as the government re-evaluates
+      its plan to procure 88 F-35 Lightning II fighters amidst ongoing debates about
+      the program's scale and cost.
+    paragraph_summary: As of March 2026, the Royal Canadian Air Force's modernization
+      efforts face a critical challenge as the government, led by Prime Minister Mark
+      Carney, reassesses its plan to procure 88 F-35 Lightning II fighters, despite
+      the initial batch being in production. This re-evaluation has sparked a significant
+      debate regarding the scale and cost of the procurement, raising concerns about
+      the future of Canada's military capabilities.
+    published: '2026-03-19T17:56:42+00:00'
+  - title: '78,000 Tons of Supercarrier Waste: France’s New PANG Nuclear Aircraft Carrier
+      Is A Mistake'
+    url: https://www.19fortyfive.com/2026/03/78000-tons-of-aircraft-carrier-waste-frances-new-pang-nuclear-aircraft-carrier-is-a-mistake/
+    text: 'France is spending $12 billion on the largest warship ever built in Europe
+      — a nuclear-powered supercarrier meant to project Macron''s vision of strategic
+      independence from Washington. But with a total defense budget of just $74.8 billion,
+      critics argue the PANG will cannibalize the submarines, drones, and ground forces
+      France actually needs for modern warfare. The post 78,000 Tons of Supercarrier
+      Waste: France’s New PANG Nuclear Aircraft Carrier Is A Mistake appeared first
+      on 19FortyFive .'
+    one_sentence_summary: France's $12 billion investment in the PANG nuclear-powered
+      supercarrier, aimed at enhancing strategic independence from the U.S., faces criticism
+      for potentially diverting funds from essential military capabilities within its
+      limited $74.8 billion defense budget.
+    paragraph_summary: France is investing $12 billion in the PANG, a nuclear-powered
+      supercarrier that represents the largest warship ever constructed in Europe, reflecting
+      President Macron's aim for strategic independence from the U.S. However, with
+      a total defense budget of $74.8 billion, critics contend that this massive expenditure
+      will detract from funding essential military capabilities such as submarines,
+      drones, and ground forces, which are more critical for contemporary warfare.
+    published: '2026-03-19T17:36:44+00:00'
+  - title: '78,000 Tons of Supercarrier Waste: France’s New PANG Nuclear Aircraft Carrier
+      Is A Mistake'
+    url: https://www.19fortyfive.com/2026/03/78000-tons-of-aircraft-carrier-waste-frances-new-pang-nuclear-aircraft-carrier-is-a-mistake/
+    text: 'France is spending $12 billion on the largest warship ever built in Europe
+      — a nuclear-powered supercarrier meant to project Macron''s vision of strategic
+      independence from Washington. But with a total defense budget of just $74.8 billion,
+      critics argue the PANG will cannibalize the submarines, drones, and ground forces
+      France actually needs for modern warfare. The post 78,000 Tons of Supercarrier
+      Waste: France’s New PANG Nuclear Aircraft Carrier Is A Mistake appeared first
+      on 19FortyFive .'
+    one_sentence_summary: France's $12 billion investment in the PANG nuclear-powered
+      supercarrier, aimed at enhancing strategic independence from the U.S., faces criticism
+      for potentially diverting funds from essential military capabilities within its
+      limited $74.8 billion defense budget.
+    paragraph_summary: France is investing $12 billion in the PANG, a nuclear-powered
+      supercarrier that represents the largest warship ever constructed in Europe, reflecting
+      President Macron's aim for strategic independence from the U.S. However, with
+      a total defense budget of $74.8 billion, critics contend that this massive expenditure
+      will detract from funding essential military capabilities such as submarines,
+      drones, and ground forces, which are more critical for contemporary warfare.
+    published: '2026-03-19T17:36:44+00:00'
+  - title: 'Did You Know: 45,000-Ton U.S. Navy Iowa-Class ‘Super’ Battleship Was Never
+      Completed and Scrapped'
+    url: https://www.19fortyfive.com/2026/03/did-you-know-45000-ton-u-s-navy-iowa-class-super-battleship-was-never-completed-and-scrapped/
+    text: 'The USS Illinois was built to be one of the most powerful warships in American
+      history — nine 16-inch guns, 45,000 tons, armor that could shrug off a 500-pound
+      bomb. Pearl Harbor and the Battle of Midway made it obsolete before it ever sailed.
+      The unfinished hull sat for 13 years before being scrapped in 1958. The post Did
+      You Know: 45,000-Ton U.S. Navy Iowa-Class ‘Super’ Battleship Was Never Completed
+      and Scrapped appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Illinois, designed as a formidable warship with advanced
+      armament and armor, became obsolete due to World War II developments before it
+      was completed, ultimately remaining unfinished for 13 years before being scrapped
+      in 1958.
+    paragraph_summary: The USS Illinois was designed as a formidable warship, featuring
+      nine 16-inch guns, a weight of 45,000 tons, and armor capable of withstanding
+      a 500-pound bomb. However, the events of Pearl Harbor and the Battle of Midway
+      rendered the ship obsolete before it could ever be commissioned. After sitting
+      incomplete for 13 years, the hull was ultimately scrapped in 1958.
+    published: '2026-03-19T16:41:58+00:00'
+  - title: 'Did You Know: 45,000-Ton U.S. Navy Iowa-Class ‘Super’ Battleship Was Never
+      Completed and Scrapped'
+    url: https://www.19fortyfive.com/2026/03/did-you-know-45000-ton-u-s-navy-iowa-class-super-battleship-was-never-completed-and-scrapped/
+    text: 'The USS Illinois was built to be one of the most powerful warships in American
+      history — nine 16-inch guns, 45,000 tons, armor that could shrug off a 500-pound
+      bomb. Pearl Harbor and the Battle of Midway made it obsolete before it ever sailed.
+      The unfinished hull sat for 13 years before being scrapped in 1958. The post Did
+      You Know: 45,000-Ton U.S. Navy Iowa-Class ‘Super’ Battleship Was Never Completed
+      and Scrapped appeared first on 19FortyFive .'
+    one_sentence_summary: The USS Illinois, designed as a formidable warship with advanced
+      armament and armor, became obsolete due to World War II developments before it
+      was completed, ultimately remaining unfinished for 13 years before being scrapped
+      in 1958.
+    paragraph_summary: The USS Illinois was designed as a formidable warship, featuring
+      nine 16-inch guns, a weight of 45,000 tons, and armor capable of withstanding
+      a 500-pound bomb. However, the events of Pearl Harbor and the Battle of Midway
+      rendered the ship obsolete before it could ever be commissioned. After sitting
+      incomplete for 13 years, the hull was ultimately scrapped in 1958.
+    published: '2026-03-19T16:41:58+00:00'
+  - title: The U.S. Navy’s $8 Billion SSN(X) Stealth Submarine Is Now a Giant Headache
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navys-8-billion-ssnx-stealth-submarine-is-now-a-giant-headache/
+    text: The U.S. Navy's SSN(X) attack submarine was supposed to be the most lethal
+      undersea platform ever built — faster, quieter, and deadlier than anything China
+      or Russia can field. Now it won't arrive until the 2040s. The 14-year production
+      gap left behind may be the most dangerous hole in American naval power today.
+      The post The U.S. Navy’s $8 Billion SSN(X) Stealth Submarine Is Now a Giant Headache
+      appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy's SSN(X) attack submarine, intended to be the
+      most advanced undersea platform, has been delayed until the 2040s, creating a
+      significant gap in American naval power and raising concerns about national security.
+    paragraph_summary: The U.S. Navy's SSN(X) attack submarine, intended to be the most
+      advanced and lethal undersea platform, is now delayed until the 2040s, creating
+      a significant gap in American naval capabilities. This 14-year production delay
+      poses a serious risk to U.S. naval power, especially in the face of growing threats
+      from China and Russia. The situation has turned the ambitious $8 billion project
+      into a major concern for the Navy, highlighting vulnerabilities in the current
+      defense strategy.
+    published: '2026-03-19T15:35:19+00:00'
+  - title: The U.S. Navy’s $8 Billion SSN(X) Stealth Submarine Is Now a Giant Headache
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navys-8-billion-ssnx-stealth-submarine-is-now-a-giant-headache/
+    text: The U.S. Navy's SSN(X) attack submarine was supposed to be the most lethal
+      undersea platform ever built — faster, quieter, and deadlier than anything China
+      or Russia can field. Now it won't arrive until the 2040s. The 14-year production
+      gap left behind may be the most dangerous hole in American naval power today.
+      The post The U.S. Navy’s $8 Billion SSN(X) Stealth Submarine Is Now a Giant Headache
+      appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy's SSN(X) attack submarine, intended to be the
+      most advanced undersea platform, has been delayed until the 2040s, creating a
+      significant gap in American naval power and raising concerns about national security.
+    paragraph_summary: The U.S. Navy's SSN(X) attack submarine, intended to be the most
+      advanced and lethal undersea platform, is now delayed until the 2040s, creating
+      a significant gap in American naval capabilities. This 14-year production delay
+      poses a serious risk to U.S. naval power, especially in the face of growing threats
+      from China and Russia. The situation has turned the ambitious $8 billion project
+      into a major concern for the Navy, highlighting vulnerabilities in the current
+      defense strategy.
+    published: '2026-03-19T15:35:19+00:00'
+  - title: 'F-22 and F-35 Problems: China’s J-20 and New J-35 Stealth Fighters Could
+      Soon Have Double the Range'
+    url: https://www.19fortyfive.com/2026/03/f-22-and-f-35-problems-chinas-j-20-and-new-j-35-stealth-fighters-could-soon-have-double-the-range/
+    text: 'China''s Y-20 "Chubby Girl" cargo aircraft is being converted into a aerial
+      tanker capable of refueling J-20 stealth fighters, J-16 strike jets, and H-6N
+      bombers deep into the Pacific. With the PLAAF''s tanker fleet projected to reach
+      100 aircraft by 2035, China''s power-projection problem over Taiwan is rapidly
+      becoming America''s problem instead. The post F-22 and F-35 Problems: China’s
+      J-20 and New J-35 Stealth Fighters Could Soon Have Double the Range appeared first
+      on 19FortyFive .'
+    one_sentence_summary: China is converting its Y-20 cargo aircraft into aerial tankers
+      to enhance the range of its J-20 stealth fighters and other military aircraft,
+      significantly increasing its power projection capabilities in the Pacific and
+      posing a growing challenge to U.S. interests, particularly regarding Taiwan.
+    paragraph_summary: China's Y-20 cargo aircraft, nicknamed "Chubby Girl," is undergoing
+      modifications to serve as an aerial tanker, enabling it to refuel advanced military
+      aircraft like the J-20 stealth fighters, J-16 strike jets, and H-6N bombers during
+      operations in the Pacific. As the People's Liberation Army Air Force (PLAAF) aims
+      to expand its tanker fleet to 100 aircraft by 2035, this development significantly
+      enhances China's military capabilities and power projection, particularly concerning
+      Taiwan, thereby posing a growing challenge for the United States.
+    published: '2026-03-19T15:12:07+00:00'
+  - title: 'F-22 and F-35 Problems: China’s J-20 and New J-35 Stealth Fighters Could
+      Soon Have Double the Range'
+    url: https://www.19fortyfive.com/2026/03/f-22-and-f-35-problems-chinas-j-20-and-new-j-35-stealth-fighters-could-soon-have-double-the-range/
+    text: 'China''s Y-20 "Chubby Girl" cargo aircraft is being converted into a aerial
+      tanker capable of refueling J-20 stealth fighters, J-16 strike jets, and H-6N
+      bombers deep into the Pacific. With the PLAAF''s tanker fleet projected to reach
+      100 aircraft by 2035, China''s power-projection problem over Taiwan is rapidly
+      becoming America''s problem instead. The post F-22 and F-35 Problems: China’s
+      J-20 and New J-35 Stealth Fighters Could Soon Have Double the Range appeared first
+      on 19FortyFive .'
+    one_sentence_summary: China is converting its Y-20 cargo aircraft into aerial tankers
+      to enhance the range of its J-20 stealth fighters and other military aircraft,
+      significantly increasing its power projection capabilities in the Pacific and
+      posing a growing challenge to U.S. interests, particularly regarding Taiwan.
+    paragraph_summary: China's Y-20 cargo aircraft, nicknamed "Chubby Girl," is undergoing
+      modifications to serve as an aerial tanker, enabling it to refuel advanced military
+      aircraft like the J-20 stealth fighters, J-16 strike jets, and H-6N bombers during
+      operations in the Pacific. As the People's Liberation Army Air Force (PLAAF) aims
+      to expand its tanker fleet to 100 aircraft by 2035, this development significantly
+      enhances China's military capabilities and power projection, particularly concerning
+      Taiwan, thereby posing a growing challenge for the United States.
+    published: '2026-03-19T15:12:07+00:00'
+  - title: 'U.S. Navy Quote of the Day by Admiral Chester Nimitz: ‘Unless you want to
+      kill off your own forces, the only way to practice war is to game it’'
+    url: https://www.19fortyfive.com/2026/03/u-s-navy-quote-of-the-day-by-admiral-chester-nimitz-unless-you-want-to-kill-off-your-own-forces-the-only-way-to-practice-war-is-to-game-it/
+    text: 'Isaac Seitz, defense columnist and Strategic Intelligence graduate, profiles
+      Fleet Admiral Chester Nimitz''s command of the U.S. Pacific Fleet from the devastation
+      of Pearl Harbor to Japan''s formal surrender aboard USS Missouri. Seitz traces
+      how Nimitz''s mastery of carrier warfare, codebreaking intelligence from Station
+      HYPO, and logistical innovation across the Battle of Midway, Leyte Gulf, and the
+      Marianas campaign secured American dominance in the Pacific. The post U.S. Navy
+      Quote of the Day by Admiral Chester Nimitz: ‘Unless you want to kill off your
+      own forces, the only way to practice war is to game it’ appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Isaac Seitz's article examines Fleet Admiral Chester Nimitz's
+      pivotal leadership of the U.S. Pacific Fleet during World War II, highlighting
+      his strategic use of carrier warfare, intelligence from codebreakers, and logistical
+      advancements that led to American victory in key battles.
+    paragraph_summary: Isaac Seitz's article profiles Fleet Admiral Chester Nimitz's
+      leadership of the U.S. Pacific Fleet during key moments of World War II, from
+      the aftermath of Pearl Harbor to Japan's surrender on the USS Missouri. Seitz
+      highlights Nimitz's expertise in carrier warfare, the critical role of codebreaking
+      intelligence from Station HYPO, and his innovative logistical strategies, which
+      were pivotal in battles such as Midway, Leyte Gulf, and the Marianas campaign,
+      ultimately establishing American supremacy in the Pacific theater. The piece concludes
+      with a notable quote from Nimitz emphasizing the importance of strategic war gaming.
+    published: '2026-03-19T14:58:29+00:00'
+  - title: 'U.S. Navy Quote of the Day by Admiral Chester Nimitz: ‘Unless you want to
+      kill off your own forces, the only way to practice war is to game it’'
+    url: https://www.19fortyfive.com/2026/03/u-s-navy-quote-of-the-day-by-admiral-chester-nimitz-unless-you-want-to-kill-off-your-own-forces-the-only-way-to-practice-war-is-to-game-it/
+    text: 'Isaac Seitz, defense columnist and Strategic Intelligence graduate, profiles
+      Fleet Admiral Chester Nimitz''s command of the U.S. Pacific Fleet from the devastation
+      of Pearl Harbor to Japan''s formal surrender aboard USS Missouri. Seitz traces
+      how Nimitz''s mastery of carrier warfare, codebreaking intelligence from Station
+      HYPO, and logistical innovation across the Battle of Midway, Leyte Gulf, and the
+      Marianas campaign secured American dominance in the Pacific. The post U.S. Navy
+      Quote of the Day by Admiral Chester Nimitz: ‘Unless you want to kill off your
+      own forces, the only way to practice war is to game it’ appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Isaac Seitz's article examines Fleet Admiral Chester Nimitz's
+      pivotal leadership of the U.S. Pacific Fleet during World War II, highlighting
+      his strategic use of carrier warfare, intelligence from codebreakers, and logistical
+      advancements that led to American victory in key battles.
+    paragraph_summary: Isaac Seitz's article profiles Fleet Admiral Chester Nimitz's
+      leadership of the U.S. Pacific Fleet during key moments of World War II, from
+      the aftermath of Pearl Harbor to Japan's surrender on the USS Missouri. Seitz
+      highlights Nimitz's expertise in carrier warfare, the critical role of codebreaking
+      intelligence from Station HYPO, and his innovative logistical strategies, which
+      were pivotal in battles such as Midway, Leyte Gulf, and the Marianas campaign,
+      ultimately establishing American supremacy in the Pacific theater. The piece concludes
+      with a notable quote from Nimitz emphasizing the importance of strategic war gaming.
+    published: '2026-03-19T14:58:29+00:00'
+  - title: 'Hundreds Gone: The U.S. Military Is Running Out of Tomahawk Missiles Faster
+      Than Anyone Will Admit'
+    url: https://www.19fortyfive.com/2026/03/hundreds-gone-the-u-s-military-is-running-out-of-tomahawk-missiles-faster-than-anyone-will-admit/
+    text: 'Dr. Andrew Latham, Macalester College international relations professor and
+      Institute for Peace and Diplomacy senior fellow, argues America''s Tomahawk cruise
+      missile stockpile is being consumed faster than it can be replaced. With simultaneous
+      operations in the Middle East and potential Indo-Pacific confrontation with China,
+      the gap between missile expenditure rates and Raytheon''s constrained production
+      capacity is becoming a strategic constraint — not just a logistics problem. The
+      post Hundreds Gone: The U.S. Military Is Running Out of Tomahawk Missiles Faster
+      Than Anyone Will Admit appeared first on 19FortyFive .'
+    one_sentence_summary: Dr. Andrew Latham highlights that the U.S. military's rapid
+      depletion of Tomahawk cruise missiles, due to ongoing operations and potential
+      conflicts, is creating a strategic constraint that exceeds mere logistical challenges.
+    paragraph_summary: Dr. Andrew Latham, an international relations professor at Macalester
+      College and senior fellow at the Institute for Peace and Diplomacy, highlights
+      a critical issue regarding the U.S. military's Tomahawk cruise missile stockpile,
+      which is being depleted more rapidly than it can be replenished. He points out
+      that with ongoing military operations in the Middle East and the looming threat
+      of confrontation with China in the Indo-Pacific, the disparity between the rate
+      of missile usage and Raytheon's limited production capacity is evolving into a
+      significant strategic constraint, rather than merely a logistical challenge.
+    published: '2026-03-19T14:37:32+00:00'
+  - title: 'Hundreds Gone: The U.S. Military Is Running Out of Tomahawk Missiles Faster
+      Than Anyone Will Admit'
+    url: https://www.19fortyfive.com/2026/03/hundreds-gone-the-u-s-military-is-running-out-of-tomahawk-missiles-faster-than-anyone-will-admit/
+    text: 'Dr. Andrew Latham, Macalester College international relations professor and
+      Institute for Peace and Diplomacy senior fellow, argues America''s Tomahawk cruise
+      missile stockpile is being consumed faster than it can be replaced. With simultaneous
+      operations in the Middle East and potential Indo-Pacific confrontation with China,
+      the gap between missile expenditure rates and Raytheon''s constrained production
+      capacity is becoming a strategic constraint — not just a logistics problem. The
+      post Hundreds Gone: The U.S. Military Is Running Out of Tomahawk Missiles Faster
+      Than Anyone Will Admit appeared first on 19FortyFive .'
+    one_sentence_summary: Dr. Andrew Latham highlights that the U.S. military's rapid
+      depletion of Tomahawk cruise missiles, due to ongoing operations and potential
+      conflicts, is creating a strategic constraint that exceeds mere logistical challenges.
+    paragraph_summary: Dr. Andrew Latham, an international relations professor at Macalester
+      College and senior fellow at the Institute for Peace and Diplomacy, highlights
+      a critical issue regarding the U.S. military's Tomahawk cruise missile stockpile,
+      which is being depleted more rapidly than it can be replenished. He points out
+      that with ongoing military operations in the Middle East and the looming threat
+      of confrontation with China in the Indo-Pacific, the disparity between the rate
+      of missile usage and Raytheon's limited production capacity is evolving into a
+      significant strategic constraint, rather than merely a logistical challenge.
+    published: '2026-03-19T14:37:32+00:00'
+  - title: The B-21 Raider Is Not Just a Stealth Bomber — It Is America’s Most Advanced
+      Aerial Command Center
+    url: https://www.19fortyfive.com/2026/03/the-b-21-raider-is-not-just-a-stealth-bomber-it-is-americas-most-advanced-aerial-command-center/
+    text: Kris Osborn, President of Warrior Maven, reveals the B-21 Raider's role beyond
+      stealth bombing. The Northrop Grumman aircraft will function as an airborne intelligence
+      node within the Pentagon's Joint All Domain Command and Control network — controlling
+      Valkyrie drones, processing AI-enabled targeting data, and transmitting real-time
+      combat information across air, land, sea, and space domains. The post The B-21
+      Raider Is Not Just a Stealth Bomber — It Is America’s Most Advanced Aerial Command
+      Center appeared first on 19FortyFive .
+    one_sentence_summary: The B-21 Raider, developed by Northrop Grumman, will serve
+      not only as a stealth bomber but also as a sophisticated airborne command center,
+      integrating with the Pentagon's Joint All Domain Command and Control network to
+      manage drones and process real-time combat data across multiple domains.
+    paragraph_summary: Kris Osborn, President of Warrior Maven, discusses the multifaceted
+      role of the B-21 Raider, highlighting that it extends beyond being merely a stealth
+      bomber. The Northrop Grumman aircraft is set to serve as an airborne intelligence
+      hub within the Pentagon's Joint All Domain Command and Control network, enabling
+      it to manage Valkyrie drones, process AI-driven targeting data, and relay real-time
+      combat information across various domains, including air, land, sea, and space.
+    published: '2026-03-19T14:15:17+00:00'
+  - title: The B-21 Raider Is Not Just a Stealth Bomber — It Is America’s Most Advanced
+      Aerial Command Center
+    url: https://www.19fortyfive.com/2026/03/the-b-21-raider-is-not-just-a-stealth-bomber-it-is-americas-most-advanced-aerial-command-center/
+    text: Kris Osborn, President of Warrior Maven, reveals the B-21 Raider's role beyond
+      stealth bombing. The Northrop Grumman aircraft will function as an airborne intelligence
+      node within the Pentagon's Joint All Domain Command and Control network — controlling
+      Valkyrie drones, processing AI-enabled targeting data, and transmitting real-time
+      combat information across air, land, sea, and space domains. The post The B-21
+      Raider Is Not Just a Stealth Bomber — It Is America’s Most Advanced Aerial Command
+      Center appeared first on 19FortyFive .
+    one_sentence_summary: The B-21 Raider, developed by Northrop Grumman, will serve
+      not only as a stealth bomber but also as a sophisticated airborne command center,
+      integrating with the Pentagon's Joint All Domain Command and Control network to
+      manage drones and process real-time combat data across multiple domains.
+    paragraph_summary: Kris Osborn, President of Warrior Maven, discusses the multifaceted
+      role of the B-21 Raider, highlighting that it extends beyond being merely a stealth
+      bomber. The Northrop Grumman aircraft is set to serve as an airborne intelligence
+      hub within the Pentagon's Joint All Domain Command and Control network, enabling
+      it to manage Valkyrie drones, process AI-driven targeting data, and relay real-time
+      combat information across various domains, including air, land, sea, and space.
+    published: '2026-03-19T14:15:17+00:00'
+  - title: The F-47 and F/A-XX Is Not Coming Until the Mid-2030s — and China Already
+      Has Sixth-Generation Fighters Flying
+    url: https://www.19fortyfive.com/2026/03/the-f-47-and-f-a-xx-is-not-coming-until-the-mid-2030s-and-china-already-has-sixth-generation-fighters-flying/
+    text: Brent M. Eastwood, PhD, former U.S. Army Infantry officer and author of over
+      3,000 defense articles, reports that House Armed Services Committee subcommittee
+      chair Representative Rob Wittman warns the F-47 Next Generation Air Dominance
+      fighter will not be available until the mid-2030s — leaving the F-22 Raptor, F-35,
+      and F/A-18 Super Hornet as bridge aircraft while China flies its own sixth-generation
+      fighters today. The post The F-47 and F/A-XX Is Not Coming Until the Mid-2030s
+      — and China Already Has Sixth-Generation Fighters Flying appeared first on 19FortyFive
+      .
+    one_sentence_summary: Brent M. Eastwood reports that Representative Rob Wittman
+      has indicated the F-47 Next Generation Air Dominance fighter won't be ready until
+      the mid-2030s, leaving older models like the F-22, F-35, and F/A-18 to serve as
+      interim solutions while China already operates sixth-generation fighters.
+    paragraph_summary: Brent M. Eastwood, PhD, highlights a warning from Representative
+      Rob Wittman, chair of the House Armed Services Committee subcommittee, regarding
+      the delayed availability of the F-47 Next Generation Air Dominance fighter, which
+      is not expected until the mid-2030s. This timeline leaves the U.S. reliant on
+      existing aircraft like the F-22 Raptor, F-35, and F/A-18 Super Hornet as interim
+      solutions, while China has already deployed its own sixth-generation fighters.
+    published: '2026-03-19T13:58:53+00:00'
+  - title: The F-47 and F/A-XX Is Not Coming Until the Mid-2030s — and China Already
+      Has Sixth-Generation Fighters Flying
+    url: https://www.19fortyfive.com/2026/03/the-f-47-and-f-a-xx-is-not-coming-until-the-mid-2030s-and-china-already-has-sixth-generation-fighters-flying/
+    text: Brent M. Eastwood, PhD, former U.S. Army Infantry officer and author of over
+      3,000 defense articles, reports that House Armed Services Committee subcommittee
+      chair Representative Rob Wittman warns the F-47 Next Generation Air Dominance
+      fighter will not be available until the mid-2030s — leaving the F-22 Raptor, F-35,
+      and F/A-18 Super Hornet as bridge aircraft while China flies its own sixth-generation
+      fighters today. The post The F-47 and F/A-XX Is Not Coming Until the Mid-2030s
+      — and China Already Has Sixth-Generation Fighters Flying appeared first on 19FortyFive
+      .
+    one_sentence_summary: Brent M. Eastwood reports that Representative Rob Wittman
+      has indicated the F-47 Next Generation Air Dominance fighter won't be ready until
+      the mid-2030s, leaving older models like the F-22, F-35, and F/A-18 to serve as
+      interim solutions while China already operates sixth-generation fighters.
+    paragraph_summary: Brent M. Eastwood, PhD, highlights a warning from Representative
+      Rob Wittman, chair of the House Armed Services Committee subcommittee, regarding
+      the delayed availability of the F-47 Next Generation Air Dominance fighter, which
+      is not expected until the mid-2030s. This timeline leaves the U.S. reliant on
+      existing aircraft like the F-22 Raptor, F-35, and F/A-18 Super Hornet as interim
+      solutions, while China has already deployed its own sixth-generation fighters.
+    published: '2026-03-19T13:58:53+00:00'
+  - title: 'Raptor Was ‘Destroyed’: U.S. Air Force Stealth  F-22 Raptor ‘Shot Down’
+      by a German Eurofighter Typhoon'
+    url: https://www.19fortyfive.com/2026/03/raptor-was-destroyed-u-s-air-force-stealth-f-22-raptor-shot-down-by-a-german-eurofighter-typhoon/
+    text: 'Christian D. Orr, former Air Force Security Forces officer and Pentagon contractor,
+      revisits the 2012 RED FLAG Alaska exercise in which German Luftwaffe Eurofighter
+      Typhoons scored simulated kills against F-22 Raptors — and explains why the result
+      was far less damning than headlines suggested. The real verdict on Gen 4 vs Gen
+      5 combat came during Operation Epic Fury, when an Israeli F-35I Adir destroyed
+      an Iranian Yak-130 over Tehran. The post Raptor Was ‘Destroyed’: U.S. Air Force
+      Stealth  F-22 Raptor ‘Shot Down’ by a German Eurofighter Typhoon appeared first
+      on 19FortyFive .'
+    one_sentence_summary: Christian D. Orr analyzes the 2012 RED FLAG Alaska exercise,
+      clarifying that the German Eurofighter Typhoons' simulated kills against F-22
+      Raptors were not as significant as reported, and highlights that the true assessment
+      of Gen 4 versus Gen 5 aircraft occurred during Operation Epic Fury, where an Israeli
+      F-35I Adir successfully engaged an Iranian Yak-130.
+    paragraph_summary: Christian D. Orr, a former Air Force Security Forces officer,
+      reflects on the 2012 RED FLAG Alaska exercise where German Luftwaffe Eurofighter
+      Typhoons achieved simulated kills against F-22 Raptors, arguing that the implications
+      of this event were overstated by media headlines. He emphasizes that a more significant
+      assessment of the capabilities of Generation 4 versus Generation 5 aircraft occurred
+      during Operation Epic Fury, where an Israeli F-35I Adir successfully destroyed
+      an Iranian Yak-130 over Tehran, highlighting the effectiveness of advanced stealth
+      technology in combat scenarios.
+    published: '2026-03-19T13:22:28+00:00'
+  - title: 'Raptor Was ‘Destroyed’: U.S. Air Force Stealth  F-22 Raptor ‘Shot Down’
+      by a German Eurofighter Typhoon'
+    url: https://www.19fortyfive.com/2026/03/raptor-was-destroyed-u-s-air-force-stealth-f-22-raptor-shot-down-by-a-german-eurofighter-typhoon/
+    text: 'Christian D. Orr, former Air Force Security Forces officer and Pentagon contractor,
+      revisits the 2012 RED FLAG Alaska exercise in which German Luftwaffe Eurofighter
+      Typhoons scored simulated kills against F-22 Raptors — and explains why the result
+      was far less damning than headlines suggested. The real verdict on Gen 4 vs Gen
+      5 combat came during Operation Epic Fury, when an Israeli F-35I Adir destroyed
+      an Iranian Yak-130 over Tehran. The post Raptor Was ‘Destroyed’: U.S. Air Force
+      Stealth  F-22 Raptor ‘Shot Down’ by a German Eurofighter Typhoon appeared first
+      on 19FortyFive .'
+    one_sentence_summary: Christian D. Orr analyzes the 2012 RED FLAG Alaska exercise,
+      clarifying that the German Eurofighter Typhoons' simulated kills against F-22
+      Raptors were not as significant as reported, and highlights that the true assessment
+      of Gen 4 versus Gen 5 aircraft occurred during Operation Epic Fury, where an Israeli
+      F-35I Adir successfully engaged an Iranian Yak-130.
+    paragraph_summary: Christian D. Orr, a former Air Force Security Forces officer,
+      reflects on the 2012 RED FLAG Alaska exercise where German Luftwaffe Eurofighter
+      Typhoons achieved simulated kills against F-22 Raptors, arguing that the implications
+      of this event were overstated by media headlines. He emphasizes that a more significant
+      assessment of the capabilities of Generation 4 versus Generation 5 aircraft occurred
+      during Operation Epic Fury, where an Israeli F-35I Adir successfully destroyed
+      an Iranian Yak-130 over Tehran, highlighting the effectiveness of advanced stealth
+      technology in combat scenarios.
+    published: '2026-03-19T13:22:28+00:00'
+  - title: '‘Predominantly Unusable’: The F-35 Stealth Fighter Has a Software Update
+      With ‘Stability Problems’'
+    url: https://www.19fortyfive.com/2026/03/predominantly-unusable-the-f-35-stealth-fighter-has-a-software-update-with-stability-problems/
+    text: 'Award-winning journalist Stephen Silver reports on a damning Pentagon assessment
+      revealing the F-35''s TR-3 software upgrade was "predominantly unusable" throughout
+      2024, delivering zero new combat capability while F-35s flew Operation Epic Fury
+      missions over Iran on older TR-2 software. Block 4 modernization costs have ballooned
+      $6 billion over budget, with completion now at least five years behind original
+      estimates. The post ‘Predominantly Unusable’: The F-35 Stealth Fighter Has a Software
+      Update With ‘Stability Problems’ appeared first on 19FortyFive .'
+    one_sentence_summary: A Pentagon assessment reveals that the F-35's TR-3 software
+      upgrade was largely unusable in 2024, failing to provide new combat capabilities
+      while the aircraft operated on outdated TR-2 software, with Block 4 modernization
+      costs exceeding budget by $6 billion and completion delayed by at least five years.
+    paragraph_summary: Award-winning journalist Stephen Silver highlights a critical
+      Pentagon assessment indicating that the F-35's TR-3 software upgrade was largely
+      ineffective throughout 2024, failing to provide any new combat capabilities while
+      F-35s conducted Operation Epic Fury missions over Iran using the older TR-2 software.
+      Additionally, the Block 4 modernization project has exceeded its budget by $6
+      billion and is now projected to be at least five years behind schedule.
+    published: '2026-03-19T12:36:18+00:00'
+  - title: '‘Predominantly Unusable’: The F-35 Stealth Fighter Has a Software Update
+      With ‘Stability Problems’'
+    url: https://www.19fortyfive.com/2026/03/predominantly-unusable-the-f-35-stealth-fighter-has-a-software-update-with-stability-problems/
+    text: 'Award-winning journalist Stephen Silver reports on a damning Pentagon assessment
+      revealing the F-35''s TR-3 software upgrade was "predominantly unusable" throughout
+      2024, delivering zero new combat capability while F-35s flew Operation Epic Fury
+      missions over Iran on older TR-2 software. Block 4 modernization costs have ballooned
+      $6 billion over budget, with completion now at least five years behind original
+      estimates. The post ‘Predominantly Unusable’: The F-35 Stealth Fighter Has a Software
+      Update With ‘Stability Problems’ appeared first on 19FortyFive .'
+    one_sentence_summary: A Pentagon assessment reveals that the F-35's TR-3 software
+      upgrade was largely unusable in 2024, failing to provide new combat capabilities
+      while the aircraft operated on outdated TR-2 software, with Block 4 modernization
+      costs exceeding budget by $6 billion and completion delayed by at least five years.
+    paragraph_summary: Award-winning journalist Stephen Silver highlights a critical
+      Pentagon assessment indicating that the F-35's TR-3 software upgrade was largely
+      ineffective throughout 2024, failing to provide any new combat capabilities while
+      F-35s conducted Operation Epic Fury missions over Iran using the older TR-2 software.
+      Additionally, the Block 4 modernization project has exceeded its budget by $6
+      billion and is now projected to be at least five years behind schedule.
+    published: '2026-03-19T12:36:18+00:00'
+  - title: '‘Raptor 2.0’: The F-22 Raptor Stealth Fighter Is Getting A Massive U.S.
+      Air Force Upgrade'
+    url: https://www.19fortyfive.com/2026/03/raptor-2-0-the-f-22-raptor-stealth-fighter-is-getting-a-massive-u-s-air-force-upgrade/
+    text: 'Georgia Gilholy, UK-based journalist published in Newsweek and The Spectator,
+      reports on Lockheed Martin''s "Raptor 2.0" configuration unveiled at the Air and
+      Space Forces Association Warfare Symposium. The F-22 Raptor upgrade features faceted
+      low-drag external fuel tanks and infrared search-and-track pods — addressing the
+      stealth fighter''s chronic Indo-Pacific range gap ahead of anticipated competition
+      with China''s J-20 Mighty Dragon. The post ‘Raptor 2.0’: The F-22 Raptor Stealth
+      Fighter Is Getting A Massive U.S. Air Force Upgrade appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Georgia Gilholy reports that Lockheed Martin unveiled the
+      "Raptor 2.0" upgrade for the F-22 Raptor, featuring enhanced fuel tanks and infrared
+      pods to improve its range in the Indo-Pacific, amidst rising competition from
+      China's J-20.
+    paragraph_summary: Georgia Gilholy reports on Lockheed Martin's unveiling of the
+      "Raptor 2.0" configuration for the F-22 Raptor at the Air and Space Forces Association
+      Warfare Symposium. This upgrade includes faceted low-drag external fuel tanks
+      and infrared search-and-track pods, aimed at enhancing the stealth fighter's range
+      in the Indo-Pacific region, particularly in light of the emerging competition
+      with China's J-20 Mighty Dragon. The article highlights the significant improvements
+      being made to address the F-22's limitations and bolster its capabilities in future
+      aerial combat scenarios.
+    published: '2026-03-19T12:14:10+00:00'
+  - title: '‘Raptor 2.0’: The F-22 Raptor Stealth Fighter Is Getting A Massive U.S.
+      Air Force Upgrade'
+    url: https://www.19fortyfive.com/2026/03/raptor-2-0-the-f-22-raptor-stealth-fighter-is-getting-a-massive-u-s-air-force-upgrade/
+    text: 'Georgia Gilholy, UK-based journalist published in Newsweek and The Spectator,
+      reports on Lockheed Martin''s "Raptor 2.0" configuration unveiled at the Air and
+      Space Forces Association Warfare Symposium. The F-22 Raptor upgrade features faceted
+      low-drag external fuel tanks and infrared search-and-track pods — addressing the
+      stealth fighter''s chronic Indo-Pacific range gap ahead of anticipated competition
+      with China''s J-20 Mighty Dragon. The post ‘Raptor 2.0’: The F-22 Raptor Stealth
+      Fighter Is Getting A Massive U.S. Air Force Upgrade appeared first on 19FortyFive
+      .'
+    one_sentence_summary: Georgia Gilholy reports that Lockheed Martin unveiled the
+      "Raptor 2.0" upgrade for the F-22 Raptor, featuring enhanced fuel tanks and infrared
+      pods to improve its range in the Indo-Pacific, amidst rising competition from
+      China's J-20.
+    paragraph_summary: Georgia Gilholy reports on Lockheed Martin's unveiling of the
+      "Raptor 2.0" configuration for the F-22 Raptor at the Air and Space Forces Association
+      Warfare Symposium. This upgrade includes faceted low-drag external fuel tanks
+      and infrared search-and-track pods, aimed at enhancing the stealth fighter's range
+      in the Indo-Pacific region, particularly in light of the emerging competition
+      with China's J-20 Mighty Dragon. The article highlights the significant improvements
+      being made to address the F-22's limitations and bolster its capabilities in future
+      aerial combat scenarios.
+    published: '2026-03-19T12:14:10+00:00'
+  - title: 'YF-23 vs. F-22 Raptor: Why the “Black Widow II” Lost the Stealth U.S. Air
+      Force Fighter Crown'
+    url: https://www.19fortyfive.com/2026/03/yf-23-vs-f-22-raptor-why-the-black-widow-ii-lost-the-stealth-u-s-air-force-fighter-crown/
+    text: 'The YF-23 represents a fundamental design philosophy that prioritized all-aspect
+      stealth and high-speed persistence over dogfighting agility. In the 2026 strategic
+      landscape, where long-range A2/AD engagement is the primary threat, the YF-23''s
+      superior range and reduced radar cross-section are being re-evaluated by historians.
+      The post YF-23 vs. F-22 Raptor: Why the “Black Widow II” Lost the Stealth U.S.
+      Air Force Fighter Crown appeared first on 19FortyFive .'
+    one_sentence_summary: The YF-23, designed for all-aspect stealth and high-speed
+      persistence rather than dogfighting, is being reassessed by historians in light
+      of its superior range and reduced radar cross-section in the context of the 2026
+      strategic landscape dominated by long-range A2/AD threats.
+    paragraph_summary: The YF-23, designed with a focus on all-aspect stealth and high-speed
+      capabilities rather than traditional dogfighting agility, is being reassessed
+      in the context of the 2026 strategic landscape, where long-range anti-access/area
+      denial (A2/AD) threats are prevalent. Historians are reconsidering the aircraft's
+      superior range and reduced radar cross-section, particularly in light of its competition
+      with the F-22 Raptor, which ultimately secured the title of the U.S. Air Force's
+      premier stealth fighter. The article discusses the implications of these design
+      philosophies in modern aerial combat scenarios.
+    published: '2026-03-19T00:59:31+00:00'
+  - title: 'YF-23 vs. F-22 Raptor: Why the “Black Widow II” Lost the Stealth U.S. Air
+      Force Fighter Crown'
+    url: https://www.19fortyfive.com/2026/03/yf-23-vs-f-22-raptor-why-the-black-widow-ii-lost-the-stealth-u-s-air-force-fighter-crown/
+    text: 'The YF-23 represents a fundamental design philosophy that prioritized all-aspect
+      stealth and high-speed persistence over dogfighting agility. In the 2026 strategic
+      landscape, where long-range A2/AD engagement is the primary threat, the YF-23''s
+      superior range and reduced radar cross-section are being re-evaluated by historians.
+      The post YF-23 vs. F-22 Raptor: Why the “Black Widow II” Lost the Stealth U.S.
+      Air Force Fighter Crown appeared first on 19FortyFive .'
+    one_sentence_summary: The YF-23, designed for all-aspect stealth and high-speed
+      persistence rather than dogfighting, is being reassessed by historians in light
+      of its superior range and reduced radar cross-section in the context of the 2026
+      strategic landscape dominated by long-range A2/AD threats.
+    paragraph_summary: The YF-23, designed with a focus on all-aspect stealth and high-speed
+      capabilities rather than traditional dogfighting agility, is being reassessed
+      in the context of the 2026 strategic landscape, where long-range anti-access/area
+      denial (A2/AD) threats are prevalent. Historians are reconsidering the aircraft's
+      superior range and reduced radar cross-section, particularly in light of its competition
+      with the F-22 Raptor, which ultimately secured the title of the U.S. Air Force's
+      premier stealth fighter. The article discusses the implications of these design
+      philosophies in modern aerial combat scenarios.
+    published: '2026-03-19T00:59:31+00:00'
+  - title: 'The U.S. Military’s Stealth Fighter Gap: F-47 NGAD and F/A-XX are Delayed
+      to the Mid-2030s'
+    url: https://www.19fortyfive.com/2026/03/the-u-s-militarys-stealth-fighter-gap-f-47-ngad-and-f-a-xx-are-delayed-to-the-mid-2030s/
+    text: 'The delay in 6th-generation fielding is a pragmatic acknowledgement of the
+      "industrial saturation" at play in 2026. With major programs like the B-21 Raider
+      and T-7A Red Hawk competing for the same engineering talent and assembly capacity,
+      the Pentagon has prioritized data ownership and modular architecture over immediate
+      speed-to-market. By ensuring the F-47 is built on a government-owned framework,
+      the Air Force avoids the long-term sustainment pitfalls that plagued the early
+      years of the F-35. The post The U.S. Military’s Stealth Fighter Gap: F-47 NGAD
+      and F/A-XX are Delayed to the Mid-2030s appeared first on 19FortyFive .'
+    one_sentence_summary: The delay in the fielding of the 6th-generation F-47 stealth
+      fighter is a strategic decision by the Pentagon to prioritize data ownership and
+      modular design over rapid deployment, in light of competing programs and to avoid
+      past sustainment issues.
+    paragraph_summary: The delay in the fielding of the 6th-generation F-47 fighter
+      is a strategic decision by the Pentagon, recognizing the "industrial saturation"
+      in 2026 due to competing major programs like the B-21 Raider and T-7A Red Hawk
+      for limited engineering resources and assembly capacity. Prioritizing data ownership
+      and modular architecture over rapid deployment, the Air Force aims to build the
+      F-47 on a government-owned framework to avoid the sustainment issues experienced
+      with the F-35 in its early years. Consequently, the introduction of the F-47 and
+      the F/A-XX is now pushed to the mid-2030s.
+    published: '2026-03-19T00:43:27+00:00'
+  - title: 'The U.S. Military’s Stealth Fighter Gap: F-47 NGAD and F/A-XX are Delayed
+      to the Mid-2030s'
+    url: https://www.19fortyfive.com/2026/03/the-u-s-militarys-stealth-fighter-gap-f-47-ngad-and-f-a-xx-are-delayed-to-the-mid-2030s/
+    text: 'The delay in 6th-generation fielding is a pragmatic acknowledgement of the
+      "industrial saturation" at play in 2026. With major programs like the B-21 Raider
+      and T-7A Red Hawk competing for the same engineering talent and assembly capacity,
+      the Pentagon has prioritized data ownership and modular architecture over immediate
+      speed-to-market. By ensuring the F-47 is built on a government-owned framework,
+      the Air Force avoids the long-term sustainment pitfalls that plagued the early
+      years of the F-35. The post The U.S. Military’s Stealth Fighter Gap: F-47 NGAD
+      and F/A-XX are Delayed to the Mid-2030s appeared first on 19FortyFive .'
+    one_sentence_summary: The delay in the fielding of the 6th-generation F-47 stealth
+      fighter is a strategic decision by the Pentagon to prioritize data ownership and
+      modular design over rapid deployment, in light of competing programs and to avoid
+      past sustainment issues.
+    paragraph_summary: The delay in the fielding of the 6th-generation F-47 fighter
+      is a strategic decision by the Pentagon, recognizing the "industrial saturation"
+      in 2026 due to competing major programs like the B-21 Raider and T-7A Red Hawk
+      for limited engineering resources and assembly capacity. Prioritizing data ownership
+      and modular architecture over rapid deployment, the Air Force aims to build the
+      F-47 on a government-owned framework to avoid the sustainment issues experienced
+      with the F-35 in its early years. Consequently, the introduction of the F-47 and
+      the F/A-XX is now pushed to the mid-2030s.
+    published: '2026-03-19T00:43:27+00:00'
+  - title: 'Shipbuilding Doom Loop: Why 82% of New U.S. Navy Warships are Behind Schedule'
+    url: https://www.19fortyfive.com/2026/03/shipbuilding-doom-loop-why-82-of-new-u-s-navy-warships-are-behind-schedule/
+    text: 'The U.S. Navy is currently trapped in what strategic analysts call a "Doom
+      Loop"—a self-reinforcing cycle where industrial decay, design instability, and
+      workforce shortages result in a shrinking fleet despite record-breaking budgets.
+      As of March 2026, the crisis has reached a tipping point. The post Shipbuilding
+      Doom Loop: Why 82% of New U.S. Navy Warships are Behind Schedule appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The U.S. Navy is facing a critical "Doom Loop" crisis, where
+      industrial decline, unstable designs, and workforce shortages are causing a reduction
+      in fleet size despite increased funding, with 82% of new warships delayed as of
+      March 2026.
+    paragraph_summary: The U.S. Navy is facing a critical "Doom Loop," characterized
+      by a combination of industrial decay, design instability, and workforce shortages,
+      which is leading to a diminishing fleet even as budgets reach unprecedented levels.
+      By March 2026, this situation has escalated to a tipping point, with 82% of new
+      warships behind schedule, highlighting the urgent need for reform and revitalization
+      within the Navy's shipbuilding and operational strategies.
+    published: '2026-03-19T00:28:48+00:00'
+  - title: 'Shipbuilding Doom Loop: Why 82% of New U.S. Navy Warships are Behind Schedule'
+    url: https://www.19fortyfive.com/2026/03/shipbuilding-doom-loop-why-82-of-new-u-s-navy-warships-are-behind-schedule/
+    text: 'The U.S. Navy is currently trapped in what strategic analysts call a "Doom
+      Loop"—a self-reinforcing cycle where industrial decay, design instability, and
+      workforce shortages result in a shrinking fleet despite record-breaking budgets.
+      As of March 2026, the crisis has reached a tipping point. The post Shipbuilding
+      Doom Loop: Why 82% of New U.S. Navy Warships are Behind Schedule appeared first
+      on 19FortyFive .'
+    one_sentence_summary: The U.S. Navy is facing a critical "Doom Loop" crisis, where
+      industrial decline, unstable designs, and workforce shortages are causing a reduction
+      in fleet size despite increased funding, with 82% of new warships delayed as of
+      March 2026.
+    paragraph_summary: The U.S. Navy is facing a critical "Doom Loop," characterized
+      by a combination of industrial decay, design instability, and workforce shortages,
+      which is leading to a diminishing fleet even as budgets reach unprecedented levels.
+      By March 2026, this situation has escalated to a tipping point, with 82% of new
+      warships behind schedule, highlighting the urgent need for reform and revitalization
+      within the Navy's shipbuilding and operational strategies.
+    published: '2026-03-19T00:28:48+00:00'
+  - title: The Royal Navy Sent Its Only Working Astute-Class Nuclear Submarine Into
+      China’s Backyard
+    url: https://www.19fortyfive.com/2026/03/the-royal-navy-sent-its-only-working-astute-class-nuclear-submarine-into-chinas-backyard/
+    text: The deployment of HMS Anson illustrates the "Availability Trap" facing mid-sized
+      blue-water navies in 2026. While the AUKUS framework is essential for future stability
+      in the Indo-Pacific, the math of a five-ship Astute-class fleet is unforgiving.
+      The post The Royal Navy Sent Its Only Working Astute-Class Nuclear Submarine Into
+      China’s Backyard appeared first on 19FortyFive .
+    one_sentence_summary: The deployment of HMS Anson highlights the challenges mid-sized
+      blue-water navies face in 2026, emphasizing the critical role of the AUKUS framework
+      for Indo-Pacific stability amid the limitations of a five-ship Astute-class fleet.
+    paragraph_summary: The deployment of HMS Anson highlights the challenges mid-sized
+      blue-water navies, like the Royal Navy, face in 2026, particularly the "Availability
+      Trap" stemming from a limited fleet size. Despite the importance of the AUKUS
+      framework for ensuring stability in the Indo-Pacific region, the operational constraints
+      of a five-ship Astute-class fleet make it difficult to maintain a robust naval
+      presence. This situation is underscored by the Royal Navy's decision to send its
+      only operational Astute-class nuclear submarine into the strategically sensitive
+      waters near China.
+    published: '2026-03-19T00:13:53+00:00'
+  - title: The Royal Navy Sent Its Only Working Astute-Class Nuclear Submarine Into
+      China’s Backyard
+    url: https://www.19fortyfive.com/2026/03/the-royal-navy-sent-its-only-working-astute-class-nuclear-submarine-into-chinas-backyard/
+    text: The deployment of HMS Anson illustrates the "Availability Trap" facing mid-sized
+      blue-water navies in 2026. While the AUKUS framework is essential for future stability
+      in the Indo-Pacific, the math of a five-ship Astute-class fleet is unforgiving.
+      The post The Royal Navy Sent Its Only Working Astute-Class Nuclear Submarine Into
+      China’s Backyard appeared first on 19FortyFive .
+    one_sentence_summary: The deployment of HMS Anson highlights the challenges mid-sized
+      blue-water navies face in 2026, emphasizing the critical role of the AUKUS framework
+      for Indo-Pacific stability amid the limitations of a five-ship Astute-class fleet.
+    paragraph_summary: The deployment of HMS Anson highlights the challenges mid-sized
+      blue-water navies, like the Royal Navy, face in 2026, particularly the "Availability
+      Trap" stemming from a limited fleet size. Despite the importance of the AUKUS
+      framework for ensuring stability in the Indo-Pacific region, the operational constraints
+      of a five-ship Astute-class fleet make it difficult to maintain a robust naval
+      presence. This situation is underscored by the Royal Navy's decision to send its
+      only operational Astute-class nuclear submarine into the strategically sensitive
+      waters near China.
+    published: '2026-03-19T00:13:53+00:00'
+  - title: America’s Best Tank Has Dominated Every War It Entered — the M1E3 Exists
+      Because the Next War Will Be Nothing Like Any of Them
+    url: https://www.19fortyfive.com/2026/03/americas-best-tank-has-dominated-every-war-it-entered-the-m1e3-exists-because-the-next-war-will-be-nothing-like-any-of-them/
+    text: The M1 Abrams is currently undergoing its most radical transformation since
+      the 1970s. As the U.S. Army pivots away from the cancelled SEPv4 program, the
+      focus has shifted entirely to the M1E3—a platform designed to solve the "weight-gain
+      crisis" that saw the tank balloon to nearly 80 tons in 2025. This evolution marks
+      the end of the Cold War "bolt-on" era and the beginning of a digital, hybrid-electric
+      future. The post America’s Best Tank Has Dominated Every War It Entered — the
+      M1E3 Exists Because the Next War Will Be Nothing Like Any of Them appeared first
+      on 19FortyFive .
+    one_sentence_summary: The M1 Abrams tank is undergoing a significant transformation
+      with the development of the M1E3, aimed at addressing its excessive weight and
+      transitioning to a digital, hybrid-electric future, marking a departure from past
+      upgrades.
+    paragraph_summary: The M1 Abrams tank is undergoing a significant transformation,
+      transitioning from the cancelled SEPv4 program to the new M1E3 model, aimed at
+      addressing the tank's excessive weight, which reached nearly 80 tons in 2025.
+      This shift signifies the end of the Cold War-era approach of adding enhancements
+      and marks a move towards a more advanced, digital, and hybrid-electric future
+      for armored warfare. The development of the M1E3 reflects the U.S. Army's recognition
+      that future conflicts will differ greatly from past wars, necessitating a reimagined
+      tank design.
+    published: '2026-03-18T18:56:21+00:00'
+  - title: America’s Best Tank Has Dominated Every War It Entered — the M1E3 Exists
+      Because the Next War Will Be Nothing Like Any of Them
+    url: https://www.19fortyfive.com/2026/03/americas-best-tank-has-dominated-every-war-it-entered-the-m1e3-exists-because-the-next-war-will-be-nothing-like-any-of-them/
+    text: The M1 Abrams is currently undergoing its most radical transformation since
+      the 1970s. As the U.S. Army pivots away from the cancelled SEPv4 program, the
+      focus has shifted entirely to the M1E3—a platform designed to solve the "weight-gain
+      crisis" that saw the tank balloon to nearly 80 tons in 2025. This evolution marks
+      the end of the Cold War "bolt-on" era and the beginning of a digital, hybrid-electric
+      future. The post America’s Best Tank Has Dominated Every War It Entered — the
+      M1E3 Exists Because the Next War Will Be Nothing Like Any of Them appeared first
+      on 19FortyFive .
+    one_sentence_summary: The M1 Abrams tank is undergoing a significant transformation
+      with the development of the M1E3, aimed at addressing its excessive weight and
+      transitioning to a digital, hybrid-electric future, marking a departure from past
+      upgrades.
+    paragraph_summary: The M1 Abrams tank is undergoing a significant transformation,
+      transitioning from the cancelled SEPv4 program to the new M1E3 model, aimed at
+      addressing the tank's excessive weight, which reached nearly 80 tons in 2025.
+      This shift signifies the end of the Cold War-era approach of adding enhancements
+      and marks a move towards a more advanced, digital, and hybrid-electric future
+      for armored warfare. The development of the M1E3 reflects the U.S. Army's recognition
+      that future conflicts will differ greatly from past wars, necessitating a reimagined
+      tank design.
+    published: '2026-03-18T18:56:21+00:00'
+  - title: 'Ferrari F-35: The ‘New’ Super Stealth Fighter the U.S. Military Needs'
+    url: https://www.19fortyfive.com/2026/03/ferrari-f-35-the-new-super-stealth-fighter-the-u-s-military-needs/
+    text: 'In the skies over Iran today, the F-35 is doing far more than dropping bombs.
+      It is functioning as a penetrating sensor node, a role that legacy jets like the
+      F-15 or F-16 simply cannot fulfill. The time for a ''Ferrari'' F-35 with even
+      better capabilities is now, explains author Jack Buckby. The post Ferrari F-35:
+      The ‘New’ Super Stealth Fighter the U.S. Military Needs appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The article argues that the F-35, serving as an advanced sensor
+      node in military operations over Iran, demonstrates the need for an even more
+      capable version of the aircraft, akin to a "Ferrari," to enhance U.S. military
+      capabilities.
+    paragraph_summary: In an article by Jack Buckby, the F-35 is highlighted as a crucial
+      asset in modern warfare, serving not just as a bomber but as a sophisticated sensor
+      node that surpasses the capabilities of older jets like the F-15 and F-16. Buckby
+      argues that the U.S. military requires an advanced version of the F-35, akin to
+      a "Ferrari," to enhance its operational effectiveness and maintain a technological
+      edge in combat scenarios, particularly in complex environments like those over
+      Iran.
+    published: '2026-03-18T18:42:09+00:00'
+  - title: 'Ferrari F-35: The ‘New’ Super Stealth Fighter the U.S. Military Needs'
+    url: https://www.19fortyfive.com/2026/03/ferrari-f-35-the-new-super-stealth-fighter-the-u-s-military-needs/
+    text: 'In the skies over Iran today, the F-35 is doing far more than dropping bombs.
+      It is functioning as a penetrating sensor node, a role that legacy jets like the
+      F-15 or F-16 simply cannot fulfill. The time for a ''Ferrari'' F-35 with even
+      better capabilities is now, explains author Jack Buckby. The post Ferrari F-35:
+      The ‘New’ Super Stealth Fighter the U.S. Military Needs appeared first on 19FortyFive
+      .'
+    one_sentence_summary: The article argues that the F-35, serving as an advanced sensor
+      node in military operations over Iran, demonstrates the need for an even more
+      capable version of the aircraft, akin to a "Ferrari," to enhance U.S. military
+      capabilities.
+    paragraph_summary: In an article by Jack Buckby, the F-35 is highlighted as a crucial
+      asset in modern warfare, serving not just as a bomber but as a sophisticated sensor
+      node that surpasses the capabilities of older jets like the F-15 and F-16. Buckby
+      argues that the U.S. military requires an advanced version of the F-35, akin to
+      a "Ferrari," to enhance its operational effectiveness and maintain a technological
+      edge in combat scenarios, particularly in complex environments like those over
+      Iran.
+    published: '2026-03-18T18:42:09+00:00'
+  - title: 'The Vanishing T-90M: Why Russia’s Elite Armor Has Retreated from the Ukraine
+      War Front Lines'
+    url: https://www.19fortyfive.com/2026/03/the-vanishing-t-90m-why-russias-elite-armor-has-retreated-from-the-ukraine-war-front-lines/
+    text: 'The reported "disappearance" of the T-90M "Proryv" from the active front
+      lines in Ukraine marks a pivotal shift in Russian armored doctrine for 2026. While
+      Vladimir Putin continues to hail the T-90M as the "best tank in the world," the
+      reality of FPV drone lethality and a catastrophic internal design flaw has forced
+      the Kremlin to move its elite armor into reserve formations. The post The Vanishing
+      T-90M: Why Russia’s Elite Armor Has Retreated from the Ukraine War Front Lines
+      appeared first on 19FortyFive .'
+    one_sentence_summary: The withdrawal of the T-90M "Proryv" from the front lines
+      in Ukraine signifies a significant change in Russian armored strategy due to the
+      effectiveness of FPV drones and inherent design flaws, despite Putin's claims
+      of its superiority.
+    paragraph_summary: The T-90M "Proryv," once celebrated by Vladimir Putin as the
+      "best tank in the world," has reportedly vanished from active combat in Ukraine,
+      signaling a significant change in Russian armored strategy for 2026. This shift
+      is attributed to the increasing effectiveness of FPV drones and a critical internal
+      design flaw in the tank, prompting the Kremlin to reassign its elite armored units
+      to reserve formations rather than risk them on the front lines.
+    published: '2026-03-18T18:26:10+00:00'
+  - title: 'The Vanishing T-90M: Why Russia’s Elite Armor Has Retreated from the Ukraine
+      War Front Lines'
+    url: https://www.19fortyfive.com/2026/03/the-vanishing-t-90m-why-russias-elite-armor-has-retreated-from-the-ukraine-war-front-lines/
+    text: 'The reported "disappearance" of the T-90M "Proryv" from the active front
+      lines in Ukraine marks a pivotal shift in Russian armored doctrine for 2026. While
+      Vladimir Putin continues to hail the T-90M as the "best tank in the world," the
+      reality of FPV drone lethality and a catastrophic internal design flaw has forced
+      the Kremlin to move its elite armor into reserve formations. The post The Vanishing
+      T-90M: Why Russia’s Elite Armor Has Retreated from the Ukraine War Front Lines
+      appeared first on 19FortyFive .'
+    one_sentence_summary: The withdrawal of the T-90M "Proryv" from the front lines
+      in Ukraine signifies a significant change in Russian armored strategy due to the
+      effectiveness of FPV drones and inherent design flaws, despite Putin's claims
+      of its superiority.
+    paragraph_summary: The T-90M "Proryv," once celebrated by Vladimir Putin as the
+      "best tank in the world," has reportedly vanished from active combat in Ukraine,
+      signaling a significant change in Russian armored strategy for 2026. This shift
+      is attributed to the increasing effectiveness of FPV drones and a critical internal
+      design flaw in the tank, prompting the Kremlin to reassign its elite armored units
+      to reserve formations rather than risk them on the front lines.
+    published: '2026-03-18T18:26:10+00:00'
+  - title: 'Victory Paradox: Why a 2026 Ceasefire Leaves Iran’s Core Power Intact'
+    url: https://www.19fortyfive.com/2026/03/victory-paradox-why-a-2026-ceasefire-leaves-irans-core-power-intact/
+    text: 'The 2026 air campaign has achieved "Disruption" but failed to reach "Disarmament."
+      In modern kinetic warfare, unless the "human capital" and decentralized command
+      structures are eliminated, a state like Iran can absorb 15,000 strikes as a "cost
+      of doing business." The result is a region that settles into a more dangerous
+      ambiguity. The post Victory Paradox: Why a 2026 Ceasefire Leaves Iran’s Core Power
+      Intact appeared first on 19FortyFive .'
+    one_sentence_summary: The 2026 air campaign succeeded in causing disruption but
+      did not disarm Iran, highlighting the challenges of modern warfare where resilient
+      command structures allow states to endure significant strikes, resulting in a
+      precarious regional stability.
+    paragraph_summary: The 2026 air campaign has successfully caused "Disruption" but
+      has not achieved "Disarmament," as Iran's ability to endure extensive strikes—up
+      to 15,000—highlights the resilience of its decentralized command and "human capital."
+      This situation leads to an increasingly precarious regional stability, where the
+      failure to dismantle Iran's core power results in a post-Victory Paradox, leaving
+      the country intact despite a ceasefire.
+    published: '2026-03-18T18:15:51+00:00'
+  - title: 'Victory Paradox: Why a 2026 Ceasefire Leaves Iran’s Core Power Intact'
+    url: https://www.19fortyfive.com/2026/03/victory-paradox-why-a-2026-ceasefire-leaves-irans-core-power-intact/
+    text: 'The 2026 air campaign has achieved "Disruption" but failed to reach "Disarmament."
+      In modern kinetic warfare, unless the "human capital" and decentralized command
+      structures are eliminated, a state like Iran can absorb 15,000 strikes as a "cost
+      of doing business." The result is a region that settles into a more dangerous
+      ambiguity. The post Victory Paradox: Why a 2026 Ceasefire Leaves Iran’s Core Power
+      Intact appeared first on 19FortyFive .'
+    one_sentence_summary: The 2026 air campaign succeeded in causing disruption but
+      did not disarm Iran, highlighting the challenges of modern warfare where resilient
+      command structures allow states to endure significant strikes, resulting in a
+      precarious regional stability.
+    paragraph_summary: The 2026 air campaign has successfully caused "Disruption" but
+      has not achieved "Disarmament," as Iran's ability to endure extensive strikes—up
+      to 15,000—highlights the resilience of its decentralized command and "human capital."
+      This situation leads to an increasingly precarious regional stability, where the
+      failure to dismantle Iran's core power results in a post-Victory Paradox, leaving
+      the country intact despite a ceasefire.
+    published: '2026-03-18T18:15:51+00:00'
+  - title: 'Inspiration Quote of the Day by Theodore Roosevelt: ‘It is hard to fail,
+      but it is worse never to have tried to succeed…’'
+    url: https://www.19fortyfive.com/2026/03/inspiration-quote-of-the-day-by-theodore-roosevelt-it-is-hard-to-fail-but-it-is-worse-never-to-have-tried-to-succeed/
+    text: 'Theodore Roosevelt was a frail, asthmatic child who could barely breathe
+      through the night. His father issued a challenge — "You have the mind but not
+      the body. You must make your body" — and Roosevelt spent the rest of his life
+      answering it. What followed was one of the most remarkable personal transformations
+      in American history. The post Inspiration Quote of the Day by Theodore Roosevelt:
+      ‘It is hard to fail, but it is worse never to have tried to succeed…’ appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Theodore Roosevelt, once a frail and asthmatic child, transformed
+      himself into a robust figure in American history, driven by his father's challenge
+      to strengthen his body.
+    paragraph_summary: The article highlights the inspiring transformation of Theodore
+      Roosevelt, who overcame his frail, asthmatic childhood through a commitment to
+      physical fitness, spurred by his father's challenge to strengthen his body. This
+      determination led to a significant personal evolution, making Roosevelt one of
+      the most notable figures in American history. The piece also features a motivational
+      quote from Roosevelt, emphasizing the importance of striving for success despite
+      the fear of failure.
+    published: '2026-03-18T17:55:27+00:00'
+  - title: 'Inspiration Quote of the Day by Theodore Roosevelt: ‘It is hard to fail,
+      but it is worse never to have tried to succeed…’'
+    url: https://www.19fortyfive.com/2026/03/inspiration-quote-of-the-day-by-theodore-roosevelt-it-is-hard-to-fail-but-it-is-worse-never-to-have-tried-to-succeed/
+    text: 'Theodore Roosevelt was a frail, asthmatic child who could barely breathe
+      through the night. His father issued a challenge — "You have the mind but not
+      the body. You must make your body" — and Roosevelt spent the rest of his life
+      answering it. What followed was one of the most remarkable personal transformations
+      in American history. The post Inspiration Quote of the Day by Theodore Roosevelt:
+      ‘It is hard to fail, but it is worse never to have tried to succeed…’ appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Theodore Roosevelt, once a frail and asthmatic child, transformed
+      himself into a robust figure in American history, driven by his father's challenge
+      to strengthen his body.
+    paragraph_summary: The article highlights the inspiring transformation of Theodore
+      Roosevelt, who overcame his frail, asthmatic childhood through a commitment to
+      physical fitness, spurred by his father's challenge to strengthen his body. This
+      determination led to a significant personal evolution, making Roosevelt one of
+      the most notable figures in American history. The piece also features a motivational
+      quote from Roosevelt, emphasizing the importance of striving for success despite
+      the fear of failure.
+    published: '2026-03-18T17:55:27+00:00'
+  - title: China’s J-20 Mighty Dragon Is Now Based at 12,000 Feet in Tibet and Might
+      Be Armed With Missiles That Can Reach Indian Territory — New Satellite Images
+      Confirm the Buildup
+    url: https://www.19fortyfive.com/2026/03/chinas-j-20-mighty-dragon-is-now-based-at-12000-feet-in-tibet-and-might-be-armed-with-missiles-that-can-reach-indian-territory-new-satellite-images-confirm-the-buildup/
+    text: China has quietly deployed at least 14 J-20 Mighty Dragon stealth fighters
+      to a Tibetan airbase less than 100 miles from India's Sikkim border. Armed with
+      PL-15 long-range missiles capable of crossing the Line of Actual Control, the
+      deployment is the largest and most significant PLAAF buildup near Indian territory
+      ever recorded. The post China’s J-20 Mighty Dragon Is Now Based at 12,000 Feet
+      in Tibet and Might Be Armed With Missiles That Can Reach Indian Territory — New
+      Satellite Images Confirm the Buildup appeared first on 19FortyFive .
+    one_sentence_summary: China has stationed at least 14 J-20 stealth fighters at a
+      Tibetan airbase near the Indian border, marking a significant military buildup
+      with capabilities to target Indian territory.
+    paragraph_summary: China has stationed at least 14 J-20 Mighty Dragon stealth fighters
+      at a Tibetan airbase situated under 100 miles from the Sikkim border with India,
+      marking the largest buildup of the People's Liberation Army Air Force (PLAAF)
+      near Indian territory to date. These fighters are reportedly equipped with PL-15
+      long-range missiles that have the capability to reach across the Line of Actual
+      Control, raising concerns about regional security. This significant military deployment
+      has been confirmed through new satellite imagery.
+    published: '2026-03-18T17:40:34+00:00'
+  - title: China’s J-20 Mighty Dragon Is Now Based at 12,000 Feet in Tibet and Might
+      Be Armed With Missiles That Can Reach Indian Territory — New Satellite Images
+      Confirm the Buildup
+    url: https://www.19fortyfive.com/2026/03/chinas-j-20-mighty-dragon-is-now-based-at-12000-feet-in-tibet-and-might-be-armed-with-missiles-that-can-reach-indian-territory-new-satellite-images-confirm-the-buildup/
+    text: China has quietly deployed at least 14 J-20 Mighty Dragon stealth fighters
+      to a Tibetan airbase less than 100 miles from India's Sikkim border. Armed with
+      PL-15 long-range missiles capable of crossing the Line of Actual Control, the
+      deployment is the largest and most significant PLAAF buildup near Indian territory
+      ever recorded. The post China’s J-20 Mighty Dragon Is Now Based at 12,000 Feet
+      in Tibet and Might Be Armed With Missiles That Can Reach Indian Territory — New
+      Satellite Images Confirm the Buildup appeared first on 19FortyFive .
+    one_sentence_summary: China has stationed at least 14 J-20 stealth fighters at a
+      Tibetan airbase near the Indian border, marking a significant military buildup
+      with capabilities to target Indian territory.
+    paragraph_summary: China has stationed at least 14 J-20 Mighty Dragon stealth fighters
+      at a Tibetan airbase situated under 100 miles from the Sikkim border with India,
+      marking the largest buildup of the People's Liberation Army Air Force (PLAAF)
+      near Indian territory to date. These fighters are reportedly equipped with PL-15
+      long-range missiles that have the capability to reach across the Line of Actual
+      Control, raising concerns about regional security. This significant military deployment
+      has been confirmed through new satellite imagery.
+    published: '2026-03-18T17:40:34+00:00'
+  - title: Israel Just Killed Iran’s Most Important Link to Vladimir Putin — and Former
+      U.S. Intelligence Officials Say Almost Nobody in Tehran Can Replace Him
+    url: https://www.19fortyfive.com/2026/03/israel-just-killed-irans-most-important-link-to-vladimir-putin-and-former-u-s-intelligence-officials-say-almost-nobody-in-tehran-can-replace-him/
+    text: Ali Larijani wasn't just a senior Iranian official — he was the architect
+      of Tehran's strategic partnership with Moscow, personally managing a $2.5 billion
+      drone deal paid partly in gold bars. Israeli airstrikes have now eliminated him
+      and the IRGC Basij commander. Former U.S. intelligence officials say the Iranian
+      leadership vacuum left behind may be impossible to fill. The post Israel Just
+      Killed Iran’s Most Important Link to Vladimir Putin — and Former U.S. Intelligence
+      Officials Say Almost Nobody in Tehran Can Replace Him appeared first on 19FortyFive
+      .
+    one_sentence_summary: Ali Larijani, a key figure in Iran's strategic partnership
+      with Russia and overseer of a significant drone deal, was killed in Israeli airstrikes,
+      leaving a leadership vacuum in Tehran that former U.S. intelligence officials
+      believe may be difficult to fill.
+    paragraph_summary: Ali Larijani, a key Iranian official and the architect of Iran's
+      strategic partnership with Russia, was recently killed in Israeli airstrikes,
+      along with the commander of the IRGC Basij. Larijani was instrumental in managing
+      a significant $2.5 billion drone deal with Moscow, partially financed with gold
+      bars. Former U.S. intelligence officials suggest that his death has created a
+      leadership vacuum in Iran that may be difficult to fill, potentially destabilizing
+      Tehran's relations with Russia and its overall strategic direction.
+    published: '2026-03-18T17:28:51+00:00'
+  - title: Israel Just Killed Iran’s Most Important Link to Vladimir Putin — and Former
+      U.S. Intelligence Officials Say Almost Nobody in Tehran Can Replace Him
+    url: https://www.19fortyfive.com/2026/03/israel-just-killed-irans-most-important-link-to-vladimir-putin-and-former-u-s-intelligence-officials-say-almost-nobody-in-tehran-can-replace-him/
+    text: Ali Larijani wasn't just a senior Iranian official — he was the architect
+      of Tehran's strategic partnership with Moscow, personally managing a $2.5 billion
+      drone deal paid partly in gold bars. Israeli airstrikes have now eliminated him
+      and the IRGC Basij commander. Former U.S. intelligence officials say the Iranian
+      leadership vacuum left behind may be impossible to fill. The post Israel Just
+      Killed Iran’s Most Important Link to Vladimir Putin — and Former U.S. Intelligence
+      Officials Say Almost Nobody in Tehran Can Replace Him appeared first on 19FortyFive
+      .
+    one_sentence_summary: Ali Larijani, a key figure in Iran's strategic partnership
+      with Russia and overseer of a significant drone deal, was killed in Israeli airstrikes,
+      leaving a leadership vacuum in Tehran that former U.S. intelligence officials
+      believe may be difficult to fill.
+    paragraph_summary: Ali Larijani, a key Iranian official and the architect of Iran's
+      strategic partnership with Russia, was recently killed in Israeli airstrikes,
+      along with the commander of the IRGC Basij. Larijani was instrumental in managing
+      a significant $2.5 billion drone deal with Moscow, partially financed with gold
+      bars. Former U.S. intelligence officials suggest that his death has created a
+      leadership vacuum in Iran that may be difficult to fill, potentially destabilizing
+      Tehran's relations with Russia and its overall strategic direction.
+    published: '2026-03-18T17:28:51+00:00'
+  - title: The U.S. Navy Is Retiring the 4 Submarines That Carry 616 Tomahawk Missiles
+      While the Iran War Burns Through the Stockpile — That Timing Could Not Be Worse
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-retiring-the-4-submarines-that-carry-616-tomahawk-missiles-while-the-iran-war-burns-through-the-stockpile-that-timing-could-not-be-worse/
+    text: America fired hundreds of Tomahawk cruise missiles in the opening days of
+      the Iran War — and builds roughly 90 per year to replace them. Now the four Ohio-class
+      submarines carrying 616 dedicated Tomahawk launch cells are being retired. The
+      U.S. is burning through its long-range strike capacity faster than anyone planned
+      for. The post The U.S. Navy Is Retiring the 4 Submarines That Carry 616 Tomahawk
+      Missiles While the Iran War Burns Through the Stockpile — That Timing Could Not
+      Be Worse appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy is retiring four Ohio-class submarines that
+      carry 616 Tomahawk missiles at a time when the military is rapidly depleting its
+      long-range strike capacity due to the ongoing Iran War.
+    paragraph_summary: The U.S. Navy is retiring its four Ohio-class submarines, which
+      are equipped with 616 Tomahawk missile launch cells, at a time when the military
+      is rapidly depleting its long-range strike capabilities due to the ongoing Iran
+      War. The U.S. has been firing hundreds of Tomahawk cruise missiles since the conflict
+      began and produces approximately 90 missiles annually to replenish its stockpile.
+      This retirement of submarines, which play a crucial role in the nation's strike
+      capacity, raises concerns about the timing and potential implications for U.S.
+      military readiness.
+    published: '2026-03-18T17:19:46+00:00'
+  - title: The U.S. Navy Is Retiring the 4 Submarines That Carry 616 Tomahawk Missiles
+      While the Iran War Burns Through the Stockpile — That Timing Could Not Be Worse
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navy-is-retiring-the-4-submarines-that-carry-616-tomahawk-missiles-while-the-iran-war-burns-through-the-stockpile-that-timing-could-not-be-worse/
+    text: America fired hundreds of Tomahawk cruise missiles in the opening days of
+      the Iran War — and builds roughly 90 per year to replace them. Now the four Ohio-class
+      submarines carrying 616 dedicated Tomahawk launch cells are being retired. The
+      U.S. is burning through its long-range strike capacity faster than anyone planned
+      for. The post The U.S. Navy Is Retiring the 4 Submarines That Carry 616 Tomahawk
+      Missiles While the Iran War Burns Through the Stockpile — That Timing Could Not
+      Be Worse appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Navy is retiring four Ohio-class submarines that
+      carry 616 Tomahawk missiles at a time when the military is rapidly depleting its
+      long-range strike capacity due to the ongoing Iran War.
+    paragraph_summary: The U.S. Navy is retiring its four Ohio-class submarines, which
+      are equipped with 616 Tomahawk missile launch cells, at a time when the military
+      is rapidly depleting its long-range strike capabilities due to the ongoing Iran
+      War. The U.S. has been firing hundreds of Tomahawk cruise missiles since the conflict
+      began and produces approximately 90 missiles annually to replenish its stockpile.
+      This retirement of submarines, which play a crucial role in the nation's strike
+      capacity, raises concerns about the timing and potential implications for U.S.
+      military readiness.
+    published: '2026-03-18T17:19:46+00:00'
+  - title: A Mach-3 Bomber, a Midair Collision, and a War That Changed Before the Plane
+      Was Ready — The Tragic Story of America’s XB-70 Valkyrie
+    url: https://www.19fortyfive.com/2026/03/a-mach-3-bomber-a-midair-collision-and-a-war-that-changed-before-the-plane-was-ready-the-tragic-story-of-americas-xb-70-valkyrie/
+    text: The XB-70 Valkyrie could cruise at Mach 3 and outrun every Soviet missile
+      ever built — and it never fired a shot in anger. By the time it was ready, surface-to-air
+      missiles had made high-altitude penetration suicidal and ICBMs had replaced bombers
+      as the backbone of nuclear deterrence. The engineering won. The strategy lost.
+      The post A Mach-3 Bomber, a Midair Collision, and a War That Changed Before the
+      Plane Was Ready — The Tragic Story of America’s XB-70 Valkyrie appeared first
+      on 19FortyFive .
+    one_sentence_summary: The XB-70 Valkyrie, capable of cruising at Mach 3 and designed
+      to evade Soviet missiles, ultimately became obsolete before its deployment due
+      to advancements in missile technology and a shift in nuclear strategy.
+    paragraph_summary: The XB-70 Valkyrie was an advanced bomber capable of cruising
+      at Mach 3, designed to evade Soviet missiles, but it never saw combat due to changing
+      military strategies. By the time the aircraft was operational, advancements in
+      surface-to-air missile technology rendered high-altitude missions perilous, and
+      intercontinental ballistic missiles (ICBMs) had become the primary means of nuclear
+      deterrence. Ultimately, despite its impressive engineering, the XB-70's strategic
+      relevance diminished before it could be effectively utilized, highlighting a disconnect
+      between technological innovation and evolving military needs.
+    published: '2026-03-18T16:12:20+00:00'
+  - title: A Mach-3 Bomber, a Midair Collision, and a War That Changed Before the Plane
+      Was Ready — The Tragic Story of America’s XB-70 Valkyrie
+    url: https://www.19fortyfive.com/2026/03/a-mach-3-bomber-a-midair-collision-and-a-war-that-changed-before-the-plane-was-ready-the-tragic-story-of-americas-xb-70-valkyrie/
+    text: The XB-70 Valkyrie could cruise at Mach 3 and outrun every Soviet missile
+      ever built — and it never fired a shot in anger. By the time it was ready, surface-to-air
+      missiles had made high-altitude penetration suicidal and ICBMs had replaced bombers
+      as the backbone of nuclear deterrence. The engineering won. The strategy lost.
+      The post A Mach-3 Bomber, a Midair Collision, and a War That Changed Before the
+      Plane Was Ready — The Tragic Story of America’s XB-70 Valkyrie appeared first
+      on 19FortyFive .
+    one_sentence_summary: The XB-70 Valkyrie, capable of cruising at Mach 3 and designed
+      to evade Soviet missiles, ultimately became obsolete before its deployment due
+      to advancements in missile technology and a shift in nuclear strategy.
+    paragraph_summary: The XB-70 Valkyrie was an advanced bomber capable of cruising
+      at Mach 3, designed to evade Soviet missiles, but it never saw combat due to changing
+      military strategies. By the time the aircraft was operational, advancements in
+      surface-to-air missile technology rendered high-altitude missions perilous, and
+      intercontinental ballistic missiles (ICBMs) had become the primary means of nuclear
+      deterrence. Ultimately, despite its impressive engineering, the XB-70's strategic
+      relevance diminished before it could be effectively utilized, highlighting a disconnect
+      between technological innovation and evolving military needs.
+    published: '2026-03-18T16:12:20+00:00'
+  - title: The Iran War Is Teaching the Pentagon Every Lesson It Needs for a China Conflict
+      — and Some of Those Lessons Are Deeply Uncomfortable
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-teaching-the-pentagon-every-lesson-it-needs-for-a-china-conflict-and-some-of-those-lessons-are-deeply-uncomfortable/
+    text: The U.S. military is winning the Iran War — and handing China a detailed blueprint
+      of American vulnerabilities in the process. Tomahawk stockpiles are depleting
+      faster than they can be replaced. A drone strike exposed U.S. logistics hub fragility.
+      And every Patriot missile fired is one fewer available for the Indo-Pacific. The
+      post The Iran War Is Teaching the Pentagon Every Lesson It Needs for a China Conflict
+      — and Some of Those Lessons Are Deeply Uncomfortable appeared first on 19FortyFive
+      .
+    one_sentence_summary: The ongoing Iran War is revealing critical vulnerabilities
+      in U.S. military capabilities, such as depleted Tomahawk stockpiles and strained
+      logistics, potentially providing China with valuable insights for future conflicts.
+    paragraph_summary: The article discusses how the ongoing conflict in Iran is revealing
+      significant vulnerabilities in U.S. military capabilities, which could be detrimental
+      in a potential conflict with China. As the U.S. depletes its Tomahawk missile
+      stockpiles and faces challenges highlighted by a drone strike on a logistics hub,
+      the military's readiness is being tested. Additionally, each Patriot missile used
+      in the Iran War reduces the stock available for defense in the Indo-Pacific region.
+      While the Pentagon is gaining crucial insights from this conflict that may inform
+      strategies for a future confrontation with China, these lessons also underscore
+      uncomfortable truths about American military preparedness.
+    published: '2026-03-18T15:33:07+00:00'
+  - title: The Iran War Is Teaching the Pentagon Every Lesson It Needs for a China Conflict
+      — and Some of Those Lessons Are Deeply Uncomfortable
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-teaching-the-pentagon-every-lesson-it-needs-for-a-china-conflict-and-some-of-those-lessons-are-deeply-uncomfortable/
+    text: The U.S. military is winning the Iran War — and handing China a detailed blueprint
+      of American vulnerabilities in the process. Tomahawk stockpiles are depleting
+      faster than they can be replaced. A drone strike exposed U.S. logistics hub fragility.
+      And every Patriot missile fired is one fewer available for the Indo-Pacific. The
+      post The Iran War Is Teaching the Pentagon Every Lesson It Needs for a China Conflict
+      — and Some of Those Lessons Are Deeply Uncomfortable appeared first on 19FortyFive
+      .
+    one_sentence_summary: The ongoing Iran War is revealing critical vulnerabilities
+      in U.S. military capabilities, such as depleted Tomahawk stockpiles and strained
+      logistics, potentially providing China with valuable insights for future conflicts.
+    paragraph_summary: The article discusses how the ongoing conflict in Iran is revealing
+      significant vulnerabilities in U.S. military capabilities, which could be detrimental
+      in a potential conflict with China. As the U.S. depletes its Tomahawk missile
+      stockpiles and faces challenges highlighted by a drone strike on a logistics hub,
+      the military's readiness is being tested. Additionally, each Patriot missile used
+      in the Iran War reduces the stock available for defense in the Indo-Pacific region.
+      While the Pentagon is gaining crucial insights from this conflict that may inform
+      strategies for a future confrontation with China, these lessons also underscore
+      uncomfortable truths about American military preparedness.
+    published: '2026-03-18T15:33:07+00:00'
+  - title: The F-47 NGAD Stealth Fighter Has No Fins, No Tails, and No Vertical Structures
+      — That Design Choice Is How It Disappears From Enemy Radar Entirely
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-stealth-fighter-has-no-fins-no-tails-and-no-vertical-structures-that-design-choice-is-how-it-disappears-from-enemy-radar-entirely/
+    text: The F-47 NGAD doesn't just improve on the F-35 — it rethinks what a stealth
+      fighter is. A blended wing-body with no vertical structures gives it bomber-level
+      radar invisibility. AI computing shrinks sensor-to-shooter timelines to likely
+      milliseconds. And it might be able to command an entire drone swarm while operating
+      deep inside enemy airspace. The post The F-47 NGAD Stealth Fighter Has No Fins,
+      No Tails, and No Vertical Structures — That Design Choice Is How It Disappears
+      From Enemy Radar Entirely appeared first on 19FortyFive .
+    one_sentence_summary: The F-47 NGAD redefines stealth fighter design with its blended
+      wing-body and absence of vertical structures, achieving exceptional radar invisibility,
+      rapid AI-driven sensor-to-shooter capabilities, and potential command over drone
+      swarms in enemy territory.
+    paragraph_summary: The F-47 NGAD represents a significant evolution in stealth fighter
+      design, moving beyond the F-35 by featuring a blended wing-body that eliminates
+      vertical structures, enhancing its radar invisibility to bomber levels. This innovative
+      design allows for rapid AI-driven sensor-to-shooter timelines, potentially reducing
+      response times to mere milliseconds. Additionally, the F-47 may have the capability
+      to command drone swarms while operating deep within enemy airspace, further redefining
+      the role and effectiveness of modern stealth fighters.
+    published: '2026-03-18T15:16:43+00:00'
+  - title: The F-47 NGAD Stealth Fighter Has No Fins, No Tails, and No Vertical Structures
+      — That Design Choice Is How It Disappears From Enemy Radar Entirely
+    url: https://www.19fortyfive.com/2026/03/the-f-47-ngad-stealth-fighter-has-no-fins-no-tails-and-no-vertical-structures-that-design-choice-is-how-it-disappears-from-enemy-radar-entirely/
+    text: The F-47 NGAD doesn't just improve on the F-35 — it rethinks what a stealth
+      fighter is. A blended wing-body with no vertical structures gives it bomber-level
+      radar invisibility. AI computing shrinks sensor-to-shooter timelines to likely
+      milliseconds. And it might be able to command an entire drone swarm while operating
+      deep inside enemy airspace. The post The F-47 NGAD Stealth Fighter Has No Fins,
+      No Tails, and No Vertical Structures — That Design Choice Is How It Disappears
+      From Enemy Radar Entirely appeared first on 19FortyFive .
+    one_sentence_summary: The F-47 NGAD redefines stealth fighter design with its blended
+      wing-body and absence of vertical structures, achieving exceptional radar invisibility,
+      rapid AI-driven sensor-to-shooter capabilities, and potential command over drone
+      swarms in enemy territory.
+    paragraph_summary: The F-47 NGAD represents a significant evolution in stealth fighter
+      design, moving beyond the F-35 by featuring a blended wing-body that eliminates
+      vertical structures, enhancing its radar invisibility to bomber levels. This innovative
+      design allows for rapid AI-driven sensor-to-shooter timelines, potentially reducing
+      response times to mere milliseconds. Additionally, the F-47 may have the capability
+      to command drone swarms while operating deep within enemy airspace, further redefining
+      the role and effectiveness of modern stealth fighters.
+    published: '2026-03-18T15:16:43+00:00'
+  - title: Iran Is Mining the Strait of Hormuz — and the Only Two U.S. Navy Ships Built
+      to Sweep Those Mines Were Just Spotted Thousands of Miles Away in Asia
+    url: https://www.19fortyfive.com/2026/03/iran-is-mining-the-strait-of-hormuz-and-the-only-two-u-s-navy-ships-built-to-sweep-those-mines-were-just-spotted-thousands-of-miles-away-in-asia/
+    text: Iran has more than 5,000 naval mines and a doctrine built around closing the
+      Strait of Hormuz — and the U.S. Navy's only minesweeping ships are currently in
+      Asia. With NATO allies refusing Trump's call for help and the UK offering only
+      drones, America's mine warfare gap has become a crisis in real time. The post
+      Iran Is Mining the Strait of Hormuz — and the Only Two U.S. Navy Ships Built to
+      Sweep Those Mines Were Just Spotted Thousands of Miles Away in Asia appeared first
+      on 19FortyFive .
+    one_sentence_summary: Iran's extensive naval mine arsenal poses a significant threat
+      to the Strait of Hormuz, while the U.S. Navy's capability to counter this threat
+      is compromised by the absence of its minesweeping ships, currently deployed in
+      Asia, and a lack of support from NATO allies.
+    paragraph_summary: Iran possesses over 5,000 naval mines and has developed a strategy
+      focused on obstructing the Strait of Hormuz, a critical maritime chokepoint. Meanwhile,
+      the U.S. Navy's only minesweeping vessels are stationed in Asia, leaving a significant
+      gap in America's mine warfare capabilities. NATO allies have declined to support
+      former President Trump's requests for assistance, and the UK has only offered
+      drone support, exacerbating the situation. This has led to a pressing crisis regarding
+      the U.S. Navy's ability to address potential threats in the Strait of Hormuz.
+    published: '2026-03-18T14:53:07+00:00'
+  - title: Iran Is Mining the Strait of Hormuz — and the Only Two U.S. Navy Ships Built
+      to Sweep Those Mines Were Just Spotted Thousands of Miles Away in Asia
+    url: https://www.19fortyfive.com/2026/03/iran-is-mining-the-strait-of-hormuz-and-the-only-two-u-s-navy-ships-built-to-sweep-those-mines-were-just-spotted-thousands-of-miles-away-in-asia/
+    text: Iran has more than 5,000 naval mines and a doctrine built around closing the
+      Strait of Hormuz — and the U.S. Navy's only minesweeping ships are currently in
+      Asia. With NATO allies refusing Trump's call for help and the UK offering only
+      drones, America's mine warfare gap has become a crisis in real time. The post
+      Iran Is Mining the Strait of Hormuz — and the Only Two U.S. Navy Ships Built to
+      Sweep Those Mines Were Just Spotted Thousands of Miles Away in Asia appeared first
+      on 19FortyFive .
+    one_sentence_summary: Iran's extensive naval mine arsenal poses a significant threat
+      to the Strait of Hormuz, while the U.S. Navy's capability to counter this threat
+      is compromised by the absence of its minesweeping ships, currently deployed in
+      Asia, and a lack of support from NATO allies.
+    paragraph_summary: Iran possesses over 5,000 naval mines and has developed a strategy
+      focused on obstructing the Strait of Hormuz, a critical maritime chokepoint. Meanwhile,
+      the U.S. Navy's only minesweeping vessels are stationed in Asia, leaving a significant
+      gap in America's mine warfare capabilities. NATO allies have declined to support
+      former President Trump's requests for assistance, and the UK has only offered
+      drone support, exacerbating the situation. This has led to a pressing crisis regarding
+      the U.S. Navy's ability to address potential threats in the Strait of Hormuz.
+    published: '2026-03-18T14:53:07+00:00'
+  - title: Russia Promised Its Stealth Bomber Would Be Flying by 2021 — It Is Now 2026
+      and the PAK DA Exists Almost Entirely as a Press Release
+    url: https://www.19fortyfive.com/2026/03/russia-promised-its-stealth-bomber-would-be-flying-by-2021-it-is-now-2026-and-the-pak-da-exists-almost-entirely-as-a-press-release/
+    text: Russia's PAK DA was supposed to be the world's second stealth bomber — a subsonic
+      B-2 rival capable of striking deep into European airspace. Six years after TASS
+      declared construction underway, the program is stalled by technical failures,
+      Tu-160 funding competition, and a Ukraine War that shows no sign of ending. The
+      post Russia Promised Its Stealth Bomber Would Be Flying by 2021 — It Is Now 2026
+      and the PAK DA Exists Almost Entirely as a Press Release appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia's PAK DA stealth bomber program, initially expected
+      to rival the B-2 and operational by 2021, is now stalled due to technical issues,
+      funding competition with the Tu-160, and the ongoing Ukraine War, existing primarily
+      as a press release by 2026.
+    paragraph_summary: Russia's PAK DA stealth bomber program, intended to rival the
+      U.S. B-2 and capable of deep strikes into Europe, has faced significant delays
+      and challenges since its construction was announced six years ago. Technical failures,
+      competition for funding with the Tu-160 program, and the ongoing Ukraine War have
+      stalled progress, leading to the realization that the bomber, initially projected
+      to be operational by 2021, remains largely a concept with little tangible development
+      by 2026.
+    published: '2026-03-18T14:28:35+00:00'
+  - title: Russia Promised Its Stealth Bomber Would Be Flying by 2021 — It Is Now 2026
+      and the PAK DA Exists Almost Entirely as a Press Release
+    url: https://www.19fortyfive.com/2026/03/russia-promised-its-stealth-bomber-would-be-flying-by-2021-it-is-now-2026-and-the-pak-da-exists-almost-entirely-as-a-press-release/
+    text: Russia's PAK DA was supposed to be the world's second stealth bomber — a subsonic
+      B-2 rival capable of striking deep into European airspace. Six years after TASS
+      declared construction underway, the program is stalled by technical failures,
+      Tu-160 funding competition, and a Ukraine War that shows no sign of ending. The
+      post Russia Promised Its Stealth Bomber Would Be Flying by 2021 — It Is Now 2026
+      and the PAK DA Exists Almost Entirely as a Press Release appeared first on 19FortyFive
+      .
+    one_sentence_summary: Russia's PAK DA stealth bomber program, initially expected
+      to rival the B-2 and operational by 2021, is now stalled due to technical issues,
+      funding competition with the Tu-160, and the ongoing Ukraine War, existing primarily
+      as a press release by 2026.
+    paragraph_summary: Russia's PAK DA stealth bomber program, intended to rival the
+      U.S. B-2 and capable of deep strikes into Europe, has faced significant delays
+      and challenges since its construction was announced six years ago. Technical failures,
+      competition for funding with the Tu-160 program, and the ongoing Ukraine War have
+      stalled progress, leading to the realization that the bomber, initially projected
+      to be operational by 2021, remains largely a concept with little tangible development
+      by 2026.
+    published: '2026-03-18T14:28:35+00:00'
+  - title: The Iran War Is Three Weeks Old and Trump Already Faces the One Decision
+      He Cannot Walk Back — Ground Troops or Accept Defeat
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-three-weeks-old-and-trump-already-faces-the-one-decision-he-cannot-walk-back-ground-troops-or-accept-defeat/
+    text: 'Summary and Key Points: Dr. Robert E. Kelly of Pusan National University
+      explains that three weeks into the Iran War, Donald Trump faces a decision that
+      could define his presidency. -U.S. and Israeli airstrikes have devastated Iran’s
+      military — but the clerical regime hasn’t collapsed, no popular uprising has materialized,
+      and Iran has closed the […] The post The Iran War Is Three Weeks Old and Trump
+      Already Faces the One Decision He Cannot Walk Back — Ground Troops or Accept Defeat
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Dr. Robert E. Kelly highlights that three weeks into the Iran
+      War, Donald Trump must make a pivotal decision regarding the deployment of ground
+      troops or risk accepting defeat, as U.S. and Israeli airstrikes have severely
+      damaged Iran's military without leading to regime collapse or a popular uprising.
+    paragraph_summary: 'In an analysis by Dr. Robert E. Kelly from Pusan National University,
+      it is highlighted that three weeks into the Iran War, President Donald Trump is
+      confronted with a pivotal decision that could shape his presidency: whether to
+      deploy ground troops or to accept a potential defeat. Despite significant U.S.
+      and Israeli airstrikes that have severely weakened Iran''s military capabilities,
+      the Iranian clerical regime remains intact, no significant uprising has occurred,
+      and Iran has effectively closed its borders. The situation presents a challenging
+      dilemma for Trump, as the implications of his choice could have lasting consequences.'
+    published: '2026-03-18T14:13:08+00:00'
+  - title: The Iran War Is Three Weeks Old and Trump Already Faces the One Decision
+      He Cannot Walk Back — Ground Troops or Accept Defeat
+    url: https://www.19fortyfive.com/2026/03/the-iran-war-is-three-weeks-old-and-trump-already-faces-the-one-decision-he-cannot-walk-back-ground-troops-or-accept-defeat/
+    text: 'Summary and Key Points: Dr. Robert E. Kelly of Pusan National University
+      explains that three weeks into the Iran War, Donald Trump faces a decision that
+      could define his presidency. -U.S. and Israeli airstrikes have devastated Iran’s
+      military — but the clerical regime hasn’t collapsed, no popular uprising has materialized,
+      and Iran has closed the […] The post The Iran War Is Three Weeks Old and Trump
+      Already Faces the One Decision He Cannot Walk Back — Ground Troops or Accept Defeat
+      appeared first on 19FortyFive .'
+    one_sentence_summary: Dr. Robert E. Kelly highlights that three weeks into the Iran
+      War, Donald Trump must make a pivotal decision regarding the deployment of ground
+      troops or risk accepting defeat, as U.S. and Israeli airstrikes have severely
+      damaged Iran's military without leading to regime collapse or a popular uprising.
+    paragraph_summary: 'In an analysis by Dr. Robert E. Kelly from Pusan National University,
+      it is highlighted that three weeks into the Iran War, President Donald Trump is
+      confronted with a pivotal decision that could shape his presidency: whether to
+      deploy ground troops or to accept a potential defeat. Despite significant U.S.
+      and Israeli airstrikes that have severely weakened Iran''s military capabilities,
+      the Iranian clerical regime remains intact, no significant uprising has occurred,
+      and Iran has effectively closed its borders. The situation presents a challenging
+      dilemma for Trump, as the implications of his choice could have lasting consequences.'
+    published: '2026-03-18T14:13:08+00:00'
+  - title: The U.S. Navy’s Arleigh Burke Destroyers Survived a 16-Weapon Barrage — But
+      the Cost of That Defense Should Worry the Pentagon
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navys-arleigh-burke-destroyers-just-survived-a-16-weapon-barrage-near-iran-but-the-cost-of-that-defense-should-worry-the-pentagon/
+    text: 'Summary and Key Points: Defense expert Brandon J. Weichert explains that
+      the U.S. Navy is fighting a 21st-century war with a fleet designed in the 1970s
+      — and Iran knows it. In the Strait of Hormuz, Arleigh Burke-class destroyers are
+      spending $2 million per missile to destroy $20,000 drones. -Two Burke destroyers
+      recently survived a […] The post The U.S. Navy’s Arleigh Burke Destroyers Survived
+      a 16-Weapon Barrage — But the Cost of That Defense Should Worry the Pentagon appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Defense expert Brandon J. Weichert highlights the U.S. Navy's
+      outdated fleet, particularly the Arleigh Burke-class destroyers, which are facing
+      costly challenges in modern warfare, as demonstrated by their expensive defense
+      against relatively inexpensive threats in the Strait of Hormuz.
+    paragraph_summary: Defense expert Brandon J. Weichert highlights the challenges
+      faced by the U.S. Navy, which is operating a fleet designed in the 1970s while
+      engaging in modern warfare tactics, particularly in the Strait of Hormuz. He points
+      out the disproportionate costs of defense, as evidenced by Arleigh Burke-class
+      destroyers spending $2 million per missile to intercept $20,000 drones. Despite
+      the successful defense of two Burke destroyers against a barrage of 16 weapons,
+      Weichert warns that the financial implications of such operations should raise
+      concerns for the Pentagon regarding the sustainability and effectiveness of current
+      naval strategies.
+    published: '2026-03-18T13:48:34+00:00'
+  - title: The U.S. Navy’s Arleigh Burke Destroyers Survived a 16-Weapon Barrage — But
+      the Cost of That Defense Should Worry the Pentagon
+    url: https://www.19fortyfive.com/2026/03/the-u-s-navys-arleigh-burke-destroyers-just-survived-a-16-weapon-barrage-near-iran-but-the-cost-of-that-defense-should-worry-the-pentagon/
+    text: 'Summary and Key Points: Defense expert Brandon J. Weichert explains that
+      the U.S. Navy is fighting a 21st-century war with a fleet designed in the 1970s
+      — and Iran knows it. In the Strait of Hormuz, Arleigh Burke-class destroyers are
+      spending $2 million per missile to destroy $20,000 drones. -Two Burke destroyers
+      recently survived a […] The post The U.S. Navy’s Arleigh Burke Destroyers Survived
+      a 16-Weapon Barrage — But the Cost of That Defense Should Worry the Pentagon appeared
+      first on 19FortyFive .'
+    one_sentence_summary: Defense expert Brandon J. Weichert highlights the U.S. Navy's
+      outdated fleet, particularly the Arleigh Burke-class destroyers, which are facing
+      costly challenges in modern warfare, as demonstrated by their expensive defense
+      against relatively inexpensive threats in the Strait of Hormuz.
+    paragraph_summary: Defense expert Brandon J. Weichert highlights the challenges
+      faced by the U.S. Navy, which is operating a fleet designed in the 1970s while
+      engaging in modern warfare tactics, particularly in the Strait of Hormuz. He points
+      out the disproportionate costs of defense, as evidenced by Arleigh Burke-class
+      destroyers spending $2 million per missile to intercept $20,000 drones. Despite
+      the successful defense of two Burke destroyers against a barrage of 16 weapons,
+      Weichert warns that the financial implications of such operations should raise
+      concerns for the Pentagon regarding the sustainability and effectiveness of current
+      naval strategies.
+    published: '2026-03-18T13:48:34+00:00'
+  - title: The U.S. Army’s M1E3 Abrams Is Lighter, Quieter, and Faster — But Nobody
+      Knows Yet If It Can Survive the Drone Age That Killed Tanks in Ukraine
+    url: https://www.19fortyfive.com/2026/03/the-u-s-armys-m1e3-abrams-is-lighter-quieter-and-faster-but-nobody-knows-yet-if-it-can-survive-the-drone-age-that-killed-tanks-in-ukraine/
+    text: The U.S. Army's M1E3 Abrams trades heavy armor for speed, silence, and hybrid
+      power — a direct response to the drone-dominated killing fields of Ukraine. But
+      the Pentagon's biggest question isn't whether the new Abrams is better. It's whether
+      any tank can survive a sky that never stops watching. The post The U.S. Army’s
+      M1E3 Abrams Is Lighter, Quieter, and Faster — But Nobody Knows Yet If It Can Survive
+      the Drone Age That Killed Tanks in Ukraine appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Army's new M1E3 Abrams tank prioritizes speed, stealth,
+      and hybrid power in response to modern warfare challenges, particularly drones,
+      but its survivability in such an environment remains uncertain.
+    paragraph_summary: The U.S. Army's M1E3 Abrams tank has been redesigned to prioritize
+      speed, stealth, and hybrid power, moving away from its traditional heavy armor
+      in response to the challenges posed by drone warfare, as seen in Ukraine. However,
+      the Pentagon remains uncertain about the overall effectiveness of the new Abrams,
+      questioning whether any tank can withstand the relentless surveillance and attacks
+      from drones that have proven lethal to armored vehicles in modern combat scenarios.
+    published: '2026-03-18T13:23:00+00:00'
+  - title: The U.S. Army’s M1E3 Abrams Is Lighter, Quieter, and Faster — But Nobody
+      Knows Yet If It Can Survive the Drone Age That Killed Tanks in Ukraine
+    url: https://www.19fortyfive.com/2026/03/the-u-s-armys-m1e3-abrams-is-lighter-quieter-and-faster-but-nobody-knows-yet-if-it-can-survive-the-drone-age-that-killed-tanks-in-ukraine/
+    text: The U.S. Army's M1E3 Abrams trades heavy armor for speed, silence, and hybrid
+      power — a direct response to the drone-dominated killing fields of Ukraine. But
+      the Pentagon's biggest question isn't whether the new Abrams is better. It's whether
+      any tank can survive a sky that never stops watching. The post The U.S. Army’s
+      M1E3 Abrams Is Lighter, Quieter, and Faster — But Nobody Knows Yet If It Can Survive
+      the Drone Age That Killed Tanks in Ukraine appeared first on 19FortyFive .
+    one_sentence_summary: The U.S. Army's new M1E3 Abrams tank prioritizes speed, stealth,
+      and hybrid power in response to modern warfare challenges, particularly drones,
+      but its survivability in such an environment remains uncertain.
+    paragraph_summary: The U.S. Army's M1E3 Abrams tank has been redesigned to prioritize
+      speed, stealth, and hybrid power, moving away from its traditional heavy armor
+      in response to the challenges posed by drone warfare, as seen in Ukraine. However,
+      the Pentagon remains uncertain about the overall effectiveness of the new Abrams,
+      questioning whether any tank can withstand the relentless surveillance and attacks
+      from drones that have proven lethal to armored vehicles in modern combat scenarios.
+    published: '2026-03-18T13:23:00+00:00'
+  - title: 100,000 Ton Nuclear Aircraft Carrier USS Gerald R. Ford Is the U.S. Navy’s
+      Problem Child
+    url: https://www.19fortyfive.com/2026/03/100000-ton-nuclear-aircraft-carrier-uss-gerald-r-ford-is-the-u-s-navys-problem-child/
+    text: Award-winning journalist Stephen Silver reports on a 30-hour fire aboard USS
+      Gerald R. Ford in the northern Red Sea, displacing over 600 sailors from their
+      berthing spaces during Operation Epic Fury. The nuclear aircraft carrier — now
+      approaching the post-Vietnam record for longest carrier deployment — is heading
+      to Naval Support Activity Souda Bay in Crete for repairs. The post 100,000 Ton
+      Nuclear Aircraft Carrier USS Gerald R. Ford Is the U.S. Navy’s Problem Child appeared
+      first on 19FortyFive .
+    one_sentence_summary: Award-winning journalist Stephen Silver details a 30-hour
+      fire on the USS Gerald R. Ford in the northern Red Sea, which displaced over 600
+      sailors and prompted the carrier, now nearing a record deployment length, to head
+      to Crete for repairs.
+    paragraph_summary: Award-winning journalist Stephen Silver reports on a significant
+      30-hour fire that occurred aboard the USS Gerald R. Ford in the northern Red Sea,
+      displacing over 600 sailors from their berthing areas during Operation Epic Fury.
+      The nuclear aircraft carrier, which is nearing the post-Vietnam record for the
+      longest deployment, is now en route to Naval Support Activity Souda Bay in Crete
+      for necessary repairs. The article highlights the challenges faced by the USS
+      Gerald R. Ford, often referred to as the U.S. Navy's "problem child."
+    published: '2026-03-18T12:18:19+00:00'
+  - title: 100,000 Ton Nuclear Aircraft Carrier USS Gerald R. Ford Is the U.S. Navy’s
+      Problem Child
+    url: https://www.19fortyfive.com/2026/03/100000-ton-nuclear-aircraft-carrier-uss-gerald-r-ford-is-the-u-s-navys-problem-child/
+    text: Award-winning journalist Stephen Silver reports on a 30-hour fire aboard USS
+      Gerald R. Ford in the northern Red Sea, displacing over 600 sailors from their
+      berthing spaces during Operation Epic Fury. The nuclear aircraft carrier — now
+      approaching the post-Vietnam record for longest carrier deployment — is heading
+      to Naval Support Activity Souda Bay in Crete for repairs. The post 100,000 Ton
+      Nuclear Aircraft Carrier USS Gerald R. Ford Is the U.S. Navy’s Problem Child appeared
+      first on 19FortyFive .
+    one_sentence_summary: Award-winning journalist Stephen Silver details a 30-hour
+      fire on the USS Gerald R. Ford in the northern Red Sea, which displaced over 600
+      sailors and prompted the carrier, now nearing a record deployment length, to head
+      to Crete for repairs.
+    paragraph_summary: Award-winning journalist Stephen Silver reports on a significant
+      30-hour fire that occurred aboard the USS Gerald R. Ford in the northern Red Sea,
+      displacing over 600 sailors from their berthing areas during Operation Epic Fury.
+      The nuclear aircraft carrier, which is nearing the post-Vietnam record for the
+      longest deployment, is now en route to Naval Support Activity Souda Bay in Crete
+      for necessary repairs. The article highlights the challenges faced by the USS
+      Gerald R. Ford, often referred to as the U.S. Navy's "problem child."
+    published: '2026-03-18T12:18:19+00:00'
   - title: 'France’s Navy Has a Problem: Only 1 Nuclear Aircraft Carrier That Is Getting
       Old'
     url: https://www.19fortyfive.com/2026/03/frances-navy-has-a-problem-only-1-nuclear-aircraft-carrier-that-is-getting-old/
