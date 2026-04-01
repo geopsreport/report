@@ -7,14 +7,619 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The ongoing Iran War continues to reshape global geopolitics, with the closure of the Strait of Hormuz emerging as a critical flashpoint. This chokepoint, vital for both oil and fertilizer shipments, has triggered cascading disruptions across multiple sectors. As **Binoy Kampmark** notes, the blockade is not only spiking energy prices but also threatening food security worldwide, particularly in major agricultural economies like Brazil and India, which are heavily dependent on imported fertilizers. The resulting agricultural shock is expected to intensify in the coming months, with a high likelihood of price surges and potential shortages in the global food supply chain.
+  As the Middle East remains embroiled in escalating conflict, the latest developments underscore deepening instability and the persistent inability of military interventions to deliver security or resolution. The Israeli invasion of Lebanon, as analyzed by **Binoy Kampmark**, is emblematic of a recurring cycle: "aggressive tactics, reminiscent of past conflicts, will not resolve security issues and may instead perpetuate violence and instability in the region." This assessment reflects a broad consensus among independent analysts that Israel’s renewed operations are unlikely to achieve their stated objectives and will instead fuel further regional volatility.
   
-  Meanwhile, the United States faces mounting challenges in sustaining "Operation Epic Fury" in the Middle East. Despite early assurances from President Trump to end "forever wars," the conflict has led to significant resource strain and ballooning costs for the U.S. military. **Kampmark** highlights the depletion of critical munitions and the resilience of Iranian forces, casting doubt on Washington's ability to achieve a decisive victory or maintain domestic support for the campaign.
+  Meanwhile, the United States faces mounting challenges in sustaining its military posture. **Kampmark** highlights the "alarming state of unreadiness within the US military," citing Army Undersecretary Michael Obadal’s warnings about deficiencies in weapons systems and maintenance. The protracted engagement in the Middle East, particularly the ongoing Operation Epic Fury, has strained resources and exposed gaps in readiness, raising doubts about Washington’s capacity to respond effectively to emerging threats. This erosion of military capability is seen as a direct consequence of overextension and a lack of substantive reform.
   
-  On the diplomatic front, the crisis has exposed the limitations of so-called "middle power" diplomacy. Recent speeches by Canadian Prime Minister Mark Carney and Australian Prime Minister Anthony Albanese have attempted to position their countries as independent actors. However, **Kampmark** argues that their failure to address complicity in U.S. and Israeli actions against Iran undermines these claims, revealing a pattern of subservience that weakens their credibility on the world stage.
+  The broader geopolitical fallout continues to reverberate. The closure of the Strait of Hormuz by Iran has triggered significant disruptions in global supply chains, especially in fertilizers and oil, with ripple effects for major agricultural economies such as Brazil and India. The resultant price shocks and shortages are expected to intensify in the coming weeks, with **Kampmark** warning of "potential agricultural crises" if the blockade persists.
   
-  Looking ahead, the majority of analysts, including **Kampmark**, predict with high confidence that the disruptions in global supply chains—especially in energy and agriculture—will worsen before any resolution emerges. The U.S. military is likely to remain bogged down in an expensive and protracted conflict, while allied nations will continue to struggle with the diplomatic fallout of their involvement. The broader trend points toward increased instability in global markets and a further erosion of trust in Western leadership, with most observers warning that a swift or peaceful resolution remains unlikely in the near term.
+  Looking ahead, the prevailing trend is one of deepening crisis and policy paralysis. There is a high chance that Israel’s actions in Lebanon will provoke further retaliation, entrenching the conflict. The US military’s readiness issues are unlikely to be resolved swiftly, limiting Washington’s options. Most definitely, the economic consequences of the Hormuz closure will continue to mount, with global markets bracing for further instability. The majority of analysts agree: absent a dramatic shift in diplomatic engagement, the region is set for prolonged turmoil.
 articles:
+  - title: 'Auguries of Failure: Israel Invades Lebanon, Yet Again'
+    url: https://www.counterpunch.org/2026/03/31/auguries-of-failure-israel-invades-lebanon-yet-again/
+    text: 'When will Israel realise that invading Lebanon with paralytic compulsion
+      can never be the solution to its security ills? Having destroyed Gaza with existential,
+      illegal fury, the Israeli Defense Forces have commenced operations in Lebanon
+      with a similar, devastating imprint. Doltishly assuming that the Lebanon front
+      would stay quiet as it went about its business committing the crime of aggression
+      against Iran, Israel again faced rocket attacks against Hezbollah on March 2.
+      The November 2024 ceasefire agreement, rarely observed as it was, had been effectively
+      entombed.
+
+
+      Since then, the front has reopened in fury, with Israel targeting Hezbollah positions,
+      frightening the civilian population of south Lebanon into fleeing in anticipation
+      of a military offensive, and targeting bridges across the Litani River. As of
+      March 22, Lebanon’s Ministry of Public Health had documented 1,029 deaths, including
+      118 children and 40 medical workers. The initial phases of the invasion have commenced,
+      with a promise of indefinite occupation of southern Lebanon.
+
+
+      On March 22, Israel’s Defence Minister Israel Katz announced that both he and
+      Prime Minister Benjamin Netanyahu had ordered, not only the destruction of the
+      all bridges over the Litani River “to prevent passage of Hezbollah terrorists
+      and weapons southward” but the accelerated “destruction of Lebanese homes in the
+      border villages in order to thwart threats of the Israeli settlements”. Ominously,
+      these models of annihilation would emulate the examples used in Beit Hanoun and
+      Rafah in Gaza, a prodding of any war crimes prosecutor if there ever was one.
+      International law would again be defiled and breached, the horrors of previous
+      wars reiterated.
+
+
+      In addition to inflicting these anticipated war crimes, Katz imperiously, and
+      brutally declared on March 16 that “hundreds of thousands of Shiite residents
+      of southern Lebanon […] will not return to their homes south of the Litani until
+      the safety of Israel’s northern residents is guaranteed.” (Note the singling out
+      of Shiite residents in this regard.)
+
+
+      This was presumptuously proprietary, cruel and illegal but confirmed the status
+      quo ushered in by displacement orders issued on March 4 and 5 by the IDF. As is
+      the form, these orders were issued with the false impression of care and consideration.
+      The IDF had no intention of harming civilians, though would do so if they remained.
+      “Any home used by Hezbollah for military purposes may be subject to targeting.”
+      Residents in southern Lebanon were to “head immediately north of the Litani River.”
+      From March 12, the area of exclusion was expanded, with the displacement pushing
+      residents of southern Lebanon further to north of the Zahrani River, some 15 kilometres
+      north of the Litani River.
+
+
+      The order of the day is historical repetition, with hard lessons ignored and vengeance
+      favoured. The hateful heart can hunger and prove insatiable. In 1982, Israel commenced
+      a war in Lebanon with goals that seemed clear enough. Katyusha fire from Lebanon
+      was to be halted by attacking the Palestine Liberation Organisation (PLO) and
+      expelling it north of the Litani River. Doing so would foster the conditions from
+      which peace with Lebanon might be brokered.
+
+
+      While the PLO was expelled, with its rattled leadership finding troubled sanctuary
+      in Tunisia, the Iranian-backed and inspired Hezbollah took its place. It’s kindling
+      for resentment: Israeli occupation of the country’s south. While the IDF maintained
+      a presence that only encouraged Hezbollah, the political hope of securing peace
+      was foiled by the assassination of President-elect Bachir Gemayel, right-wing
+      Phalangist leader of the Maronite Christian militia known as the Lebanese forces.
+      His killing, believed to have been executed under orders from Syrian President
+      Hafez al-Assad, precipitated the massacre of 2,000 to 3,500 people in the Palestinian
+      refugee camp of Shatila, and the adjacent neighbourhood of Sabra, over the course
+      of 43 hours. While the Phalange were the main agents in butchery, the IDF had
+      given its implicit blessing by permitting the militia to enter Sabra and Shatila.
+
+
+      With Israel committed to the gory, fractious mess, a stay lasting till 2000 commenced.
+      In the aftermath of the IDF’s withdrawal, Hezbollah grew in prominence, managing
+      to frame its 2006 war with Israel as an achievement of some note. The constant
+      theme of the conflict, one promoted by its late leader Hassan Nasrallah: defensive
+      resistance to Israel.
+
+
+      The auguries on this occasion are not good. Katz has insisted Israel “control
+      the remaining bridges and the security zone up to the Litani”. On March 23, the
+      waspish Bezalel Smotrich, Israel’s nationalist far-right finance minister, went
+      further, telling a meeting of his Religious Zionism faction at the Knesset that
+      the Litani had to “be our new border with the state of Lebanon, just like the
+      ‘Yellow Line’ in Gaza and like the buffer zone and peak of the Hermon in Syria.”
+      He envisaged the creation of “a sterile security cordon that will separate the
+      enemy from our citizens.”
+
+
+      If this form of de facto annexation and territorial theft is formalised, the narrative
+      of resisting occupation will again be enlivened. As Jack Khoury, writing in Haaretz,
+      remarks, “History suggests that as long as an occupation exists, an organization
+      will emerge to fill the vacuum and carry that banner.” If not a revivified Hezbollah,
+      then some other power will assume the mantle. Politically, such a decision will
+      also be foolish, weakening Lebanon’s president, Joseph Anoun, and its Prime Minister
+      Nawaf Salam and made more so given the Lebanese government’s willingness to conduct
+      direct negotiations with Israel, through the offices of Washington, to reach a
+      peace agreement. But these are heady days for the war makers, and those unfashionable
+      types wishing for peace have long been put out to pasture.'
+    one_sentence_summary: The article critiques Israel's military operations in Lebanon,
+      arguing that its aggressive tactics, reminiscent of past conflicts, will not resolve
+      security issues and may instead perpetuate violence and instability in the region.
+    paragraph_summary: The article critiques Israel's ongoing military operations in
+      Lebanon, highlighting the devastating impact of its actions on civilians and the
+      potential for escalating conflict. Following a ceasefire agreement that had already
+      been largely ignored, Israel has resumed aggressive tactics against Hezbollah,
+      resulting in significant casualties and displacement of the civilian population
+      in southern Lebanon. Israeli officials have announced plans to destroy infrastructure
+      and homes to prevent Hezbollah from threatening Israeli settlements, which raises
+      concerns about war crimes and violations of international law. The article draws
+      parallels to past conflicts, suggesting that Israel's military strategies are
+      likely to perpetuate cycles of violence and resentment, ultimately undermining
+      any prospects for peace. It warns that such actions could empower groups like
+      Hezbollah and destabilize the already fragile political landscape in Lebanon,
+      countering efforts for diplomatic resolution.
+    published: '2026-03-31T05:50:52+00:00'
+  - title: Operation Epic Fury and US Unreadiness for War
+    url: https://www.counterpunch.org/2026/03/27/operation-epic-fury-and-us-unreadiness-for-war/
+    text: 'The bellicose may find wars attractive and cleansing, but those responsible
+      for such dry matters as inventory, material and how prepared the armed forces
+      of a country are will stalk them with unpleasant truths. The addiction of the
+      US imperium to waging wars, one that President Donald Trump promised, and failed,
+      to treat, has gotten the wags in the military worried. The depleting nature of
+      Operation Epic Fury has been particularly telling in this regard, revealing the
+      US war machine to be unprepared for conflict.
+
+
+      Rather than referring to preparedness, the preferred choice in US Army circles
+      is “unreadiness” or a lack of readiness. Army Undersecretary Michael Obadal, in
+      his address at the annual McAleese Defense Programs Conference, was startlingly
+      candid in this regard. “To say we’re satisfied with our readiness rates, I think,
+      would be disingenuous. We have real problems with our major weapons systems, both
+      aircraft and ground, and we have to address those things, and we’re doing so in
+      a number of ways.” (The major weapons systems were left unnamed.)
+
+
+      One of his suggestions involves placing greater focus on “Public-private partnerships
+      in an organic industrial base (OIB) [as] one of the most fundamentally different
+      approaches that we can take.” The organic industrial base takes in some 23 depots,
+      arsenals and ammunition plants responsible for manufacturing and resetting army
+      equipment while fostering readiness and operational capability. “The OIB,” according
+      to the US Army, “must be able to support current unit readiness, maintain the
+      ability to surge, and modernize and retool to sustain the next generation of equipment.”
+      Much has been made in the vanilla propaganda of the army of its “Modernization
+      Implementation Plan” (MIP), which officially commenced in October 2024.
+
+
+      Establishing what readiness means in all of this is a thorny issue. Obadal lets
+      the cat out of the bag in stating that “everyone will have different metrics”,
+      a suitably unsatisfactory state of affairs. His own criteria are threefold: How
+      the Army can respond tonight with what is available; what it can do in the next
+      month to deal with the contingency; and what it can do to sustain the effort for
+      the next year of combat.
+
+
+      Applying his own threefold metrics to the Army, Obadal identified problems with
+      major weapons systems and, critically, problems with magazine depth. While not
+      expressly referring to Operation Epic Fury and the war against Iran, the undersecretary
+      did state that the “current situation” had “absolutely” aggravated matters. To
+      address such problems, notably with weapons systems, manufacturers could work
+      alongside soldiers and engineers in the theatre to fix vehicles and aircraft more
+      expeditiously.
+
+
+      Legislation regarding “right to repair” provisions that would enable soldiers
+      to tend to equipment problems without having to send them back to the manufacturer
+      was also on the cards, though yet to pass. Obadal hoped that these would find
+      their way into the 2027 National Defense Authorization Act. “We have to be very
+      narrow on what we’re asking for. So how many repetitions, how many units, how
+      many years before we have IP [intellectual property], and there’s some IP that
+      we don’t want commercial software and other things.” Companies could “keep that
+      because we want them to be responsible for the updates, the security patches and
+      all that, but we want to be able to change things out as the environment demands”.
+
+
+      The Army was also on the lookout for industry partners well advanced in their
+      “TLR” [technology readiness level] when seeking contracts with the Pentagon. In
+      addressing the problem of magazine depth, Obadal referenced the new modernising
+      drive inviting private industry to co-invest in OIB installations. “If we ask
+      industry to change, we have to address the long-term viability of our own organic
+      industrial base. So a new environment requires new approaches.”
+
+
+      Other sources add more troubling details about the problems Obadal was good enough
+      to underline. A Government Accountability Office report finalised just prior to
+      the pre-emptive attack on Iran on February 28 and published on March 4 tut tutted
+      the Pentagon for not fully implementing over 150 recommendations from earlier
+      reviews with the express purpose of improving the availability of equipment, the
+      bulking of personnel resources and supporting better decision-making on readiness.
+      Shortages in trained maintenance personnel have caused problems across all branches
+      of the armed services. This has hampered, for instance, “meeting mission capable
+      rate goals for their aircraft that support combat-related missions.”
+
+
+      In a separate summary of issues afflicting US forces, the GAO notes with cold
+      certainty that almost two decades of war “has degraded US military readiness.
+      To adapt to growing threats posed by major powers (such as China and Russia) and
+      other adversaries, the Department of Defense (DOD) and the individual military
+      services must make some urgent changes.”
+
+
+      The GAO was also reproachful of the failure of both the Air Force and Navy for
+      not completing “sustainment reviews” for their aircraft, an indispensable measure
+      for maintaining readiness for the life cycle of relevant machinery. Both branches
+      of the armed forces, despite the annual expenditure of billions of dollars annually,
+      had “struggled for years to maintain their aircraft due to the age of their fleets,
+      a lack of parts, maintenance delays, and other problems.”
+
+
+      On specific weapons platforms, the Pentagon faces challenges in, for instance,
+      maintaining the staggeringly gluttonous F-35 fleet. These include “delays setting
+      up military service depots – facilities to complete the most complex repairs –
+      and inadequate equipment to keep aircraft operational.” While the department intended
+      to move more maintenance responsibilities from external contractors to the government,
+      no plan to do so had been made.
+
+
+      Repair depots are also taken to task for their shabbiness. “Depot infrastructure
+      generally remains in fair to poor condition, and most depot equipment is past
+      its service life.” The DOD persistently failed to report what was needed to arrest
+      further deterioration.
+
+
+      With such a body of reservations, reproachful critique and recommendations unimplemented,
+      the unreadiness of the US armed forces puts paid to the narrative, all too regularly
+      touted by Trump and his unhinged Secretary of War, Pete Hegseth, of boundless
+      resources and peerless invincibility. The Iran War is all but confirming that;
+      the unready have been found wanting.'
+    one_sentence_summary: The article highlights the alarming state of unreadiness within
+      the US military, as expressed by Army Undersecretary Michael Obadal, who points
+      to significant deficiencies in major weapons systems and maintenance capabilities,
+      exacerbated by prolonged military engagements and a lack of effective reforms,
+      ultimately undermining the US's ability to respond to contemporary threats.
+    paragraph_summary: The article discusses the alarming state of unpreparedness within
+      the U.S. military, particularly highlighted by the challenges faced during Operation
+      Epic Fury. Army Undersecretary Michael Obadal candidly acknowledged significant
+      issues with major weapons systems and a lack of readiness, emphasizing the need
+      for public-private partnerships to enhance the organic industrial base responsible
+      for military equipment. Despite the Army's "Modernization Implementation Plan,"
+      the readiness metrics remain vague and problematic, with a Government Accountability
+      Office report revealing that nearly two decades of war have degraded military
+      readiness. The report criticized the Pentagon for failing to implement over 150
+      recommendations aimed at improving equipment availability and personnel resources,
+      while shortages in trained maintenance personnel have further hampered operational
+      capabilities. Overall, the article paints a grim picture of the U.S. military's
+      readiness, contradicting claims of invincibility and resource abundance, particularly
+      in light of ongoing conflicts like the war against Iran.
+    published: '2026-03-27T05:48:22+00:00'
+  - title: 'More Parleying Nonsense: Trump, Iran and Promised Negotiations'
+    url: https://www.counterpunch.org/2026/03/26/more-parleying-nonsense-trump-iran-and-promised-negotiations/
+    text: 'It’s almost not worth considering, but precisely because it comes from the
+      White House, the mad manoeuvrings and silly airings of the US President must be
+      taken seriously. But only to a point. Over the last week, a series of events have
+      taken place demonstrating the growing alarm within the administration that things
+      are simply not going according to plan. Iran is proving asymmetrically resourceful,
+      threatening and durable. Tehran’s control of the Strait of Hormuz, waterway to
+      some fifth of the world’s oil and global shares of other products, including gas
+      and fertiliser, is biting financial markets.
+
+
+      On March 20, President Donald Trump openly considered scaling back operations
+      in the war with Iran. This assertion was somewhat cheapened by the deployment
+      of 2,500 additional Marines to the region, along with a request to Congress for
+      an additional $200 billion for the conflict. On social media, Trump claimed that
+      the US was “getting very close to meeting our objectives as we consider winding
+      down our great Military efforts in the Middle East.”
+
+
+      These objectives have always been hopelessly vague, but the President offered
+      a few pointers that failed to clarify matters beyond the usual tactical triumphalism
+      that has accompanied the briefings of this administration. Iran’s missile capability,
+      including launchers “and everything else pertaining to them” were being “degraded”.
+      Iran’s defence industrial base was in the process of being destroyed. The country’s
+      navy and air force, including anti-aircraft weaponry, had been essentially eliminated.
+      Tehran would never be permitted “to get even close to Nuclear Capability”, with
+      the US always in a position to react speedily and “powerfully” in such a case.
+      Fifthly, Washington’s Middle Eastern allies, including Israel, Saudi Arabia, Qatar,
+      the United Arab Emirates, Bahrain, Kuwait, and others, were to be protected. (Iran
+      has made the fifth point not merely redundant but false: the US security guarantee
+      has not been worth the rather expensive paper it was inked on.)
+
+
+      As for the Strait of Hormuz, dreamy suggestions involving guarding and policing
+      by those nations using it followed. The US would provide assistance to such countries
+      “in their Hormuz efforts, but it shouldn’t be necessary once Iran’s threat is
+      eradicated. Importantly, it will be an easy Military Operation for them.” No such
+      indication of engagement by said countries has been forthcoming, and Iran remains,
+      to date, firmly in control of the Strait.
+
+
+      White House Press Secretary Karoline Leavitt did little to fan the dust away,
+      claiming that Trump and the Pentagon had “predicted it would take approximately
+      4-6 weeks to achieve this mission.” Take your pick, Leavitt: a few weeks, a month,
+      six months. Either way, on an ongoing daily basis, “the Iranian Regime is being
+      crippled, and their ability to threaten the United States and our allies is being
+      significantly weakened.” For a cripple, Iran continues to do astonishingly well,
+      only permitting traffic through the Strait of Hormuz it approves of, and continuing
+      its drone and missile strikes on targets that have extended as far as the joint
+      US-US base of Diego Garcia in the Indian Ocean.
+
+
+      Much of the chatter about the chat involves the usual parties. On March 22, Trump’s
+      envoys, Steve Witkoff and Jared Kushner were again involved in negotiations, this
+      time with Iran’s parliamentary speaker, Mohammad-Bagher Ghalibaf. (The speaker
+      denies having ever had such discussions, describing it as “Fake news” with the
+      purpose of manipulating “financial and oil markets and to escape the quagmire
+      in which America and Israel are trapped.”) The mentioning of this official was
+      already suspicious, given the shortsighted, rather neanderthal tactics of the
+      US-Israeli war machine in killing off, not merely the top echelons of the Iranian
+      leadership but secondary, somewhat skilled officials who might serve to engage
+      in diplomacy. Other reports point to the mediating role of Turkey, Egypt and Pakistan
+      in passing on messages between the US and Iran. The Egyptian Foreign Ministry
+      was good enough to signal that backchannel conversations were ongoing between
+      Witkoff and Iranian Foreign Minister Abbas Araghchi.
+
+
+      On March 23, with the clock ticking for yet another ultimatum for Iran to meet
+      – opening the Strait of Hormuz to all shipping or face the destruction of its
+      energy grid – Trump again took to the pulpit of Truth Social to announce, just
+      before markets opened, that “very good and productive conversations” had taken
+      place between the parties “regarding a complete and total resolution of our hostilities
+      in the Middle East.” Given such progress, he had instructed the Pentagon to postpone
+      strikes that had been promised against Iranian power plants and energy infrastructure
+      for a period of five days, conditional on continued progress.
+
+
+      Tehran was having none of this. “There is no negotiation whatsoever between Tehran
+      and Washington. The statements of the president of the United States are within
+      the framework of an attempt to lower energy prices and buy time for the implementation
+      of his military plants.” On both points, the statement is shrewd. The man in the
+      White House may claim to be an unparalleled master of making deals, but when it
+      comes to Iran, he was proven a crotchety novice and stumbling saboteur, always
+      impressionable towards Israel’s needs and incapable of maintaining a consistent
+      front.
+
+
+      Diplomacy has been used as a stalling measure, as it was leading up to the attacks
+      of February 28 on Iran. With market shocks, Trump’s timed announcement of progress
+      with Iran on terms that remain sketchy (presumably they remain opening the Strait,
+      the abandoning of Iran’s nuclear ambitions, its ballistic missile capability,
+      and its funding program for Shia proxies across the Middle East) seems designed
+      to calm trade before the next round of strikes. In the chaos, Iran remains calculatingly
+      resolute.'
+    one_sentence_summary: The article discusses the growing concerns within the Trump
+      administration regarding Iran's resilience and control over the Strait of Hormuz,
+      highlighting the contradictory actions and vague objectives of U.S. military strategy
+      in the region, as well as Iran's dismissive response to U.S. diplomatic overtures.
+    paragraph_summary: The article discusses the escalating tensions between the U.S.
+      and Iran, highlighting the Trump administration's mixed signals regarding military
+      operations and diplomatic efforts. Despite President Trump's claims of nearing
+      success in degrading Iran's military capabilities and achieving objectives in
+      the Middle East, the reality on the ground suggests otherwise, as Iran continues
+      to assert control over the strategic Strait of Hormuz and maintain its military
+      strength. The administration's contradictory actions, such as deploying additional
+      troops while hinting at scaling back operations, reflect a growing alarm about
+      the situation. Diplomatic overtures, including backchannel negotiations, appear
+      to be more about managing market reactions than achieving substantive progress,
+      with Iran firmly rejecting the notion of negotiations with the U.S. The article
+      portrays the U.S. strategy as inconsistent and heavily influenced by Israeli interests,
+      while Iran remains resilient and strategically positioned.
+    published: '2026-03-26T05:50:56+00:00'
+  - title: 'Tremors in MAGA: Joe Kent, the Iran War and the Antisemitism Smear'
+    url: https://www.counterpunch.org/2026/03/24/tremors-in-maga-joe-kent-the-iran-war-and-the-antisemitism-smear/
+    text: 'Joe Kent, the now former US Director of the National Counterterrorism Center,
+      always seemed a bit off, especially to liberals. As a combat veteran of MAGA pedigree,
+      he found favour with President Donald J. Trump, who rewarded him for his conspiracy
+      blustering in a manner befitting other nominees baptised in the truth repelling
+      River of Fox News. But the mindless adventurism in attacking Iran in league with
+      Israel was a step too far.
+
+
+      In his resignation letter, Kent asserted that he could not “in good conscience
+      support the ongoing war in Iran. Iran posed no imminent threat to our nation,
+      and it is clear that we started this war due to pressure from Israel and its powerful
+      American lobby.” Till June 2025, the President had “understood that the wars in
+      the Middle East were a trap that robbed America of the precious lives of our patriots
+      and depleted the wealth and prosperity of our nation.”
+
+
+      Then came the machinations of “high-ranking Israeli officials and influential
+      members of the American media” with their “misinformation campaign that wholly
+      undermined your America First platform and sowed pro-war sentiments to encourage
+      a war with Iran.” From there came the “echo chamber” that deceived Trump “into
+      believing Iran posed an imminent threat to the United States, and that should
+      you strike now, there was a clear path to a swift victory.” The same tactics had
+      been used by Israel in drawing the US “into the disastrous Iraq War that cost
+      our nation the lives of thousands of our best men and women.”
+
+
+      Israel comes in for a further lashing for having left its personal mark on Kent’s
+      life. “As a veteran who deployed to combat 11 times and as a Gold Star husband
+      who lost my beloved wife Shannon in a war manufactured by Israel, I cannot support
+      sending the next generation off to die in a war that serves no benefit to the
+      American people nor justifies the cost of American lives.”
+
+
+      The portrait of Kent is an unremittingly spiky and jarring one. Even before the
+      resignation, he was already under investigation by the FBI’s criminal division
+      for alleged leaks of classified information, which should commend him to the fifth
+      estate. (Such leaks in any administration, and most certainly one like the Trump
+      administration, should be treasured, not abominated.) Former deputy White House
+      chief of staff Taylor Budowich was of the view that Kent was “often at the centre
+      of national security leaks” and “spent all his time working to subvert the chain
+      of command and undermine the President of the United States”.
+
+
+      The language of the resignation note was also bound to stir the blood of those
+      willing to see antisemitism rearing its vast, deformed head. This was made easier
+      given Kent’s checkered history, a point made by the Anti-Defamation League (ADL)
+      and the Southern Poverty Law Center (SPLC) during last year’s confirmation hearings
+      on Capitol Hill. In a February 2025 statement, the ADL noted his tendency to promote
+      “multiple conspiracy theories” and forge links “with individuals who have extremist
+      ties, including to groups such as the Proud Boys, Groypers and Three Percenters,
+      some of which have a history of violence.”
+
+
+      In a June 2025 joint letter authored with the Western States Center, the SPLC
+      similarly noted a past heavily salted with conspiracy theorising and links to
+      right wing extremism and white supremacists. Kent had not only “embraced discredited
+      anti-government conspiracy theories – including that the FBI and the intelligence
+      community were involved in the January 6, 2021 deadly attacks at the US Capitol”
+      but had “connections with bigoted individuals, far right violent extremists, and
+      anti-democratic movements”. He had, for instance, discussed social media strategy
+      with the white nationalist and antisemite Nick Fuentes and conducted an interview
+      with Greyson Arnold, a live streamer who thought Hitler “a complicated historical
+      figure which many people misunderstand”.
+
+
+      The ADL and the American Israel Public Affairs Committee (AIPAC) who nakedly operate
+      as open fronts of Israeli opinion, were bound to play the ad hominem game in attacking
+      the man over opinion. According to the ADL, Kent’s letter trafficked “in old-age
+      antisemitic tropes”. It was hardly a “surprise that he would blame Israel and
+      the media for pushing the President into war against the Iranian regime.” Refusing
+      to consider the pathological lunacy underlying the pre-emptive war on Iran, Ilan
+      Goldenberg of the liberal pro-Israel advocacy group J Street could only see “ugly
+      stuff that plays on the worst antisemitic tropes”.
+
+
+      These inane airings are unsurprising. The ADL refuses to acknowledge the sheer
+      depth of Israeli involvement and support in the US political and religious establishment,
+      much of it unhealthy and a good deal of it undemocratic. Suggestions that Israel
+      might be distorting the perspective of US strategists and policy makers are shouted
+      down in frothing fury. The organisation can barely stomach the term “Israel lobby”,
+      something evidenced in the organisation’s travesty of a review of a work bearing
+      that name by John J. Mearsheimer and Stephen M. Walt. Here was, in the words of
+      the ADL’s unlettered hatchet job, “a classical conspiratorial anti-Semitic analysis
+      invoking the canards of Jewish power and Jewish control.” Unmissable here is that
+      Mearsheimer and Walt had, like Kent, also noted the poisonous hold Israel had
+      exerted over the Washington establishment in encouraging the pre-emptive, illegal
+      war waged against Iraq in 2003. The lie of the imminent threat has some form.
+
+
+      Kent also had another handicap from the past that was bound to be exploited by
+      the administration. On that platform of handy bile and venom called Truth Social,
+      Trump posted a tweet from January 2020 in which Kent encouraged attacking Iran.
+      “We should not sit and wait for the next attack, wipe Iran’s ballistic capability
+      out and get our troops out of Iraq – they are only targets now.” The post on what
+      was then Twitter was made in the aftermath of Trump’s order to assassinate the
+      Iranian commander of the Quds force, General Qassem Soleimani. “No US WIA/KIA
+      is a tribute to the professionalism of our military and intel professionals not
+      Iranian restraint.”
+
+
+      As the letter itself indicates, Kent may have changed his mind. He even acknowledged
+      that Soleimani’s assassination was a decisive application “of military power without
+      getting us drawn into never ending wars.” (MAGA is for slaying foreign officials,
+      as long as the operation is scrupulously limited.) For the dogmatist followers
+      of the Trump MAGA brand, something deeper is underfoot. The prospects for conscientious
+      objections to the war by service members reluctant to serve in the conflict have
+      also improved. Prolonging the absurd, illegal, and increasingly catastrophic war
+      against Iran will prove telling in that regard. And just because it is deemed
+      such by a person as sketchy as Kent is hardly a reason to ignore the premise.'
+    one_sentence_summary: Joe Kent, the former US Director of the National Counterterrorism
+      Center, resigned in protest against the war in Iran, claiming it was driven by
+      Israeli influence and not an imminent threat to the US, while his controversial
+      past and connections to conspiracy theories have drawn criticism and accusations
+      of antisemitism.
+    paragraph_summary: Joe Kent, the former US Director of the National Counterterrorism
+      Center, resigned in protest against the ongoing war in Iran, claiming it was initiated
+      under pressure from Israel and its American lobby, despite Iran posing no imminent
+      threat to the US. In his resignation letter, Kent criticized the misinformation
+      campaign by Israeli officials and American media that misled President Trump into
+      believing in an imminent threat from Iran, drawing parallels to the Iraq War.
+      Kent, a combat veteran and Gold Star husband, expressed his opposition to sending
+      future generations to fight in a war that serves no American interests, citing
+      his personal losses and experiences. His resignation has sparked controversy,
+      with accusations of antisemitism and connections to extremist groups being highlighted
+      by organizations like the Anti-Defamation League and the Southern Poverty Law
+      Center. Despite his controversial past, Kent's objections to the war raise questions
+      about the motivations behind US military actions in the Middle East and the influence
+      of foreign interests on American policy.
+    published: '2026-03-24T05:56:51+00:00'
+  - title: 'No Naval Escort for Trump: US Allies and the Strait of Hormuz'
+    url: https://www.counterpunch.org/2026/03/23/no-naval-escort-for-trump-us-allies-and-the-strait-of-hormuz/
+    text: 'With each dragged out day, President Donald Trump begins resembling a mad
+      emperor who has not only taken leave of his senses but leave of everything else.
+      Having hitched his wagon to the Israeli program of chaos and destabilisation in
+      the Middle East, he is stuck in a war he is incapable of controlling or dictating.
+      The periodic announcement of the next assassination of a notable Iranian leader
+      is trumpeted like a holy ritual. The next round of ecstatic bombing is hailed
+      in the court as the biggest yet. But behind these gestures lies an expansive emptiness.
+
+
+      Perhaps most telling of such emptiness is the sham of the alliance system he has
+      sought to distance himself from even as he mocks its members. Whether it is members
+      of NATO or allies such as Canada and Australia, Trump has been treated with scrupulous,
+      sometimes grovelling care. Flaring tantrums and spontaneous interpretations of
+      world politics mingle in ugly consummation. Views are contradicted in the same
+      slurry of words. The allies can only nod.
+
+
+      Of late, he is showing greater concern towards the increasing distance shown by
+      the Pax Americana family. Initially, almost all of them made sure not to call
+      his administration or that of Israeli Prime Minister Benjamin Netanyahu brigands
+      for having violated the United Nations Charter in attacking Iran. Australia bolted
+      out puffing with a condemnation of Iran for having, supposedly, a viable nuclear
+      weapons program that needed to be eliminated. Canada and various countries in
+      the European Union all adopted variations of the same theme, taking care to demonise
+      Tehran for its ambitions and not, for a moment, considering what Israel and the
+      US had done. The United Kingdom, after initial hesitation, offered the US use
+      of its bases in bombing Iran. The grand retreat from international law seemed
+      complete, the jungle dwellers very much in charge.
+
+
+      This initial enthusiasm for US-Israeli adventurism began to cool. It is becoming
+      increasingly clear that those devilish Persians are holding out with white knuckled
+      determination, causing much global mayhem with their targeting of infrastructure
+      in the Gulf states and a closure of the Strait of Hormuz. Planners in the Pentagon,
+      State Department and White House must have been aware about the dangers of Iran
+      effectively closing the vital waterway responsible for the transit of a fifth
+      of the world’s oil. To this can be added a laundry list of essentials: gas, fertilisers,
+      critical minerals. Yet these wiseacres find themselves scrambling to find allies
+      and willing contributors to escorting vessels through the Strait.
+
+
+      Trump, for his part, has a fantasist’s view of the war, one peppered by contradiction.
+      In posts on Truth Social, he describes “a Nation that has been totally decapitated”
+      that still, mysteriously, has the means to close the waterway and inflict damage.
+      Yet he hopes for assistance from such countries as China, France, Japan and South
+      Korea, who might “send Ships to the sea that that the Hormuz Strait”. But not
+      to worry, as the US “will be bombing the hell out of the shoreline, and continually
+      shooting Iranian Boats and Ships of the water.” (How is that going, Mr President?)
+
+
+      The wish for escorting commercial traffic, however, is not likely to be met –
+      at least as things stand. Washington’s allies are baulking. Kaja Kallas, the European
+      Union’s High Representative for Foreign Affairs and Security Policy, had seen
+      the pre-emptive attack on Iran and the assassination of Iran’s Supreme leader
+      Ayatollah Ali Khamenei as a heaven-sent opportunity. Now, she was gruffly insisting
+      that, “This is not Europe’s war. We didn’t start the war. We were not consulted.”
+
+
+      UK Prime Minister Sir Keir Starmer merely conceded that a “viable plan” to deal
+      with the Strait was being sought, while Energy Secretary Ed Miliband stated that
+      “any options that can help to get the strait reopened are being looked at in concern
+      with our allies.” France’s President Emmanuel Macron was of the view that any
+      mission to escort container ships and tankers through the Strait “must be entirely
+      separate from the ongoing war operations and bombings”. But most stinging of all
+      was German Defence Minister Boris Pistorius: “What does Trump expect from a handful
+      of European frigates that the powerful US navy cannot do?” This was not NATO’s
+      war. “We have not started it.”
+
+
+      On Truth Social, Trump vented with usual spiky petulance. He noted that “most”
+      of America’s NATO allies had informed Washington that they did not wish to get
+      involved “against the Terrorist Regime of Iran, in the Middle East, despite the
+      fact that almost every Country strongly agreed with what we were doing, and that
+      Iran cannot, in any way, shape or form, be allowed to have a Nuclear Weapon.”
+      He is, on that score, partially correct, in so far as a gaggle of liberal democratic
+      states had few reservations cheering on extra-judicial murder and regime change
+      in Tehran.
+
+
+      He is far from correct in assuming that countries such as Australia and the United
+      Kingdom have refused to get involved: contributions to the war in what has been
+      shiftily described as a “defensive” capacity have been made. And a country like
+      Australia is always implicated in any bombing campaign the US ever embarks upon,
+      given the indispensable role played by the highly secretive Pine Gap joint satellite
+      and signals intelligence facility, located just outside Alice Springs.
+
+
+      As for those same allies, the President declared a lack of surprise at their reluctance
+      “because I always considered NATO, where we spend Hundreds of Billions of Dollars
+      per year protecting these same Countries, to be a one way street – We will protect
+      them, but they will do nothing for us, in a time of need.” But did Trump require
+      their assistance? No, as it turns out, as “we have had such Military Success,
+      we no longer ‘need’, or desire, the NATO Countries’ assistance – WE NEVER DID!
+      Likewise, Japan, Australia, or South Korea.” The question begs itself: Why ask
+      in the first place?'
+    one_sentence_summary: The article critiques President Donald Trump's erratic foreign
+      policy, particularly his reliance on military aggression against Iran and the
+      resulting alienation of traditional allies, revealing a disconnect between his
+      grandiose claims of success and the reality of a chaotic and uncontrollable conflict.
+    paragraph_summary: The article critiques President Donald Trump's handling of U.S.
+      foreign policy, particularly regarding the Middle East and Iran, portraying him
+      as increasingly disconnected and erratic. It highlights his reliance on an aggressive
+      Israeli agenda that has led to a chaotic and uncontrollable military situation,
+      marked by bombings and assassinations, while allies express reluctance to support
+      these actions. Despite initial enthusiasm for U.S.-Israeli military ventures,
+      European allies are now distancing themselves, emphasizing that they did not initiate
+      the conflict and are hesitant to engage further. Trump's contradictory statements
+      and frustrations about NATO and other allies' lack of support reveal a deeper
+      emptiness in his foreign policy approach, as he grapples with the realities of
+      global alliances and the complexities of military engagement. Ultimately, the
+      article suggests that Trump's bravado masks a significant disconnect between his
+      ambitions and the actual geopolitical landscape.
+    published: '2026-03-23T05:48:22+00:00'
   - title: 'Blocking Fertilisers: The Hormuz Strait and Agricultural Shock'
     url: https://www.counterpunch.org/2026/03/19/blocking-fertilisers-the-hormuz-strait-and-agricultural-shock/
     text: 'The closure of virtually all commercial traffic through the Strait of Hormuz

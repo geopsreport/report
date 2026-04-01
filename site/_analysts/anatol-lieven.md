@@ -8,14 +8,169 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As the Ukraine conflict grinds on and the Israeli-U.S. confrontation with Iran continues to destabilize global energy markets, European leaders are facing mounting pressure to reassess their strategic priorities. The latest controversy centers on Belgian Prime Minister Bart de Wever’s call for the European Union to normalize relations with Russia and resume energy imports, a proposal that has drawn sharp criticism from other EU leaders who remain committed to isolating Moscow. **Anatol Lieven** notes that de Wever’s stance, though unpopular, reflects growing anxiety over Europe’s economic vulnerability amid soaring energy prices and the risk of recession triggered by the Middle Eastern crisis.
+  The ongoing U.S.-Israeli war against Iran has become the central axis of geopolitical instability, with ripple effects across Europe and the transatlantic alliance. As **Anatol Lieven** highlights, divisions within NATO are deepening, with European governments increasingly at odds with Washington over the scale and direction of military action. Public dissent is mounting, and calls for troop withdrawals are growing louder, raising fundamental questions about the alliance's future.
   
-  Meanwhile, the internal political fallout from Europe’s perceived weakness on Iran and Gaza is becoming increasingly pronounced. According to **Anatol Lieven**, the EU’s failure to assert an independent position from Washington has not only diminished its global influence but is also fueling domestic radicalization. This trend is particularly visible in France, where economic stagnation and political fragmentation are empowering extremist parties and threatening democratic norms.
+  In the latest developments, European leaders are facing mounting domestic pressure as energy prices soar and economic instability intensifies, largely as a result of the Iran conflict. The Belgian Prime Minister’s recent call for normalization with Russia—aimed at alleviating the energy crisis—was met with sharp criticism from other EU leaders, reflecting a broader reluctance to break with the hardline stance on Russia. **Lieven** notes that this internal discord is not only straining EU unity but also fueling radicalization and political fragmentation at home: “European leaders’ weak response to the U.S. and Israeli war against Iran…exacerbates internal political crises, potentially leading to the rise of extremist factions and the erosion of democracy in Europe.”
   
-  On the military front, the Ukraine war continues to drive innovation in tactics and technology, with the widespread use of drones and fortified defensive lines marking what **Anatol Lieven** describes as “the biggest evolution in military tactics since WWII.” These developments are shaping not only the battlefield in Ukraine but also Western planning for potential future conflicts, especially in the context of U.S.-China tensions over Taiwan.
+  Meanwhile, the Ukraine war continues to shape military thinking, with the widespread adoption of drones and defensive tactics marking what **Lieven** calls “the biggest evolution in military tactics since WWII.” These changes are influencing strategic calculations far beyond Eastern Europe, particularly in the context of potential U.S.-China tensions over Taiwan.
   
-  Looking ahead, there is a high chance that European divisions over Russia policy and the broader consequences of the Middle East conflict will deepen, further straining transatlantic unity and domestic stability. The push for a negotiated settlement in Ukraine remains fraught, but the majority of analysts agree that a pragmatic compromise—however painful—may be the only viable path to peace. I guarantee that unless Europe finds a more coherent strategy to address both external threats and internal discontent, its influence will continue to wane, with significant implications for the global balance of power.
+  **Trends and Predictions:**  
+  The majority of analysts agree that the Iran conflict is accelerating the fragmentation of NATO and the EU, with high confidence that public pressure and economic pain will force European leaders to reconsider their alignment with U.S. policy. There is a high chance that if the war drags on, calls for diplomatic engagement with Russia and Iran will intensify, despite current resistance from key European capitals. The risk of political radicalization and democratic backsliding in Europe is also quite likely, as economic hardship and unpopular foreign policies drive voters toward extremist parties.
+  
+  In summary, the Iran war is not only reshaping alliances and military doctrine but also threatening the political stability of Europe itself. Unless a diplomatic breakthrough emerges soon, the transatlantic alliance faces its most severe test in decades.
 articles:
+  - title: Is the Iran War breaking NATO forever?
+    url: https://responsiblestatecraft.org/iran-war-nato/
+    text: 'In the view of General de Gaulle, “Treaties are like young girls and roses;
+      they last while they last.” By that standard, the North Atlantic Treaty Organization
+      seems to be wilting pretty fast. The Israeli-U.S. war on Iran has opened up (or
+      revealed) divisions that may prove fatal.
+
+
+      This week, in the first call of its kind from the European right, Tino Chrupalla,
+      federal spokesman of Germany’s Alternative For Germany (AFD) party, declared ,
+      “Let’s begin to put into practice what our party manifesto says: the withdrawal
+      of all U.S. troops from Germany.” He said that Germany cannot call itself a truly
+      sovereign country while it hosts foreign bases over which it has no real control.
+
+
+      Chrupalla praised the Spanish government’s action in closing U.S. bases and Spanish
+      airspace to participation in the Iran War: “Ships under the Spanish flag are allowed
+      to pass the Strait [of Hormuz]. Why are the Spaniards allowed to cross? Because
+      Spain has closed its bases for the Iran war. And that is totally right.”
+
+
+      This is an obvious riposte to President Trump’s latest remark that “countries
+      like the United Kingdom”, that refused to get involved in the Iran War” should
+      “Go get your own oil.” Iran has in fact allowed ships with oil destined for neutral
+      countries to pass the Strait of Hormuz.
+
+
+      Understandably however, Tehran does not consider European countries that host
+      bases from which the U.S. is attacking Iran to be truly “neutral.” If the war
+      continues and energy shortages in Europe worsen, calls for other European countries
+      to follow Spain are bound to intensify. The fate of the Gulf Arab states in this
+      war has underlined the risks of hosting foreign military forces that you do not
+      control.
+
+
+      France and Italy are indeed beginning to head in this direction. Italy has denied
+      permission for U.S. planes headed to the war to refuel in Italy. France has closed
+      its airspace to U.S. flights linked to the war. Trump’s response has been predictably
+      furious, posting that “The U.S. will remember” France’s lack of help, and warning
+      Britain and France that, “You’ll have to learn how to fight for yourself, the
+      U.S.A. won’t be there to help you anymore, just like you weren’t there for us.”
+
+
+      This is despite the fact that Britain has allowed the U.S. to use its bases for
+      strikes on Iran — officially, only ones “defending” the Strait of Hormuz, but
+      who is checking?
+
+
+      In a more measured but therefore perhaps even more menacing way, Secretary of
+      State Marco Rubio has said , “If NATO is just about us defending Europe if they’re
+      attacked but then denying us basing rights when we need them, that’s not a very
+      good arrangement. That’s a hard one to stay engaged in and say this is good for
+      the United States. So all of that is going to have to be reexamined.”
+
+
+      NATO has of course been through crises before. President Eisenhower brought the
+      Anglo-French seizure of Suez in 1956 to an end through economic pressure. President
+      Johnson was furious with the British refusal to send troops to Vietnam. The U.S.
+      strongly opposed the creation of the network of gas pipelines from Siberia to
+      Europe in the 1970s. France and Germany attracted great anger from the Bush administration
+      by refusing to take part in the attack on Iraq in 2003.
+
+
+      This crisis does however look significantly worse. Apart from Suez (where it was
+      the U.S. that brought the war to an end) none of these cases touched on the vital
+      interests of Europe or the U.S. On the U.S. side, Washington was well aware that
+      European participation in the wars in Vietnam and Iraq would in any case have
+      been almost entirely symbolic. By contrast, a united European move to close airspace
+      to U.S. flights would critically undermine the U.S. campaign against Iran.
+
+
+      On the European side, none of the previous clashes with the U.S. had direct and
+      obvious consequences for European economies and political systems. The Iran War
+      risks creating an economic depression leading in turn to increased radicalization
+      and polarization in Europe.
+
+
+      Finally, in the case of the Iraq War there was at least a facade of consultation
+      and reasoned justification by the Bush administration. The Trump administration
+      launched the attack on Iran without any consultation at all with NATO allies,
+      and on the basis of justifications that are both incoherent and transparently
+      false.
+
+
+      In their refusal to participate in the Iran War, West European governments have
+      solid support from their own populations, where large majorities in every country
+      oppose the Israeli-U.S. campaign. European public opposition to the war has been
+      greatly increased by Trump’s deep personal unpopularity in Europe, and his crude
+      insults against European countries. This has been a key factor in shifting right-wing
+      populist movements like AfD into distance from or opposition to the war.
+
+
+      As self-styled patriotic movements, they cannot be seen to be siding with attacks
+      on their nations. In the case of Britain, the most instinctively pro-U.S. of all
+      the NATO countries, Trump caused outrage by his insults to the British armed forces,
+      and forced even the opposition parties to come to the defense of Prime Minister
+      Keir Starmer when Trump insulted him personally. Almost 60% of British respondents
+      to a poll oppose the U.S. using British bases for the war.
+
+
+      In the background to these European responses also lies the growing unpopularity
+      of Israel in European populations, and especially in the younger generation. Even
+      before the attack on Iran, Israeli atrocities in Gaza had led 63-70% percent of
+      European respondents to take an unfavorable view of Israel. Significantly for
+      the future of European policy, these figures are considerably higher in the younger
+      generation.
+
+
+      One massive barrier to European distancing from Washington has been the Ukraine
+      War, European fears of an attack by Russia, and consequent desire for continued
+      U.S. military support. However, as both Russian interests and the grindingly slow
+      and appallingly costly progress of the Russian ground war against Ukraine both
+      indicate, this alleged Russian threat is both completely hypothetical and grossly
+      exaggerated; whereas the threat of the Iran War to European economies is all too
+      real and imminent.
+
+
+      The longer the Iran war goes on, the greater will be the pressure in Europe to
+      cut a deal with Iran — especially if European establishments have come to believe
+      that the NATO guarantee of U.S. military protection no longer holds.
+
+
+      Lastly, there is the question of what Trump does after the Iran War. It has been
+      suggested — let us hope wrongly — that one way in which he could distract attention
+      from failure in Iran, and gain some compensation for it, might be by seizing Greenland.
+      This would end NATO, for no alliance can survive an open attack by its leading
+      member on another one; and after all, Russia has not claimed a single inch of
+      NATO territory.
+
+
+      If the U.S. no longer defends and instead attacks Europe, and Europe no longer
+      acts as an airstrip for U.S. force projection elsewhere in the world, then the
+      basic rationales for NATO’s existence will have vanished.'
+    one_sentence_summary: The ongoing Israeli-U.S. war on Iran is exposing significant
+      divisions within NATO, as European countries increasingly oppose U.S. military
+      actions, leading to calls for troop withdrawals and raising questions about the
+      alliance's future amidst growing public dissent and geopolitical tensions.
+    paragraph_summary: The North Atlantic Treaty Organization (NATO) is facing significant
+      strains, particularly due to the Israeli-U.S. war on Iran, which has exposed deep
+      divisions among its members. Tino Chrupalla, a leader of Germany's Alternative
+      For Germany (AFD) party, has called for the withdrawal of U.S. troops from Germany,
+      asserting that true sovereignty cannot exist with foreign bases. This sentiment
+      is echoed by other European nations, such as Spain, Italy, and France, which are
+      increasingly distancing themselves from U.S. military actions in the region. Public
+      opposition to the war is strong across Europe, fueled by Trump's unpopularity
+      and perceived insults towards European nations, leading to a rise in right-wing
+      populist movements that oppose the war. As the conflict continues, the economic
+      repercussions for Europe could intensify, prompting calls for a reassessment of
+      NATO's relevance, especially if the U.S. is seen as a threat rather than a protector.
+      The potential for a shift in European policy towards Iran grows, particularly
+      if NATO's foundational rationale is undermined by U.S. actions.
+    published: '2026-03-31T19:46:29+00:00'
   - title: A Euro leader cursed for calling for peace — with Russia
     url: https://responsiblestatecraft.org/europe-russia/
     text: 'At long last, a European leader has said what should have been apparent from

@@ -7,19 +7,759 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the U.S. enters another contentious election season, the focus of domestic dissent is shifting. The upcoming "No Kings" protest, as highlighted by **Caitlin Johnstone**, underscores a growing frustration not just with individual leaders like Donald Trump, but with the broader system of presidential power itself. Johnstone argues that "the problem isn’t kings, it’s US presidents," emphasizing that systemic violence and imperial policy persist regardless of who occupies the Oval Office. This reflects a wider disillusionment with the bipartisan consensus on foreign and domestic policy, particularly as it relates to the maintenance of U.S. global hegemony and capitalist interests.
+  As of April 1, 2026, the geopolitical landscape remains shaped by escalating conflicts in the Middle East and growing skepticism toward Western power structures. Recent commentary from independent analysts highlights the deepening disillusionment with both the narratives and actors driving global events.
   
-  Meanwhile, debates about Western culture are intensifying. In her recent analysis, **Caitlin Johnstone** contends that the only worthwhile aspect of modern Western culture is its resistance to the "dystopian and imperialistic actions" of the West itself. She notes that many, especially white Westerners, are struggling to find an authentic cultural identity that is not complicit in global injustice and ecological destruction. This cultural crisis is feeding into broader anti-establishment and anti-imperial sentiment across the U.S. and Europe.
+  A key theme in the latest analysis is the recognition that systemic harm often originates from those wielding institutional power, rather than from the stereotypical "villains" of popular imagination. **Tim Foley** argues that “true evil often resides within the legal frameworks upheld by powerful figures like politicians and billionaires,” challenging the public to reconsider where accountability should lie. This perspective is gaining traction as observers note the lack of consequences for decision-makers behind major conflicts and economic injustices.
   
-  On the international front, the fallout from U.S. and Israeli actions in the Middle East continues to reverberate. Johnstone maintains a critical stance, arguing that sympathy for Israeli policy is being "weaponized to justify further violence and atrocities." The ongoing conflict with Iran, marked by attacks on energy infrastructure, is poised to trigger a global energy crisis, with a "high chance" of surging fuel prices and economic instability if escalation continues.
+  In the Middle East, the ongoing US-Israel alliance continues to draw criticism for perpetuating cycles of violence. Recent reports emphasize that Western media’s focus on rising antisemitism serves as a distraction from the humanitarian crisis unfolding in the region. **Caitlin Johnstone** contends that this narrative shift “distracts from the ongoing humanitarian crisis,” and that the alliance itself exists to “fix the problems created by its existence,” creating a self-perpetuating justification for intervention and conflict.
+  
+  Meanwhile, domestic political tensions in the United States are intensifying. The upcoming “No Kings” protest, as highlighted by **Caitlin Johnstone**, underscores a growing awareness that systemic violence and tyranny are not limited to any one administration but are endemic to the structure of US governance. The focus on individual leaders, such as Donald Trump, is seen as obscuring the broader, bipartisan perpetuation of imperial policies.
   
   **Trends and Predictions:**  
-  - The domestic U.S. protest movement is likely to intensify, with a high chance of broader critiques of the presidency and the political system itself, not just individual leaders.
-  - Cultural disaffection in the West will continue to grow, fueling opposition to imperial policies and possibly leading to new forms of activism and resistance.
-  - The U.S.-Israel-Iran conflict remains a major flashpoint, with a high chance of further escalation and global economic repercussions, particularly in energy markets.
+  - There is a high likelihood that public skepticism toward Western narratives and power structures will continue to grow, especially as the gap between official rhetoric and lived realities widens.
+  - The US-Israel alliance is expected to remain a flashpoint, with the majority of analysts predicting ongoing cycles of violence and justification for intervention. I guarantee that the humanitarian situation in the region will remain dire as long as current policies persist.
+  - Domestically, protests and movements challenging systemic power are quite likely to gain momentum, reflecting a broader disillusionment with traditional political solutions.
   
-  In summary, the prevailing trend is a deepening skepticism toward established power structures—both political and cultural—within the West, coupled with rising global instability linked to ongoing conflicts in the Middle East. Most definitely, these dynamics will continue to shape both domestic and international politics in the coming weeks.
+  In summary, the prevailing sentiment among independent analysts is one of deepening mistrust in established institutions and narratives, with a high confidence that these trends will intensify in the coming months.
 articles:
+  - title: Growing Up Means Realizing That None Of The Worst Villains Are In Prison
+    url: https://www.caitlinjohnst.one/p/growing-up-means-realizing-that-none
+    text: 'Reading by Tim Foley : Subscribe now When we’re kids we play cops and robbers,
+      and watch cartoons about evil criminals being stopped by virtuous crime fighters.
+      Then when we mature we learn that all the most evil people are operating within
+      the laws of our nation, and nobody ever sends them to jail. Ask a child to draw
+      a Bad Guy and they’ll probably draw a bank robber, a thief, a supervillain, or
+      somebody breaking the law in some way, because that’s what young people are trained
+      to believe wickedness looks like in their world. They won’t usually draw a politician,
+      a billionaire, a media mogul, a tech plutocrat, a warmonger, or any of the rich
+      and powerful people who are causing the real suffering in our world. The ones
+      who impose laws upon our society ensuring the continuation of poverty, inequality,
+      war, oppression and tyranny. The ones destroying our ecosystem and poisoning our
+      minds with empire propaganda. We give kids an infantile view of the world where
+      the villains look like bandits and the heroes look like superpowered crimefighters
+      and GI Joe. Which in a sense is understandable — no parent wants their young child
+      exposed to the real horrors which exist in this civilization. You wouldn’t tell
+      a six year-old that we are ruled by psychopaths who make the most sadistic serial
+      killers look like cuddly little Pikachus. The problem is that far too many adults
+      never grow out of this worldview. Post a video of police brutality online and
+      they’ll come crawling out of the woodwork frantically defending whatever monstrous
+      act it reveals, no matter how self-evidently damning the footage might be. Oppose
+      the latest war propaganda narrative and they’ll come falling all over themselves
+      in a mad scramble to tell you the government would never lie to us and the Evil
+      Regime of the Day definitely needs to be overthrown via US airstrikes. They never
+      unlearned the cartoons they ingested as children. They still think the struggle
+      of good versus evil is a struggle of lawbreakers versus law-upholders. They never
+      learned that there are many kind and decent people in prison, and that all the
+      most horrific abuses in history have been perfectly legal under the law of the
+      land. Genocides are legal under the governments who authorize them. Wars are legal
+      under the governments who wage them. Capitalist exploitation, imperialist extraction,
+      oligarchic corruption and ecocide for profit are all legal under the governments
+      who pass laws making them possible. The police never show up to arrest the men
+      who do these things. The police show up to arrest anyone who tries to stop them.
+      The law doesn’t exist to protect ordinary people from the most malignant members
+      of our society, the law exists to protect the most malignant members of society
+      from ordinary people. A mature understanding of the world clearly recognizes this.
+      And it’s the exact inverse of the understanding of the world we are indoctrinated
+      into as children. The real villains of our world look like the powerful plutocrats
+      and empire managers who are inflicting unfathomable suffering upon the innocent.
+      The real heroes look like the brave revolutionaries and truth-tellers who work
+      to dismantle the power structure that those tyrants wield against the rest of
+      us. Becoming a real grown up means recognizing that the monsters were never under
+      your bed. They were standing in broad daylight wearing expensive suits and ruling
+      the world. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/The White House .'
+    one_sentence_summary: The article by Tim Foley critiques the simplistic portrayal
+      of "bad guys" in childhood narratives, arguing that as adults, we realize that
+      true evil often resides within the legal frameworks upheld by powerful figures
+      like politicians and billionaires, rather than in the stereotypical criminals
+      depicted in children's stories.
+    paragraph_summary: In his article, Tim Foley critiques the simplistic worldview
+      instilled in children that equates villainy with lawbreaking, such as bank robbers
+      and supervillains, while overlooking the more insidious forms of evil perpetuated
+      by powerful figures like politicians, billionaires, and media moguls. He argues
+      that this childlike perspective, which portrays heroes as virtuous crimefighters,
+      fails to recognize the real sources of societal suffering, including poverty,
+      inequality, and environmental destruction, often upheld by those in positions
+      of authority. Foley expresses concern that many adults never move beyond this
+      naive understanding, as they continue to defend systemic injustices and government
+      narratives, revealing a deep-seated inability to confront the complexities of
+      moral and ethical issues in society.
+    published: '2026-03-31T11:20:14+00:00'
+  - title: Growing Up Means Realizing That None Of The Worst Villains Are In Prison
+    url: https://www.caitlinjohnst.one/p/growing-up-means-realizing-that-none
+    text: 'Reading by Tim Foley : Subscribe now When we’re kids we play cops and robbers,
+      and watch cartoons about evil criminals being stopped by virtuous crime fighters.
+      Then when we mature we learn that all the most evil people are operating within
+      the laws of our nation, and nobody ever sends them to jail. Ask a child to draw
+      a Bad Guy and they’ll probably draw a bank robber, a thief, a supervillain, or
+      somebody breaking the law in some way, because that’s what young people are trained
+      to believe wickedness looks like in their world. They won’t usually draw a politician,
+      a billionaire, a media mogul, a tech plutocrat, a warmonger, or any of the rich
+      and powerful people who are causing the real suffering in our world. The ones
+      who impose laws upon our society ensuring the continuation of poverty, inequality,
+      war, oppression and tyranny. The ones destroying our ecosystem and poisoning our
+      minds with empire propaganda. We give kids an infantile view of the world where
+      the villains look like bandits and the heroes look like superpowered crimefighters
+      and GI Joe. Which in a sense is understandable — no parent wants their young child
+      exposed to the real horrors which exist in this civilization. You wouldn’t tell
+      a six year-old that we are ruled by psychopaths who make the most sadistic serial
+      killers look like cuddly little Pikachus. The problem is that far too many adults
+      never grow out of this worldview. Post a video of police brutality online and
+      they’ll come crawling out of the woodwork frantically defending whatever monstrous
+      act it reveals, no matter how self-evidently damning the footage might be. Oppose
+      the latest war propaganda narrative and they’ll come falling all over themselves
+      in a mad scramble to tell you the government would never lie to us and the Evil
+      Regime of the Day definitely needs to be overthrown via US airstrikes. They never
+      unlearned the cartoons they ingested as children. They still think the struggle
+      of good versus evil is a struggle of lawbreakers versus law-upholders. They never
+      learned that there are many kind and decent people in prison, and that all the
+      most horrific abuses in history have been perfectly legal under the law of the
+      land. Genocides are legal under the governments who authorize them. Wars are legal
+      under the governments who wage them. Capitalist exploitation, imperialist extraction,
+      oligarchic corruption and ecocide for profit are all legal under the governments
+      who pass laws making them possible. The police never show up to arrest the men
+      who do these things. The police show up to arrest anyone who tries to stop them.
+      The law doesn’t exist to protect ordinary people from the most malignant members
+      of our society, the law exists to protect the most malignant members of society
+      from ordinary people. A mature understanding of the world clearly recognizes this.
+      And it’s the exact inverse of the understanding of the world we are indoctrinated
+      into as children. The real villains of our world look like the powerful plutocrats
+      and empire managers who are inflicting unfathomable suffering upon the innocent.
+      The real heroes look like the brave revolutionaries and truth-tellers who work
+      to dismantle the power structure that those tyrants wield against the rest of
+      us. Becoming a real grown up means recognizing that the monsters were never under
+      your bed. They were standing in broad daylight wearing expensive suits and ruling
+      the world. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/The White House .'
+    one_sentence_summary: The article by Tim Foley critiques the simplistic portrayal
+      of "bad guys" in childhood narratives, arguing that as adults, we realize that
+      true evil often resides within the legal frameworks upheld by powerful figures
+      like politicians and billionaires, rather than in the stereotypical criminals
+      depicted in children's stories.
+    paragraph_summary: In his article, Tim Foley critiques the simplistic worldview
+      instilled in children that equates villainy with lawbreaking, such as bank robbers
+      and supervillains, while overlooking the more insidious forms of evil perpetuated
+      by powerful figures like politicians, billionaires, and media moguls. He argues
+      that this childlike perspective, which portrays heroes as virtuous crimefighters,
+      fails to recognize the real sources of societal suffering, including poverty,
+      inequality, and environmental destruction, often upheld by those in positions
+      of authority. Foley expresses concern that many adults never move beyond this
+      naive understanding, as they continue to defend systemic injustices and government
+      narratives, revealing a deep-seated inability to confront the complexities of
+      moral and ethical issues in society.
+    published: '2026-03-31T11:20:14+00:00'
+  - title: The More Murderous Israel Gets, The More We Hear About "Antisemitism"
+    url: https://www.caitlinjohnst.one/p/the-more-murderous-israel-gets-the
+    text: 'Reading by Tim Foley : Subscribe now Whenever Israel is killing tons of civilians
+      the western media always start churning out articles about “antisemitism” and
+      Jewish feelings. “ Jews Begin to Wonder: Is Anywhere Safe? ” blares a recent headline
+      from The Wall Street Journal, subtitled “‘It feels like the 1930s again.’ Hostility
+      against Jews surges in Western countries where they felt safe in recent decades.”
+      An article for The Atlantic titled “ Canada’s Polite Pogrom ” bizarrely tries
+      to argue that “tolerance for zealotry” is somehow “purging Jews from public life.”
+      A Washington Examiner headline proclaims that “ Jewish voters feel ‘politically
+      homeless’ as antisemitism rises on both sides .” A headline for The Telegraph
+      asserts that “ Many Jews are sensing frightening echoes of 1930s Germany in 2020s
+      Britain .” War Criminal Tony Blair writes an article for The Free Press titled
+      “ Why the West Fails to Stop Antisemitism ”. Meanwhile, in real life, people are
+      being mercilessly butchered in Iran, Lebanon and Palestine by Israel and its allies.
+      The uglier it gets, the more aggressive the concern-trolling about “antisemitism”
+      becomes. The Jewish Chronicle has published an article by Maureen Lipman titled
+      “ Does the world have any idea of how tired the people of Israel are? ”, subtitled
+      “A dear friend told me that his grandchildren have needed to enter their safe
+      room more than 200 times since the current battle began.” “The BBC and reporters
+      worldwide do not go into the shelters where children are trained to lie on the
+      floor when the sirens go off,” writes Lipman. “Neither do they report on the closure
+      of schools. Most Israeli kids have missed some school every day since Covid. Are
+      the media even aware of the fear of the elderly in Israel?” Absolutely incredible.
+      She writes as though Israelis are the only people on earth whose country is being
+      bombed. Only Zionists could drop bombs on neighboring populations every single
+      day for years and then go “NOBODY IN THE WORLD CAN IMAGINE WHAT IT’S LIKE TO LIVE
+      IN FEAR OF AIRSTRIKES!” Western news reporters face so much pressure to pad Israel’s
+      image and advance Israeli information interests that the Associated Press just
+      ran an editorial titled “ AP is calling Israel’s attack on Lebanon an invasion.
+      What does that mean and why does it matter? ” justifying its decision to call
+      what is self-evidently and indisputably an invasion the thing that it is. You
+      never saw them do this with Ukraine. You never saw the media holding long internal
+      deliberations about what to label it and then publishing editorials going “We’re
+      going to call this a Russian invasion, we’re pretty sure that’s what this is called,
+      please don’t be mad at us!” That’s how cowed they are by Israel’s supporters,
+      and how much pressure they feel to toe the imperial line no matter what. At the
+      same time in the Israeli press we’re seeing op-eds like The Jerusalem Post’s “
+      Long-term deradicalization in Gaza faces major hurdles ,” which argues explicitly
+      for the total ethnic cleansing of the Palestinian territory. The article’s author
+      Martin Sherman dismisses claims that the people of Gaza can be “deradicalized” — as
+      though the radicalization of Palestinians is the problem, and not the radical
+      political ideology of the people who’ve been waging an extermination campaign
+      upon them. Instead, Sherman argues, everyone must accept the “harsh reality” that
+      only annexation and ethnic cleansing can lead to a lasting peace in the Gaza Strip.
+      “The only way Israel can ensure how the Gaza Strip will be governed, and who will
+      govern it, is to govern it itself,” writes Sherman. “Moreover, the only way Israel
+      can govern the Gaza Strip without becoming an external oppressor of ‘another people’
+      is to remove ‘the other people’ from the confines of the Gaza Strip itself.” “This
+      is not radical right-wing radicalism. It is merely sound and sober political science,”
+      Sherman writes. If it isn’t right-wing radicalism to advocate the mass purge of
+      a colonized indigenous population from their homeland for being the wrong ethnicity,
+      then right-wing radicalism does not exist. That’s pretty much as right-wing extremist
+      as it gets. And this is an entirely mainstream Israeli publication. If anyone
+      on earth needs to be deradicalized, it’s the Israelis and their supporters. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the Western media's focus on rising
+      antisemitism and Jewish concerns during times of violence against civilians in
+      Israel, arguing it distracts from the ongoing humanitarian crisis.
+    paragraph_summary: The article by Tim Foley critiques the Western media's focus
+      on rising antisemitism and Jewish sentiments in the context of ongoing violence
+      in Israel and its neighboring regions, such as Iran, Lebanon, and Palestine. It
+      highlights how headlines from various publications emphasize Jewish fears and
+      feelings of insecurity, often drawing parallels to the 1930s, while seemingly
+      overlooking the plight of those suffering from the violence perpetrated by Israel
+      and its allies. Foley argues that this concern for Jewish safety is disproportionate
+      and serves as a distraction from the humanitarian crisis affecting civilians in
+      conflict zones, suggesting that the media's narrative prioritizes Jewish experiences
+      over the realities faced by others in the region.
+    published: '2026-03-30T00:27:30+00:00'
+  - title: The More Murderous Israel Gets, The More We Hear About "Antisemitism"
+    url: https://www.caitlinjohnst.one/p/the-more-murderous-israel-gets-the
+    text: 'Reading by Tim Foley : Subscribe now Whenever Israel is killing tons of civilians
+      the western media always start churning out articles about “antisemitism” and
+      Jewish feelings. “ Jews Begin to Wonder: Is Anywhere Safe? ” blares a recent headline
+      from The Wall Street Journal, subtitled “‘It feels like the 1930s again.’ Hostility
+      against Jews surges in Western countries where they felt safe in recent decades.”
+      An article for The Atlantic titled “ Canada’s Polite Pogrom ” bizarrely tries
+      to argue that “tolerance for zealotry” is somehow “purging Jews from public life.”
+      A Washington Examiner headline proclaims that “ Jewish voters feel ‘politically
+      homeless’ as antisemitism rises on both sides .” A headline for The Telegraph
+      asserts that “ Many Jews are sensing frightening echoes of 1930s Germany in 2020s
+      Britain .” War Criminal Tony Blair writes an article for The Free Press titled
+      “ Why the West Fails to Stop Antisemitism ”. Meanwhile, in real life, people are
+      being mercilessly butchered in Iran, Lebanon and Palestine by Israel and its allies.
+      The uglier it gets, the more aggressive the concern-trolling about “antisemitism”
+      becomes. The Jewish Chronicle has published an article by Maureen Lipman titled
+      “ Does the world have any idea of how tired the people of Israel are? ”, subtitled
+      “A dear friend told me that his grandchildren have needed to enter their safe
+      room more than 200 times since the current battle began.” “The BBC and reporters
+      worldwide do not go into the shelters where children are trained to lie on the
+      floor when the sirens go off,” writes Lipman. “Neither do they report on the closure
+      of schools. Most Israeli kids have missed some school every day since Covid. Are
+      the media even aware of the fear of the elderly in Israel?” Absolutely incredible.
+      She writes as though Israelis are the only people on earth whose country is being
+      bombed. Only Zionists could drop bombs on neighboring populations every single
+      day for years and then go “NOBODY IN THE WORLD CAN IMAGINE WHAT IT’S LIKE TO LIVE
+      IN FEAR OF AIRSTRIKES!” Western news reporters face so much pressure to pad Israel’s
+      image and advance Israeli information interests that the Associated Press just
+      ran an editorial titled “ AP is calling Israel’s attack on Lebanon an invasion.
+      What does that mean and why does it matter? ” justifying its decision to call
+      what is self-evidently and indisputably an invasion the thing that it is. You
+      never saw them do this with Ukraine. You never saw the media holding long internal
+      deliberations about what to label it and then publishing editorials going “We’re
+      going to call this a Russian invasion, we’re pretty sure that’s what this is called,
+      please don’t be mad at us!” That’s how cowed they are by Israel’s supporters,
+      and how much pressure they feel to toe the imperial line no matter what. At the
+      same time in the Israeli press we’re seeing op-eds like The Jerusalem Post’s “
+      Long-term deradicalization in Gaza faces major hurdles ,” which argues explicitly
+      for the total ethnic cleansing of the Palestinian territory. The article’s author
+      Martin Sherman dismisses claims that the people of Gaza can be “deradicalized” — as
+      though the radicalization of Palestinians is the problem, and not the radical
+      political ideology of the people who’ve been waging an extermination campaign
+      upon them. Instead, Sherman argues, everyone must accept the “harsh reality” that
+      only annexation and ethnic cleansing can lead to a lasting peace in the Gaza Strip.
+      “The only way Israel can ensure how the Gaza Strip will be governed, and who will
+      govern it, is to govern it itself,” writes Sherman. “Moreover, the only way Israel
+      can govern the Gaza Strip without becoming an external oppressor of ‘another people’
+      is to remove ‘the other people’ from the confines of the Gaza Strip itself.” “This
+      is not radical right-wing radicalism. It is merely sound and sober political science,”
+      Sherman writes. If it isn’t right-wing radicalism to advocate the mass purge of
+      a colonized indigenous population from their homeland for being the wrong ethnicity,
+      then right-wing radicalism does not exist. That’s pretty much as right-wing extremist
+      as it gets. And this is an entirely mainstream Israeli publication. If anyone
+      on earth needs to be deradicalized, it’s the Israelis and their supporters. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the Western media's focus on rising
+      antisemitism and Jewish concerns during times of violence against civilians in
+      Israel, arguing it distracts from the ongoing humanitarian crisis.
+    paragraph_summary: The article by Tim Foley critiques the Western media's focus
+      on rising antisemitism and Jewish sentiments in the context of ongoing violence
+      in Israel and its neighboring regions, such as Iran, Lebanon, and Palestine. It
+      highlights how headlines from various publications emphasize Jewish fears and
+      feelings of insecurity, often drawing parallels to the 1930s, while seemingly
+      overlooking the plight of those suffering from the violence perpetrated by Israel
+      and its allies. Foley argues that this concern for Jewish safety is disproportionate
+      and serves as a distraction from the humanitarian crisis affecting civilians in
+      conflict zones, suggesting that the media's narrative prioritizes Jewish experiences
+      over the realities faced by others in the region.
+    published: '2026-03-30T00:27:30+00:00'
+  - title: The US-Israel Alliance Exists To Fix The Problems Created By Its Existence
+    url: https://www.caitlinjohnst.one/p/the-us-israel-alliance-exists-to
+    text: 'Reading by Tim Foley : Subscribe now The US-Israel alliance exists to fix
+      the problems created by its existence. The US and Israel have sown death and destruction
+      throughout the middle east for generations, creating generation after generation
+      of survivors who hate them and want them gone, and then it cites the existence
+      of people who hate them and want them gone as the reason why the US needs to keep
+      supporting Israel. The US needs to help Israel harm people or else the people
+      who are mad about being harmed might harm Israelis. It’s circular reasoning all
+      the way through. Ask an American Israel supporter why it benefits the US to defend
+      Israel, and they’ll tell you it advances American interests in the middle east.
+      Ask them what American interests it helps advance in the middle east and they’ll
+      tell you it counters the malign influence of Iran and terrorist groups. Ask them
+      to describe exactly what Iran and the terrorist groups are doing which directly
+      harms American interests, and they’ll tell you they threaten American troops in
+      the region. Ask them why American troops can’t just leave the region to remove
+      the threat, and they’ll tell you they can’t because that would be abandoning Israel.
+      Ask them why the US can’t simply abandon Israel, and they’ll tell you it’s an
+      important US ally. Ask them to explain why Israel is an important US ally, and
+      they’ll tell you it’s because it advances American interests in the middle east.
+      The official narrative about the importance of the US-Israel alliance is self-justifying
+      circular logic the whole way through, no matter what point you start examining
+      it from. They’ll tell you the west needs to support the poor innocent nation of
+      Israel because it gets attacked by evildoers who want to destroy it for no reason.
+      In reality Israel is despised by middle eastern populations because the west dropped
+      a brand new ethnostate on top of a pre-existing civilization and has forced it
+      into being through continuous brute military force ever since, and that violence
+      is all Israel’s opponents are ever responding to. The west created the violence
+      it claims to be countering. The only argument Israel’s defenders in America make
+      which does not rely on circular reasoning and dishonest obfuscation is “The Bible
+      says we gotta give JDAMs to Benjamin Netanyahu.” But the argument that permanent
+      war is justified because you think that some book of made-up stories commands
+      you to give military support to a nation that’s younger than Dolly Parton does
+      not deserve to be taken seriously. If they were honest they’d just admit that
+      it benefits the US empire’s ambitions of total global domination to have a ton
+      of military bases and sympathetic partners in the middle east, which is rich in
+      fossil fuels and critical trade routes. If you knew absolutely nothing about the
+      middle east but understood global military conquest you’d be able to tell that
+      west Asia would be a critical point of geostrategic control just by looking at
+      a globe, since it’s the only region on our planet which joins three continents.
+      But they can’t admit that, because it would be admitting that all this violence
+      and suffering isn’t about promoting the interests of Americans or defending Jews
+      or fighting terrorism or spreading freedom and democracy, and is instead about
+      advancing the interests of a few oligarchs and empire managers with the facilitation
+      of crazy religious beliefs held by Jewish Zionists and Christian Zionists. So
+      they lie and make up stories about why it makes perfect sense for American soldiers
+      to be headed to Iran right now, and why it was entirely reasonable for the US
+      to send genocide weapons to Israel throughout the incineration of the Gaza Strip.
+      It smells like bullshit because that’s what it is. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article critiques the US-Israel alliance as a self-perpetuating
+      cycle of violence, where the US supports Israel to counteract the resentment generated
+      by their actions in the Middle East, leading to a circular justification for ongoing
+      conflict and intervention.
+    paragraph_summary: In his article, Tim Foley critiques the US-Israel alliance, arguing
+      that it perpetuates a cycle of violence and resentment in the Middle East. He
+      contends that the US and Israel have historically caused suffering in the region,
+      leading to animosity towards them, which in turn justifies ongoing US support
+      for Israel as a means of countering perceived threats from Iran and terrorist
+      groups. Foley highlights the circular reasoning inherent in the justification
+      for this alliance, where claims of advancing American interests are repeatedly
+      used to validate the need for military and political support, despite the underlying
+      issues stemming from the establishment of Israel as a state. He asserts that the
+      animosity towards Israel is rooted in its creation and maintenance through force,
+      rather than being an unprovoked hatred from neighboring populations.
+    published: '2026-03-28T22:50:41+00:00'
+  - title: The US-Israel Alliance Exists To Fix The Problems Created By Its Existence
+    url: https://www.caitlinjohnst.one/p/the-us-israel-alliance-exists-to
+    text: 'Reading by Tim Foley : Subscribe now The US-Israel alliance exists to fix
+      the problems created by its existence. The US and Israel have sown death and destruction
+      throughout the middle east for generations, creating generation after generation
+      of survivors who hate them and want them gone, and then it cites the existence
+      of people who hate them and want them gone as the reason why the US needs to keep
+      supporting Israel. The US needs to help Israel harm people or else the people
+      who are mad about being harmed might harm Israelis. It’s circular reasoning all
+      the way through. Ask an American Israel supporter why it benefits the US to defend
+      Israel, and they’ll tell you it advances American interests in the middle east.
+      Ask them what American interests it helps advance in the middle east and they’ll
+      tell you it counters the malign influence of Iran and terrorist groups. Ask them
+      to describe exactly what Iran and the terrorist groups are doing which directly
+      harms American interests, and they’ll tell you they threaten American troops in
+      the region. Ask them why American troops can’t just leave the region to remove
+      the threat, and they’ll tell you they can’t because that would be abandoning Israel.
+      Ask them why the US can’t simply abandon Israel, and they’ll tell you it’s an
+      important US ally. Ask them to explain why Israel is an important US ally, and
+      they’ll tell you it’s because it advances American interests in the middle east.
+      The official narrative about the importance of the US-Israel alliance is self-justifying
+      circular logic the whole way through, no matter what point you start examining
+      it from. They’ll tell you the west needs to support the poor innocent nation of
+      Israel because it gets attacked by evildoers who want to destroy it for no reason.
+      In reality Israel is despised by middle eastern populations because the west dropped
+      a brand new ethnostate on top of a pre-existing civilization and has forced it
+      into being through continuous brute military force ever since, and that violence
+      is all Israel’s opponents are ever responding to. The west created the violence
+      it claims to be countering. The only argument Israel’s defenders in America make
+      which does not rely on circular reasoning and dishonest obfuscation is “The Bible
+      says we gotta give JDAMs to Benjamin Netanyahu.” But the argument that permanent
+      war is justified because you think that some book of made-up stories commands
+      you to give military support to a nation that’s younger than Dolly Parton does
+      not deserve to be taken seriously. If they were honest they’d just admit that
+      it benefits the US empire’s ambitions of total global domination to have a ton
+      of military bases and sympathetic partners in the middle east, which is rich in
+      fossil fuels and critical trade routes. If you knew absolutely nothing about the
+      middle east but understood global military conquest you’d be able to tell that
+      west Asia would be a critical point of geostrategic control just by looking at
+      a globe, since it’s the only region on our planet which joins three continents.
+      But they can’t admit that, because it would be admitting that all this violence
+      and suffering isn’t about promoting the interests of Americans or defending Jews
+      or fighting terrorism or spreading freedom and democracy, and is instead about
+      advancing the interests of a few oligarchs and empire managers with the facilitation
+      of crazy religious beliefs held by Jewish Zionists and Christian Zionists. So
+      they lie and make up stories about why it makes perfect sense for American soldiers
+      to be headed to Iran right now, and why it was entirely reasonable for the US
+      to send genocide weapons to Israel throughout the incineration of the Gaza Strip.
+      It smells like bullshit because that’s what it is. ________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article critiques the US-Israel alliance as a self-perpetuating
+      cycle of violence, where the US supports Israel to counteract the resentment generated
+      by their actions in the Middle East, leading to a circular justification for ongoing
+      conflict and intervention.
+    paragraph_summary: In his article, Tim Foley critiques the US-Israel alliance, arguing
+      that it perpetuates a cycle of violence and resentment in the Middle East. He
+      contends that the US and Israel have historically caused suffering in the region,
+      leading to animosity towards them, which in turn justifies ongoing US support
+      for Israel as a means of countering perceived threats from Iran and terrorist
+      groups. Foley highlights the circular reasoning inherent in the justification
+      for this alliance, where claims of advancing American interests are repeatedly
+      used to validate the need for military and political support, despite the underlying
+      issues stemming from the establishment of Israel as a state. He asserts that the
+      animosity towards Israel is rooted in its creation and maintenance through force,
+      rather than being an unprovoked hatred from neighboring populations.
+    published: '2026-03-28T22:50:41+00:00'
+  - title: If You'd Only Oppose The Iran War When There's Boots On The Ground, You're
+      A Scumbag
+    url: https://www.caitlinjohnst.one/p/if-youd-only-oppose-the-iran-war
+    text: 'Reading by Tim Foley : Subscribe now LBC has a report titled “ Republicans
+      ‘storm out’ of Iran briefing as they claim US ‘war machine’ is trying to put boots
+      on ground ” about MAGA lawmakers whining that Trump’s war looks set to turn into
+      a land invasion. LBC reports: A number of usually loyal MAGA Republicans left
+      the Iran briefing early — including US congresswoman Nancy Mace, who told the
+      waiting media “we were misled” about the war after walking out of a Pentagon briefing.
+      Mace, a widely controversial lawmaker, was seen to urge President Trump to remove
+      Lindsey Graham from the Situation Room — the White House’s round-the-clock command
+      centre — as tensions rose. The lawmaker claims Graham “brags about” advising the
+      president and his aggressive war strategy. It comes as the US is reportedly considering
+      a massive troop deployment that would include ‘infantry and armoured vehicles,’
+      according to the Wall Street Journal. Tensions continue to rise from within Trump’s
+      own party amid plans to put troops on the ground in Iran, as peace talks continue
+      amid the constantly changing situation. I get so tired of all this American hand-wringing
+      about “boots on the ground”. It’s a symptom of a wildly sick dystopia that these
+      people are fine with raining military explosives on a densely populated city but
+      draw the line at putting American troops in the line of fire. Sure, killing kids
+      is fine, just don’t put boots on the ground! Sure you can rain hellfire on hospitals,
+      homes and schools for weeks, just make sure you do all your massacring from the
+      sky where nobody can return fire. Killing is okie dokie, so long as our troops
+      aren’t the ones getting killed. These people have no compassion. No morality.
+      No empathy. American conservatives are constantly wagging their fingers and bloviating
+      puritanically about immorality and degeneracy, but they’re the least moral people
+      in the country. Their positions aren’t driven by care for human life, no matter
+      how hard they try to pretend otherwise. They are driven by blind loyalty to the
+      empire and the groveling adoration of power. If you only oppose mass military
+      slaughter if it is carried out in a way that puts your own countrymen at risk,
+      that makes you a piece of shit. People should oppose the evil wars inflicted by
+      their government and its allies because the wars are evil, not because they might
+      impact someone you know. The people being murdered in Iran are no less human than
+      Americans, and their lives don’t matter any less. I want to live in a healthy
+      world where self-evident statements like this don’t even need to be made. Instead
+      I live in a world where the war on Iran is barely receiving any meaningful domestic
+      opposition from the populations of the primary aggressor nations. ____________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: MAGA Republicans, including Congresswoman Nancy Mace, expressed
+      frustration and walked out of an Iran briefing, claiming they were misled about
+      the potential for a land invasion as tensions rise over President Trump's military
+      strategy.
+    paragraph_summary: In a recent report by LBC, tensions within the Republican Party
+      are highlighted as several MAGA lawmakers, including Congresswoman Nancy Mace,
+      walked out of a Pentagon briefing regarding the potential for a U.S. troop deployment
+      in Iran. Mace expressed frustration, claiming they were misled about the war and
+      urged President Trump to remove Senator Lindsey Graham from the Situation Room,
+      criticizing his aggressive war strategy. The report indicates that the U.S. is
+      contemplating a significant troop presence, which has sparked discontent among
+      Republicans, as peace talks continue amidst escalating tensions. The article critiques
+      the moral hypocrisy of American conservatives, who are portrayed as willing to
+      support military actions that cause civilian casualties while opposing the deployment
+      of American troops on the ground, suggesting a lack of compassion and empathy
+      in their stance on warfare.
+    published: '2026-03-27T13:17:23+00:00'
+  - title: If You'd Only Oppose The Iran War When There's Boots On The Ground, You're
+      A Scumbag
+    url: https://www.caitlinjohnst.one/p/if-youd-only-oppose-the-iran-war
+    text: 'Reading by Tim Foley : Subscribe now LBC has a report titled “ Republicans
+      ‘storm out’ of Iran briefing as they claim US ‘war machine’ is trying to put boots
+      on ground ” about MAGA lawmakers whining that Trump’s war looks set to turn into
+      a land invasion. LBC reports: A number of usually loyal MAGA Republicans left
+      the Iran briefing early — including US congresswoman Nancy Mace, who told the
+      waiting media “we were misled” about the war after walking out of a Pentagon briefing.
+      Mace, a widely controversial lawmaker, was seen to urge President Trump to remove
+      Lindsey Graham from the Situation Room — the White House’s round-the-clock command
+      centre — as tensions rose. The lawmaker claims Graham “brags about” advising the
+      president and his aggressive war strategy. It comes as the US is reportedly considering
+      a massive troop deployment that would include ‘infantry and armoured vehicles,’
+      according to the Wall Street Journal. Tensions continue to rise from within Trump’s
+      own party amid plans to put troops on the ground in Iran, as peace talks continue
+      amid the constantly changing situation. I get so tired of all this American hand-wringing
+      about “boots on the ground”. It’s a symptom of a wildly sick dystopia that these
+      people are fine with raining military explosives on a densely populated city but
+      draw the line at putting American troops in the line of fire. Sure, killing kids
+      is fine, just don’t put boots on the ground! Sure you can rain hellfire on hospitals,
+      homes and schools for weeks, just make sure you do all your massacring from the
+      sky where nobody can return fire. Killing is okie dokie, so long as our troops
+      aren’t the ones getting killed. These people have no compassion. No morality.
+      No empathy. American conservatives are constantly wagging their fingers and bloviating
+      puritanically about immorality and degeneracy, but they’re the least moral people
+      in the country. Their positions aren’t driven by care for human life, no matter
+      how hard they try to pretend otherwise. They are driven by blind loyalty to the
+      empire and the groveling adoration of power. If you only oppose mass military
+      slaughter if it is carried out in a way that puts your own countrymen at risk,
+      that makes you a piece of shit. People should oppose the evil wars inflicted by
+      their government and its allies because the wars are evil, not because they might
+      impact someone you know. The people being murdered in Iran are no less human than
+      Americans, and their lives don’t matter any less. I want to live in a healthy
+      world where self-evident statements like this don’t even need to be made. Instead
+      I live in a world where the war on Iran is barely receiving any meaningful domestic
+      opposition from the populations of the primary aggressor nations. ____________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: MAGA Republicans, including Congresswoman Nancy Mace, expressed
+      frustration and walked out of an Iran briefing, claiming they were misled about
+      the potential for a land invasion as tensions rise over President Trump's military
+      strategy.
+    paragraph_summary: In a recent report by LBC, tensions within the Republican Party
+      are highlighted as several MAGA lawmakers, including Congresswoman Nancy Mace,
+      walked out of a Pentagon briefing regarding the potential for a U.S. troop deployment
+      in Iran. Mace expressed frustration, claiming they were misled about the war and
+      urged President Trump to remove Senator Lindsey Graham from the Situation Room,
+      criticizing his aggressive war strategy. The report indicates that the U.S. is
+      contemplating a significant troop presence, which has sparked discontent among
+      Republicans, as peace talks continue amidst escalating tensions. The article critiques
+      the moral hypocrisy of American conservatives, who are portrayed as willing to
+      support military actions that cause civilian casualties while opposing the deployment
+      of American troops on the ground, suggesting a lack of compassion and empathy
+      in their stance on warfare.
+    published: '2026-03-27T13:17:23+00:00'
+  - title: '"Israel Has A Right To Exist" Is Psychopathic Bullshit'
+    url: https://www.caitlinjohnst.one/p/israel-has-a-right-to-exist-is-psychopathic
+    text: 'Reading by Tim Foley : Subscribe now As soon as you accept that Israel must
+      exist as a “Jewish state” no matter what, you are accepting that there will never
+      be peace in the middle east. Because Israel cannot exist as it is without nonstop
+      violence. Show a Zionist a map where Israel does not exist as a Jewish state and
+      a map where the entire middle east is on fire except for Israel, and then ask
+      them to pick a future, and they’ll pick the second one every time. That’s the
+      worldview that’s baked into Zionism. The worldview you’re not supposed to bring
+      up in mainstream discourse about the Zionist ideology. You’re not supposed to
+      mention the demented murderousness inherent in the premise that Israel must exist
+      as a Jewish ethnonationalist state no matter how many people need to be killed
+      in order to make that happen. But that’s the reality. It’s a simple matter of
+      historical record that Israel cannot exist without continuous violence and abuse.
+      That’s not my opinion, that’s historical fact. There has never been a modern state
+      of Israel which does not constantly kill and abuse its native population and the
+      inhabitants of neighboring countries. And of course the typical Zionist response
+      to such criticisms is to blame everyone but themselves. It’s the fault of the
+      Palestinians, the Arab nations, the Iranians etc, because they refused to tolerate
+      the west’s imposition of a brand new ethnostate dropped on top of a pre-existing
+      population who became victims of mass displacement and apartheid as soon as it
+      was created. But nobody has ever been able to provide me with a convincing argument
+      why the original inhabitants of the region ever should have accepted this arrangement.
+      They’ve never been able to put me in the shoes of a Palestinian in the 1940s and
+      lay out a reason why I should have been fine with the things that were happening
+      to me and my people. Nobody has ever been able to provide me with a convincing
+      argument why the Muslims of west Asia should not have stood in solidarity with
+      the Palestinians and their plight. The only solid argument they’ve ever given
+      me is “They should have laid down and submitted, because that’s what was required
+      in order for the Israelis to stop killing and abusing them.” And that’s still
+      the only argument they’ve got to this very day: that the Palestinians and their
+      neighbors should lie down and submit to the existence of this genocidal apartheid
+      state that was inserted into their homeland like a glass shard into a foot. But
+      the fact of the matter is that they did not lie down and submit. Many Arabs did
+      out of sheer self-preservation, but many did not. You can tell me they should
+      have given up and submitted, but that’s just arguing with reality. That’s not
+      a solution, it’s just whining about the inevitable. And this is where that leaves
+      us today. Israel and its allies butchering human beings throughout the middle
+      east, creating countless war orphans who are naturally going to grow up desiring
+      violent retribution. Generation after generation Israel creates the violence it
+      pretends to be defending itself from, all because it was decided that there must
+      be a “Jewish state” in historic Palestine no matter what needs to be done in order
+      to accomplish this. And Zionists are fine with this. They don’t care if the entire
+      middle east is turned into an ocean of fire so long as the Israelis are still
+      dancing to their electronic music in the middle of it. That’s what this slogan
+      “Israel has a right to exist” really means. It means Israel and its allies have
+      a right to keep the middle east in a nonstop state of war, and the strongest argument
+      for why this must be the case is that some dead guys made some stuff up and put
+      it in a book thousands of years ago. At a certain point you need to admit that
+      this is a psychopathic status quo which cannot be allowed to stand, and that anyone
+      who supports it is complicit in the bloodshed. The ethnonationalist apartheid
+      state of Israel must be dismantled. People’s various religious objections to this
+      statement must be disregarded as infantile tantrums made by adults who believe
+      silly fairy tales. A wildly different status quo needs to be established from
+      the Jordan River to the Mediterranean Sea. Because the alternative is a middle
+      east that exists in a permanent state of nonstop violence and chaos. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the existence of Israel as a "Jewish
+      state" inherently leads to ongoing violence and conflict in the Middle East, suggesting
+      that this reality is often ignored in mainstream discussions about Zionism.
+    paragraph_summary: In Tim Foley's article, he argues that the acceptance of Israel
+      as an unconditionally existing "Jewish state" inherently precludes the possibility
+      of peace in the Middle East, as it relies on ongoing violence and oppression.
+      He contends that Zionism is rooted in a worldview that prioritizes the survival
+      of Israel at the expense of the rights and lives of Palestinians and other regional
+      populations. Foley asserts that historical evidence shows Israel's existence has
+      always been accompanied by violence against its native inhabitants and neighboring
+      countries, and he criticizes the tendency of Zionists to deflect blame onto others
+      rather than addressing the injustices faced by Palestinians. He challenges the
+      rationale behind the establishment of Israel, questioning why the original inhabitants
+      should have accepted the displacement and apartheid that accompanied its creation.
+    published: '2026-03-26T09:50:05+00:00'
+  - title: '"Israel Has A Right To Exist" Is Psychopathic Bullshit'
+    url: https://www.caitlinjohnst.one/p/israel-has-a-right-to-exist-is-psychopathic
+    text: 'Reading by Tim Foley : Subscribe now As soon as you accept that Israel must
+      exist as a “Jewish state” no matter what, you are accepting that there will never
+      be peace in the middle east. Because Israel cannot exist as it is without nonstop
+      violence. Show a Zionist a map where Israel does not exist as a Jewish state and
+      a map where the entire middle east is on fire except for Israel, and then ask
+      them to pick a future, and they’ll pick the second one every time. That’s the
+      worldview that’s baked into Zionism. The worldview you’re not supposed to bring
+      up in mainstream discourse about the Zionist ideology. You’re not supposed to
+      mention the demented murderousness inherent in the premise that Israel must exist
+      as a Jewish ethnonationalist state no matter how many people need to be killed
+      in order to make that happen. But that’s the reality. It’s a simple matter of
+      historical record that Israel cannot exist without continuous violence and abuse.
+      That’s not my opinion, that’s historical fact. There has never been a modern state
+      of Israel which does not constantly kill and abuse its native population and the
+      inhabitants of neighboring countries. And of course the typical Zionist response
+      to such criticisms is to blame everyone but themselves. It’s the fault of the
+      Palestinians, the Arab nations, the Iranians etc, because they refused to tolerate
+      the west’s imposition of a brand new ethnostate dropped on top of a pre-existing
+      population who became victims of mass displacement and apartheid as soon as it
+      was created. But nobody has ever been able to provide me with a convincing argument
+      why the original inhabitants of the region ever should have accepted this arrangement.
+      They’ve never been able to put me in the shoes of a Palestinian in the 1940s and
+      lay out a reason why I should have been fine with the things that were happening
+      to me and my people. Nobody has ever been able to provide me with a convincing
+      argument why the Muslims of west Asia should not have stood in solidarity with
+      the Palestinians and their plight. The only solid argument they’ve ever given
+      me is “They should have laid down and submitted, because that’s what was required
+      in order for the Israelis to stop killing and abusing them.” And that’s still
+      the only argument they’ve got to this very day: that the Palestinians and their
+      neighbors should lie down and submit to the existence of this genocidal apartheid
+      state that was inserted into their homeland like a glass shard into a foot. But
+      the fact of the matter is that they did not lie down and submit. Many Arabs did
+      out of sheer self-preservation, but many did not. You can tell me they should
+      have given up and submitted, but that’s just arguing with reality. That’s not
+      a solution, it’s just whining about the inevitable. And this is where that leaves
+      us today. Israel and its allies butchering human beings throughout the middle
+      east, creating countless war orphans who are naturally going to grow up desiring
+      violent retribution. Generation after generation Israel creates the violence it
+      pretends to be defending itself from, all because it was decided that there must
+      be a “Jewish state” in historic Palestine no matter what needs to be done in order
+      to accomplish this. And Zionists are fine with this. They don’t care if the entire
+      middle east is turned into an ocean of fire so long as the Israelis are still
+      dancing to their electronic music in the middle of it. That’s what this slogan
+      “Israel has a right to exist” really means. It means Israel and its allies have
+      a right to keep the middle east in a nonstop state of war, and the strongest argument
+      for why this must be the case is that some dead guys made some stuff up and put
+      it in a book thousands of years ago. At a certain point you need to admit that
+      this is a psychopathic status quo which cannot be allowed to stand, and that anyone
+      who supports it is complicit in the bloodshed. The ethnonationalist apartheid
+      state of Israel must be dismantled. People’s various religious objections to this
+      statement must be disregarded as infantile tantrums made by adults who believe
+      silly fairy tales. A wildly different status quo needs to be established from
+      the Jordan River to the Mediterranean Sea. Because the alternative is a middle
+      east that exists in a permanent state of nonstop violence and chaos. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the existence of Israel as a "Jewish
+      state" inherently leads to ongoing violence and conflict in the Middle East, suggesting
+      that this reality is often ignored in mainstream discussions about Zionism.
+    paragraph_summary: In Tim Foley's article, he argues that the acceptance of Israel
+      as an unconditionally existing "Jewish state" inherently precludes the possibility
+      of peace in the Middle East, as it relies on ongoing violence and oppression.
+      He contends that Zionism is rooted in a worldview that prioritizes the survival
+      of Israel at the expense of the rights and lives of Palestinians and other regional
+      populations. Foley asserts that historical evidence shows Israel's existence has
+      always been accompanied by violence against its native inhabitants and neighboring
+      countries, and he criticizes the tendency of Zionists to deflect blame onto others
+      rather than addressing the injustices faced by Palestinians. He challenges the
+      rationale behind the establishment of Israel, questioning why the original inhabitants
+      should have accepted the displacement and apartheid that accompanied its creation.
+    published: '2026-03-26T09:50:05+00:00'
   - title: The Problem Isn't "Kings", The Problem Is US Presidents
     url: https://www.caitlinjohnst.one/p/the-problem-isnt-kings-the-problem
     text: 'Reading by Tim Foley : Subscribe now There’s another giant “No Kings” protest

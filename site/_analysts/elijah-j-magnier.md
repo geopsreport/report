@@ -7,14 +7,1304 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions in the Persian Gulf remain high following weeks of escalation between the United States and Iran, with the strategic Strait of Hormuz at the center of the standoff. The situation reached a new phase after President Trump threatened to destroy Iranian power plants if Iran did not reopen the Strait, prompting Tehran to warn of retaliatory strikes against regional infrastructure and reinforcing internal unity for confrontation.
+  The evolving conflict in southern Lebanon continues to draw attention, as both Israel and Hezbollah adapt their military doctrines in response to shifting realities on the ground. Recent reports highlight a significant transformation in operational strategies, with **Elijah J. Magnier** noting that “Israeli forces struggle to maintain control despite their numerical advantage and face increasing losses that challenge the narrative of Hezbollah's defeat.” This assessment is echoed across multiple sources, which point to a growing gap between Israel’s stated objectives and actual battlefield outcomes.
   
-  The most recent development, as reported by **Elijah J. Magnier**, is Washington’s announcement of a five-day pause in planned strikes against Iran’s energy infrastructure. This comes amid reports of initial contacts between the U.S. and Iran, although Tehran publicly denies that any direct talks have taken place. However, Iranian officials acknowledge receiving a U.S. request for negotiations and confirm that indirect communication channels remain active via intermediaries. The pause is widely interpreted as an attempt to deescalate the regional conflict and stabilize volatile oil prices.
+  The Israeli military, while still possessing superior resources, is encountering unexpected resistance and operational setbacks. **Magnier** underlines that “losses, though limited, call into question the official narrative of victory over Hezbollah and reveal operational difficulties for Israeli forces.” The fluid tactics employed by Hezbollah—characterized by mobility and denial—have complicated Israel’s efforts to secure and hold territory in the south.
   
-  **Elijah J. Magnier** notes that while both sides are publicly maintaining hardline positions, the existence of back-channel communications suggests a mutual interest in avoiding further escalation—at least temporarily. The U.S. move is seen as a tactical pause rather than a strategic shift, with military options, including a possible limited landing in the Strait of Hormuz, still under consideration.
+  Meanwhile, the broader regional context remains marked by strategic ambiguity and shifting alliances. The so-called Axis of the Resistance, which includes Hezbollah, Iran, and other aligned actors, is still grappling with the challenge of moving from a deterrence-based narrative to actual coordinated military action. While skepticism persists regarding the Axis’s ability to achieve true operational cohesion, the ongoing developments in Lebanon suggest a degree of tactical innovation and adaptability.
   
-  Looking ahead, the majority of sources agree that the current pause in hostilities is fragile. If negotiations fail to yield progress, there is a high chance that military actions could resume, potentially targeting critical infrastructure on both sides. However, as indirect talks continue and both Washington and Tehran seek to manage domestic and international pressures, there is a quite likely trend toward short-term de-escalation, though the risk of renewed confrontation remains significant. I guarantee that the situation will remain tense and unpredictable as long as fundamental disagreements over the Strait’s control persist.
+  Looking ahead, the majority of analysts, including **Magnier**, assess with high confidence that the current pattern of attritional warfare and doctrinal evolution will persist. Israeli forces are unlikely to achieve a decisive victory in the near term, and Hezbollah’s capacity for flexible, denial-based operations is expected to continue undermining Israeli objectives. The situation remains fluid, but the prevailing trend points toward a protracted conflict with no clear resolution on the horizon. I guarantee that both sides will continue to adapt, but a strategic breakthrough is most definitely not imminent.
 articles:
+  - title: 'Hezbollah’s Evolved Doctrine: Denial Through Fluidity on the Southern Lebanon
+      Battlefield'
+    url: https://ejmagnier.com/2026/03/31/hezbollahs-evolved-doctrine-denial-through-fluidity-on-the-southern-lebanon-battlefield/
+    text: 'By Elijah J. Magnier – What is unfolding in southern Lebanon suggests not
+      simply a tactical adjustment, but a deeper doctrinal evolution on both sides of
+      the battlefield. Early indicators from the battlefield already expose the gap
+      between declared objectives and operational reality. Israel has acknowledged limited
+      officer losses and dozens of wounded during clashes inside Lebanese territory,
+      figures that, while modest in absolute terms, carry disproportionate weight within
+      Israeli society and military discourse. They undermine the official narrative
+      that Hezbollah has been decisively defeated and that southern Lebanon can be traversed
+      and controlled with ease. More significantly, they point to a deeper constraint:
+      despite deploying multiple operational divisions, Israeli forces have been unable
+      to translate numerical strength into sustained territorial control beyond a few
+      kilometres. Within the officer corps itself, there is growing recognition that
+      the character of the fight has changed. The model of holding ground as a marker
+      of success is no longer viable under these conditions, and remaining fixed in
+      the terrain increasingly contradicts both operational logic and force protection.
+      The emerging pattern indicates that the Lebanese resistance has deliberately abandoned
+      the traditional logic of static defence, is not defending terrain but denying
+      its stabilisation and is preventing an Israeli decisive success. The shift from
+      static defence to elastic, distributed engagement is consistent with the adaptation
+      of weaker actors against superior firepower. Modern conflict is less about terrain
+      and more about sustained operational pressure. The Israeli forces, for their part,
+      are advancing without being able to consolidate into fixed positions, reflecting
+      a mutual recognition that permanence in such an environment carries disproportionate
+      risk, even when top officials declared that their objective is to occupy the entire
+      southern Lebanon south of the Litani River. This is no longer a contest over lines
+      on a map. It is a contest over tempo, exposure, and endurance. For Israel, time
+      increases cost. For the resistance, time validates strategy. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The situation in southern Lebanon indicates a significant
+      shift in military strategy for both Israel and Hezbollah, revealing a disparity
+      between stated objectives and actual battlefield outcomes, as Israeli forces struggle
+      to maintain control despite their numerical advantage and face increasing losses
+      that challenge the narrative of Hezbollah's defeat.
+    paragraph_summary: The situation in southern Lebanon reveals a significant shift
+      in military strategy and doctrine for both Israel and Hezbollah, highlighting
+      a disconnect between stated goals and actual battlefield conditions. Despite Israel's
+      claims of limited officer casualties and a decisive victory over Hezbollah, the
+      reality shows that Israeli forces struggle to maintain control beyond a few kilometers
+      into Lebanese territory. This has led to a reevaluation within the Israeli military,
+      recognizing that traditional methods of holding ground are ineffective and risky
+      in the current context. Hezbollah, on the other hand, has adapted by moving away
+      from static defense to a more dynamic approach that focuses on denying Israeli
+      forces the ability to stabilize their positions. This evolution reflects a broader
+      trend in modern warfare where the emphasis is on sustained operational pressure
+      rather than territorial conquest.
+    published: '2026-03-31T17:45:19+00:00'
+  - title: 'Hezbollah’s Evolved Doctrine: Denial Through Fluidity on the Southern Lebanon
+      Battlefield'
+    url: https://ejmagnier.com/2026/03/31/hezbollahs-evolved-doctrine-denial-through-fluidity-on-the-southern-lebanon-battlefield/
+    text: 'By Elijah J. Magnier – What is unfolding in southern Lebanon suggests not
+      simply a tactical adjustment, but a deeper doctrinal evolution on both sides of
+      the battlefield. Early indicators from the battlefield already expose the gap
+      between declared objectives and operational reality. Israel has acknowledged limited
+      officer losses and dozens of wounded during clashes inside Lebanese territory,
+      figures that, while modest in absolute terms, carry disproportionate weight within
+      Israeli society and military discourse. They undermine the official narrative
+      that Hezbollah has been decisively defeated and that southern Lebanon can be traversed
+      and controlled with ease. More significantly, they point to a deeper constraint:
+      despite deploying multiple operational divisions, Israeli forces have been unable
+      to translate numerical strength into sustained territorial control beyond a few
+      kilometres. Within the officer corps itself, there is growing recognition that
+      the character of the fight has changed. The model of holding ground as a marker
+      of success is no longer viable under these conditions, and remaining fixed in
+      the terrain increasingly contradicts both operational logic and force protection.
+      The emerging pattern indicates that the Lebanese resistance has deliberately abandoned
+      the traditional logic of static defence, is not defending terrain but denying
+      its stabilisation and is preventing an Israeli decisive success. The shift from
+      static defence to elastic, distributed engagement is consistent with the adaptation
+      of weaker actors against superior firepower. Modern conflict is less about terrain
+      and more about sustained operational pressure. The Israeli forces, for their part,
+      are advancing without being able to consolidate into fixed positions, reflecting
+      a mutual recognition that permanence in such an environment carries disproportionate
+      risk, even when top officials declared that their objective is to occupy the entire
+      southern Lebanon south of the Litani River. This is no longer a contest over lines
+      on a map. It is a contest over tempo, exposure, and endurance. For Israel, time
+      increases cost. For the resistance, time validates strategy. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The situation in southern Lebanon indicates a significant
+      shift in military strategy for both Israel and Hezbollah, revealing a disparity
+      between stated objectives and actual battlefield outcomes, as Israeli forces struggle
+      to maintain control despite their numerical advantage and face increasing losses
+      that challenge the narrative of Hezbollah's defeat.
+    paragraph_summary: The situation in southern Lebanon reveals a significant shift
+      in military strategy and doctrine for both Israel and Hezbollah, highlighting
+      a disconnect between stated goals and actual battlefield conditions. Despite Israel's
+      claims of limited officer casualties and a decisive victory over Hezbollah, the
+      reality shows that Israeli forces struggle to maintain control beyond a few kilometers
+      into Lebanese territory. This has led to a reevaluation within the Israeli military,
+      recognizing that traditional methods of holding ground are ineffective and risky
+      in the current context. Hezbollah, on the other hand, has adapted by moving away
+      from static defense to a more dynamic approach that focuses on denying Israeli
+      forces the ability to stabilize their positions. This evolution reflects a broader
+      trend in modern warfare where the emphasis is on sustained operational pressure
+      rather than territorial conquest.
+    published: '2026-03-31T17:45:19+00:00'
+  - title: 'La doctrine évoluée du Hezbollah : le déni par la fluidité sur le champ
+      de bataille du sud du Liban'
+    url: https://ejmagnier.com/2026/03/31/la-doctrine-evoluee-du-hezbollah-le-deni-par-la-fluidite-sur-le-champ-de-bataille-du-sud-du-liban/
+    text: 'Par Elijah J. Magnier – Ce qui se déroule dans le sud du Liban ne relève
+      pas simplement d’un ajustement tactique, mais d’une évolution doctrinale plus
+      profonde des deux côtés du champ de bataille. Les premiers indicateurs sur le
+      terrain révèlent déjà l’écart entre les objectifs affichés et la réalité opérationnelle.
+      Israël a reconnu des pertes limitées parmi ses officiers et plusieurs dizaines
+      de blessés lors des affrontements à l’intérieur du territoire libanais, des chiffres
+      qui, bien que modestes en valeur absolue, ont un poids disproportionné dans la
+      société israélienne et au sein du discours militaire. Ils fragilisent le récit
+      officiel selon lequel le Hezbollah aurait été définitivement vaincu et selon lequel
+      le sud du Liban pourrait être parcouru et contrôlé sans difficulté. Plus significatif
+      encore, ils mettent en lumière une contrainte plus profonde : malgré le déploiement
+      de plusieurs divisions opérationnelles, les forces israéliennes n’ont pas été
+      en mesure de traduire leur supériorité numérique en un contrôle territorial durable
+      au-delà de quelques kilomètres. Au sein même du corps des officiers, la reconnaissance
+      progresse que la nature du combat a changé. Le modèle consistant à tenir le terrain
+      comme marqueur de succès n’est plus viable dans ces conditions, et le fait de
+      rester figé dans l’espace contredit de plus en plus la logique opérationnelle
+      et la protection des forces. Ce schéma émergent indique que la résistance libanaise
+      a délibérément abandonné la logique traditionnelle de la défense statique. Elle
+      ne défend plus le terrain, mais en nie la stabilisation et empêche un succès israélien
+      décisif. Le passage d’une défense statique à un engagement élastique et distribué
+      correspond à l’adaptation d’un acteur plus faible face à une puissance de feu
+      supérieure. Le conflit moderne porte moins sur le terrain que sur une pression
+      opérationnelle soutenue. Les forces israéliennes, pour leur part, avancent sans
+      pouvoir se consolider dans des positions fixes, ce qui reflète une reconnaissance
+      mutuelle que la permanence dans un tel environnement comporte un risque disproportionné,
+      même lorsque certains responsables ont déclaré que leur objectif était d’occuper
+      l’ensemble du sud du Liban jusqu’au fleuve Litani. Il ne s’agit plus d’une confrontation
+      pour des lignes sur une carte, mais d’un affrontement portant sur le tempo, l’exposition
+      et l’endurance. Pour Israël, le temps augmente le coût. Pour la résistance, le
+      temps valide la stratégie. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que la situation dans
+      le sud du Liban reflète une évolution doctrinale significative des deux camps,
+      avec des pertes israéliennes qui, bien que limitées, remettent en question le
+      récit officiel de la victoire sur le Hezbollah et révèlent des difficultés opérationnelles
+      pour les forces israéliennes.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'évolution des stratégies
+      militaires dans le sud du Liban, soulignant un changement doctrinal significatif
+      des deux côtés du conflit. Les pertes israéliennes, bien que modestes, remettent
+      en question le récit officiel de la victoire sur le Hezbollah et révèlent l'incapacité
+      des forces israéliennes à établir un contrôle territorial durable, malgré leur
+      supériorité numérique. Ce constat indique une transition de la défense statique
+      à une approche plus dynamique et flexible de la part du Hezbollah, qui ne cherche
+      plus à défendre le terrain mais à empêcher une stabilisation israélienne. Le conflit
+      moderne, selon l'article, se concentre davantage sur la pression opérationnelle
+      que sur la conquête de territoires, rendant difficile pour les forces israéliennes
+      de maintenir des positions fixes.
+    published: '2026-03-31T17:38:38+00:00'
+  - title: 'La doctrine évoluée du Hezbollah : le déni par la fluidité sur le champ
+      de bataille du sud du Liban'
+    url: https://ejmagnier.com/2026/03/31/la-doctrine-evoluee-du-hezbollah-le-deni-par-la-fluidite-sur-le-champ-de-bataille-du-sud-du-liban/
+    text: 'Par Elijah J. Magnier – Ce qui se déroule dans le sud du Liban ne relève
+      pas simplement d’un ajustement tactique, mais d’une évolution doctrinale plus
+      profonde des deux côtés du champ de bataille. Les premiers indicateurs sur le
+      terrain révèlent déjà l’écart entre les objectifs affichés et la réalité opérationnelle.
+      Israël a reconnu des pertes limitées parmi ses officiers et plusieurs dizaines
+      de blessés lors des affrontements à l’intérieur du territoire libanais, des chiffres
+      qui, bien que modestes en valeur absolue, ont un poids disproportionné dans la
+      société israélienne et au sein du discours militaire. Ils fragilisent le récit
+      officiel selon lequel le Hezbollah aurait été définitivement vaincu et selon lequel
+      le sud du Liban pourrait être parcouru et contrôlé sans difficulté. Plus significatif
+      encore, ils mettent en lumière une contrainte plus profonde : malgré le déploiement
+      de plusieurs divisions opérationnelles, les forces israéliennes n’ont pas été
+      en mesure de traduire leur supériorité numérique en un contrôle territorial durable
+      au-delà de quelques kilomètres. Au sein même du corps des officiers, la reconnaissance
+      progresse que la nature du combat a changé. Le modèle consistant à tenir le terrain
+      comme marqueur de succès n’est plus viable dans ces conditions, et le fait de
+      rester figé dans l’espace contredit de plus en plus la logique opérationnelle
+      et la protection des forces. Ce schéma émergent indique que la résistance libanaise
+      a délibérément abandonné la logique traditionnelle de la défense statique. Elle
+      ne défend plus le terrain, mais en nie la stabilisation et empêche un succès israélien
+      décisif. Le passage d’une défense statique à un engagement élastique et distribué
+      correspond à l’adaptation d’un acteur plus faible face à une puissance de feu
+      supérieure. Le conflit moderne porte moins sur le terrain que sur une pression
+      opérationnelle soutenue. Les forces israéliennes, pour leur part, avancent sans
+      pouvoir se consolider dans des positions fixes, ce qui reflète une reconnaissance
+      mutuelle que la permanence dans un tel environnement comporte un risque disproportionné,
+      même lorsque certains responsables ont déclaré que leur objectif était d’occuper
+      l’ensemble du sud du Liban jusqu’au fleuve Litani. Il ne s’agit plus d’une confrontation
+      pour des lignes sur une carte, mais d’un affrontement portant sur le tempo, l’exposition
+      et l’endurance. Pour Israël, le temps augmente le coût. Pour la résistance, le
+      temps valide la stratégie. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que la situation dans
+      le sud du Liban reflète une évolution doctrinale significative des deux camps,
+      avec des pertes israéliennes qui, bien que limitées, remettent en question le
+      récit officiel de la victoire sur le Hezbollah et révèlent des difficultés opérationnelles
+      pour les forces israéliennes.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'évolution des stratégies
+      militaires dans le sud du Liban, soulignant un changement doctrinal significatif
+      des deux côtés du conflit. Les pertes israéliennes, bien que modestes, remettent
+      en question le récit officiel de la victoire sur le Hezbollah et révèlent l'incapacité
+      des forces israéliennes à établir un contrôle territorial durable, malgré leur
+      supériorité numérique. Ce constat indique une transition de la défense statique
+      à une approche plus dynamique et flexible de la part du Hezbollah, qui ne cherche
+      plus à défendre le terrain mais à empêcher une stabilisation israélienne. Le conflit
+      moderne, selon l'article, se concentre davantage sur la pression opérationnelle
+      que sur la conquête de territoires, rendant difficile pour les forces israéliennes
+      de maintenir des positions fixes.
+    published: '2026-03-31T17:38:38+00:00'
+  - title: 'Die weiterentwickelte Doktrin der Hisbollah: Verleugnung durch Flexibilität
+      auf dem Schlachtfeld im Südlibanon'
+    url: https://ejmagnier.com/2026/03/31/die-weiterentwickelte-doktrin-der-hisbollah-verleugnung-durch-flexibilitat-auf-dem-schlachtfeld-im-sudlibanon/
+    text: 'Von Elijah J. Magnier – Was sich derzeit im Südlibanon abspielt, deutet nicht
+      nur auf eine taktische Anpassung hin, sondern auf eine tiefgreifendere doktrinäre
+      Entwicklung auf beiden Seiten des Kriegsschauplatzes. Erste Anzeichen vom Kampfgeschehen
+      zeigen bereits die Kluft zwischen erklärten Zielen und der operativen Realität
+      auf. Israel hat begrenzte Verluste an Offizieren und Dutzende Verwundete bei Zusammenstößen
+      auf libanesischem Gebiet eingeräumt – Zahlen, die zwar in absoluten Zahlen bescheiden
+      sind, aber innerhalb der israelischen Gesellschaft und im militärischen Diskurs
+      ein unverhältnismäßig großes Gewicht haben. Sie untergraben die offizielle Darstellung,
+      dass die Hisbollah entscheidend besiegt worden sei und dass der Südlibanon mühelos
+      durchquert und kontrolliert werden könne. Noch bedeutender ist, dass sie auf eine
+      tiefere Einschränkung hinweisen: Trotz des Einsatzes mehrerer operativer Divisionen
+      ist es den israelischen Streitkräften nicht gelungen, ihre zahlenmäßige Überlegenheit
+      in eine nachhaltige territoriale Kontrolle über mehr als wenige Kilometer hinaus
+      umzusetzen. Innerhalb des Offizierskorps selbst wächst die Erkenntnis, dass sich
+      der Charakter des Kampfes gewandelt hat. Das Modell, die Stellung zu halten als
+      Zeichen des Erfolgs, ist unter diesen Bedingungen nicht mehr tragfähig, und das
+      Verharren im Gelände widerspricht zunehmend sowohl der operativen Logik als auch
+      dem Schutz der Streitkräfte. Das sich abzeichnende Muster deutet darauf hin, dass
+      der libanesische Widerstand bewusst die traditionelle Logik der statischen Verteidigung
+      aufgegeben hat, das Gelände nicht verteidigt, sondern dessen Stabilisierung verhindert
+      und einen entscheidenden israelischen Erfolg verhindert. Der Wechsel von statischer
+      Verteidigung zu elastischem, verteiltem Gefecht entspricht der Anpassung schwächerer
+      Akteure an überlegene Feuerkraft. In modernen Konflikten geht es weniger um Gelände
+      als vielmehr um anhaltenden operativen Druck. Die israelischen Streitkräfte ihrerseits
+      rücken vor, ohne sich in festen Stellungen konsolidieren zu können, was die gegenseitige
+      Erkenntnis widerspiegelt, dass ein Verharren in einem solchen Umfeld ein unverhältnismäßiges
+      Risiko birgt, selbst wenn hochrangige Offizielle erklärten, ihr Ziel sei die Besetzung
+      des gesamten Südlibanon südlich des Litani-Flusses. Dies ist kein Wettstreit mehr
+      um Linien auf einer Karte. Es ist ein Wettstreit um Tempo, Exposition und Ausdauer.
+      Für Israel erhöht die Zeit die Kosten. Für den Widerstand bestätigt die Zeit die
+      Richtigkeit seiner Strategie. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Die aktuellen Entwicklungen im Südlibanon deuten auf eine
+      strategische Anpassung und tiefere doktrinäre Veränderungen auf beiden Seiten
+      hin, während Israel trotz begrenzter Verluste und einer offiziellen Darstellung
+      des Sieges über die Hisbollah Schwierigkeiten hat, die Kontrolle über das Gebiet
+      zu behaupten.
+    paragraph_summary: Elijah J. Magnier analysiert die aktuellen Entwicklungen im Südlibanon
+      und stellt fest, dass sowohl Israel als auch die Hisbollah eine tiefgreifende
+      doktrinäre Anpassung erleben. Trotz begrenzter Verluste hat Israel Schwierigkeiten,
+      seine militärischen Ziele zu erreichen, was die offizielle Darstellung eines entscheidenden
+      Sieges über die Hisbollah in Frage stellt. Die israelischen Streitkräfte konnten
+      ihre zahlenmäßige Überlegenheit nicht in nachhaltige territoriale Kontrolle umsetzen,
+      was zu einer wachsenden Erkenntnis innerhalb des Offizierskorps führt, dass das
+      traditionelle Modell der statischen Verteidigung nicht mehr tragfähig ist. Stattdessen
+      hat die libanesische Widerstandsbewegung eine dynamische Strategie entwickelt,
+      die darauf abzielt, den israelischen Erfolg zu verhindern, was zeigt, dass moderne
+      Konflikte zunehmend weniger um die Kontrolle von Gelände und mehr um anhaltenden
+      operativen Druck gehen.
+    published: '2026-03-31T17:31:07+00:00'
+  - title: 'Die weiterentwickelte Doktrin der Hisbollah: Verleugnung durch Flexibilität
+      auf dem Schlachtfeld im Südlibanon'
+    url: https://ejmagnier.com/2026/03/31/die-weiterentwickelte-doktrin-der-hisbollah-verleugnung-durch-flexibilitat-auf-dem-schlachtfeld-im-sudlibanon/
+    text: 'Von Elijah J. Magnier – Was sich derzeit im Südlibanon abspielt, deutet nicht
+      nur auf eine taktische Anpassung hin, sondern auf eine tiefgreifendere doktrinäre
+      Entwicklung auf beiden Seiten des Kriegsschauplatzes. Erste Anzeichen vom Kampfgeschehen
+      zeigen bereits die Kluft zwischen erklärten Zielen und der operativen Realität
+      auf. Israel hat begrenzte Verluste an Offizieren und Dutzende Verwundete bei Zusammenstößen
+      auf libanesischem Gebiet eingeräumt – Zahlen, die zwar in absoluten Zahlen bescheiden
+      sind, aber innerhalb der israelischen Gesellschaft und im militärischen Diskurs
+      ein unverhältnismäßig großes Gewicht haben. Sie untergraben die offizielle Darstellung,
+      dass die Hisbollah entscheidend besiegt worden sei und dass der Südlibanon mühelos
+      durchquert und kontrolliert werden könne. Noch bedeutender ist, dass sie auf eine
+      tiefere Einschränkung hinweisen: Trotz des Einsatzes mehrerer operativer Divisionen
+      ist es den israelischen Streitkräften nicht gelungen, ihre zahlenmäßige Überlegenheit
+      in eine nachhaltige territoriale Kontrolle über mehr als wenige Kilometer hinaus
+      umzusetzen. Innerhalb des Offizierskorps selbst wächst die Erkenntnis, dass sich
+      der Charakter des Kampfes gewandelt hat. Das Modell, die Stellung zu halten als
+      Zeichen des Erfolgs, ist unter diesen Bedingungen nicht mehr tragfähig, und das
+      Verharren im Gelände widerspricht zunehmend sowohl der operativen Logik als auch
+      dem Schutz der Streitkräfte. Das sich abzeichnende Muster deutet darauf hin, dass
+      der libanesische Widerstand bewusst die traditionelle Logik der statischen Verteidigung
+      aufgegeben hat, das Gelände nicht verteidigt, sondern dessen Stabilisierung verhindert
+      und einen entscheidenden israelischen Erfolg verhindert. Der Wechsel von statischer
+      Verteidigung zu elastischem, verteiltem Gefecht entspricht der Anpassung schwächerer
+      Akteure an überlegene Feuerkraft. In modernen Konflikten geht es weniger um Gelände
+      als vielmehr um anhaltenden operativen Druck. Die israelischen Streitkräfte ihrerseits
+      rücken vor, ohne sich in festen Stellungen konsolidieren zu können, was die gegenseitige
+      Erkenntnis widerspiegelt, dass ein Verharren in einem solchen Umfeld ein unverhältnismäßiges
+      Risiko birgt, selbst wenn hochrangige Offizielle erklärten, ihr Ziel sei die Besetzung
+      des gesamten Südlibanon südlich des Litani-Flusses. Dies ist kein Wettstreit mehr
+      um Linien auf einer Karte. Es ist ein Wettstreit um Tempo, Exposition und Ausdauer.
+      Für Israel erhöht die Zeit die Kosten. Für den Widerstand bestätigt die Zeit die
+      Richtigkeit seiner Strategie. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Die aktuellen Entwicklungen im Südlibanon deuten auf eine
+      strategische Anpassung und tiefere doktrinäre Veränderungen auf beiden Seiten
+      hin, während Israel trotz begrenzter Verluste und einer offiziellen Darstellung
+      des Sieges über die Hisbollah Schwierigkeiten hat, die Kontrolle über das Gebiet
+      zu behaupten.
+    paragraph_summary: Elijah J. Magnier analysiert die aktuellen Entwicklungen im Südlibanon
+      und stellt fest, dass sowohl Israel als auch die Hisbollah eine tiefgreifende
+      doktrinäre Anpassung erleben. Trotz begrenzter Verluste hat Israel Schwierigkeiten,
+      seine militärischen Ziele zu erreichen, was die offizielle Darstellung eines entscheidenden
+      Sieges über die Hisbollah in Frage stellt. Die israelischen Streitkräfte konnten
+      ihre zahlenmäßige Überlegenheit nicht in nachhaltige territoriale Kontrolle umsetzen,
+      was zu einer wachsenden Erkenntnis innerhalb des Offizierskorps führt, dass das
+      traditionelle Modell der statischen Verteidigung nicht mehr tragfähig ist. Stattdessen
+      hat die libanesische Widerstandsbewegung eine dynamische Strategie entwickelt,
+      die darauf abzielt, den israelischen Erfolg zu verhindern, was zeigt, dass moderne
+      Konflikte zunehmend weniger um die Kontrolle von Gelände und mehr um anhaltenden
+      operativen Druck gehen.
+    published: '2026-03-31T17:31:07+00:00'
+  - title: 'From Deterrence by Narrative to a Birth: The Harmonious Axis of the Resistance
+      Is Being Born'
+    url: https://ejmagnier.com/2026/03/29/from-deterrence-by-narrative-to-a-birth-the-harmonious-axis-of-the-resistance-is-being-born/
+    text: 'By Elijah J. Magnier – For decades, the Axis of the Resistance existed more
+      as a strategic idea than as a fully integrated military structure with unified
+      leadership across multiple theatres. It was deterrence by narrative — a powerful
+      story of unity told through rockets, statements, and the quiet work of the IRGC
+      Quds Force. Enemies treated it as a serious threat, but many still doubted whether
+      it could ever move from deterrent narrative to genuine multi-theatre military
+      synchronisation, particularly after 7 October 2023 and the wars that followed.
+      Since then, some within the region began to question whether it could ever move
+      beyond slogans. There was no central command-and-control centre, no joint operations
+      room where generals from Tehran, Baghdad, Damascus, Beirut and Sanaa sat together
+      issuing synchronised orders. What held it together was a combination of ideology,
+      shared enemies, and the patient architecture built by the late IRGC General Qassem
+      Soleimani and later embodied and advanced by Hezbollah Secretary General Sayyed
+      Hassan Nasrallah. The “Unity of the Arenas” was a doctrine, not a daily reality.
+      It deterred through the threat of escalation, not through demonstrated coordination
+      on the battlefield. That era ended on 28 February 2026. The unprovoked US-Israeli
+      aggression against the Islamic Republic — direct strikes on Iranian soil and the
+      assassination of Supreme Leader Ali Khamenei — became the crucible. In the weeks
+      since, we have witnessed something the Axis had never previously achieved: the
+      effective, simultaneous activation of the Unity of the Theatres. Hezbollah opened
+      fire within days. Iranian forces launched wave after wave of True Promise 4 operations.
+      The Islamic Resistance in Iraq unleashed dozens of drone and missile strikes daily.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: The Axis of the Resistance, historically more of a strategic
+      concept than a cohesive military entity, faces skepticism about its ability to
+      transition from a narrative of deterrence to actual coordinated military action
+      across multiple regions, especially in light of recent conflicts following October
+      7, 2023.
+    paragraph_summary: The article by Elijah J. Magnier discusses the evolution of the
+      Axis of Resistance from a loosely connected strategic concept to a more integrated
+      military force following significant events, particularly the US-Israeli aggression
+      against Iran in February 2026. Historically, the Axis relied on a narrative of
+      deterrence without a centralized command structure, with its cohesion stemming
+      from shared ideology and common adversaries, largely orchestrated by figures like
+      Qassem Soleimani and Hassan Nasrallah. However, the recent attacks prompted a
+      shift, leading to unprecedented military coordination among the various factions,
+      including Hezbollah and Iranian forces, who launched simultaneous operations across
+      multiple fronts, marking a significant transformation in their operational capabilities
+      and unity.
+    published: '2026-03-29T04:43:31+00:00'
+  - title: 'From Deterrence by Narrative to a Birth: The Harmonious Axis of the Resistance
+      Is Being Born'
+    url: https://ejmagnier.com/2026/03/29/from-deterrence-by-narrative-to-a-birth-the-harmonious-axis-of-the-resistance-is-being-born/
+    text: 'By Elijah J. Magnier – For decades, the Axis of the Resistance existed more
+      as a strategic idea than as a fully integrated military structure with unified
+      leadership across multiple theatres. It was deterrence by narrative — a powerful
+      story of unity told through rockets, statements, and the quiet work of the IRGC
+      Quds Force. Enemies treated it as a serious threat, but many still doubted whether
+      it could ever move from deterrent narrative to genuine multi-theatre military
+      synchronisation, particularly after 7 October 2023 and the wars that followed.
+      Since then, some within the region began to question whether it could ever move
+      beyond slogans. There was no central command-and-control centre, no joint operations
+      room where generals from Tehran, Baghdad, Damascus, Beirut and Sanaa sat together
+      issuing synchronised orders. What held it together was a combination of ideology,
+      shared enemies, and the patient architecture built by the late IRGC General Qassem
+      Soleimani and later embodied and advanced by Hezbollah Secretary General Sayyed
+      Hassan Nasrallah. The “Unity of the Arenas” was a doctrine, not a daily reality.
+      It deterred through the threat of escalation, not through demonstrated coordination
+      on the battlefield. That era ended on 28 February 2026. The unprovoked US-Israeli
+      aggression against the Islamic Republic — direct strikes on Iranian soil and the
+      assassination of Supreme Leader Ali Khamenei — became the crucible. In the weeks
+      since, we have witnessed something the Axis had never previously achieved: the
+      effective, simultaneous activation of the Unity of the Theatres. Hezbollah opened
+      fire within days. Iranian forces launched wave after wave of True Promise 4 operations.
+      The Islamic Resistance in Iraq unleashed dozens of drone and missile strikes daily.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: The Axis of the Resistance, historically more of a strategic
+      concept than a cohesive military entity, faces skepticism about its ability to
+      transition from a narrative of deterrence to actual coordinated military action
+      across multiple regions, especially in light of recent conflicts following October
+      7, 2023.
+    paragraph_summary: The article by Elijah J. Magnier discusses the evolution of the
+      Axis of Resistance from a loosely connected strategic concept to a more integrated
+      military force following significant events, particularly the US-Israeli aggression
+      against Iran in February 2026. Historically, the Axis relied on a narrative of
+      deterrence without a centralized command structure, with its cohesion stemming
+      from shared ideology and common adversaries, largely orchestrated by figures like
+      Qassem Soleimani and Hassan Nasrallah. However, the recent attacks prompted a
+      shift, leading to unprecedented military coordination among the various factions,
+      including Hezbollah and Iranian forces, who launched simultaneous operations across
+      multiple fronts, marking a significant transformation in their operational capabilities
+      and unity.
+    published: '2026-03-29T04:43:31+00:00'
+  - title: 'Du récit dissuasif à une naissance : l’Axe harmonieux de la Résistance est
+      en train de naître'
+    url: https://ejmagnier.com/2026/03/29/du-recit-dissuasif-a-une-naissance-laxe-harmonieux-de-la-resistance-est-en-train-de-naitre/
+    text: 'Par Elijah J. Magnier – Pendant des décennies, l’Axe de la Résistance a existé
+      davantage comme une idée stratégique que comme une structure militaire pleinement
+      intégrée, dotée d’un commandement unifié à travers plusieurs théâtres. C’était
+      une dissuasion par le récit : une puissante histoire d’unité racontée à travers
+      les roquettes, les déclarations et le travail discret de la Force Al Qods des
+      Gardiens de la Révolution. Les ennemis le considéraient comme une menace sérieuse,
+      mais beaucoup doutaient encore de sa capacité à passer d’un récit dissuasif à
+      une véritable synchronisation militaire multi théâtres, en particulier après le
+      7 octobre 2023 et les guerres qui ont suivi. Depuis lors, certains dans la région
+      ont commencé à se demander s’il pourrait un jour dépasser le stade des slogans.
+      Il n’existait pas de centre centralisé de commandement et de contrôle, ni de salle
+      d’opérations commune où des généraux de Téhéran, Bagdad, Damas, Beyrouth et Sanaa
+      auraient siégé ensemble pour émettre des ordres synchronisés. Ce qui le maintenait
+      uni relevait d’une combinaison d’idéologie, d’ennemis communs et de l’architecture
+      patiente construite par le défunt général des Gardiens de la Révolution Qassem
+      Soleimani, puis incarnée et approfondie par le secrétaire général du Hezbollah,
+      Sayyed Hassan Nasrallah. L’« Unité des Arènes » était une doctrine, non une réalité
+      quotidienne. Elle dissuadait par la menace de l’escalade, non par une coordination
+      démontrée sur le champ de bataille. Cette époque a pris fin le 28 février 2026.
+      L’agression américano israélienne non provoquée contre la République islamique,
+      frappes directes sur le sol iranien et assassinat du Guide suprême Ali Khamenei,
+      est devenue le creuset. Au cours des semaines qui ont suivi, nous avons assisté
+      à quelque chose que l’Axe n’avait encore jamais accompli : l’activation effective
+      et simultanée de l’Unité des Théâtres. Le Hezbollah a ouvert le feu en quelques
+      jours. Les forces iraniennes ont lancé vague après vague les opérations True Promise
+      4. La Résistance islamique en Irak a déclenché chaque jour des dizaines de frappes
+      de drones et de missiles. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: L'Axe de la Résistance, longtemps perçu comme une idée stratégique
+      sans véritable structure militaire unifiée, fait face à des doutes croissants
+      quant à sa capacité à évoluer vers une coordination militaire effective après
+      les événements du 7 octobre 2023.
+    paragraph_summary: L'article d'Elijah J. Magnier examine l'évolution de l'Axe de
+      la Résistance, qui, pendant des décennies, a été perçu comme une idée stratégique
+      plutôt qu'une structure militaire intégrée, sans commandement unifié. Bien qu'il
+      ait servi de dissuasion à travers une narration puissante et des actions discrètes,
+      des doutes subsistaient quant à sa capacité à coordonner des opérations militaires
+      multi-théâtres. Cependant, après les événements du 7 octobre 2023 et l'agression
+      américaine et israélienne contre l'Iran en février 2026, l'Axe a démontré une
+      activation effective de l'Unité des Théâtres, avec des actions militaires simultanées,
+      marquant un tournant significatif dans sa capacité à agir de manière coordonnée
+      sur le champ de bataille.
+    published: '2026-03-29T04:42:22+00:00'
+  - title: 'Du récit dissuasif à une naissance : l’Axe harmonieux de la Résistance est
+      en train de naître'
+    url: https://ejmagnier.com/2026/03/29/du-recit-dissuasif-a-une-naissance-laxe-harmonieux-de-la-resistance-est-en-train-de-naitre/
+    text: 'Par Elijah J. Magnier – Pendant des décennies, l’Axe de la Résistance a existé
+      davantage comme une idée stratégique que comme une structure militaire pleinement
+      intégrée, dotée d’un commandement unifié à travers plusieurs théâtres. C’était
+      une dissuasion par le récit : une puissante histoire d’unité racontée à travers
+      les roquettes, les déclarations et le travail discret de la Force Al Qods des
+      Gardiens de la Révolution. Les ennemis le considéraient comme une menace sérieuse,
+      mais beaucoup doutaient encore de sa capacité à passer d’un récit dissuasif à
+      une véritable synchronisation militaire multi théâtres, en particulier après le
+      7 octobre 2023 et les guerres qui ont suivi. Depuis lors, certains dans la région
+      ont commencé à se demander s’il pourrait un jour dépasser le stade des slogans.
+      Il n’existait pas de centre centralisé de commandement et de contrôle, ni de salle
+      d’opérations commune où des généraux de Téhéran, Bagdad, Damas, Beyrouth et Sanaa
+      auraient siégé ensemble pour émettre des ordres synchronisés. Ce qui le maintenait
+      uni relevait d’une combinaison d’idéologie, d’ennemis communs et de l’architecture
+      patiente construite par le défunt général des Gardiens de la Révolution Qassem
+      Soleimani, puis incarnée et approfondie par le secrétaire général du Hezbollah,
+      Sayyed Hassan Nasrallah. L’« Unité des Arènes » était une doctrine, non une réalité
+      quotidienne. Elle dissuadait par la menace de l’escalade, non par une coordination
+      démontrée sur le champ de bataille. Cette époque a pris fin le 28 février 2026.
+      L’agression américano israélienne non provoquée contre la République islamique,
+      frappes directes sur le sol iranien et assassinat du Guide suprême Ali Khamenei,
+      est devenue le creuset. Au cours des semaines qui ont suivi, nous avons assisté
+      à quelque chose que l’Axe n’avait encore jamais accompli : l’activation effective
+      et simultanée de l’Unité des Théâtres. Le Hezbollah a ouvert le feu en quelques
+      jours. Les forces iraniennes ont lancé vague après vague les opérations True Promise
+      4. La Résistance islamique en Irak a déclenché chaque jour des dizaines de frappes
+      de drones et de missiles. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: L'Axe de la Résistance, longtemps perçu comme une idée stratégique
+      sans véritable structure militaire unifiée, fait face à des doutes croissants
+      quant à sa capacité à évoluer vers une coordination militaire effective après
+      les événements du 7 octobre 2023.
+    paragraph_summary: L'article d'Elijah J. Magnier examine l'évolution de l'Axe de
+      la Résistance, qui, pendant des décennies, a été perçu comme une idée stratégique
+      plutôt qu'une structure militaire intégrée, sans commandement unifié. Bien qu'il
+      ait servi de dissuasion à travers une narration puissante et des actions discrètes,
+      des doutes subsistaient quant à sa capacité à coordonner des opérations militaires
+      multi-théâtres. Cependant, après les événements du 7 octobre 2023 et l'agression
+      américaine et israélienne contre l'Iran en février 2026, l'Axe a démontré une
+      activation effective de l'Unité des Théâtres, avec des actions militaires simultanées,
+      marquant un tournant significatif dans sa capacité à agir de manière coordonnée
+      sur le champ de bataille.
+    published: '2026-03-29T04:42:22+00:00'
+  - title: 'Von der Abschreckung durch Narrative zur Geburt: Die harmonische Achse des
+      Widerstands entsteht'
+    url: https://ejmagnier.com/2026/03/29/von-der-abschreckung-durch-narrative-zur-geburt-die-harmonische-achse-des-widerstands-entsteht/
+    text: 'Von Elijah J. Magnier – Jahrzehntelang existierte die Achse des Widerstands
+      eher als strategisches Konzept denn als vollständig integrierte militärische Struktur
+      mit einheitlicher Führung über mehrere Schauplätze hinweg. Es handelte sich um
+      Abschreckung durch Narrative – eine kraftvolle Geschichte der Einheit, erzählt
+      durch Raketen, Erklärungen und die stille Arbeit der Quds-Einheit der IRGC. Feinde
+      betrachteten sie als ernsthafte Bedrohung, doch viele bezweifelten weiterhin,
+      dass sie jemals von einem abschreckenden Narrativ zu einer echten militärischen
+      Synchronisation über mehrere Schauplätze hinweg übergehen könnte, insbesondere
+      nach dem 7. Oktober 2023 und den darauf folgenden Kriegen. Seitdem begannen einige
+      in der Region zu bezweifeln, ob sie jemals über Slogans hinausgehen könnte. Es
+      gab kein zentrales Kommando- und Kontrollzentrum, keinen gemeinsamen Einsatzraum,
+      in dem Generäle aus Teheran, Bagdad, Damaskus, Beirut und Sanaa zusammensaßen
+      und abgestimmte Befehle erteilten. Was das Ganze zusammenhielt, war eine Kombination
+      aus Ideologie, gemeinsamen Feinden und der geduldigen Architektur, die vom verstorbenen
+      IRGC-General Qassem Soleimani aufgebaut und später vom Hisbollah-Generalsekretär
+      Sayyed Hassan Nasrallah verkörpert und vorangetrieben wurde. Die „Einheit der
+      Schauplätze“ war eine Doktrin, keine tägliche Realität. Sie wirkte abschreckend
+      durch die Androhung einer Eskalation, nicht durch demonstrierte Koordination auf
+      dem Schlachtfeld. Diese Ära endete am 28. Februar 2026. Die unprovozierte US-israelische
+      Aggression gegen die Islamische Republik – direkte Angriffe auf iranischem Boden
+      und die Ermordung des Obersten Führers Ali Khamenei – wurde zum Prüfstein. In
+      den Wochen seitdem wurden wir Zeugen von etwas, das die Achse zuvor nie erreicht
+      hatte: die effektive, gleichzeitige Aktivierung der Einheit der Schauplätze. Die
+      Hisbollah eröffnete innerhalb weniger Tage das Feuer. Iranische Streitkräfte starteten
+      eine Welle nach der anderen von „True Promise 4“-Operationen. Der Islamische Widerstand
+      im Irak entfesselte täglich Dutzende von Drohnen- und Raketenangriffen. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Achse des Widerstands, lange Zeit ein strategisches Konzept
+      ohne integrierte militärische Struktur und zentrale Führung, steht nach den Ereignissen
+      vom 7. Oktober 2023 vor der Herausforderung, von einem narrativen Abschreckungsansatz
+      zu einer echten militärischen Koordination über mehrere Schauplätze zu gelangen.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt die Entwicklung
+      der Achse des Widerstands, die lange Zeit als strategisches Konzept ohne integrierte
+      militärische Struktur existierte, und beleuchtet den Wandel nach den Ereignissen
+      vom 7. Oktober 2023. Während die Achse zuvor durch Ideologie und gemeinsame Feinde
+      zusammengehalten wurde, ohne eine koordinierte militärische Führung zu haben,
+      führte die aggressive US-israelische Offensive gegen den Iran und die Ermordung
+      von Ali Khamenei am 28. Februar 2026 zu einer signifikanten Veränderung. In der
+      Folge erlebte die Achse eine effektive und gleichzeitige Aktivierung ihrer militärischen
+      Kapazitäten, was zu einer neuen Realität der militärischen Synchronisation führte,
+      die zuvor als unmöglich galt.
+    published: '2026-03-29T04:40:45+00:00'
+  - title: 'Von der Abschreckung durch Narrative zur Geburt: Die harmonische Achse des
+      Widerstands entsteht'
+    url: https://ejmagnier.com/2026/03/29/von-der-abschreckung-durch-narrative-zur-geburt-die-harmonische-achse-des-widerstands-entsteht/
+    text: 'Von Elijah J. Magnier – Jahrzehntelang existierte die Achse des Widerstands
+      eher als strategisches Konzept denn als vollständig integrierte militärische Struktur
+      mit einheitlicher Führung über mehrere Schauplätze hinweg. Es handelte sich um
+      Abschreckung durch Narrative – eine kraftvolle Geschichte der Einheit, erzählt
+      durch Raketen, Erklärungen und die stille Arbeit der Quds-Einheit der IRGC. Feinde
+      betrachteten sie als ernsthafte Bedrohung, doch viele bezweifelten weiterhin,
+      dass sie jemals von einem abschreckenden Narrativ zu einer echten militärischen
+      Synchronisation über mehrere Schauplätze hinweg übergehen könnte, insbesondere
+      nach dem 7. Oktober 2023 und den darauf folgenden Kriegen. Seitdem begannen einige
+      in der Region zu bezweifeln, ob sie jemals über Slogans hinausgehen könnte. Es
+      gab kein zentrales Kommando- und Kontrollzentrum, keinen gemeinsamen Einsatzraum,
+      in dem Generäle aus Teheran, Bagdad, Damaskus, Beirut und Sanaa zusammensaßen
+      und abgestimmte Befehle erteilten. Was das Ganze zusammenhielt, war eine Kombination
+      aus Ideologie, gemeinsamen Feinden und der geduldigen Architektur, die vom verstorbenen
+      IRGC-General Qassem Soleimani aufgebaut und später vom Hisbollah-Generalsekretär
+      Sayyed Hassan Nasrallah verkörpert und vorangetrieben wurde. Die „Einheit der
+      Schauplätze“ war eine Doktrin, keine tägliche Realität. Sie wirkte abschreckend
+      durch die Androhung einer Eskalation, nicht durch demonstrierte Koordination auf
+      dem Schlachtfeld. Diese Ära endete am 28. Februar 2026. Die unprovozierte US-israelische
+      Aggression gegen die Islamische Republik – direkte Angriffe auf iranischem Boden
+      und die Ermordung des Obersten Führers Ali Khamenei – wurde zum Prüfstein. In
+      den Wochen seitdem wurden wir Zeugen von etwas, das die Achse zuvor nie erreicht
+      hatte: die effektive, gleichzeitige Aktivierung der Einheit der Schauplätze. Die
+      Hisbollah eröffnete innerhalb weniger Tage das Feuer. Iranische Streitkräfte starteten
+      eine Welle nach der anderen von „True Promise 4“-Operationen. Der Islamische Widerstand
+      im Irak entfesselte täglich Dutzende von Drohnen- und Raketenangriffen. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Achse des Widerstands, lange Zeit ein strategisches Konzept
+      ohne integrierte militärische Struktur und zentrale Führung, steht nach den Ereignissen
+      vom 7. Oktober 2023 vor der Herausforderung, von einem narrativen Abschreckungsansatz
+      zu einer echten militärischen Koordination über mehrere Schauplätze zu gelangen.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt die Entwicklung
+      der Achse des Widerstands, die lange Zeit als strategisches Konzept ohne integrierte
+      militärische Struktur existierte, und beleuchtet den Wandel nach den Ereignissen
+      vom 7. Oktober 2023. Während die Achse zuvor durch Ideologie und gemeinsame Feinde
+      zusammengehalten wurde, ohne eine koordinierte militärische Führung zu haben,
+      führte die aggressive US-israelische Offensive gegen den Iran und die Ermordung
+      von Ali Khamenei am 28. Februar 2026 zu einer signifikanten Veränderung. In der
+      Folge erlebte die Achse eine effektive und gleichzeitige Aktivierung ihrer militärischen
+      Kapazitäten, was zu einer neuen Realität der militärischen Synchronisation führte,
+      die zuvor als unmöglich galt.
+    published: '2026-03-29T04:40:45+00:00'
+  - title: 'Ziele, strategische Unklarheit und Wandel: Der sich wandelnde Konflikt zwischen
+      den Vereinigten Staaten, Israel und dem Iran'
+    url: https://ejmagnier.com/2026/03/27/ziele-strategische-unklarheit-und-wandel-der-sich-wandelnde-konflikt-zwischen-den-vereinigten-staaten-israel-und-dem-iran/
+    text: 'Von Elijah J. Magnier Der Konflikt zwischen den Vereinigten Staaten, Israel
+      und dem Iran hat sich mit einem bemerkenswerten Maß an Unklarheit, wechselnden
+      Zielen und konkurrierenden Narrativen entwickelt. Was als Kampagne mit dem Ziel
+      eines Regimewechsels begann, hat sich allmählich in etwas weitaus Komplexeres
+      verwandelt, das jedoch mit deutlich geringeren Anforderungen einhergeht. Jeder
+      Akteur scheint nun ein anderes Endziel zu verfolgen, was nicht nur strategische
+      Divergenzen offenbart, sondern auch die Grenzen militärischen Drucks bei der Neugestaltung
+      einer regionalen Macht wie dem Iran. Zu Beginn setzte US-Präsident Donald Trump
+      ein klares und ehrgeiziges Ziel: einen Regimewechsel im Iran. Seine Rhetorik war
+      direkt und konfrontativ. Er rief die Iraner offen dazu auf, auf die Straße zu
+      gehen und sich gegen ihre Regierung zu erheben, und schloss sich damit einer seit
+      langem in Washington vertretenen Überzeugung an, dass interne Unruhen genutzt
+      werden könnten, um die Islamische Republik zu schwächen oder zu stürzen. Israel
+      unterstützte diesen Ansatz und ermutigte ebenfalls den Widerstand der Bevölkerung
+      im Iran. Doch diese Strategie zeigte schnell ihre Schwächen. Trotz externer Aufrufe
+      zur Rebellion kam es im Iran zu keinem groß angelegten Aufstand. Die Bevölkerung
+      mobilisierte sich nicht in der Weise, wie es sich die politischen Entscheidungsträger
+      in den USA und Israel erhofft und erwartet hatten. Das Ausbleiben eines inneren
+      Zusammenbruchs zwang zu einer Änderung des Tons und der Ziele. Trump wechselte
+      von der Ermutigung zur Revolte hin zu dem Vorschlag, dass die Vereinigten Staaten
+      eine Rolle bei der Gestaltung der politischen Zukunft des Iran spielen sollten,
+      und sprach sogar davon, sich an der Auswahl einer neuen Führung zu beteiligen.
+      Dies markierte einen Übergang von indirektem Druck zu einer interventionistischeren
+      Haltung, zumindest rhetorisch, jedoch ohne Erfolg. Nun beschränken sich die Ziele
+      auf die freie Schifffahrt in der Straße von Hormus und die Drohung der USA, Irans
+      Kraftwerke zu zerstören. Der Plan des israelischen Premierministers Benjamin Netanjahu,
+      das Regime zu stürzen, wurde inzwischen durch das Ziel ersetzt, „einen widerstandsfähigen
+      Iran zu schwächen und den Schaden zu vertiefen“. Die Zerstörung von Irans Raketen-
+      und Atomprogramm scheint nach fast vier Wochen zerstörerischer Kämpfe unerreichbar.
+      Nun sprechen die USA von Verhandlungen mit eben jenem herrschenden System, das
+      sie zu beseitigen schworen, und Israel schlägt vor, härtere Forderungen auf den
+      Tisch zu legen, bevor eine Einigung mit eben diesem iranischen herrschenden System
+      erzielt wird. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Konflikt zwischen den USA, Israel und dem Iran hat sich
+      von einer klaren Regimewechsel-Kampagne unter Trump zu einem komplexen Zusammenspiel
+      divergierender Ziele und Strategien entwickelt, das die Grenzen militärischen
+      Drucks aufzeigt.
+    paragraph_summary: Der Konflikt zwischen den USA, Israel und dem Iran hat sich von
+      einem anfänglichen Ziel des Regimewechsels zu einer komplexeren Situation mit
+      divergierenden Zielen entwickelt. Ursprünglich setzte US-Präsident Donald Trump
+      auf direkte Konfrontation und rief die Iraner zur Rebellion gegen ihre Regierung
+      auf, unterstützt von Israel. Diese Strategie scheiterte jedoch, da es zu keinem
+      nennenswerten Aufstand im Iran kam. Infolgedessen änderten die USA ihren Ansatz,
+      indem sie von der Unterstützung interner Unruhen abkehrten und stattdessen eine
+      aktivere Rolle bei der Gestaltung der politischen Zukunft des Iran anstrebten,
+      was jedoch ebenfalls erfolglos blieb. Aktuell konzentrieren sich die Ziele auf
+      die Gewährleistung der freien Schifffahrt in der Straße von Hormus.
+    published: '2026-03-27T20:07:30+00:00'
+  - title: 'Ziele, strategische Unklarheit und Wandel: Der sich wandelnde Konflikt zwischen
+      den Vereinigten Staaten, Israel und dem Iran'
+    url: https://ejmagnier.com/2026/03/27/ziele-strategische-unklarheit-und-wandel-der-sich-wandelnde-konflikt-zwischen-den-vereinigten-staaten-israel-und-dem-iran/
+    text: 'Von Elijah J. Magnier Der Konflikt zwischen den Vereinigten Staaten, Israel
+      und dem Iran hat sich mit einem bemerkenswerten Maß an Unklarheit, wechselnden
+      Zielen und konkurrierenden Narrativen entwickelt. Was als Kampagne mit dem Ziel
+      eines Regimewechsels begann, hat sich allmählich in etwas weitaus Komplexeres
+      verwandelt, das jedoch mit deutlich geringeren Anforderungen einhergeht. Jeder
+      Akteur scheint nun ein anderes Endziel zu verfolgen, was nicht nur strategische
+      Divergenzen offenbart, sondern auch die Grenzen militärischen Drucks bei der Neugestaltung
+      einer regionalen Macht wie dem Iran. Zu Beginn setzte US-Präsident Donald Trump
+      ein klares und ehrgeiziges Ziel: einen Regimewechsel im Iran. Seine Rhetorik war
+      direkt und konfrontativ. Er rief die Iraner offen dazu auf, auf die Straße zu
+      gehen und sich gegen ihre Regierung zu erheben, und schloss sich damit einer seit
+      langem in Washington vertretenen Überzeugung an, dass interne Unruhen genutzt
+      werden könnten, um die Islamische Republik zu schwächen oder zu stürzen. Israel
+      unterstützte diesen Ansatz und ermutigte ebenfalls den Widerstand der Bevölkerung
+      im Iran. Doch diese Strategie zeigte schnell ihre Schwächen. Trotz externer Aufrufe
+      zur Rebellion kam es im Iran zu keinem groß angelegten Aufstand. Die Bevölkerung
+      mobilisierte sich nicht in der Weise, wie es sich die politischen Entscheidungsträger
+      in den USA und Israel erhofft und erwartet hatten. Das Ausbleiben eines inneren
+      Zusammenbruchs zwang zu einer Änderung des Tons und der Ziele. Trump wechselte
+      von der Ermutigung zur Revolte hin zu dem Vorschlag, dass die Vereinigten Staaten
+      eine Rolle bei der Gestaltung der politischen Zukunft des Iran spielen sollten,
+      und sprach sogar davon, sich an der Auswahl einer neuen Führung zu beteiligen.
+      Dies markierte einen Übergang von indirektem Druck zu einer interventionistischeren
+      Haltung, zumindest rhetorisch, jedoch ohne Erfolg. Nun beschränken sich die Ziele
+      auf die freie Schifffahrt in der Straße von Hormus und die Drohung der USA, Irans
+      Kraftwerke zu zerstören. Der Plan des israelischen Premierministers Benjamin Netanjahu,
+      das Regime zu stürzen, wurde inzwischen durch das Ziel ersetzt, „einen widerstandsfähigen
+      Iran zu schwächen und den Schaden zu vertiefen“. Die Zerstörung von Irans Raketen-
+      und Atomprogramm scheint nach fast vier Wochen zerstörerischer Kämpfe unerreichbar.
+      Nun sprechen die USA von Verhandlungen mit eben jenem herrschenden System, das
+      sie zu beseitigen schworen, und Israel schlägt vor, härtere Forderungen auf den
+      Tisch zu legen, bevor eine Einigung mit eben diesem iranischen herrschenden System
+      erzielt wird. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Konflikt zwischen den USA, Israel und dem Iran hat sich
+      von einer klaren Regimewechsel-Kampagne unter Trump zu einem komplexen Zusammenspiel
+      divergierender Ziele und Strategien entwickelt, das die Grenzen militärischen
+      Drucks aufzeigt.
+    paragraph_summary: Der Konflikt zwischen den USA, Israel und dem Iran hat sich von
+      einem anfänglichen Ziel des Regimewechsels zu einer komplexeren Situation mit
+      divergierenden Zielen entwickelt. Ursprünglich setzte US-Präsident Donald Trump
+      auf direkte Konfrontation und rief die Iraner zur Rebellion gegen ihre Regierung
+      auf, unterstützt von Israel. Diese Strategie scheiterte jedoch, da es zu keinem
+      nennenswerten Aufstand im Iran kam. Infolgedessen änderten die USA ihren Ansatz,
+      indem sie von der Unterstützung interner Unruhen abkehrten und stattdessen eine
+      aktivere Rolle bei der Gestaltung der politischen Zukunft des Iran anstrebten,
+      was jedoch ebenfalls erfolglos blieb. Aktuell konzentrieren sich die Ziele auf
+      die Gewährleistung der freien Schifffahrt in der Straße von Hormus.
+    published: '2026-03-27T20:07:30+00:00'
+  - title: 'Objectives and Strategic Ambiguity and Shift: The Evolving war Between the
+      United States, Israel, and Iran'
+    url: https://ejmagnier.com/2026/03/27/objectives-and-strategic-ambiguity-and-shift-the-evolving-war-between-the-united-states-israel-and-iran/
+    text: By Elijah J. Magnier The conflict involving the United States, Israel, and
+      Iran has unfolded with a striking level of ambiguity, shifting goals, and competing
+      narratives. What began as a campaign that prominently featured regime change has
+      gradually transformed into something far more complex, with significantly scaled-back
+      demands. Each actor now appears to be pursuing a different endgame, revealing
+      not only strategic divergence but also the limits of military pressure in reshaping
+      a resilient regional power like Iran. At the outset, US President Donald Trump
+      employed direct and confrontational rhetoric, calling on Iranians to rise against
+      their government and openly linking the campaign to weakening or replacing the
+      Islamic Republic. Israel supported this approach, similarly encouraging internal
+      resistance. Yet this strategy quickly exposed its limitations. Despite external
+      appeals for rebellion, no large-scale uprising materialised inside Iran. The population
+      did not mobilise as anticipated, forcing a rapid shift in tone and objectives—from
+      indirect pressure via popular revolt to more interventionist signals, such as
+      suggestions of US involvement in shaping Iran’s future leadership. These adjustments,
+      however, yielded limited results, paving the way for today’s narrower priorities
+      centred on freedom of navigation in the Strait of Hormuz, economic stability,
+      and sustained degradation of Iranian capabilities. Now the objectives are limited
+      to the free navigation in the Strait of Hormuz and the US threat to destroy Iran’s
+      power plants. Israeli Prime Minister Benjamin Netanyahu’s plan to change the regime
+      has now been replaced with the ‘weakening a resilient Iran and deepening the damage’.
+      The destruction of Iran’s missile and nuclear program seems unachievable after
+      almost four weeks of destructive battle. Now the US is talking about negotiating
+      with the same ruling system it vowed to remove, and Israel is suggesting a harder
+      request to be put on the table before reaching any agreement with the same Iranian
+      ruling system. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: The conflict involving the U.S., Israel, and Iran has evolved
+      from a focus on regime change to a more complex situation marked by diverging
+      goals and the realization of the limitations of military pressure on Iran's resilience.
+    paragraph_summary: The conflict involving the United States, Israel, and Iran has
+      evolved from an initial focus on regime change to a more complex and ambiguous
+      situation with diverging goals among the parties involved. Initially, U.S. President
+      Donald Trump's confrontational approach aimed to incite internal rebellion against
+      the Iranian government, a strategy supported by Israel. However, the anticipated
+      uprising did not occur, leading to a shift in tactics from promoting popular revolt
+      to more direct interventionist strategies, including potential U.S. involvement
+      in Iran's leadership. As military pressure proved ineffective in altering Iran's
+      resilience, the objectives have narrowed to ensuring freedom of navigation in
+      the Strait of Hormuz and degrading Iran's military capabilities, while discussions
+      of negotiating with the existing regime have emerged. This shift reflects a recognition
+      of the limitations of military action and the challenges of achieving significant
+      change in Iran's strategic posture.
+    published: '2026-03-27T18:02:07+00:00'
+  - title: 'Objectives and Strategic Ambiguity and Shift: The Evolving war Between the
+      United States, Israel, and Iran'
+    url: https://ejmagnier.com/2026/03/27/objectives-and-strategic-ambiguity-and-shift-the-evolving-war-between-the-united-states-israel-and-iran/
+    text: By Elijah J. Magnier The conflict involving the United States, Israel, and
+      Iran has unfolded with a striking level of ambiguity, shifting goals, and competing
+      narratives. What began as a campaign that prominently featured regime change has
+      gradually transformed into something far more complex, with significantly scaled-back
+      demands. Each actor now appears to be pursuing a different endgame, revealing
+      not only strategic divergence but also the limits of military pressure in reshaping
+      a resilient regional power like Iran. At the outset, US President Donald Trump
+      employed direct and confrontational rhetoric, calling on Iranians to rise against
+      their government and openly linking the campaign to weakening or replacing the
+      Islamic Republic. Israel supported this approach, similarly encouraging internal
+      resistance. Yet this strategy quickly exposed its limitations. Despite external
+      appeals for rebellion, no large-scale uprising materialised inside Iran. The population
+      did not mobilise as anticipated, forcing a rapid shift in tone and objectives—from
+      indirect pressure via popular revolt to more interventionist signals, such as
+      suggestions of US involvement in shaping Iran’s future leadership. These adjustments,
+      however, yielded limited results, paving the way for today’s narrower priorities
+      centred on freedom of navigation in the Strait of Hormuz, economic stability,
+      and sustained degradation of Iranian capabilities. Now the objectives are limited
+      to the free navigation in the Strait of Hormuz and the US threat to destroy Iran’s
+      power plants. Israeli Prime Minister Benjamin Netanyahu’s plan to change the regime
+      has now been replaced with the ‘weakening a resilient Iran and deepening the damage’.
+      The destruction of Iran’s missile and nuclear program seems unachievable after
+      almost four weeks of destructive battle. Now the US is talking about negotiating
+      with the same ruling system it vowed to remove, and Israel is suggesting a harder
+      request to be put on the table before reaching any agreement with the same Iranian
+      ruling system. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: The conflict involving the U.S., Israel, and Iran has evolved
+      from a focus on regime change to a more complex situation marked by diverging
+      goals and the realization of the limitations of military pressure on Iran's resilience.
+    paragraph_summary: The conflict involving the United States, Israel, and Iran has
+      evolved from an initial focus on regime change to a more complex and ambiguous
+      situation with diverging goals among the parties involved. Initially, U.S. President
+      Donald Trump's confrontational approach aimed to incite internal rebellion against
+      the Iranian government, a strategy supported by Israel. However, the anticipated
+      uprising did not occur, leading to a shift in tactics from promoting popular revolt
+      to more direct interventionist strategies, including potential U.S. involvement
+      in Iran's leadership. As military pressure proved ineffective in altering Iran's
+      resilience, the objectives have narrowed to ensuring freedom of navigation in
+      the Strait of Hormuz and degrading Iran's military capabilities, while discussions
+      of negotiating with the existing regime have emerged. This shift reflects a recognition
+      of the limitations of military action and the challenges of achieving significant
+      change in Iran's strategic posture.
+    published: '2026-03-27T18:02:07+00:00'
+  - title: 'Objectifs, ambiguïté stratégique et glissement progressif : l’évolution
+      de la guerre entre les États-Unis, Israël et l’Iran'
+    url: https://ejmagnier.com/2026/03/27/objectifs-ambiguite-strategique-et-glissement-progressif-levolution-de-la-guerre-entre-les-etats-unis-israel-et-liran/
+    text: 'Par Elijah J. Magnier Le conflit impliquant les États-Unis, Israël et l’Iran
+      s’est développé dans un climat remarquable d’ambiguïté, de glissement des objectifs
+      et de récits concurrents. Ce qui avait commencé comme une campagne mettant ostensiblement
+      en avant un changement de régime s’est progressivement transformé en quelque chose
+      de bien plus complexe, avec des exigences sensiblement revues à la baisse. Chaque
+      acteur semble désormais poursuivre une fin de partie différente, révélant non
+      seulement une divergence stratégique, mais aussi les limites de la pression militaire
+      lorsqu’il s’agit de remodeler une puissance régionale résiliente comme l’Iran.
+      Au départ, le président américain Donald Trump a employé une rhétorique directe
+      et conflictuelle, appelant les Iraniens à se soulever contre leur gouvernement
+      et liant ouvertement la campagne à l’affaiblissement ou au remplacement de la
+      République islamique. Israël a soutenu cette approche, en encourageant lui aussi
+      une contestation intérieure. Pourtant, cette stratégie a rapidement montré ses
+      limites. Malgré les appels extérieurs à la rébellion, aucun soulèvement d’ampleur
+      ne s’est matérialisé en Iran. La population ne s’est pas mobilisée comme cela
+      avait été anticipé, imposant un changement rapide de ton et d’objectifs : on est
+      passé d’une pression indirecte par la révolte populaire à des signaux plus interventionnistes,
+      comme l’idée d’une implication américaine dans la recomposition de la future direction
+      iranienne. Ces ajustements ont toutefois produit peu de résultats, ouvrant la
+      voie aux priorités plus étroites d’aujourd’hui, centrées sur la liberté de navigation
+      dans le détroit d’Ormuz, la stabilité économique et la dégradation prolongée des
+      capacités iraniennes. Désormais, les objectifs se limitent à la libre navigation
+      dans le détroit d’Ormuz et à la menace américaine de détruire les centrales électriques
+      iraniennes. Le projet du Premier ministre israélien Benjamin Netanyahu de changer
+      le régime a désormais été remplacé par celui d’« affaiblir un Iran résilient et
+      d’approfondir les dégâts ». La destruction du programme balistique et nucléaire
+      iranien semble inatteignable après presque quatre semaines d’une bataille destructrice.
+      Désormais, les États-Unis parlent de négocier avec le même système dirigeant qu’ils
+      avaient juré d’éliminer, tandis qu’Israël suggère de mettre sur la table une exigence
+      plus dure avant d’aboutir à un quelconque accord avec ce même système iranien
+      au pouvoir. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le conflit entre les États-Unis, Israël et l'Iran a évolué
+      d'une campagne initiale de changement de régime vers une situation plus complexe,
+      où chaque acteur poursuit des objectifs divergents, révélant les limites de la
+      pression militaire sur une puissance régionale résiliente comme l'Iran.
+    paragraph_summary: Le conflit entre les États-Unis, Israël et l'Iran a évolué dans
+      un contexte d'ambiguïté, passant d'une campagne initiale de changement de régime
+      à des objectifs plus modestes et diversifiés, révélant des divergences stratégiques
+      entre les acteurs impliqués. Alors que Donald Trump et Israël ont d'abord encouragé
+      une révolte populaire en Iran, cette stratégie a échoué à mobiliser la population,
+      poussant les États-Unis à adopter une approche plus interventionniste. Actuellement,
+      les priorités se concentrent sur la sécurité maritime dans le détroit d'Ormuz,
+      la stabilité économique et l'affaiblissement des capacités iraniennes, tandis
+      que les ambitions de changement de régime ont été abandonnées.
+    published: '2026-03-27T17:55:09+00:00'
+  - title: 'Objectifs, ambiguïté stratégique et glissement progressif : l’évolution
+      de la guerre entre les États-Unis, Israël et l’Iran'
+    url: https://ejmagnier.com/2026/03/27/objectifs-ambiguite-strategique-et-glissement-progressif-levolution-de-la-guerre-entre-les-etats-unis-israel-et-liran/
+    text: 'Par Elijah J. Magnier Le conflit impliquant les États-Unis, Israël et l’Iran
+      s’est développé dans un climat remarquable d’ambiguïté, de glissement des objectifs
+      et de récits concurrents. Ce qui avait commencé comme une campagne mettant ostensiblement
+      en avant un changement de régime s’est progressivement transformé en quelque chose
+      de bien plus complexe, avec des exigences sensiblement revues à la baisse. Chaque
+      acteur semble désormais poursuivre une fin de partie différente, révélant non
+      seulement une divergence stratégique, mais aussi les limites de la pression militaire
+      lorsqu’il s’agit de remodeler une puissance régionale résiliente comme l’Iran.
+      Au départ, le président américain Donald Trump a employé une rhétorique directe
+      et conflictuelle, appelant les Iraniens à se soulever contre leur gouvernement
+      et liant ouvertement la campagne à l’affaiblissement ou au remplacement de la
+      République islamique. Israël a soutenu cette approche, en encourageant lui aussi
+      une contestation intérieure. Pourtant, cette stratégie a rapidement montré ses
+      limites. Malgré les appels extérieurs à la rébellion, aucun soulèvement d’ampleur
+      ne s’est matérialisé en Iran. La population ne s’est pas mobilisée comme cela
+      avait été anticipé, imposant un changement rapide de ton et d’objectifs : on est
+      passé d’une pression indirecte par la révolte populaire à des signaux plus interventionnistes,
+      comme l’idée d’une implication américaine dans la recomposition de la future direction
+      iranienne. Ces ajustements ont toutefois produit peu de résultats, ouvrant la
+      voie aux priorités plus étroites d’aujourd’hui, centrées sur la liberté de navigation
+      dans le détroit d’Ormuz, la stabilité économique et la dégradation prolongée des
+      capacités iraniennes. Désormais, les objectifs se limitent à la libre navigation
+      dans le détroit d’Ormuz et à la menace américaine de détruire les centrales électriques
+      iraniennes. Le projet du Premier ministre israélien Benjamin Netanyahu de changer
+      le régime a désormais été remplacé par celui d’« affaiblir un Iran résilient et
+      d’approfondir les dégâts ». La destruction du programme balistique et nucléaire
+      iranien semble inatteignable après presque quatre semaines d’une bataille destructrice.
+      Désormais, les États-Unis parlent de négocier avec le même système dirigeant qu’ils
+      avaient juré d’éliminer, tandis qu’Israël suggère de mettre sur la table une exigence
+      plus dure avant d’aboutir à un quelconque accord avec ce même système iranien
+      au pouvoir. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le conflit entre les États-Unis, Israël et l'Iran a évolué
+      d'une campagne initiale de changement de régime vers une situation plus complexe,
+      où chaque acteur poursuit des objectifs divergents, révélant les limites de la
+      pression militaire sur une puissance régionale résiliente comme l'Iran.
+    paragraph_summary: Le conflit entre les États-Unis, Israël et l'Iran a évolué dans
+      un contexte d'ambiguïté, passant d'une campagne initiale de changement de régime
+      à des objectifs plus modestes et diversifiés, révélant des divergences stratégiques
+      entre les acteurs impliqués. Alors que Donald Trump et Israël ont d'abord encouragé
+      une révolte populaire en Iran, cette stratégie a échoué à mobiliser la population,
+      poussant les États-Unis à adopter une approche plus interventionniste. Actuellement,
+      les priorités se concentrent sur la sécurité maritime dans le détroit d'Ormuz,
+      la stabilité économique et l'affaiblissement des capacités iraniennes, tandis
+      que les ambitions de changement de régime ont été abandonnées.
+    published: '2026-03-27T17:55:09+00:00'
+  - title: Eine kalkulierte Finte? Warum ein amphibischer und luftgestützter Vorstoß
+      der USA auf das Unerwartete abzielen könnte
+    url: https://ejmagnier.com/2026/03/25/eine-kalkulierte-finte-warum-ein-amphibischer-und-luftgestutzter-vorstos-der-usa-auf-das-unerwartete-abzielen-konnte/
+    text: 'Von Elijah J. Magnier – Der Krieg gegen den Iran ist in eine Art strategischen
+      Patt geraten. Keine Seite gewinnt, aber keine verliert auch entscheidend genug,
+      um ein Ergebnis zu erzwingen. Unter solchen Umständen verschiebt sich die Logik
+      des Konflikts. Es geht nicht mehr um Geländegewinne, sondern darum, Druckmittel
+      zu schaffen. Eine Seite muss einen Moment schaffen, der das Gleichgewicht verändert,
+      eine Reaktion erzwingt und den politischen Verlauf des Krieges neu gestaltet.
+      Doch selbst wenn ein solcher Hebel erreicht wird, wird dies den Konflikt nicht
+      beenden. Die gegnerische Seite wird reagieren, sich anpassen und zurückschlagen,
+      was bedeutet, dass der Krieg noch lange nicht beendet ist. In diesem Zusammenhang
+      muss die jüngste militärische Aufstellung der USA im Golf verstanden werden. Die
+      Vereinigten Staaten bringen Truppen in Position, jedoch nicht für die Operation,
+      die die meisten Beobachter erwarten. Offiziell ist das Ziel einfach: „die Straße
+      von Hormus sichern“, die enge Passage, durch die ein großer Teil des weltweiten
+      Öls fließt. Doch nichts an der aktuellen Haltung der USA deutet auf einen Routineeinsatz
+      hin. Die Vereinigten Staaten bereiten keine einzelne Landung vor, sondern bauen
+      ein Gerüst aus mehreren glaubwürdigen Bedrohungen auf, das den Iran zwingt, seine
+      Verteidigung zu streuen und unter Unsicherheit gleichzeitig auf mehreren Achsen
+      zu reagieren. Was sich stattdessen abzeichnet, deutet auf etwas weitaus Bedachteres
+      hin: die Suche nach einer spektakulären, risikoarmen und öffentlichkeitswirksamen
+      Operation. Keine groß angelegte Invasion. Kein Versuch, den gesamten Iran zu besetzen.
+      Sondern ein sorgfältig ausgewählter Schachzug, der es Präsident Donald Trump ermöglichen
+      würde, einen historischen Erfolg für sich zu verbuchen, die Kriegsrhetorik neu
+      zu gestalten und Teheran aus einer Position der Stärke zu Verhandlungen zu zwingen.
+      Die Logik besteht nicht darin, dem Iran die Kontrolle über die Straße von Hormus
+      zu entziehen, was eine unkontrollierbare Eskalation riskieren würde, sondern die
+      Vereinigten Staaten so in die Gleichung einzubringen, dass das Gleichgewicht verändert
+      wird, ohne einen totalen Krieg auszulösen. Eine begrenzte Besetzung einer strategisch
+      gelegenen Insel könnte genau das erreichen: einen sichtbaren, vertretbaren und
+      politisch verwertbaren Gewinn. Für einen Präsidenten, der entscheidende Momente
+      und sein Vermächtnis prägende Handlungen schätzt, liegt der Reiz auf der Hand.
+      Dies wäre nicht nur ein militärisches Manöver. Es wäre ein Moment, der dazu bestimmt
+      wäre, in Erinnerung zu bleiben, untersucht und über Jahre hinweg politisch genutzt
+      zu werden. Die USA werden jedoch einen kontrollierten Einstieg anstreben, nicht
+      ein kontrolliertes Ergebnis. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Krieg gegen den Iran befindet sich in einem strategischen
+      Patt, in dem keine Seite entscheidende Fortschritte erzielt, was die Logik des
+      Konflikts verändert und den Fokus auf das Schaffen von Druckmitteln lenkt, während
+      die militärische Aufstellung der USA im Golf darauf abzielt, die Straße von Hormus
+      zu sichern.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt den aktuellen strategischen
+      Patt im Konflikt zwischen den USA und dem Iran, in dem keine Seite entscheidende
+      Gewinne oder Verluste verzeichnet. Der Fokus hat sich von territorialen Gewinnen
+      hin zu Druckmitteln verschoben, um das Gleichgewicht zu verändern und politische
+      Reaktionen zu erzwingen. Die militärischen Aktivitäten der USA im Golf, offiziell
+      zur Sicherung der Straße von Hormus, deuten auf eine komplexe Strategie hin, die
+      darauf abzielt, den Iran unter Druck zu setzen, ohne eine groß angelegte Invasion
+      oder Besetzung zu planen. Stattdessen wird eine gezielte, risikoarme Operation
+      angestrebt, die Präsident Trump ermöglichen soll, einen historischen Erfolg zu
+      erzielen und Teheran zu Verhandlungen zu zwingen, während gleichzeitig die Kriegsrhetorik
+      neu gestaltet wird.
+    published: '2026-03-25T18:27:06+00:00'
+  - title: Eine kalkulierte Finte? Warum ein amphibischer und luftgestützter Vorstoß
+      der USA auf das Unerwartete abzielen könnte
+    url: https://ejmagnier.com/2026/03/25/eine-kalkulierte-finte-warum-ein-amphibischer-und-luftgestutzter-vorstos-der-usa-auf-das-unerwartete-abzielen-konnte/
+    text: 'Von Elijah J. Magnier – Der Krieg gegen den Iran ist in eine Art strategischen
+      Patt geraten. Keine Seite gewinnt, aber keine verliert auch entscheidend genug,
+      um ein Ergebnis zu erzwingen. Unter solchen Umständen verschiebt sich die Logik
+      des Konflikts. Es geht nicht mehr um Geländegewinne, sondern darum, Druckmittel
+      zu schaffen. Eine Seite muss einen Moment schaffen, der das Gleichgewicht verändert,
+      eine Reaktion erzwingt und den politischen Verlauf des Krieges neu gestaltet.
+      Doch selbst wenn ein solcher Hebel erreicht wird, wird dies den Konflikt nicht
+      beenden. Die gegnerische Seite wird reagieren, sich anpassen und zurückschlagen,
+      was bedeutet, dass der Krieg noch lange nicht beendet ist. In diesem Zusammenhang
+      muss die jüngste militärische Aufstellung der USA im Golf verstanden werden. Die
+      Vereinigten Staaten bringen Truppen in Position, jedoch nicht für die Operation,
+      die die meisten Beobachter erwarten. Offiziell ist das Ziel einfach: „die Straße
+      von Hormus sichern“, die enge Passage, durch die ein großer Teil des weltweiten
+      Öls fließt. Doch nichts an der aktuellen Haltung der USA deutet auf einen Routineeinsatz
+      hin. Die Vereinigten Staaten bereiten keine einzelne Landung vor, sondern bauen
+      ein Gerüst aus mehreren glaubwürdigen Bedrohungen auf, das den Iran zwingt, seine
+      Verteidigung zu streuen und unter Unsicherheit gleichzeitig auf mehreren Achsen
+      zu reagieren. Was sich stattdessen abzeichnet, deutet auf etwas weitaus Bedachteres
+      hin: die Suche nach einer spektakulären, risikoarmen und öffentlichkeitswirksamen
+      Operation. Keine groß angelegte Invasion. Kein Versuch, den gesamten Iran zu besetzen.
+      Sondern ein sorgfältig ausgewählter Schachzug, der es Präsident Donald Trump ermöglichen
+      würde, einen historischen Erfolg für sich zu verbuchen, die Kriegsrhetorik neu
+      zu gestalten und Teheran aus einer Position der Stärke zu Verhandlungen zu zwingen.
+      Die Logik besteht nicht darin, dem Iran die Kontrolle über die Straße von Hormus
+      zu entziehen, was eine unkontrollierbare Eskalation riskieren würde, sondern die
+      Vereinigten Staaten so in die Gleichung einzubringen, dass das Gleichgewicht verändert
+      wird, ohne einen totalen Krieg auszulösen. Eine begrenzte Besetzung einer strategisch
+      gelegenen Insel könnte genau das erreichen: einen sichtbaren, vertretbaren und
+      politisch verwertbaren Gewinn. Für einen Präsidenten, der entscheidende Momente
+      und sein Vermächtnis prägende Handlungen schätzt, liegt der Reiz auf der Hand.
+      Dies wäre nicht nur ein militärisches Manöver. Es wäre ein Moment, der dazu bestimmt
+      wäre, in Erinnerung zu bleiben, untersucht und über Jahre hinweg politisch genutzt
+      zu werden. Die USA werden jedoch einen kontrollierten Einstieg anstreben, nicht
+      ein kontrolliertes Ergebnis. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Der Krieg gegen den Iran befindet sich in einem strategischen
+      Patt, in dem keine Seite entscheidende Fortschritte erzielt, was die Logik des
+      Konflikts verändert und den Fokus auf das Schaffen von Druckmitteln lenkt, während
+      die militärische Aufstellung der USA im Golf darauf abzielt, die Straße von Hormus
+      zu sichern.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt den aktuellen strategischen
+      Patt im Konflikt zwischen den USA und dem Iran, in dem keine Seite entscheidende
+      Gewinne oder Verluste verzeichnet. Der Fokus hat sich von territorialen Gewinnen
+      hin zu Druckmitteln verschoben, um das Gleichgewicht zu verändern und politische
+      Reaktionen zu erzwingen. Die militärischen Aktivitäten der USA im Golf, offiziell
+      zur Sicherung der Straße von Hormus, deuten auf eine komplexe Strategie hin, die
+      darauf abzielt, den Iran unter Druck zu setzen, ohne eine groß angelegte Invasion
+      oder Besetzung zu planen. Stattdessen wird eine gezielte, risikoarme Operation
+      angestrebt, die Präsident Trump ermöglichen soll, einen historischen Erfolg zu
+      erzielen und Teheran zu Verhandlungen zu zwingen, während gleichzeitig die Kriegsrhetorik
+      neu gestaltet wird.
+    published: '2026-03-25T18:27:06+00:00'
+  - title: Une feinte calculée ? Pourquoi une opération amphibie et aéroportée américaine
+      pourrait viser l’inattendu
+    url: https://ejmagnier.com/2026/03/25/une-feinte-calculee-pourquoi-une-operation-amphibie-et-aeroportee-americaine-pourrait-viser-linattendu/
+    text: 'Par Elijah J. Magnier La guerre contre l’Iran a atteint une forme d’impasse
+      stratégique. Aucun camp ne gagne, mais aucun ne perd suffisamment pour imposer
+      une issue. Dans ces conditions, la logique du conflit évolue. Il ne s’agit plus
+      de gains territoriaux, mais de création de levier. L’un des acteurs doit provoquer
+      un moment capable de modifier l’équilibre, de forcer une réaction et de redéfinir
+      la trajectoire politique de la guerre. Pourtant, même un tel levier ne mettrait
+      pas fin au conflit. L’adversaire répondra, s’adaptera et contre-attaquera. La
+      guerre reste donc loin d’être terminée. C’est dans ce contexte que la posture
+      militaire américaine actuelle dans le Golfe doit être comprise. Les États-Unis
+      positionnent leurs forces, mais pas pour l’opération que la plupart des observateurs
+      anticipent. Officiellement, l’objectif est simple : « sécuriser le détroit d’Ormuz
+      », passage stratégique par lequel transite une part essentielle du pétrole mondial.
+      Mais rien, dans la posture actuelle, ne ressemble à un déploiement classique.
+      Washington ne prépare pas un débarquement unique, mais construit un dispositif
+      de menaces crédibles multiples, contraignant l’Iran à disperser ses défenses et
+      à réagir dans l’incertitude sur plusieurs axes simultanément. Ce qui se dessine
+      est plus délibéré : la recherche d’une opération spectaculaire, à faible risque
+      et à forte visibilité. Ni une invasion à grande échelle, ni une tentative d’occupation
+      du territoire iranien, mais une manœuvre soigneusement choisie permettant au président
+      Donald Trump de revendiquer un succès marquant, de redéfinir le récit de la guerre
+      et de contraindre Téhéran à négocier sous pression. La logique n’est pas de priver
+      l’Iran du contrôle du détroit d’Ormuz, ce qui entraînerait une escalade difficilement
+      maîtrisable, mais d’introduire les États-Unis dans l’équation de manière à modifier
+      l’équilibre sans déclencher une guerre totale. L’occupation limitée d’une île
+      stratégiquement positionnée pourrait atteindre cet objectif : un gain visible,
+      défendable et politiquement exploitable. Pour un président attaché aux moments
+      décisifs et à l’héritage politique, l’attrait est évident. Il ne s’agirait pas
+      seulement d’une manœuvre militaire, mais d’un moment conçu pour marquer les esprits
+      et être exploité politiquement. Washington chercherait ainsi une entrée contrôlée,
+      mais non un résultat contrôlé. Dans ce contexte, une telle opération provoquerait
+      très probablement une réponse asymétrique iranienne au-delà du théâtre immédiat.
+      Un débarquement américain sur une île contrôlée par l’Iran ne serait pas seulement
+      contesté dans le Golfe. Téhéran pourrait élargir le conflit en activant d’autres
+      fronts, notamment via le détroit de Bab el-Mandeb. En mobilisant le théâtre yéménite
+      et ses alliés locaux, l’Iran pourrait menacer un second point de passage maritime
+      critique reliant la mer Rouge à l’océan Indien. Contrairement à Ormuz, déjà militarisé
+      et attendu, Bab el-Mandeb introduirait un front supplémentaire affectant directement
+      les flux commerciaux entre l’Europe et l’Asie, l’accès au canal de Suez et les
+      chaînes d’approvisionnement mondiales. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La guerre contre l'Iran est dans une impasse stratégique où
+      aucun camp ne gagne ni ne perd suffisamment pour imposer une issue, ce qui pousse
+      les acteurs à chercher des leviers pour modifier l'équilibre du conflit, tandis
+      que la posture militaire américaine dans le Golfe vise à sécuriser le détroit
+      d'Ormuz sans que cela ne mette fin aux hostilités.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse la situation actuelle de
+      la guerre contre l'Iran, qui est dans une impasse stratégique où aucun camp ne
+      parvient à gagner ou perdre de manière décisive. Dans ce contexte, l'objectif
+      des acteurs évolue vers la création de leviers pour modifier l'équilibre du conflit,
+      sans pour autant mettre fin à la guerre. La posture militaire américaine dans
+      le Golfe est décrite comme une série de menaces crédibles visant à forcer l'Iran
+      à disperser ses défenses, plutôt qu'un déploiement classique en vue d'une invasion.
+      Les États-Unis cherchent à mener une opération à faible risque mais à forte visibilité,
+      permettant à Donald Trump de revendiquer un succès tout en poussant Téhéran à
+      négocier sous pression, sans toutefois provoquer une escalade incontrôlable.
+    published: '2026-03-25T18:23:28+00:00'
+  - title: Une feinte calculée ? Pourquoi une opération amphibie et aéroportée américaine
+      pourrait viser l’inattendu
+    url: https://ejmagnier.com/2026/03/25/une-feinte-calculee-pourquoi-une-operation-amphibie-et-aeroportee-americaine-pourrait-viser-linattendu/
+    text: 'Par Elijah J. Magnier La guerre contre l’Iran a atteint une forme d’impasse
+      stratégique. Aucun camp ne gagne, mais aucun ne perd suffisamment pour imposer
+      une issue. Dans ces conditions, la logique du conflit évolue. Il ne s’agit plus
+      de gains territoriaux, mais de création de levier. L’un des acteurs doit provoquer
+      un moment capable de modifier l’équilibre, de forcer une réaction et de redéfinir
+      la trajectoire politique de la guerre. Pourtant, même un tel levier ne mettrait
+      pas fin au conflit. L’adversaire répondra, s’adaptera et contre-attaquera. La
+      guerre reste donc loin d’être terminée. C’est dans ce contexte que la posture
+      militaire américaine actuelle dans le Golfe doit être comprise. Les États-Unis
+      positionnent leurs forces, mais pas pour l’opération que la plupart des observateurs
+      anticipent. Officiellement, l’objectif est simple : « sécuriser le détroit d’Ormuz
+      », passage stratégique par lequel transite une part essentielle du pétrole mondial.
+      Mais rien, dans la posture actuelle, ne ressemble à un déploiement classique.
+      Washington ne prépare pas un débarquement unique, mais construit un dispositif
+      de menaces crédibles multiples, contraignant l’Iran à disperser ses défenses et
+      à réagir dans l’incertitude sur plusieurs axes simultanément. Ce qui se dessine
+      est plus délibéré : la recherche d’une opération spectaculaire, à faible risque
+      et à forte visibilité. Ni une invasion à grande échelle, ni une tentative d’occupation
+      du territoire iranien, mais une manœuvre soigneusement choisie permettant au président
+      Donald Trump de revendiquer un succès marquant, de redéfinir le récit de la guerre
+      et de contraindre Téhéran à négocier sous pression. La logique n’est pas de priver
+      l’Iran du contrôle du détroit d’Ormuz, ce qui entraînerait une escalade difficilement
+      maîtrisable, mais d’introduire les États-Unis dans l’équation de manière à modifier
+      l’équilibre sans déclencher une guerre totale. L’occupation limitée d’une île
+      stratégiquement positionnée pourrait atteindre cet objectif : un gain visible,
+      défendable et politiquement exploitable. Pour un président attaché aux moments
+      décisifs et à l’héritage politique, l’attrait est évident. Il ne s’agirait pas
+      seulement d’une manœuvre militaire, mais d’un moment conçu pour marquer les esprits
+      et être exploité politiquement. Washington chercherait ainsi une entrée contrôlée,
+      mais non un résultat contrôlé. Dans ce contexte, une telle opération provoquerait
+      très probablement une réponse asymétrique iranienne au-delà du théâtre immédiat.
+      Un débarquement américain sur une île contrôlée par l’Iran ne serait pas seulement
+      contesté dans le Golfe. Téhéran pourrait élargir le conflit en activant d’autres
+      fronts, notamment via le détroit de Bab el-Mandeb. En mobilisant le théâtre yéménite
+      et ses alliés locaux, l’Iran pourrait menacer un second point de passage maritime
+      critique reliant la mer Rouge à l’océan Indien. Contrairement à Ormuz, déjà militarisé
+      et attendu, Bab el-Mandeb introduirait un front supplémentaire affectant directement
+      les flux commerciaux entre l’Europe et l’Asie, l’accès au canal de Suez et les
+      chaînes d’approvisionnement mondiales. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La guerre contre l'Iran est dans une impasse stratégique où
+      aucun camp ne gagne ni ne perd suffisamment pour imposer une issue, ce qui pousse
+      les acteurs à chercher des leviers pour modifier l'équilibre du conflit, tandis
+      que la posture militaire américaine dans le Golfe vise à sécuriser le détroit
+      d'Ormuz sans que cela ne mette fin aux hostilités.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse la situation actuelle de
+      la guerre contre l'Iran, qui est dans une impasse stratégique où aucun camp ne
+      parvient à gagner ou perdre de manière décisive. Dans ce contexte, l'objectif
+      des acteurs évolue vers la création de leviers pour modifier l'équilibre du conflit,
+      sans pour autant mettre fin à la guerre. La posture militaire américaine dans
+      le Golfe est décrite comme une série de menaces crédibles visant à forcer l'Iran
+      à disperser ses défenses, plutôt qu'un déploiement classique en vue d'une invasion.
+      Les États-Unis cherchent à mener une opération à faible risque mais à forte visibilité,
+      permettant à Donald Trump de revendiquer un succès tout en poussant Téhéran à
+      négocier sous pression, sans toutefois provoquer une escalade incontrôlable.
+    published: '2026-03-25T18:23:28+00:00'
+  - title: A Calculated Feint? Why a US Amphibious and Airborne Move May Target the
+      Unexpected
+    url: https://ejmagnier.com/2026/03/25/a-calculated-feint-why-a-us-amphibious-and-airborne-move-may-target-the-unexpected/
+    text: 'By Elijah J. Magnier – The war on Iran has reached a form of strategic stalemate.
+      Neither side is winning, but neither is losing decisively enough to impose an
+      outcome. In such conditions, the logic of conflict shifts. It is no longer about
+      battlefield gains, but about creating leverage. One side must generate a moment
+      that alters the balance, forces a reaction, and reshapes the political trajectory
+      of the war. Yet even if such leverage is achieved, it will not end the conflict.
+      The opposing side will respond, adapt, and push back, meaning the war remains
+      far from conclusion. It is within this context that the latest US military posture
+      in the Gulf must be understood. The United States is moving forces into position,
+      but not for the operation most observers expect. Officially, the objective is
+      simple: “secure the Strait of Hormuz,” the narrow passage through which a large
+      share of the world’s oil flows. But nothing about the current U.S. posture suggests
+      a routine deployment. The United States is not preparing a single landing but
+      constructing a framework of multiple credible threats, forcing Iran to disperse
+      its defences and respond under uncertainty across several axes simultaneously.
+      What is taking shape instead points to something far more deliberate: a search
+      for a spectacular, low-risk, high-visibility operation. Not a full-scale invasion.
+      Not an attempt to occupy all of Iran. But a carefully chosen move that would allow
+      President Donald Trump to claim a historic achievement, reshape the war narrative,
+      and force Tehran into negotiations from a position of pressure. The logic is not
+      to strip Iran of control over the Strait of Hormuz, which would risk uncontrollable
+      escalation, but to insert the United States into the equation in a way that alters
+      the balance without triggering total war. A limited occupation of a strategically
+      placed island could achieve exactly that: a visible, defensible, and politically
+      usable gain. For a president who values decisive moments and legacy-defining actions,
+      the appeal is obvious. This would not just be a military manoeuvre. It would be
+      a moment designed to be remembered, studied, and politically leveraged for years.
+      However, what Washington is attempting is a controlled entry, not a controlled
+      outcome. Such a move would almost certainly trigger an Iranian asymmetric response
+      beyond the immediate theatre. A US landing on any Iranian-held island would not
+      be answered only in the Gulf. Tehran’s most effective counter would be to expand
+      the conflict geographically, and the Bab el-Mandeb Strait offers exactly that
+      option. By activating Yemen and leveraging allied forces there, Iran could effectively
+      open a second maritime front by threatening one of the world’s most critical chokepoints,
+      linking the Red Sea to the Indian Ocean. Unlike Hormuz, which is already militarised
+      and expected, Bab el-Mandeb introduces a second front that directly impacts Europe-Asia
+      trade flows, Suez Canal access, and global supply chains. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war on Iran has reached a strategic stalemate where neither
+      side can decisively win, leading to a focus on creating leverage rather than battlefield
+      gains, while the U.S. military's repositioning in the Gulf appears to be aimed
+      at securing the Strait of Hormuz rather than a typical deployment.
+    paragraph_summary: The article by Elijah J. Magnier discusses the current strategic
+      stalemate in the conflict involving Iran, where neither side is achieving a decisive
+      victory. In this context, the focus shifts from battlefield gains to creating
+      leverage that could alter the balance of power and influence the political trajectory
+      of the war. The U.S. military's recent posture in the Gulf, aimed at securing
+      the Strait of Hormuz, suggests a more complex strategy than mere routine deployment.
+      Rather than planning a full-scale invasion, the U.S. appears to be preparing for
+      a limited operation that could provide President Trump with a significant political
+      achievement while applying pressure on Iran to negotiate. This approach seeks
+      to insert the U.S. into the conflict in a way that changes the dynamics without
+      escalating into total war, potentially through the occupation of a strategically
+      important location.
+    published: '2026-03-25T18:19:24+00:00'
+  - title: A Calculated Feint? Why a US Amphibious and Airborne Move May Target the
+      Unexpected
+    url: https://ejmagnier.com/2026/03/25/a-calculated-feint-why-a-us-amphibious-and-airborne-move-may-target-the-unexpected/
+    text: 'By Elijah J. Magnier – The war on Iran has reached a form of strategic stalemate.
+      Neither side is winning, but neither is losing decisively enough to impose an
+      outcome. In such conditions, the logic of conflict shifts. It is no longer about
+      battlefield gains, but about creating leverage. One side must generate a moment
+      that alters the balance, forces a reaction, and reshapes the political trajectory
+      of the war. Yet even if such leverage is achieved, it will not end the conflict.
+      The opposing side will respond, adapt, and push back, meaning the war remains
+      far from conclusion. It is within this context that the latest US military posture
+      in the Gulf must be understood. The United States is moving forces into position,
+      but not for the operation most observers expect. Officially, the objective is
+      simple: “secure the Strait of Hormuz,” the narrow passage through which a large
+      share of the world’s oil flows. But nothing about the current U.S. posture suggests
+      a routine deployment. The United States is not preparing a single landing but
+      constructing a framework of multiple credible threats, forcing Iran to disperse
+      its defences and respond under uncertainty across several axes simultaneously.
+      What is taking shape instead points to something far more deliberate: a search
+      for a spectacular, low-risk, high-visibility operation. Not a full-scale invasion.
+      Not an attempt to occupy all of Iran. But a carefully chosen move that would allow
+      President Donald Trump to claim a historic achievement, reshape the war narrative,
+      and force Tehran into negotiations from a position of pressure. The logic is not
+      to strip Iran of control over the Strait of Hormuz, which would risk uncontrollable
+      escalation, but to insert the United States into the equation in a way that alters
+      the balance without triggering total war. A limited occupation of a strategically
+      placed island could achieve exactly that: a visible, defensible, and politically
+      usable gain. For a president who values decisive moments and legacy-defining actions,
+      the appeal is obvious. This would not just be a military manoeuvre. It would be
+      a moment designed to be remembered, studied, and politically leveraged for years.
+      However, what Washington is attempting is a controlled entry, not a controlled
+      outcome. Such a move would almost certainly trigger an Iranian asymmetric response
+      beyond the immediate theatre. A US landing on any Iranian-held island would not
+      be answered only in the Gulf. Tehran’s most effective counter would be to expand
+      the conflict geographically, and the Bab el-Mandeb Strait offers exactly that
+      option. By activating Yemen and leveraging allied forces there, Iran could effectively
+      open a second maritime front by threatening one of the world’s most critical chokepoints,
+      linking the Red Sea to the Indian Ocean. Unlike Hormuz, which is already militarised
+      and expected, Bab el-Mandeb introduces a second front that directly impacts Europe-Asia
+      trade flows, Suez Canal access, and global supply chains. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war on Iran has reached a strategic stalemate where neither
+      side can decisively win, leading to a focus on creating leverage rather than battlefield
+      gains, while the U.S. military's repositioning in the Gulf appears to be aimed
+      at securing the Strait of Hormuz rather than a typical deployment.
+    paragraph_summary: The article by Elijah J. Magnier discusses the current strategic
+      stalemate in the conflict involving Iran, where neither side is achieving a decisive
+      victory. In this context, the focus shifts from battlefield gains to creating
+      leverage that could alter the balance of power and influence the political trajectory
+      of the war. The U.S. military's recent posture in the Gulf, aimed at securing
+      the Strait of Hormuz, suggests a more complex strategy than mere routine deployment.
+      Rather than planning a full-scale invasion, the U.S. appears to be preparing for
+      a limited operation that could provide President Trump with a significant political
+      achievement while applying pressure on Iran to negotiate. This approach seeks
+      to insert the U.S. into the conflict in a way that changes the dynamics without
+      escalating into total war, potentially through the occupation of a strategically
+      important location.
+    published: '2026-03-25T18:19:24+00:00'
   - title: 'Von Luftangriffen bis zur Küste: Bereitet Washington eine begrenzte Landung
       in der Straße von Hormus vor?'
     url: https://ejmagnier.com/2026/03/23/von-luftangriffen-bis-zur-kuste-bereitet-washington-eine-begrenzte-landung-in-der-strase-von-hormus-vor/

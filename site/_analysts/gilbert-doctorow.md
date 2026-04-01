@@ -7,16 +7,297 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  Amid ongoing instability in US-Iran relations and persistent fractures within the European Union, recent developments signal a shifting geopolitical landscape. The most significant new information centers on President Trump’s abrupt change in posture toward Iran and the continued divergence among European leaders regarding Russia policy.
+  Tensions in the Middle East and Eastern Europe continue to dominate the geopolitical landscape as of April 1, 2026. The ongoing Israel-Iran conflict and the Ukraine war are driving new developments, with significant implications for US, Russian, and European policy.
   
-  The latest reports, including a detailed analysis by **Gilbert Doctorow**, highlight President Trump’s recent announcement of “productive talks” with Iran and his decision to suspend threats of military action. However, **Doctorow** interprets this as a “white flag”—a de facto surrender masked as negotiation—especially given Iran’s public denial that any such talks have occurred. This contradiction, coupled with the absence of concrete diplomatic progress, suggests a weakening US position in the region. According to **Doctorow**, “the suspension of threats is not a diplomatic breakthrough but an admission of limits,” reflecting growing US isolation in the Gulf.
+  The latest analysis by **Gilbert Doctorow** highlights Russian Foreign Minister Sergei Lavrov’s warnings about the potential expansion of the Iran war. Lavrov’s comments, as reported in a recent interview, underscore Moscow’s concern that the conflict could escalate beyond the region, especially given the increasing involvement of US forces in the Middle East. Doctorow notes that the US presence is seen as a destabilizing factor, raising the risk of direct confrontation between major powers.
   
-  Meanwhile, intra-European tensions remain high. Belgium’s Prime Minister Alexander De Wever’s recent veto of the European Commission’s plan to confiscate Russian assets for Ukraine has forced the EU to seek alternative solutions. **Doctorow** notes that De Wever’s stand demonstrates a rare independence among EU leaders, further complicating consensus on Russia policy. This move is emblematic of broader European disunity, with some leaders pushing for escalation while others resist further confrontation with Moscow.
+  On the Ukraine front, Doctorow points to a new phase of hostilities marked by Ukrainian drone attacks on Russian oil infrastructure. These strikes have heightened fears of Russian retaliation, particularly against Estonia, which is viewed in Moscow as a conduit for Western support to Kyiv. Doctorow assesses that there is a high chance of a Russian response targeting Estonia or other NATO border states, though the form and timing remain uncertain.
   
-  On the Russia-Ukraine front, there is little new operational information, but **Doctorow**’s ongoing commentary with Professor Glenn Diesen continues to emphasize the importance of firsthand perspectives from Russia, especially as Western media presence remains limited. This lack of Western reporting, he argues, is contributing to a distorted understanding of the conflict’s realities and Russia’s strategic calculations.
+  Meanwhile, the debate over US policy in the Middle East is intensifying. In a recent interview, Professor **John Mearsheimer**—as cited by Doctorow—criticizes the silence of liberal academics regarding US backing for Israel’s actions in Gaza and the broader war on Iran. Mearsheimer’s intervention is notable for its directness, suggesting growing unease within segments of the US academic and policy establishment about Washington’s current trajectory.
   
-  Looking ahead, the trends point toward continued US retrenchment in the Middle East and persistent EU fragmentation over Russia policy. Based on the majority of recent analyses, there is a high chance that the US will further limit its military engagement with Iran, while the EU’s internal divisions will prevent any unified approach to Russia in the near term. As **Doctorow** concludes, “the present trajectory guarantees more uncertainty and a further erosion of Western leverage, both in the Gulf and on the European continent.”
+  Looking ahead, the majority view among independent analysts is that the risk of escalation in both the Middle East and Eastern Europe remains high. Doctorow concludes with medium confidence that unless there is a significant shift in US or Russian policy, further military incidents and diplomatic crises are “quite likely” in the coming weeks. The possibility of a broader regional war involving Iran, Israel, and the US cannot be excluded, while the Ukraine conflict threatens to spill over into NATO territory if current trends persist.
 articles:
+  - title: 'NewsX World Report: US troops Middle East | Israel Iran war'
+    url: https://gilbertdoctorow.com/2026/03/31/newsx-world-report-us-troops-middle-east-israel-iran-war/
+    text: 'Earlier today I wrote about the questions put to me by News X World for an
+      interview that took place at 12.30 Brussels time. These questions prompted me
+      to organize my thinking about Sergei Lavrov’s latest remarks on how the Iran war
+      may be expanding outside the Middle East and poses a great danger to world peace,
+      and also to think about the Ukraine drone strikes that yesterday seriously damaged
+      Russia’s oil export installations in Ust-Luga, Leningrad oblast. The drones arrived
+      from Estonian territory and the question arises: what if anything Russia will
+      now do to retaliate against Estonia. I have just received and am pleased to share
+      the link to this podcast: https://www.youtube.com/watch?v=wDuAfVEKS0Y I use the
+      opportunity also to share one other podcast link which I just received from my
+      good friend Ray McGovern. This podcast contains the presentation he and colleagues
+      made in the National Press Club, Washington, D.C. last Thursday, 26 March about
+      the lies and deception that the Pentagon and intelligence agencies have fed to
+      the American public to justify never ending wars going back to the invasion of
+      Iraq in 2003. Ray comes on in minute 15. Special attention is given to what motivated
+      Donald Trump to launch the war against Iran on 28 February 2026. Within his talk,
+      Ray put up on the screen a pre-recorded 10 minute message from fellow member of
+      the activist group VIPS (Veteran Intelligence Professionals for Sanity) Karen
+      Kwiatkowski that is engrossing.'
+    one_sentence_summary: The article discusses an interview regarding Sergei Lavrov's
+      comments on the potential expansion of the Iran war and the implications of recent
+      Ukrainian drone strikes on Russian oil facilities, raising concerns about possible
+      Russian retaliation against Estonia.
+    paragraph_summary: 'In a recent interview with News X World, the author reflected
+      on Sergei Lavrov''s comments regarding the potential expansion of the Iran war
+      beyond the Middle East and its implications for global peace, as well as the recent
+      Ukrainian drone strikes that severely impacted Russian oil facilities in Ust-Luga,
+      raising questions about possible Russian retaliation against Estonia. The author
+      also shared links to two podcasts: one featuring their interview and another from
+      Ray McGovern, who discussed the misinformation propagated by the Pentagon and
+      intelligence agencies to justify ongoing wars since the 2003 Iraq invasion, including
+      insights into Donald Trump''s motivations for launching a war against Iran in
+      2026, highlighted by a compelling message from fellow activist Karen Kwiatkowski.'
+    published: '2026-03-31T18:38:21+00:00'
+  - title: 'NewsX World Report: US troops Middle East | Israel Iran war'
+    url: https://gilbertdoctorow.com/2026/03/31/newsx-world-report-us-troops-middle-east-israel-iran-war/
+    text: 'Earlier today I wrote about the questions put to me by News X World for an
+      interview that took place at 12.30 Brussels time. These questions prompted me
+      to organize my thinking about Sergei Lavrov’s latest remarks on how the Iran war
+      may be expanding outside the Middle East and poses a great danger to world peace,
+      and also to think about the Ukraine drone strikes that yesterday seriously damaged
+      Russia’s oil export installations in Ust-Luga, Leningrad oblast. The drones arrived
+      from Estonian territory and the question arises: what if anything Russia will
+      now do to retaliate against Estonia. I have just received and am pleased to share
+      the link to this podcast: https://www.youtube.com/watch?v=wDuAfVEKS0Y I use the
+      opportunity also to share one other podcast link which I just received from my
+      good friend Ray McGovern. This podcast contains the presentation he and colleagues
+      made in the National Press Club, Washington, D.C. last Thursday, 26 March about
+      the lies and deception that the Pentagon and intelligence agencies have fed to
+      the American public to justify never ending wars going back to the invasion of
+      Iraq in 2003. Ray comes on in minute 15. Special attention is given to what motivated
+      Donald Trump to launch the war against Iran on 28 February 2026. Within his talk,
+      Ray put up on the screen a pre-recorded 10 minute message from fellow member of
+      the activist group VIPS (Veteran Intelligence Professionals for Sanity) Karen
+      Kwiatkowski that is engrossing.'
+    one_sentence_summary: The article discusses an interview regarding Sergei Lavrov's
+      comments on the potential expansion of the Iran war and the implications of recent
+      Ukrainian drone strikes on Russian oil facilities, raising concerns about possible
+      Russian retaliation against Estonia.
+    paragraph_summary: 'In a recent interview with News X World, the author reflected
+      on Sergei Lavrov''s comments regarding the potential expansion of the Iran war
+      beyond the Middle East and its implications for global peace, as well as the recent
+      Ukrainian drone strikes that severely impacted Russian oil facilities in Ust-Luga,
+      raising questions about possible Russian retaliation against Estonia. The author
+      also shared links to two podcasts: one featuring their interview and another from
+      Ray McGovern, who discussed the misinformation propagated by the Pentagon and
+      intelligence agencies to justify ongoing wars since the 2003 Iraq invasion, including
+      insights into Donald Trump''s motivations for launching a war against Iran in
+      2026, highlighted by a compelling message from fellow activist Karen Kwiatkowski.'
+    published: '2026-03-31T18:38:21+00:00'
+  - title: An interview with Professor John Mearsheimer that I highly recommend to the
+      Community
+    url: https://gilbertdoctorow.com/2026/03/31/an-interview-with-professor-john-mearsheimer-that-i-highly-recommend-to-the-community/
+    text: 'As readers of my website know very well, I very rarely use this platform
+      to promote articles or podcasts of others. Today I make an exception and strongly
+      urge the Community to watch the interview with Professor John Mearsheimer conducted
+      by Judge Andrew Napolitano on Judging Freedom in the past hour. Watch to the very
+      end, please, since the discussion goes beyond analysis of Trump’s desperate self-inflicted
+      situation or of the chances of success of the land invasion of Iran that Trump
+      is now threatening. It goes where others fear to tread: here Mearsheimer speaks
+      of the absolute silence of America’s liberal minded professoriate with respect
+      to the US-enabled genocide that Israel has been conducting in Gaza, to their absolute
+      silence about the gross violation of international law that the United States
+      has committed in its savage war of aggression on Iran that it did not even bother
+      to justify by reference to some real or imagined provocation. I salute Professor
+      Mearsheimer for courageously pronouncing what I have been thinking for some time
+      but hesitated to say publicly: namely that if a Nuremberg style tribunal were
+      to be conducted to hear the case of the foregoing offenses of Donald Trump and
+      Benjamin Netanyahu, both would be sentenced to death by hanging. Bravo! Discussio'
+    one_sentence_summary: The author urges readers to watch an interview with Professor
+      John Mearsheimer, where he discusses the silence of liberal academics regarding
+      the U.S. involvement in Israel's actions in Gaza and the war on Iran, highlighting
+      Mearsheimer's courageous stance on these issues.
+    paragraph_summary: The author of the article urges readers to watch an interview
+      featuring Professor John Mearsheimer conducted by Judge Andrew Napolitano, highlighting
+      Mearsheimer's bold commentary on significant political issues. The discussion
+      critiques the silence of liberal academics regarding the U.S.-supported actions
+      in Gaza and the violations of international law in the context of the U.S. war
+      on Iran. Mearsheimer's remarks challenge the mainstream narrative, suggesting
+      that both Donald Trump and Benjamin Netanyahu could face severe consequences in
+      a hypothetical tribunal for their actions. The author expresses admiration for
+      Mearsheimer's willingness to address these controversial topics openly.
+    published: '2026-03-31T13:59:10+00:00'
+  - title: An interview with Professor John Mearsheimer that I highly recommend to the
+      Community
+    url: https://gilbertdoctorow.com/2026/03/31/an-interview-with-professor-john-mearsheimer-that-i-highly-recommend-to-the-community/
+    text: 'As readers of my website know very well, I very rarely use this platform
+      to promote articles or podcasts of others. Today I make an exception and strongly
+      urge the Community to watch the interview with Professor John Mearsheimer conducted
+      by Judge Andrew Napolitano on Judging Freedom in the past hour. Watch to the very
+      end, please, since the discussion goes beyond analysis of Trump’s desperate self-inflicted
+      situation or of the chances of success of the land invasion of Iran that Trump
+      is now threatening. It goes where others fear to tread: here Mearsheimer speaks
+      of the absolute silence of America’s liberal minded professoriate with respect
+      to the US-enabled genocide that Israel has been conducting in Gaza, to their absolute
+      silence about the gross violation of international law that the United States
+      has committed in its savage war of aggression on Iran that it did not even bother
+      to justify by reference to some real or imagined provocation. I salute Professor
+      Mearsheimer for courageously pronouncing what I have been thinking for some time
+      but hesitated to say publicly: namely that if a Nuremberg style tribunal were
+      to be conducted to hear the case of the foregoing offenses of Donald Trump and
+      Benjamin Netanyahu, both would be sentenced to death by hanging. Bravo! Discussio'
+    one_sentence_summary: The author urges readers to watch an interview with Professor
+      John Mearsheimer, where he discusses the silence of liberal academics regarding
+      the U.S. involvement in Israel's actions in Gaza and the war on Iran, highlighting
+      Mearsheimer's courageous stance on these issues.
+    paragraph_summary: The author of the article urges readers to watch an interview
+      featuring Professor John Mearsheimer conducted by Judge Andrew Napolitano, highlighting
+      Mearsheimer's bold commentary on significant political issues. The discussion
+      critiques the silence of liberal academics regarding the U.S.-supported actions
+      in Gaza and the violations of international law in the context of the U.S. war
+      on Iran. Mearsheimer's remarks challenge the mainstream narrative, suggesting
+      that both Donald Trump and Benjamin Netanyahu could face severe consequences in
+      a hypothetical tribunal for their actions. The author expresses admiration for
+      Mearsheimer's willingness to address these controversial topics openly.
+    published: '2026-03-31T13:59:10+00:00'
+  - title: Trump tells Zelensky to give up all of the Donbas now if he wants to get
+      US security guaranties
+    url: https://gilbertdoctorow.com/2026/03/26/trump-tells-zelensky-to-give-up-all-of-the-donbas-now-if-he-wants-to-get-us-security-guaranties/
+    text: 'Dear readers, you probably have not heard the news that I have posted above
+      as the title for this brief essay, but then you are not in the press pool of NewsX
+      World and I am doing your listening for you there. Similarly, you did not hear
+      previously and probably do not even know today that yesterday a Russian state-owned
+      widebody jet landed in Kennedy Airport in New York carrying a delegation of Russian
+      parliamentarians from the State Duma headed by Vyacheslav Nikonov, a veteran legislator,
+      consummate diplomat with extensive foreign experience.  This trip may be called
+      a ‘timid exploratory mission’ reestablishing ties between Russian and American
+      medium level politicians that were long ago broken off by the American side per
+      Dmitry Peskov’s description of it earlier today. This may not be newsworthy in
+      the same sense as a president-to-president summit, but it is a promising development
+      nonetheless, a straw in the wind. And which way is the wind blowing?  For that,
+      let us return to my headline above. Quite remarkable news if true. And it would
+      appear to justify President Putin’s insistence in the face of substantial opposition
+      from his own foreign policy establishment, including his Ministry of Foreign Affairs,
+      that it pays to negotiate with and to draw closer to Donald Trump however repugnant,
+      however contradictory the man may be. Make no mistake about it: the Russian establishment
+      now considers Trump to be the fool’s fool. They see his conduct of the war of
+      aggression on Iran as disastrous and likely to go very badly for him if indeed
+      he attempts to put feet on the ground on Kharg island or elsewhere in Iran. I
+      note in passing, that the Russian political establishment, like its American counterpart
+      points to Trump’s reliance on Mossad, on Israeli intelligence for setting his
+      expectations when he decided to embark on his Iran war. What we see here is that
+      despite its reputation as being the most competent as well as bloodiest intel
+      operation in the world, despite its demonstrated ability to blow up hundreds of
+      its enemies with explosive pagers and the like, this same Mossad is worthless
+      for political and military analysis, for setting strategy against chosen enemies. 
+      Worthless! Of course, if Trump proceeds with his threat/promise to Zelensky and
+      the Ukrainian president agrees to leave the Donbas, that will drive an enormous
+      wedge between the United States and Europe, between and among Member States of
+      the EU itself. NB – the podcast of The Bulletin program on News X World which
+      we recorded 20 minutes ago will likely become available later today and I will
+      post it here at that time. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: A Russian state-owned jet recently landed at Kennedy Airport
+      carrying a delegation of Russian parliamentarians, marking a tentative effort
+      to reestablish diplomatic ties between medium-level politicians in Russia and
+      the U.S. after a long hiatus.
+    paragraph_summary: The article discusses a recent visit by a Russian delegation
+      led by Vyacheslav Nikonov to New York's Kennedy Airport, marking a potential thaw
+      in U.S.-Russia relations at a medium-level political scale. This visit, described
+      as a "timid exploratory mission," aims to reestablish connections that have deteriorated
+      over time, as noted by Russian spokesperson Dmitry Peskov. While not as significant
+      as a presidential summit, the meeting is seen as a positive step. The article
+      also reflects on Russian perceptions of former President Donald Trump, whom they
+      view as misguided in his foreign policy, particularly regarding his actions in
+      Iran, and highlights the complexities of international diplomacy amid differing
+      political agendas.
+    published: '2026-03-26T13:25:52+00:00'
+  - title: Trump tells Zelensky to give up all of the Donbas now if he wants to get
+      US security guaranties
+    url: https://gilbertdoctorow.com/2026/03/26/trump-tells-zelensky-to-give-up-all-of-the-donbas-now-if-he-wants-to-get-us-security-guaranties/
+    text: 'Dear readers, you probably have not heard the news that I have posted above
+      as the title for this brief essay, but then you are not in the press pool of NewsX
+      World and I am doing your listening for you there. Similarly, you did not hear
+      previously and probably do not even know today that yesterday a Russian state-owned
+      widebody jet landed in Kennedy Airport in New York carrying a delegation of Russian
+      parliamentarians from the State Duma headed by Vyacheslav Nikonov, a veteran legislator,
+      consummate diplomat with extensive foreign experience.  This trip may be called
+      a ‘timid exploratory mission’ reestablishing ties between Russian and American
+      medium level politicians that were long ago broken off by the American side per
+      Dmitry Peskov’s description of it earlier today. This may not be newsworthy in
+      the same sense as a president-to-president summit, but it is a promising development
+      nonetheless, a straw in the wind. And which way is the wind blowing?  For that,
+      let us return to my headline above. Quite remarkable news if true. And it would
+      appear to justify President Putin’s insistence in the face of substantial opposition
+      from his own foreign policy establishment, including his Ministry of Foreign Affairs,
+      that it pays to negotiate with and to draw closer to Donald Trump however repugnant,
+      however contradictory the man may be. Make no mistake about it: the Russian establishment
+      now considers Trump to be the fool’s fool. They see his conduct of the war of
+      aggression on Iran as disastrous and likely to go very badly for him if indeed
+      he attempts to put feet on the ground on Kharg island or elsewhere in Iran. I
+      note in passing, that the Russian political establishment, like its American counterpart
+      points to Trump’s reliance on Mossad, on Israeli intelligence for setting his
+      expectations when he decided to embark on his Iran war. What we see here is that
+      despite its reputation as being the most competent as well as bloodiest intel
+      operation in the world, despite its demonstrated ability to blow up hundreds of
+      its enemies with explosive pagers and the like, this same Mossad is worthless
+      for political and military analysis, for setting strategy against chosen enemies. 
+      Worthless! Of course, if Trump proceeds with his threat/promise to Zelensky and
+      the Ukrainian president agrees to leave the Donbas, that will drive an enormous
+      wedge between the United States and Europe, between and among Member States of
+      the EU itself. NB – the podcast of The Bulletin program on News X World which
+      we recorded 20 minutes ago will likely become available later today and I will
+      post it here at that time. ©Gilbert Doctorow, 2026'
+    one_sentence_summary: A Russian state-owned jet recently landed at Kennedy Airport
+      carrying a delegation of Russian parliamentarians, marking a tentative effort
+      to reestablish diplomatic ties between medium-level politicians in Russia and
+      the U.S. after a long hiatus.
+    paragraph_summary: The article discusses a recent visit by a Russian delegation
+      led by Vyacheslav Nikonov to New York's Kennedy Airport, marking a potential thaw
+      in U.S.-Russia relations at a medium-level political scale. This visit, described
+      as a "timid exploratory mission," aims to reestablish connections that have deteriorated
+      over time, as noted by Russian spokesperson Dmitry Peskov. While not as significant
+      as a presidential summit, the meeting is seen as a positive step. The article
+      also reflects on Russian perceptions of former President Donald Trump, whom they
+      view as misguided in his foreign policy, particularly regarding his actions in
+      Iran, and highlights the complexities of international diplomacy amid differing
+      political agendas.
+    published: '2026-03-26T13:25:52+00:00'
+  - title: '‘Judging Freedom’ edition of 25 March 2026: Are Kremlin Officials Supportive
+      of Putin?'
+    url: https://gilbertdoctorow.com/2026/03/25/judging-freedom-edition-of-25-march-2026-are-kremlin-officials-supportive-of-putin/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his previous work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the conflict through his firsthand
+      accounts from the Russian home front during a time when Western journalists were
+      largely absent due to visa restrictions. This work complements his earlier two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. A seasoned expert on Russian affairs since 1965, Doctorow
+      holds degrees from Harvard and Columbia, has a background in business related
+      to the USSR and Eastern Europe, and has served in various academic and literary
+      roles, including as Chairman of the Russian Booker Literary Prize. He currently
+      resides in Brussels.
+    published: '2026-03-25T13:14:43+00:00'
   - title: Conversation with Professor Glenn Diesen, 24 March
     url: https://gilbertdoctorow.com/2026/03/24/conversation-with-professor-glenn-diesen-24-march/
     text: 'Published by gilbertdoctorow

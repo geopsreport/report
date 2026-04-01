@@ -8,16 +8,3300 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The ongoing U.S.-Iran conflict continues to dominate the geopolitical landscape, with recent developments raising the stakes for regional and global stability. The aftermath of the controversial U.S. attack on Iran, which targeted a school and reportedly involved tomahawk missiles, has intensified scrutiny of American military strategy and its broader implications.
+  The ongoing US-Israeli war on Iran has triggered what analysts now describe as the largest oil shock in modern history, with far-reaching consequences for the global economy and financial system. As of April 1, 2026, the conflict’s escalation has not only disrupted oil flows but is also accelerating the erosion of US dollar dominance in international trade.
   
-  **Michael Hudson** notes a significant shift in U.S. foreign policy focus, emphasizing that the latest National Security Strategy report reveals discrepancies between official narratives and on-the-ground realities in the Middle East. He argues that the attack on civilian infrastructure, particularly educational facilities, signals a deliberate escalation and a potential turning point in the conflict’s trajectory.
+  **Michael Hudson** emphasizes that the current oil shock is “significantly disrupting the global economy,” warning that the resulting price spikes and supply chain turmoil could precipitate a global economic crisis. The war’s impact on oil markets is compounded by the emergence of multipolar trading blocs, as nations increasingly seek alternatives to the dollar for energy transactions.
   
-  The discussion among analysts, including **Nima Alkhorshid** and **Richard Wolff**, highlights the persistent use of misinformation to justify military actions. There is consensus that the targeting of non-military sites is part of a broader pattern aimed at weakening Iran’s societal resilience, rather than achieving immediate military objectives. This approach, they contend, mirrors tactics seen in previous U.S.-led interventions, notably in Iraq.
+  In recent discussions, **Hudson** and **Steve Keen** have drawn parallels between today’s crisis and historical periods of conflict-driven economic instability. They note that while inflation is the immediate effect—driven by soaring energy and commodity prices—there is a “high chance” that deflationary pressures could follow if the financial system buckles under the strain. “The potential for a global crisis is real,” says Hudson, “with scenarios ranging from inflation and hyperinflation to sudden deflation.”
   
-  On the diplomatic front, earlier breakthroughs in nuclear negotiations—such as Iran’s agreement to halt uranium enrichment and allow IAEA inspections—now appear overshadowed by the renewed hostilities. The prospects for a negotiated settlement have diminished, with most analysts warning that U.S. military actions are likely to persist until there is a significant change in the regional balance of power.
+  Further complicating the situation, the US-led “Operation Blind Fury” and ongoing hostilities have destabilized not only Iran but also affected regional energy producers like Qatar, particularly in the LNG sector. This has amplified volatility in global energy markets and heightened uncertainty for both importers and exporters.
   
-  Looking ahead, the majority view expressed by **Michael Hudson** is that the conflict is set to reshape alliances and economic structures across the Middle East. He states, “The U.S. is doubling down on force as policy, not as a last resort but as a primary tool,” and predicts with high confidence that continued escalation will drive further instability, disrupt energy markets, and accelerate the decline of U.S. influence in the region. The consensus among independent analysts is that unless there is a dramatic policy reversal, the war’s consequences will be felt globally, with a high likelihood of prolonged instability and economic fallout.
+  Looking ahead, the consensus among analysts is that the war’s economic fallout will persist, with most predicting continued volatility in oil prices and further weakening of the dollar’s international role. As Hudson concludes, “I guarantee that unless there is a dramatic de-escalation, the world is entering a period of sustained economic turbulence, with the potential for systemic financial shocks now higher than at any point since the 1970s oil crisis.”
 articles:
+  - title: The Oil Shock That Could Break the Global Financial System
+    url: https://michael-hudson.com/2026/03/the-oil-shock-that-could-break-the-global-financial-system/
+    text: 'March 29, 2026 The war on Iran is transforming the global economy: Economist
+      Michael Hudson explains how the US-Israeli war on Iran is altering the geopolitical
+      order, and could cause a global economic crisis. Economist Michael Hudson discusses
+      the shock in the oil market and Tehran’s challenge to US dominance. The US-Israeli
+      war on Iran is transforming the geopolitical order, and could even unleash a global
+      economic crisis. The conflict has caused the largest oil shock in history, disrupting
+      global markets and driving up fuel and food prices. To better understand the implications
+      for the world, Geopolitical Economy Report editor Ben Norton interviewed economist
+      Michael Hudson, who discussed how Iran is challenging US dollar dominance and
+      undermining Washington’s control over the global oil market, which has been a
+      key pillar of US foreign policy. BEN NORTON: The war that the United States and
+      Israel launched against Iran is having a massive impact on the global economy.
+      Every country on Earth is being affected, because this US-Israeli war has caused
+      the largest oil shock in history — larger than the oil shocks of 1973 and 1979.
+      The effects are especially pronounced in Asia, which gets the majority of its
+      oil imports from the Persian Gulf. The Philippines has declared a national emergency
+      , and it is now rationing energy, because it does not have enough oil, due to
+      this war. Japan also imports much of its oil from the Middle East, or West Asia.
+      And this is why Tokyo has carried out the largest ever release of oil from its
+      reserves. Moreover, the 32 member countries of the International Energy Agency,
+      the IEA, unanimously agreed to release 400 million barrels of oil from their emergency
+      reserves. However, this is only a short term band-aid measure. It’s not a long-term
+      solution. This is why the global price of oil only went down a little bit in response
+      to the news of countries releasing oil from their reserves. And since then, the
+      oil price has continued rising, because as long as this US-Israeli war on Iran
+      continues, there are going to be massive disruptions in the energy market. Given
+      that oil is the most important commodity on Earth — and it’s used in many other
+      products, and it’s used in all aspects of society in order to transport food and
+      other goods — world leaders are now warning this could cause a global recession
+      . The head of the International Energy Agency said it very clearly. He warned
+      that the US Israeli war on Iran has been a “major, major threat” to the global
+      economy . This war is causing not just gasoline prices to go up, but also food
+      prices to go up, because so many fertilizers and chemicals used in fertilizers
+      come from the Persian Gulf region. It is also likely going to lead to higher interest
+      rates, which will lead to increases in mortgage rates, and other rates on loans
+      that are taken by average people. So this is going to hurt the poorest people
+      the most. So to make sense of how this war is going to impact the global economy,
+      today we will be speaking with the renowned economist Michael Hudson, who is the
+      author of many books, including Super Imperialism : The Economic Strategy of American
+      Empire. Michael Hudson has been writing articles and doing interviews explaining
+      how this war is going to reshape the world economically and geopolitically. In
+      particular, Michael has argued that this war has meant that “ multipolar oil markets
+      are now a reality ”. This is because Iran is directly challenging the global dominance
+      of the US dollar, and in particular the petrodollar system — the fact that, for
+      decades, the vast majority of oil in the global market was priced and sold in
+      dollars. Iran is now challenging that In response to this US-Israeli war of aggression,
+      Tehran close down the Strait of Hormuz, which is the single most important oil
+      transit chokepoint on Earth. Every day, about 20% of the globally traded oil passes
+      through this narrow strait — or at least 20% of global oil did pass through, before the
+      US and Israel started this war. Now Iran is telling countries that, if they want
+      to pass through the Strait of Hormuz, they have to agree to sell oil not in US
+      dollars, but rather in China’s currency, the yuan. This is why some media outlets,
+      such as the South China Morning Post, are now saying that this “ Iran war could
+      boost China’s ‘petroyuan’ and weaken US dollar dominance”. Given the massive geopolitical
+      and economic consequences of this war, I thought Michael Hudson would be the perfect
+      guest. So without further ado, we are going to play some highlights of what Michael
+      said, and then we will go straight to the interview. (Highlights) MICHAEL HUDSON:
+      Iran has said this is a phase change: we are now forever going to control the
+      Strait of Hormuz in the Persian Gulf, and we are going to control the oil trade.
+      That means that, instead of the United States’ plans to use oil as a chokepoint
+      on other countries to enforce their compliance with American foreign policy, it
+      is now Iran that is in control of this chokepoint, and it can impose sanctions
+      on the US and its allies, sanctions on Israel, sanctions on the Europeans, or
+      any other allies of the United States. So it has turned the tables on the whole
+      US attempt to use oil as a means of control. Now what is at issue is Iran being
+      able to achieve what the United States has based all of its foreign policy on:
+      control of the international revenues from oil exports. … The American philosophy
+      is, number one, you bomb civilians, you break all the rules of international law
+      which are against that. You bomb civilians to demoralize them. And if you concentrate,
+      as Trump did, along with Israel, a few weeks ago, you bomb the schools , you bomb
+      the hospitals . That’s American policy in foreign countries. It’s most visible
+      in the case of Israeli policy, in Gaza, and now the West Bank as well. And it
+      is the same policy that the United States has followed in Iran. Well, the idea
+      was that this would demoralize the population, and the Iranian population would
+      want to get rid of the ayatollahs and say, “We don’t want to be bombed anymore;
+      we want to save the children; let’s make a deal and appoint a leader favorable
+      to the United States so that it will stop bombing us”. Well, this was nonsense
+      from the beginning, but it was the guiding spirit of American foreign policy:
+      bomb a country, and that will lead to a regime change, and a collapse. … This
+      is a conflict, in Iran, to determine what will the shape of the international
+      economy be? Is it going to restore American control of the oil trade and give
+      it the chokepoint over the international economy that it is looking for? Or are
+      we going to be independent of the United States? That’s what this war is all about.
+      (Interview) BEN NORTON: Michael, it’s always a real pleasure; thanks for joining
+      us today. Now, you have been talking about some of these issues that the world
+      is now discussing due to the war in Iran — especially dollar dominance and the
+      petrodollar system — you have been writing about this for decades, going back
+      to the 1970s. And in fact, the US government has also been planning a potential
+      war on Iran for decades. This is not something new. Now, Donald Trump is the first
+      president who is actually crazy enough to try it. But I remember going back to
+      the George W. Bush administration, after the US invaded Iraq, there was a lot
+      of discussion of a potential invasion of Iran. So, Michael, explain to us how
+      you see this war. What is the bigger picture here, and how will this impact the
+      world? MICHAEL HUDSON: Well, you mentioned that it’s for the last few years or
+      decades; it has actually gone back half a century. Already in the mid-1970s, when
+      I was working for the Hudson Institute, on contracts with the Treasury, and the
+      White House, and the Defense Department, I sat in on meetings, and they were discussing
+      all along how ultimately the United States was going to have to take control of
+      all of the Middle Eastern oil, and that entailed conquering Iran. And in the mid-1970s,
+      at one military meeting, for instance, Herman Kahn was explaining how probably
+      Baluchistan was the main opportunity to begin carving up Iran into subject ethnic
+      constituencies. And Baluchistan, in between Pakistan and Iran, was probably the
+      best place to start a separatist movement. There were military plans. My field
+      in the mid-1970s was oil and the balance of payments. I had that position at Chase
+      Manhattan Bank for many years. I actually was the only — I was so low on the totem
+      pole, being a technician and in my mid-20s, that I was the only person who was
+      allowed to see all of the operating details and statistics of the US oil companies,
+      the major companies, so that I could make a calculation as to the role that oil
+      played in the balance of payments, supporting the dollar. This was right after
+      the United States was forced off gold, in 1971, because of the Vietnam War. So,
+      the United States all along has realized that what you’re seeing today was going
+      to be the endgame of consolidating, they hoped, American control over the Middle
+      Eastern oil; and they wanted their because the central point, the strongest lever
+      that American foreign policy has had for the last century, is control of the world’s
+      oil trade. Because it’s so immensely profitable for the American oil companies
+      themselves — it has given the oil companies major control over US policy — and
+      also the US economy’s potential control over other countries, by the ability to
+      turn off the supply of oil to other countries, thereby stopping their electricity
+      production, stopping their chemical production, their fertilizer production with
+      natural gas. The oil industry includes the gas industry, because they’re so closely
+      interconnected. All of this has been thought out. And every year, the military
+      has been upgrading the long-term plans for — well, if we really, have to use force
+      to entail our control over the Near East, the Middle East; if, for any reason,
+      the OPEC oil countries want to become independent of the United States, and begin
+      investing their oil profits outside of the United States, instead of sending all
+      of their oil earnings to the United States, to invest in Treasury bonds, corporate
+      bonds, US bank deposits, and stock holdings; well, if any of them should want
+      to exert their own sovereignty and go their own way, we’re going to have to take
+      over; and no matter what, we’re going to have to take over Iran, because that
+      is the most powerful, final locking point of US control. And, as we have discussed
+      before, in 2003, General Wesley Clark came right out and said, well, we’re going
+      to conquer seven countries in five years , culminating with Iran. So all of this
+      has been completely open. This is not simply Donald Trump’s war. It’s a war which
+      he decided at this time, because America has steadily been losing its position
+      of economic strength, military strength, and arms supply, and missiles, and aircraft,
+      and bombs, as a result of the war, first in Ukraine, and then supplying Israel.
+      So there will never be a less bad time to go to war than at the present. And of
+      course, it is a bad time, but it’s not as bad as it’s going to be. And the military,
+      the neocons behind the military and behind the Central Intelligence Agency, are
+      not going to give up. They say, “Well, what do we have to lose? If we don’t conquer
+      the Middle Eastern oil now, then we’re going to be losing what has become the
+      major lever of American foreign policy”. Donald Trump believed that he could conquer
+      Iran, within two to four weeks. He actually believe that. And his hope was that,
+      by that time he went on his scheduled trip to China, he could confront China,
+      saying, “Well, we’ve just caused a regime change in Iran. We’ve appointed an Iranian
+      client oligarch, client dictator to take over and become sort of Iran’s version
+      of Boris Yeltsin, administering Iranian oil in the interests of the United States”.
+      “So, we now have the power to impose sanctions on you, China. We can cut off your
+      oil. But, you know, we don’t want to do that. If you begin to export the raw materials,
+      the gallium, the tungsten, and all the other things that we need for our military
+      that you’ve put an export control on, then we will give you the oil”. Trump had
+      hoped to be able to present China with that victory. Well, obviously that’s gone.
+      The military miscalculated, because they could not think of an alternative that
+      would threaten this grand plan. Remember all of the American military attacks,
+      for the last 50 years, ever since Vietnam — all of the wars that the US had, from
+      Vietnam to Iraq, Afghanistan, Syria, Venezuela. It has always been the United
+      States and its allies, the coalition of the willing, against single countries.
+      This is the first war that America has fought since World War Two where other
+      countries that it’s fighting against are allied with each other. It’s not just
+      fighting against Iran now. It’s fighting against Iran, supported by Russia and
+      China, because they all realize that this is a fight to the end, to decide: Is
+      the United States going to be able to reassert its control over the world economy
+      using monopolies? The oil monopoly, the information technology monopoly that it’s
+      trying to do, the computer chip monopoly, the technology monopoly, also its ability
+      to supply food to other countries, its exports and control of grain. This is the
+      last chance that it has. And there’s a feeling of desperation that has led the
+      US planners to bet at all. And that I think that it’s not going to work. All of
+      the generals have told them that it’s not going to work. The generals who have
+      been pessimistic have pretty much been forced out of the military, and the State
+      Department, because, “If you’re pessimistic, well, why aren’t you on board? You
+      know, why aren’t you on the team? Or are you Putin’s puppet? You know, you’ve
+      just gotta have faith”. America believed that it could not lose any war because
+      its policy of bombing other countries was always going to work. The American philosophy
+      is, number one, you bomb civilians; you break all the rules of international law
+      which are against that. You bomb civilians to demoralize them. And if you concentrate,
+      as Trump did along with Israel, a few weeks ago, you bomb the schools; you bomb
+      the hospitals. That’s American policy in foreign countries. It’s most visible
+      in the case of Israeli policy, in Gaza, and now the West Bank as well. And it
+      is the same policy that the United States has followed in Iran. Well, the idea
+      was that this would demoralize the population, and the Iranian population would
+      want to get rid of the ayatollahs and say, “We don’t want to be bombed anymore;
+      we want to save the children; let’s make a deal and appoint a leader favorable
+      to the United States so that it will stop bombing us”. Well, this was nonsense
+      from the beginning, but it was the guiding spirit of American foreign policy:
+      bomb a country, and that will lead to a regime change, and a collapse. That was
+      what America expected in Russia. But Iran essentially has the same spirit that
+      Patrick Henry had in America’s revolution against Britain in 1776. He said, “Give
+      me liberty or give me death!”. And that’s exactly what Iran is saying. For them,
+      this is existential, because they know what the US plans are, since the United
+      States has been so open about what its plans are. Yes, they want a regime change;
+      they want to break up Iran into parts; they want to take control of Iranian oil
+      and use the oil export revenues to support the US dollar, and to support basically
+      the US economy, and to give American foreign policy the option of turning off
+      the oil to other countries, to say, “We can close down your industry, your chemical
+      industry, all your industries that need electric power, oil, gas; we can do all
+      that, if you take an independent policy, following your own sovereignty. And we
+      in the United States reject the United Nations principle that every nation has
+      its own sovereignty”. This is the basic principle of Western civilization for
+      the last half century, the basic principle of the United Nations Charter. All
+      of that is being rejected by the United States. And what it has done is galvanize
+      other countries to recognize that, well, yes, this really is the final conflict.
+      This is a conflict, in Iran, to determine what will the shape of the international
+      economy be? Is it going to restore American control of the oil trade, and give
+      it the chokepoint over the international economy that it’s looking for? Or are
+      we going to be independent of the United States? That’s what this this war is
+      all about. BEN NORTON: Well said, Michael. You raised so many important points
+      there. It’s hard to know where to start. I wanted to just make a brief comment
+      about this idea that the US has been preparing for war in Iran for decades and,
+      as you said, was waiting for the least worst moment. I think this is absolutely
+      right, because there also were two major developments in the past two years that
+      led to this war in Iran. One was the overthrow of the Syrian government — which
+      goes back to 2011, the beginning of the regime-change war that ultimately succeeded
+      at the end of 2024, which was a major step toward war in Iran. And then also Israel
+      killed the leadership of the Lebanese resistance, which basically, they thought
+      at least, would remove Lebanon from the equation. So by removing Lebanon and Syria
+      — at least they thought they removed Lebanon — then the US and Israel could attack
+      Iran, by isolating Tehran from its allies. Now we have seen that there has still
+      been some resistance in Lebanon. Although Israel has invaded Lebanon and is trying
+      to colonize the south. Anyway, I want to talk about more about this issue of the
+      dollar system. I think this is so critical to understand this war. You talked
+      about how the US wants to use control of the global oil market in order to undergird
+      the dollar. You know, the petrodollar system really goes back to 1974, when the
+      Richard Nixon administration, after delinking the dollar from gold, made an agreement
+      with Saudi Arabia, which at that time was the leading oil producer in the world,
+      to make sure that oil was traded exclusively in the dollar, which ensures global
+      demand for the dollar. It seems that Iran clearly understands the importance of
+      this for US hegemony, the importance of the dollar system and the petrodollar,
+      because Iran has targeted it directly. Iran closed down the Strait of Hormuz and
+      is demanding that countries that pass through trade oil in Chinese yuan. Also,
+      there have been reports that the Iranian military is targeting not only US military
+      bases in the region, but also the offices of major US corporations, including
+      US financial institutions and Big Tech companies, which have been building big
+      AI data centers in places like the UAE. So I think Iran understands how critical
+      the economic element is to this war. Do you want to talk more about that? MICHAEL
+      HUDSON: Yes, the United States’ plans to militarily control the Middle East were
+      based not on its own fighting, because the United States had been exhausted by
+      the Vietnam War — remember, in the mid-1970s. The US has had two client armies
+      fighting in the Middle East. First of all, Israel is a client army. Already in
+      the early 1970s, a deal was made — and Herman Kahn at the Hudson Institute played
+      a big role in this. A deal was made with Senator Henry “Scoop” Jackson, one of
+      the leading pro-military senators in America, that he would agree to use Israel
+      as America’s proxy army. BEN NORTON: This was famously spelled out by Joe Biden,
+      when he was a senator. Biden gave a speech in which he said “Israel is the best
+      investment we make”. JOE BIDEN: (In 1986) Were there not an Israel, the United
+      States of America would have to invent an Israel to protect her interest in the
+      region. The United States would have to go out and invent an Israel. (In 2022)
+      I have often said, Mr. President, if this were not an Israel, we’d have to invent
+      one. (In 2023) I have long said, if Israel didn’t exist, we’d have to invent it.
+      MICHAEL HUDSON: Yes, this was very open at that time. Well, later, after 9/11,
+      and after President Carter backed the [Mujahideen] in Afghanistan, as the alternative
+      to secular rule in Afghanistan, you had Al-Qaeda emerge as a Wahhabi terrorist
+      army. And the Wahhabis are the second force that America has used. You mentioned
+      Syria. And of course Syria has the ISIS leadership there, the terrorists. And
+      they’re busy murdering everyone who is not a Sunni. They’re killing the Alawites;
+      they’re killing the Christians. They’re the head-choppers, basically. So these
+      are the two proxy armies of the United States [Israel and the Wahhabis]. Well,
+      what has made all of this urgent right now? It was number one, you had the Wahhabis
+      working, for the last 10 years, hand in hand with Israel. The one non-Sunni group
+      that they have not attacked is Israel. They have been working hand in hand, together.
+      Well, what has forced the hand of the military in Israel is Israel’s attack on
+      Gaza, and the fightback from Lebanon, the civil war of resistance that has spread
+      throughout the Middle East; and the worldwide criticism of the [Gaza] genocide
+      that you’ve seen from the United Nations and the International Criminal Court.
+      So all of this has forced the hands of [the US and Israel], saying, “Well, are
+      we going to have a take over?” Israel now is trying to take over Lebanon. I guess
+      the Israelis are going to need somewhere to move, if Iran is successful in sort
+      of destroying the economic foundations of the Israeli state. This is the military
+      setting for all of this, and it’s the financial setting. I want to mention again
+      the control of the petrodollars that you mentioned. It wasn’t just pricing oil
+      in dollars. Everybody, all countries, were pricing the exports of copper, everything
+      in dollars, because that was still the main currency. Almost seamlessly, instead
+      of countries, keeping their international reserves in the form of gold, and US
+      dollars that were as good as gold, even when the dollar wasn’t as good as gold
+      anymore, they continued to trade in the US dollar. Well, the issue was, where
+      were these dollars going to be invested? Under the rules of Kissinger — and all
+      this was explained to me by the Treasury and the State Department, in 1974 and
+      1975 — the US military told Saudi Arabia and other OPEC countries, “You can charge
+      whatever you want for oil, but you have to use the surplus have to invest in the
+      United States. We’re not going to let you buy control of any major American firms.
+      You can’t buy American companies; only we can buy control of foreign economies.
+      You’ll buy bonds. You can finance American industry and American companies. You
+      can buy stocks in the companies. You can make money by just depositing your money
+      in banks”. These were the petrodollars. The petrodollars were the savings of OPEC
+      countries invested in banks. Well, this recycling of OPEC surpluses now is not
+      as important as it was in the 1970s. In the 1970s, these petrodollars came into
+      US banks. And what were they going to do with it? They lent it to Global South
+      countries, to finance their trade deficits, their balance of payments deficits.
+      And this ended up in a collapse of the Latin American foreign dollar debts, and
+      other debts. And later it led to the Asian crisis of 1998, which I think is going
+      to be a paradigm model for what’s going to happen the rest of this year. But now
+      Saudi Arabia and the other countries have, for the last 10 or 20 years, they’ve
+      used their export earnings to build up their own economies in sort of crazy ways,
+      building huge luxury real estate in the desert, with huge desalinization plants
+      to supply the water for all of this domestically. But they still have enormous
+      savings of bonds, stocks, and financial savings in the United States. Now that
+      the OPEC countries are blocked from having export earnings, they’ve announced,
+      “Well, we’ve actually debt-leveraged our own economy. Rich as we are, our real
+      estate projects and our investments are financed by debt, and we have to begin
+      selling off our holdings of US securities, and gold, in order to keep our domestic
+      budgets and the balance of payments in balance”. So all of this now is leading
+      to a sell-off of dollars. And this has reversed what was the whole petrodollar,
+      the whole inflow of OPEC money, into the currency, of oil into dollars. Now, this
+      is becoming a drain on dollars. So that is another threat. Iran has said, “This
+      is a phase change. We are now forever going to control the Strait of Hormuz in
+      the Persian Gulf. That’s why it’s called the Persian Gulf, because it’s ours.
+      And we are going to control the oil trade”. And that means that, instead of the
+      United States plans’ to use oil as a chokepoint on other countries to enforce
+      their compliance with American foreign policy, it’s now Iran that is in control
+      of this chokepoint, and it can impose sanctions on the US and its allies, sanctions
+      on Israel, sanctions on the Europeans, or any other allies of the United States.
+      So it has turned the tables on the whole US attempt to use oil as a means of control.
+      Now what is at issue is Iran being able to achieve what the United States has
+      based all of its foreign policy on, control of the international revenues from
+      oil exports. And the determination of who will be able to buy this oil, and natural
+      gas, and helium — these three things — and also by controlling the Strait of Hormuz,
+      it controls the inward shipping of food and other materials to the OPEC countries,
+      so it has a chokepoint over OPEC countries, as well as over foreign oil users.
+      BEN NORTON: Yeah, Michael, I want to talk more about the energy element here.
+      The International Energy Agency referred to the energy crisis that we’re seeing
+      now as the largest oil supply shock in world history. It’s larger than the oil
+      crisis that was caused by the 1973 OPEC embargo, which was also related to an
+      Israeli war of aggression. And then in 1979, with the Iranian revolution, there
+      was another oil crisis. But today we’re seeing the biggest oil crisis in history.
+      The price of crude has skyrocketed, and this is going to fuel inflation all around
+      the world, because, of course, oil is a crucial input in many other products,
+      and oil is needed to transport most goods, especially food. Moreover, a lot of
+      fertilizers and chemicals that go into fertilizers come from the Persian Gulf.
+      So this could likely create a food crisis, which is especially going to hurt the
+      Global South. Of course oil-exporting countries could potentially benefit from
+      higher revenue — although in the Gulf, a lot of the oil and gas infrastructure
+      has been damaged by this war. So some of these Gulf regimes might not see some
+      of the benefits from increased export revenue. But the majority of Global South
+      countries import oil, energy, and other commodities. And as the price of those
+      commodities increases, it’s going to also be a significant drag on their economies.
+      It’s likely going to lead to current account deficits. And that means that, in
+      the Global South, a lot of their currencies are going to start falling against
+      the dollar, which will likely lead to capital outflows — you know, the so-called
+      hot money, as foreign investors just sell all of their holdings in emerging markets.
+      So we could see currency crises, economic crises, energy crises, food crises.
+      This this war of choice, this war of aggression, that Trump and Netanyahu started,
+      could cause a massive economic crisis that will especially hurt the Global South.
+      Do you see it the same way? MICHAEL HUDSON: Yes, and all of this was anticipated.
+      First of all, if you want to see a paradigm, a model of what will happen, look
+      at what happened to German industry after the United States and Europe imposed
+      sanctions on buying Russian gas and oil. German industry collapsed, and Europe
+      and Germany are now suffering a depression. They’re in for a great depression.
+      What happened in Germany destroyed its economy, and led its chemical industry
+      to close. Oil is not only for energy. Oil is for chemistry, as you pointed out.
+      It’s the glass-making industry, and fertilizer. Well, fertilizer especially right
+      now is important, because it’s made out of natural gas. And when Iran bombed Qatar,
+      Qatar was the major exporter of liquefied natural gas. This natural gas is what
+      was providing fertilizer to in other countries, especially to America’s allies:
+      Japan, Korea, the Philippines. They’re all in crisis. And helium, along with the
+      natural gas — the fact that helium now is not available to, let’s say, Taiwan,
+      and its semiconductor industry, and electricity. The oil is not available to Taiwan.
+      How is Taiwan going to make the semiconductors that are supposed to be the key
+      to America’s information technology control, to all of the computer chips and
+      monopolies that it had hoped to have? So this is far reaching. Also, we’re about
+      to be, in the northern hemisphere, entering the planting season. And the planting
+      season requires fertilizer. Well, already the price of fertilizer, made out of
+      gas largely, is rising in the United States. That’s putting a squeeze on farms.
+      And the farmers in America, are claiming, what I’m sure farmers all over Europe
+      and the Global South countries are experiencing, “We cannot make a profit, selling
+      our crops at today’s prices, if we have to pay so much for fertilizer, and farm
+      equipment that Trump has imposed tariffs on, that we lose money by producing crops”.
+      So what are they going to do? This is causing an agricultural crisis. And obviously
+      the countries that are going to be left out most of all are the countries that
+      can least afford to pay the higher prices for fertilizer, gas, and oil. These
+      are the Global South countries. Because, in addition to having to pay for oil
+      and gas, and its byproducts, they have to pay their foreign dollar debts, which
+      are falling due. Something has to give. There are going to be financial defaults.
+      Other countries are going to say, “What are we going to do? Are we going to do
+      what Europe has done, saying, well, there’s a budget crisis, our prices are going
+      up for oil. We’ve got to subsidize the homeowners, so they can heat their apartments
+      with gas or with oil. Our labor is already living on the brink, running up, increasing
+      debt. We will lose the elections in Europe, just like in America, if consumers
+      have to spend so much more money on oil, gas, heating their apartments, their
+      electricity rates, if they default. So we’re going to have to cut back all other
+      social spending, while we increase our military spending”. So this is going to
+      lead to a political crisis, of pro-war vs anti-war, pro-US vs anti-US feelings,
+      all the way from Europe to the Global South countries, and the Asian countries
+      that are America’s allies. How can Korea and Japan pay the $350 billion that the
+      Korean parliament has said it has just passed, saying, “We’re going to pay Donald
+      Trump $350 billion for him to use, at his discretion, so that we will not lose
+      the US export market for our products”. And Japan has promised $650 billion. How
+      can they possibly do this if they don’t have the gas and oil that they need to
+      make the exports to the United States? Somebody there must be thinking, “Well,
+      if we don’t have oil and gas, we’re not going to have exports to the United States.
+      So we don’t have to give the United States the $350 billion from Korea and $650
+      billion from Japan”. All these deals that Trump has made will be unwinding. BEN
+      NORTON: Well, Michael, I think that’s a perfect note to end on. Thank you for
+      joining me. Unfortunately it looks like this war is going to continue, but I’m
+      sure I’ll bring you back soon to talk more about the global implications of this
+      conflict. Thanks a lot. MICHAEL HUDSON: I look forward to it. Thanks for having
+      me. The post The Oil Shock That Could Break the Global Financial System first
+      appeared on Michael Hudson . The post The Oil Shock That Could Break the Global
+      Financial System first appeared on Michael Hudson .'
+    one_sentence_summary: Economist Michael Hudson explains that the US-Israeli war
+      on Iran is significantly disrupting the global economy by causing the largest
+      oil shock in history, challenging US dollar dominance, and potentially leading
+      to a global economic crisis.
+    paragraph_summary: The ongoing US-Israeli war on Iran is significantly reshaping
+      the global economy, according to economist Michael Hudson, who highlights its
+      potential to trigger a worldwide economic crisis. The conflict has resulted in
+      the largest oil shock in history, surpassing previous crises in 1973 and 1979,
+      and is severely impacting countries reliant on Persian Gulf oil, particularly
+      in Asia. Nations like the Philippines are facing energy rationing, while Japan
+      has initiated a historic release of oil from its reserves. Despite efforts by
+      the International Energy Agency to alleviate the situation by releasing 400 million
+      barrels of oil from emergency reserves, these measures are deemed insufficient
+      for long-term stability, as oil prices continue to rise amidst the turmoil. Hudson
+      emphasizes that Iran's challenge to US dollar dominance and its influence over
+      the global oil market could undermine US foreign policy and further alter the
+      geopolitical landscape.
+    published: '2026-03-31T12:00:59+00:00'
+  - title: The Oil Shock That Could Break the Global Financial System
+    url: https://michael-hudson.com/2026/03/the-oil-shock-that-could-break-the-global-financial-system/
+    text: 'March 29, 2026 The war on Iran is transforming the global economy: Economist
+      Michael Hudson explains how the US-Israeli war on Iran is altering the geopolitical
+      order, and could cause a global economic crisis. Economist Michael Hudson discusses
+      the shock in the oil market and Tehran’s challenge to US dominance. The US-Israeli
+      war on Iran is transforming the geopolitical order, and could even unleash a global
+      economic crisis. The conflict has caused the largest oil shock in history, disrupting
+      global markets and driving up fuel and food prices. To better understand the implications
+      for the world, Geopolitical Economy Report editor Ben Norton interviewed economist
+      Michael Hudson, who discussed how Iran is challenging US dollar dominance and
+      undermining Washington’s control over the global oil market, which has been a
+      key pillar of US foreign policy. BEN NORTON: The war that the United States and
+      Israel launched against Iran is having a massive impact on the global economy.
+      Every country on Earth is being affected, because this US-Israeli war has caused
+      the largest oil shock in history — larger than the oil shocks of 1973 and 1979.
+      The effects are especially pronounced in Asia, which gets the majority of its
+      oil imports from the Persian Gulf. The Philippines has declared a national emergency
+      , and it is now rationing energy, because it does not have enough oil, due to
+      this war. Japan also imports much of its oil from the Middle East, or West Asia.
+      And this is why Tokyo has carried out the largest ever release of oil from its
+      reserves. Moreover, the 32 member countries of the International Energy Agency,
+      the IEA, unanimously agreed to release 400 million barrels of oil from their emergency
+      reserves. However, this is only a short term band-aid measure. It’s not a long-term
+      solution. This is why the global price of oil only went down a little bit in response
+      to the news of countries releasing oil from their reserves. And since then, the
+      oil price has continued rising, because as long as this US-Israeli war on Iran
+      continues, there are going to be massive disruptions in the energy market. Given
+      that oil is the most important commodity on Earth — and it’s used in many other
+      products, and it’s used in all aspects of society in order to transport food and
+      other goods — world leaders are now warning this could cause a global recession
+      . The head of the International Energy Agency said it very clearly. He warned
+      that the US Israeli war on Iran has been a “major, major threat” to the global
+      economy . This war is causing not just gasoline prices to go up, but also food
+      prices to go up, because so many fertilizers and chemicals used in fertilizers
+      come from the Persian Gulf region. It is also likely going to lead to higher interest
+      rates, which will lead to increases in mortgage rates, and other rates on loans
+      that are taken by average people. So this is going to hurt the poorest people
+      the most. So to make sense of how this war is going to impact the global economy,
+      today we will be speaking with the renowned economist Michael Hudson, who is the
+      author of many books, including Super Imperialism : The Economic Strategy of American
+      Empire. Michael Hudson has been writing articles and doing interviews explaining
+      how this war is going to reshape the world economically and geopolitically. In
+      particular, Michael has argued that this war has meant that “ multipolar oil markets
+      are now a reality ”. This is because Iran is directly challenging the global dominance
+      of the US dollar, and in particular the petrodollar system — the fact that, for
+      decades, the vast majority of oil in the global market was priced and sold in
+      dollars. Iran is now challenging that In response to this US-Israeli war of aggression,
+      Tehran close down the Strait of Hormuz, which is the single most important oil
+      transit chokepoint on Earth. Every day, about 20% of the globally traded oil passes
+      through this narrow strait — or at least 20% of global oil did pass through, before the
+      US and Israel started this war. Now Iran is telling countries that, if they want
+      to pass through the Strait of Hormuz, they have to agree to sell oil not in US
+      dollars, but rather in China’s currency, the yuan. This is why some media outlets,
+      such as the South China Morning Post, are now saying that this “ Iran war could
+      boost China’s ‘petroyuan’ and weaken US dollar dominance”. Given the massive geopolitical
+      and economic consequences of this war, I thought Michael Hudson would be the perfect
+      guest. So without further ado, we are going to play some highlights of what Michael
+      said, and then we will go straight to the interview. (Highlights) MICHAEL HUDSON:
+      Iran has said this is a phase change: we are now forever going to control the
+      Strait of Hormuz in the Persian Gulf, and we are going to control the oil trade.
+      That means that, instead of the United States’ plans to use oil as a chokepoint
+      on other countries to enforce their compliance with American foreign policy, it
+      is now Iran that is in control of this chokepoint, and it can impose sanctions
+      on the US and its allies, sanctions on Israel, sanctions on the Europeans, or
+      any other allies of the United States. So it has turned the tables on the whole
+      US attempt to use oil as a means of control. Now what is at issue is Iran being
+      able to achieve what the United States has based all of its foreign policy on:
+      control of the international revenues from oil exports. … The American philosophy
+      is, number one, you bomb civilians, you break all the rules of international law
+      which are against that. You bomb civilians to demoralize them. And if you concentrate,
+      as Trump did, along with Israel, a few weeks ago, you bomb the schools , you bomb
+      the hospitals . That’s American policy in foreign countries. It’s most visible
+      in the case of Israeli policy, in Gaza, and now the West Bank as well. And it
+      is the same policy that the United States has followed in Iran. Well, the idea
+      was that this would demoralize the population, and the Iranian population would
+      want to get rid of the ayatollahs and say, “We don’t want to be bombed anymore;
+      we want to save the children; let’s make a deal and appoint a leader favorable
+      to the United States so that it will stop bombing us”. Well, this was nonsense
+      from the beginning, but it was the guiding spirit of American foreign policy:
+      bomb a country, and that will lead to a regime change, and a collapse. … This
+      is a conflict, in Iran, to determine what will the shape of the international
+      economy be? Is it going to restore American control of the oil trade and give
+      it the chokepoint over the international economy that it is looking for? Or are
+      we going to be independent of the United States? That’s what this war is all about.
+      (Interview) BEN NORTON: Michael, it’s always a real pleasure; thanks for joining
+      us today. Now, you have been talking about some of these issues that the world
+      is now discussing due to the war in Iran — especially dollar dominance and the
+      petrodollar system — you have been writing about this for decades, going back
+      to the 1970s. And in fact, the US government has also been planning a potential
+      war on Iran for decades. This is not something new. Now, Donald Trump is the first
+      president who is actually crazy enough to try it. But I remember going back to
+      the George W. Bush administration, after the US invaded Iraq, there was a lot
+      of discussion of a potential invasion of Iran. So, Michael, explain to us how
+      you see this war. What is the bigger picture here, and how will this impact the
+      world? MICHAEL HUDSON: Well, you mentioned that it’s for the last few years or
+      decades; it has actually gone back half a century. Already in the mid-1970s, when
+      I was working for the Hudson Institute, on contracts with the Treasury, and the
+      White House, and the Defense Department, I sat in on meetings, and they were discussing
+      all along how ultimately the United States was going to have to take control of
+      all of the Middle Eastern oil, and that entailed conquering Iran. And in the mid-1970s,
+      at one military meeting, for instance, Herman Kahn was explaining how probably
+      Baluchistan was the main opportunity to begin carving up Iran into subject ethnic
+      constituencies. And Baluchistan, in between Pakistan and Iran, was probably the
+      best place to start a separatist movement. There were military plans. My field
+      in the mid-1970s was oil and the balance of payments. I had that position at Chase
+      Manhattan Bank for many years. I actually was the only — I was so low on the totem
+      pole, being a technician and in my mid-20s, that I was the only person who was
+      allowed to see all of the operating details and statistics of the US oil companies,
+      the major companies, so that I could make a calculation as to the role that oil
+      played in the balance of payments, supporting the dollar. This was right after
+      the United States was forced off gold, in 1971, because of the Vietnam War. So,
+      the United States all along has realized that what you’re seeing today was going
+      to be the endgame of consolidating, they hoped, American control over the Middle
+      Eastern oil; and they wanted their because the central point, the strongest lever
+      that American foreign policy has had for the last century, is control of the world’s
+      oil trade. Because it’s so immensely profitable for the American oil companies
+      themselves — it has given the oil companies major control over US policy — and
+      also the US economy’s potential control over other countries, by the ability to
+      turn off the supply of oil to other countries, thereby stopping their electricity
+      production, stopping their chemical production, their fertilizer production with
+      natural gas. The oil industry includes the gas industry, because they’re so closely
+      interconnected. All of this has been thought out. And every year, the military
+      has been upgrading the long-term plans for — well, if we really, have to use force
+      to entail our control over the Near East, the Middle East; if, for any reason,
+      the OPEC oil countries want to become independent of the United States, and begin
+      investing their oil profits outside of the United States, instead of sending all
+      of their oil earnings to the United States, to invest in Treasury bonds, corporate
+      bonds, US bank deposits, and stock holdings; well, if any of them should want
+      to exert their own sovereignty and go their own way, we’re going to have to take
+      over; and no matter what, we’re going to have to take over Iran, because that
+      is the most powerful, final locking point of US control. And, as we have discussed
+      before, in 2003, General Wesley Clark came right out and said, well, we’re going
+      to conquer seven countries in five years , culminating with Iran. So all of this
+      has been completely open. This is not simply Donald Trump’s war. It’s a war which
+      he decided at this time, because America has steadily been losing its position
+      of economic strength, military strength, and arms supply, and missiles, and aircraft,
+      and bombs, as a result of the war, first in Ukraine, and then supplying Israel.
+      So there will never be a less bad time to go to war than at the present. And of
+      course, it is a bad time, but it’s not as bad as it’s going to be. And the military,
+      the neocons behind the military and behind the Central Intelligence Agency, are
+      not going to give up. They say, “Well, what do we have to lose? If we don’t conquer
+      the Middle Eastern oil now, then we’re going to be losing what has become the
+      major lever of American foreign policy”. Donald Trump believed that he could conquer
+      Iran, within two to four weeks. He actually believe that. And his hope was that,
+      by that time he went on his scheduled trip to China, he could confront China,
+      saying, “Well, we’ve just caused a regime change in Iran. We’ve appointed an Iranian
+      client oligarch, client dictator to take over and become sort of Iran’s version
+      of Boris Yeltsin, administering Iranian oil in the interests of the United States”.
+      “So, we now have the power to impose sanctions on you, China. We can cut off your
+      oil. But, you know, we don’t want to do that. If you begin to export the raw materials,
+      the gallium, the tungsten, and all the other things that we need for our military
+      that you’ve put an export control on, then we will give you the oil”. Trump had
+      hoped to be able to present China with that victory. Well, obviously that’s gone.
+      The military miscalculated, because they could not think of an alternative that
+      would threaten this grand plan. Remember all of the American military attacks,
+      for the last 50 years, ever since Vietnam — all of the wars that the US had, from
+      Vietnam to Iraq, Afghanistan, Syria, Venezuela. It has always been the United
+      States and its allies, the coalition of the willing, against single countries.
+      This is the first war that America has fought since World War Two where other
+      countries that it’s fighting against are allied with each other. It’s not just
+      fighting against Iran now. It’s fighting against Iran, supported by Russia and
+      China, because they all realize that this is a fight to the end, to decide: Is
+      the United States going to be able to reassert its control over the world economy
+      using monopolies? The oil monopoly, the information technology monopoly that it’s
+      trying to do, the computer chip monopoly, the technology monopoly, also its ability
+      to supply food to other countries, its exports and control of grain. This is the
+      last chance that it has. And there’s a feeling of desperation that has led the
+      US planners to bet at all. And that I think that it’s not going to work. All of
+      the generals have told them that it’s not going to work. The generals who have
+      been pessimistic have pretty much been forced out of the military, and the State
+      Department, because, “If you’re pessimistic, well, why aren’t you on board? You
+      know, why aren’t you on the team? Or are you Putin’s puppet? You know, you’ve
+      just gotta have faith”. America believed that it could not lose any war because
+      its policy of bombing other countries was always going to work. The American philosophy
+      is, number one, you bomb civilians; you break all the rules of international law
+      which are against that. You bomb civilians to demoralize them. And if you concentrate,
+      as Trump did along with Israel, a few weeks ago, you bomb the schools; you bomb
+      the hospitals. That’s American policy in foreign countries. It’s most visible
+      in the case of Israeli policy, in Gaza, and now the West Bank as well. And it
+      is the same policy that the United States has followed in Iran. Well, the idea
+      was that this would demoralize the population, and the Iranian population would
+      want to get rid of the ayatollahs and say, “We don’t want to be bombed anymore;
+      we want to save the children; let’s make a deal and appoint a leader favorable
+      to the United States so that it will stop bombing us”. Well, this was nonsense
+      from the beginning, but it was the guiding spirit of American foreign policy:
+      bomb a country, and that will lead to a regime change, and a collapse. That was
+      what America expected in Russia. But Iran essentially has the same spirit that
+      Patrick Henry had in America’s revolution against Britain in 1776. He said, “Give
+      me liberty or give me death!”. And that’s exactly what Iran is saying. For them,
+      this is existential, because they know what the US plans are, since the United
+      States has been so open about what its plans are. Yes, they want a regime change;
+      they want to break up Iran into parts; they want to take control of Iranian oil
+      and use the oil export revenues to support the US dollar, and to support basically
+      the US economy, and to give American foreign policy the option of turning off
+      the oil to other countries, to say, “We can close down your industry, your chemical
+      industry, all your industries that need electric power, oil, gas; we can do all
+      that, if you take an independent policy, following your own sovereignty. And we
+      in the United States reject the United Nations principle that every nation has
+      its own sovereignty”. This is the basic principle of Western civilization for
+      the last half century, the basic principle of the United Nations Charter. All
+      of that is being rejected by the United States. And what it has done is galvanize
+      other countries to recognize that, well, yes, this really is the final conflict.
+      This is a conflict, in Iran, to determine what will the shape of the international
+      economy be? Is it going to restore American control of the oil trade, and give
+      it the chokepoint over the international economy that it’s looking for? Or are
+      we going to be independent of the United States? That’s what this this war is
+      all about. BEN NORTON: Well said, Michael. You raised so many important points
+      there. It’s hard to know where to start. I wanted to just make a brief comment
+      about this idea that the US has been preparing for war in Iran for decades and,
+      as you said, was waiting for the least worst moment. I think this is absolutely
+      right, because there also were two major developments in the past two years that
+      led to this war in Iran. One was the overthrow of the Syrian government — which
+      goes back to 2011, the beginning of the regime-change war that ultimately succeeded
+      at the end of 2024, which was a major step toward war in Iran. And then also Israel
+      killed the leadership of the Lebanese resistance, which basically, they thought
+      at least, would remove Lebanon from the equation. So by removing Lebanon and Syria
+      — at least they thought they removed Lebanon — then the US and Israel could attack
+      Iran, by isolating Tehran from its allies. Now we have seen that there has still
+      been some resistance in Lebanon. Although Israel has invaded Lebanon and is trying
+      to colonize the south. Anyway, I want to talk about more about this issue of the
+      dollar system. I think this is so critical to understand this war. You talked
+      about how the US wants to use control of the global oil market in order to undergird
+      the dollar. You know, the petrodollar system really goes back to 1974, when the
+      Richard Nixon administration, after delinking the dollar from gold, made an agreement
+      with Saudi Arabia, which at that time was the leading oil producer in the world,
+      to make sure that oil was traded exclusively in the dollar, which ensures global
+      demand for the dollar. It seems that Iran clearly understands the importance of
+      this for US hegemony, the importance of the dollar system and the petrodollar,
+      because Iran has targeted it directly. Iran closed down the Strait of Hormuz and
+      is demanding that countries that pass through trade oil in Chinese yuan. Also,
+      there have been reports that the Iranian military is targeting not only US military
+      bases in the region, but also the offices of major US corporations, including
+      US financial institutions and Big Tech companies, which have been building big
+      AI data centers in places like the UAE. So I think Iran understands how critical
+      the economic element is to this war. Do you want to talk more about that? MICHAEL
+      HUDSON: Yes, the United States’ plans to militarily control the Middle East were
+      based not on its own fighting, because the United States had been exhausted by
+      the Vietnam War — remember, in the mid-1970s. The US has had two client armies
+      fighting in the Middle East. First of all, Israel is a client army. Already in
+      the early 1970s, a deal was made — and Herman Kahn at the Hudson Institute played
+      a big role in this. A deal was made with Senator Henry “Scoop” Jackson, one of
+      the leading pro-military senators in America, that he would agree to use Israel
+      as America’s proxy army. BEN NORTON: This was famously spelled out by Joe Biden,
+      when he was a senator. Biden gave a speech in which he said “Israel is the best
+      investment we make”. JOE BIDEN: (In 1986) Were there not an Israel, the United
+      States of America would have to invent an Israel to protect her interest in the
+      region. The United States would have to go out and invent an Israel. (In 2022)
+      I have often said, Mr. President, if this were not an Israel, we’d have to invent
+      one. (In 2023) I have long said, if Israel didn’t exist, we’d have to invent it.
+      MICHAEL HUDSON: Yes, this was very open at that time. Well, later, after 9/11,
+      and after President Carter backed the [Mujahideen] in Afghanistan, as the alternative
+      to secular rule in Afghanistan, you had Al-Qaeda emerge as a Wahhabi terrorist
+      army. And the Wahhabis are the second force that America has used. You mentioned
+      Syria. And of course Syria has the ISIS leadership there, the terrorists. And
+      they’re busy murdering everyone who is not a Sunni. They’re killing the Alawites;
+      they’re killing the Christians. They’re the head-choppers, basically. So these
+      are the two proxy armies of the United States [Israel and the Wahhabis]. Well,
+      what has made all of this urgent right now? It was number one, you had the Wahhabis
+      working, for the last 10 years, hand in hand with Israel. The one non-Sunni group
+      that they have not attacked is Israel. They have been working hand in hand, together.
+      Well, what has forced the hand of the military in Israel is Israel’s attack on
+      Gaza, and the fightback from Lebanon, the civil war of resistance that has spread
+      throughout the Middle East; and the worldwide criticism of the [Gaza] genocide
+      that you’ve seen from the United Nations and the International Criminal Court.
+      So all of this has forced the hands of [the US and Israel], saying, “Well, are
+      we going to have a take over?” Israel now is trying to take over Lebanon. I guess
+      the Israelis are going to need somewhere to move, if Iran is successful in sort
+      of destroying the economic foundations of the Israeli state. This is the military
+      setting for all of this, and it’s the financial setting. I want to mention again
+      the control of the petrodollars that you mentioned. It wasn’t just pricing oil
+      in dollars. Everybody, all countries, were pricing the exports of copper, everything
+      in dollars, because that was still the main currency. Almost seamlessly, instead
+      of countries, keeping their international reserves in the form of gold, and US
+      dollars that were as good as gold, even when the dollar wasn’t as good as gold
+      anymore, they continued to trade in the US dollar. Well, the issue was, where
+      were these dollars going to be invested? Under the rules of Kissinger — and all
+      this was explained to me by the Treasury and the State Department, in 1974 and
+      1975 — the US military told Saudi Arabia and other OPEC countries, “You can charge
+      whatever you want for oil, but you have to use the surplus have to invest in the
+      United States. We’re not going to let you buy control of any major American firms.
+      You can’t buy American companies; only we can buy control of foreign economies.
+      You’ll buy bonds. You can finance American industry and American companies. You
+      can buy stocks in the companies. You can make money by just depositing your money
+      in banks”. These were the petrodollars. The petrodollars were the savings of OPEC
+      countries invested in banks. Well, this recycling of OPEC surpluses now is not
+      as important as it was in the 1970s. In the 1970s, these petrodollars came into
+      US banks. And what were they going to do with it? They lent it to Global South
+      countries, to finance their trade deficits, their balance of payments deficits.
+      And this ended up in a collapse of the Latin American foreign dollar debts, and
+      other debts. And later it led to the Asian crisis of 1998, which I think is going
+      to be a paradigm model for what’s going to happen the rest of this year. But now
+      Saudi Arabia and the other countries have, for the last 10 or 20 years, they’ve
+      used their export earnings to build up their own economies in sort of crazy ways,
+      building huge luxury real estate in the desert, with huge desalinization plants
+      to supply the water for all of this domestically. But they still have enormous
+      savings of bonds, stocks, and financial savings in the United States. Now that
+      the OPEC countries are blocked from having export earnings, they’ve announced,
+      “Well, we’ve actually debt-leveraged our own economy. Rich as we are, our real
+      estate projects and our investments are financed by debt, and we have to begin
+      selling off our holdings of US securities, and gold, in order to keep our domestic
+      budgets and the balance of payments in balance”. So all of this now is leading
+      to a sell-off of dollars. And this has reversed what was the whole petrodollar,
+      the whole inflow of OPEC money, into the currency, of oil into dollars. Now, this
+      is becoming a drain on dollars. So that is another threat. Iran has said, “This
+      is a phase change. We are now forever going to control the Strait of Hormuz in
+      the Persian Gulf. That’s why it’s called the Persian Gulf, because it’s ours.
+      And we are going to control the oil trade”. And that means that, instead of the
+      United States plans’ to use oil as a chokepoint on other countries to enforce
+      their compliance with American foreign policy, it’s now Iran that is in control
+      of this chokepoint, and it can impose sanctions on the US and its allies, sanctions
+      on Israel, sanctions on the Europeans, or any other allies of the United States.
+      So it has turned the tables on the whole US attempt to use oil as a means of control.
+      Now what is at issue is Iran being able to achieve what the United States has
+      based all of its foreign policy on, control of the international revenues from
+      oil exports. And the determination of who will be able to buy this oil, and natural
+      gas, and helium — these three things — and also by controlling the Strait of Hormuz,
+      it controls the inward shipping of food and other materials to the OPEC countries,
+      so it has a chokepoint over OPEC countries, as well as over foreign oil users.
+      BEN NORTON: Yeah, Michael, I want to talk more about the energy element here.
+      The International Energy Agency referred to the energy crisis that we’re seeing
+      now as the largest oil supply shock in world history. It’s larger than the oil
+      crisis that was caused by the 1973 OPEC embargo, which was also related to an
+      Israeli war of aggression. And then in 1979, with the Iranian revolution, there
+      was another oil crisis. But today we’re seeing the biggest oil crisis in history.
+      The price of crude has skyrocketed, and this is going to fuel inflation all around
+      the world, because, of course, oil is a crucial input in many other products,
+      and oil is needed to transport most goods, especially food. Moreover, a lot of
+      fertilizers and chemicals that go into fertilizers come from the Persian Gulf.
+      So this could likely create a food crisis, which is especially going to hurt the
+      Global South. Of course oil-exporting countries could potentially benefit from
+      higher revenue — although in the Gulf, a lot of the oil and gas infrastructure
+      has been damaged by this war. So some of these Gulf regimes might not see some
+      of the benefits from increased export revenue. But the majority of Global South
+      countries import oil, energy, and other commodities. And as the price of those
+      commodities increases, it’s going to also be a significant drag on their economies.
+      It’s likely going to lead to current account deficits. And that means that, in
+      the Global South, a lot of their currencies are going to start falling against
+      the dollar, which will likely lead to capital outflows — you know, the so-called
+      hot money, as foreign investors just sell all of their holdings in emerging markets.
+      So we could see currency crises, economic crises, energy crises, food crises.
+      This this war of choice, this war of aggression, that Trump and Netanyahu started,
+      could cause a massive economic crisis that will especially hurt the Global South.
+      Do you see it the same way? MICHAEL HUDSON: Yes, and all of this was anticipated.
+      First of all, if you want to see a paradigm, a model of what will happen, look
+      at what happened to German industry after the United States and Europe imposed
+      sanctions on buying Russian gas and oil. German industry collapsed, and Europe
+      and Germany are now suffering a depression. They’re in for a great depression.
+      What happened in Germany destroyed its economy, and led its chemical industry
+      to close. Oil is not only for energy. Oil is for chemistry, as you pointed out.
+      It’s the glass-making industry, and fertilizer. Well, fertilizer especially right
+      now is important, because it’s made out of natural gas. And when Iran bombed Qatar,
+      Qatar was the major exporter of liquefied natural gas. This natural gas is what
+      was providing fertilizer to in other countries, especially to America’s allies:
+      Japan, Korea, the Philippines. They’re all in crisis. And helium, along with the
+      natural gas — the fact that helium now is not available to, let’s say, Taiwan,
+      and its semiconductor industry, and electricity. The oil is not available to Taiwan.
+      How is Taiwan going to make the semiconductors that are supposed to be the key
+      to America’s information technology control, to all of the computer chips and
+      monopolies that it had hoped to have? So this is far reaching. Also, we’re about
+      to be, in the northern hemisphere, entering the planting season. And the planting
+      season requires fertilizer. Well, already the price of fertilizer, made out of
+      gas largely, is rising in the United States. That’s putting a squeeze on farms.
+      And the farmers in America, are claiming, what I’m sure farmers all over Europe
+      and the Global South countries are experiencing, “We cannot make a profit, selling
+      our crops at today’s prices, if we have to pay so much for fertilizer, and farm
+      equipment that Trump has imposed tariffs on, that we lose money by producing crops”.
+      So what are they going to do? This is causing an agricultural crisis. And obviously
+      the countries that are going to be left out most of all are the countries that
+      can least afford to pay the higher prices for fertilizer, gas, and oil. These
+      are the Global South countries. Because, in addition to having to pay for oil
+      and gas, and its byproducts, they have to pay their foreign dollar debts, which
+      are falling due. Something has to give. There are going to be financial defaults.
+      Other countries are going to say, “What are we going to do? Are we going to do
+      what Europe has done, saying, well, there’s a budget crisis, our prices are going
+      up for oil. We’ve got to subsidize the homeowners, so they can heat their apartments
+      with gas or with oil. Our labor is already living on the brink, running up, increasing
+      debt. We will lose the elections in Europe, just like in America, if consumers
+      have to spend so much more money on oil, gas, heating their apartments, their
+      electricity rates, if they default. So we’re going to have to cut back all other
+      social spending, while we increase our military spending”. So this is going to
+      lead to a political crisis, of pro-war vs anti-war, pro-US vs anti-US feelings,
+      all the way from Europe to the Global South countries, and the Asian countries
+      that are America’s allies. How can Korea and Japan pay the $350 billion that the
+      Korean parliament has said it has just passed, saying, “We’re going to pay Donald
+      Trump $350 billion for him to use, at his discretion, so that we will not lose
+      the US export market for our products”. And Japan has promised $650 billion. How
+      can they possibly do this if they don’t have the gas and oil that they need to
+      make the exports to the United States? Somebody there must be thinking, “Well,
+      if we don’t have oil and gas, we’re not going to have exports to the United States.
+      So we don’t have to give the United States the $350 billion from Korea and $650
+      billion from Japan”. All these deals that Trump has made will be unwinding. BEN
+      NORTON: Well, Michael, I think that’s a perfect note to end on. Thank you for
+      joining me. Unfortunately it looks like this war is going to continue, but I’m
+      sure I’ll bring you back soon to talk more about the global implications of this
+      conflict. Thanks a lot. MICHAEL HUDSON: I look forward to it. Thanks for having
+      me. The post The Oil Shock That Could Break the Global Financial System first
+      appeared on Michael Hudson . The post The Oil Shock That Could Break the Global
+      Financial System first appeared on Michael Hudson .'
+    one_sentence_summary: Economist Michael Hudson explains that the US-Israeli war
+      on Iran is significantly disrupting the global economy by causing the largest
+      oil shock in history, challenging US dollar dominance, and potentially leading
+      to a global economic crisis.
+    paragraph_summary: The ongoing US-Israeli war on Iran is significantly reshaping
+      the global economy, according to economist Michael Hudson, who highlights its
+      potential to trigger a worldwide economic crisis. The conflict has resulted in
+      the largest oil shock in history, surpassing previous crises in 1973 and 1979,
+      and is severely impacting countries reliant on Persian Gulf oil, particularly
+      in Asia. Nations like the Philippines are facing energy rationing, while Japan
+      has initiated a historic release of oil from its reserves. Despite efforts by
+      the International Energy Agency to alleviate the situation by releasing 400 million
+      barrels of oil from emergency reserves, these measures are deemed insufficient
+      for long-term stability, as oil prices continue to rise amidst the turmoil. Hudson
+      emphasizes that Iran's challenge to US dollar dominance and its influence over
+      the global oil market could undermine US foreign policy and further alter the
+      geopolitical landscape.
+    published: '2026-03-31T12:00:59+00:00'
+  - title: Inflation First, Deflation Next
+    url: https://michael-hudson.com/2026/03/inflation-first-deflation-next/
+    text: 'March 27 2026 HOW THE GLOBAL CRISIS WILL UNFOLD Michael Hudson & Steve Keen
+      David Graeber Institute NIKA Hello, everyone. We are very happy to invite back
+      Michael Hudson and Professor Steve Keen to the David Graeber Institute. Steve
+      Keen is an economist and author, one of the few who warned about the 2008 crisis
+      in advance. He is known for his critique of mainstream neoclassical theory and
+      his models of debt deflation and financial instability. Michael Hudson is an American
+      economist and historian of debt at the University of Missouri, Kansas City. His
+      work on finance, rent, and deindustrialization deeply influenced David Graeber’s
+      own thinking on empire, tribute, and the politics of debt. Today we will explore
+      the deepening crisis and possible scenarios of how it might unfold, specifically
+      in the context of the ongoing war, which increasingly resembles the Soviet invasion
+      of Afghanistan — to me personally. My question to Michael and Steve is: inflation,
+      hyperinflation, or deflation? Which scenario do they think will happen? We start
+      with Michael Hudson. MICHAEL HUDSON If you look at the stock and bond markets
+      today, the world is expecting that the war in Iran is not going to last more than
+      a month or so. It’s a world war because the entire world is dependent on oil and
+      liquefied natural gas — for fertilizer, energy, electricity, heating, cooking,
+      glassmaking, and helium. Helium and natural gas were provided to much of the world
+      by Qatar, as part of the Arab OPEC countries. But their billion-dollar installations
+      to liquefy natural gas — which took four years to build — have just been bombed
+      by Iran, because Qatar is hosting US military bases used to bomb Iran. Iran has
+      said: if you try to destroy our oil industry, we will make sure the entire world
+      oil, gas, helium, and energy industry shuts down and causes a Great Depression
+      — as a result of oil prices doubling. That will trigger a balance of payments
+      crisis for America’s allies, not only in Europe, but in Korea, Japan, and the
+      Philippines, which are already taking emergency measures. Trump clearly intends
+      to deliberately create a world economic crisis lasting at least four years — as
+      World War I and World War II did. He thinks this will put America in the driver’s
+      seat: America is self-sufficient in gas and oil. Other countries will have to
+      buy from us. And if they do, we’ll require them to impose sanctions against Russia,
+      Iran, and anyone else we’ve designated as an enemy. Meanwhile, the ten-year US
+      Treasury bond rate has gone over 4.5%, and the 30-year rate is over 5%. Wall Street
+      has figured that if oil export prices double, that’s inflationary. But all of
+      this is junk economics. Of course oil prices are going up — so much so that Asia
+      and the Global South will look like Germany after the US stopped it from buying
+      Russian gas. Germany’s glass industry shut down. The fertilizer industry shut
+      down. The automobile industry is cutting back — Mercedes and others are moving
+      to China. Trump’s tariffs on steel and aluminum are raising the price of agricultural
+      combines and tractors. Farmers in the US face the same problem as farmers everywhere:
+      higher fertilizer costs, higher harvesting equipment costs, higher gasoline costs.
+      What Wall Street doesn’t take into account: Yes, energy and energy-related prices
+      are going up. But this will shut down industries and cause a huge depression.
+      Layoffs. Governments will have to divert revenues to help families afford electricity
+      and gas — which means cuts to social spending. Unemployment. People getting poorer
+      and poorer. That’s not inflation. That’s deflation. Prices will rise for oil,
+      steel, aluminum, fertilizer, gas, and helium, while other prices in general fall.
+      We’re facing the biggest collapse since the Great Depression. That is the deliberate
+      aim of US foreign policy. They’ve gamed it out. They think that no matter how
+      much this hurts the American economy, it will hurt labor by lowering its wages,
+      by causing unemployment and making people desperate. It’s a godsend for the class
+      war. When companies have to cut production, how will they pay their debts? Workers
+      — euphemized as “consumers” — are already paying over 30% interest on credit card
+      fees and penalties. Student debt defaults are rising. Medical debt is the fastest-growing
+      cause of bankruptcy in the United States. Mortgage rates have gone way up. This
+      is a new form of class warfare. It’s not employers against labor, because industry
+      and labor are suffering together trying to survive. It’s the financial class against
+      the rest of the economy. Finance, insurance, and real estate — the FIRE sector
+      — is where almost all US GDP growth has occurred, while the real economy has shrunk.
+      Thisactually is a replay of debates from the mid-eighteenth century: How was Britain
+      going to deal with the fact that creditors spend their money on luxury imports
+      rather than domestic production? London was getting rich, not the rest of England.
+      NIKA Michael, I want to include Steve. What do you think about Michael’s description?
+      STEVE KEEN If there’s one person I agree with, it’s Michael. When you first asked
+      me about this, I said: inflation initially, then deflation. Michael has given
+      the historical context. Let me share some statistical elements. The absolute foundation
+      of the economy is energy. What I’m showing is energy use in petajoules on the
+      left axis, and gross world product on the right. The two lines match almost perfectly.
+      And crucially: it’s one-for-one. A 5% fall in energy produces a 5% fall in gross
+      world product. What’s happening now: roughly 20% of the world’s liquefied natural
+      gas has been cut off. Together with the loss of oil from the Strait of Hormuz
+      and other supply disruptions, we could be looking at something of the order of
+      a 10% fall in global energy — which implies a 10% fall in GDP. My shorthand: labour
+      without energy is a corpse; capital without energy is a sculpture. Now, that collapse
+      is going to raise oil prices — conventional thinking agrees on that. But we’re
+      also in a financialized economy. And this is where Michael and I differ from mainstream
+      economists, because they completely ignore private debt. They obsess about government
+      debt. They don’t even look at private debt. In America right now, private debt
+      is around 140% of GDP — still enormous. That’s the burden Michael was talking
+      about, on households and corporations. If they find they can’t make as much profit
+      because of higher oil prices, if unemployment rises — they won’t be able to service
+      that debt. And what you’ll likely see is the same as 2007-08, only on steroids:
+      a complete collapse in credit-driven demand. Workers can’t pass on oil price increases
+      into higher wages. Industrial capitalists can’t necessarily pass them on either.
+      So what happens? People cut their prices, hoping to keep customers. But their
+      neighbour is doing the same thing. Everybody is trying to pay down debt — which
+      destroys money, slows the economy, and causes deflation. Irving Fisher said it
+      beautifully in the 1930s — what I call Fisher’s paradox: the more debtors pay,
+      the more they owe. The real burden rises as the price level falls. That’s what
+      leads to Great Depressions. And here’s the horrific part: if fertilizer supply
+      falls by 20%, food production probably falls by more than 20% globally. That means
+      enough food for about 6 billion people — and there are 8 billion. We may be looking
+      at a global famine this year. Just as the anarchist who pulled the trigger that
+      killed the archduke had no idea what he’d set off — I think Trump is the same.
+      He has no idea of the consequences. He’s behaving like a mafia boss, squeezing
+      money from ups and downs in the market. But the rest of us will live with the
+      unintended consequences. And if any world leaders are watching this — which I
+      doubt — get rid of Trump. Stop this. America has to concede defeat and step back,
+      to give us a chance to rebuild the world’s physical infrastructure before global
+      famine sets in. MICHAEL HUDSON I want to pick up on Nika’s question about hyperinflation,
+      since deflation and hyperinflation may go together. When countries cannot pay
+      their foreign debts — and the Global South has enormous foreign debts falling
+      due, all in dollars — what do they do? The IMF says: impose austerity. Make labour
+      poorer and poorer until you can pay the debts. That’s today’s junk economics,
+      and it goes back to David Ricardo’s bullionism. Every hyperinflation in history
+      has been caused by the need to pay foreign debt. Germany’s hyperinflation in the
+      1920s wasn’t caused by government spending on labour or social programs — that’s
+      the myth. It was caused by printing Reichsmarks to throw onto the foreign exchange
+      market to pay reparations. Chile and France had the same hyperinflation pattern.
+      And this reality is not taught in academic economics. So the graduates who join
+      central banks around the world don’t understand the difference between hyperinflation,
+      regular price inflation, and deflation. Steve and I are essentially persona non
+      grata in polite circles, because what we’re spelling out threatens a very large
+      power grab being put in place much like the Asian balancne-of-payments crisis
+      of 1997-1998. NIKA It’s interesting, Michael — I just realized Russia also owed
+      a lot, because Yeltsin agreed to pay all the Soviet Union’s foreign debts. And
+      oil was maybe $10 a barrel at the time. I never thought hyperinflation and deflation
+      could happen simultaneously. But maybe that’s exactly what was going on in Russia
+      in the nineties. STEVE KEEN Yes — Russia didn’t have much domestic debt, but had
+      enormous foreign debt. And there are arguments — which I haven’t fully researched
+      — that the Weimar hyperinflation was partly deliberate: it wiped out the debt
+      that American speculators had bought in German bonds. So it had a horrific cost,
+      but a beneficial side effect: Germany’s foreign debt was eliminated. And one thing
+      Michael and I keep having to correct: people say the Weimar inflation caused Hitler.
+      No. Hitler was in jail during the Weimar inflation. He came to power ten years
+      later. What brought him to power was deflation — the cascading collapse of 1932-33,
+      when prices were falling 10% a year. That’s what leads to social breakdown. We
+      are going to see a catastrophic year. Even setting aside the debt dynamics, losing
+      10% of global energy alone implies a 10% fall in GDP. And people are going to
+      starve, because you aren’t eating vegetables — you’re eating oil. The Haber-Bosch
+      process, invented in World War I, uses petroleum to create nitrogen fertilizers.
+      Without it, the planet’s carrying capacity is about 1-2 billion people. We currently
+      have 8 billion. If we lose 20% of global fertilizer production, we lose food for
+      20% of the planet. We have never seen a global famine before. We’ve seen localized
+      famines. This would be something else entirely. MICHAEL HUDSON To clarify the
+      chronology Steve mentioned: the financial economy collapsed in 1929. The world
+      moved into depression by 1931. In 1931, the world finally declared a moratorium
+      on Europe’s allied debts to the United States and on German reparations. That
+      moratorium — the recognition that the debts couldn’t be paid — came before Hitler
+      came to power. The deflation that followed was what created the political conditions
+      for his rise. STEVE KEEN And this connects to what neoclassical economics gets
+      fundamentally wrong. They model the economy as a single good, produced by combining
+      labour and capital — with no natural resources, no energy input at all. They’re
+      not even aware that you cannot produce output without energy. They don’t know
+      that helium can’t be stored — it evaporates through any container in a month or
+      two. So as soon as that supply is cut, those industries break down. Forty or fifty
+      years ago, even the economists we criticized for their equilibrium fetish at least
+      had input-output matrices. They understood: to produce this, you need these inputs.
+      The morons who took over since — with their Dynamic Stochastic General Equilibrium
+      models — have a single-good, no-natural-resources model of reality. They don’t
+      know that going to war over the Strait of Hormuz cuts off a third of the world’s
+      fertilizer supply. They’re finding out the hard way. This is why I think it’s
+      idiocy rather than conspiracy. The people making these decisions don’t realize
+      you need physical inputs from the natural world to produce goods and services.
+      MICHAEL HUDSON Any economic theory has a political implication. Equilibrium theory
+      serves those who want government to play no role: let the financial sector regulate
+      markets, let wages fall to whatever equilibrium the one percent demands. The reason
+      Steve and I support debt cancellation isn’t abstract — it’s because canceling
+      the debts cancels the savings of the creditor class. It ends the financial class’s
+      stranglehold on the economy. China has done what the West failed to do. It treats
+      money and credit as a public utility. Almost 80% of credit in the US and Britain
+      is created to buy real estate — inflating asset prices, inflating debt, enriching
+      mainly the financial class. China’s People’s Bank creates money to finance infrastructure,
+      industrial investment, high technology. It doesn’t have a financial class. That
+      class fled to Taiwan or the West after Mao’s revolution. The historical precedent
+      goes back three thousand years. From Sumer, Babylonia, the ancient Near East —
+      the Bronze Age to the first millennium — when debts couldn’t be paid, they were
+      canceled. The laws of Hammurabi ruled that if there’s a flood or drought and crops
+      fail, agricultural debts are canceled. Because the alternative would have been
+      that the debts accumulate to a creditor class that becomes an oligarchy foreclosing
+      on the land and reducing the population to debt bondage. That’s what happened
+      to Rome. And that same dynamic is what the world is entering now. That’s what
+      my book T he Collapse of Antiquity is about. China has managed to avoid letting
+      a financial class take over. STEVE KEEN And one reason is that China learned from
+      Marx, not from neoclassical junk. Marx, in Volume III of Capital , chapter 33,
+      described the financial class as “roving cavaliers of credit” who pay high interest
+      out of other people’s pockets while living in grand style on anticipated profits.
+      He described the credit system as giving this class of parasites “the fabulous
+      power not only periodically to spoil industrial capitalists, but also to interfere
+      in actual production in a most dangerous manner — and this gang knows nothing
+      about production and has nothing to do with it.” That awareness has seeped into
+      the bones of the Chinese Communist Party. Because the neoclassical theory completely
+      ignores finance, the West has let the financial system take over the economy.
+      That’s why Western economies are in the state they’re in. MICHAEL HUDSON And Marx
+      was anticipated by Ricardo, who showed that if landlords take all the rent, there
+      will be no profits left for industrialists — because they have to pay workers
+      enough to buy food whose price is inflated by rent. Marx extended this concept
+      from land rent to monopoly rent to financial rent. That was the analytic and fiscal
+      project of classical economics: to identify and eliminate unearned income. Adam
+      Smith and John Stuart Mill have been called socialists for wanting to prevent
+      a financial oligarchy. Then at the end of the nineteenth century came the counter-revolution.
+      Neoclassical economics denied the very concept of economic rent — because rent,
+      in the classical sense, is income without playing a productive role. Neoliberalism
+      was built on this denial that rentier income was unproductive. And so today we
+      have economists who don’t even include debt in their models — because, they say,
+      “one person’s debt is another person’s asset.” What they don’t say is: the debts
+      of the 90% are the assets of the 10%. And that 10% of credit grows exponentially,
+      regardless of the economy’s ability to produce anything or pay anything back.
+      That’s the blind spot of academic economics. And yet China still sends students
+      to the United States to study economics. Michael taught at Peking University for
+      two years. His students told him: the government and companies prioritize hiring
+      economists trained in the United States over those trained in China. That’s the
+      contradiction China still hasn’t fully resolved. NIKA But how is China different?
+      They were stockpiling everything — oil, grain. They have electric vehicles. They’re
+      in a very different position. Michael, how do you think China will benefit from
+      this crisis? Might they simply take over? STEVE KEEN China apparently has one
+      and a half years of grain in reserve. So even if there is a global famine — and
+      I think there will be — China can still feed its people. They’ve also put more
+      energy than any other country into transitioning away from fossil fuels: solar,
+      nuclear, wind. And there’s a deep cultural reason for all this preparation: every
+      Chinese schoolchild learns about the Opium Wars. They know that Britain, unable
+      to produce anything China wanted, forced China to import opium to balance trade
+      — and that this humiliation defined the nineteenth century. Chinese children learn
+      that. American children don’t even know what the Opium Wars were. So China’s drive
+      for self-sufficiency isn’t just policy — it’s a multigenerational response to
+      colonial exploitation. Because they’ve made that preparation, they may avoid much
+      of what’s coming for the rest of the world. NIKA Can you explain — in words that
+      I can actually understand — how deflation and inflation can happen at the same
+      time? I think many people find this genuinely confusing. Especially when one part
+      of the world, China, looks like it will do much better than everyone else. Suddenly
+      we don’t have a connected world anymore. We have this split. And in our part,
+      we’ll have this strange beast — deflation and inflation together. STEVE KEEN The
+      basic point is this: mainstream economics doesn’t understand the economy’s dependence
+      on energy. Destroying energy supply, fertilizer, and critical production inputs
+      will cause a plunge in global physical output — that alone. And they don’t understand
+      private debt. They obsess about government debt. By ignoring private debt, they
+      can’t see the deflationary follow-through — when so many people and corporations
+      are unable to service their debts, that destroys money, shrinks the economy, and
+      pushes prices down. I have to run — third podcast of the day. Great to see you,
+      Michael. MICHAEL HUDSON Steve has said it exactly. Deflation and inflation at
+      the same time. What’s being inflated is energy prices. What’s being deflated is
+      the rest of the economy — which needs that energy, and can no longer afford to
+      operate. NIKA Looks like a scary year ahead. Thank you both for coming. We had
+      about 250 people watching live on Twitter — that’s good. Thank you so much, Michael.
+      Can we continue talking after this? MICHAEL HUDSON Yes, yes. We just ran out of
+      time. Photo by Bobby on Unsplash The post Inflation First, Deflation Next first
+      appeared on Michael Hudson . The post Inflation First, Deflation Next first appeared
+      on Michael Hudson .'
+    one_sentence_summary: Michael Hudson and Steve Keen discuss the potential unfolding
+      of a global crisis, drawing parallels to historical conflicts and exploring scenarios
+      of inflation, hyperinflation, or deflation amidst ongoing geopolitical tensions.
+    paragraph_summary: In a discussion hosted by the David Graeber Institute, economists
+      Michael Hudson and Steve Keen analyze the potential unfolding of a global crisis,
+      particularly in the context of the ongoing war in Iran, which they compare to
+      the Soviet invasion of Afghanistan. Hudson highlights the critical dependence
+      of the world on oil and liquefied natural gas, noting that recent bombings of
+      Qatari facilities by Iran could lead to a significant escalation in energy prices,
+      potentially doubling oil costs. This scenario threatens to trigger a balance of
+      payments crisis for America's allies, particularly in Europe and Asia, and raises
+      questions about whether the resulting economic turmoil will manifest as inflation,
+      hyperinflation, or deflation. The discussion emphasizes the interconnectedness
+      of global economies and the dire implications of escalating conflict in the Middle
+      East.
+    published: '2026-03-29T23:54:53+00:00'
+  - title: Inflation First, Deflation Next
+    url: https://michael-hudson.com/2026/03/inflation-first-deflation-next/
+    text: 'March 27 2026 HOW THE GLOBAL CRISIS WILL UNFOLD Michael Hudson & Steve Keen
+      David Graeber Institute NIKA Hello, everyone. We are very happy to invite back
+      Michael Hudson and Professor Steve Keen to the David Graeber Institute. Steve
+      Keen is an economist and author, one of the few who warned about the 2008 crisis
+      in advance. He is known for his critique of mainstream neoclassical theory and
+      his models of debt deflation and financial instability. Michael Hudson is an American
+      economist and historian of debt at the University of Missouri, Kansas City. His
+      work on finance, rent, and deindustrialization deeply influenced David Graeber’s
+      own thinking on empire, tribute, and the politics of debt. Today we will explore
+      the deepening crisis and possible scenarios of how it might unfold, specifically
+      in the context of the ongoing war, which increasingly resembles the Soviet invasion
+      of Afghanistan — to me personally. My question to Michael and Steve is: inflation,
+      hyperinflation, or deflation? Which scenario do they think will happen? We start
+      with Michael Hudson. MICHAEL HUDSON If you look at the stock and bond markets
+      today, the world is expecting that the war in Iran is not going to last more than
+      a month or so. It’s a world war because the entire world is dependent on oil and
+      liquefied natural gas — for fertilizer, energy, electricity, heating, cooking,
+      glassmaking, and helium. Helium and natural gas were provided to much of the world
+      by Qatar, as part of the Arab OPEC countries. But their billion-dollar installations
+      to liquefy natural gas — which took four years to build — have just been bombed
+      by Iran, because Qatar is hosting US military bases used to bomb Iran. Iran has
+      said: if you try to destroy our oil industry, we will make sure the entire world
+      oil, gas, helium, and energy industry shuts down and causes a Great Depression
+      — as a result of oil prices doubling. That will trigger a balance of payments
+      crisis for America’s allies, not only in Europe, but in Korea, Japan, and the
+      Philippines, which are already taking emergency measures. Trump clearly intends
+      to deliberately create a world economic crisis lasting at least four years — as
+      World War I and World War II did. He thinks this will put America in the driver’s
+      seat: America is self-sufficient in gas and oil. Other countries will have to
+      buy from us. And if they do, we’ll require them to impose sanctions against Russia,
+      Iran, and anyone else we’ve designated as an enemy. Meanwhile, the ten-year US
+      Treasury bond rate has gone over 4.5%, and the 30-year rate is over 5%. Wall Street
+      has figured that if oil export prices double, that’s inflationary. But all of
+      this is junk economics. Of course oil prices are going up — so much so that Asia
+      and the Global South will look like Germany after the US stopped it from buying
+      Russian gas. Germany’s glass industry shut down. The fertilizer industry shut
+      down. The automobile industry is cutting back — Mercedes and others are moving
+      to China. Trump’s tariffs on steel and aluminum are raising the price of agricultural
+      combines and tractors. Farmers in the US face the same problem as farmers everywhere:
+      higher fertilizer costs, higher harvesting equipment costs, higher gasoline costs.
+      What Wall Street doesn’t take into account: Yes, energy and energy-related prices
+      are going up. But this will shut down industries and cause a huge depression.
+      Layoffs. Governments will have to divert revenues to help families afford electricity
+      and gas — which means cuts to social spending. Unemployment. People getting poorer
+      and poorer. That’s not inflation. That’s deflation. Prices will rise for oil,
+      steel, aluminum, fertilizer, gas, and helium, while other prices in general fall.
+      We’re facing the biggest collapse since the Great Depression. That is the deliberate
+      aim of US foreign policy. They’ve gamed it out. They think that no matter how
+      much this hurts the American economy, it will hurt labor by lowering its wages,
+      by causing unemployment and making people desperate. It’s a godsend for the class
+      war. When companies have to cut production, how will they pay their debts? Workers
+      — euphemized as “consumers” — are already paying over 30% interest on credit card
+      fees and penalties. Student debt defaults are rising. Medical debt is the fastest-growing
+      cause of bankruptcy in the United States. Mortgage rates have gone way up. This
+      is a new form of class warfare. It’s not employers against labor, because industry
+      and labor are suffering together trying to survive. It’s the financial class against
+      the rest of the economy. Finance, insurance, and real estate — the FIRE sector
+      — is where almost all US GDP growth has occurred, while the real economy has shrunk.
+      Thisactually is a replay of debates from the mid-eighteenth century: How was Britain
+      going to deal with the fact that creditors spend their money on luxury imports
+      rather than domestic production? London was getting rich, not the rest of England.
+      NIKA Michael, I want to include Steve. What do you think about Michael’s description?
+      STEVE KEEN If there’s one person I agree with, it’s Michael. When you first asked
+      me about this, I said: inflation initially, then deflation. Michael has given
+      the historical context. Let me share some statistical elements. The absolute foundation
+      of the economy is energy. What I’m showing is energy use in petajoules on the
+      left axis, and gross world product on the right. The two lines match almost perfectly.
+      And crucially: it’s one-for-one. A 5% fall in energy produces a 5% fall in gross
+      world product. What’s happening now: roughly 20% of the world’s liquefied natural
+      gas has been cut off. Together with the loss of oil from the Strait of Hormuz
+      and other supply disruptions, we could be looking at something of the order of
+      a 10% fall in global energy — which implies a 10% fall in GDP. My shorthand: labour
+      without energy is a corpse; capital without energy is a sculpture. Now, that collapse
+      is going to raise oil prices — conventional thinking agrees on that. But we’re
+      also in a financialized economy. And this is where Michael and I differ from mainstream
+      economists, because they completely ignore private debt. They obsess about government
+      debt. They don’t even look at private debt. In America right now, private debt
+      is around 140% of GDP — still enormous. That’s the burden Michael was talking
+      about, on households and corporations. If they find they can’t make as much profit
+      because of higher oil prices, if unemployment rises — they won’t be able to service
+      that debt. And what you’ll likely see is the same as 2007-08, only on steroids:
+      a complete collapse in credit-driven demand. Workers can’t pass on oil price increases
+      into higher wages. Industrial capitalists can’t necessarily pass them on either.
+      So what happens? People cut their prices, hoping to keep customers. But their
+      neighbour is doing the same thing. Everybody is trying to pay down debt — which
+      destroys money, slows the economy, and causes deflation. Irving Fisher said it
+      beautifully in the 1930s — what I call Fisher’s paradox: the more debtors pay,
+      the more they owe. The real burden rises as the price level falls. That’s what
+      leads to Great Depressions. And here’s the horrific part: if fertilizer supply
+      falls by 20%, food production probably falls by more than 20% globally. That means
+      enough food for about 6 billion people — and there are 8 billion. We may be looking
+      at a global famine this year. Just as the anarchist who pulled the trigger that
+      killed the archduke had no idea what he’d set off — I think Trump is the same.
+      He has no idea of the consequences. He’s behaving like a mafia boss, squeezing
+      money from ups and downs in the market. But the rest of us will live with the
+      unintended consequences. And if any world leaders are watching this — which I
+      doubt — get rid of Trump. Stop this. America has to concede defeat and step back,
+      to give us a chance to rebuild the world’s physical infrastructure before global
+      famine sets in. MICHAEL HUDSON I want to pick up on Nika’s question about hyperinflation,
+      since deflation and hyperinflation may go together. When countries cannot pay
+      their foreign debts — and the Global South has enormous foreign debts falling
+      due, all in dollars — what do they do? The IMF says: impose austerity. Make labour
+      poorer and poorer until you can pay the debts. That’s today’s junk economics,
+      and it goes back to David Ricardo’s bullionism. Every hyperinflation in history
+      has been caused by the need to pay foreign debt. Germany’s hyperinflation in the
+      1920s wasn’t caused by government spending on labour or social programs — that’s
+      the myth. It was caused by printing Reichsmarks to throw onto the foreign exchange
+      market to pay reparations. Chile and France had the same hyperinflation pattern.
+      And this reality is not taught in academic economics. So the graduates who join
+      central banks around the world don’t understand the difference between hyperinflation,
+      regular price inflation, and deflation. Steve and I are essentially persona non
+      grata in polite circles, because what we’re spelling out threatens a very large
+      power grab being put in place much like the Asian balancne-of-payments crisis
+      of 1997-1998. NIKA It’s interesting, Michael — I just realized Russia also owed
+      a lot, because Yeltsin agreed to pay all the Soviet Union’s foreign debts. And
+      oil was maybe $10 a barrel at the time. I never thought hyperinflation and deflation
+      could happen simultaneously. But maybe that’s exactly what was going on in Russia
+      in the nineties. STEVE KEEN Yes — Russia didn’t have much domestic debt, but had
+      enormous foreign debt. And there are arguments — which I haven’t fully researched
+      — that the Weimar hyperinflation was partly deliberate: it wiped out the debt
+      that American speculators had bought in German bonds. So it had a horrific cost,
+      but a beneficial side effect: Germany’s foreign debt was eliminated. And one thing
+      Michael and I keep having to correct: people say the Weimar inflation caused Hitler.
+      No. Hitler was in jail during the Weimar inflation. He came to power ten years
+      later. What brought him to power was deflation — the cascading collapse of 1932-33,
+      when prices were falling 10% a year. That’s what leads to social breakdown. We
+      are going to see a catastrophic year. Even setting aside the debt dynamics, losing
+      10% of global energy alone implies a 10% fall in GDP. And people are going to
+      starve, because you aren’t eating vegetables — you’re eating oil. The Haber-Bosch
+      process, invented in World War I, uses petroleum to create nitrogen fertilizers.
+      Without it, the planet’s carrying capacity is about 1-2 billion people. We currently
+      have 8 billion. If we lose 20% of global fertilizer production, we lose food for
+      20% of the planet. We have never seen a global famine before. We’ve seen localized
+      famines. This would be something else entirely. MICHAEL HUDSON To clarify the
+      chronology Steve mentioned: the financial economy collapsed in 1929. The world
+      moved into depression by 1931. In 1931, the world finally declared a moratorium
+      on Europe’s allied debts to the United States and on German reparations. That
+      moratorium — the recognition that the debts couldn’t be paid — came before Hitler
+      came to power. The deflation that followed was what created the political conditions
+      for his rise. STEVE KEEN And this connects to what neoclassical economics gets
+      fundamentally wrong. They model the economy as a single good, produced by combining
+      labour and capital — with no natural resources, no energy input at all. They’re
+      not even aware that you cannot produce output without energy. They don’t know
+      that helium can’t be stored — it evaporates through any container in a month or
+      two. So as soon as that supply is cut, those industries break down. Forty or fifty
+      years ago, even the economists we criticized for their equilibrium fetish at least
+      had input-output matrices. They understood: to produce this, you need these inputs.
+      The morons who took over since — with their Dynamic Stochastic General Equilibrium
+      models — have a single-good, no-natural-resources model of reality. They don’t
+      know that going to war over the Strait of Hormuz cuts off a third of the world’s
+      fertilizer supply. They’re finding out the hard way. This is why I think it’s
+      idiocy rather than conspiracy. The people making these decisions don’t realize
+      you need physical inputs from the natural world to produce goods and services.
+      MICHAEL HUDSON Any economic theory has a political implication. Equilibrium theory
+      serves those who want government to play no role: let the financial sector regulate
+      markets, let wages fall to whatever equilibrium the one percent demands. The reason
+      Steve and I support debt cancellation isn’t abstract — it’s because canceling
+      the debts cancels the savings of the creditor class. It ends the financial class’s
+      stranglehold on the economy. China has done what the West failed to do. It treats
+      money and credit as a public utility. Almost 80% of credit in the US and Britain
+      is created to buy real estate — inflating asset prices, inflating debt, enriching
+      mainly the financial class. China’s People’s Bank creates money to finance infrastructure,
+      industrial investment, high technology. It doesn’t have a financial class. That
+      class fled to Taiwan or the West after Mao’s revolution. The historical precedent
+      goes back three thousand years. From Sumer, Babylonia, the ancient Near East —
+      the Bronze Age to the first millennium — when debts couldn’t be paid, they were
+      canceled. The laws of Hammurabi ruled that if there’s a flood or drought and crops
+      fail, agricultural debts are canceled. Because the alternative would have been
+      that the debts accumulate to a creditor class that becomes an oligarchy foreclosing
+      on the land and reducing the population to debt bondage. That’s what happened
+      to Rome. And that same dynamic is what the world is entering now. That’s what
+      my book T he Collapse of Antiquity is about. China has managed to avoid letting
+      a financial class take over. STEVE KEEN And one reason is that China learned from
+      Marx, not from neoclassical junk. Marx, in Volume III of Capital , chapter 33,
+      described the financial class as “roving cavaliers of credit” who pay high interest
+      out of other people’s pockets while living in grand style on anticipated profits.
+      He described the credit system as giving this class of parasites “the fabulous
+      power not only periodically to spoil industrial capitalists, but also to interfere
+      in actual production in a most dangerous manner — and this gang knows nothing
+      about production and has nothing to do with it.” That awareness has seeped into
+      the bones of the Chinese Communist Party. Because the neoclassical theory completely
+      ignores finance, the West has let the financial system take over the economy.
+      That’s why Western economies are in the state they’re in. MICHAEL HUDSON And Marx
+      was anticipated by Ricardo, who showed that if landlords take all the rent, there
+      will be no profits left for industrialists — because they have to pay workers
+      enough to buy food whose price is inflated by rent. Marx extended this concept
+      from land rent to monopoly rent to financial rent. That was the analytic and fiscal
+      project of classical economics: to identify and eliminate unearned income. Adam
+      Smith and John Stuart Mill have been called socialists for wanting to prevent
+      a financial oligarchy. Then at the end of the nineteenth century came the counter-revolution.
+      Neoclassical economics denied the very concept of economic rent — because rent,
+      in the classical sense, is income without playing a productive role. Neoliberalism
+      was built on this denial that rentier income was unproductive. And so today we
+      have economists who don’t even include debt in their models — because, they say,
+      “one person’s debt is another person’s asset.” What they don’t say is: the debts
+      of the 90% are the assets of the 10%. And that 10% of credit grows exponentially,
+      regardless of the economy’s ability to produce anything or pay anything back.
+      That’s the blind spot of academic economics. And yet China still sends students
+      to the United States to study economics. Michael taught at Peking University for
+      two years. His students told him: the government and companies prioritize hiring
+      economists trained in the United States over those trained in China. That’s the
+      contradiction China still hasn’t fully resolved. NIKA But how is China different?
+      They were stockpiling everything — oil, grain. They have electric vehicles. They’re
+      in a very different position. Michael, how do you think China will benefit from
+      this crisis? Might they simply take over? STEVE KEEN China apparently has one
+      and a half years of grain in reserve. So even if there is a global famine — and
+      I think there will be — China can still feed its people. They’ve also put more
+      energy than any other country into transitioning away from fossil fuels: solar,
+      nuclear, wind. And there’s a deep cultural reason for all this preparation: every
+      Chinese schoolchild learns about the Opium Wars. They know that Britain, unable
+      to produce anything China wanted, forced China to import opium to balance trade
+      — and that this humiliation defined the nineteenth century. Chinese children learn
+      that. American children don’t even know what the Opium Wars were. So China’s drive
+      for self-sufficiency isn’t just policy — it’s a multigenerational response to
+      colonial exploitation. Because they’ve made that preparation, they may avoid much
+      of what’s coming for the rest of the world. NIKA Can you explain — in words that
+      I can actually understand — how deflation and inflation can happen at the same
+      time? I think many people find this genuinely confusing. Especially when one part
+      of the world, China, looks like it will do much better than everyone else. Suddenly
+      we don’t have a connected world anymore. We have this split. And in our part,
+      we’ll have this strange beast — deflation and inflation together. STEVE KEEN The
+      basic point is this: mainstream economics doesn’t understand the economy’s dependence
+      on energy. Destroying energy supply, fertilizer, and critical production inputs
+      will cause a plunge in global physical output — that alone. And they don’t understand
+      private debt. They obsess about government debt. By ignoring private debt, they
+      can’t see the deflationary follow-through — when so many people and corporations
+      are unable to service their debts, that destroys money, shrinks the economy, and
+      pushes prices down. I have to run — third podcast of the day. Great to see you,
+      Michael. MICHAEL HUDSON Steve has said it exactly. Deflation and inflation at
+      the same time. What’s being inflated is energy prices. What’s being deflated is
+      the rest of the economy — which needs that energy, and can no longer afford to
+      operate. NIKA Looks like a scary year ahead. Thank you both for coming. We had
+      about 250 people watching live on Twitter — that’s good. Thank you so much, Michael.
+      Can we continue talking after this? MICHAEL HUDSON Yes, yes. We just ran out of
+      time. Photo by Bobby on Unsplash The post Inflation First, Deflation Next first
+      appeared on Michael Hudson . The post Inflation First, Deflation Next first appeared
+      on Michael Hudson .'
+    one_sentence_summary: Michael Hudson and Steve Keen discuss the potential unfolding
+      of a global crisis, drawing parallels to historical conflicts and exploring scenarios
+      of inflation, hyperinflation, or deflation amidst ongoing geopolitical tensions.
+    paragraph_summary: In a discussion hosted by the David Graeber Institute, economists
+      Michael Hudson and Steve Keen analyze the potential unfolding of a global crisis,
+      particularly in the context of the ongoing war in Iran, which they compare to
+      the Soviet invasion of Afghanistan. Hudson highlights the critical dependence
+      of the world on oil and liquefied natural gas, noting that recent bombings of
+      Qatari facilities by Iran could lead to a significant escalation in energy prices,
+      potentially doubling oil costs. This scenario threatens to trigger a balance of
+      payments crisis for America's allies, particularly in Europe and Asia, and raises
+      questions about whether the resulting economic turmoil will manifest as inflation,
+      hyperinflation, or deflation. The discussion emphasizes the interconnectedness
+      of global economies and the dire implications of escalating conflict in the Middle
+      East.
+    published: '2026-03-29T23:54:53+00:00'
+  - title: Multipolar Oil Markets Are Now a Reality
+    url: https://michael-hudson.com/2026/03/multipolar-oil-markets-are-now-a-reality/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, March 19, 2026, and our
+      dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back.
+      RICHARD WOLFF: Thank you. Glad to be back. NIMA ALKHORSHID: Let me start here
+      with one of the articles on The Economist. Here is what it says. They call the
+      operation of Donald Trump, Operation Blind Fury. And it says that war in Iran
+      is making Donald Trump weaker and angrier. What is happening right now is somehow
+      amazing that the new escalation is the attack on the Iranian oil facilities, which
+      brought a massive reaction on the whole region. You know, from Qatar to Saudi
+      Arabia, UAE, Kuwait, and even Haifa was hit by Iranian missiles. As we know so
+      far, Reuters reported that Qatar has lost 17% of its production capacity of LNG.
+      And that could be a huge issue for the market. But at the same time, we have the
+      issue of the Strategy Formula. And before, you know, Michael, coming to your understanding
+      of what is going on right now, here is what Scott Bessent said about unsanctioned,
+      because the difficulties coming out of this trade-off for most is just putting
+      a lot of pressure on the global economy. Here is what Scott Bessent said. SCOTT
+      BESSENT (CLIP): Break the glass plan across the administration and a treasury.
+      We unsanctioned Russian oil. We knew that there were about 130 million barrels
+      on the water, and we created supply that is beyond the Straits of Hormuz. So we
+      anticipated this. We knew that there could be a temporary, and I want to emphasize
+      temporary choke point there. And there was 130 million barrels of floating storage.
+      In the coming days, we may unsanction the Iranian oil that’s on the water. It’s
+      about 140 million barrels. So depending on how you count it, that’s 10 days to
+      two weeks of supply that the Iranians had been pushing out. That would have all
+      gone to China. In essence, we will be using the Iranian barrels against the Iranians
+      to keep the price down for the next 10 or 14 days as we continue this campaign.
+      NIMA ALKHORSHID: Yeah. RICHARD WOLFF: Michael, before you even turn it to Mike,
+      everybody should appreciate what that man just said. He just said up is down,
+      down is up, up will make up, go down, and then we’ll have down and it’ll go up,
+      and we’ll use against the Iranians the fact that we’re allowing them to sell their
+      oil to China, which, by the way, they were doing perfectly well anyway. You know,
+      when you have to resort to that level of noise and incoherent make-believe, you’re
+      pretty close to the end because you’ve got very little to lose. The credibility
+      is gone, so you’re not stretching credulity. It’s already out misshapen beyond
+      words, anyway. Anyway, I didn’t mean to interrupt. It’s just, you really have
+      to take a step back. Mr. Scott Bessent is the best Mr. Trump could do, and that
+      tells you, of course, a lot about Mr. Trump. NIMA ALKHORSHID: Yeah. Michael, go
+      ahead. MICHAEL HUDSON: Well, the irony is that this permission trade in Russian
+      and Iranian oil has actually reversed the whole aim of what Trump had tried to
+      do. In seizing Iran’s oil, the effect was to achieve the opposite of three basic
+      U.S. aims. And I had the day, since we’re running later, to put what I’m saying
+      in order. So I want to just say the three ways in which Trump’s attack has just
+      reversed the whole strategy of American foreign policy. First, by closing the
+      Strait of Hormuz, Iran has imposed the military equivalent of sanctions on OPEC
+      oil, forcing resort to Russian oil and Iranian oil, and ultimately in the future
+      of oil from the very countries that the United States was trying to prevent selling.
+      So this has reversed the U.S. sanctions against Russian supplies of oil. And Trump
+      has said that the suspension of sanctions is only going to be for one month or
+      so, as I think Bessent implied, and everything’s then going to be back to normal
+      and he’s not going to let any further purchases of Russian oil occur. Well, we
+      now know that that’s silly. We now know that the interruption of oil is going
+      to, I think, last at least for the rest of the year and probably into 2027. Now,
+      the second thing I want to point out is the U.S. hopes for the whole last half
+      century, since 1974, has been to become the major financial recipient of OPEC’s
+      buildup of foreign exchange wealth funds and foreign reserves. And these savings
+      have been in the form of OPEC purchases of U.S. bonds and stocks and U.S. bank
+      deposits. So destroying OPEC’s export capacity now is obliging these countries
+      to start selling off their dollarized reserves to finance their own debt-burdened
+      economies and the own deficits that they’re running now that they’re not having
+      any inflow of oil exports. And the third point that is something that Richard
+      and I have been talking about for the last half year, the whole enabling myth
+      of the U.S. demands for subsidy from foreign countries, NATO as well as OPEC,
+      is payment for America’s efforts to protect these countries against the threats
+      from Russia, China, and Iran. Well, that whole idea of the U.S. as a protector
+      and deserving financial support through NATO and through OPEC’s purchases of arms,
+      U.S. arms that, obviously, we now say, don’t work, is destroyed. And Trump’s attack
+      on Venezuela and Iran and his threats to attack Greenland, even Canada, have shown
+      that, instead of protecting his allies from Russia, China, and Iran, the United
+      States itself is the greatest threat to world stability. And it’s become the world’s
+      major sponsor of terrorism in its support for Ukraine against the Russian speakers,
+      Israel against the Palestinians, and al-Qaeda in Syria generally. So, as part
+      of this Cold War system, I think the failure of U.S. arms to protect allies has
+      led them to realize that if they really need military protection against this
+      ridiculous threat that Russia, China, and Iran are the main danger to them and
+      seek to conquer their neighbors, well, then the U.S. arms are not going to help
+      them. Iran’s missiles and drones have easily avoided the Israeli and Arab OPEC
+      defenses and, in fact, have depleted them. And that enables Iran from here on
+      in to bomb their attackers at will. And neither the U.S. arms nor the promises
+      to defend them work. So, what is it that leads other countries not to step in
+      right now and saying we can’t afford to let the United States and Israel threaten
+      the entire world economy and plunge our economies into financial crisis and force
+      us to close down entire industries and lower our employment, causing unemployment,
+      while gas prices and the price of heating homes rise and put a squeeze on consumers
+      and force them into debt? Why are they not rising up and say, “We’ve backed the
+      wrong horse. It turns out we’ve got to protect ourselves by intervening and stopping
+      the U.S. attacks.” And indeed, Iran has made it clear: “Well, these attacks are
+      not going to stop until we settle the long-term aim. We are going to keep the
+      United States and Israel and any U.S. allies in the Arab OPEC countries out of
+      the Near East from now on. You threatened us with an existential threat that we
+      will be destroyed. Our leaders will personally be destroyed. Our oil will be seized
+      by Donald Trump, who will personally appoint a new leader who will be sort of
+      an Iranian Boris Yeltsin, who will let American oil companies come in and regain
+      control of Iranian oil.” That’s basically the plan that other countries are acquiescing
+      in if they don’t actively step up and they’re not doing that yet. So, basically,
+      Trump has said, “It’s our war, but it’s your problem.” You remember that Texas
+      Governor Connolly said that when the dollar devalued against gold and left only
+      U.S. Treasury promissory notes as world reserves, he said, “Well, if it’s our
+      dollar, it’s your problem.” Well, Trump’s saying, “It’s our war, it’s your problem.
+      Want to solve it? Do you want to provide the minesweepers to clear out the Strait
+      of Hormuz? Do you want to supply the war to the troops to fight against Iran?
+      We’re not going to. All we can do is bomb. That’s the only thing that we have
+      left. We’re not going to supply any troops.” Trump said that again today. “No
+      troops. All we can do is bomb. And we’re going to target Iran’s oil fields again
+      if and if Iran continues to fight for its survival.” Well, obviously, Iran’s going
+      to fight for its survival. And, obviously, the United States intends to keep escalating
+      until the entire Near East’s, the Middle East’s, oil export capacity is ended.
+      So all that world of relying on the U.S. as a source of stability instead of instability
+      is now over. And the U.S.-Iran war looks like, as I said, it’s going to go into
+      next year. I know I’ve gone a few minutes already, but I want to discuss just
+      one, the first point that I mentioned about the sanctions. America’s long-term
+      aim predating Trump’s presidency has been to monopolize the world’s oil trade
+      by imposing sanctions against oil producers whose policies are against those of
+      the United States, Russia, Iran, Venezuela, and anyone else who wants to exploit
+      oil in competition with the U.S. military and economic bloc. So by imposing trade
+      sanctions against Iran in 1979, when it grabbed Iran’s oil, when it overthrew
+      the military police state of the Shah, and again, when it sanctioned Russian oil
+      in 2022 and then Venezuelan oil last year, the United States had dollarized the
+      world’s oil production. And that meant this went far beyond simply pricing oil
+      in dollars. Eve Smith always reminds me that oil trade represents only 5 to 7%
+      of the demand for dollars. It’s financial capital movements that really determine
+      the world. And the role of petrodollars wasn’t simply in pricing oil in dollars
+      and raising the price. The whole idea of petrodollars was that the OPEC countries
+      were going to keep all of the earnings from their oil trade and send them to the
+      United States. And Kissinger said, “We’ve told OPEC, you can charge whatever you
+      want. We’re not going to let you buy control of any American corporation, not
+      even real estate or farms. You can buy bonds or you can buy stocks. You can finance
+      American industry, but you won’t have any control to use your ownership for any
+      of your own purposes, unlike the whole purpose of the United States when it invests.”
+      So OPEC countries account for 40% of the world’s oil trade, 20% of the total oil
+      production, but 40% of the trade. So if the Strait of Hormuz lasts more than a
+      few months, this is going to plunge all these oil-dependent countries into a depression.
+      And they’ve already announced, “We’re having to sell off our national funds.”
+      [They have] had to sell off securities, presumably U.S. bonds and bank deposits,
+      and also British holdings, in order to balance their budget because the OPEC countries
+      themselves have gone into debt to finance their whole real estate development
+      in a crazy part of the world that really can’t normally support real estate development.
+      So world oil prices, along with the international stock market and the foreign
+      exchange rates, have already announced their willingness to sort of compensate
+      for the slowdown in OPEC exports by releasing their own national reserves of oil.
+      Well, okay, that’s going to take care of a few months, but then all of the national
+      reserves that they’ve saved for just such a war emergency are going to be empty,
+      just like their arms supplies are going to be empty. And all that’s going to do
+      is postpone the crisis to a point where when they don’t have any more oil to throw
+      on the ground, when they won’t let Russia and Iran replace OPEC as the world’s
+      major oil exporters, then there is going to be a crash. So, what are other countries
+      going to do? Were they going to say, “All right, we’re going to shift away from
+      reliance on OPEC, which was a key to the U.S. financial system.” Forget the trade
+      system, the financial system, the balance of payments, all of these bond holdings
+      and stock holdings and bank deposits. All of that is going to begin to be reversed.
+      And so, this is what Trump has done is reversed this basic financial aim of U.S.
+      control of the oil trade that was supposed to be the buttress of its ability to
+      control other countries. And so, to further help prevent a serious energy crisis,
+      as we just said, Trump has said, “Well, Bessent has said you can buy Russian oil
+      trade.” A lot of this is already on ships. Well, what’s going to happen after
+      two weeks or two months when the ships have unloaded their oil? Bessent and Trump
+      are willing to say, “All right, OPEC still isn’t exporting any oil because its
+      oil facilities have been blown up. So, I guess you can continue to buy Russian
+      and Iranian oil as far as the eye can see.” Well, what a change that is from what
+      was supposed to be the whole buttress of America’s control of oil and hence its
+      energy trade and hence all of the chemical industries and the fertilizer industries
+      and everything else based on the oil trade. All of that is threatening America’s
+      closest allies, NATO, Europe, Japan, and South Korea. And yet, if you look at
+      today, the stock markets say everything seems to be just marginally a little bit
+      different. All these problems are going to be temporary. So the world is closing
+      its eyes to the problems that Richard, [myself] and all of your guests have been
+      pointing out are building up and are going to happen. It’s like there’s a cognitive
+      dissonance and unwillingness to look at how systemic the whole problem is that
+      Trump’s attack and Israel’s attack on behalf of the United States with US guidance
+      has caused for the world. NIMA ALKHORSHID: Richard, moments ago we learned that
+      Iran said that the Strait of Hormuz is open, but nobody is not, it doesn’t mean
+      that everybody can use it. China, India, Iraq, and Malaysia so far use the Strait
+      of Hormuz. They could pass through this Strait of Hormuz, but other countries,
+      that wasn’t the case for other countries. Richard, there is an article in the
+      Financial Times in which the article argues that Iran’s actions in the Strait
+      of Hormuz show the reality of multipolar economic warfare. For decades, the United
+      States dominated, you know, it says that for decades the United States dominated
+      sanctions and used financial pressures as a strategic weapon. Now, other powers
+      like China and India, they’re coming to the game, and their response is going
+      to be, you know, different. And it argues that nobody knows what would be the
+      reaction on the part of the United States. But so far, it seems that the Strait
+      of Hormuz is making that concept much more complicated. Your understanding of
+      what is happening right now in the Middle East. RICHARD WOLFF: Well, first, the
+      larger context. I understand that people see in Mr. Trump, an incoherent, herky
+      jerky, not a very good relationship with the truth, getting the results not expected.
+      But I don’t think he’s all that different from the earlier presidents. I mean,
+      the American presidents are nothing to be shaking your head about. I know we always
+      think the last one was better, but that’s only because the one we have now is
+      even worse than that one was, and we thought he was better than the one before.
+      And I noticed that it’s very popular now, particularly in Europe, to make fun
+      of the quality of leadership that comes from Starmer, Macron, Maloney, Mertz.
+      It is, I admit, I’m caught up in this. This is stunning incompetence and not thinking
+      things through. It was known what the Strait of Hormuz was like for a long time.
+      It’s not a new awareness that this is a very vulnerable area and that Iran has
+      an enormous power over it by geography. You don’t need to be a great social scientist
+      to see it. But here’s the point: when the wind is blowing in your direction, it’s
+      okay to make a mistake, or two or three, because the wind is blowing in your direction
+      and it will correct what it is you mess up. So the United States tries to overthrow
+      Castro in 1960-61. A catastrophic mistake. Couldn’t do it, failed at it, you know.
+      But you know, it didn’t fundamentally change the dominance of the United States
+      in the second half of the 20th century because the empire was rising, replacing
+      the old Europeans, reshaping the world, doing the very petrol arrangements Michael
+      explains to us just now and in earlier shows. So I want people to keep a framework
+      for understanding. The problem now is that the wind has changed. The empire isn’t
+      growing, isn’t expanding, it’s shrinking, it’s being outmaneuvered by a whole
+      new economic powerhouse built above all around the People’s Republic of China,
+      but with BRICS and their alliance, they have varied cleverly across so many differences
+      among the BRICS countries, nonetheless welded them into a kind of coalition, which
+      is helping them get through this crisis. You know, Russia can sell its oil to
+      China. India can kind of swerve around the sanctions and buy the oil it needs
+      from Russia, and on and on and on. Okay, so I want to keep that in your mind.
+      Mr. Trump is now having the problem of decline. When you make a mistake, it doesn’t
+      not matter. It gets worse. It makes your situation worse than it might have otherwise
+      been in a different circumstance. And we can already see that in six months. Six
+      months ago, Israel and America attacked Iran. Now, the consequence for the United
+      States was relatively small. Six months later, they attacked Iran again. The consequences
+      are horrific. What happened? What happened here? And yes, you can answer with
+      this specific and that, but there’s a larger shift going on that we need to control.
+      All right, having said that, I want to look at some other dimensions of what is
+      happening. Mr. Hegseth has said to us that they are asking for $200 billion in
+      additional appropriations from Congress to fight this war, which, of course, can’t
+      be a war, since you didn’t let Congress vote on whether or not to have a war.
+      Congress doesn’t get to vote on whether you have one, but now has to be able to
+      vote on whether you can fund the war they didn’t participate in. These are signs
+      this is out of control. This is such a bad piece of theater being worked out here
+      that it screams the incompetence and the confusion, but it’s much, much worse.
+      The Supreme Court invalidated the tariffs, and there are now mountains of legal
+      cases emerging where all kinds of people, including consumers who are hurt by
+      the tariff, who had to pay more money, as well as countless importing corporations,
+      they want refunds. And they’re certainly going to get something. I don’t know
+      how that’s going to be worked out, and I understand it will take time. But the
+      $150, and it’s not even that, but the $150 billion that was the only new revenue
+      coming into the United States government is now fundamentally compromised. However
+      much of it you will still get, won’t be much. Meanwhile, you have proposed a $500
+      billion, excuse me, a $600 billion increase in the defense budget before the war
+      on Iran. And so now the war on Iran adds another $200 to the $600. That means,
+      let me make sure everybody understands, the current defense budget is in the neighborhood
+      of $900 billion. You’re going to add $600 for next year’s budget plus $200 for
+      the Iran war. You’re virtually doubling your defense expenditures in one year,
+      and you’re the country that spends more on defense than most of the rest of the
+      world combined. I mean, this is so completely off the wall that people are going
+      to wonder: how are you going to do this? The only conceivable way, short of a
+      tax increase, which he cannot do for political reasons. America never fights wars
+      with tax money. It only fights its wars with borrowed money. Why? Because you
+      can’t get away with paying it with taxes, so you borrow it. Okay, but we are already
+      the world’s greatest debtor country. Our national debt is $35 trillion. And we
+      no longer have an AAA rating. Standard and Poor, Moody’s, and Fitch, the three
+      rating agencies, now all agree it isn’t AAA, it’s barely AA. So you’re going to
+      have to borrow $800 billion more, and you’re already running trillion-dollar deficits.
+      Now, when you look at this, this is simple arithmetic. And nothing I have said
+      here requires any special information or secrets or nothing. This is all public
+      information available to anyone who looks at the relevant numbers. Well, now what’s
+      going to happen? The only way the United States can borrow the money that its
+      whole foreign policy now requires is by borrowing like you’ve never seen. And
+      that’s the end of declining interest rates. You will notice that yesterday and
+      today, the Federal Reserve, which some had said would lower interest rates, because
+      our economy is heading into a recession, didn’t do it and said it can’t do it.
+      It has to see what the consequences of this war are. And Michael just suggested
+      they’re not going to see what those consequences are for quite a while, since
+      the war is going to continue. But the whole stock market understands the interest
+      rates are going up. And for the American macroeconomy, this is not good. For the
+      stock market, this is not good. And for the people who just made a lot of money
+      in the last two years betting on geopolitical turmoil by buying gold, you have
+      to remember to buy gold is to take a risk because gold doesn’t pay you anything.
+      There’s no interest rate. There’s no agency that says you get an interest. So
+      gold is an asset which depreciates when interest rates go up, because the money
+      is going to look for where it can get. So, what has happened? The gold has crashed
+      in the last few days, the last two or three weeks. Since this war started, not
+      only did gold stop going up as it had been doing for two years, it went down in
+      a hurry. Oil went up, of course, but not gold. The stock market is being buffeted
+      by these two people who are losing a lot of money because the gold they stocked
+      up on is losing value very, very quickly. Well, you know, this is a very dangerous
+      moment. Gold used to be a kind of measure; you could count on it. It was an index
+      of trouble in the world because when there was trouble in the world, all the wealthy
+      people would go to gold hoping to hold on to their wealth. Once upon a time, they
+      went to the dollar, but the very rise of gold right now over the last two years
+      has been built around the fact that the dollar isn’t a safe place to go into at
+      all. Okay, now the dollar isn’t because it’s on worse, not better, and gold isn’t.
+      But where the hell is the money going to go? The answer is it has no idea. That
+      adds a whole new level of uncertainty and chaos to what? To what Michael was talking
+      about a few moments ago, namely international capital movements. They are being
+      attacked not only directly by everything Michael talked about, but by indirection
+      by these macroeconomic effects of what is going on. Meanwhile, the United States
+      is scheduled to increase its borrowing and dramatically increase its national
+      debt. By the way, those were both things Mr. Trump promised he would correct.
+      So it won’t just be that the man who said he wouldn’t have a war has already had
+      big ones, but his deficits are going to be big, his national debt is going to
+      be big, rising interest rates plus the cost of energy going crazy means inflation
+      is going to get worse. There’s already investment activity based on that assumption.
+      This is becoming totally, chaotically out of control. And I’m hoping, finally,
+      touching to Michael’s point about psychic dissonance, or you know, you only have
+      psychic dissonance if you allow into your brain the contradictions that are around
+      you. America has always been a unique country in the ability to handle the existence
+      of contradictions by pretending that they’re not there. So the people who run
+      this society don’t face contradictions. It’s all working out. And you know where
+      that comes from? From an empire that just had a century of rising, and there’s
+      no way able yet to cognize the idea it’s over. That’s not happening anymore. And
+      we better rethink the problems because they’re getting worse, as we pretend that
+      they’re not there. MICHAEL HUDSON: Richard, your point about financing war by
+      running into debt instead of taxing the people is precisely what Adam Smith pointed
+      out. One of the central points of the wealth of nations was that he opposed running
+      into foreign debt to pay for wars. And he said, how do we avoid this Britain’s
+      foreign debt that’s obliging it to levy taxes to pay all of the interest rates
+      on it? He said, the way to stop this is to finance wars, always on a pay-as-you-go
+      basis. Because if populations felt the real cost of the war to themselves while
+      it was going on in taxes, they would be much less willing to patriotically support
+      it with such eagerness. And I think that Iran, I talked last week, we did, when
+      Iran insisted that one of the conditions that it was going to have for ending
+      the war, its solution, was that the Arab OPEC countries had to stop supporting
+      the US dollar with financial holdings. It had to break the symbiosis between the
+      Arab OPEC economies and the US economy. And that was the second point that I mentioned
+      above that I wanted to talk about. The U.S. aim has been to dollarize the world’s
+      oil trade, or more accurately, to dollarize the economies of the OPEC oil exporters
+      and the financial savings that they’ve accumulated over the last half-century
+      from this oil trade. Well, Joe Kent, who the former chief of staff for Tulsi Gabbard
+      and who had his own position as security advisor, just resigned a few days ago
+      publicly and on, I guess, he said yesterday, March 18th, with Tucker Carlson’s
+      show, that a major U.S. demand for negotiating a settlement with Iran was to insist
+      that it sell oil and gas only in dollars and to price it in dollars instead of
+      any BRICS or other non-dollar currency. Well, the whole point of this, as I mentioned,
+      is not the pricing in dollars, that doesn’t matter so much. It’s the holding its
+      reserves in the form of U.S. loans to the United States, what the United States
+      can grab and use for itself, just as Europe has confiscated 300 billion of Russia’s
+      holdings of dollars in Europe. So the investment of OPEC oil profits and resource
+      rents in dollars have led the Arab OPEC countries to be hostage to the United
+      States, and Iran has recognized that. And that is essentially the motivation for
+      it saying we have to break this connection between oil and the dollar. And what’s
+      been most important for the U.S.-OPEC relations is precisely what are they going
+      to do with their export earnings? You don’t have to actually own the oil resources
+      in order to control its trade. The sheikhdoms in the Middle East can own their
+      resources as long as the money from these exports, the money from these resources,
+      is all going to be spent, sent to the United States for loans. And these loans
+      are, as you just pointed out, Richard, that’s how the United States wants to finance
+      its wars against the world with the world’s savings, not with its own money. That’s
+      what the dollar standard is. That’s the new form of imperialism. And Henry Kissinger
+      made it clear in 1974 that OPEC dollar holdings should not take the form of actual
+      ownership and control of U.S. companies, as I mentioned, but just the more anonymous
+      bonds and stock holdings. And so this dimension on the capital account is what
+      dollarization of the oil trade really means. And of course, other countries have
+      already been recycling a lot of their money into the U.S. in the form of buying
+      the U.S. arms exports, which, as we’re now seeing, have not been able to protect
+      them. They’re not really arms for fighting. They are status symbols to be shown
+      on parade, to be shown there, like you’d have an expensive car or a famous sculpture,
+      but not to be used for defense. And all of a sudden, the countries that have been
+      buying U.S. arms have realized, wait a minute, they don’t work. And yesterday,
+      in the last few days, there was a lot of attention paid to something that Malaysia’s
+      Prime Minister Mahathir said in 2022. He’d been buying very sophisticated American
+      aircraft, I think, for maybe $600 billion worth for the Malaysian Air Force. And
+      then they found out that all these Air Force planes had a kill switch on them.
+      And it turned out that every plane that Malaysia bought can be controlled by the
+      United States. And the U.S. can press a switch, and it’s like Stuxnet took over
+      Iran’s centrifuges. The switch can enable a U.S. controller to take control of
+      the plane and make it fly wherever America wants. So if Malaysia or any other
+      country that buys a plane like that wants to fly it to either defend itself against
+      the U.S. ally or attack a U.S. ally, the United States can simply take control
+      of the plane and either crash it or even turn it around and have it bomb its own
+      country. So this whole idea of US arms exports, which is almost as in magnitude,
+      as large as the financial float of the United States, in many cases, all of that
+      has been blown up suddenly. And people are saying, wait a minute, the planes don’t
+      work. And even if we buy them, we’re not in control of them. This is really bizarre.
+      You know, what kind of an arms trade is that? So if you look at how happened with
+      all of these savings of the OPEC countries in the 1970s after the oil price increase,
+      well, a lot of them were put in U.S. banks. The U.S. banks lent them to Third
+      World countries, now called the Global South countries. And these loans were unpayable
+      from the beginning. The loans were to enable other countries’ dependency on the
+      United States for their food imports, for their trade, and for following the advice
+      of the World Bank and U.S. advisors and the academic community that you should
+      specialize in raw materials, not industrialized, specialize in low-cost labor
+      products, but not high-cost, sophisticated products. They were not doing what
+      China was doing exactly. Well, all of these loans ended up going bad. And that
+      ended the whole recycling of U.S. bank and bond investment to global South countries
+      when the Latin American and other Global South bonds had to be written down. We’re
+      facing a similar situation today, not only with these same global south countries
+      that cannot afford to pay the high prices for fertilizer made out of gas, for
+      oil and gas, and for the export, the food that they have to import that’s made
+      with fertilizer made out of this gas. You can see the whole; it’s like peeling
+      an onion to see all of the different layers that all of this means. And I provide
+      the analysis for this in superimperialism. I won’t go over it here, but I’m making
+      these points to show just what petrodollars may mean today. It now has to do with
+      all of this accumulation of savings that the OPEC countries have had. Well, we’re
+      seeing a lot of their capital investments, the cutters, billions of dollars that
+      it’ll cost to replace its gas refinement capacity, and all of the luxury tourist
+      trade that the Arab Republics and the Arab countries have built up. All of this
+      is threatened now, and all of a sudden, they’re going to have to liquidate all
+      of these reserves that they thought was going to be their permanent growing wealth.
+      It’s all being wiped out, and they’re having to sell it all off. And it’s as if
+      what was the whole point of their ever trying to become big oil exporters and
+      invest in all of these vast tourist and hotel and real estate and financial projects
+      that they’ve done. It’s been a disaster. Well, I want to just close by pointing
+      out that in Britain, Starmer, in the last few days, has said that if the United
+      States withdraws from NATO, then Britain is, quote, “will not allow American bases
+      to operate in our country’s territory.” So, what Trump may have been doing is
+      not only stop breaking the market for U.S. arms exports as a vehicle for savings,
+      he may have finally split Europe away from NATO. And if Europe does break away
+      from NATO, then what’s the point of its fighting with Russia? What’s the point
+      of its fighting against Iran? If the trigger is its need for oil and gas to prevent
+      economic collapse, then the way to avoid it is to stop the whole American Cold
+      War against Russia and China and Iran. And without the support of other countries
+      for this American Cold War, then there goes the whole U.S. strategy of trying
+      to threaten to destroy other countries if they don’t support the U.S. aims. The
+      United States is destroying the economies of other countries, but those of its
+      allies primarily. And maybe the allies now say we would rather reorient our trade
+      and diplomacy and financial relations with nations that don’t set out on imperial
+      adventurism that destroys our economies. That’s basically it in a nutshell. NIMA
+      ALKHORSHID: Yeah, go ahead, Rich. RICHARD WOLFF: Yeah. Much of the world was surprised
+      when the questions were asked in the first two weeks of the war, both to the United
+      States and Israel, on one hand, and then to the Iranian spokespeople on the other.
+      What are your goals? What are your aims? What do you hope to win? And the United
+      States gave this confused mixture. They must not have nuclear weapons, which they’ve
+      agreed not to have anyway. Right, still sits there. Mr. Netanyahu can constantly
+      terrorize his own people by saying he’s saving them from the nuclear weapons that
+      Iran will have ready by next week. You know, even though all the intermediary
+      agencies, the International Atomic Energy, all of them say that they are no positive.
+      Even American intelligence says that they are not that close, even if they wish
+      to. Okay. Well, then it’s regime change. Let’s leave that for a moment. The Israelis
+      say regime change, but they seem to literally mean killing leadership and supplanting
+      it with somebody else whom they will terrorize, because that’s what this is: assassinating
+      the leaders is a terrorist action. Always was. The original notion of a terrorist
+      was applied to people like those Russians who assassinated the czars back in the
+      19th century. They were called terrorists because they were terrorizing the leadership
+      of that country. But then, the most interesting thing is the Iranians. They don’t
+      say what you would expect, or at least what the journalists expect. They don’t
+      say, you must stop bombing us. That won’t end the war for them. They make that
+      clear. Wow. That you will do this. No, no. And then they explain, and here’s the
+      explanation: We want the United States out of the Middle East. Wow. Everybody
+      goes; they must be crazy. What? You know, that’s like the old joke, you know,
+      slogan, U.S. out of North America. No, that’s funny because the U.S. is part of
+      North America. And it’s not funny, but it is strange. But now let me explain why
+      it isn’t. The simplest explanation is that Iran’s problem isn’t this or that.
+      It isn’t the Strait of Hormuz or passing ships or none of that. The problem of
+      the Iranians, which they’ve had to finally figure out, is the presence of the
+      United States in that part of the world. Michael is giving us the details: the
+      petrodollar, the control of capital flows, the pricing of the oil, all of that.
+      Yes, but that’s the role of the United States in the Middle East. And even if
+      you change some of it, okay, oil can be traded in Chinese yuan or in Euros or
+      something. That’s not the issue. The United States wants to run the world economy
+      this century the way they basically did most of the last century, which should
+      surprise no one. But the Iranians are saying that’s the problem. In my words,
+      your empire isn’t quietly going down fast enough. You are bothering us in this
+      part of the world. You’re desperately trying to hold on to what you created in
+      the second half of the 20th century in that part of the world. And the truth is,
+      that’s the continuum between overthrowing Mosaddegh in 1953 and having this war
+      now. It’s an endless process, which they figured out that we, that’s our problem,
+      we Iranians. We’ve got someone here whose junior partner, Israel, is an annoyance
+      too. But everybody understands without the United States; there literally either
+      wouldn’t be a troubling Israel or no Israel at all. So that’s not the problem.
+      It’s this, it’s the don’t make another war with Israel. It’s bad enough Hezbollah
+      does that. We’re not; that’s not our problem. It really isn’t. Our problem is,
+      and that’s why this war is not going to stop until you get out. And the rest of
+      the world goes, what? A little poor country is telling the United States? Yes,
+      because that’s where we are. The exhaustion of this empire is now. Yeah, you couldn’t
+      do it if you were Afghanistan. That’s too poor and too small. And you couldn’t
+      do it in Iraq, for the same reason. And you couldn’t do it even in Vietnam, for
+      the same reason. But now you got 92 million. You got them right on the border
+      with Russia who can make sure that they have drones and missiles forever. So this
+      is now an unequal fight that suddenly doesn’t look so unequal at all. And as people
+      struggle here in the United States, they simply brush; they want us to leave the
+      middle. Big mistake. You’re making fun. I understand that helps you deal with
+      this reality. But that’s what you’re trying to do. You’re trying to dismiss what
+      is terribly present. The nagging question: my god, can they withstand the bombing
+      that they’re getting from Israel and the United States long enough to actually
+      win? And as that idea, and I don’t know, I mean, Nima, you know better than Michael
+      and me what the answer is or what the Iranian people can and will do, given all
+      the struggles within that country, all the differences, and all the conflicts,
+      as all countries have, but Iran has certainly got its share. Can they hang in
+      there long enough? Because the more you think about it, the more their leadership’s
+      extraordinary statement: we’re going to fight until the United States gets out
+      of the Middle East, instead of being crazy, is becoming a brilliant possibility
+      that they seem ready to fight to realize. And then the question becomes: how far
+      down the decline ladder has the United States come so that the ability of the
+      Iranians to endure outlasts the ability of the American people to endure a government
+      doing what this one is doing. And then all I can tell you is what we’re talking
+      about here is undermining. That’s why I focused on the macro. We are undermining
+      the cohesion of this society by what we are doing. If interest rates go up, if
+      inflation resumes going up, and if the recession hits, all of which is more likely
+      now than it was before this started. Then Iran will go down in human history,
+      as having understood before all the rest of us did that the [US], I can borrow
+      an image from China, [is] a paper tiger. MICHAEL HUDSON: Well, Richard, I think
+      Iran can hold on longer than the United States and its allies because Iran can
+      simply say to the world, if you don’t intervene to stop the United States and
+      Israeli terrorism and destruction, then your entire world economy is going to
+      be crashed, or at least the world economy of America and its allies in Europe
+      and Asia, because we won’t let ourselves be killed without bringing down all of
+      the nations that did not stop the United States and Israel. So that’s basically
+      its message, and we’ve already seen its willingness to do this because it really
+      doesn’t have a choice. If it stops, it will be killed by Trump coming in and attacking
+      it again and again. That’s what its leaders have said, and that certainly seems
+      a realistic assessment of U.S. behavior. So it’s up to the world to stop its own
+      economic destruction, and it hasn’t even seriously begun to do that yet. NIMA
+      ALKHORSHID: Do you want to add something before wrapping up? RICHARD WOLFF: No,
+      it’s just I am. I’m still reacting to—had not heard what Michael said about Starmer.
+      And I have, you know, I have half a foot in Europe. My family comes from there
+      and so forth. If that quote, I’ve never heard Starmer have enough courage to do
+      anything like that. He is at the end of his political career, even though he thought
+      he was in the middle. He has squandered an election in which he blew into office
+      with a labor majority across the houses of Parliament, etc., etc. He has destroyed
+      all of that. He is extremely disliked and unpopular. He’s right up there with
+      Macron in France. Just for our audience, they had municipal elections this last
+      weekend, last Sunday. And the governing party of Mr. Macron lost everything. Either
+      the right-wing nationalists or the left-wing, La France Insoumise and that coalition
+      of the left, they did very well. But the middle, which Mr. Macron represents,
+      all gone. Just all gone. And that’s usually a foretaste of the national elections
+      coming. So I have been wondering how long it would it take for the Europeans to
+      recognize that American foreign policy, because, as I put it, it’s a dying empire,
+      is no longer willing to have allies you work things out with. It wants tributaries.
+      The ally is interesting to the extent that it enriches us and, therefore, makes
+      us more secure. They haven’t done that enough, so I’m going to complain that they
+      are leeches. They don’t do anything for us. Stupid, but you can understand where
+      it comes from. You want their support. This decision to attack with Israel was
+      not discussed. The German government made it clear over the last week, Mr. Mertz,
+      and that would be the most important economy with the United States to support.
+      It is, for example, if people don’t know, the most important support for Ukraine
+      at this point, Germany. So not to coordinate with Germany is beyond words stupid.
+      Then to ask them, and not very nicely, to help you, please send us warships, which
+      Michael correctly puts they don’t have, by the way, or very few left. And those
+      don’t work real well because they haven’t had any use for them. And then to be
+      angry that they say, well, you know, Starner initially said yes, and then realized,
+      look at the irony here, realized that his career was over unless he turned against
+      it, because that way he can become a hero for all the British who don’t like being
+      treated this way, because the idiotic Conservative Party of England and the even
+      more outrageous Farage Reform Party are gung-ho supporting the United States out
+      of their god knows what you could call the way they think if even the word think
+      is there. So Mr. Starmer has just discovered that, by being anti-American, he
+      might have the best chance not to disappear. It has nothing to do with Iran or
+      British imperialism, none of which he has ever questioned, and he never will.
+      But you can see another example of the history of capitalism in which I would
+      argue it’s always the domestic situation that governs whether you go to war, when
+      you go to war, how you go to war, and when you end the war. And I think it will
+      be the outgrowth of 2027, what happens in this country will bring that war to
+      an end, or Mr. Trump’s fear of what is beginning to unfold in the economy will
+      make him have to stop this. And then the question will be: notice how it’s shifting.
+      It’ll no longer be what the United States is going to do as if that begins and
+      ends. It will become: what are the Iranians going to do? If the Americans stop
+      bombing and declare peace, what are they going to do? And the whole world will
+      be now focused on the Iranian leadership; however, much of it is still alive,
+      to be able to formulate a basis on which to end this war, which they may not be
+      ready to do, putting Mr. Trump in an absolutely unique position given the bravado
+      with which he tries to do everything. He’ll have to, but you know, he’ll be up
+      to it. Because you know how I know? Because of the clip of Scott Descent. We’re
+      taking away the sanctions on Russia. We’re taking away the sanctions on Iran in
+      order to defeat Russia and Iran. We’re giving them a ton of money, paying them
+      outrageous prices for what they export. And boy, is that a blow against them?
+      This is so stupid that you really have to stop and take a deep breath and understand
+      he’s probably notice. I’m not sure. He’s probably not that stupid, but what’s
+      coming out of his mouth is stupid squared. MICHAEL HUDSON: Well, I’m glad you
+      brought up Starmer because when even the opportunists are breaking away from the
+      U.S., they’re the canaries in the coal mine. And if you look at what’s happened
+      to Britain just this week, they’re very sharply raising their gas prices. The
+      British wage earners are being very tightly, they’re being squeezed by the rising
+      cost of heating their homes, of electricity. All of the energy prices that are
+      going to fall on the wage earners and on their employers are going way up, disclosing
+      things. And the problems, not only in Europe, with Mertz and Macron and Starmer,
+      look at Korea. Just two days ago, the Korean parliament approved the $350 billion
+      gift to the United States, saying if you don’t raise your tariffs on us, then
+      we will give you $350 billion for you, Donald Trump, to invest and keep most of
+      the profits on, just so we can have the market for our exports. But what can Korea
+      now export if it doesn’t have OPEC oil and gas? This breaks all of what Trump
+      had promised: the $350 billion from Korea. And then you have the $550 to $750
+      billion that Japan has promised to send to the United States when Japan is in
+      the same energy squeeze that Korea is. And yesterday, you had the Prime Minister,
+      an anti-Russian, anti-Chinese, pro-American prime minister of Japan here, sitting
+      with her hands very tensely in her lap. Well, Trump said, you know, we’re really
+      surprised. Iran wasn’t expecting the attack. And surprise is how to win a war,
+      just like when we had and bombed you in Japan. That was a surprise. Of course,
+      you did at first. You had him bombed us in Pearl Harbor. That was the discussion
+      that he was having. You can just imagine the effect that has on Japan and their
+      decision. Just how long can we hold on to our servitude to the United States,
+      relocating our industry there, like Korea’s promised to do? And all for what?
+      When we could really be making a profit by dealing with our neighbors instead
+      of dreaming of attacking them again like we did in the 1930s. This is maybe Trump
+      will bring about a reconsideration of world peace at the rate he’s going. RICHARD
+      WOLFF: Well, I’ve gotten several emails today just to give you an idea. And some
+      of them were really, I’m not going to do it, but if I read them to you, it would
+      bring tears to your eyes. People very quickly understood Pearl Harbor was the
+      Japanese attacking a naval military base in that harbor in Hawaii. Whereas what
+      the United States did is drop an atomic bomb on two citizen cities, Hiroshima
+      and Nagasaki, were concentrated population centers. So one country attacked a
+      military target, the other one using for the first and only time in human history
+      nuclear weapons. By the way, we should be discussing next week the statement coming
+      out of the World Health Organization that they are seriously considering the possibility
+      of nuclear weapons being deployed in this war. And when that’s all they say officially,
+      but apparently, unofficially, their expectation is that Israel would have to do
+      that because of being at risk of disappearing. And, you know, I don’t know what
+      to do with that information, but it gives me a bad feeling in the pit of my stomach.
+      So I think maybe some conversation would be useful just as one way, however weak
+      it is, of coping with such a conceivable thought. NIMA ALKHORSHID: Sure, sure.
+      NIMA ALKHORSHID: Yeah. NIMA ALKHORSHID: Thank you. Thank you so much, Richard
+      and Michael, for being with us today. Great pleasure, as always. RICHARD WOLFF:
+      Take care. NIMA ALKHORSHID: Take care. Transcription and Diarization: https://scripthub.dev/
+      Editing & Review: ced Photo by NASA on Unsplash The post Multipolar Oil Markets
+      Are Now a Reality first appeared on Michael Hudson . The post Multipolar Oil Markets
+      Are Now a Reality first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about current geopolitical tensions, Nima
+      Alkhorshid, Richard Wolff, and Michael Hudson analyze how Donald Trump's "Operation
+      Blind Fury" and escalating conflicts in Iran are impacting regional stability
+      and economic conditions, particularly concerning Qatar's LNG production.
+    paragraph_summary: In a discussion led by Nima Alkhorshid with Richard Wolff and
+      Michael Hudson, the focus is on the escalating tensions in the Middle East, particularly
+      regarding Donald Trump's "Operation Blind Fury" amidst the ongoing war in Iran.
+      The article highlights the significant impact of recent attacks on Iranian oil
+      facilities, which have resulted in a substantial loss of production capacity for
+      Qatar and heightened regional instability. Scott Bessent's comments emphasize
+      the U.S. strategy of potentially unsanctioning Iranian oil to manage supply and
+      stabilize market prices, indicating a calculated approach to leverage Iranian
+      oil against the backdrop of geopolitical tensions. The conversation reflects on
+      the broader implications for the global economy as these developments unfold.
+    published: '2026-03-26T11:55:32+00:00'
+  - title: Multipolar Oil Markets Are Now a Reality
+    url: https://michael-hudson.com/2026/03/multipolar-oil-markets-are-now-a-reality/
+    text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, March 19, 2026, and our
+      dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back.
+      RICHARD WOLFF: Thank you. Glad to be back. NIMA ALKHORSHID: Let me start here
+      with one of the articles on The Economist. Here is what it says. They call the
+      operation of Donald Trump, Operation Blind Fury. And it says that war in Iran
+      is making Donald Trump weaker and angrier. What is happening right now is somehow
+      amazing that the new escalation is the attack on the Iranian oil facilities, which
+      brought a massive reaction on the whole region. You know, from Qatar to Saudi
+      Arabia, UAE, Kuwait, and even Haifa was hit by Iranian missiles. As we know so
+      far, Reuters reported that Qatar has lost 17% of its production capacity of LNG.
+      And that could be a huge issue for the market. But at the same time, we have the
+      issue of the Strategy Formula. And before, you know, Michael, coming to your understanding
+      of what is going on right now, here is what Scott Bessent said about unsanctioned,
+      because the difficulties coming out of this trade-off for most is just putting
+      a lot of pressure on the global economy. Here is what Scott Bessent said. SCOTT
+      BESSENT (CLIP): Break the glass plan across the administration and a treasury.
+      We unsanctioned Russian oil. We knew that there were about 130 million barrels
+      on the water, and we created supply that is beyond the Straits of Hormuz. So we
+      anticipated this. We knew that there could be a temporary, and I want to emphasize
+      temporary choke point there. And there was 130 million barrels of floating storage.
+      In the coming days, we may unsanction the Iranian oil that’s on the water. It’s
+      about 140 million barrels. So depending on how you count it, that’s 10 days to
+      two weeks of supply that the Iranians had been pushing out. That would have all
+      gone to China. In essence, we will be using the Iranian barrels against the Iranians
+      to keep the price down for the next 10 or 14 days as we continue this campaign.
+      NIMA ALKHORSHID: Yeah. RICHARD WOLFF: Michael, before you even turn it to Mike,
+      everybody should appreciate what that man just said. He just said up is down,
+      down is up, up will make up, go down, and then we’ll have down and it’ll go up,
+      and we’ll use against the Iranians the fact that we’re allowing them to sell their
+      oil to China, which, by the way, they were doing perfectly well anyway. You know,
+      when you have to resort to that level of noise and incoherent make-believe, you’re
+      pretty close to the end because you’ve got very little to lose. The credibility
+      is gone, so you’re not stretching credulity. It’s already out misshapen beyond
+      words, anyway. Anyway, I didn’t mean to interrupt. It’s just, you really have
+      to take a step back. Mr. Scott Bessent is the best Mr. Trump could do, and that
+      tells you, of course, a lot about Mr. Trump. NIMA ALKHORSHID: Yeah. Michael, go
+      ahead. MICHAEL HUDSON: Well, the irony is that this permission trade in Russian
+      and Iranian oil has actually reversed the whole aim of what Trump had tried to
+      do. In seizing Iran’s oil, the effect was to achieve the opposite of three basic
+      U.S. aims. And I had the day, since we’re running later, to put what I’m saying
+      in order. So I want to just say the three ways in which Trump’s attack has just
+      reversed the whole strategy of American foreign policy. First, by closing the
+      Strait of Hormuz, Iran has imposed the military equivalent of sanctions on OPEC
+      oil, forcing resort to Russian oil and Iranian oil, and ultimately in the future
+      of oil from the very countries that the United States was trying to prevent selling.
+      So this has reversed the U.S. sanctions against Russian supplies of oil. And Trump
+      has said that the suspension of sanctions is only going to be for one month or
+      so, as I think Bessent implied, and everything’s then going to be back to normal
+      and he’s not going to let any further purchases of Russian oil occur. Well, we
+      now know that that’s silly. We now know that the interruption of oil is going
+      to, I think, last at least for the rest of the year and probably into 2027. Now,
+      the second thing I want to point out is the U.S. hopes for the whole last half
+      century, since 1974, has been to become the major financial recipient of OPEC’s
+      buildup of foreign exchange wealth funds and foreign reserves. And these savings
+      have been in the form of OPEC purchases of U.S. bonds and stocks and U.S. bank
+      deposits. So destroying OPEC’s export capacity now is obliging these countries
+      to start selling off their dollarized reserves to finance their own debt-burdened
+      economies and the own deficits that they’re running now that they’re not having
+      any inflow of oil exports. And the third point that is something that Richard
+      and I have been talking about for the last half year, the whole enabling myth
+      of the U.S. demands for subsidy from foreign countries, NATO as well as OPEC,
+      is payment for America’s efforts to protect these countries against the threats
+      from Russia, China, and Iran. Well, that whole idea of the U.S. as a protector
+      and deserving financial support through NATO and through OPEC’s purchases of arms,
+      U.S. arms that, obviously, we now say, don’t work, is destroyed. And Trump’s attack
+      on Venezuela and Iran and his threats to attack Greenland, even Canada, have shown
+      that, instead of protecting his allies from Russia, China, and Iran, the United
+      States itself is the greatest threat to world stability. And it’s become the world’s
+      major sponsor of terrorism in its support for Ukraine against the Russian speakers,
+      Israel against the Palestinians, and al-Qaeda in Syria generally. So, as part
+      of this Cold War system, I think the failure of U.S. arms to protect allies has
+      led them to realize that if they really need military protection against this
+      ridiculous threat that Russia, China, and Iran are the main danger to them and
+      seek to conquer their neighbors, well, then the U.S. arms are not going to help
+      them. Iran’s missiles and drones have easily avoided the Israeli and Arab OPEC
+      defenses and, in fact, have depleted them. And that enables Iran from here on
+      in to bomb their attackers at will. And neither the U.S. arms nor the promises
+      to defend them work. So, what is it that leads other countries not to step in
+      right now and saying we can’t afford to let the United States and Israel threaten
+      the entire world economy and plunge our economies into financial crisis and force
+      us to close down entire industries and lower our employment, causing unemployment,
+      while gas prices and the price of heating homes rise and put a squeeze on consumers
+      and force them into debt? Why are they not rising up and say, “We’ve backed the
+      wrong horse. It turns out we’ve got to protect ourselves by intervening and stopping
+      the U.S. attacks.” And indeed, Iran has made it clear: “Well, these attacks are
+      not going to stop until we settle the long-term aim. We are going to keep the
+      United States and Israel and any U.S. allies in the Arab OPEC countries out of
+      the Near East from now on. You threatened us with an existential threat that we
+      will be destroyed. Our leaders will personally be destroyed. Our oil will be seized
+      by Donald Trump, who will personally appoint a new leader who will be sort of
+      an Iranian Boris Yeltsin, who will let American oil companies come in and regain
+      control of Iranian oil.” That’s basically the plan that other countries are acquiescing
+      in if they don’t actively step up and they’re not doing that yet. So, basically,
+      Trump has said, “It’s our war, but it’s your problem.” You remember that Texas
+      Governor Connolly said that when the dollar devalued against gold and left only
+      U.S. Treasury promissory notes as world reserves, he said, “Well, if it’s our
+      dollar, it’s your problem.” Well, Trump’s saying, “It’s our war, it’s your problem.
+      Want to solve it? Do you want to provide the minesweepers to clear out the Strait
+      of Hormuz? Do you want to supply the war to the troops to fight against Iran?
+      We’re not going to. All we can do is bomb. That’s the only thing that we have
+      left. We’re not going to supply any troops.” Trump said that again today. “No
+      troops. All we can do is bomb. And we’re going to target Iran’s oil fields again
+      if and if Iran continues to fight for its survival.” Well, obviously, Iran’s going
+      to fight for its survival. And, obviously, the United States intends to keep escalating
+      until the entire Near East’s, the Middle East’s, oil export capacity is ended.
+      So all that world of relying on the U.S. as a source of stability instead of instability
+      is now over. And the U.S.-Iran war looks like, as I said, it’s going to go into
+      next year. I know I’ve gone a few minutes already, but I want to discuss just
+      one, the first point that I mentioned about the sanctions. America’s long-term
+      aim predating Trump’s presidency has been to monopolize the world’s oil trade
+      by imposing sanctions against oil producers whose policies are against those of
+      the United States, Russia, Iran, Venezuela, and anyone else who wants to exploit
+      oil in competition with the U.S. military and economic bloc. So by imposing trade
+      sanctions against Iran in 1979, when it grabbed Iran’s oil, when it overthrew
+      the military police state of the Shah, and again, when it sanctioned Russian oil
+      in 2022 and then Venezuelan oil last year, the United States had dollarized the
+      world’s oil production. And that meant this went far beyond simply pricing oil
+      in dollars. Eve Smith always reminds me that oil trade represents only 5 to 7%
+      of the demand for dollars. It’s financial capital movements that really determine
+      the world. And the role of petrodollars wasn’t simply in pricing oil in dollars
+      and raising the price. The whole idea of petrodollars was that the OPEC countries
+      were going to keep all of the earnings from their oil trade and send them to the
+      United States. And Kissinger said, “We’ve told OPEC, you can charge whatever you
+      want. We’re not going to let you buy control of any American corporation, not
+      even real estate or farms. You can buy bonds or you can buy stocks. You can finance
+      American industry, but you won’t have any control to use your ownership for any
+      of your own purposes, unlike the whole purpose of the United States when it invests.”
+      So OPEC countries account for 40% of the world’s oil trade, 20% of the total oil
+      production, but 40% of the trade. So if the Strait of Hormuz lasts more than a
+      few months, this is going to plunge all these oil-dependent countries into a depression.
+      And they’ve already announced, “We’re having to sell off our national funds.”
+      [They have] had to sell off securities, presumably U.S. bonds and bank deposits,
+      and also British holdings, in order to balance their budget because the OPEC countries
+      themselves have gone into debt to finance their whole real estate development
+      in a crazy part of the world that really can’t normally support real estate development.
+      So world oil prices, along with the international stock market and the foreign
+      exchange rates, have already announced their willingness to sort of compensate
+      for the slowdown in OPEC exports by releasing their own national reserves of oil.
+      Well, okay, that’s going to take care of a few months, but then all of the national
+      reserves that they’ve saved for just such a war emergency are going to be empty,
+      just like their arms supplies are going to be empty. And all that’s going to do
+      is postpone the crisis to a point where when they don’t have any more oil to throw
+      on the ground, when they won’t let Russia and Iran replace OPEC as the world’s
+      major oil exporters, then there is going to be a crash. So, what are other countries
+      going to do? Were they going to say, “All right, we’re going to shift away from
+      reliance on OPEC, which was a key to the U.S. financial system.” Forget the trade
+      system, the financial system, the balance of payments, all of these bond holdings
+      and stock holdings and bank deposits. All of that is going to begin to be reversed.
+      And so, this is what Trump has done is reversed this basic financial aim of U.S.
+      control of the oil trade that was supposed to be the buttress of its ability to
+      control other countries. And so, to further help prevent a serious energy crisis,
+      as we just said, Trump has said, “Well, Bessent has said you can buy Russian oil
+      trade.” A lot of this is already on ships. Well, what’s going to happen after
+      two weeks or two months when the ships have unloaded their oil? Bessent and Trump
+      are willing to say, “All right, OPEC still isn’t exporting any oil because its
+      oil facilities have been blown up. So, I guess you can continue to buy Russian
+      and Iranian oil as far as the eye can see.” Well, what a change that is from what
+      was supposed to be the whole buttress of America’s control of oil and hence its
+      energy trade and hence all of the chemical industries and the fertilizer industries
+      and everything else based on the oil trade. All of that is threatening America’s
+      closest allies, NATO, Europe, Japan, and South Korea. And yet, if you look at
+      today, the stock markets say everything seems to be just marginally a little bit
+      different. All these problems are going to be temporary. So the world is closing
+      its eyes to the problems that Richard, [myself] and all of your guests have been
+      pointing out are building up and are going to happen. It’s like there’s a cognitive
+      dissonance and unwillingness to look at how systemic the whole problem is that
+      Trump’s attack and Israel’s attack on behalf of the United States with US guidance
+      has caused for the world. NIMA ALKHORSHID: Richard, moments ago we learned that
+      Iran said that the Strait of Hormuz is open, but nobody is not, it doesn’t mean
+      that everybody can use it. China, India, Iraq, and Malaysia so far use the Strait
+      of Hormuz. They could pass through this Strait of Hormuz, but other countries,
+      that wasn’t the case for other countries. Richard, there is an article in the
+      Financial Times in which the article argues that Iran’s actions in the Strait
+      of Hormuz show the reality of multipolar economic warfare. For decades, the United
+      States dominated, you know, it says that for decades the United States dominated
+      sanctions and used financial pressures as a strategic weapon. Now, other powers
+      like China and India, they’re coming to the game, and their response is going
+      to be, you know, different. And it argues that nobody knows what would be the
+      reaction on the part of the United States. But so far, it seems that the Strait
+      of Hormuz is making that concept much more complicated. Your understanding of
+      what is happening right now in the Middle East. RICHARD WOLFF: Well, first, the
+      larger context. I understand that people see in Mr. Trump, an incoherent, herky
+      jerky, not a very good relationship with the truth, getting the results not expected.
+      But I don’t think he’s all that different from the earlier presidents. I mean,
+      the American presidents are nothing to be shaking your head about. I know we always
+      think the last one was better, but that’s only because the one we have now is
+      even worse than that one was, and we thought he was better than the one before.
+      And I noticed that it’s very popular now, particularly in Europe, to make fun
+      of the quality of leadership that comes from Starmer, Macron, Maloney, Mertz.
+      It is, I admit, I’m caught up in this. This is stunning incompetence and not thinking
+      things through. It was known what the Strait of Hormuz was like for a long time.
+      It’s not a new awareness that this is a very vulnerable area and that Iran has
+      an enormous power over it by geography. You don’t need to be a great social scientist
+      to see it. But here’s the point: when the wind is blowing in your direction, it’s
+      okay to make a mistake, or two or three, because the wind is blowing in your direction
+      and it will correct what it is you mess up. So the United States tries to overthrow
+      Castro in 1960-61. A catastrophic mistake. Couldn’t do it, failed at it, you know.
+      But you know, it didn’t fundamentally change the dominance of the United States
+      in the second half of the 20th century because the empire was rising, replacing
+      the old Europeans, reshaping the world, doing the very petrol arrangements Michael
+      explains to us just now and in earlier shows. So I want people to keep a framework
+      for understanding. The problem now is that the wind has changed. The empire isn’t
+      growing, isn’t expanding, it’s shrinking, it’s being outmaneuvered by a whole
+      new economic powerhouse built above all around the People’s Republic of China,
+      but with BRICS and their alliance, they have varied cleverly across so many differences
+      among the BRICS countries, nonetheless welded them into a kind of coalition, which
+      is helping them get through this crisis. You know, Russia can sell its oil to
+      China. India can kind of swerve around the sanctions and buy the oil it needs
+      from Russia, and on and on and on. Okay, so I want to keep that in your mind.
+      Mr. Trump is now having the problem of decline. When you make a mistake, it doesn’t
+      not matter. It gets worse. It makes your situation worse than it might have otherwise
+      been in a different circumstance. And we can already see that in six months. Six
+      months ago, Israel and America attacked Iran. Now, the consequence for the United
+      States was relatively small. Six months later, they attacked Iran again. The consequences
+      are horrific. What happened? What happened here? And yes, you can answer with
+      this specific and that, but there’s a larger shift going on that we need to control.
+      All right, having said that, I want to look at some other dimensions of what is
+      happening. Mr. Hegseth has said to us that they are asking for $200 billion in
+      additional appropriations from Congress to fight this war, which, of course, can’t
+      be a war, since you didn’t let Congress vote on whether or not to have a war.
+      Congress doesn’t get to vote on whether you have one, but now has to be able to
+      vote on whether you can fund the war they didn’t participate in. These are signs
+      this is out of control. This is such a bad piece of theater being worked out here
+      that it screams the incompetence and the confusion, but it’s much, much worse.
+      The Supreme Court invalidated the tariffs, and there are now mountains of legal
+      cases emerging where all kinds of people, including consumers who are hurt by
+      the tariff, who had to pay more money, as well as countless importing corporations,
+      they want refunds. And they’re certainly going to get something. I don’t know
+      how that’s going to be worked out, and I understand it will take time. But the
+      $150, and it’s not even that, but the $150 billion that was the only new revenue
+      coming into the United States government is now fundamentally compromised. However
+      much of it you will still get, won’t be much. Meanwhile, you have proposed a $500
+      billion, excuse me, a $600 billion increase in the defense budget before the war
+      on Iran. And so now the war on Iran adds another $200 to the $600. That means,
+      let me make sure everybody understands, the current defense budget is in the neighborhood
+      of $900 billion. You’re going to add $600 for next year’s budget plus $200 for
+      the Iran war. You’re virtually doubling your defense expenditures in one year,
+      and you’re the country that spends more on defense than most of the rest of the
+      world combined. I mean, this is so completely off the wall that people are going
+      to wonder: how are you going to do this? The only conceivable way, short of a
+      tax increase, which he cannot do for political reasons. America never fights wars
+      with tax money. It only fights its wars with borrowed money. Why? Because you
+      can’t get away with paying it with taxes, so you borrow it. Okay, but we are already
+      the world’s greatest debtor country. Our national debt is $35 trillion. And we
+      no longer have an AAA rating. Standard and Poor, Moody’s, and Fitch, the three
+      rating agencies, now all agree it isn’t AAA, it’s barely AA. So you’re going to
+      have to borrow $800 billion more, and you’re already running trillion-dollar deficits.
+      Now, when you look at this, this is simple arithmetic. And nothing I have said
+      here requires any special information or secrets or nothing. This is all public
+      information available to anyone who looks at the relevant numbers. Well, now what’s
+      going to happen? The only way the United States can borrow the money that its
+      whole foreign policy now requires is by borrowing like you’ve never seen. And
+      that’s the end of declining interest rates. You will notice that yesterday and
+      today, the Federal Reserve, which some had said would lower interest rates, because
+      our economy is heading into a recession, didn’t do it and said it can’t do it.
+      It has to see what the consequences of this war are. And Michael just suggested
+      they’re not going to see what those consequences are for quite a while, since
+      the war is going to continue. But the whole stock market understands the interest
+      rates are going up. And for the American macroeconomy, this is not good. For the
+      stock market, this is not good. And for the people who just made a lot of money
+      in the last two years betting on geopolitical turmoil by buying gold, you have
+      to remember to buy gold is to take a risk because gold doesn’t pay you anything.
+      There’s no interest rate. There’s no agency that says you get an interest. So
+      gold is an asset which depreciates when interest rates go up, because the money
+      is going to look for where it can get. So, what has happened? The gold has crashed
+      in the last few days, the last two or three weeks. Since this war started, not
+      only did gold stop going up as it had been doing for two years, it went down in
+      a hurry. Oil went up, of course, but not gold. The stock market is being buffeted
+      by these two people who are losing a lot of money because the gold they stocked
+      up on is losing value very, very quickly. Well, you know, this is a very dangerous
+      moment. Gold used to be a kind of measure; you could count on it. It was an index
+      of trouble in the world because when there was trouble in the world, all the wealthy
+      people would go to gold hoping to hold on to their wealth. Once upon a time, they
+      went to the dollar, but the very rise of gold right now over the last two years
+      has been built around the fact that the dollar isn’t a safe place to go into at
+      all. Okay, now the dollar isn’t because it’s on worse, not better, and gold isn’t.
+      But where the hell is the money going to go? The answer is it has no idea. That
+      adds a whole new level of uncertainty and chaos to what? To what Michael was talking
+      about a few moments ago, namely international capital movements. They are being
+      attacked not only directly by everything Michael talked about, but by indirection
+      by these macroeconomic effects of what is going on. Meanwhile, the United States
+      is scheduled to increase its borrowing and dramatically increase its national
+      debt. By the way, those were both things Mr. Trump promised he would correct.
+      So it won’t just be that the man who said he wouldn’t have a war has already had
+      big ones, but his deficits are going to be big, his national debt is going to
+      be big, rising interest rates plus the cost of energy going crazy means inflation
+      is going to get worse. There’s already investment activity based on that assumption.
+      This is becoming totally, chaotically out of control. And I’m hoping, finally,
+      touching to Michael’s point about psychic dissonance, or you know, you only have
+      psychic dissonance if you allow into your brain the contradictions that are around
+      you. America has always been a unique country in the ability to handle the existence
+      of contradictions by pretending that they’re not there. So the people who run
+      this society don’t face contradictions. It’s all working out. And you know where
+      that comes from? From an empire that just had a century of rising, and there’s
+      no way able yet to cognize the idea it’s over. That’s not happening anymore. And
+      we better rethink the problems because they’re getting worse, as we pretend that
+      they’re not there. MICHAEL HUDSON: Richard, your point about financing war by
+      running into debt instead of taxing the people is precisely what Adam Smith pointed
+      out. One of the central points of the wealth of nations was that he opposed running
+      into foreign debt to pay for wars. And he said, how do we avoid this Britain’s
+      foreign debt that’s obliging it to levy taxes to pay all of the interest rates
+      on it? He said, the way to stop this is to finance wars, always on a pay-as-you-go
+      basis. Because if populations felt the real cost of the war to themselves while
+      it was going on in taxes, they would be much less willing to patriotically support
+      it with such eagerness. And I think that Iran, I talked last week, we did, when
+      Iran insisted that one of the conditions that it was going to have for ending
+      the war, its solution, was that the Arab OPEC countries had to stop supporting
+      the US dollar with financial holdings. It had to break the symbiosis between the
+      Arab OPEC economies and the US economy. And that was the second point that I mentioned
+      above that I wanted to talk about. The U.S. aim has been to dollarize the world’s
+      oil trade, or more accurately, to dollarize the economies of the OPEC oil exporters
+      and the financial savings that they’ve accumulated over the last half-century
+      from this oil trade. Well, Joe Kent, who the former chief of staff for Tulsi Gabbard
+      and who had his own position as security advisor, just resigned a few days ago
+      publicly and on, I guess, he said yesterday, March 18th, with Tucker Carlson’s
+      show, that a major U.S. demand for negotiating a settlement with Iran was to insist
+      that it sell oil and gas only in dollars and to price it in dollars instead of
+      any BRICS or other non-dollar currency. Well, the whole point of this, as I mentioned,
+      is not the pricing in dollars, that doesn’t matter so much. It’s the holding its
+      reserves in the form of U.S. loans to the United States, what the United States
+      can grab and use for itself, just as Europe has confiscated 300 billion of Russia’s
+      holdings of dollars in Europe. So the investment of OPEC oil profits and resource
+      rents in dollars have led the Arab OPEC countries to be hostage to the United
+      States, and Iran has recognized that. And that is essentially the motivation for
+      it saying we have to break this connection between oil and the dollar. And what’s
+      been most important for the U.S.-OPEC relations is precisely what are they going
+      to do with their export earnings? You don’t have to actually own the oil resources
+      in order to control its trade. The sheikhdoms in the Middle East can own their
+      resources as long as the money from these exports, the money from these resources,
+      is all going to be spent, sent to the United States for loans. And these loans
+      are, as you just pointed out, Richard, that’s how the United States wants to finance
+      its wars against the world with the world’s savings, not with its own money. That’s
+      what the dollar standard is. That’s the new form of imperialism. And Henry Kissinger
+      made it clear in 1974 that OPEC dollar holdings should not take the form of actual
+      ownership and control of U.S. companies, as I mentioned, but just the more anonymous
+      bonds and stock holdings. And so this dimension on the capital account is what
+      dollarization of the oil trade really means. And of course, other countries have
+      already been recycling a lot of their money into the U.S. in the form of buying
+      the U.S. arms exports, which, as we’re now seeing, have not been able to protect
+      them. They’re not really arms for fighting. They are status symbols to be shown
+      on parade, to be shown there, like you’d have an expensive car or a famous sculpture,
+      but not to be used for defense. And all of a sudden, the countries that have been
+      buying U.S. arms have realized, wait a minute, they don’t work. And yesterday,
+      in the last few days, there was a lot of attention paid to something that Malaysia’s
+      Prime Minister Mahathir said in 2022. He’d been buying very sophisticated American
+      aircraft, I think, for maybe $600 billion worth for the Malaysian Air Force. And
+      then they found out that all these Air Force planes had a kill switch on them.
+      And it turned out that every plane that Malaysia bought can be controlled by the
+      United States. And the U.S. can press a switch, and it’s like Stuxnet took over
+      Iran’s centrifuges. The switch can enable a U.S. controller to take control of
+      the plane and make it fly wherever America wants. So if Malaysia or any other
+      country that buys a plane like that wants to fly it to either defend itself against
+      the U.S. ally or attack a U.S. ally, the United States can simply take control
+      of the plane and either crash it or even turn it around and have it bomb its own
+      country. So this whole idea of US arms exports, which is almost as in magnitude,
+      as large as the financial float of the United States, in many cases, all of that
+      has been blown up suddenly. And people are saying, wait a minute, the planes don’t
+      work. And even if we buy them, we’re not in control of them. This is really bizarre.
+      You know, what kind of an arms trade is that? So if you look at how happened with
+      all of these savings of the OPEC countries in the 1970s after the oil price increase,
+      well, a lot of them were put in U.S. banks. The U.S. banks lent them to Third
+      World countries, now called the Global South countries. And these loans were unpayable
+      from the beginning. The loans were to enable other countries’ dependency on the
+      United States for their food imports, for their trade, and for following the advice
+      of the World Bank and U.S. advisors and the academic community that you should
+      specialize in raw materials, not industrialized, specialize in low-cost labor
+      products, but not high-cost, sophisticated products. They were not doing what
+      China was doing exactly. Well, all of these loans ended up going bad. And that
+      ended the whole recycling of U.S. bank and bond investment to global South countries
+      when the Latin American and other Global South bonds had to be written down. We’re
+      facing a similar situation today, not only with these same global south countries
+      that cannot afford to pay the high prices for fertilizer made out of gas, for
+      oil and gas, and for the export, the food that they have to import that’s made
+      with fertilizer made out of this gas. You can see the whole; it’s like peeling
+      an onion to see all of the different layers that all of this means. And I provide
+      the analysis for this in superimperialism. I won’t go over it here, but I’m making
+      these points to show just what petrodollars may mean today. It now has to do with
+      all of this accumulation of savings that the OPEC countries have had. Well, we’re
+      seeing a lot of their capital investments, the cutters, billions of dollars that
+      it’ll cost to replace its gas refinement capacity, and all of the luxury tourist
+      trade that the Arab Republics and the Arab countries have built up. All of this
+      is threatened now, and all of a sudden, they’re going to have to liquidate all
+      of these reserves that they thought was going to be their permanent growing wealth.
+      It’s all being wiped out, and they’re having to sell it all off. And it’s as if
+      what was the whole point of their ever trying to become big oil exporters and
+      invest in all of these vast tourist and hotel and real estate and financial projects
+      that they’ve done. It’s been a disaster. Well, I want to just close by pointing
+      out that in Britain, Starmer, in the last few days, has said that if the United
+      States withdraws from NATO, then Britain is, quote, “will not allow American bases
+      to operate in our country’s territory.” So, what Trump may have been doing is
+      not only stop breaking the market for U.S. arms exports as a vehicle for savings,
+      he may have finally split Europe away from NATO. And if Europe does break away
+      from NATO, then what’s the point of its fighting with Russia? What’s the point
+      of its fighting against Iran? If the trigger is its need for oil and gas to prevent
+      economic collapse, then the way to avoid it is to stop the whole American Cold
+      War against Russia and China and Iran. And without the support of other countries
+      for this American Cold War, then there goes the whole U.S. strategy of trying
+      to threaten to destroy other countries if they don’t support the U.S. aims. The
+      United States is destroying the economies of other countries, but those of its
+      allies primarily. And maybe the allies now say we would rather reorient our trade
+      and diplomacy and financial relations with nations that don’t set out on imperial
+      adventurism that destroys our economies. That’s basically it in a nutshell. NIMA
+      ALKHORSHID: Yeah, go ahead, Rich. RICHARD WOLFF: Yeah. Much of the world was surprised
+      when the questions were asked in the first two weeks of the war, both to the United
+      States and Israel, on one hand, and then to the Iranian spokespeople on the other.
+      What are your goals? What are your aims? What do you hope to win? And the United
+      States gave this confused mixture. They must not have nuclear weapons, which they’ve
+      agreed not to have anyway. Right, still sits there. Mr. Netanyahu can constantly
+      terrorize his own people by saying he’s saving them from the nuclear weapons that
+      Iran will have ready by next week. You know, even though all the intermediary
+      agencies, the International Atomic Energy, all of them say that they are no positive.
+      Even American intelligence says that they are not that close, even if they wish
+      to. Okay. Well, then it’s regime change. Let’s leave that for a moment. The Israelis
+      say regime change, but they seem to literally mean killing leadership and supplanting
+      it with somebody else whom they will terrorize, because that’s what this is: assassinating
+      the leaders is a terrorist action. Always was. The original notion of a terrorist
+      was applied to people like those Russians who assassinated the czars back in the
+      19th century. They were called terrorists because they were terrorizing the leadership
+      of that country. But then, the most interesting thing is the Iranians. They don’t
+      say what you would expect, or at least what the journalists expect. They don’t
+      say, you must stop bombing us. That won’t end the war for them. They make that
+      clear. Wow. That you will do this. No, no. And then they explain, and here’s the
+      explanation: We want the United States out of the Middle East. Wow. Everybody
+      goes; they must be crazy. What? You know, that’s like the old joke, you know,
+      slogan, U.S. out of North America. No, that’s funny because the U.S. is part of
+      North America. And it’s not funny, but it is strange. But now let me explain why
+      it isn’t. The simplest explanation is that Iran’s problem isn’t this or that.
+      It isn’t the Strait of Hormuz or passing ships or none of that. The problem of
+      the Iranians, which they’ve had to finally figure out, is the presence of the
+      United States in that part of the world. Michael is giving us the details: the
+      petrodollar, the control of capital flows, the pricing of the oil, all of that.
+      Yes, but that’s the role of the United States in the Middle East. And even if
+      you change some of it, okay, oil can be traded in Chinese yuan or in Euros or
+      something. That’s not the issue. The United States wants to run the world economy
+      this century the way they basically did most of the last century, which should
+      surprise no one. But the Iranians are saying that’s the problem. In my words,
+      your empire isn’t quietly going down fast enough. You are bothering us in this
+      part of the world. You’re desperately trying to hold on to what you created in
+      the second half of the 20th century in that part of the world. And the truth is,
+      that’s the continuum between overthrowing Mosaddegh in 1953 and having this war
+      now. It’s an endless process, which they figured out that we, that’s our problem,
+      we Iranians. We’ve got someone here whose junior partner, Israel, is an annoyance
+      too. But everybody understands without the United States; there literally either
+      wouldn’t be a troubling Israel or no Israel at all. So that’s not the problem.
+      It’s this, it’s the don’t make another war with Israel. It’s bad enough Hezbollah
+      does that. We’re not; that’s not our problem. It really isn’t. Our problem is,
+      and that’s why this war is not going to stop until you get out. And the rest of
+      the world goes, what? A little poor country is telling the United States? Yes,
+      because that’s where we are. The exhaustion of this empire is now. Yeah, you couldn’t
+      do it if you were Afghanistan. That’s too poor and too small. And you couldn’t
+      do it in Iraq, for the same reason. And you couldn’t do it even in Vietnam, for
+      the same reason. But now you got 92 million. You got them right on the border
+      with Russia who can make sure that they have drones and missiles forever. So this
+      is now an unequal fight that suddenly doesn’t look so unequal at all. And as people
+      struggle here in the United States, they simply brush; they want us to leave the
+      middle. Big mistake. You’re making fun. I understand that helps you deal with
+      this reality. But that’s what you’re trying to do. You’re trying to dismiss what
+      is terribly present. The nagging question: my god, can they withstand the bombing
+      that they’re getting from Israel and the United States long enough to actually
+      win? And as that idea, and I don’t know, I mean, Nima, you know better than Michael
+      and me what the answer is or what the Iranian people can and will do, given all
+      the struggles within that country, all the differences, and all the conflicts,
+      as all countries have, but Iran has certainly got its share. Can they hang in
+      there long enough? Because the more you think about it, the more their leadership’s
+      extraordinary statement: we’re going to fight until the United States gets out
+      of the Middle East, instead of being crazy, is becoming a brilliant possibility
+      that they seem ready to fight to realize. And then the question becomes: how far
+      down the decline ladder has the United States come so that the ability of the
+      Iranians to endure outlasts the ability of the American people to endure a government
+      doing what this one is doing. And then all I can tell you is what we’re talking
+      about here is undermining. That’s why I focused on the macro. We are undermining
+      the cohesion of this society by what we are doing. If interest rates go up, if
+      inflation resumes going up, and if the recession hits, all of which is more likely
+      now than it was before this started. Then Iran will go down in human history,
+      as having understood before all the rest of us did that the [US], I can borrow
+      an image from China, [is] a paper tiger. MICHAEL HUDSON: Well, Richard, I think
+      Iran can hold on longer than the United States and its allies because Iran can
+      simply say to the world, if you don’t intervene to stop the United States and
+      Israeli terrorism and destruction, then your entire world economy is going to
+      be crashed, or at least the world economy of America and its allies in Europe
+      and Asia, because we won’t let ourselves be killed without bringing down all of
+      the nations that did not stop the United States and Israel. So that’s basically
+      its message, and we’ve already seen its willingness to do this because it really
+      doesn’t have a choice. If it stops, it will be killed by Trump coming in and attacking
+      it again and again. That’s what its leaders have said, and that certainly seems
+      a realistic assessment of U.S. behavior. So it’s up to the world to stop its own
+      economic destruction, and it hasn’t even seriously begun to do that yet. NIMA
+      ALKHORSHID: Do you want to add something before wrapping up? RICHARD WOLFF: No,
+      it’s just I am. I’m still reacting to—had not heard what Michael said about Starmer.
+      And I have, you know, I have half a foot in Europe. My family comes from there
+      and so forth. If that quote, I’ve never heard Starmer have enough courage to do
+      anything like that. He is at the end of his political career, even though he thought
+      he was in the middle. He has squandered an election in which he blew into office
+      with a labor majority across the houses of Parliament, etc., etc. He has destroyed
+      all of that. He is extremely disliked and unpopular. He’s right up there with
+      Macron in France. Just for our audience, they had municipal elections this last
+      weekend, last Sunday. And the governing party of Mr. Macron lost everything. Either
+      the right-wing nationalists or the left-wing, La France Insoumise and that coalition
+      of the left, they did very well. But the middle, which Mr. Macron represents,
+      all gone. Just all gone. And that’s usually a foretaste of the national elections
+      coming. So I have been wondering how long it would it take for the Europeans to
+      recognize that American foreign policy, because, as I put it, it’s a dying empire,
+      is no longer willing to have allies you work things out with. It wants tributaries.
+      The ally is interesting to the extent that it enriches us and, therefore, makes
+      us more secure. They haven’t done that enough, so I’m going to complain that they
+      are leeches. They don’t do anything for us. Stupid, but you can understand where
+      it comes from. You want their support. This decision to attack with Israel was
+      not discussed. The German government made it clear over the last week, Mr. Mertz,
+      and that would be the most important economy with the United States to support.
+      It is, for example, if people don’t know, the most important support for Ukraine
+      at this point, Germany. So not to coordinate with Germany is beyond words stupid.
+      Then to ask them, and not very nicely, to help you, please send us warships, which
+      Michael correctly puts they don’t have, by the way, or very few left. And those
+      don’t work real well because they haven’t had any use for them. And then to be
+      angry that they say, well, you know, Starner initially said yes, and then realized,
+      look at the irony here, realized that his career was over unless he turned against
+      it, because that way he can become a hero for all the British who don’t like being
+      treated this way, because the idiotic Conservative Party of England and the even
+      more outrageous Farage Reform Party are gung-ho supporting the United States out
+      of their god knows what you could call the way they think if even the word think
+      is there. So Mr. Starmer has just discovered that, by being anti-American, he
+      might have the best chance not to disappear. It has nothing to do with Iran or
+      British imperialism, none of which he has ever questioned, and he never will.
+      But you can see another example of the history of capitalism in which I would
+      argue it’s always the domestic situation that governs whether you go to war, when
+      you go to war, how you go to war, and when you end the war. And I think it will
+      be the outgrowth of 2027, what happens in this country will bring that war to
+      an end, or Mr. Trump’s fear of what is beginning to unfold in the economy will
+      make him have to stop this. And then the question will be: notice how it’s shifting.
+      It’ll no longer be what the United States is going to do as if that begins and
+      ends. It will become: what are the Iranians going to do? If the Americans stop
+      bombing and declare peace, what are they going to do? And the whole world will
+      be now focused on the Iranian leadership; however, much of it is still alive,
+      to be able to formulate a basis on which to end this war, which they may not be
+      ready to do, putting Mr. Trump in an absolutely unique position given the bravado
+      with which he tries to do everything. He’ll have to, but you know, he’ll be up
+      to it. Because you know how I know? Because of the clip of Scott Descent. We’re
+      taking away the sanctions on Russia. We’re taking away the sanctions on Iran in
+      order to defeat Russia and Iran. We’re giving them a ton of money, paying them
+      outrageous prices for what they export. And boy, is that a blow against them?
+      This is so stupid that you really have to stop and take a deep breath and understand
+      he’s probably notice. I’m not sure. He’s probably not that stupid, but what’s
+      coming out of his mouth is stupid squared. MICHAEL HUDSON: Well, I’m glad you
+      brought up Starmer because when even the opportunists are breaking away from the
+      U.S., they’re the canaries in the coal mine. And if you look at what’s happened
+      to Britain just this week, they’re very sharply raising their gas prices. The
+      British wage earners are being very tightly, they’re being squeezed by the rising
+      cost of heating their homes, of electricity. All of the energy prices that are
+      going to fall on the wage earners and on their employers are going way up, disclosing
+      things. And the problems, not only in Europe, with Mertz and Macron and Starmer,
+      look at Korea. Just two days ago, the Korean parliament approved the $350 billion
+      gift to the United States, saying if you don’t raise your tariffs on us, then
+      we will give you $350 billion for you, Donald Trump, to invest and keep most of
+      the profits on, just so we can have the market for our exports. But what can Korea
+      now export if it doesn’t have OPEC oil and gas? This breaks all of what Trump
+      had promised: the $350 billion from Korea. And then you have the $550 to $750
+      billion that Japan has promised to send to the United States when Japan is in
+      the same energy squeeze that Korea is. And yesterday, you had the Prime Minister,
+      an anti-Russian, anti-Chinese, pro-American prime minister of Japan here, sitting
+      with her hands very tensely in her lap. Well, Trump said, you know, we’re really
+      surprised. Iran wasn’t expecting the attack. And surprise is how to win a war,
+      just like when we had and bombed you in Japan. That was a surprise. Of course,
+      you did at first. You had him bombed us in Pearl Harbor. That was the discussion
+      that he was having. You can just imagine the effect that has on Japan and their
+      decision. Just how long can we hold on to our servitude to the United States,
+      relocating our industry there, like Korea’s promised to do? And all for what?
+      When we could really be making a profit by dealing with our neighbors instead
+      of dreaming of attacking them again like we did in the 1930s. This is maybe Trump
+      will bring about a reconsideration of world peace at the rate he’s going. RICHARD
+      WOLFF: Well, I’ve gotten several emails today just to give you an idea. And some
+      of them were really, I’m not going to do it, but if I read them to you, it would
+      bring tears to your eyes. People very quickly understood Pearl Harbor was the
+      Japanese attacking a naval military base in that harbor in Hawaii. Whereas what
+      the United States did is drop an atomic bomb on two citizen cities, Hiroshima
+      and Nagasaki, were concentrated population centers. So one country attacked a
+      military target, the other one using for the first and only time in human history
+      nuclear weapons. By the way, we should be discussing next week the statement coming
+      out of the World Health Organization that they are seriously considering the possibility
+      of nuclear weapons being deployed in this war. And when that’s all they say officially,
+      but apparently, unofficially, their expectation is that Israel would have to do
+      that because of being at risk of disappearing. And, you know, I don’t know what
+      to do with that information, but it gives me a bad feeling in the pit of my stomach.
+      So I think maybe some conversation would be useful just as one way, however weak
+      it is, of coping with such a conceivable thought. NIMA ALKHORSHID: Sure, sure.
+      NIMA ALKHORSHID: Yeah. NIMA ALKHORSHID: Thank you. Thank you so much, Richard
+      and Michael, for being with us today. Great pleasure, as always. RICHARD WOLFF:
+      Take care. NIMA ALKHORSHID: Take care. Transcription and Diarization: https://scripthub.dev/
+      Editing & Review: ced Photo by NASA on Unsplash The post Multipolar Oil Markets
+      Are Now a Reality first appeared on Michael Hudson . The post Multipolar Oil Markets
+      Are Now a Reality first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion about current geopolitical tensions, Nima
+      Alkhorshid, Richard Wolff, and Michael Hudson analyze how Donald Trump's "Operation
+      Blind Fury" and escalating conflicts in Iran are impacting regional stability
+      and economic conditions, particularly concerning Qatar's LNG production.
+    paragraph_summary: In a discussion led by Nima Alkhorshid with Richard Wolff and
+      Michael Hudson, the focus is on the escalating tensions in the Middle East, particularly
+      regarding Donald Trump's "Operation Blind Fury" amidst the ongoing war in Iran.
+      The article highlights the significant impact of recent attacks on Iranian oil
+      facilities, which have resulted in a substantial loss of production capacity for
+      Qatar and heightened regional instability. Scott Bessent's comments emphasize
+      the U.S. strategy of potentially unsanctioning Iranian oil to manage supply and
+      stabilize market prices, indicating a calculated approach to leverage Iranian
+      oil against the backdrop of geopolitical tensions. The conversation reflects on
+      the broader implications for the global economy as these developments unfold.
+    published: '2026-03-26T11:55:32+00:00'
+  - title: Iran’s Economic Counterattack Explained
+    url: https://michael-hudson.com/2026/03/irans-economic-counterattack-explained/
+    text: 'World Affairs in Context Podcast March 25, 2026 LENA PETROVA: Welcome, everybody.
+      Thank you so much for joining us. I’m Lena Petrova with a new episode of World
+      Affairs in Context. Today, I’m honored to welcome back Professor Michael Hudson,
+      a renowned economist, distinguished research professor of economics, and author.
+      By the way, I’m currently reading one of Michael’s books titled Superimperialism:
+      The Economic Strategy of American Empire . I actually have it right here—it’s
+      become one of my favorite books. This book is absolutely fascinating, and I would
+      say that it is so appropriate for anyone seeking to gain a deeper understanding
+      of current events in the world. This is the book to read. I highly recommend it.
+      Please follow Michael on Patreon as well as his website—I will link both in the
+      video description below. Professor Hudson, welcome back to the program. It’s so
+      great to see you again. MICHAEL HUDSON: Well, it’s good to be back here with so
+      much happening in the world. LENA PETROVA: Yes, it’s great to have you. By now,
+      I think the majority of us would agree that Iran has masterfully used the Strait
+      of Hormuz as leverage against the aggression of the United States and Israel.
+      In recent days, there have been reports of Iran charging $2 million for the safe
+      passage of vessels that are not linked to the United States and Israel. There
+      are allegedly negotiations between Iran and several other states to settle Iranian
+      crude oil sales in Chinese renminbi as well. And I thought that was a fascinating
+      sort of turn of events. Can the US dollar survive the Iran war, and can it remain
+      a global reserve currency? What is your interpretation of Iran retaliating, not
+      just militarily, but also economically, and doing it so powerfully? MICHAEL HUDSON:
+      Well, closing the Strait of Hormuz always has been recognized as Iran’s first
+      and most obvious response way back in the 1970s. We were talking about that. First
+      of all, the Strait of Hormuz has remained open all of this time. All of Trump’s
+      threats that were going to need an army to reopen it are irrelevant because Iran
+      is, as you just pointed out, letting ships from India, Japan, and other countries
+      use it, so there’s been no need to liberate it. That’s not what the imminent attack
+      on Iran is all about. It’s not about opening the Strait of Hormuz. It’s not about
+      stopping Iran from having an atom bomb, which it wasn’t aiming for in all these
+      past decades. And it’s not even about stopping Iran from having missiles and dismantling
+      them. It’s always about a strategy that the United States has been planning and
+      announced formally in 2003 when Wesley Clark, the general, said that America was
+      going to occupy five countries in seven years, ending with Iran. The whole aim
+      of America’s using the Middle East to control the major source of oil exports
+      is centered upon removing oil, Iran, from the picture, at least removing Iran’s
+      nationalistic leadership that overthrew the Shah from the picture. With Iran out
+      of the picture, the United States can easily control the Arab OPEC countries as
+      it’s done now. So this whole pretense that the fight that’s going to occur this
+      weekend, Friday evening near Eastern time and Saturday morning U.S. time, is about
+      sending troops to occupy an island in the strait or to force open the strait.
+      That’s all a diversionary effect. But what Iran has done so far, since you mentioned
+      it, is put in place a very simple strategy. First of all, by charging $2 million
+      for OPEC Arab ships going through, it’s made an advance payment on what it’s going
+      to be charging for reparations, for the damage that’s already been done by the
+      United States and Israel against itself. And it will simply use these charges
+      to rebuild Iran. So, first of all, this has laid the groundwork for how Iran is
+      going to impose reparations. Secondly, this prevents Trump from threatening the
+      use of force because if ships are going in and out through the strait, it isn’t
+      closed; it’s only closed to Iran’s enemies. So Trump is really trying to say,
+      let our OPEC companies export without having to pay you any money at all. We want
+      OPEC countries to have all the money so that they can do what they want as part
+      of the American dollarized economic system. Third, pricing the oils in RMB has
+      turned the tables on the United States by using its control of the world oil trade
+      as a means of supporting the dollar. In this case, henceforth, the oil trade is
+      going to be spent on non-dollar currencies, the nightmare of America’s dollarization.
+      And fourth, just turns the tables also on U.S. government policy by using the
+      threat of closing off oil as a means of imposing sanctions on other countries.
+      The United States has been able to use the threat of closing OPEC oil to say that
+      it can turn off the energy flow to countries that do not agree to follow policies
+      that follow the United States leadership. Well, here it’s Iran that’s imposing
+      sanctions on these countries, saying that America’s allies are saying, well, if
+      you’re going to ally yourself with the United States and don’t meet the terms
+      for us breaking the U.S. control over the entire Middle East and its oil exports,
+      then we’re not going to let you conduct this trade. So this is the big issue.
+      Iranian strategy that has led the United States to make all the threats that it’s
+      been making. Using the Hormuz is just one of the excuses that is going to back
+      what, apparently, Trump is going to announce this weekend. LENA PETROVA: Trump
+      threatened to destroy Iran’s energy infrastructure several days ago, and he gave
+      Iran 48 hours. And then on Monday, first thing, he delayed the attack for five
+      days. Earlier today, Trump also said that there is progress in talks with Iran.
+      He went as far as to say, “We already won the war”. Although, of course, Iran
+      keeps denying that any such talks are taking place and that there’s any sort of
+      negotiation between the United States, Israel, and Iran. But what’s interesting
+      is that in the meantime, sort of in the backdrop of all of these events that I
+      think are very much meant to distract and confuse Iran, Trump’s five-day pause
+      in the war is the exact amount of time that it takes for thousands of U.S. Marines
+      to arrive in the region. So is Trump simply trying to sort of buy time, keep a
+      lid on oil prices, and manipulate the stock market? Or is he actually setting
+      the scene for yet another escalation? As you said, you are expecting one this
+      coming weekend. MICHAEL HUDSON: There’s been a lot of wonderful commentary on
+      that. Yesterday’s Naked Capitalism had an article on its Coffee Break, Trump’s
+      taco designed to manipulate the markets. Matt Stoller has an explanation of how
+      this whole charade of, first of all, threatening last Friday to create chaos in
+      the world economy, crashing the markets, pushing oil prices up, and stock prices
+      down. And then just a few minutes before the New York financial markets opened
+      on Monday morning, saying, “Oh, we don’t have to attack anyway. Iran has agreed
+      to peaceful relations. We’re on the way to an agreement. There’s no reason for
+      the markets to be upset.” Well, that led, of course, to the markets jumping 1100
+      points at one point on the New York Stock Exchange for the Dow Jones Industrial
+      Average, and other averages followed. Well, it turns out that there were a lot
+      of insider trades. Apparently, by Trump’s cronies, who were aware of exactly what
+      Trump was going to do. And it’s as if Trump had orchestrated this whole threat
+      and then solved the threat on Monday morning to enable his associates to bet half
+      a billion dollars in buying positions to make a killing when the stock prices
+      went up, oil prices went back down, and it’s all been a financial maneuver to
+      enrich themselves. This is the most ostensibly, invisibly, and even proudly corrupt
+      regime in American history, at least on the national scale. I suppose the Tammany
+      Hall regime in New York was an example, but now you have Tammany Hall Tammany
+      Hall going big, as it were. I think that this coming weekend has sort of softened
+      up the market for saying, well, maybe Trump is going to try to make another market
+      manipulation. He’s going to attack Iran, and then he’s going to suddenly, on Monday
+      morning, maybe he’ll pull back and say, well, we’ve settled everything. Iran said,
+      don’t hurt us anymore. We’re going to settle, and everything will be okay. And
+      it’ll make another run up. I don’t think that’s the plan this time. I think the
+      main plan is generally to throw everything they have against Iran. This has been
+      reviewed by almost all of the military commentators that I watch, and probably
+      most of your own viewers watch, and they are saying this is going to be suicidal
+      for the United States. But it’s a plan that, after all, the United States has
+      been preparing for more than two decades. How are they going to militarily defeat
+      Iran? Well, obviously, they’ve refined it again and again since 2003 to take account
+      of all of the changes in military technology, changes in Iran’s buildup. Based
+      on last summer’s U.S. and Israeli attack on Iran, they think that they’ve got
+      a pretty good profile on how Iran is going to defend itself, but I don’t think
+      Iran showed its full hand at all in this profile. So I think that for this weekend,
+      Trump really is not going to back off. He may try to back off if and when the
+      U.S. attack is a disaster, but I think this is the last chance that the United
+      States has to try to really follow through with this plan that it has never given
+      up on attacking Iran. So I think in terms of the stock market people, I think
+      that a lot of investors are going to say when the attack begins on New York time
+      Saturday morning, they’ll say, “Well, fool me once, shame on you, fool me twice,
+      shame on me.” We’re not going to get involved. And it’s not going to be a stock
+      market operation. It’s going to be a real military operation for all of this.
+      So there’s going to be a real reason for the markets to be scared after this weekend,
+      if indeed America follows through on Trump’s say, well, we’re giving you five
+      days. In other words, let’s let all of the stock market respond, and let’s hear
+      what the response from other countries is. And it looks like other countries are
+      saying, well, this isn’t our war. We’re standing on the sidelines. LENA PETROVA:
+      It does feel as though this war has been eye-opening from many different perspectives.
+      Not only does it prove that the United States government is, for the most part,
+      subservient to the interests of a foreign actor, Israel, but it also emphasizes
+      the incompetence, the pure incompetence in Washington. In fact, Washington destroyed
+      its own credibility by attacking Iran not once, but twice during high-level negotiations.
+      So it will be very naive to think that this time we’ll be different.So arguably,
+      the credibility and the trustworthiness of a state are highly valuable assets.
+      And I think it would be fair to say the United States has lost both of those assets.
+      And it effectively proved itself to be the major destabilizing force in the world.
+      And many view this war as an opening act of the collapse of the U.S. empire. Would
+      you agree with that perspective, Professor Hudson? MICHAEL HUDSON: There was no
+      incompetence in American diplomacy in the last few weeks. It was all a fake. And
+      you know that when the United States made what it thought were unacceptable demands
+      on Iran. They wanted Iran to remember what the lead-up to February 28th was. The
+      lead-up was that they wanted Iran to agree to turn over its enriched uranium to
+      prove that it could not build an atom bomb, as if that was the whole thing that
+      they were negotiating about, which it wasn’t. And Iran agreed to so many other
+      of the U.S. demands that it looked at as if there was going to be no reason for
+      the American pretended reason for war with Iran, because if it was giving up its
+      uranium and letting it be sent somewhere else and agreeing to some sort of oversight
+      of its missiles, Well, that was what the United States said. And the Umani referee
+      for these came out and said, you know, now there’s really a basis for peace. That
+      terrified the United States because Iran called America’s bluff. They said, ”
+      Okay, it’s not worth having a war, and we know that we can win it, but we also
+      know that in winning it, we’re going to suffer a lot of damage by the US and Israeli
+      air attacks on our oil, our infrastructure, and our population. We’re willing
+      to pay a real heavy price to avoid the war, so we’re agreeing. Well, this panicked
+      the United States so much that they said, we’ve got to immediately attack Iran
+      so that it cannot say there’s no need for an attack. The United States was dead
+      set already that the aim of these negotiations was just a pretense, a public relations
+      exercise to justify the attack on Iran, and Iran prevented that. And that was
+      the trigger. I wrote all about this in the articles that I’ve been doing for Democracy
+      Collaborative and putting on my site and on other sites as well. Bluffing is not
+      really a negotiation. America never came out with saying outright, what is it
+      we want from Iran? Well, of course it hasn’t. What it wants from Iran is to control
+      the entire Near East, not only Iran, but the entire Middle Eastern oil trade,
+      so that it can get a choke point, a stranglehold on the world supply of oil exports,
+      so it can continue to use that as one of the fundamental levers of weaponizing
+      its foreign trade policy and its foreign monetary policy. And all that was… countered
+      very adeptly by Iran. LENA PETROVA: The United States is fighting against any
+      country that is focused on achieving self-sufficiency in terms of energy security,
+      in terms of food security, and of course, information technology. AI is a big
+      deal. It’s being used in the military and in so many other areas. So are we effectively
+      seeing a sign of an empire in decline, sort of that last stage of the U.S. empire
+      in decline, when it needs to destroy others in order to stay in power and to survive?
+      MICHAEL HUDSON: Well, it’s destroying others by an attack on international law.
+      What the United States is doing is violating all the rules of war, all the rules
+      that were laid down in the United Nations Charter. This is not simply a war against
+      Iran. The United States knows very well that the result of fighting Iran is going
+      to be to close off the OPEC oil trade for the rest of the year, probably well
+      into next year, mainly due to war. This is the beginning of a long-term war to
+      determine whether the United States can still maintain unipolar control of the
+      world economy and prevent other countries, as you pointed out, from expressing
+      their own sovereignty when the idea of national sovereignty is the basis for all
+      international law so all of the countries of the world are threatened by this
+      this is what makes the war in Iran and last February twenty eighth the official
+      opening of world war three. It’s a world war because the entire world needs energy
+      and is going to be affected by the cutback in oil exports, gas exports, fertilizer
+      exports, and all of the production that is based on energy, electricity, oil for
+      plastics, helium gas also because the cutters, helium, plants have been destroyed
+      by Iran, and that has already caused cutbacks in the use medical scanning devices
+      that need them. Helium is also used for computer chips. Frozen cryogenic helium
+      is needed in order for the ultra-low-violet lithography to etch a computer chip
+      in a hard enough, cold enough form that it doesn’t just spill all over. So the
+      entire strain of the world economy that has been based on interdependence with
+      free oil exports is now being thrown into chaos, and this is going to affect the
+      supply of fertilizer and hence agricultural yields, which will probably affect
+      the Global South countries more than anyone else. And it’s not only chaos, but
+      there’s never chaos at the end of a revolution. And so the chaos is America’s
+      idea of putting it in a position where, because America is so self-sufficient
+      in oil, food, and other materials, it can come out ahead stronger than Asian countries
+      or Global South countries and will be able to use its economic strength to control
+      world diplomacy in the same way that it did after World War II. It’s an attack
+      by the United States, not only on all other countries, but on the very principles
+      that civilization was held to uphold. The idea of sovereignty, of no undeclared
+      war, that if you are going to have a war, no attacks on civilians, especially
+      on hospitals and basic infrastructure, every rule of war and of international
+      law has been broken by the United States. So the other countries, I think, are
+      stunned into cognitive dissonance. They can’t believe what they have to do to
+      defend themselves because as the chaos unfolds over the course of the coming year,
+      the only defense is to create an entirely new system of international diplomacy,
+      to replace the United Nations in its present form, to replace the IMF and the
+      World Bank, to replace all of the institutions that the United States have put
+      in place as means of control, including the Trump’s tariffs that can just manipulate
+      foreign access to the US market. The rest of the world has to become independent
+      of the United States. And what that will lead to is essentially isolating the
+      United States instead of the United States being able to isolate what it calls
+      its adversaries, the rest of the world, who do not follow its own policy. So this
+      is really as much of a civilizational fight as, if not more, than World War II
+      was. LENA PETROVA: Certainly. Michael, you mentioned many times that at the core
+      of the US aggression is the desire to control energy as a way to leverage power
+      and as a way to control other states and their access to energy. The damage that
+      has been done to the Gulf Cooperation Council infrastructure is enormous, and
+      to Iran’s infrastructure is enormous. And certainly it would take years to rebuild,
+      to sort of go back to the same levels of production that have been sort of normal
+      to them, to where they satisfy the demand. What’s interesting is that US news
+      outlets are now openly admitting that we are seeing early warnings of stagflation
+      ahead. So are we looking at stagflation, though, or are we looking at something
+      much worse, such as a global depression, for example? MICHAEL HUDSON: Yeah, it’s
+      a depression. Depressions are not inflationary as such. They’re deflationary.
+      So the whole idea, the whole pretense that, oh, oil prices are going to go up,
+      that’s going to increase the price level, and that reduces the ability of financial
+      claims and bond holdings to have command over commodities. That’s all ideology.
+      That’s all this free market libertarian ideology. The oil prices, gas prices,
+      helium prices, and fertilizer prices will go up, but that’s going to cause whole
+      industries to close down. And that’s going to put labor and these industries out
+      of business. And depression is the opposite of an inflationary situation. So the
+      stock markets don’t have a clue about how money and prices are affected through
+      the economy. And there’s no analysis of how the balance of payments is affected
+      by all this. So the stock market, instead of having a realistic point of view
+      of how to cope with what’s going to happen, all they think is, well, the trend
+      is my friend. If people are buying stocks, then jump on the bandwagon and try
+      to ride it up, and jump out on time. And if markets are going down, then sell
+      everything, sell them short, and then try to buy in at the bottom. That’s the
+      extent of their tunnel vision when it comes to understanding what’s really going
+      to happen. So the stock market is only a narrow slice of the economy without understanding
+      the whole context within which prices, wealth, asset values, wage levels, and
+      purchasing power Evolve. LENA PETROVA: Iran has been under sanctions for decades,
+      and it is a regional middle power. I think that would be an appropriate way to
+      describe it. And Iran has taken on a great power state, the United States, that’s
+      working hand-in-hand with the nuclear-armed Israel, which also has the strongest
+      military in the Middle East. It goes without saying that to support war efforts,
+      any state—whether it is the United States, Iran, or any other state- needs economic
+      resources. And it’s absolutely remarkable that after being subjected to Western
+      sanctions for nearly four decades, Iran has proven itself to be such a strong
+      adversary. It’s in the driver’s seat right now, as you pointed out. It has the
+      leverage that it needs. And arguably, it established at least partial deterrence
+      because Trump was forced to call off his 48-hour ultimatum. So what does the Iran
+      war reveal about the United States’ ability to compete militarily or economically
+      with not just middle powers such as Iran, but great powers such as China and Russia?
+      MICHAEL HUDSON: Well, we’re going to find out this weekend that there must be
+      some plan in place for what they’re going to do with these battleships they have
+      there. Excuse me, the aircraft carriers, all of the troops that are there. We
+      know that the United States can send bombs. I’m not sure they can send bombers
+      because Iran has defenses against a lot of bombers. You mentioned Israel military.
+      Israel is not going to get involved in this war. It’s willing to fight to the
+      last American in this war, but I don’t think you’re going to have The Israeli
+      army is busy carving out Lebanon, so the Israelis will have a place to go after
+      Israel’s all bombed up, and the Israeli military defense is spent. They don’t
+      have any more defense. The whole idea of the Golden Dome was fictitious. It was
+      all junk. All of the American arms it has were not arms to really fight with.
+      And the arms that the Gulf countries had were not arms that really work. They
+      were prestige arms. They were to have a parade, sort of like having an expensive
+      Mercedes automobile, but not actually to fight because they’re ineffective. against
+      the Iranian arms. So there really isn’t any American defense and military except
+      trying to actually land all of these Marines to fight to the last Marine. Well,
+      according to all of the military commentators that I’ve been reading on almost
+      every site, they all say these Marines whether they’re landing in the Strait of
+      Hormuz and the Persian Gulf, or whether they’re landing on the southern coast
+      of Iran or in Balochistan or moving from Azerbaijan or the Kurdish territories,
+      wherever they are, they’re going to be eaten up. And the generals must be aware
+      of that because I don’t think they have a clue as to just how thorough the Iranians
+      have been able to defend themselves. I don’t know. Nobody knows, because it’s
+      a secret. That’s what they’ve said. We’re going to find out, but I think the United
+      States says, all right, this is going to be our Alamo. Just as the Americans said,
+      remember the Alamo for the great defeat of the Alamo, to try to mobilize patriotic
+      support for the war. Let’s get vengeance on it. I think the American idea must
+      be, well, let’s get vengeance on what the Iranians have done to the American army
+      and the Israeli bombs. Well, I don’t think there’s going to be any patriotic,
+      remember-the-Alamo feeling, either in America or in Europe. Europe has already
+      said, this isn’t our war. You didn’t consult us. You didn’t make us part of the
+      planning. We don’t have a clue as to what you’re doing. And the American public
+      is not in favor of the war, and more, I think, the American public, when they
+      see the chaos and the expense that there’s going to be here, including on their
+      own pocketbooks, not only for gasoline, but for agricultural products and for
+      all of the products that we’ve been talking about that use oil and gas and other
+      OPEC exports, they’re going to say, well, this was Trump’s war. This was the neocons’
+      war. Some will say this is Israel’s war, although it really is as much America’s
+      war as Israel’s war. And they’re not going to be supportive, and it does not bode
+      well for the fortunes of Trump or the Republicans or the Democrats that are just
+      as pro-war, just as in favor of this as the Republicans, as you can see in Congress’s
+      refusal to do anything at all to try to stop this war. LENA PETROVA: Michael,
+      and maybe the last question for today. With November midterms coming up, I would
+      imagine that Republicans ought to be in panic mode. Donald Trump’s approval ratings
+      are underwater on every single issue, according to the most recent poll. Voters
+      are juggling higher prices, economic instability, and of course, a widening war
+      with Iran. its consequences. And as we know from history, that kind of environment
+      rarely favors the party in power. So Republicans are definitely on that hot seat.
+      How much political will or political appetite is there in Washington, do you think,
+      to continue this war of choice, given that gasoline prices are rising, food prices
+      are rising, and those two things are sort of the most sensitive areas for the
+      U.S. population? MICHAEL HUDSON: What is Washington? What do you mean by Washington?
+      LENA PETROVA: The foreign policy establishment MICHAEL HUDSON: Right now, it’s
+      a one-man band. It’s Trump and his coterie. He’s appointed a cabinet that’s completely
+      loyal to himself. You have the Republican-controlled Senate in the South, the
+      senator from South Alabama. They’re all in favor of the suicide march. They’re
+      like lemmings. They’re not going to protest. They’re all afraid of going against
+      Trump. There is obviously a whole wing of the Republican Party, the isolationist
+      wing that’s always been part of the Republican Party, but they seem to be in quite
+      a minority. You just don’t have many people. The Southerners are South Carolina
+      and the others. They are all in favor of it, and the democrats all are. If you
+      look at who is paying for the campaigns of America’s senators and Republicans,
+      it’s a pack, and they all want what they seem to only care about: their paychecks.
+      They don’t care about who wins the war. They want their paychecks. That’s what
+      they’ve shown, the utter corruption of the Senate and the Republicans, and the
+      result of the Supreme Court’s ruling that there’s no limit on private contributions
+      to campaigns has been essentially to privatize and financialize the election process
+      in the United States. So the elections for the campaign that are determined by
+      what politicians can raise the most campaign funding are all open to the highest
+      bidder, and Congress has set up a circular flow between the United States and
+      Israel. The United States will give enormous amounts of money to Israel that will
+      turn around and siphon some percentage of this back into its own lobbyists to
+      reward the senators and the representatives that have voted in its favor so by
+      essentially voting for the war and support of Israel as America’s foreign legion
+      along with isis and Al-Qaeda as its second foreign legion in the middle east you
+      have a sort of self-financing, self-promotion way for the Congress people to get
+      rich, including no doubt all of those insiders who made a killing last weekend
+      on Trump’s charade that we’ve just been discussing. LENA PETROVA Absolutely. These
+      are very interesting times, right? Professor Michael Hudson, thank you so much
+      for joining us. And thank you so much for sharing your perspective on these events.
+      I hope that you come back for a new episode. And I know our viewers are looking
+      forward to seeing you here again. MICHAEL HUDSON: Well, thanks for having me.
+      It’s been a good discussion, and we’ll see what happens this weekend. Photo by
+      Maxim Hopman on Unsplash The post Iran’s Economic Counterattack Explained first
+      appeared on Michael Hudson . The post Iran’s Economic Counterattack Explained
+      first appeared on Michael Hudson .'
+    one_sentence_summary: 'In the latest episode of the World Affairs in Context podcast,
+      host Lena Petrova welcomes back economist Professor Michael Hudson to discuss
+      his influential book "Superimperialism: The Economic Strategy of American Empire"
+      and its relevance to understanding current global events.'
+    paragraph_summary: 'In the March 25, 2026 episode of the World Affairs in Context
+      podcast, host Lena Petrova welcomes back economist Professor Michael Hudson to
+      discuss current global events, particularly focusing on Iran''s strategic maneuvers
+      in the Strait of Hormuz amidst tensions with the United States and Israel. Petrova
+      highlights Hudson''s book, "Superimperialism: The Economic Strategy of American
+      Empire," as essential reading for understanding these dynamics. The conversation
+      reveals that Iran is leveraging its control over the Strait by charging fees for
+      safe passage of vessels not associated with the U.S. or Israel and exploring the
+      use of the Chinese renminbi for oil sales, raising questions about the future
+      of the U.S. dollar as a global reserve currency. Hudson emphasizes that Iran''s
+      historical response to aggression has always included the threat to close the
+      Strait, a tactic that remains relevant today.'
+    published: '2026-03-25T22:41:58+00:00'
+  - title: Iran’s Economic Counterattack Explained
+    url: https://michael-hudson.com/2026/03/irans-economic-counterattack-explained/
+    text: 'World Affairs in Context Podcast March 25, 2026 LENA PETROVA: Welcome, everybody.
+      Thank you so much for joining us. I’m Lena Petrova with a new episode of World
+      Affairs in Context. Today, I’m honored to welcome back Professor Michael Hudson,
+      a renowned economist, distinguished research professor of economics, and author.
+      By the way, I’m currently reading one of Michael’s books titled Superimperialism:
+      The Economic Strategy of American Empire . I actually have it right here—it’s
+      become one of my favorite books. This book is absolutely fascinating, and I would
+      say that it is so appropriate for anyone seeking to gain a deeper understanding
+      of current events in the world. This is the book to read. I highly recommend it.
+      Please follow Michael on Patreon as well as his website—I will link both in the
+      video description below. Professor Hudson, welcome back to the program. It’s so
+      great to see you again. MICHAEL HUDSON: Well, it’s good to be back here with so
+      much happening in the world. LENA PETROVA: Yes, it’s great to have you. By now,
+      I think the majority of us would agree that Iran has masterfully used the Strait
+      of Hormuz as leverage against the aggression of the United States and Israel.
+      In recent days, there have been reports of Iran charging $2 million for the safe
+      passage of vessels that are not linked to the United States and Israel. There
+      are allegedly negotiations between Iran and several other states to settle Iranian
+      crude oil sales in Chinese renminbi as well. And I thought that was a fascinating
+      sort of turn of events. Can the US dollar survive the Iran war, and can it remain
+      a global reserve currency? What is your interpretation of Iran retaliating, not
+      just militarily, but also economically, and doing it so powerfully? MICHAEL HUDSON:
+      Well, closing the Strait of Hormuz always has been recognized as Iran’s first
+      and most obvious response way back in the 1970s. We were talking about that. First
+      of all, the Strait of Hormuz has remained open all of this time. All of Trump’s
+      threats that were going to need an army to reopen it are irrelevant because Iran
+      is, as you just pointed out, letting ships from India, Japan, and other countries
+      use it, so there’s been no need to liberate it. That’s not what the imminent attack
+      on Iran is all about. It’s not about opening the Strait of Hormuz. It’s not about
+      stopping Iran from having an atom bomb, which it wasn’t aiming for in all these
+      past decades. And it’s not even about stopping Iran from having missiles and dismantling
+      them. It’s always about a strategy that the United States has been planning and
+      announced formally in 2003 when Wesley Clark, the general, said that America was
+      going to occupy five countries in seven years, ending with Iran. The whole aim
+      of America’s using the Middle East to control the major source of oil exports
+      is centered upon removing oil, Iran, from the picture, at least removing Iran’s
+      nationalistic leadership that overthrew the Shah from the picture. With Iran out
+      of the picture, the United States can easily control the Arab OPEC countries as
+      it’s done now. So this whole pretense that the fight that’s going to occur this
+      weekend, Friday evening near Eastern time and Saturday morning U.S. time, is about
+      sending troops to occupy an island in the strait or to force open the strait.
+      That’s all a diversionary effect. But what Iran has done so far, since you mentioned
+      it, is put in place a very simple strategy. First of all, by charging $2 million
+      for OPEC Arab ships going through, it’s made an advance payment on what it’s going
+      to be charging for reparations, for the damage that’s already been done by the
+      United States and Israel against itself. And it will simply use these charges
+      to rebuild Iran. So, first of all, this has laid the groundwork for how Iran is
+      going to impose reparations. Secondly, this prevents Trump from threatening the
+      use of force because if ships are going in and out through the strait, it isn’t
+      closed; it’s only closed to Iran’s enemies. So Trump is really trying to say,
+      let our OPEC companies export without having to pay you any money at all. We want
+      OPEC countries to have all the money so that they can do what they want as part
+      of the American dollarized economic system. Third, pricing the oils in RMB has
+      turned the tables on the United States by using its control of the world oil trade
+      as a means of supporting the dollar. In this case, henceforth, the oil trade is
+      going to be spent on non-dollar currencies, the nightmare of America’s dollarization.
+      And fourth, just turns the tables also on U.S. government policy by using the
+      threat of closing off oil as a means of imposing sanctions on other countries.
+      The United States has been able to use the threat of closing OPEC oil to say that
+      it can turn off the energy flow to countries that do not agree to follow policies
+      that follow the United States leadership. Well, here it’s Iran that’s imposing
+      sanctions on these countries, saying that America’s allies are saying, well, if
+      you’re going to ally yourself with the United States and don’t meet the terms
+      for us breaking the U.S. control over the entire Middle East and its oil exports,
+      then we’re not going to let you conduct this trade. So this is the big issue.
+      Iranian strategy that has led the United States to make all the threats that it’s
+      been making. Using the Hormuz is just one of the excuses that is going to back
+      what, apparently, Trump is going to announce this weekend. LENA PETROVA: Trump
+      threatened to destroy Iran’s energy infrastructure several days ago, and he gave
+      Iran 48 hours. And then on Monday, first thing, he delayed the attack for five
+      days. Earlier today, Trump also said that there is progress in talks with Iran.
+      He went as far as to say, “We already won the war”. Although, of course, Iran
+      keeps denying that any such talks are taking place and that there’s any sort of
+      negotiation between the United States, Israel, and Iran. But what’s interesting
+      is that in the meantime, sort of in the backdrop of all of these events that I
+      think are very much meant to distract and confuse Iran, Trump’s five-day pause
+      in the war is the exact amount of time that it takes for thousands of U.S. Marines
+      to arrive in the region. So is Trump simply trying to sort of buy time, keep a
+      lid on oil prices, and manipulate the stock market? Or is he actually setting
+      the scene for yet another escalation? As you said, you are expecting one this
+      coming weekend. MICHAEL HUDSON: There’s been a lot of wonderful commentary on
+      that. Yesterday’s Naked Capitalism had an article on its Coffee Break, Trump’s
+      taco designed to manipulate the markets. Matt Stoller has an explanation of how
+      this whole charade of, first of all, threatening last Friday to create chaos in
+      the world economy, crashing the markets, pushing oil prices up, and stock prices
+      down. And then just a few minutes before the New York financial markets opened
+      on Monday morning, saying, “Oh, we don’t have to attack anyway. Iran has agreed
+      to peaceful relations. We’re on the way to an agreement. There’s no reason for
+      the markets to be upset.” Well, that led, of course, to the markets jumping 1100
+      points at one point on the New York Stock Exchange for the Dow Jones Industrial
+      Average, and other averages followed. Well, it turns out that there were a lot
+      of insider trades. Apparently, by Trump’s cronies, who were aware of exactly what
+      Trump was going to do. And it’s as if Trump had orchestrated this whole threat
+      and then solved the threat on Monday morning to enable his associates to bet half
+      a billion dollars in buying positions to make a killing when the stock prices
+      went up, oil prices went back down, and it’s all been a financial maneuver to
+      enrich themselves. This is the most ostensibly, invisibly, and even proudly corrupt
+      regime in American history, at least on the national scale. I suppose the Tammany
+      Hall regime in New York was an example, but now you have Tammany Hall Tammany
+      Hall going big, as it were. I think that this coming weekend has sort of softened
+      up the market for saying, well, maybe Trump is going to try to make another market
+      manipulation. He’s going to attack Iran, and then he’s going to suddenly, on Monday
+      morning, maybe he’ll pull back and say, well, we’ve settled everything. Iran said,
+      don’t hurt us anymore. We’re going to settle, and everything will be okay. And
+      it’ll make another run up. I don’t think that’s the plan this time. I think the
+      main plan is generally to throw everything they have against Iran. This has been
+      reviewed by almost all of the military commentators that I watch, and probably
+      most of your own viewers watch, and they are saying this is going to be suicidal
+      for the United States. But it’s a plan that, after all, the United States has
+      been preparing for more than two decades. How are they going to militarily defeat
+      Iran? Well, obviously, they’ve refined it again and again since 2003 to take account
+      of all of the changes in military technology, changes in Iran’s buildup. Based
+      on last summer’s U.S. and Israeli attack on Iran, they think that they’ve got
+      a pretty good profile on how Iran is going to defend itself, but I don’t think
+      Iran showed its full hand at all in this profile. So I think that for this weekend,
+      Trump really is not going to back off. He may try to back off if and when the
+      U.S. attack is a disaster, but I think this is the last chance that the United
+      States has to try to really follow through with this plan that it has never given
+      up on attacking Iran. So I think in terms of the stock market people, I think
+      that a lot of investors are going to say when the attack begins on New York time
+      Saturday morning, they’ll say, “Well, fool me once, shame on you, fool me twice,
+      shame on me.” We’re not going to get involved. And it’s not going to be a stock
+      market operation. It’s going to be a real military operation for all of this.
+      So there’s going to be a real reason for the markets to be scared after this weekend,
+      if indeed America follows through on Trump’s say, well, we’re giving you five
+      days. In other words, let’s let all of the stock market respond, and let’s hear
+      what the response from other countries is. And it looks like other countries are
+      saying, well, this isn’t our war. We’re standing on the sidelines. LENA PETROVA:
+      It does feel as though this war has been eye-opening from many different perspectives.
+      Not only does it prove that the United States government is, for the most part,
+      subservient to the interests of a foreign actor, Israel, but it also emphasizes
+      the incompetence, the pure incompetence in Washington. In fact, Washington destroyed
+      its own credibility by attacking Iran not once, but twice during high-level negotiations.
+      So it will be very naive to think that this time we’ll be different.So arguably,
+      the credibility and the trustworthiness of a state are highly valuable assets.
+      And I think it would be fair to say the United States has lost both of those assets.
+      And it effectively proved itself to be the major destabilizing force in the world.
+      And many view this war as an opening act of the collapse of the U.S. empire. Would
+      you agree with that perspective, Professor Hudson? MICHAEL HUDSON: There was no
+      incompetence in American diplomacy in the last few weeks. It was all a fake. And
+      you know that when the United States made what it thought were unacceptable demands
+      on Iran. They wanted Iran to remember what the lead-up to February 28th was. The
+      lead-up was that they wanted Iran to agree to turn over its enriched uranium to
+      prove that it could not build an atom bomb, as if that was the whole thing that
+      they were negotiating about, which it wasn’t. And Iran agreed to so many other
+      of the U.S. demands that it looked at as if there was going to be no reason for
+      the American pretended reason for war with Iran, because if it was giving up its
+      uranium and letting it be sent somewhere else and agreeing to some sort of oversight
+      of its missiles, Well, that was what the United States said. And the Umani referee
+      for these came out and said, you know, now there’s really a basis for peace. That
+      terrified the United States because Iran called America’s bluff. They said, ”
+      Okay, it’s not worth having a war, and we know that we can win it, but we also
+      know that in winning it, we’re going to suffer a lot of damage by the US and Israeli
+      air attacks on our oil, our infrastructure, and our population. We’re willing
+      to pay a real heavy price to avoid the war, so we’re agreeing. Well, this panicked
+      the United States so much that they said, we’ve got to immediately attack Iran
+      so that it cannot say there’s no need for an attack. The United States was dead
+      set already that the aim of these negotiations was just a pretense, a public relations
+      exercise to justify the attack on Iran, and Iran prevented that. And that was
+      the trigger. I wrote all about this in the articles that I’ve been doing for Democracy
+      Collaborative and putting on my site and on other sites as well. Bluffing is not
+      really a negotiation. America never came out with saying outright, what is it
+      we want from Iran? Well, of course it hasn’t. What it wants from Iran is to control
+      the entire Near East, not only Iran, but the entire Middle Eastern oil trade,
+      so that it can get a choke point, a stranglehold on the world supply of oil exports,
+      so it can continue to use that as one of the fundamental levers of weaponizing
+      its foreign trade policy and its foreign monetary policy. And all that was… countered
+      very adeptly by Iran. LENA PETROVA: The United States is fighting against any
+      country that is focused on achieving self-sufficiency in terms of energy security,
+      in terms of food security, and of course, information technology. AI is a big
+      deal. It’s being used in the military and in so many other areas. So are we effectively
+      seeing a sign of an empire in decline, sort of that last stage of the U.S. empire
+      in decline, when it needs to destroy others in order to stay in power and to survive?
+      MICHAEL HUDSON: Well, it’s destroying others by an attack on international law.
+      What the United States is doing is violating all the rules of war, all the rules
+      that were laid down in the United Nations Charter. This is not simply a war against
+      Iran. The United States knows very well that the result of fighting Iran is going
+      to be to close off the OPEC oil trade for the rest of the year, probably well
+      into next year, mainly due to war. This is the beginning of a long-term war to
+      determine whether the United States can still maintain unipolar control of the
+      world economy and prevent other countries, as you pointed out, from expressing
+      their own sovereignty when the idea of national sovereignty is the basis for all
+      international law so all of the countries of the world are threatened by this
+      this is what makes the war in Iran and last February twenty eighth the official
+      opening of world war three. It’s a world war because the entire world needs energy
+      and is going to be affected by the cutback in oil exports, gas exports, fertilizer
+      exports, and all of the production that is based on energy, electricity, oil for
+      plastics, helium gas also because the cutters, helium, plants have been destroyed
+      by Iran, and that has already caused cutbacks in the use medical scanning devices
+      that need them. Helium is also used for computer chips. Frozen cryogenic helium
+      is needed in order for the ultra-low-violet lithography to etch a computer chip
+      in a hard enough, cold enough form that it doesn’t just spill all over. So the
+      entire strain of the world economy that has been based on interdependence with
+      free oil exports is now being thrown into chaos, and this is going to affect the
+      supply of fertilizer and hence agricultural yields, which will probably affect
+      the Global South countries more than anyone else. And it’s not only chaos, but
+      there’s never chaos at the end of a revolution. And so the chaos is America’s
+      idea of putting it in a position where, because America is so self-sufficient
+      in oil, food, and other materials, it can come out ahead stronger than Asian countries
+      or Global South countries and will be able to use its economic strength to control
+      world diplomacy in the same way that it did after World War II. It’s an attack
+      by the United States, not only on all other countries, but on the very principles
+      that civilization was held to uphold. The idea of sovereignty, of no undeclared
+      war, that if you are going to have a war, no attacks on civilians, especially
+      on hospitals and basic infrastructure, every rule of war and of international
+      law has been broken by the United States. So the other countries, I think, are
+      stunned into cognitive dissonance. They can’t believe what they have to do to
+      defend themselves because as the chaos unfolds over the course of the coming year,
+      the only defense is to create an entirely new system of international diplomacy,
+      to replace the United Nations in its present form, to replace the IMF and the
+      World Bank, to replace all of the institutions that the United States have put
+      in place as means of control, including the Trump’s tariffs that can just manipulate
+      foreign access to the US market. The rest of the world has to become independent
+      of the United States. And what that will lead to is essentially isolating the
+      United States instead of the United States being able to isolate what it calls
+      its adversaries, the rest of the world, who do not follow its own policy. So this
+      is really as much of a civilizational fight as, if not more, than World War II
+      was. LENA PETROVA: Certainly. Michael, you mentioned many times that at the core
+      of the US aggression is the desire to control energy as a way to leverage power
+      and as a way to control other states and their access to energy. The damage that
+      has been done to the Gulf Cooperation Council infrastructure is enormous, and
+      to Iran’s infrastructure is enormous. And certainly it would take years to rebuild,
+      to sort of go back to the same levels of production that have been sort of normal
+      to them, to where they satisfy the demand. What’s interesting is that US news
+      outlets are now openly admitting that we are seeing early warnings of stagflation
+      ahead. So are we looking at stagflation, though, or are we looking at something
+      much worse, such as a global depression, for example? MICHAEL HUDSON: Yeah, it’s
+      a depression. Depressions are not inflationary as such. They’re deflationary.
+      So the whole idea, the whole pretense that, oh, oil prices are going to go up,
+      that’s going to increase the price level, and that reduces the ability of financial
+      claims and bond holdings to have command over commodities. That’s all ideology.
+      That’s all this free market libertarian ideology. The oil prices, gas prices,
+      helium prices, and fertilizer prices will go up, but that’s going to cause whole
+      industries to close down. And that’s going to put labor and these industries out
+      of business. And depression is the opposite of an inflationary situation. So the
+      stock markets don’t have a clue about how money and prices are affected through
+      the economy. And there’s no analysis of how the balance of payments is affected
+      by all this. So the stock market, instead of having a realistic point of view
+      of how to cope with what’s going to happen, all they think is, well, the trend
+      is my friend. If people are buying stocks, then jump on the bandwagon and try
+      to ride it up, and jump out on time. And if markets are going down, then sell
+      everything, sell them short, and then try to buy in at the bottom. That’s the
+      extent of their tunnel vision when it comes to understanding what’s really going
+      to happen. So the stock market is only a narrow slice of the economy without understanding
+      the whole context within which prices, wealth, asset values, wage levels, and
+      purchasing power Evolve. LENA PETROVA: Iran has been under sanctions for decades,
+      and it is a regional middle power. I think that would be an appropriate way to
+      describe it. And Iran has taken on a great power state, the United States, that’s
+      working hand-in-hand with the nuclear-armed Israel, which also has the strongest
+      military in the Middle East. It goes without saying that to support war efforts,
+      any state—whether it is the United States, Iran, or any other state- needs economic
+      resources. And it’s absolutely remarkable that after being subjected to Western
+      sanctions for nearly four decades, Iran has proven itself to be such a strong
+      adversary. It’s in the driver’s seat right now, as you pointed out. It has the
+      leverage that it needs. And arguably, it established at least partial deterrence
+      because Trump was forced to call off his 48-hour ultimatum. So what does the Iran
+      war reveal about the United States’ ability to compete militarily or economically
+      with not just middle powers such as Iran, but great powers such as China and Russia?
+      MICHAEL HUDSON: Well, we’re going to find out this weekend that there must be
+      some plan in place for what they’re going to do with these battleships they have
+      there. Excuse me, the aircraft carriers, all of the troops that are there. We
+      know that the United States can send bombs. I’m not sure they can send bombers
+      because Iran has defenses against a lot of bombers. You mentioned Israel military.
+      Israel is not going to get involved in this war. It’s willing to fight to the
+      last American in this war, but I don’t think you’re going to have The Israeli
+      army is busy carving out Lebanon, so the Israelis will have a place to go after
+      Israel’s all bombed up, and the Israeli military defense is spent. They don’t
+      have any more defense. The whole idea of the Golden Dome was fictitious. It was
+      all junk. All of the American arms it has were not arms to really fight with.
+      And the arms that the Gulf countries had were not arms that really work. They
+      were prestige arms. They were to have a parade, sort of like having an expensive
+      Mercedes automobile, but not actually to fight because they’re ineffective. against
+      the Iranian arms. So there really isn’t any American defense and military except
+      trying to actually land all of these Marines to fight to the last Marine. Well,
+      according to all of the military commentators that I’ve been reading on almost
+      every site, they all say these Marines whether they’re landing in the Strait of
+      Hormuz and the Persian Gulf, or whether they’re landing on the southern coast
+      of Iran or in Balochistan or moving from Azerbaijan or the Kurdish territories,
+      wherever they are, they’re going to be eaten up. And the generals must be aware
+      of that because I don’t think they have a clue as to just how thorough the Iranians
+      have been able to defend themselves. I don’t know. Nobody knows, because it’s
+      a secret. That’s what they’ve said. We’re going to find out, but I think the United
+      States says, all right, this is going to be our Alamo. Just as the Americans said,
+      remember the Alamo for the great defeat of the Alamo, to try to mobilize patriotic
+      support for the war. Let’s get vengeance on it. I think the American idea must
+      be, well, let’s get vengeance on what the Iranians have done to the American army
+      and the Israeli bombs. Well, I don’t think there’s going to be any patriotic,
+      remember-the-Alamo feeling, either in America or in Europe. Europe has already
+      said, this isn’t our war. You didn’t consult us. You didn’t make us part of the
+      planning. We don’t have a clue as to what you’re doing. And the American public
+      is not in favor of the war, and more, I think, the American public, when they
+      see the chaos and the expense that there’s going to be here, including on their
+      own pocketbooks, not only for gasoline, but for agricultural products and for
+      all of the products that we’ve been talking about that use oil and gas and other
+      OPEC exports, they’re going to say, well, this was Trump’s war. This was the neocons’
+      war. Some will say this is Israel’s war, although it really is as much America’s
+      war as Israel’s war. And they’re not going to be supportive, and it does not bode
+      well for the fortunes of Trump or the Republicans or the Democrats that are just
+      as pro-war, just as in favor of this as the Republicans, as you can see in Congress’s
+      refusal to do anything at all to try to stop this war. LENA PETROVA: Michael,
+      and maybe the last question for today. With November midterms coming up, I would
+      imagine that Republicans ought to be in panic mode. Donald Trump’s approval ratings
+      are underwater on every single issue, according to the most recent poll. Voters
+      are juggling higher prices, economic instability, and of course, a widening war
+      with Iran. its consequences. And as we know from history, that kind of environment
+      rarely favors the party in power. So Republicans are definitely on that hot seat.
+      How much political will or political appetite is there in Washington, do you think,
+      to continue this war of choice, given that gasoline prices are rising, food prices
+      are rising, and those two things are sort of the most sensitive areas for the
+      U.S. population? MICHAEL HUDSON: What is Washington? What do you mean by Washington?
+      LENA PETROVA: The foreign policy establishment MICHAEL HUDSON: Right now, it’s
+      a one-man band. It’s Trump and his coterie. He’s appointed a cabinet that’s completely
+      loyal to himself. You have the Republican-controlled Senate in the South, the
+      senator from South Alabama. They’re all in favor of the suicide march. They’re
+      like lemmings. They’re not going to protest. They’re all afraid of going against
+      Trump. There is obviously a whole wing of the Republican Party, the isolationist
+      wing that’s always been part of the Republican Party, but they seem to be in quite
+      a minority. You just don’t have many people. The Southerners are South Carolina
+      and the others. They are all in favor of it, and the democrats all are. If you
+      look at who is paying for the campaigns of America’s senators and Republicans,
+      it’s a pack, and they all want what they seem to only care about: their paychecks.
+      They don’t care about who wins the war. They want their paychecks. That’s what
+      they’ve shown, the utter corruption of the Senate and the Republicans, and the
+      result of the Supreme Court’s ruling that there’s no limit on private contributions
+      to campaigns has been essentially to privatize and financialize the election process
+      in the United States. So the elections for the campaign that are determined by
+      what politicians can raise the most campaign funding are all open to the highest
+      bidder, and Congress has set up a circular flow between the United States and
+      Israel. The United States will give enormous amounts of money to Israel that will
+      turn around and siphon some percentage of this back into its own lobbyists to
+      reward the senators and the representatives that have voted in its favor so by
+      essentially voting for the war and support of Israel as America’s foreign legion
+      along with isis and Al-Qaeda as its second foreign legion in the middle east you
+      have a sort of self-financing, self-promotion way for the Congress people to get
+      rich, including no doubt all of those insiders who made a killing last weekend
+      on Trump’s charade that we’ve just been discussing. LENA PETROVA Absolutely. These
+      are very interesting times, right? Professor Michael Hudson, thank you so much
+      for joining us. And thank you so much for sharing your perspective on these events.
+      I hope that you come back for a new episode. And I know our viewers are looking
+      forward to seeing you here again. MICHAEL HUDSON: Well, thanks for having me.
+      It’s been a good discussion, and we’ll see what happens this weekend. Photo by
+      Maxim Hopman on Unsplash The post Iran’s Economic Counterattack Explained first
+      appeared on Michael Hudson . The post Iran’s Economic Counterattack Explained
+      first appeared on Michael Hudson .'
+    one_sentence_summary: 'In the latest episode of the World Affairs in Context podcast,
+      host Lena Petrova welcomes back economist Professor Michael Hudson to discuss
+      his influential book "Superimperialism: The Economic Strategy of American Empire"
+      and its relevance to understanding current global events.'
+    paragraph_summary: 'In the March 25, 2026 episode of the World Affairs in Context
+      podcast, host Lena Petrova welcomes back economist Professor Michael Hudson to
+      discuss current global events, particularly focusing on Iran''s strategic maneuvers
+      in the Strait of Hormuz amidst tensions with the United States and Israel. Petrova
+      highlights Hudson''s book, "Superimperialism: The Economic Strategy of American
+      Empire," as essential reading for understanding these dynamics. The conversation
+      reveals that Iran is leveraging its control over the Strait by charging fees for
+      safe passage of vessels not associated with the U.S. or Israel and exploring the
+      use of the Chinese renminbi for oil sales, raising questions about the future
+      of the U.S. dollar as a global reserve currency. Hudson emphasizes that Iran''s
+      historical response to aggression has always included the threat to close the
+      Strait, a tactic that remains relevant today.'
+    published: '2026-03-25T22:41:58+00:00'
   - title: Why This War Could Reshape the World
     url: https://michael-hudson.com/2026/03/why-this-war-could-reshape-the-world/
     text: 'NIMA ALKHORSHID: Hi, everybody. Today is Thursday, March 12, 2026, and our

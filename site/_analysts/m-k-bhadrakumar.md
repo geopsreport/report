@@ -7,14 +7,140 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The Gulf region remains at the epicenter of global tensions following a dramatic escalation: Iran’s retaliatory strike on Israel’s Dimona nuclear facility, itself a response to the earlier attack on Iran’s Natanz site. The destruction and casualties at Dimona have intensified the diplomatic dilemma for regional powers, particularly India, which finds itself in what **M. K. Bhadrakumar** describes as a “catch-22 situation.” India’s balancing act—maintaining ties with both the US-Israel axis and Iran—has become increasingly precarious as the conflict widens.
+  The geopolitical landscape in West Asia remains volatile as the US-Iran conflict enters a new phase, with India emerging as a potential key player. In recent days, diplomatic activity has intensified, particularly following high-level discussions between Indian External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio at the G7 summit in France. According to **M. K. Bhadrakumar**, the US has offered India a pivotal role in the Hormuz Strait, a move that could recalibrate regional power dynamics and test India's diplomatic agility.
   
-  Meanwhile, the prospect of de-escalation appears to be fading. As **Bhadrakumar** notes, “the off-ramp in Iran is disappearing,” with the US showing little appetite for a prolonged conflict but unable to extricate itself from the cycle of escalation. President Trump’s initial expectations of a swift resolution have not materialized, and the US administration is now confronted with the reality of a drawn-out confrontation. The closure of the Strait of Hormuz, as declared by Iran’s new leader Ayatollah Seyyed Mojtaba Khamenei, further raises the stakes for global energy markets and maritime security.
+  This development comes against the backdrop of significant Iranian missile strikes on Israel’s Dimona nuclear facility, which **Bhadrakumar** notes have elevated Iranian parliament speaker Mohammad-Bagher Ghalibaf’s political stature and shifted the calculus of US-Iran relations. The strikes, a response to earlier attacks on Iran’s Natanz facility, have resulted in extensive destruction and casualties, further complicating the regional security environment.
   
-  On the diplomatic front, international calls for restraint have so far had limited effect. Pope Leo XIV’s appeal for an immediate end to hostilities underscores the growing global concern, but the conflict’s momentum remains unchecked. Russia, for its part, is closely monitoring the shifts in US policy, with Foreign Minister Sergey Lavrov highlighting the broader implications for global development and multipolarity.
+  Meanwhile, the US remains wary of a prolonged conflict. Despite President Trump’s initial expectations of a swift resolution, the opportunity for de-escalation is narrowing. **Bhadrakumar** observes that Iran has managed to emerge favorably from recent confrontations, leveraging unpredictability and resilience to its advantage. The closure of the Strait of Hormuz, as declared by Iran’s new leader Ayatollah Seyyed Mojtaba Khamenei, signals Tehran’s readiness for a protracted standoff, even as Washington seeks alternatives to direct confrontation.
   
-  Looking ahead, the majority view among analysts is that the conflict is set to continue in a state of attrition. There is a high chance that the US will avoid direct, large-scale escalation but will remain entangled in the region’s instability. India’s position is likely to become even more complicated, with increased pressure to clarify its stance. I guarantee that unless there is a dramatic diplomatic breakthrough, the Gulf crisis will persist, with ripple effects across global energy markets and strategic alliances.
+  Looking ahead, the majority view among analysts is that India’s involvement in the Hormuz Strait will most definitely increase, given US overtures and India’s strategic interests. However, India faces a “catch-22” situation, balancing its relationships with both Washington and Tehran amid escalating tensions. There is a high chance that the US will continue to avoid direct escalation, preferring diplomatic and economic pressure over military engagement. The trend points toward a drawn-out period of attrition, with regional actors recalibrating their positions as the US seeks to manage, rather than resolve, the crisis.
 articles:
+  - title: US offers India pivotal role in Hormuz Strait
+    url: https://www.indianpunchline.com/us-offers-india-pivotal-role-in-hormuz-strait/
+    text: External Affairs Minister S. Jaishankar and the US Secretary of State Marco
+      Rubio have been persistently working to put the US-Indian relationship back on
+      track. Their conversation on Friday on the sidelines of the G7 meeting at Abbaye
+      des Vaux-de-Cernay, a former Cistercian monastery in northern France surrounded
+      in unspoilt nature, which focused on the … Continue reading "US offers India pivotal
+      role in Hormuz Strait" The post US offers India pivotal role in Hormuz Strait
+      appeared first on Indian Punchline .
+    one_sentence_summary: External Affairs Minister S. Jaishankar and US Secretary of
+      State Marco Rubio are actively collaborating to strengthen US-Indian relations,
+      recently discussing India's potential key role in the Hormuz Strait during a meeting
+      at the G7 in France.
+    paragraph_summary: External Affairs Minister S. Jaishankar and US Secretary of State
+      Marco Rubio are actively collaborating to strengthen the US-Indian relationship,
+      as evidenced by their recent discussions during the G7 meeting in France. Their
+      conversation highlighted the strategic importance of India in the Hormuz Strait,
+      indicating the US's intention to involve India more significantly in regional
+      security matters.
+    published: '2026-03-29T08:38:01+00:00'
+  - title: US offers India pivotal role in Hormuz Strait
+    url: https://www.indianpunchline.com/us-offers-india-pivotal-role-in-hormuz-strait/
+    text: External Affairs Minister S. Jaishankar and the US Secretary of State Marco
+      Rubio have been persistently working to put the US-Indian relationship back on
+      track. Their conversation on Friday on the sidelines of the G7 meeting at Abbaye
+      des Vaux-de-Cernay, a former Cistercian monastery in northern France surrounded
+      in unspoilt nature, which focused on the … Continue reading "US offers India pivotal
+      role in Hormuz Strait" The post US offers India pivotal role in Hormuz Strait
+      appeared first on Indian Punchline .
+    one_sentence_summary: External Affairs Minister S. Jaishankar and US Secretary of
+      State Marco Rubio are actively collaborating to strengthen US-Indian relations,
+      recently discussing India's potential key role in the Hormuz Strait during a meeting
+      at the G7 in France.
+    paragraph_summary: External Affairs Minister S. Jaishankar and US Secretary of State
+      Marco Rubio are actively collaborating to strengthen the US-Indian relationship,
+      as evidenced by their recent discussions during the G7 meeting in France. Their
+      conversation highlighted the strategic importance of India in the Hormuz Strait,
+      indicating the US's intention to involve India more significantly in regional
+      security matters.
+    published: '2026-03-29T08:38:01+00:00'
+  - title: Iran has the last laugh
+    url: https://www.indianpunchline.com/iran-has-the-last-laugh/
+    text: IAI Arrow 3 anti ballistic missile  [File photo] Wars are always unpredictable.
+      The most famous instance is of another armada like the US’ in the Persian Gulf
+      at the moment — the Spanish Armada, a 130-ship naval fleet sent by Spain in 1588
+      commanded by Alonso de Guzmán, Duke of Medina Sidonia, an aristocrat appointed
+      … Continue reading "Iran has the last laugh" The post Iran has the last laugh
+      appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the unpredictability of wars, drawing
+      a parallel between historical military events and the current situation involving
+      the US naval presence in the Persian Gulf, ultimately suggesting that Iran has
+      emerged favorably from these dynamics.
+    paragraph_summary: The article discusses the unpredictability of wars, drawing a
+      historical parallel between the current U.S. naval presence in the Persian Gulf
+      and the ill-fated Spanish Armada of 1588, which was commanded by Duke of Medina
+      Sidonia. It suggests that, like the Spanish Armada, the U.S. military buildup
+      may not guarantee success and implies that Iran may ultimately benefit from the
+      situation, potentially emerging as the victor in this geopolitical context. The
+      piece reflects on the lessons of history and the complexities of military engagements.
+    published: '2026-03-27T06:27:23+00:00'
+  - title: Iran has the last laugh
+    url: https://www.indianpunchline.com/iran-has-the-last-laugh/
+    text: IAI Arrow 3 anti ballistic missile  [File photo] Wars are always unpredictable.
+      The most famous instance is of another armada like the US’ in the Persian Gulf
+      at the moment — the Spanish Armada, a 130-ship naval fleet sent by Spain in 1588
+      commanded by Alonso de Guzmán, Duke of Medina Sidonia, an aristocrat appointed
+      … Continue reading "Iran has the last laugh" The post Iran has the last laugh
+      appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the unpredictability of wars, drawing
+      a parallel between historical military events and the current situation involving
+      the US naval presence in the Persian Gulf, ultimately suggesting that Iran has
+      emerged favorably from these dynamics.
+    paragraph_summary: The article discusses the unpredictability of wars, drawing a
+      historical parallel between the current U.S. naval presence in the Persian Gulf
+      and the ill-fated Spanish Armada of 1588, which was commanded by Duke of Medina
+      Sidonia. It suggests that, like the Spanish Armada, the U.S. military buildup
+      may not guarantee success and implies that Iran may ultimately benefit from the
+      situation, potentially emerging as the victor in this geopolitical context. The
+      piece reflects on the lessons of history and the complexities of military engagements.
+    published: '2026-03-27T06:27:23+00:00'
+  - title: Trump hopes to de-escalate and find a way out of the protracted conflict
+      with Iran. Will he succeed?
+    url: https://www.indianpunchline.com/trump-hopes-to-de-escalate-and-find-a-way-out-of-the-protracted-conflict-with-iran-will-he-succeed/
+    text: Mohammad-Bagher Ghalibaf, Iran’s parliament speaker, has emerged as the highest-profile
+      political figure in Tehran   The profound significance of the two successive Iranian
+      missile strikes on Dimona nuclear research centre, the most heavily guarded site
+      in the whole of Israel, is sinking in, and it inevitably shifts the trajectory
+      of the US’ war in Iran. … Continue reading "Trump hopes to de-escalate and find
+      a way out of the protracted conflict with Iran. Will he succeed?" The post Trump
+      hopes to de-escalate and find a way out of the protracted conflict with Iran.
+      Will he succeed? appeared first on Indian Punchline .
+    one_sentence_summary: Iran's parliament speaker, Mohammad-Bagher Ghalibaf, has become
+      a prominent political figure amid the significant implications of Iranian missile
+      strikes on Israel's Dimona nuclear facility, which may alter the dynamics of the
+      US-Iran conflict as Trump seeks to de-escalate tensions.
+    paragraph_summary: Mohammad-Bagher Ghalibaf, the speaker of Iran's parliament, has
+      gained prominence in Tehran amidst escalating tensions following two Iranian missile
+      strikes on Israel's Dimona nuclear research center, a highly fortified location.
+      These events are reshaping the dynamics of the U.S. involvement in the ongoing
+      conflict with Iran. Meanwhile, former President Trump is seeking ways to de-escalate
+      the situation and navigate a resolution to the prolonged conflict, raising questions
+      about the potential for success in his efforts.
+    published: '2026-03-26T17:47:46+00:00'
+  - title: Trump hopes to de-escalate and find a way out of the protracted conflict
+      with Iran. Will he succeed?
+    url: https://www.indianpunchline.com/trump-hopes-to-de-escalate-and-find-a-way-out-of-the-protracted-conflict-with-iran-will-he-succeed/
+    text: Mohammad-Bagher Ghalibaf, Iran’s parliament speaker, has emerged as the highest-profile
+      political figure in Tehran   The profound significance of the two successive Iranian
+      missile strikes on Dimona nuclear research centre, the most heavily guarded site
+      in the whole of Israel, is sinking in, and it inevitably shifts the trajectory
+      of the US’ war in Iran. … Continue reading "Trump hopes to de-escalate and find
+      a way out of the protracted conflict with Iran. Will he succeed?" The post Trump
+      hopes to de-escalate and find a way out of the protracted conflict with Iran.
+      Will he succeed? appeared first on Indian Punchline .
+    one_sentence_summary: Iran's parliament speaker, Mohammad-Bagher Ghalibaf, has become
+      a prominent political figure amid the significant implications of Iranian missile
+      strikes on Israel's Dimona nuclear facility, which may alter the dynamics of the
+      US-Iran conflict as Trump seeks to de-escalate tensions.
+    paragraph_summary: Mohammad-Bagher Ghalibaf, the speaker of Iran's parliament, has
+      gained prominence in Tehran amidst escalating tensions following two Iranian missile
+      strikes on Israel's Dimona nuclear research center, a highly fortified location.
+      These events are reshaping the dynamics of the U.S. involvement in the ongoing
+      conflict with Iran. Meanwhile, former President Trump is seeking ways to de-escalate
+      the situation and navigate a resolution to the prolonged conflict, raising questions
+      about the potential for success in his efforts.
+    published: '2026-03-26T17:47:46+00:00'
   - title: 'Gulf War: India is in a catch-22 situation'
     url: https://www.indianpunchline.com/gulf-war-india-is-in-a-catch-22-situation/
     text: 'A massive Iranian retaliatory strike on Dimona, Israel’s “nuclear city,”

@@ -7,17 +7,1612 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid escalating tensions in the Persian Gulf and ongoing U.S.-Iran hostilities, recent developments have centered on the credibility of U.S. diplomatic overtures and the strategic intent behind American military deployments. Over the past 24 hours, new analysis has emerged questioning the authenticity of President Trump’s public claims regarding direct negotiations with Iran.
+  Tensions between the United States and Iran remain elevated as Washington continues to bolster its military presence in the Middle East. In the latest development, a squadron of 12-18 A-10C Thunderbolt II attack aircraft has been deployed from various Air National Guard units to the region. According to **Larry C. Johnson**, this move is a clear signal of U.S. preparations for potential escalation, coinciding with President Trump’s announcement of a prime-time speech on Iran scheduled for Wednesday.
   
-  According to **Larry C. Johnson**, Trump’s assertions of direct talks are “patently false.” Instead, all communication is being conducted via intermediaries, with Trump’s optimistic rhetoric primarily intended to manipulate oil markets and boost U.S. stock prices. Johnson emphasizes that “there is no evidence of direct dialogue,” and suggests the administration’s public messaging is more about domestic economic optics than genuine diplomatic progress.
+  This military buildup follows weeks of increased deployments, including thousands of U.S. troops and Marine units, raising concerns about the risk to American personnel and the possibility of direct conflict. While some analysts previously speculated that these deployments might serve as a strategic bluff, the arrival of additional air assets suggests a more serious posture.
   
-  On the military front, Johnson’s latest reporting highlights the conspicuous deployment of U.S. Marine and Airborne units to the Persian Gulf. He notes a “remarkable lack of operational security,” speculating that this could be a deliberate ruse to distract Iranian intelligence from the true nature or timing of any potential ground operation. The public nature of these deployments, he argues, may serve as a smokescreen for more covert or unexpected military actions.
+  Meanwhile, the financial dimension of the crisis has come under scrutiny. **Larry C. Johnson** reports that media figure Pete Hegseth attempted to invest multimillions in a defense-focused ETF shortly before the recent U.S.-Israeli strike on Iran, highlighting the intersection of financial interests and public advocacy for military action. Although the investment did not proceed, it underscores broader concerns about profiteering amid rising tensions.
   
-  Looking at the broader context, Trump’s Iran policy continues to be marked by inconsistency—oscillating between aggressive threats and overtures of negotiation. This unpredictability is, according to Johnson, undermining U.S. relations with major powers like China and Russia, who view Washington’s stance as erratic and unreliable.
-  
-  **Trends and Predictions:**  
-  The prevailing analysis suggests that the U.S. is unlikely to achieve a diplomatic breakthrough with Iran in the near term, given the lack of direct talks and the performative nature of current communications. The risk of military escalation remains high, especially as public troop movements may be masking more serious intentions. Based on the available evidence, I assess with high confidence that Trump’s administration will continue to use both diplomatic posturing and military maneuvers to influence markets and adversaries, rather than to achieve a substantive resolution with Iran. The likelihood of a significant shift in the strategic balance in the Gulf remains low, and Iran is most definitely expected to retain control over its core interests regardless of U.S. actions.
+  Looking ahead, the majority view among analysts is that the situation remains volatile and unpredictable. The deployment of A-10s and the anticipation of Trump’s speech point to the likelihood of further escalation. As **Larry C. Johnson** notes, “Trump’s past behavior suggests he may change course unexpectedly,” but with the current trajectory, there is a high chance of additional military moves in the coming days. I guarantee that unless there is a dramatic diplomatic breakthrough, the risk of open conflict will remain elevated through at least next weekend.
 articles:
+  - title: Trump to give “important update on Iran” Wednesday in prime-time speech
+    url: https://sonar21.com/trump-to-give-important-update-on-iran-wednesday-in-prime-time-speech/
+    text: 'A-10 Warthog What is Donald Trump going to say about Iran on Wednesday night?
+      Before I layout three possible outcomes, let’s examine what Trump is actually
+      doing in terms of some key military assets (all of this is from open source reporting).
+      A-10 Squadron (Confirmed New Deployment) Since Friday, March 27, 2026, the most
+      prominently reported new US air asset movement to the Middle East (CENTCOM area
+      of responsibility) has been a squadron-sized deployment of A-10C Thunderbolt II
+      attack aircraft (Warthogs). Six A-10s from the Idaho Air National Guard’s 190th
+      Fighter Squadron arrived at Pease Air National Guard Base (New Hampshire) as part
+      of staging. On March 30, twelve A-10s from the Michigan Air National Guard’s 107th
+      Fighter Squadron (Selfridge ANGB) departed Pease for RAF Lakenheath, UK (a common
+      transit stop), in two flights of six. Another six followed on March 31. These
+      ~12–18 aircraft are en route to the Middle East to reinforce or nearly double
+      the existing A-10 presence there. A-10s are already operating in theater (e.g.,
+      from the 75th Expeditionary Fighter Squadron) for close air support, anti-boat
+      strikes in the Strait of Hormuz, drone interdiction, and coastal targeting. The
+      surge supports intensified low-altitude operations against Iranian “mosquito fleet”
+      vessels, mines, and remnants amid the broader campaign. Apache Helicopters (AH-64)
+      Squadron US Central Command publicly confirmed the operational use of AH-64 Apache
+      attack helicopters in late March (updates around March 16–18 and a specific confirmation
+      on March 26). The 6-17th Air Cavalry Squadron (part of the 4th Infantry Division
+      Combat Aviation Brigade, operating AH-64D/E variants) is the unit involved. It
+      had been forward-deployed earlier (under prior rotations like Operation Inherent
+      Resolve) but was newly integrated into Epic Fury strikes against Iranian boats,
+      drones, and coastal targets in the southern flank/Hormuz area. Several viral Facebook
+      posts and YouTube videos (from accounts like “MovieFans.Lich,” “Live WWIIIRE,”
+      and similar sensationalist pages) claim a “massive C-17 fleet” is deploying Apache
+      helicopter squadrons alongside troops, armored vehicles, and equipment. These
+      describe “dozens” or “over 112 C-17s” streaming into the region, with Apaches
+      highlighted for their anti-armor, close air support, and anti-boat roles in rugged
+      coastal terrain. Some videos include generic footage of folded Apaches inside
+      C-17 cargo bays or all-female flight crews turning around quickly. Posts from
+      OSINT-focused X accounts (e.g., @TheIntelFrog, @Faytuks, @JewishWarrior13) detail
+      dozens of C-17 flights since mid-March (e.g., ~35–50 flights tracked from March
+      12–24, with more ongoing) originating from bases like Fort Bragg/Pope AAF, Fort
+      Campbell, Hunter AAF, and McChord AFB. Destinations include Ovda (Israel), Jordanian
+      bases (King Faisal, King Hussein), and other CENTCOM hubs. These are linked to
+      troop surges (including elements of the 82nd Airborne) and special operations
+      forces, with some users speculating or claiming that attack helicopters like Apaches
+      are part of the heavy equipment being airlifted. One analysis noted origins tied
+      to units with aviation assets, such as the 160th SOAR (which operates helicopters,
+      though primarily MH-6/ MH-60 rather than AH-64). The new deployment of these assets
+      are consistent with a military option that involves close-air support and/or attacks
+      on Iranian fast boats and water drones. So what is Trump going to announce? Option
+      1 — Declare that negotiations with Iran via intermediaries (e.g., Pakistan) are
+      progressing and that they United States is going to cease combat operations against
+      Iran in order to support the negotiations and achieve a peaceful resolution. Option
+      2 — Declare that victory has been achieved and that US forces will begin withdrawing
+      from the region, leaving the status of the Strait of Hormuz in limbo. Option 3
+      — Announce a massive air and ground operation to secure the freedom of navigation
+      through the Strait of Hormuz. The deployment of the A-10s and the Apaches can
+      only mean one of two things: It is a show of force intended to pressure Iran to
+      return to the negotiating table. The US is going to launch a massive attack against
+      Iranian assets in the Persian Gulf, especially those located in and around the
+      Strait of Hormuz. Since Monday, March 30, 2026, President Donald Trump has made
+      several public comments on the ongoing US-led Operation Epic Fury against Iran,
+      primarily via Truth Social posts, interviews (including with the New York Post),
+      and remarks to reporters. His statements emphasize US military successes, threats
+      of further escalation if demands are unmet, criticism of allies, and a potential
+      near-term wind-down of direct US involvement. On Monday, Trump described Iran
+      as effectively “decimated” or “obliterated,” with its air force, navy, and many
+      ships sunk or destroyed. He portrayed the campaign as highly successful and “way
+      ahead of schedule” in prior context, but continued highlighting strikes on “long-sought-after
+      targets.” He shared video footage on Truth Social of a massive explosion and secondary
+      blasts in Isfahan (linked to strikes on uranium-related or military sites), without
+      additional caption in one instance. Trump also posted that the US was in “serious
+      discussions with a new, and more reasonable, regime” to end operations. He warned
+      that if the Strait of Hormuz is not “immediately ‘Open for Business''” and a deal
+      is not reached shortly, the US would “completely obliterate” Iran’s electric generating
+      plants, oil wells, Kharg Island, and possibly desalination plants. He framed this
+      as concluding the US “lovely ‘stay’ in Iran.” In follow-up comments, he suggested
+      the US could respond to Iranian actions “twenty times harder” with “Death, Fire,
+      and Fury.” Overall, Trump’s messaging since March 30 combines triumphalism about
+      US achievements, escalatory warnings tied to the Strait of Hormuz and energy targets,
+      frustration with allies, and signals of de-escalation with a short timeline for
+      reduced US involvement. These comments have influenced market reactions (e.g.,
+      oil prices and equities) and drawn responses from Iranian officials and international
+      observers. Trump’s remarks since Monday have boosted the confidence of the folks
+      on Wall Street and contributed to a significant surge in the stock market, with
+      the Dow up 1,125 points. The price for BRENT oil dropped from 118 to 103 during
+      Tuesday trading. This means the financial folks believe the war is going to end.
+      I think Trump is counting on Iran offering up some concessions in the face of
+      the US buildup of additional air combat assets. Netanyahu reportedly just said
+      Iran no longer poses threat to Israel’s existence… A dramatic pivot if true. However,
+      over the last few hours, Israel and the US carried out a large wave of attacks
+      across Iran. They struck targets across several parts of Tehran, as well as in
+      the cities of Karaj, Shahriar, Ahvaz, Shiraz, Abadeh, Isfahan, and Bandar Abbas.
+      Iran will retaliate in force to these latest attacks. In short, I believe Donald
+      Trump will announce a major offensive to try to force Iran to release its chokehold
+      on the Strait of Hormuz… I believe that offensive will fail and that the war will
+      escalate unless the US and Israel agree to two critical Iranian demands: the end
+      of all sanctions and the removal of US military bases from the Persian Gulf arab
+      countries. Russia and China are two wild cards that could change the trajectory
+      of the current war. If they engage and apply pressure on the diplomatic front
+      — including ironclad security guarantees to Iran — Donald Trump may take the exit
+      ramp. What do you think? Pascal Lottaz and I discussed the current situation in
+      the Persian Gulf: I did my usual Tuesday chat with Marcello: A new interview with
+      Rathbone. Interesting fellow… He’s also a comedian: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses the recent deployment of a squadron
+      of A-10C Thunderbolt II attack aircraft to the Middle East, highlighting the movement
+      of 12-18 A-10s from various Air National Guard units as part of U.S. military
+      preparations in response to tensions with Iran.
+    paragraph_summary: The article discusses recent military developments involving
+      the U.S. deployment of A-10C Thunderbolt II attack aircraft and Apache helicopters
+      to the Middle East, particularly in response to Iranian threats. Since March 27,
+      2026, a squadron of A-10s has been moved to reinforce existing air support capabilities,
+      with the aircraft arriving from various National Guard units. These A-10s are
+      set to enhance operations against Iranian naval assets and other threats in the
+      region. Additionally, AH-64 Apache helicopters have been confirmed as operational
+      in the area, participating in strikes against Iranian boats and drones. This military
+      buildup aligns with ongoing U.S. efforts to counter Iranian activities in the
+      Strait of Hormuz and surrounding waters.
+    published: '2026-04-01T04:26:19+00:00'
+  - title: Trump to give “important update on Iran” Wednesday in prime-time speech
+    url: https://sonar21.com/trump-to-give-important-update-on-iran-wednesday-in-prime-time-speech/
+    text: 'A-10 Warthog What is Donald Trump going to say about Iran on Wednesday night?
+      Before I layout three possible outcomes, let’s examine what Trump is actually
+      doing in terms of some key military assets (all of this is from open source reporting).
+      A-10 Squadron (Confirmed New Deployment) Since Friday, March 27, 2026, the most
+      prominently reported new US air asset movement to the Middle East (CENTCOM area
+      of responsibility) has been a squadron-sized deployment of A-10C Thunderbolt II
+      attack aircraft (Warthogs). Six A-10s from the Idaho Air National Guard’s 190th
+      Fighter Squadron arrived at Pease Air National Guard Base (New Hampshire) as part
+      of staging. On March 30, twelve A-10s from the Michigan Air National Guard’s 107th
+      Fighter Squadron (Selfridge ANGB) departed Pease for RAF Lakenheath, UK (a common
+      transit stop), in two flights of six. Another six followed on March 31. These
+      ~12–18 aircraft are en route to the Middle East to reinforce or nearly double
+      the existing A-10 presence there. A-10s are already operating in theater (e.g.,
+      from the 75th Expeditionary Fighter Squadron) for close air support, anti-boat
+      strikes in the Strait of Hormuz, drone interdiction, and coastal targeting. The
+      surge supports intensified low-altitude operations against Iranian “mosquito fleet”
+      vessels, mines, and remnants amid the broader campaign. Apache Helicopters (AH-64)
+      Squadron US Central Command publicly confirmed the operational use of AH-64 Apache
+      attack helicopters in late March (updates around March 16–18 and a specific confirmation
+      on March 26). The 6-17th Air Cavalry Squadron (part of the 4th Infantry Division
+      Combat Aviation Brigade, operating AH-64D/E variants) is the unit involved. It
+      had been forward-deployed earlier (under prior rotations like Operation Inherent
+      Resolve) but was newly integrated into Epic Fury strikes against Iranian boats,
+      drones, and coastal targets in the southern flank/Hormuz area. Several viral Facebook
+      posts and YouTube videos (from accounts like “MovieFans.Lich,” “Live WWIIIRE,”
+      and similar sensationalist pages) claim a “massive C-17 fleet” is deploying Apache
+      helicopter squadrons alongside troops, armored vehicles, and equipment. These
+      describe “dozens” or “over 112 C-17s” streaming into the region, with Apaches
+      highlighted for their anti-armor, close air support, and anti-boat roles in rugged
+      coastal terrain. Some videos include generic footage of folded Apaches inside
+      C-17 cargo bays or all-female flight crews turning around quickly. Posts from
+      OSINT-focused X accounts (e.g., @TheIntelFrog, @Faytuks, @JewishWarrior13) detail
+      dozens of C-17 flights since mid-March (e.g., ~35–50 flights tracked from March
+      12–24, with more ongoing) originating from bases like Fort Bragg/Pope AAF, Fort
+      Campbell, Hunter AAF, and McChord AFB. Destinations include Ovda (Israel), Jordanian
+      bases (King Faisal, King Hussein), and other CENTCOM hubs. These are linked to
+      troop surges (including elements of the 82nd Airborne) and special operations
+      forces, with some users speculating or claiming that attack helicopters like Apaches
+      are part of the heavy equipment being airlifted. One analysis noted origins tied
+      to units with aviation assets, such as the 160th SOAR (which operates helicopters,
+      though primarily MH-6/ MH-60 rather than AH-64). The new deployment of these assets
+      are consistent with a military option that involves close-air support and/or attacks
+      on Iranian fast boats and water drones. So what is Trump going to announce? Option
+      1 — Declare that negotiations with Iran via intermediaries (e.g., Pakistan) are
+      progressing and that they United States is going to cease combat operations against
+      Iran in order to support the negotiations and achieve a peaceful resolution. Option
+      2 — Declare that victory has been achieved and that US forces will begin withdrawing
+      from the region, leaving the status of the Strait of Hormuz in limbo. Option 3
+      — Announce a massive air and ground operation to secure the freedom of navigation
+      through the Strait of Hormuz. The deployment of the A-10s and the Apaches can
+      only mean one of two things: It is a show of force intended to pressure Iran to
+      return to the negotiating table. The US is going to launch a massive attack against
+      Iranian assets in the Persian Gulf, especially those located in and around the
+      Strait of Hormuz. Since Monday, March 30, 2026, President Donald Trump has made
+      several public comments on the ongoing US-led Operation Epic Fury against Iran,
+      primarily via Truth Social posts, interviews (including with the New York Post),
+      and remarks to reporters. His statements emphasize US military successes, threats
+      of further escalation if demands are unmet, criticism of allies, and a potential
+      near-term wind-down of direct US involvement. On Monday, Trump described Iran
+      as effectively “decimated” or “obliterated,” with its air force, navy, and many
+      ships sunk or destroyed. He portrayed the campaign as highly successful and “way
+      ahead of schedule” in prior context, but continued highlighting strikes on “long-sought-after
+      targets.” He shared video footage on Truth Social of a massive explosion and secondary
+      blasts in Isfahan (linked to strikes on uranium-related or military sites), without
+      additional caption in one instance. Trump also posted that the US was in “serious
+      discussions with a new, and more reasonable, regime” to end operations. He warned
+      that if the Strait of Hormuz is not “immediately ‘Open for Business''” and a deal
+      is not reached shortly, the US would “completely obliterate” Iran’s electric generating
+      plants, oil wells, Kharg Island, and possibly desalination plants. He framed this
+      as concluding the US “lovely ‘stay’ in Iran.” In follow-up comments, he suggested
+      the US could respond to Iranian actions “twenty times harder” with “Death, Fire,
+      and Fury.” Overall, Trump’s messaging since March 30 combines triumphalism about
+      US achievements, escalatory warnings tied to the Strait of Hormuz and energy targets,
+      frustration with allies, and signals of de-escalation with a short timeline for
+      reduced US involvement. These comments have influenced market reactions (e.g.,
+      oil prices and equities) and drawn responses from Iranian officials and international
+      observers. Trump’s remarks since Monday have boosted the confidence of the folks
+      on Wall Street and contributed to a significant surge in the stock market, with
+      the Dow up 1,125 points. The price for BRENT oil dropped from 118 to 103 during
+      Tuesday trading. This means the financial folks believe the war is going to end.
+      I think Trump is counting on Iran offering up some concessions in the face of
+      the US buildup of additional air combat assets. Netanyahu reportedly just said
+      Iran no longer poses threat to Israel’s existence… A dramatic pivot if true. However,
+      over the last few hours, Israel and the US carried out a large wave of attacks
+      across Iran. They struck targets across several parts of Tehran, as well as in
+      the cities of Karaj, Shahriar, Ahvaz, Shiraz, Abadeh, Isfahan, and Bandar Abbas.
+      Iran will retaliate in force to these latest attacks. In short, I believe Donald
+      Trump will announce a major offensive to try to force Iran to release its chokehold
+      on the Strait of Hormuz… I believe that offensive will fail and that the war will
+      escalate unless the US and Israel agree to two critical Iranian demands: the end
+      of all sanctions and the removal of US military bases from the Persian Gulf arab
+      countries. Russia and China are two wild cards that could change the trajectory
+      of the current war. If they engage and apply pressure on the diplomatic front
+      — including ironclad security guarantees to Iran — Donald Trump may take the exit
+      ramp. What do you think? Pascal Lottaz and I discussed the current situation in
+      the Persian Gulf: I did my usual Tuesday chat with Marcello: A new interview with
+      Rathbone. Interesting fellow… He’s also a comedian: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses the recent deployment of a squadron
+      of A-10C Thunderbolt II attack aircraft to the Middle East, highlighting the movement
+      of 12-18 A-10s from various Air National Guard units as part of U.S. military
+      preparations in response to tensions with Iran.
+    paragraph_summary: The article discusses recent military developments involving
+      the U.S. deployment of A-10C Thunderbolt II attack aircraft and Apache helicopters
+      to the Middle East, particularly in response to Iranian threats. Since March 27,
+      2026, a squadron of A-10s has been moved to reinforce existing air support capabilities,
+      with the aircraft arriving from various National Guard units. These A-10s are
+      set to enhance operations against Iranian naval assets and other threats in the
+      region. Additionally, AH-64 Apache helicopters have been confirmed as operational
+      in the area, participating in strikes against Iranian boats and drones. This military
+      buildup aligns with ongoing U.S. efforts to counter Iranian activities in the
+      Strait of Hormuz and surrounding waters.
+    published: '2026-04-01T04:26:19+00:00'
+  - title: Who Else, Besides Pete Hegseth, is Trying to Use the War in Iran to Get Rich?
+    url: https://sonar21.com/who-else-besides-pete-hegseth-is-trying-to-use-the-war-in-iran-to-get-rich/
+    text: 'THAAD Missile Battery Looks like Pete Hegseth tried to make a financial killing
+      off of the war of aggression the US launched against Iran on 28 February 2026.
+      According to the Financial Times : Pete Hegseth’s broker at Morgan Stanley contacted
+      BlackRock in February to make a multimillion-dollar investment in a defense-focused
+      Exchange-Traded Fund (ETF) called IDEF. This $3.2 billion fund is built around
+      companies that benefit from increased military spending, including RTX, Lockheed
+      Martin, Northrop Grumman, and Palantir — all major Pentagon contractors. The request
+      came just weeks before the U.S.-Israeli strike on Iran, a campaign Hegseth helped
+      shape and strongly supported within the Trump administration. BlackRock flagged
+      the inquiry internally because of Hegseth’s high-profile role. The investment
+      didn’t go through, but only because the ETF wasn’t yet available on Morgan Stanley’s
+      platform. BlackRock, Morgan Stanley, and the Pentagon declined to comment. If
+      you do the analysis on the weapons expended so far in the month-long war with
+      Iran, the opportunity for war profiteering is quite clear. The US/Israeli Ramadan
+      War has drained the US inventory of its two ballistic missile defense systems.
+      Both US PAC-3 (Patriot) and THAAD interceptor inventories are significantly depleted
+      or nearing critical levels as of late March 2026, after accounting for prior conflicts
+      (Ukraine support, June 2025 12-day Israel-Iran war) and the ongoing 2026 Iran
+      war (Operation Epic Fury). The high expenditure rates, combined with historically
+      low peacetime production, have created a serious “race of attrition” that cannot
+      be quickly reversed. Both the PAC-3 (Patriot Advanced Capability-3, specifically
+      the MSE variant) and the THAAD (Terminal High Altitude Area Defense) interceptors
+      are primarily manufactured by Lockheed Martin . Combined Estimate of Remaining
+      US Inventories (Rough Synthesis) Exact classified figures are not public, so these
+      are reasoned ranges drawn from consistent reporting (CSIS, Payne Institute, RUSI,
+      JINSA, DoD budget data, and conflict usage estimates). Numbers reflect US-owned/controlled
+      operational stocks (not including allies’ separate purchases). PAC-3 MSE (Patriot
+      terminal-phase interceptors) : Pre-2026 baseline: Roughly 1,600–2,000 modern PAC-3
+      MSE (out of a broader Patriot family inventory sometimes cited around 2,000 total,
+      with older variants mixed in). As I have mentioned in previojous posts, cumulative
+      production upper bound of ~4,620 through 2025 (with ~620 delivered in 2025) is
+      reasonable as a global total, but the US retained share is smaller after Foreign
+      Military Sales. Major draws: Hundreds fired by US forces in the first 16 days
+      of the 2026 war (estimates of ~402 in early reports, with some higher figures
+      in intense periods); prior usage in Ukraine (hundreds total over years) and the
+      June 2025 war; plus Gulf partner support. Current remaining (late March 2026)
+      : There are few, if any, PAC 3 missiles left in the US inventory in Israel and
+      the Persian Gulf. There are an estimate 1,400 PAC 3s remaining in INDOPACOM’s
+      pre-war planning stock. Stocks available for sustained Middle East operations
+      outside pre-positioned or diverted units are, under the most optimistic assumptions,
+      critically low. The two-missile (or more) salvo doctrine multiplies consumption
+      per threat. Yet, I have seen videos where at least four PAC 3s are fired at one
+      target… which means the consumption rate is even worse than estimated. THAAD (high-altitude
+      ballistic missile interceptors) : Pre-2026 baseline: Around ~534–632 (MDA procurement/delivered
+      figures; some estimates reference higher cumulative including pipeline or foreign
+      orders). Production has been extremely low (~96 or fewer per year historically).
+      Major draws: Significant usage in June 2025 (~92–150 interceptors, often cited
+      as ~25% or up to 30% of inventory); additional heavy expenditure in the 2026 war
+      (estimates of ~198 in the first 16 days, or ~40% of pre-conflict on-hand inventory
+      in some analyses). Gulf/Middle East operations have consumed a large share. Current
+      remaining (late March 2026) : Reports indicate fewer than 400 ready/reserve interceptors
+      in some estimates, with others warning of depletion risk within weeks (e.g., by
+      mid-April) if current tempo continues. Some analyses describe ~30–40%+ of the
+      stockpile already expended in the current conflict alone on top of prior usage.
+      US stocks of these two high-end ballistic missile defense interceptors are effectively
+      strained to the point of operational risk for prolonged high-intensity defense.
+      THAAD is in a more acute near-term crisis due to tiny production rates, while
+      PAC-3 has a somewhat better (but still insufficient) ramp underway. If the war
+      continues at saturation-attack levels, further constraints (or changes in tactics/priorities)
+      become likely. Exact numbers remain opaque for operational security reasons, but
+      the trend is clear: both systems are depleted or nearing depletion. Which means
+      that Lockheed Martin can expect a major influx of cash to boost production and
+      try to replenish exhausted missile air defense inventories. I wonder who else
+      in the Trump administration and the US Congress are making money off of this bloody
+      war? Judge Napolitano and I discussed the insanity of US plans to deploy ground
+      forces to Iran: Back in Florida with my Florida shirt. Nima appeared dressed appropriately.
+      Too bad we have to discuss the horror unfolding in the Middle East: My conversation
+      with Waqas Ali. Some interesting observations about the conflict between Sunnis
+      and Shias: Danny Haiphong and I discuss the latest in the war on Iran: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Pete Hegseth attempted to invest multimillions in a defense-focused
+      ETF just weeks before a U.S.-Israeli military strike on Iran, reflecting potential
+      financial interests linked to his support for the conflict, although the investment
+      ultimately did not proceed.
+    paragraph_summary: The article discusses allegations that Pete Hegseth attempted
+      to profit from the U.S. military's actions in Iran by seeking a multimillion-dollar
+      investment in a defense-focused Exchange-Traded Fund (ETF) shortly before a U.S.-Israeli
+      strike on Iran in February 2026. The ETF, IDEF, is centered around companies benefiting
+      from increased military spending, including major defense contractors like Lockheed
+      Martin and Northrop Grumman. Although the investment did not proceed due to the
+      ETF not being available on Morgan Stanley's platform, the inquiry raised concerns
+      given Hegseth's influential role in shaping military policy during the Trump administration.
+      The ongoing conflict has severely depleted U.S. missile defense inventories, particularly
+      the PAC-3 and THAAD systems, creating a significant opportunity for war profiteering
+      amidst a backdrop of high expenditure and low production rates.
+    published: '2026-03-31T04:59:14+00:00'
+  - title: Who Else, Besides Pete Hegseth, is Trying to Use the War in Iran to Get Rich?
+    url: https://sonar21.com/who-else-besides-pete-hegseth-is-trying-to-use-the-war-in-iran-to-get-rich/
+    text: 'THAAD Missile Battery Looks like Pete Hegseth tried to make a financial killing
+      off of the war of aggression the US launched against Iran on 28 February 2026.
+      According to the Financial Times : Pete Hegseth’s broker at Morgan Stanley contacted
+      BlackRock in February to make a multimillion-dollar investment in a defense-focused
+      Exchange-Traded Fund (ETF) called IDEF. This $3.2 billion fund is built around
+      companies that benefit from increased military spending, including RTX, Lockheed
+      Martin, Northrop Grumman, and Palantir — all major Pentagon contractors. The request
+      came just weeks before the U.S.-Israeli strike on Iran, a campaign Hegseth helped
+      shape and strongly supported within the Trump administration. BlackRock flagged
+      the inquiry internally because of Hegseth’s high-profile role. The investment
+      didn’t go through, but only because the ETF wasn’t yet available on Morgan Stanley’s
+      platform. BlackRock, Morgan Stanley, and the Pentagon declined to comment. If
+      you do the analysis on the weapons expended so far in the month-long war with
+      Iran, the opportunity for war profiteering is quite clear. The US/Israeli Ramadan
+      War has drained the US inventory of its two ballistic missile defense systems.
+      Both US PAC-3 (Patriot) and THAAD interceptor inventories are significantly depleted
+      or nearing critical levels as of late March 2026, after accounting for prior conflicts
+      (Ukraine support, June 2025 12-day Israel-Iran war) and the ongoing 2026 Iran
+      war (Operation Epic Fury). The high expenditure rates, combined with historically
+      low peacetime production, have created a serious “race of attrition” that cannot
+      be quickly reversed. Both the PAC-3 (Patriot Advanced Capability-3, specifically
+      the MSE variant) and the THAAD (Terminal High Altitude Area Defense) interceptors
+      are primarily manufactured by Lockheed Martin . Combined Estimate of Remaining
+      US Inventories (Rough Synthesis) Exact classified figures are not public, so these
+      are reasoned ranges drawn from consistent reporting (CSIS, Payne Institute, RUSI,
+      JINSA, DoD budget data, and conflict usage estimates). Numbers reflect US-owned/controlled
+      operational stocks (not including allies’ separate purchases). PAC-3 MSE (Patriot
+      terminal-phase interceptors) : Pre-2026 baseline: Roughly 1,600–2,000 modern PAC-3
+      MSE (out of a broader Patriot family inventory sometimes cited around 2,000 total,
+      with older variants mixed in). As I have mentioned in previojous posts, cumulative
+      production upper bound of ~4,620 through 2025 (with ~620 delivered in 2025) is
+      reasonable as a global total, but the US retained share is smaller after Foreign
+      Military Sales. Major draws: Hundreds fired by US forces in the first 16 days
+      of the 2026 war (estimates of ~402 in early reports, with some higher figures
+      in intense periods); prior usage in Ukraine (hundreds total over years) and the
+      June 2025 war; plus Gulf partner support. Current remaining (late March 2026)
+      : There are few, if any, PAC 3 missiles left in the US inventory in Israel and
+      the Persian Gulf. There are an estimate 1,400 PAC 3s remaining in INDOPACOM’s
+      pre-war planning stock. Stocks available for sustained Middle East operations
+      outside pre-positioned or diverted units are, under the most optimistic assumptions,
+      critically low. The two-missile (or more) salvo doctrine multiplies consumption
+      per threat. Yet, I have seen videos where at least four PAC 3s are fired at one
+      target… which means the consumption rate is even worse than estimated. THAAD (high-altitude
+      ballistic missile interceptors) : Pre-2026 baseline: Around ~534–632 (MDA procurement/delivered
+      figures; some estimates reference higher cumulative including pipeline or foreign
+      orders). Production has been extremely low (~96 or fewer per year historically).
+      Major draws: Significant usage in June 2025 (~92–150 interceptors, often cited
+      as ~25% or up to 30% of inventory); additional heavy expenditure in the 2026 war
+      (estimates of ~198 in the first 16 days, or ~40% of pre-conflict on-hand inventory
+      in some analyses). Gulf/Middle East operations have consumed a large share. Current
+      remaining (late March 2026) : Reports indicate fewer than 400 ready/reserve interceptors
+      in some estimates, with others warning of depletion risk within weeks (e.g., by
+      mid-April) if current tempo continues. Some analyses describe ~30–40%+ of the
+      stockpile already expended in the current conflict alone on top of prior usage.
+      US stocks of these two high-end ballistic missile defense interceptors are effectively
+      strained to the point of operational risk for prolonged high-intensity defense.
+      THAAD is in a more acute near-term crisis due to tiny production rates, while
+      PAC-3 has a somewhat better (but still insufficient) ramp underway. If the war
+      continues at saturation-attack levels, further constraints (or changes in tactics/priorities)
+      become likely. Exact numbers remain opaque for operational security reasons, but
+      the trend is clear: both systems are depleted or nearing depletion. Which means
+      that Lockheed Martin can expect a major influx of cash to boost production and
+      try to replenish exhausted missile air defense inventories. I wonder who else
+      in the Trump administration and the US Congress are making money off of this bloody
+      war? Judge Napolitano and I discussed the insanity of US plans to deploy ground
+      forces to Iran: Back in Florida with my Florida shirt. Nima appeared dressed appropriately.
+      Too bad we have to discuss the horror unfolding in the Middle East: My conversation
+      with Waqas Ali. Some interesting observations about the conflict between Sunnis
+      and Shias: Danny Haiphong and I discuss the latest in the war on Iran: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Pete Hegseth attempted to invest multimillions in a defense-focused
+      ETF just weeks before a U.S.-Israeli military strike on Iran, reflecting potential
+      financial interests linked to his support for the conflict, although the investment
+      ultimately did not proceed.
+    paragraph_summary: The article discusses allegations that Pete Hegseth attempted
+      to profit from the U.S. military's actions in Iran by seeking a multimillion-dollar
+      investment in a defense-focused Exchange-Traded Fund (ETF) shortly before a U.S.-Israeli
+      strike on Iran in February 2026. The ETF, IDEF, is centered around companies benefiting
+      from increased military spending, including major defense contractors like Lockheed
+      Martin and Northrop Grumman. Although the investment did not proceed due to the
+      ETF not being available on Morgan Stanley's platform, the inquiry raised concerns
+      given Hegseth's influential role in shaping military policy during the Trump administration.
+      The ongoing conflict has severely depleted U.S. missile defense inventories, particularly
+      the PAC-3 and THAAD systems, creating a significant opportunity for war profiteering
+      amidst a backdrop of high expenditure and low production rates.
+    published: '2026-03-31T04:59:14+00:00'
+  - title: Donald Trump’s Imaginary Iranian Friends
+    url: https://sonar21.com/donald-trumps-imaginary-iranian-friends/
+    text: 'Let me begin by offering my apology to all who posted comments that were
+      then put in moderation — by the software, not by me. I just returned home from
+      Calgary and am in the process of cleaning up the pending folder . I have not deleted
+      any comments… They all are now posted. The reason for my inability to get the
+      pending folder cleaned out is because I attended and spoke to the Shaun Newman
+      Podcast conference that also featured Martin Armstrong, Alex Krainer, Karen Kwiatkowski
+      and Matt Ehret. There were over 750 people in attendance and I met and interacted
+      with the nicest people you could imagine. I did catch some grief — all good natured
+      — from several of you who attended and chastised me for not wearing my traditional
+      Florida shirts. It was -2 Celsius when I arrived in Calgary and I confess… I’m
+      a wimp. Florida shirts don’t do well in the snow. A good portion of the crowd
+      was from Alberta, the Canadian province, and they are keen on creating an independent
+      Republic. They are justifiably angry at the bullying they have received from the
+      central Canadian government. But they are not violent or aggressive. Nope. Very
+      kind, very sincere and very intent on protecting their freedoms. Ok. Down to business.
+      Despite Donald Trump’s claim that he — or someone in his administration — is talking
+      with the Iranians is pure hokum. Pakistani diplomats have volunteered to pass
+      messages back-and-forth between the US and Iran, but Iran’s demands are anathema
+      to Trump and vice versa. Iran is not going to surrender or agree to a ceasefire
+      until its core demands are met: reparations, the removal of all sanctions and
+      the elimination of US military bases in the Persian Gulf. The murder of the 175
+      school girls, along with the assassinations of key Iranian officials, as a result
+      of the US and Israeli war of aggression on the people of Iran will not be forgiven
+      and swept under the rug. Despite Trump’s insistence that Iran is eager to negotiate,
+      he is lying. Iran continues to methodically attack US and Israeli military assets
+      and has succeeded in destroying billions of dollars in advanced radars, refueling
+      airplanes, drones and, in the most recent strike, an AWACS plane. The AWACS plane
+      was being used to provide warning intelligence that was previously supplied by
+      the now defunct radars the US had scattered among the Gulf Arab countries. Trump’s
+      claim that Iran is running out of missiles also is not true. As I am writing this,
+      Iran has launched three waves of launches to the Negev in under an hour. In response
+      to Donald Trump’s various threats, a spokesperson for Iran’s Khatam al-Anbiya
+      HQ recently said: The U.S. president has threatened that if Iran doesn’t reopen
+      the Strait of Hormuz, U.S. forces will target Iranian power plants. Tehran insists
+      the Strait is only restricted to hostile traffic and remains under Iran’s control;
+      safe passage continues under strict rules. If the U.S. strikes Iranian power plants,
+      Iran will: Fully close the Strait of Hormuz until damaged facilities are rebuilt.
+      Target all Israeli energy, ICT, and infrastructure assets. Destroy regional companies
+      with U.S. shareholders. Target power plants in countries hosting U.S. bases. Iran
+      says it is ready for a major campaign to eliminate all U.S. economic interests
+      in West Asia. While Tehran did not start this conflict, any attack on Iranian
+      infrastructure will trigger relentless retaliation against U.S. and allied energy,
+      oil, and industrial targets in the region. The US and Israel ignored Iran’s warning
+      and attacked… and, as promised, Iran responded forcefully. On Sunday, according
+      to a statement from Kuwait’s Ministry of Electricity, Water and Renewable Energy,
+      an Indian worker was killed and significant damage was caused to a service building
+      at a power and desalination plant, as a result of an Iranian attack against the
+      State of Kuwait. Satellite data from NASA has reportedly detected an active fire
+      at the Doha West Power and Water Desalination Station, the country’s largest combined
+      power and water plant. Imagery shows burn marks and smoke across the central section,
+      with heat signals extending toward coastal storage tanks. The facility produces
+      2,400MW of power and around 110 million gallons of water per day, making up about
+      38.5% of Kuwait’s desalination output. With around 90% of Kuwait’s drinking water
+      coming from desalination, this damage will quickly put pressure on the country’s
+      water supply. New satellite images also show damage following Iranian missile
+      strikes on a US airbase in Sheikh Isa, Bahrain: — US Army Air Base Radar Maintenance
+      Shed Hit — Destroying the spy plane hangars. — Destruction of the drone hangar.
+      — Destruction of the equipment depot. Despite continued bombing of targets in
+      Iran, the Iranians are showing no signs of weakening… In fact, they are intensifying
+      their attacks, inspired by the continued slaughter of Iranian children. Here are
+      three of the latest victims of US and Israeli strikes in Iran: According to Haaretz
+      , the success rate of Iranian missiles in Israel has reached 80%, and the missiles
+      are not being intercepted. Iran is not alone. Hezbollah also is fully engaged
+      in fighting Israel. Hezbollah announced 70 operations on 29 March against Israeli
+      forces, sites, settlements, and military infrastructure. These included: Border
+      clashes Heavy fighting spread across Aitaroun, Ainata, Qantara, Bayyada, Deir
+      Siryan, Houla, Shamaa, Maroun al-Ras, and Beit Lif, including close-range engagements
+      and ambushes targeting advancing Israeli forces. A major infiltration attempt
+      toward Ainata was repelled with explosives and direct fire, followed by strikes
+      on Merkava tanks and armored units. Multiple clashes resulted in destroyed tanks,
+      with over a dozen Merkava tanks targeted, including engagements at zero distance,
+      and forced evacuation operations under heavy fire. Drone attacks Attack drones
+      targeted key Israeli positions and assets, including Biriya air defense base,
+      Rawiya base in the occupied Syrian Golan, and Gilaa barracks, as well as troop
+      concentrations and armored vehicles across Bayyada, Qantara, Alma al-Shaab, Deir
+      Siryan, and Houla. Drones also struck Hummers, D9 bulldozers, and armored units,
+      while one Israeli armed drone was shot down over Mansouri. Rocket/missile strikes
+      Rocket barrages hit Israeli troop concentrations and positions across Malikiya,
+      Aitaroun, Qantara, Deir Siryan, Ainata, and the Khiam axis, alongside strikes
+      on settlements including Metula, Shtula, Yir’on, Avivim, and Nahariya. Sustained
+      fire also targeted gatherings near schools, infrastructure points, and frontline
+      staging areas throughout the day. Strategic military targets Strikes targeted
+      major Israeli military infrastructure, including Ein Shemer air defense base east
+      of Hadera, Raghavim base south of Haifa, Biriya base and Michve Allon base near
+      Safad, Giv’a drone command base east of Safad, Ein Zeitim base, and Kela barracks
+      in the occupied Golan. Additional strikes hit infrastructure in Katzrin and Kfar
+      Vradim, as well as artillery positions and newly established military sites, alongside
+      repeated targeting of communications and operational nodes. The upcoming week
+      — March 30 to April4 — marks the fifth week of the war with no sign of an end
+      in sight. The economic effects on the world economy are going to hit with greater
+      force and will increase pressure on the US and Israel to stop the war. However,
+      I fully anticipate that Donald Trump will follow thru on his threats to try to
+      capture some Iranian territory by deploying US military forces on the ground.
+      If Trump does this, it will only expand the war and will dramatically increase
+      the number of US casualties. This will not calm the financial markets… I expect
+      it will have the exact opposite effect. The global economy is in a recession…
+      Western economists are just now beginning to understand that reality. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author apologizes for delayed comment moderation due to
+      attending the Shaun Newman Podcast conference in Calgary, where they interacted
+      with attendees and discussed Alberta's interest in independence.
+    paragraph_summary: The author apologizes for the moderation of comments on their
+      blog, explaining that they were attending the Shaun Newman Podcast conference
+      in Calgary, where they interacted with a large and friendly audience, including
+      discussions about Alberta's desire for independence from the Canadian government.
+      The author humorously acknowledges their struggle with the cold weather, contrasting
+      it with their usual Florida attire. They then shift to a serious topic, asserting
+      that Donald Trump's claims about negotiations with Iran are false, as Iran's demands—such
+      as reparations and the removal of US sanctions—are unacceptable to the US. The
+      author emphasizes that Iran will not agree to a ceasefire until these demands
+      are met, highlighting the ongoing tensions and grievances stemming from US and
+      Israeli actions against Iran.
+    published: '2026-03-30T06:13:04+00:00'
+  - title: Donald Trump’s Imaginary Iranian Friends
+    url: https://sonar21.com/donald-trumps-imaginary-iranian-friends/
+    text: 'Let me begin by offering my apology to all who posted comments that were
+      then put in moderation — by the software, not by me. I just returned home from
+      Calgary and am in the process of cleaning up the pending folder . I have not deleted
+      any comments… They all are now posted. The reason for my inability to get the
+      pending folder cleaned out is because I attended and spoke to the Shaun Newman
+      Podcast conference that also featured Martin Armstrong, Alex Krainer, Karen Kwiatkowski
+      and Matt Ehret. There were over 750 people in attendance and I met and interacted
+      with the nicest people you could imagine. I did catch some grief — all good natured
+      — from several of you who attended and chastised me for not wearing my traditional
+      Florida shirts. It was -2 Celsius when I arrived in Calgary and I confess… I’m
+      a wimp. Florida shirts don’t do well in the snow. A good portion of the crowd
+      was from Alberta, the Canadian province, and they are keen on creating an independent
+      Republic. They are justifiably angry at the bullying they have received from the
+      central Canadian government. But they are not violent or aggressive. Nope. Very
+      kind, very sincere and very intent on protecting their freedoms. Ok. Down to business.
+      Despite Donald Trump’s claim that he — or someone in his administration — is talking
+      with the Iranians is pure hokum. Pakistani diplomats have volunteered to pass
+      messages back-and-forth between the US and Iran, but Iran’s demands are anathema
+      to Trump and vice versa. Iran is not going to surrender or agree to a ceasefire
+      until its core demands are met: reparations, the removal of all sanctions and
+      the elimination of US military bases in the Persian Gulf. The murder of the 175
+      school girls, along with the assassinations of key Iranian officials, as a result
+      of the US and Israeli war of aggression on the people of Iran will not be forgiven
+      and swept under the rug. Despite Trump’s insistence that Iran is eager to negotiate,
+      he is lying. Iran continues to methodically attack US and Israeli military assets
+      and has succeeded in destroying billions of dollars in advanced radars, refueling
+      airplanes, drones and, in the most recent strike, an AWACS plane. The AWACS plane
+      was being used to provide warning intelligence that was previously supplied by
+      the now defunct radars the US had scattered among the Gulf Arab countries. Trump’s
+      claim that Iran is running out of missiles also is not true. As I am writing this,
+      Iran has launched three waves of launches to the Negev in under an hour. In response
+      to Donald Trump’s various threats, a spokesperson for Iran’s Khatam al-Anbiya
+      HQ recently said: The U.S. president has threatened that if Iran doesn’t reopen
+      the Strait of Hormuz, U.S. forces will target Iranian power plants. Tehran insists
+      the Strait is only restricted to hostile traffic and remains under Iran’s control;
+      safe passage continues under strict rules. If the U.S. strikes Iranian power plants,
+      Iran will: Fully close the Strait of Hormuz until damaged facilities are rebuilt.
+      Target all Israeli energy, ICT, and infrastructure assets. Destroy regional companies
+      with U.S. shareholders. Target power plants in countries hosting U.S. bases. Iran
+      says it is ready for a major campaign to eliminate all U.S. economic interests
+      in West Asia. While Tehran did not start this conflict, any attack on Iranian
+      infrastructure will trigger relentless retaliation against U.S. and allied energy,
+      oil, and industrial targets in the region. The US and Israel ignored Iran’s warning
+      and attacked… and, as promised, Iran responded forcefully. On Sunday, according
+      to a statement from Kuwait’s Ministry of Electricity, Water and Renewable Energy,
+      an Indian worker was killed and significant damage was caused to a service building
+      at a power and desalination plant, as a result of an Iranian attack against the
+      State of Kuwait. Satellite data from NASA has reportedly detected an active fire
+      at the Doha West Power and Water Desalination Station, the country’s largest combined
+      power and water plant. Imagery shows burn marks and smoke across the central section,
+      with heat signals extending toward coastal storage tanks. The facility produces
+      2,400MW of power and around 110 million gallons of water per day, making up about
+      38.5% of Kuwait’s desalination output. With around 90% of Kuwait’s drinking water
+      coming from desalination, this damage will quickly put pressure on the country’s
+      water supply. New satellite images also show damage following Iranian missile
+      strikes on a US airbase in Sheikh Isa, Bahrain: — US Army Air Base Radar Maintenance
+      Shed Hit — Destroying the spy plane hangars. — Destruction of the drone hangar.
+      — Destruction of the equipment depot. Despite continued bombing of targets in
+      Iran, the Iranians are showing no signs of weakening… In fact, they are intensifying
+      their attacks, inspired by the continued slaughter of Iranian children. Here are
+      three of the latest victims of US and Israeli strikes in Iran: According to Haaretz
+      , the success rate of Iranian missiles in Israel has reached 80%, and the missiles
+      are not being intercepted. Iran is not alone. Hezbollah also is fully engaged
+      in fighting Israel. Hezbollah announced 70 operations on 29 March against Israeli
+      forces, sites, settlements, and military infrastructure. These included: Border
+      clashes Heavy fighting spread across Aitaroun, Ainata, Qantara, Bayyada, Deir
+      Siryan, Houla, Shamaa, Maroun al-Ras, and Beit Lif, including close-range engagements
+      and ambushes targeting advancing Israeli forces. A major infiltration attempt
+      toward Ainata was repelled with explosives and direct fire, followed by strikes
+      on Merkava tanks and armored units. Multiple clashes resulted in destroyed tanks,
+      with over a dozen Merkava tanks targeted, including engagements at zero distance,
+      and forced evacuation operations under heavy fire. Drone attacks Attack drones
+      targeted key Israeli positions and assets, including Biriya air defense base,
+      Rawiya base in the occupied Syrian Golan, and Gilaa barracks, as well as troop
+      concentrations and armored vehicles across Bayyada, Qantara, Alma al-Shaab, Deir
+      Siryan, and Houla. Drones also struck Hummers, D9 bulldozers, and armored units,
+      while one Israeli armed drone was shot down over Mansouri. Rocket/missile strikes
+      Rocket barrages hit Israeli troop concentrations and positions across Malikiya,
+      Aitaroun, Qantara, Deir Siryan, Ainata, and the Khiam axis, alongside strikes
+      on settlements including Metula, Shtula, Yir’on, Avivim, and Nahariya. Sustained
+      fire also targeted gatherings near schools, infrastructure points, and frontline
+      staging areas throughout the day. Strategic military targets Strikes targeted
+      major Israeli military infrastructure, including Ein Shemer air defense base east
+      of Hadera, Raghavim base south of Haifa, Biriya base and Michve Allon base near
+      Safad, Giv’a drone command base east of Safad, Ein Zeitim base, and Kela barracks
+      in the occupied Golan. Additional strikes hit infrastructure in Katzrin and Kfar
+      Vradim, as well as artillery positions and newly established military sites, alongside
+      repeated targeting of communications and operational nodes. The upcoming week
+      — March 30 to April4 — marks the fifth week of the war with no sign of an end
+      in sight. The economic effects on the world economy are going to hit with greater
+      force and will increase pressure on the US and Israel to stop the war. However,
+      I fully anticipate that Donald Trump will follow thru on his threats to try to
+      capture some Iranian territory by deploying US military forces on the ground.
+      If Trump does this, it will only expand the war and will dramatically increase
+      the number of US casualties. This will not calm the financial markets… I expect
+      it will have the exact opposite effect. The global economy is in a recession…
+      Western economists are just now beginning to understand that reality. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The author apologizes for delayed comment moderation due to
+      attending the Shaun Newman Podcast conference in Calgary, where they interacted
+      with attendees and discussed Alberta's interest in independence.
+    paragraph_summary: The author apologizes for the moderation of comments on their
+      blog, explaining that they were attending the Shaun Newman Podcast conference
+      in Calgary, where they interacted with a large and friendly audience, including
+      discussions about Alberta's desire for independence from the Canadian government.
+      The author humorously acknowledges their struggle with the cold weather, contrasting
+      it with their usual Florida attire. They then shift to a serious topic, asserting
+      that Donald Trump's claims about negotiations with Iran are false, as Iran's demands—such
+      as reparations and the removal of US sanctions—are unacceptable to the US. The
+      author emphasizes that Iran will not agree to a ceasefire until these demands
+      are met, highlighting the ongoing tensions and grievances stemming from US and
+      Israeli actions against Iran.
+    published: '2026-03-30T06:13:04+00:00'
+  - title: A Baron of Lies Turns the World Upside Down—and Loses
+    url: https://sonar21.com/a-baron-of-lies-turns-the-world-upside-down-and-loses/
+    text: 'Donald Trump is not only endangering the world with his megalomania and greed,
+      but will likely go down in history as a baron of lies. What is the real situation,
+      given that the Western media actually believe Trump’s nonsense? By Peter Hanseler
+      via ForumGeopolitica.com The Baron of Lies Introduction Comedians are being deprived
+      of their creativity: to turn Trump’s remarks into slapstick, you only have to
+      do one thing—nothing at all. If you just let him speak, he provides “top-notch”
+      entertainment at the lowest possible level. Less amusing is the fact that the
+      Western media, which purports to offer reporting and analysis, takes this utter
+      nonsense seriously. If you follow experts in the West, you’ll rub your eyes and
+      ears in disbelief. Never before have reporting and assessments been so riddled
+      with nonsense and so far removed from reality. The people and media of the West,
+      in their Diederich Hessling-like subservience, don’t even begin to realize that
+      they are being led into disaster by the powerful in Israel and the US. Instead
+      of preparing people for the fact that the West—above all Europe—is heading toward
+      collapse and deprivation, rosy forecasts are being issued Yet careful research
+      certainly makes it possible to paint a realistic picture. This is a laborious
+      task, as the entire West has conspired to lie to the world. Through censorship
+      and AI, the circles that shape public opinion and shape policy have the means
+      to make Western populations believe that the Israelis are the good guys and that
+      the Americans will prevail. This is nothing new: there have always been only winners
+      in a war. Thus, the Nazis tried to convince their people until 1945 that final
+      victory was tantalisingly close. During the wars in Korea and Vietnam, the Americans
+      “won,” and Russia has been “losing” in Ukraine for four years. And now the Americans
+      and Israelis are “winning” in Iran, Lebanon, indeed throughout the entire Middle
+      East. The fact that this propaganda cannot be true is also evident from the fact
+      that the claims are becoming increasingly fantastical—even the famous Baron Münchhausen
+      would blush. As always in my reporting, this is merely an attempt to describe
+      and analyze the overall situation. Too many factors are at play simultaneously
+      around the world, and when conducting an analysis, there is always a risk that
+      one might omit certain facts—deeming them irrelevant to the overall trend—only
+      to be proven wrong by reality later on. Big Lies Negotiations that Don’t Exist
+      and Criminal Insider Trading On March 22, President Trump gave the Iranians 48
+      hours to open the Strait of Hormuz, warning that otherwise the US would destroy
+      Iran’s power plants. The Iranians did not respond to this threat. On March 23,
+      the tone was quite different. Trump claimed that the US was engaged in productive
+      negotiations with Iran and that, given their positive progress, he would refrain
+      from attacking Iran’s energy infrastructure for the next five days. A few minutes
+      before Trump’s announcement was released, something interesting happened in the
+      financial markets. Around 6,200 Brent and West Texas Intermediate futures contracts
+      changed hands on Monday between 6:49 a.m. and 6:50 a.m. New York time, just 15
+      minutes before Trump’s tweet on Truth Social stating that there had been “productive
+      talks” with Tehran in recent days regarding ending the war in Iran. According
+      to calculations by the FT based on Bloomberg data, the nominal value of these
+      trades amounted to $580 million. At the same time, a single trader purchased S&P
+      500 futures worth $1.5 billion. Shortly after Trump’s announcement, the S&P futures
+      rose by 2.5% and the price of oil plummeted by 10%. The individual in question
+      made well over $100 million from these trades. This insider must inevitably be
+      one of President Trump’s closest associates. “Compared to these people, the Mafia
+      is about as harmless as Mother Teresa!” The response from Iran was swift: there
+      are no direct or indirect talks between Tehran and Washington. Why did Trump Spread
+      this Lie? On the one hand, he could hand out $100 million to a colleague or family
+      member with a quick tweet; this kind of behavior doesn’t surprise me in the least.
+      The fact that U.S. authorities didn’t immediately launch an investigation into
+      this criminal activity says everything about the state of the country. I assume
+      that no one wants to risk their life. I discussed this matter with a financial
+      expert. His words: “Compared to these people, the Mafia is as dangerous as Mother
+      Teresa!” Unless there is a coup in the US—and who should carry it out?—this crime
+      will not be punished. Apart from this “favor for a friend,” this move is a sign
+      that the American president has completely lost touch with reality. The Iranians
+      have not the slightest interest in negotiating with Trump and his associates.
+      The Americans’ willingness to negotiate, on the other hand, is a clear indication
+      that things are not going as planned. Another Lie – Extension of the Deadline
+      On March 26, Trump extended the deadline to April 6. The reason? – The Iranians
+      had asked for it. Another lie. Because Iran has absolutely no interest in negotiating
+      with the Americans. It’s unclear whether Trump has actually lost his mind or whether
+      he thinks he can achieve anything positive with this strategy—the humorists have
+      already taken over following the 48-hour ultimatum. “The Iranians you’ve been
+      talking to for 2 days – are they in the room with us now?” No level-headed analyst
+      was surprised when the US and Israel broke their “promise” shortly after this
+      tweet. Among other targets, Israel struck two of Iran’s largest steel mills, a
+      power plant, and civilian nuclear facilities. The Israelis claimed they acted
+      in coordination with the US, which is certainly true, since no Israeli aircraft
+      can attack Iran without US tanker aircraft and cannot return without their assistance.
+      Israel has hit 2 of Iran''s largest steel factories, a power plant and civilian
+      nuclear sites among other infrastructure. Israel claims it acted in coordination
+      with the U.S. Attack contradicts POTUS extended deadline for diplomacy. Iran will
+      exact HEAVY price for Israeli crimes — Seyed Abbas Araghchi (@araghchi) March
+      27, 2026 Trump and the Numbers A juicy tidbit was published on March 26: Trump
+      claims that Qatar, the United Arab Emirates, and Saudi Arabia each gave him $2
+      trillion. The only catch: the combined gross domestic product of these three countries
+      is $3 trillion. BREAKING : Trump claims Qatar, UAE & Saudi Arabia gave me $2 Trillion
+      each, total $6 Trillion for WAR. Total entire GDP of Qatar, UAE and Saudi: $3
+      Trillion This is ABSOLUTE CINEMA pic.twitter.com/yauDtqbqw1 — InfoGram (@_InfoGram_)
+      March 26, 2026 Zahlen, die Trump nicht erfreuen Yesterday, anti-war protests took
+      place in countless cities across the US; estimates put the number of participants
+      at over 7 million. Meh!!! Zionists were banking on massive crowds showing up in
+      Iran…but they showed up in pic.twitter.com/iIQbvRlbnN — Abier (@abierkhatib) March
+      29, 2026 The Latest Example of a Lie – A Laundry Dryer Takes the World’s Largest
+      Warship Out of Commission One of the Americans’ most entertaining lies concerns
+      their largest warship—the aircraft carrier “Gerald Ford.” According to the US,
+      a fire broke out due to a defective laundry dryer that could not be extinguished
+      for ten days. This symbol of American military superiority has now docked at a
+      port in Split. According to the latest official US reports, repairs to the damage
+      caused by the laundry dryer will take between 14 and 24 months. Although video
+      clips are circulating suggesting that Trump confirmed a missile attack on the
+      aircraft carrier, these clips actually refer to Venezuela. I consider it impossible
+      that a laundry dryer could put the world’s largest warship out of commission for
+      up to two years. In Split angekommen verkülndete der Kommandierende Offizier:
+      “The crew is excited to be back in Split for some well-deserved liberty […] they
+      have accomplished so much since our initial visit in October.” Capt. David Skarosi,
+      commanding officer of Gerald R. Ford Source: U S Forces Command A Dangerous Man
+      The President of the US has now squandered all credibility. But in this position—whether
+      he realizes it or not is irrelevant—he is also squandering the credibility of
+      the country he leads on behalf of its citizens. No one can take pleasure in the
+      fact that the most powerful country on earth has lost the trust of other nations,
+      not even Iran, which has been attacked by the US. For every war eventually comes
+      to an end, usually through a treaty or an agreement. But given the US President’s
+      actions, which defy rational understanding, who can trust his signature—or that
+      of a representative acting on his behalf? I see no advantage in having the US
+      as a weakened player on the geopolitical chessboard—one with whom one cannot negotiate.
+      Yet today, these are precisely the realities of global politics. The Iranians
+      negotiate neither with the US and Israel nor with their allies. Their experience
+      tells them that would be their death sentence. So they must establish facts on
+      the battlefield. We will now leave the comedy club created by Trump and turn our
+      attention to reality. The Reality Looks Different Israel is being Destroyed and
+      the Israelis are being Decimated in Lebanon The damage in Israel’s cities is devastating.
+      But no one should be surprised—Israelis see themselves as victims. That is the
+      self-image of the overwhelming majority of the Jewish Israeli population. Despite
+      draconian penalties of five years in prison for publishing reports on attacks
+      and destruction, thousands of images and videos can be found online that document
+      what, from a Western perspective, is not supposed to exist. Since Friday, parts
+      of Tel Aviv have been in the dark: the power supply is suffering. It is also striking
+      that the Israeli air defense system, which was already struggling from the start,
+      has practically ground to a halt. Patricia Marins reports that eight out of ten
+      Iranian missiles hitting Israel are hitting their targets. On top of that, Hezbollah
+      has intensified its missile attacks in recent days. The Israelis are thus being
+      fired upon from two sides—and now the Houthis are joining in, more on that below.
+      Breaking Israeli media: Iran has launched three missile attacks on southern Israel,
+      Dimona, Beersheba and the Tel Aviv metropolitan area in less than half an hour.
+      pic.twitter.com/q22JsALj7i — Atif Hussain (@atif_hussain72) March 29, 2026 Few
+      people are paying attention to the Israeli invasion of Lebanon—part of the “Greater
+      Israel” project. The first attempt, back in 2006, ended in disaster. The Israelis
+      seem to be lacking the stamina this time around as well. According to various
+      reports, the Israelis have already lost over 100 tanks, 21 of them in the last
+      24 hours alone. Massive destruction of Merkava tanks in southern Lebanon By 10
+      a.m. today, 18 tanks were destroyed in the south, which are distributed as follows:
+      8 tanks in Al-Qantara, 5 tanks in Deir Siron, 3 tanks in At-Tayyeb, 2 tanks in
+      Dibl. pic.twitter.com/qSNX5pYeiU — Globe Eye Network (@GlobeEyeNetwork) March
+      26, 2026 According to reports, the military’s Chief of Staff, Lieutenant General
+      Eyal Zamir , warned during a meeting of the Security Cabinet that the IDF would
+      “collapse from within”—so reports the Times of Israel . When a country’s Chief
+      of Staff makes such a statement, it should be taken seriously. Of course, the
+      Western press does not do this—after all, they don’t want to make enemies. American
+      Casualties The official US casualty figures are kept at a homeopathic level. While
+      it is tragic to lose a dozen or so soldiers, the heroes died for a good cause,
+      and in numerical terms, the losses are negligible compared to those of the enemy—that
+      is the US communication strategy. The following clip shows one such individual
+      case—the son of a fallen U.S. soldier is crying his heart out—no child deserves
+      this, whether friend or foe. @baby.laughs5 Tiny Boy Walks to His Soldier Dad’s
+      Flag-Draped Coffin ” #ToddlerPower #TollderLove #BabyLaugh BabyMoment. ♬ original
+      sound – 𝐁𝐚𝐛𝐲 𝐋𝐚𝐮𝐠𝐡𝐬 – 𝐁𝐚𝐛𝐲 𝐋𝐚𝐮𝐠𝐡𝐬 The officially released figures are not credible.
+      The Iranians are reporting 600 to 800 American deaths and 5,000 injuries. If you
+      watch the videos of the attacks on the American bases, these figures seem more
+      realistic than Mr. Trump’s fairy tales. Iranian Attack on an American base in
+      Saudi Arabia Yesterday, Iran inflicted a severe blow on the Americans in Saudi
+      Arabia. Three E-3 Sentry AWACS aircraft, each costing around 600 million US dollars
+      – of which there are only 16 in the world – and a further KC-135 tanker were destroyed.
+      Iranian strikes on a US base in Saudi Arabia destroyed an E-3 Sentry AWACS (an
+      important "flying radar") and multiple KC-135 aerial tankers. pic.twitter.com/DGAvS7vNkK
+      — Glenn Diesen (@Glenn_Diesen) March 29, 2026 Strait of Hormuz Not Closed, but
+      Controlled by Iran The Strait of Hormuz is neither closed nor mined. The Iranians
+      simply prohibit their enemies from passing through. This gives the Iranians enormous
+      leverage to influence the global economy. I find it completely incomprehensible
+      how the US and Israel could have gone to war against Iran without being fully
+      aware of the epic scale of this consequence. At present, ships and cargoes belonging
+      to the Iranians, Russians, Chinese, Pakistanis, Indians and Japanese – and, of
+      course, the Spanish, whose Prime Minister is demonstrating that one can have backbone
+      in Europe too – are permitted to pass through. This serves as a stark reminder
+      to our government and media, which have been pursuing a course that promotes genocide
+      and demonises Iran since October 2023. In addition to flying the correct flag,
+      the raw materials must be purchased in yuan and a toll of 2 million US dollars
+      must be paid. Alongside Russia, Iran has an economic advantage given the current
+      situation: before the war, Iran sold 1.1 million barrels of oil a day at $47;
+      today, it sells 1.5 million barrels at $120; that is an increase of 300% . I assume
+      that the Strait of Hormuz will remain under Iranian control in the long term.
+      The US Dollar on its Way to the Deathbed There are several reasons why commodities
+      must be settled in yuan: firstly, dollar payments can be arbitrarily seized by
+      the Americans, whereas this is not the case with the yuan, and on the Shanghai
+      Gold Exchange, yuan can be easily exchanged for gold. Secondly, if 20% of the
+      world’s energy is paid for in yuan rather than US dollars, this will significantly
+      undermine the dominance of the US dollar. “The petrodollar is dying in the very
+      place where it was born.” The irony of the story is that the wicked but brilliant
+      Henry Kissinger created the Petrodollar in 1973 by persuading the Saudis to sell
+      their oil only in US dollars – and now the Petrodollar is dying in the very place
+      where it was born. The Houthis will Crush the Saudis So far, the Saudis have been
+      using their East-West pipeline to avoid having to ship oil via the Strait of Hormuz,
+      opting instead for the Bab al-Mandab Strait or the Suez Canal. However, this pipeline
+      has only a fraction of the capacity of the Saudi port facilities in the Persian
+      Gulf. The Bab al-Mandab Strait, however, is controlled by the Houthis, who are
+      allied with Iran. BREAKING: The Houthis have officially announced entry into the
+      conflict in support of Iran. Houthi military spokesperson: “We will target U.S.
+      ships and warships in the Red Sea.” pic.twitter.com/8J2J1SuekX — Conflict Alarm
+      (@ConflictAlarm) March 27, 2026 The Houthis have already announced a closure.
+      As the Houthis have now entered the war, a reminder the Straits of Hormuz and
+      Ban Al-Mandab were always the obvious pressure points. If the plan had no serious
+      mine-clearing, convoy, and commercial-shipping continuity strategy ready on day
+      one, that is not strength — that is a… pic.twitter.com/iTrPyRJXtW — Bryan Dawson
+      (@BryanDawsonUSA) March 28, 2026 The haughty Americans should take this seriously,
+      for the Houthis have been fought in vain for 15 years by the Americans, Saudis,
+      Israelis, French and British. But since the West’s arrogance and stupidity are
+      truly boundless, the West will be just as surprised as Trump was by Iran’s resistance
+      when he said: “ We won, but they are still hitting back . ”. This escalation will
+      bankrupt the Saudis and block the Suez Canal. Given the current figures on the
+      financial markets, the West is giving the impression that the ‘problem’ will soon
+      be resolved. This is out of touch with reality, and market participants in the
+      West are incapable of assessing the threat to the global economy in even remotely
+      realistic terms. Blocking the Bab al-Mandab Strait would have two consequences:
+      firstly, the Saudis would no longer be able to export any oil at all; the same
+      applies to the United Arab Emirates. Secondly, the Suez Canal flows into the Red
+      Sea, which would then also be blocked. Twelve per cent of global trade passes
+      through the Suez Canal. The Western media are not reporting on this – I am speechless.
+      In the Event of a US Ground Assault, Hormuz Will Become Gallipoli 2.0 One of the
+      British Empire’s greatest setbacks was attributed, among other things, to Winston
+      Churchill during the unsuccessful campaign to capture Gallipoli in 1915. The British,
+      who were just as arrogant a good 100 years ago as the US is today, believed that
+      this would herald the downfall of the Ottoman Empire. The battle claimed a total
+      of 100,000 dead and 250,000 wounded on both sides, which amounted to almost half
+      of the soldiers deployed. As the topographical map of Iran below (left) shows,
+      Iran is a natural fortress, giving the Iranians every advantage as defenders.
+      Iraq, which is four times smaller than Iran, is, incidentally, completely flat
+      (right). In 1991, a coalition of around 800,000 international troops managed to
+      occupy barely half of this small, flat country. Only the border region with Iran
+      is mountainous, which ultimately led to Iraq’s defeat in the Iran-Iraq War of
+      the 1980s. Topographical maps of Iran (left) and Iraq (right) The Iranians struck
+      against American troops as early as the weekend. The IRGC has confirmed that at
+      least 50 US soldiers from Delta Force or CENTCOM were captured for the second
+      time in the Strait of Hormuz using high-tech weapons. Furthermore, American troops
+      were attacked in Dubai: two hideouts of the invading American army were located
+      in Dubai, the first hideout containing more than 400 people and the second more
+      than 100. Both hideouts were identified and completely destroyed. American casualties
+      are certain and very high. Spokesman Khatim Al-Anbiya Headquarters: Heavy casualties
+      to more than 500 American soldiers. In the past few hours, their two hideouts—the
+      first containing more than 400 people, and the second containing more than 100
+      people—in Dubai were identified and targeted by missiles and… pic.twitter.com/1iULOilENX
+      — True Promise – الوعد الصادق ✪ (@IRTruePromise) March 28, 2026 It is unclear
+      whether the Americans will send troops on this suicide mission, and if so, how
+      many. What is clear is that the commander of Marine Forces Reserve and Marine
+      Forces South, Leonard F. Anderson, sent a noteworthy letter to his troops on 26
+      March. The letter was sent to 35,000 reservists. In it, Anderson writes that the
+      Marines must prepare to go to war – families should be prepared. The Gulf States
+      The Gulf states are no more sovereign than Germany. What they have in common is
+      that they host huge American bases on their territory and thus have to – and presumably
+      want to – sit on two horses, or rather ride two camels. This was already put in
+      these terms on 5 March by Foreign Minister Lavrov . They are completely dependent
+      on the US militarily. The loud-mouthed Saudis, whose military budget is ten times
+      larger than Iran’s, failed – as already mentioned – to achieve anything against
+      the Houthis; rather, they came away with a bloody nose. Moreover, in his refreshingly
+      crass manner, Trump publicly called MBD a ‘ass-kisser’ on Friday, which certainly
+      did not go down well with the proud Arabs. The Arabs have left their brothers
+      in Palestine out in the cold – or rather, in blood – for six decades and left
+      the support to the Iranians, who are Persians and not Arabs. Thus, the Gulf states
+      are known not for their loyalty, but for their opportunism. Having been pondering
+      war against Iran just two days ago, the UAE has now abruptly changed course and
+      is talking of a diplomatic solution. Upon taking stock of their troops, they surely
+      realised that most of their soldiers are not even citizens of their own country.
+      BREAKING: After Iran attacked Abu Dhabi''s economic zone yesterday, the United
+      Arab Emirates has changed its tone and is now calling for a diplomatic agreement
+      The United Arab Emirates has seemingly changed its stance regarding the Iran war.
+      Just yesterday, advocating… pic.twitter.com/h0P3ejEqkz — Megatron (@Megatron_ron)
+      March 28, 2026 All the Gulf states will align their flags with the winner – and
+      that won’t be America. Conclusion As I speculated in my previous post, “ The Empire
+      Loses Control – Consequences ”, Iran will not only win this conflict, but will
+      also permanently reshape the entire map of the Middle East. Israel, which now
+      faces three adversaries, is on the brink of collapse. The invasion of Lebanon
+      has not only turned out to be a complete fiasco, as it did in 2006, but it is
+      foreseeable that Hezbollah’s formidable forces will likely advance into northern
+      Israel. That in itself is already a disaster. As we have reported, cracks are
+      already appearing in the Israeli army and collapse seems imminent; genocide and
+      war are simply two entirely different fields of operation. In war, the enemy fires
+      back – something Israeli soldiers are not accustomed to. Now the Houthis are joining
+      the fray, having been battle-hardened for ten years. Iranian missiles have a free
+      pass into Israel – the Iron Dome defence system has been decimated by 80 per cent,
+      and cities in Israel are now getting a taste of what cities like Beirut or Damascus
+      – not to mention Gaza and Ramallah – have had to endure from Israel for decades.
+      This naturally also has an impact on the morale of the Israelis, whose whining
+      about their own suffering is getting on the nerves of more and more people – increasingly
+      in the West too – because: who started the war, nota bene with the bombing of
+      a girls’ school and hospitals? You’re never going to believe this Israelis are
+      crying about damage to buildings. They’re even using the word “war crimes” You
+      can’t make this up. pic.twitter.com/T5O469cyjF — ADAM (@AdameMedia) March 24,
+      2026 It is to be feared that the Americans will launch a ground invasion of Iran.
+      Before the attack on Iran, I would have bet a lot of money that the Americans
+      would not commit such madness. I thought my dear friend Scott Ritter was exaggerating.
+      He was right and I was wrong. Scott also foresees an attack this time – and then
+      a bloodbath. His track record is better than mine, so I’d better keep quiet.«Verfolgt
+      man die westlichen Medien, so glaubt man sich auf einem anderen Planeten.» Until
+      last Friday, the financial markets assumed that the whole affair would be resolved
+      in a matter of weeks. A protracted conflict involving astronomical energy prices,
+      famines and supply problems has not yet been factored into financial market prices.
+      They have the Western media largely to thank for this. If you follow the media,
+      you might think you were on another planet. The awakening in the West will herald
+      a nightmare that will last for many years.'
+    one_sentence_summary: The article argues that Donald Trump's megalomania and dishonesty
+      pose a significant threat to the world, while criticizing Western media for taking
+      his statements seriously and failing to recognize the potential consequences of
+      his actions.
+    paragraph_summary: The article by Peter Hanseler critiques Donald Trump, labeling
+      him as a "baron of lies" whose megalomania and greed pose a danger to the world.
+      It argues that the Western media, instead of providing accurate reporting and
+      analysis, is complicit in perpetuating Trump's nonsensical statements, leading
+      the public into a false sense of security about impending crises in Europe and
+      beyond. The author suggests that the media's portrayal of geopolitical events
+      is heavily influenced by powerful interests in Israel and the US, creating a narrative
+      that misleads the populace. This manipulation is likened to historical propaganda
+      efforts, where governments have attempted to convince their citizens of imminent
+      victories despite the reality of defeat. Ultimately, the article calls for a more
+      realistic understanding of the global situation, which is obscured by censorship
+      and misinformation.
+    published: '2026-03-29T19:14:11+00:00'
+  - title: A Baron of Lies Turns the World Upside Down—and Loses
+    url: https://sonar21.com/a-baron-of-lies-turns-the-world-upside-down-and-loses/
+    text: 'Donald Trump is not only endangering the world with his megalomania and greed,
+      but will likely go down in history as a baron of lies. What is the real situation,
+      given that the Western media actually believe Trump’s nonsense? By Peter Hanseler
+      via ForumGeopolitica.com The Baron of Lies Introduction Comedians are being deprived
+      of their creativity: to turn Trump’s remarks into slapstick, you only have to
+      do one thing—nothing at all. If you just let him speak, he provides “top-notch”
+      entertainment at the lowest possible level. Less amusing is the fact that the
+      Western media, which purports to offer reporting and analysis, takes this utter
+      nonsense seriously. If you follow experts in the West, you’ll rub your eyes and
+      ears in disbelief. Never before have reporting and assessments been so riddled
+      with nonsense and so far removed from reality. The people and media of the West,
+      in their Diederich Hessling-like subservience, don’t even begin to realize that
+      they are being led into disaster by the powerful in Israel and the US. Instead
+      of preparing people for the fact that the West—above all Europe—is heading toward
+      collapse and deprivation, rosy forecasts are being issued Yet careful research
+      certainly makes it possible to paint a realistic picture. This is a laborious
+      task, as the entire West has conspired to lie to the world. Through censorship
+      and AI, the circles that shape public opinion and shape policy have the means
+      to make Western populations believe that the Israelis are the good guys and that
+      the Americans will prevail. This is nothing new: there have always been only winners
+      in a war. Thus, the Nazis tried to convince their people until 1945 that final
+      victory was tantalisingly close. During the wars in Korea and Vietnam, the Americans
+      “won,” and Russia has been “losing” in Ukraine for four years. And now the Americans
+      and Israelis are “winning” in Iran, Lebanon, indeed throughout the entire Middle
+      East. The fact that this propaganda cannot be true is also evident from the fact
+      that the claims are becoming increasingly fantastical—even the famous Baron Münchhausen
+      would blush. As always in my reporting, this is merely an attempt to describe
+      and analyze the overall situation. Too many factors are at play simultaneously
+      around the world, and when conducting an analysis, there is always a risk that
+      one might omit certain facts—deeming them irrelevant to the overall trend—only
+      to be proven wrong by reality later on. Big Lies Negotiations that Don’t Exist
+      and Criminal Insider Trading On March 22, President Trump gave the Iranians 48
+      hours to open the Strait of Hormuz, warning that otherwise the US would destroy
+      Iran’s power plants. The Iranians did not respond to this threat. On March 23,
+      the tone was quite different. Trump claimed that the US was engaged in productive
+      negotiations with Iran and that, given their positive progress, he would refrain
+      from attacking Iran’s energy infrastructure for the next five days. A few minutes
+      before Trump’s announcement was released, something interesting happened in the
+      financial markets. Around 6,200 Brent and West Texas Intermediate futures contracts
+      changed hands on Monday between 6:49 a.m. and 6:50 a.m. New York time, just 15
+      minutes before Trump’s tweet on Truth Social stating that there had been “productive
+      talks” with Tehran in recent days regarding ending the war in Iran. According
+      to calculations by the FT based on Bloomberg data, the nominal value of these
+      trades amounted to $580 million. At the same time, a single trader purchased S&P
+      500 futures worth $1.5 billion. Shortly after Trump’s announcement, the S&P futures
+      rose by 2.5% and the price of oil plummeted by 10%. The individual in question
+      made well over $100 million from these trades. This insider must inevitably be
+      one of President Trump’s closest associates. “Compared to these people, the Mafia
+      is about as harmless as Mother Teresa!” The response from Iran was swift: there
+      are no direct or indirect talks between Tehran and Washington. Why did Trump Spread
+      this Lie? On the one hand, he could hand out $100 million to a colleague or family
+      member with a quick tweet; this kind of behavior doesn’t surprise me in the least.
+      The fact that U.S. authorities didn’t immediately launch an investigation into
+      this criminal activity says everything about the state of the country. I assume
+      that no one wants to risk their life. I discussed this matter with a financial
+      expert. His words: “Compared to these people, the Mafia is as dangerous as Mother
+      Teresa!” Unless there is a coup in the US—and who should carry it out?—this crime
+      will not be punished. Apart from this “favor for a friend,” this move is a sign
+      that the American president has completely lost touch with reality. The Iranians
+      have not the slightest interest in negotiating with Trump and his associates.
+      The Americans’ willingness to negotiate, on the other hand, is a clear indication
+      that things are not going as planned. Another Lie – Extension of the Deadline
+      On March 26, Trump extended the deadline to April 6. The reason? – The Iranians
+      had asked for it. Another lie. Because Iran has absolutely no interest in negotiating
+      with the Americans. It’s unclear whether Trump has actually lost his mind or whether
+      he thinks he can achieve anything positive with this strategy—the humorists have
+      already taken over following the 48-hour ultimatum. “The Iranians you’ve been
+      talking to for 2 days – are they in the room with us now?” No level-headed analyst
+      was surprised when the US and Israel broke their “promise” shortly after this
+      tweet. Among other targets, Israel struck two of Iran’s largest steel mills, a
+      power plant, and civilian nuclear facilities. The Israelis claimed they acted
+      in coordination with the US, which is certainly true, since no Israeli aircraft
+      can attack Iran without US tanker aircraft and cannot return without their assistance.
+      Israel has hit 2 of Iran''s largest steel factories, a power plant and civilian
+      nuclear sites among other infrastructure. Israel claims it acted in coordination
+      with the U.S. Attack contradicts POTUS extended deadline for diplomacy. Iran will
+      exact HEAVY price for Israeli crimes — Seyed Abbas Araghchi (@araghchi) March
+      27, 2026 Trump and the Numbers A juicy tidbit was published on March 26: Trump
+      claims that Qatar, the United Arab Emirates, and Saudi Arabia each gave him $2
+      trillion. The only catch: the combined gross domestic product of these three countries
+      is $3 trillion. BREAKING : Trump claims Qatar, UAE & Saudi Arabia gave me $2 Trillion
+      each, total $6 Trillion for WAR. Total entire GDP of Qatar, UAE and Saudi: $3
+      Trillion This is ABSOLUTE CINEMA pic.twitter.com/yauDtqbqw1 — InfoGram (@_InfoGram_)
+      March 26, 2026 Zahlen, die Trump nicht erfreuen Yesterday, anti-war protests took
+      place in countless cities across the US; estimates put the number of participants
+      at over 7 million. Meh!!! Zionists were banking on massive crowds showing up in
+      Iran…but they showed up in pic.twitter.com/iIQbvRlbnN — Abier (@abierkhatib) March
+      29, 2026 The Latest Example of a Lie – A Laundry Dryer Takes the World’s Largest
+      Warship Out of Commission One of the Americans’ most entertaining lies concerns
+      their largest warship—the aircraft carrier “Gerald Ford.” According to the US,
+      a fire broke out due to a defective laundry dryer that could not be extinguished
+      for ten days. This symbol of American military superiority has now docked at a
+      port in Split. According to the latest official US reports, repairs to the damage
+      caused by the laundry dryer will take between 14 and 24 months. Although video
+      clips are circulating suggesting that Trump confirmed a missile attack on the
+      aircraft carrier, these clips actually refer to Venezuela. I consider it impossible
+      that a laundry dryer could put the world’s largest warship out of commission for
+      up to two years. In Split angekommen verkülndete der Kommandierende Offizier:
+      “The crew is excited to be back in Split for some well-deserved liberty […] they
+      have accomplished so much since our initial visit in October.” Capt. David Skarosi,
+      commanding officer of Gerald R. Ford Source: U S Forces Command A Dangerous Man
+      The President of the US has now squandered all credibility. But in this position—whether
+      he realizes it or not is irrelevant—he is also squandering the credibility of
+      the country he leads on behalf of its citizens. No one can take pleasure in the
+      fact that the most powerful country on earth has lost the trust of other nations,
+      not even Iran, which has been attacked by the US. For every war eventually comes
+      to an end, usually through a treaty or an agreement. But given the US President’s
+      actions, which defy rational understanding, who can trust his signature—or that
+      of a representative acting on his behalf? I see no advantage in having the US
+      as a weakened player on the geopolitical chessboard—one with whom one cannot negotiate.
+      Yet today, these are precisely the realities of global politics. The Iranians
+      negotiate neither with the US and Israel nor with their allies. Their experience
+      tells them that would be their death sentence. So they must establish facts on
+      the battlefield. We will now leave the comedy club created by Trump and turn our
+      attention to reality. The Reality Looks Different Israel is being Destroyed and
+      the Israelis are being Decimated in Lebanon The damage in Israel’s cities is devastating.
+      But no one should be surprised—Israelis see themselves as victims. That is the
+      self-image of the overwhelming majority of the Jewish Israeli population. Despite
+      draconian penalties of five years in prison for publishing reports on attacks
+      and destruction, thousands of images and videos can be found online that document
+      what, from a Western perspective, is not supposed to exist. Since Friday, parts
+      of Tel Aviv have been in the dark: the power supply is suffering. It is also striking
+      that the Israeli air defense system, which was already struggling from the start,
+      has practically ground to a halt. Patricia Marins reports that eight out of ten
+      Iranian missiles hitting Israel are hitting their targets. On top of that, Hezbollah
+      has intensified its missile attacks in recent days. The Israelis are thus being
+      fired upon from two sides—and now the Houthis are joining in, more on that below.
+      Breaking Israeli media: Iran has launched three missile attacks on southern Israel,
+      Dimona, Beersheba and the Tel Aviv metropolitan area in less than half an hour.
+      pic.twitter.com/q22JsALj7i — Atif Hussain (@atif_hussain72) March 29, 2026 Few
+      people are paying attention to the Israeli invasion of Lebanon—part of the “Greater
+      Israel” project. The first attempt, back in 2006, ended in disaster. The Israelis
+      seem to be lacking the stamina this time around as well. According to various
+      reports, the Israelis have already lost over 100 tanks, 21 of them in the last
+      24 hours alone. Massive destruction of Merkava tanks in southern Lebanon By 10
+      a.m. today, 18 tanks were destroyed in the south, which are distributed as follows:
+      8 tanks in Al-Qantara, 5 tanks in Deir Siron, 3 tanks in At-Tayyeb, 2 tanks in
+      Dibl. pic.twitter.com/qSNX5pYeiU — Globe Eye Network (@GlobeEyeNetwork) March
+      26, 2026 According to reports, the military’s Chief of Staff, Lieutenant General
+      Eyal Zamir , warned during a meeting of the Security Cabinet that the IDF would
+      “collapse from within”—so reports the Times of Israel . When a country’s Chief
+      of Staff makes such a statement, it should be taken seriously. Of course, the
+      Western press does not do this—after all, they don’t want to make enemies. American
+      Casualties The official US casualty figures are kept at a homeopathic level. While
+      it is tragic to lose a dozen or so soldiers, the heroes died for a good cause,
+      and in numerical terms, the losses are negligible compared to those of the enemy—that
+      is the US communication strategy. The following clip shows one such individual
+      case—the son of a fallen U.S. soldier is crying his heart out—no child deserves
+      this, whether friend or foe. @baby.laughs5 Tiny Boy Walks to His Soldier Dad’s
+      Flag-Draped Coffin ” #ToddlerPower #TollderLove #BabyLaugh BabyMoment. ♬ original
+      sound – 𝐁𝐚𝐛𝐲 𝐋𝐚𝐮𝐠𝐡𝐬 – 𝐁𝐚𝐛𝐲 𝐋𝐚𝐮𝐠𝐡𝐬 The officially released figures are not credible.
+      The Iranians are reporting 600 to 800 American deaths and 5,000 injuries. If you
+      watch the videos of the attacks on the American bases, these figures seem more
+      realistic than Mr. Trump’s fairy tales. Iranian Attack on an American base in
+      Saudi Arabia Yesterday, Iran inflicted a severe blow on the Americans in Saudi
+      Arabia. Three E-3 Sentry AWACS aircraft, each costing around 600 million US dollars
+      – of which there are only 16 in the world – and a further KC-135 tanker were destroyed.
+      Iranian strikes on a US base in Saudi Arabia destroyed an E-3 Sentry AWACS (an
+      important "flying radar") and multiple KC-135 aerial tankers. pic.twitter.com/DGAvS7vNkK
+      — Glenn Diesen (@Glenn_Diesen) March 29, 2026 Strait of Hormuz Not Closed, but
+      Controlled by Iran The Strait of Hormuz is neither closed nor mined. The Iranians
+      simply prohibit their enemies from passing through. This gives the Iranians enormous
+      leverage to influence the global economy. I find it completely incomprehensible
+      how the US and Israel could have gone to war against Iran without being fully
+      aware of the epic scale of this consequence. At present, ships and cargoes belonging
+      to the Iranians, Russians, Chinese, Pakistanis, Indians and Japanese – and, of
+      course, the Spanish, whose Prime Minister is demonstrating that one can have backbone
+      in Europe too – are permitted to pass through. This serves as a stark reminder
+      to our government and media, which have been pursuing a course that promotes genocide
+      and demonises Iran since October 2023. In addition to flying the correct flag,
+      the raw materials must be purchased in yuan and a toll of 2 million US dollars
+      must be paid. Alongside Russia, Iran has an economic advantage given the current
+      situation: before the war, Iran sold 1.1 million barrels of oil a day at $47;
+      today, it sells 1.5 million barrels at $120; that is an increase of 300% . I assume
+      that the Strait of Hormuz will remain under Iranian control in the long term.
+      The US Dollar on its Way to the Deathbed There are several reasons why commodities
+      must be settled in yuan: firstly, dollar payments can be arbitrarily seized by
+      the Americans, whereas this is not the case with the yuan, and on the Shanghai
+      Gold Exchange, yuan can be easily exchanged for gold. Secondly, if 20% of the
+      world’s energy is paid for in yuan rather than US dollars, this will significantly
+      undermine the dominance of the US dollar. “The petrodollar is dying in the very
+      place where it was born.” The irony of the story is that the wicked but brilliant
+      Henry Kissinger created the Petrodollar in 1973 by persuading the Saudis to sell
+      their oil only in US dollars – and now the Petrodollar is dying in the very place
+      where it was born. The Houthis will Crush the Saudis So far, the Saudis have been
+      using their East-West pipeline to avoid having to ship oil via the Strait of Hormuz,
+      opting instead for the Bab al-Mandab Strait or the Suez Canal. However, this pipeline
+      has only a fraction of the capacity of the Saudi port facilities in the Persian
+      Gulf. The Bab al-Mandab Strait, however, is controlled by the Houthis, who are
+      allied with Iran. BREAKING: The Houthis have officially announced entry into the
+      conflict in support of Iran. Houthi military spokesperson: “We will target U.S.
+      ships and warships in the Red Sea.” pic.twitter.com/8J2J1SuekX — Conflict Alarm
+      (@ConflictAlarm) March 27, 2026 The Houthis have already announced a closure.
+      As the Houthis have now entered the war, a reminder the Straits of Hormuz and
+      Ban Al-Mandab were always the obvious pressure points. If the plan had no serious
+      mine-clearing, convoy, and commercial-shipping continuity strategy ready on day
+      one, that is not strength — that is a… pic.twitter.com/iTrPyRJXtW — Bryan Dawson
+      (@BryanDawsonUSA) March 28, 2026 The haughty Americans should take this seriously,
+      for the Houthis have been fought in vain for 15 years by the Americans, Saudis,
+      Israelis, French and British. But since the West’s arrogance and stupidity are
+      truly boundless, the West will be just as surprised as Trump was by Iran’s resistance
+      when he said: “ We won, but they are still hitting back . ”. This escalation will
+      bankrupt the Saudis and block the Suez Canal. Given the current figures on the
+      financial markets, the West is giving the impression that the ‘problem’ will soon
+      be resolved. This is out of touch with reality, and market participants in the
+      West are incapable of assessing the threat to the global economy in even remotely
+      realistic terms. Blocking the Bab al-Mandab Strait would have two consequences:
+      firstly, the Saudis would no longer be able to export any oil at all; the same
+      applies to the United Arab Emirates. Secondly, the Suez Canal flows into the Red
+      Sea, which would then also be blocked. Twelve per cent of global trade passes
+      through the Suez Canal. The Western media are not reporting on this – I am speechless.
+      In the Event of a US Ground Assault, Hormuz Will Become Gallipoli 2.0 One of the
+      British Empire’s greatest setbacks was attributed, among other things, to Winston
+      Churchill during the unsuccessful campaign to capture Gallipoli in 1915. The British,
+      who were just as arrogant a good 100 years ago as the US is today, believed that
+      this would herald the downfall of the Ottoman Empire. The battle claimed a total
+      of 100,000 dead and 250,000 wounded on both sides, which amounted to almost half
+      of the soldiers deployed. As the topographical map of Iran below (left) shows,
+      Iran is a natural fortress, giving the Iranians every advantage as defenders.
+      Iraq, which is four times smaller than Iran, is, incidentally, completely flat
+      (right). In 1991, a coalition of around 800,000 international troops managed to
+      occupy barely half of this small, flat country. Only the border region with Iran
+      is mountainous, which ultimately led to Iraq’s defeat in the Iran-Iraq War of
+      the 1980s. Topographical maps of Iran (left) and Iraq (right) The Iranians struck
+      against American troops as early as the weekend. The IRGC has confirmed that at
+      least 50 US soldiers from Delta Force or CENTCOM were captured for the second
+      time in the Strait of Hormuz using high-tech weapons. Furthermore, American troops
+      were attacked in Dubai: two hideouts of the invading American army were located
+      in Dubai, the first hideout containing more than 400 people and the second more
+      than 100. Both hideouts were identified and completely destroyed. American casualties
+      are certain and very high. Spokesman Khatim Al-Anbiya Headquarters: Heavy casualties
+      to more than 500 American soldiers. In the past few hours, their two hideouts—the
+      first containing more than 400 people, and the second containing more than 100
+      people—in Dubai were identified and targeted by missiles and… pic.twitter.com/1iULOilENX
+      — True Promise – الوعد الصادق ✪ (@IRTruePromise) March 28, 2026 It is unclear
+      whether the Americans will send troops on this suicide mission, and if so, how
+      many. What is clear is that the commander of Marine Forces Reserve and Marine
+      Forces South, Leonard F. Anderson, sent a noteworthy letter to his troops on 26
+      March. The letter was sent to 35,000 reservists. In it, Anderson writes that the
+      Marines must prepare to go to war – families should be prepared. The Gulf States
+      The Gulf states are no more sovereign than Germany. What they have in common is
+      that they host huge American bases on their territory and thus have to – and presumably
+      want to – sit on two horses, or rather ride two camels. This was already put in
+      these terms on 5 March by Foreign Minister Lavrov . They are completely dependent
+      on the US militarily. The loud-mouthed Saudis, whose military budget is ten times
+      larger than Iran’s, failed – as already mentioned – to achieve anything against
+      the Houthis; rather, they came away with a bloody nose. Moreover, in his refreshingly
+      crass manner, Trump publicly called MBD a ‘ass-kisser’ on Friday, which certainly
+      did not go down well with the proud Arabs. The Arabs have left their brothers
+      in Palestine out in the cold – or rather, in blood – for six decades and left
+      the support to the Iranians, who are Persians and not Arabs. Thus, the Gulf states
+      are known not for their loyalty, but for their opportunism. Having been pondering
+      war against Iran just two days ago, the UAE has now abruptly changed course and
+      is talking of a diplomatic solution. Upon taking stock of their troops, they surely
+      realised that most of their soldiers are not even citizens of their own country.
+      BREAKING: After Iran attacked Abu Dhabi''s economic zone yesterday, the United
+      Arab Emirates has changed its tone and is now calling for a diplomatic agreement
+      The United Arab Emirates has seemingly changed its stance regarding the Iran war.
+      Just yesterday, advocating… pic.twitter.com/h0P3ejEqkz — Megatron (@Megatron_ron)
+      March 28, 2026 All the Gulf states will align their flags with the winner – and
+      that won’t be America. Conclusion As I speculated in my previous post, “ The Empire
+      Loses Control – Consequences ”, Iran will not only win this conflict, but will
+      also permanently reshape the entire map of the Middle East. Israel, which now
+      faces three adversaries, is on the brink of collapse. The invasion of Lebanon
+      has not only turned out to be a complete fiasco, as it did in 2006, but it is
+      foreseeable that Hezbollah’s formidable forces will likely advance into northern
+      Israel. That in itself is already a disaster. As we have reported, cracks are
+      already appearing in the Israeli army and collapse seems imminent; genocide and
+      war are simply two entirely different fields of operation. In war, the enemy fires
+      back – something Israeli soldiers are not accustomed to. Now the Houthis are joining
+      the fray, having been battle-hardened for ten years. Iranian missiles have a free
+      pass into Israel – the Iron Dome defence system has been decimated by 80 per cent,
+      and cities in Israel are now getting a taste of what cities like Beirut or Damascus
+      – not to mention Gaza and Ramallah – have had to endure from Israel for decades.
+      This naturally also has an impact on the morale of the Israelis, whose whining
+      about their own suffering is getting on the nerves of more and more people – increasingly
+      in the West too – because: who started the war, nota bene with the bombing of
+      a girls’ school and hospitals? You’re never going to believe this Israelis are
+      crying about damage to buildings. They’re even using the word “war crimes” You
+      can’t make this up. pic.twitter.com/T5O469cyjF — ADAM (@AdameMedia) March 24,
+      2026 It is to be feared that the Americans will launch a ground invasion of Iran.
+      Before the attack on Iran, I would have bet a lot of money that the Americans
+      would not commit such madness. I thought my dear friend Scott Ritter was exaggerating.
+      He was right and I was wrong. Scott also foresees an attack this time – and then
+      a bloodbath. His track record is better than mine, so I’d better keep quiet.«Verfolgt
+      man die westlichen Medien, so glaubt man sich auf einem anderen Planeten.» Until
+      last Friday, the financial markets assumed that the whole affair would be resolved
+      in a matter of weeks. A protracted conflict involving astronomical energy prices,
+      famines and supply problems has not yet been factored into financial market prices.
+      They have the Western media largely to thank for this. If you follow the media,
+      you might think you were on another planet. The awakening in the West will herald
+      a nightmare that will last for many years.'
+    one_sentence_summary: The article argues that Donald Trump's megalomania and dishonesty
+      pose a significant threat to the world, while criticizing Western media for taking
+      his statements seriously and failing to recognize the potential consequences of
+      his actions.
+    paragraph_summary: The article by Peter Hanseler critiques Donald Trump, labeling
+      him as a "baron of lies" whose megalomania and greed pose a danger to the world.
+      It argues that the Western media, instead of providing accurate reporting and
+      analysis, is complicit in perpetuating Trump's nonsensical statements, leading
+      the public into a false sense of security about impending crises in Europe and
+      beyond. The author suggests that the media's portrayal of geopolitical events
+      is heavily influenced by powerful interests in Israel and the US, creating a narrative
+      that misleads the populace. This manipulation is likened to historical propaganda
+      efforts, where governments have attempted to convince their citizens of imminent
+      victories despite the reality of defeat. Ultimately, the article calls for a more
+      realistic understanding of the global situation, which is obscured by censorship
+      and misinformation.
+    published: '2026-03-29T19:14:11+00:00'
+  - title: Marine Reserve Commander Asks His Marines… Are Your Family’s Affairs in Order?
+    url: https://sonar21.com/marine-reserve-commander-asks-his-marines-are-your-familys-affairs-in-order/
+    text: '“From the Halls of Montezuma, to the shores of Kharg Island…” A letter like
+      this can only mean one of two things: 1) It is an elaborate deception campaign
+      to convince Iran that the US is going to attack in hopes that Iran will back down,
+      or 2) He understands that he is sending a portion of the Corps he commands into
+      the valley of death. I am hoping it is the former, but I fear it is the latter.
+      Coincidentally (I don’t believe in coincidences), the Washington Post published
+      a story by Dan Lamothe… Pentagon prepares for weeks of ground operations in Iran
+      : The Pentagon is preparing for weeks of ground operations in Iran, U.S. officials
+      said, as thousands of American soldiers and Marines arrive in the Middle East
+      for what could become a dangerous new phase of the war should President Donald
+      Trump choose to escalate. If President Donald Trump approves the plans, such an
+      effort would mark a new phase of the war that could be significantly more dangerous
+      to U.S. troops than the first four weeks. . . . Discussions within the administration
+      over the past month have touched upon the possible seizure of Kharg Island , a
+      key Iranian oil export hub in the Persian Gulf, and raids into other coastal areas
+      near the Strait of Hormuz to find and destroy weapons that can target commercial
+      and military shipping, officials said. One person said that the objectives under
+      consideration would probably take “weeks, not months” to complete. Another put
+      the potential timeline at “a couple of months.” What are we to make of the letter?
+      Is this is a clever move by the Commander of the Marine Forces Reserve to protest
+      sending the Marines to conduct a ground operation in Iran, such as seizing Kharg
+      island. Or is it an officer eager for promotion pontificating in hopes of capturing
+      Trump’s attention? According to Dan Lamothe, Trump is struggling to make a decision…
+      Vacillating between giving the order to attack and not issuing the order because
+      he is worried that he’ll get bogged down in a no win war. Although I’m in Calgary,
+      Canada — where I spoke at a conference exploring Alberta’s plan to secede from
+      Canada — I managed to do an hour with Mario Nawfal on Saturday: My Friday with
+      Nima and Colonel Wilkerson: Ending the week with Judge Nap and Ray: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the potential for escalating U.S. military
+      operations in Iran, highlighting concerns about the risks to American troops as
+      thousands are deployed to the region, while speculating whether this move is a
+      strategic bluff or a prelude to actual conflict.
+    paragraph_summary: 'The article discusses the implications of a letter from a Marine
+      Corps commander, which raises concerns about the potential escalation of U.S.
+      military operations in Iran. It suggests two possibilities: either the letter
+      is a strategic deception aimed at deterring Iran or an acknowledgment of the dangerous
+      mission ahead for U.S. troops. The Pentagon is reportedly preparing for extensive
+      ground operations, including the potential seizure of Kharg Island, a crucial
+      oil export hub, as discussions within the Trump administration indicate a shift
+      towards more aggressive military action. The article reflects on the uncertainty
+      surrounding President Trump''s decision-making, as he weighs the risks of escalating
+      the conflict against the potential for a prolonged and challenging military engagement.'
+    published: '2026-03-29T03:31:22+00:00'
+  - title: Marine Reserve Commander Asks His Marines… Are Your Family’s Affairs in Order?
+    url: https://sonar21.com/marine-reserve-commander-asks-his-marines-are-your-familys-affairs-in-order/
+    text: '“From the Halls of Montezuma, to the shores of Kharg Island…” A letter like
+      this can only mean one of two things: 1) It is an elaborate deception campaign
+      to convince Iran that the US is going to attack in hopes that Iran will back down,
+      or 2) He understands that he is sending a portion of the Corps he commands into
+      the valley of death. I am hoping it is the former, but I fear it is the latter.
+      Coincidentally (I don’t believe in coincidences), the Washington Post published
+      a story by Dan Lamothe… Pentagon prepares for weeks of ground operations in Iran
+      : The Pentagon is preparing for weeks of ground operations in Iran, U.S. officials
+      said, as thousands of American soldiers and Marines arrive in the Middle East
+      for what could become a dangerous new phase of the war should President Donald
+      Trump choose to escalate. If President Donald Trump approves the plans, such an
+      effort would mark a new phase of the war that could be significantly more dangerous
+      to U.S. troops than the first four weeks. . . . Discussions within the administration
+      over the past month have touched upon the possible seizure of Kharg Island , a
+      key Iranian oil export hub in the Persian Gulf, and raids into other coastal areas
+      near the Strait of Hormuz to find and destroy weapons that can target commercial
+      and military shipping, officials said. One person said that the objectives under
+      consideration would probably take “weeks, not months” to complete. Another put
+      the potential timeline at “a couple of months.” What are we to make of the letter?
+      Is this is a clever move by the Commander of the Marine Forces Reserve to protest
+      sending the Marines to conduct a ground operation in Iran, such as seizing Kharg
+      island. Or is it an officer eager for promotion pontificating in hopes of capturing
+      Trump’s attention? According to Dan Lamothe, Trump is struggling to make a decision…
+      Vacillating between giving the order to attack and not issuing the order because
+      he is worried that he’ll get bogged down in a no win war. Although I’m in Calgary,
+      Canada — where I spoke at a conference exploring Alberta’s plan to secede from
+      Canada — I managed to do an hour with Mario Nawfal on Saturday: My Friday with
+      Nima and Colonel Wilkerson: Ending the week with Judge Nap and Ray: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the potential for escalating U.S. military
+      operations in Iran, highlighting concerns about the risks to American troops as
+      thousands are deployed to the region, while speculating whether this move is a
+      strategic bluff or a prelude to actual conflict.
+    paragraph_summary: 'The article discusses the implications of a letter from a Marine
+      Corps commander, which raises concerns about the potential escalation of U.S.
+      military operations in Iran. It suggests two possibilities: either the letter
+      is a strategic deception aimed at deterring Iran or an acknowledgment of the dangerous
+      mission ahead for U.S. troops. The Pentagon is reportedly preparing for extensive
+      ground operations, including the potential seizure of Kharg Island, a crucial
+      oil export hub, as discussions within the Trump administration indicate a shift
+      towards more aggressive military action. The article reflects on the uncertainty
+      surrounding President Trump''s decision-making, as he weighs the risks of escalating
+      the conflict against the potential for a prolonged and challenging military engagement.'
+    published: '2026-03-29T03:31:22+00:00'
+  - title: Postponing Armageddon
+    url: https://sonar21.com/postponing-armageddon/
+    text: 'I wrote previously that I expected Donald Trump to order US ground forces
+      to commence an attack on Iran, perhaps as early as Friday night in Tehran. Looks
+      like that is on hold. Apart from weather problems in the Persian Gulf, Trump has
+      apparently decided he needs to deploy an additional 10,000 troops to support the
+      alleged ground operation. This does not mean that it is a guaranteed delay because,
+      as in the past, Trump is notorious for saying one thing and then doing the opposite.
+      The 31st MEU reportedly has arrived in the region, but is miles away in Diego
+      Garcia, and the 11th MEU won’t arrive on scene until April 6 or 7, which just
+      happens to coincided with the end of Trump’s self-imposed ceasefire. So a ground
+      assault, if it occurs, will be delayed until at least next weekend. I continue
+      to believe that the two Marine MEUs are nothing more than a diversion, and that
+      a ground assault, if it occurs, will be handled by Tier-1 US Special Operations
+      forces supported by two Ranger battalions and the 82nd Airborne. Those units,
+      according to press reports, have been activated and moved to bases in Jordan and
+      Israel. There reportedly is a “missile city” on Qeshm island, which is the type
+      of target that Delta Force or SEAL team Six could attack, but at a staggering
+      cost in US lives. All of the public talk about such operations by the Trump administration
+      is giving Iran ample time to improve defenses at locations they believe are potential
+      targets. I discussed the problems with US ground operations in Iran on my latest
+      Counter Currents video:'
+    one_sentence_summary: Donald Trump's planned ground attack on Iran is currently
+      on hold due to weather issues and the need to deploy an additional 10,000 troops,
+      with a potential delay until at least next weekend, although past behavior suggests
+      he may change course unexpectedly.
+    paragraph_summary: The article discusses the potential delay of a US ground operation
+      against Iran, initially expected to commence soon under President Donald Trump.
+      Weather issues in the Persian Gulf and the need for an additional 10,000 troops
+      have contributed to this postponement, with the 31st Marine Expeditionary Unit
+      (MEU) currently stationed far from the action and the 11th MEU not arriving until
+      early April. The author suggests that the Marine units may serve as a diversion,
+      while a ground assault, if it occurs, could involve elite US Special Operations
+      forces and Ranger battalions. Concerns are raised about the risks of such operations,
+      particularly regarding the potential for significant US casualties and the opportunity
+      for Iran to bolster its defenses in anticipation of an attack.
+    published: '2026-03-27T17:45:51+00:00'
+  - title: Postponing Armageddon
+    url: https://sonar21.com/postponing-armageddon/
+    text: 'I wrote previously that I expected Donald Trump to order US ground forces
+      to commence an attack on Iran, perhaps as early as Friday night in Tehran. Looks
+      like that is on hold. Apart from weather problems in the Persian Gulf, Trump has
+      apparently decided he needs to deploy an additional 10,000 troops to support the
+      alleged ground operation. This does not mean that it is a guaranteed delay because,
+      as in the past, Trump is notorious for saying one thing and then doing the opposite.
+      The 31st MEU reportedly has arrived in the region, but is miles away in Diego
+      Garcia, and the 11th MEU won’t arrive on scene until April 6 or 7, which just
+      happens to coincided with the end of Trump’s self-imposed ceasefire. So a ground
+      assault, if it occurs, will be delayed until at least next weekend. I continue
+      to believe that the two Marine MEUs are nothing more than a diversion, and that
+      a ground assault, if it occurs, will be handled by Tier-1 US Special Operations
+      forces supported by two Ranger battalions and the 82nd Airborne. Those units,
+      according to press reports, have been activated and moved to bases in Jordan and
+      Israel. There reportedly is a “missile city” on Qeshm island, which is the type
+      of target that Delta Force or SEAL team Six could attack, but at a staggering
+      cost in US lives. All of the public talk about such operations by the Trump administration
+      is giving Iran ample time to improve defenses at locations they believe are potential
+      targets. I discussed the problems with US ground operations in Iran on my latest
+      Counter Currents video:'
+    one_sentence_summary: Donald Trump's planned ground attack on Iran is currently
+      on hold due to weather issues and the need to deploy an additional 10,000 troops,
+      with a potential delay until at least next weekend, although past behavior suggests
+      he may change course unexpectedly.
+    paragraph_summary: The article discusses the potential delay of a US ground operation
+      against Iran, initially expected to commence soon under President Donald Trump.
+      Weather issues in the Persian Gulf and the need for an additional 10,000 troops
+      have contributed to this postponement, with the 31st Marine Expeditionary Unit
+      (MEU) currently stationed far from the action and the 11th MEU not arriving until
+      early April. The author suggests that the Marine units may serve as a diversion,
+      while a ground assault, if it occurs, could involve elite US Special Operations
+      forces and Ranger battalions. Concerns are raised about the risks of such operations,
+      particularly regarding the potential for significant US casualties and the opportunity
+      for Iran to bolster its defenses in anticipation of an attack.
+    published: '2026-03-27T17:45:51+00:00'
+  - title: Iran’s Mystery Gift to Trump
+    url: https://sonar21.com/irans-mystery-gift-to-trump/
+    text: 'Cartoon by Eric Izabelle I think the picture sums it up… Iran is not going
+      to negotiate with the Trump administration on Trump’s terms. Iran has set its
+      terms and will not deviate from those. Here is a synthesis of the key demands
+      from recent Iranian statements and reporting: Complete halt to aggression and
+      assassinations : Iran demands an immediate and total end to US and Israeli attacks,
+      strikes, and targeted killings against Iranian territory, officials, nuclear sites,
+      and allied “resistance” forces (e.g., Hezbollah in Lebanon, groups in Iraq, and
+      others across the region). This includes a ceasefire that extends to all fronts,
+      not just a temporary pause. Guarantees and mechanisms to prevent future attacks/war
+      : Concrete, verifiable international or legal safeguards that the war will not
+      be “reimposed” on Iran. This could include binding agreements or frameworks ensuring
+      no resumption of hostilities. War reparations and compensation for damages : Payment
+      (or “guaranteed and clearly defined” financial compensation) for destruction caused
+      by the strikes, including infrastructure, civilian areas, and economic losses.
+      Some reports tie this to broader sanctions relief or economic concessions. Recognition
+      of Iranian sovereignty and control over the Strait of Hormuz : A new regulatory
+      or legal framework affirming Iran’s authority over this critical chokepoint for
+      global oil shipping. This has been interpreted as seeking economic leverage (e.g.,
+      potential passage fees or control), rather than unrestricted international access.
+      Iran has used threats/partial closures of the strait as leverage during the conflict.
+      Broader regional elements : A ceasefire between Israel and Hezbollah (and potentially
+      other proxies). In some lists: Closure or dismantling of US military bases in
+      the region. Continued development of Iran’s ballistic missile program without
+      external limitations. An end to the conflict “across all fronts” for all involved
+      resistance groups. Additional elements mentioned in some Iranian or mediated contexts
+      include recognition of Iran’s “legitimate” nuclear rights (peaceful enrichment)
+      and rejection of any forced dismantlement of its nuclear program. There you have
+      it. Trump has been successful this week in bamboozling the oil and stock markets
+      into believing that an end of the war is at hand and that Iran will accept defeat.
+      If Trump decides to launch a ground attack on Iran this weekend or early next
+      week, that will finally awaken the deluded Western market makers that the war,
+      rather than wrapping up, will amp up. In my last article I laid out one scenario
+      — i.e., a simultaneous attack on Kharg and Qeshm islands — that I think is most
+      likely because it is supposed to open the Strait of Hormuz. If that is the target
+      of the ground operation, it will fail to achieve the goal of lifting Iran’s blockade
+      of the Strait. There are a couple of other scenarios that some pundits believe
+      are more likely: capturing Chabahar port or capturing Iran’s enriched uranium.
+      I think these are unlikely, but I’m not the one calling the shots and cannot rule
+      them out. Capturing Chabahar achieves nothing strategic, and certainly does not
+      open the Strait of Hormuz. In my judgment, the US does not have enough troops
+      to secure that port and prevent Iran from retaking it. What about the other scenario
+      — i.e., capturing a site where Iran’s enriched uranium is stored? This is unlikely
+      because I believe those sites are located in the interior of Iran and the US helicopters
+      that would deliver the troops to the site would not have enough fuel to fly back
+      to the place from where they launched. The US would have to covertly insert massive
+      fuel bladders at some remote location that would be used to refuel the air assets
+      used on such a mission. To do that would require flying a number of C-130s into
+      Iran. Those are relatively slow-flying aircraft and would likely be shot down
+      before reaching their destination. I am not saying it cannot be done, but it is
+      a highly risky venture and is more likely to fail. I continue to hope that I am
+      wrong. We’ll know better come Monday morning. Here are my latest podcast interviews.
+      First up, Danny Davis: I spent a half-hour on Tuesday with my friend, Rasheed
+      Mohammed: I also spoke on Tuesday with Fouad, an Iranian living in the UK: And
+      for my Latino hermanos y hermanas, I did an interview with Isidoro, who lives
+      in Galicia, Spain: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Iran is unwilling to negotiate with the Trump administration
+      on its terms, insisting on a complete halt to US and Israeli aggression, guarantees
+      against future attacks, and compensation for damages as prerequisites for any
+      discussions.
+    paragraph_summary: The article outlines Iran's firm stance on negotiations with
+      the Trump administration, emphasizing that Iran will not engage on U.S. terms.
+      Key demands from Iran include an immediate cessation of U.S. and Israeli aggression,
+      including attacks and targeted killings; guarantees to prevent future hostilities;
+      war reparations for damages caused by strikes; recognition of Iranian sovereignty
+      over the Strait of Hormuz; and broader regional agreements, such as a ceasefire
+      between Israel and Hezbollah. Iran seeks concrete legal frameworks and compensation
+      tied to sanctions relief, while also asserting its right to continue developing
+      its ballistic missile program and calling for the closure of U.S. military bases
+      in the region.
+    published: '2026-03-26T03:47:36+00:00'
+  - title: Iran’s Mystery Gift to Trump
+    url: https://sonar21.com/irans-mystery-gift-to-trump/
+    text: 'Cartoon by Eric Izabelle I think the picture sums it up… Iran is not going
+      to negotiate with the Trump administration on Trump’s terms. Iran has set its
+      terms and will not deviate from those. Here is a synthesis of the key demands
+      from recent Iranian statements and reporting: Complete halt to aggression and
+      assassinations : Iran demands an immediate and total end to US and Israeli attacks,
+      strikes, and targeted killings against Iranian territory, officials, nuclear sites,
+      and allied “resistance” forces (e.g., Hezbollah in Lebanon, groups in Iraq, and
+      others across the region). This includes a ceasefire that extends to all fronts,
+      not just a temporary pause. Guarantees and mechanisms to prevent future attacks/war
+      : Concrete, verifiable international or legal safeguards that the war will not
+      be “reimposed” on Iran. This could include binding agreements or frameworks ensuring
+      no resumption of hostilities. War reparations and compensation for damages : Payment
+      (or “guaranteed and clearly defined” financial compensation) for destruction caused
+      by the strikes, including infrastructure, civilian areas, and economic losses.
+      Some reports tie this to broader sanctions relief or economic concessions. Recognition
+      of Iranian sovereignty and control over the Strait of Hormuz : A new regulatory
+      or legal framework affirming Iran’s authority over this critical chokepoint for
+      global oil shipping. This has been interpreted as seeking economic leverage (e.g.,
+      potential passage fees or control), rather than unrestricted international access.
+      Iran has used threats/partial closures of the strait as leverage during the conflict.
+      Broader regional elements : A ceasefire between Israel and Hezbollah (and potentially
+      other proxies). In some lists: Closure or dismantling of US military bases in
+      the region. Continued development of Iran’s ballistic missile program without
+      external limitations. An end to the conflict “across all fronts” for all involved
+      resistance groups. Additional elements mentioned in some Iranian or mediated contexts
+      include recognition of Iran’s “legitimate” nuclear rights (peaceful enrichment)
+      and rejection of any forced dismantlement of its nuclear program. There you have
+      it. Trump has been successful this week in bamboozling the oil and stock markets
+      into believing that an end of the war is at hand and that Iran will accept defeat.
+      If Trump decides to launch a ground attack on Iran this weekend or early next
+      week, that will finally awaken the deluded Western market makers that the war,
+      rather than wrapping up, will amp up. In my last article I laid out one scenario
+      — i.e., a simultaneous attack on Kharg and Qeshm islands — that I think is most
+      likely because it is supposed to open the Strait of Hormuz. If that is the target
+      of the ground operation, it will fail to achieve the goal of lifting Iran’s blockade
+      of the Strait. There are a couple of other scenarios that some pundits believe
+      are more likely: capturing Chabahar port or capturing Iran’s enriched uranium.
+      I think these are unlikely, but I’m not the one calling the shots and cannot rule
+      them out. Capturing Chabahar achieves nothing strategic, and certainly does not
+      open the Strait of Hormuz. In my judgment, the US does not have enough troops
+      to secure that port and prevent Iran from retaking it. What about the other scenario
+      — i.e., capturing a site where Iran’s enriched uranium is stored? This is unlikely
+      because I believe those sites are located in the interior of Iran and the US helicopters
+      that would deliver the troops to the site would not have enough fuel to fly back
+      to the place from where they launched. The US would have to covertly insert massive
+      fuel bladders at some remote location that would be used to refuel the air assets
+      used on such a mission. To do that would require flying a number of C-130s into
+      Iran. Those are relatively slow-flying aircraft and would likely be shot down
+      before reaching their destination. I am not saying it cannot be done, but it is
+      a highly risky venture and is more likely to fail. I continue to hope that I am
+      wrong. We’ll know better come Monday morning. Here are my latest podcast interviews.
+      First up, Danny Davis: I spent a half-hour on Tuesday with my friend, Rasheed
+      Mohammed: I also spoke on Tuesday with Fouad, an Iranian living in the UK: And
+      for my Latino hermanos y hermanas, I did an interview with Isidoro, who lives
+      in Galicia, Spain: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Iran is unwilling to negotiate with the Trump administration
+      on its terms, insisting on a complete halt to US and Israeli aggression, guarantees
+      against future attacks, and compensation for damages as prerequisites for any
+      discussions.
+    paragraph_summary: The article outlines Iran's firm stance on negotiations with
+      the Trump administration, emphasizing that Iran will not engage on U.S. terms.
+      Key demands from Iran include an immediate cessation of U.S. and Israeli aggression,
+      including attacks and targeted killings; guarantees to prevent future hostilities;
+      war reparations for damages caused by strikes; recognition of Iranian sovereignty
+      over the Strait of Hormuz; and broader regional agreements, such as a ceasefire
+      between Israel and Hezbollah. Iran seeks concrete legal frameworks and compensation
+      tied to sanctions relief, while also asserting its right to continue developing
+      its ballistic missile program and calling for the closure of U.S. military bases
+      in the region.
+    published: '2026-03-26T03:47:36+00:00'
   - title: Is Trump Serious About Negotiations with Iran?
     url: https://sonar21.com/is-trump-serious-about-negotiations-with-iran/
     text: 'I’ll give you my answer up front… NO! Trump’s claims on Monday and Tuesday

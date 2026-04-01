@@ -7,24 +7,94 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of March 25, 2026, the geopolitical landscape remains tense, with ongoing repercussions from the US and Israeli military actions against Iran, shifting European security dynamics, and increasing scrutiny of Western information environments.
+  As of April 1, 2026, the geopolitical landscape remains tense, shaped by ongoing conflicts, shifting alliances, and evolving security doctrines. Recent independent analysis continues to highlight the consequences of Western interventions, the transformation of the information environment, and the intensification of regional security dilemmas.
   
-  **Sweden’s Security Narrative Under Scrutiny**  
-  Sweden’s current security posture is under debate, as **Jan Oberg** critiques the Swedish Security Service’s (SÄPO) threat assessments for being “overly simplistic and NATO-focused.” Oberg warns that such a narrow framing risks undermining Sweden’s broader national security interests by neglecting more nuanced, multi-dimensional threats. He argues that “AI could produce a more balanced analysis in minutes,” suggesting that current approaches are outdated and potentially counterproductive. There is a high chance that Sweden’s security debate will intensify, especially as public and political actors question the wisdom of deepening NATO alignment.
+  A significant development is the release of Sladjana Zaric’s documentary, "Breaking Point: The War That Changed The Rules," which, as **Jan Oberg** notes, revisits the Yugoslav wars and the international community’s conflict-mitigation efforts from 1991 to 2000. The film underscores how the lessons of the Balkan conflicts—particularly the failures of preventive diplomacy and the rise of interventionist norms—continue to shape Western policies today. Oberg argues that the documentary “reminds us of the cost of ignoring early warning signs and the dangers of militarized responses over dialogue.”
   
-  **Sanctions and Humanitarian Impact**  
-  The humanitarian cost of Western sanctions is gaining renewed attention. **Jan Oberg** highlights the claim by John Mearsheimer that US-led sanctions have resulted in approximately 38 million deaths globally, a figure that, while contested, underscores the need for deeper discourse on the real-world impact of economic warfare. Oberg stresses that “the debate about sanctions’ lethality versus traditional warfare is overdue,” and predicts with high confidence that scrutiny of sanctions as a tool of statecraft will increase, particularly as their effectiveness and moral legitimacy are challenged in academic and policy circles.
+  Turning to Northern Europe, Sweden’s security posture is under scrutiny. **Jan Oberg** criticizes the Swedish Security Service’s (SÄPO) latest threat assessment as “an analytically disarmed tabloid product,” warning that its NATO-centric focus risks undermining Sweden’s broader security interests. Oberg contends that the current narrative oversimplifies complex threats and could lead to policy missteps, especially as the region faces heightened tensions with Russia.
   
-  **Erosion of Free Media and Democratic Discourse**  
-  The Western information environment is undergoing significant change, with **Jan Oberg** noting a marked decline in free media and open democratic debate. He observes that peace-oriented perspectives have been increasingly marginalized, especially in the context of recent conflicts. This trend is quite likely to continue, with the information space becoming more polarized and less receptive to dissenting or peace-focused viewpoints.
+  Meanwhile, the debate over the humanitarian impact of sanctions has resurfaced. In a recent article, **John Mearsheimer** is cited for his claim that U.S.-led sanctions have contributed to approximately 38 million deaths globally—a figure that has sparked controversy. **Jan Oberg** calls for a more nuanced discourse, stating that “the impact of sanctions is too often overlooked compared to conventional warfare,” and urges policymakers to consider the broader consequences of economic coercion.
   
-  **Trends and Predictions**  
-  - There is a high chance that European countries, especially those on NATO’s periphery, will face growing internal debates about the balance between alliance commitments and independent security assessments.
-  - The humanitarian consequences of sanctions will become a central issue in international forums, with calls for reforming or limiting their use.
-  - The marginalization of peace advocacy and critical media voices in the West is most definitely set to persist, further complicating efforts to foster dialogue and de-escalation in global hotspots.
-  
-  In summary, the coming weeks will likely see heightened debate over security policy in Europe, increased focus on the ethics and effectiveness of sanctions, and continued challenges to open, pluralistic discourse in the West.
+  Trends indicate a persistent marginalization of peace-oriented perspectives in Western media and policy circles. The transformation of the information environment, as highlighted by Oberg, has made it increasingly difficult for alternative voices to shape public debate. Looking ahead, it is quite likely that security narratives in Europe will remain dominated by militarized and alliance-driven frameworks, with a high chance of further polarization in public discourse. The lessons from the Yugoslav wars and the ongoing debate over sanctions suggest that without a shift toward more inclusive and preventive approaches, the risk of escalation and humanitarian fallout will remain high.
 articles:
+  - title: '“Breaking Point: The War That Changed The Rules”'
+    url: https://transnational.live/2026/03/26/breaking-point-the-war-that-changed-the-rules/
+    text: 'New documentary by Sladjana Zaric, RTS – Serbia’s Radio and Television Jan
+      Oberg March 26, 2026 Those who have followed TFF over the decades will remember
+      that we were engaged in conflict-mitigation in all parts of Yugoslavia from 1991
+      and beyond 2000. It is all to be found in our 2200-A4 pages equivalent online
+      documentation, […] The post “Breaking Point: The War That Changed The Rules” appeared
+      first on The Transnational .'
+    one_sentence_summary: 'The article discusses a new documentary by Sladjana Zaric
+      titled "Breaking Point: The War That Changed The Rules," which reflects on the
+      conflict-mitigation efforts in Yugoslavia from 1991 to 2000, as documented by
+      TFF.'
+    paragraph_summary: 'The article discusses a new documentary titled "Breaking Point:
+      The War That Changed The Rules," created by Sladjana Zaric for Serbia''s Radio
+      and Television (RTS). It highlights the long-standing involvement of the Transnational
+      Foundation for Peace and Future Research (TFF) in conflict mitigation efforts
+      throughout Yugoslavia from 1991 to 2000. The documentary reflects on the significant
+      events of that period and is supported by extensive online documentation amounting
+      to 2200 pages.'
+    published: '2026-03-26T15:20:38+00:00'
+  - title: '“Breaking Point: The War That Changed The Rules”'
+    url: https://transnational.live/2026/03/26/breaking-point-the-war-that-changed-the-rules/
+    text: 'New documentary by Sladjana Zaric, RTS – Serbia’s Radio and Television Jan
+      Oberg March 26, 2026 Those who have followed TFF over the decades will remember
+      that we were engaged in conflict-mitigation in all parts of Yugoslavia from 1991
+      and beyond 2000. It is all to be found in our 2200-A4 pages equivalent online
+      documentation, […] The post “Breaking Point: The War That Changed The Rules” appeared
+      first on The Transnational .'
+    one_sentence_summary: 'The article discusses a new documentary by Sladjana Zaric
+      titled "Breaking Point: The War That Changed The Rules," which reflects on the
+      conflict-mitigation efforts in Yugoslavia from 1991 to 2000, as documented by
+      TFF.'
+    paragraph_summary: 'The article discusses a new documentary titled "Breaking Point:
+      The War That Changed The Rules," created by Sladjana Zaric for Serbia''s Radio
+      and Television (RTS). It highlights the long-standing involvement of the Transnational
+      Foundation for Peace and Future Research (TFF) in conflict mitigation efforts
+      throughout Yugoslavia from 1991 to 2000. The documentary reflects on the significant
+      events of that period and is supported by extensive online documentation amounting
+      to 2200 pages.'
+    published: '2026-03-26T15:20:38+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/03/20/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF, highlighting that only a fraction
+      is listed and directing readers to the TFF Video Channel on Substack for more
+      content.
+    paragraph_summary: The article provides an overview of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on its homepage, noting that only a
+      small portion is captured. It encourages readers to visit the TFF Video Channel
+      on Substack for a broader selection of video comments and discussions. Additionally,
+      Jan Oberg is acknowledged as a contributor to the content shared.
+    published: '2026-03-20T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2026/03/20/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a collection of media mentions, comments,
+      videos, and social media posts related to TFF, highlighting that only a fraction
+      is listed and directing readers to the TFF Video Channel on Substack for more
+      content.
+    paragraph_summary: The article provides an overview of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that are not featured on its homepage, noting that only a
+      small portion is captured. It encourages readers to visit the TFF Video Channel
+      on Substack for a broader selection of video comments and discussions. Additionally,
+      Jan Oberg is acknowledged as a contributor to the content shared.
+    published: '2026-03-20T15:20:00+00:00'
   - title: 'SÄPO:s hotbild är en analytiskt avrustad tabloid-produkt: AI gör en mycket
       bättre på ett par minuter.'
     url: https://transnational.live/2026/03/19/sapos-hotbild-ar-en-analytiskt-avrustad-tabloid-produkt-ai-gor-en-mycket-battre-pa-ett-par-minuter/

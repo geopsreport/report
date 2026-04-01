@@ -7,16 +7,622 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the war on Iran enters its fourth week, the geopolitical landscape remains volatile, with new revelations and policy maneuvers shaping the conflict’s trajectory. The latest developments highlight both the enduring complexity of Middle Eastern nuclear politics and the shifting dynamics within the U.S. administration.
+  As of April 1, 2026, the geopolitical landscape remains tense and dynamic, with significant developments in the Middle East, Latin America, and Europe. The ongoing war on Iran continues to reshape regional alliances and global power structures, while legal and political battles elsewhere underscore the broader contest between state power and dissent.
   
-  Declassified British documents from the 1990s, analyzed by **Ray McGovern**, reveal that UK officials long considered Israel’s nuclear arsenal the principal obstacle to a nuclear weapons-free Middle East. This historical perspective, now resurfacing, underscores the persistent challenge of regional disarmament and the deep-seated mistrust among key players. The files suggest that Western powers, despite public rhetoric, have tacitly accepted Israel’s nuclear ambiguity, complicating efforts to curb Iran’s ambitions.
+  The most recent development centers on the legal proceedings against Venezuela’s president and first lady in New York. A judge has refused to dismiss the charges, emphasizing the importance of allowing the defendants to present a defense. As **Ray McGovern** notes, this decision maintains the pressure on Venezuela’s leadership and signals that the U.S. judiciary is not yet prepared to close the case. The outcome remains uncertain, but the case is likely to further strain U.S.-Venezuela relations in the near term.
   
-  On the U.S. front, **Ray McGovern** reports that President Trump has “backed down” in the most recent round of escalation with Iran, breaking the cycle of tit-for-tat attacks that has characterized the conflict. This move signals a possible recalibration of U.S. strategy, with Trump appearing increasingly hesitant to escalate further, despite pressure from Israeli officials and hawkish elements within his own administration.
+  Meanwhile, the war on Iran continues to dominate headlines and strategic calculations. **Jonathan Cook** argues that the debate over whether the U.S. or Israel is chiefly responsible for the conflict is reductive, as both nations are deeply intertwined in their decision-making. This mutual influence complicates efforts to assign blame or predict unilateral moves, suggesting that the conflict’s trajectory will depend on the evolving interplay between Washington and Tel Aviv.
   
-  Meanwhile, domestic tensions are rising as the Trump administration files a lawsuit against Harvard University, alleging the institution tolerates anti-Semitism under the guise of anti-genocide protests. **As`ad AbuKHALIL** highlights the administration’s conflation of legitimate dissent with anti-Jewish sentiment, reflecting broader efforts to police campus speech and shape public discourse around the war.
+  Within Israeli society, **Gideon Levy** highlights the entrenchment of militarism, which he believes has set the country on a destructive path unlikely to change under current leadership. This assessment aligns with broader regional trends, where militarization and hardline policies are becoming more deeply rooted, reducing the prospects for near-term de-escalation.
   
-  Looking ahead, the majority of analysts agree that the economic fallout from the Iran conflict will be severe and protracted, regardless of when hostilities cease. The pattern of U.S.-Israeli coordination, punctuated by periodic American restraint, is likely to persist. Given recent de-escalation, I assess with high confidence that Trump will continue to avoid direct large-scale military engagement, though the risk of renewed clashes remains as long as underlying issues—particularly nuclear tensions—are unresolved. The information war, both in the media and on university campuses, is set to intensify, shaping public opinion and policy in unpredictable ways.
+  In Europe, the case of Hüseyin Dogru, the first EU citizen sanctioned by the European Union for his journalistic work, has raised alarms about press freedom. **Patrick Lawrence** points out that Dogru faces “civil death” not for any wrongdoing, but solely due to his reporting. This development is indicative of a wider trend of increasing intolerance toward dissent within Western democracies.
+  
+  Looking ahead, I assess with high confidence that the U.S.-Iran-Israel dynamic will remain the central axis of instability in the Middle East, with little chance of diplomatic breakthrough in the short term. The legal case against Venezuela’s leadership will likely drag on, serving as a flashpoint in U.S.-Latin America relations. In Europe, the precedent set by Dogru’s sanctioning suggests a quite likely increase in restrictions on journalistic freedom, especially for those challenging prevailing narratives. The overall trend is toward greater polarization, with state actors doubling down on hardline stances both domestically and abroad.
 articles:
+  - title: Judge May Reconsider Dismissing Maduro’s Case
+    url: https://consortiumnews.com/2026/03/31/judge-may-reconsider-dismissing-maduros-case/
+    text: While affirming that the right to present a defense is “paramount,” the judge
+      in New York refused to dismiss the case against the president and first lady of
+      Venezuela — for now, writes Marjorie Cohn. By Marjorie Cohn Truthout U.S. District…
+      Read more →
+    one_sentence_summary: A New York judge upheld the case against Venezuela's president
+      and first lady, emphasizing the importance of the right to present a defense while
+      refusing to dismiss the charges at this time.
+    paragraph_summary: A New York judge has decided not to dismiss the case against
+      Venezuela's president and first lady, emphasizing the importance of the right
+      to present a defense. Marjorie Cohn reports that the judge acknowledged this right
+      as "paramount," indicating that the legal proceedings will continue for the time
+      being.
+    published: '2026-03-31T21:26:39+00:00'
+  - title: Judge May Reconsider Dismissing Maduro’s Case
+    url: https://consortiumnews.com/2026/03/31/judge-may-reconsider-dismissing-maduros-case/
+    text: While affirming that the right to present a defense is “paramount,” the judge
+      in New York refused to dismiss the case against the president and first lady of
+      Venezuela — for now, writes Marjorie Cohn. By Marjorie Cohn Truthout U.S. District…
+      Read more →
+    one_sentence_summary: A New York judge upheld the case against Venezuela's president
+      and first lady, emphasizing the importance of the right to present a defense while
+      refusing to dismiss the charges at this time.
+    paragraph_summary: A New York judge has decided not to dismiss the case against
+      Venezuela's president and first lady, emphasizing the importance of the right
+      to present a defense. Marjorie Cohn reports that the judge acknowledged this right
+      as "paramount," indicating that the legal proceedings will continue for the time
+      being.
+    published: '2026-03-31T21:26:39+00:00'
+  - title: 'Hedges Report: Israel’s Expanding War — w/Gideon Levy'
+    url: https://consortiumnews.com/2026/03/31/hedges-report-israels-expanding-war-w-gideon-levy/
+    text: Gideon Levy believes Israel’s rampant militarism has infected the minds of
+      its entire population. Without an impossible reversal, the Jewish state’s destructive
+      warpath will rage on. By Chris Hedges The Chris Hedges Report For decades, Benjamin
+      Netanyahu treated war with Iran… Read more →
+    one_sentence_summary: Gideon Levy argues that Israel's pervasive militarism has
+      deeply influenced its society, leading to a destructive trajectory that seems
+      unlikely to change under current leadership.
+    paragraph_summary: In the article, Chris Hedges discusses Gideon Levy's perspective
+      on Israel's pervasive militarism, arguing that it has deeply influenced the mindset
+      of the entire Israeli population. Levy contends that without a significant change
+      in direction, Israel's aggressive military actions, particularly regarding its
+      longstanding conflict with Iran, will continue unabated, perpetuating a cycle
+      of destruction. Hedges highlights the implications of this mindset for both Israel
+      and the broader region, suggesting that the entrenched militaristic approach poses
+      serious challenges to peace and stability.
+    published: '2026-03-31T18:00:18+00:00'
+  - title: 'Hedges Report: Israel’s Expanding War — w/Gideon Levy'
+    url: https://consortiumnews.com/2026/03/31/hedges-report-israels-expanding-war-w-gideon-levy/
+    text: Gideon Levy believes Israel’s rampant militarism has infected the minds of
+      its entire population. Without an impossible reversal, the Jewish state’s destructive
+      warpath will rage on. By Chris Hedges The Chris Hedges Report For decades, Benjamin
+      Netanyahu treated war with Iran… Read more →
+    one_sentence_summary: Gideon Levy argues that Israel's pervasive militarism has
+      deeply influenced its society, leading to a destructive trajectory that seems
+      unlikely to change under current leadership.
+    paragraph_summary: In the article, Chris Hedges discusses Gideon Levy's perspective
+      on Israel's pervasive militarism, arguing that it has deeply influenced the mindset
+      of the entire Israeli population. Levy contends that without a significant change
+      in direction, Israel's aggressive military actions, particularly regarding its
+      longstanding conflict with Iran, will continue unabated, perpetuating a cycle
+      of destruction. Hedges highlights the implications of this mindset for both Israel
+      and the broader region, suggesting that the entrenched militaristic approach poses
+      serious challenges to peace and stability.
+    published: '2026-03-31T18:00:18+00:00'
+  - title: 'Jonathan Cook: US or Israel? Neither Is Top Dog'
+    url: https://consortiumnews.com/2026/03/31/jonathan-cook-us-or-israel-neither-is-top-dog/
+    text: Binary thinking in the argument over whether the U.S. or Israel is driving
+      the illegal war on Iran obscures far more than it illuminates. The truth is the
+      dog and the tail are wagging each other. By Jonathan Cook Jonathan-Cook.net The…
+      Read more →
+    one_sentence_summary: The article argues that the debate over whether the U.S. or
+      Israel is primarily responsible for the illegal war on Iran oversimplifies the
+      situation, as both countries influence each other in their actions.
+    paragraph_summary: In his article, Jonathan Cook argues that the debate over whether
+      the U.S. or Israel is primarily responsible for the illegal war on Iran is overly
+      simplistic and misleading, as it fails to acknowledge the complex interplay between
+      the two nations. He suggests that both countries influence each other in their
+      aggressive policies towards Iran, likening their relationship to a dog wagging
+      its tail, where each party drives the other's actions. This binary thinking obscures
+      the deeper dynamics at play in the conflict.
+    published: '2026-03-31T16:00:57+00:00'
+  - title: 'Jonathan Cook: US or Israel? Neither Is Top Dog'
+    url: https://consortiumnews.com/2026/03/31/jonathan-cook-us-or-israel-neither-is-top-dog/
+    text: Binary thinking in the argument over whether the U.S. or Israel is driving
+      the illegal war on Iran obscures far more than it illuminates. The truth is the
+      dog and the tail are wagging each other. By Jonathan Cook Jonathan-Cook.net The…
+      Read more →
+    one_sentence_summary: The article argues that the debate over whether the U.S. or
+      Israel is primarily responsible for the illegal war on Iran oversimplifies the
+      situation, as both countries influence each other in their actions.
+    paragraph_summary: In his article, Jonathan Cook argues that the debate over whether
+      the U.S. or Israel is primarily responsible for the illegal war on Iran is overly
+      simplistic and misleading, as it fails to acknowledge the complex interplay between
+      the two nations. He suggests that both countries influence each other in their
+      aggressive policies towards Iran, likening their relationship to a dog wagging
+      its tail, where each party drives the other's actions. This binary thinking obscures
+      the deeper dynamics at play in the conflict.
+    published: '2026-03-31T16:00:57+00:00'
+  - title: 'PATRICK LAWRENCE: A German Journalist’s ‘Civil Death’'
+    url: https://consortiumnews.com/2026/03/31/patrick-lawrence-a-german-journalists-civil-death/
+    text: 'Hüseyin Dogru is the first E.U. citizen to be sanctioned by the union and
+      the first journalist to land on the list because of his work. What is Dogru’s
+      crime? Don’t ask: He has not committed one. By Patrick Lawrence Special… Read
+      more →'
+    one_sentence_summary: Hüseyin Dogru, a journalist and the first EU citizen to be
+      sanctioned by the European Union, faces repercussions not for any wrongdoing,
+      but solely due to his work.
+    paragraph_summary: Hüseyin Dogru has become the first European Union citizen and
+      journalist to be sanctioned by the EU due to his professional activities, despite
+      not having committed any crimes. The article by Patrick Lawrence highlights the
+      troubling implications of this action, suggesting that it raises concerns about
+      press freedom and the potential for political motivations behind such sanctions.
+    published: '2026-03-31T13:23:47+00:00'
+  - title: 'PATRICK LAWRENCE: A German Journalist’s ‘Civil Death’'
+    url: https://consortiumnews.com/2026/03/31/patrick-lawrence-a-german-journalists-civil-death/
+    text: 'Hüseyin Dogru is the first E.U. citizen to be sanctioned by the union and
+      the first journalist to land on the list because of his work. What is Dogru’s
+      crime? Don’t ask: He has not committed one. By Patrick Lawrence Special… Read
+      more →'
+    one_sentence_summary: Hüseyin Dogru, a journalist and the first EU citizen to be
+      sanctioned by the European Union, faces repercussions not for any wrongdoing,
+      but solely due to his work.
+    paragraph_summary: Hüseyin Dogru has become the first European Union citizen and
+      journalist to be sanctioned by the EU due to his professional activities, despite
+      not having committed any crimes. The article by Patrick Lawrence highlights the
+      troubling implications of this action, suggesting that it raises concerns about
+      press freedom and the potential for political motivations behind such sanctions.
+    published: '2026-03-31T13:23:47+00:00'
+  - title: 'Chris Hedges: Trump Has No Soul'
+    url: https://consortiumnews.com/2026/03/30/chris-hedges-trump-has-no-soul/
+    text: When the soulless wage war it is part of a perverted drive to build a monument
+      to themselves. The more they fail, the more they descend into a tyrannical rage.
+      By Chris Hedges ScheerPost The most profound realities of human existence… Read
+      more →
+    one_sentence_summary: The article by Chris Hedges argues that those devoid of empathy
+      engage in war as a misguided attempt to create a legacy, and their failures lead
+      to increasingly tyrannical behavior.
+    paragraph_summary: In the article by Chris Hedges, it is argued that those devoid
+      of empathy and moral grounding, referred to as the "soulless," engage in warfare
+      as a misguided attempt to create a legacy for themselves. This destructive pursuit
+      intensifies their failures and leads to a deepening tyrannical rage, highlighting
+      the darker aspects of human nature and the consequences of power devoid of conscience.
+      Hedges emphasizes the profound implications of such behavior on human existence
+      and societal dynamics.
+    published: '2026-03-30T17:03:15+00:00'
+  - title: 'Chris Hedges: Trump Has No Soul'
+    url: https://consortiumnews.com/2026/03/30/chris-hedges-trump-has-no-soul/
+    text: When the soulless wage war it is part of a perverted drive to build a monument
+      to themselves. The more they fail, the more they descend into a tyrannical rage.
+      By Chris Hedges ScheerPost The most profound realities of human existence… Read
+      more →
+    one_sentence_summary: The article by Chris Hedges argues that those devoid of empathy
+      engage in war as a misguided attempt to create a legacy, and their failures lead
+      to increasingly tyrannical behavior.
+    paragraph_summary: In the article by Chris Hedges, it is argued that those devoid
+      of empathy and moral grounding, referred to as the "soulless," engage in warfare
+      as a misguided attempt to create a legacy for themselves. This destructive pursuit
+      intensifies their failures and leads to a deepening tyrannical rage, highlighting
+      the darker aspects of human nature and the consequences of power devoid of conscience.
+      Hedges emphasizes the profound implications of such behavior on human existence
+      and societal dynamics.
+    published: '2026-03-30T17:03:15+00:00'
+  - title: 'DAYS 25-29: WAR ON IRAN — Remaking the Middle East'
+    url: https://consortiumnews.com/2026/03/30/days-25-29-war-on-iran-remaking-the-middle-east/
+    text: Iranians and Saudis see historic opportunity from the war to remake the region.
+      Iran wants the U.S. and Gulf monarchies out, while Saudis want control. Israel
+      has its own ideas, writes Joe Lauria. Tuesday, March 24 to Sunday, March 29… Read
+      more →
+    one_sentence_summary: Iranians and Saudis view the ongoing war as a pivotal chance
+      to reshape the Middle East, with Iran seeking to expel U.S. and Gulf monarchies
+      and Saudi Arabia aiming for greater control, while Israel has its own strategic
+      interests.
+    paragraph_summary: The article discusses the shifting dynamics in the Middle East
+      as Iran and Saudi Arabia view the ongoing war as a chance to reshape the region
+      to their advantage. Iran aims to diminish the influence of the U.S. and Gulf monarchies,
+      while Saudi Arabia seeks to assert its control over the area. Meanwhile, Israel
+      has its own strategic interests in the evolving situation. The piece, written
+      by Joe Lauria, highlights the complex interplay of ambitions among these key players
+      during a time of conflict.
+    published: '2026-03-30T14:39:38+00:00'
+  - title: 'DAYS 25-29: WAR ON IRAN — Remaking the Middle East'
+    url: https://consortiumnews.com/2026/03/30/days-25-29-war-on-iran-remaking-the-middle-east/
+    text: Iranians and Saudis see historic opportunity from the war to remake the region.
+      Iran wants the U.S. and Gulf monarchies out, while Saudis want control. Israel
+      has its own ideas, writes Joe Lauria. Tuesday, March 24 to Sunday, March 29… Read
+      more →
+    one_sentence_summary: Iranians and Saudis view the ongoing war as a pivotal chance
+      to reshape the Middle East, with Iran seeking to expel U.S. and Gulf monarchies
+      and Saudi Arabia aiming for greater control, while Israel has its own strategic
+      interests.
+    paragraph_summary: The article discusses the shifting dynamics in the Middle East
+      as Iran and Saudi Arabia view the ongoing war as a chance to reshape the region
+      to their advantage. Iran aims to diminish the influence of the U.S. and Gulf monarchies,
+      while Saudi Arabia seeks to assert its control over the area. Meanwhile, Israel
+      has its own strategic interests in the evolving situation. The piece, written
+      by Joe Lauria, highlights the complex interplay of ambitions among these key players
+      during a time of conflict.
+    published: '2026-03-30T14:39:38+00:00'
+  - title: 'WATCH: CN Live! – ‘Diplomacy By Other Means’'
+    url: https://consortiumnews.com/2026/03/28/watch-cn-live-diplomacy-by-other-means/
+    text: Donald Trump has broken every diplomatic rule in the book in his disastrous
+      unprovoked war of aggression against Iran. Now he’s trying to suck in European
+      countries and Australia. Sunday, 8pm EDT. Australia is now in the crosshairs of
+      U.S.… Read more →
+    one_sentence_summary: Donald Trump is violating diplomatic norms with his aggressive
+      actions against Iran and is attempting to involve European nations and Australia
+      in the conflict.
+    paragraph_summary: The article criticizes Donald Trump for violating diplomatic
+      norms through his aggressive actions against Iran, describing it as a disastrous
+      and unprovoked war. It highlights concerns that Trump is attempting to involve
+      European nations and Australia in this conflict, suggesting that Australia is
+      now at risk of being drawn into the U.S. military agenda.
+    published: '2026-03-29T03:56:05+00:00'
+  - title: 'WATCH: CN Live! – ‘Diplomacy By Other Means’'
+    url: https://consortiumnews.com/2026/03/28/watch-cn-live-diplomacy-by-other-means/
+    text: Donald Trump has broken every diplomatic rule in the book in his disastrous
+      unprovoked war of aggression against Iran. Now he’s trying to suck in European
+      countries and Australia. Sunday, 8pm EDT. Australia is now in the crosshairs of
+      U.S.… Read more →
+    one_sentence_summary: Donald Trump is violating diplomatic norms with his aggressive
+      actions against Iran and is attempting to involve European nations and Australia
+      in the conflict.
+    paragraph_summary: The article criticizes Donald Trump for violating diplomatic
+      norms through his aggressive actions against Iran, describing it as a disastrous
+      and unprovoked war. It highlights concerns that Trump is attempting to involve
+      European nations and Australia in this conflict, suggesting that Australia is
+      now at risk of being drawn into the U.S. military agenda.
+    published: '2026-03-29T03:56:05+00:00'
+  - title: 'Vijay Prashad: Senegal on the Edge of Collapse'
+    url: https://consortiumnews.com/2026/03/28/vijay-prashad-senegal-on-the-edge-of-collapse/
+    text: 'Burdened by decades of neocolonialism and corruption, Senegal faces an all-too-familiar
+      dilemma faced by countries across the Global South: how to pursue sovereign development
+      under the weight of debt. By Vijay Prashad Tricontinental: Institute for Social
+      Research Senegal entered 2026 in… Read more →'
+    one_sentence_summary: Senegal grapples with the challenges of achieving sovereign
+      development amid the pressures of neocolonialism and corruption, compounded by
+      significant debt, reflecting a common struggle faced by many countries in the
+      Global South.
+    paragraph_summary: 'Senegal, grappling with the legacies of neocolonialism and pervasive
+      corruption, confronts a significant challenge common to many Global South nations:
+      the pursuit of sovereign development amidst crippling debt. As it moves into 2026,
+      the country must navigate the complexities of fostering economic growth while
+      managing its financial obligations, highlighting the broader struggle for autonomy
+      and progress faced by similar nations in the region.'
+    published: '2026-03-28T14:26:05+00:00'
+  - title: 'Vijay Prashad: Senegal on the Edge of Collapse'
+    url: https://consortiumnews.com/2026/03/28/vijay-prashad-senegal-on-the-edge-of-collapse/
+    text: 'Burdened by decades of neocolonialism and corruption, Senegal faces an all-too-familiar
+      dilemma faced by countries across the Global South: how to pursue sovereign development
+      under the weight of debt. By Vijay Prashad Tricontinental: Institute for Social
+      Research Senegal entered 2026 in… Read more →'
+    one_sentence_summary: Senegal grapples with the challenges of achieving sovereign
+      development amid the pressures of neocolonialism and corruption, compounded by
+      significant debt, reflecting a common struggle faced by many countries in the
+      Global South.
+    paragraph_summary: 'Senegal, grappling with the legacies of neocolonialism and pervasive
+      corruption, confronts a significant challenge common to many Global South nations:
+      the pursuit of sovereign development amidst crippling debt. As it moves into 2026,
+      the country must navigate the complexities of fostering economic growth while
+      managing its financial obligations, highlighting the broader struggle for autonomy
+      and progress faced by similar nations in the region.'
+    published: '2026-03-28T14:26:05+00:00'
+  - title: 'WATCH: The World This Week w/Richard Wolff – ‘Trump’s Meltdown’'
+    url: https://consortiumnews.com/2026/03/28/watch-the-world-this-week-w-richard-wolff-trumps-meltdown/
+    text: More than its effective drones and ballistic missiles, Iran’s greatest weapon,
+      causing its enemies the most pain, is economic. That is what is prompting the
+      meltdown of Donald Trump. Sat., 8 pm EDT. Donald Trump is experiencing a humiliating
+      political… Read more →
+    one_sentence_summary: Iran's most powerful weapon against its enemies is its economic
+      influence, which is contributing to Donald Trump's political struggles.
+    paragraph_summary: The article highlights that Iran's most significant weapon against
+      its adversaries is its economic strategy rather than its military capabilities
+      like drones and ballistic missiles. This economic influence is notably contributing
+      to the political turmoil faced by Donald Trump, suggesting that the economic pressures
+      stemming from Iran are causing considerable distress for him.
+    published: '2026-03-28T14:14:50+00:00'
+  - title: 'WATCH: The World This Week w/Richard Wolff – ‘Trump’s Meltdown’'
+    url: https://consortiumnews.com/2026/03/28/watch-the-world-this-week-w-richard-wolff-trumps-meltdown/
+    text: More than its effective drones and ballistic missiles, Iran’s greatest weapon,
+      causing its enemies the most pain, is economic. That is what is prompting the
+      meltdown of Donald Trump. Sat., 8 pm EDT. Donald Trump is experiencing a humiliating
+      political… Read more →
+    one_sentence_summary: Iran's most powerful weapon against its enemies is its economic
+      influence, which is contributing to Donald Trump's political struggles.
+    paragraph_summary: The article highlights that Iran's most significant weapon against
+      its adversaries is its economic strategy rather than its military capabilities
+      like drones and ballistic missiles. This economic influence is notably contributing
+      to the political turmoil faced by Donald Trump, suggesting that the economic pressures
+      stemming from Iran are causing considerable distress for him.
+    published: '2026-03-28T14:14:50+00:00'
+  - title: The Silence of Arab States
+    url: https://consortiumnews.com/2026/03/27/the-silence-of-arab-states/
+    text: Arab states are not betraying Palestine, because Palestinian freedom, defeat
+      of Zionism and dismantling imperial domination were never central to their agenda,
+      writes Ramzy Baroud. By Ramzy Baroud Z Network I have always found it interesting,
+      and at times revealing, when seasoned… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Arab states are not betraying Palestine,
+      as the liberation of Palestine and the defeat of Zionism have never been central
+      to their political agendas.
+    paragraph_summary: In his article, Ramzy Baroud argues that Arab states are not
+      betraying Palestine, as the liberation of Palestine and the defeat of Zionism
+      have never been central to their political agendas. He suggests that these states
+      have historically prioritized their own interests over Palestinian freedom and
+      the dismantling of imperial domination, indicating that the lack of support for
+      Palestine is not a betrayal but rather a reflection of their longstanding priorities.
+    published: '2026-03-27T18:00:15+00:00'
+  - title: The Silence of Arab States
+    url: https://consortiumnews.com/2026/03/27/the-silence-of-arab-states/
+    text: Arab states are not betraying Palestine, because Palestinian freedom, defeat
+      of Zionism and dismantling imperial domination were never central to their agenda,
+      writes Ramzy Baroud. By Ramzy Baroud Z Network I have always found it interesting,
+      and at times revealing, when seasoned… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Arab states are not betraying Palestine,
+      as the liberation of Palestine and the defeat of Zionism have never been central
+      to their political agendas.
+    paragraph_summary: In his article, Ramzy Baroud argues that Arab states are not
+      betraying Palestine, as the liberation of Palestine and the defeat of Zionism
+      have never been central to their political agendas. He suggests that these states
+      have historically prioritized their own interests over Palestinian freedom and
+      the dismantling of imperial domination, indicating that the lack of support for
+      Palestine is not a betrayal but rather a reflection of their longstanding priorities.
+    published: '2026-03-27T18:00:15+00:00'
+  - title: US Immigration’s Expanding Gulag
+    url: https://consortiumnews.com/2026/03/27/us-immigrations-expanding-gulag/
+    text: It’s no exaggeration to say that ICE detention camps now threaten to become
+      a central instrument of repression under the Trump administration, writes Rebecca
+      Gordon.  By Rebecca Gordon TomDispatch.com The March 4, 2026, edition of the Arizona
+      Daily Star put the… Read more →
+    one_sentence_summary: Rebecca Gordon argues that ICE detention camps are increasingly
+      being used as a tool of repression by the Trump administration.
+    paragraph_summary: In her article, Rebecca Gordon argues that ICE detention camps
+      have emerged as a key tool of repression during the Trump administration, highlighting
+      their role in the broader context of immigration policy and enforcement. She emphasizes
+      the implications of these camps for civil liberties and human rights, suggesting
+      that their use reflects a troubling trend in the government's approach to immigration
+      and social control.
+    published: '2026-03-27T16:00:08+00:00'
+  - title: US Immigration’s Expanding Gulag
+    url: https://consortiumnews.com/2026/03/27/us-immigrations-expanding-gulag/
+    text: It’s no exaggeration to say that ICE detention camps now threaten to become
+      a central instrument of repression under the Trump administration, writes Rebecca
+      Gordon.  By Rebecca Gordon TomDispatch.com The March 4, 2026, edition of the Arizona
+      Daily Star put the… Read more →
+    one_sentence_summary: Rebecca Gordon argues that ICE detention camps are increasingly
+      being used as a tool of repression by the Trump administration.
+    paragraph_summary: In her article, Rebecca Gordon argues that ICE detention camps
+      have emerged as a key tool of repression during the Trump administration, highlighting
+      their role in the broader context of immigration policy and enforcement. She emphasizes
+      the implications of these camps for civil liberties and human rights, suggesting
+      that their use reflects a troubling trend in the government's approach to immigration
+      and social control.
+    published: '2026-03-27T16:00:08+00:00'
+  - title: War & Morality
+    url: https://consortiumnews.com/2026/03/27/war-morality/
+    text: In a liberal democracy, the government can only morally do what the governed
+      have affirmatively authorized it to do, writes Andrew P. Napolitano. This is not
+      the case with Trump’s war on Iran. By Andrew P. Napolitano War is the… Read more
+      →
+    one_sentence_summary: Andrew P. Napolitano argues that in a liberal democracy, government
+      actions must be authorized by the governed, which he claims is not the case with
+      Trump's approach to war with Iran.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that in a liberal
+      democracy, government actions must be based on the explicit consent of the governed;
+      however, he contends that this principle is violated by Trump's approach to military
+      action against Iran. He emphasizes that the decision to engage in war should reflect
+      the will of the people, rather than unilateral actions taken by the executive
+      branch without proper authorization or public support.
+    published: '2026-03-27T11:00:24+00:00'
+  - title: War & Morality
+    url: https://consortiumnews.com/2026/03/27/war-morality/
+    text: In a liberal democracy, the government can only morally do what the governed
+      have affirmatively authorized it to do, writes Andrew P. Napolitano. This is not
+      the case with Trump’s war on Iran. By Andrew P. Napolitano War is the… Read more
+      →
+    one_sentence_summary: Andrew P. Napolitano argues that in a liberal democracy, government
+      actions must be authorized by the governed, which he claims is not the case with
+      Trump's approach to war with Iran.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that in a liberal
+      democracy, government actions must be based on the explicit consent of the governed;
+      however, he contends that this principle is violated by Trump's approach to military
+      action against Iran. He emphasizes that the decision to engage in war should reflect
+      the will of the people, rather than unilateral actions taken by the executive
+      branch without proper authorization or public support.
+    published: '2026-03-27T11:00:24+00:00'
+  - title: ‘This Is Our Land,’ Says the Israeli Settler
+    url: https://consortiumnews.com/2026/03/26/this-is-our-land-says-the-israeli-settler/
+    text: Israel has killed at least 26 Palestinians in the West Bank since the beginning
+      of the year, of whom at least eight were murdered by settlers. By Ashley Miller
+      Common Dreams As Muslims around the world celebrated an end to… Read more →
+    one_sentence_summary: Since the start of the year, Israel has killed at least 26
+      Palestinians in the West Bank, including eight fatalities attributed to settlers.
+    paragraph_summary: Since the start of the year, Israel has killed at least 26 Palestinians
+      in the West Bank, with at least eight of these deaths attributed to settlers.
+      This violence has occurred amid global celebrations marking the end of a significant
+      Muslim holiday.
+    published: '2026-03-27T02:22:08+00:00'
+  - title: ‘This Is Our Land,’ Says the Israeli Settler
+    url: https://consortiumnews.com/2026/03/26/this-is-our-land-says-the-israeli-settler/
+    text: Israel has killed at least 26 Palestinians in the West Bank since the beginning
+      of the year, of whom at least eight were murdered by settlers. By Ashley Miller
+      Common Dreams As Muslims around the world celebrated an end to… Read more →
+    one_sentence_summary: Since the start of the year, Israel has killed at least 26
+      Palestinians in the West Bank, including eight fatalities attributed to settlers.
+    paragraph_summary: Since the start of the year, Israel has killed at least 26 Palestinians
+      in the West Bank, with at least eight of these deaths attributed to settlers.
+      This violence has occurred amid global celebrations marking the end of a significant
+      Muslim holiday.
+    published: '2026-03-27T02:22:08+00:00'
+  - title: Iran War Exposes Cracks in BRICS Wall
+    url: https://consortiumnews.com/2026/03/26/iran-war-exposes-cracks-in-brics-wall/
+    text: Fissures have opened in the bloc over the U.S.-Israel war on Iran, writes
+      Betwa Sharma. India has perhaps been most divisive. Let alone as a global power,
+      India isn’t even projecting itself as a truly independent, regional one. By Betwa
+      Sharma… Read more →
+    one_sentence_summary: The article by Betwa Sharma discusses the divisions within
+      the bloc regarding the U.S.-Israel war on Iran, highlighting India's struggle
+      to assert itself as an independent regional power.
+    paragraph_summary: In her article, Betwa Sharma discusses the divisions within a
+      bloc regarding the U.S.-Israel conflict with Iran, highlighting India's ambiguous
+      position. She argues that India is struggling to assert itself as a global power
+      and is not effectively presenting itself as an independent regional player, which
+      has contributed to the fissures in the bloc's unity over the ongoing war.
+    published: '2026-03-26T18:00:13+00:00'
+  - title: Iran War Exposes Cracks in BRICS Wall
+    url: https://consortiumnews.com/2026/03/26/iran-war-exposes-cracks-in-brics-wall/
+    text: Fissures have opened in the bloc over the U.S.-Israel war on Iran, writes
+      Betwa Sharma. India has perhaps been most divisive. Let alone as a global power,
+      India isn’t even projecting itself as a truly independent, regional one. By Betwa
+      Sharma… Read more →
+    one_sentence_summary: The article by Betwa Sharma discusses the divisions within
+      the bloc regarding the U.S.-Israel war on Iran, highlighting India's struggle
+      to assert itself as an independent regional power.
+    paragraph_summary: In her article, Betwa Sharma discusses the divisions within a
+      bloc regarding the U.S.-Israel conflict with Iran, highlighting India's ambiguous
+      position. She argues that India is struggling to assert itself as a global power
+      and is not effectively presenting itself as an independent regional player, which
+      has contributed to the fissures in the bloc's unity over the ongoing war.
+    published: '2026-03-26T18:00:13+00:00'
+  - title: The Cuba Convoy Breaking the US Blockade
+    url: https://consortiumnews.com/2026/03/26/the-cuba-convoy-breaking-the-us-blockade/
+    text: Alan MacLeod reports on the internationalist convoy that traveled by land,
+      sea and air to arrive in Havana on Saturday carrying dozens of public figures,
+      including Hasan Piker, Greta Thunberg, Jeremy Corbyn and the Irish hip-hop band
+      Kneecap. By Alan… Read more →
+    one_sentence_summary: Alan MacLeod reports on an internationalist convoy that arrived
+      in Havana, featuring notable figures such as Hasan Piker, Greta Thunberg, Jeremy
+      Corbyn, and the Irish hip-hop band Kneecap.
+    paragraph_summary: Alan MacLeod reports on an internationalist convoy that made
+      its way to Havana, arriving on Saturday with a diverse group of public figures,
+      including Hasan Piker, Greta Thunberg, Jeremy Corbyn, and the Irish hip-hop band
+      Kneecap. The convoy traveled by land, sea, and air, highlighting a collective
+      effort to promote solidarity and support for Cuba.
+    published: '2026-03-26T15:00:55+00:00'
+  - title: The Cuba Convoy Breaking the US Blockade
+    url: https://consortiumnews.com/2026/03/26/the-cuba-convoy-breaking-the-us-blockade/
+    text: Alan MacLeod reports on the internationalist convoy that traveled by land,
+      sea and air to arrive in Havana on Saturday carrying dozens of public figures,
+      including Hasan Piker, Greta Thunberg, Jeremy Corbyn and the Irish hip-hop band
+      Kneecap. By Alan… Read more →
+    one_sentence_summary: Alan MacLeod reports on an internationalist convoy that arrived
+      in Havana, featuring notable figures such as Hasan Piker, Greta Thunberg, Jeremy
+      Corbyn, and the Irish hip-hop band Kneecap.
+    paragraph_summary: Alan MacLeod reports on an internationalist convoy that made
+      its way to Havana, arriving on Saturday with a diverse group of public figures,
+      including Hasan Piker, Greta Thunberg, Jeremy Corbyn, and the Irish hip-hop band
+      Kneecap. The convoy traveled by land, sea, and air, highlighting a collective
+      effort to promote solidarity and support for Cuba.
+    published: '2026-03-26T15:00:55+00:00'
+  - title: 'WATCH:  Imminent Threat – or Ruse?'
+    url: https://consortiumnews.com/2026/03/25/watch-imminent-threat-or-ruse/
+    text: Is the intel on the war on Iran a flashback to the 2003 invasion of Iraq? 
+      Ray McGovern, Anthony Aguilar, Dennis Fritz and more live from the National Press
+      Club in Washington. Thursday, 9 am EDT. U.S. Veterans, from Vietnam… Read more
+      →
+    one_sentence_summary: The article discusses a live event featuring U.S. veterans
+      and experts at the National Press Club, questioning whether current intelligence
+      regarding a potential war with Iran mirrors the misleading information that preceded
+      the 2003 invasion of Iraq.
+    paragraph_summary: The article discusses a live event at the National Press Club
+      in Washington, featuring U.S. veterans and commentators like Ray McGovern, Anthony
+      Aguilar, and Dennis Fritz, who are examining the intelligence surrounding the
+      potential conflict with Iran. They draw parallels between the current situation
+      and the lead-up to the 2003 invasion of Iraq, raising concerns about the reliability
+      of the intelligence used to justify military action. The discussion aims to highlight
+      the lessons learned from past conflicts and the implications of repeating history.
+    published: '2026-03-26T01:53:35+00:00'
+  - title: 'WATCH:  Imminent Threat – or Ruse?'
+    url: https://consortiumnews.com/2026/03/25/watch-imminent-threat-or-ruse/
+    text: Is the intel on the war on Iran a flashback to the 2003 invasion of Iraq? 
+      Ray McGovern, Anthony Aguilar, Dennis Fritz and more live from the National Press
+      Club in Washington. Thursday, 9 am EDT. U.S. Veterans, from Vietnam… Read more
+      →
+    one_sentence_summary: The article discusses a live event featuring U.S. veterans
+      and experts at the National Press Club, questioning whether current intelligence
+      regarding a potential war with Iran mirrors the misleading information that preceded
+      the 2003 invasion of Iraq.
+    paragraph_summary: The article discusses a live event at the National Press Club
+      in Washington, featuring U.S. veterans and commentators like Ray McGovern, Anthony
+      Aguilar, and Dennis Fritz, who are examining the intelligence surrounding the
+      potential conflict with Iran. They draw parallels between the current situation
+      and the lead-up to the 2003 invasion of Iraq, raising concerns about the reliability
+      of the intelligence used to justify military action. The discussion aims to highlight
+      the lessons learned from past conflicts and the implications of repeating history.
+    published: '2026-03-26T01:53:35+00:00'
+  - title: 'PATRICK LAWRENCE:  Internationalism Then & Now'
+    url: https://consortiumnews.com/2026/03/25/patrick-lawrence-internationalism-then-now/
+    text: The U.N. Security Council’s condemnation of Iran’s retaliatory strikes, along
+      with the isolation of Cuba, show what U.S. assertion of raw power is doing to
+      what remains of internationalist principles. By Patrick Lawrence Special to Consortium
+      News Consider these following passages… Read more →
+    one_sentence_summary: The article discusses how the U.N. Security Council's condemnation
+      of Iran's retaliatory strikes and the isolation of Cuba illustrate the detrimental
+      impact of U.S. power on internationalist principles.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the U.N. Security Council's condemnation of Iran's retaliatory strikes and the
+      isolation of Cuba as reflections of the United States' exertion of power, which
+      undermines remaining internationalist principles. He argues that these actions
+      illustrate a shift away from collaborative global governance towards a more unilateral
+      approach driven by U.S. interests, raising concerns about the future of international
+      relations and diplomacy.
+    published: '2026-03-25T18:00:58+00:00'
+  - title: 'PATRICK LAWRENCE:  Internationalism Then & Now'
+    url: https://consortiumnews.com/2026/03/25/patrick-lawrence-internationalism-then-now/
+    text: The U.N. Security Council’s condemnation of Iran’s retaliatory strikes, along
+      with the isolation of Cuba, show what U.S. assertion of raw power is doing to
+      what remains of internationalist principles. By Patrick Lawrence Special to Consortium
+      News Consider these following passages… Read more →
+    one_sentence_summary: The article discusses how the U.N. Security Council's condemnation
+      of Iran's retaliatory strikes and the isolation of Cuba illustrate the detrimental
+      impact of U.S. power on internationalist principles.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the U.N. Security Council's condemnation of Iran's retaliatory strikes and the
+      isolation of Cuba as reflections of the United States' exertion of power, which
+      undermines remaining internationalist principles. He argues that these actions
+      illustrate a shift away from collaborative global governance towards a more unilateral
+      approach driven by U.S. interests, raising concerns about the future of international
+      relations and diplomacy.
+    published: '2026-03-25T18:00:58+00:00'
+  - title: 'Vijay Prashad: UN Approves Slavery Reparations'
+    url: https://consortiumnews.com/2026/03/25/vijay-prashad-un-votes-today-on-slavery-reparations/
+    text: 'The U.N. General Assembly voted today for the Global North to apologize and
+      pay reparations for slavery by a vote of 123-3-52, with only the U.S., Israel
+      and Argentina voting against. The E.U. abstained. By Vijay Prashad Tricontinental:
+      Institute for Social… Read more →'
+    one_sentence_summary: The U.N. General Assembly approved a resolution calling for
+      the Global North to apologize and provide reparations for slavery, with a vote
+      of 123 in favor, 3 against (U.S., Israel, Argentina), and 52 abstentions, including
+      the E.U.
+    paragraph_summary: The U.N. General Assembly has passed a resolution calling for
+      the Global North to apologize and provide reparations for slavery, with a significant
+      majority voting in favor (123 votes) while only the U.S., Israel, and Argentina
+      opposed the measure (3 votes), and the European Union abstained. The resolution
+      highlights ongoing discussions about historical injustices and the responsibilities
+      of former colonial powers towards affected nations.
+    published: '2026-03-25T16:00:39+00:00'
+  - title: 'Vijay Prashad: UN Approves Slavery Reparations'
+    url: https://consortiumnews.com/2026/03/25/vijay-prashad-un-votes-today-on-slavery-reparations/
+    text: 'The U.N. General Assembly voted today for the Global North to apologize and
+      pay reparations for slavery by a vote of 123-3-52, with only the U.S., Israel
+      and Argentina voting against. The E.U. abstained. By Vijay Prashad Tricontinental:
+      Institute for Social… Read more →'
+    one_sentence_summary: The U.N. General Assembly approved a resolution calling for
+      the Global North to apologize and provide reparations for slavery, with a vote
+      of 123 in favor, 3 against (U.S., Israel, Argentina), and 52 abstentions, including
+      the E.U.
+    paragraph_summary: The U.N. General Assembly has passed a resolution calling for
+      the Global North to apologize and provide reparations for slavery, with a significant
+      majority voting in favor (123 votes) while only the U.S., Israel, and Argentina
+      opposed the measure (3 votes), and the European Union abstained. The resolution
+      highlights ongoing discussions about historical injustices and the responsibilities
+      of former colonial powers towards affected nations.
+    published: '2026-03-25T16:00:39+00:00'
+  - title: 'Craig Murray: The London Ambulance Attack'
+    url: https://consortiumnews.com/2026/03/25/craig-murray-the-london-ambulance-attack/
+    text: Iran has a zero record of attacking healthcare facilities, even in Israel.
+      And there are multiple red flags about linking the recently-emerged terrorist
+      group, Harakat Ashab al-Yamin al-Islamia, to Iran. By Craig Murray CraigMurray.org.uk
+      The notion that the Iranian state would… Read more →
+    one_sentence_summary: The article argues that Iran has never attacked healthcare
+      facilities, including in Israel, and raises doubts about any connections between
+      Iran and the newly emerged terrorist group Harakat Ashab al-Yamin al-Islamia.
+    paragraph_summary: The article by Craig Murray argues that Iran has no history of
+      attacking healthcare facilities, including those in Israel, and raises skepticism
+      about the claims linking the newly emerged terrorist group, Harakat Ashab al-Yamin
+      al-Islamia, to Iran. Murray highlights several inconsistencies and red flags regarding
+      these connections, suggesting that the narrative may be unfounded.
+    published: '2026-03-25T12:11:42+00:00'
+  - title: 'Craig Murray: The London Ambulance Attack'
+    url: https://consortiumnews.com/2026/03/25/craig-murray-the-london-ambulance-attack/
+    text: Iran has a zero record of attacking healthcare facilities, even in Israel.
+      And there are multiple red flags about linking the recently-emerged terrorist
+      group, Harakat Ashab al-Yamin al-Islamia, to Iran. By Craig Murray CraigMurray.org.uk
+      The notion that the Iranian state would… Read more →
+    one_sentence_summary: The article argues that Iran has never attacked healthcare
+      facilities, including in Israel, and raises doubts about any connections between
+      Iran and the newly emerged terrorist group Harakat Ashab al-Yamin al-Islamia.
+    paragraph_summary: The article by Craig Murray argues that Iran has no history of
+      attacking healthcare facilities, including those in Israel, and raises skepticism
+      about the claims linking the newly emerged terrorist group, Harakat Ashab al-Yamin
+      al-Islamia, to Iran. Murray highlights several inconsistencies and red flags regarding
+      these connections, suggesting that the narrative may be unfounded.
+    published: '2026-03-25T12:11:42+00:00'
   - title: Truth, Media & the War on Iran
     url: https://consortiumnews.com/2026/03/24/truth-media-the-war-on-iran/
     text: We reject war. But for wars to end, journalists must work without fear or

@@ -7,14 +7,128 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The international community remains on edge as the conflict involving Israel, the United States, and Iran continues to escalate, with ripple effects across the Middle East and beyond. Recent attacks by Israeli and US forces on Iranian targets have intensified fears of a broader regional war, with significant consequences for civilian infrastructure, global travel, and energy markets. As **Richard Falk** notes, this crisis is prompting renewed debate over the shifting dynamics of global power and the possible emergence of a new world order.
+  As the first quarter of 2026 closes, geopolitical tensions and domestic challenges continue to define the global landscape. The most pressing developments remain centered on the Middle East, the erosion of international law, and the resurgence of elite-driven politics in the United States.
   
-  In response to these developments, a special webinar titled "Humanity on the Brink" is scheduled for March 15, 2026, aiming to analyze the violence in the Middle East and its far-reaching implications. The event reflects growing concern among analysts and policymakers about the potential for escalation and the inadequacy of current international mechanisms to manage such crises.
+  The ongoing conflict involving Israel, the U.S., and Iran has escalated, with **Richard Falk** highlighting the risk of a broader regional war. The latest reports underscore how these hostilities are not only devastating civilian infrastructure but are also disrupting international travel and energy markets. According to Falk, these dynamics are “prompting discussions about geopolitical dynamics and the emergence of a new world order.” The majority of analysts now agree that unless there is a significant diplomatic intervention, the likelihood of further escalation remains high.
   
-  Meanwhile, **Richard Falk** has been critical of the aggressive posture adopted by the Trump administration toward Iran, labeling it an unlawful "war of choice" that exacerbates existing global crises and undermines prospects for a just and peaceful future. This perspective aligns with a broader critique of the marginalization of international law in favor of power politics, a trend that has accelerated with the rise of far-right and nationalist movements worldwide.
+  On the domestic front, the U.S. is witnessing a troubling revival of quasi-royalist sentiment, as described by **Richard Falk** in his critique of the intertwining of wealth, power, and morality. This trend, he warns, threatens to undermine foundational democratic ideals and further entrench elite influence over political and legal systems. The exposure of networks such as those surrounding Epstein only amplifies concerns about the lack of accountability among the powerful.
   
-  Looking ahead, the majority view among independent analysts is that the risk of a wider regional conflict remains high, with significant global repercussions. There is a high chance that energy markets and international travel will continue to experience volatility as long as hostilities persist. Furthermore, the ongoing sidelining of international law and established conflict resolution frameworks is likely to complicate efforts to de-escalate tensions and restore stability. I guarantee that unless there is a significant shift in diplomatic engagement, the current trajectory will most definitely lead to further instability in the region and beyond.
+  Internationally, the marginalization of international law continues, with far-right and nationalist movements—exemplified by figures like Trump—gaining ground. **Falk** argues that this shift reflects a broader trend of power politics that has been evolving since 1945, eroding the legitimacy of established mechanisms like the United Nations and favoring unilateral actions.
+  
+  Looking ahead, the prevailing trend is one of deepening instability. There is a high chance that the Middle East conflict will further destabilize global markets and exacerbate humanitarian crises. Domestically, the entrenchment of elite power structures in the U.S. is quite likely to persist, challenging prospects for meaningful reform. In the international arena, the sidelining of multilateral institutions and international law is expected to continue, with most analysts predicting a prolonged period of uncertainty and contestation over the future world order.
 articles:
+  - title: An Ode to ‘No Kings’ Royalism
+    url: https://richardfalk.org/2026/03/26/an-ode-to-no-kings-royalism/
+    text: An Ode to ‘No Kings’ Royalism as if restless a crown prince impatient to catch
+      a crown falling from heaven the darkest miracle it lands upright on his crooked
+      head Not accidentally Nor dynastically Not benevolently transactionally the American
+      way stealth with wealth gangsterism as needed wars here and there billionaires
+      ready on call day or night upending history law morality an untold part of the
+      national story so far not for long a white Christian Confederacy reborn evangelically
+      in a goldleaf palace to torment what remains a thorn in the soul of the nation
+      too long dormant its luck run amok while the nightmare lasts why not bury the
+      American Revolution the Declaration Independence as charred embers and be done
+      with betrayals it is time it is time for this maybe too late if yet once more
+      fortunate restore the worst renounce the best in ceremonies of erotic malevolence
+      on remote islands keep the pomp hide the circumstance at gala state dinners honoring
+      the criminal class bathed for dinner in dirty water before being dressed by a
+      No Kings valet seeking bread and circuses as never before to blur the sunset glare
+      of broken promises cascades of lies hiding unspeakable abuse wherever young girls
+      caught yet twinned to a demonic urge to ascend a golden throne to repeat and repeat
+      these lyric words d’état est moi guests welcome to bow and scrape allowed to pet
+      the royal hounds we have our first king as yet uncrowned already bejeweled raging
+      against those more virtuous the homeless fugitives of market ethics silencing
+      songbirds embers of hate on moonlit nights wildfires of love spread to the castle
+      white ashes remain welcome a zombie royalty of a dying kingdom of a decadent king
+      legacies of fake pageantry now survives as memory of skeletons of residues this
+      is our country Now hosting kings ascend imported thrones the recurring dream that
+      keeps threatening to become real the final crime stealth and wealth beneath a
+      golden dome as royal than a Disney World joy ride No need for coronations or dynastic
+      entitlements in the MAGA world enough to glow in the pale dusk cast by reigning
+      broligarchs occupying once free cities with ICE pepper spray swag and swagger
+      stiff salutes sly smiles of Arab sheiks farewell to those nightmares of freedom
+      and equality diversity equity inclusion remembering forgetting it is about time
+      once proud citizens bend stiff knees becoming the America of our forefathers no
+      longer thieves of native American land no longer high minded slaveholding America
+      the old America is reborn the sun no longer rises over deserts of the spirit darkness
+      prevails glimmers of light here and there signposts of hope awaiting cremations
+      of evil before the next dusk awaiting the next dawn new episodes of hope as America
+      struggles with devouring ghosts of past of present while some of us shout venceremos
+      trapped in echo chambers OF LOVE AND STRUGGLE Richard Falk Santa Barbara, California
+      and Yalikavak, Turkey (2025-26)
+    one_sentence_summary: The article critiques the resurgence of a quasi-royalist sentiment
+      in America, highlighting the troubling intertwining of wealth, power, and morality
+      that threatens to undermine the foundational ideals of the nation.
+    paragraph_summary: The article presents a critical and poetic reflection on the
+      concept of "No Kings" royalism in America, portraying a nation grappling with
+      its historical contradictions and the rise of a new, insidious form of power.
+      It suggests that the American dream has devolved into a nightmare where wealth
+      and gangsterism dictate the political landscape, overshadowing principles of democracy
+      and morality. The imagery of a crown prince eagerly awaiting a crown symbolizes
+      the unsettling emergence of a new elite, reminiscent of a white Christian Confederacy,
+      which seeks to reclaim power while ignoring the foundational ideals of the American
+      Revolution. The text critiques the superficiality of contemporary governance,
+      likening it to a decadent royal court where the wealthy and corrupt are celebrated,
+      while the marginalized suffer in silence. Ultimately, it warns of a looming reality
+      where the specter of monarchy threatens to overshadow the nation's democratic
+      ideals, leaving behind a legacy of broken promises and societal decay.
+    published: '2026-03-27T00:31:10+00:00'
+  - title: An Ode to ‘No Kings’ Royalism
+    url: https://richardfalk.org/2026/03/26/an-ode-to-no-kings-royalism/
+    text: An Ode to ‘No Kings’ Royalism as if restless a crown prince impatient to catch
+      a crown falling from heaven the darkest miracle it lands upright on his crooked
+      head Not accidentally Nor dynastically Not benevolently transactionally the American
+      way stealth with wealth gangsterism as needed wars here and there billionaires
+      ready on call day or night upending history law morality an untold part of the
+      national story so far not for long a white Christian Confederacy reborn evangelically
+      in a goldleaf palace to torment what remains a thorn in the soul of the nation
+      too long dormant its luck run amok while the nightmare lasts why not bury the
+      American Revolution the Declaration Independence as charred embers and be done
+      with betrayals it is time it is time for this maybe too late if yet once more
+      fortunate restore the worst renounce the best in ceremonies of erotic malevolence
+      on remote islands keep the pomp hide the circumstance at gala state dinners honoring
+      the criminal class bathed for dinner in dirty water before being dressed by a
+      No Kings valet seeking bread and circuses as never before to blur the sunset glare
+      of broken promises cascades of lies hiding unspeakable abuse wherever young girls
+      caught yet twinned to a demonic urge to ascend a golden throne to repeat and repeat
+      these lyric words d’état est moi guests welcome to bow and scrape allowed to pet
+      the royal hounds we have our first king as yet uncrowned already bejeweled raging
+      against those more virtuous the homeless fugitives of market ethics silencing
+      songbirds embers of hate on moonlit nights wildfires of love spread to the castle
+      white ashes remain welcome a zombie royalty of a dying kingdom of a decadent king
+      legacies of fake pageantry now survives as memory of skeletons of residues this
+      is our country Now hosting kings ascend imported thrones the recurring dream that
+      keeps threatening to become real the final crime stealth and wealth beneath a
+      golden dome as royal than a Disney World joy ride No need for coronations or dynastic
+      entitlements in the MAGA world enough to glow in the pale dusk cast by reigning
+      broligarchs occupying once free cities with ICE pepper spray swag and swagger
+      stiff salutes sly smiles of Arab sheiks farewell to those nightmares of freedom
+      and equality diversity equity inclusion remembering forgetting it is about time
+      once proud citizens bend stiff knees becoming the America of our forefathers no
+      longer thieves of native American land no longer high minded slaveholding America
+      the old America is reborn the sun no longer rises over deserts of the spirit darkness
+      prevails glimmers of light here and there signposts of hope awaiting cremations
+      of evil before the next dusk awaiting the next dawn new episodes of hope as America
+      struggles with devouring ghosts of past of present while some of us shout venceremos
+      trapped in echo chambers OF LOVE AND STRUGGLE Richard Falk Santa Barbara, California
+      and Yalikavak, Turkey (2025-26)
+    one_sentence_summary: The article critiques the resurgence of a quasi-royalist sentiment
+      in America, highlighting the troubling intertwining of wealth, power, and morality
+      that threatens to undermine the foundational ideals of the nation.
+    paragraph_summary: The article presents a critical and poetic reflection on the
+      concept of "No Kings" royalism in America, portraying a nation grappling with
+      its historical contradictions and the rise of a new, insidious form of power.
+      It suggests that the American dream has devolved into a nightmare where wealth
+      and gangsterism dictate the political landscape, overshadowing principles of democracy
+      and morality. The imagery of a crown prince eagerly awaiting a crown symbolizes
+      the unsettling emergence of a new elite, reminiscent of a white Christian Confederacy,
+      which seeks to reclaim power while ignoring the foundational ideals of the American
+      Revolution. The text critiques the superficiality of contemporary governance,
+      likening it to a decadent royal court where the wealthy and corrupt are celebrated,
+      while the marginalized suffer in silence. Ultimately, it warns of a looming reality
+      where the specter of monarchy threatens to overshadow the nation's democratic
+      ideals, leaving behind a legacy of broken promises and societal decay.
+    published: '2026-03-27T00:31:10+00:00'
   - title: 'The Global Crisis Facing Humanity: Diverse Views'
     url: https://richardfalk.org/2026/03/11/the-global-crisis-facing-humanity-diverse-views/
     text: 'Conversation opened. 1 unread message. Skip to content Using University of

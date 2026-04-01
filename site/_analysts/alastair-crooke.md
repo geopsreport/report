@@ -7,25 +7,25 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As tensions in West Asia continue to escalate, the geopolitical landscape remains defined by the ongoing standoff between the U.S.-Israel axis and Iran, with broader implications for global power dynamics and energy security. Over the past 24 hours, new analysis has highlighted the increasing effectiveness of Iran’s asymmetric warfare strategy and the mounting challenges facing the U.S. and its allies.
+  As of April 1, 2026, the geopolitical landscape remains defined by the ongoing U.S.-Israeli confrontation with Iran, the transactional nature of U.S. foreign policy under President Trump, and the deepening crisis of trust within Western institutions. The most recent analyses highlight several key developments and trends.
   
-  **Iran’s Asymmetric Strategy Alters Regional Calculus**
+  **Iran’s Asymmetric Strategy and U.S. Limitations**
   
-  According to **Alastair Crooke**, Iran’s two-decade investment in asymmetric warfare is now bearing fruit, presenting a formidable obstacle to conventional U.S.-Israeli military tactics. Crooke notes that Iran’s resilience is not only military but also strategic, as Tehran seeks to shift the regional balance of power. “Iran’s long-planned asymmetric warfare strategy… poses a significant challenge to the conventional air-strike approach of the U.S. and Israel,” Crooke writes, emphasizing that Iran’s ability to target U.S. military infrastructure could have cascading effects on energy markets and U.S. interests, particularly with regard to China’s energy security.
+  Recent reports underscore Iran’s resilience in the face of sustained U.S. and Israeli pressure. According to **Alastair Crooke**, Iran’s two-decade investment in asymmetric warfare has “posed a significant challenge to the conventional air-strike approach of the U.S. and Israel,” with Tehran’s strategy now actively targeting U.S. military infrastructure across the region. This approach not only frustrates U.S. military planners but also threatens to shift the regional balance of power, particularly as Iran’s actions disrupt energy markets and undermine U.S. efforts to contain China and the BRICS bloc. Crooke notes that “if Iran survives and stays steadfast, Trump’s resource war on China and BRICS collapses,” suggesting that Iran’s endurance is pivotal to broader geopolitical outcomes.
   
-  **Diplomatic Deadlock and the Risk of Escalation**
+  **Transactional Diplomacy and Stalled Negotiations**
   
-  Recent failed negotiations between Washington and Tehran have further entrenched the risk of conflict. Crooke points out that the U.S.’s “unrealistic demands” in nuclear talks led to a breakdown in diplomacy, leaving military confrontation as a growing possibility. He highlights that the Trump administration’s approach is driven more by domestic political considerations and psychological imperatives than by coherent strategy, raising the risk of miscalculation.
+  Diplomatic efforts between the U.S. and Iran have faltered, with Crooke highlighting that “the U.S.'s unrealistic demands led to Iran's rejection” of nuclear disarmament talks. This impasse is driven more by domestic political considerations and psychological posturing than by coherent strategy, raising the risk of further escalation. The Trump administration’s preference for transactional, business-oriented deals—evident in both the Ukraine and Gaza reconstruction plans—has failed to resolve underlying conflicts and, in some cases, has exacerbated tensions with allies such as Israel.
   
-  **Global Repercussions: China and the BRICS Factor**
+  **Internal Western Instability and Crisis of Legitimacy**
   
-  The broader context involves the U.S. effort to assert dominance not only in West Asia but also in the global order, with China and the BRICS bloc emerging as key players. Crooke argues that if Iran withstands current pressures and maintains its stance, the U.S. campaign to contain China—particularly through resource and energy leverage—could falter. “If Iran survives and stays steadfast, Trump’s resource war on China and BRICS collapses,” Crooke asserts, suggesting that the resilience of Iran is now a critical variable in the wider contest for global influence.
+  Parallel to these external challenges, Western societies are experiencing a profound rupture between elites and the broader population. The fallout from the Epstein scandal, as analyzed by Crooke, has “exposed the moral decay and systemic corruption within Western elites,” fueling public disillusionment and a potential shift towards nihilism and authoritarianism. This internal instability threatens to undermine the legitimacy of Western institutions at a time when geopolitical competition is intensifying.
   
   **Trends and Predictions**
   
-  Looking ahead, the majority of independent analysis points to a continued stalemate, with high confidence that Iran will maintain its asymmetric posture and that the U.S. will struggle to achieve its objectives through either military or diplomatic means. The risk of escalation remains high, but a full-scale war is not guaranteed—there is a high chance that both sides will continue to probe and test each other’s resolve without crossing the threshold into open conflict. The energy markets and global alliances, especially involving China and the BRICS, will remain highly sensitive to developments in the region.
+  Looking ahead, the majority of sources agree that Iran’s asymmetric strategy will continue to frustrate U.S. and Israeli objectives, with a high chance of further disruption to regional stability and global energy flows. The transactional model of U.S. foreign policy is likely to persist, prioritizing short-term gains over long-term solutions, which could deepen rifts with traditional allies and complicate efforts to contain rivals like China and Russia. The internal crisis of legitimacy in the West is expected to intensify, with a high chance of increased political instability and social unrest.
   
-  In summary, the latest developments underscore a shifting regional balance, with Iran’s resilience and strategic patience complicating U.S. and Israeli ambitions. The situation remains volatile, with the potential for sudden escalation, but the prevailing trend is one of protracted contestation and strategic uncertainty.
+  In summary, the coming weeks will most definitely see continued volatility in West Asia, persistent diplomatic deadlock, and mounting internal pressures within Western societies. The resilience of Iran and the adaptability of U.S. policy will be decisive factors shaping the next phase of global geopolitics.
 articles:
   - title: Is Having No War Plan Trump’s ‘Plan’? – OpEd
     url: https://www.eurasiareview.com/16032026-is-having-no-war-plan-trumps-plan-oped/

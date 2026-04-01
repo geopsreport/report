@@ -7,16 +7,428 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The global geopolitical landscape remains highly volatile as the Iran war continues to escalate, driving significant economic and strategic consequences. The latest developments, as analyzed by **Jack Rasmus**, show that Israel’s recent attacks on Iranian gas fields have provoked direct Iranian retaliation against Gulf states, deepening the conflict and amplifying its impact on global markets.
+  As the US-Iran conflict intensifies and the Trump administration prepares for a potential ground war in Iran, global economic and geopolitical stability remain under severe strain. The situation has rapidly evolved over the past week, with new economic and military developments shaping the outlook.
   
-  The immediate effect has been a dramatic surge in crude oil and natural gas prices, which is now feeding into a broader economic crisis. Global stock markets are experiencing marked declines, and central banks are under increasing pressure to respond to inflationary shocks and supply chain disruptions. **Jack Rasmus** notes that “the economic crisis is rapidly escalating,” with food supply chains also coming under strain due to higher energy costs.
+  **Escalating Economic Risks Amid War Preparations**
   
-  The war’s economic repercussions are not limited to energy markets. Rising inflation, driven by oil price shocks, is forcing central banks—especially in the US and Europe—to consider further interest rate hikes, despite the risk of stalling already fragile economic recoveries. According to **Jack Rasmus**, these developments are “most definitely” setting the stage for a severe downturn in both the US and global economies.
+  The most recent analysis by **Jack Rasmus** highlights the precarious state of both the US and global economies as President Trump moves forward with plans for a ground invasion of Iran. Rising inflation, already a concern due to previous oil price shocks, is now compounded by the fragility of the private credit sector. Rasmus notes, “the complexities of monetary policy are deepening as central banks face mounting pressure from both inflation and financial instability.” The prospect of further escalation in Iran is seen as a direct threat to financial markets, with the private credit sector particularly vulnerable.
   
-  Financial markets, already vulnerable from previous asset bubbles, are now facing renewed contractions. The risk of a broader financial crisis is increasing, with **Jack Rasmus** warning that “there is a high chance” of a significant market implosion if current trends persist.
+  **Oil Price Shocks and Market Volatility**
   
-  Looking ahead, the majority view among analysts is that the Iran conflict will continue to drive instability in energy markets and global finance. Unless there is a rapid de-escalation, the world economy is likely to face sustained inflation, market volatility, and potential recession. The confidence level in these predictions is high, with **Jack Rasmus** stating, “I guarantee” that the economic fallout from the Iran war will be severe and prolonged if current dynamics remain unchanged.
+  The ongoing conflict has already triggered significant volatility in global markets. Following Trump’s threats to target Iran’s civilian nuclear infrastructure, oil prices spiked and stock market futures dropped sharply. Although Trump later announced a five-day extension on military action, citing supposed Iranian interest in negotiations (which Tehran denied), the uncertainty has only increased. According to **Jack Rasmus**, “the war is rapidly escalating an economic crisis characterized by soaring crude oil and natural gas prices, declining global stock markets, and increased pressure on central banks and food supply chains.”
+  
+  **Broader Geopolitical Implications**
+  
+  The war’s economic fallout is not limited to energy markets. Disruptions in global supply chains and rising interest rates are expected to have severe repercussions for both the US and the broader global economy. Rasmus warns of a high likelihood that “rising inflation due to oil price shocks, disruptions in global supply chains, and increased interest rates will negatively affect both the US and global economies.” The situation is further complicated by Israel’s attacks on Iranian gas fields and Iran’s retaliatory strikes against Gulf states, which have intensified the crisis.
+  
+  **Trends and Predictions**
+  
+  Looking ahead, the majority view among analysts is that the economic and geopolitical risks will continue to escalate as long as the conflict persists. There is a high chance that crude oil prices could reach or exceed $200 per barrel if military actions intensify, with cascading effects on inflation, jobs, and GDP worldwide. Rasmus expresses high confidence that “the current trajectory will most definitely undermine global economic stability if not reversed soon.”
+  
+  In summary, the convergence of military escalation and economic fragility is pushing the US and global economies toward a critical juncture. Unless there is a significant de-escalation, further shocks to energy markets and financial systems appear quite likely in the coming weeks.
 articles:
+  - title: US & Global Economy as Trump launches Iran Ground War
+    url: https://jackrasmus.com/2026/03/27/us-global-economies-in-wake-of-iran-ground-war/
+    text: 'Listen to my Friday March 27, 2026 Alternative Visions radio show presentation
+      on the current state of the US & Global economies and what happens when Trump
+      launches his ground war attack on Iran. https://alternativevisions.podbean.com/e/alternative-visions-3-27-26/
+      Radio Show Announcement: Today’s show reviews the condition of the US financial
+      and real economies as Trump and Zionists prepare for a ground war in Iran. The
+      fragility of the private credit sector in the US is reviewed, as contagion spreads
+      from AI to software companies to their private credit lenders. How multiple forces
+      are driving up inflation in the US economy now, not just from oil prices. The
+      impact of the Fed not cutting and about to raise interest rates. Why US rates
+      and monetary policy are negated by financialization and globalization. How a ground
+      war may lead to a US dollar decline and its repercussions on US inflation and
+      the US economy. Trump’s 15 point program to lure Iran into negotiations to buy
+      time. Iran’s 5 pt reply. Show concludes with latest developments in Ukraine drone
+      war.'
+    one_sentence_summary: The radio show discusses the precarious state of the US and
+      global economies amid rising inflation and the potential economic repercussions
+      of Trump's planned ground war in Iran, highlighting the fragility of the private
+      credit sector and the complexities of monetary policy.
+    paragraph_summary: In the March 27, 2026 episode of the Alternative Visions radio
+      show, the host discusses the precarious state of the US and global economies amid
+      rising tensions as Trump prepares for a ground war in Iran. The show highlights
+      the vulnerabilities within the US private credit sector, exacerbated by contagion
+      from the tech industry, and examines the multifaceted drivers of current inflation
+      beyond just oil prices. It also addresses the Federal Reserve's stance on interest
+      rates, noting that financialization and globalization undermine US monetary policy.
+      The potential consequences of a military conflict with Iran on the US dollar and
+      inflation are explored, alongside Trump's 15-point strategy to engage Iran in
+      negotiations and Iran's five-point response. The episode concludes with updates
+      on the ongoing drone conflict in Ukraine.
+    published: '2026-03-27T21:07:08+00:00'
+  - title: US & Global Economy as Trump launches Iran Ground War
+    url: https://jackrasmus.com/2026/03/27/us-global-economies-in-wake-of-iran-ground-war/
+    text: 'Listen to my Friday March 27, 2026 Alternative Visions radio show presentation
+      on the current state of the US & Global economies and what happens when Trump
+      launches his ground war attack on Iran. https://alternativevisions.podbean.com/e/alternative-visions-3-27-26/
+      Radio Show Announcement: Today’s show reviews the condition of the US financial
+      and real economies as Trump and Zionists prepare for a ground war in Iran. The
+      fragility of the private credit sector in the US is reviewed, as contagion spreads
+      from AI to software companies to their private credit lenders. How multiple forces
+      are driving up inflation in the US economy now, not just from oil prices. The
+      impact of the Fed not cutting and about to raise interest rates. Why US rates
+      and monetary policy are negated by financialization and globalization. How a ground
+      war may lead to a US dollar decline and its repercussions on US inflation and
+      the US economy. Trump’s 15 point program to lure Iran into negotiations to buy
+      time. Iran’s 5 pt reply. Show concludes with latest developments in Ukraine drone
+      war.'
+    one_sentence_summary: The radio show discusses the precarious state of the US and
+      global economies amid rising inflation and the potential economic repercussions
+      of Trump's planned ground war in Iran, highlighting the fragility of the private
+      credit sector and the complexities of monetary policy.
+    paragraph_summary: In the March 27, 2026 episode of the Alternative Visions radio
+      show, the host discusses the precarious state of the US and global economies amid
+      rising tensions as Trump prepares for a ground war in Iran. The show highlights
+      the vulnerabilities within the US private credit sector, exacerbated by contagion
+      from the tech industry, and examines the multifaceted drivers of current inflation
+      beyond just oil prices. It also addresses the Federal Reserve's stance on interest
+      rates, noting that financialization and globalization undermine US monetary policy.
+      The potential consequences of a military conflict with Iran on the US dollar and
+      inflation are explored, alongside Trump's 15-point strategy to engage Iran in
+      negotiations and Iran's five-point response. The episode concludes with updates
+      on the ongoing drone conflict in Ukraine.
+    published: '2026-03-27T21:07:08+00:00'
+  - title: How Will the US Military Invade Iran
+    url: https://jackrasmus.com/2026/03/24/how-will-the-us-military-invade-iran/
+    text: 'By Dr. Jack Rasmus Copyright 2026 This past weekend, Trump threatened to
+      escalate the War with Iran by destroying that country’s energy infrastructure
+      starting, as he said, “with the big one”. The ‘big one’ was no doubt a veiled
+      reference to Iran’s civilian nuclear plants. Iran’s Natanz nuclear plant had been
+      hit with a US missile a few days earlier as a warning. As he announced his plan
+      to destroy all of Iran’s civilian nuclear infrastructure, Trump further declared
+      Iran had 48 hours to capitulate before the US attack. The price of oil jumped
+      and stock market futures began to fall within 24 hours of Trump’s threat. Before
+      the 48 hours were up, on Monday morning, March 23, an hour before the US stock
+      markets opened, Trump announced Iran had approached him and asked for negotiations.
+      Therefore he, Trump, was now suspending the attack on Iran for five more days,
+      i.e. to the end of the current week. The five day extension had nothing to do
+      with negotiations, which Iran announced had never taken place. Trump made it up.
+      The five day extension was yet another move by Trump administration officials
+      to stabilize the US stock markets and the price of oil, both of which were set
+      to spike. Within hours of announcing his five day suspension on Monday, US oil
+      prices (WTI) fell $10 a barrel to $90 and stock markets opened higher after a
+      string of declines last week. Since the war began on February 28, Trump and various
+      administration officials have repeatedly said publicly that negotiations were
+      occurring, were showing progress, or even that the war was about to ‘end soon’,
+      as Trump himself declared. The pattern shows such false statements were, and remain,
+      mostly about keeping financial markets from falling too fast and to prevent oil
+      prices from rising too fast. But there’s another explanation for Trump’s about
+      face and his five day suspension of the US attack on Iran’s nuclear energy infrastructure.
+      That’s Trump’s buying time to get US military forces into the region in order
+      to launch a ground assault into Iran, to coincide with his plan to bomb Iran’s
+      nuclear and civilian energy infrastructure. Here’s some facts why the five day
+      suspension is really about buying time for much larger US military preparation.
+      The mainstream US media keeps reporting that a contingent of about 2,000 US marines
+      are en route by sea on the US landing ship, US Tripoli, coming from Asia to the
+      Persian Gulf. If we are to believe the media, the US intends to invade Iran with
+      just a couple battalions of Marines. The Marines plan to land in the Strait of
+      Hormuz area. The US will somehow seize the strait and allow oil tankers to sail
+      through it again. The media’s is also promoting the view that a second possible
+      landing target is Iran’s Kharg Island, where 90% of Iran’s crude oil is refined
+      and shipped. Kharg is close to the coast of Iran, well into the Persian Gulf’s
+      upper end and closer to Kuwait than to the Hormuz strait. The media refers to
+      Trump’s own social media posts where he mentions Kharg Island as a good target
+      for the Marines. Israel’s number one mouthpiece in the US Senate, Lindsey Graham,
+      gives daily press conferences during which he refers to taking Kharg Island as
+      well. But it’s all a deception. In fact, the entire 2000 Marines on the US Tripoli
+      may be a deception. That raises the question: Is the US actually planning an invasion
+      of Iran; and if so where if not Kharg Island or Hormuz? Sending 2000 Marines to
+      seize territory around Hormuz or Kharg Island is militarily a stupendous strategic
+      blunder in waiting should it be undertaken. It’s hard to imagine any senior US
+      military advisor recommending that. First, how would 2000 Marines get through
+      the Hormuz strait and sail up the Persian Gulf to assault Kharg Island? They would
+      be sitting ducks all the way, presuming they could even get through the strait.
+      Furthermore, could a mere 2000 hold Kharg if they were even able to land and seize
+      it? Marine battalions don’t carry radars and anti-missile batteries in their inventories.
+       They would be massively attacked by missiles and extremely difficult to re-supply.
+      The same applies to the other islands in the Hormuz strait, like Bander Abbas.
+      It takes only one Iranian missile to end the Tripoli and all its 2000 on board.
+      The fact that US officials, according to Trump and the media, publicly mention
+      Kharg Island and the Hormuz strait as landing targets should be an indicator there’s
+      no intention of occupying Kharg or other Islands in the strait. The US does not
+      discuss in public its military objectives. Therefore they are almost certainly
+      not the targets! There’s growing evidence, however, that when the US invasion
+      comes—and it is coming—the landing is likely to occur elsewhere the media or Trump
+      is not mentioning. There’s currently a massive US military build up underway,
+      blacked out by the media, involving more than just a Marine battalion. There’s
+      a traditional US military forces mobilization being sent to the region, more like
+      the build up that occurred in early 2003 before the Iraq war. Two US Airborne
+      divisions, the 82 nd and the 101 st , have been activated and are reportedly en
+      route to the region. So too are two US Army Ranger battalions. Another US Marine
+      brigade has left the US for the region but will take weeks to arrive. It will
+      likely relieve the first Marine force arriving on Friday. That’s a combined military
+      force of 20,000. And it’s been reported by some former US military officers that
+      they’ve been informed two traditional US Army divisions are being prepared to
+      go as well. That’s another 50,000. Saudi Arabia and UAE have indicated they will
+      join the coalition for an assault. That’s now a total force of more than 75,000
+      ground troops! No way they are going to land on Kharg or some other island in
+      the strait. The US media briefly indicated last week that US forces are leaving
+      the big US base in Baghdad, Iraq and redeploying to northern Iraq’s Kurd region,
+      which borders on northwest Iran. The US air force is redeploying air assets to
+      Turkey’s big Incirlik NATO air base, a mere 40 minute flight from northwest Iran.
+      When the Iran war first began in late February, there was much talk about the
+      Kurdish forces in northeast Iraq entering Iran. Azerbaijan was also indicated.
+      It is well known Azerbaijan is closely allied with Israel’s Mossad. It was a flight
+      back after visiting Azerbaijan some months ago that the former president of Iran
+      was mysteriously killed as both his helicopters were blown up in the air. In Iran’s
+      northwest there are large populations of Kurds and Azeris. But after a short reporting
+      by the media on the possibility of getting the Kurds to invade early in the war,
+      all the talk about an invasion by these US-Israel ‘allies’ from the northwest
+      went silent in the media. The northeast Kurdish region is also where US based
+      military formations formerly in Baghdad until last week are relocating. Is this
+      perhaps where the two US airborne divisions and two Ranger battalions might be
+      sent—i.e. instead of Kharg Island or Hormuz? Is a general ground invasion into
+      Iran from planned from the northwest? Possibly. Perhaps even likely.  Why? Because
+      it is geographically not very far from Teheran, the capital of Iran. From Kurdish
+      Mosul in northeast Iraq, and from Astara in Azerbaijan’s southernmost tip next
+      to Iran, it is less than 200 miles to Teheran in both cases. The Kurds and Azeris
+      might  seize and hold much of the northwest region of Iran where sizable ethnic
+      populations of Kurds and Azeris live. The combined forces of Kurds, Azeris, US
+      Rangers, US airborne could together invade.  The two full US Army divisions then
+      might land in Incirlik or Mosul in Kurdish Iraq and cross into Iran to provide
+      heavy armor follow up support for the invasion. Israel will not likely take part
+      in the coalition invasion. It is too busy invading its near neighbors: Lebanon,
+      Syria, Palestine (west bank), and GAZA. This is not to say for certain that Northwest
+      region of Iran and Teheran is the actual target for a US invasion. But it makes
+      more sense militarily than sending insufficient US Marine battalions on ships
+      into the Hormuz strait or deep into the Persian Gulf to Kharg Island. Or using
+      US Ranger and Airborne divisions to land either in Hormuz or Kharg. And certainly
+      not to mobilize two full armored Army divisions. Trump’s war objective is to destroy
+      the current government in Iran. The US objective has always been regime change.
+      He does not want a negotiated compromise. His talk about negotiations is therefore
+      a deception and a lie believed by only the most naïve or who get their information
+      from the mainstream US media. For Trump and the US empire, negotiations are just
+      a tactic and prelude to military action. The Iranians learned that twice, once
+      last June 2025 and on February 27, 2025. So did the Venezuelans. So have the Russians
+      in 2015, 2022, and, I would argue, since last August at Anchorage, Alaska. So
+      far the Trump goal of regime change in Iran has failed: The CIA engineered popular
+      uprising this past January-February was ill-timed, launched too early, and put
+      down by Iran completely. Nor has limited military action by the US and Israel
+      thus far—i.e. naval blockade, bombings, decapitation strikes, etc. Trump has therefore
+      decided on more massive, direct military invasion. All indications are Trump has
+      decided to roll the military invasion dice to try to bring the war to a conclusion
+      sooner rather than later.  He can’t afford to wait until summer. The deteriorating
+      US and global economy won’t allow it. Nor voters in the coming November elections.
+      The longer Iran can continue its missile war, the greater the threat to the US
+      and western economies. It doesn’t need to ‘win’. Just not to lose for another
+      three months. The economic impact will take its toll by then. Trump can try to
+      talk down the markets and spot oil prices in order to obfuscate the economic impact
+      of the war for a relatively short time further. But he knows he must escalate,
+      beyond traditional regime change CIA methods and/or limited military action, to
+      a direct military ground war. Or as they say, “boots on the ground.” And it looks
+      increasingly like that’s his plan sometime next weekend, or soon after. Perhaps
+      he should remember how ‘boots on the ground’ turned out the last time the US resorted
+      to invasion and direct military action in 2001-03 in Afghanistan and Iraq! Someone
+      should remind him the estimated $9 trillion dollars that it cost the US taxpayer,
+      its effect on the US economy and the paltry results produced. Perhaps he should
+      keep in mind US defense expenditures in 2001 were only $396 billion, US GDP that
+      year 4.1%, and the national debt $5.6 trillion costing $350 billion a year in
+      interest payments? And that a US land invasion war is happening on a US defense
+      spending of $1.1 trillion (plus another $200 billion requested by Defense Secretary
+      Hegseth and a further $400 billion by Trump himself), a US GDP of only 0.7% last
+      quarter, and a national debt exceeding $39 trillion and costing $1.2 trillion
+      in interest payments! The US Empire can no longer afford costly direct military
+      conflicts and invasions. Those days are over. Wars are always very expensive affairs.
+      And land invasion wars are especially expensive. The US empire could not afford
+      its last land invasions in 2001-03 that cost $9 trillion. Today it is in a far
+      worse condition economically to afford yet another direct military land invasion
+      in Iran. The US economy has already entered early stages of recession in 2026.
+      The only forces holding it up from a deeper contraction are Net Exports (mostly
+      falling imports due to tariffs) and an AI investment bubble that cannot continue.
+      Employment is now contracting and Inflation is beginning to surge along multiple
+      fronts. Stagflation is now rearing its ugly head. But Trump thinks it will all
+      be over quick, as his neocon advisors and Zionist campaign contributors and lobbyist
+      have no doubt assured him. And if it isn’t quick? Well, there’s always his plan
+      to try to overturn the upcoming November elections to save himself. So Buckle
+      up! It’s 2003 déjà vu. But this time the economic—and political—consequences will
+      prove far more disruptive and difficult to manage.'
+    one_sentence_summary: Dr. Jack Rasmus reports that Trump threatened to escalate
+      military action against Iran by targeting its civilian nuclear infrastructure,
+      causing a spike in oil prices and a drop in stock market futures, but later announced
+      a five-day extension on the attack after claiming Iran sought negotiations, which
+      Iran denied.
+    paragraph_summary: In a recent escalation of tensions, former President Trump threatened
+      to attack Iran's civilian nuclear infrastructure, referring to the Natanz nuclear
+      plant, which had already been targeted by a US missile. He demanded Iran capitulate
+      within 48 hours, causing a spike in oil prices and a drop in stock market futures.
+      However, just before the deadline, Trump announced a five-day suspension of the
+      attack, claiming Iran sought negotiations, a statement Iran denied. This extension
+      appears to be a strategy by Trump's administration to stabilize financial markets
+      and oil prices, rather than a genuine diplomatic effort, while also potentially
+      allowing time to position US military forces in the region.
+    published: '2026-03-25T06:49:39+00:00'
+  - title: How Will the US Military Invade Iran
+    url: https://jackrasmus.com/2026/03/24/how-will-the-us-military-invade-iran/
+    text: 'By Dr. Jack Rasmus Copyright 2026 This past weekend, Trump threatened to
+      escalate the War with Iran by destroying that country’s energy infrastructure
+      starting, as he said, “with the big one”. The ‘big one’ was no doubt a veiled
+      reference to Iran’s civilian nuclear plants. Iran’s Natanz nuclear plant had been
+      hit with a US missile a few days earlier as a warning. As he announced his plan
+      to destroy all of Iran’s civilian nuclear infrastructure, Trump further declared
+      Iran had 48 hours to capitulate before the US attack. The price of oil jumped
+      and stock market futures began to fall within 24 hours of Trump’s threat. Before
+      the 48 hours were up, on Monday morning, March 23, an hour before the US stock
+      markets opened, Trump announced Iran had approached him and asked for negotiations.
+      Therefore he, Trump, was now suspending the attack on Iran for five more days,
+      i.e. to the end of the current week. The five day extension had nothing to do
+      with negotiations, which Iran announced had never taken place. Trump made it up.
+      The five day extension was yet another move by Trump administration officials
+      to stabilize the US stock markets and the price of oil, both of which were set
+      to spike. Within hours of announcing his five day suspension on Monday, US oil
+      prices (WTI) fell $10 a barrel to $90 and stock markets opened higher after a
+      string of declines last week. Since the war began on February 28, Trump and various
+      administration officials have repeatedly said publicly that negotiations were
+      occurring, were showing progress, or even that the war was about to ‘end soon’,
+      as Trump himself declared. The pattern shows such false statements were, and remain,
+      mostly about keeping financial markets from falling too fast and to prevent oil
+      prices from rising too fast. But there’s another explanation for Trump’s about
+      face and his five day suspension of the US attack on Iran’s nuclear energy infrastructure.
+      That’s Trump’s buying time to get US military forces into the region in order
+      to launch a ground assault into Iran, to coincide with his plan to bomb Iran’s
+      nuclear and civilian energy infrastructure. Here’s some facts why the five day
+      suspension is really about buying time for much larger US military preparation.
+      The mainstream US media keeps reporting that a contingent of about 2,000 US marines
+      are en route by sea on the US landing ship, US Tripoli, coming from Asia to the
+      Persian Gulf. If we are to believe the media, the US intends to invade Iran with
+      just a couple battalions of Marines. The Marines plan to land in the Strait of
+      Hormuz area. The US will somehow seize the strait and allow oil tankers to sail
+      through it again. The media’s is also promoting the view that a second possible
+      landing target is Iran’s Kharg Island, where 90% of Iran’s crude oil is refined
+      and shipped. Kharg is close to the coast of Iran, well into the Persian Gulf’s
+      upper end and closer to Kuwait than to the Hormuz strait. The media refers to
+      Trump’s own social media posts where he mentions Kharg Island as a good target
+      for the Marines. Israel’s number one mouthpiece in the US Senate, Lindsey Graham,
+      gives daily press conferences during which he refers to taking Kharg Island as
+      well. But it’s all a deception. In fact, the entire 2000 Marines on the US Tripoli
+      may be a deception. That raises the question: Is the US actually planning an invasion
+      of Iran; and if so where if not Kharg Island or Hormuz? Sending 2000 Marines to
+      seize territory around Hormuz or Kharg Island is militarily a stupendous strategic
+      blunder in waiting should it be undertaken. It’s hard to imagine any senior US
+      military advisor recommending that. First, how would 2000 Marines get through
+      the Hormuz strait and sail up the Persian Gulf to assault Kharg Island? They would
+      be sitting ducks all the way, presuming they could even get through the strait.
+      Furthermore, could a mere 2000 hold Kharg if they were even able to land and seize
+      it? Marine battalions don’t carry radars and anti-missile batteries in their inventories.
+       They would be massively attacked by missiles and extremely difficult to re-supply.
+      The same applies to the other islands in the Hormuz strait, like Bander Abbas.
+      It takes only one Iranian missile to end the Tripoli and all its 2000 on board.
+      The fact that US officials, according to Trump and the media, publicly mention
+      Kharg Island and the Hormuz strait as landing targets should be an indicator there’s
+      no intention of occupying Kharg or other Islands in the strait. The US does not
+      discuss in public its military objectives. Therefore they are almost certainly
+      not the targets! There’s growing evidence, however, that when the US invasion
+      comes—and it is coming—the landing is likely to occur elsewhere the media or Trump
+      is not mentioning. There’s currently a massive US military build up underway,
+      blacked out by the media, involving more than just a Marine battalion. There’s
+      a traditional US military forces mobilization being sent to the region, more like
+      the build up that occurred in early 2003 before the Iraq war. Two US Airborne
+      divisions, the 82 nd and the 101 st , have been activated and are reportedly en
+      route to the region. So too are two US Army Ranger battalions. Another US Marine
+      brigade has left the US for the region but will take weeks to arrive. It will
+      likely relieve the first Marine force arriving on Friday. That’s a combined military
+      force of 20,000. And it’s been reported by some former US military officers that
+      they’ve been informed two traditional US Army divisions are being prepared to
+      go as well. That’s another 50,000. Saudi Arabia and UAE have indicated they will
+      join the coalition for an assault. That’s now a total force of more than 75,000
+      ground troops! No way they are going to land on Kharg or some other island in
+      the strait. The US media briefly indicated last week that US forces are leaving
+      the big US base in Baghdad, Iraq and redeploying to northern Iraq’s Kurd region,
+      which borders on northwest Iran. The US air force is redeploying air assets to
+      Turkey’s big Incirlik NATO air base, a mere 40 minute flight from northwest Iran.
+      When the Iran war first began in late February, there was much talk about the
+      Kurdish forces in northeast Iraq entering Iran. Azerbaijan was also indicated.
+      It is well known Azerbaijan is closely allied with Israel’s Mossad. It was a flight
+      back after visiting Azerbaijan some months ago that the former president of Iran
+      was mysteriously killed as both his helicopters were blown up in the air. In Iran’s
+      northwest there are large populations of Kurds and Azeris. But after a short reporting
+      by the media on the possibility of getting the Kurds to invade early in the war,
+      all the talk about an invasion by these US-Israel ‘allies’ from the northwest
+      went silent in the media. The northeast Kurdish region is also where US based
+      military formations formerly in Baghdad until last week are relocating. Is this
+      perhaps where the two US airborne divisions and two Ranger battalions might be
+      sent—i.e. instead of Kharg Island or Hormuz? Is a general ground invasion into
+      Iran from planned from the northwest? Possibly. Perhaps even likely.  Why? Because
+      it is geographically not very far from Teheran, the capital of Iran. From Kurdish
+      Mosul in northeast Iraq, and from Astara in Azerbaijan’s southernmost tip next
+      to Iran, it is less than 200 miles to Teheran in both cases. The Kurds and Azeris
+      might  seize and hold much of the northwest region of Iran where sizable ethnic
+      populations of Kurds and Azeris live. The combined forces of Kurds, Azeris, US
+      Rangers, US airborne could together invade.  The two full US Army divisions then
+      might land in Incirlik or Mosul in Kurdish Iraq and cross into Iran to provide
+      heavy armor follow up support for the invasion. Israel will not likely take part
+      in the coalition invasion. It is too busy invading its near neighbors: Lebanon,
+      Syria, Palestine (west bank), and GAZA. This is not to say for certain that Northwest
+      region of Iran and Teheran is the actual target for a US invasion. But it makes
+      more sense militarily than sending insufficient US Marine battalions on ships
+      into the Hormuz strait or deep into the Persian Gulf to Kharg Island. Or using
+      US Ranger and Airborne divisions to land either in Hormuz or Kharg. And certainly
+      not to mobilize two full armored Army divisions. Trump’s war objective is to destroy
+      the current government in Iran. The US objective has always been regime change.
+      He does not want a negotiated compromise. His talk about negotiations is therefore
+      a deception and a lie believed by only the most naïve or who get their information
+      from the mainstream US media. For Trump and the US empire, negotiations are just
+      a tactic and prelude to military action. The Iranians learned that twice, once
+      last June 2025 and on February 27, 2025. So did the Venezuelans. So have the Russians
+      in 2015, 2022, and, I would argue, since last August at Anchorage, Alaska. So
+      far the Trump goal of regime change in Iran has failed: The CIA engineered popular
+      uprising this past January-February was ill-timed, launched too early, and put
+      down by Iran completely. Nor has limited military action by the US and Israel
+      thus far—i.e. naval blockade, bombings, decapitation strikes, etc. Trump has therefore
+      decided on more massive, direct military invasion. All indications are Trump has
+      decided to roll the military invasion dice to try to bring the war to a conclusion
+      sooner rather than later.  He can’t afford to wait until summer. The deteriorating
+      US and global economy won’t allow it. Nor voters in the coming November elections.
+      The longer Iran can continue its missile war, the greater the threat to the US
+      and western economies. It doesn’t need to ‘win’. Just not to lose for another
+      three months. The economic impact will take its toll by then. Trump can try to
+      talk down the markets and spot oil prices in order to obfuscate the economic impact
+      of the war for a relatively short time further. But he knows he must escalate,
+      beyond traditional regime change CIA methods and/or limited military action, to
+      a direct military ground war. Or as they say, “boots on the ground.” And it looks
+      increasingly like that’s his plan sometime next weekend, or soon after. Perhaps
+      he should remember how ‘boots on the ground’ turned out the last time the US resorted
+      to invasion and direct military action in 2001-03 in Afghanistan and Iraq! Someone
+      should remind him the estimated $9 trillion dollars that it cost the US taxpayer,
+      its effect on the US economy and the paltry results produced. Perhaps he should
+      keep in mind US defense expenditures in 2001 were only $396 billion, US GDP that
+      year 4.1%, and the national debt $5.6 trillion costing $350 billion a year in
+      interest payments? And that a US land invasion war is happening on a US defense
+      spending of $1.1 trillion (plus another $200 billion requested by Defense Secretary
+      Hegseth and a further $400 billion by Trump himself), a US GDP of only 0.7% last
+      quarter, and a national debt exceeding $39 trillion and costing $1.2 trillion
+      in interest payments! The US Empire can no longer afford costly direct military
+      conflicts and invasions. Those days are over. Wars are always very expensive affairs.
+      And land invasion wars are especially expensive. The US empire could not afford
+      its last land invasions in 2001-03 that cost $9 trillion. Today it is in a far
+      worse condition economically to afford yet another direct military land invasion
+      in Iran. The US economy has already entered early stages of recession in 2026.
+      The only forces holding it up from a deeper contraction are Net Exports (mostly
+      falling imports due to tariffs) and an AI investment bubble that cannot continue.
+      Employment is now contracting and Inflation is beginning to surge along multiple
+      fronts. Stagflation is now rearing its ugly head. But Trump thinks it will all
+      be over quick, as his neocon advisors and Zionist campaign contributors and lobbyist
+      have no doubt assured him. And if it isn’t quick? Well, there’s always his plan
+      to try to overturn the upcoming November elections to save himself. So Buckle
+      up! It’s 2003 déjà vu. But this time the economic—and political—consequences will
+      prove far more disruptive and difficult to manage.'
+    one_sentence_summary: Dr. Jack Rasmus reports that Trump threatened to escalate
+      military action against Iran by targeting its civilian nuclear infrastructure,
+      causing a spike in oil prices and a drop in stock market futures, but later announced
+      a five-day extension on the attack after claiming Iran sought negotiations, which
+      Iran denied.
+    paragraph_summary: In a recent escalation of tensions, former President Trump threatened
+      to attack Iran's civilian nuclear infrastructure, referring to the Natanz nuclear
+      plant, which had already been targeted by a US missile. He demanded Iran capitulate
+      within 48 hours, causing a spike in oil prices and a drop in stock market futures.
+      However, just before the deadline, Trump announced a five-day suspension of the
+      attack, claiming Iran sought negotiations, a statement Iran denied. This extension
+      appears to be a strategy by Trump's administration to stabilize financial markets
+      and oil prices, rather than a genuine diplomatic effort, while also potentially
+      allowing time to position US military forces in the region.
+    published: '2026-03-25T06:49:39+00:00'
   - title: 'How Oil Price Shock Is Undermining the Global Economy: An Update'
     url: https://jackrasmus.com/2026/03/21/how-oil-price-shock-is-undermining-the-global-economy-an-update/
     text: 'Two days ago I wrote an extended article, ‘Some Economic Consequences of
