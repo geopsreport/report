@@ -7,14 +7,2032 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The evolving conflict in southern Lebanon continues to draw attention, as both Israel and Hezbollah adapt their military doctrines in response to shifting realities on the ground. Recent reports highlight a significant transformation in operational strategies, with **Elijah J. Magnier** noting that “Israeli forces struggle to maintain control despite their numerical advantage and face increasing losses that challenge the narrative of Hezbollah's defeat.” This assessment is echoed across multiple sources, which point to a growing gap between Israel’s stated objectives and actual battlefield outcomes.
+  The ongoing conflict between the U.S., Israel, and Iran has entered a precarious phase, with both Washington and Tehran publicly claiming victory, yet neither side achieving its strategic objectives. As **Elijah J. Magnier** notes, Israel remains under sustained Iranian bombardment and has failed to dismantle Iranian influence or disarm Hezbollah—key goals set at the outset of hostilities. This stalemate has left Israeli Prime Minister Benjamin Netanyahu politically exposed, with his inability to secure a decisive win fueling domestic and international criticism.
   
-  The Israeli military, while still possessing superior resources, is encountering unexpected resistance and operational setbacks. **Magnier** underlines that “losses, though limited, call into question the official narrative of victory over Hezbollah and reveal operational difficulties for Israeli forces.” The fluid tactics employed by Hezbollah—characterized by mobility and denial—have complicated Israel’s efforts to secure and hold territory in the south.
+  The most recent development is the announcement of a two-week ceasefire, which, according to **Magnier**, is less a sign of resolution and more an indicator of exhaustion and strategic deadlock. Despite the ceasefire, there is significant concern that Netanyahu, facing mounting political pressure, may seek to disrupt the fragile truce in an attempt to regain lost ground or shift the narrative. The ceasefire itself is seen as a temporary measure, with both sides regrouping rather than genuinely seeking a long-term settlement.
   
-  Meanwhile, the broader regional context remains marked by strategic ambiguity and shifting alliances. The so-called Axis of the Resistance, which includes Hezbollah, Iran, and other aligned actors, is still grappling with the challenge of moving from a deterrence-based narrative to actual coordinated military action. While skepticism persists regarding the Axis’s ability to achieve true operational cohesion, the ongoing developments in Lebanon suggest a degree of tactical innovation and adaptability.
+  Meanwhile, the U.S. and Israel’s initial strategy—a rapid, overwhelming assault on Iran—has failed to deliver the anticipated quick victory. Instead, the conflict has devolved into a war of attrition, with ultimatums and threats replacing earlier confidence. As previously reported, President Trump has escalated his rhetoric, threatening the destruction of Iranian infrastructure should Tehran fail to comply with American demands.
   
-  Looking ahead, the majority of analysts, including **Magnier**, assess with high confidence that the current pattern of attritional warfare and doctrinal evolution will persist. Israeli forces are unlikely to achieve a decisive victory in the near term, and Hezbollah’s capacity for flexible, denial-based operations is expected to continue undermining Israeli objectives. The situation remains fluid, but the prevailing trend points toward a protracted conflict with no clear resolution on the horizon. I guarantee that both sides will continue to adapt, but a strategic breakthrough is most definitely not imminent.
+  Looking ahead, the prevailing trend is one of uncertainty and continued volatility. The majority of analysts, including **Magnier**, agree that the ceasefire is unlikely to hold without significant diplomatic intervention, and there is a high chance that hostilities could resume if political or military calculations shift in either camp. Given the current dynamics, it is quite likely that the region will remain unstable in the near term, with no clear path to a comprehensive resolution.
 articles:
+  - title: 'Das Duo hat den Krieg begonnen, und es muss ihn beenden: Ein zweiwöchiger
+      Waffenstillstand'
+    url: https://ejmagnier.com/2026/04/08/das-duo-hat-den-krieg-begonnen-und-es-muss-ihn-beenden-ein-zweiwochiger-waffenstillstand/
+    text: 'Von Elijah J. Magnier – Normalerweise wird der Sieg verkündet, wenn der Krieg
+      mit einer siegreichen und einer besiegten Seite endet. Die Vereinigten Staaten
+      und der Iran beanspruchen jedoch beide den Sieg für sich, doch in Israel, wo mit
+      den ersten Lichtstrahlen des Tages weiterhin iranische Bomben fallen, sieht die
+      Lage ganz anders aus. Washington und Teheran behaupten, ihre Ziele erreicht zu
+      haben, doch Israels übergeordnetes Ziel war weitaus ehrgeiziger: die Zerstörung
+      des iranischen Herrschaftssystems – genau jenes Systems, mit dem Washington nun
+      verhandelt. Jeder Waffenstillstand an allen Fronten, einschließlich des Libanon,
+      ist daher für Benjamin Netanjahu politisch gefährlich. Im Inland droht er nach
+      hinten loszugehen, da er eines seiner zentralen erklärten Ziele nicht erreicht
+      hat: die Entwaffnung der Hisbollah, die heute festgefahrener und kampferprobter
+      erscheint als zuvor. Dieses Scheitern macht Netanjahu im Inland angreifbar und
+      eröffnet die Möglichkeit, dass er versuchen könnte, die derzeitige zweiwöchige
+      Waffenstillstandsvereinbarung zu untergraben oder zu sabotieren. Israel gab bekannt,
+      dass ein Telefongespräch zwischen Donald Trump und Benjamin Netanjahu stattfand,
+      legte dessen Inhalt jedoch nicht offen. Der Teufel steckt wie immer im Detail.
+      Unter solchen Umständen ist Vorsicht geboten. Ein Waffenstillstand auf dem Papier
+      ist noch kein gefestigter Frieden, insbesondere wenn einer der Hauptakteure eine
+      fortgesetzte Eskalation als politisch sicherer ansieht als einen Kompromiss. Es
+      ist jedoch sicher, dass dieselben Punkte, die zu einem Waffenstillstand führten,
+      ohne Krieg leicht hätten erreicht werden können. Der Zeitpunkt der Botschaft aus
+      Washington war besonders aufschlussreich. Etwa neunzig Minuten vor Ablauf von
+      Trumps Ultimatum zur Zerstörung der gesamten iranischen Infrastruktur erklärte
+      die Pressesprecherin des Weißen Hauses, Karoline Leavitt, Trump habe seine zentralen
+      militärischen Ziele in nur 38 Tagen „erreicht und übertroffen“. Sie stellte die
+      US-Operation als Sieg dar, sagte, der militärische Erfolg habe „maximalen Druck“
+      für harte Verhandlungen geschaffen, und behauptete, Trump habe die Wiederöffnung
+      der Straße von Hormus gesichert. Gleichzeitig deuteten Medienberichte, die von
+      Washington nicht dementiert wurden, auf eine inoffizielle Zustimmung der USA zu
+      einem über Pakistan vorgeschlagenen zweiwöchigen Waffenstillstand hin. Der Iran
+      signalisierte, dass er bereit sei, positiv zu reagieren, auf der Grundlage von
+      zehn Punkten, die über den Vermittler an die Vereinigten Staaten übermittelt worden
+      waren. Die Bedeutung war klar: Nachdem Washington den Krieg begonnen und mit totaler
+      Zerstörung gedroht hatte, bewegte es sich auf einen Waffenstillstand zu, während
+      es versuchte, diesen Kurswechsel als Beweis für den Erfolg darzustellen und nicht
+      als Eingeständnis, dass die Eskalation ihre Grenze erreicht hatte. Laut der halboffiziellen
+      iranischen Nachrichtenagentur Tasnim basierte Teherans vorgeschlagener Rahmen
+      zur Beendigung des Krieges auf zehn Punkten, die über den Vermittler an Washington
+      weitergeleitet wurden: eine grundsätzliche Verpflichtung der USA, Nichtangriff
+      zu garantieren; die fortgesetzte iranische Kontrolle über die Straße von Hormus;
+      die Akzeptanz der Urananreicherung; die Aufhebung aller Primärsanktionen; die
+      Aufhebung aller Sekundärsanktionen; die Aufhebung aller Resolutionen des UN-Sicherheitsrats;
+      die Aufhebung aller Resolutionen des Gouverneursrats der Internationalen Atomenergie-Organisation;
+      die Zahlung von Entschädigungen an den Iran; den Abzug der US-Kampftruppen aus
+      der Region; und die Einstellung der Kriegshandlungen an allen Fronten, einschließlich
+      gegen das, was der Iran als Widerstand im Libanon bezeichnet. Ob all diese Bedingungen
+      verhandelbar oder akzeptabel sind, ist eine andere Frage. Politisch gesehen ist
+      entscheidend, dass Teheran auf die Drohung der totalen Zerstörung nicht mit Kapitulation
+      reagierte, sondern mit einem strukturierten Katalog von Bedingungen zur Beendigung
+      des Krieges unter Wahrung seiner Souveränität, seiner strategischen Position und
+      seiner regionalen Rolle. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: In einem komplexen geopolitischen Konflikt beanspruchen sowohl
+      die USA als auch der Iran den Sieg, während Israel, das weiterhin unter iranischen
+      Bomben leidet, mit dem Scheitern seiner ambitionierten Ziele, insbesondere der
+      Zerschlagung des iranischen Einflusses und der Entwaffnung der Hisbollah, konfrontiert
+      ist, was Premierminister Netanjahu politisch gefährdet.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die komplexe Situation
+      zwischen den USA, dem Iran und Israel nach einem Konflikt beleuchtet, in dem beide
+      Seiten ihren Sieg proklamieren, während Israel weiterhin unter iranischen Bombenangriffen
+      leidet. Während Washington und Teheran behaupten, ihre Ziele erreicht zu haben,
+      bleibt Israels ambitioniertes Ziel, das iranische Herrschaftssystem zu zerstören,
+      unerfüllt, was Premierminister Benjamin Netanjahu politisch angreifbar macht.
+      Die Unfähigkeit, die Hisbollah zu entwaffnen, könnte Netanjahu dazu verleiten,
+      den aktuellen Waffenstillstand zu untergraben. Zudem wird auf ein Telefongespräch
+      zwischen Trump und Netanjahu hingewiesen, dessen Inhalt unklar bleibt, was die
+      Unsicherheit über den Frieden verstärkt. Magnier warnt, dass ein Waffenstillstand
+      auf dem Papier nicht unbedingt einen stabilen Frieden bedeutet, insbesondere wenn
+      eine Eskalation als politisch vorteilhafter angesehen wird.
+    published: '2026-04-08T04:39:55+00:00'
+  - title: 'Das Duo hat den Krieg begonnen, und es muss ihn beenden: Ein zweiwöchiger
+      Waffenstillstand'
+    url: https://ejmagnier.com/2026/04/08/das-duo-hat-den-krieg-begonnen-und-es-muss-ihn-beenden-ein-zweiwochiger-waffenstillstand/
+    text: 'Von Elijah J. Magnier – Normalerweise wird der Sieg verkündet, wenn der Krieg
+      mit einer siegreichen und einer besiegten Seite endet. Die Vereinigten Staaten
+      und der Iran beanspruchen jedoch beide den Sieg für sich, doch in Israel, wo mit
+      den ersten Lichtstrahlen des Tages weiterhin iranische Bomben fallen, sieht die
+      Lage ganz anders aus. Washington und Teheran behaupten, ihre Ziele erreicht zu
+      haben, doch Israels übergeordnetes Ziel war weitaus ehrgeiziger: die Zerstörung
+      des iranischen Herrschaftssystems – genau jenes Systems, mit dem Washington nun
+      verhandelt. Jeder Waffenstillstand an allen Fronten, einschließlich des Libanon,
+      ist daher für Benjamin Netanjahu politisch gefährlich. Im Inland droht er nach
+      hinten loszugehen, da er eines seiner zentralen erklärten Ziele nicht erreicht
+      hat: die Entwaffnung der Hisbollah, die heute festgefahrener und kampferprobter
+      erscheint als zuvor. Dieses Scheitern macht Netanjahu im Inland angreifbar und
+      eröffnet die Möglichkeit, dass er versuchen könnte, die derzeitige zweiwöchige
+      Waffenstillstandsvereinbarung zu untergraben oder zu sabotieren. Israel gab bekannt,
+      dass ein Telefongespräch zwischen Donald Trump und Benjamin Netanjahu stattfand,
+      legte dessen Inhalt jedoch nicht offen. Der Teufel steckt wie immer im Detail.
+      Unter solchen Umständen ist Vorsicht geboten. Ein Waffenstillstand auf dem Papier
+      ist noch kein gefestigter Frieden, insbesondere wenn einer der Hauptakteure eine
+      fortgesetzte Eskalation als politisch sicherer ansieht als einen Kompromiss. Es
+      ist jedoch sicher, dass dieselben Punkte, die zu einem Waffenstillstand führten,
+      ohne Krieg leicht hätten erreicht werden können. Der Zeitpunkt der Botschaft aus
+      Washington war besonders aufschlussreich. Etwa neunzig Minuten vor Ablauf von
+      Trumps Ultimatum zur Zerstörung der gesamten iranischen Infrastruktur erklärte
+      die Pressesprecherin des Weißen Hauses, Karoline Leavitt, Trump habe seine zentralen
+      militärischen Ziele in nur 38 Tagen „erreicht und übertroffen“. Sie stellte die
+      US-Operation als Sieg dar, sagte, der militärische Erfolg habe „maximalen Druck“
+      für harte Verhandlungen geschaffen, und behauptete, Trump habe die Wiederöffnung
+      der Straße von Hormus gesichert. Gleichzeitig deuteten Medienberichte, die von
+      Washington nicht dementiert wurden, auf eine inoffizielle Zustimmung der USA zu
+      einem über Pakistan vorgeschlagenen zweiwöchigen Waffenstillstand hin. Der Iran
+      signalisierte, dass er bereit sei, positiv zu reagieren, auf der Grundlage von
+      zehn Punkten, die über den Vermittler an die Vereinigten Staaten übermittelt worden
+      waren. Die Bedeutung war klar: Nachdem Washington den Krieg begonnen und mit totaler
+      Zerstörung gedroht hatte, bewegte es sich auf einen Waffenstillstand zu, während
+      es versuchte, diesen Kurswechsel als Beweis für den Erfolg darzustellen und nicht
+      als Eingeständnis, dass die Eskalation ihre Grenze erreicht hatte. Laut der halboffiziellen
+      iranischen Nachrichtenagentur Tasnim basierte Teherans vorgeschlagener Rahmen
+      zur Beendigung des Krieges auf zehn Punkten, die über den Vermittler an Washington
+      weitergeleitet wurden: eine grundsätzliche Verpflichtung der USA, Nichtangriff
+      zu garantieren; die fortgesetzte iranische Kontrolle über die Straße von Hormus;
+      die Akzeptanz der Urananreicherung; die Aufhebung aller Primärsanktionen; die
+      Aufhebung aller Sekundärsanktionen; die Aufhebung aller Resolutionen des UN-Sicherheitsrats;
+      die Aufhebung aller Resolutionen des Gouverneursrats der Internationalen Atomenergie-Organisation;
+      die Zahlung von Entschädigungen an den Iran; den Abzug der US-Kampftruppen aus
+      der Region; und die Einstellung der Kriegshandlungen an allen Fronten, einschließlich
+      gegen das, was der Iran als Widerstand im Libanon bezeichnet. Ob all diese Bedingungen
+      verhandelbar oder akzeptabel sind, ist eine andere Frage. Politisch gesehen ist
+      entscheidend, dass Teheran auf die Drohung der totalen Zerstörung nicht mit Kapitulation
+      reagierte, sondern mit einem strukturierten Katalog von Bedingungen zur Beendigung
+      des Krieges unter Wahrung seiner Souveränität, seiner strategischen Position und
+      seiner regionalen Rolle. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: In einem komplexen geopolitischen Konflikt beanspruchen sowohl
+      die USA als auch der Iran den Sieg, während Israel, das weiterhin unter iranischen
+      Bomben leidet, mit dem Scheitern seiner ambitionierten Ziele, insbesondere der
+      Zerschlagung des iranischen Einflusses und der Entwaffnung der Hisbollah, konfrontiert
+      ist, was Premierminister Netanjahu politisch gefährdet.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die komplexe Situation
+      zwischen den USA, dem Iran und Israel nach einem Konflikt beleuchtet, in dem beide
+      Seiten ihren Sieg proklamieren, während Israel weiterhin unter iranischen Bombenangriffen
+      leidet. Während Washington und Teheran behaupten, ihre Ziele erreicht zu haben,
+      bleibt Israels ambitioniertes Ziel, das iranische Herrschaftssystem zu zerstören,
+      unerfüllt, was Premierminister Benjamin Netanjahu politisch angreifbar macht.
+      Die Unfähigkeit, die Hisbollah zu entwaffnen, könnte Netanjahu dazu verleiten,
+      den aktuellen Waffenstillstand zu untergraben. Zudem wird auf ein Telefongespräch
+      zwischen Trump und Netanjahu hingewiesen, dessen Inhalt unklar bleibt, was die
+      Unsicherheit über den Frieden verstärkt. Magnier warnt, dass ein Waffenstillstand
+      auf dem Papier nicht unbedingt einen stabilen Frieden bedeutet, insbesondere wenn
+      eine Eskalation als politisch vorteilhafter angesehen wird.
+    published: '2026-04-08T04:39:55+00:00'
+  - title: 'Le duo a commencé la guerre et doit y mettre fin : un cessez-le-feu de deux
+      semaines'
+    url: https://ejmagnier.com/2026/04/08/le-duo-a-commence-la-guerre-et-doit-y-mettre-fin-un-cessez-le-feu-de-deux-semaines/
+    text: 'Par Elijah J. Magnier – La victoire est normalement annoncée lorsqu’une guerre
+      se termine avec un vainqueur et un vaincu. Pourtant, les États-Unis et l’Iran
+      revendiquent tous deux la victoire, mais en Israël, où les bombes iraniennes continuent
+      de tomber aux premières lueurs du jour, le tableau est très différent. Washington
+      et Téhéran affirment avoir atteint leurs objectifs, alors que l’objectif plus
+      large d’Israël était bien plus ambitieux : la destruction du système dirigeant
+      iranien, ce même système avec lequel Washington négocie aujourd’hui. Tout cessez-le-feu
+      sur l’ensemble des fronts, y compris au Liban, est donc politiquement dangereux
+      pour Benjamin Netanyahu. Sur le plan intérieur, cela risque de se retourner contre
+      lui, car il n’a pas réussi à atteindre l’un de ses objectifs centraux affichés
+      : le désarmement du Hezbollah, qui apparaît aujourd’hui plus enraciné et aguerri
+      que jamais. Cet échec fragilise Netanyahu sur le plan intérieur et ouvre la possibilité
+      qu’il tente de saper ou de saboter l’actuel arrangement de cessez-le-feu de deux
+      semaines. Israël a annoncé qu’un entretien téléphonique avait eu lieu entre Donald
+      Trump et Benjamin Netanyahu, sans en révéler le contenu. Le diable, comme toujours,
+      se cache dans les détails. Dans de telles circonstances, la prudence s’impose.
+      Un cessez-le-feu sur le papier n’est pas encore une paix établie, surtout lorsque
+      l’un des principaux acteurs peut considérer que la poursuite de l’escalade est
+      politiquement plus sûre qu’un compromis. Il est toutefois certain que les mêmes
+      points qui ont conduit au cessez-le-feu auraient pu être obtenus facilement sans
+      guerre. Le calendrier du message de Washington était particulièrement révélateur.
+      Environ quatre-vingt-dix minutes avant l’expiration de l’ultimatum de Trump visant
+      à détruire l’ensemble des infrastructures iraniennes, la porte-parole de la Maison-Blanche,
+      Karoline Leavitt, a déclaré que Trump avait « atteint et dépassé » ses principaux
+      objectifs militaires en seulement 38 jours. Elle a présenté l’opération américaine
+      comme une victoire, affirmé que le succès militaire avait créé un « levier maximal
+      » pour des négociations difficiles, et soutenu que Trump avait obtenu la réouverture
+      du détroit d’Ormuz. Au même moment, des fuites médiatiques non démenties par Washington
+      suggéraient une approbation américaine non officielle d’un cessez-le-feu de deux
+      semaines proposé par le Pakistan. L’Iran a indiqué qu’il était prêt à y répondre
+      positivement, sur la base de dix points transmis aux États-Unis par l’intermédiaire
+      du médiateur. Le sens en était clair : après avoir déclenché la guerre et menacé
+      de destruction totale, Washington s’est dirigé vers un cessez-le-feu tout en essayant
+      de présenter ce tournant comme une preuve de succès, et non comme l’aveu que l’escalade
+      avait atteint sa limite. Selon l’agence semi-officielle iranienne Tasnim, le cadre
+      proposé par Téhéran pour mettre fin à la guerre reposait sur dix points transmis
+      à Washington par le médiateur : un engagement de principe des États-Unis à garantir
+      la non-agression ; le maintien du contrôle iranien sur le détroit d’Ormuz ; l’acceptation
+      de l’enrichissement d’uranium ; la levée de toutes les sanctions primaires ; la
+      levée de toutes les sanctions secondaires ; l’annulation de toutes les résolutions
+      du Conseil de sécurité des Nations unies ; l’annulation de toutes les résolutions
+      du Conseil des gouverneurs de l’Agence internationale de l’énergie atomique ;
+      le versement de compensations à l’Iran ; le retrait des forces combattantes américaines
+      de la région ; et la cessation de la guerre sur tous les fronts, y compris contre
+      ce que l’Iran décrit comme la résistance au Liban. Que toutes ces conditions soient
+      négociables ou acceptables est une autre question. Ce qui importe politiquement,
+      c’est que Téhéran a répondu à la menace de destruction totale non pas par une
+      reddition, mais par un ensemble structuré de conditions pour mettre fin à la guerre
+      tout en préservant sa souveraineté, sa position stratégique et son rôle régional.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: L'article souligne que malgré les déclarations de victoire
+      des États-Unis et de l'Iran, la situation en Israël reste préoccupante, car le
+      pays n'a pas réussi à atteindre ses objectifs stratégiques, notamment le désarmement
+      du Hezbollah, ce qui fragilise la position de Benjamin Netanyahu.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la complexité de la situation
+      entre les États-Unis, l'Iran et Israël, où les deux premiers revendiquent une
+      victoire malgré la poursuite des attaques iraniennes sur Israël. Alors que Washington
+      et Téhéran affirment avoir atteint leurs objectifs, Israël vise la destruction
+      du régime iranien, un but qui reste inachevé. Benjamin Netanyahu, confronté à
+      des défis internes, pourrait être tenté de saper le cessez-le-feu actuel, d'autant
+      plus qu'il n'a pas réussi à désarmer le Hezbollah, qui est désormais plus fort.
+      L'article souligne que, malgré un cessez-le-feu, la paix n'est pas encore établie
+      et que la situation pourrait se détériorer si les acteurs impliqués choisissent
+      l'escalade plutôt que le compromis.
+    published: '2026-04-08T03:45:33+00:00'
+  - title: 'Le duo a commencé la guerre et doit y mettre fin : un cessez-le-feu de deux
+      semaines'
+    url: https://ejmagnier.com/2026/04/08/le-duo-a-commence-la-guerre-et-doit-y-mettre-fin-un-cessez-le-feu-de-deux-semaines/
+    text: 'Par Elijah J. Magnier – La victoire est normalement annoncée lorsqu’une guerre
+      se termine avec un vainqueur et un vaincu. Pourtant, les États-Unis et l’Iran
+      revendiquent tous deux la victoire, mais en Israël, où les bombes iraniennes continuent
+      de tomber aux premières lueurs du jour, le tableau est très différent. Washington
+      et Téhéran affirment avoir atteint leurs objectifs, alors que l’objectif plus
+      large d’Israël était bien plus ambitieux : la destruction du système dirigeant
+      iranien, ce même système avec lequel Washington négocie aujourd’hui. Tout cessez-le-feu
+      sur l’ensemble des fronts, y compris au Liban, est donc politiquement dangereux
+      pour Benjamin Netanyahu. Sur le plan intérieur, cela risque de se retourner contre
+      lui, car il n’a pas réussi à atteindre l’un de ses objectifs centraux affichés
+      : le désarmement du Hezbollah, qui apparaît aujourd’hui plus enraciné et aguerri
+      que jamais. Cet échec fragilise Netanyahu sur le plan intérieur et ouvre la possibilité
+      qu’il tente de saper ou de saboter l’actuel arrangement de cessez-le-feu de deux
+      semaines. Israël a annoncé qu’un entretien téléphonique avait eu lieu entre Donald
+      Trump et Benjamin Netanyahu, sans en révéler le contenu. Le diable, comme toujours,
+      se cache dans les détails. Dans de telles circonstances, la prudence s’impose.
+      Un cessez-le-feu sur le papier n’est pas encore une paix établie, surtout lorsque
+      l’un des principaux acteurs peut considérer que la poursuite de l’escalade est
+      politiquement plus sûre qu’un compromis. Il est toutefois certain que les mêmes
+      points qui ont conduit au cessez-le-feu auraient pu être obtenus facilement sans
+      guerre. Le calendrier du message de Washington était particulièrement révélateur.
+      Environ quatre-vingt-dix minutes avant l’expiration de l’ultimatum de Trump visant
+      à détruire l’ensemble des infrastructures iraniennes, la porte-parole de la Maison-Blanche,
+      Karoline Leavitt, a déclaré que Trump avait « atteint et dépassé » ses principaux
+      objectifs militaires en seulement 38 jours. Elle a présenté l’opération américaine
+      comme une victoire, affirmé que le succès militaire avait créé un « levier maximal
+      » pour des négociations difficiles, et soutenu que Trump avait obtenu la réouverture
+      du détroit d’Ormuz. Au même moment, des fuites médiatiques non démenties par Washington
+      suggéraient une approbation américaine non officielle d’un cessez-le-feu de deux
+      semaines proposé par le Pakistan. L’Iran a indiqué qu’il était prêt à y répondre
+      positivement, sur la base de dix points transmis aux États-Unis par l’intermédiaire
+      du médiateur. Le sens en était clair : après avoir déclenché la guerre et menacé
+      de destruction totale, Washington s’est dirigé vers un cessez-le-feu tout en essayant
+      de présenter ce tournant comme une preuve de succès, et non comme l’aveu que l’escalade
+      avait atteint sa limite. Selon l’agence semi-officielle iranienne Tasnim, le cadre
+      proposé par Téhéran pour mettre fin à la guerre reposait sur dix points transmis
+      à Washington par le médiateur : un engagement de principe des États-Unis à garantir
+      la non-agression ; le maintien du contrôle iranien sur le détroit d’Ormuz ; l’acceptation
+      de l’enrichissement d’uranium ; la levée de toutes les sanctions primaires ; la
+      levée de toutes les sanctions secondaires ; l’annulation de toutes les résolutions
+      du Conseil de sécurité des Nations unies ; l’annulation de toutes les résolutions
+      du Conseil des gouverneurs de l’Agence internationale de l’énergie atomique ;
+      le versement de compensations à l’Iran ; le retrait des forces combattantes américaines
+      de la région ; et la cessation de la guerre sur tous les fronts, y compris contre
+      ce que l’Iran décrit comme la résistance au Liban. Que toutes ces conditions soient
+      négociables ou acceptables est une autre question. Ce qui importe politiquement,
+      c’est que Téhéran a répondu à la menace de destruction totale non pas par une
+      reddition, mais par un ensemble structuré de conditions pour mettre fin à la guerre
+      tout en préservant sa souveraineté, sa position stratégique et son rôle régional.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: L'article souligne que malgré les déclarations de victoire
+      des États-Unis et de l'Iran, la situation en Israël reste préoccupante, car le
+      pays n'a pas réussi à atteindre ses objectifs stratégiques, notamment le désarmement
+      du Hezbollah, ce qui fragilise la position de Benjamin Netanyahu.
+    paragraph_summary: L'article d'Elijah J. Magnier aborde la complexité de la situation
+      entre les États-Unis, l'Iran et Israël, où les deux premiers revendiquent une
+      victoire malgré la poursuite des attaques iraniennes sur Israël. Alors que Washington
+      et Téhéran affirment avoir atteint leurs objectifs, Israël vise la destruction
+      du régime iranien, un but qui reste inachevé. Benjamin Netanyahu, confronté à
+      des défis internes, pourrait être tenté de saper le cessez-le-feu actuel, d'autant
+      plus qu'il n'a pas réussi à désarmer le Hezbollah, qui est désormais plus fort.
+      L'article souligne que, malgré un cessez-le-feu, la paix n'est pas encore établie
+      et que la situation pourrait se détériorer si les acteurs impliqués choisissent
+      l'escalade plutôt que le compromis.
+    published: '2026-04-08T03:45:33+00:00'
+  - title: 'The duo started the war and they have to end it: A two-week ceasefire'
+    url: https://ejmagnier.com/2026/04/08/the-duo-started-the-war-and-they-have-to-end-it-a-two-week-ceasefire/
+    text: 'By Elijah J. Magnier – Victory is normally announced when the war ends with
+      a victorious and a defeated party. However, the United States and Iran both claim
+      victory, but in Israel, where Iranian bombs continue falling with the first light
+      of day, the picture is very different. Washington and Tehran say they achieved
+      their objectives, yet Israel’s broader aim was far more ambitious: the destruction
+      of the Iranian ruling system, the very system with which Washington is now negotiating.
+      Any ceasefire on all fronts, including with Lebanon, is therefore politically
+      dangerous for Benjamin Netanyahu. Domestically, it risks backfiring because he
+      has failed to achieve one of his central stated aims: the disarmament of Hezbollah,
+      which today appears more entrenched and battle-hardened than before. That failure
+      leaves Netanyahu exposed at home and opens the possibility that he may try to
+      undermine or sabotage the current two-week ceasefire arrangement. Israel announced
+      that a phone conversation took place between Donald Trump and Benjamin Netanyahu,
+      but it did not disclose its content. The devil, as always, is in the details.
+      In such circumstances, caution is justified. A ceasefire on paper is not yet a
+      settled peace, especially when one of the main actors may see continued escalation
+      as politically safer than compromise. It is, however, certain that the same points
+      that led to a ceasefire could have been easily achieved without a war. The timing
+      of Washington’s message was especially telling. Roughly ninety minutes before
+      the expiry of Trump’s ultimatum to destroy all of Iran’s infrastructure, White
+      House Press Secretary Karoline Leavitt declared that Trump had “achieved and exceeded”
+      his core military objectives in just 38 days. She presented the U.S. operation
+      as a victory, said military success had created “maximum leverage” for tough negotiations,
+      and claimed that Trump had secured the reopening of the Strait of Hormuz. At the
+      same time, media leaks not denied by Washington suggested a non-official American
+      approval of a two-week ceasefire proposed through Pakistan. Iran indicated that
+      it was prepared to respond positively, on the basis of ten points passed to the
+      United States through the mediator. The meaning was clear: after launching the
+      war and threatening total devastation, Washington moved toward a ceasefire while
+      trying to present that shift as proof of success, not as an admission that escalation
+      had reached its limit. According to Iran’s semi-official Tasnim News Agency, Tehran’s
+      proposed framework to end the war was based on ten points passed to Washington
+      through the mediator: a U.S. commitment in principle to guarantee non-aggression;
+      continued Iranian control over the Strait of Hormuz; acceptance of uranium enrichment;
+      the removal of all primary sanctions; the removal of all secondary sanctions;
+      the termination of all UN Security Council resolutions; the termination of all
+      International Atomic Energy Agency Board of Governors resolutions; payment of
+      compensation to Iran; the withdrawal of U.S. combat forces from the region; and
+      the cessation of war on all fronts, including against what Iran describes as the
+      resistance in Lebanon. Whether all of these terms are negotiable or acceptable
+      is another matter. What matters politically is that Tehran answered the threat
+      of total destruction not with surrender, but with a structured set of conditions
+      for ending the war while preserving its sovereignty, strategic position, and regional
+      role. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Despite both the U.S. and Iran claiming victory in the ongoing
+      conflict, Israel's broader goal of dismantling the Iranian regime remains unachieved,
+      leaving Prime Minister Netanyahu politically vulnerable and potentially inclined
+      to disrupt the current ceasefire.
+    paragraph_summary: In the wake of ongoing conflict, both the United States and Iran
+      claim victory, yet the situation in Israel tells a different story, as Iranian
+      attacks persist. While Washington and Tehran assert they have met their objectives,
+      Israel's broader goal of dismantling the Iranian regime remains unfulfilled, particularly
+      as Hezbollah appears more resilient than before. Israeli Prime Minister Benjamin
+      Netanyahu faces domestic challenges due to this failure, which may lead him to
+      undermine the current ceasefire arrangement. Despite a recent phone call between
+      Netanyahu and Donald Trump, the specifics remain unclear, highlighting the complexities
+      of the situation. The U.S. administration touts military success and leverage
+      for negotiations, suggesting that the ceasefire could have been achieved without
+      war, yet the ongoing tensions indicate that a true peace remains elusive.
+    published: '2026-04-08T03:41:51+00:00'
+  - title: 'The duo started the war and they have to end it: A two-week ceasefire'
+    url: https://ejmagnier.com/2026/04/08/the-duo-started-the-war-and-they-have-to-end-it-a-two-week-ceasefire/
+    text: 'By Elijah J. Magnier – Victory is normally announced when the war ends with
+      a victorious and a defeated party. However, the United States and Iran both claim
+      victory, but in Israel, where Iranian bombs continue falling with the first light
+      of day, the picture is very different. Washington and Tehran say they achieved
+      their objectives, yet Israel’s broader aim was far more ambitious: the destruction
+      of the Iranian ruling system, the very system with which Washington is now negotiating.
+      Any ceasefire on all fronts, including with Lebanon, is therefore politically
+      dangerous for Benjamin Netanyahu. Domestically, it risks backfiring because he
+      has failed to achieve one of his central stated aims: the disarmament of Hezbollah,
+      which today appears more entrenched and battle-hardened than before. That failure
+      leaves Netanyahu exposed at home and opens the possibility that he may try to
+      undermine or sabotage the current two-week ceasefire arrangement. Israel announced
+      that a phone conversation took place between Donald Trump and Benjamin Netanyahu,
+      but it did not disclose its content. The devil, as always, is in the details.
+      In such circumstances, caution is justified. A ceasefire on paper is not yet a
+      settled peace, especially when one of the main actors may see continued escalation
+      as politically safer than compromise. It is, however, certain that the same points
+      that led to a ceasefire could have been easily achieved without a war. The timing
+      of Washington’s message was especially telling. Roughly ninety minutes before
+      the expiry of Trump’s ultimatum to destroy all of Iran’s infrastructure, White
+      House Press Secretary Karoline Leavitt declared that Trump had “achieved and exceeded”
+      his core military objectives in just 38 days. She presented the U.S. operation
+      as a victory, said military success had created “maximum leverage” for tough negotiations,
+      and claimed that Trump had secured the reopening of the Strait of Hormuz. At the
+      same time, media leaks not denied by Washington suggested a non-official American
+      approval of a two-week ceasefire proposed through Pakistan. Iran indicated that
+      it was prepared to respond positively, on the basis of ten points passed to the
+      United States through the mediator. The meaning was clear: after launching the
+      war and threatening total devastation, Washington moved toward a ceasefire while
+      trying to present that shift as proof of success, not as an admission that escalation
+      had reached its limit. According to Iran’s semi-official Tasnim News Agency, Tehran’s
+      proposed framework to end the war was based on ten points passed to Washington
+      through the mediator: a U.S. commitment in principle to guarantee non-aggression;
+      continued Iranian control over the Strait of Hormuz; acceptance of uranium enrichment;
+      the removal of all primary sanctions; the removal of all secondary sanctions;
+      the termination of all UN Security Council resolutions; the termination of all
+      International Atomic Energy Agency Board of Governors resolutions; payment of
+      compensation to Iran; the withdrawal of U.S. combat forces from the region; and
+      the cessation of war on all fronts, including against what Iran describes as the
+      resistance in Lebanon. Whether all of these terms are negotiable or acceptable
+      is another matter. What matters politically is that Tehran answered the threat
+      of total destruction not with surrender, but with a structured set of conditions
+      for ending the war while preserving its sovereignty, strategic position, and regional
+      role. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Despite both the U.S. and Iran claiming victory in the ongoing
+      conflict, Israel's broader goal of dismantling the Iranian regime remains unachieved,
+      leaving Prime Minister Netanyahu politically vulnerable and potentially inclined
+      to disrupt the current ceasefire.
+    paragraph_summary: In the wake of ongoing conflict, both the United States and Iran
+      claim victory, yet the situation in Israel tells a different story, as Iranian
+      attacks persist. While Washington and Tehran assert they have met their objectives,
+      Israel's broader goal of dismantling the Iranian regime remains unfulfilled, particularly
+      as Hezbollah appears more resilient than before. Israeli Prime Minister Benjamin
+      Netanyahu faces domestic challenges due to this failure, which may lead him to
+      undermine the current ceasefire arrangement. Despite a recent phone call between
+      Netanyahu and Donald Trump, the specifics remain unclear, highlighting the complexities
+      of the situation. The U.S. administration touts military success and leverage
+      for negotiations, suggesting that the ceasefire could have been achieved without
+      war, yet the ongoing tensions indicate that a true peace remains elusive.
+    published: '2026-04-08T03:41:51+00:00'
+  - title: Der Krieg der USA und Israels in einer Pattsituation
+    url: https://ejmagnier.com/2026/04/07/der-krieg-der-usa-und-israels-in-einer-pattsituation/
+    text: 'Von Elijah J. Magnier – Als die Vereinigten Staaten und Israel am 28. Februar
+      2026 ihren Angriff auf den Iran starteten, rechnete man in Washington und Tel
+      Aviv nicht mit einem langen Krieg. Man ging davon aus, dass überwältigende Streitmacht,
+      technologische Überlegenheit und der Schock den militärischen Kapazitäten des
+      Iran schnell den Garaus machen, seine Führung desorientieren und Teheran zwingen
+      würden, Bedingungen zu akzeptieren, die es lange abgelehnt hatte. Diese Erwartung
+      ist nun zusammengebrochen. Mehr als fünf Wochen nach Kriegsbeginn sprechen die
+      Vereinigten Staaten nicht mehr von einem klaren militärischen Ergebnis, sondern
+      von einem Ultimatum. Präsident Donald Trump hat dem Iran eine Frist gesetzt, die
+      an die Wiederöffnung der Straße von Hormus geknüpft ist, und gedroht, Brücken,
+      Kraftwerke und weitere Infrastruktur zu zerstören, sollte Teheran dieser nicht
+      nachkommen. Dieser Wandel ist kein Zeichen von Zuversicht. Er ist ein Zeichen
+      dafür, dass die ursprünglichen Kriegsziele nicht erreicht wurden. Der Krieg hat
+      dem Iran enorme Zerstörungen zugefügt, aber er hat weder einen politischen Zusammenbruch
+      noch eine Kapitulation herbeigeführt – oder gar einen glaubwürdigen Weg dorthin.
+      Stattdessen hat er die nationale Entschlossenheit gestärkt, das Schlachtfeld erweitert,
+      die globalen Energiemärkte verunsichert und die wachsende Kluft zwischen dem,
+      was die Angreifer zerstören können, und dem, was sie politisch durchsetzen können,
+      offenbart. Selbst jetzt, da die Gefahr einer Eskalation über der zivilen Infrastruktur
+      schwebt, zeigt Teheran keine Anzeichen einer Kapitulation. Für den Iran ist dies
+      kein frei wählbarer Feldzug. Es ist ein existenzieller Krieg, und genau deshalb
+      ist der Konflikt in seine gefährlichste Phase eingetreten: nicht der Durchbruch,
+      sondern die Pattsituation. Das ist das erste Anzeichen für strategisches Versagen:
+      wenn Ziele zu schrumpfen beginnen und sich verschieben, weil die ursprünglichen
+      nicht erreicht wurden. Trumps Ultimatum erschwert es, dieses Versagen zu verbergen.
+      Eine Kampagne, die unter dem Banner der Neutralisierung militärischer Bedrohungen
+      begann, droht nun offen mit der Zerstörung von Brücken, Stromerzeugung und der
+      weiteren Infrastruktur, von der das zivile Leben abhängt. Das ist nicht die Sprache
+      einer Seite, die sich einem definierten strategischen Erfolg nähert. Es ist die
+      Sprache der Nötigung, die den Raum ausfüllt, in dem sich ein entscheidender Sieg
+      nicht materialisiert hat. Die Frist war an die Straße von Hormus geknüpft, und
+      die Drohung schlug sofort auf die Märkte und Vermittlungskanäle in der gesamten
+      Region durch. Selbst wenn Donald Trump damit droht, Irans Brücken, Kraftwerke
+      und die gesamte Infrastruktur anzugreifen, und auf „bisher nicht eingesetzte“
+      Waffen anspielt, kann Teheran nicht kapitulieren und ist bereit, weitere Risiken
+      in Kauf zu nehmen, anstatt sich zu unterwerfen. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Angriff der USA und Israels auf den Iran am 28. Februar
+      2026, der ursprünglich als schneller Sieg geplant war, hat sich nach über fünf
+      Wochen in ein Ultimatum verwandelt, da die militärischen Erwartungen nicht erfüllt
+      wurden und Präsident Trump nun mit der Zerstörung iranischer Infrastruktur droht,
+      sollte Teheran nicht kooperieren.
+    paragraph_summary: Am 28. Februar 2026 starteten die USA und Israel einen Angriff
+      auf den Iran, in der Annahme, dass ihre militärische Überlegenheit den Krieg schnell
+      entscheiden würde. Fünf Wochen später hat sich diese Erwartung als falsch erwiesen,
+      da die USA nun ein Ultimatum an den Iran stellen, das an die Wiederöffnung der
+      Straße von Hormus geknüpft ist, und mit der Zerstörung von Infrastrukturen drohen.
+      Der Krieg hat zwar erhebliche Zerstörungen im Iran verursacht, jedoch weder zu
+      einem politischen Zusammenbruch noch zu einer Kapitulation geführt. Stattdessen
+      hat er die nationale Entschlossenheit des Iran gestärkt und die globalen Energiemärkte
+      destabilisiert. Der Konflikt hat sich in eine gefährliche Pattsituation verwandelt,
+      was auf strategisches Versagen der Angreifer hinweist, da ihre ursprünglichen
+      Ziele nicht erreicht wurden.
+    published: '2026-04-07T19:17:18+00:00'
+  - title: Der Krieg der USA und Israels in einer Pattsituation
+    url: https://ejmagnier.com/2026/04/07/der-krieg-der-usa-und-israels-in-einer-pattsituation/
+    text: 'Von Elijah J. Magnier – Als die Vereinigten Staaten und Israel am 28. Februar
+      2026 ihren Angriff auf den Iran starteten, rechnete man in Washington und Tel
+      Aviv nicht mit einem langen Krieg. Man ging davon aus, dass überwältigende Streitmacht,
+      technologische Überlegenheit und der Schock den militärischen Kapazitäten des
+      Iran schnell den Garaus machen, seine Führung desorientieren und Teheran zwingen
+      würden, Bedingungen zu akzeptieren, die es lange abgelehnt hatte. Diese Erwartung
+      ist nun zusammengebrochen. Mehr als fünf Wochen nach Kriegsbeginn sprechen die
+      Vereinigten Staaten nicht mehr von einem klaren militärischen Ergebnis, sondern
+      von einem Ultimatum. Präsident Donald Trump hat dem Iran eine Frist gesetzt, die
+      an die Wiederöffnung der Straße von Hormus geknüpft ist, und gedroht, Brücken,
+      Kraftwerke und weitere Infrastruktur zu zerstören, sollte Teheran dieser nicht
+      nachkommen. Dieser Wandel ist kein Zeichen von Zuversicht. Er ist ein Zeichen
+      dafür, dass die ursprünglichen Kriegsziele nicht erreicht wurden. Der Krieg hat
+      dem Iran enorme Zerstörungen zugefügt, aber er hat weder einen politischen Zusammenbruch
+      noch eine Kapitulation herbeigeführt – oder gar einen glaubwürdigen Weg dorthin.
+      Stattdessen hat er die nationale Entschlossenheit gestärkt, das Schlachtfeld erweitert,
+      die globalen Energiemärkte verunsichert und die wachsende Kluft zwischen dem,
+      was die Angreifer zerstören können, und dem, was sie politisch durchsetzen können,
+      offenbart. Selbst jetzt, da die Gefahr einer Eskalation über der zivilen Infrastruktur
+      schwebt, zeigt Teheran keine Anzeichen einer Kapitulation. Für den Iran ist dies
+      kein frei wählbarer Feldzug. Es ist ein existenzieller Krieg, und genau deshalb
+      ist der Konflikt in seine gefährlichste Phase eingetreten: nicht der Durchbruch,
+      sondern die Pattsituation. Das ist das erste Anzeichen für strategisches Versagen:
+      wenn Ziele zu schrumpfen beginnen und sich verschieben, weil die ursprünglichen
+      nicht erreicht wurden. Trumps Ultimatum erschwert es, dieses Versagen zu verbergen.
+      Eine Kampagne, die unter dem Banner der Neutralisierung militärischer Bedrohungen
+      begann, droht nun offen mit der Zerstörung von Brücken, Stromerzeugung und der
+      weiteren Infrastruktur, von der das zivile Leben abhängt. Das ist nicht die Sprache
+      einer Seite, die sich einem definierten strategischen Erfolg nähert. Es ist die
+      Sprache der Nötigung, die den Raum ausfüllt, in dem sich ein entscheidender Sieg
+      nicht materialisiert hat. Die Frist war an die Straße von Hormus geknüpft, und
+      die Drohung schlug sofort auf die Märkte und Vermittlungskanäle in der gesamten
+      Region durch. Selbst wenn Donald Trump damit droht, Irans Brücken, Kraftwerke
+      und die gesamte Infrastruktur anzugreifen, und auf „bisher nicht eingesetzte“
+      Waffen anspielt, kann Teheran nicht kapitulieren und ist bereit, weitere Risiken
+      in Kauf zu nehmen, anstatt sich zu unterwerfen. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Angriff der USA und Israels auf den Iran am 28. Februar
+      2026, der ursprünglich als schneller Sieg geplant war, hat sich nach über fünf
+      Wochen in ein Ultimatum verwandelt, da die militärischen Erwartungen nicht erfüllt
+      wurden und Präsident Trump nun mit der Zerstörung iranischer Infrastruktur droht,
+      sollte Teheran nicht kooperieren.
+    paragraph_summary: Am 28. Februar 2026 starteten die USA und Israel einen Angriff
+      auf den Iran, in der Annahme, dass ihre militärische Überlegenheit den Krieg schnell
+      entscheiden würde. Fünf Wochen später hat sich diese Erwartung als falsch erwiesen,
+      da die USA nun ein Ultimatum an den Iran stellen, das an die Wiederöffnung der
+      Straße von Hormus geknüpft ist, und mit der Zerstörung von Infrastrukturen drohen.
+      Der Krieg hat zwar erhebliche Zerstörungen im Iran verursacht, jedoch weder zu
+      einem politischen Zusammenbruch noch zu einer Kapitulation geführt. Stattdessen
+      hat er die nationale Entschlossenheit des Iran gestärkt und die globalen Energiemärkte
+      destabilisiert. Der Konflikt hat sich in eine gefährliche Pattsituation verwandelt,
+      was auf strategisches Versagen der Angreifer hinweist, da ihre ursprünglichen
+      Ziele nicht erreicht wurden.
+    published: '2026-04-07T19:17:18+00:00'
+  - title: The US-Israeli war is in a deadlock.
+    url: https://ejmagnier.com/2026/04/07/the-us-israeli-war-is-in-a-deadlock/
+    text: 'By Elijah J. Magnier – When the United States and Israel launched their assault
+      on Iran on 28 February 2026, the expectation in Washington and Tel Aviv was not
+      of a long war. The premise was that overwhelming force, technological superiority,
+      and shock would quickly cripple Iran’s military capacity, disorient its leadership,
+      and force Tehran to accept terms it had long rejected. That expectation has now
+      collapsed. More than five weeks into the war, the United States is no longer speaking
+      the language of a clean military outcome but that of an ultimatum. President Donald
+      Trump has given Iran a deadline tied to reopening the Strait of Hormuz and threatened
+      to destroy bridges, power plants, and broader infrastructure if Tehran does not
+      comply. That shift is not a sign of confidence. It is a sign that the original
+      war aims were not achieved. The war has inflicted enormous destruction on Iran,
+      but it has not produced political collapse, surrender, or even a credible path
+      to either. Instead, it has hardened national resolve, widened the battlefield,
+      unsettled global energy markets, and exposed the growing gap between what the
+      attackers can destroy and what they can politically impose. Even now, with threats
+      of escalation hanging over civilian infrastructure, Tehran shows no sign of capitulation.
+      For Iran, this is not a discretionary campaign. It is an existential war, and
+      that is precisely why the conflict has entered its most dangerous phase: not a
+      breakthrough, but deadlock. That is the first sign of strategic failure: when
+      goals begin to shrink and move because the original ones were not achieved. Trump’s
+      ultimatum makes that failure harder to conceal. A campaign that began under the
+      banner of neutralising military threat is now openly threatening the destruction
+      of bridges, power generation, and the wider infrastructure on which civilian life
+      depends. That is not the language of a side nearing a defined strategic success.
+      It is the language of coercion filling the space where decisive victory failed
+      to materialise. The deadline was tied to the Strait of Hormuz, and the threat
+      immediately reverberated through markets and mediation channels across the region.
+      Even with Donald Trump threatening to hit Iran’s bridges, power plants, and wider
+      infrastructure, and hinting at weapons not used before, Tehran cannot surrender
+      and is prepared to absorb further risk rather than submit. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: the U.S. and Israel's initial expectations for a swift victory
+      in their assault on Iran have failed, leading to a shift in rhetoric towards ultimatums
+      and threats as the conflict drags on without achieving its intended political
+      outcomes.
+    paragraph_summary: In the wake of the U.S. and Israeli military assault on Iran
+      that began on February 28, 2026, initial expectations of a swift victory have
+      crumbled, leading to a shift in rhetoric from military success to ultimatums.
+      After more than five weeks of conflict, President Trump has issued a deadline
+      for Iran to reopen the Strait of Hormuz, threatening severe destruction of its
+      infrastructure if compliance is not met. Despite significant damage inflicted
+      on Iran, the anticipated political collapse has not occurred; instead, the conflict
+      has intensified Iranian resolve and expanded the battlefield, destabilizing global
+      energy markets. This deadlock signifies a strategic failure for the attackers,
+      as their goals have shifted from neutralizing threats to coercive measures against
+      civilian infrastructure, indicating a lack of confidence in achieving their original
+      objectives.
+    published: '2026-04-07T18:51:01+00:00'
+  - title: The US-Israeli war is in a deadlock.
+    url: https://ejmagnier.com/2026/04/07/the-us-israeli-war-is-in-a-deadlock/
+    text: 'By Elijah J. Magnier – When the United States and Israel launched their assault
+      on Iran on 28 February 2026, the expectation in Washington and Tel Aviv was not
+      of a long war. The premise was that overwhelming force, technological superiority,
+      and shock would quickly cripple Iran’s military capacity, disorient its leadership,
+      and force Tehran to accept terms it had long rejected. That expectation has now
+      collapsed. More than five weeks into the war, the United States is no longer speaking
+      the language of a clean military outcome but that of an ultimatum. President Donald
+      Trump has given Iran a deadline tied to reopening the Strait of Hormuz and threatened
+      to destroy bridges, power plants, and broader infrastructure if Tehran does not
+      comply. That shift is not a sign of confidence. It is a sign that the original
+      war aims were not achieved. The war has inflicted enormous destruction on Iran,
+      but it has not produced political collapse, surrender, or even a credible path
+      to either. Instead, it has hardened national resolve, widened the battlefield,
+      unsettled global energy markets, and exposed the growing gap between what the
+      attackers can destroy and what they can politically impose. Even now, with threats
+      of escalation hanging over civilian infrastructure, Tehran shows no sign of capitulation.
+      For Iran, this is not a discretionary campaign. It is an existential war, and
+      that is precisely why the conflict has entered its most dangerous phase: not a
+      breakthrough, but deadlock. That is the first sign of strategic failure: when
+      goals begin to shrink and move because the original ones were not achieved. Trump’s
+      ultimatum makes that failure harder to conceal. A campaign that began under the
+      banner of neutralising military threat is now openly threatening the destruction
+      of bridges, power generation, and the wider infrastructure on which civilian life
+      depends. That is not the language of a side nearing a defined strategic success.
+      It is the language of coercion filling the space where decisive victory failed
+      to materialise. The deadline was tied to the Strait of Hormuz, and the threat
+      immediately reverberated through markets and mediation channels across the region.
+      Even with Donald Trump threatening to hit Iran’s bridges, power plants, and wider
+      infrastructure, and hinting at weapons not used before, Tehran cannot surrender
+      and is prepared to absorb further risk rather than submit. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: the U.S. and Israel's initial expectations for a swift victory
+      in their assault on Iran have failed, leading to a shift in rhetoric towards ultimatums
+      and threats as the conflict drags on without achieving its intended political
+      outcomes.
+    paragraph_summary: In the wake of the U.S. and Israeli military assault on Iran
+      that began on February 28, 2026, initial expectations of a swift victory have
+      crumbled, leading to a shift in rhetoric from military success to ultimatums.
+      After more than five weeks of conflict, President Trump has issued a deadline
+      for Iran to reopen the Strait of Hormuz, threatening severe destruction of its
+      infrastructure if compliance is not met. Despite significant damage inflicted
+      on Iran, the anticipated political collapse has not occurred; instead, the conflict
+      has intensified Iranian resolve and expanded the battlefield, destabilizing global
+      energy markets. This deadlock signifies a strategic failure for the attackers,
+      as their goals have shifted from neutralizing threats to coercive measures against
+      civilian infrastructure, indicating a lack of confidence in achieving their original
+      objectives.
+    published: '2026-04-07T18:51:01+00:00'
+  - title: La guerre américano israélienne dans une impasse
+    url: https://ejmagnier.com/2026/04/07/la-guerre-americano-israelienne-dans-une-impasse/
+    text: 'Par Elijah J. Magnier Lorsque les États Unis et Israël ont lancé leur assaut
+      contre l’Iran le 28 février 2026, à Washington et à Tel Aviv, on ne s’attendait
+      pas à une guerre longue. Le postulat était que la force écrasante, la supériorité
+      technologique et l’effet de choc allaient rapidement briser les capacités militaires
+      iraniennes, désorienter ses dirigeants et contraindre Téhéran à accepter des conditions
+      qu’il rejetait depuis longtemps. Cette attente s’est désormais effondrée. Plus
+      de cinq semaines après le début de la guerre, les États Unis ne parlent plus le
+      langage d’une issue militaire nette, mais celui de l’ultimatum. Le président Donald
+      Trump a fixé à l’Iran une échéance liée à la réouverture du détroit d’Ormuz et
+      a menacé de détruire des ponts, des centrales électriques et des infrastructures
+      plus larges si Téhéran ne se conforme pas. Ce glissement n’est pas un signe de
+      confiance. C’est le signe que les objectifs initiaux de la guerre n’ont pas été
+      atteints. La guerre a infligé à l’Iran des destructions immenses, mais elle n’a
+      produit ni effondrement politique, ni reddition, ni même une voie crédible vers
+      l’un ou l’autre. Au contraire, elle a durci la détermination nationale, élargi
+      le champ de bataille, déstabilisé les marchés mondiaux de l’énergie et révélé
+      l’écart croissant entre ce que les assaillants peuvent détruire et ce qu’ils peuvent
+      imposer politiquement. Même aujourd’hui, alors que des menaces d’escalade pèsent
+      sur les infrastructures civiles, Téhéran ne montre aucun signe de capitulation.
+      Pour l’Iran, il ne s’agit pas d’une campagne discrétionnaire. C’est une guerre
+      existentielle, et c’est précisément pourquoi le conflit est entré dans sa phase
+      la plus dangereuse : non pas la percée, mais l’impasse. C’est le premier signe
+      d’un échec stratégique : lorsque les objectifs commencent à se réduire et à se
+      déplacer parce que les objectifs initiaux n’ont pas été atteints. L’ultimatum
+      de Trump rend cet échec plus difficile à dissimuler. Une campagne qui avait commencé
+      sous la bannière de la neutralisation d’une menace militaire menace désormais
+      ouvertement de détruire des ponts, la production d’électricité et l’infrastructure
+      plus large dont dépend la vie civile. Ce n’est pas le langage d’un camp qui approche
+      d’un succès stratégique défini. C’est le langage de la coercition venant combler
+      le vide laissé par une victoire décisive qui ne s’est pas matérialisée. L’échéance
+      était liée au détroit d’Ormuz, et la menace a immédiatement eu des répercussions
+      sur les marchés et sur les canaux de médiation à travers toute la région. Même
+      avec Donald Trump menaçant de frapper les ponts iraniens, ses centrales électriques
+      et ses infrastructures plus larges, tout en laissant entendre qu’il pourrait employer
+      des armes « jamais utilisées auparavant », Téhéran ne peut pas se rendre et se
+      prépare à absorber davantage de risques plutôt qu’à se soumettre. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'assaut des États-Unis et d'Israël contre l'Iran, prévu pour
+      être rapide grâce à leur supériorité militaire, s'est transformé en une impasse,
+      conduisant à des ultimatums et des menaces de destruction d'infrastructures, révélant
+      ainsi l'échec des objectifs initiaux de la guerre.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'évolution du conflit
+      entre les États-Unis, Israël et l'Iran depuis le début des hostilités le 28 février
+      2026. Initialement, les assaillants s'attendaient à une victoire rapide grâce
+      à leur supériorité militaire, mais après plus de cinq semaines de guerre, il est
+      devenu évident que leurs objectifs n'avaient pas été atteints. Au lieu d'une capitulation
+      iranienne, la résistance s'est renforcée, et les États-Unis ont dû changer leur
+      discours, passant d'une victoire militaire à un ultimatum menaçant des destructions
+      supplémentaires si l'Iran ne se conformait pas. Cette situation révèle un échec
+      stratégique, car le conflit s'est transformé en une impasse, avec des conséquences
+      déstabilisantes pour les marchés mondiaux de l'énergie et une intensification
+      des tensions.
+    published: '2026-04-07T18:47:23+00:00'
+  - title: La guerre américano israélienne dans une impasse
+    url: https://ejmagnier.com/2026/04/07/la-guerre-americano-israelienne-dans-une-impasse/
+    text: 'Par Elijah J. Magnier Lorsque les États Unis et Israël ont lancé leur assaut
+      contre l’Iran le 28 février 2026, à Washington et à Tel Aviv, on ne s’attendait
+      pas à une guerre longue. Le postulat était que la force écrasante, la supériorité
+      technologique et l’effet de choc allaient rapidement briser les capacités militaires
+      iraniennes, désorienter ses dirigeants et contraindre Téhéran à accepter des conditions
+      qu’il rejetait depuis longtemps. Cette attente s’est désormais effondrée. Plus
+      de cinq semaines après le début de la guerre, les États Unis ne parlent plus le
+      langage d’une issue militaire nette, mais celui de l’ultimatum. Le président Donald
+      Trump a fixé à l’Iran une échéance liée à la réouverture du détroit d’Ormuz et
+      a menacé de détruire des ponts, des centrales électriques et des infrastructures
+      plus larges si Téhéran ne se conforme pas. Ce glissement n’est pas un signe de
+      confiance. C’est le signe que les objectifs initiaux de la guerre n’ont pas été
+      atteints. La guerre a infligé à l’Iran des destructions immenses, mais elle n’a
+      produit ni effondrement politique, ni reddition, ni même une voie crédible vers
+      l’un ou l’autre. Au contraire, elle a durci la détermination nationale, élargi
+      le champ de bataille, déstabilisé les marchés mondiaux de l’énergie et révélé
+      l’écart croissant entre ce que les assaillants peuvent détruire et ce qu’ils peuvent
+      imposer politiquement. Même aujourd’hui, alors que des menaces d’escalade pèsent
+      sur les infrastructures civiles, Téhéran ne montre aucun signe de capitulation.
+      Pour l’Iran, il ne s’agit pas d’une campagne discrétionnaire. C’est une guerre
+      existentielle, et c’est précisément pourquoi le conflit est entré dans sa phase
+      la plus dangereuse : non pas la percée, mais l’impasse. C’est le premier signe
+      d’un échec stratégique : lorsque les objectifs commencent à se réduire et à se
+      déplacer parce que les objectifs initiaux n’ont pas été atteints. L’ultimatum
+      de Trump rend cet échec plus difficile à dissimuler. Une campagne qui avait commencé
+      sous la bannière de la neutralisation d’une menace militaire menace désormais
+      ouvertement de détruire des ponts, la production d’électricité et l’infrastructure
+      plus large dont dépend la vie civile. Ce n’est pas le langage d’un camp qui approche
+      d’un succès stratégique défini. C’est le langage de la coercition venant combler
+      le vide laissé par une victoire décisive qui ne s’est pas matérialisée. L’échéance
+      était liée au détroit d’Ormuz, et la menace a immédiatement eu des répercussions
+      sur les marchés et sur les canaux de médiation à travers toute la région. Même
+      avec Donald Trump menaçant de frapper les ponts iraniens, ses centrales électriques
+      et ses infrastructures plus larges, tout en laissant entendre qu’il pourrait employer
+      des armes « jamais utilisées auparavant », Téhéran ne peut pas se rendre et se
+      prépare à absorber davantage de risques plutôt qu’à se soumettre. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: L'assaut des États-Unis et d'Israël contre l'Iran, prévu pour
+      être rapide grâce à leur supériorité militaire, s'est transformé en une impasse,
+      conduisant à des ultimatums et des menaces de destruction d'infrastructures, révélant
+      ainsi l'échec des objectifs initiaux de la guerre.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'évolution du conflit
+      entre les États-Unis, Israël et l'Iran depuis le début des hostilités le 28 février
+      2026. Initialement, les assaillants s'attendaient à une victoire rapide grâce
+      à leur supériorité militaire, mais après plus de cinq semaines de guerre, il est
+      devenu évident que leurs objectifs n'avaient pas été atteints. Au lieu d'une capitulation
+      iranienne, la résistance s'est renforcée, et les États-Unis ont dû changer leur
+      discours, passant d'une victoire militaire à un ultimatum menaçant des destructions
+      supplémentaires si l'Iran ne se conformait pas. Cette situation révèle un échec
+      stratégique, car le conflit s'est transformé en une impasse, avec des conséquences
+      déstabilisantes pour les marchés mondiaux de l'énergie et une intensification
+      des tensions.
+    published: '2026-04-07T18:47:23+00:00'
+  - title: 'The Price of War: How Iran Could Turn Hormuz Into Compensation'
+    url: https://ejmagnier.com/2026/04/06/the-price-of-war-how-iran-could-turn-hormuz-into-compensation/
+    text: 'By Elijah J Magnier – The war on Iran did not merely destroy infrastructure,
+      kill civilians, and destabilise the wider region. It also changed the strategic
+      logic of the Strait of Hormuz. For decades, the waterway was treated mainly as
+      a pressure point, a route whose closure or disruption could shake global energy
+      markets. But the unlawful war launched against Iran created a different kind of
+      opening. It gave Tehran a rare opportunity to redefine the Strait not only as
+      a military lever, but as an economic instrument: a place where access and transit
+      fees could be imposed on ships and tankers that rely on one of the world’s most
+      critical maritime chokepoints. For decades, that leverage was mostly discussed
+      in negative terms: the power to interrupt. But interruption destroys value for
+      everyone, including Iran. A smarter strategy is monetisation. That idea is no
+      longer abstract. Since the war began in late February 2026, Iran has moved to
+      tighten control over passage through Hormuz, including selective restrictions
+      and coordination requirements for vessels seeking transit. Iran effectively closed
+      the Strait in early March and later allowed limited categories of shipping, while
+      other reports describe a developing toll system tied to Iranian oversight of safe
+      passage. From Tehran’s point of view, the logic is straightforward. The war inflicted
+      immense damage on Iran, not only through direct strikes but also through lost
+      production, disrupted trade, destroyed facilities, and wider economic paralysis.
+      The UN Development Programme has projected up to $194 billion in lost economic
+      output across the region from the war, while the IMF has described the conflict
+      as a major shock to energy flows and economic stability. Those are regional estimates,
+      not a final accounting for Iran alone, but they support the broader claim that
+      the damage runs into the hundreds of billions of dollars once direct destruction
+      and long-term economic losses are included. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war on Iran has transformed the strategic significance
+      of the Strait of Hormuz from a mere pressure point for global energy markets to
+      a potential economic asset for Tehran, allowing it to impose access and transit
+      fees on vessels using this critical maritime chokepoint.
+    paragraph_summary: Elijah J Magnier discusses how the war on Iran has transformed
+      the strategic significance of the Strait of Hormuz, which has traditionally been
+      viewed as a pressure point for global energy markets. Instead of merely being
+      a route that could be disrupted, Iran has seized the opportunity to redefine the
+      Strait as a potential economic asset, imposing access and transit fees on vessels.
+      Following the onset of the war in February 2026, Iran has tightened its control
+      over the Strait, implementing selective restrictions and developing a toll system
+      for safe passage. This shift in strategy comes in response to the significant
+      economic damage inflicted by the conflict, with estimates suggesting losses in
+      the hundreds of billions of dollars for Iran and the region as a whole.
+    published: '2026-04-06T05:24:36+00:00'
+  - title: 'The Price of War: How Iran Could Turn Hormuz Into Compensation'
+    url: https://ejmagnier.com/2026/04/06/the-price-of-war-how-iran-could-turn-hormuz-into-compensation/
+    text: 'By Elijah J Magnier – The war on Iran did not merely destroy infrastructure,
+      kill civilians, and destabilise the wider region. It also changed the strategic
+      logic of the Strait of Hormuz. For decades, the waterway was treated mainly as
+      a pressure point, a route whose closure or disruption could shake global energy
+      markets. But the unlawful war launched against Iran created a different kind of
+      opening. It gave Tehran a rare opportunity to redefine the Strait not only as
+      a military lever, but as an economic instrument: a place where access and transit
+      fees could be imposed on ships and tankers that rely on one of the world’s most
+      critical maritime chokepoints. For decades, that leverage was mostly discussed
+      in negative terms: the power to interrupt. But interruption destroys value for
+      everyone, including Iran. A smarter strategy is monetisation. That idea is no
+      longer abstract. Since the war began in late February 2026, Iran has moved to
+      tighten control over passage through Hormuz, including selective restrictions
+      and coordination requirements for vessels seeking transit. Iran effectively closed
+      the Strait in early March and later allowed limited categories of shipping, while
+      other reports describe a developing toll system tied to Iranian oversight of safe
+      passage. From Tehran’s point of view, the logic is straightforward. The war inflicted
+      immense damage on Iran, not only through direct strikes but also through lost
+      production, disrupted trade, destroyed facilities, and wider economic paralysis.
+      The UN Development Programme has projected up to $194 billion in lost economic
+      output across the region from the war, while the IMF has described the conflict
+      as a major shock to energy flows and economic stability. Those are regional estimates,
+      not a final accounting for Iran alone, but they support the broader claim that
+      the damage runs into the hundreds of billions of dollars once direct destruction
+      and long-term economic losses are included. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war on Iran has transformed the strategic significance
+      of the Strait of Hormuz from a mere pressure point for global energy markets to
+      a potential economic asset for Tehran, allowing it to impose access and transit
+      fees on vessels using this critical maritime chokepoint.
+    paragraph_summary: Elijah J Magnier discusses how the war on Iran has transformed
+      the strategic significance of the Strait of Hormuz, which has traditionally been
+      viewed as a pressure point for global energy markets. Instead of merely being
+      a route that could be disrupted, Iran has seized the opportunity to redefine the
+      Strait as a potential economic asset, imposing access and transit fees on vessels.
+      Following the onset of the war in February 2026, Iran has tightened its control
+      over the Strait, implementing selective restrictions and developing a toll system
+      for safe passage. This shift in strategy comes in response to the significant
+      economic damage inflicted by the conflict, with estimates suggesting losses in
+      the hundreds of billions of dollars for Iran and the region as a whole.
+    published: '2026-04-06T05:24:36+00:00'
+  - title: 'Le prix de la guerre : comment l’Iran pourrait faire du détroit d’Ormuz
+      un mécanisme de compensation'
+    url: https://ejmagnier.com/2026/04/06/le-prix-de-la-guerre-comment-liran-pourrait-faire-du-detroit-dormuz-un-mecanisme-de-compensation/
+    text: 'Par Elijah J Magnier – La guerre contre l’Iran ne s’est pas contentée de
+      détruire des infrastructures, de tuer des civils et de déstabiliser l’ensemble
+      de la région. Elle a aussi modifié la logique stratégique du détroit d’Ormuz.
+      Pendant des décennies, cette voie maritime a surtout été considérée comme un point
+      de pression, un passage dont la fermeture ou la perturbation pouvait ébranler
+      les marchés mondiaux de l’énergie. Mais la guerre illégale menée contre l’Iran
+      a créé un autre type d’ouverture. Elle a offert à Téhéran une occasion rare de
+      redéfinir le détroit non seulement comme un levier militaire, mais aussi comme
+      un instrument économique : un lieu où des frais d’accès et de transit pourraient
+      être imposés aux navires et aux pétroliers qui dépendent de l’un des goulets d’étranglement
+      maritimes les plus cruciaux du monde. Pendant des décennies, ce levier a surtout
+      été envisagé sous un angle négatif : le pouvoir d’interrompre. Mais l’interruption
+      détruit de la valeur pour tout le monde, y compris pour l’Iran. Une stratégie
+      plus intelligente consiste à monétiser ce levier. Cette idée n’est plus abstraite.
+      Depuis le début de la guerre, fin février 2026, l’Iran s’est employé à resserrer
+      son contrôle sur le passage par Ormuz, notamment en imposant des restrictions
+      sélectives et des exigences de coordination aux navires souhaitant transiter.
+      L’Iran a effectivement fermé le détroit au début du mois de mars avant d’autoriser
+      par la suite des catégories limitées de trafic maritime, tandis que d’autres informations
+      font état d’un système de péage en cours d’élaboration, lié à la supervision iranienne
+      du passage en toute sécurité. Du point de vue de Téhéran, la logique est simple.
+      La guerre a infligé des dégâts immenses à l’Iran, non seulement par des frappes
+      directes, mais aussi à travers la perte de production, la perturbation du commerce,
+      la destruction d’installations et une paralysie économique plus large. Le Programme
+      des Nations unies pour le développement a estimé jusqu’à 194 milliards de dollars
+      de pertes de production économique à l’échelle régionale en raison de la guerre,
+      tandis que le FMI a décrit le conflit comme un choc majeur pour les flux énergétiques
+      et la stabilité économique. Il s’agit d’estimations régionales et non d’un bilan
+      définitif pour l’Iran seul, mais elles appuient l’idée plus large selon laquelle
+      les dommages atteignent des centaines de milliards de dollars une fois prises
+      en compte les destructions directes et les pertes économiques à long terme. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La guerre contre l'Iran a non seulement causé des destructions
+      et des pertes humaines, mais a également permis à Téhéran de redéfinir le détroit
+      d'Ormuz comme un levier économique, en transformant son rôle de simple point de
+      pression en un moyen d'imposer des frais aux navires qui l'utilisent.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre contre l'Iran
+      a non seulement causé des destructions et des pertes humaines, mais a également
+      modifié la dynamique stratégique du détroit d'Ormuz. Historiquement perçu comme
+      un point de pression pour les marchés mondiaux de l'énergie, ce passage maritime
+      est devenu une opportunité pour l'Iran de le redéfinir comme un levier économique,
+      permettant d'imposer des frais d'accès et de transit aux navires. Depuis le début
+      de la guerre en février 2026, l'Iran a renforcé son contrôle sur le détroit, imposant
+      des restrictions et envisageant un système de péage pour le passage maritime.
+      Cette stratégie vise à monétiser le contrôle du détroit, en réponse aux dommages
+      économiques subis par le pays à cause du conflit.
+    published: '2026-04-06T05:23:41+00:00'
+  - title: 'Le prix de la guerre : comment l’Iran pourrait faire du détroit d’Ormuz
+      un mécanisme de compensation'
+    url: https://ejmagnier.com/2026/04/06/le-prix-de-la-guerre-comment-liran-pourrait-faire-du-detroit-dormuz-un-mecanisme-de-compensation/
+    text: 'Par Elijah J Magnier – La guerre contre l’Iran ne s’est pas contentée de
+      détruire des infrastructures, de tuer des civils et de déstabiliser l’ensemble
+      de la région. Elle a aussi modifié la logique stratégique du détroit d’Ormuz.
+      Pendant des décennies, cette voie maritime a surtout été considérée comme un point
+      de pression, un passage dont la fermeture ou la perturbation pouvait ébranler
+      les marchés mondiaux de l’énergie. Mais la guerre illégale menée contre l’Iran
+      a créé un autre type d’ouverture. Elle a offert à Téhéran une occasion rare de
+      redéfinir le détroit non seulement comme un levier militaire, mais aussi comme
+      un instrument économique : un lieu où des frais d’accès et de transit pourraient
+      être imposés aux navires et aux pétroliers qui dépendent de l’un des goulets d’étranglement
+      maritimes les plus cruciaux du monde. Pendant des décennies, ce levier a surtout
+      été envisagé sous un angle négatif : le pouvoir d’interrompre. Mais l’interruption
+      détruit de la valeur pour tout le monde, y compris pour l’Iran. Une stratégie
+      plus intelligente consiste à monétiser ce levier. Cette idée n’est plus abstraite.
+      Depuis le début de la guerre, fin février 2026, l’Iran s’est employé à resserrer
+      son contrôle sur le passage par Ormuz, notamment en imposant des restrictions
+      sélectives et des exigences de coordination aux navires souhaitant transiter.
+      L’Iran a effectivement fermé le détroit au début du mois de mars avant d’autoriser
+      par la suite des catégories limitées de trafic maritime, tandis que d’autres informations
+      font état d’un système de péage en cours d’élaboration, lié à la supervision iranienne
+      du passage en toute sécurité. Du point de vue de Téhéran, la logique est simple.
+      La guerre a infligé des dégâts immenses à l’Iran, non seulement par des frappes
+      directes, mais aussi à travers la perte de production, la perturbation du commerce,
+      la destruction d’installations et une paralysie économique plus large. Le Programme
+      des Nations unies pour le développement a estimé jusqu’à 194 milliards de dollars
+      de pertes de production économique à l’échelle régionale en raison de la guerre,
+      tandis que le FMI a décrit le conflit comme un choc majeur pour les flux énergétiques
+      et la stabilité économique. Il s’agit d’estimations régionales et non d’un bilan
+      définitif pour l’Iran seul, mais elles appuient l’idée plus large selon laquelle
+      les dommages atteignent des centaines de milliards de dollars une fois prises
+      en compte les destructions directes et les pertes économiques à long terme. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: La guerre contre l'Iran a non seulement causé des destructions
+      et des pertes humaines, mais a également permis à Téhéran de redéfinir le détroit
+      d'Ormuz comme un levier économique, en transformant son rôle de simple point de
+      pression en un moyen d'imposer des frais aux navires qui l'utilisent.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la guerre contre l'Iran
+      a non seulement causé des destructions et des pertes humaines, mais a également
+      modifié la dynamique stratégique du détroit d'Ormuz. Historiquement perçu comme
+      un point de pression pour les marchés mondiaux de l'énergie, ce passage maritime
+      est devenu une opportunité pour l'Iran de le redéfinir comme un levier économique,
+      permettant d'imposer des frais d'accès et de transit aux navires. Depuis le début
+      de la guerre en février 2026, l'Iran a renforcé son contrôle sur le détroit, imposant
+      des restrictions et envisageant un système de péage pour le passage maritime.
+      Cette stratégie vise à monétiser le contrôle du détroit, en réponse aux dommages
+      économiques subis par le pays à cause du conflit.
+    published: '2026-04-06T05:23:41+00:00'
+  - title: 'Der Preis des Krieges: Wie der Iran die Straße von Hormus als Entschädigung
+      nutzen könnte'
+    url: https://ejmagnier.com/2026/04/06/der-preis-des-krieges-wie-der-iran-die-strase-von-hormus-als-entschadigung-nutzen-konnte/
+    text: 'Von Elijah J. Magnier – Der Krieg gegen den Iran hat nicht nur Infrastruktur
+      zerstört, Zivilisten getötet und die gesamte Region destabilisiert. Er hat auch
+      die strategische Logik der Straße von Hormus verändert. Jahrzehntelang wurde diese
+      Wasserstraße vor allem als Druckmittel betrachtet – als eine Route, deren Sperrung
+      oder Unterbrechung die globalen Energiemärkte erschüttern könnte. Doch der gegen
+      den Iran geführte unrechtmäßige Krieg schuf eine andere Art von Öffnung. Er bot
+      Teheran die seltene Gelegenheit, die Meerenge nicht nur als militärischen Hebel,
+      sondern auch als wirtschaftliches Instrument neu zu definieren: als einen Ort,
+      an dem Zugangs- und Transitgebühren von Schiffen und Tankern erhoben werden könnten,
+      die auf einen der weltweit wichtigsten maritimen Engpässe angewiesen sind. Jahrzehntelang
+      wurde dieser Hebel meist in negativen Begriffen diskutiert: als Macht zur Unterbrechung.
+      Doch Unterbrechung zerstört Wert für alle, einschließlich des Iran. Eine klügere
+      Strategie ist die Monetarisierung. Diese Idee ist nicht mehr abstrakt. Seit Beginn
+      des Krieges Ende Februar 2026 hat der Iran Schritte unternommen, um die Kontrolle
+      über die Durchfahrt durch Hormuz zu verschärfen, einschließlich selektiver Beschränkungen
+      und Koordinierungsauflagen für Schiffe, die die Durchfahrt beantragen. Der Iran
+      hat die Meerenge Anfang März effektiv geschlossen und später begrenzte Kategorien
+      von Schiffen zugelassen, während andere Berichte von einem sich entwickelnden
+      Mautsystem berichten, das an die iranische Überwachung der sicheren Durchfahrt
+      geknüpft ist. Aus Teherans Sicht ist die Logik klar. Der Krieg hat dem Iran immensen
+      Schaden zugefügt, nicht nur durch direkte Angriffe, sondern auch durch Produktionsausfälle,
+      Handelsunterbrechungen, zerstörte Anlagen und eine weitreichende wirtschaftliche
+      Lähmung. Das Entwicklungsprogramm der Vereinten Nationen schätzt die durch den
+      Krieg verursachten wirtschaftlichen Verluste in der gesamten Region auf bis zu
+      194 Milliarden US-Dollar, während der IWF den Konflikt als schweren Schock für
+      die Energieflüsse und die wirtschaftliche Stabilität bezeichnet hat. Das sind
+      regionale Schätzungen, keine endgültige Bilanz für den Iran allein, doch sie stützen
+      die allgemeine Behauptung, dass sich der Schaden auf Hunderte von Milliarden Dollar
+      beläuft, wenn man direkte Zerstörungen und langfristige wirtschaftliche Verluste
+      mit einbezieht. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Krieg gegen den Iran hat nicht nur Zivilisten und Infrastruktur
+      geschädigt, sondern auch die strategische Bedeutung der Straße von Hormus verändert,
+      indem er Teheran die Möglichkeit gab, diese Wasserstraße als wirtschaftliches
+      Instrument zur Erhebung von Gebühren für den Schiffsverkehr zu nutzen, anstatt
+      sie nur als militärisches Druckmittel zu betrachten.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt, wie der Krieg gegen
+      den Iran nicht nur Zerstörung und Instabilität in der Region verursacht hat, sondern
+      auch die strategische Bedeutung der Straße von Hormus verändert hat. Anstatt diese
+      Wasserstraße lediglich als militärisches Druckmittel zu betrachten, sieht der
+      Iran nun die Möglichkeit, sie als wirtschaftliches Instrument zu nutzen, indem
+      er Gebühren für den Zugang und Transit von Schiffen erhebt. Seit Beginn des Krieges
+      im Februar 2026 hat Teheran Maßnahmen ergriffen, um die Kontrolle über die Durchfahrt
+      zu verschärfen, einschließlich einer effektiven Schließung der Meerenge und der
+      Einführung eines Mautsystems. Diese Strategie zielt darauf ab, die wirtschaftlichen
+      Verluste, die durch den Krieg entstanden sind, zu kompensieren, die laut den Vereinten
+      Nationen bis zu 194 Milliarden US-Dollar betragen könnten.
+    published: '2026-04-06T05:22:20+00:00'
+  - title: 'Der Preis des Krieges: Wie der Iran die Straße von Hormus als Entschädigung
+      nutzen könnte'
+    url: https://ejmagnier.com/2026/04/06/der-preis-des-krieges-wie-der-iran-die-strase-von-hormus-als-entschadigung-nutzen-konnte/
+    text: 'Von Elijah J. Magnier – Der Krieg gegen den Iran hat nicht nur Infrastruktur
+      zerstört, Zivilisten getötet und die gesamte Region destabilisiert. Er hat auch
+      die strategische Logik der Straße von Hormus verändert. Jahrzehntelang wurde diese
+      Wasserstraße vor allem als Druckmittel betrachtet – als eine Route, deren Sperrung
+      oder Unterbrechung die globalen Energiemärkte erschüttern könnte. Doch der gegen
+      den Iran geführte unrechtmäßige Krieg schuf eine andere Art von Öffnung. Er bot
+      Teheran die seltene Gelegenheit, die Meerenge nicht nur als militärischen Hebel,
+      sondern auch als wirtschaftliches Instrument neu zu definieren: als einen Ort,
+      an dem Zugangs- und Transitgebühren von Schiffen und Tankern erhoben werden könnten,
+      die auf einen der weltweit wichtigsten maritimen Engpässe angewiesen sind. Jahrzehntelang
+      wurde dieser Hebel meist in negativen Begriffen diskutiert: als Macht zur Unterbrechung.
+      Doch Unterbrechung zerstört Wert für alle, einschließlich des Iran. Eine klügere
+      Strategie ist die Monetarisierung. Diese Idee ist nicht mehr abstrakt. Seit Beginn
+      des Krieges Ende Februar 2026 hat der Iran Schritte unternommen, um die Kontrolle
+      über die Durchfahrt durch Hormuz zu verschärfen, einschließlich selektiver Beschränkungen
+      und Koordinierungsauflagen für Schiffe, die die Durchfahrt beantragen. Der Iran
+      hat die Meerenge Anfang März effektiv geschlossen und später begrenzte Kategorien
+      von Schiffen zugelassen, während andere Berichte von einem sich entwickelnden
+      Mautsystem berichten, das an die iranische Überwachung der sicheren Durchfahrt
+      geknüpft ist. Aus Teherans Sicht ist die Logik klar. Der Krieg hat dem Iran immensen
+      Schaden zugefügt, nicht nur durch direkte Angriffe, sondern auch durch Produktionsausfälle,
+      Handelsunterbrechungen, zerstörte Anlagen und eine weitreichende wirtschaftliche
+      Lähmung. Das Entwicklungsprogramm der Vereinten Nationen schätzt die durch den
+      Krieg verursachten wirtschaftlichen Verluste in der gesamten Region auf bis zu
+      194 Milliarden US-Dollar, während der IWF den Konflikt als schweren Schock für
+      die Energieflüsse und die wirtschaftliche Stabilität bezeichnet hat. Das sind
+      regionale Schätzungen, keine endgültige Bilanz für den Iran allein, doch sie stützen
+      die allgemeine Behauptung, dass sich der Schaden auf Hunderte von Milliarden Dollar
+      beläuft, wenn man direkte Zerstörungen und langfristige wirtschaftliche Verluste
+      mit einbezieht. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Der Krieg gegen den Iran hat nicht nur Zivilisten und Infrastruktur
+      geschädigt, sondern auch die strategische Bedeutung der Straße von Hormus verändert,
+      indem er Teheran die Möglichkeit gab, diese Wasserstraße als wirtschaftliches
+      Instrument zur Erhebung von Gebühren für den Schiffsverkehr zu nutzen, anstatt
+      sie nur als militärisches Druckmittel zu betrachten.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beschreibt, wie der Krieg gegen
+      den Iran nicht nur Zerstörung und Instabilität in der Region verursacht hat, sondern
+      auch die strategische Bedeutung der Straße von Hormus verändert hat. Anstatt diese
+      Wasserstraße lediglich als militärisches Druckmittel zu betrachten, sieht der
+      Iran nun die Möglichkeit, sie als wirtschaftliches Instrument zu nutzen, indem
+      er Gebühren für den Zugang und Transit von Schiffen erhebt. Seit Beginn des Krieges
+      im Februar 2026 hat Teheran Maßnahmen ergriffen, um die Kontrolle über die Durchfahrt
+      zu verschärfen, einschließlich einer effektiven Schließung der Meerenge und der
+      Einführung eines Mautsystems. Diese Strategie zielt darauf ab, die wirtschaftlichen
+      Verluste, die durch den Krieg entstanden sind, zu kompensieren, die laut den Vereinten
+      Nationen bis zu 194 Milliarden US-Dollar betragen könnten.
+    published: '2026-04-06T05:22:20+00:00'
+  - title: 'Bushehr Is a Target: Crossing the Nuclear Threshold in the war on Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-is-a-target-crossing-the-nuclear-threshold-in-the-war-on-iran/
+    text: 'By Elijah J. Magnier The quiet withdrawal of Russian personnel from Iran’s
+      Bushehr nuclear power plant is not a technical detail. It is a warning grounded
+      in operational assessment. Russia’s state nuclear company, Rosatom, has evacuated
+      hundreds of its engineers and technicians as the conflict intensifies, with further
+      evacuations ongoing as risks rise. Such a decision is not taken lightly, particularly
+      by the state that designed and built the facility. It reflects a judgment that
+      the operational environment surrounding Bushehr is deteriorating to a point where
+      safety can no longer be guaranteed within acceptable margins. Moscow is not reacting
+      to speculation but to a changing risk profile on the ground. Confirmed incidents
+      in the vicinity of the plant reinforce this assessment. The International Atomic
+      Energy Agency has reported that a projectile struck near the Bushehr facility,
+      killing a member of its security staff and causing structural damage through shockwaves
+      and fragments. While no increase in radiation levels has been recorded, this absence
+      of catastrophe should not be misinterpreted as evidence of stability. Rather,
+      it indicates that the system has not yet crossed a critical threshold, despite
+      being exposed to conditions that could trigger it. At the same time, Washington
+      has signalled an expansion of targeting toward Iran’s energy infrastructure. This
+      development introduces a convergence of risks. On one side, there is increasing
+      pressure on systems that sustain the state, including power generation and distribution.
+      On the other hand, there are repeated incidents in proximity to a nuclear facility
+      whose safe operation depends on the integrity of those very systems. The intersection
+      of these dynamics defines the current phase of the conflict. It raises the question
+      of whether escalation is approaching a point where its consequences can no longer
+      be contained. The Bushehr threshold: a red line defined by law and consequence
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: The evacuation of Russian personnel from Iran's Bushehr nuclear
+      power plant by Rosatom signals a serious concern over deteriorating safety conditions
+      amid escalating conflict, highlighted by recent incidents near the facility.
+    paragraph_summary: The recent withdrawal of Russian personnel from Iran's Bushehr
+      nuclear power plant signals a significant concern regarding the safety and operational
+      environment of the facility, as Russia's state nuclear company, Rosatom, has evacuated
+      hundreds of engineers and technicians amid escalating conflict risks. This decision
+      reflects a serious assessment of deteriorating conditions, particularly following
+      confirmed incidents near the plant, including a projectile strike that resulted
+      in casualties and structural damage. Although radiation levels remain stable,
+      the situation remains precarious, highlighting the potential for catastrophic
+      consequences if conditions worsen. Additionally, the U.S. has indicated an intention
+      to target Iran's energy infrastructure, compounding the risks to the nuclear facility,
+      which relies on the integrity of these systems for safe operation. This convergence
+      of threats raises concerns about the potential for escalation in the conflict,
+      suggesting that the situation is approaching a critical threshold that could have
+      severe implications.
+    published: '2026-04-05T04:12:57+00:00'
+  - title: 'Bushehr Is a Target: Crossing the Nuclear Threshold in the war on Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-is-a-target-crossing-the-nuclear-threshold-in-the-war-on-iran/
+    text: 'By Elijah J. Magnier The quiet withdrawal of Russian personnel from Iran’s
+      Bushehr nuclear power plant is not a technical detail. It is a warning grounded
+      in operational assessment. Russia’s state nuclear company, Rosatom, has evacuated
+      hundreds of its engineers and technicians as the conflict intensifies, with further
+      evacuations ongoing as risks rise. Such a decision is not taken lightly, particularly
+      by the state that designed and built the facility. It reflects a judgment that
+      the operational environment surrounding Bushehr is deteriorating to a point where
+      safety can no longer be guaranteed within acceptable margins. Moscow is not reacting
+      to speculation but to a changing risk profile on the ground. Confirmed incidents
+      in the vicinity of the plant reinforce this assessment. The International Atomic
+      Energy Agency has reported that a projectile struck near the Bushehr facility,
+      killing a member of its security staff and causing structural damage through shockwaves
+      and fragments. While no increase in radiation levels has been recorded, this absence
+      of catastrophe should not be misinterpreted as evidence of stability. Rather,
+      it indicates that the system has not yet crossed a critical threshold, despite
+      being exposed to conditions that could trigger it. At the same time, Washington
+      has signalled an expansion of targeting toward Iran’s energy infrastructure. This
+      development introduces a convergence of risks. On one side, there is increasing
+      pressure on systems that sustain the state, including power generation and distribution.
+      On the other hand, there are repeated incidents in proximity to a nuclear facility
+      whose safe operation depends on the integrity of those very systems. The intersection
+      of these dynamics defines the current phase of the conflict. It raises the question
+      of whether escalation is approaching a point where its consequences can no longer
+      be contained. The Bushehr threshold: a red line defined by law and consequence
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: The evacuation of Russian personnel from Iran's Bushehr nuclear
+      power plant by Rosatom signals a serious concern over deteriorating safety conditions
+      amid escalating conflict, highlighted by recent incidents near the facility.
+    paragraph_summary: The recent withdrawal of Russian personnel from Iran's Bushehr
+      nuclear power plant signals a significant concern regarding the safety and operational
+      environment of the facility, as Russia's state nuclear company, Rosatom, has evacuated
+      hundreds of engineers and technicians amid escalating conflict risks. This decision
+      reflects a serious assessment of deteriorating conditions, particularly following
+      confirmed incidents near the plant, including a projectile strike that resulted
+      in casualties and structural damage. Although radiation levels remain stable,
+      the situation remains precarious, highlighting the potential for catastrophic
+      consequences if conditions worsen. Additionally, the U.S. has indicated an intention
+      to target Iran's energy infrastructure, compounding the risks to the nuclear facility,
+      which relies on the integrity of these systems for safe operation. This convergence
+      of threats raises concerns about the potential for escalation in the conflict,
+      suggesting that the situation is approaching a critical threshold that could have
+      severe implications.
+    published: '2026-04-05T04:12:57+00:00'
+  - title: 'Bushehr est une cible : franchir le seuil nucléaire dans la guerre contre
+      l’Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-est-une-cible-franchir-le-seuil-nucleaire-dans-la-guerre-contre-liran/
+    text: 'Par Elijah J. Magnier Le retrait discret du personnel russe de la centrale
+      nucléaire de Bushehr, en Iran, n’est pas un simple détail technique. Il constitue
+      un signal d’alerte fondé sur une évaluation opérationnelle. L’entreprise nucléaire
+      publique russe Rosatom a évacué des centaines de ses ingénieurs et techniciens
+      à mesure que le conflit s’intensifie, et d’autres évacuations se poursuivent à
+      mesure que les risques augmentent. Une telle décision n’est pas prise à la légère,
+      en particulier par l’État qui a conçu et construit l’installation. Elle reflète
+      un jugement selon lequel l’environnement opérationnel autour de Bushehr se dégrade
+      au point que la sécurité ne peut plus être garantie dans des marges acceptables.
+      Moscou ne réagit pas à des spéculations mais à une évolution concrète du niveau
+      de risque sur le terrain. Cette évaluation est renforcée par des incidents confirmés
+      à proximité de la centrale. L’Agence internationale de l’énergie atomique a indiqué
+      qu’un projectile a frappé près de l’installation de Bushehr, tuant un membre du
+      personnel de sécurité et causant des dommages structurels par effet de souffle
+      et projections. Bien qu’aucune augmentation des niveaux de radiation n’ait été
+      enregistrée, cette absence de catastrophe ne doit pas être interprétée comme un
+      signe de stabilité. Elle indique au contraire que le système n’a pas encore franchi
+      un seuil critique, malgré une exposition à des conditions susceptibles de le déclencher.
+      Dans le même temps, Washington a laissé entendre une extension du ciblage vers
+      les infrastructures énergétiques iraniennes. Cette évolution crée une convergence
+      des risques. D’un côté, la pression s’accroît sur les systèmes qui soutiennent
+      l’État, notamment la production et la distribution d’énergie. De l’autre, des
+      incidents répétés surviennent à proximité d’une installation nucléaire dont le
+      fonctionnement sûr dépend précisément de l’intégrité de ces systèmes. L’intersection
+      de ces dynamiques définit la phase actuelle du conflit et pose la question de
+      savoir si l’escalade s’approche d’un point où ses conséquences ne pourront plus
+      être contenues. Le seuil de Bushehr : une ligne rouge définie par le droit et
+      les conséquences Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le retrait du personnel russe de la centrale nucléaire de
+      Bushehr en Iran, orchestré par Rosatom, indique une dégradation significative
+      de la sécurité opérationnelle en raison de l'intensification du conflit et des
+      risques croissants dans la région.
+    paragraph_summary: Le retrait du personnel russe de la centrale nucléaire de Bushehr
+      en Iran, orchestré par Rosatom, signale une dégradation inquiétante de la sécurité
+      opérationnelle dans le contexte d'un conflit croissant. Cette évacuation, qui
+      concerne des centaines d'ingénieurs et de techniciens, reflète une évaluation
+      sérieuse des risques, exacerbée par des incidents récents, dont un projectile
+      ayant frappé près de la centrale, causant des dommages et la mort d'un membre
+      du personnel de sécurité. Bien qu'aucune augmentation des niveaux de radiation
+      n'ait été observée, la situation reste précaire, indiquant que le système n'a
+      pas encore atteint un seuil critique. Parallèlement, les États-Unis envisagent
+      d'intensifier leurs actions contre les infrastructures énergétiques iraniennes,
+      augmentant ainsi les risques pour les systèmes de soutien de l'État iranien et
+      la sécurité de l'installation nucléaire, ce qui souligne la complexité et la tension
+      croissante de la situation actuelle.
+    published: '2026-04-05T04:10:24+00:00'
+  - title: 'Bushehr est une cible : franchir le seuil nucléaire dans la guerre contre
+      l’Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-est-une-cible-franchir-le-seuil-nucleaire-dans-la-guerre-contre-liran/
+    text: 'Par Elijah J. Magnier Le retrait discret du personnel russe de la centrale
+      nucléaire de Bushehr, en Iran, n’est pas un simple détail technique. Il constitue
+      un signal d’alerte fondé sur une évaluation opérationnelle. L’entreprise nucléaire
+      publique russe Rosatom a évacué des centaines de ses ingénieurs et techniciens
+      à mesure que le conflit s’intensifie, et d’autres évacuations se poursuivent à
+      mesure que les risques augmentent. Une telle décision n’est pas prise à la légère,
+      en particulier par l’État qui a conçu et construit l’installation. Elle reflète
+      un jugement selon lequel l’environnement opérationnel autour de Bushehr se dégrade
+      au point que la sécurité ne peut plus être garantie dans des marges acceptables.
+      Moscou ne réagit pas à des spéculations mais à une évolution concrète du niveau
+      de risque sur le terrain. Cette évaluation est renforcée par des incidents confirmés
+      à proximité de la centrale. L’Agence internationale de l’énergie atomique a indiqué
+      qu’un projectile a frappé près de l’installation de Bushehr, tuant un membre du
+      personnel de sécurité et causant des dommages structurels par effet de souffle
+      et projections. Bien qu’aucune augmentation des niveaux de radiation n’ait été
+      enregistrée, cette absence de catastrophe ne doit pas être interprétée comme un
+      signe de stabilité. Elle indique au contraire que le système n’a pas encore franchi
+      un seuil critique, malgré une exposition à des conditions susceptibles de le déclencher.
+      Dans le même temps, Washington a laissé entendre une extension du ciblage vers
+      les infrastructures énergétiques iraniennes. Cette évolution crée une convergence
+      des risques. D’un côté, la pression s’accroît sur les systèmes qui soutiennent
+      l’État, notamment la production et la distribution d’énergie. De l’autre, des
+      incidents répétés surviennent à proximité d’une installation nucléaire dont le
+      fonctionnement sûr dépend précisément de l’intégrité de ces systèmes. L’intersection
+      de ces dynamiques définit la phase actuelle du conflit et pose la question de
+      savoir si l’escalade s’approche d’un point où ses conséquences ne pourront plus
+      être contenues. Le seuil de Bushehr : une ligne rouge définie par le droit et
+      les conséquences Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: Le retrait du personnel russe de la centrale nucléaire de
+      Bushehr en Iran, orchestré par Rosatom, indique une dégradation significative
+      de la sécurité opérationnelle en raison de l'intensification du conflit et des
+      risques croissants dans la région.
+    paragraph_summary: Le retrait du personnel russe de la centrale nucléaire de Bushehr
+      en Iran, orchestré par Rosatom, signale une dégradation inquiétante de la sécurité
+      opérationnelle dans le contexte d'un conflit croissant. Cette évacuation, qui
+      concerne des centaines d'ingénieurs et de techniciens, reflète une évaluation
+      sérieuse des risques, exacerbée par des incidents récents, dont un projectile
+      ayant frappé près de la centrale, causant des dommages et la mort d'un membre
+      du personnel de sécurité. Bien qu'aucune augmentation des niveaux de radiation
+      n'ait été observée, la situation reste précaire, indiquant que le système n'a
+      pas encore atteint un seuil critique. Parallèlement, les États-Unis envisagent
+      d'intensifier leurs actions contre les infrastructures énergétiques iraniennes,
+      augmentant ainsi les risques pour les systèmes de soutien de l'État iranien et
+      la sécurité de l'installation nucléaire, ce qui souligne la complexité et la tension
+      croissante de la situation actuelle.
+    published: '2026-04-05T04:10:24+00:00'
+  - title: 'Bushehr ist ein Ziel: Die nukleare Schwelle im Krieg gegen den Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-ist-ein-ziel-die-nukleare-schwelle-im-krieg-gegen-den-iran/
+    text: 'Von Elijah J. Magnier Der stillschweigende Abzug des russischen Personals
+      aus dem iranischen Kernkraftwerk Bushehr ist kein technisches Detail. Es handelt
+      sich um eine Warnung, die auf einer operativen Einschätzung beruht. Russlands
+      staatliches Atomunternehmen Rosatom hat Hunderte seiner Ingenieure und Techniker
+      evakuiert, während sich der Konflikt verschärft, und weitere Evakuierungen werden
+      fortgesetzt, da die Risiken steigen. Eine solche Entscheidung wird nicht leichtfertig
+      getroffen, insbesondere nicht von dem Staat, der die Anlage entworfen und gebaut
+      hat. Sie spiegelt die Einschätzung wider, dass sich das operative Umfeld rund
+      um Bushehr so weit verschlechtert, dass die Sicherheit nicht mehr innerhalb akzeptabler
+      Grenzen gewährleistet werden kann. Moskau reagiert nicht auf Spekulationen, sondern
+      auf ein sich veränderndes Risikoprofil vor Ort. Diese Einschätzung wird durch
+      bestätigte Vorfälle in der Umgebung des Kraftwerks untermauert. Die Internationale
+      Atomenergie-Organisation hat berichtet, dass ein Geschoss in der Nähe der Anlage
+      in Bushehr einschlug, wobei ein Mitglied des Sicherheitspersonals getötet wurde
+      und durch Schockwellen und Splitter strukturelle Schäden entstanden. Zwar wurde
+      kein Anstieg der Strahlungswerte verzeichnet, doch sollte das Ausbleiben einer
+      Katastrophe nicht als Beweis für Stabilität missverstanden werden. Vielmehr deutet
+      dies darauf hin, dass das System eine kritische Schwelle noch nicht überschritten
+      hat, obwohl es Bedingungen ausgesetzt ist, die dies auslösen könnten. Gleichzeitig
+      hat Washington eine Ausweitung der Angriffsziele auf die iranische Energieinfrastruktur
+      signalisiert. Diese Entwicklung führt zu einer Konvergenz von Risiken. Auf der
+      einen Seite wächst der Druck auf Systeme, die den Staat am Laufen halten, darunter
+      die Stromerzeugung und -verteilung. Auf der anderen Seite kommt es wiederholt
+      zu Zwischenfällen in der Nähe einer kerntechnischen Anlage, deren sicherer Betrieb
+      von der Integrität eben dieser Systeme abhängt. Das Zusammentreffen dieser Dynamiken
+      prägt die aktuelle Phase des Konflikts und wirft die Frage auf, ob die Eskalation
+      sich einem Punkt nähert, an dem ihre Folgen nicht mehr einzudämmen sind. Die Schwelle
+      von Bushehr: eine durch Recht und Folgen definierte rote Linie Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Abzug russischer Ingenieure aus dem iranischen Kernkraftwerk
+      Bushehr signalisiert eine ernsthafte Sicherheitsbewertung angesichts der verschärften
+      Konfliktsituation und der gestiegenen Risiken in der Umgebung der Anlage.
+    paragraph_summary: Der Abzug russischer Ingenieure und Techniker aus dem iranischen
+      Kernkraftwerk Bushehr ist ein ernstzunehmendes Signal, das auf eine verschlechterte
+      Sicherheitslage hinweist. Die russische Atombehörde Rosatom hat Hunderte von Mitarbeitern
+      evakuiert, da die Risiken in der Umgebung des Kraftwerks zunehmen, was durch kürzliche
+      Vorfälle, einschließlich eines Angriffs, der ein Sicherheitsmitglied tötete und
+      strukturelle Schäden verursachte, untermauert wird. Obwohl die Strahlungswerte
+      stabil bleiben, deutet dies nicht auf Sicherheit hin, sondern zeigt, dass die
+      kritische Schwelle noch nicht überschritten wurde. Gleichzeitig hat Washington
+      angekündigt, die Angriffsziele auf die iranische Energieinfrastruktur auszuweiten,
+      was die Risiken für die Betriebssicherheit der Kernkraftanlage weiter erhöht.
+    published: '2026-04-05T04:02:04+00:00'
+  - title: 'Bushehr ist ein Ziel: Die nukleare Schwelle im Krieg gegen den Iran'
+    url: https://ejmagnier.com/2026/04/05/bushehr-ist-ein-ziel-die-nukleare-schwelle-im-krieg-gegen-den-iran/
+    text: 'Von Elijah J. Magnier Der stillschweigende Abzug des russischen Personals
+      aus dem iranischen Kernkraftwerk Bushehr ist kein technisches Detail. Es handelt
+      sich um eine Warnung, die auf einer operativen Einschätzung beruht. Russlands
+      staatliches Atomunternehmen Rosatom hat Hunderte seiner Ingenieure und Techniker
+      evakuiert, während sich der Konflikt verschärft, und weitere Evakuierungen werden
+      fortgesetzt, da die Risiken steigen. Eine solche Entscheidung wird nicht leichtfertig
+      getroffen, insbesondere nicht von dem Staat, der die Anlage entworfen und gebaut
+      hat. Sie spiegelt die Einschätzung wider, dass sich das operative Umfeld rund
+      um Bushehr so weit verschlechtert, dass die Sicherheit nicht mehr innerhalb akzeptabler
+      Grenzen gewährleistet werden kann. Moskau reagiert nicht auf Spekulationen, sondern
+      auf ein sich veränderndes Risikoprofil vor Ort. Diese Einschätzung wird durch
+      bestätigte Vorfälle in der Umgebung des Kraftwerks untermauert. Die Internationale
+      Atomenergie-Organisation hat berichtet, dass ein Geschoss in der Nähe der Anlage
+      in Bushehr einschlug, wobei ein Mitglied des Sicherheitspersonals getötet wurde
+      und durch Schockwellen und Splitter strukturelle Schäden entstanden. Zwar wurde
+      kein Anstieg der Strahlungswerte verzeichnet, doch sollte das Ausbleiben einer
+      Katastrophe nicht als Beweis für Stabilität missverstanden werden. Vielmehr deutet
+      dies darauf hin, dass das System eine kritische Schwelle noch nicht überschritten
+      hat, obwohl es Bedingungen ausgesetzt ist, die dies auslösen könnten. Gleichzeitig
+      hat Washington eine Ausweitung der Angriffsziele auf die iranische Energieinfrastruktur
+      signalisiert. Diese Entwicklung führt zu einer Konvergenz von Risiken. Auf der
+      einen Seite wächst der Druck auf Systeme, die den Staat am Laufen halten, darunter
+      die Stromerzeugung und -verteilung. Auf der anderen Seite kommt es wiederholt
+      zu Zwischenfällen in der Nähe einer kerntechnischen Anlage, deren sicherer Betrieb
+      von der Integrität eben dieser Systeme abhängt. Das Zusammentreffen dieser Dynamiken
+      prägt die aktuelle Phase des Konflikts und wirft die Frage auf, ob die Eskalation
+      sich einem Punkt nähert, an dem ihre Folgen nicht mehr einzudämmen sind. Die Schwelle
+      von Bushehr: eine durch Recht und Folgen definierte rote Linie Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der Abzug russischer Ingenieure aus dem iranischen Kernkraftwerk
+      Bushehr signalisiert eine ernsthafte Sicherheitsbewertung angesichts der verschärften
+      Konfliktsituation und der gestiegenen Risiken in der Umgebung der Anlage.
+    paragraph_summary: Der Abzug russischer Ingenieure und Techniker aus dem iranischen
+      Kernkraftwerk Bushehr ist ein ernstzunehmendes Signal, das auf eine verschlechterte
+      Sicherheitslage hinweist. Die russische Atombehörde Rosatom hat Hunderte von Mitarbeitern
+      evakuiert, da die Risiken in der Umgebung des Kraftwerks zunehmen, was durch kürzliche
+      Vorfälle, einschließlich eines Angriffs, der ein Sicherheitsmitglied tötete und
+      strukturelle Schäden verursachte, untermauert wird. Obwohl die Strahlungswerte
+      stabil bleiben, deutet dies nicht auf Sicherheit hin, sondern zeigt, dass die
+      kritische Schwelle noch nicht überschritten wurde. Gleichzeitig hat Washington
+      angekündigt, die Angriffsziele auf die iranische Energieinfrastruktur auszuweiten,
+      was die Risiken für die Betriebssicherheit der Kernkraftanlage weiter erhöht.
+    published: '2026-04-05T04:02:04+00:00'
+  - title: 'Der Verlust einer F-15E über dem Iran: Herausforderungen für Annahmen zur
+      Luftüberlegenheit und die operative Planung am Boden'
+    url: https://ejmagnier.com/2026/04/04/der-verlust-einer-f-15e-uber-dem-iran-herausforderungen-fur-annahmen-zur-luftuberlegenheit-und-die-operative-planung-am-boden/
+    text: 'Von Elijah J. Magnier Die Bestätigung, dass zwei amerikanische Piloten nach
+      dem gemeldeten Abschuss einer F-15E Strike Eagle mit dem Fallschirm über dem Iran
+      gelandet sind, stellt eine bedeutende Entwicklung im andauernden Krieg gegen den
+      Iran dar. Das Ereignis wurde durch operative Indikatoren untermauert, darunter
+      die Identifizierung von Trümmerteilen und die Einleitung von Such- und Bergungsmaßnahmen
+      durch die USA. Dies sind keine routinemäßigen Vorsichtsmaßnahmen; sie spiegeln
+      eine Reaktion auf einen glaubwürdigen Verlust in einem umkämpften Umfeld wider.
+      Die Umstände des Gefechts deuten auf einen gezielten und kontrollierten Einsatz
+      des iranischen Luftabwehrnetzes hin. Das Gefechtsmuster spiegelt eine doktrinär
+      kohärente Anwendung von Emissionskontrolltaktiken wider, bei denen Radarsysteme
+      über längere Zeiträume inaktiv gehalten werden, um eine Erkennung zu vermeiden,
+      und dann am Ort des Gefechts kurzzeitig aktiviert werden. Dies ermöglicht eine
+      Art Radar-Hinterhalt, der das Reaktionsfenster des Zielflugzeugs einschränkt und
+      die Wirksamkeit der an Bord befindlichen Gegenmaßnahmen verringert. Unter solchen
+      Bedingungen sind selbst fortschrittliche Plattformen einem engen, aber entscheidenden
+      Schwachstellenfenster ausgesetzt. Die Auswirkungen gehen über den Verlust eines
+      einzelnen Flugzeugs hinaus. Seit Wochen betont die von Washington vorgebrachte
+      Darstellung die überwältigende Kontrolle über den Einsatzraum. Der Iran wurde
+      als geschwächt beschrieben, seine Luftabwehr als geschwächt und seine Widerstandsfähigkeit
+      als begrenzt. Diese Darstellung diente einem klaren strategischen Zweck: den Konflikt
+      als beherrschbar, eingedämmt und letztlich kurz vor dem Abschluss darzustellen.
+      Die sich abzeichnende Realität zeichnet jedoch ein komplexeres Bild. Die Erosion
+      der Annahmen zur Luftüberlegenheit Die F-15E Strike Eagle ist genau für die Art
+      von Umfeld konzipiert, um die es hier geht. Es handelt sich um eine Plattform,
+      die für den Einsatz unter umkämpften Bedingungen gebaut wurde und mit fortschrittlicher
+      Avionik, elektronischen Kampfsystemen und defensiven Gegenmaßnahmen ausgestattet
+      ist. Ihr Einsatz birgt Risiken, setzt aber auch voraus, dass diese Risiken beherrscht
+      und gemindert werden können. Ihr Verlust unter diesen Bedingungen deutet nicht
+      nur darauf hin, dass die iranische Luftabwehr weiterhin einsatzfähig ist, sondern
+      auch, dass sie mit einem Maß an taktischer Disziplin und Koordination eingesetzt
+      wird, das die Unterdrückungsbemühungen direkt herausfordert. Dies deutet nicht
+      nur auf das Überleben der iranischen Luftabwehr hin, sondern auf eine teilweise
+      Umgehung der Unterdrückung und Zerstörung feindlicher Luftabwehrzyklen, die die
+      Doktrin der US-Luftüberlegenheit untermauern. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Bestätigung, dass zwei amerikanische Piloten nach dem
+      Abschuss einer F-15E Strike Eagle über dem Iran mit dem Fallschirm gelandet sind,
+      zeigt eine bedeutende Entwicklung im Konflikt mit Iran und deutet auf eine gezielte
+      und strategische Nutzung des iranischen Luftabwehrsystems hin.
+    paragraph_summary: Die Bestätigung, dass zwei amerikanische Piloten nach dem Abschuss
+      einer F-15E Strike Eagle über dem Iran mit dem Fallschirm gelandet sind, stellt
+      eine bedeutende Wendung im Konflikt mit dem Iran dar. Unterstützt durch operative
+      Indikatoren wie Trümmerteile und Such- und Bergungsmaßnahmen, deutet das Ereignis
+      auf eine gezielte und kontrollierte Nutzung des iranischen Luftabwehrsystems hin,
+      das durch Emissionskontrolltaktiken gekennzeichnet ist. Diese Taktiken ermöglichen
+      es, Radar nur kurzfristig zu aktivieren, was die Effektivität der Gegenmaßnahmen
+      der Flugzeuge einschränkt. Der Vorfall wirft Fragen zur bisherigen Darstellung
+      der amerikanischen Luftüberlegenheit auf, die den Iran als geschwächt und den
+      Konflikt als beherrschbar darstellt. Die Realität zeigt jedoch, dass die Annahmen
+      über die Kontrolle im Luftraum und die Widerstandsfähigkeit des Iran möglicherweise
+      überdacht werden müssen.
+    published: '2026-04-04T16:08:43+00:00'
+  - title: 'Der Verlust einer F-15E über dem Iran: Herausforderungen für Annahmen zur
+      Luftüberlegenheit und die operative Planung am Boden'
+    url: https://ejmagnier.com/2026/04/04/der-verlust-einer-f-15e-uber-dem-iran-herausforderungen-fur-annahmen-zur-luftuberlegenheit-und-die-operative-planung-am-boden/
+    text: 'Von Elijah J. Magnier Die Bestätigung, dass zwei amerikanische Piloten nach
+      dem gemeldeten Abschuss einer F-15E Strike Eagle mit dem Fallschirm über dem Iran
+      gelandet sind, stellt eine bedeutende Entwicklung im andauernden Krieg gegen den
+      Iran dar. Das Ereignis wurde durch operative Indikatoren untermauert, darunter
+      die Identifizierung von Trümmerteilen und die Einleitung von Such- und Bergungsmaßnahmen
+      durch die USA. Dies sind keine routinemäßigen Vorsichtsmaßnahmen; sie spiegeln
+      eine Reaktion auf einen glaubwürdigen Verlust in einem umkämpften Umfeld wider.
+      Die Umstände des Gefechts deuten auf einen gezielten und kontrollierten Einsatz
+      des iranischen Luftabwehrnetzes hin. Das Gefechtsmuster spiegelt eine doktrinär
+      kohärente Anwendung von Emissionskontrolltaktiken wider, bei denen Radarsysteme
+      über längere Zeiträume inaktiv gehalten werden, um eine Erkennung zu vermeiden,
+      und dann am Ort des Gefechts kurzzeitig aktiviert werden. Dies ermöglicht eine
+      Art Radar-Hinterhalt, der das Reaktionsfenster des Zielflugzeugs einschränkt und
+      die Wirksamkeit der an Bord befindlichen Gegenmaßnahmen verringert. Unter solchen
+      Bedingungen sind selbst fortschrittliche Plattformen einem engen, aber entscheidenden
+      Schwachstellenfenster ausgesetzt. Die Auswirkungen gehen über den Verlust eines
+      einzelnen Flugzeugs hinaus. Seit Wochen betont die von Washington vorgebrachte
+      Darstellung die überwältigende Kontrolle über den Einsatzraum. Der Iran wurde
+      als geschwächt beschrieben, seine Luftabwehr als geschwächt und seine Widerstandsfähigkeit
+      als begrenzt. Diese Darstellung diente einem klaren strategischen Zweck: den Konflikt
+      als beherrschbar, eingedämmt und letztlich kurz vor dem Abschluss darzustellen.
+      Die sich abzeichnende Realität zeichnet jedoch ein komplexeres Bild. Die Erosion
+      der Annahmen zur Luftüberlegenheit Die F-15E Strike Eagle ist genau für die Art
+      von Umfeld konzipiert, um die es hier geht. Es handelt sich um eine Plattform,
+      die für den Einsatz unter umkämpften Bedingungen gebaut wurde und mit fortschrittlicher
+      Avionik, elektronischen Kampfsystemen und defensiven Gegenmaßnahmen ausgestattet
+      ist. Ihr Einsatz birgt Risiken, setzt aber auch voraus, dass diese Risiken beherrscht
+      und gemindert werden können. Ihr Verlust unter diesen Bedingungen deutet nicht
+      nur darauf hin, dass die iranische Luftabwehr weiterhin einsatzfähig ist, sondern
+      auch, dass sie mit einem Maß an taktischer Disziplin und Koordination eingesetzt
+      wird, das die Unterdrückungsbemühungen direkt herausfordert. Dies deutet nicht
+      nur auf das Überleben der iranischen Luftabwehr hin, sondern auf eine teilweise
+      Umgehung der Unterdrückung und Zerstörung feindlicher Luftabwehrzyklen, die die
+      Doktrin der US-Luftüberlegenheit untermauern. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Bestätigung, dass zwei amerikanische Piloten nach dem
+      Abschuss einer F-15E Strike Eagle über dem Iran mit dem Fallschirm gelandet sind,
+      zeigt eine bedeutende Entwicklung im Konflikt mit Iran und deutet auf eine gezielte
+      und strategische Nutzung des iranischen Luftabwehrsystems hin.
+    paragraph_summary: Die Bestätigung, dass zwei amerikanische Piloten nach dem Abschuss
+      einer F-15E Strike Eagle über dem Iran mit dem Fallschirm gelandet sind, stellt
+      eine bedeutende Wendung im Konflikt mit dem Iran dar. Unterstützt durch operative
+      Indikatoren wie Trümmerteile und Such- und Bergungsmaßnahmen, deutet das Ereignis
+      auf eine gezielte und kontrollierte Nutzung des iranischen Luftabwehrsystems hin,
+      das durch Emissionskontrolltaktiken gekennzeichnet ist. Diese Taktiken ermöglichen
+      es, Radar nur kurzfristig zu aktivieren, was die Effektivität der Gegenmaßnahmen
+      der Flugzeuge einschränkt. Der Vorfall wirft Fragen zur bisherigen Darstellung
+      der amerikanischen Luftüberlegenheit auf, die den Iran als geschwächt und den
+      Konflikt als beherrschbar darstellt. Die Realität zeigt jedoch, dass die Annahmen
+      über die Kontrolle im Luftraum und die Widerstandsfähigkeit des Iran möglicherweise
+      überdacht werden müssen.
+    published: '2026-04-04T16:08:43+00:00'
+  - title: 'La perte d’un F-15E au-dessus de l’Iran : remise en cause des hypothèses
+      de supériorité aérienne et des plans d’opérations terrestres'
+    url: https://ejmagnier.com/2026/04/03/la-perte-dun-f-15e-au-dessus-de-liran-remise-en-cause-des-hypotheses-de-superiorite-aerienne-et-des-plans-doperations-terrestres/
+    text: 'Par Elijah J. Magnier La confirmation que deux pilotes américains se sont
+      éjectés au-dessus de l’Iran à la suite du signalement de la destruction d’un F-15E
+      Strike Eagle constitue un développement significatif dans la guerre en cours contre
+      l’Iran. Cet événement est étayé par des indicateurs opérationnels, notamment l’identification
+      de débris et le lancement d’opérations américaines de recherche et de récupération.
+      Il ne s’agit pas de mesures de précaution routinières ; elles traduisent une réponse
+      à une perte crédible dans un environnement contesté. Les circonstances de l’engagement
+      indiquent un emploi délibéré et maîtrisé du réseau de défense aérienne iranien.
+      Le mode d’engagement reflète une application doctrinalement cohérente de tactiques
+      de contrôle des émissions, dans lesquelles les radars restent inactifs pendant
+      de longues périodes afin d’éviter la détection, puis sont activés brièvement au
+      moment de l’engagement. Cela permet une forme d’embuscade radar, réduisant le
+      temps de réaction disponible pour l’aéronef ciblé et diminuant l’efficacité de
+      ses contre-mesures embarquées. Dans de telles conditions, même des plateformes
+      avancées sont exposées à une fenêtre de vulnérabilité étroite mais décisive. Les
+      implications dépassent la perte d’un seul appareil. Depuis des semaines, le discours
+      avancé par Washington met en avant un contrôle quasi total de l’espace opérationnel.
+      L’Iran a été décrit comme affaibli, ses défenses aériennes dégradées et sa capacité
+      de résistance limitée. Cette narration répond à un objectif stratégique clair
+      : présenter le conflit comme maîtrisé, contenu et proche de son terme. La réalité
+      émergente introduit toutefois une image plus complexe. L’érosion des hypothèses
+      de supériorité aérienne Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: La confirmation de l'éjection de deux pilotes américains après
+      la destruction d'un F-15E Strike Eagle au-dessus de l'Iran souligne une escalade
+      significative dans le conflit, révélant l'efficacité du réseau de défense aérienne
+      iranien et des tactiques sophistiquées d'engagement.
+    paragraph_summary: The recent ejection of two American pilots over Iran following
+      the reported destruction of an F-15E Strike Eagle marks a significant development
+      in the ongoing conflict with Iran. This incident is supported by operational indicators
+      such as debris identification and U.S. search and recovery operations, suggesting
+      a serious response rather than routine precautions. The circumstances indicate
+      a deliberate and controlled use of Iran's air defense network, employing tactics
+      that involve keeping radars inactive to avoid detection and then activating them
+      briefly during engagement, creating a radar ambush that limits the targeted aircraft's
+      reaction time and countermeasures. This situation highlights a critical vulnerability
+      even for advanced platforms and challenges the narrative from Washington that
+      portrays Iran as weakened and its air defenses degraded. The emerging reality
+      suggests a more complex picture of the conflict, undermining assumptions of U.S.
+      air superiority and control over the operational space.
+    published: '2026-04-03T19:00:33+00:00'
+  - title: 'La perte d’un F-15E au-dessus de l’Iran : remise en cause des hypothèses
+      de supériorité aérienne et des plans d’opérations terrestres'
+    url: https://ejmagnier.com/2026/04/03/la-perte-dun-f-15e-au-dessus-de-liran-remise-en-cause-des-hypotheses-de-superiorite-aerienne-et-des-plans-doperations-terrestres/
+    text: 'Par Elijah J. Magnier La confirmation que deux pilotes américains se sont
+      éjectés au-dessus de l’Iran à la suite du signalement de la destruction d’un F-15E
+      Strike Eagle constitue un développement significatif dans la guerre en cours contre
+      l’Iran. Cet événement est étayé par des indicateurs opérationnels, notamment l’identification
+      de débris et le lancement d’opérations américaines de recherche et de récupération.
+      Il ne s’agit pas de mesures de précaution routinières ; elles traduisent une réponse
+      à une perte crédible dans un environnement contesté. Les circonstances de l’engagement
+      indiquent un emploi délibéré et maîtrisé du réseau de défense aérienne iranien.
+      Le mode d’engagement reflète une application doctrinalement cohérente de tactiques
+      de contrôle des émissions, dans lesquelles les radars restent inactifs pendant
+      de longues périodes afin d’éviter la détection, puis sont activés brièvement au
+      moment de l’engagement. Cela permet une forme d’embuscade radar, réduisant le
+      temps de réaction disponible pour l’aéronef ciblé et diminuant l’efficacité de
+      ses contre-mesures embarquées. Dans de telles conditions, même des plateformes
+      avancées sont exposées à une fenêtre de vulnérabilité étroite mais décisive. Les
+      implications dépassent la perte d’un seul appareil. Depuis des semaines, le discours
+      avancé par Washington met en avant un contrôle quasi total de l’espace opérationnel.
+      L’Iran a été décrit comme affaibli, ses défenses aériennes dégradées et sa capacité
+      de résistance limitée. Cette narration répond à un objectif stratégique clair
+      : présenter le conflit comme maîtrisé, contenu et proche de son terme. La réalité
+      émergente introduit toutefois une image plus complexe. L’érosion des hypothèses
+      de supériorité aérienne Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: La confirmation de l'éjection de deux pilotes américains après
+      la destruction d'un F-15E Strike Eagle au-dessus de l'Iran souligne une escalade
+      significative dans le conflit, révélant l'efficacité du réseau de défense aérienne
+      iranien et des tactiques sophistiquées d'engagement.
+    paragraph_summary: The recent ejection of two American pilots over Iran following
+      the reported destruction of an F-15E Strike Eagle marks a significant development
+      in the ongoing conflict with Iran. This incident is supported by operational indicators
+      such as debris identification and U.S. search and recovery operations, suggesting
+      a serious response rather than routine precautions. The circumstances indicate
+      a deliberate and controlled use of Iran's air defense network, employing tactics
+      that involve keeping radars inactive to avoid detection and then activating them
+      briefly during engagement, creating a radar ambush that limits the targeted aircraft's
+      reaction time and countermeasures. This situation highlights a critical vulnerability
+      even for advanced platforms and challenges the narrative from Washington that
+      portrays Iran as weakened and its air defenses degraded. The emerging reality
+      suggests a more complex picture of the conflict, undermining assumptions of U.S.
+      air superiority and control over the operational space.
+    published: '2026-04-03T19:00:33+00:00'
+  - title: 'The F-15E Loss Over Iran: Challenges to Air Superiority Assumptions and Ground Operational
+      Planning'
+    url: https://ejmagnier.com/2026/04/03/the-f-15e-loss-over-iran-challenges-to-air-superiority-assumptions-and-ground-operational-planning/
+    text: 'By Elijah J. Magnier The confirmation that two American pilots parachuting
+      over Iran following the reported downing of a F-15E Strike Eaglerepresents a significant
+      development in the ongoing war against Iran. The event was supported by operational
+      indicators, including the identification of debris and the launch of US search
+      and recovery operations. These are not routine precautionary measures; they reflect
+      a response to a credible loss in a contested environment. The circumstances of
+      the engagement point to a deliberate and controlled use of Iran’s air defence
+      network. The pattern of engagement reflects a doctrinally coherent application
+      of emission control tactics, whereby radar systems are kept inactive for extended
+      periods to avoid detection, then activated briefly at the point of engagement.
+      This enables a form of radar ambush, compressing the response window available
+      to the target aircraft and reducing the effectiveness of onboard countermeasures.
+      In such conditions, even advanced platforms are exposed to a narrow but decisive
+      vulnerability window. The implications extend beyond the loss of a single aircraft.
+      For weeks, the narrative advanced by Washington has emphasised overwhelming control
+      of the operational space. Iran has been described as weakened, its air defences
+      degraded, and its capacity to resist limited. This narrative has served a clear
+      strategic purpose: to frame the conflict as manageable, contained, and ultimately
+      nearing conclusion. The emerging reality, however, introduces a more complex picture.
+      The erosion of air superiority assumptions Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The reported downing of a U.S. F-15E Strike Eagle over Iran,
+      leading to the parachuting of two American pilots and subsequent search operations,
+      highlights a significant escalation in the conflict, showcasing Iran's strategic
+      use of air defense tactics to effectively engage enemy aircraft.
+    paragraph_summary: The reported downing of a U.S. F-15E Strike Eagle over Iran,
+      along with the subsequent parachuting of two American pilots, marks a pivotal
+      moment in the ongoing conflict with Iran, indicating a significant operational
+      response rather than routine measures. This incident highlights Iran's sophisticated
+      use of air defense tactics, specifically emission control, which allows for effective
+      radar ambushes against advanced aircraft. Contrary to the narrative from Washington
+      that suggests Iran is weakened and its air defenses degraded, this event reveals
+      a more complex reality, challenging assumptions of U.S. air superiority and suggesting
+      that the conflict may be more challenging and less contained than previously portrayed.
+    published: '2026-04-03T18:54:08+00:00'
+  - title: 'The F-15E Loss Over Iran: Challenges to Air Superiority Assumptions and Ground Operational
+      Planning'
+    url: https://ejmagnier.com/2026/04/03/the-f-15e-loss-over-iran-challenges-to-air-superiority-assumptions-and-ground-operational-planning/
+    text: 'By Elijah J. Magnier The confirmation that two American pilots parachuting
+      over Iran following the reported downing of a F-15E Strike Eaglerepresents a significant
+      development in the ongoing war against Iran. The event was supported by operational
+      indicators, including the identification of debris and the launch of US search
+      and recovery operations. These are not routine precautionary measures; they reflect
+      a response to a credible loss in a contested environment. The circumstances of
+      the engagement point to a deliberate and controlled use of Iran’s air defence
+      network. The pattern of engagement reflects a doctrinally coherent application
+      of emission control tactics, whereby radar systems are kept inactive for extended
+      periods to avoid detection, then activated briefly at the point of engagement.
+      This enables a form of radar ambush, compressing the response window available
+      to the target aircraft and reducing the effectiveness of onboard countermeasures.
+      In such conditions, even advanced platforms are exposed to a narrow but decisive
+      vulnerability window. The implications extend beyond the loss of a single aircraft.
+      For weeks, the narrative advanced by Washington has emphasised overwhelming control
+      of the operational space. Iran has been described as weakened, its air defences
+      degraded, and its capacity to resist limited. This narrative has served a clear
+      strategic purpose: to frame the conflict as manageable, contained, and ultimately
+      nearing conclusion. The emerging reality, however, introduces a more complex picture.
+      The erosion of air superiority assumptions Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The reported downing of a U.S. F-15E Strike Eagle over Iran,
+      leading to the parachuting of two American pilots and subsequent search operations,
+      highlights a significant escalation in the conflict, showcasing Iran's strategic
+      use of air defense tactics to effectively engage enemy aircraft.
+    paragraph_summary: The reported downing of a U.S. F-15E Strike Eagle over Iran,
+      along with the subsequent parachuting of two American pilots, marks a pivotal
+      moment in the ongoing conflict with Iran, indicating a significant operational
+      response rather than routine measures. This incident highlights Iran's sophisticated
+      use of air defense tactics, specifically emission control, which allows for effective
+      radar ambushes against advanced aircraft. Contrary to the narrative from Washington
+      that suggests Iran is weakened and its air defenses degraded, this event reveals
+      a more complex reality, challenging assumptions of U.S. air superiority and suggesting
+      that the conflict may be more challenging and less contained than previously portrayed.
+    published: '2026-04-03T18:54:08+00:00'
+  - title: 'Europe’s Refusal to Fight Trump and Netanyahu’s war: NATO in Crisis'
+    url: https://ejmagnier.com/2026/04/01/europes-refusal-to-fight-trump-and-netanyahus-war-nato-in-crisis/
+    text: 'By Elijah J. Magnier – The war in Iran has exposed one of the deepest fractures
+      in transatlantic relations in decades. What began as a joint military campaign
+      led by Donald Trump and Benjamin Netanyahu has quickly turned into a geopolitical
+      standoff between the United States and its European allies. At the centre of this
+      divide is a simple but consequential reality: Europe has largely refused to participate
+      in the war. This refusal is not just about military hesitation. It reflects deeper
+      disagreements over legality, strategy, economic risk, and the future of global
+      alliances. As tensions have escalated, Trump has gone further, openly threatening
+      to withdraw the United States from NATO, raising questions about the future of
+      the Western security order. He expresses his ‘disgust’ with NATO and is ‘absolutely’
+      considering withdrawing the US from the alliance. A war with Arab Consensus but
+      Without European Backing Donald Trump has openly framed the war as a full-scale
+      regional operation, making clear that the United States is drawing on its entire
+      network of military bases across the Middle East to sustain strikes on Iran. With
+      assets spread across the Gulf and beyond, this is not a limited campaign but a
+      coordinated use of long-established U.S. military infrastructure in the region,
+      enabling continuous and wide-ranging attacks on Iranian targets. At the same time,
+      Benjamin Netanyahu—who is the subject of an arrest warrant issued by the International
+      Criminal Court for war crimes—has claimed that Israel is operating with quiet
+      political backing in the region. He has pointed to ongoing contact and alignment
+      with Arab leaders, not only over confronting Iran but also over expanding ties
+      with Israel itself. What is striking is the absence of direct public pushback.
+      Not a single major Middle Eastern government has clearly and explicitly denied
+      these claims. In a region where official statements are often carefully calibrated,
+      that silence matters. It suggests a space filled with ambiguity: part caution,
+      part strategic calculation, and possibly, in some cases, quiet alignment. That
+      silence does not automatically confirm agreement or disagreement. It may reflect
+      the difficult position many governments find themselves in, balancing domestic
+      opinion, regional tensions, and their relationships with both Washington and Israel.
+      But it does underline a key point. The war is not unfolding in a vacuum. It is
+      happening within a regional environment where opposition is muted, responses are
+      measured, and clear lines are deliberately avoided. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war in Iran has revealed significant rifts in transatlantic
+      relations, as the U.S. under Trump and Israel under Netanyahu pursue military
+      action that Europe largely refuses to support, highlighting deeper disagreements
+      over legality, strategy, and the future of global alliances, while Trump threatens
+      to withdraw the U.S. from NATO.
+    paragraph_summary: The ongoing war in Iran has revealed significant rifts in transatlantic
+      relations, particularly between the United States and its European allies, as
+      Europe largely declines to participate in the conflict initiated by Donald Trump
+      and Benjamin Netanyahu. This refusal stems from deeper disagreements over legality,
+      strategy, and economic implications, raising concerns about the future of NATO,
+      with Trump even contemplating a U.S. withdrawal from the alliance. The U.S. is
+      conducting a comprehensive military campaign against Iran, utilizing its extensive
+      network of bases in the Middle East, while Netanyahu claims to have regional support
+      from Arab leaders in confronting Iran, despite facing an arrest warrant for war
+      crimes. The lack of public dissent from Middle Eastern governments regarding Netanyahu's
+      assertions indicates a complex geopolitical landscape where silence may imply
+      tacit agreement.
+    published: '2026-04-01T17:43:17+00:00'
+  - title: 'Europe’s Refusal to Fight Trump and Netanyahu’s war: NATO in Crisis'
+    url: https://ejmagnier.com/2026/04/01/europes-refusal-to-fight-trump-and-netanyahus-war-nato-in-crisis/
+    text: 'By Elijah J. Magnier – The war in Iran has exposed one of the deepest fractures
+      in transatlantic relations in decades. What began as a joint military campaign
+      led by Donald Trump and Benjamin Netanyahu has quickly turned into a geopolitical
+      standoff between the United States and its European allies. At the centre of this
+      divide is a simple but consequential reality: Europe has largely refused to participate
+      in the war. This refusal is not just about military hesitation. It reflects deeper
+      disagreements over legality, strategy, economic risk, and the future of global
+      alliances. As tensions have escalated, Trump has gone further, openly threatening
+      to withdraw the United States from NATO, raising questions about the future of
+      the Western security order. He expresses his ‘disgust’ with NATO and is ‘absolutely’
+      considering withdrawing the US from the alliance. A war with Arab Consensus but
+      Without European Backing Donald Trump has openly framed the war as a full-scale
+      regional operation, making clear that the United States is drawing on its entire
+      network of military bases across the Middle East to sustain strikes on Iran. With
+      assets spread across the Gulf and beyond, this is not a limited campaign but a
+      coordinated use of long-established U.S. military infrastructure in the region,
+      enabling continuous and wide-ranging attacks on Iranian targets. At the same time,
+      Benjamin Netanyahu—who is the subject of an arrest warrant issued by the International
+      Criminal Court for war crimes—has claimed that Israel is operating with quiet
+      political backing in the region. He has pointed to ongoing contact and alignment
+      with Arab leaders, not only over confronting Iran but also over expanding ties
+      with Israel itself. What is striking is the absence of direct public pushback.
+      Not a single major Middle Eastern government has clearly and explicitly denied
+      these claims. In a region where official statements are often carefully calibrated,
+      that silence matters. It suggests a space filled with ambiguity: part caution,
+      part strategic calculation, and possibly, in some cases, quiet alignment. That
+      silence does not automatically confirm agreement or disagreement. It may reflect
+      the difficult position many governments find themselves in, balancing domestic
+      opinion, regional tensions, and their relationships with both Washington and Israel.
+      But it does underline a key point. The war is not unfolding in a vacuum. It is
+      happening within a regional environment where opposition is muted, responses are
+      measured, and clear lines are deliberately avoided. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: The war in Iran has revealed significant rifts in transatlantic
+      relations, as the U.S. under Trump and Israel under Netanyahu pursue military
+      action that Europe largely refuses to support, highlighting deeper disagreements
+      over legality, strategy, and the future of global alliances, while Trump threatens
+      to withdraw the U.S. from NATO.
+    paragraph_summary: The ongoing war in Iran has revealed significant rifts in transatlantic
+      relations, particularly between the United States and its European allies, as
+      Europe largely declines to participate in the conflict initiated by Donald Trump
+      and Benjamin Netanyahu. This refusal stems from deeper disagreements over legality,
+      strategy, and economic implications, raising concerns about the future of NATO,
+      with Trump even contemplating a U.S. withdrawal from the alliance. The U.S. is
+      conducting a comprehensive military campaign against Iran, utilizing its extensive
+      network of bases in the Middle East, while Netanyahu claims to have regional support
+      from Arab leaders in confronting Iran, despite facing an arrest warrant for war
+      crimes. The lack of public dissent from Middle Eastern governments regarding Netanyahu's
+      assertions indicates a complex geopolitical landscape where silence may imply
+      tacit agreement.
+    published: '2026-04-01T17:43:17+00:00'
+  - title: 'Le refus de l’Europe de participer à la guerre de Trump et Netanyahu : l’OTAN
+      en crise'
+    url: https://ejmagnier.com/2026/04/01/le-refus-de-leurope-de-participer-a-la-guerre-de-trump-et-netanyahu-lotan-en-crise/
+    text: 'Par Elijah J. Magnier La guerre en Iran a mis en lumière l’une des fractures
+      les plus profondes des relations transatlantiques depuis des décennies. Ce qui
+      a commencé comme une campagne militaire conjointe menée par Donald Trump et Benjamin
+      Netanyahu s’est rapidement transformé en un face à face géopolitique entre les
+      États-Unis et leurs alliés européens. Au cœur de cette division se trouve une
+      réalité simple mais déterminante : l’Europe a largement refusé de participer à
+      la guerre. Ce refus ne relève pas seulement d’une hésitation militaire. Il reflète
+      des désaccords plus profonds sur la légalité, la stratégie, les risques économiques
+      et l’avenir des alliances mondiales. À mesure que les tensions se sont intensifiées,
+      Trump est allé plus loin, menaçant ouvertement de retirer les États-Unis de l’OTAN,
+      soulevant ainsi des interrogations sur l’avenir de l’ordre sécuritaire occidental.
+      Il a exprimé son « dégoût » pour l’OTAN et affirme « envisager sérieusement »
+      un retrait des États-Unis de l’alliance. Une guerre avec un consensus arabe mais
+      sans soutien européen Donald Trump a présenté ouvertement la guerre comme une
+      opération régionale d’envergure, indiquant clairement que les États-Unis mobilisent
+      l’ensemble de leur réseau de bases militaires au Moyen-Orient pour mener des frappes
+      contre l’Iran. Avec des moyens déployés dans le Golfe et au-delà, il ne s’agit
+      pas d’une campagne limitée mais d’une utilisation coordonnée d’infrastructures
+      militaires américaines établies de longue date dans la région, permettant des
+      attaques continues et étendues contre des cibles iraniennes. Dans le même temps,
+      Benjamin Netanyahu — visé par un mandat d’arrêt de la Cour pénale internationale
+      pour crimes de guerre — affirme qu’Israël bénéficie d’un soutien politique discret
+      dans la région. Il évoque des contacts et un alignement en cours avec des dirigeants
+      arabes, non seulement sur la confrontation avec l’Iran, mais aussi sur le renforcement
+      des liens avec Israël. Ce qui frappe, c’est l’absence de démenti public clair.
+      Aucun grand État du Moyen-Orient n’a explicitement nié ces affirmations. Dans
+      une région où les déclarations officielles sont soigneusement calibrées, ce silence
+      est significatif. Il suggère un espace marqué par l’ambiguïté : à la fois prudence,
+      calcul stratégique et, dans certains cas, alignement discret. Ce silence ne confirme
+      pas automatiquement un accord ou un désaccord. Il peut refléter la position délicate
+      de nombreux gouvernements, contraints d’équilibrer opinion publique, tensions
+      régionales et relations avec Washington et Israël. Mais il souligne un point essentiel.
+      La guerre ne se déroule pas dans un vide. Elle s’inscrit dans un environnement
+      régional où l’opposition est atténuée, les réactions mesurées et les lignes rouges
+      volontairement floues. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: La guerre en Iran a révélé une profonde fracture dans les
+      relations transatlantiques, avec l'Europe refusant de s'engager militairement,
+      ce qui souligne des désaccords fondamentaux sur la légalité, la stratégie et l'avenir
+      des alliances, tandis que Trump menace de retirer les États-Unis de l'OTAN.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les tensions croissantes
+      au sein des relations transatlantiques, exacerbées par la guerre en Iran, qui
+      a vu les États-Unis, sous Donald Trump, et Israël, dirigé par Benjamin Netanyahu,
+      s'engager dans une campagne militaire conjointe, tandis que l'Europe a largement
+      refusé de participer. Ce refus européen ne se limite pas à une simple hésitation
+      militaire, mais reflète des désaccords profonds sur la légalité, la stratégie
+      et les implications économiques de cette guerre, soulevant des questions sur l'avenir
+      des alliances mondiales, notamment l'OTAN, que Trump a menacée de quitter. Parallèlement,
+      Netanyahu évoque un soutien discret de certains dirigeants arabes pour renforcer
+      les liens avec Israël tout en confrontant l'Iran, soulignant ainsi une dynamique
+      complexe et changeante dans la région.
+    published: '2026-04-01T17:39:37+00:00'
+  - title: 'Le refus de l’Europe de participer à la guerre de Trump et Netanyahu : l’OTAN
+      en crise'
+    url: https://ejmagnier.com/2026/04/01/le-refus-de-leurope-de-participer-a-la-guerre-de-trump-et-netanyahu-lotan-en-crise/
+    text: 'Par Elijah J. Magnier La guerre en Iran a mis en lumière l’une des fractures
+      les plus profondes des relations transatlantiques depuis des décennies. Ce qui
+      a commencé comme une campagne militaire conjointe menée par Donald Trump et Benjamin
+      Netanyahu s’est rapidement transformé en un face à face géopolitique entre les
+      États-Unis et leurs alliés européens. Au cœur de cette division se trouve une
+      réalité simple mais déterminante : l’Europe a largement refusé de participer à
+      la guerre. Ce refus ne relève pas seulement d’une hésitation militaire. Il reflète
+      des désaccords plus profonds sur la légalité, la stratégie, les risques économiques
+      et l’avenir des alliances mondiales. À mesure que les tensions se sont intensifiées,
+      Trump est allé plus loin, menaçant ouvertement de retirer les États-Unis de l’OTAN,
+      soulevant ainsi des interrogations sur l’avenir de l’ordre sécuritaire occidental.
+      Il a exprimé son « dégoût » pour l’OTAN et affirme « envisager sérieusement »
+      un retrait des États-Unis de l’alliance. Une guerre avec un consensus arabe mais
+      sans soutien européen Donald Trump a présenté ouvertement la guerre comme une
+      opération régionale d’envergure, indiquant clairement que les États-Unis mobilisent
+      l’ensemble de leur réseau de bases militaires au Moyen-Orient pour mener des frappes
+      contre l’Iran. Avec des moyens déployés dans le Golfe et au-delà, il ne s’agit
+      pas d’une campagne limitée mais d’une utilisation coordonnée d’infrastructures
+      militaires américaines établies de longue date dans la région, permettant des
+      attaques continues et étendues contre des cibles iraniennes. Dans le même temps,
+      Benjamin Netanyahu — visé par un mandat d’arrêt de la Cour pénale internationale
+      pour crimes de guerre — affirme qu’Israël bénéficie d’un soutien politique discret
+      dans la région. Il évoque des contacts et un alignement en cours avec des dirigeants
+      arabes, non seulement sur la confrontation avec l’Iran, mais aussi sur le renforcement
+      des liens avec Israël. Ce qui frappe, c’est l’absence de démenti public clair.
+      Aucun grand État du Moyen-Orient n’a explicitement nié ces affirmations. Dans
+      une région où les déclarations officielles sont soigneusement calibrées, ce silence
+      est significatif. Il suggère un espace marqué par l’ambiguïté : à la fois prudence,
+      calcul stratégique et, dans certains cas, alignement discret. Ce silence ne confirme
+      pas automatiquement un accord ou un désaccord. Il peut refléter la position délicate
+      de nombreux gouvernements, contraints d’équilibrer opinion publique, tensions
+      régionales et relations avec Washington et Israël. Mais il souligne un point essentiel.
+      La guerre ne se déroule pas dans un vide. Elle s’inscrit dans un environnement
+      régional où l’opposition est atténuée, les réactions mesurées et les lignes rouges
+      volontairement floues. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: La guerre en Iran a révélé une profonde fracture dans les
+      relations transatlantiques, avec l'Europe refusant de s'engager militairement,
+      ce qui souligne des désaccords fondamentaux sur la légalité, la stratégie et l'avenir
+      des alliances, tandis que Trump menace de retirer les États-Unis de l'OTAN.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les tensions croissantes
+      au sein des relations transatlantiques, exacerbées par la guerre en Iran, qui
+      a vu les États-Unis, sous Donald Trump, et Israël, dirigé par Benjamin Netanyahu,
+      s'engager dans une campagne militaire conjointe, tandis que l'Europe a largement
+      refusé de participer. Ce refus européen ne se limite pas à une simple hésitation
+      militaire, mais reflète des désaccords profonds sur la légalité, la stratégie
+      et les implications économiques de cette guerre, soulevant des questions sur l'avenir
+      des alliances mondiales, notamment l'OTAN, que Trump a menacée de quitter. Parallèlement,
+      Netanyahu évoque un soutien discret de certains dirigeants arabes pour renforcer
+      les liens avec Israël tout en confrontant l'Iran, soulignant ainsi une dynamique
+      complexe et changeante dans la région.
+    published: '2026-04-01T17:39:37+00:00'
+  - title: 'Europas Weigerung, Trumps und Netanjahus Krieg zu führen: Die NATO in der
+      Krise'
+    url: https://ejmagnier.com/2026/04/01/europas-weigerung-trumps-und-netanjahus-krieg-zu-fuhren-die-nato-in-der-krise/
+    text: 'Von Elijah J. Magnier – Der Krieg im Iran hat eine der tiefsten Spaltungen
+      in den transatlantischen Beziehungen seit Jahrzehnten offengelegt. Was als gemeinsame
+      Militäraktion unter der Führung von Donald Trump und Benjamin Netanjahu begann,
+      hat sich rasch zu einer geopolitischen Pattsituation zwischen den Vereinigten
+      Staaten und ihren europäischen Verbündeten entwickelt. Im Zentrum dieser Kluft
+      steht eine einfache, aber folgenschwere Tatsache: Europa hat sich weitgehend geweigert,
+      an dem Krieg teilzunehmen. Bei dieser Weigerung geht es nicht nur um militärisches
+      Zögern. Sie spiegelt tiefere Meinungsverschiedenheiten hinsichtlich Rechtmäßigkeit,
+      Strategie, wirtschaftlichem Risiko und der Zukunft globaler Bündnisse wider. Als
+      die Spannungen eskalierten, ging Trump noch weiter und drohte offen damit, die
+      Vereinigten Staaten aus der NATO zurückzuziehen, was Fragen über die Zukunft der
+      westlichen Sicherheitsordnung aufwirft. Er drückt seine „Abneigung“ gegenüber
+      der NATO aus und erwägt „auf jeden Fall“, die USA aus dem Bündnis zurückzuziehen.
+      Ein Krieg mit arabischem Konsens, aber ohne europäische Unterstützung Donald Trump
+      hat den Krieg offen als umfassende regionale Operation dargestellt und deutlich
+      gemacht, dass die Vereinigten Staaten ihr gesamtes Netzwerk an Militärstützpunkten
+      im Nahen Osten nutzen, um Angriffe auf den Iran aufrechtzuerhalten. Mit Ressourcen,
+      die über den Golf und darüber hinaus verteilt sind, handelt es sich hierbei nicht
+      um eine begrenzte Kampagne, sondern um einen koordinierten Einsatz der seit langem
+      etablierten US-Militärinfrastruktur in der Region, der kontinuierliche und weitreichende
+      Angriffe auf iranische Ziele ermöglicht. Gleichzeitig hat Benjamin Netanjahu –
+      gegen den vom Internationalen Strafgerichtshof ein Haftbefehl wegen Kriegsverbrechen
+      erlassen wurde – behauptet, dass Israel mit stillschweigender politischer Unterstützung
+      in der Region agiere. Er hat auf anhaltende Kontakte und eine Annäherung an arabische
+      Staatschefs hingewiesen, nicht nur im Hinblick auf die Konfrontation mit dem Iran,
+      sondern auch hinsichtlich des Ausbaus der Beziehungen zu Israel selbst. Auffällig
+      ist das Fehlen direkter öffentlicher Gegenreaktionen. Keine einzige bedeutende
+      Regierung im Nahen Osten hat diese Behauptungen klar und ausdrücklich zurückgewiesen.
+      In einer Region, in der offizielle Erklärungen oft sorgfältig abgewogen werden,
+      ist dieses Schweigen von Bedeutung. Es deutet auf einen Raum voller Zweideutigkeit
+      hin: teils Vorsicht, teils strategische Kalkulation und möglicherweise, in einigen
+      Fällen, stille Übereinstimmung. Dieses Schweigen bestätigt nicht automatisch Zustimmung
+      oder Ablehnung. Es spiegelt möglicherweise die schwierige Lage wider, in der sich
+      viele Regierungen befinden, wenn sie zwischen der innenpolitischen Meinung, regionalen
+      Spannungen und ihren Beziehungen sowohl zu Washington als auch zu Israel abwägen.
+      Aber es unterstreicht einen entscheidenden Punkt. Der Krieg spielt sich nicht
+      in einem Vakuum ab. Er findet in einem regionalen Umfeld statt, in dem Widerstand
+      gedämpft wird, Reaktionen zurückhaltend sind und klare Grenzen bewusst vermieden
+      werden. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Der Krieg im Iran hat die transatlantischen Beziehungen stark
+      belastet, da Europa sich weigert, militärisch teilzunehmen, was tiefere Meinungsverschiedenheiten
+      über Rechtmäßigkeit, Strategie und globale Bündnisse offenbart, während Trump
+      sogar mit einem Rückzug aus der NATO droht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die tiefen Spaltungen
+      in den transatlantischen Beziehungen, die durch den Krieg im Iran offenbar wurden,
+      insbesondere zwischen den USA und ihren europäischen Verbündeten. Während die
+      militärischen Aktionen unter Donald Trump und Benjamin Netanjahu begonnen wurden,
+      weigert sich Europa, aktiv am Krieg teilzunehmen, was auf tiefere Differenzen
+      in Bezug auf Rechtmäßigkeit, Strategie und wirtschaftliche Risiken hinweist. Trump
+      hat sogar mit einem möglichen Rückzug der USA aus der NATO gedroht, was die Zukunft
+      der westlichen Sicherheitsordnung in Frage stellt. Der Konflikt wird als umfassende
+      regionale Operation dargestellt, die die US-Militärinfrastruktur im Nahen Osten
+      nutzt, während Netanjahu auf die Unterstützung arabischer Staatschefs hinweist,
+      trotz seiner eigenen rechtlichen Probleme.
+    published: '2026-04-01T17:35:00+00:00'
+  - title: 'Europas Weigerung, Trumps und Netanjahus Krieg zu führen: Die NATO in der
+      Krise'
+    url: https://ejmagnier.com/2026/04/01/europas-weigerung-trumps-und-netanjahus-krieg-zu-fuhren-die-nato-in-der-krise/
+    text: 'Von Elijah J. Magnier – Der Krieg im Iran hat eine der tiefsten Spaltungen
+      in den transatlantischen Beziehungen seit Jahrzehnten offengelegt. Was als gemeinsame
+      Militäraktion unter der Führung von Donald Trump und Benjamin Netanjahu begann,
+      hat sich rasch zu einer geopolitischen Pattsituation zwischen den Vereinigten
+      Staaten und ihren europäischen Verbündeten entwickelt. Im Zentrum dieser Kluft
+      steht eine einfache, aber folgenschwere Tatsache: Europa hat sich weitgehend geweigert,
+      an dem Krieg teilzunehmen. Bei dieser Weigerung geht es nicht nur um militärisches
+      Zögern. Sie spiegelt tiefere Meinungsverschiedenheiten hinsichtlich Rechtmäßigkeit,
+      Strategie, wirtschaftlichem Risiko und der Zukunft globaler Bündnisse wider. Als
+      die Spannungen eskalierten, ging Trump noch weiter und drohte offen damit, die
+      Vereinigten Staaten aus der NATO zurückzuziehen, was Fragen über die Zukunft der
+      westlichen Sicherheitsordnung aufwirft. Er drückt seine „Abneigung“ gegenüber
+      der NATO aus und erwägt „auf jeden Fall“, die USA aus dem Bündnis zurückzuziehen.
+      Ein Krieg mit arabischem Konsens, aber ohne europäische Unterstützung Donald Trump
+      hat den Krieg offen als umfassende regionale Operation dargestellt und deutlich
+      gemacht, dass die Vereinigten Staaten ihr gesamtes Netzwerk an Militärstützpunkten
+      im Nahen Osten nutzen, um Angriffe auf den Iran aufrechtzuerhalten. Mit Ressourcen,
+      die über den Golf und darüber hinaus verteilt sind, handelt es sich hierbei nicht
+      um eine begrenzte Kampagne, sondern um einen koordinierten Einsatz der seit langem
+      etablierten US-Militärinfrastruktur in der Region, der kontinuierliche und weitreichende
+      Angriffe auf iranische Ziele ermöglicht. Gleichzeitig hat Benjamin Netanjahu –
+      gegen den vom Internationalen Strafgerichtshof ein Haftbefehl wegen Kriegsverbrechen
+      erlassen wurde – behauptet, dass Israel mit stillschweigender politischer Unterstützung
+      in der Region agiere. Er hat auf anhaltende Kontakte und eine Annäherung an arabische
+      Staatschefs hingewiesen, nicht nur im Hinblick auf die Konfrontation mit dem Iran,
+      sondern auch hinsichtlich des Ausbaus der Beziehungen zu Israel selbst. Auffällig
+      ist das Fehlen direkter öffentlicher Gegenreaktionen. Keine einzige bedeutende
+      Regierung im Nahen Osten hat diese Behauptungen klar und ausdrücklich zurückgewiesen.
+      In einer Region, in der offizielle Erklärungen oft sorgfältig abgewogen werden,
+      ist dieses Schweigen von Bedeutung. Es deutet auf einen Raum voller Zweideutigkeit
+      hin: teils Vorsicht, teils strategische Kalkulation und möglicherweise, in einigen
+      Fällen, stille Übereinstimmung. Dieses Schweigen bestätigt nicht automatisch Zustimmung
+      oder Ablehnung. Es spiegelt möglicherweise die schwierige Lage wider, in der sich
+      viele Regierungen befinden, wenn sie zwischen der innenpolitischen Meinung, regionalen
+      Spannungen und ihren Beziehungen sowohl zu Washington als auch zu Israel abwägen.
+      Aber es unterstreicht einen entscheidenden Punkt. Der Krieg spielt sich nicht
+      in einem Vakuum ab. Er findet in einem regionalen Umfeld statt, in dem Widerstand
+      gedämpft wird, Reaktionen zurückhaltend sind und klare Grenzen bewusst vermieden
+      werden. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Der Krieg im Iran hat die transatlantischen Beziehungen stark
+      belastet, da Europa sich weigert, militärisch teilzunehmen, was tiefere Meinungsverschiedenheiten
+      über Rechtmäßigkeit, Strategie und globale Bündnisse offenbart, während Trump
+      sogar mit einem Rückzug aus der NATO droht.
+    paragraph_summary: Der Artikel von Elijah J. Magnier beleuchtet die tiefen Spaltungen
+      in den transatlantischen Beziehungen, die durch den Krieg im Iran offenbar wurden,
+      insbesondere zwischen den USA und ihren europäischen Verbündeten. Während die
+      militärischen Aktionen unter Donald Trump und Benjamin Netanjahu begonnen wurden,
+      weigert sich Europa, aktiv am Krieg teilzunehmen, was auf tiefere Differenzen
+      in Bezug auf Rechtmäßigkeit, Strategie und wirtschaftliche Risiken hinweist. Trump
+      hat sogar mit einem möglichen Rückzug der USA aus der NATO gedroht, was die Zukunft
+      der westlichen Sicherheitsordnung in Frage stellt. Der Konflikt wird als umfassende
+      regionale Operation dargestellt, die die US-Militärinfrastruktur im Nahen Osten
+      nutzt, während Netanjahu auf die Unterstützung arabischer Staatschefs hinweist,
+      trotz seiner eigenen rechtlichen Probleme.
+    published: '2026-04-01T17:35:00+00:00'
   - title: 'Hezbollah’s Evolved Doctrine: Denial Through Fluidity on the Southern Lebanon
       Battlefield'
     url: https://ejmagnier.com/2026/03/31/hezbollahs-evolved-doctrine-denial-through-fluidity-on-the-southern-lebanon-battlefield/

@@ -7,21 +7,1258 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As of April 1, 2026, the geopolitical landscape remains shaped by escalating conflicts in the Middle East and growing skepticism toward Western power structures. Recent commentary from independent analysts highlights the deepening disillusionment with both the narratives and actors driving global events.
+  Tensions between the United States and Iran have reached a critical juncture, with the announcement of a two-week ceasefire marking a significant, if temporary, de-escalation. This follows weeks of heightened rhetoric and military posturing, culminating in what **Caitlin Johnstone** describes as the U.S. "backing down" after being caught off-guard by Iran's unexpectedly forceful retaliation against American and Israeli targets. The ceasefire, which President Trump has presented as a diplomatic win based on Tehran's 10-point proposal, appears instead to be a concession to terms Iran had already made public, suggesting a shift in the balance of leverage.
   
-  A key theme in the latest analysis is the recognition that systemic harm often originates from those wielding institutional power, rather than from the stereotypical "villains" of popular imagination. **Tim Foley** argues that “true evil often resides within the legal frameworks upheld by powerful figures like politicians and billionaires,” challenging the public to reconsider where accountability should lie. This perspective is gaining traction as observers note the lack of consequences for decision-makers behind major conflicts and economic injustices.
+  This development comes on the heels of increasingly provocative statements from Trump, who recently threatened further military action on social media. The rapid pivot to ceasefire has led analysts like **Johnstone** to question the coherence of U.S. strategy, noting that the administration is now "claiming victory" for accepting conditions it previously ignored. The broader context, as outlined in recent reports, is a U.S. foreign policy establishment struggling to adapt to realities on the ground, with the Pentagon reportedly surprised by Iran's operational capabilities and willingness to retaliate.
   
-  In the Middle East, the ongoing US-Israel alliance continues to draw criticism for perpetuating cycles of violence. Recent reports emphasize that Western media’s focus on rising antisemitism serves as a distraction from the humanitarian crisis unfolding in the region. **Caitlin Johnstone** contends that this narrative shift “distracts from the ongoing humanitarian crisis,” and that the alliance itself exists to “fix the problems created by its existence,” creating a self-perpetuating justification for intervention and conflict.
+  Meanwhile, the media's portrayal of these events continues to draw criticism. **Johnstone** highlights a pattern of misleading coverage in major Western outlets, which often downplays the consequences of U.S. and Israeli actions while amplifying narratives that justify continued intervention. This has contributed to growing skepticism about the official narrative and increased calls, particularly from the anti-imperialist left, for a more honest reckoning with the costs of military engagement in the region.
   
-  Meanwhile, domestic political tensions in the United States are intensifying. The upcoming “No Kings” protest, as highlighted by **Caitlin Johnstone**, underscores a growing awareness that systemic violence and tyranny are not limited to any one administration but are endemic to the structure of US governance. The focus on individual leaders, such as Donald Trump, is seen as obscuring the broader, bipartisan perpetuation of imperial policies.
-  
-  **Trends and Predictions:**  
-  - There is a high likelihood that public skepticism toward Western narratives and power structures will continue to grow, especially as the gap between official rhetoric and lived realities widens.
-  - The US-Israel alliance is expected to remain a flashpoint, with the majority of analysts predicting ongoing cycles of violence and justification for intervention. I guarantee that the humanitarian situation in the region will remain dire as long as current policies persist.
-  - Domestically, protests and movements challenging systemic power are quite likely to gain momentum, reflecting a broader disillusionment with traditional political solutions.
-  
-  In summary, the prevailing sentiment among independent analysts is one of deepening mistrust in established institutions and narratives, with a high confidence that these trends will intensify in the coming months.
+  Looking ahead, there is a high chance that the ceasefire will hold for its initial two-week period, as both sides appear to be seeking a pause to reassess their positions. However, unless there is a substantive shift in U.S. policy or a genuine engagement with Iran's longstanding demands, the underlying tensions are likely to resurface. As **Johnstone** notes, the U.S. is "most definitely" losing its ability to control the narrative and dictate terms in the Middle East, signaling a potential long-term decline in American influence in the region.
 articles:
+  - title: The Empire Backs Down, For Now
+    url: https://www.caitlinjohnst.one/p/the-empire-backs-down-for-now
+    text: 'Reading by Tim Foley : Subscribe now Trump has announced a two-week ceasefire
+      with Iran after previously threatening to exterminate their “entire civilization”,
+      citing “a 10 point proposal from Iran” as the reason for the climb-down. Trump
+      and his cronies are spinning this as a colossal victory for the United States
+      and framing Tehran’s 10-point plan as a major capitulation to the president’s
+      threats. But some reporters are noting that Iran has had the same terms on the
+      table for weeks — which would mean that it is in fact the White House who is backing
+      down. Hours before the president’s announcement, Drop Site’s Ryan Grim posted
+      a TikTok video arguing that Trump could save face while walking back from his
+      apocalyptic threats by simply accepting Iran’s 10-point peace plan and acting
+      like it’s a new proposal the Iranians had only just put forward. Grim argued that
+      Trump could get away with this because the western media have been completely
+      ignoring Iran’s stated terms for a ceasefire this entire time. Interestingly,
+      this appears to have been precisely what Trump wound up doing. After previously
+      rejecting Iran’s proposals as “not good enough”, the president turned around and
+      framed the Iranian offer as a brand new response to the pressures his administration
+      was able to impose upon them. All the way back on March 28, Drop Site News reported
+      the following: “Among Iran’s terms for permanently ending the war are a longterm
+      guarantee that the U.S. and Israel will not attack Iran again and that any ceasefire
+      also apply to Lebanon, Iraq and Palestine; reparations for the damages done to
+      Iran during the war; sanctions relief; and that Iran retain control over the Strait
+      of Hormuz.” These are the same terms Iran is claiming it pressured the US to accept
+      today. Iranian state media outlet Press TV cited Iran’s supreme national security
+      council as saying “Iran achieved historic victory by forcing criminal US to accept
+      its 10-point plan. US has accepted Iran’s control over Strait of Hormuz, enrichment
+      right, removal of all sanctions.” The New York Times reports the following : “Two
+      senior Iranian officials, speaking on the condition of anonymity to discuss the
+      sensitive negotiations, said the proposal included a guarantee that Iran would
+      not be attacked again, an end to Israeli strikes against Hezbollah in Lebanon
+      and the lifting of all sanctions. “In return, Iran would lift its de facto blockade
+      of the key shipping route through the Strait of Hormuz. Iran would also impose
+      a fee of roughly $2 million per ship that it would split with Oman, which sits
+      across the strait. Iran would use its share of the proceeds to reconstruct infrastructure
+      destroyed by American and Israeli attacks, rather than demand direct compensation,
+      according to the plan.” So as things stand right now this certainly looks like
+      a humiliating defeat for the empire. Iran gets a lot of things it didn’t have
+      before the war, including tolling the Strait of Hormuz and relief from the US
+      sanctions that have been crushing its economy for years, while the empire gets
+      to resume its shipping for a hefty fee and pretend it just rescued the world from
+      a nuclear Iran. Quite the turnaround from a White House that just last month was
+      saying “There will be no deal with Iran except UNCONDITIONAL SURRENDER!” Quincy
+      Institute’s Trita Parsi, who always has great insights regarding western warmongering
+      toward Iran, writes the following : “I cannot emphasize this enough. A new dynamic
+      will be at play when the US and Iran meet in Islamabad to negotiate a final deal
+      based on Iran’s 10-point plan: Trump’s failed war has eliminated the potency of
+      American military threats in US-Iran diplomacy. The US can still issue threats,
+      but everyone will know that they no longer carry much weight. Essentially, war
+      with Iran was tried and failed. As a result, negotiations will have to be based
+      on genuine compromises from both sides, rather than coercion from either side.”
+      There are of course many, many reasons to be pessimistic. The US and Israel have
+      demonstrated time and time again that they will attack Iran during negotiations,
+      and even if the US holds up its end of the bargain we can always see Israel sabotage
+      the deal with its own aggressions. By now Iran has to know that the only way to
+      protect itself from Israel is to impose costs for Israeli aggression on the entire
+      western world; Tehran will have us all heating our homes with trash fires and
+      growing carrots in our backyards if the west can’t find a way to rein in Israel.
+      For what it’s worth, Zionist Twitter is in absolute meltdown right now, with notorious
+      Israel apologists like Laura Loomer, Eve Barlow and Eli David rending their garments
+      in outrage that the killing has ended with Iran positioned as it is. I’m as skeptical
+      about this ceasefire as anyone, but the fact that the world’s worst people are
+      in meltdown about it right now does provide a faint glimmer of hope. We shall
+      see. ______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Trump has announced a two-week ceasefire with Iran, claiming
+      it as a victory based on Tehran's 10-point proposal, although reports suggest
+      that Iran's terms have been available for weeks, indicating that the U.S. may
+      actually be backing down.
+    paragraph_summary: President Trump has announced a two-week ceasefire with Iran,
+      attributing the decision to a 10-point proposal from Tehran, which his administration
+      is portraying as a significant victory for the U.S. However, reports indicate
+      that Iran has had these terms on the table for weeks, suggesting that it is actually
+      the White House that is backing down. Prior to the announcement, commentator Ryan
+      Grim suggested that Trump could save face by accepting Iran's longstanding proposal
+      and presenting it as a new development. Following this advice, Trump reframed
+      Iran's offer, which includes demands for U.S. and Israeli non-aggression, reparations,
+      sanctions relief, and control over the Strait of Hormuz, as a capitulation to
+      U.S. pressure, despite having previously dismissed it. Iranian media has celebrated
+      the outcome as a historic victory, claiming that the U.S. has accepted Iran's
+      terms.
+    published: '2026-04-08T04:17:11+00:00'
+  - title: The Empire Backs Down, For Now
+    url: https://www.caitlinjohnst.one/p/the-empire-backs-down-for-now
+    text: 'Reading by Tim Foley : Subscribe now Trump has announced a two-week ceasefire
+      with Iran after previously threatening to exterminate their “entire civilization”,
+      citing “a 10 point proposal from Iran” as the reason for the climb-down. Trump
+      and his cronies are spinning this as a colossal victory for the United States
+      and framing Tehran’s 10-point plan as a major capitulation to the president’s
+      threats. But some reporters are noting that Iran has had the same terms on the
+      table for weeks — which would mean that it is in fact the White House who is backing
+      down. Hours before the president’s announcement, Drop Site’s Ryan Grim posted
+      a TikTok video arguing that Trump could save face while walking back from his
+      apocalyptic threats by simply accepting Iran’s 10-point peace plan and acting
+      like it’s a new proposal the Iranians had only just put forward. Grim argued that
+      Trump could get away with this because the western media have been completely
+      ignoring Iran’s stated terms for a ceasefire this entire time. Interestingly,
+      this appears to have been precisely what Trump wound up doing. After previously
+      rejecting Iran’s proposals as “not good enough”, the president turned around and
+      framed the Iranian offer as a brand new response to the pressures his administration
+      was able to impose upon them. All the way back on March 28, Drop Site News reported
+      the following: “Among Iran’s terms for permanently ending the war are a longterm
+      guarantee that the U.S. and Israel will not attack Iran again and that any ceasefire
+      also apply to Lebanon, Iraq and Palestine; reparations for the damages done to
+      Iran during the war; sanctions relief; and that Iran retain control over the Strait
+      of Hormuz.” These are the same terms Iran is claiming it pressured the US to accept
+      today. Iranian state media outlet Press TV cited Iran’s supreme national security
+      council as saying “Iran achieved historic victory by forcing criminal US to accept
+      its 10-point plan. US has accepted Iran’s control over Strait of Hormuz, enrichment
+      right, removal of all sanctions.” The New York Times reports the following : “Two
+      senior Iranian officials, speaking on the condition of anonymity to discuss the
+      sensitive negotiations, said the proposal included a guarantee that Iran would
+      not be attacked again, an end to Israeli strikes against Hezbollah in Lebanon
+      and the lifting of all sanctions. “In return, Iran would lift its de facto blockade
+      of the key shipping route through the Strait of Hormuz. Iran would also impose
+      a fee of roughly $2 million per ship that it would split with Oman, which sits
+      across the strait. Iran would use its share of the proceeds to reconstruct infrastructure
+      destroyed by American and Israeli attacks, rather than demand direct compensation,
+      according to the plan.” So as things stand right now this certainly looks like
+      a humiliating defeat for the empire. Iran gets a lot of things it didn’t have
+      before the war, including tolling the Strait of Hormuz and relief from the US
+      sanctions that have been crushing its economy for years, while the empire gets
+      to resume its shipping for a hefty fee and pretend it just rescued the world from
+      a nuclear Iran. Quite the turnaround from a White House that just last month was
+      saying “There will be no deal with Iran except UNCONDITIONAL SURRENDER!” Quincy
+      Institute’s Trita Parsi, who always has great insights regarding western warmongering
+      toward Iran, writes the following : “I cannot emphasize this enough. A new dynamic
+      will be at play when the US and Iran meet in Islamabad to negotiate a final deal
+      based on Iran’s 10-point plan: Trump’s failed war has eliminated the potency of
+      American military threats in US-Iran diplomacy. The US can still issue threats,
+      but everyone will know that they no longer carry much weight. Essentially, war
+      with Iran was tried and failed. As a result, negotiations will have to be based
+      on genuine compromises from both sides, rather than coercion from either side.”
+      There are of course many, many reasons to be pessimistic. The US and Israel have
+      demonstrated time and time again that they will attack Iran during negotiations,
+      and even if the US holds up its end of the bargain we can always see Israel sabotage
+      the deal with its own aggressions. By now Iran has to know that the only way to
+      protect itself from Israel is to impose costs for Israeli aggression on the entire
+      western world; Tehran will have us all heating our homes with trash fires and
+      growing carrots in our backyards if the west can’t find a way to rein in Israel.
+      For what it’s worth, Zionist Twitter is in absolute meltdown right now, with notorious
+      Israel apologists like Laura Loomer, Eve Barlow and Eli David rending their garments
+      in outrage that the killing has ended with Iran positioned as it is. I’m as skeptical
+      about this ceasefire as anyone, but the fact that the world’s worst people are
+      in meltdown about it right now does provide a faint glimmer of hope. We shall
+      see. ______________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Trump has announced a two-week ceasefire with Iran, claiming
+      it as a victory based on Tehran's 10-point proposal, although reports suggest
+      that Iran's terms have been available for weeks, indicating that the U.S. may
+      actually be backing down.
+    paragraph_summary: President Trump has announced a two-week ceasefire with Iran,
+      attributing the decision to a 10-point proposal from Tehran, which his administration
+      is portraying as a significant victory for the U.S. However, reports indicate
+      that Iran has had these terms on the table for weeks, suggesting that it is actually
+      the White House that is backing down. Prior to the announcement, commentator Ryan
+      Grim suggested that Trump could save face by accepting Iran's longstanding proposal
+      and presenting it as a new development. Following this advice, Trump reframed
+      Iran's offer, which includes demands for U.S. and Israeli non-aggression, reparations,
+      sanctions relief, and control over the Strait of Hormuz, as a capitulation to
+      U.S. pressure, despite having previously dismissed it. Iranian media has celebrated
+      the outcome as a historic victory, claiming that the U.S. has accepted Iran's
+      terms.
+    published: '2026-04-08T04:17:11+00:00'
+  - title: US Troops Need To Start Disobeying Orders In Iran, And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-troops-need-to-start-disobeying
+    text: 'Reading by Tim Foley : Subscribe now The president of the United States has
+      a bat shit crazy post on Truth Social once again threatening to blow up civilian
+      infrastructure in Iran, saying, “Tuesday will be Power Plant Day, and Bridge Day,
+      all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin’
+      Strait, you crazy bastards, or you’ll be living in Hell — JUST WATCH! Praise be
+      to Allah. President DONALD J. TRUMP.” At this point if you’re in the US military
+      you have a moral obligation to start refusing orders. Desert. Become a conscientious
+      objector. Ideally, get everyone together and launch a full-scale military coup.
+      We’re in “Mad King” territory. Someone’s gotta do what needs to be done. Promoters
+      of this war told the world it was about liberating the Iranian people from tyranny
+      to bring them freedom and democracy. Now that they got their war it’s about bombing
+      them “ back to the Stone Age ”, stealing their oil , and blowing up their bridges
+      and power plants. The only people dumber than Americans who bought into Trump’s
+      “ending the wars” shtick are the Iranians who believed the United States was going
+      to bring freedom to their country. ❖ The Jerusalem Post just ran an opinion piece
+      on Zohran Mamdani which includes the sentence, “It is time for the mayor of New
+      York City to stand in solidarity with Muslim leaders who eschew antisemitic tropes,
+      such as ‘genocide’ and ‘occupation,’ and are committed to a new and broader regional
+      alignment in the Middle East.” It’s been fun watching Israel apologists invent
+      “antisemitic tropes” in real time. The words “genocide” and “occupation” are antisemitic
+      tropes now, apparently. According to pro-Israel groups like the Anti-Defamation
+      League and B’nai Brith , the phrases “Epstein class” and “Operation Epstein Fury”
+      are also recent additions to the no-no list. In reality these so-called “antisemitic
+      tropes” are just effective talking points used to highlight facts that are inconvenient
+      to Israel and its allies. Every relevant human rights group on earth agrees that
+      Israel is an occupying force in the Palestinian territories. Every relevant human
+      rights group on earth has accused Israel of genocide in Gaza. The phrase “Epstein
+      class” makes the rich and powerful people who rule our society look as creepy
+      and suspicious as they should look. “Operation Epstein Fury” highlights President
+      Trump’s place in the Epstein Files, which a majority of Americans believe played
+      a role in his decision to attack Iran. We see this all the time. Effective pro-Palestine
+      political slogans like “Globalize the intifada” and “From the river to the sea,
+      Palestine will be free” are labeled antisemitic not because they express hatred
+      toward Jews but because they are effective. That’s all it ever is. Israel apologists
+      see a phrase or slogan hurting Israeli information interests and go “Uh, okay
+      so you can’t say those words anymore. Those words make Jewish people feel unsafe.”
+      And then the phrases get banned. Here in Australia we just saw the state of Queensland
+      ban the phrase “from the river to the sea” on penalty of two years in prison.
+      For no other reason than because it’s something people chant at pro-Palestine
+      protests. Antisemitism isn’t the target of these laws; the protests themselves
+      are the target. They’re designed to shut down pro-Palestine demonstrations by
+      making so many speech suppression laws that nobody would attend one without a
+      lawyer present to advise them on what they may and may not say. The very first
+      time someone told me “from the river to the sea Palestine will be free” was a
+      hateful genocidal chant I thought it was the most ridiculous thing I’d ever heard,
+      and to this day I still feel that way. It’s a completely counter-intuitive claim
+      that makes no sense on first hearing it. It is only by the constant repetition
+      of the assertion that it’s an antisemitic slogan that people began accepting this
+      transparently absurd idea. They just said it over and over again in an authoritative
+      tone until people started to buy it. Nobody actually believes these words and
+      phrases are hateful toward Jews, they’re just pretending to believe that to promote
+      the information interests of a genocidal apartheid state. That’s all we’re ever
+      looking at with this nonsense. ❖ This fuel crisis really looks like it’s going
+      to hurt. From a big-picture perspective it’s probably a good thing for westerners
+      to feel some sting from their empire’s wars, and for US allies to start re-evaluating
+      their relationship with Washington. But from a selfish perspective, damn this
+      is gonna suck. ❖ I’m done trying to convince people not to use generative AI.
+      You want to kill your critical thinking faculties? You want to lose the ability
+      to write and create art? You want to make people like me look special and amazing
+      because we can create things with our minds? Be my guest. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes a provocative post by former President
+      Donald Trump on Truth Social, in which he threatens military action against Iran,
+      and calls for U.S. military personnel to refuse orders and consider a coup, highlighting
+      the shift from a narrative of liberation to one of destruction and exploitation.
+    paragraph_summary: In a provocative post on Truth Social, former President Donald
+      Trump threatened severe military action against Iran, declaring a day of destruction
+      targeting civilian infrastructure, which has raised alarms about the moral implications
+      for U.S. military personnel. The article critiques the narrative that U.S. military
+      interventions are aimed at liberating oppressed populations, arguing instead that
+      they often lead to devastation and exploitation. It also discusses a recent opinion
+      piece in the Jerusalem Post that calls for solidarity with Muslim leaders who
+      reject certain criticisms of Israel, labeling terms like "genocide" and "occupation"
+      as antisemitic tropes, which the author views as an attempt to suppress legitimate
+      discourse about Israel's actions. Overall, the piece highlights the troubling
+      dynamics of U.S. foreign policy and the manipulation of language in political
+      discourse regarding Israel and Palestine.
+    published: '2026-04-06T01:27:24+00:00'
+  - title: US Troops Need To Start Disobeying Orders In Iran, And Other Notes
+    url: https://www.caitlinjohnst.one/p/us-troops-need-to-start-disobeying
+    text: 'Reading by Tim Foley : Subscribe now The president of the United States has
+      a bat shit crazy post on Truth Social once again threatening to blow up civilian
+      infrastructure in Iran, saying, “Tuesday will be Power Plant Day, and Bridge Day,
+      all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin’
+      Strait, you crazy bastards, or you’ll be living in Hell — JUST WATCH! Praise be
+      to Allah. President DONALD J. TRUMP.” At this point if you’re in the US military
+      you have a moral obligation to start refusing orders. Desert. Become a conscientious
+      objector. Ideally, get everyone together and launch a full-scale military coup.
+      We’re in “Mad King” territory. Someone’s gotta do what needs to be done. Promoters
+      of this war told the world it was about liberating the Iranian people from tyranny
+      to bring them freedom and democracy. Now that they got their war it’s about bombing
+      them “ back to the Stone Age ”, stealing their oil , and blowing up their bridges
+      and power plants. The only people dumber than Americans who bought into Trump’s
+      “ending the wars” shtick are the Iranians who believed the United States was going
+      to bring freedom to their country. ❖ The Jerusalem Post just ran an opinion piece
+      on Zohran Mamdani which includes the sentence, “It is time for the mayor of New
+      York City to stand in solidarity with Muslim leaders who eschew antisemitic tropes,
+      such as ‘genocide’ and ‘occupation,’ and are committed to a new and broader regional
+      alignment in the Middle East.” It’s been fun watching Israel apologists invent
+      “antisemitic tropes” in real time. The words “genocide” and “occupation” are antisemitic
+      tropes now, apparently. According to pro-Israel groups like the Anti-Defamation
+      League and B’nai Brith , the phrases “Epstein class” and “Operation Epstein Fury”
+      are also recent additions to the no-no list. In reality these so-called “antisemitic
+      tropes” are just effective talking points used to highlight facts that are inconvenient
+      to Israel and its allies. Every relevant human rights group on earth agrees that
+      Israel is an occupying force in the Palestinian territories. Every relevant human
+      rights group on earth has accused Israel of genocide in Gaza. The phrase “Epstein
+      class” makes the rich and powerful people who rule our society look as creepy
+      and suspicious as they should look. “Operation Epstein Fury” highlights President
+      Trump’s place in the Epstein Files, which a majority of Americans believe played
+      a role in his decision to attack Iran. We see this all the time. Effective pro-Palestine
+      political slogans like “Globalize the intifada” and “From the river to the sea,
+      Palestine will be free” are labeled antisemitic not because they express hatred
+      toward Jews but because they are effective. That’s all it ever is. Israel apologists
+      see a phrase or slogan hurting Israeli information interests and go “Uh, okay
+      so you can’t say those words anymore. Those words make Jewish people feel unsafe.”
+      And then the phrases get banned. Here in Australia we just saw the state of Queensland
+      ban the phrase “from the river to the sea” on penalty of two years in prison.
+      For no other reason than because it’s something people chant at pro-Palestine
+      protests. Antisemitism isn’t the target of these laws; the protests themselves
+      are the target. They’re designed to shut down pro-Palestine demonstrations by
+      making so many speech suppression laws that nobody would attend one without a
+      lawyer present to advise them on what they may and may not say. The very first
+      time someone told me “from the river to the sea Palestine will be free” was a
+      hateful genocidal chant I thought it was the most ridiculous thing I’d ever heard,
+      and to this day I still feel that way. It’s a completely counter-intuitive claim
+      that makes no sense on first hearing it. It is only by the constant repetition
+      of the assertion that it’s an antisemitic slogan that people began accepting this
+      transparently absurd idea. They just said it over and over again in an authoritative
+      tone until people started to buy it. Nobody actually believes these words and
+      phrases are hateful toward Jews, they’re just pretending to believe that to promote
+      the information interests of a genocidal apartheid state. That’s all we’re ever
+      looking at with this nonsense. ❖ This fuel crisis really looks like it’s going
+      to hurt. From a big-picture perspective it’s probably a good thing for westerners
+      to feel some sting from their empire’s wars, and for US allies to start re-evaluating
+      their relationship with Washington. But from a selfish perspective, damn this
+      is gonna suck. ❖ I’m done trying to convince people not to use generative AI.
+      You want to kill your critical thinking faculties? You want to lose the ability
+      to write and create art? You want to make people like me look special and amazing
+      because we can create things with our minds? Be my guest. _________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article criticizes a provocative post by former President
+      Donald Trump on Truth Social, in which he threatens military action against Iran,
+      and calls for U.S. military personnel to refuse orders and consider a coup, highlighting
+      the shift from a narrative of liberation to one of destruction and exploitation.
+    paragraph_summary: In a provocative post on Truth Social, former President Donald
+      Trump threatened severe military action against Iran, declaring a day of destruction
+      targeting civilian infrastructure, which has raised alarms about the moral implications
+      for U.S. military personnel. The article critiques the narrative that U.S. military
+      interventions are aimed at liberating oppressed populations, arguing instead that
+      they often lead to devastation and exploitation. It also discusses a recent opinion
+      piece in the Jerusalem Post that calls for solidarity with Muslim leaders who
+      reject certain criticisms of Israel, labeling terms like "genocide" and "occupation"
+      as antisemitic tropes, which the author views as an attempt to suppress legitimate
+      discourse about Israel's actions. Overall, the piece highlights the troubling
+      dynamics of U.S. foreign policy and the manipulation of language in political
+      discourse regarding Israel and Palestine.
+    published: '2026-04-06T01:27:24+00:00'
+  - title: Anti-Imperialists Want To Improve The World; Liberals Just Want To Feel Good
+      About Themselves
+    url: https://www.caitlinjohnst.one/p/anti-imperialists-want-to-improve
+    text: 'Reading by Tim Foley : Subscribe now Ultimately what separates the anti-imperialist
+      left from mainstream liberal “humanitarians” is whether you’re in it for humanity
+      or for yourself. For the liberal, wanting peace and justice is more of an abstraction
+      than a desire to fight the concrete power structures responsible for the lack
+      of peace and justice in our world. If you’re a liberal you oppose the idea of
+      children being killed and starved in the abstract, because thinking of yourself
+      as a moral person allows you to feel nice feelings about yourself, but you have
+      no interest in taking a well-defined stand against the empire which routinely
+      kills and starves children via genocides, wars of aggression, and siege warfare.
+      You don’t want families living in poverty because it would make you feel like
+      a bad person if you did, but you also don’t take a concrete stand against the
+      capitalist system whose very existence depends on the perpetual creation of poverty
+      and scarcity. You kinda-sorta want everyone to have happy and plentiful lives
+      free from fear and tyranny, but you don’t want to consider the possibility that
+      your own country is responsible for abusing, terrorizing and exploiting the global
+      south. Because that would make you feel uncomfortable feelings. It’s not about
+      wanting to actually help humanity and fix the world’s problems, it’s about you
+      and your feelings. Those who oppose the capitalist empire are actually interested
+      in bringing health and harmony to our species. They do not shy away from uncomfortable
+      truths about their own government’s abuses, the dystopian nature of western civilization,
+      or the way their own creature comforts are built on the backs of workers in impoverished
+      countries. Because for them it’s not about feeling nice feelings, it’s about creating
+      a better world. The western anti-imperialist has no problem recognizing that their
+      own society is the main villain on the world stage, because they’re actually looking
+      at the sources of the abuses and injustices in our world. The liberal “humanitarian”
+      prefers to see evil only in foreign regimes, because being the bad guy doesn’t
+      feel nice. The western anti-imperialist recognizes that both mainstream political
+      parties in their country promote the warmongering, militarism, capitalist exploitation
+      and imperialist extraction which sustain the western empire, and they oppose the
+      abuses of both parties whoever happens to be in office. The liberal “humanitarian”
+      only recognizes wrongdoing in one mainstream political faction while proudly supporting
+      and voting for the other, because this allows them to feel like they’re helping.
+      The western anti-imperialist accepts that standing on the morally correct side
+      means eating loss after loss and receiving disappointment after disappointment,
+      because the push for revolutionary change is swimming directly against the current
+      imposed on every institution in our society. The liberal “humanitarian” feels
+      nice feelings about their position because their side wins elections half the
+      time, while smugly sneering at those to their left who never get their people
+      into office. The western anti-imperialist will stare unflinching into the carnage
+      from Palestine, Lebanon and Iran, feeling all the anguish and rage from witnessing
+      those atrocities supported by their own nation. The liberal “humanitarian” tries
+      to avoid looking at those things, because their entire worldview is built upon
+      psychologically compartmentalizing away from reality in order to prioritize their
+      own feelings. Basically it’s the difference between actually BEING a good person
+      and just wanting to FEEL like you’re a good person. The former is hard, while
+      the latter is easy. Which one do you want to be? _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that the anti-imperialist left differs
+      from mainstream liberal humanitarians in their commitment to actively combat the
+      power structures causing injustice, rather than merely expressing abstract moral
+      opposition to them.
+    paragraph_summary: In Tim Foley's article, he contrasts the motivations of the anti-imperialist
+      left with those of mainstream liberal "humanitarians." He argues that liberals
+      often express a desire for peace and justice more as a means of self-affirmation
+      than as a commitment to challenge the systemic power structures that perpetuate
+      violence and inequality. While liberals may oppose the suffering of others in
+      the abstract, they typically avoid confronting the uncomfortable realities of
+      their own country's role in global oppression and exploitation. In contrast, anti-imperialists
+      are portrayed as genuinely committed to addressing these injustices and recognizing
+      their own society's complicity in creating poverty and suffering. For them, the
+      focus is on fostering real change and improving the world rather than merely seeking
+      to feel good about themselves.
+    published: '2026-04-05T14:11:14+00:00'
+  - title: Anti-Imperialists Want To Improve The World; Liberals Just Want To Feel Good
+      About Themselves
+    url: https://www.caitlinjohnst.one/p/anti-imperialists-want-to-improve
+    text: 'Reading by Tim Foley : Subscribe now Ultimately what separates the anti-imperialist
+      left from mainstream liberal “humanitarians” is whether you’re in it for humanity
+      or for yourself. For the liberal, wanting peace and justice is more of an abstraction
+      than a desire to fight the concrete power structures responsible for the lack
+      of peace and justice in our world. If you’re a liberal you oppose the idea of
+      children being killed and starved in the abstract, because thinking of yourself
+      as a moral person allows you to feel nice feelings about yourself, but you have
+      no interest in taking a well-defined stand against the empire which routinely
+      kills and starves children via genocides, wars of aggression, and siege warfare.
+      You don’t want families living in poverty because it would make you feel like
+      a bad person if you did, but you also don’t take a concrete stand against the
+      capitalist system whose very existence depends on the perpetual creation of poverty
+      and scarcity. You kinda-sorta want everyone to have happy and plentiful lives
+      free from fear and tyranny, but you don’t want to consider the possibility that
+      your own country is responsible for abusing, terrorizing and exploiting the global
+      south. Because that would make you feel uncomfortable feelings. It’s not about
+      wanting to actually help humanity and fix the world’s problems, it’s about you
+      and your feelings. Those who oppose the capitalist empire are actually interested
+      in bringing health and harmony to our species. They do not shy away from uncomfortable
+      truths about their own government’s abuses, the dystopian nature of western civilization,
+      or the way their own creature comforts are built on the backs of workers in impoverished
+      countries. Because for them it’s not about feeling nice feelings, it’s about creating
+      a better world. The western anti-imperialist has no problem recognizing that their
+      own society is the main villain on the world stage, because they’re actually looking
+      at the sources of the abuses and injustices in our world. The liberal “humanitarian”
+      prefers to see evil only in foreign regimes, because being the bad guy doesn’t
+      feel nice. The western anti-imperialist recognizes that both mainstream political
+      parties in their country promote the warmongering, militarism, capitalist exploitation
+      and imperialist extraction which sustain the western empire, and they oppose the
+      abuses of both parties whoever happens to be in office. The liberal “humanitarian”
+      only recognizes wrongdoing in one mainstream political faction while proudly supporting
+      and voting for the other, because this allows them to feel like they’re helping.
+      The western anti-imperialist accepts that standing on the morally correct side
+      means eating loss after loss and receiving disappointment after disappointment,
+      because the push for revolutionary change is swimming directly against the current
+      imposed on every institution in our society. The liberal “humanitarian” feels
+      nice feelings about their position because their side wins elections half the
+      time, while smugly sneering at those to their left who never get their people
+      into office. The western anti-imperialist will stare unflinching into the carnage
+      from Palestine, Lebanon and Iran, feeling all the anguish and rage from witnessing
+      those atrocities supported by their own nation. The liberal “humanitarian” tries
+      to avoid looking at those things, because their entire worldview is built upon
+      psychologically compartmentalizing away from reality in order to prioritize their
+      own feelings. Basically it’s the difference between actually BEING a good person
+      and just wanting to FEEL like you’re a good person. The former is hard, while
+      the latter is easy. Which one do you want to be? _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article argues that the anti-imperialist left differs
+      from mainstream liberal humanitarians in their commitment to actively combat the
+      power structures causing injustice, rather than merely expressing abstract moral
+      opposition to them.
+    paragraph_summary: In Tim Foley's article, he contrasts the motivations of the anti-imperialist
+      left with those of mainstream liberal "humanitarians." He argues that liberals
+      often express a desire for peace and justice more as a means of self-affirmation
+      than as a commitment to challenge the systemic power structures that perpetuate
+      violence and inequality. While liberals may oppose the suffering of others in
+      the abstract, they typically avoid confronting the uncomfortable realities of
+      their own country's role in global oppression and exploitation. In contrast, anti-imperialists
+      are portrayed as genuinely committed to addressing these injustices and recognizing
+      their own society's complicity in creating poverty and suffering. For them, the
+      focus is on fostering real change and improving the world rather than merely seeking
+      to feel good about themselves.
+    published: '2026-04-05T14:11:14+00:00'
+  - title: The Mass Media Are Evil But They're Also Really Dumb, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-mass-media-are-evil-but-theyre
+    text: 'Reading by Tim Foley : Subscribe now The New York Times has printed an article
+      with the headline “A North American Treaty Organization Without America?”, apparently
+      having spent the entire Ukraine war completely unaware that NATO stands for North
+      ATLANTIC Treaty Organization. At the same time, CNN ran a segment on an American
+      bomber whose plane was shot down over Iran in which analyst Amy McGrath suggested
+      that the Iranians might help the pilot because they’re “happy” he’s bombing their
+      country, saying the pilot would be worried because they don’t know “if you’re
+      gonna be picked by somebody who is going to turn you over to the Iranian forces
+      that are gonna use you and capture you, or is the population happy that you’re
+      there?” Really illustrates how fucked western journalism is, doesn’t it? I mean,
+      this is some serious baby-brained thinking on display here. That New York Times
+      headline made it through multiple checkpoints before publication without it ever
+      even occurring to anyone to at least do a quick Google search to find out if the
+      A in NATO really does stand for “American”, and, if so, why are there so many
+      European countries in it? That CNN analyst really does have such an infantile,
+      children’s cartoon worldview on American wars that she thinks the people being
+      bombed by American pilots will want to hug them and kiss them and give them presents
+      when they emergency eject into enemy territory. It’s kind of amazing that any
+      of the people involved in either of these incidents are working in news media
+      at all. If you’ve ever wondered why so many Americans are so ignorant about what’s
+      going on in their world, it’s because for generations these have been the kinds
+      of people informing them about world events. These are the news outlets who’ve
+      been responsible for creating an informed populace. And their reporting is shared
+      with the entire western world. I constantly criticize the western press for its
+      role in propagandizing the public to manufacture consent for evil wars and normalize
+      an abusive political status quo. You cannot despise these manipulators enough
+      for their role in the world’s dysfunction today. But these two incidents highlight
+      the fact that the people running the western press aren’t just evil — they’re
+      also really, really stupid. ❖ The New York Times is also running narrative cover
+      for Israel’s ethnic cleansing operation in Lebanon, running a story on the ethnically
+      motivated mass expulsion with the obscene headline “ Israel’s Message to Southern
+      Lebanon: Shiites Must Go ”. The Times then goes on to make it clear that what
+      they’re softly framing as “Israel’s message” is in fact a brazen ethnic cleansing
+      operation, saying Israel’s evacuation orders in Lebanon apply exclusively to Shiite
+      Muslims, while Christians and Druse may be permitted to remain as long as they
+      don’t shelter any Shiites among them: “As fighting reignited, Israel issued blanket
+      evacuation guidance for a vast stretch of southern Lebanon — extending 25 miles
+      from the Israeli border — publicly urging all civilians to flee to the north.
+      “But behind-the-scenes, Israeli officials have conveyed a more targeted message.
+      “In private calls to local leaders across southern Lebanon, Israeli military officials
+      have assured several Christian and Druse communities that they could remain in
+      the evacuation zone. They have pressed them, however, to force out any Lebanese
+      from neighboring Shiite Muslim communities who have sought refuge among them as
+      Israeli bombardment flatten Shiite towns, according to local Christian, Druse
+      and Shiite leaders who spoke to The New York Times. The Shiites make up the majority
+      of southern Lebanon.” The fact that Israel is explicitly warning people of one
+      ethnicity not to hide members of another ethnicity from the invading force which
+      wants to eliminate them should be drawing Holocaust comparisons around the world.
+      Instead it’s going completely ignored while the west pretends Jews are the ones
+      in imminent danger. In their melodramatic victim-LARPing after October 7, western
+      Zionist Jews like Gad Saad and Daniella Greenbaum Davis promoted a social media
+      campaign asking non-Jews “Would You Hide Me?” — as in would you hide me if there’s
+      another Holocaust. Billionaire Sheryl Sandberg appeared in a propaganda film titled
+      “ October 8 — The Fight for the Soul of America ” in which she described asking
+      her friend “will you hide me?” after the 2023 Hamas attack, as though the western
+      billionaire class isn’t the most coddled and least persecuted group on the entire
+      planet. Those same people don’t care about Lebanese Muslims hiding from Israeli
+      Nazis. ❖ Whenever someone talks about antisemitism these days you need to ask
+      them to clarify what kind of antisemitism they mean: the “I hate Jews” kind or
+      the “I don’t want my son to die invading some place called Kharg Island” kind.
+      ❖ Israel apologists are shrieking their lungs out about Alexandria Ocasio-Cortez
+      saying she’ll vote against US funding for Israel’s Iron Dome. The premise of these
+      arguments is that Israel is an innocent little flower who’s just sitting there
+      minding its own business while evil savages fire rockets, missiles and drones
+      at it for no reason, so it requires a “defensive” weapons system to shoot down
+      those projectiles. It is taken as a given that Americans need to pay for that
+      system for some strange reason. This is of course a lie. Israel is not sitting
+      there passively receiving these attacks, it is abusing Palestinians and starting
+      wars throughout the middle east under the assumption that it is relatively safe
+      from return fire. The Iron Dome exists to protect Israel from the deterrence capabilities
+      of the populations it attacks, and from the domestic political consequences of
+      military aggression becoming unpopular among an electorate who must suffer its
+      effects. Calling the Iron Dome “defensive” is like looking at the armor and shield
+      of a medieval knight and saying he must have carried those items around all the
+      time in case someone tried to stab him while he was sitting at home playing with
+      his children. No, those were weapons of war designed to keep the knight alive
+      so he could kill as many enemy soldiers as possible on the battlefield without
+      being stopped. If you were a psychopath and suddenly discovered you had super
+      powers which make your flesh as hard as steel, you’d probably go around beating
+      people up, because you’d be immune from the retaliations of those you attacked.
+      Without those powers you’d have to be a lot more diplomatic in your interactions
+      with people, because you’d want to keep your teeth in your head. Israel is like
+      a psychopath who’s been given powers which protect it from retaliatory strikes.
+      This is an entirely moderate position from AOC and should have been her stance
+      the entire time. Those criticizing her statements are acting like it’s a second
+      Holocaust because they want Israel to be allowed to butcher people throughout
+      west Asia without any fear of consequences. ___________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the lack of awareness and critical thinking
+      in Western journalism, highlighting a misleading New York Times headline about
+      NATO and a CNN segment that misinterprets the sentiments of Iranians towards an
+      American pilot, suggesting a troubling decline in journalistic standards.
+    paragraph_summary: In a critique of recent journalism, Tim Foley highlights glaring
+      inaccuracies in reporting by major outlets like The New York Times and CNN, illustrating
+      a troubling lack of understanding among journalists about international affairs.
+      He points out that The New York Times published an article with the misleading
+      headline “A North American Treaty Organization Without America?”, failing to recognize
+      that NATO stands for North Atlantic Treaty Organization, while CNN analyst Amy
+      McGrath suggested that an American pilot shot down over Iran might receive a warm
+      welcome from locals, reflecting a naive perspective on the realities of war. Foley
+      argues that such missteps reveal a broader issue within Western media, which he
+      believes contributes to public ignorance about global events and serves to propagate
+      misinformation, ultimately undermining the role of journalism in fostering an
+      informed populace.
+    published: '2026-04-04T00:55:15+00:00'
+  - title: The Mass Media Are Evil But They're Also Really Dumb, And Other Notes
+    url: https://www.caitlinjohnst.one/p/the-mass-media-are-evil-but-theyre
+    text: 'Reading by Tim Foley : Subscribe now The New York Times has printed an article
+      with the headline “A North American Treaty Organization Without America?”, apparently
+      having spent the entire Ukraine war completely unaware that NATO stands for North
+      ATLANTIC Treaty Organization. At the same time, CNN ran a segment on an American
+      bomber whose plane was shot down over Iran in which analyst Amy McGrath suggested
+      that the Iranians might help the pilot because they’re “happy” he’s bombing their
+      country, saying the pilot would be worried because they don’t know “if you’re
+      gonna be picked by somebody who is going to turn you over to the Iranian forces
+      that are gonna use you and capture you, or is the population happy that you’re
+      there?” Really illustrates how fucked western journalism is, doesn’t it? I mean,
+      this is some serious baby-brained thinking on display here. That New York Times
+      headline made it through multiple checkpoints before publication without it ever
+      even occurring to anyone to at least do a quick Google search to find out if the
+      A in NATO really does stand for “American”, and, if so, why are there so many
+      European countries in it? That CNN analyst really does have such an infantile,
+      children’s cartoon worldview on American wars that she thinks the people being
+      bombed by American pilots will want to hug them and kiss them and give them presents
+      when they emergency eject into enemy territory. It’s kind of amazing that any
+      of the people involved in either of these incidents are working in news media
+      at all. If you’ve ever wondered why so many Americans are so ignorant about what’s
+      going on in their world, it’s because for generations these have been the kinds
+      of people informing them about world events. These are the news outlets who’ve
+      been responsible for creating an informed populace. And their reporting is shared
+      with the entire western world. I constantly criticize the western press for its
+      role in propagandizing the public to manufacture consent for evil wars and normalize
+      an abusive political status quo. You cannot despise these manipulators enough
+      for their role in the world’s dysfunction today. But these two incidents highlight
+      the fact that the people running the western press aren’t just evil — they’re
+      also really, really stupid. ❖ The New York Times is also running narrative cover
+      for Israel’s ethnic cleansing operation in Lebanon, running a story on the ethnically
+      motivated mass expulsion with the obscene headline “ Israel’s Message to Southern
+      Lebanon: Shiites Must Go ”. The Times then goes on to make it clear that what
+      they’re softly framing as “Israel’s message” is in fact a brazen ethnic cleansing
+      operation, saying Israel’s evacuation orders in Lebanon apply exclusively to Shiite
+      Muslims, while Christians and Druse may be permitted to remain as long as they
+      don’t shelter any Shiites among them: “As fighting reignited, Israel issued blanket
+      evacuation guidance for a vast stretch of southern Lebanon — extending 25 miles
+      from the Israeli border — publicly urging all civilians to flee to the north.
+      “But behind-the-scenes, Israeli officials have conveyed a more targeted message.
+      “In private calls to local leaders across southern Lebanon, Israeli military officials
+      have assured several Christian and Druse communities that they could remain in
+      the evacuation zone. They have pressed them, however, to force out any Lebanese
+      from neighboring Shiite Muslim communities who have sought refuge among them as
+      Israeli bombardment flatten Shiite towns, according to local Christian, Druse
+      and Shiite leaders who spoke to The New York Times. The Shiites make up the majority
+      of southern Lebanon.” The fact that Israel is explicitly warning people of one
+      ethnicity not to hide members of another ethnicity from the invading force which
+      wants to eliminate them should be drawing Holocaust comparisons around the world.
+      Instead it’s going completely ignored while the west pretends Jews are the ones
+      in imminent danger. In their melodramatic victim-LARPing after October 7, western
+      Zionist Jews like Gad Saad and Daniella Greenbaum Davis promoted a social media
+      campaign asking non-Jews “Would You Hide Me?” — as in would you hide me if there’s
+      another Holocaust. Billionaire Sheryl Sandberg appeared in a propaganda film titled
+      “ October 8 — The Fight for the Soul of America ” in which she described asking
+      her friend “will you hide me?” after the 2023 Hamas attack, as though the western
+      billionaire class isn’t the most coddled and least persecuted group on the entire
+      planet. Those same people don’t care about Lebanese Muslims hiding from Israeli
+      Nazis. ❖ Whenever someone talks about antisemitism these days you need to ask
+      them to clarify what kind of antisemitism they mean: the “I hate Jews” kind or
+      the “I don’t want my son to die invading some place called Kharg Island” kind.
+      ❖ Israel apologists are shrieking their lungs out about Alexandria Ocasio-Cortez
+      saying she’ll vote against US funding for Israel’s Iron Dome. The premise of these
+      arguments is that Israel is an innocent little flower who’s just sitting there
+      minding its own business while evil savages fire rockets, missiles and drones
+      at it for no reason, so it requires a “defensive” weapons system to shoot down
+      those projectiles. It is taken as a given that Americans need to pay for that
+      system for some strange reason. This is of course a lie. Israel is not sitting
+      there passively receiving these attacks, it is abusing Palestinians and starting
+      wars throughout the middle east under the assumption that it is relatively safe
+      from return fire. The Iron Dome exists to protect Israel from the deterrence capabilities
+      of the populations it attacks, and from the domestic political consequences of
+      military aggression becoming unpopular among an electorate who must suffer its
+      effects. Calling the Iron Dome “defensive” is like looking at the armor and shield
+      of a medieval knight and saying he must have carried those items around all the
+      time in case someone tried to stab him while he was sitting at home playing with
+      his children. No, those were weapons of war designed to keep the knight alive
+      so he could kill as many enemy soldiers as possible on the battlefield without
+      being stopped. If you were a psychopath and suddenly discovered you had super
+      powers which make your flesh as hard as steel, you’d probably go around beating
+      people up, because you’d be immune from the retaliations of those you attacked.
+      Without those powers you’d have to be a lot more diplomatic in your interactions
+      with people, because you’d want to keep your teeth in your head. Israel is like
+      a psychopath who’s been given powers which protect it from retaliatory strikes.
+      This is an entirely moderate position from AOC and should have been her stance
+      the entire time. Those criticizing her statements are acting like it’s a second
+      Holocaust because they want Israel to be allowed to butcher people throughout
+      west Asia without any fear of consequences. ___________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article critiques the lack of awareness and critical thinking
+      in Western journalism, highlighting a misleading New York Times headline about
+      NATO and a CNN segment that misinterprets the sentiments of Iranians towards an
+      American pilot, suggesting a troubling decline in journalistic standards.
+    paragraph_summary: In a critique of recent journalism, Tim Foley highlights glaring
+      inaccuracies in reporting by major outlets like The New York Times and CNN, illustrating
+      a troubling lack of understanding among journalists about international affairs.
+      He points out that The New York Times published an article with the misleading
+      headline “A North American Treaty Organization Without America?”, failing to recognize
+      that NATO stands for North Atlantic Treaty Organization, while CNN analyst Amy
+      McGrath suggested that an American pilot shot down over Iran might receive a warm
+      welcome from locals, reflecting a naive perspective on the realities of war. Foley
+      argues that such missteps reveal a broader issue within Western media, which he
+      believes contributes to public ignorance about global events and serves to propagate
+      misinformation, ultimately undermining the role of journalism in fostering an
+      informed populace.
+    published: '2026-04-04T00:55:15+00:00'
+  - title: Experts Warned For Years That A War With Iran Would Happen This Way
+    url: https://www.caitlinjohnst.one/p/experts-warned-for-years-that-a-war
+    text: 'Reading by Tim Foley : Subscribe now Time has a new article out in which
+      unnamed sources assert that the Pentagon was caught totally off-guard by Iran’s
+      aggressive retaliation against the US-Israeli onslaught which began last month,
+      reporting the following: “Key Trump officials, including Defense Secretary Pete
+      Hegseth, were surprised by the barrage of retaliatory attacks Tehran launched
+      against U.S. and Israeli targets across the region, including in countries long
+      assumed to be off-limits: Kuwait, Bahrain, Saudi Arabia, the United Arab Emirates,
+      and Qatar, a state that had both harbored Iran’s terrorist proxies and served
+      as a conduit for backchannel diplomacy between the U.S. and Hamas. The response
+      shattered the assumption that Tehran would confine itself to performative retaliation.
+      In internal deliberations before the war’s launch, Hegseth had pointed to Iran’s
+      muted reaction to Trump’s past attacks as evidence that calibrated force could
+      impose costs on Tehran without triggering a broader war. Hegseth ‘was caught off
+      guard. There’s no question,’ says a person familiar with his thinking.” It’s so
+      wild how we keep seeing reports that Iran’s retaliation caught the US off guard.
+      For all the years I’ve been paying attention to this issue I’ve been reading experts
+      and analysts saying if the US attacks Iran, Iran can close the Strait of Hormuz
+      and strike US bases and the energy infrastructure of US allies in the region.
+      A few examples: A 2006 Oxford Research Group paper titled “ Iran: Consequences
+      of a War ” warned that Iran has numerous options at its disposal in the event
+      of a US attack, and that the “most significant of these would be any possible
+      retaliatory Iranian action to affect the transport of oil and liquefied natural
+      gas through the Straits of Hormuz,” adding that stopping Iran from doing this
+      “would be difficult if not impossible to achieve, leading to a fear of attack
+      which alone would have a formidable impact on oil markets.” A 2007 Cato Institute
+      paper titled “ The Iraq War and Iranian Power ” warns that “Iran possesses the
+      largest ballistic-missile inventory in the Persian Gulf — missiles which can reach
+      Israel, Saudi Arabia and US military bases in Iraq,” and that “experts argue Iran
+      could also use the ’oil weapon’: blocking the 34km-wide Strait of Hormuz and conducting
+      submarine and anti-ship missile attacks against ports and oil facilities in Saudi
+      Arabia, Kuwait and other Gulf Cooperation Council states.” A 2012 NPR article
+      titled “ Can Iran Close The World’s Most Important Oil Route? ” features then-chairman
+      of the Joint Chiefs of Staff acknowledging that Iran absolutely can block the
+      Strait of Hormuz, saying Tehran has “invested in capabilities” which specifically
+      enable them to do so. A paper from the Columbia Center on Global Energy Policy
+      and the Center for a New American Security titled “ IN DIRE STRAITS? IMPLICATIONS
+      OF US-IRAN TENSIONS FOR THE GLOBAL OIL MARKET ” warns of a potential scenario
+      “that includes damage to Gulf oil infrastructure and a temporary closure of the
+      Strait of Hormuz.” These weren’t a bunch of keffiyeh-wearing peaceniks making
+      these assessments, they were deeply entrenched swamp monsters entirely loyal to
+      the US empire. They opposed war with Iran not because it would be an evil act
+      of unforgivable mass murder, but because it would be bad for the imperial power
+      structure. Trump’s former national security advisor John Bolton recently tweeted
+      that other administration officials had warned the president to dismiss Bolton’s
+      urging to attack Iran because of the easily foreseeable consequences of that war,
+      saying “In 2018–2019, I made the case for regime change in Iran as often as I
+      could. Voices in Trump’s orbit often cited Iran’s capacity to close the Strait
+      of Hormuz as a reason against regime change. Trump has been fully aware this is
+      a possibility, and yet did not prepare.” I have zero military training or expertise — on
+      military matters I’m just some schmuck with internet access — and yet nothing
+      Iran has done has surprised me. It’s playing out exactly how the experts warned
+      it would play out. There’s no way any literate, thinking person didn’t see this
+      coming; when they say they didn’t, it’s because they’re either lying or amazingly
+      stupid. Trump’s war machine is either made up of liars, morons, lying morons,
+      or (most likely), an eclectic mixture of all three. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The Pentagon was reportedly caught off-guard by Iran's unexpected
+      and aggressive retaliation against U.S. and Israeli targets in the region, contradicting
+      prior assumptions about Tehran's response capabilities.
+    paragraph_summary: An article by Tim Foley highlights that the Pentagon was reportedly
+      taken by surprise by Iran's aggressive retaliation against U.S. and Israeli forces,
+      which included attacks on targets in several Gulf countries previously thought
+      to be safe from such actions. Key officials, including Defense Secretary Pete
+      Hegseth, had underestimated Iran's response, believing that past muted reactions
+      would indicate a limited retaliatory approach. The article points out that experts
+      have long warned about Iran's potential for significant retaliation, particularly
+      regarding its ability to disrupt oil transport through the Strait of Hormuz, suggesting
+      that the U.S. should have anticipated a more robust response from Tehran.
+    published: '2026-04-03T14:47:33+00:00'
+  - title: Experts Warned For Years That A War With Iran Would Happen This Way
+    url: https://www.caitlinjohnst.one/p/experts-warned-for-years-that-a-war
+    text: 'Reading by Tim Foley : Subscribe now Time has a new article out in which
+      unnamed sources assert that the Pentagon was caught totally off-guard by Iran’s
+      aggressive retaliation against the US-Israeli onslaught which began last month,
+      reporting the following: “Key Trump officials, including Defense Secretary Pete
+      Hegseth, were surprised by the barrage of retaliatory attacks Tehran launched
+      against U.S. and Israeli targets across the region, including in countries long
+      assumed to be off-limits: Kuwait, Bahrain, Saudi Arabia, the United Arab Emirates,
+      and Qatar, a state that had both harbored Iran’s terrorist proxies and served
+      as a conduit for backchannel diplomacy between the U.S. and Hamas. The response
+      shattered the assumption that Tehran would confine itself to performative retaliation.
+      In internal deliberations before the war’s launch, Hegseth had pointed to Iran’s
+      muted reaction to Trump’s past attacks as evidence that calibrated force could
+      impose costs on Tehran without triggering a broader war. Hegseth ‘was caught off
+      guard. There’s no question,’ says a person familiar with his thinking.” It’s so
+      wild how we keep seeing reports that Iran’s retaliation caught the US off guard.
+      For all the years I’ve been paying attention to this issue I’ve been reading experts
+      and analysts saying if the US attacks Iran, Iran can close the Strait of Hormuz
+      and strike US bases and the energy infrastructure of US allies in the region.
+      A few examples: A 2006 Oxford Research Group paper titled “ Iran: Consequences
+      of a War ” warned that Iran has numerous options at its disposal in the event
+      of a US attack, and that the “most significant of these would be any possible
+      retaliatory Iranian action to affect the transport of oil and liquefied natural
+      gas through the Straits of Hormuz,” adding that stopping Iran from doing this
+      “would be difficult if not impossible to achieve, leading to a fear of attack
+      which alone would have a formidable impact on oil markets.” A 2007 Cato Institute
+      paper titled “ The Iraq War and Iranian Power ” warns that “Iran possesses the
+      largest ballistic-missile inventory in the Persian Gulf — missiles which can reach
+      Israel, Saudi Arabia and US military bases in Iraq,” and that “experts argue Iran
+      could also use the ’oil weapon’: blocking the 34km-wide Strait of Hormuz and conducting
+      submarine and anti-ship missile attacks against ports and oil facilities in Saudi
+      Arabia, Kuwait and other Gulf Cooperation Council states.” A 2012 NPR article
+      titled “ Can Iran Close The World’s Most Important Oil Route? ” features then-chairman
+      of the Joint Chiefs of Staff acknowledging that Iran absolutely can block the
+      Strait of Hormuz, saying Tehran has “invested in capabilities” which specifically
+      enable them to do so. A paper from the Columbia Center on Global Energy Policy
+      and the Center for a New American Security titled “ IN DIRE STRAITS? IMPLICATIONS
+      OF US-IRAN TENSIONS FOR THE GLOBAL OIL MARKET ” warns of a potential scenario
+      “that includes damage to Gulf oil infrastructure and a temporary closure of the
+      Strait of Hormuz.” These weren’t a bunch of keffiyeh-wearing peaceniks making
+      these assessments, they were deeply entrenched swamp monsters entirely loyal to
+      the US empire. They opposed war with Iran not because it would be an evil act
+      of unforgivable mass murder, but because it would be bad for the imperial power
+      structure. Trump’s former national security advisor John Bolton recently tweeted
+      that other administration officials had warned the president to dismiss Bolton’s
+      urging to attack Iran because of the easily foreseeable consequences of that war,
+      saying “In 2018–2019, I made the case for regime change in Iran as often as I
+      could. Voices in Trump’s orbit often cited Iran’s capacity to close the Strait
+      of Hormuz as a reason against regime change. Trump has been fully aware this is
+      a possibility, and yet did not prepare.” I have zero military training or expertise — on
+      military matters I’m just some schmuck with internet access — and yet nothing
+      Iran has done has surprised me. It’s playing out exactly how the experts warned
+      it would play out. There’s no way any literate, thinking person didn’t see this
+      coming; when they say they didn’t, it’s because they’re either lying or amazingly
+      stupid. Trump’s war machine is either made up of liars, morons, lying morons,
+      or (most likely), an eclectic mixture of all three. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The Pentagon was reportedly caught off-guard by Iran's unexpected
+      and aggressive retaliation against U.S. and Israeli targets in the region, contradicting
+      prior assumptions about Tehran's response capabilities.
+    paragraph_summary: An article by Tim Foley highlights that the Pentagon was reportedly
+      taken by surprise by Iran's aggressive retaliation against U.S. and Israeli forces,
+      which included attacks on targets in several Gulf countries previously thought
+      to be safe from such actions. Key officials, including Defense Secretary Pete
+      Hegseth, had underestimated Iran's response, believing that past muted reactions
+      would indicate a limited retaliatory approach. The article points out that experts
+      have long warned about Iran's potential for significant retaliation, particularly
+      regarding its ability to disrupt oil transport through the Strait of Hormuz, suggesting
+      that the U.S. should have anticipated a more robust response from Tehran.
+    published: '2026-04-03T14:47:33+00:00'
+  - title: The Empire Is Losing Its Ability To Hide Its Ugly Nature
+    url: https://www.caitlinjohnst.one/p/the-empire-is-losing-its-ability
+    text: 'Reading by Tim Foley : Subscribe now It used to be hard to help westerners
+      see the depravity of the US empire. Now it’s just right in everyone’s face with
+      raw genocide footage and insanely evil warmongering of direct economic consequence.
+      It took a lot of work to help the average westerner understand that NATO aggressions
+      actively provoked the war in Ukraine, or that western interventionism played a
+      major role in the violence and chaos in Syria, or that US economic warfare was
+      largely responsible for the suffering of Cubans and Venezuelans. The murderous
+      savagery of the empire was hidden behind layers of obfuscation, allowing the propagandists
+      to frame the western power structure as a passive witness to the abuses of foreign
+      regimes. Now the propagandists have very little to work with, so those obfuscations
+      can no longer take place. There’s no way you can spin a school full of children
+      blown up by an American double-tap airstrike as anything other than what it is.
+      There’s only so much narrative manipulation you can exert on raw video footage
+      of a western-backed genocide playing out in full view of the entire world day
+      after day for years. There’s no way to propagandize westerners into believing
+      they want to pay a lot more more money for their fuel and groceries. I saw former
+      EU parliament member Luis Garicano complaining on Twitter that Trump’s actions
+      are making it look as though leftists have been correct about the US empire this
+      whole time, saying “Many of us, liberal Europeans, spent decades pushing back
+      against the European extreme left’s cartoon version of America ( it’s all oil/
+      imperialism/getting rich at the expense of others) and then one dumb administration
+      walks in and performs the caricature to perfection.” Garicano’s entire worldview
+      depends on his ability to avoid recognizing the obvious truth: that the so-called
+      “extreme left” has always been correct, and that the empire he worships has always
+      been evil. It’s just having a harder and harder time masking its true nature,
+      because of the very evils it has tried to conceal. Everything’s becoming more
+      and more revealed. More and more transparent. What was once done solely by whistleblowers,
+      investigative journalists, activists and dissident media is now being done by
+      the empire itself, because there’s only so long you can hide the truth about something
+      so malignant. An empire that is held together by lies, corruption and endless
+      slaughter was never going to remain unseen. The brutality necessary to dominate
+      the planet had to come out into the light eventually. “May all be revealed” has
+      been my prayer for our world for many years now. That dearly held wish is now
+      being answered, and the truth is looking every bit as ugly as expected. May all
+      be revealed. May all that is hidden become seen. In the empire. In our governments.
+      In our culture. In our community. In our interpersonal relationships. In ourselves.
+      All abusiveness ultimately boils down to a lack of clear seeing. Governments are
+      able to abuse people because the dynamics of corruption and tyranny aren’t clearly
+      seen by the public, who would violently revolt if they truly understood what their
+      leaders are doing to them and to their world. Domestic violence and family sexual
+      abuse can only continue when the rest of the community doesn’t see and understand
+      what the abuser is doing. Our own abusive tendencies can only persist for as long
+      as our trauma responses and maladaptive coping mechanisms remain hidden in the
+      shadows of our subconscious mind. All of these dysfunctional dynamics will lose
+      their durability as we become more and more conscious of what’s really going on,
+      in ourselves and in our world. Things look ugly now because the truth is ugly,
+      but it is only by truth revealing itself that we can move toward health and harmony
+      as a species. If you’ve ever done deep inner work on your own psychology you have
+      seen this play out in your own personal experience. You can heal your inner woundedness
+      if you can gather up the courage to plunge into your own darkness and face with
+      uncompromising honesty the uncomfortable realities you’ve been avoiding within
+      yourself throughout your entire life — but you kept those things unconscious for
+      a reason. They’re scary. They’re painful. They’re shameful. Facing them can feel
+      like the end of the world. Yet it is only by coaxing them into the light of consciousness
+      that they can be fully seen, reconciled, and healed. The whole world is like that.
+      Humans as a collective cannot fix problems which we don’t clearly see and understand.
+      Our rulers pour so much energy into maintaining influence operations like news
+      media propaganda, Hollywood psyops, Silicon Valley algorithm manipulation and
+      government secrecy in order to obstruct our clear seeing and understanding. But
+      it’s all coming tumbling out into the cold light of day now. More and more is
+      becoming visible. May the lies and obfuscations continue to unravel. May the truth
+      continue to reveal itself. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley argues that the blatant and visible
+      consequences of U.S. military actions and economic policies have made it increasingly
+      difficult for Western propagandists to obscure the reality of American imperialism
+      and its direct role in global violence and suffering.
+    paragraph_summary: In his article, Tim Foley argues that the brutal realities of
+      U.S. imperialism are becoming increasingly visible to the public, as graphic evidence
+      of war atrocities and economic consequences of U.S. interventions lay bare the
+      destructive impact of American foreign policy. He notes that it was once challenging
+      to convince Westerners of the U.S. empire's role in global conflicts, such as
+      the wars in Ukraine and Syria, or the suffering in Cuba and Venezuela, due to
+      layers of propaganda that obscured the truth. However, with undeniable footage
+      of civilian casualties and the direct effects of U.S. actions now widely accessible,
+      the narrative manipulation by propagandists is faltering. Foley highlights the
+      frustration of some liberal Europeans, like former EU parliament member Luis Garicano,
+      who struggle to reconcile their beliefs about America with the stark realities
+      presented by recent U.S. administrations, ultimately suggesting that the so-called
+      "extreme left" has long understood the inherent evils of the empire that are now
+      harder to deny.
+    published: '2026-04-02T00:39:06+00:00'
+  - title: The Empire Is Losing Its Ability To Hide Its Ugly Nature
+    url: https://www.caitlinjohnst.one/p/the-empire-is-losing-its-ability
+    text: 'Reading by Tim Foley : Subscribe now It used to be hard to help westerners
+      see the depravity of the US empire. Now it’s just right in everyone’s face with
+      raw genocide footage and insanely evil warmongering of direct economic consequence.
+      It took a lot of work to help the average westerner understand that NATO aggressions
+      actively provoked the war in Ukraine, or that western interventionism played a
+      major role in the violence and chaos in Syria, or that US economic warfare was
+      largely responsible for the suffering of Cubans and Venezuelans. The murderous
+      savagery of the empire was hidden behind layers of obfuscation, allowing the propagandists
+      to frame the western power structure as a passive witness to the abuses of foreign
+      regimes. Now the propagandists have very little to work with, so those obfuscations
+      can no longer take place. There’s no way you can spin a school full of children
+      blown up by an American double-tap airstrike as anything other than what it is.
+      There’s only so much narrative manipulation you can exert on raw video footage
+      of a western-backed genocide playing out in full view of the entire world day
+      after day for years. There’s no way to propagandize westerners into believing
+      they want to pay a lot more more money for their fuel and groceries. I saw former
+      EU parliament member Luis Garicano complaining on Twitter that Trump’s actions
+      are making it look as though leftists have been correct about the US empire this
+      whole time, saying “Many of us, liberal Europeans, spent decades pushing back
+      against the European extreme left’s cartoon version of America ( it’s all oil/
+      imperialism/getting rich at the expense of others) and then one dumb administration
+      walks in and performs the caricature to perfection.” Garicano’s entire worldview
+      depends on his ability to avoid recognizing the obvious truth: that the so-called
+      “extreme left” has always been correct, and that the empire he worships has always
+      been evil. It’s just having a harder and harder time masking its true nature,
+      because of the very evils it has tried to conceal. Everything’s becoming more
+      and more revealed. More and more transparent. What was once done solely by whistleblowers,
+      investigative journalists, activists and dissident media is now being done by
+      the empire itself, because there’s only so long you can hide the truth about something
+      so malignant. An empire that is held together by lies, corruption and endless
+      slaughter was never going to remain unseen. The brutality necessary to dominate
+      the planet had to come out into the light eventually. “May all be revealed” has
+      been my prayer for our world for many years now. That dearly held wish is now
+      being answered, and the truth is looking every bit as ugly as expected. May all
+      be revealed. May all that is hidden become seen. In the empire. In our governments.
+      In our culture. In our community. In our interpersonal relationships. In ourselves.
+      All abusiveness ultimately boils down to a lack of clear seeing. Governments are
+      able to abuse people because the dynamics of corruption and tyranny aren’t clearly
+      seen by the public, who would violently revolt if they truly understood what their
+      leaders are doing to them and to their world. Domestic violence and family sexual
+      abuse can only continue when the rest of the community doesn’t see and understand
+      what the abuser is doing. Our own abusive tendencies can only persist for as long
+      as our trauma responses and maladaptive coping mechanisms remain hidden in the
+      shadows of our subconscious mind. All of these dysfunctional dynamics will lose
+      their durability as we become more and more conscious of what’s really going on,
+      in ourselves and in our world. Things look ugly now because the truth is ugly,
+      but it is only by truth revealing itself that we can move toward health and harmony
+      as a species. If you’ve ever done deep inner work on your own psychology you have
+      seen this play out in your own personal experience. You can heal your inner woundedness
+      if you can gather up the courage to plunge into your own darkness and face with
+      uncompromising honesty the uncomfortable realities you’ve been avoiding within
+      yourself throughout your entire life — but you kept those things unconscious for
+      a reason. They’re scary. They’re painful. They’re shameful. Facing them can feel
+      like the end of the world. Yet it is only by coaxing them into the light of consciousness
+      that they can be fully seen, reconciled, and healed. The whole world is like that.
+      Humans as a collective cannot fix problems which we don’t clearly see and understand.
+      Our rulers pour so much energy into maintaining influence operations like news
+      media propaganda, Hollywood psyops, Silicon Valley algorithm manipulation and
+      government secrecy in order to obstruct our clear seeing and understanding. But
+      it’s all coming tumbling out into the cold light of day now. More and more is
+      becoming visible. May the lies and obfuscations continue to unravel. May the truth
+      continue to reveal itself. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article by Tim Foley argues that the blatant and visible
+      consequences of U.S. military actions and economic policies have made it increasingly
+      difficult for Western propagandists to obscure the reality of American imperialism
+      and its direct role in global violence and suffering.
+    paragraph_summary: In his article, Tim Foley argues that the brutal realities of
+      U.S. imperialism are becoming increasingly visible to the public, as graphic evidence
+      of war atrocities and economic consequences of U.S. interventions lay bare the
+      destructive impact of American foreign policy. He notes that it was once challenging
+      to convince Westerners of the U.S. empire's role in global conflicts, such as
+      the wars in Ukraine and Syria, or the suffering in Cuba and Venezuela, due to
+      layers of propaganda that obscured the truth. However, with undeniable footage
+      of civilian casualties and the direct effects of U.S. actions now widely accessible,
+      the narrative manipulation by propagandists is faltering. Foley highlights the
+      frustration of some liberal Europeans, like former EU parliament member Luis Garicano,
+      who struggle to reconcile their beliefs about America with the stark realities
+      presented by recent U.S. administrations, ultimately suggesting that the so-called
+      "extreme left" has long understood the inherent evils of the empire that are now
+      harder to deny.
+    published: '2026-04-02T00:39:06+00:00'
+  - title: There Are No Good Zionists, And Other Notes
+    url: https://www.caitlinjohnst.one/p/there-are-no-good-zionists-and-other
+    text: 'Reading by Tim Foley : Subscribe now I don’t believe you can be a good Zionist
+      anymore than I believe someone can be a decent Nazi. The ideology itself describes
+      a major character flaw. I cannot take seriously the idea that some ethnicities
+      or religious groups are inherently prone to nefarious behavior; it goes against
+      everything I’ve learned about the human condition over the course of my strange
+      adventures on this planet. I absolutely do believe, however, that there are political
+      ideologies whose adherents are universally dogshit people. If you’ve been watching
+      the incineration of the Gaza Strip and thinking it’s good, or thinking it’s complicated,
+      or thinking it’s an unfortunate development that can be blamed on a few bad apples
+      in the Israeli government but doesn’t reflect Israel’s nature as a whole, then
+      you’re a piece of shit. You’re a horrible human being. It really is that simple.
+      If you can look at Israel starting all these wars, bombing the fuck out of Iran
+      and Lebanon and Palestine, passing laws to execute Palestinians exclusively while
+      sparing Jews from the same sentencing for the same crimes, and still fail to recognize
+      that the Israel experiment must be aborted, then you have not developed a functioning
+      conscience. You have wasted your time on this planet. You have not managed to
+      mature into a morally healthy human in all these years you’ve been alive. There
+      are Zionists who are vegetarian, who are nice to their pets, who give money to
+      charity — but there are no Zionists who are actually good people. John Wayne Gacy
+      did charity clown shows for hospitalized children, but he was still a serial killer
+      and a very bad man. His abusiveness eclipsed any other kindness he may have performed,
+      and became his defining characteristic as an individual. Being a supporter of
+      the Israel project is exactly the same. It doesn’t matter what else you do with
+      your life if you stand on the side of a man-made murder machine which is fueled
+      by the blood of the innocent. You’re just plain awful. ❖ Israel’s Knesset has
+      passed its notorious bill to execute Palestinians convicted of “terrorism” in
+      bogus military court show trials. The law is explicitly crafted to exclude Jews
+      and solely target Palestinians, which is about as strong a sign you’re looking
+      at apartheid as you could possibly imagine. As The Times of Israel explains ,
+      “The law effectively enshrines capital punishment for Palestinians alone, as it
+      explicitly excludes Israeli citizens or residents, and Palestinians alone are
+      tried in military courts. Israelis are tried in civilian courts.” For years Israel
+      apologists have been admonishing me for calling Israel an apartheid state. For
+      years liberal “moderates” have been saying it’s extreme for me to call Zionism
+      a fundamentally racist and murderous ideology. And yet, here we are. Can’t wait
+      to hear the hasbarists try to spin this one. ❖ On Monday US Secretary of State
+      Marco Rubio slammed Iran for spending its money on weapons instead of investing
+      it toward the benefit of the Iranian people, saying “Imagine if instead of spending
+      billions of dollars supporting terrorists or weapons, Iran had spent that money
+      helping the people of Iran. They would have a much different country.” Again,
+      this is an official from the United States of America saying this. Literally the
+      funniest country that could possibly utter this criticism of another country’s
+      military spending. ❖ Violence in the middle east spiraled into a hot war with
+      Iran because the world didn’t have the sense to tell Israel it got what it deserved
+      on October 7. ❖ As Trump threatens to blow up Iranian desalination plants and
+      US-Israeli attacks on civilian targets get more and more egregious, an article
+      from Middle East Eye titled “ Iranian livelihoods are being blown apart by US
+      and Israeli bombs ” paints a picture of the way people’s lives are being ruined
+      even among those who are fortunate enough to survive the onslaught. “They [the
+      US and Israel] said they were bringing us freedom. Is this what freedom looks
+      like?” says a 40 year-old man in Tehran after his small optical store was obliterated
+      despite no military targets being located in the area. And yet the next time the
+      US wants to bomb a country to topple its government we’re going to see its diaspora
+      cheerleading the attack and telling everyone this time it really is about bringing
+      freedom and democracy to the victims of a tyrannical regime. There are suckers
+      in every country. ❖ It’s hilarious that there are billionaires poisoning every
+      facet of our society and making everyone miserable and starting insane wars and
+      incinerating the biosphere and there are people trying to tell me I should be
+      angry at Muslims. ____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author argues that being a Zionist is fundamentally incompatible
+      with being a decent human being, condemning those who justify or downplay the
+      violence in Gaza and other regions as morally reprehensible.
+    paragraph_summary: In an article by Tim Foley, the author expresses a strong condemnation
+      of Zionism, equating it to an ideology that inherently fosters moral corruption,
+      similar to Nazism. Foley argues that the actions and policies of Israel, particularly
+      in relation to the Gaza Strip and its treatment of Palestinians, reveal a fundamental
+      moral failing among those who support or justify these actions. He asserts that
+      even if individuals who identify as Zionists engage in charitable or kind behaviors,
+      it does not redeem them in the face of their support for what he describes as
+      a violent and oppressive regime. Ultimately, Foley contends that anyone who fails
+      to recognize the moral implications of supporting Israel's actions has not developed
+      a functioning conscience and has wasted their time on Earth.
+    published: '2026-04-01T11:48:05+00:00'
+  - title: There Are No Good Zionists, And Other Notes
+    url: https://www.caitlinjohnst.one/p/there-are-no-good-zionists-and-other
+    text: 'Reading by Tim Foley : Subscribe now I don’t believe you can be a good Zionist
+      anymore than I believe someone can be a decent Nazi. The ideology itself describes
+      a major character flaw. I cannot take seriously the idea that some ethnicities
+      or religious groups are inherently prone to nefarious behavior; it goes against
+      everything I’ve learned about the human condition over the course of my strange
+      adventures on this planet. I absolutely do believe, however, that there are political
+      ideologies whose adherents are universally dogshit people. If you’ve been watching
+      the incineration of the Gaza Strip and thinking it’s good, or thinking it’s complicated,
+      or thinking it’s an unfortunate development that can be blamed on a few bad apples
+      in the Israeli government but doesn’t reflect Israel’s nature as a whole, then
+      you’re a piece of shit. You’re a horrible human being. It really is that simple.
+      If you can look at Israel starting all these wars, bombing the fuck out of Iran
+      and Lebanon and Palestine, passing laws to execute Palestinians exclusively while
+      sparing Jews from the same sentencing for the same crimes, and still fail to recognize
+      that the Israel experiment must be aborted, then you have not developed a functioning
+      conscience. You have wasted your time on this planet. You have not managed to
+      mature into a morally healthy human in all these years you’ve been alive. There
+      are Zionists who are vegetarian, who are nice to their pets, who give money to
+      charity — but there are no Zionists who are actually good people. John Wayne Gacy
+      did charity clown shows for hospitalized children, but he was still a serial killer
+      and a very bad man. His abusiveness eclipsed any other kindness he may have performed,
+      and became his defining characteristic as an individual. Being a supporter of
+      the Israel project is exactly the same. It doesn’t matter what else you do with
+      your life if you stand on the side of a man-made murder machine which is fueled
+      by the blood of the innocent. You’re just plain awful. ❖ Israel’s Knesset has
+      passed its notorious bill to execute Palestinians convicted of “terrorism” in
+      bogus military court show trials. The law is explicitly crafted to exclude Jews
+      and solely target Palestinians, which is about as strong a sign you’re looking
+      at apartheid as you could possibly imagine. As The Times of Israel explains ,
+      “The law effectively enshrines capital punishment for Palestinians alone, as it
+      explicitly excludes Israeli citizens or residents, and Palestinians alone are
+      tried in military courts. Israelis are tried in civilian courts.” For years Israel
+      apologists have been admonishing me for calling Israel an apartheid state. For
+      years liberal “moderates” have been saying it’s extreme for me to call Zionism
+      a fundamentally racist and murderous ideology. And yet, here we are. Can’t wait
+      to hear the hasbarists try to spin this one. ❖ On Monday US Secretary of State
+      Marco Rubio slammed Iran for spending its money on weapons instead of investing
+      it toward the benefit of the Iranian people, saying “Imagine if instead of spending
+      billions of dollars supporting terrorists or weapons, Iran had spent that money
+      helping the people of Iran. They would have a much different country.” Again,
+      this is an official from the United States of America saying this. Literally the
+      funniest country that could possibly utter this criticism of another country’s
+      military spending. ❖ Violence in the middle east spiraled into a hot war with
+      Iran because the world didn’t have the sense to tell Israel it got what it deserved
+      on October 7. ❖ As Trump threatens to blow up Iranian desalination plants and
+      US-Israeli attacks on civilian targets get more and more egregious, an article
+      from Middle East Eye titled “ Iranian livelihoods are being blown apart by US
+      and Israeli bombs ” paints a picture of the way people’s lives are being ruined
+      even among those who are fortunate enough to survive the onslaught. “They [the
+      US and Israel] said they were bringing us freedom. Is this what freedom looks
+      like?” says a 40 year-old man in Tehran after his small optical store was obliterated
+      despite no military targets being located in the area. And yet the next time the
+      US wants to bomb a country to topple its government we’re going to see its diaspora
+      cheerleading the attack and telling everyone this time it really is about bringing
+      freedom and democracy to the victims of a tyrannical regime. There are suckers
+      in every country. ❖ It’s hilarious that there are billionaires poisoning every
+      facet of our society and making everyone miserable and starting insane wars and
+      incinerating the biosphere and there are people trying to tell me I should be
+      angry at Muslims. ____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author argues that being a Zionist is fundamentally incompatible
+      with being a decent human being, condemning those who justify or downplay the
+      violence in Gaza and other regions as morally reprehensible.
+    paragraph_summary: In an article by Tim Foley, the author expresses a strong condemnation
+      of Zionism, equating it to an ideology that inherently fosters moral corruption,
+      similar to Nazism. Foley argues that the actions and policies of Israel, particularly
+      in relation to the Gaza Strip and its treatment of Palestinians, reveal a fundamental
+      moral failing among those who support or justify these actions. He asserts that
+      even if individuals who identify as Zionists engage in charitable or kind behaviors,
+      it does not redeem them in the face of their support for what he describes as
+      a violent and oppressive regime. Ultimately, Foley contends that anyone who fails
+      to recognize the moral implications of supporting Israel's actions has not developed
+      a functioning conscience and has wasted their time on Earth.
+    published: '2026-04-01T11:48:05+00:00'
   - title: Growing Up Means Realizing That None Of The Worst Villains Are In Prison
     url: https://www.caitlinjohnst.one/p/growing-up-means-realizing-that-none
     text: 'Reading by Tim Foley : Subscribe now When we’re kids we play cops and robbers,

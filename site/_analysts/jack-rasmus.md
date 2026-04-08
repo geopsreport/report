@@ -7,26 +7,66 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  As the US-Iran conflict intensifies and the Trump administration prepares for a potential ground war in Iran, global economic and geopolitical stability remain under severe strain. The situation has rapidly evolved over the past week, with new economic and military developments shaping the outlook.
+  The ongoing US-Iran war continues to dominate the geopolitical landscape, with significant economic and strategic consequences unfolding across multiple fronts. Tensions remain high as President Trump maintains aggressive rhetoric, and the direct military engagement has already triggered substantial volatility in global markets.
   
-  **Escalating Economic Risks Amid War Preparations**
+  Most recently, **Jack Rasmus** highlights that President Trump’s threats to escalate attacks on Iran’s civilian nuclear infrastructure have led to immediate spikes in oil prices and sharp declines in stock market futures. While Trump briefly paused further escalation, citing supposed Iranian overtures for negotiation—which Iran has publicly denied—the uncertainty has only deepened market instability. This pause, according to Rasmus, appears more as a tactical maneuver than a genuine step towards de-escalation.
   
-  The most recent analysis by **Jack Rasmus** highlights the precarious state of both the US and global economies as President Trump moves forward with plans for a ground invasion of Iran. Rising inflation, already a concern due to previous oil price shocks, is now compounded by the fragility of the private credit sector. Rasmus notes, “the complexities of monetary policy are deepening as central banks face mounting pressure from both inflation and financial instability.” The prospect of further escalation in Iran is seen as a direct threat to financial markets, with the private credit sector particularly vulnerable.
+  The economic fallout is intensifying. The war has already caused crude oil and natural gas prices to soar, with ripple effects undermining global stock markets and putting immense pressure on central banks worldwide. **Jack Rasmus** warns that the instability of shadow banks and the private credit market is becoming a critical vulnerability, increasing the risk of a broader financial crisis. The ongoing conflict is also exacerbating inflation and disrupting global supply chains, with food security and interest rates emerging as acute concerns.
   
-  **Oil Price Shocks and Market Volatility**
-  
-  The ongoing conflict has already triggered significant volatility in global markets. Following Trump’s threats to target Iran’s civilian nuclear infrastructure, oil prices spiked and stock market futures dropped sharply. Although Trump later announced a five-day extension on military action, citing supposed Iranian interest in negotiations (which Tehran denied), the uncertainty has only increased. According to **Jack Rasmus**, “the war is rapidly escalating an economic crisis characterized by soaring crude oil and natural gas prices, declining global stock markets, and increased pressure on central banks and food supply chains.”
-  
-  **Broader Geopolitical Implications**
-  
-  The war’s economic fallout is not limited to energy markets. Disruptions in global supply chains and rising interest rates are expected to have severe repercussions for both the US and the broader global economy. Rasmus warns of a high likelihood that “rising inflation due to oil price shocks, disruptions in global supply chains, and increased interest rates will negatively affect both the US and global economies.” The situation is further complicated by Israel’s attacks on Iranian gas fields and Iran’s retaliatory strikes against Gulf states, which have intensified the crisis.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, the majority view among analysts is that the economic and geopolitical risks will continue to escalate as long as the conflict persists. There is a high chance that crude oil prices could reach or exceed $200 per barrel if military actions intensify, with cascading effects on inflation, jobs, and GDP worldwide. Rasmus expresses high confidence that “the current trajectory will most definitely undermine global economic stability if not reversed soon.”
-  
-  In summary, the convergence of military escalation and economic fragility is pushing the US and global economies toward a critical juncture. Unless there is a significant de-escalation, further shocks to energy markets and financial systems appear quite likely in the coming weeks.
+  Looking ahead, the consensus among analysts is that unless there is a dramatic shift in US policy or a credible diplomatic breakthrough, the economic and financial turmoil will deepen. **Jack Rasmus** states with high confidence that a prolonged conflict will “most definitely” lead to a recession in both the US and global economies, with potential contagion in financial markets and further asset contractions. The prospects for a negotiated settlement remain dim, and the trend points toward escalating instability both in the Middle East and in the global economic system.
 articles:
+  - title: The Costs of US Losing the Iran War
+    url: https://jackrasmus.com/2026/04/06/the-costs-of-us-losing-the-iran-war/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-the-costs-of-losing-the-iran-war/
+      Trump’s talk to the nation this week he promised to destroy Iran’s civilian infrastructure
+      next two weeks and blast them ‘back to the stone age’. Oil and stock markets plummeted.
+      Direct costs per day continued past $70 billion. Will he go ‘TACO’ or send US
+      troops into a ground war? Either way, the broader economic costs will almost certainly
+      push the US, and possibly, global economy into recession. Today’s show explains
+      why. Simultaneously shadow banks in US slide toward instability as the private
+      credit market instability worsens.
+    one_sentence_summary: The article discusses President Trump's aggressive rhetoric
+      towards Iran, predicting that potential military actions could lead to significant
+      economic repercussions, including a recession in the US and global economies,
+      while also highlighting the instability of shadow banks and the private credit
+      market.
+    paragraph_summary: In a recent episode of "Alternative Visions," the host discusses
+      the implications of President Trump's aggressive rhetoric towards Iran, including
+      his promise to devastate the country's civilian infrastructure, which has led
+      to significant declines in oil and stock markets. The direct costs of potential
+      military action are estimated to exceed $70 billion per day, raising concerns
+      about whether Trump will escalate to ground troops or adopt a more restrained
+      approach. The broader economic fallout from such actions could potentially trigger
+      a recession in the US and globally. Additionally, the episode highlights the growing
+      instability in the US shadow banking sector and the worsening conditions in the
+      private credit market.
+    published: '2026-04-06T08:28:53+00:00'
+  - title: The Costs of US Losing the Iran War
+    url: https://jackrasmus.com/2026/04/06/the-costs-of-us-losing-the-iran-war/
+    text: https://alternativevisions.podbean.com/e/alternative-visions-the-costs-of-losing-the-iran-war/
+      Trump’s talk to the nation this week he promised to destroy Iran’s civilian infrastructure
+      next two weeks and blast them ‘back to the stone age’. Oil and stock markets plummeted.
+      Direct costs per day continued past $70 billion. Will he go ‘TACO’ or send US
+      troops into a ground war? Either way, the broader economic costs will almost certainly
+      push the US, and possibly, global economy into recession. Today’s show explains
+      why. Simultaneously shadow banks in US slide toward instability as the private
+      credit market instability worsens.
+    one_sentence_summary: The article discusses President Trump's aggressive rhetoric
+      towards Iran, predicting that potential military actions could lead to significant
+      economic repercussions, including a recession in the US and global economies,
+      while also highlighting the instability of shadow banks and the private credit
+      market.
+    paragraph_summary: In a recent episode of "Alternative Visions," the host discusses
+      the implications of President Trump's aggressive rhetoric towards Iran, including
+      his promise to devastate the country's civilian infrastructure, which has led
+      to significant declines in oil and stock markets. The direct costs of potential
+      military action are estimated to exceed $70 billion per day, raising concerns
+      about whether Trump will escalate to ground troops or adopt a more restrained
+      approach. The broader economic fallout from such actions could potentially trigger
+      a recession in the US and globally. Additionally, the episode highlights the growing
+      instability in the US shadow banking sector and the worsening conditions in the
+      private credit market.
+    published: '2026-04-06T08:28:53+00:00'
   - title: US & Global Economy as Trump launches Iran Ground War
     url: https://jackrasmus.com/2026/03/27/us-global-economies-in-wake-of-iran-ground-war/
     text: 'Listen to my Friday March 27, 2026 Alternative Visions radio show presentation

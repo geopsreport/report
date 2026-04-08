@@ -8,16 +8,2528 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The ongoing US-Israeli war on Iran has triggered what analysts now describe as the largest oil shock in modern history, with far-reaching consequences for the global economy and financial system. As of April 1, 2026, the conflict’s escalation has not only disrupted oil flows but is also accelerating the erosion of US dollar dominance in international trade.
+  The global geopolitical landscape remains in flux as financial power structures and ongoing military conflicts continue to reshape international relations. Recent discussions at the David Graeber Institute, featuring **Michael Hudson**, **Anne Pettifor**, and **Françoise Vergès**, have brought renewed attention to how modern creditor-debtor relationships are supplanting traditional colonial rule. According to **Hudson**, "creditor power has become the new imperial tool, dictating terms to sovereign states and undermining national autonomy." This perspective is gaining traction as analysts observe the increasing leverage of financial institutions over national policy, particularly in the Global South.
   
-  **Michael Hudson** emphasizes that the current oil shock is “significantly disrupting the global economy,” warning that the resulting price spikes and supply chain turmoil could precipitate a global economic crisis. The war’s impact on oil markets is compounded by the emergence of multipolar trading blocs, as nations increasingly seek alternatives to the dollar for energy transactions.
+  Meanwhile, the aftermath of the US-led military campaign against Iran remains a focal point. As reported by **Hudson** and corroborated by White House statements, the United States has achieved significant tactical successes, including a marked reduction in Iranian attacks and the destruction of a substantial portion of Iran’s naval capacity. However, the broader consequences of these actions are still unfolding. The ongoing conflict has triggered what **Hudson** describes as "the largest oil shock in history," severely disrupting global supply chains and challenging the dominance of the US dollar in international trade.
   
-  In recent discussions, **Hudson** and **Steve Keen** have drawn parallels between today’s crisis and historical periods of conflict-driven economic instability. They note that while inflation is the immediate effect—driven by soaring energy and commodity prices—there is a “high chance” that deflationary pressures could follow if the financial system buckles under the strain. “The potential for a global crisis is real,” says Hudson, “with scenarios ranging from inflation and hyperinflation to sudden deflation.”
+  The economic ramifications are profound. The oil shock, combined with persistent geopolitical instability, is fueling inflationary pressures worldwide. **Hudson** and his colleagues warn that the current trajectory could lead to a global economic crisis, with the risk of hyperinflation or subsequent deflation depending on how central banks and governments respond. The shift toward multipolar oil markets, accelerated by the conflict, is further eroding the traditional financial order and empowering alternative economic blocs.
   
-  Further complicating the situation, the US-led “Operation Blind Fury” and ongoing hostilities have destabilized not only Iran but also affected regional energy producers like Qatar, particularly in the LNG sector. This has amplified volatility in global energy markets and heightened uncertainty for both importers and exporters.
-  
-  Looking ahead, the consensus among analysts is that the war’s economic fallout will persist, with most predicting continued volatility in oil prices and further weakening of the dollar’s international role. As Hudson concludes, “I guarantee that unless there is a dramatic de-escalation, the world is entering a period of sustained economic turbulence, with the potential for systemic financial shocks now higher than at any point since the 1970s oil crisis.”
+  Looking ahead, the majority of analysts agree that creditor-driven financial systems will continue to dictate global power dynamics, with a high chance of further instability in both economic and security domains. I guarantee that unless there is a significant policy shift, the world will see continued volatility in energy markets and growing challenges to Western financial hegemony. The persistence of military conflict in the Middle East, coupled with the entrenchment of creditor power, signals a period of heightened uncertainty and transformation in the global order.
 articles:
+  - title: How Creditors Replaced Colonial Rule
+    url: https://michael-hudson.com/2026/04/how-creditors-replaced-colonial-rule/
+    text: 'Michael Hudson, Anne Pettifor, Françoise Vergès David Graeber Institute 1.
+      Introduction Nika (host, David Graeber Institute): Hello, David Graeber Institute
+      is here, and we are very honored to introduce Michael Hudson, Anne Pettifor, and
+      Francoise Vergès in conversation about finance, sovereignty, and colonial histories.
+      So two series of lectures that we were doing about colonial histories and the
+      economic of the end of the world now coming together. And so together, we’re going
+      to explore the current global order, how it’s being configured, and how they reach
+      the current transformation of global power and what it’s going to bring for us.
+      And I’m giving now the floor to Anne Pettifor. Anne Pettifor: Thank you very much,
+      Nika. And as always, it’s an honor to be here at the David Graeber Institute,
+      especially in the very distinguished company that I’m in today, which is on the
+      one hand, Francoise Vergès and also Michael Hudson, who seems to have disappeared
+      for a minute, but who’s here. So we’re discussing a really, really big issue,
+      which is the collapse of today’s imperial order. And what is it reshaping? What
+      is the shape to come of the world order, so to speak? So there are questions I
+      think we will ask about whether it is really collapsing. I think we’ll discuss
+      that at some point. I hope we’re going to discuss you know, whether or not the
+      situation is changing for countries of the South, if they are feeling the transformation
+      of the order in a way that is helpful to them, positive. And then the question
+      will be, What role does the American-Israeli war on Iran mean for the collapse
+      of this order and for the collapse of regional alliances and indeed global alliances?
+      So there’s much to discuss, and I’m so proud to be here to have this discussion
+      on an Easter weekend. So first of all, I might just go to Françoise and ask you,
+      Françoise, what do you think is the view of the South, from the perspective of
+      the South, what is happening today to the current imperial order? [Note: Françoise
+      was muted initially] 2. The View from the Global South: Françoise Vergès Françoise
+      Vergès: Well, I want to go back like, I don’t know, like two years ago, something
+      like that. I was in Réunion Island. I’m from Réunion Island. And, I mean, the
+      genocide in Palestine was going on. And it was interesting to see it from the
+      south, to see what was happening from really physically the south. And I had come
+      from France and the difference for me from Europe and from that place. And so
+      the way in which, you know, north of the island was the Strait of Hormuz and the
+      Suez Canal and Iran and the Gulf monarchy, the African continent, India, China
+      over there. There was also, so what I meant, it was a certain geography that already
+      transformed this question of the collapse of the world order. Françoise Vergès:
+      And the second thing was, I remember there was a debate about French imperialism
+      to which, you know, I was there. And I realized that there was a certain, how
+      can I say, a view of the French imperialism in that part of the world that dated
+      from the nineteen seventies. And I wanted to say we have to be careful about new
+      actors in this place, right? A small island from Mauritius Island had been bought
+      or lent by India to create a military base there. And of course, there was Diego
+      Garcia, the huge, huge US military base. So it was also, what I mean by that,
+      the feeling I had about this world collapse was very different from when I was
+      in Europe. Because what I saw was it meant more militarization. Of this ocean.
+      More, of course, because the twenty percent of the oil goes through the canal
+      of Mozambique and also a huge part of the maritime trade goes through that, through
+      that ocean. So a feeling of being in the middle of a different transformation,
+      not so as a spectator, but being, you know, like, OK, what will that mean? Françoise
+      Vergès: And the collapse of the world order is also compounded in this small island
+      by a climate disaster. You know, hurricane, much more strong hurricane. There
+      was in Mayotte the Shido hurricane, which was extremely devastating. And still,
+      you know, three years later, nothing has been done. What I mean by that’s in Madagascar,
+      the insurrection last year of the young people and the transformation and the
+      betrayal already, more or less, of that one. in a revolution. So seeing that was
+      very different because it was both an incredible, a lot of popular movement in
+      that part of the world against imperialism and against militarization of the feeling
+      that it will be direct, that one at moment or the other, it will strike directly.
+      It will not be over there. And that was one of the feelings. And at the same time,
+      a desire in some of this place to revive also anti-imperialism and the connection
+      between the anti-imperialist movement in that part of the world, Mozambique, South
+      Africa, Madagascar, Réunion, Mauritius, India, and really also reconnecting this
+      South-South space, world, and seeing how it was much more different than the anti-imperialist
+      movement of the sixties, seventies, much more different. Françoise Vergès: And
+      so that also in the second part, you know, reshaping the world, it’s also, I don’t
+      like to use too much the word new, new as if everything is new, but yes, how to
+      revive anti-imperialism there. how to reconnect with a different question. And
+      the last thing also, this reshaping, the State of Israel is very present in that
+      part of the world by buying land. They buy land. They buy land in Madagascar,
+      they buy land in Mozambique. They bought land in Angola and it was a disaster.
+      And they trained the police over there. It’s a direct action. It’s not only what’s
+      happening, that they are bombing Iran and genocide in Gaza, but the way in which
+      they penetrate also that part of the world through land, police training, and
+      also selling weapons. So a need for a new mapping of all these forces and counter
+      forces. 3. Parallels to the 19th Century: Anne Pettifor and Michael Hudson Anne
+      Pettifor: Oh, that’s so true. And it reminded me, Francoise, of many years ago,
+      between nineteen seventy one and seventy three, I was in Tanzania at the height
+      of the Vietnam War. And there again, there was an anti-imperialist movement on
+      the campus of the University of Dar es Salaam, which is where I was based. And
+      there again, there was also the intrusion of the South African apartheid forces
+      into Tanzania at that time, even though Tanzania felt distinct from the war in
+      Vietnam and perhaps not as vulnerable as Mozambique and other countries are right
+      now, as you point out. So yes, these are struggles. And the question is, you know,
+      you’re absolutely right. I mean, having worked in Africa, I know as well that
+      it’s not just the Israelis who are buying land. It’s also the Chinese. It’s many
+      countries who fear what climate change is going to do to their water supplies.
+      and to their agricultural land, and who seek fertile agricultural land. And there’s
+      nowhere, in a sense, more fertile than Africa. And also in places like, for example,
+      Sierra Leone, where I once worked, where the regulation of land, of property ownership,
+      is very weak. They don’t have these laws, the property laws that we have in many
+      Western countries. Much land is common land and so therefore it’s very easy for
+      these great powers to come in and just help themselves to vast acres. Anne Pettifor:
+      So yes, so this is happening in the South while in the West, if you like, United
+      States and Britain, in Europe, there is a war being fought. And, you know, the
+      Europeans are conflicted about it. My government, the British government, is participating
+      in this war, whether they like to pretend to or not. And it is displacing and
+      damaging in vast ways the global financial system and the global economy. that
+      I want to address perhaps this afternoon, if we can move on to it at some point,
+      are the imbalances, the imbalances between the North and the South, and in the
+      South as we define it, the imbalances between countries in surplus and those in
+      deficit, the imbalances between countries that are being dollarized and those
+      that are not dollarized and the impact of the power of the dollar on exchange
+      rates across the world, and then the imbalances in the financial system where
+      both sovereign governments and the private sector built up vast quantities of
+      debt with limited levels of income for financing that debt and for paying it down,
+      if you like, so that at some point there must be a default on those debts. There’s
+      the huge climate and ecological imbalances as well that I think are going to disrupt
+      not just the world order, but all of our lives, I fear. The lives, yeah. The really,
+      the daily lives, yeah. Anne Pettifor: So the thing is that these are all the complex
+      issues we’re addressing this afternoon, Michael. Is there anything you want to
+      add to Francois’ perspective? Michael Hudson: of colonialism is to remind people
+      of the whole political evolution of the Global South in the nineteenth century,
+      starting with Haiti, Mexico, Greece, Egypt, and other countries. They achieved
+      their political autonomy and they had to pay for it. Haiti had to agree to reimburse
+      the French government for all of the slaves that it freed to pay the former slave
+      owners. Greece had to go to the brothers of David Ricardo. the Ricardo brothers
+      for a loan that essentially tried to recover from the residue of colonialism there
+      to develop itself. Same thing in Egypt, in Brazil, in Mexico, one country after
+      another. All of these loans were just sort of exploded in eighteen twenty four
+      to eighteen twenty five. And they all went into default almost immediately because
+      once you borrow money to establish your political freedom, you free your slaves,
+      you achieve domestic autonomy, but then you have to spend money on beginning to
+      re-spend and industrialize and spend on agriculture to restore self-sufficiency.
+      Every debtor defaulted. Michael Hudson: And by the end of the century, the creditor
+      nations had taken over the political structures of these countries. With their
+      gunboats. Yes, France invaded Mexico under Maximilian. England invaded France.
+      Egypt ended up to foreclose on Egypt’s debt, took over the Panama Canal. You could
+      go right down the line for all of the countries. Greece was confronted with the
+      British Navy to prevent it from being reintegrated into the Ottoman Empire. So
+      the price of achieving their political autonomy and freedom and supposedly self-sufficiency
+      was to lose their economic autonomy, their economic sovereignty. So their political
+      sovereignty became essentially forfeited in almost every debtor country. The creditor
+      countries, Britain and France, installed either a local currency authority to
+      take control of the fiscal policy and the budget to pay, essentially make sure
+      that all of the revenues of these countries would go to pay the foreign creditors,
+      not to develop their own economy and to put the foreign financial interests first
+      above their own economy. Michael Hudson: Even earlier, in the United States, you
+      can look at how Britain sought to control the US economy, the colonies that it
+      had here. The first thing they did was to prevent the colonies from creating their
+      own paper currency. They insisted that the colonies use the British currency,
+      and the only people who had British currency were the foreign creditors that came
+      over to make loans to the colonies. They tried to secure these loans with land
+      and ended up trying to foreclose on the landowners by insisting on payment before
+      the harvest was in. This led the United States to have a long-term distrust of
+      bankers, starting with foreign bankers and then with the American bankers who
+      were part of the Anglo-American financial system. So we’re having a similar situation
+      today with the result of the US war in Iran interrupting the chokehold point of
+      oil, gas, especially fertilizer, and other forms of energy. you’re having an enormous
+      increase in the cost of imported power for the whole global South countries and
+      America’s allies in Japan, the Philippines and Korea in East Asia and Western
+      Europe. Anne Pettifor: But Michael, can I just stop you at that point and ask
+      Francoise, do you recognize in East Africa now that which Michael has just been
+      speaking about, Egypt and Haiti and Mexico back in the day. Do you recognize parallels?
+      4. Haiti, Debt, and the Impossibility of Development Françoise Vergès: Yeah, I
+      do. And I will say for me, for instance, the question of Haiti is also, I mean,
+      connected with what is being discussed today of the lie of liberal democracy and,
+      you know, the pretense of international love. I mean, Haiti for me is also the
+      example of how the French state will not allow a black republic to live, to survive,
+      will not allow it. So of course it blockade sanction and no recognition of sovereignty.
+      And as Michael say, impose a double debt, as we know, because not only IT had
+      to pay, but had to borrow the money from the French bank. And so to pay, you know,
+      the sum plus the interest. And then there was invasion by the US. The point for
+      me is what we saw in Africa, in the African continent, Madagascar and some parts
+      of Asia, is the impossibility of accepting development. And so what Michael says
+      through loan, but also through austerity program, coup d’etat, assassination of
+      a leader. I mean, it’s a long history of the impossibility from this, you know,
+      power to accept development in any way, in any way. So by effectively debt, but
+      also, you know, armed intervention, austerity program, corruption, the question
+      of money. Yes, it’s a long history. 5. China’s Path and Global Imbalances Anne
+      Pettifor: Can I just intervene there by looking at the case of China? So China
+      learned from this experience and determined that she was not going to borrow foreign
+      currency. China began to build up savings at home. And that’s been, in my view,
+      one of the causes of the global imbalances that we’re experiencing now. So China
+      resolved that the way to develop was to invest, but in order to get the finance
+      for investment domestically, she had to build up savings at a domestic level.
+      And that meant suppressing consumption by the people of China and the surplus
+      of their production. if you like, being captured by the state, but ultimately
+      by the one percent. And that being used then for an export orientation of the
+      economy in order to earn hard currency, in order to be able to import Western
+      technology. But this buildup of a surplus of savings inside China is part of the
+      reason for one of the profound imbalances in that country, the levels of inequality,
+      which are not very different from the levels of inequality we see in countries
+      like the United States and in Europe. And that inequality comes from the suppression
+      of incomes and the buildup of surpluses, but also from excess production and underconsumption.
+      So the people of China can’t afford to consume all that China produces. Anne Pettifor:
+      So like all the old imperialists, China exports her surplus. and exploits it to
+      countries across the world, which that in turn causes political tensions. So there
+      is something different about those countries that don’t do as Michael has suggested
+      they did in the nineteenth century of borrowing hard currency from the hegemon,
+      but instead of building up there. And the consequence of that has led to inequality
+      inside China, but also to massive imbalances across the world. The United States
+      was willing to absorb China’s surplus. And she did so because of course she was
+      in charge of the world’s currency, the reserve currency, and could import that
+      cheaply because of her strong currency. But what the Trump administration has
+      recognized is that that hurt the manufacturing sector. That was what created the
+      Rust Belt. And so they’ve been trying to weaken the dollar and they succeeded
+      until the war on Iran, which has caused the dollar to strengthen and that in turn
+      has weakened currencies across the world. So I just like to say that I think there
+      are exceptions, Michael, to the just borrowing foreign currency for development.
+      China learned a different lesson than other countries. including perhaps countries
+      like Vietnam, have done the same. So, you know, there is a different dynamic now,
+      although that doesn’t mean to say that the debts that are owed by countries like
+      South Africa, the country of my birth, and many African countries, isn’t incredibly
+      exploitative, extractive, and quite now deeply, deeply destabilizing. Michael,
+      do you want to say something about that? Michael Hudson: Well, Anne, you’ve focused
+      quite correctly on the fact that the export promotion that the creditor nations
+      and the colonial nations have imposed is an unequal exchange. They’ve wanted the
+      Global South and their colonies not to compete with the parent countries, but
+      to produce food and raw materials exports that are not produced at home. And the
+      fact is that this concentration of foreign trade on food, raw materials, minerals,
+      oil has led to chronic balance of payments deficits. that have led to foreign
+      debts. And the one geopolitical factor distinguishing the U.S. and other Western
+      countries from China is that these foreign debts that have accumulated as a result
+      of the long-term trade deficits and balance of payments deficits of the Global
+      South countries and other former colonies is that they’re denominated in Euros
+      dollars. Well, right now, that the oil prices and fertilizers and the costs of
+      trade are going up tremendously, forcing countries to decide how are we going
+      to pay. This is simultaneous with the need to pay their foreign debts. And almost
+      all of the foreign debts of the Global South countries are denominated in dollars.
+      So they face a choice. Are they going to do what Germany England and now America
+      is doing and say, we’ve got to cut back our social spending, cut back our support
+      for laborers living standards in order to pay our foreign debts or in the United
+      States for war. Michael Hudson: Donald Trump yesterday said that America has to
+      cut back its support for Medicaid, Medicare, for the privatized health system
+      in order to pay for for the war, its war making, other countries have to decide
+      who are we going to put first, the foreign creditor countries or foreign countries
+      or our own? Now, of course, this includes China, as Ann points out, as a creditor
+      country, But the debts that are falling due are mainly in dollars, as I said,
+      and the only way that these countries can survive without a dismantling of their
+      public health system, their public social support system, their infrastructure
+      system, and their basic needs is to have a debt moratorium. That’s what happened.
+      in the West when the United States agreed to have a moratorium on its inter-ally
+      World War I debts to its allies, and they agreed not to demand further German
+      reparations. Something like that occurred in the with the Brady Bonds writing
+      down the Latin American debt crisis. The Asia crisis was not quite as happy. The
+      result of the Asia crisis was a huge financial takeover by American firms financed
+      with dollar credit creation. This is the choice that’s facing the global South
+      countries, the former colonies, and even the industrial countries. How they respond
+      to this crisis and are they going to let this crisis become a takeover for a new
+      financial colonialism that is just as vicious and violent in terms of its social
+      consequences and even longevity and demographic move as the military colonialism
+      was. 6. Is the Current Order Really Collapsing? Anne Pettifor: So can I say, if
+      we look at the current context, you know, the theme of today is the collapse of
+      a particular imperialism. I would like to hear from you both as to whether or
+      not you really think it is collapsing. I mean, the dollar is strengthening even
+      as the American president is wrecking the global economy and wrecking its reputation
+      for military competence and wrecking its reputation for common decency. Nevertheless,
+      the American economy is doing very, very well. Do we really think that the current
+      order is collapsing? Françoise? Françoise Vergès: Well, something is collapsing.
+      Something, yes. I mean, we are witnessing. Will I call it a collapse? Because
+      a collapse may induce some form of temporality that it’s happening. I think it
+      will be extremely violent because they’re not going to let it happen. We never
+      saw imperial power go away nicely. And so there is something, there is something
+      happening. And I never want to forget what is happening with climate because effectively
+      fertilizers are up and everything because of what’s happening with the Israeli-U.S.
+      war against Iran. I mean, entire country right now are experiencing incredible
+      flood, incredible megafire. This is happening. And all the rich country have abandoned
+      every kind of measure. So there is no equality among the different country, none
+      whatsoever. And what Michael was saying, I mean, the choice of country, the choice,
+      of course, by government, but we see already in Europe, reduction, an incredible,
+      you know, against earth services, education, housing, training, and of course,
+      in everywhere, that was also the price to pay. So there was an accumulation of
+      debt and also an accumulation of the collapse of public services that are extremely
+      important. And we’ll have also an impact on what we call the world order. Françoise
+      Vergès: Just an example, a concrete example, there was an incredible epidemic
+      of chikungunya in the southwest of Indian Ocean. And the scientists told us that
+      it was not just because a virus has arrived and a mosquito has arrived, but there
+      has been the collapse of the public health services all through that part of the
+      world. that also contributed to that, also mass consumption, mass tourism. I mean,
+      there were a lot of different things that will explain the fact, and they told
+      us many more will come, many more will come because of climate change, fast urbanization,
+      poverty, people moving, you know, everything we know about. So I will say, when
+      we say collapse, it’s not just… okay i said you know the imperial power falling
+      apart but what also this this power produced as as effectively incredible uh suffering
+      incredible suffering direct suffering on the absolute daily life of people no
+      it’s not tomorrow it’s it’s today um yeah 7. War, Climate, and Food Anne Pettifor:
+      So that makes a good link for us back to the United States, Michael, because as
+      Francoise has said, you know, climate change is the big, big factor here, which
+      is the destabilizing factor. And, you know, that compounded with austerity. has
+      increased suffering on a scale that’s almost unthinkable. But to an extent, that’s
+      also happening in the United States. I mean, I know that the United States in
+      the past two weeks, there’s been what they called a heat dome over the center
+      of the United States of America, and that farmers… The agricultural sector must
+      be suffering as a result of drought. But there is also the question of the impact
+      of the war on fertilizers on American farmers. And yet we get the impression that
+      the United States is doing very well. Yesterday, the unemployment numbers were
+      apparently very, very good. The stock market is booming. What is going on in America,
+      Michael? Michael Hudson: Trump has made it clear that the fuel of the future is
+      oil and coal. He is fighting tooth and nail to prevent wind power and solar power
+      from occurring. On the first day that he took office, his first act was to sign
+      an executive ruling of closing down all of the investments that were being made
+      in wind power throughout the United States. He said very clearly, The way that
+      we can control the foreign policy is control the choke point for oil. If we can
+      control the world’s oil trade and energy trade, we can turn off the spigots for
+      other countries and cause chaos in them if they don’t support American foreign
+      policy and join our Cold War against China and Russia. He has pulled America out
+      of the Paris Agreement on climate and essentially said, in order to maintain our
+      power over oil and energy as a means of creating chaos for other countries, if
+      they don’t follow our policy, then we have to prevent any alternative to oil and
+      coal. Michael Hudson: Well, he did that and that is obviously, I’m going to get
+      back to the effect of the war in a minute. In addition to the war in Iran forcing
+      up fertilizer prices through the entire world, Trump’s tariffs had a great effect
+      impeding American agriculture because the tariffs of fifty percent on steel and
+      aluminum were applied against all foreign imports of mechanized goods, of industrial
+      products that contain steel and aluminum. These include harvesting equipment,
+      tractors, and other equipment. The price of new tractors that were made by International
+      Harvester and other companies in Germany, for instance, went way up for American
+      farmers. So what happened was the price of used tractors and harvesting equipment
+      went way up, squeezing the farmers in this country. Michael Hudson: Well, when
+      you add to that, the cost of fertilizer as a result of the bombing of the natural
+      gas supplies of Qatar and the general blockage of a natural gas trade out of which
+      fertilizer is made. Most American farmers have said that we were now losing money
+      to produce our crops. It costs more money to produce our crops using fertilizer
+      to increase the crop yields and paying for the higher equipment of harvesters
+      and the other equipment that we have to do and paying higher credit to the banks
+      for moving the crops and to sell the crops forward to the big crop producers.
+      trading companies in the United States. So the farmers are facing defaults and
+      are being forced to sell their land or either increase the mortgage on the land
+      which they can hardly do because the banks say, well, you don’t have any more
+      free income to pay the mortgage since your income is being shrunk by your rising
+      costs. Michael Hudson: And this is applauded by the information companies like
+      the largest landowner in the United States. is an information technologist. There’s
+      a new concentration in turning the American farming economy into an absentee-owned
+      economy, leased out to farmers, very much like it was under feudalism and the
+      legacy of feudalism in Britain at the time of David Ricardo’s fight against the
+      Corn Laws there, which is very similar to today’s by farmers wanting free trade,
+      but the farmers also being flag-waving Christians have supported the Trump administration’s
+      attack on their farmers on themselves and on their income, and they’re willing
+      to go bankrupt and to essentially go out of farming and depopulate the land because
+      it’s the patriotic thing to do to fight against communism and the non-Christian
+      countries that Americans at war with. This is the internal contradiction of the
+      effect of the war on American farming. It’s hurting American farming just as much
+      as these same dynamics of rising oil prices and fertilizer prices are having on
+      the whole rest of the world. Françoise Vergès: May I say something, Anne? Yeah,
+      certainly. I wanted also to add, because if we are talking about climate change
+      and the disaster, that if there is something that aggravate that are wars, you
+      know, I mean, the destruction of the Gaza, I mean, the incredible toxicity of
+      weapon, the destruction of South Lebanon, or the bombing in Iran that brought
+      this, you know, in the middle of the day, it was a night and also the black rain
+      that contribute, I mean, and also it’s a destruction of the soil. I mean, it’s
+      contaminated, you cannot cultivate after that. And weapons, I mean, all these
+      new weapons are huge, you know, use a lot of oil and gas and everything. And so
+      the concentration also, I mean, the whole of the imperialist army in climate disaster
+      is huge, absolutely huge. And this region, West Asia, is being also destroyed,
+      not just, you know, bomb in the sense, okay, that’s terrible, but also transformation
+      of the climate and the soil and the water supply. Anne Pettifor: So thinking about
+      that and thinking about the resistance to the current order, a lot of people are
+      going to go hungry. because food prices will rise. Some may even starve. There
+      might be even mass starvation. Given those circumstances, what will happen to
+      the resistance? How will people organize or not organize? Has anybody got any
+      thoughts about that? Because I can’t remember a time when as many countries… You
+      know, there were times when there was starvation, there was, you know, collapse
+      of agriculture in countries, but never on the scale that it is today. You know,
+      this is happening. It’s happening to rich countries and to poor countries. This
+      impact of the cost of fertilizer on production and tariffs and so on. what’s going
+      to how is that going to affect the public the general public both in the north
+      and the south how are they going to react are they going to become more nationalistic
+      more defensive more fascistic as as is happening in in parts of europe or are
+      are they going to organize i just want to put that question to the two of you
+      michael [Michael: Could you rephrase? My computer was taken over by Google.] Anne
+      Pettifor: The question was simply that given that this crisis of the war on Iran,
+      the Israeli and American war on Iran, is going to result in high food prices and
+      in the destruction of agricultural land, as Francois has just pointed out, the
+      poisoning of land as well, which will contribute towards, if you like, Hunger,
+      hunger on the scale that we’ve probably not ever experienced before. What impact
+      does that have on the resistance to the current order? How will people react?
+      Will they become more defensive, more nationalistic, or will they become, you
+      know, do we see a great uprising? 8. Political Disconnect and the Possibility
+      of Revolution Michael Hudson: Well, here’s the problem. We know that the voters
+      in almost all countries, from the United States to Europe, are opposing the U.S.
+      war. But the politicians are all in favor of it. We have a disconnect between
+      the political class from Western Europe to the United States to global South countries,
+      where you have leaders of all these countries whose political careers have been
+      blocked, backed by the United States, by the so-called Democracy Institutes, the
+      non-governmental organization, and all sorts of support from the time that the
+      State Department and other US officials find very sort of charismatic students
+      at universities who are also very ambitious and greedy. And they’ve nurtured these
+      leaders to the leadership of Britain, France, Germany, the United States itself,
+      and certainly throughout the whole global South. So when you talk about the political
+      response, What can the response be if you no longer have elective democracy in
+      any of these countries? They’re all oligarchies with oligarchy control, mainly
+      by the financial and landlord and raw materials, rent extracting interests. The
+      so-called Western democracy doesn’t work. You need a strong central authority
+      to make the economic planning independent of leaving it to the financial sector
+      to take over national planning by being in control of the credit system. Who gets
+      the credit and for what? Michael Hudson: Well, this is what the West Asian countries
+      and Asian countries did. before Western civilization began. There was always a
+      king to prevent an oligarchy from developing. There isn’t a king to prevent an
+      oligarchy from taking place ever since classical Greece and Rome right down to
+      America and Western Europe today. I don’t see any way in which the popular uprising
+      to support the principles that you and I have been talking about for over a decade
+      or two now can work without some kind of political revolution. Well, political
+      revolution in today’s world where you’re actually having a police state. develop.
+      I understand that in England and Germany, if you criticize Israel’s attack on
+      Palestine, this is now criminalized. You can pay enormous fees and you’ve seen
+      what happened to General Baud in Switzerland, and I think also the American press
+      has British cases and German cases. You’re having really a tightening of a police
+      state atmosphere. It looks like a political revolution is the only alternative,
+      but it’s much harder today than it was in in seventeen seventy six or nineteen
+      seventeen. So I’m not sure how to answer your question. Anne Pettifor: So so what
+      about the South Francoise? What what what is your feeling about what’s happening
+      there? 9. Uprisings in the Global South Françoise Vergès: Huge, huge uprising
+      everywhere. But what Michael said, the disconnect between the oligarch or the
+      billionaire now, which is a growing class, and the government and the people is
+      growing. In Tanzania, in Kenya, in Madagascar, everywhere, in Argentina, in Mexico,
+      wherever, people are rising. What is now is like there is no, you cannot trust
+      the government to do that. You cannot trust effectively the elected people. They
+      no longer represent whatever. I mean, Europe is totally following Trump in genocide
+      in Gaza, has not protested barely about Iran. So there is, and people are marching
+      every day, you know, in the streets. So this disconnect, I think, is also a moment
+      of political education, if I may say, you know, about what, effectively, what
+      we’re going to do, if not going to be, you know, like the Bastille Day, or, you
+      know, the Winter Palace, but there is something, there is a strong understanding.
+      I mean, when I talk to young people, you know, some years ago, they were There
+      was a strong individualism. Now, you say Nakba, they understand Nakba. There was
+      a criminalization, huge criminalization in France, also everywhere, effectively
+      of solidarity with Palestine. And nonetheless, people are still doing. Young people
+      are still marching. I mean, they are huge. So they are learning something. There
+      is a huge moment of political education right now. I’m not saying, okay, this
+      is going to come out of it, but this is the moment also. We are learning something.
+      We are learning that we can no longer trust fully or blindly. And so how to organize?
+      So I would say we are in that moment. And which way it will take, it may be different
+      in Argentina from Italy or elsewhere, but the resistance is quite strong. I mean,
+      you got, you know, in some port of Europe, they refuse to, you know, to… to bring
+      things for Israeli ships, you know, I mean, a lot of different things. So a huge
+      consciousness and a new understanding also, and I will repeat about land and water
+      coming back as political question and not just, you know, humanitarian. So there
+      was an incredible, I will say, a very formative moment with a lot of things being
+      written, debate like that, through journal, online or not online, it’s a very
+      fertile moment. 10. How Will the War End? World War III Anne Pettifor: So given
+      that, and thank you both for those insights, but given that, how do we think this
+      war in the Middle East will end, this American-Israeli war? We see today that
+      an American jet has been downed inside Iran. The resistance is extraordinary by
+      the Iranian people. But how is this going to end and how is it going to end for
+      Europe as well as for the United States? Michael, do you have a view on that?
+      Michael Hudson: You should think of it as World War III. World Wars I and II lasted
+      four years each. I think that this war is going to last four years also, and it’s
+      a world war because energy involves the entire world, and the entire world is
+      being dislocated by the interruption and the destruction of OPEC’s ability to
+      export oil and gas. The United States intends to blow up Iran’s oil fields. If
+      the United States cannot control a foreign oil country, it will destroy its source
+      of oil. a basic rule of American policy. Iran has said, if you destroy our oil,
+      we are going to make sure that the oil of all of the Arab OPEC countries whose
+      economies are symbiotically linked to the United States are also destroyed. And
+      the reason we’re doing that is to let the whole rest of the world know, from Western
+      Europe, to the Global South that if you do not intervene and stop the United States
+      and Israel from bombing us, you will have no oil. Your oil-using industries will
+      have to go out of business. Your labor will be unemployed. You will be in a depression
+      worse than the Third World Depression. That is the price for your not withdrawing
+      from the American-centered system. Michael Hudson: And we realize that this requires
+      that the United Nations is dead. It is unable to prevent this because of the U.S.
+      veto. and its satellite powers with veto. And we need to create a new United Nations,
+      just like United Nations was needed to replace the League of Nations that was
+      dead. We need a new alternative to the International Monetary Fund, not based
+      on austerity stabilization programs, but on mutual gain. We need a new alternative
+      to the World Bank and the World Trade Organization, that a domestic uprising cannot
+      create a multilateral new system. And it’s obvious that this new system has to
+      be built around the core of self-sufficient basically Asian economies, China,
+      Russia, and Iran. This will have to be rebuilt. It’ll be rebuilt from the position
+      of economic depression that the United States has intended to create throughout
+      the rest of the world. from Western Europe to the global south to make it a grab
+      bag for the American companies to come in once again and use the distress to grab
+      up whatever resources are available and reconsolidate the dollar standard. And
+      if other countries do not fight against this, and they won’t, They will jump on
+      the bandwagon and at least hope their personal career is saying, well, there’ll
+      be a depression, but we wealthy people, oligarchies are always going to come out
+      on top. If somehow there’s not a revolution, there’s going to be a depression
+      until such time as a new international economic order is created. 11. Political
+      Education and the Question of Organisation Anne Pettifor: Yeah. So I think that’s
+      a really profound insight that actually this is already a world war, as Michael
+      has noted, and that Michael suggests it could go on for four years. My view is
+      that, yes, that’s the first and second world wars lasted that long, but they were
+      not half as destructive as this world war will be, it seems to me. That’s what’s
+      so terrifying. And, you know, what remains afterwards? So it’s pretty bleak outlook.
+      What do you think, from the point of view of the South, Francoise, do you think
+      that somehow I mean, I take your point, which is so powerful, which is that this
+      is a political education moment and that people are learning and that the youth
+      are being politicized. And I see it as well as you see it. I see it here, too.
+      You know, a decade ago under Blairism, they were apolitical. Politics was of no
+      interest or relevance. Now they’re passionately political. And the question is
+      whether or not they have the political program or the political organization,
+      the institutional organization. For example, we had trade unions. We had trade
+      unions during the Second World War and during the First World War. There are virtually
+      no trade unions today. at least, you know, as a proportion of the world’s workers
+      and in terms of their power and their influence and their ability to organize
+      even more. So from the South, Françoise, how does that look to you? Françoise
+      Vergès: Well, I mean, I agree with what Michael said over that. The United States,
+      we prefer chaos to anything else, you know. and put everyone in a double bind.
+      But I mean, there are also, I mean, we cannot underestimate also already the discontent
+      about the price. I mean, the understanding of how this is connected, really the
+      understanding that is not just about a war about, you know, they have the nuclear
+      weapon and they’re gonna be, you know, they are dangerous. No, this is also an
+      understanding what is needed is a connection, effectively what Michael explained,
+      about the fact that this war, the US-Israeli war, is in fact a war against the
+      world, we could say, you know, against the entire world. It’s not just, you know,
+      Iran being bombed. It has repercussions for the peasants in India, for, you know,
+      I don’t know, fishermen in Chile or whatever, or children everywhere in the world.
+      And this is absolutely important. It’s also for me, I have to say, it’s very important
+      that Iran is resisting, because this is absolutely fundamental, you know, whatever
+      we think. It’s absolutely fundamental. And because otherwise, it’s really, I mean,
+      the door is open for the most brutal and cruel people, really. Absolutely no,
+      I mean, human life is nothing for that. Absolutely nothing. And we saw it. I mean,
+      Gaza was absolutely a testimony for that. Françoise Vergès: So in the South, I
+      mean, the understanding that the West is no longer, I mean, all the pretense of
+      human rights, all the pretense of… you know, liberty, equality, fraternity for
+      the French, or, you know, whatever, this is really also growing. Now, the government
+      are not quite capable of doing a South-South, you know, like the BRICS have not
+      been able to really constitute a force. But this understanding that there is absolutely
+      a connection a growing connection between the people of the South. This is there.
+      This is really there. And I’m not undermining the danger, the threat coming, you
+      know, and the threat, not the collapse, but the threat to life, not just human
+      life, but also non-human life. But I think that a lot of people don’t underestimate
+      the threat, don’t underestimate the danger, and so wonder, effectively, what is
+      to be done. And as I say, for me, the return to the demand for land and water
+      constitute also a new ground for, you know, connection, because everyone needs
+      land and water. So there is, I mean, will the revolution, whatever we want to
+      call it, I mean, the change, take as a as a demand, not just sovereignty and independence
+      like was needed in the fifties, sixties, but a new effectively connection to land
+      and water that is not about extractivism, that is not about dispossession, contamination,
+      destruction, you know, what we see. And that understanding that without land and
+      water and air, in fact, you know, pure air, There will be no life. I mean, no
+      human life anyway. There will be some other life. Constitute, I think, perhaps
+      also what is a new form. I mean, as I say, I don’t like new every time, but the
+      form of resistance, really the connection, the connection between, for instance,
+      peasants in South Africa and peasants in India. They talk to each other, you know,
+      on this basis. or feminist in the Global South, having a conversation against,
+      effectively, the reactionary forces that are not just in the West, that are also
+      in the Global South, and want, again, to control women’s body and queer body and
+      trans body. So I would say that it’s a very interesting time. It’s a dangerous
+      time, but it’s a very interesting time because it’s this moment. of effectively
+      saying goodbye to that world. 12. Water, Land, and the Path Forward Anne Pettifor:
+      I’m so glad you’re talking about water because water is really going to become
+      the new oil. And the United States would love to make the whole world into an
+      extended Thames Water Company. That’s the US and European idea. What do you think,
+      Anne? [Anne continues:] Anne Pettifor: And I think that Francoise is right, because
+      that’s where we can make the connection. I mean, here there is an uproar. There
+      is total uproar over the way in which privatized water companies have poisoned
+      our rivers and our seas. And it’s across the board, across the political spectrum.
+      And it is something that you’re right, it could be a connection between people
+      here and people in Africa, people in drought-struck areas everywhere across the
+      world. And you’re right, that’s the way to do it. The question for me is, as someone
+      who once helped to organize a global movement, It’s really extremely difficult
+      to, if you like, come together behind a single demand or a single series of demands
+      like we want to safeguard land and water and bring everybody together while at
+      the same time allowing them to have the autonomy of their special conditions,
+      their special where they are, you know. So that kind of movement. And we struggled
+      with that. We struggled with the idea of should we have a centralized committee
+      at the top, you know, that would decide on the strategy. We said no to that. So
+      instead, we had a D committee. devolved power bases but all behind a common goal
+      and I don’t know if there are political movements that could organize in that
+      way but that’s you know Francoise is right that’s what we can do because the connections
+      are very powerful you know land and water is so fundamental to human life connect
+      people in Arizona in Peru with people in Chad and Niger with people in India and
+      Kashmir with people in Poland and Russia, and as you say, in UK and France. Françoise
+      Vergès: I mean, this is it. And so, yeah, this connection and the understanding
+      through the environmental movement against also environmental racism. And that
+      has, you know, it, I will say, this is, because all what Michael described has
+      been effectively organized to steal, you know, to steal and to put people in debt.
+      And I am absolutely, for instance, the fact even of peasants will go to court
+      and will, you know, sue huge corporations. that have like thousands of lawyers
+      for them, you know, and medias for them and everything. And they would fight and
+      never stop, you know. So I think we have to look at this incredible determination,
+      commitment, and with really weapon of the poor, if we may call that. Anne Pettifor:
+      I mean, we’re going to have to wrap up in a few minutes. And so I want us, therefore,
+      to end on this message of, hope, if you like. I don’t like to use the term hope
+      because hope is not a strategy, as someone said once. The point is that I think
+      we must have confidence in the youth and we must have confidence in this ability
+      of human beings to connect with each other. And that power, that ability, that
+      capacity can be transformational. And so the question then becomes, how do we
+      push it up the levels of consciousness so that we can begin organization? And
+      let’s have final comments on this because I don’t think we can leave this conversation
+      without some idea of the way forward. 13. Conclusion: Reform or Collapse Michael
+      Hudson: What you’ve described is just what the Americans are fighting against,
+      any cooperation. And I think it’s significant that the single most important Israeli
+      attack on the Arab countries was to blow up Kuwait’s water desalinization plant
+      and try to blame it on Iran. Israel’s attempt is to prevent all desalinization
+      throughout the Near East, to depopulate it, thereby removing OPEC basically from
+      the world oil trade, leaving it free for the United States and its oil companies.
+      And Israel. Yeah. And this is the fight of the whole world. And I think that it’s
+      easier, the way to create a willingness for the alternative oil, world order that
+      we’re trying to promote is to say, here is what’s going to happen if you continue
+      along the present line. That’s what David Ricardo did when he said, if you don’t
+      stop, begin to tax the landlords and economic rent, there will be no profits left
+      for British industry. It will not be the workshop of the world. The entire surplus
+      will be the end of economic rent. Well, by the end of the nineteenth century,
+      it was realized that, well, money rent by the financial sector is the same. There
+      will be no profits left for industry. That’s why Europe and America have been
+      deindustrializing. We have to show this experience and give a narrative for the
+      rest of the world to realize that if you don’t remake the world along the lines
+      pretty much that were described by classical economists in the nineteenth century
+      before the anti-classical, anti-socialist revolution, then this is how you’re
+      going to end up. You have to give them the motivation that it’s reform or collapse.
+      reform or starvation. Françoise Vergès: yeah yeah you know policy we have to politicize
+      this issue you know i mean a lot of revolution i mean it was like we need food
+      we need food we need you know a roof i mean we need that our children have a decent
+      life you know and like going back to basic but not in a in a in a real sense i
+      mean the vital needs of all human beings And that has been totally cut constantly
+      by capitalism, imperialism and racism. And so these are political. I mean, what
+      was revolution about? You know, they were about, you know, like, uh, they were
+      not just, I mean, uh, freedom, it was not an abstraction. It was really, how do
+      we change the life of people? And, and as you know, because you have been, I mean,
+      and from South Africa and Africa, all the independence started by people. We have
+      land, water, food. education and health. And this has been denied. This has been
+      constantly denied and the denial has been legitimated and people fight for that.
+      People go, I mean, and they die for it. So this question of really to say that
+      these are the political struggle and they still the terrain of political struggle
+      for liberation. Anne Pettifor: Yeah. And as Michael says, you know, we should
+      show them what Israel and the United States is doing in the Middle East for the
+      world to understand what is coming your way, basically. So for that, we have to
+      fight for land and water. And I just want to thank my two colleagues for this
+      really very important and very wonderful discussion. I’ve learned a great deal
+      myself, and I hope you, the listeners, will have learned from this as well. And
+      I’d like to thank the david graver institute and david graver himself whom i always
+      love to be reminded of um for the opportunity to for us to have these important
+      discussions and to share these views across the board so they may be debated everywhere
+      in the world so thank you michael and thank you francoise and thank you thank
+      you and thank you right right thank you goodbye Michael Hudson: Thank you. Françoise
+      Vergès: Thank you. Right. Thank you. Goodbye. Photo by K Adams on Unsplash The
+      post How Creditors Replaced Colonial Rule first appeared on Michael Hudson . The
+      post How Creditors Replaced Colonial Rule first appeared on Michael Hudson .'
+    one_sentence_summary: Michael Hudson, Anne Pettifor, and Françoise Vergès engage
+      in a discussion at the David Graeber Institute about the intersections of finance,
+      sovereignty, and colonial histories, examining the current global order and its
+      implications for future power dynamics.
+    paragraph_summary: In a discussion hosted by the David Graeber Institute, Michael
+      Hudson, Anne Pettifor, and Françoise Vergès explored the themes of finance, sovereignty,
+      and colonial histories, focusing on the potential collapse of the current imperial
+      order and its implications for global power dynamics. The conversation aimed to
+      analyze how this transformation is perceived by countries in the Global South
+      and whether it offers them any positive changes. Key topics included the impact
+      of the American-Israeli conflict with Iran on regional and global alliances, as
+      well as the broader question of whether the existing order is truly disintegrating.
+      The dialogue highlighted the complexities of these issues, especially in the context
+      of historical colonial influences and the evolving economic landscape.
+    published: '2026-04-07T23:25:00+00:00'
+  - title: How Creditors Replaced Colonial Rule
+    url: https://michael-hudson.com/2026/04/how-creditors-replaced-colonial-rule/
+    text: 'Michael Hudson, Anne Pettifor, Françoise Vergès David Graeber Institute 1.
+      Introduction Nika (host, David Graeber Institute): Hello, David Graeber Institute
+      is here, and we are very honored to introduce Michael Hudson, Anne Pettifor, and
+      Francoise Vergès in conversation about finance, sovereignty, and colonial histories.
+      So two series of lectures that we were doing about colonial histories and the
+      economic of the end of the world now coming together. And so together, we’re going
+      to explore the current global order, how it’s being configured, and how they reach
+      the current transformation of global power and what it’s going to bring for us.
+      And I’m giving now the floor to Anne Pettifor. Anne Pettifor: Thank you very much,
+      Nika. And as always, it’s an honor to be here at the David Graeber Institute,
+      especially in the very distinguished company that I’m in today, which is on the
+      one hand, Francoise Vergès and also Michael Hudson, who seems to have disappeared
+      for a minute, but who’s here. So we’re discussing a really, really big issue,
+      which is the collapse of today’s imperial order. And what is it reshaping? What
+      is the shape to come of the world order, so to speak? So there are questions I
+      think we will ask about whether it is really collapsing. I think we’ll discuss
+      that at some point. I hope we’re going to discuss you know, whether or not the
+      situation is changing for countries of the South, if they are feeling the transformation
+      of the order in a way that is helpful to them, positive. And then the question
+      will be, What role does the American-Israeli war on Iran mean for the collapse
+      of this order and for the collapse of regional alliances and indeed global alliances?
+      So there’s much to discuss, and I’m so proud to be here to have this discussion
+      on an Easter weekend. So first of all, I might just go to Françoise and ask you,
+      Françoise, what do you think is the view of the South, from the perspective of
+      the South, what is happening today to the current imperial order? [Note: Françoise
+      was muted initially] 2. The View from the Global South: Françoise Vergès Françoise
+      Vergès: Well, I want to go back like, I don’t know, like two years ago, something
+      like that. I was in Réunion Island. I’m from Réunion Island. And, I mean, the
+      genocide in Palestine was going on. And it was interesting to see it from the
+      south, to see what was happening from really physically the south. And I had come
+      from France and the difference for me from Europe and from that place. And so
+      the way in which, you know, north of the island was the Strait of Hormuz and the
+      Suez Canal and Iran and the Gulf monarchy, the African continent, India, China
+      over there. There was also, so what I meant, it was a certain geography that already
+      transformed this question of the collapse of the world order. Françoise Vergès:
+      And the second thing was, I remember there was a debate about French imperialism
+      to which, you know, I was there. And I realized that there was a certain, how
+      can I say, a view of the French imperialism in that part of the world that dated
+      from the nineteen seventies. And I wanted to say we have to be careful about new
+      actors in this place, right? A small island from Mauritius Island had been bought
+      or lent by India to create a military base there. And of course, there was Diego
+      Garcia, the huge, huge US military base. So it was also, what I mean by that,
+      the feeling I had about this world collapse was very different from when I was
+      in Europe. Because what I saw was it meant more militarization. Of this ocean.
+      More, of course, because the twenty percent of the oil goes through the canal
+      of Mozambique and also a huge part of the maritime trade goes through that, through
+      that ocean. So a feeling of being in the middle of a different transformation,
+      not so as a spectator, but being, you know, like, OK, what will that mean? Françoise
+      Vergès: And the collapse of the world order is also compounded in this small island
+      by a climate disaster. You know, hurricane, much more strong hurricane. There
+      was in Mayotte the Shido hurricane, which was extremely devastating. And still,
+      you know, three years later, nothing has been done. What I mean by that’s in Madagascar,
+      the insurrection last year of the young people and the transformation and the
+      betrayal already, more or less, of that one. in a revolution. So seeing that was
+      very different because it was both an incredible, a lot of popular movement in
+      that part of the world against imperialism and against militarization of the feeling
+      that it will be direct, that one at moment or the other, it will strike directly.
+      It will not be over there. And that was one of the feelings. And at the same time,
+      a desire in some of this place to revive also anti-imperialism and the connection
+      between the anti-imperialist movement in that part of the world, Mozambique, South
+      Africa, Madagascar, Réunion, Mauritius, India, and really also reconnecting this
+      South-South space, world, and seeing how it was much more different than the anti-imperialist
+      movement of the sixties, seventies, much more different. Françoise Vergès: And
+      so that also in the second part, you know, reshaping the world, it’s also, I don’t
+      like to use too much the word new, new as if everything is new, but yes, how to
+      revive anti-imperialism there. how to reconnect with a different question. And
+      the last thing also, this reshaping, the State of Israel is very present in that
+      part of the world by buying land. They buy land. They buy land in Madagascar,
+      they buy land in Mozambique. They bought land in Angola and it was a disaster.
+      And they trained the police over there. It’s a direct action. It’s not only what’s
+      happening, that they are bombing Iran and genocide in Gaza, but the way in which
+      they penetrate also that part of the world through land, police training, and
+      also selling weapons. So a need for a new mapping of all these forces and counter
+      forces. 3. Parallels to the 19th Century: Anne Pettifor and Michael Hudson Anne
+      Pettifor: Oh, that’s so true. And it reminded me, Francoise, of many years ago,
+      between nineteen seventy one and seventy three, I was in Tanzania at the height
+      of the Vietnam War. And there again, there was an anti-imperialist movement on
+      the campus of the University of Dar es Salaam, which is where I was based. And
+      there again, there was also the intrusion of the South African apartheid forces
+      into Tanzania at that time, even though Tanzania felt distinct from the war in
+      Vietnam and perhaps not as vulnerable as Mozambique and other countries are right
+      now, as you point out. So yes, these are struggles. And the question is, you know,
+      you’re absolutely right. I mean, having worked in Africa, I know as well that
+      it’s not just the Israelis who are buying land. It’s also the Chinese. It’s many
+      countries who fear what climate change is going to do to their water supplies.
+      and to their agricultural land, and who seek fertile agricultural land. And there’s
+      nowhere, in a sense, more fertile than Africa. And also in places like, for example,
+      Sierra Leone, where I once worked, where the regulation of land, of property ownership,
+      is very weak. They don’t have these laws, the property laws that we have in many
+      Western countries. Much land is common land and so therefore it’s very easy for
+      these great powers to come in and just help themselves to vast acres. Anne Pettifor:
+      So yes, so this is happening in the South while in the West, if you like, United
+      States and Britain, in Europe, there is a war being fought. And, you know, the
+      Europeans are conflicted about it. My government, the British government, is participating
+      in this war, whether they like to pretend to or not. And it is displacing and
+      damaging in vast ways the global financial system and the global economy. that
+      I want to address perhaps this afternoon, if we can move on to it at some point,
+      are the imbalances, the imbalances between the North and the South, and in the
+      South as we define it, the imbalances between countries in surplus and those in
+      deficit, the imbalances between countries that are being dollarized and those
+      that are not dollarized and the impact of the power of the dollar on exchange
+      rates across the world, and then the imbalances in the financial system where
+      both sovereign governments and the private sector built up vast quantities of
+      debt with limited levels of income for financing that debt and for paying it down,
+      if you like, so that at some point there must be a default on those debts. There’s
+      the huge climate and ecological imbalances as well that I think are going to disrupt
+      not just the world order, but all of our lives, I fear. The lives, yeah. The really,
+      the daily lives, yeah. Anne Pettifor: So the thing is that these are all the complex
+      issues we’re addressing this afternoon, Michael. Is there anything you want to
+      add to Francois’ perspective? Michael Hudson: of colonialism is to remind people
+      of the whole political evolution of the Global South in the nineteenth century,
+      starting with Haiti, Mexico, Greece, Egypt, and other countries. They achieved
+      their political autonomy and they had to pay for it. Haiti had to agree to reimburse
+      the French government for all of the slaves that it freed to pay the former slave
+      owners. Greece had to go to the brothers of David Ricardo. the Ricardo brothers
+      for a loan that essentially tried to recover from the residue of colonialism there
+      to develop itself. Same thing in Egypt, in Brazil, in Mexico, one country after
+      another. All of these loans were just sort of exploded in eighteen twenty four
+      to eighteen twenty five. And they all went into default almost immediately because
+      once you borrow money to establish your political freedom, you free your slaves,
+      you achieve domestic autonomy, but then you have to spend money on beginning to
+      re-spend and industrialize and spend on agriculture to restore self-sufficiency.
+      Every debtor defaulted. Michael Hudson: And by the end of the century, the creditor
+      nations had taken over the political structures of these countries. With their
+      gunboats. Yes, France invaded Mexico under Maximilian. England invaded France.
+      Egypt ended up to foreclose on Egypt’s debt, took over the Panama Canal. You could
+      go right down the line for all of the countries. Greece was confronted with the
+      British Navy to prevent it from being reintegrated into the Ottoman Empire. So
+      the price of achieving their political autonomy and freedom and supposedly self-sufficiency
+      was to lose their economic autonomy, their economic sovereignty. So their political
+      sovereignty became essentially forfeited in almost every debtor country. The creditor
+      countries, Britain and France, installed either a local currency authority to
+      take control of the fiscal policy and the budget to pay, essentially make sure
+      that all of the revenues of these countries would go to pay the foreign creditors,
+      not to develop their own economy and to put the foreign financial interests first
+      above their own economy. Michael Hudson: Even earlier, in the United States, you
+      can look at how Britain sought to control the US economy, the colonies that it
+      had here. The first thing they did was to prevent the colonies from creating their
+      own paper currency. They insisted that the colonies use the British currency,
+      and the only people who had British currency were the foreign creditors that came
+      over to make loans to the colonies. They tried to secure these loans with land
+      and ended up trying to foreclose on the landowners by insisting on payment before
+      the harvest was in. This led the United States to have a long-term distrust of
+      bankers, starting with foreign bankers and then with the American bankers who
+      were part of the Anglo-American financial system. So we’re having a similar situation
+      today with the result of the US war in Iran interrupting the chokehold point of
+      oil, gas, especially fertilizer, and other forms of energy. you’re having an enormous
+      increase in the cost of imported power for the whole global South countries and
+      America’s allies in Japan, the Philippines and Korea in East Asia and Western
+      Europe. Anne Pettifor: But Michael, can I just stop you at that point and ask
+      Francoise, do you recognize in East Africa now that which Michael has just been
+      speaking about, Egypt and Haiti and Mexico back in the day. Do you recognize parallels?
+      4. Haiti, Debt, and the Impossibility of Development Françoise Vergès: Yeah, I
+      do. And I will say for me, for instance, the question of Haiti is also, I mean,
+      connected with what is being discussed today of the lie of liberal democracy and,
+      you know, the pretense of international love. I mean, Haiti for me is also the
+      example of how the French state will not allow a black republic to live, to survive,
+      will not allow it. So of course it blockade sanction and no recognition of sovereignty.
+      And as Michael say, impose a double debt, as we know, because not only IT had
+      to pay, but had to borrow the money from the French bank. And so to pay, you know,
+      the sum plus the interest. And then there was invasion by the US. The point for
+      me is what we saw in Africa, in the African continent, Madagascar and some parts
+      of Asia, is the impossibility of accepting development. And so what Michael says
+      through loan, but also through austerity program, coup d’etat, assassination of
+      a leader. I mean, it’s a long history of the impossibility from this, you know,
+      power to accept development in any way, in any way. So by effectively debt, but
+      also, you know, armed intervention, austerity program, corruption, the question
+      of money. Yes, it’s a long history. 5. China’s Path and Global Imbalances Anne
+      Pettifor: Can I just intervene there by looking at the case of China? So China
+      learned from this experience and determined that she was not going to borrow foreign
+      currency. China began to build up savings at home. And that’s been, in my view,
+      one of the causes of the global imbalances that we’re experiencing now. So China
+      resolved that the way to develop was to invest, but in order to get the finance
+      for investment domestically, she had to build up savings at a domestic level.
+      And that meant suppressing consumption by the people of China and the surplus
+      of their production. if you like, being captured by the state, but ultimately
+      by the one percent. And that being used then for an export orientation of the
+      economy in order to earn hard currency, in order to be able to import Western
+      technology. But this buildup of a surplus of savings inside China is part of the
+      reason for one of the profound imbalances in that country, the levels of inequality,
+      which are not very different from the levels of inequality we see in countries
+      like the United States and in Europe. And that inequality comes from the suppression
+      of incomes and the buildup of surpluses, but also from excess production and underconsumption.
+      So the people of China can’t afford to consume all that China produces. Anne Pettifor:
+      So like all the old imperialists, China exports her surplus. and exploits it to
+      countries across the world, which that in turn causes political tensions. So there
+      is something different about those countries that don’t do as Michael has suggested
+      they did in the nineteenth century of borrowing hard currency from the hegemon,
+      but instead of building up there. And the consequence of that has led to inequality
+      inside China, but also to massive imbalances across the world. The United States
+      was willing to absorb China’s surplus. And she did so because of course she was
+      in charge of the world’s currency, the reserve currency, and could import that
+      cheaply because of her strong currency. But what the Trump administration has
+      recognized is that that hurt the manufacturing sector. That was what created the
+      Rust Belt. And so they’ve been trying to weaken the dollar and they succeeded
+      until the war on Iran, which has caused the dollar to strengthen and that in turn
+      has weakened currencies across the world. So I just like to say that I think there
+      are exceptions, Michael, to the just borrowing foreign currency for development.
+      China learned a different lesson than other countries. including perhaps countries
+      like Vietnam, have done the same. So, you know, there is a different dynamic now,
+      although that doesn’t mean to say that the debts that are owed by countries like
+      South Africa, the country of my birth, and many African countries, isn’t incredibly
+      exploitative, extractive, and quite now deeply, deeply destabilizing. Michael,
+      do you want to say something about that? Michael Hudson: Well, Anne, you’ve focused
+      quite correctly on the fact that the export promotion that the creditor nations
+      and the colonial nations have imposed is an unequal exchange. They’ve wanted the
+      Global South and their colonies not to compete with the parent countries, but
+      to produce food and raw materials exports that are not produced at home. And the
+      fact is that this concentration of foreign trade on food, raw materials, minerals,
+      oil has led to chronic balance of payments deficits. that have led to foreign
+      debts. And the one geopolitical factor distinguishing the U.S. and other Western
+      countries from China is that these foreign debts that have accumulated as a result
+      of the long-term trade deficits and balance of payments deficits of the Global
+      South countries and other former colonies is that they’re denominated in Euros
+      dollars. Well, right now, that the oil prices and fertilizers and the costs of
+      trade are going up tremendously, forcing countries to decide how are we going
+      to pay. This is simultaneous with the need to pay their foreign debts. And almost
+      all of the foreign debts of the Global South countries are denominated in dollars.
+      So they face a choice. Are they going to do what Germany England and now America
+      is doing and say, we’ve got to cut back our social spending, cut back our support
+      for laborers living standards in order to pay our foreign debts or in the United
+      States for war. Michael Hudson: Donald Trump yesterday said that America has to
+      cut back its support for Medicaid, Medicare, for the privatized health system
+      in order to pay for for the war, its war making, other countries have to decide
+      who are we going to put first, the foreign creditor countries or foreign countries
+      or our own? Now, of course, this includes China, as Ann points out, as a creditor
+      country, But the debts that are falling due are mainly in dollars, as I said,
+      and the only way that these countries can survive without a dismantling of their
+      public health system, their public social support system, their infrastructure
+      system, and their basic needs is to have a debt moratorium. That’s what happened.
+      in the West when the United States agreed to have a moratorium on its inter-ally
+      World War I debts to its allies, and they agreed not to demand further German
+      reparations. Something like that occurred in the with the Brady Bonds writing
+      down the Latin American debt crisis. The Asia crisis was not quite as happy. The
+      result of the Asia crisis was a huge financial takeover by American firms financed
+      with dollar credit creation. This is the choice that’s facing the global South
+      countries, the former colonies, and even the industrial countries. How they respond
+      to this crisis and are they going to let this crisis become a takeover for a new
+      financial colonialism that is just as vicious and violent in terms of its social
+      consequences and even longevity and demographic move as the military colonialism
+      was. 6. Is the Current Order Really Collapsing? Anne Pettifor: So can I say, if
+      we look at the current context, you know, the theme of today is the collapse of
+      a particular imperialism. I would like to hear from you both as to whether or
+      not you really think it is collapsing. I mean, the dollar is strengthening even
+      as the American president is wrecking the global economy and wrecking its reputation
+      for military competence and wrecking its reputation for common decency. Nevertheless,
+      the American economy is doing very, very well. Do we really think that the current
+      order is collapsing? Françoise? Françoise Vergès: Well, something is collapsing.
+      Something, yes. I mean, we are witnessing. Will I call it a collapse? Because
+      a collapse may induce some form of temporality that it’s happening. I think it
+      will be extremely violent because they’re not going to let it happen. We never
+      saw imperial power go away nicely. And so there is something, there is something
+      happening. And I never want to forget what is happening with climate because effectively
+      fertilizers are up and everything because of what’s happening with the Israeli-U.S.
+      war against Iran. I mean, entire country right now are experiencing incredible
+      flood, incredible megafire. This is happening. And all the rich country have abandoned
+      every kind of measure. So there is no equality among the different country, none
+      whatsoever. And what Michael was saying, I mean, the choice of country, the choice,
+      of course, by government, but we see already in Europe, reduction, an incredible,
+      you know, against earth services, education, housing, training, and of course,
+      in everywhere, that was also the price to pay. So there was an accumulation of
+      debt and also an accumulation of the collapse of public services that are extremely
+      important. And we’ll have also an impact on what we call the world order. Françoise
+      Vergès: Just an example, a concrete example, there was an incredible epidemic
+      of chikungunya in the southwest of Indian Ocean. And the scientists told us that
+      it was not just because a virus has arrived and a mosquito has arrived, but there
+      has been the collapse of the public health services all through that part of the
+      world. that also contributed to that, also mass consumption, mass tourism. I mean,
+      there were a lot of different things that will explain the fact, and they told
+      us many more will come, many more will come because of climate change, fast urbanization,
+      poverty, people moving, you know, everything we know about. So I will say, when
+      we say collapse, it’s not just… okay i said you know the imperial power falling
+      apart but what also this this power produced as as effectively incredible uh suffering
+      incredible suffering direct suffering on the absolute daily life of people no
+      it’s not tomorrow it’s it’s today um yeah 7. War, Climate, and Food Anne Pettifor:
+      So that makes a good link for us back to the United States, Michael, because as
+      Francoise has said, you know, climate change is the big, big factor here, which
+      is the destabilizing factor. And, you know, that compounded with austerity. has
+      increased suffering on a scale that’s almost unthinkable. But to an extent, that’s
+      also happening in the United States. I mean, I know that the United States in
+      the past two weeks, there’s been what they called a heat dome over the center
+      of the United States of America, and that farmers… The agricultural sector must
+      be suffering as a result of drought. But there is also the question of the impact
+      of the war on fertilizers on American farmers. And yet we get the impression that
+      the United States is doing very well. Yesterday, the unemployment numbers were
+      apparently very, very good. The stock market is booming. What is going on in America,
+      Michael? Michael Hudson: Trump has made it clear that the fuel of the future is
+      oil and coal. He is fighting tooth and nail to prevent wind power and solar power
+      from occurring. On the first day that he took office, his first act was to sign
+      an executive ruling of closing down all of the investments that were being made
+      in wind power throughout the United States. He said very clearly, The way that
+      we can control the foreign policy is control the choke point for oil. If we can
+      control the world’s oil trade and energy trade, we can turn off the spigots for
+      other countries and cause chaos in them if they don’t support American foreign
+      policy and join our Cold War against China and Russia. He has pulled America out
+      of the Paris Agreement on climate and essentially said, in order to maintain our
+      power over oil and energy as a means of creating chaos for other countries, if
+      they don’t follow our policy, then we have to prevent any alternative to oil and
+      coal. Michael Hudson: Well, he did that and that is obviously, I’m going to get
+      back to the effect of the war in a minute. In addition to the war in Iran forcing
+      up fertilizer prices through the entire world, Trump’s tariffs had a great effect
+      impeding American agriculture because the tariffs of fifty percent on steel and
+      aluminum were applied against all foreign imports of mechanized goods, of industrial
+      products that contain steel and aluminum. These include harvesting equipment,
+      tractors, and other equipment. The price of new tractors that were made by International
+      Harvester and other companies in Germany, for instance, went way up for American
+      farmers. So what happened was the price of used tractors and harvesting equipment
+      went way up, squeezing the farmers in this country. Michael Hudson: Well, when
+      you add to that, the cost of fertilizer as a result of the bombing of the natural
+      gas supplies of Qatar and the general blockage of a natural gas trade out of which
+      fertilizer is made. Most American farmers have said that we were now losing money
+      to produce our crops. It costs more money to produce our crops using fertilizer
+      to increase the crop yields and paying for the higher equipment of harvesters
+      and the other equipment that we have to do and paying higher credit to the banks
+      for moving the crops and to sell the crops forward to the big crop producers.
+      trading companies in the United States. So the farmers are facing defaults and
+      are being forced to sell their land or either increase the mortgage on the land
+      which they can hardly do because the banks say, well, you don’t have any more
+      free income to pay the mortgage since your income is being shrunk by your rising
+      costs. Michael Hudson: And this is applauded by the information companies like
+      the largest landowner in the United States. is an information technologist. There’s
+      a new concentration in turning the American farming economy into an absentee-owned
+      economy, leased out to farmers, very much like it was under feudalism and the
+      legacy of feudalism in Britain at the time of David Ricardo’s fight against the
+      Corn Laws there, which is very similar to today’s by farmers wanting free trade,
+      but the farmers also being flag-waving Christians have supported the Trump administration’s
+      attack on their farmers on themselves and on their income, and they’re willing
+      to go bankrupt and to essentially go out of farming and depopulate the land because
+      it’s the patriotic thing to do to fight against communism and the non-Christian
+      countries that Americans at war with. This is the internal contradiction of the
+      effect of the war on American farming. It’s hurting American farming just as much
+      as these same dynamics of rising oil prices and fertilizer prices are having on
+      the whole rest of the world. Françoise Vergès: May I say something, Anne? Yeah,
+      certainly. I wanted also to add, because if we are talking about climate change
+      and the disaster, that if there is something that aggravate that are wars, you
+      know, I mean, the destruction of the Gaza, I mean, the incredible toxicity of
+      weapon, the destruction of South Lebanon, or the bombing in Iran that brought
+      this, you know, in the middle of the day, it was a night and also the black rain
+      that contribute, I mean, and also it’s a destruction of the soil. I mean, it’s
+      contaminated, you cannot cultivate after that. And weapons, I mean, all these
+      new weapons are huge, you know, use a lot of oil and gas and everything. And so
+      the concentration also, I mean, the whole of the imperialist army in climate disaster
+      is huge, absolutely huge. And this region, West Asia, is being also destroyed,
+      not just, you know, bomb in the sense, okay, that’s terrible, but also transformation
+      of the climate and the soil and the water supply. Anne Pettifor: So thinking about
+      that and thinking about the resistance to the current order, a lot of people are
+      going to go hungry. because food prices will rise. Some may even starve. There
+      might be even mass starvation. Given those circumstances, what will happen to
+      the resistance? How will people organize or not organize? Has anybody got any
+      thoughts about that? Because I can’t remember a time when as many countries… You
+      know, there were times when there was starvation, there was, you know, collapse
+      of agriculture in countries, but never on the scale that it is today. You know,
+      this is happening. It’s happening to rich countries and to poor countries. This
+      impact of the cost of fertilizer on production and tariffs and so on. what’s going
+      to how is that going to affect the public the general public both in the north
+      and the south how are they going to react are they going to become more nationalistic
+      more defensive more fascistic as as is happening in in parts of europe or are
+      are they going to organize i just want to put that question to the two of you
+      michael [Michael: Could you rephrase? My computer was taken over by Google.] Anne
+      Pettifor: The question was simply that given that this crisis of the war on Iran,
+      the Israeli and American war on Iran, is going to result in high food prices and
+      in the destruction of agricultural land, as Francois has just pointed out, the
+      poisoning of land as well, which will contribute towards, if you like, Hunger,
+      hunger on the scale that we’ve probably not ever experienced before. What impact
+      does that have on the resistance to the current order? How will people react?
+      Will they become more defensive, more nationalistic, or will they become, you
+      know, do we see a great uprising? 8. Political Disconnect and the Possibility
+      of Revolution Michael Hudson: Well, here’s the problem. We know that the voters
+      in almost all countries, from the United States to Europe, are opposing the U.S.
+      war. But the politicians are all in favor of it. We have a disconnect between
+      the political class from Western Europe to the United States to global South countries,
+      where you have leaders of all these countries whose political careers have been
+      blocked, backed by the United States, by the so-called Democracy Institutes, the
+      non-governmental organization, and all sorts of support from the time that the
+      State Department and other US officials find very sort of charismatic students
+      at universities who are also very ambitious and greedy. And they’ve nurtured these
+      leaders to the leadership of Britain, France, Germany, the United States itself,
+      and certainly throughout the whole global South. So when you talk about the political
+      response, What can the response be if you no longer have elective democracy in
+      any of these countries? They’re all oligarchies with oligarchy control, mainly
+      by the financial and landlord and raw materials, rent extracting interests. The
+      so-called Western democracy doesn’t work. You need a strong central authority
+      to make the economic planning independent of leaving it to the financial sector
+      to take over national planning by being in control of the credit system. Who gets
+      the credit and for what? Michael Hudson: Well, this is what the West Asian countries
+      and Asian countries did. before Western civilization began. There was always a
+      king to prevent an oligarchy from developing. There isn’t a king to prevent an
+      oligarchy from taking place ever since classical Greece and Rome right down to
+      America and Western Europe today. I don’t see any way in which the popular uprising
+      to support the principles that you and I have been talking about for over a decade
+      or two now can work without some kind of political revolution. Well, political
+      revolution in today’s world where you’re actually having a police state. develop.
+      I understand that in England and Germany, if you criticize Israel’s attack on
+      Palestine, this is now criminalized. You can pay enormous fees and you’ve seen
+      what happened to General Baud in Switzerland, and I think also the American press
+      has British cases and German cases. You’re having really a tightening of a police
+      state atmosphere. It looks like a political revolution is the only alternative,
+      but it’s much harder today than it was in in seventeen seventy six or nineteen
+      seventeen. So I’m not sure how to answer your question. Anne Pettifor: So so what
+      about the South Francoise? What what what is your feeling about what’s happening
+      there? 9. Uprisings in the Global South Françoise Vergès: Huge, huge uprising
+      everywhere. But what Michael said, the disconnect between the oligarch or the
+      billionaire now, which is a growing class, and the government and the people is
+      growing. In Tanzania, in Kenya, in Madagascar, everywhere, in Argentina, in Mexico,
+      wherever, people are rising. What is now is like there is no, you cannot trust
+      the government to do that. You cannot trust effectively the elected people. They
+      no longer represent whatever. I mean, Europe is totally following Trump in genocide
+      in Gaza, has not protested barely about Iran. So there is, and people are marching
+      every day, you know, in the streets. So this disconnect, I think, is also a moment
+      of political education, if I may say, you know, about what, effectively, what
+      we’re going to do, if not going to be, you know, like the Bastille Day, or, you
+      know, the Winter Palace, but there is something, there is a strong understanding.
+      I mean, when I talk to young people, you know, some years ago, they were There
+      was a strong individualism. Now, you say Nakba, they understand Nakba. There was
+      a criminalization, huge criminalization in France, also everywhere, effectively
+      of solidarity with Palestine. And nonetheless, people are still doing. Young people
+      are still marching. I mean, they are huge. So they are learning something. There
+      is a huge moment of political education right now. I’m not saying, okay, this
+      is going to come out of it, but this is the moment also. We are learning something.
+      We are learning that we can no longer trust fully or blindly. And so how to organize?
+      So I would say we are in that moment. And which way it will take, it may be different
+      in Argentina from Italy or elsewhere, but the resistance is quite strong. I mean,
+      you got, you know, in some port of Europe, they refuse to, you know, to… to bring
+      things for Israeli ships, you know, I mean, a lot of different things. So a huge
+      consciousness and a new understanding also, and I will repeat about land and water
+      coming back as political question and not just, you know, humanitarian. So there
+      was an incredible, I will say, a very formative moment with a lot of things being
+      written, debate like that, through journal, online or not online, it’s a very
+      fertile moment. 10. How Will the War End? World War III Anne Pettifor: So given
+      that, and thank you both for those insights, but given that, how do we think this
+      war in the Middle East will end, this American-Israeli war? We see today that
+      an American jet has been downed inside Iran. The resistance is extraordinary by
+      the Iranian people. But how is this going to end and how is it going to end for
+      Europe as well as for the United States? Michael, do you have a view on that?
+      Michael Hudson: You should think of it as World War III. World Wars I and II lasted
+      four years each. I think that this war is going to last four years also, and it’s
+      a world war because energy involves the entire world, and the entire world is
+      being dislocated by the interruption and the destruction of OPEC’s ability to
+      export oil and gas. The United States intends to blow up Iran’s oil fields. If
+      the United States cannot control a foreign oil country, it will destroy its source
+      of oil. a basic rule of American policy. Iran has said, if you destroy our oil,
+      we are going to make sure that the oil of all of the Arab OPEC countries whose
+      economies are symbiotically linked to the United States are also destroyed. And
+      the reason we’re doing that is to let the whole rest of the world know, from Western
+      Europe, to the Global South that if you do not intervene and stop the United States
+      and Israel from bombing us, you will have no oil. Your oil-using industries will
+      have to go out of business. Your labor will be unemployed. You will be in a depression
+      worse than the Third World Depression. That is the price for your not withdrawing
+      from the American-centered system. Michael Hudson: And we realize that this requires
+      that the United Nations is dead. It is unable to prevent this because of the U.S.
+      veto. and its satellite powers with veto. And we need to create a new United Nations,
+      just like United Nations was needed to replace the League of Nations that was
+      dead. We need a new alternative to the International Monetary Fund, not based
+      on austerity stabilization programs, but on mutual gain. We need a new alternative
+      to the World Bank and the World Trade Organization, that a domestic uprising cannot
+      create a multilateral new system. And it’s obvious that this new system has to
+      be built around the core of self-sufficient basically Asian economies, China,
+      Russia, and Iran. This will have to be rebuilt. It’ll be rebuilt from the position
+      of economic depression that the United States has intended to create throughout
+      the rest of the world. from Western Europe to the global south to make it a grab
+      bag for the American companies to come in once again and use the distress to grab
+      up whatever resources are available and reconsolidate the dollar standard. And
+      if other countries do not fight against this, and they won’t, They will jump on
+      the bandwagon and at least hope their personal career is saying, well, there’ll
+      be a depression, but we wealthy people, oligarchies are always going to come out
+      on top. If somehow there’s not a revolution, there’s going to be a depression
+      until such time as a new international economic order is created. 11. Political
+      Education and the Question of Organisation Anne Pettifor: Yeah. So I think that’s
+      a really profound insight that actually this is already a world war, as Michael
+      has noted, and that Michael suggests it could go on for four years. My view is
+      that, yes, that’s the first and second world wars lasted that long, but they were
+      not half as destructive as this world war will be, it seems to me. That’s what’s
+      so terrifying. And, you know, what remains afterwards? So it’s pretty bleak outlook.
+      What do you think, from the point of view of the South, Francoise, do you think
+      that somehow I mean, I take your point, which is so powerful, which is that this
+      is a political education moment and that people are learning and that the youth
+      are being politicized. And I see it as well as you see it. I see it here, too.
+      You know, a decade ago under Blairism, they were apolitical. Politics was of no
+      interest or relevance. Now they’re passionately political. And the question is
+      whether or not they have the political program or the political organization,
+      the institutional organization. For example, we had trade unions. We had trade
+      unions during the Second World War and during the First World War. There are virtually
+      no trade unions today. at least, you know, as a proportion of the world’s workers
+      and in terms of their power and their influence and their ability to organize
+      even more. So from the South, Françoise, how does that look to you? Françoise
+      Vergès: Well, I mean, I agree with what Michael said over that. The United States,
+      we prefer chaos to anything else, you know. and put everyone in a double bind.
+      But I mean, there are also, I mean, we cannot underestimate also already the discontent
+      about the price. I mean, the understanding of how this is connected, really the
+      understanding that is not just about a war about, you know, they have the nuclear
+      weapon and they’re gonna be, you know, they are dangerous. No, this is also an
+      understanding what is needed is a connection, effectively what Michael explained,
+      about the fact that this war, the US-Israeli war, is in fact a war against the
+      world, we could say, you know, against the entire world. It’s not just, you know,
+      Iran being bombed. It has repercussions for the peasants in India, for, you know,
+      I don’t know, fishermen in Chile or whatever, or children everywhere in the world.
+      And this is absolutely important. It’s also for me, I have to say, it’s very important
+      that Iran is resisting, because this is absolutely fundamental, you know, whatever
+      we think. It’s absolutely fundamental. And because otherwise, it’s really, I mean,
+      the door is open for the most brutal and cruel people, really. Absolutely no,
+      I mean, human life is nothing for that. Absolutely nothing. And we saw it. I mean,
+      Gaza was absolutely a testimony for that. Françoise Vergès: So in the South, I
+      mean, the understanding that the West is no longer, I mean, all the pretense of
+      human rights, all the pretense of… you know, liberty, equality, fraternity for
+      the French, or, you know, whatever, this is really also growing. Now, the government
+      are not quite capable of doing a South-South, you know, like the BRICS have not
+      been able to really constitute a force. But this understanding that there is absolutely
+      a connection a growing connection between the people of the South. This is there.
+      This is really there. And I’m not undermining the danger, the threat coming, you
+      know, and the threat, not the collapse, but the threat to life, not just human
+      life, but also non-human life. But I think that a lot of people don’t underestimate
+      the threat, don’t underestimate the danger, and so wonder, effectively, what is
+      to be done. And as I say, for me, the return to the demand for land and water
+      constitute also a new ground for, you know, connection, because everyone needs
+      land and water. So there is, I mean, will the revolution, whatever we want to
+      call it, I mean, the change, take as a as a demand, not just sovereignty and independence
+      like was needed in the fifties, sixties, but a new effectively connection to land
+      and water that is not about extractivism, that is not about dispossession, contamination,
+      destruction, you know, what we see. And that understanding that without land and
+      water and air, in fact, you know, pure air, There will be no life. I mean, no
+      human life anyway. There will be some other life. Constitute, I think, perhaps
+      also what is a new form. I mean, as I say, I don’t like new every time, but the
+      form of resistance, really the connection, the connection between, for instance,
+      peasants in South Africa and peasants in India. They talk to each other, you know,
+      on this basis. or feminist in the Global South, having a conversation against,
+      effectively, the reactionary forces that are not just in the West, that are also
+      in the Global South, and want, again, to control women’s body and queer body and
+      trans body. So I would say that it’s a very interesting time. It’s a dangerous
+      time, but it’s a very interesting time because it’s this moment. of effectively
+      saying goodbye to that world. 12. Water, Land, and the Path Forward Anne Pettifor:
+      I’m so glad you’re talking about water because water is really going to become
+      the new oil. And the United States would love to make the whole world into an
+      extended Thames Water Company. That’s the US and European idea. What do you think,
+      Anne? [Anne continues:] Anne Pettifor: And I think that Francoise is right, because
+      that’s where we can make the connection. I mean, here there is an uproar. There
+      is total uproar over the way in which privatized water companies have poisoned
+      our rivers and our seas. And it’s across the board, across the political spectrum.
+      And it is something that you’re right, it could be a connection between people
+      here and people in Africa, people in drought-struck areas everywhere across the
+      world. And you’re right, that’s the way to do it. The question for me is, as someone
+      who once helped to organize a global movement, It’s really extremely difficult
+      to, if you like, come together behind a single demand or a single series of demands
+      like we want to safeguard land and water and bring everybody together while at
+      the same time allowing them to have the autonomy of their special conditions,
+      their special where they are, you know. So that kind of movement. And we struggled
+      with that. We struggled with the idea of should we have a centralized committee
+      at the top, you know, that would decide on the strategy. We said no to that. So
+      instead, we had a D committee. devolved power bases but all behind a common goal
+      and I don’t know if there are political movements that could organize in that
+      way but that’s you know Francoise is right that’s what we can do because the connections
+      are very powerful you know land and water is so fundamental to human life connect
+      people in Arizona in Peru with people in Chad and Niger with people in India and
+      Kashmir with people in Poland and Russia, and as you say, in UK and France. Françoise
+      Vergès: I mean, this is it. And so, yeah, this connection and the understanding
+      through the environmental movement against also environmental racism. And that
+      has, you know, it, I will say, this is, because all what Michael described has
+      been effectively organized to steal, you know, to steal and to put people in debt.
+      And I am absolutely, for instance, the fact even of peasants will go to court
+      and will, you know, sue huge corporations. that have like thousands of lawyers
+      for them, you know, and medias for them and everything. And they would fight and
+      never stop, you know. So I think we have to look at this incredible determination,
+      commitment, and with really weapon of the poor, if we may call that. Anne Pettifor:
+      I mean, we’re going to have to wrap up in a few minutes. And so I want us, therefore,
+      to end on this message of, hope, if you like. I don’t like to use the term hope
+      because hope is not a strategy, as someone said once. The point is that I think
+      we must have confidence in the youth and we must have confidence in this ability
+      of human beings to connect with each other. And that power, that ability, that
+      capacity can be transformational. And so the question then becomes, how do we
+      push it up the levels of consciousness so that we can begin organization? And
+      let’s have final comments on this because I don’t think we can leave this conversation
+      without some idea of the way forward. 13. Conclusion: Reform or Collapse Michael
+      Hudson: What you’ve described is just what the Americans are fighting against,
+      any cooperation. And I think it’s significant that the single most important Israeli
+      attack on the Arab countries was to blow up Kuwait’s water desalinization plant
+      and try to blame it on Iran. Israel’s attempt is to prevent all desalinization
+      throughout the Near East, to depopulate it, thereby removing OPEC basically from
+      the world oil trade, leaving it free for the United States and its oil companies.
+      And Israel. Yeah. And this is the fight of the whole world. And I think that it’s
+      easier, the way to create a willingness for the alternative oil, world order that
+      we’re trying to promote is to say, here is what’s going to happen if you continue
+      along the present line. That’s what David Ricardo did when he said, if you don’t
+      stop, begin to tax the landlords and economic rent, there will be no profits left
+      for British industry. It will not be the workshop of the world. The entire surplus
+      will be the end of economic rent. Well, by the end of the nineteenth century,
+      it was realized that, well, money rent by the financial sector is the same. There
+      will be no profits left for industry. That’s why Europe and America have been
+      deindustrializing. We have to show this experience and give a narrative for the
+      rest of the world to realize that if you don’t remake the world along the lines
+      pretty much that were described by classical economists in the nineteenth century
+      before the anti-classical, anti-socialist revolution, then this is how you’re
+      going to end up. You have to give them the motivation that it’s reform or collapse.
+      reform or starvation. Françoise Vergès: yeah yeah you know policy we have to politicize
+      this issue you know i mean a lot of revolution i mean it was like we need food
+      we need food we need you know a roof i mean we need that our children have a decent
+      life you know and like going back to basic but not in a in a in a real sense i
+      mean the vital needs of all human beings And that has been totally cut constantly
+      by capitalism, imperialism and racism. And so these are political. I mean, what
+      was revolution about? You know, they were about, you know, like, uh, they were
+      not just, I mean, uh, freedom, it was not an abstraction. It was really, how do
+      we change the life of people? And, and as you know, because you have been, I mean,
+      and from South Africa and Africa, all the independence started by people. We have
+      land, water, food. education and health. And this has been denied. This has been
+      constantly denied and the denial has been legitimated and people fight for that.
+      People go, I mean, and they die for it. So this question of really to say that
+      these are the political struggle and they still the terrain of political struggle
+      for liberation. Anne Pettifor: Yeah. And as Michael says, you know, we should
+      show them what Israel and the United States is doing in the Middle East for the
+      world to understand what is coming your way, basically. So for that, we have to
+      fight for land and water. And I just want to thank my two colleagues for this
+      really very important and very wonderful discussion. I’ve learned a great deal
+      myself, and I hope you, the listeners, will have learned from this as well. And
+      I’d like to thank the david graver institute and david graver himself whom i always
+      love to be reminded of um for the opportunity to for us to have these important
+      discussions and to share these views across the board so they may be debated everywhere
+      in the world so thank you michael and thank you francoise and thank you thank
+      you and thank you right right thank you goodbye Michael Hudson: Thank you. Françoise
+      Vergès: Thank you. Right. Thank you. Goodbye. Photo by K Adams on Unsplash The
+      post How Creditors Replaced Colonial Rule first appeared on Michael Hudson . The
+      post How Creditors Replaced Colonial Rule first appeared on Michael Hudson .'
+    one_sentence_summary: Michael Hudson, Anne Pettifor, and Françoise Vergès engage
+      in a discussion at the David Graeber Institute about the intersections of finance,
+      sovereignty, and colonial histories, examining the current global order and its
+      implications for future power dynamics.
+    paragraph_summary: In a discussion hosted by the David Graeber Institute, Michael
+      Hudson, Anne Pettifor, and Françoise Vergès explored the themes of finance, sovereignty,
+      and colonial histories, focusing on the potential collapse of the current imperial
+      order and its implications for global power dynamics. The conversation aimed to
+      analyze how this transformation is perceived by countries in the Global South
+      and whether it offers them any positive changes. Key topics included the impact
+      of the American-Israeli conflict with Iran on regional and global alliances, as
+      well as the broader question of whether the existing order is truly disintegrating.
+      The dialogue highlighted the complexities of these issues, especially in the context
+      of historical colonial influences and the evolving economic landscape.
+    published: '2026-04-07T23:25:00+00:00'
+  - title: Iran’s Resilience, America’s Miscalculation
+    url: https://michael-hudson.com/2026/04/irans-resilience-americas-miscalculation/
+    text: 'Nima Alkhorshid: Hi, everybody. Today is Wednesday, March 25, 2026, and our
+      dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Rich and Mike. Richard Wolff: Good to be here. Nima Alkhorshid: Let me start with
+      just updating what is happening right now on the battlefield between the United
+      States and Iran. Moments ago, we learned from the White House press secretary,
+      Karoline Leavitt. Hear what she said about the current state of the war against
+      Iran. [CLIP START] Karoline Leavitt (clip): Operation Epic Fury has been a resounding
+      military triumph. More than 9,000 enemy targets have been struck to date. Compared
+      to the start of the operation, Iran’s ballistic missile attacks and drone attacks
+      are down by roughly 90%. The United States is also annihilating the Iranian regime’s
+      navy. We have destroyed more than 140 of their naval vessels, including almost
+      50 mine layers. This is the largest elimination of a navy over a three-week period
+      since World War II. Again, let me reiterate: this is the largest elimination of
+      a navy on the face of the planet in a three-week period since World War II. [CLIP
+      END] Nima Alkhorshid: And let me bring what the former MI6 chief, Sir Alex Younger,
+      said to The Economist, his assessment of what’s going on between the United States
+      and Iran. [CLIP START— Alex Younger, The Economist interview] Host (clip): Who
+      has the upper hand right now? Alex Younger (clip): Iran. I regret having come
+      to this conclusion because, like many MI6 officers of my generation, we’ve faced
+      the violence and brutality of the IRGC for most of our careers. Host (clip): That’s
+      the Islamic Revolutionary Guards Corps. Alex Younger (clip): So there is no love
+      lost between us, and I shed no tears for Ali Khamenei, who was killed at the beginning
+      of this war. But the reality is the U.S. underestimated the task. And I think,
+      as of about two weeks ago, lost the initiative to Iran. In practice, the Iranian
+      regime has been more resilient than I think anyone would have expected. They took
+      some good decisions, actually, as early as last June, about dispersing their military
+      capability and delegating the authority for the use of those weapons, which has
+      given them significant extra resilience against this incredibly powerful air campaign.
+      They have embarked on what’s technically called “horizontal escalation”, i.e.,
+      firing rockets at anybody within range, which at the time, honestly Shashank,
+      I thought was nuts, but in fact, has been a very good way of putting a direct
+      price on the US.has sort of worked. And then they’ve understood the significance
+      of the energy war and held the straits at threat and globalized, and essentially
+      not internationalized, just globalized the conflict in a way that gives them some
+      weapons. So, you know, they’ve played a weak hand pretty well. My second point
+      is that Donald Trump has said some stuff that will have confirmed something they
+      knew already, which is that they’re in a civilizational war in their terms. They’re
+      in a war of existence. Donald Trump made it very clear that he wanted to see them
+      up against the wall, basically. Whereas America has embarked on a war of choice.
+      And in those terms, I think that’s imbued them with more staying power than the
+      US and, certainly, US counterparts. And they know that now. And I think that really
+      is giving them the whip hand. [CLIP END] Nima Alkhorshid: Yeah, you know that
+      Donald Trump was asking, they’re sending proposals through Turkey, Pakistan, but
+      so far, all these proposals were rejected by the Iranian side. And they have published
+      a symbolic video responding to Donald Trump. Here is that video. [CLIP START]
+      A video plays; the line “One revenge for all” appears. [CLIP END] Nima Alkhorshid:
+      It says one revenge for all. And here is somehow the summary of what’s going on.
+      I want to start, Richard, with you. What is your understanding of what Donald
+      Trump is trying to do? Richard Wolff: At this point, I would argue that Mr. Trump’s
+      major activity is trying to get out of the very deep hole he dug himself into.
+      It is beyond my comprehension, and I’m hoping that you, Nima, or you, Michael,
+      can help me here. How the United States government could undertake this, what
+      does he call it, excursion, how they could do that without going through the mental
+      procedure? What if they close the Strait of Hormuz? What if that interferes with
+      20% of the world’s oil transport? What if that drives up the price of oil again?
+      They didn’t do that? They didn’t prepare for that? They clearly have no answer.
+      For three weeks, basically now they have no passage through the Strait of Hormuz,
+      and there doesn’t seem to be anything they can do about it. I am mystified. I
+      do not understand, unless what we have here is really not so much a war of choice,
+      but a war whose purpose was to take the headlines away from the Epstein case,
+      and to take the headlines away from the fast-deteriorating economic situation
+      here at home, inflation, poor jobs, stagflation, all of that, and focus us on
+      an adventure which he imagined would be as headline-grabbing as three days of
+      following the abduction of Maduro in Venezuela. And maybe he thought he could
+      sort of have a nice version of that all over again, so that the arguments that
+      advisors must have given him didn’t make any difference. I am mystified. But to
+      be more direct and answer your question, I agree with you. The last line of that
+      video from Iran says it all. This is a war of choice by the statement of our leader.
+      It’s an existential threat to Iran, which everybody knows. The last 75 years have
+      been, with the exception of the time of the Shah, and the Shah was seen as an
+      imposition on Iran by the United States. But other than that, it’s been sabotage,
+      attacks. Iran doesn’t have to persuade anyone that it is at risk of destroying
+      itself if it does not come up with some way to stop the United States. So you
+      have an utterly unequal struggle here. The Americans, rich, militarily overdeveloped,
+      and what are they going to do in Iran if their existence is at stake? That very
+      difference is very dangerous. I want to remind people: the almighty British Empire
+      decided to militarily put down the revolt in North America. No one dreamed that
+      that would be a struggle, but there were resources that could be grabbed by the
+      colonists here that defeated the British Empire. We are watching something that
+      should remind people of that. So, yes, they disperse their missile launchers and
+      their drone airports all over the country. They have those wonderful mountains
+      and they have this vast territory easy to hide. They can do something which has
+      not been discussed except in a few military journals that I’m aware of that, It
+      turns out for a few hundred dollars, you can build something that, from the electronic
+      eye in the sky looks like a missile launcher, but isn’t one. It’s a decoy. And
+      you can then, if you’re the United States and you rely on electronics, you can
+      send a $10 million missile package to destroy a $500 decoy. And then you can have
+      Karoline Leavitt tell you, we have knocked out one of them. No, you haven’t. Nothing
+      of this sort. She’s so underdeveloped in her job, she can’t even anticipate what
+      I’m saying, which she ought to have. She ought to have said something to recognize
+      you’ve been knocking out lots of decoys. And in fact, obviously, the missiles
+      from Iran have been hitting their targets in Israel and in the Gulf states. So
+      it seems to me that you have here a situation in which you have David and Goliath,
+      and everybody is rooting for David. That’s why it is very, very smart to end that
+      video with not vengeance for Iran, vengeance for everyone. What it does is it
+      cashes in on a year and a half of Mr. Trump’s bullying, bullying with tariffs,
+      bullying with threats of trade war, this assertive, aggressive, ‘we’re not bound
+      by law, we’re not bound by international arrangements. It’s the law, you know,
+      Stephen Miller, it’s the law of the jungle that has always been’. This kind of
+      language frightens everybody coming from the United States, which has all this
+      nuclear and every other kind of weapon, saying we are fighting for all. That puts
+      Iran right at the front of the anti-imperialist, anti-colonialist project of the
+      last century and a half. That is a very powerful position to be cashing in on,
+      and it positions the United States as the desperate one holding on. Now, the alliance
+      with Israel does that too, but it reinforces all that. Last thing that’s on my
+      mind. And correct me if I’m wrong here, Nima. Iran has an immense border with
+      Russia, a land border. And Russia has an immense land border with China. In other
+      words, China can build missiles and drones unlike anybody else, because they have
+      an immense manufacturing foundation upon which there’s no limit, literally no
+      limit to what they can do. And they could ship that across the border, a border
+      no one else has any access to, just them and Russia. And then Russia, having gotten
+      the stuff from China, is in a position with its border to take care of Iran’s
+      needs for drones and for missiles forever. In other words, you have a fantastic,
+      ironic twist. What the United States and Europe did for Ukraine against Russia,
+      China and Russia can now do for Iran against the United States and Israel. It’s
+      almost exactly the same. And, of course, they will. And any doubt I had vanished
+      yesterday when I learned that the Foreign Minister of Russia, if I have this correct,
+      gave a press conference and said his words that we may be, if I understood him
+      correctly, at the beginning of World War III. Well, if your brain says to you
+      that you might be, then if you’re Chinese or Russian, you are not going to let
+      Iran be overrun by the United States, not at all. This is a big country, 90 million
+      people in Iran. This is a strong ally whose economy is already well integrated
+      with the Chinese in many ways and with the Russians in other ways. No, no, they’re
+      not going to walk away from this. It would be foolhardy. Especially if you think
+      you might be at the beginning of a global conflict. And correspondingly, for the
+      United States to be at the edge of a world war where Iran can plausibly and effectively
+      position itself as the David against the Goliath who is enacting a vengeance for
+      us all, this is a very powerful position. And I don’t get the slightest sense
+      that the people in charge in this country have half an inkling of what they are
+      doing and what they are up against. And the behavior so far in this war reinforces
+      the sense, the cluelessness of what is going on here, that it is so hard. I keep
+      thinking, that’s why I began the way I did. I want you to correct me. Am I missing
+      something here? Nima Alkhorshid: They don’t have a common border, Richard, but
+      they are connected through the Caspian Sea. Richard Wolff: Okay. Nima Alkhorshid:
+      And they can communicate through the Caspian Sea. Michael, join in. What’s your
+      take on that? Michael Hudson: Well, Richard has mentioned exactly the same points
+      that I want to emphasize. The United States knew very well that Hormuz was going
+      to be closed. It imagined that it could be the winner. Already in the 1970s, when
+      I was dealing with national security issues, people were discussing that the first
+      action of Iran in defending itself would be closing the Strait of Hormuz. So that
+      was always on the agenda. The United States believed that it would come out the
+      winner, perhaps even before there was the current attacks, that the Iranian government
+      would fall. That’s the American illusion that there’d be a regime change because
+      America would hurt the population. And the Iranian population, in the American
+      military manuals, said there’s not going to be any vengeance. The population will
+      be so demoralized by our hitting their hospitals, their schools, focusing on killing
+      their children, and that they will say, please overthrow the government and have
+      a government that’s more friendly to the United States so it won’t hurt us anymore.
+      Well, the video you showed, Nima, is not exactly what’s taught in the American
+      military manuals, but this has been the guiding strategy not only of the United
+      States, but Israel. And there’s even right now, there’s still a belief that America
+      is winning, as you showed in that wonderful clip from the White House. Trump’s
+      idea of a negotiation, what he calls is a demand for surrender. There’s no negotiation
+      because when there is a negotiation, America kills the negotiators. The only thing
+      you can do is have maybe a terminal, terminally ill patient in their 80s or 90s
+      do the negotiations who can afford to give up the life and be killed if they refuse
+      to surrender to Trump’s negotiation. But of course, there’s no negotiation because
+      Iran has already stated very clearly what its demands are. And yet, you’ve mentioned
+      the White House conference. I look at the stock market. Stock market’s been up
+      all day long. They believe that Trump indeed, his promise of negotiations and
+      surrender is going to work. The interest rates on U.S. debt are going down. The
+      dollar is strengthening. There is a cognitive dissonance to come to terms with
+      the fact that this is really not simply a war of choice, it’s a war of America’s
+      choice that is forcing other countries to realize that, yes, this is World War
+      III because it affects the entire world that uses energy and gas and fertilizer
+      and sulfur, and all of this. This is a war for how the international economy is
+      going to be restructured. Can the United States reimpose its unilateral weaponization
+      of world trade and international finance and diplomacy on other countries, or
+      will they become sovereign power? And all of these, the current war isn’t simply
+      a matter of Trump’s choice. It’s been a choice of the United States for more than
+      20 years. We’ve discussed before how Wesley Clark in 2003 said, yes, we’re going
+      to conquer all of the Near Eastern countries, culminating in Iran. And every year,
+      the United States military has a game plan, and it always ends up with, how do
+      we update our conquest of Iran, where all of this is going to end up? So this
+      is the U.S. point of view. But let’s look at, since Richard, quite rightly and
+      you mentioned Iran, Russia, and China, and all of the other countries that are
+      affected. The United States is confronting these countries by violating every
+      principle of international law and the laws of war that the United Nations established
+      in 1945. And this was the legal philosophy that Western civilization, if you can
+      forgive the oxymoron, has been talking about for four centuries, ever since the
+      Peace of Westphalia in [1648]. The United States principle is violating the sovereignty
+      of other countries by weaponizing oil finance against any countries by threatening
+      to create chaos if they pursue a sovereign policy that is at odds with U.S. diplomacy,
+      which is based, as we’ve been discussing for many months now, diplomacy based
+      on control of the world’s economy above all the international oil trade. And within
+      the oil trade, above all, control of the Middle East and the OPEC countries, because
+      the OPEC countries represent 40% of the international oil trade. So what’s happening
+      now is if there indeed is a fight this weekend, Friday night in Middle Eastern
+      time, Saturday morning in the United States, the military attack that Trump seems
+      to be organizing and which the United States has been organizing ever since 1979.
+      That’s a long time, ever since the Shah was overthrown. This is the final showdown.
+      And there will be one winner or another. There’s no middle ground. There is no
+      basis for compromise or negotiation. This is going to be it. And the result is
+      going to be: well, Iran is going to defend itself by striking back. As it said,
+      if you’re going to destroy our oil resources, we’ll make sure that there’s no
+      oil by the countries that have joined our attack, Saudi Arabia and the other Arab
+      emirates. I won’t call them monarchies, emirates or mafia states that are letting
+      the U.S. use its military basis, and who have used ever since 1974, who’ve used
+      all of their national savings of oil export revenues, all their national monetary
+      reserves, all of their royal money. All of this has been invested in the United
+      States bond market, the United States stock market, especially recently artificial
+      intelligence stocks and U.S. banks. All of this money that they’ve accumulated
+      is held hostage in the United States. For instance, Iraq just asked, the United
+      States demanded that the U.S. troops withdraw. The U.S. asked for negotiators
+      with Iran. The Iraqis negotiated. Iran let the U.S. troops withdraw from Iraq
+      without blowing them up. And then the United States bombed and killed the negotiators,
+      which it does as a matter of course. Rule number one, always kill the negotiator
+      if they don’t surrender. That’s happened again and again this year. So this is
+      what they’re basically confronted with. It’s a no-hold barred. And so the United
+      States is going to respond by doing to the oil exporting Arab countries what it
+      just did to Qatar’s gas industry, blow it up. This will plunge the entire world
+      into at least a five-year depression. It’ll take that long for the industries
+      to recover from the lack of gas, the lack of oil, the lack of fertilizer, the
+      lack of helium that’s used in not only in etching silicon computer chips and cryogenically,
+      but also in the MRI machines that hospitals use. All of this is a crisis that’s
+      going to lead to the closing of major industries throughout Western Europe, Asia,
+      and especially the hardest-hit countries will be America’s allies in Japan and
+      Korea, which are mostly dependent on OPEC oil and gas that will not be available
+      to them. And this is essentially going to force them to drive away and to question
+      themselves: is America really protecting us from the threats posed by China, Russia,
+      and Iran? Or is the United States the major threat? The U.S. attack this weekend
+      or next week or even a week after that is an attack, a deliberate collapse of
+      the world economy. And of course, the U.S. planners have gamed what is going to
+      happen when Hormuz is closed. And Trump has come right out and said it. You know,
+      America is going to survive much better than other countries from all of this.
+      Other countries need OPEC oil. We Americans don’t need OPEC oil. All we need is
+      all of the money from OPEC oil, all of the savings. And if we’ve already said
+      that if Iraq follows a pro-Iranian policy, we’ll simply grab all of its reserves
+      that are held in the Federal Reserve as a result of our conquest of Iran under
+      George W. Bush. Well, it can do the same thing for Saudi Arabia or these Arab
+      emirates that, Nima, you and I have discussed the possibility of Iran taking over
+      these emirates, which are antagonistic to Iranian interests. Well, all of their
+      foreign savings, the tens of billions or hundreds of billions of dollars that
+      they have invested in the U.S. bonded stock market will be confiscated. And all
+      of their trust for the last 50 years, their hopes of alliance and linkages with
+      the United States will have all been for nothing. It’s all lost. It’s all confiscated.
+      That’s what the rest of the world is confronted with. And that’s why, indeed,
+      this is on a scale that I think you can indeed call it World War III. Richard
+      Wolff: Let me remind people of some historical realities. World War I was a clash
+      of colonial powers. When the dust cleared, Europe was much weaker than it had
+      been when it went in and the Soviet Union was created. In World War II, you had
+      another clash of competing empire colonialists, and they destroyed what they hadn’t
+      destroyed in World War I, and China joined the Soviet Union. This doesn’t work
+      well, these world wars, for capitalism. It’s a very, very bad omen if that’s what
+      we’re entering into. And you know, when wars are left, when wars happen, what
+      you’re left with is the ruins. But being a ruined country like China with a 1.4
+      billion people allows for ways of coping that are not available to a much smaller
+      country like the United States. So you’re going in under very bad circumstances.
+      This would be an act of desperation trying to hold on to a bad situation and risking
+      something even greater. Why they would imagine if they send a few thousand American
+      troops, what are they going to do? If the Iranians have shown anything, they’ve
+      shown that they’ve decentralized a great many of their military and other functions.
+      They don’t need to have a central place in Tehran. The central power, which got
+      assassinated, seems to continue to function really well. You know, to send precision
+      missiles means your capability is not much hurt. And again, I don’t know anything,
+      but my guess is that the specialists from Russia and China have trained the Iranians
+      or are working with the Iranians and are bringing the most sophisticated imaginable
+      control to their drones and their missiles. And we’ve already seen that the Iron
+      Dome and Little David and all those other Israeli mechanisms have not prevented
+      the missiles from getting through. And the same is true of the American bases
+      in the Gulf states. So I don’t know the details. I don’t know if anybody does,
+      but it’s clear that the White House needs to portray all of this as a stunning
+      victory. So there’s no reason to expect anything else from them, but there’s also
+      no reason to believe it. It may be true, and then I will be working with false
+      assumptions. But my assumption here is that it’s likely that what’s coming out
+      of the White House is desperation, and what’s coming out of Iran is a much more
+      quiet, well-grounded determination that they think they can do this. I mean, it’s
+      no longer guessing. When they said, no, we’re not going to respond to your 15-point
+      proposal, we didn’t request it, we don’t want it, and you have to give us reparations.
+      I mean, that’s extraordinary, because to demand reparations is to demand a guilty
+      plea. Mr. Trump cannot give them reparations without it appearing to the American
+      public that he was in the wrong. And he now has to, that’s what reparations has
+      meant. You know, reparations were imposed on Germany after World Wars I and II.
+      And it was directly linked to the notion, you are culpable, you are guilty, you
+      started the war, even though that’s not very accurate historically, but it’s close
+      enough, and the winner gets to decide who the loser is and what the loser has
+      to pay. And that is a well-developed understanding in the world to demand reparations
+      is maybe just a negotiating ploy, but it does see that the Iranians do believe,
+      as your clip showed, that they have the upper hand in terms of leverage now, and
+      they can afford to do that. Michael Hudson: I don’t think reparations are a negotiating
+      ploy. I think it’s quite likely. I want to just look at the comparison of what’s
+      going to be the aftermath of this war compared to World Wars I and II. Both those
+      wars lasted about four years, and it’s quite likely that the fight is going to
+      be so intensive, including the aftermath and the cleanup, that it’s going to take
+      four years. After World War I and II, the United States solidified and consolidated
+      its financial power. First of all, because of the inter-allied debts that Europe
+      agreed to pay out of German reparations after World War I. And secondly, after
+      World War II, Europe was devastated and the United States was able to offer not
+      only money because of all of the flight capital that had come to the United States
+      during the Great Depression and to flee Europe as fascism began to take over there,
+      but the United States was representing what seemed to be international principles
+      of free trade and free investment. Well, the aftermath of this war is not going
+      to be favorable to the United States because the United States, instead of saving
+      the world from the Kaiser in World War I and Nazism, Germany in both cases in
+      World War II, in this case, the United States was the aggressor. The United States
+      is playing today the role that Germany played in World War I and World War II.
+      So the rest of the world’s position is: how can we ever prevent this from happening
+      again? Well, after World War I, they created the League of Nations that the United
+      States refused to join because it said we won’t join any organization in which
+      we do not have veto power. After World War II, the United Nations, which the United
+      States said, we will not join it unless we have veto power. No other country can
+      tell us what to do. And they cannot tell us to obey international law because
+      we make the law. That is, we are the hegemon for the world. Well, the United States
+      has used that power now to go to war. The Iranians have already said we need a
+      number of things. We want a Nuremberg-type commission for war crimes. We want
+      Netanyahu to be indeed sent to the International Criminal Court. But the Criminal
+      Court, the United States isn’t a member and it’s already been able to basically
+      browbeat the court judges. There has to be a new international order that’s created
+      to deal with the aftermath of this World War III. That’s what happens after a
+      world war. You’re going to need a new kind of international court. And it’s obvious
+      that the United Nations has failed. All of this buildup of the genocide from the
+      Ukraine to Israel has not been able to be stopped. And the United Nations took
+      a vote recently to accuse Iran of attacking and being guilty of attacking Israel
+      for defending itself against Israel’s attack and assassinations on it for years.
+      So the United Nations is dead. And the other countries are going to have to create
+      a whole new set of institutions, like the United States created the Bretton Woods
+      institutions, the International Monetary Fund, and the World Bank after World
+      War II. The countries that emerged from the war in a state of their own economic
+      depression, saying we never want to subject ourselves to the United States policy
+      of using the only thing that it has to offer, the offer not to destroy our economies,
+      not to kill our leaders, not to overthrow our governments with regime change.
+      The only defense we have is to isolate ourselves from the United States, which
+      means isolating the United States itself. Now, once you’ve isolated the United
+      States and Iran and other countries that are attacked by the United States can
+      make their claim for reparations, these will be paid much in the way that German
+      reparations were paid after World War I. You seize German holdings throughout
+      the rest of the world, just like America has grabbed Russia’s 300 billion of foreign
+      exchange in Belgium, just as England, at America’s direction, confiscated Venezuela’s
+      gold because the United States said Venezuela did not elect the candidate that
+      we wanted to be elected. Just as America confiscated Iran’s holdings after the
+      Shah was overthrown, other countries now can turn the tables. America will be
+      stripped of its foreign holdings. And America in turn will say, well, then we’re
+      not going to pay our foreign debts. Other countries will have to accept the loss
+      of that, but the loss of that will be essentially to make a break from the American
+      investments in their countries and from the whole world order, the tax system,
+      the debt system, the trade system that America has weaponized in its favor. All
+      of that is going to be gone. That is what’s going to make the aftermath of World
+      War III so important. And any, as I said, any world war has an aftermath of a
+      new international, economic, and commercial and monetary system. And that’s, I
+      think, what is already being envisioned by Iran, whose foresight was able to see
+      where all of this was leading and that has been taking all of the investment over
+      the decades to protect itself militarily. And then to get back to the point that
+      Richard made at the start about the missiles, saying the happy talk of the White
+      House and Trump’s spokesman saying ‘look, Iran is now sending fewer missiles than
+      it’s sending before. I guess it’s running out of them.’. Well, of course, Iran
+      is sending fewer missiles because most of these missiles were decoys to force
+      the Israelis and the American military to use up all of their anti-missile defenses.
+      There are no more Golden Dome in Israel. There’s no more American THAAD missiles
+      or the other missiles to defend. Iran doesn’t have to use the missiles that it
+      was using before. And these were old generation missiles. Now Iran has the sophisticated
+      missiles that it has not shown yet, the hypersonic Sidewinder missiles that can
+      avoid any kind of defense. Now Iran is finally going to move towards solving the
+      conflict on the battlefield. It cannot be solved diplomatically. Iran will solve
+      it on the battlefield. And Nima, every general and every military analyst that
+      you’ve had on your show explains how the military advantage is with Iran, not
+      the United States. And I haven’t heard any defense of the United States. But as
+      Richard says, the United States is desperate, or rather, Trump is desperate. Here
+      is the plan that he’s imposing that’s been worked on by the United States military
+      for 50 years. It’s the only plan they have. It’s all or nothing. And when you’re
+      desperate, very much like when you’re gambling at a casino and losing, you bet
+      it all because there’s really no alternative. That’s the corner in which the United
+      States has painted itself militarily, economically, and financially. And that’s
+      what all of this discussion should be about. Is the world going to prevent this
+      from ever happening again by isolating the ability of the United States and Israel
+      as the new versions of Germany and World War I and II as the aggressor nation?
+      Richard Wolff: I’m also struck by what seems to me the final collapse of NATO.
+      I mean, here the United States is undertaking a war very close to Europe. It’s
+      not Europe, but very close to Europe. In European conversations and discussions
+      of this war, one of the great anxieties expressed by the European countries is
+      that if this war goes on for a while, it will create what other wars in the Middle
+      East have created, which is millions upon millions of refugees, of migrants, people
+      leaving. And where are those people going to go? And the answer is: if they’re
+      going to go where their economic prospects are best, they’re not going to go to
+      the Gulf states. There are missiles coming down there. They’re going to go to
+      Europe. That’s where the jobs maybe are. It’s where the income maybe is. They’re
+      not naive. They’ve heard the stories. Plus, for years, Iranians in huge numbers
+      have created communities in all the European countries and in the United States
+      and Canada. I remember visiting with Iranian friends in Los Angeles who told me
+      that, you know, that’s perhaps the biggest community of Iranians anywhere in the
+      world outside of Iran itself. Okay, if Europe is worried that they’re going to
+      have millions of immigrants, and let’s remember, the only way the political leaders
+      of Europe now stay in power is by being anti-immigrant. That is, they have that
+      almost all in common, some more, some less. They can’t handle politically or any
+      other way. For the United States to have risked attacking on Iran, provoking the
+      war that could lead to a massive migration into Europe means that there’s a special
+      bitterness among these leaders in Europe that the United States has put them at
+      political risk. You know, this is on top of the risk of energy prices that force
+      a deindustrialization, that their crazy behavior towards Russia creates an immense
+      enemy on the edge, etc. No wonder the defense minister Pistorius in Germany said,
+      We’re not participating in this war. We will not participate in this war. Nobody
+      consulted us about this war. Okay, but then how are European leaders and their
+      people supposed to take seriously NATO? This is a problem for NATO that NATO was
+      not allowed to even discuss, let alone. You can’t do that. You can’t do that.
+      What that does is make your NATO into what the Chinese would call a paper tiger.
+      Looks like something, but it’s all paper. There’s no substance there. And I think
+      this is extremely bad. You know, the center-right politicians of Europe, most
+      of them, still try to hang on to being subservient to the United States. And the
+      United States keeps kicking them. You know, if you’re the NATO partner, then how
+      is it possible for the president to hit you with a tariff without even the formality
+      of a conversation? Here, we’re going to hit you with a tariff, or here, we’ll
+      lower the tariff, but you’ve got to give us a lot of money in this way. What?
+      And now, this, we are now going to go to war in Iran. That’s going to mess up
+      your energy situation seriously because you need the Strait of Hormuz to get the
+      Middle Eastern oil to you. And we’re going to threaten you with a horde of immigrants.
+      This is incredible that you’re doing it, but that you’re doing it one-sidedly.
+      Now you see the hostility. It’s not just lack of respect. There’s a lot of hostility
+      to Europe. They don’t mind seeing Europe collapse. Their sense of their invincibility
+      is extraordinary. And it does remind me of delusion in the ranks of Mr. Hitler
+      and the German army as what you could invade Russia and you could invade Poland
+      and you could. No, you couldn’t. You couldn’t. You couldn’t do it. And in the
+      end, that’s what defeated you. Michael Hudson: Richard, you mentioned the possibility
+      of flight of population from the Middle East into Europe and other countries.
+      And that made me think of something. What about the Israeli migration? It looks
+      like the Israeli economy is going to be pretty much destroyed. And a lot of the
+      population may be destroyed. It looks like Iran is going to pretty much end due
+      to Israel, what Israel wanted to do to Iran. Where are all they going to go? What
+      country is going to take them? This will be like when the German Nazis were moved
+      to the United States or under U.S. protection in Argentina and Latin America to
+      become part of Operation Paperclip when America absorbed the Nazis and used them
+      as fighting against communists. What will the reaction of European and American
+      populations be to Israeli immigrants compared to Arab and other immigrants that
+      are affected by the U.S. wars? What do you think? Richard Wolff: Well, I don’t
+      know. I haven’t asked myself the question, but one of the first things that has
+      to be faced, if my understanding of Israeli history is correct, that in a sense,
+      the difficulties that Jewish people had in Europe is part of what created Zionism,
+      the notion that there can be a safe place where you wouldn’t be the victim of
+      wrongs and all those other anti-Jewish outbreaks that went on for centuries in
+      Europe. And then the British, who didn’t want the Jews to settle there in particular,
+      gave them a piece of their empire. I mean, that’s where the Palestine story starts.
+      The British, feeling that they controlled that area rather than the Palestinian
+      people who lived there, created this space and said, okay, you can go there. And
+      you had, you know, whatever, half the Jews of the world or whatever the percentage
+      was, found their way in the hopes that it would be safe. But it isn’t safe. And
+      they should have understood it from the beginning. If you’re the implant of a
+      colonial power, this is not the way to begin. And that’s why the early years of
+      Israel, very violent struggles with the Arab communities around them, and the
+      long history of enmity. And they think now that by using military force, they’re
+      going to solve that problem? I don’t think so. I don’t think that kind of problem
+      ever gets solved that way, unless you literally obliterate. And I’m afraid that
+      that may be the conclusion that the Israeli government has come to, that the only
+      way to survive for Israel is to do to the Palestinians, what we call the United
+      States did to the native people it found here. It killed them all, you know, except
+      for the small, tiny handful stuck in reservations, etc., at this point. But in
+      terms of the basic population, it was pretty thorough ethnic cleansing. And I
+      think the Israeli government has reached the conclusion, a little bit, you know,
+      like the Iranians. They don’t want another 50 years of continual vulnerability
+      to attack from the United States. They’ve spent 75 years in that situation, with
+      the exception of the Shah, whom they hated for other reasons. They don’t want
+      this anymore, which I understand. And they don’t want to have that risk. The Israelis
+      feel probably more or less the same, feel at risk, but have turned to the extreme
+      right to try to solve the problem by obliterating the Palestinian people. And
+      that’s a project they can’t accomplish. And so what you have is horrible, continual
+      stasis. By the way, there are recent stories from the West Bank are as horrible
+      in their way as the Gaza stories were before. So this process continues its evolution.
+      And Israel must be hoping that somehow this gives them at least a little more
+      time. And it may, but it will give them more time at the expense of even more
+      enmity and more loss. Nima Alkhorshid: Yeah. Michael? Michael Hudson: The foundation
+      myth is one of vengeance. It’s vengeance against the Europeans and especially
+      Russia, meaning Ukraine primarily, for the anti-Semitism. And instead, the result
+      of anti-Semitism that created Zionism, there were two results of this anti-Semitism.
+      In America, especially by the German Jews who came here, they wanted to escape
+      from ever being isolated and faced with anti-Semitism again by assimilating, just
+      as the Jews assimilated in Spain after the Catholic attacks of Ferdinand and Isabella
+      to drive them out. But the other response to anti-Semitism was to become a mirror
+      image. They hate us, we hate them. We are going to have vengeance against them.
+      They led for vengeance, and that was the philosophy of it’s us versus them. That’s
+      what led the Zionists to want to exterminate the Palestinians in Gaza. And as
+      you just pointed out correctly, they’re doing the same thing in the West Bank
+      now. Applauded by England, applauded by Germany, that have banned all criticism
+      of this genocide. Well, just imagine now, these countries are going to accept
+      a huge Israeli exodus to them, and the Israelis are going to use this same hatred
+      that they had against Russia when they became the neocon class in the United States.
+      They will become the equivalent of Trump’s MAGA group, merging with the nationalistic
+      right-wing groups in Europe to make it anti-Islam, anti-Russia, anti-Chinese,
+      anti-Asian. You’re going to have the same hatred, the feeling of treating others
+      as subhumans that you had the Americans treat the Native Americans with, the Israelis
+      treating the Palestinians with, the Ukrainians treating the Russian speakers with.
+      All of this is now going to characterize European politics and possibly American
+      politics too, if there’s a huge exodus here. Nima Alkhorshid: I think if you’re
+      interested to know about more about Zionism, you can. I have a very great guest
+      on this podcast, Yakov Rabkin. He’s an academic in Canada, who’s a Jewish academic.
+      He talks about, you know, extensively about what is Zionism? And he said something
+      so amazing about what is going on in Israel. He went there and he talked with
+      many people in Israel. He said that many of these people, religious people who
+      are living in today’s Israel,they’re connected to the land. They don’t care if
+      the country is Israel or Palestine. They want to be there and live there. And
+      they’re going to be part of any government that would overcome that region and
+      they’re going to live there for the rest of their lives. And this is the reality.
+      I think the land was used for many years for Muslims, Jews, Christians all together.
+      And it’s somehow complicated. Michael Hudson: Well, a lot of religions have as
+      their center, how do we overcome this feeling of vengeance? And you could say
+      that was one of the problems that ancient civilization dealt with. The law of
+      retaliation, the idea, well, that’s how monetary exchange came into being. Instead
+      of retaliating and having a feud,  if your family injures one of ours, we will
+      retaliate by killing or injuring one of yours. This is the law of Talion, and
+      that’s how they made their guilt. Well, we’ll settle it by means of payment. The
+      idea of ancient civilization: how do we escape from this cycle of vengeance? I
+      think Iran has largely escaped from that. The Iranians I’ve met over the decades,
+      I don’t see any sense of vengeance there. How do we avoid this law of vengeance?
+      Well, of course, they have to retaliate against their attack now. Of course, they
+      have to respond. But the question is: how do you lose your humanity by saying
+      it’s us versus them? Everybody not in our clan, everybody not in our religion,
+      everybody not in our race is an enemy and a sub-human. How do you avoid that fight
+      against civilization? That fight against civilization that is led by the United
+      States value system, Trump’s hatred of the immigrants, his hatred of the non-Americans,
+      as if they’re just as much subhumans as the Ukrainians accuse Russian speakers
+      of being, or as Israel accused the Palestinian being. It’s a mentality, and it’s
+      this mentality that has been that civilization for 5,000 years has tried to overcome
+      and prevent from just turning and making religion into a whole religion of vengeance
+      and war and the whole damage to the personality that you see occurring in all
+      of the youth in Israel, for instance, of the prison rapes, the rapes of women,
+      the focusing the American policy of let’s bomb the schools and the hospitals in
+      Iran, first of all, to demoralize the population. This is an attack on civilization,
+      and that’s really what’s at stake right now. Nima Alkhorshid: Yeah. Richard, adding
+      something before wrapping up? Richard Wolff: The only thing I would [add], here’s
+      a dimension that maybe is appropriate for our next conversation. I often think,
+      I’m not sure of this, but I often think that in the end, what will happen will
+      be that the internal costs to the United States economy will be so severe that
+      the people on the one hand, but the employer class, on the other, will want to
+      see Mr. Trump go. That he has become, you know, if you like, a burden or a luxury
+      you can no longer afford. And here’s what I mean. I’m not talking about the levels
+      of income and wealth inequality, although they are off the chart in the United
+      States and getting worse literally every week. And that eats at the way this country
+      works. But just a little arithmetic. He wants to raise a defense budget to $1.5
+      trillion, which he would have to do if he’s going to make good on his threats
+      to Cuba, his threats to Colombia, his threats to Venezuela, Greenland, Panama,
+      and Canada. And I’m sure I’ve left something out, but so he asked for an increase
+      of $600 billion. Now, for the war in Iran, he’s asked for $200 billion more. So
+      that’s eight. Six and two, that’s eight. The military budget this year is nine.
+      So he’s almost doubling it in one year. And we already spend more on defense than
+      the next eight countries combined. Last time I looked at that statistic. So is
+      there new revenue? Well, the answer is no. The big beautiful tax cut reduced revenue
+      to the government. And the tariffs, which brought some, have now been declared
+      unconstitutional, with the people who paid them demanding refunds, which I’m sure
+      they will get. So there’s no new revenue to speak of, and at least $800 billion
+      of new spending that he’s committed to and that the Republicans will give him.
+      All right, there’s no way on earth. Where is he going to get this money? He has
+      to borrow it. But with a AA rating, the interest rates that will be demanded,
+      will be higher than what we have now. In other words, the Federal Reserve, which
+      has begun this conversation, is not going to cut interest rates in the second
+      half of this year as they had originally planned to do. And remember, that’s why
+      Trump went after Powell to get rid of him, to get in Mr. Walsh now, who will do
+      this quickly. No, now the Board of Governors is saying we expect an inflation
+      from the pass-through of the energy prices, and therefore we’re going to raise
+      interest rates. Holy mackerel, there goes your stagflation. They were going to
+      slow down the economy while we have inflation, and the government is going to
+      be forced to borrow and pay these higher interest rates. It’s going to drive the
+      population crazy, but it’s also going to drive the employer crazy because this
+      level of disruption with a down cycle and with all the private credit that nobody
+      knows quite where it is and how secure it is, which means it’s not secure because
+      that’s why it was created to escape the regulations. I think you’re setting up
+      for some very serious domestic economic problems. Axios and some of these other
+      services are now talking off using the following phrase. Question: Is Mr. Trump
+      leading us over the edge of a fiscal cliff? Well, that’s their way, you know,
+      Keynesian economy, monetary fiscal policy. But they realize we are not looking
+      at it.  The Congress is full of exciting debates about Iran, but here’s a simple
+      way of understanding it: we can’t afford Iran, and that’s a problem. We can’t
+      afford this grandiose gesturing, we can’t do that. And if we try, the internal
+      economics of it are going to be, I think, extraordinarily disruptive. Michael
+      Hudson: Richard, for the whole, the whole purpose for the right-wing in the United
+      States is to create a fiscal cliff. That’s a godsend. It’s the same reaction here
+      is going to be what happened in Germany and in England. What are you going to
+      do to fund for all of this military spending? Cut back social spending. You’re
+      going to cut back the social programs to balance the budget. And this talk of
+      inflation is junk economics. A great depression is not inflation. It’s deflation.
+      When, as you’ve just correctly said, what’s going to happen is mass unemployment,
+      impoverishment, people losing their jobs. As we’ve been discussing, the fall in
+      industrial employment in America during the first year of Trump’s second term,
+      down almost 100,000 last year. We’re going to have large-scale unemployment here
+      in Europe. Just yesterday, Mercedes, the car company in Germany, said we’re getting
+      out of the car business and going into the arms business. That’s the future. You’re
+      going to have the whole economy moving away from producing goods that are used
+      by consumers, meaning wage earners, to be used by the government. There’s going
+      to be a drastic decline in living standards, an increase in polarization between
+      wealth at the top of the pyramids and the increasingly indebted population in
+      the United States, Britain, Germany, France, and the European countries of families
+      that cannot afford the higher heating costs, the higher gas costs to drive their
+      cars. They’re going to fall behind in their budgets and have to borrow even more
+      money from the credit card companies, the banks, and the debt crisis will be increased.
+      This is the dream of the upper 1%. This is the culmination of the class war. Richard
+      Wolff: Yeah, but you know, in the end, they need the mass of people. And if they
+      keep squeezing that mass of people, there will come a time when you will get the
+      push back. I think they’re afraid, they’re becoming afraid of that. I think they
+      watched here in New York City telling everybody, don’t be crazy and vote for a
+      Muslim socialist. And the mass of the people basically said, you know, go, we
+      don’t care about you. The rich people will all leave. No one cared. It wasn’t
+      true, but the point is, nobody cared. We’re beyond that kind of control. And I
+      think we’re at that point now that I don’t think you can push the Americans into
+      a depression now without getting the kind of reaction you had the last time you
+      pushed people into a depression in this country in the 1930s. You had the CIO
+      and the explosion of two socialists and one Communist Party that suddenly became
+      politically powerful in this society. And it’s not that people remember that,
+      they don’t.But I didn’t make that up. That is what happened. Michael Hudson: Well,
+      that’s why Trump and the Republicans are changing the election laws. So that it
+      won’t matter who the Americans vote for. And that’s why they have the Democratic
+      Party just as right-wing as the Republican Party and making sure that supporters
+      of Mamdani or Bernie and the other socialists don’t have any voice at all within
+      Congress, in either party. So you’re having, I guess, what used to be called fascism.
+      Nima Alkhorshid: Thank you. Thank you, Richard and Michael, for being with us
+      today. Michael Hudson: I hope they didn’t just get you banned from the YouTube.
+      Nima Alkhorshid: See you soon. Transcription and Diarization: https://scripthub.dev/
+      Editing: JC Review: ced Photo by Rafael Garcin on Unsplash The post Iran’s Resilience,
+      America’s Miscalculation first appeared on Michael Hudson . The post Iran’s Resilience,
+      America’s Miscalculation first appeared on Michael Hudson .'
+    one_sentence_summary: During a discussion on March 25, 2026, Nima Alkhorshid and
+      guests Richard Wolff and Michael Hudson highlighted the significant military successes
+      of the United States in its ongoing conflict with Iran, as reported by White House
+      press secretary Karoline Leavitt, who noted a dramatic reduction in Iranian attacks
+      and the destruction of a large portion of Iran's naval forces.
+    paragraph_summary: On March 25, 2026, Nima Alkhorshid hosted Richard Wolff and Michael
+      Hudson to discuss the ongoing conflict between the United States and Iran. White
+      House press secretary Karoline Leavitt reported that the U.S. military operation,
+      dubbed "Operation Epic Fury," has successfully targeted over 9,000 enemy positions,
+      resulting in a 90% reduction in Iranian missile and drone attacks and the destruction
+      of more than 140 naval vessels, marking a significant military achievement. However,
+      former MI6 chief Sir Alex Younger expressed a contrasting view, stating that despite
+      the U.S. military successes, Iran has proven to be more resilient than anticipated,
+      suggesting that the U.S. has lost the initiative in the conflict.
+    published: '2026-04-05T11:51:49+00:00'
+  - title: Iran’s Resilience, America’s Miscalculation
+    url: https://michael-hudson.com/2026/04/irans-resilience-americas-miscalculation/
+    text: 'Nima Alkhorshid: Hi, everybody. Today is Wednesday, March 25, 2026, and our
+      dear friends, Richard Wolf and Michael Hudson, are here with us. Welcome back,
+      Rich and Mike. Richard Wolff: Good to be here. Nima Alkhorshid: Let me start with
+      just updating what is happening right now on the battlefield between the United
+      States and Iran. Moments ago, we learned from the White House press secretary,
+      Karoline Leavitt. Hear what she said about the current state of the war against
+      Iran. [CLIP START] Karoline Leavitt (clip): Operation Epic Fury has been a resounding
+      military triumph. More than 9,000 enemy targets have been struck to date. Compared
+      to the start of the operation, Iran’s ballistic missile attacks and drone attacks
+      are down by roughly 90%. The United States is also annihilating the Iranian regime’s
+      navy. We have destroyed more than 140 of their naval vessels, including almost
+      50 mine layers. This is the largest elimination of a navy over a three-week period
+      since World War II. Again, let me reiterate: this is the largest elimination of
+      a navy on the face of the planet in a three-week period since World War II. [CLIP
+      END] Nima Alkhorshid: And let me bring what the former MI6 chief, Sir Alex Younger,
+      said to The Economist, his assessment of what’s going on between the United States
+      and Iran. [CLIP START— Alex Younger, The Economist interview] Host (clip): Who
+      has the upper hand right now? Alex Younger (clip): Iran. I regret having come
+      to this conclusion because, like many MI6 officers of my generation, we’ve faced
+      the violence and brutality of the IRGC for most of our careers. Host (clip): That’s
+      the Islamic Revolutionary Guards Corps. Alex Younger (clip): So there is no love
+      lost between us, and I shed no tears for Ali Khamenei, who was killed at the beginning
+      of this war. But the reality is the U.S. underestimated the task. And I think,
+      as of about two weeks ago, lost the initiative to Iran. In practice, the Iranian
+      regime has been more resilient than I think anyone would have expected. They took
+      some good decisions, actually, as early as last June, about dispersing their military
+      capability and delegating the authority for the use of those weapons, which has
+      given them significant extra resilience against this incredibly powerful air campaign.
+      They have embarked on what’s technically called “horizontal escalation”, i.e.,
+      firing rockets at anybody within range, which at the time, honestly Shashank,
+      I thought was nuts, but in fact, has been a very good way of putting a direct
+      price on the US.has sort of worked. And then they’ve understood the significance
+      of the energy war and held the straits at threat and globalized, and essentially
+      not internationalized, just globalized the conflict in a way that gives them some
+      weapons. So, you know, they’ve played a weak hand pretty well. My second point
+      is that Donald Trump has said some stuff that will have confirmed something they
+      knew already, which is that they’re in a civilizational war in their terms. They’re
+      in a war of existence. Donald Trump made it very clear that he wanted to see them
+      up against the wall, basically. Whereas America has embarked on a war of choice.
+      And in those terms, I think that’s imbued them with more staying power than the
+      US and, certainly, US counterparts. And they know that now. And I think that really
+      is giving them the whip hand. [CLIP END] Nima Alkhorshid: Yeah, you know that
+      Donald Trump was asking, they’re sending proposals through Turkey, Pakistan, but
+      so far, all these proposals were rejected by the Iranian side. And they have published
+      a symbolic video responding to Donald Trump. Here is that video. [CLIP START]
+      A video plays; the line “One revenge for all” appears. [CLIP END] Nima Alkhorshid:
+      It says one revenge for all. And here is somehow the summary of what’s going on.
+      I want to start, Richard, with you. What is your understanding of what Donald
+      Trump is trying to do? Richard Wolff: At this point, I would argue that Mr. Trump’s
+      major activity is trying to get out of the very deep hole he dug himself into.
+      It is beyond my comprehension, and I’m hoping that you, Nima, or you, Michael,
+      can help me here. How the United States government could undertake this, what
+      does he call it, excursion, how they could do that without going through the mental
+      procedure? What if they close the Strait of Hormuz? What if that interferes with
+      20% of the world’s oil transport? What if that drives up the price of oil again?
+      They didn’t do that? They didn’t prepare for that? They clearly have no answer.
+      For three weeks, basically now they have no passage through the Strait of Hormuz,
+      and there doesn’t seem to be anything they can do about it. I am mystified. I
+      do not understand, unless what we have here is really not so much a war of choice,
+      but a war whose purpose was to take the headlines away from the Epstein case,
+      and to take the headlines away from the fast-deteriorating economic situation
+      here at home, inflation, poor jobs, stagflation, all of that, and focus us on
+      an adventure which he imagined would be as headline-grabbing as three days of
+      following the abduction of Maduro in Venezuela. And maybe he thought he could
+      sort of have a nice version of that all over again, so that the arguments that
+      advisors must have given him didn’t make any difference. I am mystified. But to
+      be more direct and answer your question, I agree with you. The last line of that
+      video from Iran says it all. This is a war of choice by the statement of our leader.
+      It’s an existential threat to Iran, which everybody knows. The last 75 years have
+      been, with the exception of the time of the Shah, and the Shah was seen as an
+      imposition on Iran by the United States. But other than that, it’s been sabotage,
+      attacks. Iran doesn’t have to persuade anyone that it is at risk of destroying
+      itself if it does not come up with some way to stop the United States. So you
+      have an utterly unequal struggle here. The Americans, rich, militarily overdeveloped,
+      and what are they going to do in Iran if their existence is at stake? That very
+      difference is very dangerous. I want to remind people: the almighty British Empire
+      decided to militarily put down the revolt in North America. No one dreamed that
+      that would be a struggle, but there were resources that could be grabbed by the
+      colonists here that defeated the British Empire. We are watching something that
+      should remind people of that. So, yes, they disperse their missile launchers and
+      their drone airports all over the country. They have those wonderful mountains
+      and they have this vast territory easy to hide. They can do something which has
+      not been discussed except in a few military journals that I’m aware of that, It
+      turns out for a few hundred dollars, you can build something that, from the electronic
+      eye in the sky looks like a missile launcher, but isn’t one. It’s a decoy. And
+      you can then, if you’re the United States and you rely on electronics, you can
+      send a $10 million missile package to destroy a $500 decoy. And then you can have
+      Karoline Leavitt tell you, we have knocked out one of them. No, you haven’t. Nothing
+      of this sort. She’s so underdeveloped in her job, she can’t even anticipate what
+      I’m saying, which she ought to have. She ought to have said something to recognize
+      you’ve been knocking out lots of decoys. And in fact, obviously, the missiles
+      from Iran have been hitting their targets in Israel and in the Gulf states. So
+      it seems to me that you have here a situation in which you have David and Goliath,
+      and everybody is rooting for David. That’s why it is very, very smart to end that
+      video with not vengeance for Iran, vengeance for everyone. What it does is it
+      cashes in on a year and a half of Mr. Trump’s bullying, bullying with tariffs,
+      bullying with threats of trade war, this assertive, aggressive, ‘we’re not bound
+      by law, we’re not bound by international arrangements. It’s the law, you know,
+      Stephen Miller, it’s the law of the jungle that has always been’. This kind of
+      language frightens everybody coming from the United States, which has all this
+      nuclear and every other kind of weapon, saying we are fighting for all. That puts
+      Iran right at the front of the anti-imperialist, anti-colonialist project of the
+      last century and a half. That is a very powerful position to be cashing in on,
+      and it positions the United States as the desperate one holding on. Now, the alliance
+      with Israel does that too, but it reinforces all that. Last thing that’s on my
+      mind. And correct me if I’m wrong here, Nima. Iran has an immense border with
+      Russia, a land border. And Russia has an immense land border with China. In other
+      words, China can build missiles and drones unlike anybody else, because they have
+      an immense manufacturing foundation upon which there’s no limit, literally no
+      limit to what they can do. And they could ship that across the border, a border
+      no one else has any access to, just them and Russia. And then Russia, having gotten
+      the stuff from China, is in a position with its border to take care of Iran’s
+      needs for drones and for missiles forever. In other words, you have a fantastic,
+      ironic twist. What the United States and Europe did for Ukraine against Russia,
+      China and Russia can now do for Iran against the United States and Israel. It’s
+      almost exactly the same. And, of course, they will. And any doubt I had vanished
+      yesterday when I learned that the Foreign Minister of Russia, if I have this correct,
+      gave a press conference and said his words that we may be, if I understood him
+      correctly, at the beginning of World War III. Well, if your brain says to you
+      that you might be, then if you’re Chinese or Russian, you are not going to let
+      Iran be overrun by the United States, not at all. This is a big country, 90 million
+      people in Iran. This is a strong ally whose economy is already well integrated
+      with the Chinese in many ways and with the Russians in other ways. No, no, they’re
+      not going to walk away from this. It would be foolhardy. Especially if you think
+      you might be at the beginning of a global conflict. And correspondingly, for the
+      United States to be at the edge of a world war where Iran can plausibly and effectively
+      position itself as the David against the Goliath who is enacting a vengeance for
+      us all, this is a very powerful position. And I don’t get the slightest sense
+      that the people in charge in this country have half an inkling of what they are
+      doing and what they are up against. And the behavior so far in this war reinforces
+      the sense, the cluelessness of what is going on here, that it is so hard. I keep
+      thinking, that’s why I began the way I did. I want you to correct me. Am I missing
+      something here? Nima Alkhorshid: They don’t have a common border, Richard, but
+      they are connected through the Caspian Sea. Richard Wolff: Okay. Nima Alkhorshid:
+      And they can communicate through the Caspian Sea. Michael, join in. What’s your
+      take on that? Michael Hudson: Well, Richard has mentioned exactly the same points
+      that I want to emphasize. The United States knew very well that Hormuz was going
+      to be closed. It imagined that it could be the winner. Already in the 1970s, when
+      I was dealing with national security issues, people were discussing that the first
+      action of Iran in defending itself would be closing the Strait of Hormuz. So that
+      was always on the agenda. The United States believed that it would come out the
+      winner, perhaps even before there was the current attacks, that the Iranian government
+      would fall. That’s the American illusion that there’d be a regime change because
+      America would hurt the population. And the Iranian population, in the American
+      military manuals, said there’s not going to be any vengeance. The population will
+      be so demoralized by our hitting their hospitals, their schools, focusing on killing
+      their children, and that they will say, please overthrow the government and have
+      a government that’s more friendly to the United States so it won’t hurt us anymore.
+      Well, the video you showed, Nima, is not exactly what’s taught in the American
+      military manuals, but this has been the guiding strategy not only of the United
+      States, but Israel. And there’s even right now, there’s still a belief that America
+      is winning, as you showed in that wonderful clip from the White House. Trump’s
+      idea of a negotiation, what he calls is a demand for surrender. There’s no negotiation
+      because when there is a negotiation, America kills the negotiators. The only thing
+      you can do is have maybe a terminal, terminally ill patient in their 80s or 90s
+      do the negotiations who can afford to give up the life and be killed if they refuse
+      to surrender to Trump’s negotiation. But of course, there’s no negotiation because
+      Iran has already stated very clearly what its demands are. And yet, you’ve mentioned
+      the White House conference. I look at the stock market. Stock market’s been up
+      all day long. They believe that Trump indeed, his promise of negotiations and
+      surrender is going to work. The interest rates on U.S. debt are going down. The
+      dollar is strengthening. There is a cognitive dissonance to come to terms with
+      the fact that this is really not simply a war of choice, it’s a war of America’s
+      choice that is forcing other countries to realize that, yes, this is World War
+      III because it affects the entire world that uses energy and gas and fertilizer
+      and sulfur, and all of this. This is a war for how the international economy is
+      going to be restructured. Can the United States reimpose its unilateral weaponization
+      of world trade and international finance and diplomacy on other countries, or
+      will they become sovereign power? And all of these, the current war isn’t simply
+      a matter of Trump’s choice. It’s been a choice of the United States for more than
+      20 years. We’ve discussed before how Wesley Clark in 2003 said, yes, we’re going
+      to conquer all of the Near Eastern countries, culminating in Iran. And every year,
+      the United States military has a game plan, and it always ends up with, how do
+      we update our conquest of Iran, where all of this is going to end up? So this
+      is the U.S. point of view. But let’s look at, since Richard, quite rightly and
+      you mentioned Iran, Russia, and China, and all of the other countries that are
+      affected. The United States is confronting these countries by violating every
+      principle of international law and the laws of war that the United Nations established
+      in 1945. And this was the legal philosophy that Western civilization, if you can
+      forgive the oxymoron, has been talking about for four centuries, ever since the
+      Peace of Westphalia in [1648]. The United States principle is violating the sovereignty
+      of other countries by weaponizing oil finance against any countries by threatening
+      to create chaos if they pursue a sovereign policy that is at odds with U.S. diplomacy,
+      which is based, as we’ve been discussing for many months now, diplomacy based
+      on control of the world’s economy above all the international oil trade. And within
+      the oil trade, above all, control of the Middle East and the OPEC countries, because
+      the OPEC countries represent 40% of the international oil trade. So what’s happening
+      now is if there indeed is a fight this weekend, Friday night in Middle Eastern
+      time, Saturday morning in the United States, the military attack that Trump seems
+      to be organizing and which the United States has been organizing ever since 1979.
+      That’s a long time, ever since the Shah was overthrown. This is the final showdown.
+      And there will be one winner or another. There’s no middle ground. There is no
+      basis for compromise or negotiation. This is going to be it. And the result is
+      going to be: well, Iran is going to defend itself by striking back. As it said,
+      if you’re going to destroy our oil resources, we’ll make sure that there’s no
+      oil by the countries that have joined our attack, Saudi Arabia and the other Arab
+      emirates. I won’t call them monarchies, emirates or mafia states that are letting
+      the U.S. use its military basis, and who have used ever since 1974, who’ve used
+      all of their national savings of oil export revenues, all their national monetary
+      reserves, all of their royal money. All of this has been invested in the United
+      States bond market, the United States stock market, especially recently artificial
+      intelligence stocks and U.S. banks. All of this money that they’ve accumulated
+      is held hostage in the United States. For instance, Iraq just asked, the United
+      States demanded that the U.S. troops withdraw. The U.S. asked for negotiators
+      with Iran. The Iraqis negotiated. Iran let the U.S. troops withdraw from Iraq
+      without blowing them up. And then the United States bombed and killed the negotiators,
+      which it does as a matter of course. Rule number one, always kill the negotiator
+      if they don’t surrender. That’s happened again and again this year. So this is
+      what they’re basically confronted with. It’s a no-hold barred. And so the United
+      States is going to respond by doing to the oil exporting Arab countries what it
+      just did to Qatar’s gas industry, blow it up. This will plunge the entire world
+      into at least a five-year depression. It’ll take that long for the industries
+      to recover from the lack of gas, the lack of oil, the lack of fertilizer, the
+      lack of helium that’s used in not only in etching silicon computer chips and cryogenically,
+      but also in the MRI machines that hospitals use. All of this is a crisis that’s
+      going to lead to the closing of major industries throughout Western Europe, Asia,
+      and especially the hardest-hit countries will be America’s allies in Japan and
+      Korea, which are mostly dependent on OPEC oil and gas that will not be available
+      to them. And this is essentially going to force them to drive away and to question
+      themselves: is America really protecting us from the threats posed by China, Russia,
+      and Iran? Or is the United States the major threat? The U.S. attack this weekend
+      or next week or even a week after that is an attack, a deliberate collapse of
+      the world economy. And of course, the U.S. planners have gamed what is going to
+      happen when Hormuz is closed. And Trump has come right out and said it. You know,
+      America is going to survive much better than other countries from all of this.
+      Other countries need OPEC oil. We Americans don’t need OPEC oil. All we need is
+      all of the money from OPEC oil, all of the savings. And if we’ve already said
+      that if Iraq follows a pro-Iranian policy, we’ll simply grab all of its reserves
+      that are held in the Federal Reserve as a result of our conquest of Iran under
+      George W. Bush. Well, it can do the same thing for Saudi Arabia or these Arab
+      emirates that, Nima, you and I have discussed the possibility of Iran taking over
+      these emirates, which are antagonistic to Iranian interests. Well, all of their
+      foreign savings, the tens of billions or hundreds of billions of dollars that
+      they have invested in the U.S. bonded stock market will be confiscated. And all
+      of their trust for the last 50 years, their hopes of alliance and linkages with
+      the United States will have all been for nothing. It’s all lost. It’s all confiscated.
+      That’s what the rest of the world is confronted with. And that’s why, indeed,
+      this is on a scale that I think you can indeed call it World War III. Richard
+      Wolff: Let me remind people of some historical realities. World War I was a clash
+      of colonial powers. When the dust cleared, Europe was much weaker than it had
+      been when it went in and the Soviet Union was created. In World War II, you had
+      another clash of competing empire colonialists, and they destroyed what they hadn’t
+      destroyed in World War I, and China joined the Soviet Union. This doesn’t work
+      well, these world wars, for capitalism. It’s a very, very bad omen if that’s what
+      we’re entering into. And you know, when wars are left, when wars happen, what
+      you’re left with is the ruins. But being a ruined country like China with a 1.4
+      billion people allows for ways of coping that are not available to a much smaller
+      country like the United States. So you’re going in under very bad circumstances.
+      This would be an act of desperation trying to hold on to a bad situation and risking
+      something even greater. Why they would imagine if they send a few thousand American
+      troops, what are they going to do? If the Iranians have shown anything, they’ve
+      shown that they’ve decentralized a great many of their military and other functions.
+      They don’t need to have a central place in Tehran. The central power, which got
+      assassinated, seems to continue to function really well. You know, to send precision
+      missiles means your capability is not much hurt. And again, I don’t know anything,
+      but my guess is that the specialists from Russia and China have trained the Iranians
+      or are working with the Iranians and are bringing the most sophisticated imaginable
+      control to their drones and their missiles. And we’ve already seen that the Iron
+      Dome and Little David and all those other Israeli mechanisms have not prevented
+      the missiles from getting through. And the same is true of the American bases
+      in the Gulf states. So I don’t know the details. I don’t know if anybody does,
+      but it’s clear that the White House needs to portray all of this as a stunning
+      victory. So there’s no reason to expect anything else from them, but there’s also
+      no reason to believe it. It may be true, and then I will be working with false
+      assumptions. But my assumption here is that it’s likely that what’s coming out
+      of the White House is desperation, and what’s coming out of Iran is a much more
+      quiet, well-grounded determination that they think they can do this. I mean, it’s
+      no longer guessing. When they said, no, we’re not going to respond to your 15-point
+      proposal, we didn’t request it, we don’t want it, and you have to give us reparations.
+      I mean, that’s extraordinary, because to demand reparations is to demand a guilty
+      plea. Mr. Trump cannot give them reparations without it appearing to the American
+      public that he was in the wrong. And he now has to, that’s what reparations has
+      meant. You know, reparations were imposed on Germany after World Wars I and II.
+      And it was directly linked to the notion, you are culpable, you are guilty, you
+      started the war, even though that’s not very accurate historically, but it’s close
+      enough, and the winner gets to decide who the loser is and what the loser has
+      to pay. And that is a well-developed understanding in the world to demand reparations
+      is maybe just a negotiating ploy, but it does see that the Iranians do believe,
+      as your clip showed, that they have the upper hand in terms of leverage now, and
+      they can afford to do that. Michael Hudson: I don’t think reparations are a negotiating
+      ploy. I think it’s quite likely. I want to just look at the comparison of what’s
+      going to be the aftermath of this war compared to World Wars I and II. Both those
+      wars lasted about four years, and it’s quite likely that the fight is going to
+      be so intensive, including the aftermath and the cleanup, that it’s going to take
+      four years. After World War I and II, the United States solidified and consolidated
+      its financial power. First of all, because of the inter-allied debts that Europe
+      agreed to pay out of German reparations after World War I. And secondly, after
+      World War II, Europe was devastated and the United States was able to offer not
+      only money because of all of the flight capital that had come to the United States
+      during the Great Depression and to flee Europe as fascism began to take over there,
+      but the United States was representing what seemed to be international principles
+      of free trade and free investment. Well, the aftermath of this war is not going
+      to be favorable to the United States because the United States, instead of saving
+      the world from the Kaiser in World War I and Nazism, Germany in both cases in
+      World War II, in this case, the United States was the aggressor. The United States
+      is playing today the role that Germany played in World War I and World War II.
+      So the rest of the world’s position is: how can we ever prevent this from happening
+      again? Well, after World War I, they created the League of Nations that the United
+      States refused to join because it said we won’t join any organization in which
+      we do not have veto power. After World War II, the United Nations, which the United
+      States said, we will not join it unless we have veto power. No other country can
+      tell us what to do. And they cannot tell us to obey international law because
+      we make the law. That is, we are the hegemon for the world. Well, the United States
+      has used that power now to go to war. The Iranians have already said we need a
+      number of things. We want a Nuremberg-type commission for war crimes. We want
+      Netanyahu to be indeed sent to the International Criminal Court. But the Criminal
+      Court, the United States isn’t a member and it’s already been able to basically
+      browbeat the court judges. There has to be a new international order that’s created
+      to deal with the aftermath of this World War III. That’s what happens after a
+      world war. You’re going to need a new kind of international court. And it’s obvious
+      that the United Nations has failed. All of this buildup of the genocide from the
+      Ukraine to Israel has not been able to be stopped. And the United Nations took
+      a vote recently to accuse Iran of attacking and being guilty of attacking Israel
+      for defending itself against Israel’s attack and assassinations on it for years.
+      So the United Nations is dead. And the other countries are going to have to create
+      a whole new set of institutions, like the United States created the Bretton Woods
+      institutions, the International Monetary Fund, and the World Bank after World
+      War II. The countries that emerged from the war in a state of their own economic
+      depression, saying we never want to subject ourselves to the United States policy
+      of using the only thing that it has to offer, the offer not to destroy our economies,
+      not to kill our leaders, not to overthrow our governments with regime change.
+      The only defense we have is to isolate ourselves from the United States, which
+      means isolating the United States itself. Now, once you’ve isolated the United
+      States and Iran and other countries that are attacked by the United States can
+      make their claim for reparations, these will be paid much in the way that German
+      reparations were paid after World War I. You seize German holdings throughout
+      the rest of the world, just like America has grabbed Russia’s 300 billion of foreign
+      exchange in Belgium, just as England, at America’s direction, confiscated Venezuela’s
+      gold because the United States said Venezuela did not elect the candidate that
+      we wanted to be elected. Just as America confiscated Iran’s holdings after the
+      Shah was overthrown, other countries now can turn the tables. America will be
+      stripped of its foreign holdings. And America in turn will say, well, then we’re
+      not going to pay our foreign debts. Other countries will have to accept the loss
+      of that, but the loss of that will be essentially to make a break from the American
+      investments in their countries and from the whole world order, the tax system,
+      the debt system, the trade system that America has weaponized in its favor. All
+      of that is going to be gone. That is what’s going to make the aftermath of World
+      War III so important. And any, as I said, any world war has an aftermath of a
+      new international, economic, and commercial and monetary system. And that’s, I
+      think, what is already being envisioned by Iran, whose foresight was able to see
+      where all of this was leading and that has been taking all of the investment over
+      the decades to protect itself militarily. And then to get back to the point that
+      Richard made at the start about the missiles, saying the happy talk of the White
+      House and Trump’s spokesman saying ‘look, Iran is now sending fewer missiles than
+      it’s sending before. I guess it’s running out of them.’. Well, of course, Iran
+      is sending fewer missiles because most of these missiles were decoys to force
+      the Israelis and the American military to use up all of their anti-missile defenses.
+      There are no more Golden Dome in Israel. There’s no more American THAAD missiles
+      or the other missiles to defend. Iran doesn’t have to use the missiles that it
+      was using before. And these were old generation missiles. Now Iran has the sophisticated
+      missiles that it has not shown yet, the hypersonic Sidewinder missiles that can
+      avoid any kind of defense. Now Iran is finally going to move towards solving the
+      conflict on the battlefield. It cannot be solved diplomatically. Iran will solve
+      it on the battlefield. And Nima, every general and every military analyst that
+      you’ve had on your show explains how the military advantage is with Iran, not
+      the United States. And I haven’t heard any defense of the United States. But as
+      Richard says, the United States is desperate, or rather, Trump is desperate. Here
+      is the plan that he’s imposing that’s been worked on by the United States military
+      for 50 years. It’s the only plan they have. It’s all or nothing. And when you’re
+      desperate, very much like when you’re gambling at a casino and losing, you bet
+      it all because there’s really no alternative. That’s the corner in which the United
+      States has painted itself militarily, economically, and financially. And that’s
+      what all of this discussion should be about. Is the world going to prevent this
+      from ever happening again by isolating the ability of the United States and Israel
+      as the new versions of Germany and World War I and II as the aggressor nation?
+      Richard Wolff: I’m also struck by what seems to me the final collapse of NATO.
+      I mean, here the United States is undertaking a war very close to Europe. It’s
+      not Europe, but very close to Europe. In European conversations and discussions
+      of this war, one of the great anxieties expressed by the European countries is
+      that if this war goes on for a while, it will create what other wars in the Middle
+      East have created, which is millions upon millions of refugees, of migrants, people
+      leaving. And where are those people going to go? And the answer is: if they’re
+      going to go where their economic prospects are best, they’re not going to go to
+      the Gulf states. There are missiles coming down there. They’re going to go to
+      Europe. That’s where the jobs maybe are. It’s where the income maybe is. They’re
+      not naive. They’ve heard the stories. Plus, for years, Iranians in huge numbers
+      have created communities in all the European countries and in the United States
+      and Canada. I remember visiting with Iranian friends in Los Angeles who told me
+      that, you know, that’s perhaps the biggest community of Iranians anywhere in the
+      world outside of Iran itself. Okay, if Europe is worried that they’re going to
+      have millions of immigrants, and let’s remember, the only way the political leaders
+      of Europe now stay in power is by being anti-immigrant. That is, they have that
+      almost all in common, some more, some less. They can’t handle politically or any
+      other way. For the United States to have risked attacking on Iran, provoking the
+      war that could lead to a massive migration into Europe means that there’s a special
+      bitterness among these leaders in Europe that the United States has put them at
+      political risk. You know, this is on top of the risk of energy prices that force
+      a deindustrialization, that their crazy behavior towards Russia creates an immense
+      enemy on the edge, etc. No wonder the defense minister Pistorius in Germany said,
+      We’re not participating in this war. We will not participate in this war. Nobody
+      consulted us about this war. Okay, but then how are European leaders and their
+      people supposed to take seriously NATO? This is a problem for NATO that NATO was
+      not allowed to even discuss, let alone. You can’t do that. You can’t do that.
+      What that does is make your NATO into what the Chinese would call a paper tiger.
+      Looks like something, but it’s all paper. There’s no substance there. And I think
+      this is extremely bad. You know, the center-right politicians of Europe, most
+      of them, still try to hang on to being subservient to the United States. And the
+      United States keeps kicking them. You know, if you’re the NATO partner, then how
+      is it possible for the president to hit you with a tariff without even the formality
+      of a conversation? Here, we’re going to hit you with a tariff, or here, we’ll
+      lower the tariff, but you’ve got to give us a lot of money in this way. What?
+      And now, this, we are now going to go to war in Iran. That’s going to mess up
+      your energy situation seriously because you need the Strait of Hormuz to get the
+      Middle Eastern oil to you. And we’re going to threaten you with a horde of immigrants.
+      This is incredible that you’re doing it, but that you’re doing it one-sidedly.
+      Now you see the hostility. It’s not just lack of respect. There’s a lot of hostility
+      to Europe. They don’t mind seeing Europe collapse. Their sense of their invincibility
+      is extraordinary. And it does remind me of delusion in the ranks of Mr. Hitler
+      and the German army as what you could invade Russia and you could invade Poland
+      and you could. No, you couldn’t. You couldn’t. You couldn’t do it. And in the
+      end, that’s what defeated you. Michael Hudson: Richard, you mentioned the possibility
+      of flight of population from the Middle East into Europe and other countries.
+      And that made me think of something. What about the Israeli migration? It looks
+      like the Israeli economy is going to be pretty much destroyed. And a lot of the
+      population may be destroyed. It looks like Iran is going to pretty much end due
+      to Israel, what Israel wanted to do to Iran. Where are all they going to go? What
+      country is going to take them? This will be like when the German Nazis were moved
+      to the United States or under U.S. protection in Argentina and Latin America to
+      become part of Operation Paperclip when America absorbed the Nazis and used them
+      as fighting against communists. What will the reaction of European and American
+      populations be to Israeli immigrants compared to Arab and other immigrants that
+      are affected by the U.S. wars? What do you think? Richard Wolff: Well, I don’t
+      know. I haven’t asked myself the question, but one of the first things that has
+      to be faced, if my understanding of Israeli history is correct, that in a sense,
+      the difficulties that Jewish people had in Europe is part of what created Zionism,
+      the notion that there can be a safe place where you wouldn’t be the victim of
+      wrongs and all those other anti-Jewish outbreaks that went on for centuries in
+      Europe. And then the British, who didn’t want the Jews to settle there in particular,
+      gave them a piece of their empire. I mean, that’s where the Palestine story starts.
+      The British, feeling that they controlled that area rather than the Palestinian
+      people who lived there, created this space and said, okay, you can go there. And
+      you had, you know, whatever, half the Jews of the world or whatever the percentage
+      was, found their way in the hopes that it would be safe. But it isn’t safe. And
+      they should have understood it from the beginning. If you’re the implant of a
+      colonial power, this is not the way to begin. And that’s why the early years of
+      Israel, very violent struggles with the Arab communities around them, and the
+      long history of enmity. And they think now that by using military force, they’re
+      going to solve that problem? I don’t think so. I don’t think that kind of problem
+      ever gets solved that way, unless you literally obliterate. And I’m afraid that
+      that may be the conclusion that the Israeli government has come to, that the only
+      way to survive for Israel is to do to the Palestinians, what we call the United
+      States did to the native people it found here. It killed them all, you know, except
+      for the small, tiny handful stuck in reservations, etc., at this point. But in
+      terms of the basic population, it was pretty thorough ethnic cleansing. And I
+      think the Israeli government has reached the conclusion, a little bit, you know,
+      like the Iranians. They don’t want another 50 years of continual vulnerability
+      to attack from the United States. They’ve spent 75 years in that situation, with
+      the exception of the Shah, whom they hated for other reasons. They don’t want
+      this anymore, which I understand. And they don’t want to have that risk. The Israelis
+      feel probably more or less the same, feel at risk, but have turned to the extreme
+      right to try to solve the problem by obliterating the Palestinian people. And
+      that’s a project they can’t accomplish. And so what you have is horrible, continual
+      stasis. By the way, there are recent stories from the West Bank are as horrible
+      in their way as the Gaza stories were before. So this process continues its evolution.
+      And Israel must be hoping that somehow this gives them at least a little more
+      time. And it may, but it will give them more time at the expense of even more
+      enmity and more loss. Nima Alkhorshid: Yeah. Michael? Michael Hudson: The foundation
+      myth is one of vengeance. It’s vengeance against the Europeans and especially
+      Russia, meaning Ukraine primarily, for the anti-Semitism. And instead, the result
+      of anti-Semitism that created Zionism, there were two results of this anti-Semitism.
+      In America, especially by the German Jews who came here, they wanted to escape
+      from ever being isolated and faced with anti-Semitism again by assimilating, just
+      as the Jews assimilated in Spain after the Catholic attacks of Ferdinand and Isabella
+      to drive them out. But the other response to anti-Semitism was to become a mirror
+      image. They hate us, we hate them. We are going to have vengeance against them.
+      They led for vengeance, and that was the philosophy of it’s us versus them. That’s
+      what led the Zionists to want to exterminate the Palestinians in Gaza. And as
+      you just pointed out correctly, they’re doing the same thing in the West Bank
+      now. Applauded by England, applauded by Germany, that have banned all criticism
+      of this genocide. Well, just imagine now, these countries are going to accept
+      a huge Israeli exodus to them, and the Israelis are going to use this same hatred
+      that they had against Russia when they became the neocon class in the United States.
+      They will become the equivalent of Trump’s MAGA group, merging with the nationalistic
+      right-wing groups in Europe to make it anti-Islam, anti-Russia, anti-Chinese,
+      anti-Asian. You’re going to have the same hatred, the feeling of treating others
+      as subhumans that you had the Americans treat the Native Americans with, the Israelis
+      treating the Palestinians with, the Ukrainians treating the Russian speakers with.
+      All of this is now going to characterize European politics and possibly American
+      politics too, if there’s a huge exodus here. Nima Alkhorshid: I think if you’re
+      interested to know about more about Zionism, you can. I have a very great guest
+      on this podcast, Yakov Rabkin. He’s an academic in Canada, who’s a Jewish academic.
+      He talks about, you know, extensively about what is Zionism? And he said something
+      so amazing about what is going on in Israel. He went there and he talked with
+      many people in Israel. He said that many of these people, religious people who
+      are living in today’s Israel,they’re connected to the land. They don’t care if
+      the country is Israel or Palestine. They want to be there and live there. And
+      they’re going to be part of any government that would overcome that region and
+      they’re going to live there for the rest of their lives. And this is the reality.
+      I think the land was used for many years for Muslims, Jews, Christians all together.
+      And it’s somehow complicated. Michael Hudson: Well, a lot of religions have as
+      their center, how do we overcome this feeling of vengeance? And you could say
+      that was one of the problems that ancient civilization dealt with. The law of
+      retaliation, the idea, well, that’s how monetary exchange came into being. Instead
+      of retaliating and having a feud,  if your family injures one of ours, we will
+      retaliate by killing or injuring one of yours. This is the law of Talion, and
+      that’s how they made their guilt. Well, we’ll settle it by means of payment. The
+      idea of ancient civilization: how do we escape from this cycle of vengeance? I
+      think Iran has largely escaped from that. The Iranians I’ve met over the decades,
+      I don’t see any sense of vengeance there. How do we avoid this law of vengeance?
+      Well, of course, they have to retaliate against their attack now. Of course, they
+      have to respond. But the question is: how do you lose your humanity by saying
+      it’s us versus them? Everybody not in our clan, everybody not in our religion,
+      everybody not in our race is an enemy and a sub-human. How do you avoid that fight
+      against civilization? That fight against civilization that is led by the United
+      States value system, Trump’s hatred of the immigrants, his hatred of the non-Americans,
+      as if they’re just as much subhumans as the Ukrainians accuse Russian speakers
+      of being, or as Israel accused the Palestinian being. It’s a mentality, and it’s
+      this mentality that has been that civilization for 5,000 years has tried to overcome
+      and prevent from just turning and making religion into a whole religion of vengeance
+      and war and the whole damage to the personality that you see occurring in all
+      of the youth in Israel, for instance, of the prison rapes, the rapes of women,
+      the focusing the American policy of let’s bomb the schools and the hospitals in
+      Iran, first of all, to demoralize the population. This is an attack on civilization,
+      and that’s really what’s at stake right now. Nima Alkhorshid: Yeah. Richard, adding
+      something before wrapping up? Richard Wolff: The only thing I would [add], here’s
+      a dimension that maybe is appropriate for our next conversation. I often think,
+      I’m not sure of this, but I often think that in the end, what will happen will
+      be that the internal costs to the United States economy will be so severe that
+      the people on the one hand, but the employer class, on the other, will want to
+      see Mr. Trump go. That he has become, you know, if you like, a burden or a luxury
+      you can no longer afford. And here’s what I mean. I’m not talking about the levels
+      of income and wealth inequality, although they are off the chart in the United
+      States and getting worse literally every week. And that eats at the way this country
+      works. But just a little arithmetic. He wants to raise a defense budget to $1.5
+      trillion, which he would have to do if he’s going to make good on his threats
+      to Cuba, his threats to Colombia, his threats to Venezuela, Greenland, Panama,
+      and Canada. And I’m sure I’ve left something out, but so he asked for an increase
+      of $600 billion. Now, for the war in Iran, he’s asked for $200 billion more. So
+      that’s eight. Six and two, that’s eight. The military budget this year is nine.
+      So he’s almost doubling it in one year. And we already spend more on defense than
+      the next eight countries combined. Last time I looked at that statistic. So is
+      there new revenue? Well, the answer is no. The big beautiful tax cut reduced revenue
+      to the government. And the tariffs, which brought some, have now been declared
+      unconstitutional, with the people who paid them demanding refunds, which I’m sure
+      they will get. So there’s no new revenue to speak of, and at least $800 billion
+      of new spending that he’s committed to and that the Republicans will give him.
+      All right, there’s no way on earth. Where is he going to get this money? He has
+      to borrow it. But with a AA rating, the interest rates that will be demanded,
+      will be higher than what we have now. In other words, the Federal Reserve, which
+      has begun this conversation, is not going to cut interest rates in the second
+      half of this year as they had originally planned to do. And remember, that’s why
+      Trump went after Powell to get rid of him, to get in Mr. Walsh now, who will do
+      this quickly. No, now the Board of Governors is saying we expect an inflation
+      from the pass-through of the energy prices, and therefore we’re going to raise
+      interest rates. Holy mackerel, there goes your stagflation. They were going to
+      slow down the economy while we have inflation, and the government is going to
+      be forced to borrow and pay these higher interest rates. It’s going to drive the
+      population crazy, but it’s also going to drive the employer crazy because this
+      level of disruption with a down cycle and with all the private credit that nobody
+      knows quite where it is and how secure it is, which means it’s not secure because
+      that’s why it was created to escape the regulations. I think you’re setting up
+      for some very serious domestic economic problems. Axios and some of these other
+      services are now talking off using the following phrase. Question: Is Mr. Trump
+      leading us over the edge of a fiscal cliff? Well, that’s their way, you know,
+      Keynesian economy, monetary fiscal policy. But they realize we are not looking
+      at it.  The Congress is full of exciting debates about Iran, but here’s a simple
+      way of understanding it: we can’t afford Iran, and that’s a problem. We can’t
+      afford this grandiose gesturing, we can’t do that. And if we try, the internal
+      economics of it are going to be, I think, extraordinarily disruptive. Michael
+      Hudson: Richard, for the whole, the whole purpose for the right-wing in the United
+      States is to create a fiscal cliff. That’s a godsend. It’s the same reaction here
+      is going to be what happened in Germany and in England. What are you going to
+      do to fund for all of this military spending? Cut back social spending. You’re
+      going to cut back the social programs to balance the budget. And this talk of
+      inflation is junk economics. A great depression is not inflation. It’s deflation.
+      When, as you’ve just correctly said, what’s going to happen is mass unemployment,
+      impoverishment, people losing their jobs. As we’ve been discussing, the fall in
+      industrial employment in America during the first year of Trump’s second term,
+      down almost 100,000 last year. We’re going to have large-scale unemployment here
+      in Europe. Just yesterday, Mercedes, the car company in Germany, said we’re getting
+      out of the car business and going into the arms business. That’s the future. You’re
+      going to have the whole economy moving away from producing goods that are used
+      by consumers, meaning wage earners, to be used by the government. There’s going
+      to be a drastic decline in living standards, an increase in polarization between
+      wealth at the top of the pyramids and the increasingly indebted population in
+      the United States, Britain, Germany, France, and the European countries of families
+      that cannot afford the higher heating costs, the higher gas costs to drive their
+      cars. They’re going to fall behind in their budgets and have to borrow even more
+      money from the credit card companies, the banks, and the debt crisis will be increased.
+      This is the dream of the upper 1%. This is the culmination of the class war. Richard
+      Wolff: Yeah, but you know, in the end, they need the mass of people. And if they
+      keep squeezing that mass of people, there will come a time when you will get the
+      push back. I think they’re afraid, they’re becoming afraid of that. I think they
+      watched here in New York City telling everybody, don’t be crazy and vote for a
+      Muslim socialist. And the mass of the people basically said, you know, go, we
+      don’t care about you. The rich people will all leave. No one cared. It wasn’t
+      true, but the point is, nobody cared. We’re beyond that kind of control. And I
+      think we’re at that point now that I don’t think you can push the Americans into
+      a depression now without getting the kind of reaction you had the last time you
+      pushed people into a depression in this country in the 1930s. You had the CIO
+      and the explosion of two socialists and one Communist Party that suddenly became
+      politically powerful in this society. And it’s not that people remember that,
+      they don’t.But I didn’t make that up. That is what happened. Michael Hudson: Well,
+      that’s why Trump and the Republicans are changing the election laws. So that it
+      won’t matter who the Americans vote for. And that’s why they have the Democratic
+      Party just as right-wing as the Republican Party and making sure that supporters
+      of Mamdani or Bernie and the other socialists don’t have any voice at all within
+      Congress, in either party. So you’re having, I guess, what used to be called fascism.
+      Nima Alkhorshid: Thank you. Thank you, Richard and Michael, for being with us
+      today. Michael Hudson: I hope they didn’t just get you banned from the YouTube.
+      Nima Alkhorshid: See you soon. Transcription and Diarization: https://scripthub.dev/
+      Editing: JC Review: ced Photo by Rafael Garcin on Unsplash The post Iran’s Resilience,
+      America’s Miscalculation first appeared on Michael Hudson . The post Iran’s Resilience,
+      America’s Miscalculation first appeared on Michael Hudson .'
+    one_sentence_summary: During a discussion on March 25, 2026, Nima Alkhorshid and
+      guests Richard Wolff and Michael Hudson highlighted the significant military successes
+      of the United States in its ongoing conflict with Iran, as reported by White House
+      press secretary Karoline Leavitt, who noted a dramatic reduction in Iranian attacks
+      and the destruction of a large portion of Iran's naval forces.
+    paragraph_summary: On March 25, 2026, Nima Alkhorshid hosted Richard Wolff and Michael
+      Hudson to discuss the ongoing conflict between the United States and Iran. White
+      House press secretary Karoline Leavitt reported that the U.S. military operation,
+      dubbed "Operation Epic Fury," has successfully targeted over 9,000 enemy positions,
+      resulting in a 90% reduction in Iranian missile and drone attacks and the destruction
+      of more than 140 naval vessels, marking a significant military achievement. However,
+      former MI6 chief Sir Alex Younger expressed a contrasting view, stating that despite
+      the U.S. military successes, Iran has proven to be more resilient than anticipated,
+      suggesting that the U.S. has lost the initiative in the conflict.
+    published: '2026-04-05T11:51:49+00:00'
   - title: The Oil Shock That Could Break the Global Financial System
     url: https://michael-hudson.com/2026/03/the-oil-shock-that-could-break-the-global-financial-system/
     text: 'March 29, 2026 The war on Iran is transforming the global economy: Economist

@@ -7,14 +7,218 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The past weeks have seen a dramatic escalation in US-Iran tensions, culminating in the launch of Operation Epic Fury—a joint US-Israeli military campaign inside Iran. This operation began with the assassination of Supreme Leader Ayatollah Ali Khamenei and widespread bombings that, according to **Aaron Maté**, resulted in significant civilian casualties and prompted immediate Iranian retaliation, further destabilizing the region.
+  The geopolitical landscape remains dominated by the ongoing US-Israeli military campaign against Iran, with President Trump’s administration intensifying its operations and rhetoric. The conflict, which began with Operation Epic Fury and the assassination of Iran’s Supreme Leader, has escalated into a sustained campaign targeting Iranian civilian infrastructure. As **Aaron Maté** notes, President Trump’s recent national address outlined “an aggressive escalation of US-Israeli military actions against Iran,” with no clear exit strategy, signaling a commitment to long-term pressure rather than immediate regime change or diplomatic resolution.
   
-  In the aftermath, the Trump administration and Congressional allies have shifted their public justification for the campaign. As **Aaron Maté** reports, officials now claim that Israel’s own military intentions created an imminent threat to US forces, necessitating a preemptive strike. This narrative marks a departure from earlier rhetoric focused on Iranian provocations, and signals a deepening alignment between US and Israeli strategic objectives.
+  The justification for this escalation has shifted, with the Trump administration and Congressional allies now claiming that Israel’s security concerns created an imminent threat to US forces, necessitating preemptive action. This narrative, as reported by **Aaron Maté**, reflects a growing alignment between US and Israeli strategic objectives, with Washington increasingly framing its actions as compelled by Israeli interests.
   
-  Meanwhile, the broader context remains shaped by the largest US military buildup in the Middle East since the 2003 Iraq invasion. The US Navy’s presence near the Persian Gulf, as previously detailed, underscores Washington’s preparedness for sustained conflict, despite President Trump’s intermittent suggestions of possible diplomatic engagement.
+  Meanwhile, the humanitarian impact on Iran is severe. Despite campaign promises to reduce US military interventions, President Trump’s policies have compounded the hardships caused by sanctions, offering “far more pain” to ordinary Iranians, according to **Aaron Maté**. The lack of an exit plan and the targeting of civilian infrastructure suggest that the US-Israeli strategy aims to inflict long-term suffering, rather than seeking a swift military victory.
   
-  Looking ahead, the majority of analysts cited by **Maté** agree that the risk of regional escalation remains high. Iranian retaliatory actions are likely to continue, and the absence of meaningful diplomatic channels makes de-escalation unlikely in the short term. Given the current trajectory, I assess with high confidence that the US-Iran conflict will intensify before any prospects for negotiation emerge. The evolving US justification—now centered on Israeli security imperatives—suggests that Washington’s military posture in the region is set to persist, with little immediate relief for civilian populations caught in the crossfire.
+  Looking ahead, the majority of analysts agree that this trajectory is likely to continue. There is a high chance of further escalation and regional instability, with no immediate prospects for de-escalation or diplomatic breakthrough. Given the current posture and rhetoric, I guarantee that the US and Israel will maintain, if not intensify, their pressure on Iran in the coming weeks, with significant humanitarian and geopolitical consequences.
 articles:
+  - title: With no exit plan, Trump’s war for US-Israeli dominance seeks long-term Iranian
+      suffering
+    url: https://www.aaronmate.net/p/with-no-exit-plan-trumps-war-for
+    text: '(Photo by Alex Brandon-Pool/Getty Images) In a national address on the Iran
+      war Wednesday night, President Trump offered no exit plan beyond claiming that
+      US “military objectives”, which have changed as much as his conflicting rationales
+      for starting the conflict, will be achieved “very shortly.” The main objective,
+      he made clear, is to escalate joint US-Israeli bombings of Iran’s civilian infrastructure.
+      “Over the next two to three weeks,” Trump said, “we are going to bring them back
+      to the Stone Ages, where they belong.” True to his word -- and to Secretary of
+      War Pete Hegseth’s earlier promise of “death and destruction from the sky, all
+      day long,” – the US and Israel followed up with a new round of war crimes. The
+      latest US-Israeli strikes include an under-construction bridge linking Tehran
+      to the western city of Karaj, built to ease traffic for millions; residential
+      buildings; steel factories; pharmaceutical plants; universities; and the storied
+      Pasteur Institute, a century-old center for health research. After claiming two
+      days earlier that he had made “great progress” in talks with the Iranian leadership,
+      Trump made no mention of it, presumably because such progress, and the talks themselves,
+      are another presidential fiction. He instead reiterated that the bombing spree
+      is aimed at forcing Iran to fully reopen the Strait of Hormuz. Unless Iran relents,
+      he said, the US will destroy “each and every one of their electric generating
+      plants,” which will be hit “very hard.” Welcoming Trump’s threat, Sen. Lindsey
+      Graham summarized it as follows: “You either do a deal where you get out of the
+      business you’re in, or we’re going to blow your stuff up — the things that will
+      allow you to function as a nation. That is your choice.” By Iran’s impermissible
+      “business”, Graham means possessing the capacity to defend itself and supporting
+      regional allies like Hezbollah and Yemen’s Ansar Allah. This alliance, the Wall
+      Street Journal recently noted in a rare acknowledgment of the war’s actual aims,
+      “serve[s] as the main challenge to U.S. and Israeli dominance in the region.”
+      Destroying schools, pharmaceutical plants, factories, and other “things” that
+      allow Iran to function as a nation all serve the decades-old policy of making
+      civilians suffer if their governments challenge US-Israeli dominance. Unwilling
+      to surrender to the global hegemon and its nuclear-armed outpost in Tel Aviv,
+      Tehran has responded with the limited leverage it has. Defying Trump’s early claims
+      of military victory, Iran continues to strike US assets in the Gulf, fire missiles
+      at Israel, and selectively block the Strait of Hormuz, the transit point for one-fifth
+      of global oil supplies, to widen the economic pain of Trump’s aggression. Earlier
+      today, Iran downed a US fighter jet for the first time, a stark refutation of
+      Trump and Hegseth’s claims that Iranian air defenses are neutralized. Despite
+      talk of an invasion, the current US force posture does not appear sufficient for
+      a ground war. If Trump indeed has no military solution to reopen the Strait, then
+      it appears that he will settle for destroying as much of Iranian society as he
+      can before the political clock runs out on his war of choice. While Trump also
+      claimed that “regime change was not our goal,” the opposite is the case. As the
+      New York Times reports , the Israeli Mossad went into the war with plans “to galvanize
+      the Iranian opposition — igniting riots and other acts of rebellion that could
+      even lead to the collapse of Iran’s government.” Instead, hundreds of thousands
+      of Iranians have taken to the streets to defend their country’s sovereignty. As
+      Air Force Gen. Alexus Gregory Grynkewich, the head of the US European Command,
+      recently noted before Congress: “What I’ve observed over the course of studying
+      air power in history is that any time you attack a civilian population, you usually
+      end up finding that it just hardens their resolve.” Unfortunately for Iran’s civilian
+      population, a mirror dynamic is at work. When a foreign country resists their
+      aggression, the US and Israel are resolved to achieve state collapse for as long
+      as it takes. In Syria, a far smaller and weaker country than Iran, it took 13
+      years of CIA-backed insurgency; crippling sanctions; and a plundering US military
+      occupation to overthrow Bashar al-Assad’s government. In Iran, the US and Israel
+      are hoping to expedite the process with airstrikes that leave Iran’s economy and
+      institutions in ruins, laying the foundation for social unrest or even a civil
+      war that ultimately ends in regime change. While Iran’s infrastructure is pulverized,
+      working people in the US and around the world are left to absorb the growing costs
+      of Trump’s wrecking ball. On top of the deprivation from destroyed infrastructure
+      and higher food and energy costs worldwide, Trump is equally indifferent to his
+      own population. Hours before his Iran speech, Trump informed a White House luncheon
+      that it’s “not possible” for the US government to fund Medicare, Medicaid and
+      child care programs: “We can’t take care of day care. We’re a big country. We
+      have 50 states. We have all these other people. We’re fighting wars.” In fact,
+      he’s destroying another society that stands in the way of US-Israeli dominance,
+      just as in Iraq, Libya, Syria, Palestine, Yemen, and Lebanon. Two days before
+      Trump’s day care complaint, Secretary of State Marco Rubio offered a revealing
+      gripe of his own. “Imagine an Iran that, instead of spending their wealth, billions
+      of dollars, supporting terrorists or weapons, had spent that money helping the
+      people of Iran,” Rubio said. “You’d have a much different country.” Imagine if
+      Rubio could apply these professed standards to the administration he serves. Moreover,
+      imagine if Trump could merely live up to his own campaign rhetoric since 2015,
+      in which he repeatedly offered an identical critique of the United States. “We’ve
+      spent $4 trillion trying to topple various people,” he said on the 2016 campaign
+      trail, when we could have used that money “to fix our roads, our bridges, and
+      all of the other problems... Imagine if that money had been spent here at home.”
+      Now presiding over another war of aggression, Trump has just requested a record
+      $1.5 trillion military budget, a roughly 40% increase to be offset by $73 billion
+      in spending cuts on domestic programs. Trump is spending US wealth on immiserating
+      the people of Iran and millions more worldwide, all while shunning the needs of
+      his own citizens. Along with hurting generations of Iranians, he is ushering in
+      a much different, more dangerous world. Aaron Mate is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: In a national address, President Trump outlined an aggressive
+      escalation of US-Israeli military actions against Iran, aiming to severely damage
+      its civilian infrastructure without providing a clear exit strategy.
+    paragraph_summary: In a recent national address regarding the Iran war, President
+      Trump outlined a strategy focused on escalating military actions against Iran,
+      particularly through joint US-Israeli bombings aimed at crippling the country's
+      civilian infrastructure. He stated that the objective is to bring Iran "back to
+      the Stone Ages" within weeks, emphasizing the destruction of essential facilities
+      like electric generating plants and infrastructure such as bridges and universities.
+      Despite previously claiming progress in diplomatic talks with Iran, Trump did
+      not mention these discussions, instead reiterating a hardline stance that leaves
+      little room for negotiation. Senator Lindsey Graham supported this aggressive
+      approach, framing it as a choice for Iran to either cease its defensive capabilities
+      or face severe destruction. The article highlights the ongoing violence and the
+      implications of the US's military strategy in the region.
+    published: '2026-04-03T16:18:18+00:00'
+  - title: With no exit plan, Trump’s war for US-Israeli dominance seeks long-term Iranian
+      suffering
+    url: https://www.aaronmate.net/p/with-no-exit-plan-trumps-war-for
+    text: '(Photo by Alex Brandon-Pool/Getty Images) In a national address on the Iran
+      war Wednesday night, President Trump offered no exit plan beyond claiming that
+      US “military objectives”, which have changed as much as his conflicting rationales
+      for starting the conflict, will be achieved “very shortly.” The main objective,
+      he made clear, is to escalate joint US-Israeli bombings of Iran’s civilian infrastructure.
+      “Over the next two to three weeks,” Trump said, “we are going to bring them back
+      to the Stone Ages, where they belong.” True to his word -- and to Secretary of
+      War Pete Hegseth’s earlier promise of “death and destruction from the sky, all
+      day long,” – the US and Israel followed up with a new round of war crimes. The
+      latest US-Israeli strikes include an under-construction bridge linking Tehran
+      to the western city of Karaj, built to ease traffic for millions; residential
+      buildings; steel factories; pharmaceutical plants; universities; and the storied
+      Pasteur Institute, a century-old center for health research. After claiming two
+      days earlier that he had made “great progress” in talks with the Iranian leadership,
+      Trump made no mention of it, presumably because such progress, and the talks themselves,
+      are another presidential fiction. He instead reiterated that the bombing spree
+      is aimed at forcing Iran to fully reopen the Strait of Hormuz. Unless Iran relents,
+      he said, the US will destroy “each and every one of their electric generating
+      plants,” which will be hit “very hard.” Welcoming Trump’s threat, Sen. Lindsey
+      Graham summarized it as follows: “You either do a deal where you get out of the
+      business you’re in, or we’re going to blow your stuff up — the things that will
+      allow you to function as a nation. That is your choice.” By Iran’s impermissible
+      “business”, Graham means possessing the capacity to defend itself and supporting
+      regional allies like Hezbollah and Yemen’s Ansar Allah. This alliance, the Wall
+      Street Journal recently noted in a rare acknowledgment of the war’s actual aims,
+      “serve[s] as the main challenge to U.S. and Israeli dominance in the region.”
+      Destroying schools, pharmaceutical plants, factories, and other “things” that
+      allow Iran to function as a nation all serve the decades-old policy of making
+      civilians suffer if their governments challenge US-Israeli dominance. Unwilling
+      to surrender to the global hegemon and its nuclear-armed outpost in Tel Aviv,
+      Tehran has responded with the limited leverage it has. Defying Trump’s early claims
+      of military victory, Iran continues to strike US assets in the Gulf, fire missiles
+      at Israel, and selectively block the Strait of Hormuz, the transit point for one-fifth
+      of global oil supplies, to widen the economic pain of Trump’s aggression. Earlier
+      today, Iran downed a US fighter jet for the first time, a stark refutation of
+      Trump and Hegseth’s claims that Iranian air defenses are neutralized. Despite
+      talk of an invasion, the current US force posture does not appear sufficient for
+      a ground war. If Trump indeed has no military solution to reopen the Strait, then
+      it appears that he will settle for destroying as much of Iranian society as he
+      can before the political clock runs out on his war of choice. While Trump also
+      claimed that “regime change was not our goal,” the opposite is the case. As the
+      New York Times reports , the Israeli Mossad went into the war with plans “to galvanize
+      the Iranian opposition — igniting riots and other acts of rebellion that could
+      even lead to the collapse of Iran’s government.” Instead, hundreds of thousands
+      of Iranians have taken to the streets to defend their country’s sovereignty. As
+      Air Force Gen. Alexus Gregory Grynkewich, the head of the US European Command,
+      recently noted before Congress: “What I’ve observed over the course of studying
+      air power in history is that any time you attack a civilian population, you usually
+      end up finding that it just hardens their resolve.” Unfortunately for Iran’s civilian
+      population, a mirror dynamic is at work. When a foreign country resists their
+      aggression, the US and Israel are resolved to achieve state collapse for as long
+      as it takes. In Syria, a far smaller and weaker country than Iran, it took 13
+      years of CIA-backed insurgency; crippling sanctions; and a plundering US military
+      occupation to overthrow Bashar al-Assad’s government. In Iran, the US and Israel
+      are hoping to expedite the process with airstrikes that leave Iran’s economy and
+      institutions in ruins, laying the foundation for social unrest or even a civil
+      war that ultimately ends in regime change. While Iran’s infrastructure is pulverized,
+      working people in the US and around the world are left to absorb the growing costs
+      of Trump’s wrecking ball. On top of the deprivation from destroyed infrastructure
+      and higher food and energy costs worldwide, Trump is equally indifferent to his
+      own population. Hours before his Iran speech, Trump informed a White House luncheon
+      that it’s “not possible” for the US government to fund Medicare, Medicaid and
+      child care programs: “We can’t take care of day care. We’re a big country. We
+      have 50 states. We have all these other people. We’re fighting wars.” In fact,
+      he’s destroying another society that stands in the way of US-Israeli dominance,
+      just as in Iraq, Libya, Syria, Palestine, Yemen, and Lebanon. Two days before
+      Trump’s day care complaint, Secretary of State Marco Rubio offered a revealing
+      gripe of his own. “Imagine an Iran that, instead of spending their wealth, billions
+      of dollars, supporting terrorists or weapons, had spent that money helping the
+      people of Iran,” Rubio said. “You’d have a much different country.” Imagine if
+      Rubio could apply these professed standards to the administration he serves. Moreover,
+      imagine if Trump could merely live up to his own campaign rhetoric since 2015,
+      in which he repeatedly offered an identical critique of the United States. “We’ve
+      spent $4 trillion trying to topple various people,” he said on the 2016 campaign
+      trail, when we could have used that money “to fix our roads, our bridges, and
+      all of the other problems... Imagine if that money had been spent here at home.”
+      Now presiding over another war of aggression, Trump has just requested a record
+      $1.5 trillion military budget, a roughly 40% increase to be offset by $73 billion
+      in spending cuts on domestic programs. Trump is spending US wealth on immiserating
+      the people of Iran and millions more worldwide, all while shunning the needs of
+      his own citizens. Along with hurting generations of Iranians, he is ushering in
+      a much different, more dangerous world. Aaron Mate is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: In a national address, President Trump outlined an aggressive
+      escalation of US-Israeli military actions against Iran, aiming to severely damage
+      its civilian infrastructure without providing a clear exit strategy.
+    paragraph_summary: In a recent national address regarding the Iran war, President
+      Trump outlined a strategy focused on escalating military actions against Iran,
+      particularly through joint US-Israeli bombings aimed at crippling the country's
+      civilian infrastructure. He stated that the objective is to bring Iran "back to
+      the Stone Ages" within weeks, emphasizing the destruction of essential facilities
+      like electric generating plants and infrastructure such as bridges and universities.
+      Despite previously claiming progress in diplomatic talks with Iran, Trump did
+      not mention these discussions, instead reiterating a hardline stance that leaves
+      little room for negotiation. Senator Lindsey Graham supported this aggressive
+      approach, framing it as a choice for Iran to either cease its defensive capabilities
+      or face severe destruction. The article highlights the ongoing violence and the
+      implications of the US's military strategy in the region.
+    published: '2026-04-03T16:18:18+00:00'
   - title: 'MAGA’s new excuse for Iran war: Israel made us do it'
     url: https://www.aaronmate.net/p/magas-new-excuse-for-iran-war-israel
     text: '(Photo by Nathan Posner/Anadolu via Getty Images) In justifying the US-Israeli

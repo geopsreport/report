@@ -7,14 +7,1832 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Tensions between the United States and Iran remain elevated as Washington continues to bolster its military presence in the Middle East. In the latest development, a squadron of 12-18 A-10C Thunderbolt II attack aircraft has been deployed from various Air National Guard units to the region. According to **Larry C. Johnson**, this move is a clear signal of U.S. preparations for potential escalation, coinciding with President Trump’s announcement of a prime-time speech on Iran scheduled for Wednesday.
+  Tensions between Iran, the US, and Israel remain high as diplomatic and military maneuvers continue to shape the regional landscape. The latest statements from Iran’s Supreme National Security Council clarify Tehran’s position on a proposed two-week ceasefire: Iran has not agreed to a formal cessation of hostilities but is willing to halt retaliatory actions if Israel and the US suspend their attacks. Meanwhile, Iran maintains its leverage over the Strait of Hormuz, signaling its intent to control access and potentially reap significant financial gains from shipping fees.
   
-  This military buildup follows weeks of increased deployments, including thousands of U.S. troops and Marine units, raising concerns about the risk to American personnel and the possibility of direct conflict. While some analysts previously speculated that these deployments might serve as a strategic bluff, the arrival of additional air assets suggests a more serious posture.
+  **Larry C. Johnson** highlights that Iran’s stance is not a concession but a tactical pause, keeping pressure on adversaries while maximizing economic opportunities. The control of the Strait remains a critical bargaining chip, and Iran’s willingness to monetize this control could shift the economic calculus for global shipping and energy markets.
   
-  Meanwhile, the financial dimension of the crisis has come under scrutiny. **Larry C. Johnson** reports that media figure Pete Hegseth attempted to invest multimillions in a defense-focused ETF shortly before the recent U.S.-Israeli strike on Iran, highlighting the intersection of financial interests and public advocacy for military action. Although the investment did not proceed, it underscores broader concerns about profiteering amid rising tensions.
+  On the military front, recent revelations shed light on the US narrative surrounding the rescue of a downed F-15E crew. According to **Larry C. Johnson**, the Trump administration’s account of the Combat Search and Rescue (CSAR) mission was deliberately exaggerated. The CIA and Pentagon orchestrated a disinformation campaign to mislead Iranian authorities about the true crash site, underscoring the ongoing information warfare that accompanies kinetic operations.
   
-  Looking ahead, the majority view among analysts is that the situation remains volatile and unpredictable. The deployment of A-10s and the anticipation of Trump’s speech point to the likelihood of further escalation. As **Larry C. Johnson** notes, “Trump’s past behavior suggests he may change course unexpectedly,” but with the current trajectory, there is a high chance of additional military moves in the coming days. I guarantee that unless there is a dramatic diplomatic breakthrough, the risk of open conflict will remain elevated through at least next weekend.
+  Looking ahead, the situation remains volatile. Iran’s refusal to formally agree to a ceasefire, coupled with its economic maneuvers in the Strait of Hormuz, suggests that Tehran is playing a long game—balancing military deterrence with economic leverage. The US, for its part, continues to rely on both military pressure and information operations to shape perceptions and outcomes.
+  
+  **Prediction:** There is a high chance that the standoff will persist, with neither side willing to make significant concessions in the short term. I guarantee that Iran will continue to use the Strait of Hormuz as leverage, and most definitely, information warfare will remain a key component of US strategy. The risk of escalation remains, but both sides appear to be calibrating their actions to avoid a full-scale conflict for now.
 articles:
+  - title: Statement of Iran’s Supreme National Security Council on the Two-Week Ceasefire
+      and Negotiation Conditions
+    url: https://sonar21.com/statement-of-irans-supreme-national-security-council-on-the-two-week-ceasefire-and-negotiation-conditions/
+    text: 'If you think the war is over, think again. Iran has not agreed to a ceasefire.
+      They have agreed to stop retaliating as long as Israel and the US stop their attacks.
+      So that ball is in the West’s corner. Despite the White House claim that the Strait
+      of Hormuz is now open for business, it is not. Iran will continue to allow ships
+      on a case-by-case basis to enter and leave the Persian Gulf after paying a cover
+      charge. Iran will split this money with Oman. If Iran charges a million dollars
+      — payable in Chinese Yuan — they will earn an estimated $96 billion a year. That
+      will rebuild a school or two. Please carefully read the statement released by
+      Iran’s Supreme National Security Council. It is a detailed, official explanation
+      of Iran’s position: The enemy, in its unjust, illegal, and criminal war against
+      the Iranian nation, has suffered an undeniable, historic, and crushing defeat.
+      Thanks to the sacrifice of the martyred leader of the Islamic Revolution, Grand
+      Ayatollah Imam Khamenei, the leadership of the Supreme Leader and Commander-in-Chief,
+      Ayatollah Seyyed Mojtaba Khamenei, the courage of fighters on the frontlines,
+      and the historic and heroic presence of the Iranian people from the very beginning
+      of the war, Iran has achieved a great victory and forced the United States to
+      accept its 10-point plan. Under this plan, the United States has in principle
+      committed to guaranteeing non-aggression, recognizing Iran’s continued control
+      over the Strait of Hormuz, accepting uranium enrichment, lifting all primary and
+      secondary sanctions, ending all UN Security Council and IAEA resolutions, compensating
+      Iran for damages, withdrawing U.S. combat forces from the region, and halting
+      war across all fronts, including against the resistance in Lebanon. We congratulate
+      the Iranian people on this victory and emphasize that finalizing its details still
+      requires perseverance, prudent leadership, and unity. Over the past 40 days, Iran
+      and resistance forces in Lebanon, Iraq, Yemen, and the Palestinian territories
+      have dealt blows to the enemy that will never be forgotten. Iran and the resistance
+      axis, as representatives of honor and humanity against the most brutal enemies,
+      have delivered a historic lesson—crushing the enemy’s forces, infrastructure,
+      and political, economic, technological, and military assets to the point of collapse,
+      leaving them with no option but submission. At the start of the war, the enemy
+      believed it could quickly dominate Iran militarily and force surrender through
+      instability. They assumed Iran’s missile and drone capabilities would be neutralized
+      and did not expect such a powerful regional response. They believed this war would
+      end Iran, allowing them to act freely, divide the country, seize its resources,
+      and plunge it into long-term chaos. Despite the loss of their leader, Iran’s fighters
+      and their allies, relying on faith and inspired by Imam Hussein, resolved to deliver
+      a decisive lesson—avenging past actions and ensuring the enemy abandons any thought
+      of future aggression and is forced into humiliation before the Iranian nation.
+      With this strategy, and relying on unprecedented political and social unity, Iran
+      and the resistance launched one of the heaviest hybrid wars in history against
+      the United States and Israel, achieving all their planned objectives. Iran and
+      the resistance claim to have largely destroyed the U.S. military infrastructure
+      in the region, inflicted heavy losses, and delivered severe blows to enemy forces,
+      infrastructure, and assets both regionally and inside Israeli-controlled territory.
+      The pressure became so intense that none of the enemy’s primary objectives were
+      achieved, and within about ten days, it realized it could not win. It then began
+      seeking contact with Iran through various channels to request a ceasefire. Iranian
+      officials state that for over a month, the enemy has been requesting a halt to
+      hostilities, but these requests were rejected as the war was intended to continue
+      until key goals were met, including weakening the enemy and removing long-term
+      threats. Iran also rejected multiple ultimatums from the U.S., emphasizing it
+      does not recognize such deadlines. Authorities now claim that most war objectives
+      have been achieved and that the enemy has been pushed into a historic defeat.
+      Iran’s stated position is to continue the conflict as long as necessary to consolidate
+      these gains and establish new regional security and political realities based
+      on its power and influence. In this context, and following approval by the Supreme
+      Leader and the Supreme National Security Council, it was decided—given Iran’s
+      position on the battlefield and the enemy’s inability to enforce its threats—to
+      proceed with negotiations in Islamabad to finalize details within a maximum of
+      15 days. Iran rejected all opposing proposals and instead presented its own 10-point
+      plan via Pakistan. Key demands include: controlled passage through the Strait
+      of Hormuz under Iranian coordination; an end to military actions against allied
+      groups; withdrawal of U.S. forces from the region; establishment of a security
+      protocol in the Strait of Hormuz affirming Iran’s role; full compensation for
+      damages; removal of all sanctions and international resolutions; release of frozen
+      Iranian assets; and formal approval of these terms in a binding UN Security Council
+      resolution. According to Iranian officials, Pakistan has conveyed that the U.S.
+      has accepted these principles as a basis for negotiations despite its public posture.
+      Based on this, Iran agreed to a two-week negotiation period in Islamabad. It is
+      emphasized that this does not mean the war has ended, and Iran will only accept
+      a full end to the conflict once all terms of its proposal are finalized. It was
+      the US, not Iran, that has pleaded for the last four weeks to restart negotiations.
+      Unlike the previous two times, Iran harbors no illusions about the capacity of
+      the US to engage in treachery and trickery. Iran is not going to soften its demands.
+      The Zionists are going crazy over this and Netanyahu and his government are in
+      a state of panic. If JD Vance succeeds in securing a deal with Iran, it will likely
+      mean no more support for Israel’s war machine. If Israel launches any new attacks
+      on Iran in the coming two weeks, Iran will immediately retaliate. The wild card
+      in this is Hezbollah. If Israel continues to attack Lebanon and the Hezbollah
+      positions in the south of Lebanon, Hezbollah will continue to wreak havoc on the
+      Zionist forces. I did several interviews today. Here’s my chat with Nick of Canadian
+      Prepper: I got a last minute call from Mario, who did a three-plus hour stream
+      on YouTube and X :'
+    one_sentence_summary: Iran has not agreed to a ceasefire but will halt retaliation
+      if Israel and the US cease their attacks, while continuing to control access to
+      the Strait of Hormuz and potentially earning billions from shipping fees.
+    paragraph_summary: Iran has not agreed to a ceasefire in its ongoing conflict, but
+      has indicated it will halt retaliation if Israel and the U.S. cease their attacks,
+      placing the onus on the West. Despite claims from the U.S. that the Strait of
+      Hormuz is operational, Iran will selectively allow ships to pass for a fee, potentially
+      generating significant revenue. Iran's Supreme National Security Council has declared
+      a historic victory over the U.S., asserting that the U.S. has agreed to a 10-point
+      plan that includes non-aggression commitments, recognition of Iran's control over
+      the Strait, acceptance of uranium enrichment, and the lifting of sanctions. This
+      victory is attributed to the sacrifices of Iranian leaders and the resilience
+      of its people, although finalizing the agreement will require continued unity
+      and leadership.
+    published: '2026-04-08T03:51:09+00:00'
+  - title: Statement of Iran’s Supreme National Security Council on the Two-Week Ceasefire
+      and Negotiation Conditions
+    url: https://sonar21.com/statement-of-irans-supreme-national-security-council-on-the-two-week-ceasefire-and-negotiation-conditions/
+    text: 'If you think the war is over, think again. Iran has not agreed to a ceasefire.
+      They have agreed to stop retaliating as long as Israel and the US stop their attacks.
+      So that ball is in the West’s corner. Despite the White House claim that the Strait
+      of Hormuz is now open for business, it is not. Iran will continue to allow ships
+      on a case-by-case basis to enter and leave the Persian Gulf after paying a cover
+      charge. Iran will split this money with Oman. If Iran charges a million dollars
+      — payable in Chinese Yuan — they will earn an estimated $96 billion a year. That
+      will rebuild a school or two. Please carefully read the statement released by
+      Iran’s Supreme National Security Council. It is a detailed, official explanation
+      of Iran’s position: The enemy, in its unjust, illegal, and criminal war against
+      the Iranian nation, has suffered an undeniable, historic, and crushing defeat.
+      Thanks to the sacrifice of the martyred leader of the Islamic Revolution, Grand
+      Ayatollah Imam Khamenei, the leadership of the Supreme Leader and Commander-in-Chief,
+      Ayatollah Seyyed Mojtaba Khamenei, the courage of fighters on the frontlines,
+      and the historic and heroic presence of the Iranian people from the very beginning
+      of the war, Iran has achieved a great victory and forced the United States to
+      accept its 10-point plan. Under this plan, the United States has in principle
+      committed to guaranteeing non-aggression, recognizing Iran’s continued control
+      over the Strait of Hormuz, accepting uranium enrichment, lifting all primary and
+      secondary sanctions, ending all UN Security Council and IAEA resolutions, compensating
+      Iran for damages, withdrawing U.S. combat forces from the region, and halting
+      war across all fronts, including against the resistance in Lebanon. We congratulate
+      the Iranian people on this victory and emphasize that finalizing its details still
+      requires perseverance, prudent leadership, and unity. Over the past 40 days, Iran
+      and resistance forces in Lebanon, Iraq, Yemen, and the Palestinian territories
+      have dealt blows to the enemy that will never be forgotten. Iran and the resistance
+      axis, as representatives of honor and humanity against the most brutal enemies,
+      have delivered a historic lesson—crushing the enemy’s forces, infrastructure,
+      and political, economic, technological, and military assets to the point of collapse,
+      leaving them with no option but submission. At the start of the war, the enemy
+      believed it could quickly dominate Iran militarily and force surrender through
+      instability. They assumed Iran’s missile and drone capabilities would be neutralized
+      and did not expect such a powerful regional response. They believed this war would
+      end Iran, allowing them to act freely, divide the country, seize its resources,
+      and plunge it into long-term chaos. Despite the loss of their leader, Iran’s fighters
+      and their allies, relying on faith and inspired by Imam Hussein, resolved to deliver
+      a decisive lesson—avenging past actions and ensuring the enemy abandons any thought
+      of future aggression and is forced into humiliation before the Iranian nation.
+      With this strategy, and relying on unprecedented political and social unity, Iran
+      and the resistance launched one of the heaviest hybrid wars in history against
+      the United States and Israel, achieving all their planned objectives. Iran and
+      the resistance claim to have largely destroyed the U.S. military infrastructure
+      in the region, inflicted heavy losses, and delivered severe blows to enemy forces,
+      infrastructure, and assets both regionally and inside Israeli-controlled territory.
+      The pressure became so intense that none of the enemy’s primary objectives were
+      achieved, and within about ten days, it realized it could not win. It then began
+      seeking contact with Iran through various channels to request a ceasefire. Iranian
+      officials state that for over a month, the enemy has been requesting a halt to
+      hostilities, but these requests were rejected as the war was intended to continue
+      until key goals were met, including weakening the enemy and removing long-term
+      threats. Iran also rejected multiple ultimatums from the U.S., emphasizing it
+      does not recognize such deadlines. Authorities now claim that most war objectives
+      have been achieved and that the enemy has been pushed into a historic defeat.
+      Iran’s stated position is to continue the conflict as long as necessary to consolidate
+      these gains and establish new regional security and political realities based
+      on its power and influence. In this context, and following approval by the Supreme
+      Leader and the Supreme National Security Council, it was decided—given Iran’s
+      position on the battlefield and the enemy’s inability to enforce its threats—to
+      proceed with negotiations in Islamabad to finalize details within a maximum of
+      15 days. Iran rejected all opposing proposals and instead presented its own 10-point
+      plan via Pakistan. Key demands include: controlled passage through the Strait
+      of Hormuz under Iranian coordination; an end to military actions against allied
+      groups; withdrawal of U.S. forces from the region; establishment of a security
+      protocol in the Strait of Hormuz affirming Iran’s role; full compensation for
+      damages; removal of all sanctions and international resolutions; release of frozen
+      Iranian assets; and formal approval of these terms in a binding UN Security Council
+      resolution. According to Iranian officials, Pakistan has conveyed that the U.S.
+      has accepted these principles as a basis for negotiations despite its public posture.
+      Based on this, Iran agreed to a two-week negotiation period in Islamabad. It is
+      emphasized that this does not mean the war has ended, and Iran will only accept
+      a full end to the conflict once all terms of its proposal are finalized. It was
+      the US, not Iran, that has pleaded for the last four weeks to restart negotiations.
+      Unlike the previous two times, Iran harbors no illusions about the capacity of
+      the US to engage in treachery and trickery. Iran is not going to soften its demands.
+      The Zionists are going crazy over this and Netanyahu and his government are in
+      a state of panic. If JD Vance succeeds in securing a deal with Iran, it will likely
+      mean no more support for Israel’s war machine. If Israel launches any new attacks
+      on Iran in the coming two weeks, Iran will immediately retaliate. The wild card
+      in this is Hezbollah. If Israel continues to attack Lebanon and the Hezbollah
+      positions in the south of Lebanon, Hezbollah will continue to wreak havoc on the
+      Zionist forces. I did several interviews today. Here’s my chat with Nick of Canadian
+      Prepper: I got a last minute call from Mario, who did a three-plus hour stream
+      on YouTube and X :'
+    one_sentence_summary: Iran has not agreed to a ceasefire but will halt retaliation
+      if Israel and the US cease their attacks, while continuing to control access to
+      the Strait of Hormuz and potentially earning billions from shipping fees.
+    paragraph_summary: Iran has not agreed to a ceasefire in its ongoing conflict, but
+      has indicated it will halt retaliation if Israel and the U.S. cease their attacks,
+      placing the onus on the West. Despite claims from the U.S. that the Strait of
+      Hormuz is operational, Iran will selectively allow ships to pass for a fee, potentially
+      generating significant revenue. Iran's Supreme National Security Council has declared
+      a historic victory over the U.S., asserting that the U.S. has agreed to a 10-point
+      plan that includes non-aggression commitments, recognition of Iran's control over
+      the Strait, acceptance of uranium enrichment, and the lifting of sanctions. This
+      victory is attributed to the sacrifices of Iranian leaders and the resilience
+      of its people, although finalizing the agreement will require continued unity
+      and leadership.
+    published: '2026-04-08T03:51:09+00:00'
+  - title: More Clarity on CSAR Mission to Rescue the WSO… Re-Examining Assumptions
+    url: https://sonar21.com/more-clarity-on-csar-mission-to-rescue-the-wso-re-examining-assumptions/
+    text: 'There is more information emerging about the rescue of the second crew member
+      from the downed F-15E. The story the Trump administration is telling is, in my
+      opinion, an exaggeration. It is now clear that once the plane crashed, the CIA
+      and the Pentagon launched a massive disinformation campaign to convince the Iranians
+      that the plane and missing crew man were in a different location. They did a good
+      job of misleading the Iranian authorities. The fabricated story was that the F-15E
+      was shot down in ‘southwestern Iran’ with geolocations showing roughly 30.787710,
+      50.701440, which is about ~80km from the Iranian coastline: That was all a smokescreen.
+      The plane actually crashed in an area just south of Isfahan at 32°22’52.5”N 51°40’19.6”
+      . It is now clear that the CIA and DOW were putting out information that the jet
+      had crashed near Khuzestan, which is near the north end of the Persian Gulf… About
+      120 miles from the actual crash site (see map below), in order to keep the Iranians
+      from going to the actual crash site: Based on the map at the top of this article,
+      the WSO Colonel landed near highway 65 and then hobbled less than 1 mile up the
+      mountain slope to the west and hid himself in a mountain crevice. The initial
+      report that he walked/hobbled five miles and then clambered 2000 feet up a mountain
+      to a hiding place is a fish tale. It will play well in the movie, when it is made.
+      Take a look at the following map. The WSO landed somewhere just south of Mahyar
+      and then moved almost two kilometers to the east to await rescue. The FARP, aka
+      Forward Arming and Refueling Position, was located about three kilometers to the
+      east of the WSO’s hideout. That means the CSAR landed near the Shah Ali Shrine.
+      So how many military personnel were involved in this rescue? There are three crew
+      members on each C-130J. Both planes were loaded with two AH-6 “Little Birds.”
+      I continue to believe that the C-130Js had been pre-loaded in prep for a JSOC
+      mission to raid the nuclear sites in Isfahan or Natanz, which is north of Isfahan.
+      However, I doubt that the rescue mission would have required pilots for all four
+      birds. Instead, I believe that there were only two sets of pilots — i.e., two
+      to fly the rescue mission and two as backups in case the first AH-6 failed or
+      crashed. This brings us to a total of 10 personnel so far. Which brings us to
+      who conducted the rescue… I believe that at least two, and maybe four, members
+      of the 24th Special Tactics Squadron, aka 24th STS, were involved. They are the
+      PJs — i.e., Pararescue Jumpers. They are the ones who sat in the side door of
+      the Little Bird that flew up the mountain to rescue the WSO. Here again, I’m assuming
+      that there were only two PJs on the bird, and the other two remained at the FARP
+      as backups. This leaves us with the issue of perimeter security. The press has
+      reported that members of SEAL Team Six were involved in the operation. The C-130J,
+      in addition to hauling two AH-6 helicopters, can carry 8 to 12 personnel with
+      combat loads. This means there was a maximum of 24 personnel to provide perimeter
+      security or a minimum of 16. The press reports that more than 100 personnel were
+      on the ground, in addition to the crews of the C-130Js and the AH-6 helicopters
+      is, in my opinion, a gross embellishment. If there were that many people they
+      would have needed a third C-130J to arrive on scene. The guys who executed this
+      mission did an incredible job. If you look closely at the map there are a couple
+      of population centers nearby, which means they likely encountered hostile fire
+      and probably killed a few of the local population that tried to approach the scene.
+      I doubt that there was a sustained firefight because such activity would have
+      made it unlikely that the C295 plane that arrived to evacuate the CSAR force would
+      hot have landed and taken off without getting shot to hell. I think it will be
+      a year or two before we get the straight story about what really happened. During
+      my time consulting with the Special Ops community I witnessed the lies told about
+      the mission to kill Bin Laden, the Red Wings disaster in Afghanistan trying to
+      rescue Lone Survivor, Marcus Luttrell, and the friendly-fire death of Pat Tillman.
+      Judge Napolitano and I discussed the weekend’s events surrounding the rescue:
+      Nima and I also discussed the rescue mission: And Kim Iverson interviewed me late
+      on Monday afternoon: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article reveals that the Trump administration's narrative
+      regarding the rescue of a second crew member from a downed F-15E is exaggerated,
+      as the CIA and Pentagon orchestrated a disinformation campaign to mislead Iranian
+      authorities about the plane's actual crash location.
+    paragraph_summary: The article discusses the rescue of a crew member from a downed
+      F-15E, suggesting that the Trump administration's narrative is exaggerated. It
+      reveals that the CIA and Pentagon orchestrated a disinformation campaign to mislead
+      Iranian authorities about the crash location, claiming it occurred in southwestern
+      Iran, while it actually crashed near Isfahan. The article critiques the initial
+      reports of the crew member's escape, asserting that he did not traverse the extensive
+      distance reported but instead moved less than a mile to hide in a mountain crevice.
+      Additionally, it details the military operations involved in the rescue, indicating
+      that two C-130J aircraft, each with three crew members and two AH-6 helicopters,
+      were part of the mission, which may have been prepped for a broader operation
+      targeting nuclear sites in Isfahan.
+    published: '2026-04-07T04:22:45+00:00'
+  - title: More Clarity on CSAR Mission to Rescue the WSO… Re-Examining Assumptions
+    url: https://sonar21.com/more-clarity-on-csar-mission-to-rescue-the-wso-re-examining-assumptions/
+    text: 'There is more information emerging about the rescue of the second crew member
+      from the downed F-15E. The story the Trump administration is telling is, in my
+      opinion, an exaggeration. It is now clear that once the plane crashed, the CIA
+      and the Pentagon launched a massive disinformation campaign to convince the Iranians
+      that the plane and missing crew man were in a different location. They did a good
+      job of misleading the Iranian authorities. The fabricated story was that the F-15E
+      was shot down in ‘southwestern Iran’ with geolocations showing roughly 30.787710,
+      50.701440, which is about ~80km from the Iranian coastline: That was all a smokescreen.
+      The plane actually crashed in an area just south of Isfahan at 32°22’52.5”N 51°40’19.6”
+      . It is now clear that the CIA and DOW were putting out information that the jet
+      had crashed near Khuzestan, which is near the north end of the Persian Gulf… About
+      120 miles from the actual crash site (see map below), in order to keep the Iranians
+      from going to the actual crash site: Based on the map at the top of this article,
+      the WSO Colonel landed near highway 65 and then hobbled less than 1 mile up the
+      mountain slope to the west and hid himself in a mountain crevice. The initial
+      report that he walked/hobbled five miles and then clambered 2000 feet up a mountain
+      to a hiding place is a fish tale. It will play well in the movie, when it is made.
+      Take a look at the following map. The WSO landed somewhere just south of Mahyar
+      and then moved almost two kilometers to the east to await rescue. The FARP, aka
+      Forward Arming and Refueling Position, was located about three kilometers to the
+      east of the WSO’s hideout. That means the CSAR landed near the Shah Ali Shrine.
+      So how many military personnel were involved in this rescue? There are three crew
+      members on each C-130J. Both planes were loaded with two AH-6 “Little Birds.”
+      I continue to believe that the C-130Js had been pre-loaded in prep for a JSOC
+      mission to raid the nuclear sites in Isfahan or Natanz, which is north of Isfahan.
+      However, I doubt that the rescue mission would have required pilots for all four
+      birds. Instead, I believe that there were only two sets of pilots — i.e., two
+      to fly the rescue mission and two as backups in case the first AH-6 failed or
+      crashed. This brings us to a total of 10 personnel so far. Which brings us to
+      who conducted the rescue… I believe that at least two, and maybe four, members
+      of the 24th Special Tactics Squadron, aka 24th STS, were involved. They are the
+      PJs — i.e., Pararescue Jumpers. They are the ones who sat in the side door of
+      the Little Bird that flew up the mountain to rescue the WSO. Here again, I’m assuming
+      that there were only two PJs on the bird, and the other two remained at the FARP
+      as backups. This leaves us with the issue of perimeter security. The press has
+      reported that members of SEAL Team Six were involved in the operation. The C-130J,
+      in addition to hauling two AH-6 helicopters, can carry 8 to 12 personnel with
+      combat loads. This means there was a maximum of 24 personnel to provide perimeter
+      security or a minimum of 16. The press reports that more than 100 personnel were
+      on the ground, in addition to the crews of the C-130Js and the AH-6 helicopters
+      is, in my opinion, a gross embellishment. If there were that many people they
+      would have needed a third C-130J to arrive on scene. The guys who executed this
+      mission did an incredible job. If you look closely at the map there are a couple
+      of population centers nearby, which means they likely encountered hostile fire
+      and probably killed a few of the local population that tried to approach the scene.
+      I doubt that there was a sustained firefight because such activity would have
+      made it unlikely that the C295 plane that arrived to evacuate the CSAR force would
+      hot have landed and taken off without getting shot to hell. I think it will be
+      a year or two before we get the straight story about what really happened. During
+      my time consulting with the Special Ops community I witnessed the lies told about
+      the mission to kill Bin Laden, the Red Wings disaster in Afghanistan trying to
+      rescue Lone Survivor, Marcus Luttrell, and the friendly-fire death of Pat Tillman.
+      Judge Napolitano and I discussed the weekend’s events surrounding the rescue:
+      Nima and I also discussed the rescue mission: And Kim Iverson interviewed me late
+      on Monday afternoon: I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article reveals that the Trump administration's narrative
+      regarding the rescue of a second crew member from a downed F-15E is exaggerated,
+      as the CIA and Pentagon orchestrated a disinformation campaign to mislead Iranian
+      authorities about the plane's actual crash location.
+    paragraph_summary: The article discusses the rescue of a crew member from a downed
+      F-15E, suggesting that the Trump administration's narrative is exaggerated. It
+      reveals that the CIA and Pentagon orchestrated a disinformation campaign to mislead
+      Iranian authorities about the crash location, claiming it occurred in southwestern
+      Iran, while it actually crashed near Isfahan. The article critiques the initial
+      reports of the crew member's escape, asserting that he did not traverse the extensive
+      distance reported but instead moved less than a mile to hide in a mountain crevice.
+      Additionally, it details the military operations involved in the rescue, indicating
+      that two C-130J aircraft, each with three crew members and two AH-6 helicopters,
+      were part of the mission, which may have been prepped for a broader operation
+      targeting nuclear sites in Isfahan.
+    published: '2026-04-07T04:22:45+00:00'
+  - title: What the Hell Happened with the Rescue of the F-15E WSO in Iran?
+    url: https://sonar21.com/what-the-hell-happened-with-the-rescue-of-the-f-15e-wso-in-iran/
+    text: 'AH-6 Little Bird Iran’s air defense system succeeded on Friday, April 3,
+      in downing a US F-15E over Iran. There is some dispute and confusion about the
+      exact location (more about that later). The pilot and the WSO (i.e., Weapons System
+      Officer) both successfully ejected but were separated. The pilot was quickly rescued
+      by the Combat Search and Rescue (i.e., CSAR) and the two Pave Hawk helicopters
+      ferrying him back to safety were hit, but managed to make it to Kuwait — despite
+      trailing visible black smoke. The WSO was not so lucky. He reportedly landed 5
+      miles northwest of where he was ultimately rescued. I do not deny that he was
+      recovered by US Special Operations forces on a ridge on a mountain — The red circle
+      on the left hand side of the photo is the reported location of the pilot, the
+      red circle on the right hand side of the photo is the airfield where the US Special
+      Forces landed. There are some real oddities about this story. The WSO is normally
+      a Lieutenant or a Captain… This WSO is a Colonel who is the Vice Wing Commander
+      at Muwaffaq Salti Air Base (MSAB) in Jordan. This helps explain the large number
+      of assets devoted to finding and rescuing him. A variety of press reports claim
+      he suffered a broken leg or a broken ankle. This raises a legitimate question…
+      How did a man with a broken leg walk five miles and then climb a mountain? I’m
+      not suggesting it is an impossible task, but it does raise some questions about
+      the accuracy of the US military’s account of events. Now here is the kicker… The
+      geolocated wreckage of the C-130s which were apparently using a local “agricultural
+      airstrip” (see the photo above) just happens to be right over a mountain, about
+      35km (21 miles) away, from Isfahan’s nuclear facility, where Iran’s ‘near-weapons
+      grade’ enriched uranium is alleged to be stored. Was this whole affair a botched
+      raid by US Special Operations forces to seize Iranian uranium for the Isfahan
+      facility? Before giving you my opinion, I want you to consider some other accounts
+      that are circulating. The first up is Simplicius’ Substack article: It’s Official:
+      US Boots-On-Ground Deep Inside Iran Amidst Another Day of Humiliating Losses .
+      Simplicius claims that a large-scale US rescue operation for the second crew member
+      (weapons systems officer) of a downed F-15E Strike Eagle has effectively confirmed
+      the first official U.S. “boots on the ground” inside Iran. What the US presented
+      as a straightforward combat search-and-rescue (CSAR) mission involved significant
+      special operations forces penetrating deep into Iranian territory, resulting in
+      heavy US losses of aircraft according to Iranian reports and open-source evidence.
+      Simplicius argues the “rescue” narrative may have served as cover or coincided
+      with a broader objective: the operation was centered precisely in the area where
+      Iran stores significant enriched uranium and nuclear-related materials. He suggests
+      this marks a dangerous escalation, with US special operations forces now operating
+      deep inside Iran — the first acknowledged “boots on the ground” in the current
+      conflict. Anthony Aguilar, a retired Special Operations officer, has a slightly
+      different take. He offers the following hypothesis: The rescue operation expanded
+      to become the desired Delta Force, JSOC, SOF, ST-6 high-risk operation to ALSO
+      seize the uranium in Iran; hence the need for so many operators, support, aircraft,
+      etc. This WAS intended to be that operation. It failed. So what happened to the
+      aircraft. I do not believe that they were “stuck”. I have seen MC-130Js plow through
+      dirt, mud, snow, gravel, etc. I doubt they were stuck. It is more likely that
+      the aircraft took hits upon entry and also likely took hits and damage while on
+      the ground at the hasty FARP at the old airfield in Isfahan, “conveniently” close
+      to where the suspected uranium may have been stored. The there is Greg Bagwell
+      , who is currently President UK Air & Space Power Association, a Podcaster, a
+      RUSI Distinguished Fellow and a former RAF Senior Commander. He wrote the following
+      on X : Some may be wondering why the US flew 2 x MC-130 into a landing zone in
+      Iran rather than use other types available. The clue is in the use of the Night
+      Stalker AH-6 Little Bird Helicopters, which were also destroyed at the forward
+      landing site. The WSO was located a few hundred kms inside Iran and it was probably
+      considered too risky to fly Helos all the way in and out after so much prior warning
+      had been given, and after the hits sustained when extracting the pilot on Day
+      1. But, the location of the WSO high up in the mountains and with what sounds
+      like an injury, still needed the sort of assistance that only a Helicopter could
+      provide. Step up the Night Stalker AH-6 Little Bird. It’s transportable by C-130
+      and can be readied for flight in minutes from off loading. So all that was needed
+      was somewhere to land a C-130 far enough away from trouble, but close enough to
+      the downed airman. Meanwhile the AH-6 Little Bird Helicopters would have picked
+      up the downed airman and brought him back to the airstrip. Unfortunately, the
+      surface of the runway appears to have been unable to support a C-130. As a result,
+      some De Havilland Canada Dash 8s (yes the irony!) were sent in to extract personnel,
+      but these could not have carried the AH-6 Little Birds. So the only option was
+      to destroy both the MC-130 and the AH-6 helicopters, rather than risk flying the
+      latter out. So that’s why we didn’t see a V-22 Osprey or a Sikorsky MH-60/HH-60
+      Pave Hawk be involved – it was a calculation based on risk and utility. Some will
+      see parallels with the Desert One strip disaster on Operation Eagle Claw in 1980,
+      but this was a calculated risk that worked. Now let me tell you what I think happened.
+      The shoot down of the F-15E was not a ruse to disguise a planned Special Ops raid
+      on the nuclear site in Isfahan. It was an unlucky event for the pilot and the
+      WSO. Given the rank of the WSO — and the highly classified knowledge he has about
+      US operations in the Gulf and in Iran — recovering him became a top priority.
+      The urgency of the situation resulted in the JSOC unit (I’m assuming they are
+      based in Kuwait) being alerted to join the CSAR effort. The two C-130Js probably
+      were already loaded with two AH-6 Little Birds. I think it was pure serendipity
+      that the missing WSO was located northwest of the rudimentary air strip that the
+      JSOC unit had been planning to use to stage its raid on Isfahan. Their familiarity
+      with the area, based on their prior planning for the Isfahan raid, resulted in
+      them being tasked to recover the WSO in lieu of the designated CSAR unit, which
+      is manned by Pararescue Jumpers aka PJs (who, in my opinion, are the baddest asses
+      in Special Ops). We still do not know why the C-130s were not able to take off
+      and that two planes from the 427th Special Operations Squadron flying C295s were
+      summoned to carryout the extraction of the US forces, including the WSO. This
+      whole fiasco may be a blessing in disguise. The loss of a number of key air assets
+      and the exposure of the remote airfield within shouting distance of Isfahan may
+      compel the US commanders to cancel the planned raid to capture nuclear material
+      from Iran. While the US forces, like chess pieces, had been assembled and were
+      in place on Friday, April 3rd, to carry out the mission against Isfahan, the Commanding
+      Admiral at CENTCOM may be having second thoughts and is communicating his concerns
+      about the Op-Sec compromise to the Chairman of the Joint Chiefs of Staff. I only
+      know one thing for certain — we are not yet getting the truthful story about the
+      rescue of the WSO on Saturday. Today was a wild podcast buffet. I normally don’t
+      do anything on Sundays, but the events of the previous day produced a number of
+      requests. Scott Ritter and I chatted with the good folks at DD Geopolitics : I
+      had another interesting session with my young friend, Mario Nawfal: I had a new
+      experience with Pyotr Kurzin, who has a relatively large following: Last, but
+      certainly not least, my friend George Galloway: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On April 3, Iran's air defense system successfully shot down
+      a US F-15E, leading to the pilot's quick rescue while the Weapons System Officer
+      was separated and later rescued by US Special Operations forces after a challenging
+      recovery.
+    paragraph_summary: On April 3, Iran's air defense successfully shot down a US F-15E,
+      leading to the ejection of both the pilot and the Weapons System Officer (WSO),
+      who were subsequently separated during their rescue efforts. While the pilot was
+      quickly rescued and returned to Kuwait despite damage to the helicopters involved,
+      the WSO, a Colonel and Vice Wing Commander, faced a more challenging situation,
+      reportedly landing five miles from his rescue point with a broken leg or ankle.
+      This raised questions about the accuracy of the military's account, especially
+      considering the unusual circumstances surrounding the incident, including the
+      proximity of the wreckage to Iran's Isfahan nuclear facility. Speculation arose
+      regarding whether this event was part of a failed US operation to seize enriched
+      uranium from the site.
+    published: '2026-04-06T04:59:26+00:00'
+  - title: What the Hell Happened with the Rescue of the F-15E WSO in Iran?
+    url: https://sonar21.com/what-the-hell-happened-with-the-rescue-of-the-f-15e-wso-in-iran/
+    text: 'AH-6 Little Bird Iran’s air defense system succeeded on Friday, April 3,
+      in downing a US F-15E over Iran. There is some dispute and confusion about the
+      exact location (more about that later). The pilot and the WSO (i.e., Weapons System
+      Officer) both successfully ejected but were separated. The pilot was quickly rescued
+      by the Combat Search and Rescue (i.e., CSAR) and the two Pave Hawk helicopters
+      ferrying him back to safety were hit, but managed to make it to Kuwait — despite
+      trailing visible black smoke. The WSO was not so lucky. He reportedly landed 5
+      miles northwest of where he was ultimately rescued. I do not deny that he was
+      recovered by US Special Operations forces on a ridge on a mountain — The red circle
+      on the left hand side of the photo is the reported location of the pilot, the
+      red circle on the right hand side of the photo is the airfield where the US Special
+      Forces landed. There are some real oddities about this story. The WSO is normally
+      a Lieutenant or a Captain… This WSO is a Colonel who is the Vice Wing Commander
+      at Muwaffaq Salti Air Base (MSAB) in Jordan. This helps explain the large number
+      of assets devoted to finding and rescuing him. A variety of press reports claim
+      he suffered a broken leg or a broken ankle. This raises a legitimate question…
+      How did a man with a broken leg walk five miles and then climb a mountain? I’m
+      not suggesting it is an impossible task, but it does raise some questions about
+      the accuracy of the US military’s account of events. Now here is the kicker… The
+      geolocated wreckage of the C-130s which were apparently using a local “agricultural
+      airstrip” (see the photo above) just happens to be right over a mountain, about
+      35km (21 miles) away, from Isfahan’s nuclear facility, where Iran’s ‘near-weapons
+      grade’ enriched uranium is alleged to be stored. Was this whole affair a botched
+      raid by US Special Operations forces to seize Iranian uranium for the Isfahan
+      facility? Before giving you my opinion, I want you to consider some other accounts
+      that are circulating. The first up is Simplicius’ Substack article: It’s Official:
+      US Boots-On-Ground Deep Inside Iran Amidst Another Day of Humiliating Losses .
+      Simplicius claims that a large-scale US rescue operation for the second crew member
+      (weapons systems officer) of a downed F-15E Strike Eagle has effectively confirmed
+      the first official U.S. “boots on the ground” inside Iran. What the US presented
+      as a straightforward combat search-and-rescue (CSAR) mission involved significant
+      special operations forces penetrating deep into Iranian territory, resulting in
+      heavy US losses of aircraft according to Iranian reports and open-source evidence.
+      Simplicius argues the “rescue” narrative may have served as cover or coincided
+      with a broader objective: the operation was centered precisely in the area where
+      Iran stores significant enriched uranium and nuclear-related materials. He suggests
+      this marks a dangerous escalation, with US special operations forces now operating
+      deep inside Iran — the first acknowledged “boots on the ground” in the current
+      conflict. Anthony Aguilar, a retired Special Operations officer, has a slightly
+      different take. He offers the following hypothesis: The rescue operation expanded
+      to become the desired Delta Force, JSOC, SOF, ST-6 high-risk operation to ALSO
+      seize the uranium in Iran; hence the need for so many operators, support, aircraft,
+      etc. This WAS intended to be that operation. It failed. So what happened to the
+      aircraft. I do not believe that they were “stuck”. I have seen MC-130Js plow through
+      dirt, mud, snow, gravel, etc. I doubt they were stuck. It is more likely that
+      the aircraft took hits upon entry and also likely took hits and damage while on
+      the ground at the hasty FARP at the old airfield in Isfahan, “conveniently” close
+      to where the suspected uranium may have been stored. The there is Greg Bagwell
+      , who is currently President UK Air & Space Power Association, a Podcaster, a
+      RUSI Distinguished Fellow and a former RAF Senior Commander. He wrote the following
+      on X : Some may be wondering why the US flew 2 x MC-130 into a landing zone in
+      Iran rather than use other types available. The clue is in the use of the Night
+      Stalker AH-6 Little Bird Helicopters, which were also destroyed at the forward
+      landing site. The WSO was located a few hundred kms inside Iran and it was probably
+      considered too risky to fly Helos all the way in and out after so much prior warning
+      had been given, and after the hits sustained when extracting the pilot on Day
+      1. But, the location of the WSO high up in the mountains and with what sounds
+      like an injury, still needed the sort of assistance that only a Helicopter could
+      provide. Step up the Night Stalker AH-6 Little Bird. It’s transportable by C-130
+      and can be readied for flight in minutes from off loading. So all that was needed
+      was somewhere to land a C-130 far enough away from trouble, but close enough to
+      the downed airman. Meanwhile the AH-6 Little Bird Helicopters would have picked
+      up the downed airman and brought him back to the airstrip. Unfortunately, the
+      surface of the runway appears to have been unable to support a C-130. As a result,
+      some De Havilland Canada Dash 8s (yes the irony!) were sent in to extract personnel,
+      but these could not have carried the AH-6 Little Birds. So the only option was
+      to destroy both the MC-130 and the AH-6 helicopters, rather than risk flying the
+      latter out. So that’s why we didn’t see a V-22 Osprey or a Sikorsky MH-60/HH-60
+      Pave Hawk be involved – it was a calculation based on risk and utility. Some will
+      see parallels with the Desert One strip disaster on Operation Eagle Claw in 1980,
+      but this was a calculated risk that worked. Now let me tell you what I think happened.
+      The shoot down of the F-15E was not a ruse to disguise a planned Special Ops raid
+      on the nuclear site in Isfahan. It was an unlucky event for the pilot and the
+      WSO. Given the rank of the WSO — and the highly classified knowledge he has about
+      US operations in the Gulf and in Iran — recovering him became a top priority.
+      The urgency of the situation resulted in the JSOC unit (I’m assuming they are
+      based in Kuwait) being alerted to join the CSAR effort. The two C-130Js probably
+      were already loaded with two AH-6 Little Birds. I think it was pure serendipity
+      that the missing WSO was located northwest of the rudimentary air strip that the
+      JSOC unit had been planning to use to stage its raid on Isfahan. Their familiarity
+      with the area, based on their prior planning for the Isfahan raid, resulted in
+      them being tasked to recover the WSO in lieu of the designated CSAR unit, which
+      is manned by Pararescue Jumpers aka PJs (who, in my opinion, are the baddest asses
+      in Special Ops). We still do not know why the C-130s were not able to take off
+      and that two planes from the 427th Special Operations Squadron flying C295s were
+      summoned to carryout the extraction of the US forces, including the WSO. This
+      whole fiasco may be a blessing in disguise. The loss of a number of key air assets
+      and the exposure of the remote airfield within shouting distance of Isfahan may
+      compel the US commanders to cancel the planned raid to capture nuclear material
+      from Iran. While the US forces, like chess pieces, had been assembled and were
+      in place on Friday, April 3rd, to carry out the mission against Isfahan, the Commanding
+      Admiral at CENTCOM may be having second thoughts and is communicating his concerns
+      about the Op-Sec compromise to the Chairman of the Joint Chiefs of Staff. I only
+      know one thing for certain — we are not yet getting the truthful story about the
+      rescue of the WSO on Saturday. Today was a wild podcast buffet. I normally don’t
+      do anything on Sundays, but the events of the previous day produced a number of
+      requests. Scott Ritter and I chatted with the good folks at DD Geopolitics : I
+      had another interesting session with my young friend, Mario Nawfal: I had a new
+      experience with Pyotr Kurzin, who has a relatively large following: Last, but
+      certainly not least, my friend George Galloway: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On April 3, Iran's air defense system successfully shot down
+      a US F-15E, leading to the pilot's quick rescue while the Weapons System Officer
+      was separated and later rescued by US Special Operations forces after a challenging
+      recovery.
+    paragraph_summary: On April 3, Iran's air defense successfully shot down a US F-15E,
+      leading to the ejection of both the pilot and the Weapons System Officer (WSO),
+      who were subsequently separated during their rescue efforts. While the pilot was
+      quickly rescued and returned to Kuwait despite damage to the helicopters involved,
+      the WSO, a Colonel and Vice Wing Commander, faced a more challenging situation,
+      reportedly landing five miles from his rescue point with a broken leg or ankle.
+      This raised questions about the accuracy of the military's account, especially
+      considering the unusual circumstances surrounding the incident, including the
+      proximity of the wreckage to Iran's Isfahan nuclear facility. Speculation arose
+      regarding whether this event was part of a failed US operation to seize enriched
+      uranium from the site.
+    published: '2026-04-06T04:59:26+00:00'
+  - title: 'War with Iran: The Outcome is Predictable—but It Remains to be Seen just
+      How Deep the Blood Will be Through Which the World Will Be Wading.'
+    url: https://sonar21.com/war-with-iran-the-outcome-is-predictable-but-it-remains-to-be-seen-just-how-deep-the-blood-will-be-through-which-the-world-will-be-wading/
+    text: 'The consequences of the war with Iran will break Western hegemony and place
+      significant resources and power into the hands of the Global South much more quickly
+      than would have been the case under peaceful scenarios. Trump is merely deciding
+      how deeply the world will be drenched in blood along the way. President Trump
+      is wading through the bloodbath he has caused. Introduction It is truly staggering
+      to realize that the Western media still have not recognized that this war against
+      Iran—which Israel and the United States are waging in a manner that defies every
+      legal and moral standard—is already lost, and that the consequences are already
+      written in bold letters on the wall: Western hegemony is a thing of the past;
+      the fate of the EU and NATO hangs by a thread; West Asia will have new masters;
+      and Iran, as one of the oldest civilizations on Earth, will once again assume
+      its rightful role in the future. In this article, I will first examine the final
+      outcome, which is already foreseeable, since the balance of power and the parties’
+      sustainability are obvious, and the fanatical aggressors’ capacity for escalation
+      is far more limited than it appears at first glance. The war may come to an end
+      in various ways, but the result will be the same in any scenario. The question
+      is “only” how deep President Trump is willing to wade through blood. The death
+      toll is directly proportional to the duration of the conflict. So I’ll start with
+      the end of the story, since the ending is easier to outline than the path leading
+      up to it. The Global South is Taking Over West Asia A year ago, I wrote the series
+      “ The War Between Two Worlds Has Begun .” In it, I reflected on how the handover
+      from the Collective West to the Global South might unfold. I predicted that the
+      two worlds would fight each other in proxy wars during this process and that this
+      process would last for decades and be bloody. What I did not foresee was that
+      the United States would invade Iran not once, but twice during diplomatic negotiations—in
+      violation of American and international law. The fact that the Americans risked
+      doing this a second time a month ago, after the summer of 2025, following their
+      first unsuccessful attempt, points to a degree of hubris and stupidity that I,
+      as an analyst a year ago, did not dare to assume. I must admit that until the
+      outbreak of war on February 28, I could not have imagined that the Americans would
+      act so recklessly—my friend and author Scott Ritter and many others have assessed
+      the extent of their own government’s arrogance and stupidity better than I have.
+      Scott Ritter last commented on this issue here on February 20 in “ War Against
+      Iran .” Capacity for Suffering In the current conflict, one thing is clear: the
+      Iranians possess passive and active strengths that are far more formidable than
+      those of the Americans and Israelis. On the passive side lies the capacity to
+      endure suffering. Speaking for many Iranians and their leadership, I cite Iranian
+      Foreign Minister Araghchi—“ We Don’t Fear Death ”. The same cannot be said of
+      us Westerners. For Westerners, death is the worst-case scenario , the worst possible
+      outcome in life. In the event of war, a willingness to face death is an advantage
+      that can be decisive. BREAKING — Iran FM Araghchi: "We Don''t Fear Death” "It
+      Would be an Honor" to Die for Iran pic.twitter.com/5cbQsVZDEs — ✦✦✦ 𝙿𝚊𝚖𝚙𝚑𝚕𝚎𝚝𝚜
+      ✦✦✦ (@PamphletsY) March 18, 2026 This attitude is also reflected in the behavior
+      of the Iranian people. Take, for example, a rally in Iran that came under attack—the
+      people responded with utter disregard for their own lives. US and Israel must
+      be shitting in their pants after watching this video. A large Iranian crowd did
+      not even flinch even after missiles were seen coming towards them. You can’t defeat
+      a nation that fears nothing. This video is historic, Absolute Cinema. pic.twitter.com/lWhtfcKQg7
+      — Roshan Rai (@RoshanKrRaii) March 10, 2026 Religiously fanatical Israelis, who
+      see themselves as a master race and have grown accustomed to shooting defenseless
+      civilians, really have nothing to counter this attitude. People live in panic
+      and feel like victims, and… 𝗜𝗦𝗥𝗔𝗘𝗟𝗜𝗦 𝗔𝗥𝗘 𝗥𝗨𝗡𝗡𝗜𝗡𝗚 𝗧𝗢 𝗧𝗛𝗘 𝗦𝗛𝗘𝗟𝗧𝗘𝗥𝗦 𝗣𝗔𝗡𝗜𝗖𝗞𝗜𝗡𝗚. Why
+      do they constantly behave as eternal victims ? pic.twitter.com/goMkG26fOV — Parody
+      Jeff (@Parodyjeffx) March 3, 2026 Small Hats army suffering huge losses in Jerusalem
+      and Gaza amid rising Iranian missiles and drones strikes. pic.twitter.com/8PRZhVBsVB
+      — mrredpillz jokaqarmy (@JOKAQARMY1) March 3, 2026 Another passive factor is the
+      country’s size. Iran is 67 times larger than Israel, which means that any attack
+      is spread over an area 67 times larger than that of Israel. This vast landmass
+      (1.5 million km²) is therefore much better able to absorb and withstand the destruction.
+      Offensive Capability On the active side, the situation is even more pronounced.
+      Like a used-car salesman, Trump has been shouting since day one that Iran has
+      been completely destroyed—every day, “ We have obliterated them .” A lie every
+      single time. On the evening of April 3, Trump threatened to bomb Iran back to
+      the Stone Age, “where they belong.” The reality is different. Of the 92 million
+      Iranians, approximately 2,000 died, which is a human tragedy, but mathematically
+      amounts to a drop in the bucket. Attacks on military infrastructure were unsuccessful.
+      Otherwise, the Iranian attacks would have stopped or decreased. The sheer numbers
+      of missiles and drones that the Iranians initially deployed—old equipment intended
+      to overwhelm Israeli and American defenses—have been replaced by much larger and
+      more modern missiles, which are fewer in number but far more devastating in their
+      destructive power. Reaction from the Iranian Press Agency to Defense Secretary
+      Pete Hegseth’s threat regarding the Stone Age: This map shows Iran during the
+      Stone Age. Do you insist on reviving it? pic.twitter.com/KYGa4mOFVV — Iran News
+      24 (@IRanMediaco) April 2, 2026 The attacks on Iran’s civilian infrastructure
+      are severe and devastating. However, due to the country’s size, infrastructure
+      facilities (such as power plants and desalination plants) are spread across many
+      sites and regions, which means Iran is better able to withstand these strikes.
+      Israel, on the other hand, has only a few facilities and few ports—Haifa has been
+      destroyed. Ben-Gurion Airport has been destroyed and is out of service. ISRAEL:
+      Looks like all chosen flights are canceled at Ben Gurion Airport. Currently getting
+      hammered by Iranian missiles. For the second straight week, Trump still insists
+      Iran’s military is “totally defeated”… pic.twitter.com/OR3PhMhYzN — Patrick Henningsen
+      (@21WIRE) March 19, 2026 Flight Radar no longer shows any civilian flights over
+      Israel. The “patriotic” Israelis are now fleeing on foot and by ship; they settled
+      in the Holy Land to steal land and live the good life. Certainly not to risk their
+      lives—another weakness: Wealthy Israelis have no patriotism and are taking to
+      their heels. Now Cyprus, for example, is being flooded with Israelis—who are thrilled
+      to be overrun by the master race. Cyprus raises alarm over growing Israeli presence
+      on the island. Cyprus''s second largest party warns that waves of Israelis are
+      buying property near critical infrastructure and settling in sensitive areas.
+      They fears this could be a blueprint for ''Israel 2.0'' pic.twitter.com/Y8JuYAsgX1
+      — LPC (@landpalestine) March 27, 2026 The humorists are already poking fun at
+      the new settlers in Cyprus. Israelis now in Cyprus (AI video) pic.twitter.com/9LmECs0Umb
+      — Dr. Anastasia Maria Loupis (@DrLoupis__) June 24, 2025 Humor of this kind is
+      actually punishable by law in Germany. Destruction in Israel Here are a few clips
+      from Israel from Wednesday night into Thursday, with the usual caveat that they
+      may not be genuine—though they certainly look real. "If Trump does not hurry for
+      a ceasefire, there will be no place left called Tel Aviv. Iran is striking Tel
+      Aviv very hard." pic.twitter.com/htAM03WRKY — ​IRAN EVENT NEWS (@Iranevent_tv)
+      April 1, 2026 This is Tel Aviv, Iran attacked at night, but the international
+      media didn''t see it. pic.twitter.com/1cjpNcCMvS — Iran time (@khanadan99) April
+      2, 2026 Aus den vorgenannten Gründen gehe ich davon aus, dass Israel viel eher
+      kollabieren wird als der Iran. Ability for Escalation Many people are rightly
+      afraid that, facing imminent defeat, the Israelis will decide to use their nuclear
+      weapons against Iran. That is entirely possible; the Israelis are capable of anything.
+      One might then ask what the consequences will be. Chinese government spokesperson
+      Victor Gao has raised this question several times in recent days: A nuclear strike
+      wouldn’t save Israel — it could end it, says Victor Gao. Full episode https://t.co/jxgVvfNXSb
+      pic.twitter.com/KFGvnKB1ly — The Cradle (@TheCradleMedia) April 1, 2026 The Americans—so
+      I believe and hope—will not take this step, barring a false flag attack staged
+      to justify this atrocity. The Americans and the Israelis—we’ll discuss a ground
+      invasion further down—have practically no options left for escalation: The Americans
+      have only one aircraft carrier left in the combat zone, and it is under constant
+      attack. Through their tactics, the Iranians have forced the aircraft carriers
+      to maintain a safety distance of approximately 1,000 km, which dramatically reduces
+      their effectiveness. Most—or all?—US bases in the Gulf have been destroyed and
+      are unusable for air traffic. Spain, France, and the United Kingdom have banned
+      or restricted the US’s use of their bases in Europe, and yesterday Austria also
+      revoked the US’s overflight rights; the Americans have fired so much ammunition
+      that they will soon run out, and losses of fighter jets (F-16s, F-18s, and F-35s(!))—and
+      since Saturday, A-10s and helicopters as well—are steadily increasing; moreover,
+      more and more tanker and AWACS aircraft are being destroyed by Iran. None of this
+      provides a basis for sustained escalation. The Iranians, however, are certainly
+      capable of it. Their attacks are extremely precise, and due to the superiority
+      of the missiles used and the virtually paralyzed air defenses of Israel and the
+      Gulf states, the destruction appears to be increasing. Israeli Invasion of Lebanon
+      Apart from death and destruction, the Israeli invasion of Lebanon has achieved
+      nothing—Israeli troops are completely outmatched by Hezbollah and are being veritably
+      decimated by them. There are reports of the Israelis losing up to 20 tanks a day—a
+      complete defeat for the Israelis, just as in 2006. Growing Anti-Israelism and,
+      Unfortunately, Also Anti-Semitism Introductory Remarks We have discussed the terminology
+      in detail in “ Anti-Zionism Is Not Anti-Semitism .” I recommend that any reader
+      who has not yet read this article take the time to familiarize themselves with
+      it before continuing to read and becoming outraged. Israel has truly earned the
+      wrath of millions of people. I will now post a few clips that show how the majority
+      of the Israeli population thinks and what they do to people. This is How the Settlers
+      Think Believe Israeli women pic.twitter.com/gcbMJgmEwv — Henri Fjord (@henri_fjord)
+      March 30, 2026 Death Penalty Introduced for Palestinians, Not for Jews With tears
+      of joy, Israeli Knesset member Limor Son Har Melech announces the introduction
+      of the death penalty for Palestinian prisoners. THIS IS HOW PARLIAMENT OF TERRORISTS
+      LOOK LIKE: In tears of joy, Israeli Knesset Member Limor Son Har Melech announces
+      the passing of the death penalty for Palestinian detainees. pic.twitter.com/66A6VeRBB8
+      — Nadira Ali (@Nadira_ali12) March 31, 2026 The same fanatic proudly introduces
+      her approximately four-year-old daughter. The following revealing conversation
+      takes place between mother and daughter: Israeli Knesset member Limor Son Har-Melech
+      teaches her kid to kill arabs when she grows up. "What will you be when you grow
+      up?" "A soldier." "And what will you do ?" "I will go in a jeep and I will k*Il
+      the Arabs." pic.twitter.com/s23NUzVukq — UFO Hunter (@iamufohunter) April 1, 2026
+      The law stipulates that there are no legal remedies and no minimum age limit:
+      in doing so, Israel has legalized and codified the genocide of the Palestinians.
+      On this subject, Ofer Cassif , an Israeli parliamentarian and member of the Communist
+      Party. Let it be known henceforth: Today, Israel has enacted a Genocide law pic.twitter.com/RxNAyhYHHL
+      — Ofer Cassif עופר כסיף عوفر كسيف (@ofercass) March 30, 2026 “It’s so symbolic
+      that on the 50th anniversary of the land day, the day that symbolizes the looting,
+      the theft, the confiscation of Palestinian land, by the state of Israel, the Knesset,
+      the Israeli parliament has enacted a death penalty for Palestinian terrorists,
+      as it were. Actually, that means something else. The law doesn’t appeal to Jews,
+      because those who propose the law, believe, and say that explicitly, that there’s
+      no such a thing like Jewish terrorism, and by definition, accordingly, there’s
+      no such a thing like Jewish terrorists. That means the Jews, a priori, are excluded
+      from the application of this law. On the other hand, they say, again, explicitly,
+      that all Palestinians are terrorists, if not at present, in potential. The chair
+      of the interior committee, other classes, said, explicitly, and literally, a couple
+      of days ago, that the aren’t, any innocent [Palestinian] people, no innocent [Palestinian]
+      children. That means, again, that all Palestinians are terrorists. And if this
+      law says that terrorists should be executed, and all Palestinians are regarded
+      by them as terrorists. That means in other words, logically speaking, that all
+      Palestinians should be executed. We have to say something very clear. That’s not
+      a death penalty, no. That’s a genocide law. All those who support it, let alone
+      propose this bill, should be tried by The Hague.” Source: X-Kanal Ofer Cassif
+      Where is the outcry from Germany, the self-proclaimed champion of morality, or
+      from “neutral” Switzerland? Violence Against Children in Gaza Israeli IDF soldiers
+      randomly stop a Palestinian child from play, then kicks him. This is what Israel
+      is about. pic.twitter.com/f0uP3904hP — Bryce M. Lipscomb (@BryceMLipscomb) March
+      30, 2026 Same thing every single day for the last 76 years! pic.twitter.com/Gvyi2iqbLI
+      — Rania (@umyaznemo) March 30, 2026 This is why the majority of the world HATES
+      Israel. Their behavior is demonic. pic.twitter.com/afdblhFwoH — MENA Pulse (@MENA_Puls)
+      April 2, 2026 Israeli Women Believe Israeli women pic.twitter.com/gcbMJgmEwv —
+      Henri Fjord (@henri_fjord) March 30, 2026 These are just a few clips I’ve compiled
+      that reflect the views of the majority of the Israeli population. According to
+      Israeli journalist Gideon Levy, 93 percent (!) of Jewish Israelis support this
+      policy of the Israeli state. The consequence is anti-Israelism. This is something
+      a people must endure when the majority supports a genocide that in no way differs
+      from the Nazis’ treatment of the Jews. However, this behavior also fuels anti-Semitism,
+      which in today’s usage means hatred of all Jews. As we explained in our article
+      “ Anti-Zionism Is Not Anti-Semitism ,” this is precisely the goal of the Zionists
+      who advocate for—indeed, cause—this genocide. The Zionists, who attempt to merge
+      Zionism and Judaism, need and promote anti-Semitism in order to use it as a shield
+      and to portray themselves as victims. Former Israeli Member of Knesset Moshe Feiglin
+      on Israel’s most-watched news program: “As Hitler said, ‘I cannot live if one
+      Jew is left,’ we can’t live here if one [Palestinian] remains in Gaza.” Former
+      Israeli MP Moshe Feiglin on Israel''s most watched news show: "As Hitler said,
+      ''I cannot live if one Jew is left,'' we can''t live here if one [Palestinian]
+      remains in Gaza.” When people tell you who they are, believe them pic.twitter.com/sYfQgSzerJ
+      — Musafir (@MusafirNafar) April 3, 2026 The Western Media Promotes Genocide, War,
+      and Thus Anti-Semitism—Including “Die Weltwoche” Although more and more people
+      in the West are speaking out against the genocide of Palestinians, most Western
+      politicians stand firmly behind this genocide and behind Israel. The media, acting
+      in lockstep, do the same—even in Switzerland. The talented Mr. Köppel, owner,
+      publisher, and editor-in-chief of the Swiss Weltwoche, relishes the role of often
+      holding a different opinion than the mainstream—that is his business model. Nevertheless,
+      Köppel firmly follows the Zionist line along with many other Swiss media outlets—there
+      is no trace of a critical, distanced, or even differing opinion. I was sent a
+      link to his April 1st broadcast, in which he fully aligns himself with Israel
+      and refers to the Iranian government as a “mullah regime”—a term that is disrespectful
+      and demeaning, insinuating that members of the Iranian government are religious,
+      ignorant fanatics. Köppel has obviously never been to Iran; otherwise, he would
+      not hold such a primitive view. As a representative of Iran’s leadership, all
+      of whom are highly educated—see our comments on the foreign minister here—the
+      spokesperson for the Iranian Armed Forces, Ibrahim Dhoul-Faqari, should be mentioned
+      here. He holds the following degrees: a bachelor’s degree in mathematics, a master’s
+      degree in mathematics, and a PhD in Western philosophy; he speaks fluent Persian,
+      English, Arabic, and Hebrew. It is unprofessional to refer to such people as “mullahs.”
+      BREAKING After Trump claimed that White House Press Secretary Karoline Leavitt
+      was responsible for his drop in popularity due to her frequent errors, Iran released
+      the CV of Armed Forces Spokesman Ibrahim Dhoul-Faqari: Bachelor''s in Mathematics
+      Master''s in… pic.twitter.com/uVpTYCYuPG — ​IRAN EVENT NEWS (@Iranevent_tv) April
+      1, 2026 Köppel enjoys socializing with Netanyahu’s son, for example, and raves
+      about what wonderful people he and his entourage are. Netanyahu’s son isn’t fighting
+      for his country; instead, he’s hanging out in Miami. It is absolutely WILD that
+      Benjamin Netanyahu''s incompetent son, @YairNetanyahu , lives on a beach in Florida
+      while American soldiers go to fight a war for Israel. It''s not even like he''s
+      chilling in Israel. This man is relaxing in Miami. He doesn''t even have a job.
+      pic.twitter.com/DIEhK0YYtR — Shaun King (@shaunking) March 31, 2026 The editor-in-chief
+      of “Die Weltwoche” thus admires people who behave like Hitler and Himmler. Whether
+      Mr. Köppel deserves to be heard is for the audience and readers to decide. In
+      the following quote, taken from the program linked above and aired on April 1,
+      2026, Mr. Köppel expresses his shockingly naive personal stance on the unprovoked
+      war of aggression waged by the US and Israel against Iran with a clarity that
+      discredits him as a serious observer of international politics: “This line of
+      thinking, which is based on the idea that Trump and Netanyahu are much worse—I
+      think that’s completely crazy: the US and Israel are democracies—the theocracy
+      in Tehran is the exact opposite, a despotic regime” Roger Köppel, Weltwoche Daily,
+      1 April 2026 Always in a good mood – Roger Köppel brushes off genocide and war
+      crimes with a smile. Köppel makes no mention whatsoever of the genocide, nor of
+      the fact that the Israelis and Americans attacked Iran for the second time while
+      negotiations were underway. An American Ground Offensive? It is a fact that the
+      Israelis will not take part in such a suicide mission. They are sending the goys—the
+      non-Jews—into the fire. If one relies on the real experts, the U.S. troops already
+      stationed in the Middle East will be wiped out in the event of an attack. Ritter,
+      Macgregor, Johnson, and all the other experts who haven’t been bought off agree
+      on this. The Marines, Delta Force, and other special forces are indeed outstanding,
+      but they would simply be sacrificed. I’m holding back from thinking rationally
+      and concluding that the US wouldn’t dare do this, because last time I was wrong.
+      Another factor that points toward a suicide mission is the fact that U.S. Secretary
+      of Defense Pete Hegseth fired more than 12 generals on Friday, including the commander
+      of the U.S. Army’s ground forces. Pete Hegseth called General Randy George on
+      April 2 and ordered him to retire immediately. The Pentagon confirmed this within
+      a few hours. No reason was given. Not publicly. Nor privately. A senior Army official
+      told Fox News that Hegseth had not accused George of anything: no misconduct,
+      no operational failure, no political disagreement on record. Just a phone call
+      and the end of a career in the midst of the most significant American military
+      operation in two decades. His successor is Lieutenant General Christopher LaNeve.
+      Prior to this appointment, he was Hegseth’s highest-ranking military advisor.
+      The man who carried the secretary’s briefcase now commands the Army that the secretary
+      is reshaping. The chain of command has not been broken. It has been shortened.
+      The distance between a television studio and a combat order has simply shrunk
+      to zero intermediaries who were not personally selected by the man issuing the
+      order. You don’t have to be a genius to conclude that the dismissed military officers
+      may have refused—or at least resisted—leading a suicide mission that will likely
+      end like Gallipoli or the Bay of Pigs. I hope for the soldiers on both sides that
+      this madness does not become reality. Europe is Allying Itself with a Head-Chopper
+      Europeans are so panicked that they are teaming up with a terrorist who used to
+      personally slice off the heads of Christians. Today he goes by the name of President
+      Ahmed al-Sharaa; his nom de guerre is Abu Mohammad al-Julani. Een jihadist in
+      maatpak die mensen onthoofde wordt ontvangen in Downing Street en bij de Koning.
+      Waanzin. pic.twitter.com/TaCLwG9slD — Patrick De Winter (@dartfrog01) April 2,
+      2026 It seems he was well prepared and outfitted by MI6 to make a good impression.
+      His disguise even includes a Patek Philippe worth over EUR 140,000. During the
+      unelected Syrian "Leader" and ex Al Qaeda commander, Ahmad al-Sharaa''s (Al Julani)
+      state visits to Germany and the UK- Hes wearing a Patek Philippe watch worth €145,000
+      Where''s the money coming from? pic.twitter.com/8JHdnXdsPN — Chay Bowes (@BowesChay)
+      April 2, 2026 He was received by the following representatives: Friedrich Merz
+      Emanuel Macron — VIDEO: French President Macron welcomes Syria’s Jihadi leader
+      to the Presidential palace in Paris. pic.twitter.com/Nn271rB1Nc — Breaking News
+      of the Day (@BNOfTheDay) May 7, 2025 Keir Starmer Watch Keir Starmer embrace former
+      ISIS Terrorist Ahmed al-Sharaa who is now President of Syria and in charge of
+      a regime which is persecuting Christian’s. pic.twitter.com/Oko5KPPoeB — Concerned
+      Citizen (@BGatesIsaPyscho) March 31, 2026 King Charles I’ll leave it to the readers
+      to draw their own conclusions—there’s no need to comment on every instance of
+      distastefulness when the facts and images already speak for themselves. Suffice
+      it to say: Europe is geopolitically finished and will ally itself with anyone—even
+      the devil. Conclusion The end result is inevitable: a shift in power in West Asia.
+      But it could get much bloodier. If the Americans are prevented from pursuing their
+      own interests due to their entanglements—let’s not forget the Epstein Files—the
+      conflict will drag on. One should also never forget that America’s main enemy
+      is China, and the Americans are doing everything they can to disrupt the flow
+      of energy to China. The first step was Venezuela; the second step is the Middle
+      East. What somehow succeeded in Venezuela has, in the case of Iran, so far backfired
+      spectacularly. The Chinese have the largest energy reserves and more time than
+      other nations. Trump claims that the US has enough oil and is not dependent on
+      the Strait of Hormuz, but—as is usually the case with Trump—that is a lie. While
+      the US primarily exports LNG, it imports a significant amount of oil and is a
+      net importer of crude oil amounting to 6,646,000 barrels per week. Source: X-Kanal
+      Chris Marteson; his source: Weekly report from the U.S. Energy Information Administration
+      (EIA) on the state of the oil supply Thus, the Americans are far more dependent
+      on the Strait of Hormuz than they admit, which increases the risk of escalation.
+      Furthermore, it is unclear what would happen to Israel in the event of a US withdrawal.
+      The embodiment of the Balfour Declaration has been, for 80 years, the arsonist
+      who, like a psychopath, is wreaking havoc across the entire Middle East and actually
+      seeks to establish his great empire. The Israelis have Hitler-like dreams—based
+      on the aforementioned quote from Moshe Feiglin regarding Hitler, I am permitted
+      to say this here with impunity. Israel as a state must not and will likely not
+      continue to exist in its current form. If Palestine is revived, Muslims and Jews
+      will once again live together peacefully as they did a hundred years ago, but
+      only after the Zionists have been weeded out. How this is to be accomplished and
+      how strongly the US will commit to Israel with military force in the long term
+      remains to be seen. The Iranians have time. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: The article argues that the war with Iran will accelerate
+      the decline of Western hegemony and empower the Global South, while criticizing
+      President Trump's role in exacerbating the conflict and its consequences.
+    paragraph_summary: The article argues that the ongoing war with Iran, led by the
+      United States and Israel, is destined to undermine Western hegemony and accelerate
+      the transfer of power and resources to the Global South, a shift that would occur
+      more rapidly than in peaceful scenarios. It suggests that the conflict is already
+      lost for the West, with dire implications for NATO and the EU, and posits that
+      Iran will reclaim its historical significance in the region. The author emphasizes
+      that the war's outcome is predictable, with the scale of violence directly correlated
+      to its duration, and critiques President Trump's role in prolonging the bloodshed.
+      Ultimately, the piece reflects on the broader geopolitical struggle between the
+      Collective West and the Global South, predicting a protracted and violent transition
+      of power.
+    published: '2026-04-05T08:53:45+00:00'
+  - title: 'War with Iran: The Outcome is Predictable—but It Remains to be Seen just
+      How Deep the Blood Will be Through Which the World Will Be Wading.'
+    url: https://sonar21.com/war-with-iran-the-outcome-is-predictable-but-it-remains-to-be-seen-just-how-deep-the-blood-will-be-through-which-the-world-will-be-wading/
+    text: 'The consequences of the war with Iran will break Western hegemony and place
+      significant resources and power into the hands of the Global South much more quickly
+      than would have been the case under peaceful scenarios. Trump is merely deciding
+      how deeply the world will be drenched in blood along the way. President Trump
+      is wading through the bloodbath he has caused. Introduction It is truly staggering
+      to realize that the Western media still have not recognized that this war against
+      Iran—which Israel and the United States are waging in a manner that defies every
+      legal and moral standard—is already lost, and that the consequences are already
+      written in bold letters on the wall: Western hegemony is a thing of the past;
+      the fate of the EU and NATO hangs by a thread; West Asia will have new masters;
+      and Iran, as one of the oldest civilizations on Earth, will once again assume
+      its rightful role in the future. In this article, I will first examine the final
+      outcome, which is already foreseeable, since the balance of power and the parties’
+      sustainability are obvious, and the fanatical aggressors’ capacity for escalation
+      is far more limited than it appears at first glance. The war may come to an end
+      in various ways, but the result will be the same in any scenario. The question
+      is “only” how deep President Trump is willing to wade through blood. The death
+      toll is directly proportional to the duration of the conflict. So I’ll start with
+      the end of the story, since the ending is easier to outline than the path leading
+      up to it. The Global South is Taking Over West Asia A year ago, I wrote the series
+      “ The War Between Two Worlds Has Begun .” In it, I reflected on how the handover
+      from the Collective West to the Global South might unfold. I predicted that the
+      two worlds would fight each other in proxy wars during this process and that this
+      process would last for decades and be bloody. What I did not foresee was that
+      the United States would invade Iran not once, but twice during diplomatic negotiations—in
+      violation of American and international law. The fact that the Americans risked
+      doing this a second time a month ago, after the summer of 2025, following their
+      first unsuccessful attempt, points to a degree of hubris and stupidity that I,
+      as an analyst a year ago, did not dare to assume. I must admit that until the
+      outbreak of war on February 28, I could not have imagined that the Americans would
+      act so recklessly—my friend and author Scott Ritter and many others have assessed
+      the extent of their own government’s arrogance and stupidity better than I have.
+      Scott Ritter last commented on this issue here on February 20 in “ War Against
+      Iran .” Capacity for Suffering In the current conflict, one thing is clear: the
+      Iranians possess passive and active strengths that are far more formidable than
+      those of the Americans and Israelis. On the passive side lies the capacity to
+      endure suffering. Speaking for many Iranians and their leadership, I cite Iranian
+      Foreign Minister Araghchi—“ We Don’t Fear Death ”. The same cannot be said of
+      us Westerners. For Westerners, death is the worst-case scenario , the worst possible
+      outcome in life. In the event of war, a willingness to face death is an advantage
+      that can be decisive. BREAKING — Iran FM Araghchi: "We Don''t Fear Death” "It
+      Would be an Honor" to Die for Iran pic.twitter.com/5cbQsVZDEs — ✦✦✦ 𝙿𝚊𝚖𝚙𝚑𝚕𝚎𝚝𝚜
+      ✦✦✦ (@PamphletsY) March 18, 2026 This attitude is also reflected in the behavior
+      of the Iranian people. Take, for example, a rally in Iran that came under attack—the
+      people responded with utter disregard for their own lives. US and Israel must
+      be shitting in their pants after watching this video. A large Iranian crowd did
+      not even flinch even after missiles were seen coming towards them. You can’t defeat
+      a nation that fears nothing. This video is historic, Absolute Cinema. pic.twitter.com/lWhtfcKQg7
+      — Roshan Rai (@RoshanKrRaii) March 10, 2026 Religiously fanatical Israelis, who
+      see themselves as a master race and have grown accustomed to shooting defenseless
+      civilians, really have nothing to counter this attitude. People live in panic
+      and feel like victims, and… 𝗜𝗦𝗥𝗔𝗘𝗟𝗜𝗦 𝗔𝗥𝗘 𝗥𝗨𝗡𝗡𝗜𝗡𝗚 𝗧𝗢 𝗧𝗛𝗘 𝗦𝗛𝗘𝗟𝗧𝗘𝗥𝗦 𝗣𝗔𝗡𝗜𝗖𝗞𝗜𝗡𝗚. Why
+      do they constantly behave as eternal victims ? pic.twitter.com/goMkG26fOV — Parody
+      Jeff (@Parodyjeffx) March 3, 2026 Small Hats army suffering huge losses in Jerusalem
+      and Gaza amid rising Iranian missiles and drones strikes. pic.twitter.com/8PRZhVBsVB
+      — mrredpillz jokaqarmy (@JOKAQARMY1) March 3, 2026 Another passive factor is the
+      country’s size. Iran is 67 times larger than Israel, which means that any attack
+      is spread over an area 67 times larger than that of Israel. This vast landmass
+      (1.5 million km²) is therefore much better able to absorb and withstand the destruction.
+      Offensive Capability On the active side, the situation is even more pronounced.
+      Like a used-car salesman, Trump has been shouting since day one that Iran has
+      been completely destroyed—every day, “ We have obliterated them .” A lie every
+      single time. On the evening of April 3, Trump threatened to bomb Iran back to
+      the Stone Age, “where they belong.” The reality is different. Of the 92 million
+      Iranians, approximately 2,000 died, which is a human tragedy, but mathematically
+      amounts to a drop in the bucket. Attacks on military infrastructure were unsuccessful.
+      Otherwise, the Iranian attacks would have stopped or decreased. The sheer numbers
+      of missiles and drones that the Iranians initially deployed—old equipment intended
+      to overwhelm Israeli and American defenses—have been replaced by much larger and
+      more modern missiles, which are fewer in number but far more devastating in their
+      destructive power. Reaction from the Iranian Press Agency to Defense Secretary
+      Pete Hegseth’s threat regarding the Stone Age: This map shows Iran during the
+      Stone Age. Do you insist on reviving it? pic.twitter.com/KYGa4mOFVV — Iran News
+      24 (@IRanMediaco) April 2, 2026 The attacks on Iran’s civilian infrastructure
+      are severe and devastating. However, due to the country’s size, infrastructure
+      facilities (such as power plants and desalination plants) are spread across many
+      sites and regions, which means Iran is better able to withstand these strikes.
+      Israel, on the other hand, has only a few facilities and few ports—Haifa has been
+      destroyed. Ben-Gurion Airport has been destroyed and is out of service. ISRAEL:
+      Looks like all chosen flights are canceled at Ben Gurion Airport. Currently getting
+      hammered by Iranian missiles. For the second straight week, Trump still insists
+      Iran’s military is “totally defeated”… pic.twitter.com/OR3PhMhYzN — Patrick Henningsen
+      (@21WIRE) March 19, 2026 Flight Radar no longer shows any civilian flights over
+      Israel. The “patriotic” Israelis are now fleeing on foot and by ship; they settled
+      in the Holy Land to steal land and live the good life. Certainly not to risk their
+      lives—another weakness: Wealthy Israelis have no patriotism and are taking to
+      their heels. Now Cyprus, for example, is being flooded with Israelis—who are thrilled
+      to be overrun by the master race. Cyprus raises alarm over growing Israeli presence
+      on the island. Cyprus''s second largest party warns that waves of Israelis are
+      buying property near critical infrastructure and settling in sensitive areas.
+      They fears this could be a blueprint for ''Israel 2.0'' pic.twitter.com/Y8JuYAsgX1
+      — LPC (@landpalestine) March 27, 2026 The humorists are already poking fun at
+      the new settlers in Cyprus. Israelis now in Cyprus (AI video) pic.twitter.com/9LmECs0Umb
+      — Dr. Anastasia Maria Loupis (@DrLoupis__) June 24, 2025 Humor of this kind is
+      actually punishable by law in Germany. Destruction in Israel Here are a few clips
+      from Israel from Wednesday night into Thursday, with the usual caveat that they
+      may not be genuine—though they certainly look real. "If Trump does not hurry for
+      a ceasefire, there will be no place left called Tel Aviv. Iran is striking Tel
+      Aviv very hard." pic.twitter.com/htAM03WRKY — ​IRAN EVENT NEWS (@Iranevent_tv)
+      April 1, 2026 This is Tel Aviv, Iran attacked at night, but the international
+      media didn''t see it. pic.twitter.com/1cjpNcCMvS — Iran time (@khanadan99) April
+      2, 2026 Aus den vorgenannten Gründen gehe ich davon aus, dass Israel viel eher
+      kollabieren wird als der Iran. Ability for Escalation Many people are rightly
+      afraid that, facing imminent defeat, the Israelis will decide to use their nuclear
+      weapons against Iran. That is entirely possible; the Israelis are capable of anything.
+      One might then ask what the consequences will be. Chinese government spokesperson
+      Victor Gao has raised this question several times in recent days: A nuclear strike
+      wouldn’t save Israel — it could end it, says Victor Gao. Full episode https://t.co/jxgVvfNXSb
+      pic.twitter.com/KFGvnKB1ly — The Cradle (@TheCradleMedia) April 1, 2026 The Americans—so
+      I believe and hope—will not take this step, barring a false flag attack staged
+      to justify this atrocity. The Americans and the Israelis—we’ll discuss a ground
+      invasion further down—have practically no options left for escalation: The Americans
+      have only one aircraft carrier left in the combat zone, and it is under constant
+      attack. Through their tactics, the Iranians have forced the aircraft carriers
+      to maintain a safety distance of approximately 1,000 km, which dramatically reduces
+      their effectiveness. Most—or all?—US bases in the Gulf have been destroyed and
+      are unusable for air traffic. Spain, France, and the United Kingdom have banned
+      or restricted the US’s use of their bases in Europe, and yesterday Austria also
+      revoked the US’s overflight rights; the Americans have fired so much ammunition
+      that they will soon run out, and losses of fighter jets (F-16s, F-18s, and F-35s(!))—and
+      since Saturday, A-10s and helicopters as well—are steadily increasing; moreover,
+      more and more tanker and AWACS aircraft are being destroyed by Iran. None of this
+      provides a basis for sustained escalation. The Iranians, however, are certainly
+      capable of it. Their attacks are extremely precise, and due to the superiority
+      of the missiles used and the virtually paralyzed air defenses of Israel and the
+      Gulf states, the destruction appears to be increasing. Israeli Invasion of Lebanon
+      Apart from death and destruction, the Israeli invasion of Lebanon has achieved
+      nothing—Israeli troops are completely outmatched by Hezbollah and are being veritably
+      decimated by them. There are reports of the Israelis losing up to 20 tanks a day—a
+      complete defeat for the Israelis, just as in 2006. Growing Anti-Israelism and,
+      Unfortunately, Also Anti-Semitism Introductory Remarks We have discussed the terminology
+      in detail in “ Anti-Zionism Is Not Anti-Semitism .” I recommend that any reader
+      who has not yet read this article take the time to familiarize themselves with
+      it before continuing to read and becoming outraged. Israel has truly earned the
+      wrath of millions of people. I will now post a few clips that show how the majority
+      of the Israeli population thinks and what they do to people. This is How the Settlers
+      Think Believe Israeli women pic.twitter.com/gcbMJgmEwv — Henri Fjord (@henri_fjord)
+      March 30, 2026 Death Penalty Introduced for Palestinians, Not for Jews With tears
+      of joy, Israeli Knesset member Limor Son Har Melech announces the introduction
+      of the death penalty for Palestinian prisoners. THIS IS HOW PARLIAMENT OF TERRORISTS
+      LOOK LIKE: In tears of joy, Israeli Knesset Member Limor Son Har Melech announces
+      the passing of the death penalty for Palestinian detainees. pic.twitter.com/66A6VeRBB8
+      — Nadira Ali (@Nadira_ali12) March 31, 2026 The same fanatic proudly introduces
+      her approximately four-year-old daughter. The following revealing conversation
+      takes place between mother and daughter: Israeli Knesset member Limor Son Har-Melech
+      teaches her kid to kill arabs when she grows up. "What will you be when you grow
+      up?" "A soldier." "And what will you do ?" "I will go in a jeep and I will k*Il
+      the Arabs." pic.twitter.com/s23NUzVukq — UFO Hunter (@iamufohunter) April 1, 2026
+      The law stipulates that there are no legal remedies and no minimum age limit:
+      in doing so, Israel has legalized and codified the genocide of the Palestinians.
+      On this subject, Ofer Cassif , an Israeli parliamentarian and member of the Communist
+      Party. Let it be known henceforth: Today, Israel has enacted a Genocide law pic.twitter.com/RxNAyhYHHL
+      — Ofer Cassif עופר כסיף عوفر كسيف (@ofercass) March 30, 2026 “It’s so symbolic
+      that on the 50th anniversary of the land day, the day that symbolizes the looting,
+      the theft, the confiscation of Palestinian land, by the state of Israel, the Knesset,
+      the Israeli parliament has enacted a death penalty for Palestinian terrorists,
+      as it were. Actually, that means something else. The law doesn’t appeal to Jews,
+      because those who propose the law, believe, and say that explicitly, that there’s
+      no such a thing like Jewish terrorism, and by definition, accordingly, there’s
+      no such a thing like Jewish terrorists. That means the Jews, a priori, are excluded
+      from the application of this law. On the other hand, they say, again, explicitly,
+      that all Palestinians are terrorists, if not at present, in potential. The chair
+      of the interior committee, other classes, said, explicitly, and literally, a couple
+      of days ago, that the aren’t, any innocent [Palestinian] people, no innocent [Palestinian]
+      children. That means, again, that all Palestinians are terrorists. And if this
+      law says that terrorists should be executed, and all Palestinians are regarded
+      by them as terrorists. That means in other words, logically speaking, that all
+      Palestinians should be executed. We have to say something very clear. That’s not
+      a death penalty, no. That’s a genocide law. All those who support it, let alone
+      propose this bill, should be tried by The Hague.” Source: X-Kanal Ofer Cassif
+      Where is the outcry from Germany, the self-proclaimed champion of morality, or
+      from “neutral” Switzerland? Violence Against Children in Gaza Israeli IDF soldiers
+      randomly stop a Palestinian child from play, then kicks him. This is what Israel
+      is about. pic.twitter.com/f0uP3904hP — Bryce M. Lipscomb (@BryceMLipscomb) March
+      30, 2026 Same thing every single day for the last 76 years! pic.twitter.com/Gvyi2iqbLI
+      — Rania (@umyaznemo) March 30, 2026 This is why the majority of the world HATES
+      Israel. Their behavior is demonic. pic.twitter.com/afdblhFwoH — MENA Pulse (@MENA_Puls)
+      April 2, 2026 Israeli Women Believe Israeli women pic.twitter.com/gcbMJgmEwv —
+      Henri Fjord (@henri_fjord) March 30, 2026 These are just a few clips I’ve compiled
+      that reflect the views of the majority of the Israeli population. According to
+      Israeli journalist Gideon Levy, 93 percent (!) of Jewish Israelis support this
+      policy of the Israeli state. The consequence is anti-Israelism. This is something
+      a people must endure when the majority supports a genocide that in no way differs
+      from the Nazis’ treatment of the Jews. However, this behavior also fuels anti-Semitism,
+      which in today’s usage means hatred of all Jews. As we explained in our article
+      “ Anti-Zionism Is Not Anti-Semitism ,” this is precisely the goal of the Zionists
+      who advocate for—indeed, cause—this genocide. The Zionists, who attempt to merge
+      Zionism and Judaism, need and promote anti-Semitism in order to use it as a shield
+      and to portray themselves as victims. Former Israeli Member of Knesset Moshe Feiglin
+      on Israel’s most-watched news program: “As Hitler said, ‘I cannot live if one
+      Jew is left,’ we can’t live here if one [Palestinian] remains in Gaza.” Former
+      Israeli MP Moshe Feiglin on Israel''s most watched news show: "As Hitler said,
+      ''I cannot live if one Jew is left,'' we can''t live here if one [Palestinian]
+      remains in Gaza.” When people tell you who they are, believe them pic.twitter.com/sYfQgSzerJ
+      — Musafir (@MusafirNafar) April 3, 2026 The Western Media Promotes Genocide, War,
+      and Thus Anti-Semitism—Including “Die Weltwoche” Although more and more people
+      in the West are speaking out against the genocide of Palestinians, most Western
+      politicians stand firmly behind this genocide and behind Israel. The media, acting
+      in lockstep, do the same—even in Switzerland. The talented Mr. Köppel, owner,
+      publisher, and editor-in-chief of the Swiss Weltwoche, relishes the role of often
+      holding a different opinion than the mainstream—that is his business model. Nevertheless,
+      Köppel firmly follows the Zionist line along with many other Swiss media outlets—there
+      is no trace of a critical, distanced, or even differing opinion. I was sent a
+      link to his April 1st broadcast, in which he fully aligns himself with Israel
+      and refers to the Iranian government as a “mullah regime”—a term that is disrespectful
+      and demeaning, insinuating that members of the Iranian government are religious,
+      ignorant fanatics. Köppel has obviously never been to Iran; otherwise, he would
+      not hold such a primitive view. As a representative of Iran’s leadership, all
+      of whom are highly educated—see our comments on the foreign minister here—the
+      spokesperson for the Iranian Armed Forces, Ibrahim Dhoul-Faqari, should be mentioned
+      here. He holds the following degrees: a bachelor’s degree in mathematics, a master’s
+      degree in mathematics, and a PhD in Western philosophy; he speaks fluent Persian,
+      English, Arabic, and Hebrew. It is unprofessional to refer to such people as “mullahs.”
+      BREAKING After Trump claimed that White House Press Secretary Karoline Leavitt
+      was responsible for his drop in popularity due to her frequent errors, Iran released
+      the CV of Armed Forces Spokesman Ibrahim Dhoul-Faqari: Bachelor''s in Mathematics
+      Master''s in… pic.twitter.com/uVpTYCYuPG — ​IRAN EVENT NEWS (@Iranevent_tv) April
+      1, 2026 Köppel enjoys socializing with Netanyahu’s son, for example, and raves
+      about what wonderful people he and his entourage are. Netanyahu’s son isn’t fighting
+      for his country; instead, he’s hanging out in Miami. It is absolutely WILD that
+      Benjamin Netanyahu''s incompetent son, @YairNetanyahu , lives on a beach in Florida
+      while American soldiers go to fight a war for Israel. It''s not even like he''s
+      chilling in Israel. This man is relaxing in Miami. He doesn''t even have a job.
+      pic.twitter.com/DIEhK0YYtR — Shaun King (@shaunking) March 31, 2026 The editor-in-chief
+      of “Die Weltwoche” thus admires people who behave like Hitler and Himmler. Whether
+      Mr. Köppel deserves to be heard is for the audience and readers to decide. In
+      the following quote, taken from the program linked above and aired on April 1,
+      2026, Mr. Köppel expresses his shockingly naive personal stance on the unprovoked
+      war of aggression waged by the US and Israel against Iran with a clarity that
+      discredits him as a serious observer of international politics: “This line of
+      thinking, which is based on the idea that Trump and Netanyahu are much worse—I
+      think that’s completely crazy: the US and Israel are democracies—the theocracy
+      in Tehran is the exact opposite, a despotic regime” Roger Köppel, Weltwoche Daily,
+      1 April 2026 Always in a good mood – Roger Köppel brushes off genocide and war
+      crimes with a smile. Köppel makes no mention whatsoever of the genocide, nor of
+      the fact that the Israelis and Americans attacked Iran for the second time while
+      negotiations were underway. An American Ground Offensive? It is a fact that the
+      Israelis will not take part in such a suicide mission. They are sending the goys—the
+      non-Jews—into the fire. If one relies on the real experts, the U.S. troops already
+      stationed in the Middle East will be wiped out in the event of an attack. Ritter,
+      Macgregor, Johnson, and all the other experts who haven’t been bought off agree
+      on this. The Marines, Delta Force, and other special forces are indeed outstanding,
+      but they would simply be sacrificed. I’m holding back from thinking rationally
+      and concluding that the US wouldn’t dare do this, because last time I was wrong.
+      Another factor that points toward a suicide mission is the fact that U.S. Secretary
+      of Defense Pete Hegseth fired more than 12 generals on Friday, including the commander
+      of the U.S. Army’s ground forces. Pete Hegseth called General Randy George on
+      April 2 and ordered him to retire immediately. The Pentagon confirmed this within
+      a few hours. No reason was given. Not publicly. Nor privately. A senior Army official
+      told Fox News that Hegseth had not accused George of anything: no misconduct,
+      no operational failure, no political disagreement on record. Just a phone call
+      and the end of a career in the midst of the most significant American military
+      operation in two decades. His successor is Lieutenant General Christopher LaNeve.
+      Prior to this appointment, he was Hegseth’s highest-ranking military advisor.
+      The man who carried the secretary’s briefcase now commands the Army that the secretary
+      is reshaping. The chain of command has not been broken. It has been shortened.
+      The distance between a television studio and a combat order has simply shrunk
+      to zero intermediaries who were not personally selected by the man issuing the
+      order. You don’t have to be a genius to conclude that the dismissed military officers
+      may have refused—or at least resisted—leading a suicide mission that will likely
+      end like Gallipoli or the Bay of Pigs. I hope for the soldiers on both sides that
+      this madness does not become reality. Europe is Allying Itself with a Head-Chopper
+      Europeans are so panicked that they are teaming up with a terrorist who used to
+      personally slice off the heads of Christians. Today he goes by the name of President
+      Ahmed al-Sharaa; his nom de guerre is Abu Mohammad al-Julani. Een jihadist in
+      maatpak die mensen onthoofde wordt ontvangen in Downing Street en bij de Koning.
+      Waanzin. pic.twitter.com/TaCLwG9slD — Patrick De Winter (@dartfrog01) April 2,
+      2026 It seems he was well prepared and outfitted by MI6 to make a good impression.
+      His disguise even includes a Patek Philippe worth over EUR 140,000. During the
+      unelected Syrian "Leader" and ex Al Qaeda commander, Ahmad al-Sharaa''s (Al Julani)
+      state visits to Germany and the UK- Hes wearing a Patek Philippe watch worth €145,000
+      Where''s the money coming from? pic.twitter.com/8JHdnXdsPN — Chay Bowes (@BowesChay)
+      April 2, 2026 He was received by the following representatives: Friedrich Merz
+      Emanuel Macron — VIDEO: French President Macron welcomes Syria’s Jihadi leader
+      to the Presidential palace in Paris. pic.twitter.com/Nn271rB1Nc — Breaking News
+      of the Day (@BNOfTheDay) May 7, 2025 Keir Starmer Watch Keir Starmer embrace former
+      ISIS Terrorist Ahmed al-Sharaa who is now President of Syria and in charge of
+      a regime which is persecuting Christian’s. pic.twitter.com/Oko5KPPoeB — Concerned
+      Citizen (@BGatesIsaPyscho) March 31, 2026 King Charles I’ll leave it to the readers
+      to draw their own conclusions—there’s no need to comment on every instance of
+      distastefulness when the facts and images already speak for themselves. Suffice
+      it to say: Europe is geopolitically finished and will ally itself with anyone—even
+      the devil. Conclusion The end result is inevitable: a shift in power in West Asia.
+      But it could get much bloodier. If the Americans are prevented from pursuing their
+      own interests due to their entanglements—let’s not forget the Epstein Files—the
+      conflict will drag on. One should also never forget that America’s main enemy
+      is China, and the Americans are doing everything they can to disrupt the flow
+      of energy to China. The first step was Venezuela; the second step is the Middle
+      East. What somehow succeeded in Venezuela has, in the case of Iran, so far backfired
+      spectacularly. The Chinese have the largest energy reserves and more time than
+      other nations. Trump claims that the US has enough oil and is not dependent on
+      the Strait of Hormuz, but—as is usually the case with Trump—that is a lie. While
+      the US primarily exports LNG, it imports a significant amount of oil and is a
+      net importer of crude oil amounting to 6,646,000 barrels per week. Source: X-Kanal
+      Chris Marteson; his source: Weekly report from the U.S. Energy Information Administration
+      (EIA) on the state of the oil supply Thus, the Americans are far more dependent
+      on the Strait of Hormuz than they admit, which increases the risk of escalation.
+      Furthermore, it is unclear what would happen to Israel in the event of a US withdrawal.
+      The embodiment of the Balfour Declaration has been, for 80 years, the arsonist
+      who, like a psychopath, is wreaking havoc across the entire Middle East and actually
+      seeks to establish his great empire. The Israelis have Hitler-like dreams—based
+      on the aforementioned quote from Moshe Feiglin regarding Hitler, I am permitted
+      to say this here with impunity. Israel as a state must not and will likely not
+      continue to exist in its current form. If Palestine is revived, Muslims and Jews
+      will once again live together peacefully as they did a hundred years ago, but
+      only after the Zionists have been weeded out. How this is to be accomplished and
+      how strongly the US will commit to Israel with military force in the long term
+      remains to be seen. The Iranians have time. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French.'
+    one_sentence_summary: The article argues that the war with Iran will accelerate
+      the decline of Western hegemony and empower the Global South, while criticizing
+      President Trump's role in exacerbating the conflict and its consequences.
+    paragraph_summary: The article argues that the ongoing war with Iran, led by the
+      United States and Israel, is destined to undermine Western hegemony and accelerate
+      the transfer of power and resources to the Global South, a shift that would occur
+      more rapidly than in peaceful scenarios. It suggests that the conflict is already
+      lost for the West, with dire implications for NATO and the EU, and posits that
+      Iran will reclaim its historical significance in the region. The author emphasizes
+      that the war's outcome is predictable, with the scale of violence directly correlated
+      to its duration, and critiques President Trump's role in prolonging the bloodshed.
+      Ultimately, the piece reflects on the broader geopolitical struggle between the
+      Collective West and the Global South, predicting a protracted and violent transition
+      of power.
+    published: '2026-04-05T08:53:45+00:00'
+  - title: Know Your Adversary… Ayatollah Mojtaba Khamenei, Not a Fortunate Son
+    url: https://sonar21.com/know-your-adversary-ayatollah-mojtaba-khamenei-not-a-fortunate-son/
+    text: 'I say adversary instead of enemy . Mr. Khamenei and the Iranian people are
+      not the enemies of the US. They did not attack us on February 28, we attacked
+      them… And we did so while the Iranians were engaged in good faith negotiations,
+      or so they thought. Iran’s new Ayatollah shares something in common with President
+      John F. Kennedy and President George H. W. Bush… He’s a combat veteran. Since
+      1960, the United States has only had two presidents who actually fought in a war…
+      In the case of Kennedy and Bush that was World War II. I concede that Kennedy
+      played a key role in fanning the flames of the Vietnam war but, before he was
+      murdered, he reportedly was going to put an end to the US role. George H.W. Bush
+      oversaw the first invasion of Iraq in 1991, but he at least made sure the US confined
+      itself to ejecting Iraq from Kuwait. The rest of the lot, the ones who embroiled
+      the US in subsequent needless wars, had zero combat experience. Donald “Bone Spurs”
+      Trump avoided serving in Vietnam. He was too wealthy and entitled to be bothered
+      with enlisting in the Army or the Marine Corps… Just another Fortunate Son: I
+      think it is important that the American people understand that Mojtaba Khameni
+      was a 17 year old boy from a privileged family — sort of like Baron Trump — who
+      ignored his father, enlisted, fought on the front lines in that war with Iraq
+      and was wounded. He absolutely knows the cost of war. Mojtaba Khamenei (full name:
+      Mojtaba Hosseini Khamenei, born September 8, 1969, in Mashhad, Iran) is the second
+      son of the late Supreme Leader Ayatollah Ali Khamenei. He served as a teenager
+      in the Islamic Revolutionary Guard Corps (IRGC) during the final years of the
+      Iran-Iraq War (1980–1988). Just a reminder… The US played a critical role in helping
+      Iraq attack Iran by providing the chemicals used to make chemical weapons and
+      by providing intelligence to the Iraqi General Staff. Mojtaba joined the IRGC
+      around 1987 (some accounts say 1986) after completing secondary school, at approximately
+      age 17. He was from a privileged family and, by virtue of his age, could have
+      stayed home. But he chose to fight for his country against a foe that had launched
+      a war of aggression against Iran at the behest of the Untied States. This was
+      during the later stages of the war, when Iran was conducting offensives and facing
+      Iraqi counterattacks. He was assigned to the Habib ibn Mazahir Battalion (also
+      spelled Habib bin Muzahir or Habib Ibn Mazaher) within the 27th Mohammad Rasulullah
+      Division of the IRGC Ground Forces. This unit consisted largely of ideologically
+      committed volunteers and operated on the western front. The battalion’s name references
+      a companion of Imam Hussein from the Battle of Karbala, reflecting the religious-martyrdom
+      ethos common in IRGC units. Mojtaba saw real combat. One account mentions he went
+      “missing” at one point during the recapture of Mehran (a border town that changed
+      hands multiple times). Details on specific combat roles, injuries, or awards remain
+      limited. Public accounts indicate he participated in several IRGC operations,
+      including: Operation Mersad (1988), the final major battle of the war, which involved
+      repelling an Iraqi-backed Mujahedin-e Khalq (MEK) incursion into Iran. Operation
+      Beit ol-Moqaddas 2, 3, and 4 (part of a series of offensives aimed at recapturing
+      territory). Operation Valfajr 10 (Dawn 10), a major Iranian offensive in 1988.
+      Mojtaba’s service in the Habib Battalion helped him build lasting personal and
+      institutional ties within the IRGC. Many comrades from this period later rose
+      to senior positions in Iran’s security, intelligence, and military apparatus (including
+      figures like Hossein Taeb, who headed IRGC intelligence, and others associated
+      with Qassem Soleimani’s circle). These wartime relationships are widely viewed
+      as a foundational element of his influence in Iran’s hardline and security networks.
+      After the war ended in 1988 with Iran’s acceptance of a UN ceasefire, Mojtaba
+      shifted focus to religious studies in Qom and later assumed behind-the-scenes
+      roles. He has maintained strong connections to the IRGC and Basij (where he reportedly
+      held a command role in later years), but his wartime service is often highlighted
+      in Iranian narratives as evidence of his revolutionary credentials. Unlike Donald
+      Trump, who only knows war through the movies he watches, Mojtaba Khamenei learned
+      at a young age the horrors of war and the sacrifice it entails. Keep that in mind
+      in the coming days. I did a special chat today with Judge Napolitano regarding
+      the newly released evidence that the bullet fragment recovered from Charlie Kirk’s
+      body does not match the gun that the prosecutors claim was used to kill Mr. Kirk:
+      I interviewed Alastair Crooke earlier this week… As always brother Crooke provides
+      invaluable insights and analysis about the war with Iran: Stas Krapivnik and I
+      did a joint appearance on Randy Credico’s radio show on Friday: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article argues that the U.S. should view Iran as an adversary
+      rather than an enemy, highlighting the complexities of their relationship and
+      drawing parallels between Iran's new Ayatollah and past U.S. presidents with military
+      experience, while criticizing leaders without combat backgrounds for their roles
+      in unnecessary wars.
+    paragraph_summary: The article argues that the U.S. should view Iran and its leadership,
+      specifically Ayatollah Mojtaba Khamenei, as adversaries rather than enemies, emphasizing
+      that the U.S. initiated conflict rather than Iran. It highlights Khamenei's combat
+      experience during the Iran-Iraq War, drawing parallels between him and past U.S.
+      presidents who served in the military, such as John F. Kennedy and George H.W.
+      Bush. The author critiques U.S. leaders who have not served in combat, particularly
+      Donald Trump, and underscores the irony of privileged backgrounds leading to military
+      service decisions. The piece also reminds readers of the U.S.'s historical role
+      in supporting Iraq during its war against Iran, framing the narrative around the
+      complexities of war and leadership.
+    published: '2026-04-05T03:50:41+00:00'
+  - title: Know Your Adversary… Ayatollah Mojtaba Khamenei, Not a Fortunate Son
+    url: https://sonar21.com/know-your-adversary-ayatollah-mojtaba-khamenei-not-a-fortunate-son/
+    text: 'I say adversary instead of enemy . Mr. Khamenei and the Iranian people are
+      not the enemies of the US. They did not attack us on February 28, we attacked
+      them… And we did so while the Iranians were engaged in good faith negotiations,
+      or so they thought. Iran’s new Ayatollah shares something in common with President
+      John F. Kennedy and President George H. W. Bush… He’s a combat veteran. Since
+      1960, the United States has only had two presidents who actually fought in a war…
+      In the case of Kennedy and Bush that was World War II. I concede that Kennedy
+      played a key role in fanning the flames of the Vietnam war but, before he was
+      murdered, he reportedly was going to put an end to the US role. George H.W. Bush
+      oversaw the first invasion of Iraq in 1991, but he at least made sure the US confined
+      itself to ejecting Iraq from Kuwait. The rest of the lot, the ones who embroiled
+      the US in subsequent needless wars, had zero combat experience. Donald “Bone Spurs”
+      Trump avoided serving in Vietnam. He was too wealthy and entitled to be bothered
+      with enlisting in the Army or the Marine Corps… Just another Fortunate Son: I
+      think it is important that the American people understand that Mojtaba Khameni
+      was a 17 year old boy from a privileged family — sort of like Baron Trump — who
+      ignored his father, enlisted, fought on the front lines in that war with Iraq
+      and was wounded. He absolutely knows the cost of war. Mojtaba Khamenei (full name:
+      Mojtaba Hosseini Khamenei, born September 8, 1969, in Mashhad, Iran) is the second
+      son of the late Supreme Leader Ayatollah Ali Khamenei. He served as a teenager
+      in the Islamic Revolutionary Guard Corps (IRGC) during the final years of the
+      Iran-Iraq War (1980–1988). Just a reminder… The US played a critical role in helping
+      Iraq attack Iran by providing the chemicals used to make chemical weapons and
+      by providing intelligence to the Iraqi General Staff. Mojtaba joined the IRGC
+      around 1987 (some accounts say 1986) after completing secondary school, at approximately
+      age 17. He was from a privileged family and, by virtue of his age, could have
+      stayed home. But he chose to fight for his country against a foe that had launched
+      a war of aggression against Iran at the behest of the Untied States. This was
+      during the later stages of the war, when Iran was conducting offensives and facing
+      Iraqi counterattacks. He was assigned to the Habib ibn Mazahir Battalion (also
+      spelled Habib bin Muzahir or Habib Ibn Mazaher) within the 27th Mohammad Rasulullah
+      Division of the IRGC Ground Forces. This unit consisted largely of ideologically
+      committed volunteers and operated on the western front. The battalion’s name references
+      a companion of Imam Hussein from the Battle of Karbala, reflecting the religious-martyrdom
+      ethos common in IRGC units. Mojtaba saw real combat. One account mentions he went
+      “missing” at one point during the recapture of Mehran (a border town that changed
+      hands multiple times). Details on specific combat roles, injuries, or awards remain
+      limited. Public accounts indicate he participated in several IRGC operations,
+      including: Operation Mersad (1988), the final major battle of the war, which involved
+      repelling an Iraqi-backed Mujahedin-e Khalq (MEK) incursion into Iran. Operation
+      Beit ol-Moqaddas 2, 3, and 4 (part of a series of offensives aimed at recapturing
+      territory). Operation Valfajr 10 (Dawn 10), a major Iranian offensive in 1988.
+      Mojtaba’s service in the Habib Battalion helped him build lasting personal and
+      institutional ties within the IRGC. Many comrades from this period later rose
+      to senior positions in Iran’s security, intelligence, and military apparatus (including
+      figures like Hossein Taeb, who headed IRGC intelligence, and others associated
+      with Qassem Soleimani’s circle). These wartime relationships are widely viewed
+      as a foundational element of his influence in Iran’s hardline and security networks.
+      After the war ended in 1988 with Iran’s acceptance of a UN ceasefire, Mojtaba
+      shifted focus to religious studies in Qom and later assumed behind-the-scenes
+      roles. He has maintained strong connections to the IRGC and Basij (where he reportedly
+      held a command role in later years), but his wartime service is often highlighted
+      in Iranian narratives as evidence of his revolutionary credentials. Unlike Donald
+      Trump, who only knows war through the movies he watches, Mojtaba Khamenei learned
+      at a young age the horrors of war and the sacrifice it entails. Keep that in mind
+      in the coming days. I did a special chat today with Judge Napolitano regarding
+      the newly released evidence that the bullet fragment recovered from Charlie Kirk’s
+      body does not match the gun that the prosecutors claim was used to kill Mr. Kirk:
+      I interviewed Alastair Crooke earlier this week… As always brother Crooke provides
+      invaluable insights and analysis about the war with Iran: Stas Krapivnik and I
+      did a joint appearance on Randy Credico’s radio show on Friday: I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article argues that the U.S. should view Iran as an adversary
+      rather than an enemy, highlighting the complexities of their relationship and
+      drawing parallels between Iran's new Ayatollah and past U.S. presidents with military
+      experience, while criticizing leaders without combat backgrounds for their roles
+      in unnecessary wars.
+    paragraph_summary: The article argues that the U.S. should view Iran and its leadership,
+      specifically Ayatollah Mojtaba Khamenei, as adversaries rather than enemies, emphasizing
+      that the U.S. initiated conflict rather than Iran. It highlights Khamenei's combat
+      experience during the Iran-Iraq War, drawing parallels between him and past U.S.
+      presidents who served in the military, such as John F. Kennedy and George H.W.
+      Bush. The author critiques U.S. leaders who have not served in combat, particularly
+      Donald Trump, and underscores the irony of privileged backgrounds leading to military
+      service decisions. The piece also reminds readers of the U.S.'s historical role
+      in supporting Iraq during its war against Iran, framing the narrative around the
+      complexities of war and leadership.
+    published: '2026-04-05T03:50:41+00:00'
+  - title: Trump’s Premature Claim About Air Supremacy and Obliterated Iranian Air Defenses
+    url: https://sonar21.com/trumps-premature-claim-about-air-supremacy-and-obliterated-iranian-air-defenses/
+    text: 'During his Wednesday night speech, Donald Trump made the following claim
+      about Iran’s air defenses: They have no anti-aircraft equipment, their radar’s
+      100% annihilated, we are unstoppable as a military force. It appears that President
+      Trump was a bit premature. The US Air Force had a difficult day on Friday: F-15E
+      (48th Fighter Wing) — Shot down in southwestern Iran. Pilot rescued; WSO still
+      missing. A-10C Thunderbolt II — Shot down and crashed into the Persian Gulf. Pilot
+      reportedly recovered. 2X HH-60G Pave Hawk — Hit during CSAR mission, one crash-landed
+      across the border in Iraq. All crew reportedly rescued. KC-135R Stratotanker —
+      Emergency squawk 7700 around 10:00 UTC near Tel Aviv. F-16CJ “Wild Weasel” (F-16C
+      Block 50/52, SEAD configuration) — Emergency squawk 7700 over Saudi Arabia near
+      the Iraqi border around 15:00 UTC; later disappeared from FlightRadar. KC-135R
+      Stratotanker — Emergency squawk 7700 around 19:00 UTC near Tel Aviv. It appears
+      that Iran has no centralized air defense C2 or any kind of joint engagement zone
+      (JEZ) anymore. However, as evidenced by the incidents above, Iran appears to be
+      relying on Vietnam-style guerrilla tactics of shoot-and-scoot air defense with
+      their passive and highly tactical indigenous system… The IR-SA-7’s (pronounced
+      “Ur-sah-seven”). These Some are specially developed missiles that can loiter at
+      altitude, almost like a glider, completely passive, that lie in wait for one of
+      the US older generation fighters, tankers or other support aircraft to wander
+      too close and then hone-in. While the US can claim “air supremacy” this does not
+      mean that US aircraft can fly over Iran without incurring the risk of being shot
+      down. I wonder if the Russians are paying attention to Iran’s information operations?
+      Iran is proving to be quite clever and creative in producing videos that take
+      trolling to new heights: Ray and I did our usual Friday Intelligence Roundtable
+      with Judge Napolitano: Colonel Wilkerson and I also did our weekly chat with Nima.
+      BTW, Nima Rostami Alkorshid is a name with meaning. Nima = Just. Rostami is the
+      great epic hero of Persian mythology and the central warrior figure in Ferdowsi’s
+      Shahnameh, Iran’s national epic. He is portrayed as a legendary protector of Iran,
+      famous for his strength, bravery, and tragic story, especially the tale in which
+      he unknowingly kills his son Sohrab. Alkorshid means Radiant Sun . Thought you’d
+      like to know: I started the morning with the boys at The Duran . I can’t say enough
+      good things about the quality and depth of their analysis. Always a privilege
+      to appear on their show: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite Donald Trump's claim that Iran has no effective air
+      defenses, the US Air Force faced significant challenges, including multiple aircraft
+      being shot down or experiencing emergencies during operations in the region.
+    paragraph_summary: In a recent speech, Donald Trump claimed that Iran's air defenses
+      were completely ineffective, stating they had no anti-aircraft equipment and that
+      the U.S. military was "unstoppable." However, events on Friday contradicted this
+      assertion, as multiple U.S. aircraft, including F-15E and A-10C fighters, were
+      shot down or experienced emergencies in Iranian airspace, with one pilot still
+      missing. Despite the lack of centralized air defense systems, Iran appears to
+      be employing guerrilla tactics with passive, tactical missile systems that can
+      target U.S. aircraft effectively. This situation highlights that while the U.S.
+      may maintain air supremacy, it does not guarantee safety for its aircraft over
+      Iran, raising concerns about the implications for U.S. military strategy and potential
+      Russian interest in Iran's evolving defense capabilities.
+    published: '2026-04-04T04:37:17+00:00'
+  - title: Trump’s Premature Claim About Air Supremacy and Obliterated Iranian Air Defenses
+    url: https://sonar21.com/trumps-premature-claim-about-air-supremacy-and-obliterated-iranian-air-defenses/
+    text: 'During his Wednesday night speech, Donald Trump made the following claim
+      about Iran’s air defenses: They have no anti-aircraft equipment, their radar’s
+      100% annihilated, we are unstoppable as a military force. It appears that President
+      Trump was a bit premature. The US Air Force had a difficult day on Friday: F-15E
+      (48th Fighter Wing) — Shot down in southwestern Iran. Pilot rescued; WSO still
+      missing. A-10C Thunderbolt II — Shot down and crashed into the Persian Gulf. Pilot
+      reportedly recovered. 2X HH-60G Pave Hawk — Hit during CSAR mission, one crash-landed
+      across the border in Iraq. All crew reportedly rescued. KC-135R Stratotanker —
+      Emergency squawk 7700 around 10:00 UTC near Tel Aviv. F-16CJ “Wild Weasel” (F-16C
+      Block 50/52, SEAD configuration) — Emergency squawk 7700 over Saudi Arabia near
+      the Iraqi border around 15:00 UTC; later disappeared from FlightRadar. KC-135R
+      Stratotanker — Emergency squawk 7700 around 19:00 UTC near Tel Aviv. It appears
+      that Iran has no centralized air defense C2 or any kind of joint engagement zone
+      (JEZ) anymore. However, as evidenced by the incidents above, Iran appears to be
+      relying on Vietnam-style guerrilla tactics of shoot-and-scoot air defense with
+      their passive and highly tactical indigenous system… The IR-SA-7’s (pronounced
+      “Ur-sah-seven”). These Some are specially developed missiles that can loiter at
+      altitude, almost like a glider, completely passive, that lie in wait for one of
+      the US older generation fighters, tankers or other support aircraft to wander
+      too close and then hone-in. While the US can claim “air supremacy” this does not
+      mean that US aircraft can fly over Iran without incurring the risk of being shot
+      down. I wonder if the Russians are paying attention to Iran’s information operations?
+      Iran is proving to be quite clever and creative in producing videos that take
+      trolling to new heights: Ray and I did our usual Friday Intelligence Roundtable
+      with Judge Napolitano: Colonel Wilkerson and I also did our weekly chat with Nima.
+      BTW, Nima Rostami Alkorshid is a name with meaning. Nima = Just. Rostami is the
+      great epic hero of Persian mythology and the central warrior figure in Ferdowsi’s
+      Shahnameh, Iran’s national epic. He is portrayed as a legendary protector of Iran,
+      famous for his strength, bravery, and tragic story, especially the tale in which
+      he unknowingly kills his son Sohrab. Alkorshid means Radiant Sun . Thought you’d
+      like to know: I started the morning with the boys at The Duran . I can’t say enough
+      good things about the quality and depth of their analysis. Always a privilege
+      to appear on their show: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite Donald Trump's claim that Iran has no effective air
+      defenses, the US Air Force faced significant challenges, including multiple aircraft
+      being shot down or experiencing emergencies during operations in the region.
+    paragraph_summary: In a recent speech, Donald Trump claimed that Iran's air defenses
+      were completely ineffective, stating they had no anti-aircraft equipment and that
+      the U.S. military was "unstoppable." However, events on Friday contradicted this
+      assertion, as multiple U.S. aircraft, including F-15E and A-10C fighters, were
+      shot down or experienced emergencies in Iranian airspace, with one pilot still
+      missing. Despite the lack of centralized air defense systems, Iran appears to
+      be employing guerrilla tactics with passive, tactical missile systems that can
+      target U.S. aircraft effectively. This situation highlights that while the U.S.
+      may maintain air supremacy, it does not guarantee safety for its aircraft over
+      Iran, raising concerns about the implications for U.S. military strategy and potential
+      Russian interest in Iran's evolving defense capabilities.
+    published: '2026-04-04T04:37:17+00:00'
+  - title: Is Trump Purging Generals Opposed to a Ground War in Iran, or is it Something
+      Bigger?
+    url: https://sonar21.com/is-trump-purging-generals-opposed-to-a-ground-war-in-iran-or-is-it-something-bigger/
+    text: 'General Randy George Soldiers talk, and the talk on social media from active
+      duty and retired US Army Rangers and others is largely expressing shock and outrage
+      over the forced resignations of Gen. Randy A. George, Gen. David M. Hodne and
+      Maj. Gen. William “Bill” Green Jr. The word on the street is that General George
+      opposes launching a ground attack in Iran. Before exploring the implications of
+      this, I want to introduce you to these three men. Gen. Randy A. George is the
+      41st Chief of Staff of the US Army. He was commissioned as an infantry officer
+      from West Point in 1988 and has served in major command and joint leadership roles
+      across the Army. George entered the Army as an infantry officer and served in
+      combat and command assignments in the Gulf War, Iraq, and Afghanistan. He commanded
+      at the company, battalion, brigade, division, and corps levels, which is a common
+      progression for senior Army leaders. Before becoming Chief of Staff, he served
+      as the 38th Vice Chief of Staff of the Army and as senior military assistant to
+      the Secretary of Defense. He also commanded the 4th Infantry Division and I Corps
+      Chief of Staff George assumed duties as Army Chief of Staff on September 21, 2023.
+      During his tenure, he focused on preparing the Army for large-scale combat, improving
+      recruiting, countering drones, and modernizing long-range weapons and industrial
+      support. Gen. David M. Hodne is a senior US Army officer and West Point graduate
+      who serves as the commanding general of the U.S. Army Transformation and Training
+      Command. Before that, he was the deputy commanding general for futures and concepts
+      at Army Futures Command, and earlier he commanded the 4th Infantry Division and
+      Fort Carson. He also previously led the Army Infantry School and served as the
+      Army’s chief of infantry. Maj. Gen. William “Bill” Green Jr. is the 26th Chief
+      of Chaplains of the US Army and a senior Army chaplain. He was promoted to major
+      general in 2023 and formally took on the Chief of Chaplains role on December 5,
+      2023. He grew up in Savannah, Georgia, and Hilton Head Island, South Carolina,
+      joined the Army after high school, later left active duty to become an ordained
+      minister, and returned as an Army chaplain in 1994. His education includes a B.S.
+      from Savannah State University and a Master of Divinity from Emory University,
+      and he has served in a wide range of chaplain assignments in the Army, including
+      at I Corps, US Army Pacific, and the 1st Armored Division. This move by Hegseth
+      — which was fully coordinated with White House Chief of Staff Susie Wiles — is,
+      at a minimum, a further sign of the politicization of the Department of Defense,
+      err, I meant the Department of War. Since the acronym of the Secretary of War
+      is SOW, can we refer to Hegseth as the Chief Pig? Sorry for the ad hominem, but
+      I could not resist. Seriously, this kind of political housecleaning is the continuation
+      of a trend that started in earnest under Barack Obama. The very last thing the
+      US needs is a politicized military… one that acts more like a Praetorian Guard,
+      whose sole mission is to protect and serve a president based on partisan political
+      considerations rather than protect and defend the Constitution. I know some in
+      the military — not just guys and gals from the Army — who strongly believe that
+      General George was forced to resign because he did not support putting US troops
+      on the ground. In addition to the movement of A-10 Warthogs and Apache helicopters
+      that I reported in my last post, there is a build up of US ground forces in West
+      Asia. Consider this: Sixty three C-17 flights that have departed CONUS and headed
+      to Israel or Jordan since March 12, according to TheIntelFrog , with an additional
+      11 enroute. Twelve of these C-17 flights have departed Pope Army Airfield since
+      March 12, 2026. Given that a C-17 can carry 102 paratroopers with combat loads,
+      then we’re talking a total of 1,224 soldiers… that is roughly the size of one
+      82nd Airborne battalion and four Delta Force squadrons. The odds that the US will
+      launch an ground operation in Iran and employ Delta Force operators is high. Remains
+      to be seen if General George will speak out against further escalation with Iran,
+      or if he will keep his mouth shut and take a sinecure with one of the defense
+      industry behemoths. The shake-up in the Trump administration is not confined to
+      the military. Trump also fired Attorney General Pam Bondi last night and The Atlantic
+      reports, citing sources familiar with White House planning, that discussions are
+      underway about the possible departure of Director of National Intelligence Tulsi
+      Gabbard, FBI Director Kash Patel, Army Secretary Daniel Driscoll, and Labor Secretary
+      Lori Chavez-DeRemer from the Trump administration. These personnel moves — if
+      they happen — may signal something beyond jettisoning people who are not enthusiastic
+      about putting troops on the ground in Iran… Gabbard and Driscoll fit that bill.
+      Getting rid of Kash Patel and Labor Secretary Chavez-DeRemer could be a play by
+      Chief of Staff Susie Wiles, who is reading dismal polling data and wants to re-configure
+      the Trump team with less controversial figures, and wants a makevover with an
+      eye on the November mid-term election. I had a great chat today wtih Sabby Sabs:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Active duty and retired US Army Rangers are expressing shock
+      and outrage over the forced resignations of Generals Randy A. George, David M.
+      Hodne, and William “Bill” Green Jr., reportedly due to George's opposition to
+      a ground attack in Iran.
+    paragraph_summary: The recent forced resignations of General Randy A. George, General
+      David M. Hodne, and Major General William “Bill” Green Jr. have sparked significant
+      shock and outrage among active duty and retired US Army Rangers and others on
+      social media, particularly due to speculation that General George opposed a potential
+      ground attack in Iran. General George, who became the 41st Chief of Staff of the
+      US Army on September 21, 2023, has a distinguished military background, having
+      served in various leadership roles and combat assignments since his commissioning
+      from West Point in 1988. General Hodne, a senior officer and West Point graduate,
+      has held key positions including commanding general of the U.S. Army Transformation
+      and Training Command, while Major General Green serves as the Chief of Chaplains,
+      having been promoted to his current rank in 2023. The implications of their resignations,
+      particularly in relation to military strategy and leadership, are being closely
+      examined.
+    published: '2026-04-03T04:34:02+00:00'
+  - title: Is Trump Purging Generals Opposed to a Ground War in Iran, or is it Something
+      Bigger?
+    url: https://sonar21.com/is-trump-purging-generals-opposed-to-a-ground-war-in-iran-or-is-it-something-bigger/
+    text: 'General Randy George Soldiers talk, and the talk on social media from active
+      duty and retired US Army Rangers and others is largely expressing shock and outrage
+      over the forced resignations of Gen. Randy A. George, Gen. David M. Hodne and
+      Maj. Gen. William “Bill” Green Jr. The word on the street is that General George
+      opposes launching a ground attack in Iran. Before exploring the implications of
+      this, I want to introduce you to these three men. Gen. Randy A. George is the
+      41st Chief of Staff of the US Army. He was commissioned as an infantry officer
+      from West Point in 1988 and has served in major command and joint leadership roles
+      across the Army. George entered the Army as an infantry officer and served in
+      combat and command assignments in the Gulf War, Iraq, and Afghanistan. He commanded
+      at the company, battalion, brigade, division, and corps levels, which is a common
+      progression for senior Army leaders. Before becoming Chief of Staff, he served
+      as the 38th Vice Chief of Staff of the Army and as senior military assistant to
+      the Secretary of Defense. He also commanded the 4th Infantry Division and I Corps
+      Chief of Staff George assumed duties as Army Chief of Staff on September 21, 2023.
+      During his tenure, he focused on preparing the Army for large-scale combat, improving
+      recruiting, countering drones, and modernizing long-range weapons and industrial
+      support. Gen. David M. Hodne is a senior US Army officer and West Point graduate
+      who serves as the commanding general of the U.S. Army Transformation and Training
+      Command. Before that, he was the deputy commanding general for futures and concepts
+      at Army Futures Command, and earlier he commanded the 4th Infantry Division and
+      Fort Carson. He also previously led the Army Infantry School and served as the
+      Army’s chief of infantry. Maj. Gen. William “Bill” Green Jr. is the 26th Chief
+      of Chaplains of the US Army and a senior Army chaplain. He was promoted to major
+      general in 2023 and formally took on the Chief of Chaplains role on December 5,
+      2023. He grew up in Savannah, Georgia, and Hilton Head Island, South Carolina,
+      joined the Army after high school, later left active duty to become an ordained
+      minister, and returned as an Army chaplain in 1994. His education includes a B.S.
+      from Savannah State University and a Master of Divinity from Emory University,
+      and he has served in a wide range of chaplain assignments in the Army, including
+      at I Corps, US Army Pacific, and the 1st Armored Division. This move by Hegseth
+      — which was fully coordinated with White House Chief of Staff Susie Wiles — is,
+      at a minimum, a further sign of the politicization of the Department of Defense,
+      err, I meant the Department of War. Since the acronym of the Secretary of War
+      is SOW, can we refer to Hegseth as the Chief Pig? Sorry for the ad hominem, but
+      I could not resist. Seriously, this kind of political housecleaning is the continuation
+      of a trend that started in earnest under Barack Obama. The very last thing the
+      US needs is a politicized military… one that acts more like a Praetorian Guard,
+      whose sole mission is to protect and serve a president based on partisan political
+      considerations rather than protect and defend the Constitution. I know some in
+      the military — not just guys and gals from the Army — who strongly believe that
+      General George was forced to resign because he did not support putting US troops
+      on the ground. In addition to the movement of A-10 Warthogs and Apache helicopters
+      that I reported in my last post, there is a build up of US ground forces in West
+      Asia. Consider this: Sixty three C-17 flights that have departed CONUS and headed
+      to Israel or Jordan since March 12, according to TheIntelFrog , with an additional
+      11 enroute. Twelve of these C-17 flights have departed Pope Army Airfield since
+      March 12, 2026. Given that a C-17 can carry 102 paratroopers with combat loads,
+      then we’re talking a total of 1,224 soldiers… that is roughly the size of one
+      82nd Airborne battalion and four Delta Force squadrons. The odds that the US will
+      launch an ground operation in Iran and employ Delta Force operators is high. Remains
+      to be seen if General George will speak out against further escalation with Iran,
+      or if he will keep his mouth shut and take a sinecure with one of the defense
+      industry behemoths. The shake-up in the Trump administration is not confined to
+      the military. Trump also fired Attorney General Pam Bondi last night and The Atlantic
+      reports, citing sources familiar with White House planning, that discussions are
+      underway about the possible departure of Director of National Intelligence Tulsi
+      Gabbard, FBI Director Kash Patel, Army Secretary Daniel Driscoll, and Labor Secretary
+      Lori Chavez-DeRemer from the Trump administration. These personnel moves — if
+      they happen — may signal something beyond jettisoning people who are not enthusiastic
+      about putting troops on the ground in Iran… Gabbard and Driscoll fit that bill.
+      Getting rid of Kash Patel and Labor Secretary Chavez-DeRemer could be a play by
+      Chief of Staff Susie Wiles, who is reading dismal polling data and wants to re-configure
+      the Trump team with less controversial figures, and wants a makevover with an
+      eye on the November mid-term election. I had a great chat today wtih Sabby Sabs:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Active duty and retired US Army Rangers are expressing shock
+      and outrage over the forced resignations of Generals Randy A. George, David M.
+      Hodne, and William “Bill” Green Jr., reportedly due to George's opposition to
+      a ground attack in Iran.
+    paragraph_summary: The recent forced resignations of General Randy A. George, General
+      David M. Hodne, and Major General William “Bill” Green Jr. have sparked significant
+      shock and outrage among active duty and retired US Army Rangers and others on
+      social media, particularly due to speculation that General George opposed a potential
+      ground attack in Iran. General George, who became the 41st Chief of Staff of the
+      US Army on September 21, 2023, has a distinguished military background, having
+      served in various leadership roles and combat assignments since his commissioning
+      from West Point in 1988. General Hodne, a senior officer and West Point graduate,
+      has held key positions including commanding general of the U.S. Army Transformation
+      and Training Command, while Major General Green serves as the Chief of Chaplains,
+      having been promoted to his current rank in 2023. The implications of their resignations,
+      particularly in relation to military strategy and leadership, are being closely
+      examined.
+    published: '2026-04-03T04:34:02+00:00'
+  - title: Donald Trump’s Addled Speech on Iran
+    url: https://sonar21.com/donald-trumps-addled-speech-on-iran/
+    text: 'Wow! That was awful. Was Trump sedated? His monotone, delusional delivery
+      reminded me of the character Dustin Hoffman played in Rainman . Trump plowed no
+      new territory. Instead, he provided a Reader’s Digest summary of his recent Truth
+      Social posts… i.e., Iran is defeated, the Iranian Navy and Air Force are destroyed,
+      victory is ours, but we’re going to bomb the hell out of them over the next three
+      weeks. I am pretty sure that some on Wall Street will continue to delude themselves
+      with the belief that this war is nearing an end and, once Trump declares the final
+      victory in three weeks that he will order US troops to come home and the war will
+      be over. Not a chance. During the next three weeks, Iran will continue to degrade
+      and demolish the US bases and equipment that is in Saudi Arabia, Kuwait, Bahrain
+      and the United Arab Emirates. As long as Qatar does not allow combat aircraft
+      to take off from Al Udeid, Iran will ignore it. Prior to his speech, the market
+      for oil futures had dropped significantly, with both WTI and BRENT falling below
+      100. After his speech, both surged back above 100, increasing 3.5% and 4.4% respectively.
+      Trump’s speech failed to reassure the oil markets that the war would end anytime
+      soon. Trump did not back down from his previous threat to attack Iran’s power
+      grid. If he does that, along with Israel, Iran will turn off the lights in Israel,
+      Saudi Arabia, the UAE, Bahrain and Kuwait. Iran’s ability to do this is a direct
+      consequence of the depletion of the US air defense systems — i.e., the Patriot
+      missile batteries and the THAAD. Iran also will retain its choke hold on the Strait
+      of Hormuz — even if the US decides to put troops on Kharg Island or some other
+      piece of Iranian territory. Although the Saudis and the Emiraties are threatening
+      to join the US and Israel by declaring war on Iran, both countries will face devastating
+      economic pressures in the coming weeks… Especially the UAE. Dubai, once a glittering
+      city filled with wealthy ex-pats and hookers, has become a ghost town. Its economy
+      is frozen and shows no signs of thawing anytime soon. Mario Nawfal interviewed
+      Doug MacGregor and me today back-to-back: Danny Davis and I discussed the obstacles
+      and risks facing US troops if Trump decides to try to take Iranian territory in
+      the Persian Gulf: Cyrus Janssen interviewed me on Monday and posted the video
+      today: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes Trump's speech for its monotone delivery
+      and lack of new insights, suggesting that despite his claims of victory over Iran,
+      the conflict is far from over and will likely escalate rather than conclude.
+    paragraph_summary: The article critiques Donald Trump's recent speech, likening
+      his delivery to that of a sedated character from "Rainman," and argues that he
+      failed to present any new insights, instead reiterating his previous statements
+      about Iran. Trump claimed victory over Iran while threatening further military
+      action, which the author believes will not lead to an end to the conflict but
+      rather exacerbate tensions, particularly as Iran continues to target U.S. bases
+      in the region. Following his speech, oil futures surged, indicating market concerns
+      about the protracted nature of the war. The author expresses skepticism about
+      the effectiveness of U.S. military strategies and highlights the economic pressures
+      facing Saudi Arabia and the UAE, suggesting that their threats to join the U.S.
+      against Iran may be unsustainable.
+    published: '2026-04-02T03:43:25+00:00'
+  - title: Donald Trump’s Addled Speech on Iran
+    url: https://sonar21.com/donald-trumps-addled-speech-on-iran/
+    text: 'Wow! That was awful. Was Trump sedated? His monotone, delusional delivery
+      reminded me of the character Dustin Hoffman played in Rainman . Trump plowed no
+      new territory. Instead, he provided a Reader’s Digest summary of his recent Truth
+      Social posts… i.e., Iran is defeated, the Iranian Navy and Air Force are destroyed,
+      victory is ours, but we’re going to bomb the hell out of them over the next three
+      weeks. I am pretty sure that some on Wall Street will continue to delude themselves
+      with the belief that this war is nearing an end and, once Trump declares the final
+      victory in three weeks that he will order US troops to come home and the war will
+      be over. Not a chance. During the next three weeks, Iran will continue to degrade
+      and demolish the US bases and equipment that is in Saudi Arabia, Kuwait, Bahrain
+      and the United Arab Emirates. As long as Qatar does not allow combat aircraft
+      to take off from Al Udeid, Iran will ignore it. Prior to his speech, the market
+      for oil futures had dropped significantly, with both WTI and BRENT falling below
+      100. After his speech, both surged back above 100, increasing 3.5% and 4.4% respectively.
+      Trump’s speech failed to reassure the oil markets that the war would end anytime
+      soon. Trump did not back down from his previous threat to attack Iran’s power
+      grid. If he does that, along with Israel, Iran will turn off the lights in Israel,
+      Saudi Arabia, the UAE, Bahrain and Kuwait. Iran’s ability to do this is a direct
+      consequence of the depletion of the US air defense systems — i.e., the Patriot
+      missile batteries and the THAAD. Iran also will retain its choke hold on the Strait
+      of Hormuz — even if the US decides to put troops on Kharg Island or some other
+      piece of Iranian territory. Although the Saudis and the Emiraties are threatening
+      to join the US and Israel by declaring war on Iran, both countries will face devastating
+      economic pressures in the coming weeks… Especially the UAE. Dubai, once a glittering
+      city filled with wealthy ex-pats and hookers, has become a ghost town. Its economy
+      is frozen and shows no signs of thawing anytime soon. Mario Nawfal interviewed
+      Doug MacGregor and me today back-to-back: Danny Davis and I discussed the obstacles
+      and risks facing US troops if Trump decides to try to take Iranian territory in
+      the Persian Gulf: Cyrus Janssen interviewed me on Monday and posted the video
+      today: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes Trump's speech for its monotone delivery
+      and lack of new insights, suggesting that despite his claims of victory over Iran,
+      the conflict is far from over and will likely escalate rather than conclude.
+    paragraph_summary: The article critiques Donald Trump's recent speech, likening
+      his delivery to that of a sedated character from "Rainman," and argues that he
+      failed to present any new insights, instead reiterating his previous statements
+      about Iran. Trump claimed victory over Iran while threatening further military
+      action, which the author believes will not lead to an end to the conflict but
+      rather exacerbate tensions, particularly as Iran continues to target U.S. bases
+      in the region. Following his speech, oil futures surged, indicating market concerns
+      about the protracted nature of the war. The author expresses skepticism about
+      the effectiveness of U.S. military strategies and highlights the economic pressures
+      facing Saudi Arabia and the UAE, suggesting that their threats to join the U.S.
+      against Iran may be unsustainable.
+    published: '2026-04-02T03:43:25+00:00'
   - title: Trump to give “important update on Iran” Wednesday in prime-time speech
     url: https://sonar21.com/trump-to-give-important-update-on-iran-wednesday-in-prime-time-speech/
     text: 'A-10 Warthog What is Donald Trump going to say about Iran on Wednesday night?

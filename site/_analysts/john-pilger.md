@@ -7,20 +7,50 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As the world enters April 2026, the geopolitical landscape remains marked by unresolved conflicts and the enduring human cost of state policies. The aftermath of U.S. foreign interventions, ongoing violence in Palestine, and the struggle for accountability in Western legal systems continue to dominate independent analysis.
+  As the global geopolitical landscape continues to be shaped by entrenched conflicts and controversial policy decisions, recent independent analyses highlight several key developments with far-reaching consequences.
   
-  **Human Cost of U.S. Foreign Policy in Iran**  
-  Recent reflections by **Dennis Kucinich** underscore the devastating impact of past American actions in Iran, particularly during the Trump Administration. Kucinich describes scenes of Iranian families searching through rubble for missing loved ones, a stark reminder of the "madness that often characterizes leadership in the U.S." This narrative highlights the persistent suffering caused by military interventions and sanctions, with innocent civilians bearing the brunt of policy decisions made far from their homes.
+  The approval of President Trump's unprecedented $1.5 trillion Pentagon budget has drawn sharp criticism for its potential to entrench the United States in a cycle of perpetual warfare. **William Hartung** warns that such "reckless military force," especially in the Middle East, is likely to deepen both human and economic crises. The consensus among analysts is that this level of military spending will not resolve ongoing conflicts but rather exacerbate them, diverting resources from urgent domestic needs. There is a high chance, as Hartung suggests, that without a fundamental reevaluation of priorities, the U.S. will face further destabilization both abroad and at home.
   
-  **Legal and Societal Reckoning in the U.S.**  
-  Domestically, the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited debates over police violence and systemic racism. **Marjorie Cohn** examines the legal defenses available to Ross and situates the incident within a broader pattern of impunity and lack of accountability for law enforcement. The proximity to the site of George Floyd's death amplifies public scrutiny and calls for reform, revealing deep-seated challenges in achieving justice for victims of state violence.
+  Meanwhile, the humanitarian toll of U.S. foreign policy remains stark. **Dennis Kucinich** offers a harrowing account of Iranian families devastated by American military actions, underscoring the profound civilian suffering that persists under current strategies. This narrative is echoed across multiple sources, reinforcing the view that the human cost of these interventions is both immediate and generational.
   
-  **International Response to Israeli Actions in Gaza**  
-  On the international stage, efforts to address the crisis in Palestine continue. **Nicolas J. S. Davies** criticizes President Trump's "20-point Gaza plan," arguing that it exacerbates the humanitarian disaster and calling for robust international intervention. Meanwhile, **Mick Hall** notes U.S. attempts to dissuade other nations from supporting a joint action plan against Israel's conduct in Gaza, emphasizing the geopolitical stakes of collective action. Testimonies from within the IDF, as reported by Sky News, further expose the indiscriminate nature of violence against Palestinians, fueling demands for accountability.
+  On the legal front, the aftermath of the fatal shooting of Renee Good by ICE agent Jonathan Ross in Minneapolis has reignited debates over police violence and accountability. **Marjorie Cohn** delves into the legal complexities and broader societal implications, highlighting ongoing challenges in achieving justice and addressing systemic racism. The incident, occurring near the site of George Floyd's death, serves as a potent reminder of unresolved tensions within the U.S. legal system.
   
-  **Trends and Predictions**  
-  The majority of analysts agree that without significant shifts in policy, both in the U.S. and internationally, the cycles of violence and impunity are set to continue. There is a high chance that grassroots activism and legal challenges—such as those by Palestine Action in the UK—will intensify, but with only moderate prospects for immediate change. Most definitely, the humanitarian consequences of these conflicts will remain at the forefront, with civilian populations continuing to suffer the most. Calls for international accountability and justice are expected to grow louder, but meaningful intervention remains uncertain in the near term.
+  Looking ahead, the prevailing trend is one of escalating militarization and deepening humanitarian crises, particularly in the Middle East. There is a high chance that, absent significant policy shifts, these patterns will persist. The majority of analysts agree: unless there is a concerted effort to redirect priorities toward diplomacy and accountability, the cycle of violence and its attendant consequences will most definitely continue.
 articles:
+  - title: Trump’s $1.5 Trillion Pentagon Budget Will Weaken US
+    url: https://consortiumnews.com/2026/04/04/trumps-1-5-trillion-pentagon-budget-will-weaken-us/
+    text: Reckless force doesn’t work, as the devastating human and economic consequences
+      of the Middle East war shows, writes William Hartung. Passing a $1.5 trillion
+      Pentagon budget will mean endless war. By William Hartung Common Dreams The Pentagon
+      on Friday released… Read more →
+    one_sentence_summary: William Hartung argues that the destructive human and economic
+      impacts of the Middle East war highlight the futility of reckless military force,
+      and warns that a $1.5 trillion Pentagon budget will perpetuate endless conflict.
+    paragraph_summary: In his article, William Hartung argues that the use of reckless
+      military force, exemplified by the ongoing conflicts in the Middle East, leads
+      to severe human and economic repercussions. He emphasizes that the approval of
+      a $1.5 trillion Pentagon budget will perpetuate a cycle of endless warfare, suggesting
+      that such financial commitments only exacerbate the situation rather than resolve
+      it. Hartung calls for a reevaluation of military spending priorities to avoid
+      further devastation.
+    published: '2026-04-04T06:30:52+00:00'
+  - title: Trump’s $1.5 Trillion Pentagon Budget Will Weaken US
+    url: https://consortiumnews.com/2026/04/04/trumps-1-5-trillion-pentagon-budget-will-weaken-us/
+    text: Reckless force doesn’t work, as the devastating human and economic consequences
+      of the Middle East war shows, writes William Hartung. Passing a $1.5 trillion
+      Pentagon budget will mean endless war. By William Hartung Common Dreams The Pentagon
+      on Friday released… Read more →
+    one_sentence_summary: William Hartung argues that the destructive human and economic
+      impacts of the Middle East war highlight the futility of reckless military force,
+      and warns that a $1.5 trillion Pentagon budget will perpetuate endless conflict.
+    paragraph_summary: In his article, William Hartung argues that the use of reckless
+      military force, exemplified by the ongoing conflicts in the Middle East, leads
+      to severe human and economic repercussions. He emphasizes that the approval of
+      a $1.5 trillion Pentagon budget will perpetuate a cycle of endless warfare, suggesting
+      that such financial commitments only exacerbate the situation rather than resolve
+      it. Hartung calls for a reevaluation of military spending priorities to avoid
+      further devastation.
+    published: '2026-04-04T06:30:52+00:00'
   - title: Iran, Epstein & Human Sacrifice
     url: https://consortiumnews.com/2026/03/02/iran-epstein-human-sacrifice/
     text: Journey to the center of the world of American leaders’ madness and ruin,

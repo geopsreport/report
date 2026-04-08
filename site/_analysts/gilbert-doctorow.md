@@ -7,16 +7,267 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  Tensions in the Middle East and Eastern Europe continue to dominate the geopolitical landscape as of April 1, 2026. The ongoing Israel-Iran conflict and the Ukraine war are driving new developments, with significant implications for US, Russian, and European policy.
+  As of April 8, 2026, the geopolitical landscape continues to be shaped by the ongoing Russia-Ukraine conflict, shifting U.S. foreign policy under President Trump, and evolving dynamics within the European Union. The latest developments, as analyzed by **Gilbert Doctorow**, provide new insights into these arenas.
   
-  The latest analysis by **Gilbert Doctorow** highlights Russian Foreign Minister Sergei Lavrov’s warnings about the potential expansion of the Iran war. Lavrov’s comments, as reported in a recent interview, underscore Moscow’s concern that the conflict could escalate beyond the region, especially given the increasing involvement of US forces in the Middle East. Doctorow notes that the US presence is seen as a destabilizing factor, raising the risk of direct confrontation between major powers.
+  The Russia-Ukraine war remains a central issue. **Doctorow** highlights the unique perspective gained from his time in Russia during the conflict, emphasizing the lack of Western journalistic presence and the resulting information gap. While no major battlefield shifts have been reported in the past 24 hours, diplomatic channels show tentative movement. A recent visit by Russian parliamentarians to the U.S. marks a rare attempt to reestablish mid-level diplomatic ties after years of near-total isolation. This could signal the beginning of a slow thaw, though substantive negotiations remain distant.
   
-  On the Ukraine front, Doctorow points to a new phase of hostilities marked by Ukrainian drone attacks on Russian oil infrastructure. These strikes have heightened fears of Russian retaliation, particularly against Estonia, which is viewed in Moscow as a conduit for Western support to Kyiv. Doctorow assesses that there is a high chance of a Russian response targeting Estonia or other NATO border states, though the form and timing remain uncertain.
+  Meanwhile, U.S. policy under President Trump is drawing increased scrutiny. **Doctorow** notes the psychological and moral analyses of Trump’s leadership style, suggesting that both domestic and international actors are recalibrating their expectations. The administration’s recent pivot on Iran—interpreted by Doctorow as a “surrender masked as negotiation”—has led to a suspension of overt threats, with Iran publicly denying any meaningful talks. This apparent de-escalation is seen as a sign of U.S. retrenchment in the Middle East.
   
-  Meanwhile, the debate over US policy in the Middle East is intensifying. In a recent interview, Professor **John Mearsheimer**—as cited by Doctorow—criticizes the silence of liberal academics regarding US backing for Israel’s actions in Gaza and the broader war on Iran. Mearsheimer’s intervention is notable for its directness, suggesting growing unease within segments of the US academic and policy establishment about Washington’s current trajectory.
+  Within the European Union, internal divisions are becoming more pronounced. Belgium’s Prime Minister Alexander De Wever’s veto of the European Commission’s plan to confiscate Russian assets for Ukraine aid has forced a shift to alternative strategies. This move underscores the growing assertiveness of smaller EU states and the challenges facing Brussels in maintaining unity on Russia policy.
   
-  Looking ahead, the majority view among independent analysts is that the risk of escalation in both the Middle East and Eastern Europe remains high. Doctorow concludes with medium confidence that unless there is a significant shift in US or Russian policy, further military incidents and diplomatic crises are “quite likely” in the coming weeks. The possibility of a broader regional war involving Iran, Israel, and the US cannot be excluded, while the Ukraine conflict threatens to spill over into NATO territory if current trends persist.
+  Looking ahead, **Doctorow** assesses with high confidence that the U.S. will continue to reduce its direct involvement in both the Ukraine and Iran conflicts, driven by domestic pressures and shifting global priorities. The reengagement between Russian and U.S. officials, though tentative, is likely to expand, but any breakthrough remains a medium-term prospect at best. In Europe, expect further fragmentation as national leaders assert their interests, complicating coordinated action on Russia and Ukraine.
+  
+  In summary, the prevailing trends point to a gradual U.S. disengagement from Eurasian conflicts, a cautious reopening of Russia-West diplomatic channels, and a more fractured European response to the ongoing crisis. These dynamics are set to define the coming months, with significant policy shifts “most definitely” on the horizon.
 articles:
+  - title: News X World news bulletin 5 April
+    url: https://gilbertdoctorow.com/2026/04/05/news-x-world-news-bulletin-5-april/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the ongoing conflict, featuring
+      insights from his visits to St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his previous
+      two-volume memoir, "Memoirs of a Russianist," which includes diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia University,
+      has a rich career in business related to the USSR and Eastern Europe, and has
+      served in various cultural and academic roles, including as Chairman of the Russian
+      Booker Literary Prize. He currently resides in Brussels.
+    published: '2026-04-05T18:14:21+00:00'
+  - title: An Easter Sunday essay recognizing the intervention of Satan in our times
+    url: https://gilbertdoctorow.com/2026/04/05/an-easter-sunday-essay-recognizing-the-intervention-of-satan-in-our-times/
+    text: 'The personality defects of Donald J. Trump have been the subject of amateur
+      psychology in mass media since his first presidential electoral campaign in 2016.
+      The trait that has been most discussed was and is narcissism. Google’s AI Search
+      has the following to say about this issue: Quote Numerous mental health professionals
+      and critics have publicly suggested that Donald Trump exhibits traits consistent
+      with narcissistic personality disorder (NPD), antisocial personality disorder
+      (ASPD), and paranoid personality disorder, often grouping them under the term
+      “ malignant narcissism “. These claims, primarily argued by psychologists and
+      psychiatrists, cite patterns of grandiosity, lack of empathy, need for admiration,
+      and impulsivity. Unquote This portrait of Trump is the product of specialists
+      operating in our secular culture. However, this is Easter Sunday and I think it
+      entirely appropriate to approach the issue from a Christian binary analytical
+      framework of Good and Evil, God and Satan.  This is all the more relevant because
+      Trump professes to take religion seriously. Key members of his administration,
+      like Marco Rubio and Pete Hegseth, are zealous Believers and speak publicly of
+      their religion. In this context and considering the Easter Sunday dateline of
+      this message to the Community, I say that Trump and the senior members of his
+      Administration have stepped right out of Dostoevsky’s novel The Possessed .  They
+      are Evil Incarnate, they are possessed by Satan in their support of Israeli genocide
+      in Gaza and now in the vicious, inhuman violence they are directing against the
+      Iranian people. Listening to Trump’s daily diatribes, his bloody threats against
+      Tehran, it  strains belief that these words are coming from our top elected official.
+      And so I conclude : shame on the United States if this man is not impeached and
+      removed from office, sent to face the International Court of Justice for war crimes.
+      Amen'
+    one_sentence_summary: The article discusses the prevalent psychological analysis
+      of Donald Trump's personality, particularly focusing on traits of narcissism and
+      other disorders, while suggesting that these traits can also be examined through
+      a Christian lens of Good and Evil.
+    paragraph_summary: The article discusses the personality traits of Donald J. Trump,
+      particularly focusing on claims of narcissism and other personality disorders
+      made by mental health professionals since his 2016 presidential campaign. It highlights
+      the patterns of grandiosity, lack of empathy, and impulsivity associated with
+      these traits, which are often categorized under "malignant narcissism." The author,
+      however, shifts the analysis to a Christian perspective, framing Trump and his
+      administration as embodiments of evil, particularly in light of their actions
+      and rhetoric regarding violence in Gaza and Iran. The piece concludes with a call
+      for Trump's impeachment and accountability for alleged war crimes, emphasizing
+      the moral implications of his leadership.
+    published: '2026-04-05T17:23:13+00:00'
+  - title: An Easter Sunday essay recognizing the intervention of Satan in our times
+    url: https://gilbertdoctorow.com/2026/04/05/an-easter-sunday-essay-recognizing-the-intervention-of-satan-in-our-times/
+    text: 'The personality defects of Donald J. Trump have been the subject of amateur
+      psychology in mass media since his first presidential electoral campaign in 2016.
+      The trait that has been most discussed was and is narcissism. Google’s AI Search
+      has the following to say about this issue: Quote Numerous mental health professionals
+      and critics have publicly suggested that Donald Trump exhibits traits consistent
+      with narcissistic personality disorder (NPD), antisocial personality disorder
+      (ASPD), and paranoid personality disorder, often grouping them under the term
+      “ malignant narcissism “. These claims, primarily argued by psychologists and
+      psychiatrists, cite patterns of grandiosity, lack of empathy, need for admiration,
+      and impulsivity. Unquote This portrait of Trump is the product of specialists
+      operating in our secular culture. However, this is Easter Sunday and I think it
+      entirely appropriate to approach the issue from a Christian binary analytical
+      framework of Good and Evil, God and Satan.  This is all the more relevant because
+      Trump professes to take religion seriously. Key members of his administration,
+      like Marco Rubio and Pete Hegseth, are zealous Believers and speak publicly of
+      their religion. In this context and considering the Easter Sunday dateline of
+      this message to the Community, I say that Trump and the senior members of his
+      Administration have stepped right out of Dostoevsky’s novel The Possessed .  They
+      are Evil Incarnate, they are possessed by Satan in their support of Israeli genocide
+      in Gaza and now in the vicious, inhuman violence they are directing against the
+      Iranian people. Listening to Trump’s daily diatribes, his bloody threats against
+      Tehran, it  strains belief that these words are coming from our top elected official.
+      And so I conclude : shame on the United States if this man is not impeached and
+      removed from office, sent to face the International Court of Justice for war crimes.
+      Amen'
+    one_sentence_summary: The article discusses the prevalent psychological analysis
+      of Donald Trump's personality, particularly focusing on traits of narcissism and
+      other disorders, while suggesting that these traits can also be examined through
+      a Christian lens of Good and Evil.
+    paragraph_summary: The article discusses the personality traits of Donald J. Trump,
+      particularly focusing on claims of narcissism and other personality disorders
+      made by mental health professionals since his 2016 presidential campaign. It highlights
+      the patterns of grandiosity, lack of empathy, and impulsivity associated with
+      these traits, which are often categorized under "malignant narcissism." The author,
+      however, shifts the analysis to a Christian perspective, framing Trump and his
+      administration as embodiments of evil, particularly in light of their actions
+      and rhetoric regarding violence in Gaza and Iran. The piece concludes with a call
+      for Trump's impeachment and accountability for alleged war crimes, emphasizing
+      the moral implications of his leadership.
+    published: '2026-04-05T17:23:13+00:00'
+  - title: 'News X World Bulletin: The fast track will be von der Leyen out on the street'
+    url: https://gilbertdoctorow.com/2026/04/03/news-x-world-bulletin-the-fast-track-will-be-von-der-leyen-out-on-the-street/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's latest book, "War Diaries. The Russia-Ukraine
+      War, 2022-2023," offers a distinctive perspective on the ongoing conflict by providing
+      insights from the Russian home front during a period when Western journalists
+      were largely absent due to visa restrictions. This work follows his earlier two-volume
+      memoir, "Memoirs of a Russianist," which includes unique diary entries reflecting
+      on the experiences of expatriate managers in Moscow during the 1990s. A seasoned
+      observer of Russian affairs since 1965, Doctorow holds degrees from Harvard and
+      Columbia, has a background in business focused on the USSR and Eastern Europe,
+      and has contributed to the literary community as the Chairman of the Russian Booker
+      Literary Prize. He currently resides in Brussels.
+    published: '2026-04-03T14:48:54+00:00'
+  - title: Judging Freedom edition of 1 April 2026
+    url: https://gilbertdoctorow.com/2026/04/01/judging-freedom-edition-of-1-april-2026/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the conflict through his firsthand
+      accounts from the Russian home front during a time when Western journalists were
+      largely absent due to visa restrictions. This work follows his earlier two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia, has a rich
+      career in business related to the USSR and Eastern Europe, and has served in various
+      literary and academic roles, including as Chairman of the Russian Booker Literary
+      Prize. He currently resides in Brussels.
+    published: '2026-04-01T12:31:25+00:00'
+  - title: Will Trump’s departure from the Iran war lead directly to his also leaving
+      the Ukraine war?
+    url: https://gilbertdoctorow.com/2026/04/01/will-trumps-departure-from-the-iran-war-lead-directly-to-his-also-leaving-the-ukraine-war/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work builds on his previous
+      two-volume memoir, "Memoirs of a Russianist," which includes diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow combines his academic credentials, including a Ph.D.
+      from Columbia University and experience in multinational business, to provide
+      insightful commentary on the region. He has also held notable positions, such
+      as Chairman of the Russian Booker Literary Prize and a Visiting Scholar at Columbia's
+      Harriman Institute, and currently resides in Brussels.
+    published: '2026-04-01T10:00:29+00:00'
   - title: 'NewsX World Report: US troops Middle East | Israel Iran war'
     url: https://gilbertdoctorow.com/2026/03/31/newsx-world-report-us-troops-middle-east-israel-iran-war/
     text: 'Earlier today I wrote about the questions put to me by News X World for an

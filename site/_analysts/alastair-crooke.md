@@ -7,25 +7,22 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As of April 1, 2026, the geopolitical landscape remains defined by the ongoing U.S.-Israeli confrontation with Iran, the transactional nature of U.S. foreign policy under President Trump, and the deepening crisis of trust within Western institutions. The most recent analyses highlight several key developments and trends.
+  As of April 8, 2026, the geopolitical landscape remains defined by intensifying U.S.-Iran tensions, the transactional approach of the Trump administration, and shifting alliances across Eurasia. The latest analyses highlight several key developments:
   
-  **Iran’s Asymmetric Strategy and U.S. Limitations**
+  **Iran’s Asymmetric Strategy and U.S. Dilemmas**  
+  Recent reporting underscores the growing challenge Iran poses to U.S. and Israeli military doctrine. **Alastair Crooke** notes that Iran’s two-decade investment in asymmetric warfare has rendered conventional U.S. air-strike strategies increasingly ineffective. Iran’s capacity to absorb and respond to attacks—targeting U.S. military infrastructure and leveraging regional proxies—has not only blunted Western pressure but also shifted the regional balance. Crooke emphasizes, “Iran’s resilience and strategic patience are recalibrating the rules of engagement in West Asia,” suggesting that any direct U.S. or Israeli strike risks triggering a broader, uncontrollable conflict.
   
-  Recent reports underscore Iran’s resilience in the face of sustained U.S. and Israeli pressure. According to **Alastair Crooke**, Iran’s two-decade investment in asymmetric warfare has “posed a significant challenge to the conventional air-strike approach of the U.S. and Israel,” with Tehran’s strategy now actively targeting U.S. military infrastructure across the region. This approach not only frustrates U.S. military planners but also threatens to shift the regional balance of power, particularly as Iran’s actions disrupt energy markets and undermine U.S. efforts to contain China and the BRICS bloc. Crooke notes that “if Iran survives and stays steadfast, Trump’s resource war on China and BRICS collapses,” suggesting that Iran’s endurance is pivotal to broader geopolitical outcomes.
+  **Trump’s Transactional Foreign Policy and Its Limits**  
+  The Trump administration’s focus on short-term economic and political gains continues to shape its foreign engagements, from Ukraine to Gaza. Crooke critiques this approach as “kabuki theater,” where negotiations serve domestic political narratives rather than address root causes. In Ukraine, U.S. efforts have failed to produce substantive resolutions, with talks in Moscow revealing a fundamental disconnect between American and Russian objectives. Similarly, U.S. reconstruction plans for Gaza are entangled with Israeli interests, exposing rifts between Washington and Tel Aviv.
   
-  **Transactional Diplomacy and Stalled Negotiations**
+  **Strategic Divergence Between the U.S. and Israel**  
+  While the U.S. pursues a business-oriented reconstruction agenda in Gaza, Israeli leaders are increasingly wary of Trump’s reliability as an ally. The divergence is driven by conflicting priorities: Trump’s administration seeks economic partnerships and regional stability, while Israeli Prime Minister Netanyahu remains focused on security and existential threats. Crooke observes that this strategic split could undermine the longstanding U.S.-Israel alliance, especially as Netanyahu faces domestic legal troubles and political pressure.
   
-  Diplomatic efforts between the U.S. and Iran have faltered, with Crooke highlighting that “the U.S.'s unrealistic demands led to Iran's rejection” of nuclear disarmament talks. This impasse is driven more by domestic political considerations and psychological posturing than by coherent strategy, raising the risk of further escalation. The Trump administration’s preference for transactional, business-oriented deals—evident in both the Ukraine and Gaza reconstruction plans—has failed to resolve underlying conflicts and, in some cases, has exacerbated tensions with allies such as Israel.
+  **Trends and Predictions**  
+  Looking ahead, the majority of analysts agree that Iran’s steadfastness is likely to further complicate U.S. ambitions in the region. There is a high chance that continued U.S. pressure will only reinforce Iran’s asymmetric posture, making a quick or decisive military victory improbable. The transactional nature of Trump’s foreign policy is expected to persist, prioritizing optics and economic interests over durable solutions. The rift between the U.S. and Israel is likely to widen, particularly if American priorities continue to diverge from Israeli security concerns.
   
-  **Internal Western Instability and Crisis of Legitimacy**
-  
-  Parallel to these external challenges, Western societies are experiencing a profound rupture between elites and the broader population. The fallout from the Epstein scandal, as analyzed by Crooke, has “exposed the moral decay and systemic corruption within Western elites,” fueling public disillusionment and a potential shift towards nihilism and authoritarianism. This internal instability threatens to undermine the legitimacy of Western institutions at a time when geopolitical competition is intensifying.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, the majority of sources agree that Iran’s asymmetric strategy will continue to frustrate U.S. and Israeli objectives, with a high chance of further disruption to regional stability and global energy flows. The transactional model of U.S. foreign policy is likely to persist, prioritizing short-term gains over long-term solutions, which could deepen rifts with traditional allies and complicate efforts to contain rivals like China and Russia. The internal crisis of legitimacy in the West is expected to intensify, with a high chance of increased political instability and social unrest.
-  
-  In summary, the coming weeks will most definitely see continued volatility in West Asia, persistent diplomatic deadlock, and mounting internal pressures within Western societies. The resilience of Iran and the adaptability of U.S. policy will be decisive factors shaping the next phase of global geopolitics.
+  **Conclusion**  
+  The evolving dynamics in West Asia and Eastern Europe point to a period of heightened uncertainty. As Crooke concludes, unless the U.S. adapts its approach—moving beyond transactionalism and recognizing the limits of military power—its influence in these critical theaters will most definitely continue to erode.
 articles:
   - title: Is Having No War Plan Trump’s ‘Plan’? – OpEd
     url: https://www.eurasiareview.com/16032026-is-having-no-war-plan-trumps-plan-oped/

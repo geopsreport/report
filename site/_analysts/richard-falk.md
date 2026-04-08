@@ -7,16 +7,874 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As the first quarter of 2026 closes, geopolitical tensions and domestic challenges continue to define the global landscape. The most pressing developments remain centered on the Middle East, the erosion of international law, and the resurgence of elite-driven politics in the United States.
+  As global tensions remain high following the joint U.S.-Israeli military campaign against Iran, the international community is bracing for further escalation and its far-reaching consequences. The conflict, widely criticized as an unprovoked and dangerous precedent, continues to dominate discourse among independent analysts and legal scholars.
   
-  The ongoing conflict involving Israel, the U.S., and Iran has escalated, with **Richard Falk** highlighting the risk of a broader regional war. The latest reports underscore how these hostilities are not only devastating civilian infrastructure but are also disrupting international travel and energy markets. According to Falk, these dynamics are “prompting discussions about geopolitical dynamics and the emergence of a new world order.” The majority of analysts now agree that unless there is a significant diplomatic intervention, the likelihood of further escalation remains high.
+  The most recent development is the announcement that **Richard Falk**, a prominent international law professor, will deliver the 21st Frank K. Kelly Lecture on Humanity’s Future tonight. The event will address the legal, moral, and political ramifications of the Iran War, with a particular focus on the erosion of international law and the complicity of Western powers in ongoing regional conflicts. This lecture is expected to draw significant attention from policymakers and civil society, given the current climate of uncertainty and the urgent need for dialogue on peace and security.
   
-  On the domestic front, the U.S. is witnessing a troubling revival of quasi-royalist sentiment, as described by **Richard Falk** in his critique of the intertwining of wealth, power, and morality. This trend, he warns, threatens to undermine foundational democratic ideals and further entrench elite influence over political and legal systems. The exposure of networks such as those surrounding Epstein only amplifies concerns about the lack of accountability among the powerful.
+  In his recent writings, **Richard Falk** has characterized the Iran conflict as a “significant international blunder” and warns of its potential to trigger a wider, possibly apocalyptic, regional war. He emphasizes that the justification for the attack—regional security concerns—rings hollow in light of the ongoing humanitarian crisis in Gaza and the broader disregard for international legal norms. Falk’s critique extends to the U.S. role, arguing that its support for Israel in both the Palestinian and Iranian theaters undermines prospects for a just and peaceful future.
   
-  Internationally, the marginalization of international law continues, with far-right and nationalist movements—exemplified by figures like Trump—gaining ground. **Falk** argues that this shift reflects a broader trend of power politics that has been evolving since 1945, eroding the legitimacy of established mechanisms like the United Nations and favoring unilateral actions.
+  Looking ahead, the prevailing view among analysts is that the risk of further escalation remains high. The conflict has already disrupted civilian infrastructure, international travel, and energy markets, with ripple effects felt far beyond the Middle East. There is a high chance that tonight’s lecture will reinforce calls for renewed commitment to international law and multilateral diplomacy, but there is little optimism for immediate de-escalation. As **Falk** has previously noted, “the world stands at a dangerous crossroads,” and absent a dramatic shift in policy, the likelihood of a broader regional war remains quite likely.
   
-  Looking ahead, the prevailing trend is one of deepening instability. There is a high chance that the Middle East conflict will further destabilize global markets and exacerbate humanitarian crises. Domestically, the entrenchment of elite power structures in the U.S. is quite likely to persist, challenging prospects for meaningful reform. In the international arena, the sidelining of multilateral institutions and international law is expected to continue, with most analysts predicting a prolonged period of uncertainty and contestation over the future world order.
+  In summary, the situation is marked by deepening legal and moral crises, with independent voices urging urgent action to prevent further catastrophe. The next 24 hours will be closely watched for signals from the Kelly Lecture and any shifts in diplomatic posture from the major powers involved.
 articles:
+  - title: Streaming Kelly Lecture on Iran War and Civilizational Threat
+    url: https://richardfalk.org/2026/04/07/streaming-kelly-lecture-on-iran-war-and-civilizational-threat/
+    text: 'Watch Tonight’s Kelly Lecture by Prof. Richard Falk Live — Streaming Link
+      Inside Nuclear Age Peace Foundation<info@napf.org> ​Richard A. Falk​  Dear Friends, The
+      21st Frank K. Kelly Lecture on Humanity’s Future begins at 6:00 PM PT this evening.
+      A livestream will be available for those who would like to join us virtually. Watch
+      the lecture live here: https://youtube.com/live/iS45Yc25vT0?feature=share Professor
+      Richard Falk, Albert G. Milbank Professor Emeritus of International Law at Princeton
+      University, will address the legal, moral, and political challenges shaping humanity’s
+      future in this critical moment in the history of our world. We hope you’ll tune
+      in wherever you are. For those unable to do so, a recording will be available
+      on our website shortly.  With gratitude, The Nuclear Age Peace Foundation Team
+      www.wagingpeace.org  Sent via ActionNetwork.org . To update your email address,
+      change your name or address, or to stop receiving emails from Nuclear Age Peace
+      Foundation , please click here .'
+    one_sentence_summary: Professor Richard Falk will deliver the 21st Frank K. Kelly
+      Lecture on Humanity’s Future tonight at 6:00 PM PT, addressing critical legal,
+      moral, and political challenges, with a livestream available for virtual attendees.
+    paragraph_summary: The Nuclear Age Peace Foundation is hosting the 21st Frank K.
+      Kelly Lecture on Humanity’s Future, featuring Professor Richard Falk, who will
+      discuss the legal, moral, and political challenges facing humanity today. The
+      lecture will be livestreamed at 6:00 PM PT, and a recording will be available
+      on the foundation's website for those unable to attend. The event aims to engage
+      viewers in critical discussions about the future of the world.
+    published: '2026-04-07T20:59:35+00:00'
+  - title: Streaming Kelly Lecture on Iran War and Civilizational Threat
+    url: https://richardfalk.org/2026/04/07/streaming-kelly-lecture-on-iran-war-and-civilizational-threat/
+    text: 'Watch Tonight’s Kelly Lecture by Prof. Richard Falk Live — Streaming Link
+      Inside Nuclear Age Peace Foundation<info@napf.org> ​Richard A. Falk​  Dear Friends, The
+      21st Frank K. Kelly Lecture on Humanity’s Future begins at 6:00 PM PT this evening.
+      A livestream will be available for those who would like to join us virtually. Watch
+      the lecture live here: https://youtube.com/live/iS45Yc25vT0?feature=share Professor
+      Richard Falk, Albert G. Milbank Professor Emeritus of International Law at Princeton
+      University, will address the legal, moral, and political challenges shaping humanity’s
+      future in this critical moment in the history of our world. We hope you’ll tune
+      in wherever you are. For those unable to do so, a recording will be available
+      on our website shortly.  With gratitude, The Nuclear Age Peace Foundation Team
+      www.wagingpeace.org  Sent via ActionNetwork.org . To update your email address,
+      change your name or address, or to stop receiving emails from Nuclear Age Peace
+      Foundation , please click here .'
+    one_sentence_summary: Professor Richard Falk will deliver the 21st Frank K. Kelly
+      Lecture on Humanity’s Future tonight at 6:00 PM PT, addressing critical legal,
+      moral, and political challenges, with a livestream available for virtual attendees.
+    paragraph_summary: The Nuclear Age Peace Foundation is hosting the 21st Frank K.
+      Kelly Lecture on Humanity’s Future, featuring Professor Richard Falk, who will
+      discuss the legal, moral, and political challenges facing humanity today. The
+      lecture will be livestreamed at 6:00 PM PT, and a recording will be available
+      on the foundation's website for those unable to attend. The event aims to engage
+      viewers in critical discussions about the future of the world.
+    published: '2026-04-07T20:59:35+00:00'
+  - title: 'RAF Kelly Lecture: Crimes Against Peace in the Nuclear Age'
+    url: https://richardfalk.org/2026/04/06/raf-kelly-lecture-crimes-against-peace-in-the-nuclear-age/
+    text: 'Santa Barbara News-Press Stopping crimes against peace Princeton law professor
+      Richard Falk talks ahead of Nuclear Age Peace Foundation Event by Mark M. Whitehurst
+      / Voice April 2, 2026 The 21st Frank K. Kelly Lecture, hosted by the Nuclear Age
+      Peace Foundation, presented at the Music Academy of the West at 6 p.m. on April
+      7. Law professor Richard Falk will speak at the event. (Photo courtesy the Nuclear
+      Age Peace Foundation) Every person deserves peace, security, and freedom, values
+      that underpin international law. A lecture on humanity’s future by Princeton professor
+      of law Richard Falk will support and develop this idea as he explores the United
+      States’ current disregard for prudence, law, morality, and its complicity in Israel’s
+      genocidal and militaristic approach not only in relation to Occupied Palestine,
+      but also to the Middle East as a region. This talk will be the 21st Frank K. Kelly
+      Lecture, hosted by the Nuclear Age Peace Foundation and presented at the Music
+      Academy of the West at 6 p.m. on April 7. Prof. Falk took time to be interviewed
+      by VOICE Magazine, answering questions associated with his upcoming Frank K. Kelly
+      Lecture. His responses have been edited for length. VOICE: How have sovereignty
+      and international law been impacted by the current attempts to justify regime
+      change as part of a new world order? Prof. Falk: In modern international law,
+      as summarized in the UN Charter with respect to issues of peace and security,
+      regime change by intervention is never legal unless authorized by the Security
+      Council in the context of peace and security. Under normal circumstances, the
+      UN is itself prohibited from intervention in the internal affairs of any sovereign
+      state unless overridden by threats to international peace and security. Such a
+      limitation was inserted in the Charter as a repudiation of the practice in the
+      colonial era of invoking ‘humanitarian intervention’ to carry out the political
+      agenda of European colonial powers and regional hegemons in states of the Global
+      South. VOICE: What is the relationship between the International Criminal Court
+      and the United Nations? Falk: The ICC is based on the Rome Statute that sets up
+      the legal framework for tribunal operations, including its scope of authority,
+      but as a treaty it is binding only on those states that agree to become Parties.
+      This is unlike the International Court of Justice (ICJ) that is an organic part
+      of the UN, and states by becoming Members of the UN automatically become parties
+      to the Statute that frames ICJ undertakings. This elementary distinction is an
+      introduction to the operation of the two tribunals, which proceed along quite
+      different lines. The ICC was early discredited by seeming to concentrate its activities
+      to violations of international criminal law on the basis of judicially approved
+      recommendations of the Prosecutor to proceed with an investigation of alleged
+      criminality on the part exclusively of leaders in African countries. Whereas the
+      scope of ICJ activity is to resolve legal disputes among sovereign states, the
+      ICC addresses crimes of individuals acting on behalf of the state. Both judicial
+      bodies are without direct enforcement capabilities, with the ICJ depending on
+      the SC, and the ICC depending on the implementation of its criminal proceedings
+      through the cooperation of those states that are parties to the Rome Statute,
+      and can issue arrest warrants for accused individuals even if their nationality
+      is of a state not party to the ICC, provided that the crimes prosecuted occurred
+      on the territory of a party. In the highest profile case in ICC’s history, brought
+      against top Israeli and Hamas leaders, crimes justifying the prosecution were
+      alleged to be committed in Palestine, which despite being occupied, was considered
+      a sovereign state. The implementation of the Arrest Warrants calling for the arrests
+      of PM Netanyahu and former Minister of Defense Gallant have not been acted upon,
+      including by parties to the Rome Statute, leaving implementation in a grey zone
+      of voluntary law enforcement. Both tribunals have performed  in accord with admirable
+      professional standards of judicial practice in their several decisions since October
+      7, both provisionally in relation to alleged Israel violations of the Genocide
+      Convention and as to the legality of Israel’s continued occupation of Palestinian
+      Territories (West Bank, Gaza, and East Jerusalem) that began as a result of the
+      outcome of the 1967 War. VOICE:  Do you think the UN Security Council will refer
+      recent acts of aggression by the US and Israel to the ICC? What would be the implications
+      of this? Santa Barbara County, in your inbox Start your morning with DAYBREAK,
+      our email newsletter bringing you the essential local stories you need to start
+      your day. Top of Form SIGN UP Bottom of Form By clicking sign up, you are agreeing
+      to our terms . Falk: It is impossible to expect such a referral. We need to remember
+      that the SC cannot act without the unanimous support of the five permanent members
+      of the SC, three of whom are NATO members supportive of the aggression to varying
+      degrees. And even if these governments were to be swayed by public opinion in
+      their countries it is unrealistic to suppose that the US Government would vote
+      in favor of such a referral. As mentioned, the ICC is not institutionally part
+      of the UN, and it is not clear that even if there was support from the P5 it would
+      have any formal impact. It is possible to envision that the ICC Prosecutor might
+      recommend to ICC judges that they authorize an investigation of the charges of
+      aggression, and if found persuasive, that arrest warrants be issued for the respective
+      heads of state, and possibly other officials or even officials of corporate entities.
+      As the experience of earlier arrest warrants against Netanyahu and Gallant illustrate,
+      respect for ICC arrest warrants is essentially voluntary and not likely to be
+      implemented against leading figures of powerful countries. The ICC, unlike the
+      ICJ, can only proceed against individuals and lacks jurisdiction to take formal
+      legal action against governments, corporations, and financial institutions. In
+      sum, the ICC path to accountability is not promising. More constructive avenues
+      to achieve some kind of legal assessment might result from the formation of a
+      civil society or peoples’ tribunal. I served as President of the Gaza Tribunal
+      that gathered evidence, presented expert and survivor testimonies and concluded
+      its inquiries with a strong decision by a Jury of Conscience composed of respected
+      political, cultural, and scholarly personalities. Smaller tribunals in Canada
+      and the UK have critically examined allegations of complicity in the furtherance
+      of Israel’s international crimes in Gaza. VOICE: What are the reasons why the
+      US, Israel, and Iran are not members of the ICC? Falk: My response is no more
+      than a speculation based on public postures. I think the basic reason is the awareness
+      that their respective foreign policy positions are controversial from the perspective
+      of international criminal law. These three governments for somewhat different
+      reasons are not prepared to subject their strategic priorities or national security
+      to legal or criminal scrutiny. VOICE: How has the policing power of the UN evolved
+      and what are the future prospects of this power? Falk: From the time the UN was
+      established until the present, the policing or enforcement capabilities of the
+      Organization was made dependent on decisions of the Security Council, which gives
+      only the five winners of World War II a right of veto, as prominently used by
+      the US and its NATO allies during the Israel assault upon Gaza, to shield Israel
+      from censure, law enforcement, and accountability. It is again relevant to interpreting
+      the outbreak of the present Iran War. Once again the political organs of the UN,
+      the SC and General Assembly, have been essentially silent in the face of aggression,
+      and the violation of the core norm of the UN Charter, prohibiting aggressive uses
+      of force have been so far completely neutralized. And even the GA, which lacks
+      enforcement or accountability authority, has lacked the political will to confront
+      outright aggression. This unlawful start of the Iran War resembles what was called
+      at the Nuremberg trials after World War II ‘Crimes against Peace.’ Voice: Would
+      you share any suggestions for how our country or the individuals who read this
+      interview should proceed to support Peace? Falk: Let your conscience be your guide,
+      as shaped by a knowledge of how ‘wars of choice’ as the New York Times described
+      the present Iran War, so far causing death, suffering, and devastation to Iran
+      and several of its neighbors. This leads to anti-American rage among people everywhere,
+      causing bitter divisions even here. Even the New York Times referred to the Iran
+      War as ‘the ultimate war of choice.’ I call it an unprovoked war of aggression
+      that is likely to make even more stressed the internal situation of multiple hardships
+      being endured by the Iranian people, and to spread disorder throughout the region,
+      and beyond. U.S. warmaking since World War II has produced few benefits and much
+      grief and destruction. It is time to bring war under control before it dooms the
+      future of humanity. This will only happen when enough people take action that
+      overwhelms special interests and militarism that now shape our foreign policy.
+      Voice: Are there any precedents for the kind of changed needed to move forward?
+      Falk: When a situation arises where a state pursues internal and external against
+      the will of the people, opposition in the form of nonviolent protest initiatives
+      often can achieve goals related to peace and justice. This happened in the U.S.
+      at the latter stages of the Vietnam War. Finally exerting enough pressure to produce
+      a transition to peace for this country and an era of reconstruction for Vietnam.
+      Another example is the surprising success of the anti-apartheid movement that
+      was aided by nonviolent solidarity movements around the world including cultural
+      and sports boycotts, divestment campaigns, and alienation in international relations.
+      The weight of these pressures brought an unexpected change of policy by the ruling
+      South African white leadership that brought racism to an end, and a transition
+      to a constitutional democracy, while far from perfect, is an inspiring improvement
+      over apartheid or a bloody race war. Such a possibility exists for the American
+      people at this time to end its participation in the Iran War, and at the same
+      time adjust its relationship with Israel by reference to law and justice. Although
+      we can know the future, we can know and act to achieve a future that will be shaped
+      by values rather than by the strategic calculations of unaccountable bureaucrats.
+      As many moral giants of our world have insisted upon we must dedicate themselves
+      to ‘peace by peaceful means’ and not take refuge by silently crouching beneath
+      the weight of state propaganda. Professor Richard Falk is the Albert G. Milbank
+      Professor Emeritus of International Law at Princeton University. He was nominated
+      for the Nobel Peace Prize in 2023. He has served as chair of Global Law, Faculty
+      of Law, at Queen Mary University, London and co-Director of its Centre of Environmental
+      Justice and Crime; Research Associate at the Orfalea Center of Global Studies
+      at the UC Santa Barbara; and Fellow of the Tellus Institute. He directed the project
+      on Global Climate Change, Human Security, and Democracy at UCSB and formerly was
+      the director of the North American group in the World Order Models Project. Between
+      2008 and 2014, Falk served as UN Special Rapporteur on the human rights situation
+      in the Palestinian territories. Falk is the author or editor of more than 75 books.
+      In 2022, Professor Falk authored Protecting Human Rights in Occupied Palestine:
+      Working Through the United Nations in collaboration with John Dugard and Michael
+      Lynk. He is Senior Vice President of the Nuclear Age Peace Foundation. This article
+      originally appeared in Voice Magazine.'
+    one_sentence_summary: Princeton law professor Richard Falk will deliver the 21st
+      Frank K. Kelly Lecture on April 7, discussing the need for peace, security, and
+      adherence to international law while critiquing the U.S.'s complicity in global
+      conflicts, particularly regarding Israel and Palestine.
+    paragraph_summary: The upcoming 21st Frank K. Kelly Lecture, hosted by the Nuclear
+      Age Peace Foundation on April 7 at the Music Academy of the West, will feature
+      Princeton law professor Richard Falk, who will discuss the essential values of
+      peace, security, and freedom that underpin international law. In his talk, Falk
+      will critique the United States' disregard for these principles, particularly
+      in relation to its complicity in Israel's actions in Occupied Palestine and the
+      broader Middle East. He emphasizes that modern international law, as outlined
+      in the UN Charter, prohibits regime change through intervention unless sanctioned
+      by the Security Council, highlighting the historical misuse of "humanitarian intervention"
+      by colonial powers to further their political agendas.
+    published: '2026-04-06T15:37:12+00:00'
+  - title: 'RAF Kelly Lecture: Crimes Against Peace in the Nuclear Age'
+    url: https://richardfalk.org/2026/04/06/raf-kelly-lecture-crimes-against-peace-in-the-nuclear-age/
+    text: 'Santa Barbara News-Press Stopping crimes against peace Princeton law professor
+      Richard Falk talks ahead of Nuclear Age Peace Foundation Event by Mark M. Whitehurst
+      / Voice April 2, 2026 The 21st Frank K. Kelly Lecture, hosted by the Nuclear Age
+      Peace Foundation, presented at the Music Academy of the West at 6 p.m. on April
+      7. Law professor Richard Falk will speak at the event. (Photo courtesy the Nuclear
+      Age Peace Foundation) Every person deserves peace, security, and freedom, values
+      that underpin international law. A lecture on humanity’s future by Princeton professor
+      of law Richard Falk will support and develop this idea as he explores the United
+      States’ current disregard for prudence, law, morality, and its complicity in Israel’s
+      genocidal and militaristic approach not only in relation to Occupied Palestine,
+      but also to the Middle East as a region. This talk will be the 21st Frank K. Kelly
+      Lecture, hosted by the Nuclear Age Peace Foundation and presented at the Music
+      Academy of the West at 6 p.m. on April 7. Prof. Falk took time to be interviewed
+      by VOICE Magazine, answering questions associated with his upcoming Frank K. Kelly
+      Lecture. His responses have been edited for length. VOICE: How have sovereignty
+      and international law been impacted by the current attempts to justify regime
+      change as part of a new world order? Prof. Falk: In modern international law,
+      as summarized in the UN Charter with respect to issues of peace and security,
+      regime change by intervention is never legal unless authorized by the Security
+      Council in the context of peace and security. Under normal circumstances, the
+      UN is itself prohibited from intervention in the internal affairs of any sovereign
+      state unless overridden by threats to international peace and security. Such a
+      limitation was inserted in the Charter as a repudiation of the practice in the
+      colonial era of invoking ‘humanitarian intervention’ to carry out the political
+      agenda of European colonial powers and regional hegemons in states of the Global
+      South. VOICE: What is the relationship between the International Criminal Court
+      and the United Nations? Falk: The ICC is based on the Rome Statute that sets up
+      the legal framework for tribunal operations, including its scope of authority,
+      but as a treaty it is binding only on those states that agree to become Parties.
+      This is unlike the International Court of Justice (ICJ) that is an organic part
+      of the UN, and states by becoming Members of the UN automatically become parties
+      to the Statute that frames ICJ undertakings. This elementary distinction is an
+      introduction to the operation of the two tribunals, which proceed along quite
+      different lines. The ICC was early discredited by seeming to concentrate its activities
+      to violations of international criminal law on the basis of judicially approved
+      recommendations of the Prosecutor to proceed with an investigation of alleged
+      criminality on the part exclusively of leaders in African countries. Whereas the
+      scope of ICJ activity is to resolve legal disputes among sovereign states, the
+      ICC addresses crimes of individuals acting on behalf of the state. Both judicial
+      bodies are without direct enforcement capabilities, with the ICJ depending on
+      the SC, and the ICC depending on the implementation of its criminal proceedings
+      through the cooperation of those states that are parties to the Rome Statute,
+      and can issue arrest warrants for accused individuals even if their nationality
+      is of a state not party to the ICC, provided that the crimes prosecuted occurred
+      on the territory of a party. In the highest profile case in ICC’s history, brought
+      against top Israeli and Hamas leaders, crimes justifying the prosecution were
+      alleged to be committed in Palestine, which despite being occupied, was considered
+      a sovereign state. The implementation of the Arrest Warrants calling for the arrests
+      of PM Netanyahu and former Minister of Defense Gallant have not been acted upon,
+      including by parties to the Rome Statute, leaving implementation in a grey zone
+      of voluntary law enforcement. Both tribunals have performed  in accord with admirable
+      professional standards of judicial practice in their several decisions since October
+      7, both provisionally in relation to alleged Israel violations of the Genocide
+      Convention and as to the legality of Israel’s continued occupation of Palestinian
+      Territories (West Bank, Gaza, and East Jerusalem) that began as a result of the
+      outcome of the 1967 War. VOICE:  Do you think the UN Security Council will refer
+      recent acts of aggression by the US and Israel to the ICC? What would be the implications
+      of this? Santa Barbara County, in your inbox Start your morning with DAYBREAK,
+      our email newsletter bringing you the essential local stories you need to start
+      your day. Top of Form SIGN UP Bottom of Form By clicking sign up, you are agreeing
+      to our terms . Falk: It is impossible to expect such a referral. We need to remember
+      that the SC cannot act without the unanimous support of the five permanent members
+      of the SC, three of whom are NATO members supportive of the aggression to varying
+      degrees. And even if these governments were to be swayed by public opinion in
+      their countries it is unrealistic to suppose that the US Government would vote
+      in favor of such a referral. As mentioned, the ICC is not institutionally part
+      of the UN, and it is not clear that even if there was support from the P5 it would
+      have any formal impact. It is possible to envision that the ICC Prosecutor might
+      recommend to ICC judges that they authorize an investigation of the charges of
+      aggression, and if found persuasive, that arrest warrants be issued for the respective
+      heads of state, and possibly other officials or even officials of corporate entities.
+      As the experience of earlier arrest warrants against Netanyahu and Gallant illustrate,
+      respect for ICC arrest warrants is essentially voluntary and not likely to be
+      implemented against leading figures of powerful countries. The ICC, unlike the
+      ICJ, can only proceed against individuals and lacks jurisdiction to take formal
+      legal action against governments, corporations, and financial institutions. In
+      sum, the ICC path to accountability is not promising. More constructive avenues
+      to achieve some kind of legal assessment might result from the formation of a
+      civil society or peoples’ tribunal. I served as President of the Gaza Tribunal
+      that gathered evidence, presented expert and survivor testimonies and concluded
+      its inquiries with a strong decision by a Jury of Conscience composed of respected
+      political, cultural, and scholarly personalities. Smaller tribunals in Canada
+      and the UK have critically examined allegations of complicity in the furtherance
+      of Israel’s international crimes in Gaza. VOICE: What are the reasons why the
+      US, Israel, and Iran are not members of the ICC? Falk: My response is no more
+      than a speculation based on public postures. I think the basic reason is the awareness
+      that their respective foreign policy positions are controversial from the perspective
+      of international criminal law. These three governments for somewhat different
+      reasons are not prepared to subject their strategic priorities or national security
+      to legal or criminal scrutiny. VOICE: How has the policing power of the UN evolved
+      and what are the future prospects of this power? Falk: From the time the UN was
+      established until the present, the policing or enforcement capabilities of the
+      Organization was made dependent on decisions of the Security Council, which gives
+      only the five winners of World War II a right of veto, as prominently used by
+      the US and its NATO allies during the Israel assault upon Gaza, to shield Israel
+      from censure, law enforcement, and accountability. It is again relevant to interpreting
+      the outbreak of the present Iran War. Once again the political organs of the UN,
+      the SC and General Assembly, have been essentially silent in the face of aggression,
+      and the violation of the core norm of the UN Charter, prohibiting aggressive uses
+      of force have been so far completely neutralized. And even the GA, which lacks
+      enforcement or accountability authority, has lacked the political will to confront
+      outright aggression. This unlawful start of the Iran War resembles what was called
+      at the Nuremberg trials after World War II ‘Crimes against Peace.’ Voice: Would
+      you share any suggestions for how our country or the individuals who read this
+      interview should proceed to support Peace? Falk: Let your conscience be your guide,
+      as shaped by a knowledge of how ‘wars of choice’ as the New York Times described
+      the present Iran War, so far causing death, suffering, and devastation to Iran
+      and several of its neighbors. This leads to anti-American rage among people everywhere,
+      causing bitter divisions even here. Even the New York Times referred to the Iran
+      War as ‘the ultimate war of choice.’ I call it an unprovoked war of aggression
+      that is likely to make even more stressed the internal situation of multiple hardships
+      being endured by the Iranian people, and to spread disorder throughout the region,
+      and beyond. U.S. warmaking since World War II has produced few benefits and much
+      grief and destruction. It is time to bring war under control before it dooms the
+      future of humanity. This will only happen when enough people take action that
+      overwhelms special interests and militarism that now shape our foreign policy.
+      Voice: Are there any precedents for the kind of changed needed to move forward?
+      Falk: When a situation arises where a state pursues internal and external against
+      the will of the people, opposition in the form of nonviolent protest initiatives
+      often can achieve goals related to peace and justice. This happened in the U.S.
+      at the latter stages of the Vietnam War. Finally exerting enough pressure to produce
+      a transition to peace for this country and an era of reconstruction for Vietnam.
+      Another example is the surprising success of the anti-apartheid movement that
+      was aided by nonviolent solidarity movements around the world including cultural
+      and sports boycotts, divestment campaigns, and alienation in international relations.
+      The weight of these pressures brought an unexpected change of policy by the ruling
+      South African white leadership that brought racism to an end, and a transition
+      to a constitutional democracy, while far from perfect, is an inspiring improvement
+      over apartheid or a bloody race war. Such a possibility exists for the American
+      people at this time to end its participation in the Iran War, and at the same
+      time adjust its relationship with Israel by reference to law and justice. Although
+      we can know the future, we can know and act to achieve a future that will be shaped
+      by values rather than by the strategic calculations of unaccountable bureaucrats.
+      As many moral giants of our world have insisted upon we must dedicate themselves
+      to ‘peace by peaceful means’ and not take refuge by silently crouching beneath
+      the weight of state propaganda. Professor Richard Falk is the Albert G. Milbank
+      Professor Emeritus of International Law at Princeton University. He was nominated
+      for the Nobel Peace Prize in 2023. He has served as chair of Global Law, Faculty
+      of Law, at Queen Mary University, London and co-Director of its Centre of Environmental
+      Justice and Crime; Research Associate at the Orfalea Center of Global Studies
+      at the UC Santa Barbara; and Fellow of the Tellus Institute. He directed the project
+      on Global Climate Change, Human Security, and Democracy at UCSB and formerly was
+      the director of the North American group in the World Order Models Project. Between
+      2008 and 2014, Falk served as UN Special Rapporteur on the human rights situation
+      in the Palestinian territories. Falk is the author or editor of more than 75 books.
+      In 2022, Professor Falk authored Protecting Human Rights in Occupied Palestine:
+      Working Through the United Nations in collaboration with John Dugard and Michael
+      Lynk. He is Senior Vice President of the Nuclear Age Peace Foundation. This article
+      originally appeared in Voice Magazine.'
+    one_sentence_summary: Princeton law professor Richard Falk will deliver the 21st
+      Frank K. Kelly Lecture on April 7, discussing the need for peace, security, and
+      adherence to international law while critiquing the U.S.'s complicity in global
+      conflicts, particularly regarding Israel and Palestine.
+    paragraph_summary: The upcoming 21st Frank K. Kelly Lecture, hosted by the Nuclear
+      Age Peace Foundation on April 7 at the Music Academy of the West, will feature
+      Princeton law professor Richard Falk, who will discuss the essential values of
+      peace, security, and freedom that underpin international law. In his talk, Falk
+      will critique the United States' disregard for these principles, particularly
+      in relation to its complicity in Israel's actions in Occupied Palestine and the
+      broader Middle East. He emphasizes that modern international law, as outlined
+      in the UN Charter, prohibits regime change through intervention unless sanctioned
+      by the Security Council, highlighting the historical misuse of "humanitarian intervention"
+      by colonial powers to further their political agendas.
+    published: '2026-04-06T15:37:12+00:00'
+  - title: Flirting with Apocalyptic War in Iran
+    url: https://richardfalk.org/2026/04/03/flirting-with-apocalyptic-war-in-iran/
+    text: '[Prefatory Note : This post is a revision of an article written for Il Manifesto
+      in Italy two weeks ago. It doesn’t include reference to Trump’s surreal and morbid
+      claim to have accomplished regime change in Iran by assassinating the Supreme
+      Guide, Ayatollah Khamanei and some other leading figures. The Iranian government
+      has not changed its orientation or structure, but merely replaced murdered leaders
+      with leaders still alive.] From almost all perspectives the ongoing war of aggression
+      known as the ‘Iran War’ is one of the greatest international blunders in modern
+      history, and far worse than this, poses the highest risks of stumbling into an
+      apocalyptic warfare since the Cuban Missile Crisis of 1962. This joint unprovoked
+      attack on a country posing no threat, falsely rationalized after the fact by considerations
+      of regional security and humanitarian benevolence, unleashed by Israel and the
+      United States while the ghastly genocide in Gaza continues and spreads. Israel
+      is rapidly extending its Gaza combat tactics to the West Bank and southern Lebanon
+      while the world is distracted by the ongoing global ripple effects and potential
+      escalating violence in the Iran War. This lethal chain of events is further aggravated
+      by Trump’s narcissist theatrics, a personalized and bewildering brand of pathologic
+      gaslighting geopolitics that should frightens the sane among us by its clear preference
+      for raising escalation risks to the rooftops rather than reversing course to avoid
+      being demeaned as ‘a loser’ or ‘spineless’ in the face of Iranian resistance.
+      Embarking on such a war represents a colossal breakdown of strategic intelligence
+      that failed to anticipate Iran’s refusal to bow to such aggressive militarism.
+      Iran’s formidable retaliatory capabilities seemed to have been ignored altogether
+      as well as its collective readiness to absorb suffering and devastation rather
+      give in to a second devastating onslaught by Israel and the United States after
+      enduring the 12-day Iran War in June of 2025. Likely, one explanation for these
+      miscalculations by the 2026 aggressors was a misinterpretation of the first Iran
+      war, which Israel initiated on June 13, 2025, with finishing touches by U.S. in
+      the form of major B-2 air strikes dropping huge bombs on Israel’s nuclear facilities
+      twelve days later. Iran’s soft response was evidently attributed to its weakness
+      as well as an inflated assessments of the damage done to Iran’s nuclear facilities,
+      military sites, and leadership infrastructure. Less than a year later, underestimating
+      Iran’s recovery and greatly improved missile capabilities this second Iran War
+      was initiated. Iran’s internal unrest and protests weeks earlier stimulated by
+      decades of sanctions and externally promoted in various ways, apparently made
+      this an irresistible time to launch a second Iran War under a pragmatically populist
+      Trump urging the Iranians to seize the occasion of the war ‘to take back their
+      country,’ ‘regime change’ by another means. This message from such a discredited
+      source fared no better than barrage of missile and bombing attacks. This second
+      Iran War initiated by the U.S., joined by Israel, was particularly perfidious
+      considering that conflict-resolving negotiations were underway between Iran and
+      the United States, situated in Oman whose national mediator voiced his public
+      optimism that the parties were on the verge of a broad conflict-resolving agreement.
+      Such a crafty misuses of diplomacy as a prelude to war rather than a genuine search
+      for a peaceful alternative undoubtedly deepened Iran’s suspicion that ceasefire
+      diplomacy is just a pause before the next attack. Trump said as much in his April
+      1 st triumphalist speech on this second phase of an increasingly undisguised undertaking
+      to keep attacking Iran as long as its government is perceived as hostile to the
+      regional strategies of Israel and the United States. Confusion reigns at present.
+      Whether the war is on the verge of dangerous escalation or a diplomatic reversal
+      of course remains clouded by inconsistent signals from Washington. Trump issues
+      a 48-hour ultimatum demanding Iran’s surrender or experience the destruction of
+      its energy infrastructure, prompting Iran to make counter-threats of the same
+      nature but directed at the entire Gulf region. After which, Trump suspended the
+      threats shortly after they were issued with the apparently fake explanations that
+      strong talks toward reaching a peace agreement with Iran were underway and going
+      well. Iran quickly contradicted Trump’s these upbeat comments and disclosed its
+      own far-reaching demands for a durable future, which seemed far from conveying
+      a readiness to submit to the will of its aggressors. Iran’s apparent position
+      on how to end the war was clarified the by the public release of carefully phrased
+      requirements for a peace deal by an individual described as a high public official.
+      Iran’s position was summarized as follows: firm guarantees that there will be
+      no future repetition of attacking Iran by Israel and the United States; the closure
+      of American military bases in the region; compensation for the damage inflicted
+      on Iran; an end of all warfare in the region; a new legal regime for the Stright
+      of Hormuz; and finally, a call for the criminalization of journalism hostile to
+      Iran. [as reported in Palestinian Chronicle , March 22, 2026]. Western media ignored
+      this Iranian disclosure of its ambitious vision of a durable peace not only for
+      Iran, but for the entire region. It also seemed almost equally dismissive of Trump’s
+      latest about face, mostly interpreting it as a cynical gesture to bring down oil
+      prices and renew the confidence of stock market traders. In this  regional setting
+      Israel has continued with its campaign of regional violence despite incurring
+      significant civilian casualties from missile strikes while the U.S. has kept deploying
+      more and more ground troops closer to Iran. A War of Aggression . Iran was attacked
+      by the United States on February 28, 2026 without even the pretext of a plausible
+      imminent threat to the national security of either Israel or the United States.
+      On the contrary, the attack abruptly ended promising negotiations between the
+      United States on its nuclear program, specifically on setting agreed limits on
+      levels and amounts of enriched uranium production and stockpiles. This disruption
+      of negotiations, followed an Israeli/US pattern previously displayed by Israel’s
+      September 8, 2025 attack on the residence of Hamas negotiators in Qatar to discuss
+      a U.S.-proposed ceasefire agreement on the future of Gaza. The timing of the Iran
+      War is a more dramatic instance of a turn toward war and away from diplomacy while
+      purporting to pursue conflict resolution goals, at least in the Middle East. A
+      Military and Political Failure . From any objective perspective the war has already
+      proved an awkward military and political failure from the perspective of U.S.
+      and Israel. Forgetting a repetitive lesson since the Vietnam War, as reinforced
+      by subsequent experiences in Iraq, Libya, and Afghanistan, clear military superiority
+      wielded with destructive fury may still fail to produce political victory. Even
+      Israel’s genocidal assault reducing Gaza to a wasteland did not result in achieving
+      its prime objective announced on the eve of its assault, eliminating Hamas as
+      a continuing source of resistance to Israel designs to subjugate the Palestine
+      people. A clear secondary Israeli objective was to extend Israel’s territorial
+      sovereignty over the river to the sea, thereby establishing Greater Israel, and
+      in the process eliminating forever the Palestinian challenge. As with all forms
+      of extreme addictiveness, these militarist phantasies are out of touch with the
+      distinctive realities of. the contemporary world and with the agency of militarist
+      geopolitics, a lesson that could have been learned from China’s dramatic rise
+      in geopolitical status by relying on win/win economistic means. In the setting
+      of the Iran War the political failure of the undertaking has already been partially
+      confirmed by the refusal of the European and Arab countries to heed Trump’s plea
+      for NATO alliance naval help in opening of the Strait of Hormuz where 20% of the
+      world’s internationally traded oil and gas pass through. As Ramzy Baroud has pointed
+      out in a Palestinian Chronicle article published on March 22, this refusal to
+      side with the aggressor does not express a moral or legal awakening by these governments,
+      but rather reflects the pragmatic recognition that they have no incentive to be
+      part of a failed undertaking that could produce an international disaster of even
+      greater severity if the U.S. chooses to escalate rather than admit defeat and
+      end their aggression. The other sign of political defeat and miscalculation is
+      the failure of internal opposition to the theocratic government of Iran to take
+      the cue of this military attack to intensify, or at least renew their protest
+      activities, with an expectation that attacks from without would result in the
+      collapse of Islamic governance, paving the way for a second restoration of dynastic
+      rule in Iran. The former Reza Shah’s son, also named Reza Shah, is waiting in
+      the wings for this scenario to become realized. He has pledged his return to Iran
+      to restore the dynasty of his father.as practiced by Although some scattered protests
+      have continued in Iran, the population as a whole has shown no disposition to
+      take advantage of the war waged against its territorial integrity and political
+      independence by the most powerful country in the world to mount their own struggle
+      for reform. The idea that regime change in Iran might come about in the aftermath
+      of widespread devastation, including the targeted assassination of the Supreme
+      Leader deemed divinely blessed even by a significant proportion of Iranians that
+      includes many opponents and reform-minded protesters is a further sign of the
+      delusionary character of state propaganda in the attacking countries. Such a grim
+      approach as practiced by the U.S. of decapitating the leadership of the adversary,
+      and considering that a kind of political victory is to deprive any war of moral
+      and political legitimacy, and more so for an unlawful war of aggression. The American
+      attack on a girl’s elementary school in Minab, an atrocity killing over 1itima75,
+      mainly children under 12 further alienated Iran’s civilian population. This has
+      been a consensus view among respected independent external assessments of the
+      motives of the attackers. Israel’s role in the Iran War together with Gazafication
+      of the West Bank and Lebanon has contributed to its steep downward spiral into
+      the dark abyss inhabited by rogue states. The U.S. is suffered the fate of a declining
+      and irresponsible hegemon, less feared and certainly less respected after this
+      exhibition of incompetent and dehumanizing warmaking that is causing worldwide
+      hardships, forcing layoffs, freezing of prices, inflation, and supply chain disruption
+      not only of oil and gas but of many essentials of societal normalcy, including
+      fertilizers. These international ripple effects have caused their most harm to
+      the least developed countries and to the most vulnerable sectors of all societies,
+      including that of the prosperous attacking countries. Ignoring U.S./Iran History.
+      Beyond this dangerous impasse caused by gross miscalculation, denialism (claiming
+      victory when the opposite is the real story, and the one worth pondering, a tale
+      of ignoble defeat), and obscured to some extent by Trump and Netanyahu threatening
+      to climb even higher on the precarious escalating ladder. This geopolitical adventurism
+      ignores suppressed history lessons. The U.S. has misplayed its diplomatic cards
+      at least three times in the past when dealing with Iran. The first was in 1953
+      when the CIA engineered a coup against the elected leader, Mohamed Mossadegh who
+      was neither Islamist nor Communist, but an economic nationalist who had taken
+      public control of Iran’s oil industry from exploitative foreign ownership by legal
+      means, infuriating a powerful coterie of Western corporate investors. The 1953
+      outcome was the restoration of the dynastic rule of Pahlavi Dynasty headed by
+      the autocratic Reza Shah, and the subsequent reorientation of the Iranian state
+      to Western ideological and economistic values. The second time was in the aftermath
+      of the Islamic revolutionary movement that led to the Shah’s abdication from the
+      throne in early 1979 and the establishment of a theocratic state under the leadership
+      of its first Supreme Guide, Ayatollah Khomeini. At this early stage, the Islamic
+      leadership sought accommodation and normalcy in its relations with the West, but
+      the pro-Shah Iranian community in the U.S. largely opposed any American accommodation
+      with Tehran. Its influence was bolstered by Israel’s determined resistance to
+      an American acceptance of the movement that drove the Shah from power. These anti-theocratic
+      forces were later further reinforced by influential domestic pro-Israeli neocon
+      hawks favoring by way of their advocacy of a so-called ‘Clean Break’ strategy,
+      the restructuring of the Middle East to ensure the security of Israel and integration
+      in the markets of neoliberal globalization, lobbying for punitive sanctions against
+      Iran until such a result was achieved. We will never know what might have happened
+      had the U.S. not puts all its geopolitical eggs in Israel’s basket, but if this
+      ‘road not taken’ had been explored, these decades of political tensions and costly
+      military confrontations with Iran might have been avoided. Indeed, in retrospect
+      little was learned from Iran’s moderate restraint when attacked just last June.
+      Moderation was wrongly construed as a show of weakness, as was the Iranian receptivity
+      to negotiations. Instead, Israel and U.S. waited impatiently for an opportune
+      time to start a more robust war, exaggerating the impetus of the internal economic
+      populist anti-government movement in Iran. This recent protest rising war was
+      attributed to Iran’s alleged incompetence and corruption. It seems to have been
+      misconstrued by Western propaganda designed to make U.S./Israel intervention appear
+      humanitarian and liberating. As expected, this perception was promoted without
+      considering the impact of sanctions designed to bring Iran to its knees by strangling
+      the wellbeing of the population. abetted over the years by Israeli and US tactics
+      of assassinations, destabilizing covert operations and alarmist propaganda about
+      Iran’s nuclear programs (while altogether ignoring the relevance of Israel’s nuclear
+      arsenal and aggressive war-threatening propaganda). The third occasion was when
+      the U.S. ended conflict-resolving negotiations with missiles and bombs not out
+      of frustration, but in reaction to their evident promise of success. Again, Iran
+      showed a willingness to negotiate, reinforcing frequent assertions by its own
+      Supreme Leader of a principled rejection of the production of nuclear weapon,
+      much less its use. Iran has reinforced this unilateral declaration with a public
+      willingness to agree to a formal internationally monitored commitment along the
+      same lines, or better by far reaching an agreement to establish a mandatory nuclear
+      free zone throughout the entire region, which in the past Israel has as would
+      be expected, ignored all such peaceably achieved denuclearizing initiatives. But
+      denuclearizing the region was never meant to be, at least up to now. As with past
+      and present conflicts in the region, Israel has again twisted Big Brother’s arm
+      so hard as to embark upon this failing warmaking project. Awkwardly, the American
+      Secretary of State, Marco Rubio, admitted as much when he acknowledged that the
+      U.S. launched the war to avoid what Washington considered a worse outcome if the
+      U.S. had deferred acting until after Israel started the war, and lost political
+      control over the military operations. Interestingly, Rubio never specified what
+      he meant by such a comment, and has since walked it back out of existence. No
+      Exit? Or Safe Exit Two images: A major course correction after mission failure,
+      hidden by distraction or a continued ascent of the escalation raising risks of
+      apocalyptic warfare. Trump’s diplomacy has been driven by the zigzags of his transactional
+      narcissism often couled with personal enrichment schemes. This second Iran War
+      already suggests that the Trumpist slogan Making America Decline Everyday (MADE)
+      is far more descriptive of reality than the official marketing claim of Make America
+      Great Again (MAGA). Even such a modification is too focused on the United States,
+      overlooking the deadly global ripple effects of miscalculations made at the behest
+      of the Trump/Netanyahu partnership, with even worse on the road ahead unless they
+      quickly change course, accepting a ‘peace without honor’ as the least bad option.
+      At this time tensions and fears coexist with uncertainty as to whether a durable
+      peace or a menacing escalation is the next stage in this latest Middle East war
+      that should never have happened. The media shift from questioning a war started
+      in violation of international law and responsible statecraft to a focus on whether
+      it is succeeding or failing is disquieting. It has made the discussion turning
+      on issues of winning or losing rather than the underlying criminality of aggressive
+      war, what the judges at Nuremberg had declared the ultimate war crime, the Crime
+      Against Peace. Lending respectability to the idea of ‘wars of choice’ as was done
+      at the outset of the Iran War is a subversive notion earlier invoked to justify
+      the Iraq War pf 2003. It is time for political leaders and opinion column journalists
+      to learn that questions of war and peace should never be situated with in a realm
+      of choice, as if pricing vegetables at a supermarket.'
+    one_sentence_summary: The ongoing 'Iran War,' characterized as a significant international
+      blunder and a potential catalyst for apocalyptic conflict, is a joint unprovoked
+      attack by Israel and the United States on Iran, justified by misleading claims
+      of regional security amidst the ongoing genocide in Gaza.
+    paragraph_summary: The article critiques the ongoing 'Iran War,' labeling it one
+      of the most significant international blunders in recent history, with potential
+      catastrophic consequences reminiscent of the Cuban Missile Crisis. It argues that
+      the unprovoked military actions by Israel and the United States against Iran,
+      justified under false pretenses of regional security and humanitarian concerns,
+      are exacerbated by the ongoing humanitarian crisis in Gaza. The author highlights
+      Israel's expansion of combat tactics into the West Bank and southern Lebanon,
+      while also criticizing former President Trump's erratic behavior and rhetoric,
+      which seem to escalate tensions rather than promote de-escalation. The piece emphasizes
+      a failure in strategic intelligence, as it overlooks Iran's strong retaliatory
+      capabilities and its resilience against external aggression, suggesting that the
+      situation could lead to further violence and instability in the region.
+    published: '2026-04-03T19:31:27+00:00'
+  - title: Flirting with Apocalyptic War in Iran
+    url: https://richardfalk.org/2026/04/03/flirting-with-apocalyptic-war-in-iran/
+    text: '[Prefatory Note : This post is a revision of an article written for Il Manifesto
+      in Italy two weeks ago. It doesn’t include reference to Trump’s surreal and morbid
+      claim to have accomplished regime change in Iran by assassinating the Supreme
+      Guide, Ayatollah Khamanei and some other leading figures. The Iranian government
+      has not changed its orientation or structure, but merely replaced murdered leaders
+      with leaders still alive.] From almost all perspectives the ongoing war of aggression
+      known as the ‘Iran War’ is one of the greatest international blunders in modern
+      history, and far worse than this, poses the highest risks of stumbling into an
+      apocalyptic warfare since the Cuban Missile Crisis of 1962. This joint unprovoked
+      attack on a country posing no threat, falsely rationalized after the fact by considerations
+      of regional security and humanitarian benevolence, unleashed by Israel and the
+      United States while the ghastly genocide in Gaza continues and spreads. Israel
+      is rapidly extending its Gaza combat tactics to the West Bank and southern Lebanon
+      while the world is distracted by the ongoing global ripple effects and potential
+      escalating violence in the Iran War. This lethal chain of events is further aggravated
+      by Trump’s narcissist theatrics, a personalized and bewildering brand of pathologic
+      gaslighting geopolitics that should frightens the sane among us by its clear preference
+      for raising escalation risks to the rooftops rather than reversing course to avoid
+      being demeaned as ‘a loser’ or ‘spineless’ in the face of Iranian resistance.
+      Embarking on such a war represents a colossal breakdown of strategic intelligence
+      that failed to anticipate Iran’s refusal to bow to such aggressive militarism.
+      Iran’s formidable retaliatory capabilities seemed to have been ignored altogether
+      as well as its collective readiness to absorb suffering and devastation rather
+      give in to a second devastating onslaught by Israel and the United States after
+      enduring the 12-day Iran War in June of 2025. Likely, one explanation for these
+      miscalculations by the 2026 aggressors was a misinterpretation of the first Iran
+      war, which Israel initiated on June 13, 2025, with finishing touches by U.S. in
+      the form of major B-2 air strikes dropping huge bombs on Israel’s nuclear facilities
+      twelve days later. Iran’s soft response was evidently attributed to its weakness
+      as well as an inflated assessments of the damage done to Iran’s nuclear facilities,
+      military sites, and leadership infrastructure. Less than a year later, underestimating
+      Iran’s recovery and greatly improved missile capabilities this second Iran War
+      was initiated. Iran’s internal unrest and protests weeks earlier stimulated by
+      decades of sanctions and externally promoted in various ways, apparently made
+      this an irresistible time to launch a second Iran War under a pragmatically populist
+      Trump urging the Iranians to seize the occasion of the war ‘to take back their
+      country,’ ‘regime change’ by another means. This message from such a discredited
+      source fared no better than barrage of missile and bombing attacks. This second
+      Iran War initiated by the U.S., joined by Israel, was particularly perfidious
+      considering that conflict-resolving negotiations were underway between Iran and
+      the United States, situated in Oman whose national mediator voiced his public
+      optimism that the parties were on the verge of a broad conflict-resolving agreement.
+      Such a crafty misuses of diplomacy as a prelude to war rather than a genuine search
+      for a peaceful alternative undoubtedly deepened Iran’s suspicion that ceasefire
+      diplomacy is just a pause before the next attack. Trump said as much in his April
+      1 st triumphalist speech on this second phase of an increasingly undisguised undertaking
+      to keep attacking Iran as long as its government is perceived as hostile to the
+      regional strategies of Israel and the United States. Confusion reigns at present.
+      Whether the war is on the verge of dangerous escalation or a diplomatic reversal
+      of course remains clouded by inconsistent signals from Washington. Trump issues
+      a 48-hour ultimatum demanding Iran’s surrender or experience the destruction of
+      its energy infrastructure, prompting Iran to make counter-threats of the same
+      nature but directed at the entire Gulf region. After which, Trump suspended the
+      threats shortly after they were issued with the apparently fake explanations that
+      strong talks toward reaching a peace agreement with Iran were underway and going
+      well. Iran quickly contradicted Trump’s these upbeat comments and disclosed its
+      own far-reaching demands for a durable future, which seemed far from conveying
+      a readiness to submit to the will of its aggressors. Iran’s apparent position
+      on how to end the war was clarified the by the public release of carefully phrased
+      requirements for a peace deal by an individual described as a high public official.
+      Iran’s position was summarized as follows: firm guarantees that there will be
+      no future repetition of attacking Iran by Israel and the United States; the closure
+      of American military bases in the region; compensation for the damage inflicted
+      on Iran; an end of all warfare in the region; a new legal regime for the Stright
+      of Hormuz; and finally, a call for the criminalization of journalism hostile to
+      Iran. [as reported in Palestinian Chronicle , March 22, 2026]. Western media ignored
+      this Iranian disclosure of its ambitious vision of a durable peace not only for
+      Iran, but for the entire region. It also seemed almost equally dismissive of Trump’s
+      latest about face, mostly interpreting it as a cynical gesture to bring down oil
+      prices and renew the confidence of stock market traders. In this  regional setting
+      Israel has continued with its campaign of regional violence despite incurring
+      significant civilian casualties from missile strikes while the U.S. has kept deploying
+      more and more ground troops closer to Iran. A War of Aggression . Iran was attacked
+      by the United States on February 28, 2026 without even the pretext of a plausible
+      imminent threat to the national security of either Israel or the United States.
+      On the contrary, the attack abruptly ended promising negotiations between the
+      United States on its nuclear program, specifically on setting agreed limits on
+      levels and amounts of enriched uranium production and stockpiles. This disruption
+      of negotiations, followed an Israeli/US pattern previously displayed by Israel’s
+      September 8, 2025 attack on the residence of Hamas negotiators in Qatar to discuss
+      a U.S.-proposed ceasefire agreement on the future of Gaza. The timing of the Iran
+      War is a more dramatic instance of a turn toward war and away from diplomacy while
+      purporting to pursue conflict resolution goals, at least in the Middle East. A
+      Military and Political Failure . From any objective perspective the war has already
+      proved an awkward military and political failure from the perspective of U.S.
+      and Israel. Forgetting a repetitive lesson since the Vietnam War, as reinforced
+      by subsequent experiences in Iraq, Libya, and Afghanistan, clear military superiority
+      wielded with destructive fury may still fail to produce political victory. Even
+      Israel’s genocidal assault reducing Gaza to a wasteland did not result in achieving
+      its prime objective announced on the eve of its assault, eliminating Hamas as
+      a continuing source of resistance to Israel designs to subjugate the Palestine
+      people. A clear secondary Israeli objective was to extend Israel’s territorial
+      sovereignty over the river to the sea, thereby establishing Greater Israel, and
+      in the process eliminating forever the Palestinian challenge. As with all forms
+      of extreme addictiveness, these militarist phantasies are out of touch with the
+      distinctive realities of. the contemporary world and with the agency of militarist
+      geopolitics, a lesson that could have been learned from China’s dramatic rise
+      in geopolitical status by relying on win/win economistic means. In the setting
+      of the Iran War the political failure of the undertaking has already been partially
+      confirmed by the refusal of the European and Arab countries to heed Trump’s plea
+      for NATO alliance naval help in opening of the Strait of Hormuz where 20% of the
+      world’s internationally traded oil and gas pass through. As Ramzy Baroud has pointed
+      out in a Palestinian Chronicle article published on March 22, this refusal to
+      side with the aggressor does not express a moral or legal awakening by these governments,
+      but rather reflects the pragmatic recognition that they have no incentive to be
+      part of a failed undertaking that could produce an international disaster of even
+      greater severity if the U.S. chooses to escalate rather than admit defeat and
+      end their aggression. The other sign of political defeat and miscalculation is
+      the failure of internal opposition to the theocratic government of Iran to take
+      the cue of this military attack to intensify, or at least renew their protest
+      activities, with an expectation that attacks from without would result in the
+      collapse of Islamic governance, paving the way for a second restoration of dynastic
+      rule in Iran. The former Reza Shah’s son, also named Reza Shah, is waiting in
+      the wings for this scenario to become realized. He has pledged his return to Iran
+      to restore the dynasty of his father.as practiced by Although some scattered protests
+      have continued in Iran, the population as a whole has shown no disposition to
+      take advantage of the war waged against its territorial integrity and political
+      independence by the most powerful country in the world to mount their own struggle
+      for reform. The idea that regime change in Iran might come about in the aftermath
+      of widespread devastation, including the targeted assassination of the Supreme
+      Leader deemed divinely blessed even by a significant proportion of Iranians that
+      includes many opponents and reform-minded protesters is a further sign of the
+      delusionary character of state propaganda in the attacking countries. Such a grim
+      approach as practiced by the U.S. of decapitating the leadership of the adversary,
+      and considering that a kind of political victory is to deprive any war of moral
+      and political legitimacy, and more so for an unlawful war of aggression. The American
+      attack on a girl’s elementary school in Minab, an atrocity killing over 1itima75,
+      mainly children under 12 further alienated Iran’s civilian population. This has
+      been a consensus view among respected independent external assessments of the
+      motives of the attackers. Israel’s role in the Iran War together with Gazafication
+      of the West Bank and Lebanon has contributed to its steep downward spiral into
+      the dark abyss inhabited by rogue states. The U.S. is suffered the fate of a declining
+      and irresponsible hegemon, less feared and certainly less respected after this
+      exhibition of incompetent and dehumanizing warmaking that is causing worldwide
+      hardships, forcing layoffs, freezing of prices, inflation, and supply chain disruption
+      not only of oil and gas but of many essentials of societal normalcy, including
+      fertilizers. These international ripple effects have caused their most harm to
+      the least developed countries and to the most vulnerable sectors of all societies,
+      including that of the prosperous attacking countries. Ignoring U.S./Iran History.
+      Beyond this dangerous impasse caused by gross miscalculation, denialism (claiming
+      victory when the opposite is the real story, and the one worth pondering, a tale
+      of ignoble defeat), and obscured to some extent by Trump and Netanyahu threatening
+      to climb even higher on the precarious escalating ladder. This geopolitical adventurism
+      ignores suppressed history lessons. The U.S. has misplayed its diplomatic cards
+      at least three times in the past when dealing with Iran. The first was in 1953
+      when the CIA engineered a coup against the elected leader, Mohamed Mossadegh who
+      was neither Islamist nor Communist, but an economic nationalist who had taken
+      public control of Iran’s oil industry from exploitative foreign ownership by legal
+      means, infuriating a powerful coterie of Western corporate investors. The 1953
+      outcome was the restoration of the dynastic rule of Pahlavi Dynasty headed by
+      the autocratic Reza Shah, and the subsequent reorientation of the Iranian state
+      to Western ideological and economistic values. The second time was in the aftermath
+      of the Islamic revolutionary movement that led to the Shah’s abdication from the
+      throne in early 1979 and the establishment of a theocratic state under the leadership
+      of its first Supreme Guide, Ayatollah Khomeini. At this early stage, the Islamic
+      leadership sought accommodation and normalcy in its relations with the West, but
+      the pro-Shah Iranian community in the U.S. largely opposed any American accommodation
+      with Tehran. Its influence was bolstered by Israel’s determined resistance to
+      an American acceptance of the movement that drove the Shah from power. These anti-theocratic
+      forces were later further reinforced by influential domestic pro-Israeli neocon
+      hawks favoring by way of their advocacy of a so-called ‘Clean Break’ strategy,
+      the restructuring of the Middle East to ensure the security of Israel and integration
+      in the markets of neoliberal globalization, lobbying for punitive sanctions against
+      Iran until such a result was achieved. We will never know what might have happened
+      had the U.S. not puts all its geopolitical eggs in Israel’s basket, but if this
+      ‘road not taken’ had been explored, these decades of political tensions and costly
+      military confrontations with Iran might have been avoided. Indeed, in retrospect
+      little was learned from Iran’s moderate restraint when attacked just last June.
+      Moderation was wrongly construed as a show of weakness, as was the Iranian receptivity
+      to negotiations. Instead, Israel and U.S. waited impatiently for an opportune
+      time to start a more robust war, exaggerating the impetus of the internal economic
+      populist anti-government movement in Iran. This recent protest rising war was
+      attributed to Iran’s alleged incompetence and corruption. It seems to have been
+      misconstrued by Western propaganda designed to make U.S./Israel intervention appear
+      humanitarian and liberating. As expected, this perception was promoted without
+      considering the impact of sanctions designed to bring Iran to its knees by strangling
+      the wellbeing of the population. abetted over the years by Israeli and US tactics
+      of assassinations, destabilizing covert operations and alarmist propaganda about
+      Iran’s nuclear programs (while altogether ignoring the relevance of Israel’s nuclear
+      arsenal and aggressive war-threatening propaganda). The third occasion was when
+      the U.S. ended conflict-resolving negotiations with missiles and bombs not out
+      of frustration, but in reaction to their evident promise of success. Again, Iran
+      showed a willingness to negotiate, reinforcing frequent assertions by its own
+      Supreme Leader of a principled rejection of the production of nuclear weapon,
+      much less its use. Iran has reinforced this unilateral declaration with a public
+      willingness to agree to a formal internationally monitored commitment along the
+      same lines, or better by far reaching an agreement to establish a mandatory nuclear
+      free zone throughout the entire region, which in the past Israel has as would
+      be expected, ignored all such peaceably achieved denuclearizing initiatives. But
+      denuclearizing the region was never meant to be, at least up to now. As with past
+      and present conflicts in the region, Israel has again twisted Big Brother’s arm
+      so hard as to embark upon this failing warmaking project. Awkwardly, the American
+      Secretary of State, Marco Rubio, admitted as much when he acknowledged that the
+      U.S. launched the war to avoid what Washington considered a worse outcome if the
+      U.S. had deferred acting until after Israel started the war, and lost political
+      control over the military operations. Interestingly, Rubio never specified what
+      he meant by such a comment, and has since walked it back out of existence. No
+      Exit? Or Safe Exit Two images: A major course correction after mission failure,
+      hidden by distraction or a continued ascent of the escalation raising risks of
+      apocalyptic warfare. Trump’s diplomacy has been driven by the zigzags of his transactional
+      narcissism often couled with personal enrichment schemes. This second Iran War
+      already suggests that the Trumpist slogan Making America Decline Everyday (MADE)
+      is far more descriptive of reality than the official marketing claim of Make America
+      Great Again (MAGA). Even such a modification is too focused on the United States,
+      overlooking the deadly global ripple effects of miscalculations made at the behest
+      of the Trump/Netanyahu partnership, with even worse on the road ahead unless they
+      quickly change course, accepting a ‘peace without honor’ as the least bad option.
+      At this time tensions and fears coexist with uncertainty as to whether a durable
+      peace or a menacing escalation is the next stage in this latest Middle East war
+      that should never have happened. The media shift from questioning a war started
+      in violation of international law and responsible statecraft to a focus on whether
+      it is succeeding or failing is disquieting. It has made the discussion turning
+      on issues of winning or losing rather than the underlying criminality of aggressive
+      war, what the judges at Nuremberg had declared the ultimate war crime, the Crime
+      Against Peace. Lending respectability to the idea of ‘wars of choice’ as was done
+      at the outset of the Iran War is a subversive notion earlier invoked to justify
+      the Iraq War pf 2003. It is time for political leaders and opinion column journalists
+      to learn that questions of war and peace should never be situated with in a realm
+      of choice, as if pricing vegetables at a supermarket.'
+    one_sentence_summary: The ongoing 'Iran War,' characterized as a significant international
+      blunder and a potential catalyst for apocalyptic conflict, is a joint unprovoked
+      attack by Israel and the United States on Iran, justified by misleading claims
+      of regional security amidst the ongoing genocide in Gaza.
+    paragraph_summary: The article critiques the ongoing 'Iran War,' labeling it one
+      of the most significant international blunders in recent history, with potential
+      catastrophic consequences reminiscent of the Cuban Missile Crisis. It argues that
+      the unprovoked military actions by Israel and the United States against Iran,
+      justified under false pretenses of regional security and humanitarian concerns,
+      are exacerbated by the ongoing humanitarian crisis in Gaza. The author highlights
+      Israel's expansion of combat tactics into the West Bank and southern Lebanon,
+      while also criticizing former President Trump's erratic behavior and rhetoric,
+      which seem to escalate tensions rather than promote de-escalation. The piece emphasizes
+      a failure in strategic intelligence, as it overlooks Iran's strong retaliatory
+      capabilities and its resilience against external aggression, suggesting that the
+      situation could lead to further violence and instability in the region.
+    published: '2026-04-03T19:31:27+00:00'
   - title: An Ode to ‘No Kings’ Royalism
     url: https://richardfalk.org/2026/03/26/an-ode-to-no-kings-royalism/
     text: An Ode to ‘No Kings’ Royalism as if restless a crown prince impatient to catch

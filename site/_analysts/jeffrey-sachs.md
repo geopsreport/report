@@ -8,16 +8,330 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains highly volatile as the US-Israel confrontation with Iran continues to dominate headlines. Tensions have escalated in recent weeks, with the risk of a broader regional conflict now more pronounced than ever. **Jeffrey Sachs** highlights that the aggressive posture of both the US and Israel, particularly their recent military actions, threatens to draw in additional regional actors and could disrupt global economic stability, especially through potential blockages in the Strait of Hormuz.
+  As of April 8, 2026, the geopolitical landscape remains dominated by escalating tensions in the Middle East, persistent US-led hybrid warfare, and Europe’s ongoing security crisis. The most recent analyses highlight the increasingly volatile dynamics between the United States, Israel, and Iran, as well as the broader implications for international law and global stability.
   
-  Diplomatic efforts persist, but their prospects appear dim. Iran has put forward a comprehensive peace proposal, emphasizing the necessity of resolving the Palestinian statehood issue and calling for renewed adherence to the JCPOA nuclear agreement. However, as **Sachs** notes, "implementation faces significant challenges due to the aggressive policies of the US and Israel," with both powers showing little willingness to compromise or accept regional sovereignty frameworks.
+  The latest reports underscore the personal influence of leaders such as Donald Trump and Benjamin Netanyahu, whose "unchecked power and delusions of grandeur pose a significant threat to global stability," according to **Jeffrey Sachs**. Their aggressive posture toward Iran, fueled by religious and nationalist fervor, has led to a series of military and economic confrontations that risk spiraling into a wider regional conflict. Sachs warns that the current US-Israeli approach is not only destabilizing the Middle East but also undermining the authority of the United Nations and the international legal order.
   
-  Meanwhile, the United States continues to rely heavily on economic statecraft and hybrid warfare, employing sanctions and financial restrictions as tools against adversaries such as Iran and Venezuela. This approach, according to **Sachs**, is increasingly viewed as illegal and counterproductive, prompting affected nations to seek alternatives to the US dollar and undermining the legitimacy of the international financial system.
+  On the economic front, the US continues to employ "economic statecraft"—a combination of sanctions, tariffs, and financial pressure—against adversaries such as Iran and Venezuela. **Jeffrey Sachs** argues that these measures constitute a form of "economic warfare," which is both illegal under international law and detrimental to global economic stability. The increasing use of such tactics is prompting affected nations to seek alternatives to the US dollar, potentially accelerating a shift in the global financial system.
   
-  In Europe, the ongoing conflict in Ukraine is exacerbated by what **Sachs** describes as "structural Russophobia" and a persistent refusal to address Russia’s legitimate security concerns. This entrenched stance has led to the collapse of diplomatic relations and a deepening security crisis, with Europe now facing significant self-inflicted economic and political consequences.
+  In Europe, the enduring conflict with Russia is exacerbated by what Sachs describes as "structural Russophobia" and a failure to address Russia’s legitimate security concerns. This has led to the collapse of diplomatic relations and a deepening security crisis, with Europe remaining heavily dependent on US policy and military support.
   
-  Looking ahead, the trends indicate a high likelihood of continued instability in the Middle East, with the risk of a global economic shock if hostilities in the Strait of Hormuz escalate. Diplomatic solutions remain on the table but are unlikely to be realized without a fundamental shift in US and Israeli policy. In Europe, unless there is a meaningful engagement with Russia’s security concerns, the current trajectory of conflict and economic hardship is set to persist. I guarantee that without a change in approach from Washington and its allies, the prospects for peace and stability in both regions remain bleak.
+  Looking ahead, the trends suggest a high likelihood of continued instability in the Middle East, with the risk of escalation into a broader conflict if current US and Israeli policies persist. There is also a high chance that economic sanctions and hybrid warfare tactics will further erode trust in US leadership and accelerate the search for alternative global governance and financial systems. In Europe, unless there is a fundamental shift toward recognizing Russian security interests, the current trajectory of confrontation and insecurity is likely to continue.
+  
+  In summary, the prevailing expert consensus is that without a major change in leadership or policy direction—especially from the US and Israel—the prospects for peace and stability in the Middle East and Europe remain bleak. As **Jeffrey Sachs** concludes, "there is a high chance that aggressive policies and disregard for international law will continue to undermine global security and economic order."
 articles:
+  - title: 'Trump and Netanyahu: Two Madmen Playing God'
+    url: https://www.commondreams.org/opinion/netanyahu-trump-psychopaths-war-criminals
+    text: 'Here is Donald Trump’s Easter message to the world:
+
+
+      Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran.
+      There will be nothing like it!!! Open the Fuckin’ Strait, you crazy bastards,
+      or you’ll be living in Hell - JUST WATCH! Praise be to Allah. President DONALD
+      J. TRUMP
+
+
+      Donald Trump and his partner in war crimes, Benjamin Netanyahu, are jointly waging
+      a war of murderous aggression against Iran, a nation of 90 million people. They
+      are in the grip of three cascading pathologies. The first is personality: both
+      are malignant narcissists. The second is the arrogance of power: men who possess
+      the power to command nuclear annihilation and feel, in consequence, no restraint.
+      The third, and most dangerous of all, is religious delusion: two men who believe,
+      and are told daily by those around them, that they are messiahs doing God’s work.
+      Each pathology exacerbates the others, so that together they put the world in
+      unprecedented danger.
+
+
+      The result is a glorification of violence not seen since the Nazi leaders. The
+      question is whether the world’s few grownups—responsible national leaders who
+      remain committed to international law and are willing to say so—can restrain them.
+      It will not be easy, but they must try.
+
+
+      Let us start with the underlying psychological disorder. Malignant narcissism
+      is a clinical term, not an insult. The social psychologist Erich Fromm coined
+      the phrase in 1964 to describe Adolf Hitler, as a merger of pathological grandiosity,
+      psychopathy, paranoia, and antisocial personality into a single character structure.
+      The malignant narcissist is not merely vain. He is structurally incapable of genuine
+      empathy, constitutionally immune to guilt, and driven by paranoid conviction that
+      enemies surround him and must be destroyed. Already back in 2017, psychologist
+      John Garnter and many other professionals were warning of Trump’s malignant narcissism.
+
+
+      When power faces no limit, the only remaining internal check is conscience. And
+      the psychopath has no conscience.
+
+
+      Several respected psychologists and psychiatrists have evaluated Trump for psychopathy
+      using the standardized Hare Scale and have come up with scores well above the
+      diagnostic cutoff. See, for example, here . Psychopathy is best characterized
+      as a lack of conscience or compassion for other human beings.
+
+
+      Both Trump and Netanyahu fit this profile with precision. Trump’s psychopathy
+      was on full display when US forces destroyed a civilian bridge in Tehran, of no
+      military significance, with at least eight civilians killed and 95 or more injured.
+      Trump did not grieve. He gloated and promised more destruction. Netanyahu’s Passover
+      address similarly contained not one word for the dead. No pause. No shadow of
+      doubt. Only the triumphant catalog of enemies he has destroyed.
+
+
+      Paranoia drives the threat that Trump and Netanyahu have manufactured. Trump’s
+      own Director of National Intelligence, Tulsi Gabbard, testified in writing that
+      Iran’s nuclear program had been “obliterated” and that the intelligence community
+      “continues to assess that Iran is not building a nuclear weapon.” The IAEA stated
+      flatly there was no evidence of a bomb. Trump’s own counterterrorism official
+      resigned in protest , writing that “we started this war due to pressure from Israel
+      and its powerful American lobby.” The paranoid does not need a real threat. He
+      will make one up if he must, to match his feelings of exaggerated fear.
+
+
+      The Machiavellianism operates without shame. Trump told the world that diplomacy
+      was always his “first preference,” while boasting in the same breath about ripping
+      up the nuclear deal with Iran: “I was so honored to do it. I was so proud to do
+      it.” He destroyed the diplomatic framework with his own hands, then blamed Iran
+      for the wreckage. He then admitted, casually, that the war has no self-defense
+      rationale: “We don’t have to be there. We don’t need their oil. We don’t need
+      anything they have. But we’re there to help our allies.” Under the UN Charter,
+      self-defense is the only legal basis for force. Trump has confessed that no such
+      basis exists.
+
+
+      There is a particular deformation that power inflicts on certain personalities,
+      and it is especially acute when the power in question is unbounded or seems to
+      be so. With the command of nuclear arsenals, Trump and Netanyahu do not experience
+      the world as others do. The availability of nuclear weapons, for these malignant
+      narcissists, is not a burden of responsibility but an extension of their grandiose
+      selves: I can do anything. I can level anything. Watch me. There will be no self-restraints
+      by Netanyahu and Trump on this delusional grandiosity.
+
+
+      Trump and Netanyahu do not experience the world as others do.
+
+
+      Trump has completely internalized this sense of impunity. On April 1, he stood
+      before the cameras and promised to bomb Iran “back to the Stone Ages, where they
+      belong.” The phrase “where they belong” is the verdict of a man who feels divinely
+      licensed to judge the worth of 90 million people and dehumanizes them without
+      hesitation. He has repeatedly threatened to destroy Iran’s civilian electrical
+      infrastructure—a war crime under the laws of armed conflict, announced openly
+      as a negotiating position, to a global audience that mostly changed the channel.
+
+
+      Netanyahu commands a state with an estimated 200 nuclear warheads, has never signed
+      the Non-Proliferation Treaty, and operates under no international inspection regime.
+      He has watched Trump wield American military power with unchecked aggression and
+      concurs that there are no consequences. The second madness feeds the third: when
+      power faces no limit, the only remaining internal check is conscience. And the
+      psychopath has no conscience.
+
+
+      The lack of conscience is the most dangerous pathology of the three, because it
+      is the one that removes the last possible internal brake. The strategist who wages
+      an unjust war may eventually calculate that the costs exceed the gains and stop.
+      The malignant narcissist who wages war for ego may eventually exhaust the ego’s
+      demands and stop. The psychopath escalates because there are no limits.
+
+
+      And, if you can believe, it gets even worse. Both Trump and Netanyahu are would-be
+      messiahs. They are self-proclaimed agents of God. For them, stopping the war on
+      Iran would mean God was wrong. And the self-proclaimed messiah cannot be wrong,
+      either, because the messiah and God have become, in the grandiose psyche, effectively
+      the same.
+
+
+      Both Trump and Netanyahu have claimed this messianic identity explicitly. Trump
+      has called himself “the chosen one.” Regarding the assassination attempt on Trump
+      in 2024, he declared, “I felt then and believe even more so now that my life was
+      saved for a reason. I ⁠was saved by God to make America great again." Netanyahu,
+      in his address on the eve of Passover, did not merely invoke God. He appropriated
+      God’s role in the Exodus narrative—enumerating ten “accomplishments” of what he
+      calls the “War of Redemption” and naming each one a plague. The killing of Ayatollah
+      Khamenei he named the “Plague of the Firstborn.” He then warned the world:
+
+
+      After the ten plagues of Egypt, I remind you that Pharaoh still tried to harm
+      the People of Israel, and we all know how that ended.
+
+
+      In the Book of Exodus, that ending is the drowning of Pharaoh’s entire army. Netanyahu
+      was threatening the annihilation of Iran, on television, in the language of holy
+      scripture.
+
+
+      Surrounding each of these men is a court of flatterers and fanatics whose function
+      is to sustain the delusion and prevent reality from entering their consciousness.
+
+
+      Trump’s Court: Hegseth, Huckabee, and the Christian Nationalists
+
+
+      Pete Hegseth, the Secretary of Defense, has turned the Pentagon into a theater
+      of holy war. He sports a Jerusalem Cross tattoo on his chest and the words “Deus
+      Vult,” “God Wills It,” the battle cry of the medieval Crusades, on his arm. He
+      hosts monthly Christian worship services in the Pentagon’s auditorium. He has
+      asked the American people to pray “every day, on bended knee” for military victory
+      in the Middle East “in the name of Jesus Christ.” At one of these services, he
+      prayed aloud for US troops to inflict:
+
+
+      Overwhelming violence of action against those who deserve no mercy … We ask these
+      things with bold confidence in the mighty and powerful name of Jesus Christ.
+
+
+      At a press briefing on the Iran war, Hegseth said the United States “negotiates
+      with bombs.” He described Iran’s leaders as “religious fanatics” seeking nuclear
+      capability for “some religious Armageddon,” while presiding over monthly prayer
+      services at the Pentagon and declaring that “the providence of our almighty God
+      is there protecting those troops.” He appears to have no awareness of the mirror
+      he is holding up. A defense secretary who prays for “overwhelming violence” in
+      the name of Jesus, while calling his enemies religious fanatics, has defined the
+      word “projection.”
+
+
+      Mike Huckabee, the US Ambassador to Israel, provides the theological architecture.
+      A Baptist minister and avid Christian Zionist, Huckabee believes the Israel-Iran
+      conflict is the fulfillment of biblical prophecy—a necessary step toward the Rapture
+      and the second coming of Christ. He sent Trump a message—which Trump then posted
+      on social media—comparing the moment to Truman in 1945 and the dropping of atomic
+      bombs on Japan, urging Trump to listen to “HIS voice,” meaning God.
+
+
+      In an interview, Huckabee was asked about the biblical land grant stretching from
+      the Nile to the Euphrates—encompassing Lebanon, Syria, Jordan, and parts of Saudi
+      Arabia and Iraq—and whether Israel had a divine right to it all. His answer was
+      direct: "It would be fine if they took it all."
+
+
+      Israel’s far-right Finance Minister Smotrich, for his part, posted on social media
+      : “I ♥ Huckabee.” Christian Zionist pastor John Hagee, whose organization Christians
+      United for Israel has been a major driver of US evangelical support for Israel’s
+      wars, looked at the Iran war and said simply: “ Prophetically, we’re right on
+      cue .” Franklin Graham, at a White House Easter prayer service, fed Trump’s messianic
+      delusions : "Today the Iranians, the wicked regime of this government, wants to
+      kill every Jew and destroy them with an atomic fire. But you have raised up President
+      Trump. You''ve raised him up for such a time as this. And Father, we pray that
+      you''ll give him victory."
+
+
+      Netanyahu’s Court: Ben-Gvir, Smotrich, and the Messianic Settlers
+
+
+      On the Israeli side, the inner court is composed of two figures whose radicalism
+      is so extreme that they were considered political pariahs until Netanyahu used
+      their votes to stay in power. Itamar Ben-Gvir, the National Security Minister,
+      is an admirer of the late Rabbi Meir Kahane, whose Kach party was designated a
+      terrorist organization. Bezalel Smotrich, the Finance Minister, draws his ideology
+      from Rabbi Zvi Yehuda Kook, who taught that Israel’s 1967 military victory was
+      divinely mandated and that the settlement of Palestinian territory is the will
+      of God. Together, they hold 20 seats in Netanyahu’s 67-seat coalition. They do
+      not merely advise the prime minister, they share in his messianic beliefs and
+      vision.
+
+
+      Ben-Gvir has used his control of the Israeli police to enable settler paramilitaries
+      operating against Palestinians in the West Bank. He has consistently blocked ceasefire
+      negotiations and has openly claimed credit for delaying them. He pushed for Jewish
+      ritual rights on the Temple Mount in defiance of a status quo maintained for decades,
+      a move Israeli security officials warned would lead directly to bloodshed. In
+      August 2023 he declared : “My right, and my wife’s and my children’s right to
+      get around on the roads in Judea and Samaria, is more important than the right
+      to movement for Arabs.” The United Kingdom, Canada, Australia, New Zealand, Norway,
+      Slovenia, the Netherlands, and Spain have all sanctioned him for inciting violence,
+      yet the United States, under Marco Rubio, defended Ben-Gvir and criticized those
+      sanctions.
+
+
+      Smotrich is the more methodical of the two: less theatrical and more dangerous.
+      He has systematically transferred civilian governance of the West Bank from the
+      Israeli military to his own ministry, channeling hundreds of millions of shekels
+      to settler infrastructure while Palestinian Authority budgets are deliberately
+      strangled. He has directed his office to formulate “an operational plan for applying
+      sovereignty” over the West Bank. During the Iran war, he called for Israel to
+      annex southern Lebanon up to the Litani River, declaring that the war “needs to
+      end with a different reality entirely.” Smotrich’s ideology draws on Kook’s teaching
+      that the settlement enterprise is not political but sacred—a divine obligation
+      that must be completed regardless of international law, Palestinian rights, or
+      the opinion of the world. The 1967 borders, in this theology, are not a temporary
+      military reality. They are God’s unfinished business.
+
+
+      The world’s grownups must try to stop the madness.
+
+
+      Neither Ben-Gvir nor Smotrich was anything more than a fringe extremist before
+      Netanyahu legitimized them by bringing them into government and his inner court.
+      He gave them power over Israeli society, and they gave him the religious-nationalist
+      firepower to call his wars a divine mission.
+
+
+      Into this landscape of holy war, one voice has spoken with world-saving grace
+      and clarity. Pope Leo XIV has consistently called for an end to the violence.
+      During a Holy Thursday Mass in Rome, he addressed the arrogance of power:
+
+
+      We tend to consider ourselves powerful when we dominate, victorious when we destroy
+      our equals, great when we are feared. God has given us an example — not of how
+      to dominate, but of how to liberate; not of how to destroy life, but of how to
+      give it.
+
+
+      On Palm Sunday, the pope was again direct, saying that Jesus “does not listen
+      to the prayers of those who wage war, but rejects them.” Hegseth followed up by
+      holding another worship service at the Pentagon, where he again prayed for “overwhelming
+      violence” in Christ’s name.
+
+
+      Professor John Mearsheimer has stated precisely that the crimes now being committed
+      by Trump and Netanyahu are the same crimes for which the Nazi leadership was hanged
+      at Nuremberg: aggressive war, annexation of foreign territory, deliberate targeting
+      of civilian infrastructure, and collective punishment. This is not rhetorical
+      excess. These are legal categories. The Nuremberg Tribunal called the crime of
+      aggression the “supreme international crime”—the one that “contains within itself
+      the accumulated evil of the whole”—because it is the crime that makes all the
+      other crimes possible. These men have confessed to it, publicly, in speeches carried
+      by international broadcasters.
+
+
+      The institutional mechanisms that exist to prevent exactly this kind of catastrophe,
+      including the UN Security Council, the International Criminal Court, the non-proliferation
+      regime, and the laws of armed conflict, are being actively subverted by the United
+      States.
+
+
+      And yet the world’s grownups must try to stop the madness. The multilateral effort
+      in Islamabad, including the foreign ministers of Pakistan, Turkey, Egypt, and
+      Saudi Arabia, working alongside the China-Pakistan five-point peace initiative,
+      is an important start. It should be joined by the full weight of the BRICS nations,
+      the UN General Assembly, and every state that wishes to live in a world governed
+      by rules rather than by the delusions of two malignant narcissists.
+
+
+      When deranged leaders invoke divine catastrophe as a political instrument, it
+      is not only their enemies who are consumed. We will all be the victims of Netanyahu’s
+      plagues and Trump’s bombing of Iran to the stone ages, unless other leaders place
+      limits on these two madmen.'
+    one_sentence_summary: The article critiques Donald Trump and Benjamin Netanyahu
+      as malignant narcissists whose unchecked power and delusions of grandeur pose
+      a significant threat to global stability, particularly in relation to their aggressive
+      stance towards Iran, which is exacerbated by their self-proclaimed messianic identities
+      and the support of a fanatical entourage promoting violence in the name of religious
+      beliefs.
+    paragraph_summary: The article critiques the dangerous leadership of Donald Trump
+      and Benjamin Netanyahu, portraying them as malignant narcissists whose unchecked
+      power and delusions of grandeur pose a significant threat to global stability,
+      particularly regarding their aggressive stance towards Iran. It argues that both
+      leaders exhibit traits of psychopathy, lacking empathy and conscience, which exacerbates
+      their propensity for violence and war crimes, reminiscent of historical tyrants.
+      The piece highlights their self-proclaimed messianic identities, suggesting that
+      they view their military actions as divinely sanctioned, thus escalating the risk
+      of catastrophic conflict. It calls for responsible global leaders to intervene
+      and prevent further escalation of violence, emphasizing the need for adherence
+      to international law and the protection of civilian lives amidst the rhetoric
+      of holy war. The article concludes with a plea for collective action from the
+      international community to counteract the destructive impulses of these leaders
+      before it leads to widespread devastation.
+    published: '2026-04-06T13:52:20+00:00'
   - title: Ending the Trump-Netanyahu War in the Middle East
     url: https://www.commondreams.org/opinion/how-to-end-the-iran-war
     text: 'The Israel-US war on Iran is engulfing the entire Middle East and could escalate

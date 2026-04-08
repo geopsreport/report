@@ -7,16 +7,54 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of April 1, 2026, the geopolitical landscape remains tense, shaped by ongoing conflicts, shifting alliances, and evolving security doctrines. Recent independent analysis continues to highlight the consequences of Western interventions, the transformation of the information environment, and the intensification of regional security dilemmas.
+  The ongoing geopolitical landscape remains shaped by heightened tensions in the Middle East, evolving security doctrines in Europe, and the persistent marginalization of peace-oriented perspectives in Western discourse.
   
-  A significant development is the release of Sladjana Zaric’s documentary, "Breaking Point: The War That Changed The Rules," which, as **Jan Oberg** notes, revisits the Yugoslav wars and the international community’s conflict-mitigation efforts from 1991 to 2000. The film underscores how the lessons of the Balkan conflicts—particularly the failures of preventive diplomacy and the rise of interventionist norms—continue to shape Western policies today. Oberg argues that the documentary “reminds us of the cost of ignoring early warning signs and the dangers of militarized responses over dialogue.”
+  **Middle East: Targeted Violence and Policy Objectives**  
+  Recent reports highlight a surge in targeted attacks within Iran, with **Jan Oberg** emphasizing, through the perspective of Elaheh Pooyandeh, that "Iranians are not merely collateral damage but are the primary targets of violence." This underscores a shift from indiscriminate conflict to more deliberate, population-focused strategies. Furthermore, Israeli Prime Minister Benjamin Netanyahu’s public satisfaction at involving the United States in a major conflict with Iran, as cited by **Oberg**, signals the culmination of a decades-long policy objective for Israeli strategists. The regional situation remains volatile, and the risk of escalation persists.
   
-  Turning to Northern Europe, Sweden’s security posture is under scrutiny. **Jan Oberg** criticizes the Swedish Security Service’s (SÄPO) latest threat assessment as “an analytically disarmed tabloid product,” warning that its NATO-centric focus risks undermining Sweden’s broader security interests. Oberg contends that the current narrative oversimplifies complex threats and could lead to policy missteps, especially as the region faces heightened tensions with Russia.
+  **European Security: Sweden’s Threat Perception**  
+  In Scandinavia, Sweden’s security narrative is under scrutiny. **Jan Oberg** criticizes the Swedish Security Service’s (SÄPO) threat assessment as "an analytically disarmed tabloid product," arguing that its NATO-centric focus may actually undermine Swedish national security by oversimplifying complex threats. This reflects broader debates across Europe regarding the balance between alliance commitments and nuanced national security strategies.
   
-  Meanwhile, the debate over the humanitarian impact of sanctions has resurfaced. In a recent article, **John Mearsheimer** is cited for his claim that U.S.-led sanctions have contributed to approximately 38 million deaths globally—a figure that has sparked controversy. **Jan Oberg** calls for a more nuanced discourse, stating that “the impact of sanctions is too often overlooked compared to conventional warfare,” and urges policymakers to consider the broader consequences of economic coercion.
+  **Information Environment: Decline of Peace Discourse**  
+  A notable trend is the diminishing space for peace-oriented analysis in Western media. **Oberg** notes a "decline of free media and open democratic discourse," with peace research and alternative perspectives increasingly sidelined. This shift impacts public understanding and policy debates, particularly as conflict narratives dominate mainstream channels.
   
-  Trends indicate a persistent marginalization of peace-oriented perspectives in Western media and policy circles. The transformation of the information environment, as highlighted by Oberg, has made it increasingly difficult for alternative voices to shape public debate. Looking ahead, it is quite likely that security narratives in Europe will remain dominated by militarized and alliance-driven frameworks, with a high chance of further polarization in public discourse. The lessons from the Yugoslav wars and the ongoing debate over sanctions suggest that without a shift toward more inclusive and preventive approaches, the risk of escalation and humanitarian fallout will remain high.
+  **Trends and Predictions**  
+  Looking ahead, there is a high chance that targeted violence in Iran will continue, given the entrenched policy objectives of external actors and the internal dynamics described. The European security debate is likely to intensify, especially as countries reassess their threat perceptions in light of alliance politics. The marginalization of peace perspectives in Western media is, in **Oberg’s** view, "quite likely" to persist unless deliberate efforts are made to restore open discourse.
+  
+  In summary, the geopolitical environment is marked by deliberate escalation strategies, contested security narratives, and a narrowing of the information space for peace advocacy—trends that are expected to continue in the near term.
 articles:
+  - title: Fred är inte bara frånvaron av krig – det är ett sätt att leva
+    url: https://transnational.live/2026/04/03/fred-ar-inte-bara-franvaron-av-krig-det-ar-ett-satt-att-leva/
+    text: 'Share on Facebook Follow on Facebook Add to Google+ Connect on Linked in
+      Subscribe by Email Print This Post April 3, 2026 Hade nyligen det verkliga nöjet
+      att få besök av Dissidentklubben/Podden i Sverige. Kerstin Ekström gjorde en intervju
+      på över 60 minuter där vi kommer långt omkring och där jag också talar lite om
+      vad fredsforskning är och hur underbart det är att ägna sig åt något så viktigt
+      som fred – positiv fred, väl att märka. Jan Öberg Fred är inte bara frånvaron
+      av krig – det är ett sätt att leva added by JO on April 3, 2026 View all posts
+      by JO → Share: Share on Facebook (Opens in new window) Facebook Share on X (Opens
+      in new window) X Share on Telegram (Opens in new window) Telegram Share on WhatsApp
+      (Opens in new window) WhatsApp Share on LinkedIn (Opens in new window) LinkedIn
+      Share on Tumblr (Opens in new window) Tumblr Share on Reddit (Opens in new window)
+      Reddit Email a link to a friend (Opens in new window) Email Print (Opens in new
+      window) Print Like this: Like Loading… Related Posts Fastställande av folkmord
+      i Xinjiang som agenda En kritisk analys av en rapport från Newlines Institute
+      och Raoul Wallenberg Center Gordon Dumoulin,… Är Kina ett imperium? Photo © Jan
+      Öberg Av Karl Wang 28:e mars 2019 Denna artikel är skriven av… Det är dåraktigt
+      av Sverige och Finland att gå med i NATO og ignorera både de verkliga orsakerna
+      och konsekvenserna Jan Oberg 14 maj, 2022 Engelska versionen av denna finns här
+      Detta är vad västvärlden… Interesting too? The World is finding happiness'
+    one_sentence_summary: In a recent interview with Kerstin Ekström from Dissidentklubben/Podden,
+      Jan Öberg discusses the importance of peace research and the concept of "positive
+      peace" as a way of life, emphasizing that peace is more than just the absence
+      of war.
+    paragraph_summary: On April 3, 2026, Jan Öberg shared his experience of being interviewed
+      by the Dissident Club/Podcast in Sweden, where he discussed the concept of peace
+      research and the significance of engaging in the pursuit of positive peace, which
+      he emphasizes is more than just the absence of war—it's a way of life. The interview,
+      conducted by Kerstin Ekström, lasted over 60 minutes and covered various aspects
+      of peace and its importance in society.
+    published: '2026-04-03T09:19:05+00:00'
   - title: '“Breaking Point: The War That Changed The Rules”'
     url: https://transnational.live/2026/03/26/breaking-point-the-war-that-changed-the-rules/
     text: 'New documentary by Sladjana Zaric, RTS – Serbia’s Radio and Television Jan

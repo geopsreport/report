@@ -7,14 +7,126 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As the Middle East remains embroiled in escalating conflict, the latest developments underscore deepening instability and the persistent inability of military interventions to deliver security or resolution. The Israeli invasion of Lebanon, as analyzed by **Binoy Kampmark**, is emblematic of a recurring cycle: "aggressive tactics, reminiscent of past conflicts, will not resolve security issues and may instead perpetuate violence and instability in the region." This assessment reflects a broad consensus among independent analysts that Israel’s renewed operations are unlikely to achieve their stated objectives and will instead fuel further regional volatility.
+  The ongoing Iran War continues to reshape the geopolitical landscape, with significant ramifications for security, the environment, and global supply chains. The conflict’s escalation has not only intensified military confrontations but also exposed the vulnerabilities and contradictions within Western alliances and their strategic objectives.
   
-  Meanwhile, the United States faces mounting challenges in sustaining its military posture. **Kampmark** highlights the "alarming state of unreadiness within the US military," citing Army Undersecretary Michael Obadal’s warnings about deficiencies in weapons systems and maintenance. The protracted engagement in the Middle East, particularly the ongoing Operation Epic Fury, has strained resources and exposed gaps in readiness, raising doubts about Washington’s capacity to respond effectively to emerging threats. This erosion of military capability is seen as a direct consequence of overextension and a lack of substantive reform.
+  Most recently, the environmental impact of the Iran War has come into sharper focus. **Binoy Kampmark** reports that the conflict has generated approximately 5 million tonnes of CO2 in its first two weeks, underscoring the war’s role as a “great carbon emitter.” This surge in emissions highlights the broader security risks tied to fossil fuel dependency and adds urgency to calls for a transition to renewable energy sources. The environmental degradation is now seen as an additional front in the conflict, compounding the humanitarian and economic crises already underway.
   
-  The broader geopolitical fallout continues to reverberate. The closure of the Strait of Hormuz by Iran has triggered significant disruptions in global supply chains, especially in fertilizers and oil, with ripple effects for major agricultural economies such as Brazil and India. The resultant price shocks and shortages are expected to intensify in the coming weeks, with **Kampmark** warning of "potential agricultural crises" if the blockade persists.
+  Meanwhile, Israel’s renewed invasion of Lebanon has drawn criticism for repeating aggressive tactics that have failed to resolve underlying security issues. As **Kampmark** notes, these operations are “reminiscent of past conflicts” and risk perpetuating a cycle of violence and instability in the region. The majority of analysts agree that such military actions are unlikely to achieve lasting peace or security, instead deepening regional tensions.
   
-  Looking ahead, the prevailing trend is one of deepening crisis and policy paralysis. There is a high chance that Israel’s actions in Lebanon will provoke further retaliation, entrenching the conflict. The US military’s readiness issues are unlikely to be resolved swiftly, limiting Washington’s options. Most definitely, the economic consequences of the Hormuz closure will continue to mount, with global markets bracing for further instability. The majority of analysts agree: absent a dramatic shift in diplomatic engagement, the region is set for prolonged turmoil.
+  On the military front, the United States faces growing scrutiny over its operational readiness. **Kampmark** highlights statements from Army Undersecretary Michael Obadal, who points to “significant deficiencies in major weapons systems and maintenance capabilities.” Years of prolonged engagements and insufficient reforms have left the U.S. military ill-prepared to respond effectively to contemporary threats, casting doubt on its ability to sustain current operations or deter adversaries.
+  
+  Looking ahead, the trends indicate a high likelihood that the environmental and logistical costs of the Iran War will continue to mount, with little sign of a decisive resolution. Regional instability is expected to persist, particularly as Israeli operations in Lebanon escalate and U.S. military readiness remains in question. I guarantee that, absent a dramatic shift in strategy or diplomatic engagement, the conflict’s negative impacts—environmental, economic, and security-related—will only intensify in the coming weeks.
 articles:
+  - title: 'The Iran War: A Great Carbon Emitter'
+    url: https://www.counterpunch.org/2026/04/01/the-iran-war-a-great-carbon-emitter/
+    text: 'Truth may well be the first casualty of war, but death, injury and environmental
+      degradation are bound to be keeping up in the hit lists. Attacks on gas fields,
+      oil refineries and petrochemical plants will always leave an impression once the
+      conflict concludes. In the case of carbon emissions, the most challenging obstacle
+      in collective efforts to stay the rise of the earth’s temperatures, the Iran War
+      is doing much to throw everything out of kilter.
+
+
+      The gloomy modelling from the Climate and Community Institute shows that the first
+      fortnight of the Iran War, which began on February 28 as a crime against peace
+      pursued by Israel and the United States, produced some 5 million tonnes of carbon
+      dioxide. To get a sense of proportion, the carbon pollution exceeded that of Iceland
+      in one year. The institute, in arriving at such figures, considered the carbon
+      emissions arising from destroyed homes and buildings, destroyed fuel, the fuel
+      used in combat and support operations, equipment embodied carbon (equipment lost)
+      and missiles and drones.
+
+
+      To give a sense of the granular detail, a Lockheed Martin F-35 Lightning II fighter
+      consumes roughly 5,600 to 6,500 litres of fuel during a single combat sortie lasting
+      one-and-a-half to two hours. The emission of carbon dioxide during such a mission
+      is approximately that of 14-17 tonnes, the lifespan of a conventional passenger
+      vehicle. The company behind the production of the F-35 has also admitted that
+      its sold products, in 2024, produced just under 14 million tonnes of carbon dioxide
+      equivalents.
+
+
+      The authors of the Climate and Community Institute report further note that carbon
+      costs will only rise in sharp fashion if the war persists. Three reasons are postulated,
+      and these do not even include such issues as the re-routing of commercial aviation
+      traffic. Firstly, as US and Israeli arsenals suffer depletion, “embodied emissions
+      of building new weapons, along with fuel used to deliver them to the region, will
+      rise.” Secondly, the targeting of oil infrastructure in the region will result
+      in the uncontrollable emission of fossil fuels, as what took place during the
+      Gulf War. Thirdly, the deployment of more naval vessels by other states to the
+      Middle East, including France and the United Kingdom, ostensibly to protect their
+      interests, will increase “emissions via [a] ‘defensive’ posture.”
+
+
+      Things do not end there. The current obsession of the Trump administration’s pursuit
+      of “energy dominance” will only see more fossil fuel production for reasons of
+      energy security. Reconstruction in the aftermath of the war will also cause emissions.
+      “Reconstructing infrastructure in the impacted region of 14 countries from Cypress
+      to Azerbaijan – including homes, roads, hospitals, schools, oil and transport
+      infrastructure – is not only costly but carbon intensive.” The authors note with
+      grim awareness that the emissions arising from rebuilding Gaza and Lebanon after
+      the conflict “will produce at least 24 times more than the emissions from the
+      war alone.”
+
+
+      Other conflicts have also been appalling emitters. The hefty carbon footprint
+      of the first 15 months of Israel’s campaign in Gaza arising from direct war activities,
+      according to a multi-authored study published in April last year, exceeded the
+      annual emissions of 36 individual countries and territories. The total emissions
+      would increase to 41 lowest emitting countries and territories if Hamas’s tunnel
+      network and Israel’s “Iron Wall” protective fence were also included. The authors
+      arrive at a staggering figure of 32,275,089 tonnes of carbon dioxide equivalent
+      (tCO2e) when pre-conflict and post-conflict related construction activities are
+      included. That final figure ranks higher than the annual emissions of 102 countries.
+
+
+      Broadly speaking, the Iran War has revealed how the continued reliance on fossil
+      fuels is not only degrading in terms of environment but precarious in terms of
+      security. “Fossil fuel dependency is ripping away national security and sovereignty,
+      and replacing it with subservience and rising costs,” explains Simon Stiell, Executive
+      Secretary of the United Nations Framework Convention on Climate Change. To that
+      end, renewable sources of energy must be pursued with greater vigour. “Meek dependence
+      on fossil fuel imports,” he remarks, referring to European policy makers, “will
+      leave Europe forever lurching from crisis to crisis.” Renewable energy, however,
+      will “turn the tables. Sunlight doesn’t depend on narrow and vulnerable shipping
+      straits.”
+
+
+      Brian Lee of Rethink Energy Florida builds on the theme with earnest seriousness,
+      suggesting that “Energy security isclimate security.” This is not a novel pairing;
+      any serious policy in that sense “would treat accelerating renewable energy development
+      not as an environmental gesture, but as a national imperative.” Doing so would
+      set “clear limits on the level of sea-level rise our coastal economies can endure
+      as a second metric to the Paris Agreement’s 1.5 degrees C temperature increase
+      limit – and align policy to stay below both.”
+
+
+      War has a nasty habit of suspending agendas and supplanting them with a murderous
+      lunacy that becomes, for the duration of hostilities, dull and commonplace. Important,
+      pressing topics get marooned along the way. When peace breaks out, those neglected
+      topics return with a vengeance. Along with the staining criminality of those who
+      have soiled the peace, climate change is exactly one of those things, something
+      that will storm back to the fore with menacing consequences.'
+    one_sentence_summary: The Iran War has significantly increased carbon emissions,
+      producing around 5 million tonnes of CO2 in its first two weeks alone, highlighting
+      the environmental degradation and security risks associated with fossil fuel dependency,
+      and underscoring the urgent need for a transition to renewable energy sources.
+    paragraph_summary: The ongoing Iran War, which began on February 28, has significantly
+      exacerbated carbon emissions, producing approximately 5 million tonnes of CO2
+      in just the first two weeks, surpassing Iceland's annual emissions. This increase
+      is attributed to the destruction of infrastructure, fuel consumption during combat,
+      and the emissions from military operations, including the use of advanced fighter
+      jets like the F-35. The Climate and Community Institute warns that if the conflict
+      continues, emissions will rise further due to the need to rebuild war-torn areas
+      and the depletion of military arsenals, which will require more fossil fuel production.
+      The war highlights the precarious nature of fossil fuel dependency, which undermines
+      national security and emphasizes the urgent need for a transition to renewable
+      energy sources. Experts argue that energy security is intrinsically linked to
+      climate security, suggesting that prioritizing renewable energy development is
+      essential for both environmental sustainability and national stability. As the
+      war progresses, the neglected issue of climate change is expected to resurface
+      with significant consequences once hostilities cease.
+    published: '2026-04-01T05:48:29+00:00'
   - title: 'Auguries of Failure: Israel Invades Lebanon, Yet Again'
     url: https://www.counterpunch.org/2026/03/31/auguries-of-failure-israel-invades-lebanon-yet-again/
     text: 'When will Israel realise that invading Lebanon with paralytic compulsion

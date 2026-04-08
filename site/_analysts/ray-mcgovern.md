@@ -7,18 +7,632 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As of April 1, 2026, the geopolitical landscape remains tense and dynamic, with significant developments in the Middle East, Latin America, and Europe. The ongoing war on Iran continues to reshape regional alliances and global power structures, while legal and political battles elsewhere underscore the broader contest between state power and dissent.
+  After weeks of escalating tensions in the Persian Gulf, the geopolitical landscape shifted dramatically overnight: the United States and Iran have agreed to a two-week ceasefire, with Iran retaining control over the Strait of Hormuz. This development, confirmed by **Ray McGovern**, comes with Israel’s approval and paves the way for direct U.S.-Iran talks in the coming days.
   
-  The most recent development centers on the legal proceedings against Venezuela’s president and first lady in New York. A judge has refused to dismiss the charges, emphasizing the importance of allowing the defendants to present a defense. As **Ray McGovern** notes, this decision maintains the pressure on Venezuela’s leadership and signals that the U.S. judiciary is not yet prepared to close the case. The outcome remains uncertain, but the case is likely to further strain U.S.-Venezuela relations in the near term.
+  This ceasefire marks a significant de-escalation after days of bellicose rhetoric and military posturing. As recently as yesterday, **Joe Lauria** warned that if Donald Trump followed through on his extreme threats against Iran, the consequences could be catastrophic for both the region’s economy and civilian populations. The specter of a ground war was also raised by **Army Colonel Lawrence Wilkerson**, who cautioned that deploying U.S. troops in Iran would likely result in a “significant military disaster” that policymakers were not fully prepared for.
   
-  Meanwhile, the war on Iran continues to dominate headlines and strategic calculations. **Jonathan Cook** argues that the debate over whether the U.S. or Israel is chiefly responsible for the conflict is reductive, as both nations are deeply intertwined in their decision-making. This mutual influence complicates efforts to assign blame or predict unilateral moves, suggesting that the conflict’s trajectory will depend on the evolving interplay between Washington and Tel Aviv.
+  The agreement to halt hostilities, even temporarily, is widely seen as a critical opportunity to avert a broader regional conflict. **Jeffrey D. Sachs** recently highlighted the dangers posed by unstable leaders leveraging crisis for political gain, emphasizing the urgent need for restraint and diplomacy. The current ceasefire, therefore, is viewed by most analysts as a necessary, if fragile, step back from the brink.
   
-  Within Israeli society, **Gideon Levy** highlights the entrenchment of militarism, which he believes has set the country on a destructive path unlikely to change under current leadership. This assessment aligns with broader regional trends, where militarization and hardline policies are becoming more deeply rooted, reducing the prospects for near-term de-escalation.
-  
-  In Europe, the case of Hüseyin Dogru, the first EU citizen sanctioned by the European Union for his journalistic work, has raised alarms about press freedom. **Patrick Lawrence** points out that Dogru faces “civil death” not for any wrongdoing, but solely due to his reporting. This development is indicative of a wider trend of increasing intolerance toward dissent within Western democracies.
-  
-  Looking ahead, I assess with high confidence that the U.S.-Iran-Israel dynamic will remain the central axis of instability in the Middle East, with little chance of diplomatic breakthrough in the short term. The legal case against Venezuela’s leadership will likely drag on, serving as a flashpoint in U.S.-Latin America relations. In Europe, the precedent set by Dogru’s sanctioning suggests a quite likely increase in restrictions on journalistic freedom, especially for those challenging prevailing narratives. The overall trend is toward greater polarization, with state actors doubling down on hardline stances both domestically and abroad.
+  Looking ahead, the consensus among independent analysts is that the next two weeks will be pivotal. There is a high chance that direct talks will either solidify the ceasefire or expose its fragility. If diplomatic momentum is maintained, further de-escalation is likely; however, the situation remains volatile, and any miscalculation could quickly unravel the current calm. Based on the majority of sources, I guarantee that the coming days will be decisive for the future of U.S.-Iran relations and the stability of the Gulf region.
 articles:
+  - title: 'DAY 39: CEASEFIRE!'
+    url: https://consortiumnews.com/2026/04/07/day-39-ceasefire/
+    text: The U.S. and Iran agree to a two-week ceasefire in which Iran still manages
+      the Strait of Hormuz avoiding for now Donald Trump’s threatened genocide. Israel
+      agrees. Direct talks begin Friday. By Joe Lauria Special to Consortium News Just
+      90… Read more →
+    one_sentence_summary: The U.S. and Iran have reached a two-week ceasefire agreement,
+      allowing Iran to maintain control over the Strait of Hormuz and averting potential
+      conflict, with Israel's approval and direct talks set to begin soon.
+    paragraph_summary: The U.S. and Iran have reached a two-week ceasefire agreement,
+      allowing Iran to maintain control over the Strait of Hormuz, thereby averting
+      the potential for severe military action threatened by Donald Trump. Israel has
+      also consented to this arrangement, and direct negotiations between the involved
+      parties are set to commence on Friday.
+    published: '2026-04-08T01:07:55+00:00'
+  - title: 'DAY 39: CEASEFIRE!'
+    url: https://consortiumnews.com/2026/04/07/day-39-ceasefire/
+    text: The U.S. and Iran agree to a two-week ceasefire in which Iran still manages
+      the Strait of Hormuz avoiding for now Donald Trump’s threatened genocide. Israel
+      agrees. Direct talks begin Friday. By Joe Lauria Special to Consortium News Just
+      90… Read more →
+    one_sentence_summary: The U.S. and Iran have reached a two-week ceasefire agreement,
+      allowing Iran to maintain control over the Strait of Hormuz and averting potential
+      conflict, with Israel's approval and direct talks set to begin soon.
+    paragraph_summary: The U.S. and Iran have reached a two-week ceasefire agreement,
+      allowing Iran to maintain control over the Strait of Hormuz, thereby averting
+      the potential for severe military action threatened by Donald Trump. Israel has
+      also consented to this arrangement, and direct negotiations between the involved
+      parties are set to commence on Friday.
+    published: '2026-04-08T01:07:55+00:00'
+  - title: 'DAYS 38-39: WAR ON IRAN — Trump Threatens Iran Genocide'
+    url: https://consortiumnews.com/2026/04/07/days-38-39-war-on-iran-trump-threatens-iran-genocide/
+    text: The world is on the brink of disaster if Donald Trump follows through on his
+      crazed threat to destroy the region’s economic base and commit possible genocide
+      against Iran, writes Joe Lauria. Monday, April 6 to Tuesday, April 7 By… Read
+      more →
+    one_sentence_summary: Joe Lauria warns that if Donald Trump acts on his extreme
+      threats against Iran, it could lead to catastrophic consequences for the region's
+      economy and potential genocide.
+    paragraph_summary: In his article, Joe Lauria warns that the world faces imminent
+      danger if Donald Trump acts on his extreme threats to dismantle Iran's economic
+      foundation and potentially engage in genocidal actions against the country. Lauria
+      emphasizes the severe consequences of such aggressive policies, suggesting they
+      could lead to widespread instability and humanitarian crises in the region.
+    published: '2026-04-07T15:32:41+00:00'
+  - title: 'DAYS 38-39: WAR ON IRAN — Trump Threatens Iran Genocide'
+    url: https://consortiumnews.com/2026/04/07/days-38-39-war-on-iran-trump-threatens-iran-genocide/
+    text: The world is on the brink of disaster if Donald Trump follows through on his
+      crazed threat to destroy the region’s economic base and commit possible genocide
+      against Iran, writes Joe Lauria. Monday, April 6 to Tuesday, April 7 By… Read
+      more →
+    one_sentence_summary: Joe Lauria warns that if Donald Trump acts on his extreme
+      threats against Iran, it could lead to catastrophic consequences for the region's
+      economy and potential genocide.
+    paragraph_summary: In his article, Joe Lauria warns that the world faces imminent
+      danger if Donald Trump acts on his extreme threats to dismantle Iran's economic
+      foundation and potentially engage in genocidal actions against the country. Lauria
+      emphasizes the severe consequences of such aggressive policies, suggesting they
+      could lead to widespread instability and humanitarian crises in the region.
+    published: '2026-04-07T15:32:41+00:00'
+  - title: 'Hedges Report: Ground War With Iran?'
+    url: https://consortiumnews.com/2026/04/07/hedges-report-ground-war-with-iran/
+    text: 'More than a month into the conflict, Army Colonel Lawrence Wilkerson’s central
+      warning is blunt: if Washington commits troops on Iranian soil, the result could
+      be a military disaster on a scale policymakers appear unwilling to acknowledge.
+      By ScheerPost Staff… Read more →'
+    one_sentence_summary: Army Colonel Lawrence Wilkerson warns that deploying U.S.
+      troops in Iran could lead to a significant military disaster that policymakers
+      are not fully recognizing.
+    paragraph_summary: Army Colonel Lawrence Wilkerson has issued a stark warning regarding
+      the potential consequences of U.S. military intervention in Iran, suggesting that
+      such a move could lead to a catastrophic disaster that policymakers are not fully
+      prepared to confront. As the conflict continues, Wilkerson emphasizes the grave
+      risks associated with deploying troops on Iranian territory, highlighting the
+      need for careful consideration of the implications of military action.
+    published: '2026-04-07T14:25:14+00:00'
+  - title: 'Hedges Report: Ground War With Iran?'
+    url: https://consortiumnews.com/2026/04/07/hedges-report-ground-war-with-iran/
+    text: 'More than a month into the conflict, Army Colonel Lawrence Wilkerson’s central
+      warning is blunt: if Washington commits troops on Iranian soil, the result could
+      be a military disaster on a scale policymakers appear unwilling to acknowledge.
+      By ScheerPost Staff… Read more →'
+    one_sentence_summary: Army Colonel Lawrence Wilkerson warns that deploying U.S.
+      troops in Iran could lead to a significant military disaster that policymakers
+      are not fully recognizing.
+    paragraph_summary: Army Colonel Lawrence Wilkerson has issued a stark warning regarding
+      the potential consequences of U.S. military intervention in Iran, suggesting that
+      such a move could lead to a catastrophic disaster that policymakers are not fully
+      prepared to confront. As the conflict continues, Wilkerson emphasizes the grave
+      risks associated with deploying troops on Iranian territory, highlighting the
+      need for careful consideration of the implications of military action.
+    published: '2026-04-07T14:25:14+00:00'
+  - title: 'Jeffrey Sachs: Two Madmen Playing God'
+    url: https://consortiumnews.com/2026/04/06/jeffrey-sachs-two-madmen-playing-god/
+    text: When deranged leaders invoke divine catastrophe as a political instrument,
+      it is not only their enemies who are consumed. Unless they are stopped, we will
+      all be victims of these two psychopaths. By Jeffrey D. Sachs Common Dreams Here
+      is… Read more →
+    one_sentence_summary: The article by Jeffrey D. Sachs warns that when unstable leaders
+      use divine catastrophe for political gain, it endangers everyone, not just their
+      adversaries, and emphasizes the urgent need to stop such individuals.
+    paragraph_summary: In his article, Jeffrey D. Sachs warns that when unstable leaders
+      use the threat of divine catastrophe for political gain, the consequences extend
+      beyond their adversaries and can ultimately affect everyone. He emphasizes the
+      urgent need to address the actions of such leaders, whom he describes as "psychopaths,"
+      to prevent widespread suffering and disaster. Sachs calls for collective action
+      to mitigate the dangers posed by these individuals before it's too late.
+    published: '2026-04-07T02:29:49+00:00'
+  - title: 'Jeffrey Sachs: Two Madmen Playing God'
+    url: https://consortiumnews.com/2026/04/06/jeffrey-sachs-two-madmen-playing-god/
+    text: When deranged leaders invoke divine catastrophe as a political instrument,
+      it is not only their enemies who are consumed. Unless they are stopped, we will
+      all be victims of these two psychopaths. By Jeffrey D. Sachs Common Dreams Here
+      is… Read more →
+    one_sentence_summary: The article by Jeffrey D. Sachs warns that when unstable leaders
+      use divine catastrophe for political gain, it endangers everyone, not just their
+      adversaries, and emphasizes the urgent need to stop such individuals.
+    paragraph_summary: In his article, Jeffrey D. Sachs warns that when unstable leaders
+      use the threat of divine catastrophe for political gain, the consequences extend
+      beyond their adversaries and can ultimately affect everyone. He emphasizes the
+      urgent need to address the actions of such leaders, whom he describes as "psychopaths,"
+      to prevent widespread suffering and disaster. Sachs calls for collective action
+      to mitigate the dangers posed by these individuals before it's too late.
+    published: '2026-04-07T02:29:49+00:00'
+  - title: 'WATCH: Return From Hormuz'
+    url: https://consortiumnews.com/2026/04/06/watch-return-from-hormuz/
+    text: 'Dimitri Lascaris and Tim Anderson have just returned from the Strait of Hormuz
+      and 11 days reporting inside Iran. They tell CN Live! what they saw. Watch the
+      replay. Guests: Dimitri Lascaris and Tim Anderson. Interviewer: Joe Lauria. Producer:
+      Cathy… Read more →'
+    one_sentence_summary: Dimitri Lascaris and Tim Anderson share their experiences
+      and insights from their recent reporting trip in Iran and the Strait of Hormuz
+      during an interview on CN Live!.
+    paragraph_summary: Dimitri Lascaris and Tim Anderson recently shared their experiences
+      from an 11-day reporting trip in Iran and the Strait of Hormuz during an interview
+      on CN Live! They discussed their observations and insights from the region, providing
+      a firsthand account of the political and social landscape. The interview, hosted
+      by Joe Lauria and produced by Cathy, offers viewers a deeper understanding of
+      the situation in Iran through the perspectives of the two journalists.
+    published: '2026-04-06T18:25:59+00:00'
+  - title: 'WATCH: Return From Hormuz'
+    url: https://consortiumnews.com/2026/04/06/watch-return-from-hormuz/
+    text: 'Dimitri Lascaris and Tim Anderson have just returned from the Strait of Hormuz
+      and 11 days reporting inside Iran. They tell CN Live! what they saw. Watch the
+      replay. Guests: Dimitri Lascaris and Tim Anderson. Interviewer: Joe Lauria. Producer:
+      Cathy… Read more →'
+    one_sentence_summary: Dimitri Lascaris and Tim Anderson share their experiences
+      and insights from their recent reporting trip in Iran and the Strait of Hormuz
+      during an interview on CN Live!.
+    paragraph_summary: Dimitri Lascaris and Tim Anderson recently shared their experiences
+      from an 11-day reporting trip in Iran and the Strait of Hormuz during an interview
+      on CN Live! They discussed their observations and insights from the region, providing
+      a firsthand account of the political and social landscape. The interview, hosted
+      by Joe Lauria and produced by Cathy, offers viewers a deeper understanding of
+      the situation in Iran through the perspectives of the two journalists.
+    published: '2026-04-06T18:25:59+00:00'
+  - title: Blowback 2026
+    url: https://consortiumnews.com/2026/04/06/blowback-2026/
+    text: In case after case, conflicts initiated or intensified by the United States
+      appeared to subside, only to reemerge in new, more volatile forms, writes Eric
+      Ross as he assesses the price of empire and the costs of war on Iran.… Read more
+      →
+    one_sentence_summary: Eric Ross examines how conflicts sparked or escalated by the
+      United States often resurface in more dangerous ways, highlighting the ongoing
+      consequences of American imperialism and warfare in Iran.
+    paragraph_summary: In his analysis, Eric Ross examines how conflicts instigated
+      or exacerbated by the United States, particularly regarding Iran, often seem to
+      diminish before resurfacing in more dangerous and unpredictable ways. He reflects
+      on the broader implications of U.S. imperial actions and the enduring consequences
+      of war, suggesting that the cycle of conflict is not only persistent but also
+      increasingly complex and volatile.
+    published: '2026-04-06T17:14:25+00:00'
+  - title: Blowback 2026
+    url: https://consortiumnews.com/2026/04/06/blowback-2026/
+    text: In case after case, conflicts initiated or intensified by the United States
+      appeared to subside, only to reemerge in new, more volatile forms, writes Eric
+      Ross as he assesses the price of empire and the costs of war on Iran.… Read more
+      →
+    one_sentence_summary: Eric Ross examines how conflicts sparked or escalated by the
+      United States often resurface in more dangerous ways, highlighting the ongoing
+      consequences of American imperialism and warfare in Iran.
+    paragraph_summary: In his analysis, Eric Ross examines how conflicts instigated
+      or exacerbated by the United States, particularly regarding Iran, often seem to
+      diminish before resurfacing in more dangerous and unpredictable ways. He reflects
+      on the broader implications of U.S. imperial actions and the enduring consequences
+      of war, suggesting that the cycle of conflict is not only persistent but also
+      increasingly complex and volatile.
+    published: '2026-04-06T17:14:25+00:00'
+  - title: 'DAYS 35-37: WAR ON IRAN — And Now a Word From the President of the United
+      States: ‘Open the Fuckin’ Strait, You Crazy Bastards’'
+    url: https://consortiumnews.com/2026/04/06/days-35-37-war-on-iran-and-now-a-word-from-the-president-of-the-united-states-open-the-fuckin-strait-you-crazy-bastards/
+    text: The utter collapse of the world economy and the depopulation of vast parts
+      of the Middle East.  That is what is at stake and it’s in the hands of a madman,
+      writes Joe Lauria. Friday, April 3 to Sunday, April… Read more →
+    one_sentence_summary: Joe Lauria warns that the fate of the world economy and the
+      potential depopulation of large areas in the Middle East hinge on the actions
+      of a reckless leader.
+    paragraph_summary: In his article, Joe Lauria warns that the world economy is on
+      the brink of catastrophic collapse, with the potential for widespread depopulation
+      in the Middle East, all hinging on the actions of a volatile leader. He emphasizes
+      the dire consequences of this situation, suggesting that the fate of millions
+      and global stability could be jeopardized by the decisions of a single individual.
+    published: '2026-04-06T14:20:06+00:00'
+  - title: 'DAYS 35-37: WAR ON IRAN — And Now a Word From the President of the United
+      States: ‘Open the Fuckin’ Strait, You Crazy Bastards’'
+    url: https://consortiumnews.com/2026/04/06/days-35-37-war-on-iran-and-now-a-word-from-the-president-of-the-united-states-open-the-fuckin-strait-you-crazy-bastards/
+    text: The utter collapse of the world economy and the depopulation of vast parts
+      of the Middle East.  That is what is at stake and it’s in the hands of a madman,
+      writes Joe Lauria. Friday, April 3 to Sunday, April… Read more →
+    one_sentence_summary: Joe Lauria warns that the fate of the world economy and the
+      potential depopulation of large areas in the Middle East hinge on the actions
+      of a reckless leader.
+    paragraph_summary: In his article, Joe Lauria warns that the world economy is on
+      the brink of catastrophic collapse, with the potential for widespread depopulation
+      in the Middle East, all hinging on the actions of a volatile leader. He emphasizes
+      the dire consequences of this situation, suggesting that the fate of millions
+      and global stability could be jeopardized by the decisions of a single individual.
+    published: '2026-04-06T14:20:06+00:00'
+  - title: 'DAYS 33-34: WAR ON IRAN — ‘Talking Back to Trump’'
+    url: https://consortiumnews.com/2026/04/04/days-33-34-war-on-iran-talking-back-to-trump/
+    text: Because of his title and the office he holds Western leaders must privately
+      grumble about Donald Trump but have been timid about speaking back to him, until
+      Emmanuel Macron let loose, writes Joe Lauria. Thursday, April 2 to Friday, April…
+      Read more →
+    one_sentence_summary: Joe Lauria discusses how Western leaders often privately criticize
+      Donald Trump due to his position, but have largely refrained from confronting
+      him until Emmanuel Macron openly expressed his frustrations.
+    paragraph_summary: In an article by Joe Lauria, it is suggested that Western leaders
+      often harbor private frustrations towards Donald Trump due to his position and
+      influence, yet they have generally refrained from openly confronting him. However,
+      French President Emmanuel Macron broke this trend by expressing his criticisms
+      more candidly, indicating a shift in the dynamics of international diplomacy and
+      the challenges posed by Trump's leadership style.
+    published: '2026-04-04T13:13:52+00:00'
+  - title: 'DAYS 33-34: WAR ON IRAN — ‘Talking Back to Trump’'
+    url: https://consortiumnews.com/2026/04/04/days-33-34-war-on-iran-talking-back-to-trump/
+    text: Because of his title and the office he holds Western leaders must privately
+      grumble about Donald Trump but have been timid about speaking back to him, until
+      Emmanuel Macron let loose, writes Joe Lauria. Thursday, April 2 to Friday, April…
+      Read more →
+    one_sentence_summary: Joe Lauria discusses how Western leaders often privately criticize
+      Donald Trump due to his position, but have largely refrained from confronting
+      him until Emmanuel Macron openly expressed his frustrations.
+    paragraph_summary: In an article by Joe Lauria, it is suggested that Western leaders
+      often harbor private frustrations towards Donald Trump due to his position and
+      influence, yet they have generally refrained from openly confronting him. However,
+      French President Emmanuel Macron broke this trend by expressing his criticisms
+      more candidly, indicating a shift in the dynamics of international diplomacy and
+      the challenges posed by Trump's leadership style.
+    published: '2026-04-04T13:13:52+00:00'
+  - title: 'WATCH: The World This Week — ‘Back to the Stone Age’'
+    url: https://consortiumnews.com/2026/04/04/watch-the-world-this-week-back-to-the-stone-age/
+    text: 'Scott Ritter on The World This Week discusses Donald Trump’s escalating Stone
+      Age War, Emmanuel Macron telling Trump to shut up and F15 Down. Watch the replay.
+      Guest: Scott Ritter. Interviewer: Joe Lauria. Producer: Cathy Vogan. Read more
+      →'
+    one_sentence_summary: In a discussion on The World This Week, Scott Ritter addresses
+      Donald Trump's aggressive rhetoric, Emmanuel Macron's admonishment of Trump, and
+      the implications of F15 aircraft, with Joe Lauria hosting and Cathy Vogan producing.
+    paragraph_summary: In a discussion on "The World This Week," Scott Ritter analyzes
+      the escalating tensions surrounding Donald Trump's aggressive rhetoric and actions,
+      which he refers to as a "Stone Age War." The conversation also touches on French
+      President Emmanuel Macron's admonition to Trump to refrain from making provocative
+      statements. Additionally, the episode features commentary on the implications
+      of military engagements, exemplified by the mention of an F15 aircraft incident.
+      The interview is conducted by Joe Lauria and produced by Cathy Vogan.
+    published: '2026-04-04T10:37:13+00:00'
+  - title: 'WATCH: The World This Week — ‘Back to the Stone Age’'
+    url: https://consortiumnews.com/2026/04/04/watch-the-world-this-week-back-to-the-stone-age/
+    text: 'Scott Ritter on The World This Week discusses Donald Trump’s escalating Stone
+      Age War, Emmanuel Macron telling Trump to shut up and F15 Down. Watch the replay.
+      Guest: Scott Ritter. Interviewer: Joe Lauria. Producer: Cathy Vogan. Read more
+      →'
+    one_sentence_summary: In a discussion on The World This Week, Scott Ritter addresses
+      Donald Trump's aggressive rhetoric, Emmanuel Macron's admonishment of Trump, and
+      the implications of F15 aircraft, with Joe Lauria hosting and Cathy Vogan producing.
+    paragraph_summary: In a discussion on "The World This Week," Scott Ritter analyzes
+      the escalating tensions surrounding Donald Trump's aggressive rhetoric and actions,
+      which he refers to as a "Stone Age War." The conversation also touches on French
+      President Emmanuel Macron's admonition to Trump to refrain from making provocative
+      statements. Additionally, the episode features commentary on the implications
+      of military engagements, exemplified by the mention of an F15 aircraft incident.
+      The interview is conducted by Joe Lauria and produced by Cathy Vogan.
+    published: '2026-04-04T10:37:13+00:00'
+  - title: 'Chris Hedges: The New World Order'
+    url: https://consortiumnews.com/2026/04/03/chris-hedges-the-new-world-order/
+    text: Gaza is just the beginning, the author said in a recent speech at Princeton
+      in which he offered a sweeping indictment of a global order collapsing into what
+      he calls “technologically advanced barbarism.” By ScheerPost Staff ScheerPost
+      Chris Hedges’ recent… Read more →
+    one_sentence_summary: In a recent speech at Princeton, Chris Hedges criticized the
+      deteriorating global order, describing it as descending into "technologically
+      advanced barbarism," with Gaza serving as a poignant example of this decline.
+    paragraph_summary: In a recent speech at Princeton, Chris Hedges criticized the
+      current global order, describing it as descending into "technologically advanced
+      barbarism," with Gaza serving as a poignant example of this decline. He argued
+      that the situation in Gaza reflects broader systemic failures and injustices,
+      highlighting the urgent need for a reevaluation of societal values and priorities
+      in the face of escalating violence and oppression worldwide.
+    published: '2026-04-03T18:00:25+00:00'
+  - title: 'Chris Hedges: The New World Order'
+    url: https://consortiumnews.com/2026/04/03/chris-hedges-the-new-world-order/
+    text: Gaza is just the beginning, the author said in a recent speech at Princeton
+      in which he offered a sweeping indictment of a global order collapsing into what
+      he calls “technologically advanced barbarism.” By ScheerPost Staff ScheerPost
+      Chris Hedges’ recent… Read more →
+    one_sentence_summary: In a recent speech at Princeton, Chris Hedges criticized the
+      deteriorating global order, describing it as descending into "technologically
+      advanced barbarism," with Gaza serving as a poignant example of this decline.
+    paragraph_summary: In a recent speech at Princeton, Chris Hedges criticized the
+      current global order, describing it as descending into "technologically advanced
+      barbarism," with Gaza serving as a poignant example of this decline. He argued
+      that the situation in Gaza reflects broader systemic failures and injustices,
+      highlighting the urgent need for a reevaluation of societal values and priorities
+      in the face of escalating violence and oppression worldwide.
+    published: '2026-04-03T18:00:25+00:00'
+  - title: 'Caitlin Johnstone: The Empire Exposes Itself'
+    url: https://consortiumnews.com/2026/04/03/caitlin-johnstone-the-empire-exposes-itself/
+    text: What was once revealed solely by whistleblowers, investigative journalists,
+      activists and dissident media is now being shown by the empire itself, because
+      there’s only so long you can hide the truth about something so malignant. By Caitlin
+      Johnstone Caitlin’s Newsletter Listen… Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the truth about systemic issues,
+      previously uncovered by whistleblowers and activists, is now being acknowledged
+      by the very institutions that once concealed it, highlighting the inevitability
+      of revealing such pervasive malfeasance.
+    paragraph_summary: In her article, Caitlin Johnstone discusses how information that
+      was previously uncovered by whistleblowers, journalists, and activists is now
+      being acknowledged by the very institutions that once concealed it. She argues
+      that the persistence of certain truths makes it increasingly difficult for those
+      in power to maintain their narratives, highlighting a shift where the empire itself
+      is revealing its own malpractices and the malignant nature of its actions. This
+      change suggests a growing awareness and recognition of the issues at hand, as
+      the truth becomes harder to suppress.
+    published: '2026-04-03T16:00:37+00:00'
+  - title: 'Caitlin Johnstone: The Empire Exposes Itself'
+    url: https://consortiumnews.com/2026/04/03/caitlin-johnstone-the-empire-exposes-itself/
+    text: What was once revealed solely by whistleblowers, investigative journalists,
+      activists and dissident media is now being shown by the empire itself, because
+      there’s only so long you can hide the truth about something so malignant. By Caitlin
+      Johnstone Caitlin’s Newsletter Listen… Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the truth about systemic issues,
+      previously uncovered by whistleblowers and activists, is now being acknowledged
+      by the very institutions that once concealed it, highlighting the inevitability
+      of revealing such pervasive malfeasance.
+    paragraph_summary: In her article, Caitlin Johnstone discusses how information that
+      was previously uncovered by whistleblowers, journalists, and activists is now
+      being acknowledged by the very institutions that once concealed it. She argues
+      that the persistence of certain truths makes it increasingly difficult for those
+      in power to maintain their narratives, highlighting a shift where the empire itself
+      is revealing its own malpractices and the malignant nature of its actions. This
+      change suggests a growing awareness and recognition of the issues at hand, as
+      the truth becomes harder to suppress.
+    published: '2026-04-03T16:00:37+00:00'
+  - title: 'Vijay Prashad:  US Aggression Across the World'
+    url: https://consortiumnews.com/2026/04/03/vijay-prashad-us-aggression-across-the-world/
+    text: 'In its latest statement, No Cold War takes stock of the long history of U.S.
+      aggression across the world and the need to reject a future of wars without end.
+      By Vijay Prashad Tricontinental: Institute for Social Research As violence spreads…
+      Read more →'
+    one_sentence_summary: No Cold War emphasizes the importance of acknowledging the
+      U.S.'s historical aggression globally and advocates for rejecting a future characterized
+      by perpetual warfare.
+    paragraph_summary: In its recent statement, No Cold War reflects on the extensive
+      history of U.S. aggression globally and emphasizes the necessity of rejecting
+      a future characterized by perpetual warfare. The article, authored by Vijay Prashad
+      for the Tricontinental Institute for Social Research, highlights the escalating
+      violence and advocates for a critical reassessment of U.S. foreign policy to prevent
+      ongoing conflicts.
+    published: '2026-04-03T09:45:08+00:00'
+  - title: 'Vijay Prashad:  US Aggression Across the World'
+    url: https://consortiumnews.com/2026/04/03/vijay-prashad-us-aggression-across-the-world/
+    text: 'In its latest statement, No Cold War takes stock of the long history of U.S.
+      aggression across the world and the need to reject a future of wars without end.
+      By Vijay Prashad Tricontinental: Institute for Social Research As violence spreads…
+      Read more →'
+    one_sentence_summary: No Cold War emphasizes the importance of acknowledging the
+      U.S.'s historical aggression globally and advocates for rejecting a future characterized
+      by perpetual warfare.
+    paragraph_summary: In its recent statement, No Cold War reflects on the extensive
+      history of U.S. aggression globally and emphasizes the necessity of rejecting
+      a future characterized by perpetual warfare. The article, authored by Vijay Prashad
+      for the Tricontinental Institute for Social Research, highlights the escalating
+      violence and advocates for a critical reassessment of U.S. foreign policy to prevent
+      ongoing conflicts.
+    published: '2026-04-03T09:45:08+00:00'
+  - title: 'WATCH: CN Live! – ‘Escalating Madness’'
+    url: https://consortiumnews.com/2026/04/02/watch-cn-live-escalating-madness/
+    text: 'Antiwar.com‘s Scott Horton joins CN Live! to provide insight into the deepening
+      madness of Donald Trump’s and Benjamin Netanyahu’s reckless war on Iran. Tonight,
+      Thursday 6 pm EDT. Guest: Scott Horton. Interviewer: Joe Lauria. Producer: Cathy
+      Vogan. Read more →'
+    one_sentence_summary: Scott Horton from Antiwar.com discusses the escalating tensions
+      and reckless military actions of Donald Trump and Benjamin Netanyahu against Iran
+      in an interview on CN Live!
+    paragraph_summary: Scott Horton from Antiwar.com joins CN Live! to discuss the escalating
+      tensions and reckless military strategies employed by Donald Trump and Benjamin
+      Netanyahu regarding Iran. The interview, hosted by Joe Lauria and produced by
+      Cathy Vogan, aims to provide insights into the implications of their actions and
+      the broader context of the conflict. The discussion is scheduled for Thursday
+      at 6 pm EDT.
+    published: '2026-04-02T18:00:23+00:00'
+  - title: 'WATCH: CN Live! – ‘Escalating Madness’'
+    url: https://consortiumnews.com/2026/04/02/watch-cn-live-escalating-madness/
+    text: 'Antiwar.com‘s Scott Horton joins CN Live! to provide insight into the deepening
+      madness of Donald Trump’s and Benjamin Netanyahu’s reckless war on Iran. Tonight,
+      Thursday 6 pm EDT. Guest: Scott Horton. Interviewer: Joe Lauria. Producer: Cathy
+      Vogan. Read more →'
+    one_sentence_summary: Scott Horton from Antiwar.com discusses the escalating tensions
+      and reckless military actions of Donald Trump and Benjamin Netanyahu against Iran
+      in an interview on CN Live!
+    paragraph_summary: Scott Horton from Antiwar.com joins CN Live! to discuss the escalating
+      tensions and reckless military strategies employed by Donald Trump and Benjamin
+      Netanyahu regarding Iran. The interview, hosted by Joe Lauria and produced by
+      Cathy Vogan, aims to provide insights into the implications of their actions and
+      the broader context of the conflict. The discussion is scheduled for Thursday
+      at 6 pm EDT.
+    published: '2026-04-02T18:00:23+00:00'
+  - title: 'Caitlin Johnstone: The More Murderous Israel Gets, the More We Hear About
+      ‘Anti-Semitism’'
+    url: https://consortiumnews.com/2026/04/02/caitlin-johnstone-the-more-murderous-israel-gets-the-more-we-hear-about-anti-semitism/
+    text: In real life, people are being mercilessly butchered in Iran, Lebanon and
+      Palestine by Israel and its allies. The uglier this gets, the more aggressive
+      the trolling about “anti-semitism” becomes. By Caitlin Johnstone Caitlin’s Newsletter
+      Listen to Tim Foley reading this… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone discusses the violent actions
+      occurring in Iran, Lebanon, and Palestine attributed to Israel and its allies,
+      while criticizing the increasing accusations of anti-Semitism that arise in response
+      to these events.
+    paragraph_summary: The article by Caitlin Johnstone discusses the violent conflicts
+      occurring in Iran, Lebanon, and Palestine, where she claims that Israel and its
+      allies are committing brutal acts against civilians. Johnstone highlights the
+      increasing backlash against criticism of Israel, noting that accusations of anti-Semitism
+      are being used more aggressively as the situation escalates. The piece emphasizes
+      the disparity between the harsh realities on the ground and the narrative surrounding
+      anti-Semitism in the context of these conflicts.
+    published: '2026-04-02T16:00:54+00:00'
+  - title: 'Caitlin Johnstone: The More Murderous Israel Gets, the More We Hear About
+      ‘Anti-Semitism’'
+    url: https://consortiumnews.com/2026/04/02/caitlin-johnstone-the-more-murderous-israel-gets-the-more-we-hear-about-anti-semitism/
+    text: In real life, people are being mercilessly butchered in Iran, Lebanon and
+      Palestine by Israel and its allies. The uglier this gets, the more aggressive
+      the trolling about “anti-semitism” becomes. By Caitlin Johnstone Caitlin’s Newsletter
+      Listen to Tim Foley reading this… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone discusses the violent actions
+      occurring in Iran, Lebanon, and Palestine attributed to Israel and its allies,
+      while criticizing the increasing accusations of anti-Semitism that arise in response
+      to these events.
+    paragraph_summary: The article by Caitlin Johnstone discusses the violent conflicts
+      occurring in Iran, Lebanon, and Palestine, where she claims that Israel and its
+      allies are committing brutal acts against civilians. Johnstone highlights the
+      increasing backlash against criticism of Israel, noting that accusations of anti-Semitism
+      are being used more aggressively as the situation escalates. The piece emphasizes
+      the disparity between the harsh realities on the ground and the narrative surrounding
+      anti-Semitism in the context of these conflicts.
+    published: '2026-04-02T16:00:54+00:00'
+  - title: 'Dennis Kucinich: How to Stop the War'
+    url: https://consortiumnews.com/2026/04/02/how-to-stop-the-war/
+    text: The power of the purse is the surest way Congress can stop the Iran war, or
+      any war. If Congress funds war, Congress authorizes it. If Congress cuts off funds,
+      a war will end. By Dennis Kucinich Substack Up to… Read more →
+    one_sentence_summary: Dennis Kucinich argues that Congress holds the ultimate power
+      to end the Iran war, or any war, through its control over funding, as withholding
+      funds effectively halts military actions.
+    paragraph_summary: In his article, Dennis Kucinich emphasizes that Congress holds
+      the key to ending the Iran war, or any military conflict, through its control
+      over funding. He argues that by authorizing war through financial support, Congress
+      plays a crucial role in its continuation. Conversely, if Congress decides to cut
+      off funding, it can effectively bring a war to an end, highlighting the importance
+      of legislative power in matters of war and peace.
+    published: '2026-04-02T07:31:29+00:00'
+  - title: 'Dennis Kucinich: How to Stop the War'
+    url: https://consortiumnews.com/2026/04/02/how-to-stop-the-war/
+    text: The power of the purse is the surest way Congress can stop the Iran war, or
+      any war. If Congress funds war, Congress authorizes it. If Congress cuts off funds,
+      a war will end. By Dennis Kucinich Substack Up to… Read more →
+    one_sentence_summary: Dennis Kucinich argues that Congress holds the ultimate power
+      to end the Iran war, or any war, through its control over funding, as withholding
+      funds effectively halts military actions.
+    paragraph_summary: In his article, Dennis Kucinich emphasizes that Congress holds
+      the key to ending the Iran war, or any military conflict, through its control
+      over funding. He argues that by authorizing war through financial support, Congress
+      plays a crucial role in its continuation. Conversely, if Congress decides to cut
+      off funding, it can effectively bring a war to an end, highlighting the importance
+      of legislative power in matters of war and peace.
+    published: '2026-04-02T07:31:29+00:00'
+  - title: 'DAYS 30-32: WAR ON IRAN — An Insulting War of Insults'
+    url: https://consortiumnews.com/2026/04/01/days-30-32-war-on-iran-an-insulting-war-of-insults/
+    text: Iran is making Trump go mad. How will world leaders and his people deal with
+      him? This is the most urgent question. Only a worldwide depression and possible
+      nuclear war are on the line, writes Joe Lauria. Monday, March 30… Read more →
+    one_sentence_summary: The article by Joe Lauria discusses the escalating tensions
+      between Iran and the Trump administration, highlighting the potential global consequences,
+      including economic depression and nuclear conflict, and raises concerns about
+      how world leaders and the American public will respond to the situation.
+    paragraph_summary: In his article, Joe Lauria discusses the escalating tensions
+      between Iran and the United States, particularly focusing on how these dynamics
+      are affecting President Trump's mental state and decision-making. He emphasizes
+      the urgency of the situation, suggesting that the potential for a global economic
+      depression and the threat of nuclear conflict are at stake. Lauria raises concerns
+      about how world leaders and the American public will respond to Trump's increasingly
+      erratic behavior in the face of these critical international challenges.
+    published: '2026-04-01T18:24:54+00:00'
+  - title: 'DAYS 30-32: WAR ON IRAN — An Insulting War of Insults'
+    url: https://consortiumnews.com/2026/04/01/days-30-32-war-on-iran-an-insulting-war-of-insults/
+    text: Iran is making Trump go mad. How will world leaders and his people deal with
+      him? This is the most urgent question. Only a worldwide depression and possible
+      nuclear war are on the line, writes Joe Lauria. Monday, March 30… Read more →
+    one_sentence_summary: The article by Joe Lauria discusses the escalating tensions
+      between Iran and the Trump administration, highlighting the potential global consequences,
+      including economic depression and nuclear conflict, and raises concerns about
+      how world leaders and the American public will respond to the situation.
+    paragraph_summary: In his article, Joe Lauria discusses the escalating tensions
+      between Iran and the United States, particularly focusing on how these dynamics
+      are affecting President Trump's mental state and decision-making. He emphasizes
+      the urgency of the situation, suggesting that the potential for a global economic
+      depression and the threat of nuclear conflict are at stake. Lauria raises concerns
+      about how world leaders and the American public will respond to Trump's increasingly
+      erratic behavior in the face of these critical international challenges.
+    published: '2026-04-01T18:24:54+00:00'
+  - title: UN Rights Chief Blasts Israel’s New Death Penalty Law
+    url: https://consortiumnews.com/2026/04/01/un-rights-chief-blasts-israels-new-death-penalty-law/
+    text: U.N. High Commissioner for Human Rights Volker Türk says the application of
+      Israel’s new death penalty law to residents of the occupied Palestinian territory
+      would constitute a war crime. By Brett Wilkins Common Dreams The top United Nations
+      human rights… Read more →
+    one_sentence_summary: U.N. High Commissioner for Human Rights Volker Türk warns
+      that Israel's new death penalty law, if applied to residents of the occupied Palestinian
+      territory, would amount to a war crime.
+    paragraph_summary: U.N. High Commissioner for Human Rights Volker Türk has stated
+      that Israel's new death penalty law, if applied to residents of the occupied Palestinian
+      territory, would amount to a war crime. This declaration highlights concerns over
+      the potential implications of the law on human rights and international humanitarian
+      standards in the context of the ongoing Israeli-Palestinian conflict.
+    published: '2026-04-01T17:28:02+00:00'
+  - title: UN Rights Chief Blasts Israel’s New Death Penalty Law
+    url: https://consortiumnews.com/2026/04/01/un-rights-chief-blasts-israels-new-death-penalty-law/
+    text: U.N. High Commissioner for Human Rights Volker Türk says the application of
+      Israel’s new death penalty law to residents of the occupied Palestinian territory
+      would constitute a war crime. By Brett Wilkins Common Dreams The top United Nations
+      human rights… Read more →
+    one_sentence_summary: U.N. High Commissioner for Human Rights Volker Türk warns
+      that Israel's new death penalty law, if applied to residents of the occupied Palestinian
+      territory, would amount to a war crime.
+    paragraph_summary: U.N. High Commissioner for Human Rights Volker Türk has stated
+      that Israel's new death penalty law, if applied to residents of the occupied Palestinian
+      territory, would amount to a war crime. This declaration highlights concerns over
+      the potential implications of the law on human rights and international humanitarian
+      standards in the context of the ongoing Israeli-Palestinian conflict.
+    published: '2026-04-01T17:28:02+00:00'
+  - title: 'WATCH:  Media, Power & Manipulation'
+    url: https://consortiumnews.com/2026/04/01/watch-media-power-manipulation/
+    text: Is the West still a democracy – or already a declining empire? German journalist
+      Patrik Baab interviews CN Editor Joe Lauria about the U.S. roles in Ukraine, Gaza
+      and the suppression of free speech in the West. Before the Iran… Read more →
+    one_sentence_summary: In an interview with German journalist Patrik Baab, CN Editor
+      Joe Lauria discusses the U.S. involvement in Ukraine and Gaza, as well as the
+      erosion of free speech in the West, questioning whether the West remains a democracy
+      or is becoming a declining empire.
+    paragraph_summary: In an interview with German journalist Patrik Baab, CN Editor
+      Joe Lauria discusses the current state of democracy in the West, questioning whether
+      it is still functioning effectively or is in decline akin to an empire. They explore
+      the U.S. involvement in global conflicts such as those in Ukraine and Gaza, as
+      well as the increasing suppression of free speech within Western societies. Lauria's
+      insights suggest a critical view of the West's political landscape and its implications
+      for democracy.
+    published: '2026-04-01T16:05:18+00:00'
+  - title: 'WATCH:  Media, Power & Manipulation'
+    url: https://consortiumnews.com/2026/04/01/watch-media-power-manipulation/
+    text: Is the West still a democracy – or already a declining empire? German journalist
+      Patrik Baab interviews CN Editor Joe Lauria about the U.S. roles in Ukraine, Gaza
+      and the suppression of free speech in the West. Before the Iran… Read more →
+    one_sentence_summary: In an interview with German journalist Patrik Baab, CN Editor
+      Joe Lauria discusses the U.S. involvement in Ukraine and Gaza, as well as the
+      erosion of free speech in the West, questioning whether the West remains a democracy
+      or is becoming a declining empire.
+    paragraph_summary: In an interview with German journalist Patrik Baab, CN Editor
+      Joe Lauria discusses the current state of democracy in the West, questioning whether
+      it is still functioning effectively or is in decline akin to an empire. They explore
+      the U.S. involvement in global conflicts such as those in Ukraine and Gaza, as
+      well as the increasing suppression of free speech within Western societies. Lauria's
+      insights suggest a critical view of the West's political landscape and its implications
+      for democracy.
+    published: '2026-04-01T16:05:18+00:00'
+  - title: What the War on Iran Means for Palestine
+    url: https://consortiumnews.com/2026/04/01/what-the-war-on-iran-means-for-palestine/
+    text: The war is part of a broader struggle in which the question of Palestine is
+      being shaped, contested and potentially resolved, argues Ramzy Baroud. By Ramzy Baroud
+      Z Network Some are expressing frustration that Iran’s conditions to end the war
+      have not… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the ongoing war is a critical aspect
+      of the larger conflict over Palestine, highlighting the complexities and potential
+      resolutions involved.
+    paragraph_summary: In his article, Ramzy Baroud discusses the ongoing war as a critical
+      element in the larger conflict surrounding Palestine, highlighting how the situation
+      is being shaped and contested. He notes that there is growing frustration regarding
+      Iran's conditions for ending the war, suggesting that these demands reflect broader
+      geopolitical dynamics at play in the region. Baroud emphasizes the complexity
+      of the conflict and the potential for resolution, while also acknowledging the
+      challenges posed by external influences and conditions.
+    published: '2026-04-01T13:24:59+00:00'
+  - title: What the War on Iran Means for Palestine
+    url: https://consortiumnews.com/2026/04/01/what-the-war-on-iran-means-for-palestine/
+    text: The war is part of a broader struggle in which the question of Palestine is
+      being shaped, contested and potentially resolved, argues Ramzy Baroud. By Ramzy Baroud
+      Z Network Some are expressing frustration that Iran’s conditions to end the war
+      have not… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the ongoing war is a critical aspect
+      of the larger conflict over Palestine, highlighting the complexities and potential
+      resolutions involved.
+    paragraph_summary: In his article, Ramzy Baroud discusses the ongoing war as a critical
+      element in the larger conflict surrounding Palestine, highlighting how the situation
+      is being shaped and contested. He notes that there is growing frustration regarding
+      Iran's conditions for ending the war, suggesting that these demands reflect broader
+      geopolitical dynamics at play in the region. Baroud emphasizes the complexity
+      of the conflict and the potential for resolution, while also acknowledging the
+      challenges posed by external influences and conditions.
+    published: '2026-04-01T13:24:59+00:00'
   - title: Judge May Reconsider Dismissing Maduro’s Case
     url: https://consortiumnews.com/2026/03/31/judge-may-reconsider-dismissing-maduros-case/
     text: While affirming that the right to present a defense is “paramount,” the judge
