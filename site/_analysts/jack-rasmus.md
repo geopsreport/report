@@ -7,14 +7,442 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The ongoing US-Iran war continues to dominate the geopolitical landscape, with significant economic and strategic consequences unfolding across multiple fronts. Tensions remain high as President Trump maintains aggressive rhetoric, and the direct military engagement has already triggered substantial volatility in global markets.
+  The geopolitical landscape remains dominated by the ongoing US-Iran conflict and its cascading effects on the global economy. In the latest development, President Trump has announced a tentative two-week ceasefire with Iran, presenting it as a diplomatic victory for the United States after a series of military escalations. However, Iran disputes the narrative, maintaining that it did not request the ceasefire and emphasizing that shipping through the Strait of Hormuz has remained uninterrupted. **Jack Rasmus** notes that this ceasefire may serve as a potential offramp for the US, but skepticism persists regarding its durability and intent.
   
-  Most recently, **Jack Rasmus** highlights that President Trump’s threats to escalate attacks on Iran’s civilian nuclear infrastructure have led to immediate spikes in oil prices and sharp declines in stock market futures. While Trump briefly paused further escalation, citing supposed Iranian overtures for negotiation—which Iran has publicly denied—the uncertainty has only deepened market instability. This pause, according to Rasmus, appears more as a tactical maneuver than a genuine step towards de-escalation.
+  Economic repercussions from the conflict continue to mount. The instability in the Persian Gulf has driven up crude oil and natural gas prices, contributing to global inflation and placing additional stress on already fragile financial markets. **Jack Rasmus** warns that the private credit sector and shadow banking systems are particularly vulnerable, and that further escalation could most definitely trigger a recession in both the US and global economies.
   
-  The economic fallout is intensifying. The war has already caused crude oil and natural gas prices to soar, with ripple effects undermining global stock markets and putting immense pressure on central banks worldwide. **Jack Rasmus** warns that the instability of shadow banks and the private credit market is becoming a critical vulnerability, increasing the risk of a broader financial crisis. The ongoing conflict is also exacerbating inflation and disrupting global supply chains, with food security and interest rates emerging as acute concerns.
+  Meanwhile, the broader context of US foreign policy under Trump reflects a pattern of aggressive rhetoric and high-stakes brinkmanship, not only in the Middle East but also in ongoing tensions with Russia over Ukraine. The challenges to achieving negotiated settlements in both theaters underscore a period of heightened geopolitical risk and uncertainty.
   
-  Looking ahead, the consensus among analysts is that unless there is a dramatic shift in US policy or a credible diplomatic breakthrough, the economic and financial turmoil will deepen. **Jack Rasmus** states with high confidence that a prolonged conflict will “most definitely” lead to a recession in both the US and global economies, with potential contagion in financial markets and further asset contractions. The prospects for a negotiated settlement remain dim, and the trend points toward escalating instability both in the Middle East and in the global economic system.
+  Looking ahead, the majority of independent analysis suggests that unless the ceasefire leads to substantive negotiations, the risk of renewed hostilities remains high. Economic volatility is expected to persist, with a high chance of further market contractions and inflationary pressures if the conflict resumes or expands. As **Jack Rasmus** concludes, the situation is precarious, and the next two weeks will be critical in determining whether the ceasefire marks a genuine de-escalation or merely a temporary pause in a broader confrontation.
 articles:
+  - title: Trump Announces Iran Ceasefire-US Offramp Or Just Another Deception
+    url: https://jackrasmus.com/2026/04/08/trump-announces-iran-ceasefire-us-offramp-or-just-another-deception/
+    text: 'by Dr. Jack Rasmus Copyright 2026 After threatening to destroy Iran’s civilization
+      ‘for now and ever’, Trump announced a tentative ceasefire with Iran and temporary
+      ceasefire of mutual hostilities for another two weeks. In the interim the parties—US
+      and Iran (Israel notably excluded)—will reportedly attempt to negotiate a permanent
+      agreement in negotiations to be held in Islamabad, Pakistan. Trump and his supporters
+      will no doubt declare the ceasefire represents a victory for the US. They’ll argue
+      the military actions by the US the past six weeks has forced Iran to ask for negotiations
+      and sue for peace. As Trump has bragged repeatedly in recent days, the US has
+      destroyed the Iranian air force and navy so the war’s essentially over. He’ll
+      cite that Iran has agreed to a ceasefire and in the meantime to open the straits
+      of Hormuz to shipping. The Iranians will say they did not request the ceasefire;
+      Trump did. They’ll point out that the strait of Hormuz has been open to shipping
+      all along—i.e. to those nations not at war with Iran as well as to Iran’s own
+      shipping. More important, Iran will point out that their opening of the strait
+      will be according to their rules, administered by them, and ships will have to
+      pay a $2 million dollar transit fee for passage now. The most important question,
+      however, is whether the negotiations over the next two weeks represents a solution
+      by Trump to provide an ‘offramp’ for the US from a war it realizes it can’t win
+      without destroying the US and global economies—or whether it’s just another US
+      negotiation deception and tactic to buy time to restore US and Israel military
+      resources. The US and especially Israel need a respite from the conflict. The
+      US has seriously depleted its store of Patriot, Thaad, Tomahawk and other missiles.
+      It has begun losing aircraft as well. This past week independent observers have
+      indicated that Israel’s vaunted ‘iron dome’ air defense has been seriously compromised
+      and 80% of Iranian missiles have been penetrating it now. Trump claims that Iran’s
+      air force and navy have been destroyed, which ignores the indisputable fact that
+      Iran’s missile force has been steadily destroying military and other sites on
+      a daily basis in Israel as well as throughout the Gulf countries—Kuwait, Saudi
+      Arabia, Bahrain, Qatar, UAE and Oman. Iran never had an air force to speak of;
+      nor a major surface ship navy. But it did, and still does, have thousands of ballistic
+      missiles, tens of thousands of drones, and a navy of fast boats, autonomous underwater
+      drones, and sea mines not yet committed. The next two weeks will tell if the ceasefire
+      announced today is just another negotiations deception that seems to have become
+      standard practice in Israeli—and now US—military operations. Last June 2025 Trump
+      and the Israelis lured the Iranians into negotiations and then bombed Iran while
+      talks were in progress. And then did it again on February 27-28 while negotiations
+      were also underway.  Should the Iranians think it will be any different this third
+      time? Negotiations have become a military tactic in the Trump administration.
+      They’ve been so by the Israelis for some time—along with decapitation of government
+      leaders and mass bombing of civilian sites. The US military seems to have adopted
+      the same under the Trump administration, quite contrary to American military doctrine
+      for decades before. But it’s standard practice for the Israelis. The Israelis
+      scuttled the negotiations that were held with Hamas in Qatar. They likely also
+      had a role in the still unresolved murder of Iran’s former president whose helicopters
+      mysteriously exploded in mid air returning from a meeting in Azerbaijan a few
+      years back. Positions of US and Iran on March 25 What Trump and the US legacy
+      media won’t say or report about much is the actual terms of the ceasefire suspending
+      hostilities the next two weeks. So what have the two parties—US and Iran—actually
+      agreed to as part of the ceasefire? What have they agreed to discuss in upcoming
+      negotiations? What’s off the table compared with when the war began last February
+      28? Which party has perhaps retreated from its initial demands? At four weeks
+      into the war—i.e. two weeks ago on March 25—Trump and the US had five basic demands:
+      Regime change. The government had to go and Iran revolutionary guard dissolved
+      Iran had to end and dismantle its ballistic missile and drone programs Iran had
+      to turn over all its nuclear material—for civilian as well as military use It
+      had to abandon all support for allies in Yemen, Hezbollah, Hamas And open the
+      strait of Hormuz unconditionally to all shipping traffic Iran’s demands two weeks
+      ago at the time were: All US forces had to leave the Gulf region and dismantle
+      its 13 US bases there The US must guarantee there will be no future hostilities
+      or war again The US must lift all sanctions on Iran The US and Israel must provide
+      reparations for the war damage they caused War must end on all fronts—including
+      resistance groups in the region International recognition and guarantees of Iran’s
+      sovereignty over Hormuz straits No ceasefire until the US agreed to these demands
+      in principle It is interesting perhaps to compare these mutual demands to those
+      of the US and Iran that are on the table now as part of the ceasefire announced
+      today. The US has a 15 point program. The foreign minister of Iran, Araghchi,
+      on behalf of the Iran Supreme Council and Ayatollah, has made it clear negotiations
+      would be based on both the US recent 15 point plan AND Iran’s current 10 point
+      plan. This 15 + 10 is the framework the parties will conduct negotiations. Since
+      the US legacy media will likely obfuscate the bases on which the US and Iran have
+      agreed to negotiate, here’s the US 15 point plan announced on March 25. Note that
+      it reflects a significant change from the US five demands above at the start of
+      the war on February 28. In fact, it is very close to the position of the US on
+      February 27 when the US and Israel blew up the negotiations with bombing: US 15
+      Point Proposals Now US will remove all sanctions on Iran It will cease all threats
+      to reimpose sanctions Iran’s nuclear program will be frozen under a defined framework
+      US will assist Iran in developing a civilian nuclear project There will be limit
+      on enriched uranium to remain under supervision US agrees to address the Iranian
+      missile program at a later date Iran’s nuclear program will be restricted to civilian
+      purposes only Iran will halt the development of existing nuclear facilities &
+      capabilities Iran will discontinue further expansion of enrichment capabilities
+      No production of weapons grade nuclear material to occur on Iranian soil Iran
+      will hand over all enriched materials to the IAEA on an agreed timeline Iran’s
+      Natanz, Isfahan and Fordow nuclear facilities will be taken out of use International
+      monitoring and verification mechanisms Implementations will be gradual and tied
+      to compliance Both sides to discuss additional regional and security issues These
+      15 were apparently the demands being discussed on February 27 that third party
+      facilitators at the negotiations, like Oman, declared that the parties had made
+      great progress toward agreeing and were close to a deal. That was 24 hours before
+      the US and Israel started bombing on the 28 th . Once the war started Trump substituted
+      these 15 for the new demands of regime change, etc. Now it appears Trump has put
+      these 15 back on the table as the US basis for upcoming negotiations in Islamabad.
+      Readers should notice the15 no longer include reference to regime change; or turning
+      over ALL nuclear material including civilian; or dismantling Iran’s ballistic
+      missile and drone programs; or abandoning Yemen, Hesbollah and Hamas! In other
+      words, we’re back primarily to discussing nuclear weapons issues—i.e. where the
+      parties were before the last six weeks of escalating death and destruction. What
+      then are Iran’s ‘new’ proposals to be discussed in Pakistan? Notably, Iran has
+      also retreated. It has backed off its prior position of ‘no ceasefire’. It now
+      agrees to a ceasefire—temporarily for two weeks. Iran has also dropped its prior
+      proposal that the US must close and exit all its 13 military bases in the region.
+      And US must pay reparations. Here’s the full, current list: Iran’s Current 10
+      Point Proposal Guarantee that Iran will not be attacked again Permanent end to
+      the war, not just a ceasefire End to Israeli strikes in Lebanon Lifting of all
+      sanctions on Iran End to all regional fighting against Iranian allies In return,
+      Iran would open the Strait of Hormuz Iran will determine the rules of safe passage
+      through Hormuz A Hormuz fee of $2 million per ship Iran would split these fees
+      with Oman Iran to use Hormuz fees for reconstruction instead of reparations So
+      has Trump won a great victory by announcing a temporary ceasefire for two weeks
+      and getting the Hormuz strait to open? Hardly. There’s no ‘unconditional transit
+      through the strait’. Iran (with Oman) now control the strait and require a fee
+      for passage. Is Iran’s ballistic missile and drone programs going to be dismantled?
+      No. Even the US 15 point program says that’s off the table. Sanctions will be
+      lifted. That’s clearly a benefit to Iran. Iran will likely agree to most of the
+      US 15 points that addressed the question of nuclear materials and production.
+      It was about to do so on February 27 if we believe Oman observers.  Iran doesn’t
+      need nuclear weapons to defend itself any longer. Clearly, as recent events have
+      shown, it can do so with ballistic missiles and drones. And dismantling its missiles
+      and drones is not one of the US 15 point demands. In fact, US point six indicates
+      it’s off the table. And Iran gets reparations. It’s just that global shipping
+      companies and Gulf countries will pay for that now via the $2m transit fee, instead
+      of the US directly. The two big obstacles to negotiating a final deal in Islamabad
+      will be ceasing all hostilities against Iran allies in the region, including by
+      Israel, and providing some kind of security guarantee for Iran a new war won’t
+      break out again at a later date. Trump and the US can agree all they want to not
+      attack the Houthis in Yemen, Hezbollah in Lebanon, and Hamas in Gaza. But Israel
+      won’t be a signatory to any final agreement so it is not bound. It can, and will
+      likely make public statements in the interim that it won’t resume attacks, but
+      verbal assurances mean nothing to Isreal. Israel will resume attacks regardless
+      of the negotiations outcome. Israel policy is land acquisition. And to do that
+      it will continue to attack its neighbors. As evidence, as Trump announced the
+      ceasefire, the same day the head of the Israeli Parliament publicly declared that
+      Israel will formally annex south Lebanon up to the Litani river and make it part
+      of Israel. Economic Fallout of Ceasefire and Pending Negotiations Immediately
+      upon Trump’s ceasefire announcement, the price of gasoline at the pump in the
+      US fell, as global crude prices retreated 17% from $113 to $97 a barrel. Falling
+      as well was the price of the US dollar (i.e. devaluation) and market long term
+      interest rates (10 & 30 year US Treasury bonds) in the US. Conversely, US stock
+      markets surged clawing back some of the 10% losses incurred since the war began.
+      Gold and Silver resumed their escalation ladder as well. But regardless of the
+      outcome of negotiations, long term economic effects will continue to undermine
+      the US and global economies. The production of oil, natural gas, and other commodities
+      in the Gulf region will continue to flow well below pre-war levels for some time.
+      The seriously destroyed supply chains won’t repair for months to come and likely
+      years. Money capital investments the Gulf economy elites had pledged to invest
+      in the US economy will now slow to a trickle. There will be no ‘trillion dollar
+      investment’ into the US economy that Trump has bragged about will boost US economic
+      growth. Nor will US capital and investors rush as before to the Gulf region with
+      their money to invest. Asian countries will look to backstop their energy from
+      the Gulf with other sources long term. They know hostilities can erupt any time
+      the US, and especially Israel, choose. They will reduce their dependencies on
+      the region. Domestically, the US real economy is going to experience a higher,
+      sustained level of inflation for months to come. US interest rates by the Fed
+      will not be cut now through this year and may even start to rise again. US real
+      economic growth will slow even more than currently. The US budget deficit, already
+      on track for $2 trillion again in 2026, may even exceed that, should the US Congress
+      agree to the Secretary of War, Hegseth’s, request for $200 billion more to pay
+      for the Iran war and prior Venezuela operation. There will be geopolitical consequences
+      of Trump’s war on Iran as well, regardless of whether negotiations result in a
+      settlement two weeks hence. The NATO alliance just received another nail in its
+      coffin. Trump’s request, and EU NATO countries’ refusal to help US invade Iran
+      may be the straw that broke the NATO camel’s back, as the saying goes.  US refusal
+      to fund Ukraine, recent Greenland disputes, and now Iran likely constitute three
+      body blows to that alliance. Another geopolitical sea change is that the Gulf
+      states will rethink their relationship to the US and its military bases. At least
+      some of them. Most likely Qatar and Oman will distance from the US first. Maybe
+      thereafter the Saudis. Conversely, the US itself will have to think hard whether
+      it’s a good strategic policy to maintain bases in the region, or to move them
+      back further from the front lines easily attacked by Iran missiles and drones.
+      Not least, the cost of the Iran war ($200 billion at minimum so far) will push
+      the US budget deficit into the red even further. It will result in Trump and the
+      Republican controlled Congress now cutting social programs even further in order
+      to help pay for the War, Hegseth’s $200 billion request, and Trump’s 2027 budget
+      that calls for a 40%, $400 billion further increase in the Pentagon budget to
+      $1.5 trillion next year.  Already Trump is preparing the ground, saying publicly
+      the US federal government should not be ‘in the business’ of providing health
+      care services for Americans. Its task is defense (aka more Trump wars). Conclusions
+      So who’s winning, or has won, the Iran war thus far? Who’s losing? Iran has agreed
+      to a temporary ceasefire and to negotiate. But it will still run the Hormuz strait.
+      It will collect fees. Higher global oil prices means it will make even more money
+      from oil sales. That can buy a lot of Chinese radars and Russian anti-aircraft
+      systems. The US will not control the Hormuz in any way. Iran will set the rules
+      and control the strait, in cooperation with one or two friendlier Gulf states
+      (Oman, maybe Qatar?) Iran will replenish and accelerate production and development
+      of its missiles and drone programs. The Iran war—like the Ukraine war—means military
+      power has changed radically. Surface ships are sitting ducks. Even 5 th generation
+      aircraft if they get too close. War is now about hypersonic missiles, autonomous
+      weapons, massed drones in the air, on and under the water, low orbit satellites
+      and surveillance—and of course economic destabilization. The most important question
+      remains: what will Israel do should US and Iran agree to a deal (or don’t)? Trump
+      and the Iranians can agree to all they want. Israel will not necessarily abide
+      by it (even if it says it will). When the dust settles, Israel will again try
+      to find a way to lure America into its wars of expansion in the middle east. The
+      question then becomes whether the US constitutional Republic can survive the influence
+      of Israel and its US Zionist billionaire oligarchs’ stranglehold on the US political
+      system itself. Dr. Jack Rasmus April 7, 2026'
+    one_sentence_summary: Trump announced a tentative two-week ceasefire with Iran,
+      claiming it as a victory for the US following military actions that he argues
+      forced Iran to negotiate, while Iran contends that they did not request the ceasefire
+      and that shipping through the Strait of Hormuz has remained open.
+    paragraph_summary: In a recent announcement, President Trump declared a tentative
+      ceasefire with Iran, following weeks of military actions that he claims have weakened
+      Iran's military capabilities. The ceasefire, which excludes Israel, is intended
+      to pave the way for negotiations in Islamabad aimed at achieving a permanent agreement.
+      While Trump and his supporters may view this as a victory for the U.S., asserting
+      that Iran is seeking peace due to American military pressure, Iran counters that
+      it did not request the ceasefire and maintains control over the Strait of Hormuz,
+      now imposing a transit fee for ships. The critical question remains whether these
+      negotiations will genuinely provide an exit strategy for the U.S. from a conflict
+      it cannot win without significant economic repercussions, or if they are merely
+      a tactical delay to regroup military resources.
+    published: '2026-04-08T07:28:16+00:00'
+  - title: Trump Announces Iran Ceasefire-US Offramp Or Just Another Deception
+    url: https://jackrasmus.com/2026/04/08/trump-announces-iran-ceasefire-us-offramp-or-just-another-deception/
+    text: 'by Dr. Jack Rasmus Copyright 2026 After threatening to destroy Iran’s civilization
+      ‘for now and ever’, Trump announced a tentative ceasefire with Iran and temporary
+      ceasefire of mutual hostilities for another two weeks. In the interim the parties—US
+      and Iran (Israel notably excluded)—will reportedly attempt to negotiate a permanent
+      agreement in negotiations to be held in Islamabad, Pakistan. Trump and his supporters
+      will no doubt declare the ceasefire represents a victory for the US. They’ll argue
+      the military actions by the US the past six weeks has forced Iran to ask for negotiations
+      and sue for peace. As Trump has bragged repeatedly in recent days, the US has
+      destroyed the Iranian air force and navy so the war’s essentially over. He’ll
+      cite that Iran has agreed to a ceasefire and in the meantime to open the straits
+      of Hormuz to shipping. The Iranians will say they did not request the ceasefire;
+      Trump did. They’ll point out that the strait of Hormuz has been open to shipping
+      all along—i.e. to those nations not at war with Iran as well as to Iran’s own
+      shipping. More important, Iran will point out that their opening of the strait
+      will be according to their rules, administered by them, and ships will have to
+      pay a $2 million dollar transit fee for passage now. The most important question,
+      however, is whether the negotiations over the next two weeks represents a solution
+      by Trump to provide an ‘offramp’ for the US from a war it realizes it can’t win
+      without destroying the US and global economies—or whether it’s just another US
+      negotiation deception and tactic to buy time to restore US and Israel military
+      resources. The US and especially Israel need a respite from the conflict. The
+      US has seriously depleted its store of Patriot, Thaad, Tomahawk and other missiles.
+      It has begun losing aircraft as well. This past week independent observers have
+      indicated that Israel’s vaunted ‘iron dome’ air defense has been seriously compromised
+      and 80% of Iranian missiles have been penetrating it now. Trump claims that Iran’s
+      air force and navy have been destroyed, which ignores the indisputable fact that
+      Iran’s missile force has been steadily destroying military and other sites on
+      a daily basis in Israel as well as throughout the Gulf countries—Kuwait, Saudi
+      Arabia, Bahrain, Qatar, UAE and Oman. Iran never had an air force to speak of;
+      nor a major surface ship navy. But it did, and still does, have thousands of ballistic
+      missiles, tens of thousands of drones, and a navy of fast boats, autonomous underwater
+      drones, and sea mines not yet committed. The next two weeks will tell if the ceasefire
+      announced today is just another negotiations deception that seems to have become
+      standard practice in Israeli—and now US—military operations. Last June 2025 Trump
+      and the Israelis lured the Iranians into negotiations and then bombed Iran while
+      talks were in progress. And then did it again on February 27-28 while negotiations
+      were also underway.  Should the Iranians think it will be any different this third
+      time? Negotiations have become a military tactic in the Trump administration.
+      They’ve been so by the Israelis for some time—along with decapitation of government
+      leaders and mass bombing of civilian sites. The US military seems to have adopted
+      the same under the Trump administration, quite contrary to American military doctrine
+      for decades before. But it’s standard practice for the Israelis. The Israelis
+      scuttled the negotiations that were held with Hamas in Qatar. They likely also
+      had a role in the still unresolved murder of Iran’s former president whose helicopters
+      mysteriously exploded in mid air returning from a meeting in Azerbaijan a few
+      years back. Positions of US and Iran on March 25 What Trump and the US legacy
+      media won’t say or report about much is the actual terms of the ceasefire suspending
+      hostilities the next two weeks. So what have the two parties—US and Iran—actually
+      agreed to as part of the ceasefire? What have they agreed to discuss in upcoming
+      negotiations? What’s off the table compared with when the war began last February
+      28? Which party has perhaps retreated from its initial demands? At four weeks
+      into the war—i.e. two weeks ago on March 25—Trump and the US had five basic demands:
+      Regime change. The government had to go and Iran revolutionary guard dissolved
+      Iran had to end and dismantle its ballistic missile and drone programs Iran had
+      to turn over all its nuclear material—for civilian as well as military use It
+      had to abandon all support for allies in Yemen, Hezbollah, Hamas And open the
+      strait of Hormuz unconditionally to all shipping traffic Iran’s demands two weeks
+      ago at the time were: All US forces had to leave the Gulf region and dismantle
+      its 13 US bases there The US must guarantee there will be no future hostilities
+      or war again The US must lift all sanctions on Iran The US and Israel must provide
+      reparations for the war damage they caused War must end on all fronts—including
+      resistance groups in the region International recognition and guarantees of Iran’s
+      sovereignty over Hormuz straits No ceasefire until the US agreed to these demands
+      in principle It is interesting perhaps to compare these mutual demands to those
+      of the US and Iran that are on the table now as part of the ceasefire announced
+      today. The US has a 15 point program. The foreign minister of Iran, Araghchi,
+      on behalf of the Iran Supreme Council and Ayatollah, has made it clear negotiations
+      would be based on both the US recent 15 point plan AND Iran’s current 10 point
+      plan. This 15 + 10 is the framework the parties will conduct negotiations. Since
+      the US legacy media will likely obfuscate the bases on which the US and Iran have
+      agreed to negotiate, here’s the US 15 point plan announced on March 25. Note that
+      it reflects a significant change from the US five demands above at the start of
+      the war on February 28. In fact, it is very close to the position of the US on
+      February 27 when the US and Israel blew up the negotiations with bombing: US 15
+      Point Proposals Now US will remove all sanctions on Iran It will cease all threats
+      to reimpose sanctions Iran’s nuclear program will be frozen under a defined framework
+      US will assist Iran in developing a civilian nuclear project There will be limit
+      on enriched uranium to remain under supervision US agrees to address the Iranian
+      missile program at a later date Iran’s nuclear program will be restricted to civilian
+      purposes only Iran will halt the development of existing nuclear facilities &
+      capabilities Iran will discontinue further expansion of enrichment capabilities
+      No production of weapons grade nuclear material to occur on Iranian soil Iran
+      will hand over all enriched materials to the IAEA on an agreed timeline Iran’s
+      Natanz, Isfahan and Fordow nuclear facilities will be taken out of use International
+      monitoring and verification mechanisms Implementations will be gradual and tied
+      to compliance Both sides to discuss additional regional and security issues These
+      15 were apparently the demands being discussed on February 27 that third party
+      facilitators at the negotiations, like Oman, declared that the parties had made
+      great progress toward agreeing and were close to a deal. That was 24 hours before
+      the US and Israel started bombing on the 28 th . Once the war started Trump substituted
+      these 15 for the new demands of regime change, etc. Now it appears Trump has put
+      these 15 back on the table as the US basis for upcoming negotiations in Islamabad.
+      Readers should notice the15 no longer include reference to regime change; or turning
+      over ALL nuclear material including civilian; or dismantling Iran’s ballistic
+      missile and drone programs; or abandoning Yemen, Hesbollah and Hamas! In other
+      words, we’re back primarily to discussing nuclear weapons issues—i.e. where the
+      parties were before the last six weeks of escalating death and destruction. What
+      then are Iran’s ‘new’ proposals to be discussed in Pakistan? Notably, Iran has
+      also retreated. It has backed off its prior position of ‘no ceasefire’. It now
+      agrees to a ceasefire—temporarily for two weeks. Iran has also dropped its prior
+      proposal that the US must close and exit all its 13 military bases in the region.
+      And US must pay reparations. Here’s the full, current list: Iran’s Current 10
+      Point Proposal Guarantee that Iran will not be attacked again Permanent end to
+      the war, not just a ceasefire End to Israeli strikes in Lebanon Lifting of all
+      sanctions on Iran End to all regional fighting against Iranian allies In return,
+      Iran would open the Strait of Hormuz Iran will determine the rules of safe passage
+      through Hormuz A Hormuz fee of $2 million per ship Iran would split these fees
+      with Oman Iran to use Hormuz fees for reconstruction instead of reparations So
+      has Trump won a great victory by announcing a temporary ceasefire for two weeks
+      and getting the Hormuz strait to open? Hardly. There’s no ‘unconditional transit
+      through the strait’. Iran (with Oman) now control the strait and require a fee
+      for passage. Is Iran’s ballistic missile and drone programs going to be dismantled?
+      No. Even the US 15 point program says that’s off the table. Sanctions will be
+      lifted. That’s clearly a benefit to Iran. Iran will likely agree to most of the
+      US 15 points that addressed the question of nuclear materials and production.
+      It was about to do so on February 27 if we believe Oman observers.  Iran doesn’t
+      need nuclear weapons to defend itself any longer. Clearly, as recent events have
+      shown, it can do so with ballistic missiles and drones. And dismantling its missiles
+      and drones is not one of the US 15 point demands. In fact, US point six indicates
+      it’s off the table. And Iran gets reparations. It’s just that global shipping
+      companies and Gulf countries will pay for that now via the $2m transit fee, instead
+      of the US directly. The two big obstacles to negotiating a final deal in Islamabad
+      will be ceasing all hostilities against Iran allies in the region, including by
+      Israel, and providing some kind of security guarantee for Iran a new war won’t
+      break out again at a later date. Trump and the US can agree all they want to not
+      attack the Houthis in Yemen, Hezbollah in Lebanon, and Hamas in Gaza. But Israel
+      won’t be a signatory to any final agreement so it is not bound. It can, and will
+      likely make public statements in the interim that it won’t resume attacks, but
+      verbal assurances mean nothing to Isreal. Israel will resume attacks regardless
+      of the negotiations outcome. Israel policy is land acquisition. And to do that
+      it will continue to attack its neighbors. As evidence, as Trump announced the
+      ceasefire, the same day the head of the Israeli Parliament publicly declared that
+      Israel will formally annex south Lebanon up to the Litani river and make it part
+      of Israel. Economic Fallout of Ceasefire and Pending Negotiations Immediately
+      upon Trump’s ceasefire announcement, the price of gasoline at the pump in the
+      US fell, as global crude prices retreated 17% from $113 to $97 a barrel. Falling
+      as well was the price of the US dollar (i.e. devaluation) and market long term
+      interest rates (10 & 30 year US Treasury bonds) in the US. Conversely, US stock
+      markets surged clawing back some of the 10% losses incurred since the war began.
+      Gold and Silver resumed their escalation ladder as well. But regardless of the
+      outcome of negotiations, long term economic effects will continue to undermine
+      the US and global economies. The production of oil, natural gas, and other commodities
+      in the Gulf region will continue to flow well below pre-war levels for some time.
+      The seriously destroyed supply chains won’t repair for months to come and likely
+      years. Money capital investments the Gulf economy elites had pledged to invest
+      in the US economy will now slow to a trickle. There will be no ‘trillion dollar
+      investment’ into the US economy that Trump has bragged about will boost US economic
+      growth. Nor will US capital and investors rush as before to the Gulf region with
+      their money to invest. Asian countries will look to backstop their energy from
+      the Gulf with other sources long term. They know hostilities can erupt any time
+      the US, and especially Israel, choose. They will reduce their dependencies on
+      the region. Domestically, the US real economy is going to experience a higher,
+      sustained level of inflation for months to come. US interest rates by the Fed
+      will not be cut now through this year and may even start to rise again. US real
+      economic growth will slow even more than currently. The US budget deficit, already
+      on track for $2 trillion again in 2026, may even exceed that, should the US Congress
+      agree to the Secretary of War, Hegseth’s, request for $200 billion more to pay
+      for the Iran war and prior Venezuela operation. There will be geopolitical consequences
+      of Trump’s war on Iran as well, regardless of whether negotiations result in a
+      settlement two weeks hence. The NATO alliance just received another nail in its
+      coffin. Trump’s request, and EU NATO countries’ refusal to help US invade Iran
+      may be the straw that broke the NATO camel’s back, as the saying goes.  US refusal
+      to fund Ukraine, recent Greenland disputes, and now Iran likely constitute three
+      body blows to that alliance. Another geopolitical sea change is that the Gulf
+      states will rethink their relationship to the US and its military bases. At least
+      some of them. Most likely Qatar and Oman will distance from the US first. Maybe
+      thereafter the Saudis. Conversely, the US itself will have to think hard whether
+      it’s a good strategic policy to maintain bases in the region, or to move them
+      back further from the front lines easily attacked by Iran missiles and drones.
+      Not least, the cost of the Iran war ($200 billion at minimum so far) will push
+      the US budget deficit into the red even further. It will result in Trump and the
+      Republican controlled Congress now cutting social programs even further in order
+      to help pay for the War, Hegseth’s $200 billion request, and Trump’s 2027 budget
+      that calls for a 40%, $400 billion further increase in the Pentagon budget to
+      $1.5 trillion next year.  Already Trump is preparing the ground, saying publicly
+      the US federal government should not be ‘in the business’ of providing health
+      care services for Americans. Its task is defense (aka more Trump wars). Conclusions
+      So who’s winning, or has won, the Iran war thus far? Who’s losing? Iran has agreed
+      to a temporary ceasefire and to negotiate. But it will still run the Hormuz strait.
+      It will collect fees. Higher global oil prices means it will make even more money
+      from oil sales. That can buy a lot of Chinese radars and Russian anti-aircraft
+      systems. The US will not control the Hormuz in any way. Iran will set the rules
+      and control the strait, in cooperation with one or two friendlier Gulf states
+      (Oman, maybe Qatar?) Iran will replenish and accelerate production and development
+      of its missiles and drone programs. The Iran war—like the Ukraine war—means military
+      power has changed radically. Surface ships are sitting ducks. Even 5 th generation
+      aircraft if they get too close. War is now about hypersonic missiles, autonomous
+      weapons, massed drones in the air, on and under the water, low orbit satellites
+      and surveillance—and of course economic destabilization. The most important question
+      remains: what will Israel do should US and Iran agree to a deal (or don’t)? Trump
+      and the Iranians can agree to all they want. Israel will not necessarily abide
+      by it (even if it says it will). When the dust settles, Israel will again try
+      to find a way to lure America into its wars of expansion in the middle east. The
+      question then becomes whether the US constitutional Republic can survive the influence
+      of Israel and its US Zionist billionaire oligarchs’ stranglehold on the US political
+      system itself. Dr. Jack Rasmus April 7, 2026'
+    one_sentence_summary: Trump announced a tentative two-week ceasefire with Iran,
+      claiming it as a victory for the US following military actions that he argues
+      forced Iran to negotiate, while Iran contends that they did not request the ceasefire
+      and that shipping through the Strait of Hormuz has remained open.
+    paragraph_summary: In a recent announcement, President Trump declared a tentative
+      ceasefire with Iran, following weeks of military actions that he claims have weakened
+      Iran's military capabilities. The ceasefire, which excludes Israel, is intended
+      to pave the way for negotiations in Islamabad aimed at achieving a permanent agreement.
+      While Trump and his supporters may view this as a victory for the U.S., asserting
+      that Iran is seeking peace due to American military pressure, Iran counters that
+      it did not request the ceasefire and maintains control over the Strait of Hormuz,
+      now imposing a transit fee for ships. The critical question remains whether these
+      negotiations will genuinely provide an exit strategy for the U.S. from a conflict
+      it cannot win without significant economic repercussions, or if they are merely
+      a tactical delay to regroup military resources.
+    published: '2026-04-08T07:28:16+00:00'
   - title: The Costs of US Losing the Iran War
     url: https://jackrasmus.com/2026/04/06/the-costs-of-us-losing-the-iran-war/
     text: https://alternativevisions.podbean.com/e/alternative-visions-the-costs-of-losing-the-iran-war/

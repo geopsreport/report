@@ -7,22 +7,214 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The ongoing geopolitical landscape remains shaped by heightened tensions in the Middle East, evolving security doctrines in Europe, and the persistent marginalization of peace-oriented perspectives in Western discourse.
+  As geopolitical tensions continue to dominate headlines, recent analysis from **Jan Oberg** offers a measured perspective on the risks of global conflict and the evolving international order. The latest TFF Peace Pulse initiative, launched on April 13, aims to counter widespread fears of a third world war. In his inaugural message, **Oberg** asserts, “WWIII? Just Doubt It,” emphasizing that while the current era is fraught with danger, the likelihood of a global conflagration remains low. He advocates for constructive alternatives and renewed hope, suggesting that panic-driven narratives often obscure opportunities for peace.
   
-  **Middle East: Targeted Violence and Policy Objectives**  
-  Recent reports highlight a surge in targeted attacks within Iran, with **Jan Oberg** emphasizing, through the perspective of Elaheh Pooyandeh, that "Iranians are not merely collateral damage but are the primary targets of violence." This underscores a shift from indiscriminate conflict to more deliberate, population-focused strategies. Furthermore, Israeli Prime Minister Benjamin Netanyahu’s public satisfaction at involving the United States in a major conflict with Iran, as cited by **Oberg**, signals the culmination of a decades-long policy objective for Israeli strategists. The regional situation remains volatile, and the risk of escalation persists.
+  Meanwhile, the ongoing US-Israeli conflict in Iran continues to inflict severe humanitarian consequences. **Oberg** highlights the personal toll of the violence, referencing the devastation experienced by civilians in Tehran. He underscores that the suffering extends beyond immediate casualties, affecting families and communities in profound ways. This perspective aligns with TFF’s broader mission, as detailed in its 40th-anniversary reflections, to prioritize peacebuilding and challenge the prevailing militaristic discourse.
   
-  **European Security: Sweden’s Threat Perception**  
-  In Scandinavia, Sweden’s security narrative is under scrutiny. **Jan Oberg** criticizes the Swedish Security Service’s (SÄPO) threat assessment as "an analytically disarmed tabloid product," arguing that its NATO-centric focus may actually undermine Swedish national security by oversimplifying complex threats. This reflects broader debates across Europe regarding the balance between alliance commitments and nuanced national security strategies.
+  In a broader context, **Oberg** has repeatedly pointed to the decline of the so-called Western Empire, suggesting that its waning influence could create space for more equitable and peaceful global arrangements. He notes that this transition, while destabilizing in the short term, “opens great opportunities for a better world.” The majority opinion across his recent work is that the current moment, though turbulent, is not preordained to spiral into global war.
   
-  **Information Environment: Decline of Peace Discourse**  
-  A notable trend is the diminishing space for peace-oriented analysis in Western media. **Oberg** notes a "decline of free media and open democratic discourse," with peace research and alternative perspectives increasingly sidelined. This shift impacts public understanding and policy debates, particularly as conflict narratives dominate mainstream channels.
-  
-  **Trends and Predictions**  
-  Looking ahead, there is a high chance that targeted violence in Iran will continue, given the entrenched policy objectives of external actors and the internal dynamics described. The European security debate is likely to intensify, especially as countries reassess their threat perceptions in light of alliance politics. The marginalization of peace perspectives in Western media is, in **Oberg’s** view, "quite likely" to persist unless deliberate efforts are made to restore open discourse.
-  
-  In summary, the geopolitical environment is marked by deliberate escalation strategies, contested security narratives, and a narrowing of the information space for peace advocacy—trends that are expected to continue in the near term.
+  Looking ahead, **Oberg** expresses high confidence that fears of imminent world war are exaggerated, stating that it is “most definitely” possible to avoid such a scenario if alternative, peace-oriented policies are pursued. He predicts that the decline of Western dominance will continue, and with it, new opportunities for peace research and diplomacy will emerge—provided that societies resist the pull of militaristic narratives and invest in constructive dialogue.
 articles:
+  - title: 'The first of the new TFF Peace Pulse – #1 “WWIII? Just Doubt It”'
+    url: https://transnational.live/2026/04/13/the-first-of-the-new-tff-peace-pulse-1-wwiii-just-doubt-it/
+    text: 'In contrast to most, we’ll bring alternatives, solutions, hope and strategies
+      for a better future. Times are dangerous, yes, but that only intensifies the need
+      for constructive thinking and action! Jan Oberg, TFF director April 13, 2026 The
+      new TFF Peace Pulse uses video messages in a new way: Max 3-5-minute-long comments,
+      ideas or perhaps mini-lectures, all […] The post The first of the new TFF Peace
+      Pulse – #1 “WWIII? Just Doubt It” appeared first on The Transnational .'
+    one_sentence_summary: The TFF Peace Pulse initiative introduces brief video messages
+      aimed at providing constructive alternatives and hope for a better future amid
+      dangerous times, as highlighted in its inaugural episode titled "WWIII? Just Doubt
+      It."
+    paragraph_summary: The article discusses the launch of the TFF Peace Pulse, an initiative
+      by TFF director Jan Oberg aimed at providing constructive alternatives and solutions
+      in response to the current dangerous global climate. The Peace Pulse features
+      short video messages, ranging from 3 to 5 minutes, that offer comments, ideas,
+      and mini-lectures to inspire hope and promote positive action for a better future.
+      The inaugural video, titled "WWIII? Just Doubt It," sets the tone for this new
+      approach to addressing pressing global issues.
+    published: '2026-04-13T15:17:29+00:00'
+  - title: 'The first of the new TFF Peace Pulse – #1 “WWIII? Just Doubt It”'
+    url: https://transnational.live/2026/04/13/the-first-of-the-new-tff-peace-pulse-1-wwiii-just-doubt-it/
+    text: 'In contrast to most, we’ll bring alternatives, solutions, hope and strategies
+      for a better future. Times are dangerous, yes, but that only intensifies the need
+      for constructive thinking and action! Jan Oberg, TFF director April 13, 2026 The
+      new TFF Peace Pulse uses video messages in a new way: Max 3-5-minute-long comments,
+      ideas or perhaps mini-lectures, all […] The post The first of the new TFF Peace
+      Pulse – #1 “WWIII? Just Doubt It” appeared first on The Transnational .'
+    one_sentence_summary: The TFF Peace Pulse initiative introduces brief video messages
+      aimed at providing constructive alternatives and hope for a better future amid
+      dangerous times, as highlighted in its inaugural episode titled "WWIII? Just Doubt
+      It."
+    paragraph_summary: The article discusses the launch of the TFF Peace Pulse, an initiative
+      by TFF director Jan Oberg aimed at providing constructive alternatives and solutions
+      in response to the current dangerous global climate. The Peace Pulse features
+      short video messages, ranging from 3 to 5 minutes, that offer comments, ideas,
+      and mini-lectures to inspire hope and promote positive action for a better future.
+      The inaugural video, titled "WWIII? Just Doubt It," sets the tone for this new
+      approach to addressing pressing global issues.
+    published: '2026-04-13T15:17:29+00:00'
+  - title: 'TFF at 40: Four Decades of Publishing Peace 2/2'
+    url: https://transnational.live/2026/04/11/tff-at-40-four-decades-of-publishing-peace-2-2/
+    text: 'PART II — Publishing Peace in a System That Prioritises Militarism Jan Oberg,
+      TFF director April 10, 2026 How TFF Maintains a Daily Voice in a Digital World
+      Built for Noise This article is part of the series “TFF at 40″ and it invites
+      you to learn about Four Decades of Publishing Peace. It takes […] The post TFF
+      at 40: Four Decades of Publishing Peace 2/2 appeared first on The Transnational
+      .'
+    one_sentence_summary: The article discusses how the Transnational Foundation for
+      Peace and Future Research (TFF) continues to promote peace in a noisy digital
+      landscape that often prioritizes militarism, as part of its 40th-anniversary series.
+    paragraph_summary: In the article "Publishing Peace in a System That Prioritises
+      Militarism," Jan Oberg, director of The Transnational Foundation for Peace and
+      Future Research (TFF), reflects on TFF's four decades of commitment to promoting
+      peace amidst a predominantly militaristic digital landscape. He discusses the
+      challenges of maintaining a meaningful voice in an environment saturated with
+      noise and highlights TFF's strategies for effectively disseminating peace-oriented
+      content. The piece is part of a series celebrating TFF's 40th anniversary and
+      emphasizes the importance of continuing to advocate for peace in a world often
+      dominated by conflict.
+    published: '2026-04-11T11:30:39+00:00'
+  - title: 'TFF at 40: Four Decades of Publishing Peace 2/2'
+    url: https://transnational.live/2026/04/11/tff-at-40-four-decades-of-publishing-peace-2-2/
+    text: 'PART II — Publishing Peace in a System That Prioritises Militarism Jan Oberg,
+      TFF director April 10, 2026 How TFF Maintains a Daily Voice in a Digital World
+      Built for Noise This article is part of the series “TFF at 40″ and it invites
+      you to learn about Four Decades of Publishing Peace. It takes […] The post TFF
+      at 40: Four Decades of Publishing Peace 2/2 appeared first on The Transnational
+      .'
+    one_sentence_summary: The article discusses how the Transnational Foundation for
+      Peace and Future Research (TFF) continues to promote peace in a noisy digital
+      landscape that often prioritizes militarism, as part of its 40th-anniversary series.
+    paragraph_summary: In the article "Publishing Peace in a System That Prioritises
+      Militarism," Jan Oberg, director of The Transnational Foundation for Peace and
+      Future Research (TFF), reflects on TFF's four decades of commitment to promoting
+      peace amidst a predominantly militaristic digital landscape. He discusses the
+      challenges of maintaining a meaningful voice in an environment saturated with
+      noise and highlights TFF's strategies for effectively disseminating peace-oriented
+      content. The piece is part of a series celebrating TFF's 40th anniversary and
+      emphasizes the importance of continuing to advocate for peace in a world often
+      dominated by conflict.
+    published: '2026-04-11T11:30:39+00:00'
+  - title: 'TFF at 40: Four Decades of Publishing Peace 1/2'
+    url: https://transnational.live/2026/04/10/tff-at-40-four-decades-of-publishing-peace-1-2/
+    text: 'PART I — From Stencils to Substack Jan Oberg, TFF director April 10, 2026
+      How TFF Sent Peace Into the World Before the Internet Existed This article is
+      part of the series “TFF at 40″ and it invites you to learn about Four Decades
+      of Publishing Peace. It takes a look at how a small, […] The post TFF at 40: Four
+      Decades of Publishing Peace 1/2 appeared first on The Transnational .'
+    one_sentence_summary: The article reflects on the 40-year history of TFF's efforts
+      in promoting peace through various publishing methods, from traditional stencils
+      to modern platforms like Substack.
+    paragraph_summary: In the article "From Stencils to Substack," Jan Oberg, director
+      of The Transnational Foundation for Peace and Future Research (TFF), reflects
+      on the organization's 40-year journey in promoting peace before the advent of
+      the internet. As part of a series celebrating TFF's anniversary, the piece highlights
+      the evolution of their publishing efforts, showcasing how a small initiative has
+      contributed significantly to peace advocacy and awareness over the decades.
+    published: '2026-04-10T15:37:49+00:00'
+  - title: 'TFF at 40: Four Decades of Publishing Peace 1/2'
+    url: https://transnational.live/2026/04/10/tff-at-40-four-decades-of-publishing-peace-1-2/
+    text: 'PART I — From Stencils to Substack Jan Oberg, TFF director April 10, 2026
+      How TFF Sent Peace Into the World Before the Internet Existed This article is
+      part of the series “TFF at 40″ and it invites you to learn about Four Decades
+      of Publishing Peace. It takes a look at how a small, […] The post TFF at 40: Four
+      Decades of Publishing Peace 1/2 appeared first on The Transnational .'
+    one_sentence_summary: The article reflects on the 40-year history of TFF's efforts
+      in promoting peace through various publishing methods, from traditional stencils
+      to modern platforms like Substack.
+    paragraph_summary: In the article "From Stencils to Substack," Jan Oberg, director
+      of The Transnational Foundation for Peace and Future Research (TFF), reflects
+      on the organization's 40-year journey in promoting peace before the advent of
+      the internet. As part of a series celebrating TFF's anniversary, the piece highlights
+      the evolution of their publishing efforts, showcasing how a small initiative has
+      contributed significantly to peace advocacy and awareness over the decades.
+    published: '2026-04-10T15:37:49+00:00'
+  - title: Don’t despair! The Western Empire is going down, and that opens great opportunities
+      for a better world…
+    url: https://transnational.live/2026/04/09/dont-despair-the-western-empire-is-going-down-and-that-opens-great-opportunities-for-a-better-world/
+    text: Jan Oberg, TFF director April 9, 2026 I was recently invited to have a good,
+      long talk about the world – and, of course, about peace too – with Boris Malagurski on
+      his Weight of Chains Channel on YouTube. It was a real joy and seems to have been
+      greatly appreciated by the viewers too. Mr Malagurski and I […] The post Don’t
+      despair! The Western Empire is going down, and that opens great opportunities
+      for a better world… appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg discusses the decline of the Western Empire and
+      the potential for a better world in a recent conversation with Boris Malagurski
+      on YouTube, which was well-received by viewers.
+    paragraph_summary: In a recent discussion on Boris Malagurski's YouTube channel,
+      Jan Oberg, director of TFF, shared insights about the current state of the world
+      and the prospects for peace. The conversation, which resonated well with viewers,
+      emphasized the decline of the Western Empire and the potential it creates for
+      building a better future. Oberg encouraged listeners to remain hopeful, suggesting
+      that this transformative period could lead to significant opportunities for positive
+      change.
+    published: '2026-04-09T14:31:46+00:00'
+  - title: Don’t despair! The Western Empire is going down, and that opens great opportunities
+      for a better world…
+    url: https://transnational.live/2026/04/09/dont-despair-the-western-empire-is-going-down-and-that-opens-great-opportunities-for-a-better-world/
+    text: Jan Oberg, TFF director April 9, 2026 I was recently invited to have a good,
+      long talk about the world – and, of course, about peace too – with Boris Malagurski on
+      his Weight of Chains Channel on YouTube. It was a real joy and seems to have been
+      greatly appreciated by the viewers too. Mr Malagurski and I […] The post Don’t
+      despair! The Western Empire is going down, and that opens great opportunities
+      for a better world… appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg discusses the decline of the Western Empire and
+      the potential for a better world in a recent conversation with Boris Malagurski
+      on YouTube, which was well-received by viewers.
+    paragraph_summary: In a recent discussion on Boris Malagurski's YouTube channel,
+      Jan Oberg, director of TFF, shared insights about the current state of the world
+      and the prospects for peace. The conversation, which resonated well with viewers,
+      emphasized the decline of the Western Empire and the potential it creates for
+      building a better future. Oberg encouraged listeners to remain hopeful, suggesting
+      that this transformative period could lead to significant opportunities for positive
+      change.
+    published: '2026-04-09T14:31:46+00:00'
+  - title: Thank You for Your Service – Of Bringing Death And Destruction
+    url: https://transnational.live/2026/04/08/thank-you-for-your-service-of-bringing-death-and-destruction/
+    text: A woman reacts inside her brother’s home, which was damaged by a strike, as
+      the US-Israeli war on Iran continues, in Tehran, 30 March 2026 (Majid Asgaripour/WANA
+      via Reuters) in The Middle East Eye Elaheh Pooyandeh Peace researcher & TFF Associate
+      April 8, 2026 This piece was written in Mid-March 2026. The author lives in […]
+      The post Thank You for Your Service – Of Bringing Death And Destruction appeared
+      first on The Transnational .
+    one_sentence_summary: The article discusses the devastating impact of the ongoing
+      US-Israeli conflict in Iran, highlighting the personal suffering of individuals
+      affected by the violence, as illustrated by a woman's reaction to her brother's
+      damaged home in Tehran.
+    paragraph_summary: In her article, Elaheh Pooyandeh reflects on the devastating
+      impact of the ongoing US-Israeli military actions against Iran, highlighting the
+      personal toll on civilians, such as a woman mourning the destruction of her brother's
+      home in Tehran. Pooyandeh, a peace researcher, critiques the cycle of violence
+      and the pervasive suffering caused by these conflicts, emphasizing the urgent
+      need for a shift towards peace and reconciliation in the region. The piece serves
+      as a poignant reminder of the human cost of war, urging readers to reconsider
+      the implications of military interventions and the importance of prioritizing
+      human life over geopolitical ambitions.
+    published: '2026-04-08T20:57:47+00:00'
+  - title: Thank You for Your Service – Of Bringing Death And Destruction
+    url: https://transnational.live/2026/04/08/thank-you-for-your-service-of-bringing-death-and-destruction/
+    text: A woman reacts inside her brother’s home, which was damaged by a strike, as
+      the US-Israeli war on Iran continues, in Tehran, 30 March 2026 (Majid Asgaripour/WANA
+      via Reuters) in The Middle East Eye Elaheh Pooyandeh Peace researcher & TFF Associate
+      April 8, 2026 This piece was written in Mid-March 2026. The author lives in […]
+      The post Thank You for Your Service – Of Bringing Death And Destruction appeared
+      first on The Transnational .
+    one_sentence_summary: The article discusses the devastating impact of the ongoing
+      US-Israeli conflict in Iran, highlighting the personal suffering of individuals
+      affected by the violence, as illustrated by a woman's reaction to her brother's
+      damaged home in Tehran.
+    paragraph_summary: In her article, Elaheh Pooyandeh reflects on the devastating
+      impact of the ongoing US-Israeli military actions against Iran, highlighting the
+      personal toll on civilians, such as a woman mourning the destruction of her brother's
+      home in Tehran. Pooyandeh, a peace researcher, critiques the cycle of violence
+      and the pervasive suffering caused by these conflicts, emphasizing the urgent
+      need for a shift towards peace and reconciliation in the region. The piece serves
+      as a poignant reminder of the human cost of war, urging readers to reconsider
+      the implications of military interventions and the importance of prioritizing
+      human life over geopolitical ambitions.
+    published: '2026-04-08T20:57:47+00:00'
   - title: Fred är inte bara frånvaron av krig – det är ett sätt att leva
     url: https://transnational.live/2026/04/03/fred-ar-inte-bara-franvaron-av-krig-det-ar-ett-satt-att-leva/
     text: 'Share on Facebook Follow on Facebook Add to Google+ Connect on Linked in

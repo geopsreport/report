@@ -7,14 +7,1556 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The ongoing conflict between the U.S., Israel, and Iran has entered a precarious phase, with both Washington and Tehran publicly claiming victory, yet neither side achieving its strategic objectives. As **Elijah J. Magnier** notes, Israel remains under sustained Iranian bombardment and has failed to dismantle Iranian influence or disarm Hezbollah—key goals set at the outset of hostilities. This stalemate has left Israeli Prime Minister Benjamin Netanyahu politically exposed, with his inability to secure a decisive win fueling domestic and international criticism.
+  Tensions between the United States and Iran have sharply escalated following the collapse of diplomatic talks in Islamabad. The most significant new development is the initiation of a U.S.-led maritime blockade targeting Iranian ports. According to **Elijah J. Magnier**, President Trump’s administration has moved to enforce strict controls over Iranian maritime commerce, aiming to economically strangle Tehran by restricting shipping and asserting U.S. authority over what goods and actors may interact with Iran.
   
-  The most recent development is the announcement of a two-week ceasefire, which, according to **Magnier**, is less a sign of resolution and more an indicator of exhaustion and strategic deadlock. Despite the ceasefire, there is significant concern that Netanyahu, facing mounting political pressure, may seek to disrupt the fragile truce in an attempt to regain lost ground or shift the narrative. The ceasefire itself is seen as a temporary measure, with both sides regrouping rather than genuinely seeking a long-term settlement.
+  This blockade represents a substantial escalation in the ongoing confrontation, shifting from failed negotiations to direct economic warfare. The U.S. seeks to leverage its naval power to force Iranian political submission after the breakdown of talks, where, as **Magnier** notes, “the U.S. sought to leverage military pressure for political submission, and Iran refused to legitimize U.S. and Israeli failures through diplomacy.” The blockade is designed to cut off Iran’s vital economic lifelines, but analysts agree it is unlikely to force a strategic capitulation.
   
-  Meanwhile, the U.S. and Israel’s initial strategy—a rapid, overwhelming assault on Iran—has failed to deliver the anticipated quick victory. Instead, the conflict has devolved into a war of attrition, with ultimatums and threats replacing earlier confidence. As previously reported, President Trump has escalated his rhetoric, threatening the destruction of Iranian infrastructure should Tehran fail to comply with American demands.
+  Iran’s leadership, for its part, remains defiant. Parliamentary speaker Mohammad Qalibaf has reiterated that Tehran will not enter negotiations until Israel’s military campaign in Lebanon ends and Iranian assets are unfrozen. The Iranian government continues to emphasize its control over the Strait of Hormuz as a strategic deterrent, which, in Qalibaf’s words, is “a more strategic weapon than nuclear arms.”
   
-  Looking ahead, the prevailing trend is one of uncertainty and continued volatility. The majority of analysts, including **Magnier**, agree that the ceasefire is unlikely to hold without significant diplomatic intervention, and there is a high chance that hostilities could resume if political or military calculations shift in either camp. Given the current dynamics, it is quite likely that the region will remain unstable in the near term, with no clear path to a comprehensive resolution.
+  Looking ahead, the majority of analysis suggests that while the blockade will inflict significant economic pain on Iran, it will not break the government’s resolve or compel major concessions. It is “most definitely” expected that Iran will seek to circumvent the blockade through regional alliances and asymmetric responses, further consolidating its so-called “Axis of Resistance.” The risk of military escalation in the Persian Gulf remains high, but a negotiated settlement appears unlikely in the near term given the entrenched positions on both sides. The situation is poised to remain volatile, with the potential for further escalation if either side miscalculates.
 articles:
+  - title: A Naval Blockade Would Hurt Iran, But Not Break It
+    url: https://ejmagnier.com/2026/04/13/a-naval-blockade-would-hurt-iran-but-not-break-it/
+    text: 'By Elijah J. Magnier – President Donald Trump has now moved from threat to
+      instrument and collective punishment of the Iranian population. Washington has
+      announced the beginning of a maritime siege on Iranian ports, turning naval supremacy
+      into an attempt at economic strangulation. This is not a symbolic move or a mere
+      warning shot. It is an effort to police access to Iran by force, to interdict
+      shipping linked to Iranian commerce, and to impose a new reality at sea in which
+      the United States claims the right to decide which cargo moves, which tankers
+      sail, and which commercial actors are allowed to do business with Tehran. In practice,
+      such an operation can draw on the full architecture of American maritime power:
+      satellite imagery, radar surveillance, drones, naval assets, airborne monitoring,
+      and every other military means needed to track, identify, shadow, and intercept
+      any suspected tanker that has paid fees to the Iranian authorities. Trump has
+      also raised the threat of targeting Iranian warships and tankers in international
+      waters, pushing the confrontation beyond Hormuz itself and into a broader contest
+      over who gets to control one of the world’s most vital commercial arteries. Iran’s
+      answer was immediate and contemptuous. Tehran warned that the approach of any
+      American military vessel near Iranian waters would be treated as a grave escalation
+      and answered with force, jeopardising the already fragile ceasefire. Iran’s navy
+      commander Shahram Irani called the U.S. threat laughable, but the point is not
+      ridicule alone. Tehran understands exactly what is at stake. This is not simply
+      a dispute over passage through a narrow waterway. It is a direct attempt to choke
+      Iran’s maritime trade, intimidate its buyers, frighten insurers, and force shipowners,
+      traders and importing states to choose between Iranian commerce and American coercion.
+      The question is therefore not only what Washington can do to Iran, but against
+      whom this pressure is really aimed: Chinese buyers, Indian refiners, international
+      tanker operators, Gulf shipping lanes, Asian energy consumers, and every commercial
+      network linked to the movement of oil, gas and petrochemicals through Hormuz. Rail
+      corridors through Central Asia, links toward Kazakhstan, and overland routes stretching
+      across Iran’s nearly 5,900 km of borders with seven neighbouring states can keep
+      some commerce alive, but they cannot replace maritime scale. They are lifelines,
+      not substitutes. Yet that is precisely the point: years of Western sanctions did
+      not train Iran to surrender. They trained it to search for alternatives, live
+      with deprivation, and adapt without capitulating. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: President Trump has escalated U.S. actions against Iran by
+      initiating a maritime siege on its ports, aiming to economically strangle the
+      country through military enforcement of shipping restrictions and control over
+      commerce.
+    paragraph_summary: President Donald Trump has escalated U.S. actions against Iran
+      by initiating a maritime siege on its ports, aiming to economically strangle the
+      nation through naval supremacy. This strategy involves using American military
+      resources to control and monitor shipping linked to Iran, effectively determining
+      which cargo and vessels can operate in the region. The U.S. has threatened to
+      target Iranian warships and tankers in international waters, intensifying tensions
+      over control of critical maritime routes. In response, Iran has dismissed the
+      U.S. threats as laughable but recognizes the serious implications for its maritime
+      trade and the potential intimidation of its trading partners, particularly China.
+      This situation raises concerns about the broader impact of U.S. pressure not only
+      on Iran but also on its international buyers and the global shipping industry.
+    published: '2026-04-13T05:20:52+00:00'
+  - title: A Naval Blockade Would Hurt Iran, But Not Break It
+    url: https://ejmagnier.com/2026/04/13/a-naval-blockade-would-hurt-iran-but-not-break-it/
+    text: 'By Elijah J. Magnier – President Donald Trump has now moved from threat to
+      instrument and collective punishment of the Iranian population. Washington has
+      announced the beginning of a maritime siege on Iranian ports, turning naval supremacy
+      into an attempt at economic strangulation. This is not a symbolic move or a mere
+      warning shot. It is an effort to police access to Iran by force, to interdict
+      shipping linked to Iranian commerce, and to impose a new reality at sea in which
+      the United States claims the right to decide which cargo moves, which tankers
+      sail, and which commercial actors are allowed to do business with Tehran. In practice,
+      such an operation can draw on the full architecture of American maritime power:
+      satellite imagery, radar surveillance, drones, naval assets, airborne monitoring,
+      and every other military means needed to track, identify, shadow, and intercept
+      any suspected tanker that has paid fees to the Iranian authorities. Trump has
+      also raised the threat of targeting Iranian warships and tankers in international
+      waters, pushing the confrontation beyond Hormuz itself and into a broader contest
+      over who gets to control one of the world’s most vital commercial arteries. Iran’s
+      answer was immediate and contemptuous. Tehran warned that the approach of any
+      American military vessel near Iranian waters would be treated as a grave escalation
+      and answered with force, jeopardising the already fragile ceasefire. Iran’s navy
+      commander Shahram Irani called the U.S. threat laughable, but the point is not
+      ridicule alone. Tehran understands exactly what is at stake. This is not simply
+      a dispute over passage through a narrow waterway. It is a direct attempt to choke
+      Iran’s maritime trade, intimidate its buyers, frighten insurers, and force shipowners,
+      traders and importing states to choose between Iranian commerce and American coercion.
+      The question is therefore not only what Washington can do to Iran, but against
+      whom this pressure is really aimed: Chinese buyers, Indian refiners, international
+      tanker operators, Gulf shipping lanes, Asian energy consumers, and every commercial
+      network linked to the movement of oil, gas and petrochemicals through Hormuz. Rail
+      corridors through Central Asia, links toward Kazakhstan, and overland routes stretching
+      across Iran’s nearly 5,900 km of borders with seven neighbouring states can keep
+      some commerce alive, but they cannot replace maritime scale. They are lifelines,
+      not substitutes. Yet that is precisely the point: years of Western sanctions did
+      not train Iran to surrender. They trained it to search for alternatives, live
+      with deprivation, and adapt without capitulating. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: President Trump has escalated U.S. actions against Iran by
+      initiating a maritime siege on its ports, aiming to economically strangle the
+      country through military enforcement of shipping restrictions and control over
+      commerce.
+    paragraph_summary: President Donald Trump has escalated U.S. actions against Iran
+      by initiating a maritime siege on its ports, aiming to economically strangle the
+      nation through naval supremacy. This strategy involves using American military
+      resources to control and monitor shipping linked to Iran, effectively determining
+      which cargo and vessels can operate in the region. The U.S. has threatened to
+      target Iranian warships and tankers in international waters, intensifying tensions
+      over control of critical maritime routes. In response, Iran has dismissed the
+      U.S. threats as laughable but recognizes the serious implications for its maritime
+      trade and the potential intimidation of its trading partners, particularly China.
+      This situation raises concerns about the broader impact of U.S. pressure not only
+      on Iran but also on its international buyers and the global shipping industry.
+    published: '2026-04-13T05:20:52+00:00'
+  - title: Le blocus naval américain ne fera pas plier l’Iran
+    url: https://ejmagnier.com/2026/04/13/le-blocus-naval-americain-ne-fera-pas-plier-liran/
+    text: 'Par Elijah J. Magnier – Le président Donald Trump est désormais passé de
+      la menace à l’instrument et au châtiment collectif de la population iranienne.
+      Washington a annoncé le début d’un siège maritime des ports iraniens, transformant
+      sa suprématie navale en tentative d’étranglement économique. Il ne s’agit ni d’un
+      geste symbolique ni d’un simple coup de semonce. Il s’agit d’un effort visant
+      à contrôler par la force l’accès à l’Iran, à intercepter le trafic maritime lié
+      au commerce iranien et à imposer en mer une nouvelle réalité dans laquelle les
+      États Unis s’arrogent le droit de décider quelle cargaison circule, quels tankers
+      naviguent et quels acteurs commerciaux sont autorisés à faire des affaires avec
+      Téhéran. En pratique, une telle opération peut mobiliser toute l’architecture
+      de la puissance maritime américaine : imagerie satellitaire, surveillance radar,
+      drones, moyens navals, surveillance aérienne et tous les autres moyens militaires
+      nécessaires pour suivre, identifier, pister et intercepter tout tanker suspect
+      ayant versé des redevances aux autorités iraniennes. Trump a également brandi
+      la menace de viser les navires de guerre iraniens et les tankers iraniens dans
+      les eaux internationales, élargissant ainsi la confrontation au delà même d’Hormuz
+      pour en faire un affrontement plus vaste sur le contrôle de l’une des artères
+      commerciales les plus vitales du monde. La réponse de l’Iran a été immédiate et
+      méprisante. Téhéran a averti que l’approche de tout bâtiment militaire américain
+      près des eaux iraniennes serait considérée comme une grave escalade et recevrait
+      une réponse par la force, mettant en péril le cessez le feu déjà fragile. Le commandant
+      de la marine iranienne, Shahram Irani, a qualifié la menace américaine de risible,
+      mais l’essentiel ne réside pas seulement dans le mépris affiché. Téhéran comprend
+      parfaitement ce qui est en jeu. Il ne s’agit pas simplement d’un différend sur
+      le passage à travers un étroit corridor maritime. C’est une tentative directe
+      d’étouffer le commerce maritime iranien, d’intimider ses acheteurs, d’effrayer
+      les assureurs et de contraindre armateurs, négociants et États importateurs à
+      choisir entre le commerce avec l’Iran et la coercition américaine. La question
+      n’est donc pas seulement de savoir ce que Washington peut faire à l’Iran, mais
+      contre qui cette pression est réellement dirigée : les acheteurs chinois, les
+      raffineurs indiens, les opérateurs internationaux de tankers, les routes maritimes
+      du Golfe, les consommateurs asiatiques d’énergie et l’ensemble des réseaux commerciaux
+      liés au transport du pétrole, du gaz et des produits pétrochimiques à travers
+      Hormuz. Les corridors ferroviaires à travers l’Asie centrale, les liaisons vers
+      le Kazakhstan et les routes terrestres qui s’étendent sur près de 5 900 kilomètres
+      de frontières iraniennes avec sept États voisins peuvent maintenir une partie
+      du commerce en vie, mais ils ne peuvent pas remplacer l’échelle maritime. Ce sont
+      des lignes de survie, pas des substituts. Et c’est précisément là le point essentiel
+      : des années de sanctions occidentales n’ont pas appris à l’Iran à se rendre.
+      Elles lui ont appris à chercher des alternatives, à vivre avec la privation et
+      à s’adapter sans capituler. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Le président Donald Trump a intensifié la pression sur l'Iran
+      en lançant un siège maritime de ses ports, visant à contrôler l'accès économique
+      à l'Iran et à intercepter le commerce maritime, tout en affirmant le droit des
+      États-Unis de décider des cargaisons et des acteurs commerciaux autorisés à interagir
+      avec Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la transition de la politique
+      américaine sous Donald Trump, qui est passée de simples menaces à une stratégie
+      de siège maritime visant à étouffer économiquement l'Iran. Washington a commencé
+      à contrôler l'accès aux ports iraniens, utilisant sa puissance navale pour intercepter
+      le commerce maritime iranien et imposer une nouvelle réalité où les États-Unis
+      décident des cargaisons et des acteurs commerciaux autorisés à traiter avec Téhéran.
+      Cette opération mobilise des ressources militaires avancées pour surveiller et
+      intercepter les tankers suspects. Trump a également menacé de cibler les navires
+      de guerre iraniens, augmentant ainsi les tensions dans une région déjà volatile.
+      En réponse, l'Iran a averti que toute approche de navires militaires américains
+      près de ses eaux serait considérée comme une escalade sérieuse, promettant une
+      réponse militaire, ce qui met en péril un cessez-le-feu fragile.
+    published: '2026-04-13T05:06:38+00:00'
+  - title: Le blocus naval américain ne fera pas plier l’Iran
+    url: https://ejmagnier.com/2026/04/13/le-blocus-naval-americain-ne-fera-pas-plier-liran/
+    text: 'Par Elijah J. Magnier – Le président Donald Trump est désormais passé de
+      la menace à l’instrument et au châtiment collectif de la population iranienne.
+      Washington a annoncé le début d’un siège maritime des ports iraniens, transformant
+      sa suprématie navale en tentative d’étranglement économique. Il ne s’agit ni d’un
+      geste symbolique ni d’un simple coup de semonce. Il s’agit d’un effort visant
+      à contrôler par la force l’accès à l’Iran, à intercepter le trafic maritime lié
+      au commerce iranien et à imposer en mer une nouvelle réalité dans laquelle les
+      États Unis s’arrogent le droit de décider quelle cargaison circule, quels tankers
+      naviguent et quels acteurs commerciaux sont autorisés à faire des affaires avec
+      Téhéran. En pratique, une telle opération peut mobiliser toute l’architecture
+      de la puissance maritime américaine : imagerie satellitaire, surveillance radar,
+      drones, moyens navals, surveillance aérienne et tous les autres moyens militaires
+      nécessaires pour suivre, identifier, pister et intercepter tout tanker suspect
+      ayant versé des redevances aux autorités iraniennes. Trump a également brandi
+      la menace de viser les navires de guerre iraniens et les tankers iraniens dans
+      les eaux internationales, élargissant ainsi la confrontation au delà même d’Hormuz
+      pour en faire un affrontement plus vaste sur le contrôle de l’une des artères
+      commerciales les plus vitales du monde. La réponse de l’Iran a été immédiate et
+      méprisante. Téhéran a averti que l’approche de tout bâtiment militaire américain
+      près des eaux iraniennes serait considérée comme une grave escalade et recevrait
+      une réponse par la force, mettant en péril le cessez le feu déjà fragile. Le commandant
+      de la marine iranienne, Shahram Irani, a qualifié la menace américaine de risible,
+      mais l’essentiel ne réside pas seulement dans le mépris affiché. Téhéran comprend
+      parfaitement ce qui est en jeu. Il ne s’agit pas simplement d’un différend sur
+      le passage à travers un étroit corridor maritime. C’est une tentative directe
+      d’étouffer le commerce maritime iranien, d’intimider ses acheteurs, d’effrayer
+      les assureurs et de contraindre armateurs, négociants et États importateurs à
+      choisir entre le commerce avec l’Iran et la coercition américaine. La question
+      n’est donc pas seulement de savoir ce que Washington peut faire à l’Iran, mais
+      contre qui cette pression est réellement dirigée : les acheteurs chinois, les
+      raffineurs indiens, les opérateurs internationaux de tankers, les routes maritimes
+      du Golfe, les consommateurs asiatiques d’énergie et l’ensemble des réseaux commerciaux
+      liés au transport du pétrole, du gaz et des produits pétrochimiques à travers
+      Hormuz. Les corridors ferroviaires à travers l’Asie centrale, les liaisons vers
+      le Kazakhstan et les routes terrestres qui s’étendent sur près de 5 900 kilomètres
+      de frontières iraniennes avec sept États voisins peuvent maintenir une partie
+      du commerce en vie, mais ils ne peuvent pas remplacer l’échelle maritime. Ce sont
+      des lignes de survie, pas des substituts. Et c’est précisément là le point essentiel
+      : des années de sanctions occidentales n’ont pas appris à l’Iran à se rendre.
+      Elles lui ont appris à chercher des alternatives, à vivre avec la privation et
+      à s’adapter sans capituler. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly'
+    one_sentence_summary: Le président Donald Trump a intensifié la pression sur l'Iran
+      en lançant un siège maritime de ses ports, visant à contrôler l'accès économique
+      à l'Iran et à intercepter le commerce maritime, tout en affirmant le droit des
+      États-Unis de décider des cargaisons et des acteurs commerciaux autorisés à interagir
+      avec Téhéran.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la transition de la politique
+      américaine sous Donald Trump, qui est passée de simples menaces à une stratégie
+      de siège maritime visant à étouffer économiquement l'Iran. Washington a commencé
+      à contrôler l'accès aux ports iraniens, utilisant sa puissance navale pour intercepter
+      le commerce maritime iranien et imposer une nouvelle réalité où les États-Unis
+      décident des cargaisons et des acteurs commerciaux autorisés à traiter avec Téhéran.
+      Cette opération mobilise des ressources militaires avancées pour surveiller et
+      intercepter les tankers suspects. Trump a également menacé de cibler les navires
+      de guerre iraniens, augmentant ainsi les tensions dans une région déjà volatile.
+      En réponse, l'Iran a averti que toute approche de navires militaires américains
+      près de ses eaux serait considérée comme une escalade sérieuse, promettant une
+      réponse militaire, ce qui met en péril un cessez-le-feu fragile.
+    published: '2026-04-13T05:06:38+00:00'
+  - title: Eine Seeblockade würde dem Iran schaden, ihn aber nicht brechen
+    url: https://ejmagnier.com/2026/04/13/eine-seeblockade-wurde-dem-iran-schaden-ihn-aber-nicht-brechen/
+    text: 'Von Elijah J. Magnier Präsident Donald Trump ist nun von der Drohung zum
+      Instrument und zur kollektiven Bestrafung der iranischen Bevölkerung übergegangen.
+      Washington hat den Beginn einer maritimen Belagerung iranischer Häfen angekündigt
+      und verwandelt damit seine maritime Überlegenheit in den Versuch einer wirtschaftlichen
+      Erdrosselung. Das ist weder ein symbolischer Schritt noch nur ein Warnschuss.
+      Es ist der Versuch, den Zugang zum Iran mit Gewalt zu kontrollieren, mit dem iranischen
+      Handel verbundene Schifffahrt abzufangen und auf See eine neue Realität zu erzwingen,
+      in der die Vereinigten Staaten für sich beanspruchen zu entscheiden, welche Fracht
+      sich bewegen darf, welche Tanker fahren und welche wirtschaftlichen Akteure mit
+      Teheran Geschäfte machen dürfen. In der Praxis kann sich eine solche Operation
+      auf die gesamte Architektur amerikanischer Seemacht stützen: Satellitenbilder,
+      Radarüberwachung, Drohnen, Marineeinheiten, luftgestützte Aufklärung und alle
+      sonstigen militärischen Mittel, die nötig sind, um jeden verdächtigen Tanker zu
+      verfolgen, zu identifizieren, zu beschatten und abzufangen, der Gebühren an die
+      iranischen Behörden gezahlt hat. Trump hat zudem die Drohung ausgesprochen, iranische
+      Kriegsschiffe und Tanker in internationalen Gewässern anzugreifen, und damit die
+      Konfrontation über Hormus selbst hinaus in einen umfassenderen Streit darüber
+      ausgeweitet, wer eine der wichtigsten Handelsadern der Welt kontrollieren darf.
+      Die iranische Antwort fiel sofort und verächtlich aus. Teheran warnte, dass sich
+      jedes amerikanische Militärschiff in der Nähe iranischer Gewässer als schwere
+      Eskalation darstellen würde und mit Gewalt beantwortet werde, wodurch der ohnehin
+      fragile Waffenstillstand gefährdet würde. Irans Marinekommandeur Shahram Irani
+      bezeichnete die US Drohung als lächerlich, doch es geht nicht nur um Spott. Teheran
+      versteht genau, was auf dem Spiel steht. Es geht nicht einfach um einen Streit
+      über die Durchfahrt durch eine enge Wasserstraße. Es ist ein direkter Versuch,
+      Irans Seehandel zu ersticken, seine Käufer einzuschüchtern, Versicherer abzuschrecken
+      und Reeder, Händler und importierende Staaten zu zwingen, sich zwischen dem Handel
+      mit Iran und amerikanischem Zwang zu entscheiden. Die Frage ist daher nicht nur,
+      was Washington dem Iran antun kann, sondern gegen wen sich dieser Druck in Wirklichkeit
+      richtet: gegen chinesische Käufer, indische Raffinerien, internationale Tankerbetreiber,
+      die Schifffahrtsrouten am Golf, asiatische Energieverbraucher und jedes wirtschaftliche
+      Netzwerk, das mit dem Transport von Öl, Gas und Petrochemikalien durch Hormus
+      verbunden ist. Eisenbahnkorridore durch Zentralasien, Verbindungen nach Kasachstan
+      und Landrouten, die sich über Irans fast 5.900 Kilometer lange Grenzen zu sieben
+      Nachbarstaaten erstrecken, können einen Teil des Handels am Leben erhalten, doch
+      sie können die maritime Größenordnung nicht ersetzen. Sie sind Lebensadern, kein
+      Ersatz. Und genau das ist der Punkt: Jahre westlicher Sanktionen haben den Iran
+      nicht zur Kapitulation erzogen. Sie haben ihn gelehrt, nach Alternativen zu suchen,
+      mit Entbehrungen zu leben und sich anzupassen, ohne sich zu unterwerfen. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Präsident Donald Trump hat die US-Politik gegenüber dem Iran
+      verschärft, indem er eine maritime Belagerung iranischer Häfen angekündigt hat,
+      um den Zugang zum Iran gewaltsam zu kontrollieren und den iranischen Handel zu
+      unterdrücken.
+    paragraph_summary: Präsident Donald Trump hat die US-Politik gegenüber dem Iran
+      verschärft, indem er eine maritime Belagerung iranischer Häfen angekündigt hat,
+      um den Zugang zum Iran zu kontrollieren und dessen Handel zu behindern. Diese
+      Maßnahme zielt darauf ab, die wirtschaftliche Erschöpfung Teherans durch militärische
+      Überwachung und Intervention zu forcieren, wobei die USA die Kontrolle über den
+      Schiffsverkehr in der Region beanspruchen. Trump hat auch angedroht, iranische
+      Kriegsschiffe in internationalen Gewässern anzugreifen, was die Spannungen über
+      die strategisch wichtige Straße von Hormus hinaus erhöht. Teheran reagierte umgehend
+      und warnte vor schweren Konsequenzen, falls US-Militärschiffe in die Nähe iranischer
+      Gewässer gelangen, und bezeichnete die Drohung als lächerlich, was die fragile
+      Situation weiter destabilisieren könnte.
+    published: '2026-04-13T04:59:47+00:00'
+  - title: Eine Seeblockade würde dem Iran schaden, ihn aber nicht brechen
+    url: https://ejmagnier.com/2026/04/13/eine-seeblockade-wurde-dem-iran-schaden-ihn-aber-nicht-brechen/
+    text: 'Von Elijah J. Magnier Präsident Donald Trump ist nun von der Drohung zum
+      Instrument und zur kollektiven Bestrafung der iranischen Bevölkerung übergegangen.
+      Washington hat den Beginn einer maritimen Belagerung iranischer Häfen angekündigt
+      und verwandelt damit seine maritime Überlegenheit in den Versuch einer wirtschaftlichen
+      Erdrosselung. Das ist weder ein symbolischer Schritt noch nur ein Warnschuss.
+      Es ist der Versuch, den Zugang zum Iran mit Gewalt zu kontrollieren, mit dem iranischen
+      Handel verbundene Schifffahrt abzufangen und auf See eine neue Realität zu erzwingen,
+      in der die Vereinigten Staaten für sich beanspruchen zu entscheiden, welche Fracht
+      sich bewegen darf, welche Tanker fahren und welche wirtschaftlichen Akteure mit
+      Teheran Geschäfte machen dürfen. In der Praxis kann sich eine solche Operation
+      auf die gesamte Architektur amerikanischer Seemacht stützen: Satellitenbilder,
+      Radarüberwachung, Drohnen, Marineeinheiten, luftgestützte Aufklärung und alle
+      sonstigen militärischen Mittel, die nötig sind, um jeden verdächtigen Tanker zu
+      verfolgen, zu identifizieren, zu beschatten und abzufangen, der Gebühren an die
+      iranischen Behörden gezahlt hat. Trump hat zudem die Drohung ausgesprochen, iranische
+      Kriegsschiffe und Tanker in internationalen Gewässern anzugreifen, und damit die
+      Konfrontation über Hormus selbst hinaus in einen umfassenderen Streit darüber
+      ausgeweitet, wer eine der wichtigsten Handelsadern der Welt kontrollieren darf.
+      Die iranische Antwort fiel sofort und verächtlich aus. Teheran warnte, dass sich
+      jedes amerikanische Militärschiff in der Nähe iranischer Gewässer als schwere
+      Eskalation darstellen würde und mit Gewalt beantwortet werde, wodurch der ohnehin
+      fragile Waffenstillstand gefährdet würde. Irans Marinekommandeur Shahram Irani
+      bezeichnete die US Drohung als lächerlich, doch es geht nicht nur um Spott. Teheran
+      versteht genau, was auf dem Spiel steht. Es geht nicht einfach um einen Streit
+      über die Durchfahrt durch eine enge Wasserstraße. Es ist ein direkter Versuch,
+      Irans Seehandel zu ersticken, seine Käufer einzuschüchtern, Versicherer abzuschrecken
+      und Reeder, Händler und importierende Staaten zu zwingen, sich zwischen dem Handel
+      mit Iran und amerikanischem Zwang zu entscheiden. Die Frage ist daher nicht nur,
+      was Washington dem Iran antun kann, sondern gegen wen sich dieser Druck in Wirklichkeit
+      richtet: gegen chinesische Käufer, indische Raffinerien, internationale Tankerbetreiber,
+      die Schifffahrtsrouten am Golf, asiatische Energieverbraucher und jedes wirtschaftliche
+      Netzwerk, das mit dem Transport von Öl, Gas und Petrochemikalien durch Hormus
+      verbunden ist. Eisenbahnkorridore durch Zentralasien, Verbindungen nach Kasachstan
+      und Landrouten, die sich über Irans fast 5.900 Kilometer lange Grenzen zu sieben
+      Nachbarstaaten erstrecken, können einen Teil des Handels am Leben erhalten, doch
+      sie können die maritime Größenordnung nicht ersetzen. Sie sind Lebensadern, kein
+      Ersatz. Und genau das ist der Punkt: Jahre westlicher Sanktionen haben den Iran
+      nicht zur Kapitulation erzogen. Sie haben ihn gelehrt, nach Alternativen zu suchen,
+      mit Entbehrungen zu leben und sich anzupassen, ohne sich zu unterwerfen. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Präsident Donald Trump hat die US-Politik gegenüber dem Iran
+      verschärft, indem er eine maritime Belagerung iranischer Häfen angekündigt hat,
+      um den Zugang zum Iran gewaltsam zu kontrollieren und den iranischen Handel zu
+      unterdrücken.
+    paragraph_summary: Präsident Donald Trump hat die US-Politik gegenüber dem Iran
+      verschärft, indem er eine maritime Belagerung iranischer Häfen angekündigt hat,
+      um den Zugang zum Iran zu kontrollieren und dessen Handel zu behindern. Diese
+      Maßnahme zielt darauf ab, die wirtschaftliche Erschöpfung Teherans durch militärische
+      Überwachung und Intervention zu forcieren, wobei die USA die Kontrolle über den
+      Schiffsverkehr in der Region beanspruchen. Trump hat auch angedroht, iranische
+      Kriegsschiffe in internationalen Gewässern anzugreifen, was die Spannungen über
+      die strategisch wichtige Straße von Hormus hinaus erhöht. Teheran reagierte umgehend
+      und warnte vor schweren Konsequenzen, falls US-Militärschiffe in die Nähe iranischer
+      Gewässer gelangen, und bezeichnete die Drohung als lächerlich, was die fragile
+      Situation weiter destabilisieren könnte.
+    published: '2026-04-13T04:59:47+00:00'
+  - title: 'Gespräche zwischen den USA und dem Iran: Ein Zusammenprall zweier unvereinbarer
+      strategischer Ordnungsvisionen für den Nahen Osten'
+    url: https://ejmagnier.com/2026/04/12/gesprache-zwischen-den-usa-und-dem-iran-ein-zusammenprall-zweier-unvereinbarer-strategischer-ordnungsvisionen-fur-den-nahen-osten/
+    text: 'Von Elijah J. Magnier – Das Scheitern der Gespräche in Islamabad war kein
+      diplomatisches Missverständnis. Es war ein Zusammenprall zweier unvereinbarer
+      strategischer Ordnungsvisionen für den Nahen Osten. Washington war mit dem Ziel
+      angereist, den Druck auf dem Schlachtfeld in politische Unterwerfung umzuwandeln
+      und am Verhandlungstisch eine Hierarchie festzuschreiben, die der Krieg selbst
+      nicht hervorgebracht hatte. Teheran, das das Überleben unter Beschuss als Beweis
+      dafür gewertet hatte, dass Zwang gescheitert war, kam mit der Entschlossenheit
+      an, nicht durch Diplomatie zu legitimieren, was die Vereinigten Staaten und Israel
+      durch Krieg nicht durchsetzen konnten. Deshalb scheiterten die Verhandlungen nach
+      21 Stunden trotz eines fragilen Waffenstillstands und intensiver pakistanischer
+      Vermittlung. Vizepräsident J.D. Vance sagte, der Iran habe die amerikanischen
+      Bedingungen abgelehnt, während iranische Beamte erklärten, die Vereinigten Staaten
+      seien mit überzogenen Forderungen statt mit einem tragfähigen Rahmen für eine
+      gegenseitige Deeskalation angetreten. Die Kernstreitpunkte waren nicht verfahrenstechnischer
+      Natur. Sie drehten sich um das iranische Atomprogramm, die Straße von Hormus und
+      den regionalen Schauplatz, insbesondere den Libanon. Doch handelte es sich hierbei
+      nicht um drei isolierte Meinungsverschiedenheiten. Es waren drei Ausdrucksformen
+      eines größeren Kampfes: Wer darf die Bedingungen der Ordnung festlegen nach einem
+      Krieg, den keine Seite endgültig gewinnen konnte. Die iranische Delegation ließ
+      kaum Zweifel an Teherans Absichten. Rund 70 Vertreter aus Regierung, Parlament,
+      Zentralbank und den nationalen Sicherheitsbehörden waren auf ernsthafte, detaillierte
+      und folgenreiche Verhandlungen vorbereitet. Dies war keine Delegation, die nur
+      zum Schein, zur Verzögerungstaktik oder für diplomatische Inszenierungen zusammengestellt
+      worden war. Sie war so aufgestellt, dass sie das gesamte Spektrum strategischer,
+      politischer und wirtschaftlicher Fragen abdecken konnte. Doch die Gespräche gerieten
+      auf höchster Ebene ins Stocken, da der Streit von Anfang an die Kernfragen betraf
+      und Fortschritte blockierte, noch bevor die Parteien überhaupt damit beginnen
+      konnten, die technischen Details zu erörtern.Der Iran weigerte sich, ein amerikanisches
+      Diktat zu akzeptieren, das darauf abzielte, auf diplomatischem Wege zu formalisieren,
+      was Washington und seinen Verbündeten durch Krieg nicht gelungen war. Gleichzeitig
+      zeigte Teherans eigene Vorbereitung, dass es bereit war, ernsthaft zu verhandeln.
+      Die Breite und das Gewicht seiner Delegation spiegelten einen Staat wider, der
+      bereit war, ein ernsthaftes Ergebnis anzustreben. Die Vereinigten Staaten schienen
+      jedoch von der Überzeugung auszugehen, dass ihnen die militärische Initiative
+      das Recht gab, die Bedingungen zu diktieren. Der Iran zieht aus dem Krieg die
+      gegenteilige Schlussfolgerung. Er argumentiert, dass er sein wesentliches Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Gespräche in Islamabad scheiterten aufgrund unvereinbarer
+      strategischer Visionen zwischen Washington, das politische Unterwerfung anstrebte,
+      und Teheran, das sich weigerte, durch Diplomatie die Ergebnisse eines gescheiterten
+      Krieges zu legitimieren.
+    paragraph_summary: 'Die Gespräche in Islamabad scheiterten nicht aufgrund diplomatischer
+      Missverständnisse, sondern aufgrund eines grundlegenden Konflikts zwischen zwei
+      unvereinbaren strategischen Visionen für den Nahen Osten. Während Washington versuchte,
+      militärischen Druck in politische Unterwerfung umzuwandeln und eine Hierarchie
+      zu etablieren, die durch den Krieg nicht legitimiert wurde, kam Teheran entschlossen,
+      sich nicht durch Diplomatie zu legitimieren. Trotz eines fragilen Waffenstillstands
+      und intensiver pakistanischer Vermittlung scheiterten die Verhandlungen nach 21
+      Stunden, da die USA überzogene Forderungen stellten, während der Iran auf einen
+      tragfähigen Rahmen für gegenseitige Deeskalation bestand. Die zentralen Streitpunkte,
+      wie das iranische Atomprogramm und die Kontrolle über die Straße von Hormus, spiegelten
+      einen größeren Machtkampf wider: Wer die Bedingungen für die zukünftige Ordnung
+      nach einem unentschiedenen Krieg festlegen darf. Die iranische Delegation, bestehend
+      aus rund 70 hochrangigen Vertretern, war gut vorbereitet und zeigte ernsthaftes
+      Interesse an substantiellen Verhandlungen.'
+    published: '2026-04-12T17:32:45+00:00'
+  - title: 'Gespräche zwischen den USA und dem Iran: Ein Zusammenprall zweier unvereinbarer
+      strategischer Ordnungsvisionen für den Nahen Osten'
+    url: https://ejmagnier.com/2026/04/12/gesprache-zwischen-den-usa-und-dem-iran-ein-zusammenprall-zweier-unvereinbarer-strategischer-ordnungsvisionen-fur-den-nahen-osten/
+    text: 'Von Elijah J. Magnier – Das Scheitern der Gespräche in Islamabad war kein
+      diplomatisches Missverständnis. Es war ein Zusammenprall zweier unvereinbarer
+      strategischer Ordnungsvisionen für den Nahen Osten. Washington war mit dem Ziel
+      angereist, den Druck auf dem Schlachtfeld in politische Unterwerfung umzuwandeln
+      und am Verhandlungstisch eine Hierarchie festzuschreiben, die der Krieg selbst
+      nicht hervorgebracht hatte. Teheran, das das Überleben unter Beschuss als Beweis
+      dafür gewertet hatte, dass Zwang gescheitert war, kam mit der Entschlossenheit
+      an, nicht durch Diplomatie zu legitimieren, was die Vereinigten Staaten und Israel
+      durch Krieg nicht durchsetzen konnten. Deshalb scheiterten die Verhandlungen nach
+      21 Stunden trotz eines fragilen Waffenstillstands und intensiver pakistanischer
+      Vermittlung. Vizepräsident J.D. Vance sagte, der Iran habe die amerikanischen
+      Bedingungen abgelehnt, während iranische Beamte erklärten, die Vereinigten Staaten
+      seien mit überzogenen Forderungen statt mit einem tragfähigen Rahmen für eine
+      gegenseitige Deeskalation angetreten. Die Kernstreitpunkte waren nicht verfahrenstechnischer
+      Natur. Sie drehten sich um das iranische Atomprogramm, die Straße von Hormus und
+      den regionalen Schauplatz, insbesondere den Libanon. Doch handelte es sich hierbei
+      nicht um drei isolierte Meinungsverschiedenheiten. Es waren drei Ausdrucksformen
+      eines größeren Kampfes: Wer darf die Bedingungen der Ordnung festlegen nach einem
+      Krieg, den keine Seite endgültig gewinnen konnte. Die iranische Delegation ließ
+      kaum Zweifel an Teherans Absichten. Rund 70 Vertreter aus Regierung, Parlament,
+      Zentralbank und den nationalen Sicherheitsbehörden waren auf ernsthafte, detaillierte
+      und folgenreiche Verhandlungen vorbereitet. Dies war keine Delegation, die nur
+      zum Schein, zur Verzögerungstaktik oder für diplomatische Inszenierungen zusammengestellt
+      worden war. Sie war so aufgestellt, dass sie das gesamte Spektrum strategischer,
+      politischer und wirtschaftlicher Fragen abdecken konnte. Doch die Gespräche gerieten
+      auf höchster Ebene ins Stocken, da der Streit von Anfang an die Kernfragen betraf
+      und Fortschritte blockierte, noch bevor die Parteien überhaupt damit beginnen
+      konnten, die technischen Details zu erörtern.Der Iran weigerte sich, ein amerikanisches
+      Diktat zu akzeptieren, das darauf abzielte, auf diplomatischem Wege zu formalisieren,
+      was Washington und seinen Verbündeten durch Krieg nicht gelungen war. Gleichzeitig
+      zeigte Teherans eigene Vorbereitung, dass es bereit war, ernsthaft zu verhandeln.
+      Die Breite und das Gewicht seiner Delegation spiegelten einen Staat wider, der
+      bereit war, ein ernsthaftes Ergebnis anzustreben. Die Vereinigten Staaten schienen
+      jedoch von der Überzeugung auszugehen, dass ihnen die militärische Initiative
+      das Recht gab, die Bedingungen zu diktieren. Der Iran zieht aus dem Krieg die
+      gegenteilige Schlussfolgerung. Er argumentiert, dass er sein wesentliches Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Die Gespräche in Islamabad scheiterten aufgrund unvereinbarer
+      strategischer Visionen zwischen Washington, das politische Unterwerfung anstrebte,
+      und Teheran, das sich weigerte, durch Diplomatie die Ergebnisse eines gescheiterten
+      Krieges zu legitimieren.
+    paragraph_summary: 'Die Gespräche in Islamabad scheiterten nicht aufgrund diplomatischer
+      Missverständnisse, sondern aufgrund eines grundlegenden Konflikts zwischen zwei
+      unvereinbaren strategischen Visionen für den Nahen Osten. Während Washington versuchte,
+      militärischen Druck in politische Unterwerfung umzuwandeln und eine Hierarchie
+      zu etablieren, die durch den Krieg nicht legitimiert wurde, kam Teheran entschlossen,
+      sich nicht durch Diplomatie zu legitimieren. Trotz eines fragilen Waffenstillstands
+      und intensiver pakistanischer Vermittlung scheiterten die Verhandlungen nach 21
+      Stunden, da die USA überzogene Forderungen stellten, während der Iran auf einen
+      tragfähigen Rahmen für gegenseitige Deeskalation bestand. Die zentralen Streitpunkte,
+      wie das iranische Atomprogramm und die Kontrolle über die Straße von Hormus, spiegelten
+      einen größeren Machtkampf wider: Wer die Bedingungen für die zukünftige Ordnung
+      nach einem unentschiedenen Krieg festlegen darf. Die iranische Delegation, bestehend
+      aus rund 70 hochrangigen Vertretern, war gut vorbereitet und zeigte ernsthaftes
+      Interesse an substantiellen Verhandlungen.'
+    published: '2026-04-12T17:32:45+00:00'
+  - title: 'Discussions américano-iraniennes : un affrontement entre deux visions stratégiques
+      incompatibles de l’ordre au Moyen-Orient'
+    url: https://ejmagnier.com/2026/04/12/discussions-americano-iraniennes-un-affrontement-entre-deux-visions-strategiques-incompatibles-de-lordre-au-moyen-orient/
+    text: 'Par Elijah J. Magnier – L’échec des discussions d’Islamabad n’était pas un
+      simple malentendu diplomatique. Il s’agissait d’un affrontement entre deux visions
+      stratégiques incompatibles de l’ordre au Moyen-Orient. Washington est arrivé en
+      cherchant à transformer la pression du champ de bataille en soumission politique
+      et à entériner à la table des négociations une hiérarchie que la guerre elle-même
+      n’avait pas réussi à produire. Téhéran, ayant considéré sa survie sous les frappes
+      comme la preuve que la coercition avait échoué, est arrivé déterminé à ne pas
+      légitimer par la diplomatie ce que les États-Unis et Israël n’avaient pas réussi
+      à imposer par la guerre. C’est pourquoi les négociations se sont effondrées après
+      21 heures malgré un cessez-le-feu fragile et une médiation pakistanaise intense.
+      Le vice-président J.D. Vance a affirmé que l’Iran avait refusé les conditions
+      américaines, tandis que les responsables iraniens ont soutenu que les États-Unis
+      étaient venus avec des exigences excessives plutôt qu’avec un cadre praticable
+      de désescalade réciproque. Les principaux différends n’étaient pas d’ordre procédural.
+      Ils portaient sur le programme nucléaire iranien, le détroit d’Hormuz et le théâtre
+      régional, en particulier le Liban. Pourtant, il ne s’agissait pas de trois désaccords
+      isolés. C’étaient trois expressions d’une lutte plus vaste : qui fixe les termes
+      de l’ordre après une guerre qu’aucune des deux parties n’a pu remporter de manière
+      décisive. La composition de la délégation iranienne ne laissait guère de place
+      au doute quant aux intentions de Téhéran. Environ 70 responsables issus du gouvernement,
+      du Parlement, de la banque centrale et de l’appareil de sécurité nationale sont
+      arrivés préparés à des négociations sérieuses, détaillées et lourdes de conséquences.
+      Il ne s’agissait pas d’une délégation constituée pour les apparences, les manœuvres
+      dilatoires ou la mise en scène diplomatique. Elle était structurée pour traiter
+      l’ensemble du spectre des questions stratégiques, politiques et économiques. Mais
+      les discussions ont buté au plus haut niveau parce que le désaccord a frappé d’emblée
+      les questions centrales, bloquant toute progression avant même que les parties
+      puissent commencer à travailler sur les détails techniques. L’Iran a refusé d’accepter
+      un diktat américain conçu pour formaliser, par la diplomatie, ce que Washington
+      et ses alliés n’avaient pas réussi à imposer par la guerre. Dans le même temps,
+      la propre préparation de Téhéran montrait qu’il était venu pour négocier sérieusement.
+      L’ampleur, le niveau et la diversité de sa délégation reflétaient un État prêt
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Les discussions à Islamabad ont échoué en raison d'un affrontement
+      entre les visions stratégiques incompatibles des États-Unis, qui cherchaient à
+      imposer une hiérarchie politique, et de l'Iran, déterminé à ne pas légitimer par
+      la diplomatie les échecs militaires américains et israéliens.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'échec des négociations
+      à Islamabad entre les États-Unis et l'Iran, soulignant qu'il ne s'agissait pas
+      d'un simple malentendu, mais d'un affrontement entre deux visions stratégiques
+      opposées pour l'ordre au Moyen-Orient. Les États-Unis cherchaient à imposer une
+      hiérarchie politique résultant de la guerre, tandis que l'Iran, ayant survécu
+      aux frappes, refusait de légitimer par la diplomatie ce que la force militaire
+      n'avait pas pu réaliser. Les discussions ont échoué malgré un cessez-le-feu fragile,
+      les deux parties ayant des exigences irréconciliables concernant des questions
+      cruciales comme le programme nucléaire iranien et la situation au Liban. La délégation
+      iranienne, composée de 70 responsables de divers secteurs, était bien préparée
+      pour des négociations sérieuses, indiquant la détermination de Téhéran à aborder
+      les enjeux de manière exhaustive et significative.
+    published: '2026-04-12T11:44:33+00:00'
+  - title: 'Discussions américano-iraniennes : un affrontement entre deux visions stratégiques
+      incompatibles de l’ordre au Moyen-Orient'
+    url: https://ejmagnier.com/2026/04/12/discussions-americano-iraniennes-un-affrontement-entre-deux-visions-strategiques-incompatibles-de-lordre-au-moyen-orient/
+    text: 'Par Elijah J. Magnier – L’échec des discussions d’Islamabad n’était pas un
+      simple malentendu diplomatique. Il s’agissait d’un affrontement entre deux visions
+      stratégiques incompatibles de l’ordre au Moyen-Orient. Washington est arrivé en
+      cherchant à transformer la pression du champ de bataille en soumission politique
+      et à entériner à la table des négociations une hiérarchie que la guerre elle-même
+      n’avait pas réussi à produire. Téhéran, ayant considéré sa survie sous les frappes
+      comme la preuve que la coercition avait échoué, est arrivé déterminé à ne pas
+      légitimer par la diplomatie ce que les États-Unis et Israël n’avaient pas réussi
+      à imposer par la guerre. C’est pourquoi les négociations se sont effondrées après
+      21 heures malgré un cessez-le-feu fragile et une médiation pakistanaise intense.
+      Le vice-président J.D. Vance a affirmé que l’Iran avait refusé les conditions
+      américaines, tandis que les responsables iraniens ont soutenu que les États-Unis
+      étaient venus avec des exigences excessives plutôt qu’avec un cadre praticable
+      de désescalade réciproque. Les principaux différends n’étaient pas d’ordre procédural.
+      Ils portaient sur le programme nucléaire iranien, le détroit d’Hormuz et le théâtre
+      régional, en particulier le Liban. Pourtant, il ne s’agissait pas de trois désaccords
+      isolés. C’étaient trois expressions d’une lutte plus vaste : qui fixe les termes
+      de l’ordre après une guerre qu’aucune des deux parties n’a pu remporter de manière
+      décisive. La composition de la délégation iranienne ne laissait guère de place
+      au doute quant aux intentions de Téhéran. Environ 70 responsables issus du gouvernement,
+      du Parlement, de la banque centrale et de l’appareil de sécurité nationale sont
+      arrivés préparés à des négociations sérieuses, détaillées et lourdes de conséquences.
+      Il ne s’agissait pas d’une délégation constituée pour les apparences, les manœuvres
+      dilatoires ou la mise en scène diplomatique. Elle était structurée pour traiter
+      l’ensemble du spectre des questions stratégiques, politiques et économiques. Mais
+      les discussions ont buté au plus haut niveau parce que le désaccord a frappé d’emblée
+      les questions centrales, bloquant toute progression avant même que les parties
+      puissent commencer à travailler sur les détails techniques. L’Iran a refusé d’accepter
+      un diktat américain conçu pour formaliser, par la diplomatie, ce que Washington
+      et ses alliés n’avaient pas réussi à imposer par la guerre. Dans le même temps,
+      la propre préparation de Téhéran montrait qu’il était venu pour négocier sérieusement.
+      L’ampleur, le niveau et la diversité de sa délégation reflétaient un État prêt
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly'
+    one_sentence_summary: Les discussions à Islamabad ont échoué en raison d'un affrontement
+      entre les visions stratégiques incompatibles des États-Unis, qui cherchaient à
+      imposer une hiérarchie politique, et de l'Iran, déterminé à ne pas légitimer par
+      la diplomatie les échecs militaires américains et israéliens.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse l'échec des négociations
+      à Islamabad entre les États-Unis et l'Iran, soulignant qu'il ne s'agissait pas
+      d'un simple malentendu, mais d'un affrontement entre deux visions stratégiques
+      opposées pour l'ordre au Moyen-Orient. Les États-Unis cherchaient à imposer une
+      hiérarchie politique résultant de la guerre, tandis que l'Iran, ayant survécu
+      aux frappes, refusait de légitimer par la diplomatie ce que la force militaire
+      n'avait pas pu réaliser. Les discussions ont échoué malgré un cessez-le-feu fragile,
+      les deux parties ayant des exigences irréconciliables concernant des questions
+      cruciales comme le programme nucléaire iranien et la situation au Liban. La délégation
+      iranienne, composée de 70 responsables de divers secteurs, était bien préparée
+      pour des négociations sérieuses, indiquant la détermination de Téhéran à aborder
+      les enjeux de manière exhaustive et significative.
+    published: '2026-04-12T11:44:33+00:00'
+  - title: 'US-Iran talks: A clash between two incompatible strategic visions of order
+      in the Middle East'
+    url: https://ejmagnier.com/2026/04/12/us-iran-talks-a-clash-between-two-incompatible-strategic-visions-of-order-in-the-middle-east/
+    text: 'By Elijah J. Magnier – The failure of the Islamabad talks was not a diplomatic
+      misunderstanding. It was a clash between two incompatible strategic visions of
+      order in the Middle East. Washington arrived seeking to convert battlefield pressure
+      into political submission and to lock in at the negotiating table a hierarchy
+      the war itself had failed to produce. Tehran, having treated survival under attack
+      as proof that coercion had failed, arrived determined not to legitimise through
+      diplomacy what the United States and Israel had failed to impose through war.
+      That is why the negotiations collapsed after 21 hours despite a fragile ceasefire
+      and intense Pakistani mediation. Vice President J.D. Vance said Iran had refused
+      American terms, while Iranian officials said the United States had come with excessive
+      demands rather than a workable framework for reciprocal de-escalation. The core
+      disputes were not procedural. They centred on Iran’s nuclear programme, the Strait
+      of Hormuz, and the regional theatre, especially Lebanon. Yet these were not three
+      isolated disagreements. They were three expressions of one larger struggle: who
+      gets to set the terms of order after a war neither side has been able to conclusively
+      win. The Iranian delegation left little doubt about Tehran’s intent. Around 70
+      officials drawn from the government, parliament, the central bank and the national
+      security establishment arrived prepared for serious, detailed and consequential
+      negotiations. This was not a delegation assembled for appearances, stalling tactics
+      or diplomatic performance. It was structured to engage across the full spectrum
+      of strategic, political and economic issues. But the talks stalled at the highest
+      level because the dispute struck at the core issues from the outset, blocking
+      progress before the parties could even begin working through the technical details.Iran
+      refused to accept an American diktat designed to formalise, through diplomacy,
+      what Washington and its allies had failed to impose through war. At the same time,
+      Tehran’s own Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The collapse of the Islamabad talks stemmed from fundamentally
+      opposing strategic visions between the U.S., which sought to leverage military
+      pressure for political submission, and Iran, which refused to legitimize U.S.
+      and Israeli failures through diplomacy, leading to irreconcilable differences
+      over key regional issues.
+    paragraph_summary: The recent talks in Islamabad between the U.S. and Iran ended
+      in failure, highlighting a fundamental clash of strategic visions for order in
+      the Middle East rather than mere diplomatic misunderstandings. The U.S. aimed
+      to leverage battlefield pressure for political submission and establish a hierarchy
+      that the war had not achieved, while Iran, having survived attacks, refused to
+      legitimize through diplomacy what the U.S. and Israel could not impose through
+      military means. The negotiations collapsed after 21 hours, despite a fragile ceasefire,
+      due to Iran's rejection of what it deemed excessive American demands and the core
+      disputes surrounding Iran's nuclear program, the Strait of Hormuz, and regional
+      dynamics, particularly in Lebanon. The Iranian delegation, comprising around 70
+      officials from various sectors, was prepared for serious negotiations but found
+      progress blocked by fundamental disagreements from the outset, reflecting a broader
+      struggle over who will dictate the post-war order.
+    published: '2026-04-12T11:39:02+00:00'
+  - title: 'US-Iran talks: A clash between two incompatible strategic visions of order
+      in the Middle East'
+    url: https://ejmagnier.com/2026/04/12/us-iran-talks-a-clash-between-two-incompatible-strategic-visions-of-order-in-the-middle-east/
+    text: 'By Elijah J. Magnier – The failure of the Islamabad talks was not a diplomatic
+      misunderstanding. It was a clash between two incompatible strategic visions of
+      order in the Middle East. Washington arrived seeking to convert battlefield pressure
+      into political submission and to lock in at the negotiating table a hierarchy
+      the war itself had failed to produce. Tehran, having treated survival under attack
+      as proof that coercion had failed, arrived determined not to legitimise through
+      diplomacy what the United States and Israel had failed to impose through war.
+      That is why the negotiations collapsed after 21 hours despite a fragile ceasefire
+      and intense Pakistani mediation. Vice President J.D. Vance said Iran had refused
+      American terms, while Iranian officials said the United States had come with excessive
+      demands rather than a workable framework for reciprocal de-escalation. The core
+      disputes were not procedural. They centred on Iran’s nuclear programme, the Strait
+      of Hormuz, and the regional theatre, especially Lebanon. Yet these were not three
+      isolated disagreements. They were three expressions of one larger struggle: who
+      gets to set the terms of order after a war neither side has been able to conclusively
+      win. The Iranian delegation left little doubt about Tehran’s intent. Around 70
+      officials drawn from the government, parliament, the central bank and the national
+      security establishment arrived prepared for serious, detailed and consequential
+      negotiations. This was not a delegation assembled for appearances, stalling tactics
+      or diplomatic performance. It was structured to engage across the full spectrum
+      of strategic, political and economic issues. But the talks stalled at the highest
+      level because the dispute struck at the core issues from the outset, blocking
+      progress before the parties could even begin working through the technical details.Iran
+      refused to accept an American diktat designed to formalise, through diplomacy,
+      what Washington and its allies had failed to impose through war. At the same time,
+      Tehran’s own Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The collapse of the Islamabad talks stemmed from fundamentally
+      opposing strategic visions between the U.S., which sought to leverage military
+      pressure for political submission, and Iran, which refused to legitimize U.S.
+      and Israeli failures through diplomacy, leading to irreconcilable differences
+      over key regional issues.
+    paragraph_summary: The recent talks in Islamabad between the U.S. and Iran ended
+      in failure, highlighting a fundamental clash of strategic visions for order in
+      the Middle East rather than mere diplomatic misunderstandings. The U.S. aimed
+      to leverage battlefield pressure for political submission and establish a hierarchy
+      that the war had not achieved, while Iran, having survived attacks, refused to
+      legitimize through diplomacy what the U.S. and Israel could not impose through
+      military means. The negotiations collapsed after 21 hours, despite a fragile ceasefire,
+      due to Iran's rejection of what it deemed excessive American demands and the core
+      disputes surrounding Iran's nuclear program, the Strait of Hormuz, and regional
+      dynamics, particularly in Lebanon. The Iranian delegation, comprising around 70
+      officials from various sectors, was prepared for serious negotiations but found
+      progress blocked by fundamental disagreements from the outset, reflecting a broader
+      struggle over who will dictate the post-war order.
+    published: '2026-04-12T11:39:02+00:00'
+  - title: Der Iran hat die Hisbollah nicht im Stich gelassen. Er schmiedet eine noch
+      einheitlichere Achse des Widerstands.
+    url: https://ejmagnier.com/2026/04/10/der-iran-hat-die-hisbollah-nicht-im-stich-gelassen-er-schmiedet-eine-noch-einheitlichere-achse-des-widerstands/
+    text: Von Elijah J. Magnier – Als der iranische Parlamentspräsident Mohammad Qalibaf
+      erklärte, Teheran werde nicht in Waffenstillstandsverhandlungen mit den USA in
+      Pakistan eintreten, solange Israels Krieg gegen den Libanon nicht beendet sei
+      und Irans eingefrorene Milliarden nicht freigegeben würden, machte er deutlich,
+      dass Teheran genau weiß, wer das Messer in der Hand hält und auf wessen Seite
+      es eingesetzt wird. Die iranische Führung hat seit langem verstanden, dass sie
+      keine Atombombe braucht. Ihre wirkliche strategische Waffe ist die Straße von
+      Hormus. Diese enge Passage bietet Teheran eine weitaus unmittelbarere und operativ
+      nutzbarere Form der Abschreckung als jede nukleare Waffe. Sie kann Einnahmen erzeugen,
+      die Sanktionsarchitektur schwächen, den globalen Schiffsverkehr unter Druck setzen
+      und zur Verteidigung der Verbündeten Irans eingesetzt werden, vor allem der Hisbollah
+      im Libanon. In vielen politischen und medialen Kreisen wird die Frage gestellt,
+      ob der Iran die Hisbollah im Stich gelassen hat. Das ist die falsche Frage. Sie
+      geht davon aus, dass die Beziehung zwischen Teheran und der Hisbollah entbehrlich,
+      taktischer Natur oder auf eine einfache Kalkulation unmittelbarer militärischer
+      Vorteile reduzierbar ist. Nichts davon trifft zu. Die Verbindung zwischen dem
+      Iran und der Hisbollah ist organisch, strategisch, ideologisch und institutionell.
+      Sie wurde über Jahrzehnte hinweg durch Krieg, Abschreckung, gemeinsame Opfer,
+      operative Integration und eine gemeinsame regionale Vision aufgebaut. Was sich
+      derzeit abspielt, ist kein Verzicht. Es ist der Beginn einer strategischen Anpassung.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Der iranische Parlamentspräsident Mohammad Qalibaf betont,
+      dass Teheran keine Verhandlungen mit den USA führen wird, solange der Krieg Israels
+      gegen den Libanon andauert und iranische Gelder eingefroren sind, und hebt hervor,
+      dass die Kontrolle über die Straße von Hormus für Iran eine strategischere Waffe
+      darstellt als Atomwaffen.
+    paragraph_summary: In a recent statement, Iranian Parliament Speaker Mohammad Qalibaf
+      emphasized that Tehran will not engage in ceasefire negotiations with the U.S.
+      in Pakistan until Israel's war against Lebanon concludes and Iran's frozen assets
+      are released, highlighting Iran's awareness of its strategic leverage. The Iranian
+      leadership believes it does not need a nuclear bomb, as control over the Strait
+      of Hormuz serves as a more immediate and effective deterrent, capable of generating
+      revenue, undermining sanctions, and pressuring global shipping. The article challenges
+      the notion that Iran might abandon its ally, Hezbollah, arguing instead that the
+      relationship is deeply rooted in a long-term, strategic, and ideological partnership
+      forged through shared struggles and a common vision, suggesting that current developments
+      reflect a strategic adjustment rather than a withdrawal.
+    published: '2026-04-10T17:32:17+00:00'
+  - title: Der Iran hat die Hisbollah nicht im Stich gelassen. Er schmiedet eine noch
+      einheitlichere Achse des Widerstands.
+    url: https://ejmagnier.com/2026/04/10/der-iran-hat-die-hisbollah-nicht-im-stich-gelassen-er-schmiedet-eine-noch-einheitlichere-achse-des-widerstands/
+    text: Von Elijah J. Magnier – Als der iranische Parlamentspräsident Mohammad Qalibaf
+      erklärte, Teheran werde nicht in Waffenstillstandsverhandlungen mit den USA in
+      Pakistan eintreten, solange Israels Krieg gegen den Libanon nicht beendet sei
+      und Irans eingefrorene Milliarden nicht freigegeben würden, machte er deutlich,
+      dass Teheran genau weiß, wer das Messer in der Hand hält und auf wessen Seite
+      es eingesetzt wird. Die iranische Führung hat seit langem verstanden, dass sie
+      keine Atombombe braucht. Ihre wirkliche strategische Waffe ist die Straße von
+      Hormus. Diese enge Passage bietet Teheran eine weitaus unmittelbarere und operativ
+      nutzbarere Form der Abschreckung als jede nukleare Waffe. Sie kann Einnahmen erzeugen,
+      die Sanktionsarchitektur schwächen, den globalen Schiffsverkehr unter Druck setzen
+      und zur Verteidigung der Verbündeten Irans eingesetzt werden, vor allem der Hisbollah
+      im Libanon. In vielen politischen und medialen Kreisen wird die Frage gestellt,
+      ob der Iran die Hisbollah im Stich gelassen hat. Das ist die falsche Frage. Sie
+      geht davon aus, dass die Beziehung zwischen Teheran und der Hisbollah entbehrlich,
+      taktischer Natur oder auf eine einfache Kalkulation unmittelbarer militärischer
+      Vorteile reduzierbar ist. Nichts davon trifft zu. Die Verbindung zwischen dem
+      Iran und der Hisbollah ist organisch, strategisch, ideologisch und institutionell.
+      Sie wurde über Jahrzehnte hinweg durch Krieg, Abschreckung, gemeinsame Opfer,
+      operative Integration und eine gemeinsame regionale Vision aufgebaut. Was sich
+      derzeit abspielt, ist kein Verzicht. Es ist der Beginn einer strategischen Anpassung.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly
+    one_sentence_summary: Der iranische Parlamentspräsident Mohammad Qalibaf betont,
+      dass Teheran keine Verhandlungen mit den USA führen wird, solange der Krieg Israels
+      gegen den Libanon andauert und iranische Gelder eingefroren sind, und hebt hervor,
+      dass die Kontrolle über die Straße von Hormus für Iran eine strategischere Waffe
+      darstellt als Atomwaffen.
+    paragraph_summary: In a recent statement, Iranian Parliament Speaker Mohammad Qalibaf
+      emphasized that Tehran will not engage in ceasefire negotiations with the U.S.
+      in Pakistan until Israel's war against Lebanon concludes and Iran's frozen assets
+      are released, highlighting Iran's awareness of its strategic leverage. The Iranian
+      leadership believes it does not need a nuclear bomb, as control over the Strait
+      of Hormuz serves as a more immediate and effective deterrent, capable of generating
+      revenue, undermining sanctions, and pressuring global shipping. The article challenges
+      the notion that Iran might abandon its ally, Hezbollah, arguing instead that the
+      relationship is deeply rooted in a long-term, strategic, and ideological partnership
+      forged through shared struggles and a common vision, suggesting that current developments
+      reflect a strategic adjustment rather than a withdrawal.
+    published: '2026-04-10T17:32:17+00:00'
+  - title: Iran Did Not Abandon Hezbollah. It Is Forging a More Unified Axis of Resistance.
+    url: https://ejmagnier.com/2026/04/10/iran-did-not-abandon-hezbollah-it-is-forging-a-more-unified-axis-of-resistance/
+    text: By Elijah J. Magnier – When Iran’s parliamentary speaker, Mohammad Qalibaf,
+      said Tehran would not enter ceasefire negotiations with the US in Pakistan unless
+      Israel’s war on Lebanon ended and Iran’s frozen billions were released, he was
+      making clear that Tehran knows who is holding the knife and on whose side it is
+      being used. Iran’s leadership has long understood that it does not need a nuclear
+      bomb. Its real strategic weapon is the Strait of Hormuz. That narrow passage offers
+      Tehran a far more immediate and operational form of deterrence than any nuclear
+      device. It can produce income, weaken the sanctions architecture, squeeze global
+      shipping, and be used in defence of Iran’s allies, above all, Hezbollah in Lebanon.
+      The question being asked in many political and media circles is whether Iran has
+      abandoned Hezbollah. That is the wrong question. It assumes that the relationship
+      between Tehran and Hezbollah is disposable, tactical, or reducible to a simple
+      calculation of immediate military gain. It is none of those things. The bond between
+      Iran and Hezbollah is organic, strategic, ideological, and institutional. It was
+      built over decades through war, deterrence, shared sacrifice, operational integration,
+      and a common regional vision. What is unfolding now is not abandonment. It is
+      the beginning of a strategic adaptation. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Iran's parliamentary speaker, Mohammad Qalibaf, emphasized
+      that Tehran will not negotiate a ceasefire with the US until Israel's aggression
+      against Lebanon ceases and its frozen assets are released, highlighting Iran's
+      strategic leverage through the Strait of Hormuz rather than a reliance on nuclear
+      weapons, while reaffirming the enduring relationship with Hezbollah.
+    paragraph_summary: In a recent statement, Iran's parliamentary speaker, Mohammad
+      Qalibaf, emphasized that Tehran will not engage in ceasefire negotiations with
+      the US until Israel's aggression in Lebanon ceases and Iran's frozen assets are
+      released, highlighting Iran's awareness of its geopolitical leverage. The article
+      argues that Iran's true strategic asset lies in its control over the Strait of
+      Hormuz, which serves as a critical deterrent and source of income, rather than
+      its nuclear capabilities. The relationship between Iran and Hezbollah is portrayed
+      as deep-rooted and multifaceted, built over decades of shared experiences and
+      aligned goals, suggesting that current developments do not indicate abandonment
+      but rather a strategic adaptation in their alliance.
+    published: '2026-04-10T17:22:39+00:00'
+  - title: Iran Did Not Abandon Hezbollah. It Is Forging a More Unified Axis of Resistance.
+    url: https://ejmagnier.com/2026/04/10/iran-did-not-abandon-hezbollah-it-is-forging-a-more-unified-axis-of-resistance/
+    text: By Elijah J. Magnier – When Iran’s parliamentary speaker, Mohammad Qalibaf,
+      said Tehran would not enter ceasefire negotiations with the US in Pakistan unless
+      Israel’s war on Lebanon ended and Iran’s frozen billions were released, he was
+      making clear that Tehran knows who is holding the knife and on whose side it is
+      being used. Iran’s leadership has long understood that it does not need a nuclear
+      bomb. Its real strategic weapon is the Strait of Hormuz. That narrow passage offers
+      Tehran a far more immediate and operational form of deterrence than any nuclear
+      device. It can produce income, weaken the sanctions architecture, squeeze global
+      shipping, and be used in defence of Iran’s allies, above all, Hezbollah in Lebanon.
+      The question being asked in many political and media circles is whether Iran has
+      abandoned Hezbollah. That is the wrong question. It assumes that the relationship
+      between Tehran and Hezbollah is disposable, tactical, or reducible to a simple
+      calculation of immediate military gain. It is none of those things. The bond between
+      Iran and Hezbollah is organic, strategic, ideological, and institutional. It was
+      built over decades through war, deterrence, shared sacrifice, operational integration,
+      and a common regional vision. What is unfolding now is not abandonment. It is
+      the beginning of a strategic adaptation. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly
+    one_sentence_summary: Iran's parliamentary speaker, Mohammad Qalibaf, emphasized
+      that Tehran will not negotiate a ceasefire with the US until Israel's aggression
+      against Lebanon ceases and its frozen assets are released, highlighting Iran's
+      strategic leverage through the Strait of Hormuz rather than a reliance on nuclear
+      weapons, while reaffirming the enduring relationship with Hezbollah.
+    paragraph_summary: In a recent statement, Iran's parliamentary speaker, Mohammad
+      Qalibaf, emphasized that Tehran will not engage in ceasefire negotiations with
+      the US until Israel's aggression in Lebanon ceases and Iran's frozen assets are
+      released, highlighting Iran's awareness of its geopolitical leverage. The article
+      argues that Iran's true strategic asset lies in its control over the Strait of
+      Hormuz, which serves as a critical deterrent and source of income, rather than
+      its nuclear capabilities. The relationship between Iran and Hezbollah is portrayed
+      as deep-rooted and multifaceted, built over decades of shared experiences and
+      aligned goals, suggesting that current developments do not indicate abandonment
+      but rather a strategic adaptation in their alliance.
+    published: '2026-04-10T17:22:39+00:00'
+  - title: L’Iran n’a pas abandonné le Hezbollah. Il est en train de forger un axe de
+      la Résistance plus unifié.
+    url: https://ejmagnier.com/2026/04/10/liran-na-pas-abandonne-le-hezbollah-il-est-en-train-de-forger-un-axe-de-la-resistance-plus-unifie/
+    text: Par Elijah J. Magnier – Lorsque le président du Parlement iranien, Mohammad
+      Qalibaf, a déclaré que Téhéran n’entrerait pas dans des négociations de cessez-le-feu
+      avec les États-Unis au Pakistan tant que la guerre israélienne contre le Liban
+      ne cesserait pas et que les milliards iraniens gelés ne seraient pas débloqués,
+      il signifiait clairement que Téhéran sait qui tient le couteau et de quel côté
+      il est utilisé. Les dirigeants iraniens ont compris depuis longtemps qu’ils n’avaient
+      pas besoin d’une bombe nucléaire. Leur véritable arme stratégique est le détroit
+      d’Hormuz. Ce passage étroit offre à Téhéran une forme de dissuasion bien plus
+      immédiate et opérationnelle qu’un quelconque engin nucléaire. Il peut générer
+      des revenus, affaiblir l’architecture des sanctions, comprimer le trafic maritime
+      mondial et être utilisé pour défendre les alliés de l’Iran, avant tout le Hezbollah
+      libanais. La question posée dans de nombreux milieux politiques et médiatiques
+      est de savoir si l’Iran a abandonné le Hezbollah. C’est la mauvaise question.
+      Elle repose sur l’idée que la relation entre Téhéran et le Hezbollah serait jetable,
+      tactique, ou réductible à un simple calcul de gain militaire immédiat. Il n’en
+      est rien. Le lien entre l’Iran et le Hezbollah est organique, stratégique, idéologique
+      et institutionnel. Il s’est construit sur des décennies de guerre, de dissuasion,
+      de sacrifices partagés, d’intégration opérationnelle et d’une vision régionale
+      commune. Ce qui se déroule aujourd’hui n’est pas un abandon. C’est le début d’une
+      adaptation stratégique. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le président du Parlement iranien, Mohammad Qalibaf, a affirmé
+      que Téhéran ne négocierait pas de cessez-le-feu avec les États-Unis tant que la
+      guerre israélienne contre le Liban se poursuivrait et que les fonds iraniens gelés
+      ne seraient pas libérés, soulignant ainsi l'importance stratégique du détroit
+      d'Hormuz pour l'Iran, qui dépasse celle d'une arme nucléaire.
+    paragraph_summary: Dans un contexte de tensions géopolitiques, le président du Parlement
+      iranien, Mohammad Qalibaf, a affirmé que Téhéran ne négocierait pas de cessez-le-feu
+      avec les États-Unis tant que la guerre israélienne contre le Liban perdurerait
+      et que les fonds iraniens gelés ne seraient pas libérés. Cette déclaration souligne
+      la compréhension par l'Iran de son pouvoir stratégique, qui réside non pas dans
+      l'acquisition d'une arme nucléaire, mais dans le contrôle du détroit d'Hormuz,
+      un point névralgique pour le commerce maritime mondial et la défense de ses alliés,
+      notamment le Hezbollah. Contrairement à l'idée d'un abandon du Hezbollah, l'article
+      soutient que la relation entre l'Iran et le groupe libanais est profondément enracinée
+      et évolue vers une adaptation stratégique, fondée sur des décennies de coopération
+      et d'objectifs communs.
+    published: '2026-04-10T17:18:38+00:00'
+  - title: L’Iran n’a pas abandonné le Hezbollah. Il est en train de forger un axe de
+      la Résistance plus unifié.
+    url: https://ejmagnier.com/2026/04/10/liran-na-pas-abandonne-le-hezbollah-il-est-en-train-de-forger-un-axe-de-la-resistance-plus-unifie/
+    text: Par Elijah J. Magnier – Lorsque le président du Parlement iranien, Mohammad
+      Qalibaf, a déclaré que Téhéran n’entrerait pas dans des négociations de cessez-le-feu
+      avec les États-Unis au Pakistan tant que la guerre israélienne contre le Liban
+      ne cesserait pas et que les milliards iraniens gelés ne seraient pas débloqués,
+      il signifiait clairement que Téhéran sait qui tient le couteau et de quel côté
+      il est utilisé. Les dirigeants iraniens ont compris depuis longtemps qu’ils n’avaient
+      pas besoin d’une bombe nucléaire. Leur véritable arme stratégique est le détroit
+      d’Hormuz. Ce passage étroit offre à Téhéran une forme de dissuasion bien plus
+      immédiate et opérationnelle qu’un quelconque engin nucléaire. Il peut générer
+      des revenus, affaiblir l’architecture des sanctions, comprimer le trafic maritime
+      mondial et être utilisé pour défendre les alliés de l’Iran, avant tout le Hezbollah
+      libanais. La question posée dans de nombreux milieux politiques et médiatiques
+      est de savoir si l’Iran a abandonné le Hezbollah. C’est la mauvaise question.
+      Elle repose sur l’idée que la relation entre Téhéran et le Hezbollah serait jetable,
+      tactique, ou réductible à un simple calcul de gain militaire immédiat. Il n’en
+      est rien. Le lien entre l’Iran et le Hezbollah est organique, stratégique, idéologique
+      et institutionnel. Il s’est construit sur des décennies de guerre, de dissuasion,
+      de sacrifices partagés, d’intégration opérationnelle et d’une vision régionale
+      commune. Ce qui se déroule aujourd’hui n’est pas un abandon. C’est le début d’une
+      adaptation stratégique. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Le président du Parlement iranien, Mohammad Qalibaf, a affirmé
+      que Téhéran ne négocierait pas de cessez-le-feu avec les États-Unis tant que la
+      guerre israélienne contre le Liban se poursuivrait et que les fonds iraniens gelés
+      ne seraient pas libérés, soulignant ainsi l'importance stratégique du détroit
+      d'Hormuz pour l'Iran, qui dépasse celle d'une arme nucléaire.
+    paragraph_summary: Dans un contexte de tensions géopolitiques, le président du Parlement
+      iranien, Mohammad Qalibaf, a affirmé que Téhéran ne négocierait pas de cessez-le-feu
+      avec les États-Unis tant que la guerre israélienne contre le Liban perdurerait
+      et que les fonds iraniens gelés ne seraient pas libérés. Cette déclaration souligne
+      la compréhension par l'Iran de son pouvoir stratégique, qui réside non pas dans
+      l'acquisition d'une arme nucléaire, mais dans le contrôle du détroit d'Hormuz,
+      un point névralgique pour le commerce maritime mondial et la défense de ses alliés,
+      notamment le Hezbollah. Contrairement à l'idée d'un abandon du Hezbollah, l'article
+      soutient que la relation entre l'Iran et le groupe libanais est profondément enracinée
+      et évolue vers une adaptation stratégique, fondée sur des décennies de coopération
+      et d'objectifs communs.
+    published: '2026-04-10T17:18:38+00:00'
+  - title: 'Die Kehrtwende im Libanon: Wie Netanjahu Trump dazu drängte, den Waffenstillstand
+      einzuschränken, nachdem dieser bereits verkündet worden war'
+    url: https://ejmagnier.com/2026/04/10/die-kehrtwende-im-libanon-wie-netanjahu-trump-dazu-drangte-den-waffenstillstand-einzuschranken-nachdem-dieser-bereits-verkundet-worden-war/
+    text: Von Elijah J. Magnier Die Vereinigten Staaten traten ohne Legitimität, aber
+      mit überwältigender militärischer Macht in die Konfrontation ein, um am Ende ohne
+      einen klaren politischen Gewinn davonzukommen. In den hektischen Stunden vor Ablauf
+      der von Präsident Donald Trump selbst gesetzten Frist für den Iran Anfang April
+      2026 verlief die Diplomatie über Hintertürchen, Vermittler und öffentliche Botschaften,
+      die darauf abzielten, Raum für einen Rückzieher zu schaffen. Pakistan wurde zum
+      wichtigsten Vermittler. Der Aufruf von Premierminister Shehbaz Sharif in den sozialen
+      Medien war keine eigenmächtige Improvisation. Das Weiße Haus hatte den Wortlaut
+      gesehen und genehmigt, bevor er veröffentlicht wurde. Das ist von Bedeutung, denn
+      es bedeutet, dass der weit gefasste Wortlaut des Waffenstillstands in Washington
+      bekannt war, bevor er veröffentlicht wurde. Dieser ursprüngliche Wortlaut war
+      weit gefasst. Sharif stellte den Waffenstillstand öffentlich als sofort und regional
+      dar, der für alle Fronten, einschließlich des Libanon, gelten sollte. Der Iran
+      akzeptierte das Rahmenabkommen unter dieser Voraussetzung. Für Teheran handelte
+      es sich nicht um eine eng gefasste Pause, die auf direkte Auseinandersetzungen
+      zwischen den USA und dem Iran beschränkt war. Es handelte sich um eine umfassendere
+      Deeskalation, die darauf abzielte, eine weitere Ausbreitung des Krieges zu verhindern
+      und eine Grundlage für Gespräche in Islamabad zu schaffen. In dieser ursprünglichen
+      Form war der Libanon kein Nebenthema oder nachträglicher Einfall. Er war Teil
+      der Vereinbarung, wie sie öffentlich angekündigt wurde, und – was entscheidend
+      ist – Teil der Vereinbarung, wie sie von einer der zentralen Parteien verstanden
+      wurde, die gebeten worden war, sie zu akzeptieren. Das ist der entscheidende Punkt.
+      Der Libanon war tatsächlich in den Waffenstillstand einbezogen, wie er ursprünglich
+      über den vom Weißen Haus genehmigten Vermittlungskanal präsentiert wurde. Der
+      spätere Ausschluss entsprach nicht der ursprünglichen Formulierung. Es war eine
+      Kehrtwende. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Die USA traten militärisch ohne Legitimität in die Konfrontation
+      mit dem Iran ein, erzielten jedoch keinen klaren politischen Gewinn, während Pakistan
+      als wichtiger Vermittler agierte und ein genehmigter Waffenstillstand von Premierminister
+      Shehbaz Sharif öffentlich verkündet wurde.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die militärische
+      Intervention der Vereinigten Staaten im Iran als illegitim, aber mächtig beschrieben,
+      die letztlich ohne politischen Gewinn endete. In den letzten Stunden vor einer
+      von Präsident Donald Trump gesetzten Frist im April 2026 wurde Pakistan als Hauptvermittler
+      in diplomatischen Bemühungen eingesetzt, wobei Premierminister Shehbaz Sharif
+      einen von Washington genehmigten Waffenstillstandsvorschlag veröffentlichte, der
+      eine umfassende Deeskalation und die Einbeziehung des Libanon vorsah. Der Iran
+      akzeptierte diesen Rahmen, der eine breitere Lösung zur Verhinderung einer Eskalation
+      des Konflikts anstrebte. Der Artikel betont, dass der Libanon ursprünglich Teil
+      der Vereinbarung war, was durch die Genehmigung des Weißen Hauses unterstützt
+      wurde, und dass sein spätere Ausschluss nicht dem ursprünglichen Verständnis der
+      Vereinbarung entsprach.
+    published: '2026-04-10T03:52:49+00:00'
+  - title: 'Die Kehrtwende im Libanon: Wie Netanjahu Trump dazu drängte, den Waffenstillstand
+      einzuschränken, nachdem dieser bereits verkündet worden war'
+    url: https://ejmagnier.com/2026/04/10/die-kehrtwende-im-libanon-wie-netanjahu-trump-dazu-drangte-den-waffenstillstand-einzuschranken-nachdem-dieser-bereits-verkundet-worden-war/
+    text: Von Elijah J. Magnier Die Vereinigten Staaten traten ohne Legitimität, aber
+      mit überwältigender militärischer Macht in die Konfrontation ein, um am Ende ohne
+      einen klaren politischen Gewinn davonzukommen. In den hektischen Stunden vor Ablauf
+      der von Präsident Donald Trump selbst gesetzten Frist für den Iran Anfang April
+      2026 verlief die Diplomatie über Hintertürchen, Vermittler und öffentliche Botschaften,
+      die darauf abzielten, Raum für einen Rückzieher zu schaffen. Pakistan wurde zum
+      wichtigsten Vermittler. Der Aufruf von Premierminister Shehbaz Sharif in den sozialen
+      Medien war keine eigenmächtige Improvisation. Das Weiße Haus hatte den Wortlaut
+      gesehen und genehmigt, bevor er veröffentlicht wurde. Das ist von Bedeutung, denn
+      es bedeutet, dass der weit gefasste Wortlaut des Waffenstillstands in Washington
+      bekannt war, bevor er veröffentlicht wurde. Dieser ursprüngliche Wortlaut war
+      weit gefasst. Sharif stellte den Waffenstillstand öffentlich als sofort und regional
+      dar, der für alle Fronten, einschließlich des Libanon, gelten sollte. Der Iran
+      akzeptierte das Rahmenabkommen unter dieser Voraussetzung. Für Teheran handelte
+      es sich nicht um eine eng gefasste Pause, die auf direkte Auseinandersetzungen
+      zwischen den USA und dem Iran beschränkt war. Es handelte sich um eine umfassendere
+      Deeskalation, die darauf abzielte, eine weitere Ausbreitung des Krieges zu verhindern
+      und eine Grundlage für Gespräche in Islamabad zu schaffen. In dieser ursprünglichen
+      Form war der Libanon kein Nebenthema oder nachträglicher Einfall. Er war Teil
+      der Vereinbarung, wie sie öffentlich angekündigt wurde, und – was entscheidend
+      ist – Teil der Vereinbarung, wie sie von einer der zentralen Parteien verstanden
+      wurde, die gebeten worden war, sie zu akzeptieren. Das ist der entscheidende Punkt.
+      Der Libanon war tatsächlich in den Waffenstillstand einbezogen, wie er ursprünglich
+      über den vom Weißen Haus genehmigten Vermittlungskanal präsentiert wurde. Der
+      spätere Ausschluss entsprach nicht der ursprünglichen Formulierung. Es war eine
+      Kehrtwende. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Die USA traten militärisch ohne Legitimität in die Konfrontation
+      mit dem Iran ein, erzielten jedoch keinen klaren politischen Gewinn, während Pakistan
+      als wichtiger Vermittler agierte und ein genehmigter Waffenstillstand von Premierminister
+      Shehbaz Sharif öffentlich verkündet wurde.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die militärische
+      Intervention der Vereinigten Staaten im Iran als illegitim, aber mächtig beschrieben,
+      die letztlich ohne politischen Gewinn endete. In den letzten Stunden vor einer
+      von Präsident Donald Trump gesetzten Frist im April 2026 wurde Pakistan als Hauptvermittler
+      in diplomatischen Bemühungen eingesetzt, wobei Premierminister Shehbaz Sharif
+      einen von Washington genehmigten Waffenstillstandsvorschlag veröffentlichte, der
+      eine umfassende Deeskalation und die Einbeziehung des Libanon vorsah. Der Iran
+      akzeptierte diesen Rahmen, der eine breitere Lösung zur Verhinderung einer Eskalation
+      des Konflikts anstrebte. Der Artikel betont, dass der Libanon ursprünglich Teil
+      der Vereinbarung war, was durch die Genehmigung des Weißen Hauses unterstützt
+      wurde, und dass sein spätere Ausschluss nicht dem ursprünglichen Verständnis der
+      Vereinbarung entsprach.
+    published: '2026-04-10T03:52:49+00:00'
+  - title: 'Le revirement libanais : comment Netanyahu a poussé Trump à restreindre
+      le cessez-le-feu après son annonce'
+    url: https://ejmagnier.com/2026/04/10/le-revirement-libanais-comment-netanyahu-a-pousse-trump-a-restreindre-le-cessez-le-feu-apres-son-annonce/
+    text: Par Elijah J. Magnier Les États-Unis sont entrés dans cette confrontation
+      sans légitimité, mais avec une puissance militaire écrasante, pour en ressortir
+      sans aucun gain politique clair à faire valoir. Dans les heures frénétiques précédant
+      l’expiration, début avril 2026, de l’ultimatum que le président Donald Trump s’était
+      lui-même fixé à l’Iran, la diplomatie s’est déployée par des canaux officieux,
+      des intermédiaires et des messages publics destinés à créer un espace de recul.
+      Le Pakistan est devenu le principal relais. L’appel lancé sur les réseaux sociaux
+      par le Premier ministre Shehbaz Sharif n’était pas une initiative improvisée.
+      La Maison-Blanche avait vu et approuvé le texte avant sa publication. Cela compte,
+      car cela signifie que la formulation large du cessez-le-feu était connue à Washington
+      avant d’être rendue publique. Cette formulation initiale était large. Sharif a
+      présenté publiquement le cessez-le-feu comme immédiat et régional, s’appliquant
+      à tous les fronts, y compris le Liban. L’Iran a accepté ce cadre dans cette compréhension.
+      Pour Téhéran, il ne s’agissait pas d’une pause étroite limitée aux échanges directs
+      irano-américains. C’était une désescalade plus large destinée à empêcher l’extension
+      de la guerre et à créer une base pour des discussions à Islamabad. Dans cette
+      forme initiale, le Liban n’était ni une question secondaire ni un détail marginal.
+      Il faisait partie de l’accord tel qu’annoncé publiquement et, surtout, tel qu’il
+      avait été compris par l’une des parties centrales à qui il était demandé de l’accepter.
+      C’est là le point essentiel. Le Liban faisait bel et bien partie du cessez-le-feu
+      tel qu’il a été présenté initialement par le canal de médiation approuvé par la
+      Maison-Blanche. Son exclusion ultérieure n’était pas la formulation d’origine.
+      C’était le revirement. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Les États-Unis, malgré leur puissance militaire, sont entrés
+      dans une confrontation avec l'Iran sans légitimité et sans gains politiques, tandis
+      que des efforts diplomatiques, orchestrés avec l'aide du Pakistan, ont cherché
+      à établir un cessez-le-feu avant l'expiration de l'ultimatum fixé par le président
+      Trump.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse la situation tendue entre
+      les États-Unis et l'Iran en avril 2026, alors que la Maison-Blanche, sous la présidence
+      de Donald Trump, cherchait à éviter une escalade militaire imminente. Malgré l'absence
+      de légitimité, les États-Unis ont tenté de négocier un cessez-le-feu par l'intermédiaire
+      du Pakistan, avec l'approbation préalable de Washington pour un message du Premier
+      ministre pakistanais, Shehbaz Sharif. Ce cessez-le-feu, présenté comme immédiat
+      et régional, incluait le Liban, un point crucial pour Téhéran, qui voyait cela
+      comme une opportunité de désescalade et de discussions futures. Cependant, l'exclusion
+      ultérieure du Liban de l'accord initial a été perçue comme un revirement significatif,
+      remettant en question la clarté et l'efficacité des négociations.
+    published: '2026-04-10T03:47:55+00:00'
+  - title: 'Le revirement libanais : comment Netanyahu a poussé Trump à restreindre
+      le cessez-le-feu après son annonce'
+    url: https://ejmagnier.com/2026/04/10/le-revirement-libanais-comment-netanyahu-a-pousse-trump-a-restreindre-le-cessez-le-feu-apres-son-annonce/
+    text: Par Elijah J. Magnier Les États-Unis sont entrés dans cette confrontation
+      sans légitimité, mais avec une puissance militaire écrasante, pour en ressortir
+      sans aucun gain politique clair à faire valoir. Dans les heures frénétiques précédant
+      l’expiration, début avril 2026, de l’ultimatum que le président Donald Trump s’était
+      lui-même fixé à l’Iran, la diplomatie s’est déployée par des canaux officieux,
+      des intermédiaires et des messages publics destinés à créer un espace de recul.
+      Le Pakistan est devenu le principal relais. L’appel lancé sur les réseaux sociaux
+      par le Premier ministre Shehbaz Sharif n’était pas une initiative improvisée.
+      La Maison-Blanche avait vu et approuvé le texte avant sa publication. Cela compte,
+      car cela signifie que la formulation large du cessez-le-feu était connue à Washington
+      avant d’être rendue publique. Cette formulation initiale était large. Sharif a
+      présenté publiquement le cessez-le-feu comme immédiat et régional, s’appliquant
+      à tous les fronts, y compris le Liban. L’Iran a accepté ce cadre dans cette compréhension.
+      Pour Téhéran, il ne s’agissait pas d’une pause étroite limitée aux échanges directs
+      irano-américains. C’était une désescalade plus large destinée à empêcher l’extension
+      de la guerre et à créer une base pour des discussions à Islamabad. Dans cette
+      forme initiale, le Liban n’était ni une question secondaire ni un détail marginal.
+      Il faisait partie de l’accord tel qu’annoncé publiquement et, surtout, tel qu’il
+      avait été compris par l’une des parties centrales à qui il était demandé de l’accepter.
+      C’est là le point essentiel. Le Liban faisait bel et bien partie du cessez-le-feu
+      tel qu’il a été présenté initialement par le canal de médiation approuvé par la
+      Maison-Blanche. Son exclusion ultérieure n’était pas la formulation d’origine.
+      C’était le revirement. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly
+    one_sentence_summary: Les États-Unis, malgré leur puissance militaire, sont entrés
+      dans une confrontation avec l'Iran sans légitimité et sans gains politiques, tandis
+      que des efforts diplomatiques, orchestrés avec l'aide du Pakistan, ont cherché
+      à établir un cessez-le-feu avant l'expiration de l'ultimatum fixé par le président
+      Trump.
+    paragraph_summary: L'article d'Elijah J. Magnier analyse la situation tendue entre
+      les États-Unis et l'Iran en avril 2026, alors que la Maison-Blanche, sous la présidence
+      de Donald Trump, cherchait à éviter une escalade militaire imminente. Malgré l'absence
+      de légitimité, les États-Unis ont tenté de négocier un cessez-le-feu par l'intermédiaire
+      du Pakistan, avec l'approbation préalable de Washington pour un message du Premier
+      ministre pakistanais, Shehbaz Sharif. Ce cessez-le-feu, présenté comme immédiat
+      et régional, incluait le Liban, un point crucial pour Téhéran, qui voyait cela
+      comme une opportunité de désescalade et de discussions futures. Cependant, l'exclusion
+      ultérieure du Liban de l'accord initial a été perçue comme un revirement significatif,
+      remettant en question la clarté et l'efficacité des négociations.
+    published: '2026-04-10T03:47:55+00:00'
+  - title: 'The Lebanon Reversal: How Netanyahu Pushed Trump to Narrow the Ceasefire
+      After It Was Already Announced'
+    url: https://ejmagnier.com/2026/04/09/the-lebanon-reversal-how-netanyahu-pushed-trump-to-narrow-the-ceasefire-after-it-was-already-announced/
+    text: By Elijah J. Magnier The United States entered the confrontation with no legitimacy
+      but with overwhelming military power to emerge without a clear political gain
+      to show for it. In the frantic hours before President Donald Trump’s self-imposed
+      deadline on Iran expired in early April 2026, diplomacy moved through back channels,
+      intermediaries, and public messaging designed to create room for a climbdown. Pakistan
+      became the key conduit. Prime Minister Shehbaz Sharif’s social media appeal was
+      not a freelance improvisation. The White House had seen and approved the language
+      before it was posted. That matters because it means the broad ceasefire language
+      was known in Washington before it was made public. That original language was
+      broad. Sharif publicly presented the ceasefire as immediate and regional, applying
+      to all fronts, including Lebanon. Iran accepted the framework on that understanding.
+      For Tehran, this was not a narrow pause limited to direct U.S.-Iran exchanges.
+      It was a wider de-escalation intended to stop the war from spreading further and
+      to create a basis for talks in Islamabad. In that initial form, Lebanon was not
+      a side issue or an afterthought. It was part of the deal as publicly announced
+      and, crucially, part of the deal as understood by one of the central parties asked
+      to accept it. That is the critical point. Lebanon was indeed included in the ceasefire
+      as first presented through the mediation channel approved by the White House.
+      The latter exclusion was not the original formulation. It was the reversal. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: In early April 2026, as the U.S. faced a legitimacy crisis
+      in its confrontation with Iran, backchannel diplomacy facilitated by Pakistan
+      led to a broadly accepted ceasefire framework that included multiple fronts, signaling
+      a potential de-escalation in tensions.
+    paragraph_summary: In early April 2026, as tensions with Iran escalated, the U.S.
+      sought a diplomatic resolution through back channels, with Pakistan playing a
+      crucial mediating role. Prime Minister Shehbaz Sharif's social media announcement
+      of a broad ceasefire, which had been pre-approved by the White House, indicated
+      a significant de-escalation effort that included not just U.S.-Iran interactions
+      but also regional fronts like Lebanon. Iran accepted this framework, viewing it
+      as a comprehensive pause aimed at preventing the conflict from expanding and paving
+      the way for further negotiations in Islamabad. However, the subsequent exclusion
+      of Lebanon from the ceasefire discussions marked a shift from the original agreement,
+      highlighting the complexities and challenges in achieving a lasting political
+      resolution.
+    published: '2026-04-09T20:48:10+00:00'
+  - title: 'The Lebanon Reversal: How Netanyahu Pushed Trump to Narrow the Ceasefire
+      After It Was Already Announced'
+    url: https://ejmagnier.com/2026/04/09/the-lebanon-reversal-how-netanyahu-pushed-trump-to-narrow-the-ceasefire-after-it-was-already-announced/
+    text: By Elijah J. Magnier The United States entered the confrontation with no legitimacy
+      but with overwhelming military power to emerge without a clear political gain
+      to show for it. In the frantic hours before President Donald Trump’s self-imposed
+      deadline on Iran expired in early April 2026, diplomacy moved through back channels,
+      intermediaries, and public messaging designed to create room for a climbdown. Pakistan
+      became the key conduit. Prime Minister Shehbaz Sharif’s social media appeal was
+      not a freelance improvisation. The White House had seen and approved the language
+      before it was posted. That matters because it means the broad ceasefire language
+      was known in Washington before it was made public. That original language was
+      broad. Sharif publicly presented the ceasefire as immediate and regional, applying
+      to all fronts, including Lebanon. Iran accepted the framework on that understanding.
+      For Tehran, this was not a narrow pause limited to direct U.S.-Iran exchanges.
+      It was a wider de-escalation intended to stop the war from spreading further and
+      to create a basis for talks in Islamabad. In that initial form, Lebanon was not
+      a side issue or an afterthought. It was part of the deal as publicly announced
+      and, crucially, part of the deal as understood by one of the central parties asked
+      to accept it. That is the critical point. Lebanon was indeed included in the ceasefire
+      as first presented through the mediation channel approved by the White House.
+      The latter exclusion was not the original formulation. It was the reversal. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly
+    one_sentence_summary: In early April 2026, as the U.S. faced a legitimacy crisis
+      in its confrontation with Iran, backchannel diplomacy facilitated by Pakistan
+      led to a broadly accepted ceasefire framework that included multiple fronts, signaling
+      a potential de-escalation in tensions.
+    paragraph_summary: In early April 2026, as tensions with Iran escalated, the U.S.
+      sought a diplomatic resolution through back channels, with Pakistan playing a
+      crucial mediating role. Prime Minister Shehbaz Sharif's social media announcement
+      of a broad ceasefire, which had been pre-approved by the White House, indicated
+      a significant de-escalation effort that included not just U.S.-Iran interactions
+      but also regional fronts like Lebanon. Iran accepted this framework, viewing it
+      as a comprehensive pause aimed at preventing the conflict from expanding and paving
+      the way for further negotiations in Islamabad. However, the subsequent exclusion
+      of Lebanon from the ceasefire discussions marked a shift from the original agreement,
+      highlighting the complexities and challenges in achieving a lasting political
+      resolution.
+    published: '2026-04-09T20:48:10+00:00'
+  - title: 'Ein Waffenstillstand nur dem Namen nach: Wie Trump und Netanjahu den Libanon
+      aus dem Abkommen ausgeschlossen haben'
+    url: https://ejmagnier.com/2026/04/09/ein-waffenstillstand-nur-dem-namen-nach-wie-trump-und-netanjahu-den-libanon-aus-dem-abkommen-ausgeschlossen-haben/
+    text: 'Elijah J Magnier – Waffenstillstände sollen Kriege beenden, nicht neu ordnen.
+      Sie sollen Zivilisten schützen, den Spielraum für Vergeltungsmaßnahmen einschränken
+      und den Weg für ernsthafte Diplomatie ebnen. Der aktuelle Waffenstillstand zwischen
+      dem Iran und den USA scheint das Gegenteil zu bewirken. Was als Waffenstillstand
+      präsentiert wird, gleicht weitaus mehr einer selektiven und taktischen Pause,
+      die sich eher an israelischen und amerikanischen Prioritäten orientiert als an
+      einem echten Prinzip der Deeskalation. Dem Iran wurde eine Atempause angeboten;
+      dem Libanon nicht. Und je mehr man die verschiedenen Erklärungen nebeneinanderstellt
+      – vom Weißen Haus, von Netanjahu, von Pakistan und nun von US-Vizepräsident J.D.
+      Vance –, desto schwerer fällt es, der Schlussfolgerung zu entgehen: Dies ist kein
+      ernsthafter Waffenstillstand im vollen politischen Sinne. Es ist eine vorübergehende
+      Unterbrechung in einem Teil des Krieges, während ein anderer Teil bewusst weiterbrennt.
+      Dieser Punkt scheint nun noch deutlicher zu werden. Vance soll gesagt haben, dass
+      das Waffenstillstandsabkommen alle Verbündeten einschließe, verstanden als Verbündete
+      der USA, also Israel und die Golfstaaten, nicht aber die Verbündeten des Iran.
+      Der Vorsitzende des Vereinigten Generalstabs der US-Streitkräfte, General Dan
+      Caine, erklärte: „Ich möchte unseren Partnern am Golf meinen Dank aussprechen,
+      die jeden Tag Seite an Seite mit uns gekämpft haben – dem Königreich Saudi-Arabien,
+      den Vereinigten Arabischen Emiraten, Bahrain, Katar, Kuwait und Jordanien –, die
+      sich alle uns angeschlossen haben, um unser Volk und unser Eigentum zu verteidigen
+      und zu schützen, und die bereit sind, dies bei Bedarf erneut zu tun.“ Das ist
+      eine außergewöhnliche Formulierung, denn sie bestätigt die Beteiligung der Golfstaaten
+      am Krieg gegen den Iran und entlarvt den Anschein von Neutralität. Sie deutet
+      darauf hin, dass dies nie als allgemeiner Waffenstillstand an allen Fronten gedacht
+      war. Es handelte sich um eine selektive Vereinbarung, die darauf abzielte, das
+      Bündnissystem der einen Seite zu schützen, während die Verbündeten der anderen
+      Seite außerhalb des Schutzschildes blieben. Sobald dies zugegeben wird, verliert
+      das Wort „Waffenstillstand“ seine gewöhnliche Bedeutung. Es bedeutet nicht mehr,
+      den Krieg zu beenden. Es bedeutet, ihn dort zu unterbrechen, wo Washington Ruhe
+      will, und ihn dort zuzulassen, wo Israel weiterhin Handlungsfreiheit will. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Waffenstillstand zwischen dem Iran und den USA
+      wird als taktische Pause betrachtet, die mehr den Interessen Israels und der USA
+      dient, anstatt echte Deeskalation und Schutz für Zivilisten zu fördern.
+    paragraph_summary: Elijah J. Magnier kritisiert in seinem Artikel, dass der aktuelle
+      Waffenstillstand zwischen dem Iran und den USA eher eine taktische Pause ist,
+      die den Interessen Israels und der USA dient, anstatt echte Deeskalation und Schutz
+      für Zivilisten zu bieten. Er argumentiert, dass dieser Waffenstillstand dem Iran
+      zwar eine Atempause gewährt, jedoch nicht dem Libanon und dass die Erklärungen
+      von US-Politikern wie Vizepräsident J.D. Vance und General Dan Caine die Beteiligung
+      der Golfstaaten am Konflikt gegen den Iran offenbaren. Magnier kommt zu dem Schluss,
+      dass dieser Waffenstillstand nicht als ernsthafte politische Lösung gedacht ist,
+      sondern als selektive Unterbrechung eines Teils des Krieges, während andere Konflikte
+      weiterhin aktiv bleiben.
+    published: '2026-04-09T09:35:30+00:00'
+  - title: 'Ein Waffenstillstand nur dem Namen nach: Wie Trump und Netanjahu den Libanon
+      aus dem Abkommen ausgeschlossen haben'
+    url: https://ejmagnier.com/2026/04/09/ein-waffenstillstand-nur-dem-namen-nach-wie-trump-und-netanjahu-den-libanon-aus-dem-abkommen-ausgeschlossen-haben/
+    text: 'Elijah J Magnier – Waffenstillstände sollen Kriege beenden, nicht neu ordnen.
+      Sie sollen Zivilisten schützen, den Spielraum für Vergeltungsmaßnahmen einschränken
+      und den Weg für ernsthafte Diplomatie ebnen. Der aktuelle Waffenstillstand zwischen
+      dem Iran und den USA scheint das Gegenteil zu bewirken. Was als Waffenstillstand
+      präsentiert wird, gleicht weitaus mehr einer selektiven und taktischen Pause,
+      die sich eher an israelischen und amerikanischen Prioritäten orientiert als an
+      einem echten Prinzip der Deeskalation. Dem Iran wurde eine Atempause angeboten;
+      dem Libanon nicht. Und je mehr man die verschiedenen Erklärungen nebeneinanderstellt
+      – vom Weißen Haus, von Netanjahu, von Pakistan und nun von US-Vizepräsident J.D.
+      Vance –, desto schwerer fällt es, der Schlussfolgerung zu entgehen: Dies ist kein
+      ernsthafter Waffenstillstand im vollen politischen Sinne. Es ist eine vorübergehende
+      Unterbrechung in einem Teil des Krieges, während ein anderer Teil bewusst weiterbrennt.
+      Dieser Punkt scheint nun noch deutlicher zu werden. Vance soll gesagt haben, dass
+      das Waffenstillstandsabkommen alle Verbündeten einschließe, verstanden als Verbündete
+      der USA, also Israel und die Golfstaaten, nicht aber die Verbündeten des Iran.
+      Der Vorsitzende des Vereinigten Generalstabs der US-Streitkräfte, General Dan
+      Caine, erklärte: „Ich möchte unseren Partnern am Golf meinen Dank aussprechen,
+      die jeden Tag Seite an Seite mit uns gekämpft haben – dem Königreich Saudi-Arabien,
+      den Vereinigten Arabischen Emiraten, Bahrain, Katar, Kuwait und Jordanien –, die
+      sich alle uns angeschlossen haben, um unser Volk und unser Eigentum zu verteidigen
+      und zu schützen, und die bereit sind, dies bei Bedarf erneut zu tun.“ Das ist
+      eine außergewöhnliche Formulierung, denn sie bestätigt die Beteiligung der Golfstaaten
+      am Krieg gegen den Iran und entlarvt den Anschein von Neutralität. Sie deutet
+      darauf hin, dass dies nie als allgemeiner Waffenstillstand an allen Fronten gedacht
+      war. Es handelte sich um eine selektive Vereinbarung, die darauf abzielte, das
+      Bündnissystem der einen Seite zu schützen, während die Verbündeten der anderen
+      Seite außerhalb des Schutzschildes blieben. Sobald dies zugegeben wird, verliert
+      das Wort „Waffenstillstand“ seine gewöhnliche Bedeutung. Es bedeutet nicht mehr,
+      den Krieg zu beenden. Es bedeutet, ihn dort zu unterbrechen, wo Washington Ruhe
+      will, und ihn dort zuzulassen, wo Israel weiterhin Handlungsfreiheit will. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly'
+    one_sentence_summary: Der aktuelle Waffenstillstand zwischen dem Iran und den USA
+      wird als taktische Pause betrachtet, die mehr den Interessen Israels und der USA
+      dient, anstatt echte Deeskalation und Schutz für Zivilisten zu fördern.
+    paragraph_summary: Elijah J. Magnier kritisiert in seinem Artikel, dass der aktuelle
+      Waffenstillstand zwischen dem Iran und den USA eher eine taktische Pause ist,
+      die den Interessen Israels und der USA dient, anstatt echte Deeskalation und Schutz
+      für Zivilisten zu bieten. Er argumentiert, dass dieser Waffenstillstand dem Iran
+      zwar eine Atempause gewährt, jedoch nicht dem Libanon und dass die Erklärungen
+      von US-Politikern wie Vizepräsident J.D. Vance und General Dan Caine die Beteiligung
+      der Golfstaaten am Konflikt gegen den Iran offenbaren. Magnier kommt zu dem Schluss,
+      dass dieser Waffenstillstand nicht als ernsthafte politische Lösung gedacht ist,
+      sondern als selektive Unterbrechung eines Teils des Krieges, während andere Konflikte
+      weiterhin aktiv bleiben.
+    published: '2026-04-09T09:35:30+00:00'
+  - title: 'A Ceasefire in Name Only: How Trump and Netanyahu Left Lebanon Outside the
+      Deal'
+    url: https://ejmagnier.com/2026/04/09/a-ceasefire-in-name-only-how-trump-and-netanyahu-left-lebanon-outside-the-deal/
+    text: 'Elijah J Magnier – Ceasefires are supposed to stop wars, not rearrange them.
+      They are supposed to protect civilians, reduce the space for retaliation, and
+      open a path toward serious diplomacy. This one between Iran and the US appears
+      to do the opposite. What is being presented as a ceasefire looks far more like
+      a selective and tactical pause, shaped around Israeli and American priorities
+      rather than any real principle of de-escalation. Iran was offered a break; Lebanon
+      was not. And the more the different statements are placed side by side, from the
+      White House, from Netanyahu, from Pakistan, and now from US Vice President J.D.
+      Vance, the harder it becomes to avoid the conclusion: this is not a serious ceasefire
+      in the full political sense. It is a temporary interruption in one part of the
+      war while another part is deliberately left burning. That point now looks even
+      clearer. Vance reportedly said that the ceasefire agreement included all allies,
+      understood as US allies, meaning Israel and the Gulf countries, not Iran’s allies.
+      The US Chairman of the Joint Chiefs of Staff, General Dan Caine: declared: ‘I
+      would like to extend my thanks to our partners in the Gulf who fought side by
+      side with us every day – the Kingdom of Saudi Arabia, the United Arab Emirates,
+      Bahrain, Qatar, Kuwait, and Jordan – who all joined us to defend our people and
+      property and protect it, and who stand ready to do so again if necessary.’ That
+      is an extraordinary formulation because it confirms the Gulf countries’ participation
+      in the war on Iran and strips away the pretence of neutrality. It suggests that
+      this was never intended to be a universal ceasefire across all fronts. It was
+      a selective arrangement designed to protect one side’s alliance system while leaving
+      the other side’s allies outside the shield. Once that is admitted, the word ceasefire
+      begins to lose its ordinary meaning. It no longer means stopping the war. It means
+      pausing it where Washington wants calm and allowing it where Israel still wants
+      freedom of action. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ceasefire between Iran and the US is criticized as a tactical
+      pause that prioritizes Israeli and American interests rather than genuinely promoting
+      de-escalation and protecting civilians.
+    paragraph_summary: Elijah J Magnier argues that the recent ceasefire between Iran
+      and the US is not a genuine effort to de-escalate conflict but rather a tactical
+      pause that serves American and Israeli interests while neglecting others, such
+      as Lebanon. He suggests that the ceasefire is selectively applied, benefiting
+      US allies in the Gulf while excluding Iran's allies, as highlighted by statements
+      from US officials that emphasize support for Gulf nations in the conflict against
+      Iran. This arrangement indicates that the ceasefire is less about stopping the
+      war and more about managing it in a way that protects certain alliances, ultimately
+      undermining the traditional understanding of what a ceasefire should entail.
+    published: '2026-04-09T04:03:14+00:00'
+  - title: 'A Ceasefire in Name Only: How Trump and Netanyahu Left Lebanon Outside the
+      Deal'
+    url: https://ejmagnier.com/2026/04/09/a-ceasefire-in-name-only-how-trump-and-netanyahu-left-lebanon-outside-the-deal/
+    text: 'Elijah J Magnier – Ceasefires are supposed to stop wars, not rearrange them.
+      They are supposed to protect civilians, reduce the space for retaliation, and
+      open a path toward serious diplomacy. This one between Iran and the US appears
+      to do the opposite. What is being presented as a ceasefire looks far more like
+      a selective and tactical pause, shaped around Israeli and American priorities
+      rather than any real principle of de-escalation. Iran was offered a break; Lebanon
+      was not. And the more the different statements are placed side by side, from the
+      White House, from Netanyahu, from Pakistan, and now from US Vice President J.D.
+      Vance, the harder it becomes to avoid the conclusion: this is not a serious ceasefire
+      in the full political sense. It is a temporary interruption in one part of the
+      war while another part is deliberately left burning. That point now looks even
+      clearer. Vance reportedly said that the ceasefire agreement included all allies,
+      understood as US allies, meaning Israel and the Gulf countries, not Iran’s allies.
+      The US Chairman of the Joint Chiefs of Staff, General Dan Caine: declared: ‘I
+      would like to extend my thanks to our partners in the Gulf who fought side by
+      side with us every day – the Kingdom of Saudi Arabia, the United Arab Emirates,
+      Bahrain, Qatar, Kuwait, and Jordan – who all joined us to defend our people and
+      property and protect it, and who stand ready to do so again if necessary.’ That
+      is an extraordinary formulation because it confirms the Gulf countries’ participation
+      in the war on Iran and strips away the pretence of neutrality. It suggests that
+      this was never intended to be a universal ceasefire across all fronts. It was
+      a selective arrangement designed to protect one side’s alliance system while leaving
+      the other side’s allies outside the shield. Once that is admitted, the word ceasefire
+      begins to lose its ordinary meaning. It no longer means stopping the war. It means
+      pausing it where Washington wants calm and allowing it where Israel still wants
+      freedom of action. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly'
+    one_sentence_summary: The ceasefire between Iran and the US is criticized as a tactical
+      pause that prioritizes Israeli and American interests rather than genuinely promoting
+      de-escalation and protecting civilians.
+    paragraph_summary: Elijah J Magnier argues that the recent ceasefire between Iran
+      and the US is not a genuine effort to de-escalate conflict but rather a tactical
+      pause that serves American and Israeli interests while neglecting others, such
+      as Lebanon. He suggests that the ceasefire is selectively applied, benefiting
+      US allies in the Gulf while excluding Iran's allies, as highlighted by statements
+      from US officials that emphasize support for Gulf nations in the conflict against
+      Iran. This arrangement indicates that the ceasefire is less about stopping the
+      war and more about managing it in a way that protects certain alliances, ultimately
+      undermining the traditional understanding of what a ceasefire should entail.
+    published: '2026-04-09T04:03:14+00:00'
+  - title: 'Un cessez-le-feu de façade : comment Trump et Netanyahu ont laissé le Liban
+      en dehors de l’accord'
+    url: https://ejmagnier.com/2026/04/09/un-cessez-le-feu-de-facade-comment-trump-et-netanyahu-ont-laisse-le-liban-en-dehors-de-laccord/
+    text: 'Elijah J. Magnier – Les cessez-le-feu sont censés arrêter les guerres, pas
+      les réorganiser. Ils sont censés protéger les civils, réduire l’espace de représailles
+      et ouvrir la voie à une diplomatie sérieuse. Celui-ci, entre l’Iran et les États-Unis,
+      semble faire exactement l’inverse. Ce qui est présenté comme un cessez-le-feu
+      ressemble bien davantage à une pause sélective et tactique, façonnée autour des
+      priorités israéliennes et américaines plutôt qu’autour d’un véritable principe
+      de désescalade. L’Iran s’est vu offrir une pause ; le Liban, non. Et plus on met
+      côte à côte les différentes déclarations, celles de la Maison-Blanche, de Netanyahu,
+      du Pakistan, et maintenant du vice-président américain J.D. Vance, plus il devient
+      difficile d’échapper à cette conclusion : il ne s’agit pas d’un cessez-le-feu
+      sérieux au sens politique plein du terme. C’est une interruption temporaire d’une
+      partie de la guerre pendant qu’une autre est délibérément laissée en flammes.
+      Ce constat paraît aujourd’hui encore plus clair. Vance aurait déclaré que l’accord
+      de cessez-le-feu incluait tous les alliés, entendus comme les alliés des États-Unis,
+      c’est-à-dire Israël et les pays du Golfe, et non les alliés de l’Iran. Le chef
+      d’état-major interarmées américain, le général Dan Caine, a déclaré : « Je tiens
+      à exprimer ma gratitude à nos partenaires dans le Golfe qui ont combattu à nos
+      côtés chaque jour, le Royaume d’Arabie saoudite, les Émirats arabes unis, Bahreïn,
+      le Qatar, le Koweït et la Jordanie, qui se sont tous joints à nous pour défendre
+      notre peuple et nos biens, les protéger, et qui se tiennent prêts à le refaire
+      si nécessaire. » C’est une formulation extraordinaire, car elle confirme la participation
+      des pays du Golfe à la guerre contre l’Iran et balaie toute prétention à la neutralité.
+      Elle suggère que ce cessez-le-feu n’a jamais été conçu comme un cessez-le-feu
+      universel sur l’ensemble des fronts. Il s’agissait d’un dispositif sélectif destiné
+      à protéger le système d’alliances d’un camp tout en laissant les alliés de l’autre
+      camp en dehors du bouclier. Une fois cela admis, le mot cessez-le-feu commence
+      à perdre son sens ordinaire. Il ne signifie plus l’arrêt de la guerre. Il signifie
+      la suspension des combats là où Washington veut du calme, tout en les autorisant
+      là où Israël veut conserver sa liberté d’action. C’est pourquoi le Liban se trouve
+      au cœur de tout ce différend. L’Iran a clairement indiqué qu’il n’accepterait
+      pas un accord excluant le Liban. Et à présent, avec la fermeture du détroit d’Hormuz,
+      le coût de cette exclusion a fortement augmenté. Le cessez-le-feu n’est plus seulement
+      une formule diplomatique étroite en litige. Il est devenu une confrontation stratégique
+      bien plus large. Si Hormuz reste fermé, alors la tentative d’isoler le Liban tout
+      en contenant les retombées régionales plus vastes pourrait s’effondrer sous le
+      poids de ses propres contradictions. Ce que Washington et Tel-Aviv avaient essayé
+      de traiter comme une question secondaire menace désormais l’accord lui-même. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in'
+    one_sentence_summary: L'article d'Elijah J. Magnier critique le cessez-le-feu entre
+      l'Iran et les États-Unis, le qualifiant de pause tactique qui favorise les intérêts
+      israéliens et américains plutôt que de véritablement protéger les civils ou favoriser
+      la diplomatie.
+    paragraph_summary: L'article d'Elijah J. Magnier critique le récent cessez-le-feu
+      entre l'Iran et les États-Unis, le qualifiant de manœuvre tactique plutôt que
+      d'un véritable effort de désescalade. Il souligne que ce cessez-le-feu semble
+      privilégier les intérêts israéliens et américains, laissant de côté des pays comme
+      le Liban, et qu'il ne représente pas un engagement sérieux pour la paix. Les déclarations
+      de responsables américains, y compris du vice-président J.D. Vance et du général
+      Dan Caine, révèlent une intention claire de maintenir une alliance militaire contre
+      l'Iran, ce qui remet en question la notion d'un cessez-le-feu universel et indique
+      plutôt une interruption sélective des hostilités.
+    published: '2026-04-09T04:00:01+00:00'
+  - title: 'Un cessez-le-feu de façade : comment Trump et Netanyahu ont laissé le Liban
+      en dehors de l’accord'
+    url: https://ejmagnier.com/2026/04/09/un-cessez-le-feu-de-facade-comment-trump-et-netanyahu-ont-laisse-le-liban-en-dehors-de-laccord/
+    text: 'Elijah J. Magnier – Les cessez-le-feu sont censés arrêter les guerres, pas
+      les réorganiser. Ils sont censés protéger les civils, réduire l’espace de représailles
+      et ouvrir la voie à une diplomatie sérieuse. Celui-ci, entre l’Iran et les États-Unis,
+      semble faire exactement l’inverse. Ce qui est présenté comme un cessez-le-feu
+      ressemble bien davantage à une pause sélective et tactique, façonnée autour des
+      priorités israéliennes et américaines plutôt qu’autour d’un véritable principe
+      de désescalade. L’Iran s’est vu offrir une pause ; le Liban, non. Et plus on met
+      côte à côte les différentes déclarations, celles de la Maison-Blanche, de Netanyahu,
+      du Pakistan, et maintenant du vice-président américain J.D. Vance, plus il devient
+      difficile d’échapper à cette conclusion : il ne s’agit pas d’un cessez-le-feu
+      sérieux au sens politique plein du terme. C’est une interruption temporaire d’une
+      partie de la guerre pendant qu’une autre est délibérément laissée en flammes.
+      Ce constat paraît aujourd’hui encore plus clair. Vance aurait déclaré que l’accord
+      de cessez-le-feu incluait tous les alliés, entendus comme les alliés des États-Unis,
+      c’est-à-dire Israël et les pays du Golfe, et non les alliés de l’Iran. Le chef
+      d’état-major interarmées américain, le général Dan Caine, a déclaré : « Je tiens
+      à exprimer ma gratitude à nos partenaires dans le Golfe qui ont combattu à nos
+      côtés chaque jour, le Royaume d’Arabie saoudite, les Émirats arabes unis, Bahreïn,
+      le Qatar, le Koweït et la Jordanie, qui se sont tous joints à nous pour défendre
+      notre peuple et nos biens, les protéger, et qui se tiennent prêts à le refaire
+      si nécessaire. » C’est une formulation extraordinaire, car elle confirme la participation
+      des pays du Golfe à la guerre contre l’Iran et balaie toute prétention à la neutralité.
+      Elle suggère que ce cessez-le-feu n’a jamais été conçu comme un cessez-le-feu
+      universel sur l’ensemble des fronts. Il s’agissait d’un dispositif sélectif destiné
+      à protéger le système d’alliances d’un camp tout en laissant les alliés de l’autre
+      camp en dehors du bouclier. Une fois cela admis, le mot cessez-le-feu commence
+      à perdre son sens ordinaire. Il ne signifie plus l’arrêt de la guerre. Il signifie
+      la suspension des combats là où Washington veut du calme, tout en les autorisant
+      là où Israël veut conserver sa liberté d’action. C’est pourquoi le Liban se trouve
+      au cœur de tout ce différend. L’Iran a clairement indiqué qu’il n’accepterait
+      pas un accord excluant le Liban. Et à présent, avec la fermeture du détroit d’Hormuz,
+      le coût de cette exclusion a fortement augmenté. Le cessez-le-feu n’est plus seulement
+      une formule diplomatique étroite en litige. Il est devenu une confrontation stratégique
+      bien plus large. Si Hormuz reste fermé, alors la tentative d’isoler le Liban tout
+      en contenant les retombées régionales plus vastes pourrait s’effondrer sous le
+      poids de ses propres contradictions. Ce que Washington et Tel-Aviv avaient essayé
+      de traiter comme une question secondaire menace désormais l’accord lui-même. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in'
+    one_sentence_summary: L'article d'Elijah J. Magnier critique le cessez-le-feu entre
+      l'Iran et les États-Unis, le qualifiant de pause tactique qui favorise les intérêts
+      israéliens et américains plutôt que de véritablement protéger les civils ou favoriser
+      la diplomatie.
+    paragraph_summary: L'article d'Elijah J. Magnier critique le récent cessez-le-feu
+      entre l'Iran et les États-Unis, le qualifiant de manœuvre tactique plutôt que
+      d'un véritable effort de désescalade. Il souligne que ce cessez-le-feu semble
+      privilégier les intérêts israéliens et américains, laissant de côté des pays comme
+      le Liban, et qu'il ne représente pas un engagement sérieux pour la paix. Les déclarations
+      de responsables américains, y compris du vice-président J.D. Vance et du général
+      Dan Caine, révèlent une intention claire de maintenir une alliance militaire contre
+      l'Iran, ce qui remet en question la notion d'un cessez-le-feu universel et indique
+      plutôt une interruption sélective des hostilités.
+    published: '2026-04-09T04:00:01+00:00'
   - title: 'Das Duo hat den Krieg begonnen, und es muss ihn beenden: Ein zweiwöchiger
       Waffenstillstand'
     url: https://ejmagnier.com/2026/04/08/das-duo-hat-den-krieg-begonnen-und-es-muss-ihn-beenden-ein-zweiwochiger-waffenstillstand/

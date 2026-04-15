@@ -7,16 +7,1064 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  As global tensions remain high following the joint U.S.-Israeli military campaign against Iran, the international community is bracing for further escalation and its far-reaching consequences. The conflict, widely criticized as an unprovoked and dangerous precedent, continues to dominate discourse among independent analysts and legal scholars.
+  The geopolitical landscape remains dominated by the ongoing conflict between the United States, Israel, and Iran, with ripple effects across the Middle East and the broader Global South. The latest analyses emphasize the intensification of U.S. militarism and its consequences for global stability, sovereignty, and human rights.
   
-  The most recent development is the announcement that **Richard Falk**, a prominent international law professor, will deliver the 21st Frank K. Kelly Lecture on Humanity’s Future tonight. The event will address the legal, moral, and political ramifications of the Iran War, with a particular focus on the erosion of international law and the complicity of Western powers in ongoing regional conflicts. This lecture is expected to draw significant attention from policymakers and civil society, given the current climate of uncertainty and the urgent need for dialogue on peace and security.
+  **Richard Falk**’s most recent commentary, “Future No Kings Protests: Weeping and Resisting in Global Solidarity,” underscores a growing wave of international protest against U.S. imperialism, particularly in relation to the Gaza conflict. Falk highlights that these protests are not isolated but part of a broader condemnation of policies that undermine sovereignty and perpetuate violence, especially in the Global South. He draws attention to the erosion of legal and moral accountability, linking current U.S. actions to a wider pattern of oppression, including the role of agencies like ICE.
   
-  In his recent writings, **Richard Falk** has characterized the Iran conflict as a “significant international blunder” and warns of its potential to trigger a wider, possibly apocalyptic, regional war. He emphasizes that the justification for the attack—regional security concerns—rings hollow in light of the ongoing humanitarian crisis in Gaza and the broader disregard for international legal norms. Falk’s critique extends to the U.S. role, arguing that its support for Israel in both the Palestinian and Iranian theaters undermines prospects for a just and peaceful future.
+  Meanwhile, the “Peace for Iran: Declaration of Global Conscience” article details a significant development: a coalition of international scholars and former officials has issued a declaration demanding an end to U.S. aggression against Iran. This coalition outlines six non-negotiable terms, calling for a global awakening and active resistance to what they describe as imperialism and war crimes. The declaration is gaining traction among civil society groups, signaling a potential shift in public discourse and international advocacy.
   
-  Looking ahead, the prevailing view among analysts is that the risk of further escalation remains high. The conflict has already disrupted civilian infrastructure, international travel, and energy markets, with ripple effects felt far beyond the Middle East. There is a high chance that tonight’s lecture will reinforce calls for renewed commitment to international law and multilateral diplomacy, but there is little optimism for immediate de-escalation. As **Falk** has previously noted, “the world stands at a dangerous crossroads,” and absent a dramatic shift in policy, the likelihood of a broader regional war remains quite likely.
-  
-  In summary, the situation is marked by deepening legal and moral crises, with independent voices urging urgent action to prevent further catastrophe. The next 24 hours will be closely watched for signals from the Kelly Lecture and any shifts in diplomatic posture from the major powers involved.
+  Looking ahead, the trends suggest a continued escalation of protest movements and calls for accountability, both within the U.S. and globally. The majority of analysts, including **Richard Falk**, agree that unless there is a substantive change in U.S. foreign policy, these movements will intensify. There is a high chance that international pressure will mount, particularly as the humanitarian crisis in Gaza and the broader Middle East deepens. I guarantee that the legitimacy of U.S. actions will face increasing scrutiny, and it is most definitely expected that the demand for legal and moral accountability will remain at the forefront of global debates in the coming weeks.
 articles:
+  - title: 'Future No Kings Protests: Weeping and Resisting in Global Solidarity'
+    url: https://richardfalk.org/2026/04/13/future-no-kings-protests-weeping-and-resisting-in-global-solidarity/
+    text: '[ Prefatory Note: My poembelow is intended as a sequel to an earlier poem
+      Royalism in America, written in support of the No Kings protests of was a dramatic
+      success as measured by turnout and public outrage directed at Trump’s abusive
+      de-democratizing policies in America. It gave scant attention to the toxic harm
+      inflicted on worldwide others and to the kind world order that would sustain peace,
+      development, and justice. Economistic militarism has posed serious challenges
+      to peace, Global South sovereignty, ecological resilience, and non-exploitative
+      development ever since 1945. This degenerate behavior has been carried to extremes
+      in the Gaza Genocide and exhibited by the War of Aggression launched on February
+      28, 2026 by the United States in partnership with Israel, itself following the
+      open imperial revival of Monroe Doctrine imperial claims over Latin American sovereignty,
+      and inalienable rights of self-determination. We who deplore ICE and what is represents,
+      must also deplore the prolongation of Western militarism and what it means for
+      life of children and civilians worldwide. We must stop climbing the escalation
+      ladder that is one miscalculation away from a nuclear inferno.] Future No Kings
+      Protests: Weeping and Resisting in Global Solidarity people came over 8 million
+      over 3 thousand gatherings unique in American history beyond the numbers were
+      quiet passions many dogs few police not resistance yet disgust disquiet a felt
+      message of rooted protest empathy for victims of ICE faculty firings many cruelties
+      feared endured by fugitives from poverty undocumented refugees citizens bonding
+      is right walls detention centers wrong celebrate conscience refusing to cringe
+      in silent rage any longer better for tears it is time it is time for welcoming
+      words chants songs BUT WHERE WAS THE WORLD waiting sullenly disillusioned almost
+      never fond of ICE yet thirsting for words of rage and compassion this dirty war
+      the girls of Minab rejecting peace rejecting diplomacy mercy even kindness pretending
+      to care demanding of Iran silence about Israel their nuclear bombs a record of
+      genocide crimes against peace partnering warmongering with high tech ai oligarchs
+      passionate for profits amoral wizards of the nuclear age with hefty appetites
+      sustained by bluster limitless narcissism zero empathy our protest leaders seemed
+      nearsighted almost blind to horrors beyond national borderss reserving their tears
+      a few american deaths of course tragic beyond words but what of the others many
+      thousands perishing forgotten fallen ones in foreign lands perishing among rubble
+      infants with no arms or legs no parents no home yet a life to live being nearsighted
+      in such a world is a quiet sinfulness we want farsighted protests a nationalist
+      No Kings day better than red and blue politicos hiding in aipac’s shadowland still
+      in public foxholes safeguarding our future by bankrolling our present as greed
+      fear rage battle for the public mind FOLLOW THE MONEY after all No Kings must
+      message the pentagon arms merchants ICE kills individuals these wars kill millions
+      far from our shores dear organizers this is a lament THERE IS LOTS MORE TO TALK
+      ABOUT local anger is fine and yet next time let’s feel the pain the courage As
+      if THE WHOLE OF HUMANITY At risk suffering wounded IS SUBJECT TO UNLEASHED MADNESS
+      AT THE ABYSS Richard Falk Santa Barbara, California April 13, 2026'
+    one_sentence_summary: The poem serves as a sequel to "Royalism in America," highlighting
+      the negative global impacts of U.S. militarism and imperialism, particularly in
+      relation to the Gaza conflict and the erosion of sovereignty in the Global South,
+      while calling for a broader condemnation of oppressive policies like those represented
+      by ICE.
+    paragraph_summary: The article reflects on a sequel poem inspired by the earlier
+      work "Royalism in America," which supported the No Kings protests against Trump's
+      harmful policies. It critiques the ongoing global militarism and its detrimental
+      effects on peace, sovereignty, and development, particularly highlighting the
+      Gaza Genocide and the U.S.-Israel partnership in aggressive military actions.
+      The author emphasizes the need for solidarity against oppressive systems like
+      ICE, advocating for empathy towards victims of violence and injustice. The protests,
+      which saw over 8 million participants across 3,000 gatherings, expressed a collective
+      outrage and a call for compassion, urging a rejection of militarism and a commitment
+      to welcoming and supporting marginalized communities. The piece underscores the
+      urgency of addressing these issues with a sense of global responsibility and moral
+      clarity.
+    published: '2026-04-14T01:38:32+00:00'
+  - title: 'Future No Kings Protests: Weeping and Resisting in Global Solidarity'
+    url: https://richardfalk.org/2026/04/13/future-no-kings-protests-weeping-and-resisting-in-global-solidarity/
+    text: '[ Prefatory Note: My poembelow is intended as a sequel to an earlier poem
+      Royalism in America, written in support of the No Kings protests of was a dramatic
+      success as measured by turnout and public outrage directed at Trump’s abusive
+      de-democratizing policies in America. It gave scant attention to the toxic harm
+      inflicted on worldwide others and to the kind world order that would sustain peace,
+      development, and justice. Economistic militarism has posed serious challenges
+      to peace, Global South sovereignty, ecological resilience, and non-exploitative
+      development ever since 1945. This degenerate behavior has been carried to extremes
+      in the Gaza Genocide and exhibited by the War of Aggression launched on February
+      28, 2026 by the United States in partnership with Israel, itself following the
+      open imperial revival of Monroe Doctrine imperial claims over Latin American sovereignty,
+      and inalienable rights of self-determination. We who deplore ICE and what is represents,
+      must also deplore the prolongation of Western militarism and what it means for
+      life of children and civilians worldwide. We must stop climbing the escalation
+      ladder that is one miscalculation away from a nuclear inferno.] Future No Kings
+      Protests: Weeping and Resisting in Global Solidarity people came over 8 million
+      over 3 thousand gatherings unique in American history beyond the numbers were
+      quiet passions many dogs few police not resistance yet disgust disquiet a felt
+      message of rooted protest empathy for victims of ICE faculty firings many cruelties
+      feared endured by fugitives from poverty undocumented refugees citizens bonding
+      is right walls detention centers wrong celebrate conscience refusing to cringe
+      in silent rage any longer better for tears it is time it is time for welcoming
+      words chants songs BUT WHERE WAS THE WORLD waiting sullenly disillusioned almost
+      never fond of ICE yet thirsting for words of rage and compassion this dirty war
+      the girls of Minab rejecting peace rejecting diplomacy mercy even kindness pretending
+      to care demanding of Iran silence about Israel their nuclear bombs a record of
+      genocide crimes against peace partnering warmongering with high tech ai oligarchs
+      passionate for profits amoral wizards of the nuclear age with hefty appetites
+      sustained by bluster limitless narcissism zero empathy our protest leaders seemed
+      nearsighted almost blind to horrors beyond national borderss reserving their tears
+      a few american deaths of course tragic beyond words but what of the others many
+      thousands perishing forgotten fallen ones in foreign lands perishing among rubble
+      infants with no arms or legs no parents no home yet a life to live being nearsighted
+      in such a world is a quiet sinfulness we want farsighted protests a nationalist
+      No Kings day better than red and blue politicos hiding in aipac’s shadowland still
+      in public foxholes safeguarding our future by bankrolling our present as greed
+      fear rage battle for the public mind FOLLOW THE MONEY after all No Kings must
+      message the pentagon arms merchants ICE kills individuals these wars kill millions
+      far from our shores dear organizers this is a lament THERE IS LOTS MORE TO TALK
+      ABOUT local anger is fine and yet next time let’s feel the pain the courage As
+      if THE WHOLE OF HUMANITY At risk suffering wounded IS SUBJECT TO UNLEASHED MADNESS
+      AT THE ABYSS Richard Falk Santa Barbara, California April 13, 2026'
+    one_sentence_summary: The poem serves as a sequel to "Royalism in America," highlighting
+      the negative global impacts of U.S. militarism and imperialism, particularly in
+      relation to the Gaza conflict and the erosion of sovereignty in the Global South,
+      while calling for a broader condemnation of oppressive policies like those represented
+      by ICE.
+    paragraph_summary: The article reflects on a sequel poem inspired by the earlier
+      work "Royalism in America," which supported the No Kings protests against Trump's
+      harmful policies. It critiques the ongoing global militarism and its detrimental
+      effects on peace, sovereignty, and development, particularly highlighting the
+      Gaza Genocide and the U.S.-Israel partnership in aggressive military actions.
+      The author emphasizes the need for solidarity against oppressive systems like
+      ICE, advocating for empathy towards victims of violence and injustice. The protests,
+      which saw over 8 million participants across 3,000 gatherings, expressed a collective
+      outrage and a call for compassion, urging a rejection of militarism and a commitment
+      to welcoming and supporting marginalized communities. The piece underscores the
+      urgency of addressing these issues with a sense of global responsibility and moral
+      clarity.
+    published: '2026-04-14T01:38:32+00:00'
+  - title: 'Peace for Iran: Declaration of Global Conscience'
+    url: https://richardfalk.org/2026/04/09/peace-for-iran-declaration-of-global-conscience/
+    text: 'Prefatory Note: Two Texts evant to Ongoing US/Israel War Against Iran in
+      the context of a failing Ceaefire Agreement. Iran’s Conditions and Declaration
+      of Global Conscience signed and individually affirmed by listed non-Iranians.]
+      “Six Non‑Negotiable Terms from international Scholars and Former Officials from
+      30 countries to End the U.S. War on Iran Amid Trump’s Threat of War Crimes” The
+      conscience of humanity resists “everything for us, nothing for others,” the creed
+      of the predatory empire erected on the corpses of nations. The shameless rapacity
+      and insolence have reached their zenith, and Trump’s threats illustrate the depraved
+      spirit of a decaying civilisation. We must not be passive witnesses, but active
+      architects of a new world where arrogance crumbles and righteousness prevails.
+      A large transnational group of prominent voices—including former UN officials,
+      Retired career diplomats, former ministers, scholars and intellectuals, political
+      figures and former parliamentarians, military and security professionals, artists,
+      lawyers as well as journalists, activists, and antiwar leaders, from 30 countries—has
+      released an open letter sharply criticising the global role of the United States
+      and calling for a new international order centered on sovereignty and resistance
+      to what they describe as Western domination. Most of the signatories are from
+      Western countries, alongside participants from Asia, Latin America, and Africa.
+      The declaration, titled “A Declaration to the Conscience of Humanity,” was signed
+      by over 170 signatories from countries including the United States, the United
+      Kingdom, Canada, Germany, France, Portugal, Belgium, Italy, Scotland, Ireland,
+      Australia, Switzerland, the Netherlands, Sweden, Serbia, Poland, Bosnia and Herzegovina,
+      Lithuania, Russia, China, Malaysia, India, Brazil, Venezuela, Argentina, Mexico,
+      South Africa, Lebanon, Turkey, and Iran. In this fact-based public letter, the
+      authors deliver a sweeping critique of American foreign policy and historical
+      conduct. The letter states that for “249 years—spanning the entirety of its existence
+      since 1776—the United States built a record of atrocity that belonged to a darker,
+      pre-civilised age,” describing the country as “a predatory empire erected on the
+      corpses of nations.” The signatories, including current and former professors
+      affiliated with 52 universities and academic institutions worldwide, accuse Washington
+      of maintaining global military dominance through an extensive overseas presence.
+      They state that the United States operates “over 800 military garrisons poisoning
+      more than 90 foreign countries and territories” and has cultivated what the signatories
+      call “a doctrine of absolute predation.” The declaration also condemns U.S. involvement
+      in major wars of the twentieth and twenty-first centuries, referring to what it
+      calls “the genocidal horror of Vietnam,” “the annihilation of Cambodia,” and the
+      “systematic slaughter of Koreans,” as well as the destruction of Iraq, Libya,
+      Syria, and Afghanistan. A central focus of the document is the ongoing confrontation
+      involving Iran. These public figures argue that the current situation reflects
+      what they describe as an expansionist U.S. strategy aimed at dominating global
+      resources. According to the statement, the United States government is driven
+      by “the demonic creed of ‘everything for us, nothing for others’,” which they
+      say seeks control of global resources ranging from “the oil of Venezuela” to “the
+      mineral wealth of Greenland” or “the energy reserves of Canada”. The undersigned
+      further assert that U.S. policy now “fixates on Iran” because the country possesses
+      “over seven percent of the world’s mineral and energy wealth,” which they describe
+      as “the final frontier of plunder.” The document also criticizes contemporary
+      American leadership, arguing that the “ moral collapse of the West finds its embodiment
+      in the pathetic figure of Mr. Trump ,” and calling for what they describe as an
+      end to “the era of pillage.” Beyond its criticism of U.S. policy, the announcement
+      proposes several demands that the signatories say are necessary to end the current
+      war on Iran. These include guarantees against future aggression, the dismantling
+      of U.S. military installations in the region, formal international condemnation
+      of acts of aggression, reparations for damages caused by war, the establishment
+      of a new legal framework for the Strait of Hormuz, recognising Iran’s sovereignty,
+      and the prosecution and extradition of operatives in anti-Iranian media who have
+      incited this bloodshed. The authors also call on intellectuals, scholars, institutions,
+      and civil society organizations worldwide to condemn what is described as the
+      normalization of violations of international law and to challenge the global structures
+      that sustain domination and military intervention. In conclusion, the signatories
+      argue that the present moment represents a decisive historical turning point.
+      “We stand with justice—not as passive witnesses, but as active architects of a
+      new world,” the letter states, emphasizing that the international community must
+      confront what it calls the return of predatory power in global politics. Among
+      the signatories are prominent scientists and figures representing a wide array
+      of expertise and leadership, including philosophers, economists, historians, sociologists,
+      jurists, theologians, Islamologists, reverends, biologists, physicians, musicians,
+      filmmakers, songwriters, singers, entrepreneurs, engineers, novelists, theorists,
+      as well as a physicist, a psychologist, an anthropologist, and a comedian. This
+      diverse coalition reflects the global conscience of humanity, uniting professionals,
+      scholars, and advocates from multiple disciplines in a shared call against U.S.
+      exceptionalism. The full text of the declaration, along with the complete list
+      of signatories, has been released publicly in more than ten languages: ……………………………………………………………………………………………………….
+      A Declaration to the Conscience of Humanity To the peoples of the world, to thinkers,
+      to scholars, and to those who believe in justice: A specter now haunts the conscience
+      of humanity—the return of predatory power— and it shall no longer go unchallenged.
+      For 249 years—spanning the entirety of its existence since 1776—the United States
+      built a record of atrocity that belonged to a darker, pre-civilised age; the predatory
+      empire erected on the corpses of nations; from the genocide of nearly 5 million
+      Indigenous peoples, to the brutal enslavement of over 4 million Africans, to the
+      lynching of more than 4,000 Black citizens under Jim Crow. With over 800 military
+      garrisons poisoning more than 90 foreign countries and territories, it cultivated
+      a doctrine of absolute predation. From the genocidal horror of Vietnam, with over
+      3 million dead; to the annihilation of Cambodia, where 2 million perished under
+      US-backed terror; to the systematic slaughter of Koreans, with more than 4 million
+      Korean lives extinguished; to the destruction of Iraq, Libya, Syria, and Afghanistan,
+      where one million Iraqis and tens of thousands of Libyans were consumed by US
+      fire. Yet the rational order that governs the world once helped humanity move
+      beyond such practices. Humanity had consigned this barbarism to history. But now
+      we are witnessing its return. The ongoing, systematic immolation of Gaza through
+      the sustained support for the genocidal Israeli regime, where over 77,000 civilians
+      in Palestine have been butchered—the scale of this atrocity reveals an inescapable
+      truth: the pre-civilised practice has returned, and Washington has once again
+      become its willing executor. This is the demonic creed of “everything for us,
+      nothing for others.” With shameless rapacity, it claims the resources of the world—whether
+      the oil of Venezuela, the mineral wealth of Greenland, or the energy reserves
+      of Canada—as objects of strategic entitlement. And now, that gluttonous eye fixates
+      on Iran. Because Iran—possessing over 7% of the world’s mineral and energy wealth—is
+      seen as the final frontier of plunder. Yet this is no longer a matter of economics.
+      It is a matter of honour. The world witnesses that the United States is actively
+      engaged in a criminal enterprise termed the “Ramadan War” against the Iranian
+      nation. This ongoing butchery has already claimed the lives of 208 innocent children.
+      Let the world mark the date—168 of them were little girls, elementary students
+      at the Shadjareh Tayyebeh School in Minab city in Iran, extinguished in their
+      classrooms by US ordained terror. Their futile and desperate contrivances aim
+      at so-called “regime change” and the fragmentation of Iran—stripping the nation
+      of its sovereignty and, thereby, facilitating the systematic plunder of its resources.
+      In pursuit of this ultimate depravity, the U.S. brutally assassinated Iran’s spiritual
+      and intellectual leader, Ayatollah Seyyed Ali Khamenei—recognised globally as
+      a voice against arrogance and terrorism—along with his family. They have waged
+      a war of targeted terror against the very pillars of the Iranian state. To date,
+      US aggression has criminally murdered 39 Iranian statesmen, including the scientific
+      genius Dr. Ali Larijani, Secretary of the Supreme National Security Council. Now,
+      the insolence has reached its zenith. The US President openly threatens the Iranian
+      people on social media with the destruction of their energy infrastructure. This
+      is the depraved spirit of a decaying civilisation. The moral collapse of the West
+      finds its embodiment in the pathetic figure of Mr. Trump—a man whose catastrophic
+      conduct over the last two years has exhausted not only the world, but his own
+      people. The time has come to declare, with one voice: Enough! The era of pillage
+      is over. But the United States has made a fatal miscalculation. What stands before
+      it is not merely a nation, but a civilisation that has weaponised its own DNA—ancient
+      organisational genius fused with 21st-century scientific sovereignty. This is
+      the reality of active deterrence by Iran; a global pole of power that dictates
+      the terms of engagement, forcing strategic retreat by rewriting the very rules
+      of active defence. Now, its adaptive reorganisation, civilisational continuity,
+      and social unity have fused into a singular, unbreakable force. Iran’s all-encompassing
+      defence and active deterrence represents a golden opportunity to end global hegemony.
+      The historical and civilisational doctrine of Iran is absolute: power does not
+      confer right, and domination cannot serve as a foundation for justice. This is
+      recognised as the bedrock of Iran’s invincibility. The world may avail itself
+      of this historic turning point, drawing upon this very doctrine of liberation,
+      to bring an end to domination and oppression wherever they may exist. US and Israeli
+      exceptionalism have dragged the world into an epoch defining choice between might
+      and right, sovereignty and subjugation, dignity and dishonour. This moment must
+      serve as the wake-up call for humanity to recognize that there is another way.
+      It must impel people everywhere to do everything in their power to challenge the
+      structures undergirding a global system that desecrates every moral value including
+      the right to life itself. Iran is the final frontier. If it falls, the hope of
+      a better, enlightened future for the world dies with it. We cannot let that happen.
+      The aggression against Iran is part of a system of global power that oppresses
+      all of us. We cannot afford to stand by and watch arrogant authoritarianism running
+      amok. Our very future depends on the success of Iran. Therefore we cannot countenance
+      any outcome of this war that involves a return to the status quo ante. Those who
+      inflict such suffering must be made to pay a hefty price for their crimes. They
+      must be made to realise that military might does not absolve them of the responsibility
+      to uphold the laws on which the peace and security of our world depend. To that
+      end, we support the terms set out by Iran for ending this war. From the perspective
+      of global justice, the terms for ending this war are absolute and non-negotiable:
+      Guarantees against repetition and a binding international commitment ensuring
+      no future aggression. The immediate dismantling of all US military installations
+      in the region. Formal admission of aggression, international condemnation of the
+      aggressors, and full reparations for life and property. An immediate end to war
+      on all regional fronts. A new legal regime for the Strait of Hormuz, recognising
+      Iran’s sovereignty. The prosecution and extradition of operatives in anti-Iranian
+      media who have incited this bloodshed. We, the undersigned in spirit, call upon
+      our peers, the thinkers, the scholars, the institutions of conscience, and the
+      advocates of justice across the world: • Condemn the United States unequivocally
+      for its systematic normalisation of contempt for international covenants and its
+      reversion to the spirit of historical savagery and barbarism. • Isolate the rogue
+      regime of the United States diplomatically and economically for its ongoing crimes
+      against humanity. • Recognise Iran’s inherent right to active deterrence against
+      unprovoked aggression. • Demand the immediate cessation of American and U.S.-sponsored
+      terrorism and the prosecution of those who order it. As it has always done, history
+      will record the courage of those who refuse to remain silent. We stand with justice—not
+      as passive witnesses, but as active architects of a new world that has reached
+      its threshold where arrogance crumbles and righteousness prevails. The arrogant
+      must be dismantled. The world demands it. Justice will enforce it. Signed in solidarity;
+      Richard Falk (USA) Professor Emeritus of International Law at Princeton University
+      and former UN Special Rapporteur on human rights in the Occupied Palestinian Territories
+      (2008 – 2014) author or editor of more than 50 books on international law and
+      global politics Denis Halliday (Ireland) Former UN Secretary-General deputy and
+      Humanitarian Coordinator in Iraq, Gandhi International Peace Award (2003) Norman
+      Finkelstein (USA) Highly internationally known political scientist, son of Holocaust-survivor
+      parents, widely cited & recognized in Middle East political debate. former Professor
+      at universities of DePaul , Princeton, Rutgers and New York Avi Shlaim (UK) Professor Emeritus of
+      International Relations and Historian at St Antony’s College, Oxford University,
+      British Academy Medal (2017) for lifetime achievement, PEN Hessell‑Tiltman Prize
+      (2024) for historical writing Hans von Sponeck (Germany) Former UN Assistant Secretary-General
+      and UN Humanitarian Coordinator for Iraq Alain de Benoist (France) Internationally
+      recognized philosopher and essayist whose work spans political theory, philosophy,
+      history of religions, and cultural criticism, focused on critiques of liberalism,
+      universalism, and modern egalitarian ideology Chris Williamson (UK) Former Shadow
+      Minister for Communities and Local Government (2010 to 2013), Former member of
+      Parliament for 7 years, former leader of Derby City Council Boaventura de Sousa
+      Santos (Portugal) One of the world’s most internationally highly cited sociologists,
+      Professor Emeritus of Sociology at the School of Economics of the University of
+      Coimbra, Distinguished Legal Scholar at the University of Wisconsin-Madison Law
+      School, Founder of the World Social Forum & the concept of “Epistemologies of
+      the South” , Frantz Fanon Lifetime Achievement Award (2022), Kalven Prize, Jabuti
+      Award, Gulbenkian Science Prize Jean Bricmont (Belgium) Internationally cited
+      theoretical physicist and philosopher of science, Professor at the Catholic University
+      of Louvain, author/co-author of several books including Fashionable Nonsense and
+      Humanitarian Imperialism Dieudonné (France) Internationally recognized Artist
+      and Stand-up Comedian, author of more than 25 one-man shows, recipient of the
+      Grand Prix de l’Humour Noir (2000) for his contribution to satirical comedy Hamid
+      Algar (USA) Professor Emeritus of Persian studies at the University of California,
+      Berkeley, King Faisal Prize laureate Oya Baydar (Turkey) Iconic Novelist and Sociologist
+      who spent years in political exile after the 1980 Turkish coup d’état, later she
+      returned and continued her literary career. She holds 5 Awards on novels, literature,
+      short story and culture Philip Giraldi (USA) Counterterrorism Expert and Columnist,
+      Executive Director of the non-profit, non-partisan anti-war advocacy group The
+      Council for the National Interest (CNI), Veteran Intelligence Professionals for
+      Sanity (VIPS) Imam Suhaib Webb (UK) Former imam of the Islamic Society of Boston
+      Cultural Center, Former Resident Scholar of the Islamic Center of New York University
+      , founder of Ella Collins Institute, one of the World’s 500 Most Influential Muslims
+      list by the Royal Islamic Strategic Studies Centre (2010), recipient as Best Muslim
+      Blog of the Year and Best Muslim Tweeter of the Year by Brass Crescent Awards
+      Cynthia McKinney (USA) Former Congresswomen for 6 terms (Georgia), Assistant Professor
+      and Director of the Office of External Affairs at North South University ; recipient
+      of various peace and human-rights awards (e.g., peace advocacy awards) Ann Wright
+      (USA) Army Colonel and Former US diplomat who resigned in 2003 in opposition to
+      the US war on Iraq, Jurist Mohd Azmi Abdul Hamid (Malaysia) President of Malaysia
+      Consultative Council of Islamic Organizations R. Roshan Baig (India) Former seven-time
+      member of the Karnataka Legislative Assembly, Former Minister of Home Affairs,
+      Former Minister for Urban Development, Former Minister for Infrastructure Saied
+      Reza Ameli (Islamic Republic of Iran) Full Professor of Communication and Global
+      Studies at the University of Tehran , Head of the UNESCO Chair on Cyberspace and
+      Culture , Founder and Dean of the Faculty of World Studies , Editor-in-chief of
+      Journal of Cyberspace Studies, Member of Iranian Academy of Sciences as well as
+      two High State Cultural Councils Haim Bresheeth (UK) Retired Professorial Research
+      Associate Professor of Film, Media and Cultural Studies, and Visual Culture at
+      the School of SOAS, the University of East London, Campaign Against Misrepresentation
+      in Public Affairs Mohammad Marandi ( Islamic Republic of Iran) Full Professor
+      of English Literature, Orientalism and American Studies at University of Tehran
+      Ajamu Baraka (USA) 2016 Green Party nominee for Vice President, Anti-Colonial
+      fighter and Veteran of U.S. Black Liberation Movement, Founder of Black Alliance
+      for Peace Bijan Abdolkarimi ( Islamic Republic of Iran) Philosopher, prominent
+      intellectual in post October 7 th era, focused on ontology and political philosophy,
+      specializing in the thought of Martin Heidegger, Associate Professor of philosophy
+      in Islamic Azad University Daud Abdullah (UK) Director of Middle East Monitor
+      and former Deputy Secretary General of the Muslim Council of Britain Vijay Prashad
+      (India) Director of Tricontinental : Institute for Social Research, editor of
+      LeftWord Books, Chief Correspondent at Globetrotter , and senior fellow at Renmin
+      University of China, advisory board member of the US Campaign for the Academic
+      and Cultural Boycott of Israel , co-founder of the Forum of Indian Leftists, Muzaffar
+      Ahmad Book Prize, Paul A. Baran–Paul M. Sweezy Memorial Award Ramón Grosfoguel
+      (USA) Sociologist and Professor Emeritus at the Department of Ethnic Studies at
+      the University of California, Berkeley Lawrence Davidson (USA) Professor Emeritus of Middle
+      East History at West Chester University (WCU) David Miller (UK) Sociologist and
+      former professor at the University of Strathclyde , the University of Bath and
+      the University of Bristol , Co-Director of Spinwatch Abbas Edalat (UK) Professor
+      of Computer Science and Mathematics at Imperial College London and founder of
+      the Science and Arts Foundation (SAF) and Campaign against Sanctions, Military
+      and Imperial Interventions (CASMII) Dinah Shelton (USA) Professor Emeritus of
+      International Law at George Washington University Law School; former Commissioner
+      and President of the Inter-American Commission on Human Rights (2010–2014), Elizabeth
+      Haub Prize for Environmental Law (2006), International Environmental Law Award
+      (2016) Jodi Dean (USA) Political Theorist and Professor at Hobart and William
+      Smith Colleges , former Erasmus Professor of the Humanities in the Faculty of
+      Philosophy at Erasmus University Rotterdam Peter Limb (USA) Internationally recognized
+      Historian and Professor at Michigan State University Michael Maloof (USA) Former
+      Senior Security Policy Analyst in the Office of the Secretary of Defense Michael
+      Springmann (USA) Former Diplomat in Germany and Saudi Arabia, Attorney and Counsellor
+      at Law, Doctor of Law Augusto Sinagra (Italy) Professor Emeritus of International
+      Law at Sapienza University of Rome Syed Sadatullah Husaini (India) President of
+      India’s biggest Muslim origination (Jamaat-e-Islami Hind) Angelo d’Orsi (Italy)
+      Historian of Philosophy and Professor Emeritus of History of Political Doctrines at
+      the University of Turin Sibel Edmonds (USA) Exposer of corruption and intelligence
+      failures within U.S. government agencies, PEN/Newman’s Own First Amendment Award
+      (2006), Sam Adams Award for Integrity in Intelligence (2012) Kevin B. MacDonald
+      (USA) Professor Emeritus of Evolutionary Psychology at California State University,
+      Long Beach (CSULB) Alberto Bradanini (Italy) Former director of UN Interregional
+      Crime & Justice Research Institute & UN Research Institute on Crime & Drugs ,
+      former ambassador in Tehran and Beijing, president of the Centre for Contemporary
+      China Studies in Italy James H. Fetzer (USA) McKnight Professor Emeritus of the Philosophy
+      of Science at the University of Minnesota Duluth Piero Bevilacqua (Italy) Historian,
+      Professor of Contemporary History at the Sapienza University of Rome, author of
+      34 books Claudio Mutti (Italy) Former Professor at the University of Bologna ,
+      Director of “ Eurasia, Rivista di Studi Geopolitici” Siddiqullah Chowdhury ( India
+      ) Representative of the West Bengal Legislative Assembly , member of the All India
+      Trinamool Congress (AITC) Claudio Moffa (Italy) Former Professor of History of
+      International Relations at the University of Teramo Maria Poumier (France) Professor
+      at University of Havana , Former Professor at the University of Paris (Sorbonne)
+      , documentary maker Bruno Drweski (France) Professor Emeritus at the National
+      Institute of Oriental Languages ​​and Civilizations (Université Paris-Cité) and
+      Paris Geopolitics Academy Paulina Aroch Fugellie (Mexico) Full Professor at the
+      Department of Humanities, Metropolitan Autonomous University Munyaradzi Mushonga
+      (South Africa) Global Academic Director for the Decolonial International Network
+      (DIN) , Associate Professor at the University of the Free State Mufti Mukarram
+      Ahmed (India) Religious and literary scholar, Imam of India’s second largest mosque
+      (Shahi Masjid Fatehpuri) Alain Corvez (France) Colonel of French Army, former
+      advisor minister of defense, former deputy to the General Commanding the UN Force
+      in South Lebanon, advisor in international affairs Jodie Evans (USA) Co-founder
+      of the anti-war organization Code Pink , Filmmaker, former board chair of Rainforest
+      Action Network Jean-Louis Poirier (France) Philosopher, Historian and Translator
+      Zlatko Hadžidedić ( Bosnia and Herzegovina ) Political Scientist and Director
+      of the Center for Nationalism Studies in Sarajevo Elizabeth Murray (USA) Former
+      Deputy National Intelligence Officer for the Near East at the National Intelligence
+      Council; member of Veteran Intelligence Professionals for Sanity (VIPS) Pepe Escobar
+      (Brazil) Geopolitical Analyst and Journalist who has written for Asia Times, Mondialisation.ca,
+      CounterPunch, Al-Jazeera, RT, Sputnik, Strategic Culture Foundation and Guancha
+      Rodney Shakespeare (UK) Economist and Visiting Professor at Trisakti University,
+      Expert on Binary Economics Salman Hussaini Nadwi (India) Founding member/chairman
+      of numerous religious, medical, IT and engineering colleges and hospitals, scholar
+      and professor in the Islamic sciences, author of numerous scholarly works, President
+      of Jamiat Shabaab ul Islam, editor and co-editor of thirteen different periodicals
+      in English, Urdu, Persian and Arabic languages Ralph Bosshard (Switzerland) Former
+      Military Advisor to the Secretary General of Organization for Security and Co-operation
+      in Europe Daniel Estulin (Lithuania) Writer and international speaker, author
+      of “The True Story of the Bilderberg Group” Peter Koenig (Switzerland) Economist
+      and Geopolitical Analyst with more than 30 years of experience in the World Bank
+      , the World Health Organization and the Swiss Development Cooperation İbrahim
+      Betil (Turkey) Founding President of the Turkish Education Volunteers Foundation
+      , Businessman and Social Entrepreneur, former CEO of Tekfen Holding , Multiple
+      Turkish civil society and philanthropy awards Tommy Sheridan (Scotland) Candidate
+      for Glasgow in 2026 Scottish Parliamentary Elections, Former Member of the Parliament
+      , Former Convenor of Scottish Socialist Party , Former Glasgow City Councillor,
+      former Convenor of Solidarity Christoph Hörstel (Germany) Author and Expert on
+      Security, NATO Policies, Geopolitics, and German foreign policy, Publicist Sara
+      Flounders (USA) Co-director of the International Action Center and Secretariat
+      Member of the Workers World Party Kevin J. Barrett (USA) Arabist-Islamologist
+      Scholar, former Professor at the University of Wisconsin-Madison Zakia Soman (India)
+      Former Professor of Business Communication at the University of Gujarat, Founder
+      of Bharatiya Muslim Mahila Andolan (BMMA ) on women’s rights, member of South
+      Asian Alliance for Poverty Eradication (SAAPE) Stephen Sizer (UK) Former Vicar of
+      Christ Church of Virginia Water in Surrey and director of the Peacemaker Trust
+      E. Michael Jones (USA) Former Professor of English literature at Saint Mary’s
+      College ( Indiana) , founder of Culture Wars Magazine Tim Anderson (Australia)
+      Political Economist, Director of Centre for Counter Hegemonic Studies , Former
+      Senior lecturer at the University of Sydney Piers Robinson (UK) Former Professor
+      of Political Journalism, International Politics and Political Communication at
+      Universities of Sheffield, Manchester and Liverpool, Co-Director Organisation
+      for Propaganda Studies & Research Director at the International Center for 9/11
+      Justice Pino Cabras (Italy) Former Vice-President of the Foreign Affairs Committee
+      of the Italian Parliament Jean Michel Vernochet (France) Former Journalist of
+      Le Figaro Magazine , Writer and Geopolitical Analyst Angelo Persiani (Italy) Former
+      Ambassador in Uzbekistan, Tajikistan and Sweden Guillermo Barreto (Venezuela)
+      Biologist and Retired Full Professor at the Organisms Biology Department of Simón
+      Bolívar University Mateusz Piskorski (Poland) Former Professor at University of
+      Szczecin and Jan Długosz University , Co-founder of the European Center of Geopolitical
+      Analysis , former member of the Polish Parliament in the Assembly of Western European
+      Union Declan Hayes (Ireland) Retired Professor at the Sophia University of Tokyo
+      Anisur Rahman Qasmi (India) Scholar, community leader, Former vice president of
+      the All India Milli Council , lecturer on Islamic jurisprudence Dave Smith (Australia)
+      Anglican priest, Social Educator, Boxer, 2022 Candidate in Federal Election –
+      United Australia Party (Grayndler) Aran Martin (Australia) Managing Editor of
+      the Institute of Postcolonial Studies (IPCS), Professor at University of Melbourne
+      , Executive Director of Global Security Foundation, Editor of Postcolonial Studies
+      David Rovics (USA) Singer and Songwriter, Musician focused on US wars, globalization,
+      anarchism, social justice and labor history, ASCAP Deems Taylor Award Vito Petrocelli
+      (Italy) Former Chairman of Foreign affairs committee of Italian Senate, Editorial
+      Director of AntiDiplomatico, Dilek Bektas (Turkey) Retired Professor at Mimar
+      Sinan Fine Art University Veysel Dinler (Turkey) Professor of law at Hitit University
+      Christian Bouchet (France) Anthropologist, Former Politician and Antiwar Activist
+      Hacer Ansal (Turkey) Professor of Sociology at Işık University , Expert on Social
+      Theory and Gender Denijal Jegić (Lebanon) Professor of communication in the Department
+      of Communication at Lebanese American University Pawel Moscicki (Poland) Professor
+      at the Polish Academy of Sciences , Philosopher, Essayist, host of the Inny Swiat
+      podcast Vanessa Beeley (France) Photographer and Independent Journalist on Middle
+      Eastern issues based in Syria Massoud Shadjareh (UK) Chair of Islamic Human Rights
+      Commission-London, holding consultative status at the UN Department of Economic
+      and Social Affairs Zeki Kılıçaslan (Turkey) Professor of chest diseases at Istanbul
+      University Faculty of Medicine, Social Justice Advocate Sandew Hira (Netherlands)
+      Founder of Decolonial International Network known for his Decolonial Theory, Director
+      of International Institute for Scientific Research Paul Larudee (USA) Founder
+      of the Free Gaza Movement and the Free Palestine Movement, Member of the International
+      Solidarity Movement, co-speaker of the 2010 Gaza Freedom Flotilla Yvonne Ridley
+      (UK) Secretary General of European Muslim League , Candidate for Glasgow in 2026
+      Scottish Parliamentary Elections, Former President of the International Muslim
+      Women’s Union Konrad Rekas (Poland–Scotland) Lecturer at Nottingham Trent University,
+      Member of Polish YES for Scotland James Perloff (USA) Author, Researcher, and
+      former Editor-In-Chief of The New American magazine Lucien Cerise (France) Author
+      of Governing by Chaos , Antiwar activist and Geopolitical Analyst Jürgen Cain
+      Külbel (Germany) Criminologist, Investigative Journalist, Author of a book on
+      Israel’s role in assassination of Hariri Carol Brouillet (USA) Peace activist,
+      co-founder of the Northern California 9-11 Truth Alliance , and Green Party candidate
+      for the U.S. Congress in California (2006, 2008, 2012) Dogan Bermek (Turkey) President
+      of Alevi Philosophy Center Association , Former President of the Alavi Federation
+      of Turkiye Gilles Munier (France) Investigative Journalist and Secretary General
+      of the Franco-Iraqi Friendships Association Rebecca Shoot (USA) International
+      lawyer, Co-Convener of Washington Working Group for the International Criminal
+      Court and Co-Convener ImPact Coalition on Strengthening International Judicial
+      Institutions Leonid Savin (Russia) Chief editor of Geopolitika.ru (from 2008),
+      founder and chief editor of Journal of Eurasian Affairs Rich Siegel (USA) Pianist,
+      songwriter, writer and peace activist, and 2015 Green Party political candidate
+      in New Jersey Gordon Duff (USA) Former UN Diplomat in Iraq, Vietnam War Marine
+      Marion Sigaut (France) Historian, Essayist, and Researcher on French history and
+      political thought Caleb Maupin (USA) Founder of Center for Political Innovation
+      , Journalist Jacob Cohen (France) Academic, Novelist and Antiwar Activist Ken
+      O’keefe (USA–Ireland) Former Marine and Gulf War veteran, antiwar activist Rainer
+      Rupp (Germany) Economist and Journalist Thomas Werlet (France) Leader of Mouvement
+      FRANCE RÉSISTANCE Dragana Trifković (Serbia) Director General of the Center for
+      Geostrategic Studies &President of the Eurasian Media Forum Feroze Mithiborwala
+      (India) Columnist and Founder of India Iran Friendship Forum Imam Muhammad al-Asi
+      (USA) Former Imam of the Islamic Center of Washington, Research Fellow at the
+      Institute of Contemporary Islamic Thought Benedetto Ligorio (Italy) Assistant
+      Professor at the Department of philosophy of Sapienza University of Rome Rania
+      Masri (USA) Co-Director of North Carolina Environmental Justice Network Haydeé
+      García Bravo (Mexico) Associate Researcher at Center of Interdisciplinarity Research
+      in Science and Humanities, National Autonomous University of Mexico (UNAM) José
+      Gandarilla Salgado (Mexico) Senior Researcher at Center of Interdisciplinarity
+      Research in Science and Humanities, National Autonomous University of Mexico (UNAM)
+      Finian Cunningham (Ireland) Author and Journalist at Strategic Culture Foundation
+      Margherita Furlan (Italy) Journalist and director of Casa Del Sole TV Eva Bartlett
+      (Canada – USA) Independent journalist, war correspondent, and activist focusing
+      on Middle East conflicts Teša Tešanović (Serbia) Journalist and TV host, founder
+      of Balkan Info Claude Janvier (France) Writer, Essayist and Columnist Eric Walberg
+      (Canada) Geopolitical Expert and Author Valérie Bugault (France) Jurist and geopolitical
+      analyst; Jurist Adrián Salbuchi (Argentina) Political Analyst and Writer Yvan
+      Benedetti (France) One of the prominent leaders of Yellow Vests Movement Yannick
+      Sauveur (France) Writer and Geopolitical analyst Pierre-Antoine Plaquevent (France)
+      Writer, political analyst, and international consultant, Head the Strategika think
+      tank and the Polemos newsletter Arnaud Develay (France) Political Consultant and
+      International Legal Expert Michael Spath (USA) Executive Director of Indiana Center
+      for Middle East Peace Zhu Haozeng (China) Editor in Chief of Haikou Xianjielun
+      Cultural Media António Gomes Marques ( Portugal) Retired Banking Director, Essayist
+      Haleh Niazmand (USA) Professor of Art at Modesto Junior College, C onceptual Artist,
+      Curator, and Art Critic Claude Timmerman (France) Biologist, statistician, and
+      researcher in population genetics; Essayist, commentator of Boulevard Voltaire
+      Hafsa Kara-Mustapha (UK) Journalist and Author, Head of Global Operations African
+      Legacy Foundation Ginette Hess Skandrani (France) Antiwar activist and member
+      of Parti des Verts (French Green party) Yacob Mahi (Belgium) Theologian and Islamologist,
+      Professor of Islamic Studies Adam Shamir (Sweden) Writer, Journalist, and Political
+      Commentator Jean-Loup Izambert (France) Independent Investigative Journalist and
+      Writer Zafar Bangash (Canada) Director Institute of Contemporary Islamic Thought
+      in Toronto Imad Hamrouni (France) Professor at Académie de Géopolitique de Paris,
+      expert on Middle Eastern affairs Joe Iosbaker (USA) Coordinator of the March on
+      the Democratic National Convention 2024 to Stand With Palestine Richard Haley
+      (UK) Chair of Scotland Against Criminalising Communities David J. Reilly (USA)
+      Independent Journalist, Political Commentator, Former Candidate for Governor of
+      Idaho in 2020 Nasreen Methai (India) Founding member of Bharatiya Muslim Mahila
+      Andolan (BMMA ); an NGO working on women’s rights Kim Petersen (USA) Co-editor
+      of the Dissident Voice newsletter Stefano Bonilauri (Italy) Journalist and Director
+      of Anteo Edizioni Tobias Pfennig (Germany) Software Engineer and political activist
+      Tony Gosling (UK) Investigative journalist and political activist Zhang Shouliang
+      (China) Deputy editor-in-chief of Haikou Xianjielun Cultural Media Steven Sahiounie
+      (USA) Award Winning Journalist and chief editor of MidEastDiscourse Ümit Aktaş
+      (Turkey) Physician, specialist in herbal therapy and acupuncture Imran Mohd Rasid
+      (Malaysia) Executive Director of Citizens International Aly Bakkali (Belgium)
+      President of Partie Islam , antiwar activist Fatma Orgel (Turkey) Physician at
+      Esenler Clinic, antiwar activist Gurhan Ertur (Turkey) Director of the NGO Citizen
+      Initiative , antiwar activist Luca Arrighi (Italy) Logician and designer of deterministic
+      governance architectures Dave Cannon (UK) Chair of Jewish Network for Palestine
+      Fatma Akdokur (Turkey) Theology Instructor, antiwar activist Houman Mortazavi
+      (Canada) Barrister and Solicitor, antiwar activist S.Q Massod (India) Secretary
+      of ASEEM , antiwar activist Richard Ray (USA) Editor and Antiwar Activist Shabbir
+      Ali Warsi (India) Scholar and Antiwar Activist Abbas Ali (UK) InMinds Human Rights
+      Group Norma Hashim (Malaysia) Treasurer of Viva Palestina Malaysia Saidi Nordine
+      (Belgium) Co-spokesperson of Bruxelles Pantheres Iqbal Jassat (South Africa) Executive
+      Member of Media Review Network Syed Farid Nizami (India) Scholar and Antiwar Activist
+      Asif Ali Zaidi (India) Lawyer and Researcher, antiwar activist Kerem Ali (UK)
+      Spokesperson of Palestine Pulse Syed Mounis Abidi (India) Human Rights Lawyer,
+      antiwar activist Joe Lorincz (Australia) Wentworth Falls NSW Mouhad Reghif (Belgium)
+      Co-spokesperson of Bruxelles Pantheres Signatories are signing in their individual
+      capacities and affiliations are for identification purposes only.'
+    one_sentence_summary: The article discusses a declaration by a coalition of international
+      scholars and former officials advocating for six non-negotiable terms to end U.S.
+      aggression against Iran, emphasizing the need for global conscience and active
+      resistance against imperialism and war crimes.
+    paragraph_summary: The article discusses a declaration titled "A Declaration to
+      the Conscience of Humanity," signed by over 170 prominent figures from 30 countries,
+      including former officials, scholars, and activists, who criticize U.S. foreign
+      policy and its role in the ongoing conflict with Iran amid a failing ceasefire
+      agreement. The signatories, primarily from Western nations but also including
+      voices from Asia, Latin America, and Africa, outline six non-negotiable terms
+      to end the U.S. war on Iran and advocate for a new international order that prioritizes
+      sovereignty and resists Western domination. They emphasize the need for humanity
+      to reject the prevailing ethos of exploitation and to actively work towards a
+      more just global society, reflecting a collective conscience against the perceived
+      moral decay represented by current U.S. leadership and its aggressive stance.
+    published: '2026-04-09T18:33:31+00:00'
+  - title: 'Peace for Iran: Declaration of Global Conscience'
+    url: https://richardfalk.org/2026/04/09/peace-for-iran-declaration-of-global-conscience/
+    text: 'Prefatory Note: Two Texts evant to Ongoing US/Israel War Against Iran in
+      the context of a failing Ceaefire Agreement. Iran’s Conditions and Declaration
+      of Global Conscience signed and individually affirmed by listed non-Iranians.]
+      “Six Non‑Negotiable Terms from international Scholars and Former Officials from
+      30 countries to End the U.S. War on Iran Amid Trump’s Threat of War Crimes” The
+      conscience of humanity resists “everything for us, nothing for others,” the creed
+      of the predatory empire erected on the corpses of nations. The shameless rapacity
+      and insolence have reached their zenith, and Trump’s threats illustrate the depraved
+      spirit of a decaying civilisation. We must not be passive witnesses, but active
+      architects of a new world where arrogance crumbles and righteousness prevails.
+      A large transnational group of prominent voices—including former UN officials,
+      Retired career diplomats, former ministers, scholars and intellectuals, political
+      figures and former parliamentarians, military and security professionals, artists,
+      lawyers as well as journalists, activists, and antiwar leaders, from 30 countries—has
+      released an open letter sharply criticising the global role of the United States
+      and calling for a new international order centered on sovereignty and resistance
+      to what they describe as Western domination. Most of the signatories are from
+      Western countries, alongside participants from Asia, Latin America, and Africa.
+      The declaration, titled “A Declaration to the Conscience of Humanity,” was signed
+      by over 170 signatories from countries including the United States, the United
+      Kingdom, Canada, Germany, France, Portugal, Belgium, Italy, Scotland, Ireland,
+      Australia, Switzerland, the Netherlands, Sweden, Serbia, Poland, Bosnia and Herzegovina,
+      Lithuania, Russia, China, Malaysia, India, Brazil, Venezuela, Argentina, Mexico,
+      South Africa, Lebanon, Turkey, and Iran. In this fact-based public letter, the
+      authors deliver a sweeping critique of American foreign policy and historical
+      conduct. The letter states that for “249 years—spanning the entirety of its existence
+      since 1776—the United States built a record of atrocity that belonged to a darker,
+      pre-civilised age,” describing the country as “a predatory empire erected on the
+      corpses of nations.” The signatories, including current and former professors
+      affiliated with 52 universities and academic institutions worldwide, accuse Washington
+      of maintaining global military dominance through an extensive overseas presence.
+      They state that the United States operates “over 800 military garrisons poisoning
+      more than 90 foreign countries and territories” and has cultivated what the signatories
+      call “a doctrine of absolute predation.” The declaration also condemns U.S. involvement
+      in major wars of the twentieth and twenty-first centuries, referring to what it
+      calls “the genocidal horror of Vietnam,” “the annihilation of Cambodia,” and the
+      “systematic slaughter of Koreans,” as well as the destruction of Iraq, Libya,
+      Syria, and Afghanistan. A central focus of the document is the ongoing confrontation
+      involving Iran. These public figures argue that the current situation reflects
+      what they describe as an expansionist U.S. strategy aimed at dominating global
+      resources. According to the statement, the United States government is driven
+      by “the demonic creed of ‘everything for us, nothing for others’,” which they
+      say seeks control of global resources ranging from “the oil of Venezuela” to “the
+      mineral wealth of Greenland” or “the energy reserves of Canada”. The undersigned
+      further assert that U.S. policy now “fixates on Iran” because the country possesses
+      “over seven percent of the world’s mineral and energy wealth,” which they describe
+      as “the final frontier of plunder.” The document also criticizes contemporary
+      American leadership, arguing that the “ moral collapse of the West finds its embodiment
+      in the pathetic figure of Mr. Trump ,” and calling for what they describe as an
+      end to “the era of pillage.” Beyond its criticism of U.S. policy, the announcement
+      proposes several demands that the signatories say are necessary to end the current
+      war on Iran. These include guarantees against future aggression, the dismantling
+      of U.S. military installations in the region, formal international condemnation
+      of acts of aggression, reparations for damages caused by war, the establishment
+      of a new legal framework for the Strait of Hormuz, recognising Iran’s sovereignty,
+      and the prosecution and extradition of operatives in anti-Iranian media who have
+      incited this bloodshed. The authors also call on intellectuals, scholars, institutions,
+      and civil society organizations worldwide to condemn what is described as the
+      normalization of violations of international law and to challenge the global structures
+      that sustain domination and military intervention. In conclusion, the signatories
+      argue that the present moment represents a decisive historical turning point.
+      “We stand with justice—not as passive witnesses, but as active architects of a
+      new world,” the letter states, emphasizing that the international community must
+      confront what it calls the return of predatory power in global politics. Among
+      the signatories are prominent scientists and figures representing a wide array
+      of expertise and leadership, including philosophers, economists, historians, sociologists,
+      jurists, theologians, Islamologists, reverends, biologists, physicians, musicians,
+      filmmakers, songwriters, singers, entrepreneurs, engineers, novelists, theorists,
+      as well as a physicist, a psychologist, an anthropologist, and a comedian. This
+      diverse coalition reflects the global conscience of humanity, uniting professionals,
+      scholars, and advocates from multiple disciplines in a shared call against U.S.
+      exceptionalism. The full text of the declaration, along with the complete list
+      of signatories, has been released publicly in more than ten languages: ……………………………………………………………………………………………………….
+      A Declaration to the Conscience of Humanity To the peoples of the world, to thinkers,
+      to scholars, and to those who believe in justice: A specter now haunts the conscience
+      of humanity—the return of predatory power— and it shall no longer go unchallenged.
+      For 249 years—spanning the entirety of its existence since 1776—the United States
+      built a record of atrocity that belonged to a darker, pre-civilised age; the predatory
+      empire erected on the corpses of nations; from the genocide of nearly 5 million
+      Indigenous peoples, to the brutal enslavement of over 4 million Africans, to the
+      lynching of more than 4,000 Black citizens under Jim Crow. With over 800 military
+      garrisons poisoning more than 90 foreign countries and territories, it cultivated
+      a doctrine of absolute predation. From the genocidal horror of Vietnam, with over
+      3 million dead; to the annihilation of Cambodia, where 2 million perished under
+      US-backed terror; to the systematic slaughter of Koreans, with more than 4 million
+      Korean lives extinguished; to the destruction of Iraq, Libya, Syria, and Afghanistan,
+      where one million Iraqis and tens of thousands of Libyans were consumed by US
+      fire. Yet the rational order that governs the world once helped humanity move
+      beyond such practices. Humanity had consigned this barbarism to history. But now
+      we are witnessing its return. The ongoing, systematic immolation of Gaza through
+      the sustained support for the genocidal Israeli regime, where over 77,000 civilians
+      in Palestine have been butchered—the scale of this atrocity reveals an inescapable
+      truth: the pre-civilised practice has returned, and Washington has once again
+      become its willing executor. This is the demonic creed of “everything for us,
+      nothing for others.” With shameless rapacity, it claims the resources of the world—whether
+      the oil of Venezuela, the mineral wealth of Greenland, or the energy reserves
+      of Canada—as objects of strategic entitlement. And now, that gluttonous eye fixates
+      on Iran. Because Iran—possessing over 7% of the world’s mineral and energy wealth—is
+      seen as the final frontier of plunder. Yet this is no longer a matter of economics.
+      It is a matter of honour. The world witnesses that the United States is actively
+      engaged in a criminal enterprise termed the “Ramadan War” against the Iranian
+      nation. This ongoing butchery has already claimed the lives of 208 innocent children.
+      Let the world mark the date—168 of them were little girls, elementary students
+      at the Shadjareh Tayyebeh School in Minab city in Iran, extinguished in their
+      classrooms by US ordained terror. Their futile and desperate contrivances aim
+      at so-called “regime change” and the fragmentation of Iran—stripping the nation
+      of its sovereignty and, thereby, facilitating the systematic plunder of its resources.
+      In pursuit of this ultimate depravity, the U.S. brutally assassinated Iran’s spiritual
+      and intellectual leader, Ayatollah Seyyed Ali Khamenei—recognised globally as
+      a voice against arrogance and terrorism—along with his family. They have waged
+      a war of targeted terror against the very pillars of the Iranian state. To date,
+      US aggression has criminally murdered 39 Iranian statesmen, including the scientific
+      genius Dr. Ali Larijani, Secretary of the Supreme National Security Council. Now,
+      the insolence has reached its zenith. The US President openly threatens the Iranian
+      people on social media with the destruction of their energy infrastructure. This
+      is the depraved spirit of a decaying civilisation. The moral collapse of the West
+      finds its embodiment in the pathetic figure of Mr. Trump—a man whose catastrophic
+      conduct over the last two years has exhausted not only the world, but his own
+      people. The time has come to declare, with one voice: Enough! The era of pillage
+      is over. But the United States has made a fatal miscalculation. What stands before
+      it is not merely a nation, but a civilisation that has weaponised its own DNA—ancient
+      organisational genius fused with 21st-century scientific sovereignty. This is
+      the reality of active deterrence by Iran; a global pole of power that dictates
+      the terms of engagement, forcing strategic retreat by rewriting the very rules
+      of active defence. Now, its adaptive reorganisation, civilisational continuity,
+      and social unity have fused into a singular, unbreakable force. Iran’s all-encompassing
+      defence and active deterrence represents a golden opportunity to end global hegemony.
+      The historical and civilisational doctrine of Iran is absolute: power does not
+      confer right, and domination cannot serve as a foundation for justice. This is
+      recognised as the bedrock of Iran’s invincibility. The world may avail itself
+      of this historic turning point, drawing upon this very doctrine of liberation,
+      to bring an end to domination and oppression wherever they may exist. US and Israeli
+      exceptionalism have dragged the world into an epoch defining choice between might
+      and right, sovereignty and subjugation, dignity and dishonour. This moment must
+      serve as the wake-up call for humanity to recognize that there is another way.
+      It must impel people everywhere to do everything in their power to challenge the
+      structures undergirding a global system that desecrates every moral value including
+      the right to life itself. Iran is the final frontier. If it falls, the hope of
+      a better, enlightened future for the world dies with it. We cannot let that happen.
+      The aggression against Iran is part of a system of global power that oppresses
+      all of us. We cannot afford to stand by and watch arrogant authoritarianism running
+      amok. Our very future depends on the success of Iran. Therefore we cannot countenance
+      any outcome of this war that involves a return to the status quo ante. Those who
+      inflict such suffering must be made to pay a hefty price for their crimes. They
+      must be made to realise that military might does not absolve them of the responsibility
+      to uphold the laws on which the peace and security of our world depend. To that
+      end, we support the terms set out by Iran for ending this war. From the perspective
+      of global justice, the terms for ending this war are absolute and non-negotiable:
+      Guarantees against repetition and a binding international commitment ensuring
+      no future aggression. The immediate dismantling of all US military installations
+      in the region. Formal admission of aggression, international condemnation of the
+      aggressors, and full reparations for life and property. An immediate end to war
+      on all regional fronts. A new legal regime for the Strait of Hormuz, recognising
+      Iran’s sovereignty. The prosecution and extradition of operatives in anti-Iranian
+      media who have incited this bloodshed. We, the undersigned in spirit, call upon
+      our peers, the thinkers, the scholars, the institutions of conscience, and the
+      advocates of justice across the world: • Condemn the United States unequivocally
+      for its systematic normalisation of contempt for international covenants and its
+      reversion to the spirit of historical savagery and barbarism. • Isolate the rogue
+      regime of the United States diplomatically and economically for its ongoing crimes
+      against humanity. • Recognise Iran’s inherent right to active deterrence against
+      unprovoked aggression. • Demand the immediate cessation of American and U.S.-sponsored
+      terrorism and the prosecution of those who order it. As it has always done, history
+      will record the courage of those who refuse to remain silent. We stand with justice—not
+      as passive witnesses, but as active architects of a new world that has reached
+      its threshold where arrogance crumbles and righteousness prevails. The arrogant
+      must be dismantled. The world demands it. Justice will enforce it. Signed in solidarity;
+      Richard Falk (USA) Professor Emeritus of International Law at Princeton University
+      and former UN Special Rapporteur on human rights in the Occupied Palestinian Territories
+      (2008 – 2014) author or editor of more than 50 books on international law and
+      global politics Denis Halliday (Ireland) Former UN Secretary-General deputy and
+      Humanitarian Coordinator in Iraq, Gandhi International Peace Award (2003) Norman
+      Finkelstein (USA) Highly internationally known political scientist, son of Holocaust-survivor
+      parents, widely cited & recognized in Middle East political debate. former Professor
+      at universities of DePaul , Princeton, Rutgers and New York Avi Shlaim (UK) Professor Emeritus of
+      International Relations and Historian at St Antony’s College, Oxford University,
+      British Academy Medal (2017) for lifetime achievement, PEN Hessell‑Tiltman Prize
+      (2024) for historical writing Hans von Sponeck (Germany) Former UN Assistant Secretary-General
+      and UN Humanitarian Coordinator for Iraq Alain de Benoist (France) Internationally
+      recognized philosopher and essayist whose work spans political theory, philosophy,
+      history of religions, and cultural criticism, focused on critiques of liberalism,
+      universalism, and modern egalitarian ideology Chris Williamson (UK) Former Shadow
+      Minister for Communities and Local Government (2010 to 2013), Former member of
+      Parliament for 7 years, former leader of Derby City Council Boaventura de Sousa
+      Santos (Portugal) One of the world’s most internationally highly cited sociologists,
+      Professor Emeritus of Sociology at the School of Economics of the University of
+      Coimbra, Distinguished Legal Scholar at the University of Wisconsin-Madison Law
+      School, Founder of the World Social Forum & the concept of “Epistemologies of
+      the South” , Frantz Fanon Lifetime Achievement Award (2022), Kalven Prize, Jabuti
+      Award, Gulbenkian Science Prize Jean Bricmont (Belgium) Internationally cited
+      theoretical physicist and philosopher of science, Professor at the Catholic University
+      of Louvain, author/co-author of several books including Fashionable Nonsense and
+      Humanitarian Imperialism Dieudonné (France) Internationally recognized Artist
+      and Stand-up Comedian, author of more than 25 one-man shows, recipient of the
+      Grand Prix de l’Humour Noir (2000) for his contribution to satirical comedy Hamid
+      Algar (USA) Professor Emeritus of Persian studies at the University of California,
+      Berkeley, King Faisal Prize laureate Oya Baydar (Turkey) Iconic Novelist and Sociologist
+      who spent years in political exile after the 1980 Turkish coup d’état, later she
+      returned and continued her literary career. She holds 5 Awards on novels, literature,
+      short story and culture Philip Giraldi (USA) Counterterrorism Expert and Columnist,
+      Executive Director of the non-profit, non-partisan anti-war advocacy group The
+      Council for the National Interest (CNI), Veteran Intelligence Professionals for
+      Sanity (VIPS) Imam Suhaib Webb (UK) Former imam of the Islamic Society of Boston
+      Cultural Center, Former Resident Scholar of the Islamic Center of New York University
+      , founder of Ella Collins Institute, one of the World’s 500 Most Influential Muslims
+      list by the Royal Islamic Strategic Studies Centre (2010), recipient as Best Muslim
+      Blog of the Year and Best Muslim Tweeter of the Year by Brass Crescent Awards
+      Cynthia McKinney (USA) Former Congresswomen for 6 terms (Georgia), Assistant Professor
+      and Director of the Office of External Affairs at North South University ; recipient
+      of various peace and human-rights awards (e.g., peace advocacy awards) Ann Wright
+      (USA) Army Colonel and Former US diplomat who resigned in 2003 in opposition to
+      the US war on Iraq, Jurist Mohd Azmi Abdul Hamid (Malaysia) President of Malaysia
+      Consultative Council of Islamic Organizations R. Roshan Baig (India) Former seven-time
+      member of the Karnataka Legislative Assembly, Former Minister of Home Affairs,
+      Former Minister for Urban Development, Former Minister for Infrastructure Saied
+      Reza Ameli (Islamic Republic of Iran) Full Professor of Communication and Global
+      Studies at the University of Tehran , Head of the UNESCO Chair on Cyberspace and
+      Culture , Founder and Dean of the Faculty of World Studies , Editor-in-chief of
+      Journal of Cyberspace Studies, Member of Iranian Academy of Sciences as well as
+      two High State Cultural Councils Haim Bresheeth (UK) Retired Professorial Research
+      Associate Professor of Film, Media and Cultural Studies, and Visual Culture at
+      the School of SOAS, the University of East London, Campaign Against Misrepresentation
+      in Public Affairs Mohammad Marandi ( Islamic Republic of Iran) Full Professor
+      of English Literature, Orientalism and American Studies at University of Tehran
+      Ajamu Baraka (USA) 2016 Green Party nominee for Vice President, Anti-Colonial
+      fighter and Veteran of U.S. Black Liberation Movement, Founder of Black Alliance
+      for Peace Bijan Abdolkarimi ( Islamic Republic of Iran) Philosopher, prominent
+      intellectual in post October 7 th era, focused on ontology and political philosophy,
+      specializing in the thought of Martin Heidegger, Associate Professor of philosophy
+      in Islamic Azad University Daud Abdullah (UK) Director of Middle East Monitor
+      and former Deputy Secretary General of the Muslim Council of Britain Vijay Prashad
+      (India) Director of Tricontinental : Institute for Social Research, editor of
+      LeftWord Books, Chief Correspondent at Globetrotter , and senior fellow at Renmin
+      University of China, advisory board member of the US Campaign for the Academic
+      and Cultural Boycott of Israel , co-founder of the Forum of Indian Leftists, Muzaffar
+      Ahmad Book Prize, Paul A. Baran–Paul M. Sweezy Memorial Award Ramón Grosfoguel
+      (USA) Sociologist and Professor Emeritus at the Department of Ethnic Studies at
+      the University of California, Berkeley Lawrence Davidson (USA) Professor Emeritus of Middle
+      East History at West Chester University (WCU) David Miller (UK) Sociologist and
+      former professor at the University of Strathclyde , the University of Bath and
+      the University of Bristol , Co-Director of Spinwatch Abbas Edalat (UK) Professor
+      of Computer Science and Mathematics at Imperial College London and founder of
+      the Science and Arts Foundation (SAF) and Campaign against Sanctions, Military
+      and Imperial Interventions (CASMII) Dinah Shelton (USA) Professor Emeritus of
+      International Law at George Washington University Law School; former Commissioner
+      and President of the Inter-American Commission on Human Rights (2010–2014), Elizabeth
+      Haub Prize for Environmental Law (2006), International Environmental Law Award
+      (2016) Jodi Dean (USA) Political Theorist and Professor at Hobart and William
+      Smith Colleges , former Erasmus Professor of the Humanities in the Faculty of
+      Philosophy at Erasmus University Rotterdam Peter Limb (USA) Internationally recognized
+      Historian and Professor at Michigan State University Michael Maloof (USA) Former
+      Senior Security Policy Analyst in the Office of the Secretary of Defense Michael
+      Springmann (USA) Former Diplomat in Germany and Saudi Arabia, Attorney and Counsellor
+      at Law, Doctor of Law Augusto Sinagra (Italy) Professor Emeritus of International
+      Law at Sapienza University of Rome Syed Sadatullah Husaini (India) President of
+      India’s biggest Muslim origination (Jamaat-e-Islami Hind) Angelo d’Orsi (Italy)
+      Historian of Philosophy and Professor Emeritus of History of Political Doctrines at
+      the University of Turin Sibel Edmonds (USA) Exposer of corruption and intelligence
+      failures within U.S. government agencies, PEN/Newman’s Own First Amendment Award
+      (2006), Sam Adams Award for Integrity in Intelligence (2012) Kevin B. MacDonald
+      (USA) Professor Emeritus of Evolutionary Psychology at California State University,
+      Long Beach (CSULB) Alberto Bradanini (Italy) Former director of UN Interregional
+      Crime & Justice Research Institute & UN Research Institute on Crime & Drugs ,
+      former ambassador in Tehran and Beijing, president of the Centre for Contemporary
+      China Studies in Italy James H. Fetzer (USA) McKnight Professor Emeritus of the Philosophy
+      of Science at the University of Minnesota Duluth Piero Bevilacqua (Italy) Historian,
+      Professor of Contemporary History at the Sapienza University of Rome, author of
+      34 books Claudio Mutti (Italy) Former Professor at the University of Bologna ,
+      Director of “ Eurasia, Rivista di Studi Geopolitici” Siddiqullah Chowdhury ( India
+      ) Representative of the West Bengal Legislative Assembly , member of the All India
+      Trinamool Congress (AITC) Claudio Moffa (Italy) Former Professor of History of
+      International Relations at the University of Teramo Maria Poumier (France) Professor
+      at University of Havana , Former Professor at the University of Paris (Sorbonne)
+      , documentary maker Bruno Drweski (France) Professor Emeritus at the National
+      Institute of Oriental Languages ​​and Civilizations (Université Paris-Cité) and
+      Paris Geopolitics Academy Paulina Aroch Fugellie (Mexico) Full Professor at the
+      Department of Humanities, Metropolitan Autonomous University Munyaradzi Mushonga
+      (South Africa) Global Academic Director for the Decolonial International Network
+      (DIN) , Associate Professor at the University of the Free State Mufti Mukarram
+      Ahmed (India) Religious and literary scholar, Imam of India’s second largest mosque
+      (Shahi Masjid Fatehpuri) Alain Corvez (France) Colonel of French Army, former
+      advisor minister of defense, former deputy to the General Commanding the UN Force
+      in South Lebanon, advisor in international affairs Jodie Evans (USA) Co-founder
+      of the anti-war organization Code Pink , Filmmaker, former board chair of Rainforest
+      Action Network Jean-Louis Poirier (France) Philosopher, Historian and Translator
+      Zlatko Hadžidedić ( Bosnia and Herzegovina ) Political Scientist and Director
+      of the Center for Nationalism Studies in Sarajevo Elizabeth Murray (USA) Former
+      Deputy National Intelligence Officer for the Near East at the National Intelligence
+      Council; member of Veteran Intelligence Professionals for Sanity (VIPS) Pepe Escobar
+      (Brazil) Geopolitical Analyst and Journalist who has written for Asia Times, Mondialisation.ca,
+      CounterPunch, Al-Jazeera, RT, Sputnik, Strategic Culture Foundation and Guancha
+      Rodney Shakespeare (UK) Economist and Visiting Professor at Trisakti University,
+      Expert on Binary Economics Salman Hussaini Nadwi (India) Founding member/chairman
+      of numerous religious, medical, IT and engineering colleges and hospitals, scholar
+      and professor in the Islamic sciences, author of numerous scholarly works, President
+      of Jamiat Shabaab ul Islam, editor and co-editor of thirteen different periodicals
+      in English, Urdu, Persian and Arabic languages Ralph Bosshard (Switzerland) Former
+      Military Advisor to the Secretary General of Organization for Security and Co-operation
+      in Europe Daniel Estulin (Lithuania) Writer and international speaker, author
+      of “The True Story of the Bilderberg Group” Peter Koenig (Switzerland) Economist
+      and Geopolitical Analyst with more than 30 years of experience in the World Bank
+      , the World Health Organization and the Swiss Development Cooperation İbrahim
+      Betil (Turkey) Founding President of the Turkish Education Volunteers Foundation
+      , Businessman and Social Entrepreneur, former CEO of Tekfen Holding , Multiple
+      Turkish civil society and philanthropy awards Tommy Sheridan (Scotland) Candidate
+      for Glasgow in 2026 Scottish Parliamentary Elections, Former Member of the Parliament
+      , Former Convenor of Scottish Socialist Party , Former Glasgow City Councillor,
+      former Convenor of Solidarity Christoph Hörstel (Germany) Author and Expert on
+      Security, NATO Policies, Geopolitics, and German foreign policy, Publicist Sara
+      Flounders (USA) Co-director of the International Action Center and Secretariat
+      Member of the Workers World Party Kevin J. Barrett (USA) Arabist-Islamologist
+      Scholar, former Professor at the University of Wisconsin-Madison Zakia Soman (India)
+      Former Professor of Business Communication at the University of Gujarat, Founder
+      of Bharatiya Muslim Mahila Andolan (BMMA ) on women’s rights, member of South
+      Asian Alliance for Poverty Eradication (SAAPE) Stephen Sizer (UK) Former Vicar of
+      Christ Church of Virginia Water in Surrey and director of the Peacemaker Trust
+      E. Michael Jones (USA) Former Professor of English literature at Saint Mary’s
+      College ( Indiana) , founder of Culture Wars Magazine Tim Anderson (Australia)
+      Political Economist, Director of Centre for Counter Hegemonic Studies , Former
+      Senior lecturer at the University of Sydney Piers Robinson (UK) Former Professor
+      of Political Journalism, International Politics and Political Communication at
+      Universities of Sheffield, Manchester and Liverpool, Co-Director Organisation
+      for Propaganda Studies & Research Director at the International Center for 9/11
+      Justice Pino Cabras (Italy) Former Vice-President of the Foreign Affairs Committee
+      of the Italian Parliament Jean Michel Vernochet (France) Former Journalist of
+      Le Figaro Magazine , Writer and Geopolitical Analyst Angelo Persiani (Italy) Former
+      Ambassador in Uzbekistan, Tajikistan and Sweden Guillermo Barreto (Venezuela)
+      Biologist and Retired Full Professor at the Organisms Biology Department of Simón
+      Bolívar University Mateusz Piskorski (Poland) Former Professor at University of
+      Szczecin and Jan Długosz University , Co-founder of the European Center of Geopolitical
+      Analysis , former member of the Polish Parliament in the Assembly of Western European
+      Union Declan Hayes (Ireland) Retired Professor at the Sophia University of Tokyo
+      Anisur Rahman Qasmi (India) Scholar, community leader, Former vice president of
+      the All India Milli Council , lecturer on Islamic jurisprudence Dave Smith (Australia)
+      Anglican priest, Social Educator, Boxer, 2022 Candidate in Federal Election –
+      United Australia Party (Grayndler) Aran Martin (Australia) Managing Editor of
+      the Institute of Postcolonial Studies (IPCS), Professor at University of Melbourne
+      , Executive Director of Global Security Foundation, Editor of Postcolonial Studies
+      David Rovics (USA) Singer and Songwriter, Musician focused on US wars, globalization,
+      anarchism, social justice and labor history, ASCAP Deems Taylor Award Vito Petrocelli
+      (Italy) Former Chairman of Foreign affairs committee of Italian Senate, Editorial
+      Director of AntiDiplomatico, Dilek Bektas (Turkey) Retired Professor at Mimar
+      Sinan Fine Art University Veysel Dinler (Turkey) Professor of law at Hitit University
+      Christian Bouchet (France) Anthropologist, Former Politician and Antiwar Activist
+      Hacer Ansal (Turkey) Professor of Sociology at Işık University , Expert on Social
+      Theory and Gender Denijal Jegić (Lebanon) Professor of communication in the Department
+      of Communication at Lebanese American University Pawel Moscicki (Poland) Professor
+      at the Polish Academy of Sciences , Philosopher, Essayist, host of the Inny Swiat
+      podcast Vanessa Beeley (France) Photographer and Independent Journalist on Middle
+      Eastern issues based in Syria Massoud Shadjareh (UK) Chair of Islamic Human Rights
+      Commission-London, holding consultative status at the UN Department of Economic
+      and Social Affairs Zeki Kılıçaslan (Turkey) Professor of chest diseases at Istanbul
+      University Faculty of Medicine, Social Justice Advocate Sandew Hira (Netherlands)
+      Founder of Decolonial International Network known for his Decolonial Theory, Director
+      of International Institute for Scientific Research Paul Larudee (USA) Founder
+      of the Free Gaza Movement and the Free Palestine Movement, Member of the International
+      Solidarity Movement, co-speaker of the 2010 Gaza Freedom Flotilla Yvonne Ridley
+      (UK) Secretary General of European Muslim League , Candidate for Glasgow in 2026
+      Scottish Parliamentary Elections, Former President of the International Muslim
+      Women’s Union Konrad Rekas (Poland–Scotland) Lecturer at Nottingham Trent University,
+      Member of Polish YES for Scotland James Perloff (USA) Author, Researcher, and
+      former Editor-In-Chief of The New American magazine Lucien Cerise (France) Author
+      of Governing by Chaos , Antiwar activist and Geopolitical Analyst Jürgen Cain
+      Külbel (Germany) Criminologist, Investigative Journalist, Author of a book on
+      Israel’s role in assassination of Hariri Carol Brouillet (USA) Peace activist,
+      co-founder of the Northern California 9-11 Truth Alliance , and Green Party candidate
+      for the U.S. Congress in California (2006, 2008, 2012) Dogan Bermek (Turkey) President
+      of Alevi Philosophy Center Association , Former President of the Alavi Federation
+      of Turkiye Gilles Munier (France) Investigative Journalist and Secretary General
+      of the Franco-Iraqi Friendships Association Rebecca Shoot (USA) International
+      lawyer, Co-Convener of Washington Working Group for the International Criminal
+      Court and Co-Convener ImPact Coalition on Strengthening International Judicial
+      Institutions Leonid Savin (Russia) Chief editor of Geopolitika.ru (from 2008),
+      founder and chief editor of Journal of Eurasian Affairs Rich Siegel (USA) Pianist,
+      songwriter, writer and peace activist, and 2015 Green Party political candidate
+      in New Jersey Gordon Duff (USA) Former UN Diplomat in Iraq, Vietnam War Marine
+      Marion Sigaut (France) Historian, Essayist, and Researcher on French history and
+      political thought Caleb Maupin (USA) Founder of Center for Political Innovation
+      , Journalist Jacob Cohen (France) Academic, Novelist and Antiwar Activist Ken
+      O’keefe (USA–Ireland) Former Marine and Gulf War veteran, antiwar activist Rainer
+      Rupp (Germany) Economist and Journalist Thomas Werlet (France) Leader of Mouvement
+      FRANCE RÉSISTANCE Dragana Trifković (Serbia) Director General of the Center for
+      Geostrategic Studies &President of the Eurasian Media Forum Feroze Mithiborwala
+      (India) Columnist and Founder of India Iran Friendship Forum Imam Muhammad al-Asi
+      (USA) Former Imam of the Islamic Center of Washington, Research Fellow at the
+      Institute of Contemporary Islamic Thought Benedetto Ligorio (Italy) Assistant
+      Professor at the Department of philosophy of Sapienza University of Rome Rania
+      Masri (USA) Co-Director of North Carolina Environmental Justice Network Haydeé
+      García Bravo (Mexico) Associate Researcher at Center of Interdisciplinarity Research
+      in Science and Humanities, National Autonomous University of Mexico (UNAM) José
+      Gandarilla Salgado (Mexico) Senior Researcher at Center of Interdisciplinarity
+      Research in Science and Humanities, National Autonomous University of Mexico (UNAM)
+      Finian Cunningham (Ireland) Author and Journalist at Strategic Culture Foundation
+      Margherita Furlan (Italy) Journalist and director of Casa Del Sole TV Eva Bartlett
+      (Canada – USA) Independent journalist, war correspondent, and activist focusing
+      on Middle East conflicts Teša Tešanović (Serbia) Journalist and TV host, founder
+      of Balkan Info Claude Janvier (France) Writer, Essayist and Columnist Eric Walberg
+      (Canada) Geopolitical Expert and Author Valérie Bugault (France) Jurist and geopolitical
+      analyst; Jurist Adrián Salbuchi (Argentina) Political Analyst and Writer Yvan
+      Benedetti (France) One of the prominent leaders of Yellow Vests Movement Yannick
+      Sauveur (France) Writer and Geopolitical analyst Pierre-Antoine Plaquevent (France)
+      Writer, political analyst, and international consultant, Head the Strategika think
+      tank and the Polemos newsletter Arnaud Develay (France) Political Consultant and
+      International Legal Expert Michael Spath (USA) Executive Director of Indiana Center
+      for Middle East Peace Zhu Haozeng (China) Editor in Chief of Haikou Xianjielun
+      Cultural Media António Gomes Marques ( Portugal) Retired Banking Director, Essayist
+      Haleh Niazmand (USA) Professor of Art at Modesto Junior College, C onceptual Artist,
+      Curator, and Art Critic Claude Timmerman (France) Biologist, statistician, and
+      researcher in population genetics; Essayist, commentator of Boulevard Voltaire
+      Hafsa Kara-Mustapha (UK) Journalist and Author, Head of Global Operations African
+      Legacy Foundation Ginette Hess Skandrani (France) Antiwar activist and member
+      of Parti des Verts (French Green party) Yacob Mahi (Belgium) Theologian and Islamologist,
+      Professor of Islamic Studies Adam Shamir (Sweden) Writer, Journalist, and Political
+      Commentator Jean-Loup Izambert (France) Independent Investigative Journalist and
+      Writer Zafar Bangash (Canada) Director Institute of Contemporary Islamic Thought
+      in Toronto Imad Hamrouni (France) Professor at Académie de Géopolitique de Paris,
+      expert on Middle Eastern affairs Joe Iosbaker (USA) Coordinator of the March on
+      the Democratic National Convention 2024 to Stand With Palestine Richard Haley
+      (UK) Chair of Scotland Against Criminalising Communities David J. Reilly (USA)
+      Independent Journalist, Political Commentator, Former Candidate for Governor of
+      Idaho in 2020 Nasreen Methai (India) Founding member of Bharatiya Muslim Mahila
+      Andolan (BMMA ); an NGO working on women’s rights Kim Petersen (USA) Co-editor
+      of the Dissident Voice newsletter Stefano Bonilauri (Italy) Journalist and Director
+      of Anteo Edizioni Tobias Pfennig (Germany) Software Engineer and political activist
+      Tony Gosling (UK) Investigative journalist and political activist Zhang Shouliang
+      (China) Deputy editor-in-chief of Haikou Xianjielun Cultural Media Steven Sahiounie
+      (USA) Award Winning Journalist and chief editor of MidEastDiscourse Ümit Aktaş
+      (Turkey) Physician, specialist in herbal therapy and acupuncture Imran Mohd Rasid
+      (Malaysia) Executive Director of Citizens International Aly Bakkali (Belgium)
+      President of Partie Islam , antiwar activist Fatma Orgel (Turkey) Physician at
+      Esenler Clinic, antiwar activist Gurhan Ertur (Turkey) Director of the NGO Citizen
+      Initiative , antiwar activist Luca Arrighi (Italy) Logician and designer of deterministic
+      governance architectures Dave Cannon (UK) Chair of Jewish Network for Palestine
+      Fatma Akdokur (Turkey) Theology Instructor, antiwar activist Houman Mortazavi
+      (Canada) Barrister and Solicitor, antiwar activist S.Q Massod (India) Secretary
+      of ASEEM , antiwar activist Richard Ray (USA) Editor and Antiwar Activist Shabbir
+      Ali Warsi (India) Scholar and Antiwar Activist Abbas Ali (UK) InMinds Human Rights
+      Group Norma Hashim (Malaysia) Treasurer of Viva Palestina Malaysia Saidi Nordine
+      (Belgium) Co-spokesperson of Bruxelles Pantheres Iqbal Jassat (South Africa) Executive
+      Member of Media Review Network Syed Farid Nizami (India) Scholar and Antiwar Activist
+      Asif Ali Zaidi (India) Lawyer and Researcher, antiwar activist Kerem Ali (UK)
+      Spokesperson of Palestine Pulse Syed Mounis Abidi (India) Human Rights Lawyer,
+      antiwar activist Joe Lorincz (Australia) Wentworth Falls NSW Mouhad Reghif (Belgium)
+      Co-spokesperson of Bruxelles Pantheres Signatories are signing in their individual
+      capacities and affiliations are for identification purposes only.'
+    one_sentence_summary: The article discusses a declaration by a coalition of international
+      scholars and former officials advocating for six non-negotiable terms to end U.S.
+      aggression against Iran, emphasizing the need for global conscience and active
+      resistance against imperialism and war crimes.
+    paragraph_summary: The article discusses a declaration titled "A Declaration to
+      the Conscience of Humanity," signed by over 170 prominent figures from 30 countries,
+      including former officials, scholars, and activists, who criticize U.S. foreign
+      policy and its role in the ongoing conflict with Iran amid a failing ceasefire
+      agreement. The signatories, primarily from Western nations but also including
+      voices from Asia, Latin America, and Africa, outline six non-negotiable terms
+      to end the U.S. war on Iran and advocate for a new international order that prioritizes
+      sovereignty and resists Western domination. They emphasize the need for humanity
+      to reject the prevailing ethos of exploitation and to actively work towards a
+      more just global society, reflecting a collective conscience against the perceived
+      moral decay represented by current U.S. leadership and its aggressive stance.
+    published: '2026-04-09T18:33:31+00:00'
   - title: Streaming Kelly Lecture on Iran War and Civilizational Threat
     url: https://richardfalk.org/2026/04/07/streaming-kelly-lecture-on-iran-war-and-civilizational-threat/
     text: 'Watch Tonight’s Kelly Lecture by Prof. Richard Falk Live — Streaming Link

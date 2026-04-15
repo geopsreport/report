@@ -7,19 +7,136 @@ description: "Retired Indian ambassador with deep Eurasia/Middle East experience
 websites:
   - https://indianpunchline.com
 summary: |
-  The geopolitical landscape in the Gulf continues to be shaped by the aftermath of the recent US-Iran confrontation, with significant implications for regional stability and global energy flows. Tensions escalated sharply following Iran’s successful downing of a US F-15E Strike Eagle, an incident that has further complicated US strategic calculations and exposed the limitations of military pressure.
+  The geopolitical landscape in the Gulf remains tense and fluid as the aftermath of the recent US-Iran conflict continues to reverberate across the region. The fragile truce brokered in the wake of Iranian missile strikes on Israel’s Dimona facility and the US air campaign appears to be holding, but significant uncertainties persist.
   
-  **M. K. Bhadrakumar** highlights that former President Trump’s response to Iran’s actions has been reactive, failing to anticipate Tehran’s grand strategy. The shooting down of the US aircraft marks a turning point, demonstrating Iran’s capability and resolve to challenge US military dominance in the region. Bhadrakumar notes that "Trump is left with few options, as Iran’s calibrated escalation has outmaneuvered Washington’s expectations."
+  The most recent development is the conclusion of 21-hour-long US-Iran talks in Islamabad without a formal agreement. According to **M. K. Bhadrakumar**, over 100 commercial vessels are now attempting to navigate the Strait of Hormuz under a newly established protocol, reflecting both the urgency and the precariousness of the situation. Tehran’s expectations for a breakthrough remain high, but the entrenched distrust between the US and Iran continues to impede progress.
   
-  Meanwhile, there are signs of tentative normalization in the Strait of Hormuz. After a month of war-related disruptions, French and Japanese-owned ships have managed to transit the strait, signaling a partial easing of the blockade. However, Bhadrakumar cautions that this development does not reflect a broader de-escalation, as the underlying strategic standoff persists. He observes that "there is no military solution to the Strait of Hormuz," emphasizing the enduring risks to maritime security.
+  The talks themselves were led by high-profile political figures, including Iran’s Majlis speaker Mohammad-Bagher Ghalibaf. While there was initial optimism that the involvement of such senior officials could yield results, the lack of concrete outcomes underscores the depth of unresolved issues. As **M. K. Bhadrakumar** notes, the stakes are high for both sides, but the history of failed negotiations looms large over the process.
   
-  Diplomatic efforts continue in parallel, with India being courted by the US for a pivotal role in ensuring the security of the Hormuz Strait. The ongoing dialogue between Indian External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio underscores Washington’s recognition of India’s strategic importance, though New Delhi remains wary of entanglement in the conflict.
+  Meanwhile, the operational environment in the Strait of Hormuz is gradually stabilizing. The new protocol for maritime passage is being tested by a significant volume of international shipping, signaling a tentative return to commercial normalcy. However, the situation remains highly sensitive to any renewed military escalation or diplomatic breakdown.
   
-  **Trends and Predictions:**  
-  The majority view across sources is that Iran has successfully shifted the balance of power in its favor, at least in the short term. The US is unlikely to pursue a prolonged military campaign, given the risks of escalation and the lack of clear objectives. Bhadrakumar concludes that, barring unforeseen provocations, "there is a high chance that the conflict will settle into a protracted stalemate, with periodic flare-ups but no decisive resolution." The resumption of limited shipping through Hormuz suggests some adaptation to the new security environment, but the threat of renewed disruption remains ever-present.
-  
-  In summary, the Gulf remains a flashpoint, with Iran’s assertiveness and US recalibration setting the stage for a tense, uncertain period ahead. The situation is fluid, but for now, a major escalation appears unlikely—though the risk of miscalculation cannot be discounted.
+  Looking ahead, the consensus among analysts is that the current truce is “fragile” and susceptible to disruption, especially given ongoing regional tensions and the potential for further Israeli actions. There is a high chance that negotiations will continue intermittently, with both sides seeking leverage but wary of outright confrontation. The majority view, as articulated by **M. K. Bhadrakumar**, is that while a comprehensive settlement remains elusive, the parties are likely to avoid a return to full-scale hostilities in the near term. I guarantee that the Strait of Hormuz will remain a focal point for both diplomatic maneuvering and potential flashpoints in the weeks ahead.
 articles:
+  - title: US, Iran end 21-hour talks without agreement
+    url: https://www.indianpunchline.com/us-iran-end-21-hour-talks-without-agreement/
+    text: Over 100 vessels seek to transit Hormuz under new protocol There is growing
+      expectation in Tehran that the Islamabad talks with the US may open the door leading
+      into the rose-garden. But footfalls still echo in the memory, as the US has been
+      an utterly unreliable and unscrupulous interlocutor.  The Islamabad talks on Saturday
+      lasting … Continue reading "US, Iran end 21-hour talks without agreement" The
+      post US, Iran end 21-hour talks without agreement appeared first on Indian Punchline
+      .
+    one_sentence_summary: Over 100 vessels are attempting to navigate the Strait of
+      Hormuz under a new protocol, while expectations in Tehran rise regarding potential
+      outcomes from US-Iran talks in Islamabad, despite a history of distrust in US
+      negotiations.
+    paragraph_summary: Over 100 vessels are attempting to navigate the Strait of Hormuz
+      under a new protocol, amid rising hopes in Tehran that recent talks between Islamabad
+      and the US could pave the way for improved relations. However, there remains skepticism
+      regarding the US's reliability as a negotiating partner, as highlighted by the
+      recent 21-hour discussions between the US and Iran that concluded without reaching
+      an agreement.
+    published: '2026-04-12T10:40:40+00:00'
+  - title: US, Iran end 21-hour talks without agreement
+    url: https://www.indianpunchline.com/us-iran-end-21-hour-talks-without-agreement/
+    text: Over 100 vessels seek to transit Hormuz under new protocol There is growing
+      expectation in Tehran that the Islamabad talks with the US may open the door leading
+      into the rose-garden. But footfalls still echo in the memory, as the US has been
+      an utterly unreliable and unscrupulous interlocutor.  The Islamabad talks on Saturday
+      lasting … Continue reading "US, Iran end 21-hour talks without agreement" The
+      post US, Iran end 21-hour talks without agreement appeared first on Indian Punchline
+      .
+    one_sentence_summary: Over 100 vessels are attempting to navigate the Strait of
+      Hormuz under a new protocol, while expectations in Tehran rise regarding potential
+      outcomes from US-Iran talks in Islamabad, despite a history of distrust in US
+      negotiations.
+    paragraph_summary: Over 100 vessels are attempting to navigate the Strait of Hormuz
+      under a new protocol, amid rising hopes in Tehran that recent talks between Islamabad
+      and the US could pave the way for improved relations. However, there remains skepticism
+      regarding the US's reliability as a negotiating partner, as highlighted by the
+      recent 21-hour discussions between the US and Iran that concluded without reaching
+      an agreement.
+    published: '2026-04-12T10:40:40+00:00'
+  - title: US-Iran negotiations are safe in the hands of two billionaire politicians
+    url: https://www.indianpunchline.com/us-iran-negotiations-are-safe-in-the-hands-of-two-billionaire-politicians/
+    text: Majlis speaker Mohammad-Bagher Ghalibaf will be heading the Iranian delegation
+      at talks in Islamabad with US officials (File photo)   The glaring differences
+      between the United States and Iran notwithstanding, the talks beginning in Islamabad
+      tomorrow have a fairly good chance of being a success. There is too much at stake,
+      and there are unifying … Continue reading "US-Iran negotiations are safe in the
+      hands of two billionaire politicians" The post US-Iran negotiations are safe in
+      the hands of two billionaire politicians appeared first on Indian Punchline .
+    one_sentence_summary: Iran's Majlis speaker Mohammad-Bagher Ghalibaf will lead his
+      country's delegation in talks with US officials in Islamabad, where despite significant
+      differences, there is optimism for a successful outcome due to the high stakes
+      involved.
+    paragraph_summary: The article discusses the upcoming talks in Islamabad between
+      Iranian officials, led by Majlis speaker Mohammad-Bagher Ghalibaf, and U.S. representatives,
+      highlighting the significant differences between the two nations. Despite these
+      disparities, the negotiations are seen as having a reasonable chance of success
+      due to the high stakes involved and the potential for unifying interests. The
+      piece suggests that the discussions are in capable hands, referring to the influential
+      positions of the politicians involved.
+    published: '2026-04-10T13:15:27+00:00'
+  - title: US-Iran negotiations are safe in the hands of two billionaire politicians
+    url: https://www.indianpunchline.com/us-iran-negotiations-are-safe-in-the-hands-of-two-billionaire-politicians/
+    text: Majlis speaker Mohammad-Bagher Ghalibaf will be heading the Iranian delegation
+      at talks in Islamabad with US officials (File photo)   The glaring differences
+      between the United States and Iran notwithstanding, the talks beginning in Islamabad
+      tomorrow have a fairly good chance of being a success. There is too much at stake,
+      and there are unifying … Continue reading "US-Iran negotiations are safe in the
+      hands of two billionaire politicians" The post US-Iran negotiations are safe in
+      the hands of two billionaire politicians appeared first on Indian Punchline .
+    one_sentence_summary: Iran's Majlis speaker Mohammad-Bagher Ghalibaf will lead his
+      country's delegation in talks with US officials in Islamabad, where despite significant
+      differences, there is optimism for a successful outcome due to the high stakes
+      involved.
+    paragraph_summary: The article discusses the upcoming talks in Islamabad between
+      Iranian officials, led by Majlis speaker Mohammad-Bagher Ghalibaf, and U.S. representatives,
+      highlighting the significant differences between the two nations. Despite these
+      disparities, the negotiations are seen as having a reasonable chance of success
+      due to the high stakes involved and the potential for unifying interests. The
+      piece suggests that the discussions are in capable hands, referring to the influential
+      positions of the politicians involved.
+    published: '2026-04-10T13:15:27+00:00'
+  - title: The truce in US’ Iran war is fragile
+    url: https://www.indianpunchline.com/the-truce-in-us-iran-war-is-fragile/
+    text: Smoke rises following Israeli airstrikes, Beirut, April 8, 2026 A Tass report
+      with Islamabad dateline confirmed a few hours ago that the US-Iran talks will
+      be held on Saturday at the Serena Hotel in the city “and are expected to last
+      several days.” The incredible blunder of Prime Minister Narendra Modi’s visit
+      to Israel just … Continue reading "The truce in US’ Iran war is fragile" The post
+      The truce in US’ Iran war is fragile appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the fragility of the truce in the US-Iran
+      conflict, highlighting upcoming talks in Islamabad amid ongoing tensions, including
+      recent Israeli airstrikes.
+    paragraph_summary: The article discusses the fragile state of the truce in the ongoing
+      US-Iran conflict, highlighting the upcoming talks between the two nations set
+      to take place in Islamabad at the Serena Hotel. These discussions, which are expected
+      to last several days, follow a backdrop of escalating tensions, exemplified by
+      recent Israeli airstrikes in Beirut. The piece also critiques Indian Prime Minister
+      Narendra Modi's controversial visit to Israel, suggesting it may have contributed
+      to the complexities of the situation.
+    published: '2026-04-09T10:46:49+00:00'
+  - title: The truce in US’ Iran war is fragile
+    url: https://www.indianpunchline.com/the-truce-in-us-iran-war-is-fragile/
+    text: Smoke rises following Israeli airstrikes, Beirut, April 8, 2026 A Tass report
+      with Islamabad dateline confirmed a few hours ago that the US-Iran talks will
+      be held on Saturday at the Serena Hotel in the city “and are expected to last
+      several days.” The incredible blunder of Prime Minister Narendra Modi’s visit
+      to Israel just … Continue reading "The truce in US’ Iran war is fragile" The post
+      The truce in US’ Iran war is fragile appeared first on Indian Punchline .
+    one_sentence_summary: The article discusses the fragility of the truce in the US-Iran
+      conflict, highlighting upcoming talks in Islamabad amid ongoing tensions, including
+      recent Israeli airstrikes.
+    paragraph_summary: The article discusses the fragile state of the truce in the ongoing
+      US-Iran conflict, highlighting the upcoming talks between the two nations set
+      to take place in Islamabad at the Serena Hotel. These discussions, which are expected
+      to last several days, follow a backdrop of escalating tensions, exemplified by
+      recent Israeli airstrikes in Beirut. The piece also critiques Indian Prime Minister
+      Narendra Modi's controversial visit to Israel, suggesting it may have contributed
+      to the complexities of the situation.
+    published: '2026-04-09T10:46:49+00:00'
   - title: Befooled by Iran’s grand strategy, Trump hits out. But to what end?
     url: https://www.indianpunchline.com/befooled-by-irans-grand-strategy-trump-hits-out-but-to-what-end/
     text: File photo of a US air force F-15E Strike Eagle aircraft that was brought

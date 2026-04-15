@@ -7,16 +7,1695 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Tensions between Iran, the US, and Israel remain high as diplomatic and military maneuvers continue to shape the regional landscape. The latest statements from Iran’s Supreme National Security Council clarify Tehran’s position on a proposed two-week ceasefire: Iran has not agreed to a formal cessation of hostilities but is willing to halt retaliatory actions if Israel and the US suspend their attacks. Meanwhile, Iran maintains its leverage over the Strait of Hormuz, signaling its intent to control access and potentially reap significant financial gains from shipping fees.
+  The ongoing US-Iran conflict remains at a critical juncture, with recent developments highlighting both the fragility of diplomatic efforts and the shifting narratives emerging from Washington. Over the past 48 hours, the focus has turned to President Donald Trump’s evolving rhetoric and the implications for US policy in the region.
   
-  **Larry C. Johnson** highlights that Iran’s stance is not a concession but a tactical pause, keeping pressure on adversaries while maximizing economic opportunities. The control of the Strait remains a critical bargaining chip, and Iran’s willingness to monetize this control could shift the economic calculus for global shipping and energy markets.
+  The latest analysis by **Larry C. Johnson** suggests that President Trump is actively shaping a new “nuclear narrative” as a potential justification for disengaging from the war with Iran. Johnson argues that this narrative, emphasizing exaggerated US military and economic pressure on Iran, is likely intended as “propaganda aimed at creating a narrative for a potential exit from the conflict, driven by his declining poll ratings and internal criticism.” This marks a notable shift from previous weeks, where the administration insisted on military victory and continued escalation.
   
-  On the military front, recent revelations shed light on the US narrative surrounding the rescue of a downed F-15E crew. According to **Larry C. Johnson**, the Trump administration’s account of the Combat Search and Rescue (CSAR) mission was deliberately exaggerated. The CIA and Pentagon orchestrated a disinformation campaign to mislead Iranian authorities about the true crash site, underscoring the ongoing information warfare that accompanies kinetic operations.
+  Meanwhile, the diplomatic front remains stalled. In a recent interview, Professor Seyed Mohammad Marandi told **Larry C. Johnson** that Iran entered the Islamabad negotiations from a position of strength, “maintaining its key preconditions, including a comprehensive ceasefire, rather than relying on American assurances.” This underscores Tehran’s confidence, bolstered by its military successes and continued control over the Strait of Hormuz—a vital chokepoint for global oil supplies.
   
-  Looking ahead, the situation remains volatile. Iran’s refusal to formally agree to a ceasefire, coupled with its economic maneuvers in the Strait of Hormuz, suggests that Tehran is playing a long game—balancing military deterrence with economic leverage. The US, for its part, continues to rely on both military pressure and information operations to shape perceptions and outcomes.
+  On the operational side, the US Navy’s blockade strategy is facing logistical and tactical constraints. As previously reported by **Johnson**, the US is “unlikely to deploy close to Iran’s shores due to past attacks on its ships,” forcing interdictions to take place far from Iranian waters and relying on specific naval assets. This reduces the blockade’s effectiveness and further complicates US efforts to pressure Iran economically.
   
-  **Prediction:** There is a high chance that the standoff will persist, with neither side willing to make significant concessions in the short term. I guarantee that Iran will continue to use the Strait of Hormuz as leverage, and most definitely, information warfare will remain a key component of US strategy. The risk of escalation remains, but both sides appear to be calibrating their actions to avoid a full-scale conflict for now.
+  **Trends and Predictions:**  
+  The majority of independent analysis now points to a high likelihood that the Trump administration is seeking an exit strategy, possibly using the threat of nuclear escalation as political cover. Iran’s negotiating position remains robust, with little incentive to concede without a comprehensive ceasefire that includes Israel. Given these dynamics, I assess with high confidence that the current stalemate will persist in the short term, with both sides maneuvering for leverage but no imminent breakthrough expected. The risk of miscalculation remains, but the trend is toward rhetorical escalation rather than immediate military intensification.
 articles:
+  - title: Is Donald Trump Trying to Create a Nuclear Narrative as his Escape ramp from
+      the War with Iran?
+    url: https://sonar21.com/is-donald-trump-trying-to-create-a-nuclear-narrative-as-his-escape-ramp-from-the-war-with-iran/
+    text: 'If you set aside your logic and rational thought and listen instead to what
+      Donald Trump and his media echo chamber is saying about the war with Iran you
+      are hearing this: The US has wiped out Iran’s military capabilities. The nuclear
+      program is obliterated. Iran’s economy is shattered and it is looking for a way
+      to be reintegrated into the global economy. The current US blockade of Iranian
+      ports from outside the Strait of Hormuz is a smashing success and has bankrupted
+      the Iranian economy. All of this is essentially propaganda. What I do not know
+      is whether Trump and his team sincerely believe this tripe or are they building
+      a narrative to gaslight the public and create a reason for  the US to exit the
+      war with Iran? I think Donald Trump’s collapsing poll ratings and growing criticism
+      of this social media antics from within his MAGA base has alarmed Susie Wiles
+      and accelerated the hunt for a viable exit plan. This headline from FoxBuisness
+      is the latest example of Trump’s new narrative construction project: Trump says
+      Iran war is ‘very close to being over’ as peace talks are expected to resume .
+      Here are the key points: President Donald Trump said the U.S.-Iran war is “very
+      close” to an end as hostilities ease amid a two-week ceasefire agreement. “I think
+      it’s close to over, yeah. I view it as very close to being over,” Trump told FOX
+      Business anchor Maria Bartiromo in an interview that will air on “Mornings with
+      Maria” on Wednesday. . . . Despite Trump saying the war is nearing an end, he
+      also said the U.S. is not done. “If I pulled up stakes right now, it would take
+      them 20 years to rebuild that country. And we’re not finished,” he said. “We’ll
+      see what happens. I think they want to make a deal very badly. . . . Trump justified
+      his entrance into the Middle East conflict, telling “Mornings with Maria” it was
+      necessary to disarm Iran’s nuclear capabilities . “I had to divert because if
+      I didn’t do that, right now, you’d have Iran with a nuclear weapon,” Trump said.
+      “And if they had a nuclear weapon, you’d be calling everybody over there ‘sir,’
+      and you don’t want to do that.” Trump’s erratic comments on relations with Iran
+      and the state of the war have jumped from one extreme to another over the course
+      of the last 10 days. However, I think we do have a clue about Trump’s thinking
+      based on JD Vance’s final address to the press prior to departing Islamabad on
+      Saturday, when he singled out Iran’s refusal to compromise on nuclear enrichment
+      as the major obstacle to an agreement to end the war… He was saying that on instructions
+      from the White House. In a recent speech to Turning Point USA, Vance signaled
+      what Trump’s exit plan may be: Trump says to Iran: “If you commit to not having
+      a nuclear weapon, we are going to make Iran economically thrive.” Today we have
+      Donald Trump, during his interview with Maria Bartiromo, reiterating the anti-nuke
+      theme… i.e., necessary to disarm Iran’s nuclear capabilities . Gone are justifications
+      involving regime change or opening the Strait of Hormuz. The central issue now
+      is whether Iran will build a nuke. Retired US Army Lt. Colonel Danny Davis (watch
+      his podcast, Deep Dive ) has an interesting take on what Trump might do in the
+      next two weeks: I have a theory developing, which could explain how Trump is planning
+      to end this war that cannot be militarily won. Earlier this afternoon I was contacted
+      by a source in London, that claimed four separate well placed British assets all
+      corroborated the same story, that once the cease-fire is over, Trump will unload
+      a massive missile barrage throughout Iran, destroying any military targets on
+      the ground still left standing, and pound away at many of these missile cities
+      in the sides of mountains. The sources didn’t understand what that was supposed
+      to accomplish, only that all of the pieces were in place to make it happen, and
+      the additional ammunition had been delivered to fwd operating bases. When you
+      combine that with what Trump just said on Fox Business News tonight, I’m now thinking
+      that Trump is going to unleash this massive aerial bombardment, and then just
+      claimed that he has militarily won the war, and walk away! He is teasing out that
+      exact concept in this 30 second clip here, where he tells Maria Bartiromo that
+      the war is “almost over” and that it will take 20 years for Iran to recover. So
+      he will just declare the nuclear program obliterated, the missile program obliterated,
+      and their conventional military utterly destroyed, and therefore they are no longer
+      a threat. There is no indication from the Iranian side that a new round of talks
+      is set for this week, but people around Trump are leaking that to the press. Consider
+      this question… Was Vance’s walkout of the negotiations in Islamabad a bit of theater?
+      If the US asks Pakistan to host again and the US meets with the Iranian delegation
+      and offers them a deal that is essentially JCPOA with no time limit, then Trump
+      could claim that he has secured a permanent commitment from Iran to never build
+      a nuke. But there are several obstacles to reaching such an agreement… The biggest
+      one is Lebanon and the war with Hezbollah. Iran is not going to abandon Hezbollah,
+      which means that Israel will have to agree to withdraw its troops from Lebanon
+      in exchange for Hezbollah’s agreement to stop firing drones, rockets and missiles
+      into Israel or the war will continue, with Iran assisting Hezbollah. I doubt that
+      Trump will abandon Israel, so the absence of a ceasefire between Hezbollah and
+      Israel would be a deal breaker. Besides the nuclear agreement scenario, Fox News
+      is pushing another narrative, i.e., The blockade is super effective, Iran is running
+      out of money and is begging to renew negotiations. That narrative is a lie, but
+      that is the story the White House is pushing to explain why it may be sitting
+      down with Iranian officials, perhaps this week. The bet that the blockade will
+      force Iran back to the negotiating table ready to surrender is based on the following
+      (questionable) assumptions in an article posted by Miad Maleki . I would note
+      that Maleki has a solid track record of being consistently wrong in his predictions,
+      but the nonsense he is spewing is being gobbled up in the Trump White House by
+      nervous Zionists. Maleki writes: Over 90% of Iran’s seaborne trade transits the
+      Strait of Hormuz. Shahid Rajaee (Bandar Abbas) alone handles 53% of all cargo
+      operations. Imam Khomeini handles 58% of basic goods imports. Bushehr ports moved
+      57M tons last year. All deep inside the Gulf. ALTERNATIVES? Iran’s options outside
+      the Strait are negligible. Jask, the much-touted bypass, operates at a fraction
+      of its 1M bbl/day design capacity. Only 10 of 20 storage tanks were built. Effective
+      throughput: ~70K bbl/day. Chabahar handles just 8.5M tons/year. The five Caspian
+      ports combined handle 11M tons, versus 220M+ through the Gulf. IMPORTS: Iran imported
+      $58B in goods in 2025, ~$159M/day. A blockade chokes off industrial inputs, machinery,
+      and consumer goods. Food inflation already hit 105% by February 2026. Rice prices
+      are up 7x. This gets dramatically worse under blockade. Blockade will hopefully
+      allow offloading of the humanitarian cargos. Extremely important topic is the
+      storage clock: Iran has ~50-55M barrels of total onshore oil storage, roughly
+      60% full. Spare capacity: ~20M barrels. With 1.5M bbl/day of surplus production
+      that normally exports, storage fills in ~13 DAYS. After that, Iran must shut in
+      wells. When mature oil wells shut down, bottom water rushes in, a process called
+      water coning. Oil droplets get permanently trapped in rock pores. This oil can
+      never be recovered. Iran’s fields already decline 5-8% annually. Forced shut-ins
+      could permanently destroy 300,000-500,000 bbl/day of production capacity, that’s
+      $9-15B/year in revenue, gone forever. CURRENCY COLLAPSE ACCELERANT: The rial has
+      already cratered from 42,000 to 1.5M per dollar. Banks are limiting withdrawals
+      to $18-30/day. Overall inflation: 47.5%. A blockade eliminating all forex earnings
+      pushes the rial into terminal hyperinflation. The regime issued its largest-ever
+      banknote, 10M rials, worth about $7. BOTTOM LINE: A naval blockade imposes ~$435M/day
+      in combined economic damage. Storage fills in 13 days, forcing well shut-ins that
+      cause permanent reservoir damage. The rial enters terminal collapse. Iran’s alternatives
+      outside the Strait can replace less than 10% of Gulf throughput. The blockade
+      makes continued resistance economically impossible. Despite Western news reports
+      claiming the blockade is a great success, it is a charade… so far at least. If
+      the US begins, or tries, to interdict ships — especially those headed to China
+      — then the potential for the blockade to explode into a larger war is significant.
+      But looking at the price of oil futures (see oilprice.com), the folks trading
+      oil futures are firmly convinced that the war is coming to an end and the current
+      shortage of oil will be short lived. I think that is delusional. Unless and until
+      the US fully complies with Iran’s 10-point plan, the Strait of Hormuz will be
+      closed to all ships serving Western interests, the shortage of oil will persist
+      and the war will continue. The current cease fire expires Monday, April 20 and
+      Iran is prepared to continue fighting. The wild card remains Donald Trump… What
+      will he do? I did an interview on Monday with Jyotishman Mudiar who hosts the
+      channel, India & Gobal Left : And I was interviewed by Amar: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's portrayal of the U.S.
+      military and economic impact on Iran, suggesting it may be propaganda aimed at
+      creating a narrative for a potential exit from the conflict, driven by his declining
+      poll ratings and internal criticism.
+    paragraph_summary: The article critiques Donald Trump's portrayal of the U.S.-Iran
+      conflict, suggesting that his claims about Iran's military and economic collapse
+      are largely propaganda. It questions whether Trump genuinely believes this narrative
+      or is attempting to manipulate public perception to justify a potential exit from
+      the war as his poll ratings decline. Trump recently stated in an interview that
+      the war is "very close to being over," while also asserting that the U.S. has
+      not finished its objectives, particularly regarding Iran's nuclear capabilities.
+      The article implies that this narrative may be a strategic move to alleviate growing
+      criticism and seek a viable exit plan from the conflict.
+    published: '2026-04-15T04:27:33+00:00'
+  - title: Is Donald Trump Trying to Create a Nuclear Narrative as his Escape ramp from
+      the War with Iran?
+    url: https://sonar21.com/is-donald-trump-trying-to-create-a-nuclear-narrative-as-his-escape-ramp-from-the-war-with-iran/
+    text: 'If you set aside your logic and rational thought and listen instead to what
+      Donald Trump and his media echo chamber is saying about the war with Iran you
+      are hearing this: The US has wiped out Iran’s military capabilities. The nuclear
+      program is obliterated. Iran’s economy is shattered and it is looking for a way
+      to be reintegrated into the global economy. The current US blockade of Iranian
+      ports from outside the Strait of Hormuz is a smashing success and has bankrupted
+      the Iranian economy. All of this is essentially propaganda. What I do not know
+      is whether Trump and his team sincerely believe this tripe or are they building
+      a narrative to gaslight the public and create a reason for  the US to exit the
+      war with Iran? I think Donald Trump’s collapsing poll ratings and growing criticism
+      of this social media antics from within his MAGA base has alarmed Susie Wiles
+      and accelerated the hunt for a viable exit plan. This headline from FoxBuisness
+      is the latest example of Trump’s new narrative construction project: Trump says
+      Iran war is ‘very close to being over’ as peace talks are expected to resume .
+      Here are the key points: President Donald Trump said the U.S.-Iran war is “very
+      close” to an end as hostilities ease amid a two-week ceasefire agreement. “I think
+      it’s close to over, yeah. I view it as very close to being over,” Trump told FOX
+      Business anchor Maria Bartiromo in an interview that will air on “Mornings with
+      Maria” on Wednesday. . . . Despite Trump saying the war is nearing an end, he
+      also said the U.S. is not done. “If I pulled up stakes right now, it would take
+      them 20 years to rebuild that country. And we’re not finished,” he said. “We’ll
+      see what happens. I think they want to make a deal very badly. . . . Trump justified
+      his entrance into the Middle East conflict, telling “Mornings with Maria” it was
+      necessary to disarm Iran’s nuclear capabilities . “I had to divert because if
+      I didn’t do that, right now, you’d have Iran with a nuclear weapon,” Trump said.
+      “And if they had a nuclear weapon, you’d be calling everybody over there ‘sir,’
+      and you don’t want to do that.” Trump’s erratic comments on relations with Iran
+      and the state of the war have jumped from one extreme to another over the course
+      of the last 10 days. However, I think we do have a clue about Trump’s thinking
+      based on JD Vance’s final address to the press prior to departing Islamabad on
+      Saturday, when he singled out Iran’s refusal to compromise on nuclear enrichment
+      as the major obstacle to an agreement to end the war… He was saying that on instructions
+      from the White House. In a recent speech to Turning Point USA, Vance signaled
+      what Trump’s exit plan may be: Trump says to Iran: “If you commit to not having
+      a nuclear weapon, we are going to make Iran economically thrive.” Today we have
+      Donald Trump, during his interview with Maria Bartiromo, reiterating the anti-nuke
+      theme… i.e., necessary to disarm Iran’s nuclear capabilities . Gone are justifications
+      involving regime change or opening the Strait of Hormuz. The central issue now
+      is whether Iran will build a nuke. Retired US Army Lt. Colonel Danny Davis (watch
+      his podcast, Deep Dive ) has an interesting take on what Trump might do in the
+      next two weeks: I have a theory developing, which could explain how Trump is planning
+      to end this war that cannot be militarily won. Earlier this afternoon I was contacted
+      by a source in London, that claimed four separate well placed British assets all
+      corroborated the same story, that once the cease-fire is over, Trump will unload
+      a massive missile barrage throughout Iran, destroying any military targets on
+      the ground still left standing, and pound away at many of these missile cities
+      in the sides of mountains. The sources didn’t understand what that was supposed
+      to accomplish, only that all of the pieces were in place to make it happen, and
+      the additional ammunition had been delivered to fwd operating bases. When you
+      combine that with what Trump just said on Fox Business News tonight, I’m now thinking
+      that Trump is going to unleash this massive aerial bombardment, and then just
+      claimed that he has militarily won the war, and walk away! He is teasing out that
+      exact concept in this 30 second clip here, where he tells Maria Bartiromo that
+      the war is “almost over” and that it will take 20 years for Iran to recover. So
+      he will just declare the nuclear program obliterated, the missile program obliterated,
+      and their conventional military utterly destroyed, and therefore they are no longer
+      a threat. There is no indication from the Iranian side that a new round of talks
+      is set for this week, but people around Trump are leaking that to the press. Consider
+      this question… Was Vance’s walkout of the negotiations in Islamabad a bit of theater?
+      If the US asks Pakistan to host again and the US meets with the Iranian delegation
+      and offers them a deal that is essentially JCPOA with no time limit, then Trump
+      could claim that he has secured a permanent commitment from Iran to never build
+      a nuke. But there are several obstacles to reaching such an agreement… The biggest
+      one is Lebanon and the war with Hezbollah. Iran is not going to abandon Hezbollah,
+      which means that Israel will have to agree to withdraw its troops from Lebanon
+      in exchange for Hezbollah’s agreement to stop firing drones, rockets and missiles
+      into Israel or the war will continue, with Iran assisting Hezbollah. I doubt that
+      Trump will abandon Israel, so the absence of a ceasefire between Hezbollah and
+      Israel would be a deal breaker. Besides the nuclear agreement scenario, Fox News
+      is pushing another narrative, i.e., The blockade is super effective, Iran is running
+      out of money and is begging to renew negotiations. That narrative is a lie, but
+      that is the story the White House is pushing to explain why it may be sitting
+      down with Iranian officials, perhaps this week. The bet that the blockade will
+      force Iran back to the negotiating table ready to surrender is based on the following
+      (questionable) assumptions in an article posted by Miad Maleki . I would note
+      that Maleki has a solid track record of being consistently wrong in his predictions,
+      but the nonsense he is spewing is being gobbled up in the Trump White House by
+      nervous Zionists. Maleki writes: Over 90% of Iran’s seaborne trade transits the
+      Strait of Hormuz. Shahid Rajaee (Bandar Abbas) alone handles 53% of all cargo
+      operations. Imam Khomeini handles 58% of basic goods imports. Bushehr ports moved
+      57M tons last year. All deep inside the Gulf. ALTERNATIVES? Iran’s options outside
+      the Strait are negligible. Jask, the much-touted bypass, operates at a fraction
+      of its 1M bbl/day design capacity. Only 10 of 20 storage tanks were built. Effective
+      throughput: ~70K bbl/day. Chabahar handles just 8.5M tons/year. The five Caspian
+      ports combined handle 11M tons, versus 220M+ through the Gulf. IMPORTS: Iran imported
+      $58B in goods in 2025, ~$159M/day. A blockade chokes off industrial inputs, machinery,
+      and consumer goods. Food inflation already hit 105% by February 2026. Rice prices
+      are up 7x. This gets dramatically worse under blockade. Blockade will hopefully
+      allow offloading of the humanitarian cargos. Extremely important topic is the
+      storage clock: Iran has ~50-55M barrels of total onshore oil storage, roughly
+      60% full. Spare capacity: ~20M barrels. With 1.5M bbl/day of surplus production
+      that normally exports, storage fills in ~13 DAYS. After that, Iran must shut in
+      wells. When mature oil wells shut down, bottom water rushes in, a process called
+      water coning. Oil droplets get permanently trapped in rock pores. This oil can
+      never be recovered. Iran’s fields already decline 5-8% annually. Forced shut-ins
+      could permanently destroy 300,000-500,000 bbl/day of production capacity, that’s
+      $9-15B/year in revenue, gone forever. CURRENCY COLLAPSE ACCELERANT: The rial has
+      already cratered from 42,000 to 1.5M per dollar. Banks are limiting withdrawals
+      to $18-30/day. Overall inflation: 47.5%. A blockade eliminating all forex earnings
+      pushes the rial into terminal hyperinflation. The regime issued its largest-ever
+      banknote, 10M rials, worth about $7. BOTTOM LINE: A naval blockade imposes ~$435M/day
+      in combined economic damage. Storage fills in 13 days, forcing well shut-ins that
+      cause permanent reservoir damage. The rial enters terminal collapse. Iran’s alternatives
+      outside the Strait can replace less than 10% of Gulf throughput. The blockade
+      makes continued resistance economically impossible. Despite Western news reports
+      claiming the blockade is a great success, it is a charade… so far at least. If
+      the US begins, or tries, to interdict ships — especially those headed to China
+      — then the potential for the blockade to explode into a larger war is significant.
+      But looking at the price of oil futures (see oilprice.com), the folks trading
+      oil futures are firmly convinced that the war is coming to an end and the current
+      shortage of oil will be short lived. I think that is delusional. Unless and until
+      the US fully complies with Iran’s 10-point plan, the Strait of Hormuz will be
+      closed to all ships serving Western interests, the shortage of oil will persist
+      and the war will continue. The current cease fire expires Monday, April 20 and
+      Iran is prepared to continue fighting. The wild card remains Donald Trump… What
+      will he do? I did an interview on Monday with Jyotishman Mudiar who hosts the
+      channel, India & Gobal Left : And I was interviewed by Amar: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's portrayal of the U.S.
+      military and economic impact on Iran, suggesting it may be propaganda aimed at
+      creating a narrative for a potential exit from the conflict, driven by his declining
+      poll ratings and internal criticism.
+    paragraph_summary: The article critiques Donald Trump's portrayal of the U.S.-Iran
+      conflict, suggesting that his claims about Iran's military and economic collapse
+      are largely propaganda. It questions whether Trump genuinely believes this narrative
+      or is attempting to manipulate public perception to justify a potential exit from
+      the war as his poll ratings decline. Trump recently stated in an interview that
+      the war is "very close to being over," while also asserting that the U.S. has
+      not finished its objectives, particularly regarding Iran's nuclear capabilities.
+      The article implies that this narrative may be a strategic move to alleviate growing
+      criticism and seek a viable exit plan from the conflict.
+    published: '2026-04-15T04:27:33+00:00'
+  - title: 'Professor Marandi: The US Walked Away in Islamabad'
+    url: https://sonar21.com/professor-marandi-the-us-walked-away-in-islamabad/
+    text: 'Nima conducted an excellent interview of Professor Seyed Mohammad Marandi
+      (University of Tehran), a prominent Iranian analyst and a personal friend of mine,
+      who was part of  the Iranian delegation in Islamabad. The good professor — in
+      the video posted below — provided Nima with a sharp, critical assessment of the
+      recent Iran-US negotiations. Here is my executive summary of what brother Marandi
+      told Nima: Marandi correctly portrayed the negotiations as a US concession forced
+      by Iran’s battlefield successes during the recent conflict (including missile,
+      drone, and defensive capabilities demonstrated over roughly 40 days of war against
+      the “Trump-Netanyahu regimes”). He argued that Iran entered the talks from a position
+      of strength—not weakness or desperation—and used “armed diplomacy” to document
+      positions rather than out of trust in American promises. He emphasized that Iran
+      did not waiver from its key preconditions for the talks, which included: A comprehensive
+      ceasefire (particularly involving Lebanon and Gaza). US fulfillment of prior commitments
+      and respect for Iranian security/assets. No negotiations under pressure or sanctions.
+      Marandi repeatedly stressed that progress depends entirely on the US abiding by
+      its obligations . Without concrete action, “ there is no reason for us to continue
+      negotiating .” He expressed no fear of returning to war, stating Iran is fully
+      prepared for any scenario, including escalation, and has no illusions about the
+      hostile nature of the Trump administration. Marandi was blunt in describing the
+      United States as the enemy of the Palestinian people, the region, and Iran itself,
+      offering the following examples: Facilitating Israel’s slaughtering civilians
+      in Gaza, Lebanon, and (via proxies) Iran. Being captive to the Zionist lobby,
+      which prevents it from controlling Israel or delivering on ceasefires. Using talks
+      hypocritically while maintaining aggression (e.g., sanctions, threats, and sudden
+      moves like those attributed to JD Vance that abruptly ended sessions). Marandi
+      praised Pakistan (and Oman) as true friends of Iran with deep historic and people-to-people
+      ties. He noted Pakistan’s behind-the-scenes support for the resistance and expressed
+      appreciation for its hospitality during the talks. This contrasted sharply with
+      his view of the US and its regional proxies. He framed the broader context as
+      part of the “axis of resistance” heroically defending Palestine. Iran’s steadfastness,
+      despite decades of sanctions, wars, and terrorism, stems from its commitment to
+      this cause—unlike other regional states aligned with Washington. He predicted
+      long-term decline of US hegemony, accelerated by de-dollarization efforts (via
+      BRICS, cooperation with Russia and China), and greater regional strength for the
+      resistance. The most surprising revelation from Professor Marandi was that Iran
+      was prepared for a second day of negotiations but learned belatedly that the US
+      decided, without informing the Iranian delegation, to end the talks and leave.
+      Who does such a thing? It suggests to me that JD Vance was nothing more than an
+      errand boy and that he was ordered by Susie Wiles to stop talking to Iran and
+      leave, using so-called intransigence of Iran over the nuclear issue as an excuse.
+      Anyway, you can watch the full interview for yourself if you have the time: I
+      did my usual Monday schedule, starting the morning with Judge Napolitano: Nima
+      interviewed me following his chat with Professor Marandi: Later in the day I chatted
+      with Shaun Attwood, a British podcaster: I ended the day talking to Steve Yang
+      of Natural Resource Stocks : I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: In an insightful interview, Professor Seyed Mohammad Marandi
+      analyzed the recent Iran-US negotiations, asserting that Iran approached the talks
+      from a position of strength due to its military successes, and maintained its
+      key preconditions, including a comprehensive ceasefire, rather than relying on
+      American assurances.
+    paragraph_summary: In a recent interview with Nima, Professor Seyed Mohammad Marandi
+      from the University of Tehran provided a critical analysis of the Iran-US negotiations,
+      emphasizing that Iran entered the talks from a position of strength due to its
+      military successes in recent conflicts. Marandi argued that the negotiations were
+      a result of US concessions rather than Iranian desperation, highlighting that
+      Iran's key preconditions included a comprehensive ceasefire, US adherence to previous
+      commitments, and negotiations free from pressure or sanctions. He stressed that
+      any progress hinges on the US fulfilling its obligations, and expressed Iran's
+      readiness for any escalation, viewing the US as an adversary to both Iran and
+      the Palestinian people. Marandi criticized the US for its complicity in regional
+      violence and its inability to effectively mediate due to the influence of the
+      Zionist lobby.
+    published: '2026-04-14T04:41:03+00:00'
+  - title: 'Professor Marandi: The US Walked Away in Islamabad'
+    url: https://sonar21.com/professor-marandi-the-us-walked-away-in-islamabad/
+    text: 'Nima conducted an excellent interview of Professor Seyed Mohammad Marandi
+      (University of Tehran), a prominent Iranian analyst and a personal friend of mine,
+      who was part of  the Iranian delegation in Islamabad. The good professor — in
+      the video posted below — provided Nima with a sharp, critical assessment of the
+      recent Iran-US negotiations. Here is my executive summary of what brother Marandi
+      told Nima: Marandi correctly portrayed the negotiations as a US concession forced
+      by Iran’s battlefield successes during the recent conflict (including missile,
+      drone, and defensive capabilities demonstrated over roughly 40 days of war against
+      the “Trump-Netanyahu regimes”). He argued that Iran entered the talks from a position
+      of strength—not weakness or desperation—and used “armed diplomacy” to document
+      positions rather than out of trust in American promises. He emphasized that Iran
+      did not waiver from its key preconditions for the talks, which included: A comprehensive
+      ceasefire (particularly involving Lebanon and Gaza). US fulfillment of prior commitments
+      and respect for Iranian security/assets. No negotiations under pressure or sanctions.
+      Marandi repeatedly stressed that progress depends entirely on the US abiding by
+      its obligations . Without concrete action, “ there is no reason for us to continue
+      negotiating .” He expressed no fear of returning to war, stating Iran is fully
+      prepared for any scenario, including escalation, and has no illusions about the
+      hostile nature of the Trump administration. Marandi was blunt in describing the
+      United States as the enemy of the Palestinian people, the region, and Iran itself,
+      offering the following examples: Facilitating Israel’s slaughtering civilians
+      in Gaza, Lebanon, and (via proxies) Iran. Being captive to the Zionist lobby,
+      which prevents it from controlling Israel or delivering on ceasefires. Using talks
+      hypocritically while maintaining aggression (e.g., sanctions, threats, and sudden
+      moves like those attributed to JD Vance that abruptly ended sessions). Marandi
+      praised Pakistan (and Oman) as true friends of Iran with deep historic and people-to-people
+      ties. He noted Pakistan’s behind-the-scenes support for the resistance and expressed
+      appreciation for its hospitality during the talks. This contrasted sharply with
+      his view of the US and its regional proxies. He framed the broader context as
+      part of the “axis of resistance” heroically defending Palestine. Iran’s steadfastness,
+      despite decades of sanctions, wars, and terrorism, stems from its commitment to
+      this cause—unlike other regional states aligned with Washington. He predicted
+      long-term decline of US hegemony, accelerated by de-dollarization efforts (via
+      BRICS, cooperation with Russia and China), and greater regional strength for the
+      resistance. The most surprising revelation from Professor Marandi was that Iran
+      was prepared for a second day of negotiations but learned belatedly that the US
+      decided, without informing the Iranian delegation, to end the talks and leave.
+      Who does such a thing? It suggests to me that JD Vance was nothing more than an
+      errand boy and that he was ordered by Susie Wiles to stop talking to Iran and
+      leave, using so-called intransigence of Iran over the nuclear issue as an excuse.
+      Anyway, you can watch the full interview for yourself if you have the time: I
+      did my usual Monday schedule, starting the morning with Judge Napolitano: Nima
+      interviewed me following his chat with Professor Marandi: Later in the day I chatted
+      with Shaun Attwood, a British podcaster: I ended the day talking to Steve Yang
+      of Natural Resource Stocks : I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: In an insightful interview, Professor Seyed Mohammad Marandi
+      analyzed the recent Iran-US negotiations, asserting that Iran approached the talks
+      from a position of strength due to its military successes, and maintained its
+      key preconditions, including a comprehensive ceasefire, rather than relying on
+      American assurances.
+    paragraph_summary: In a recent interview with Nima, Professor Seyed Mohammad Marandi
+      from the University of Tehran provided a critical analysis of the Iran-US negotiations,
+      emphasizing that Iran entered the talks from a position of strength due to its
+      military successes in recent conflicts. Marandi argued that the negotiations were
+      a result of US concessions rather than Iranian desperation, highlighting that
+      Iran's key preconditions included a comprehensive ceasefire, US adherence to previous
+      commitments, and negotiations free from pressure or sanctions. He stressed that
+      any progress hinges on the US fulfilling its obligations, and expressed Iran's
+      readiness for any escalation, viewing the US as an adversary to both Iran and
+      the Palestinian people. Marandi criticized the US for its complicity in regional
+      violence and its inability to effectively mediate due to the influence of the
+      Zionist lobby.
+    published: '2026-04-14T04:41:03+00:00'
+  - title: Will Trump’s Order to Blockade Iranian Ports Actually Work?
+    url: https://sonar21.com/will-trumps-order-to-blockade-iranian-ports-actually-work/
+    text: 'The short answer to my question is, No! The US, notwithstanding Trump’s threats,
+      is not going to deploy its Navy ships close to Iran’s shore… The USS Abraham Lincoln
+      (CVN-72) Carrier Strike Group (CSG 3) learned this the hardway in March. The Lincoln
+      CSG got within 210 miles of the Iranian southern coast in March but was forced
+      to retreat to a position about 700 miles from the coast of Iran after it was attacked
+      by a swarm of Iranian missiles and drones. So, any attempts to interdict a tanker
+      will take place hundreds of miles off the coast of Iran. An interdiction of a
+      tanker is normally carried out via a helicopter air assault. This means the US
+      must rely on ships capable of carrying and launching helicopters. At present,
+      there are only three groups of US Navy ships that meet this criteria…The USS Abraham
+      Lincoln (CVN-72) Carrier Strike Group (CSG 3) and the two US Marine Corps MEUs
+      (i.e., Marine Expeditionary Units) — the 11th and the 31st. The 31st MEU consists
+      of the USS Tripoli (LHA-7) — America-class amphibious assault ship. It serves
+      as the primary platform for Marine aviation (including F-35B Lightning IIs, MV-22
+      Ospreys, and helicopters) and command functions. It is supported by the USS New
+      Orleans (LPD-18) — San Antonio-class amphibious transport dock. It arrived with
+      the Tripoli and carries additional Marines, vehicles, and equipment, and by the
+      USS Rushmore (LSD-47) — Whidbey Island-class dock landing ship. It was en route
+      through the Strait of Malacca in early April and is heading to join the group
+      in the Arabian Sea to provide additional heavy equipment and landing craft support.
+      The 11th MEU’s Flagship is the USS Boxer (LHD-4) — Wasp-class amphibious assault
+      ship. It supports Marine aviation with F-35Bs, AV-8B Harriers (in some configurations),
+      Ospreys, and helicopters. It is supported by the USS Portland (LPD-27) — San Antonio-class
+      amphibious transport dock — and the. USS Comstock (LSD-45) — Whidbey Island-class
+      dock landing ship. The Boxer ARG/11th MEU adds another ~4,000–4,500 total personnel
+      (Marines + sailors) and is designed to overlap temporarily with the 31st MEU.
+      This means there are a total of 7 ships that can launch one or more helicopters
+      for a take down mission. What seems like a simple mission becomes a problem when
+      the tankers are 700 miles or more from the Iranian coast… Locating and tracking
+      a ship, even a large tanker, is difficult. The farther the tanker moves from the
+      coast of Iran, the search area grows proportionally larger, making it more difficult
+      to find and locate a target. This ain’t the Caribbean and it certainly is not
+      Venezuela. Trump, in making this announcement, has given the owners of those tankers
+      that are allowed to leave the Persian Gulf ample time to place security teams
+      on board those ships, armed with shoulder-fired MANPADS (i.e., man-portable air-defense
+      system). If any of those tankers are carrying the Chinese of Japanese flag, any
+      attempt to board those ships could be viewed as an act of war by those countries.
+      I don’t think CENTCOM has really thought through the problems and dangers that
+      will arise if CENTCOM actually executes this mission. If you are confused about
+      the difference between a LHA, a LHD, a LPD and a LSD (no, not the drug), here
+      are some photos of the three main types of US Navy amphibious ships mentioned
+      above. [NOTE: The LHA and the LHD are the same type of amphibious ships.] LPD
+      – Amphibious Transport Dock (San Antonio-class) These ships carry Marines, vehicles,
+      landing craft, and have a large well deck for launching amphibious vehicles or
+      small boats. They also feature a small flight deck for helicopters and MV-22 Ospreys.
+      en.wikipedia.org LSD – Dock Landing Ship (Whidbey Island-class) These specialize
+      in carrying and launching heavy landing craft, vehicles, and equipment from a
+      large well deck. They have a smaller flight deck primarily for helicopters. en.wikipedia.org
+      LHD – Amphibious Assault Ship (Wasp-class) These are the largest amphibious ships,
+      functioning like “mini aircraft carriers.” They have a full-length flight deck
+      for helicopters, MV-22 Ospreys, and (in some cases) F-35B fighters, plus a well
+      deck. nationalinterest.org Bonus: LHA – America-class (e.g., USS Tripoli) For
+      context with the 31st MEU, here is the USS Tripoli (LHA-7) , a modern America-class
+      amphibious assault ship similar to an LHD but optimized more for aviation with
+      a larger flight deck and reduced well-deck capacity in some variants. en.wikipedia.org
+      I did back-to-back discussions about the failed negotiations, the first was with
+      Mario Nawfal: I followed Mario’s show with a return appearance on Pyotr Kruzin’s
+      podcast: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The U.S. Navy is unlikely to deploy close to Iran's shores
+      due to past attacks on its ships, necessitating tanker interdictions to occur
+      hundreds of miles away and relying on specific naval assets capable of air assaults.
+    paragraph_summary: 'The article discusses the current stance of the US Navy regarding
+      operations near Iran, specifically in light of past experiences. It asserts that
+      the US will not deploy its Navy ships close to Iran''s shores despite former President
+      Trump''s threats. The USS Abraham Lincoln Carrier Strike Group faced significant
+      challenges when it approached within 210 miles of Iran, being forced to retreat
+      after an attack involving Iranian missiles and drones. Consequently, any future
+      US interdiction efforts will occur hundreds of miles offshore, relying on specific
+      Navy ships capable of launching helicopter air assaults. Currently, only three
+      groups meet these criteria: the USS Abraham Lincoln Carrier Strike Group and two
+      Marine Expeditionary Units (MEUs), which include various amphibious assault ships
+      and support vessels equipped for Marine aviation and operations.'
+    published: '2026-04-13T03:28:18+00:00'
+  - title: Will Trump’s Order to Blockade Iranian Ports Actually Work?
+    url: https://sonar21.com/will-trumps-order-to-blockade-iranian-ports-actually-work/
+    text: 'The short answer to my question is, No! The US, notwithstanding Trump’s threats,
+      is not going to deploy its Navy ships close to Iran’s shore… The USS Abraham Lincoln
+      (CVN-72) Carrier Strike Group (CSG 3) learned this the hardway in March. The Lincoln
+      CSG got within 210 miles of the Iranian southern coast in March but was forced
+      to retreat to a position about 700 miles from the coast of Iran after it was attacked
+      by a swarm of Iranian missiles and drones. So, any attempts to interdict a tanker
+      will take place hundreds of miles off the coast of Iran. An interdiction of a
+      tanker is normally carried out via a helicopter air assault. This means the US
+      must rely on ships capable of carrying and launching helicopters. At present,
+      there are only three groups of US Navy ships that meet this criteria…The USS Abraham
+      Lincoln (CVN-72) Carrier Strike Group (CSG 3) and the two US Marine Corps MEUs
+      (i.e., Marine Expeditionary Units) — the 11th and the 31st. The 31st MEU consists
+      of the USS Tripoli (LHA-7) — America-class amphibious assault ship. It serves
+      as the primary platform for Marine aviation (including F-35B Lightning IIs, MV-22
+      Ospreys, and helicopters) and command functions. It is supported by the USS New
+      Orleans (LPD-18) — San Antonio-class amphibious transport dock. It arrived with
+      the Tripoli and carries additional Marines, vehicles, and equipment, and by the
+      USS Rushmore (LSD-47) — Whidbey Island-class dock landing ship. It was en route
+      through the Strait of Malacca in early April and is heading to join the group
+      in the Arabian Sea to provide additional heavy equipment and landing craft support.
+      The 11th MEU’s Flagship is the USS Boxer (LHD-4) — Wasp-class amphibious assault
+      ship. It supports Marine aviation with F-35Bs, AV-8B Harriers (in some configurations),
+      Ospreys, and helicopters. It is supported by the USS Portland (LPD-27) — San Antonio-class
+      amphibious transport dock — and the. USS Comstock (LSD-45) — Whidbey Island-class
+      dock landing ship. The Boxer ARG/11th MEU adds another ~4,000–4,500 total personnel
+      (Marines + sailors) and is designed to overlap temporarily with the 31st MEU.
+      This means there are a total of 7 ships that can launch one or more helicopters
+      for a take down mission. What seems like a simple mission becomes a problem when
+      the tankers are 700 miles or more from the Iranian coast… Locating and tracking
+      a ship, even a large tanker, is difficult. The farther the tanker moves from the
+      coast of Iran, the search area grows proportionally larger, making it more difficult
+      to find and locate a target. This ain’t the Caribbean and it certainly is not
+      Venezuela. Trump, in making this announcement, has given the owners of those tankers
+      that are allowed to leave the Persian Gulf ample time to place security teams
+      on board those ships, armed with shoulder-fired MANPADS (i.e., man-portable air-defense
+      system). If any of those tankers are carrying the Chinese of Japanese flag, any
+      attempt to board those ships could be viewed as an act of war by those countries.
+      I don’t think CENTCOM has really thought through the problems and dangers that
+      will arise if CENTCOM actually executes this mission. If you are confused about
+      the difference between a LHA, a LHD, a LPD and a LSD (no, not the drug), here
+      are some photos of the three main types of US Navy amphibious ships mentioned
+      above. [NOTE: The LHA and the LHD are the same type of amphibious ships.] LPD
+      – Amphibious Transport Dock (San Antonio-class) These ships carry Marines, vehicles,
+      landing craft, and have a large well deck for launching amphibious vehicles or
+      small boats. They also feature a small flight deck for helicopters and MV-22 Ospreys.
+      en.wikipedia.org LSD – Dock Landing Ship (Whidbey Island-class) These specialize
+      in carrying and launching heavy landing craft, vehicles, and equipment from a
+      large well deck. They have a smaller flight deck primarily for helicopters. en.wikipedia.org
+      LHD – Amphibious Assault Ship (Wasp-class) These are the largest amphibious ships,
+      functioning like “mini aircraft carriers.” They have a full-length flight deck
+      for helicopters, MV-22 Ospreys, and (in some cases) F-35B fighters, plus a well
+      deck. nationalinterest.org Bonus: LHA – America-class (e.g., USS Tripoli) For
+      context with the 31st MEU, here is the USS Tripoli (LHA-7) , a modern America-class
+      amphibious assault ship similar to an LHD but optimized more for aviation with
+      a larger flight deck and reduced well-deck capacity in some variants. en.wikipedia.org
+      I did back-to-back discussions about the failed negotiations, the first was with
+      Mario Nawfal: I followed Mario’s show with a return appearance on Pyotr Kruzin’s
+      podcast: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The U.S. Navy is unlikely to deploy close to Iran's shores
+      due to past attacks on its ships, necessitating tanker interdictions to occur
+      hundreds of miles away and relying on specific naval assets capable of air assaults.
+    paragraph_summary: 'The article discusses the current stance of the US Navy regarding
+      operations near Iran, specifically in light of past experiences. It asserts that
+      the US will not deploy its Navy ships close to Iran''s shores despite former President
+      Trump''s threats. The USS Abraham Lincoln Carrier Strike Group faced significant
+      challenges when it approached within 210 miles of Iran, being forced to retreat
+      after an attack involving Iranian missiles and drones. Consequently, any future
+      US interdiction efforts will occur hundreds of miles offshore, relying on specific
+      Navy ships capable of launching helicopter air assaults. Currently, only three
+      groups meet these criteria: the USS Abraham Lincoln Carrier Strike Group and two
+      Marine Expeditionary Units (MEUs), which include various amphibious assault ships
+      and support vessels equipped for Marine aviation and operations.'
+    published: '2026-04-13T03:28:18+00:00'
+  - title: Trump Refuses Exit Ramp, War with Iran will Continue
+    url: https://sonar21.com/trump-refuses-exit-ramp-war-with-iran-will-continue/
+    text: 'As I expected, the negotiation between the US and Iran failed to reach an
+      agreement. Although JD Vance headed the US team, he was never in control… I have
+      heard from someone who was directly involved with this circus in Islamabad that
+      Israeli agents — Steve Witkoff and Jared Kushner — made certain that JD Vance
+      would not follow his instincts and accept the deal that Iran had laid on the table.
+      Israel’s role in sabotaging the US delegation was evident in Vance’s statement
+      announcing the failure of the negotiations, when he falsely  accused Iran of refusing
+      to give up its alleged quest for a nuclear weapon. This is just a rehashed piece
+      of Zionist propaganda. There were three Iranian conditions that the US refused
+      to accept: Iranian control of the Strait of Hormuz, an end to Israel’s attack
+      on Lebanon and Hezbollah, unfreezing of Iran’s assets and retaining sovereignty
+      over its supply of enriched uranium. I have said repeatedly this past week during
+      various interviews on the subject that Iran’s position on these issues was non-negotiable.
+      Here is the statement just released by the Iranian government: The American enemy,
+      which is vile, wicked and dishonest — attempted to achieve on the negotiating
+      table what it could not achieve through war. Among these demands are handing over
+      enriched uranium and opening the Strait of Hormuz without confirmed Iranian sovereignty
+      over it. Iran has decided to reject these terms and continue the sacred defense
+      of its fatherland by any means necessary, military or diplomatic.’ So what is
+      next? For starters I hope that the Iranian delegation in Islamabad gets a return
+      flight home on a Russian or Chinese flagged airplane. I do not discount the possibility
+      of Israel and the US trying to destroy the Iranian airliner on its return flight
+      to Tehran. Iran will not initiate new military actions against Israel or the US…
+      They will wait to absorb the first blow and then launch a massive retaliation.
+      I think they now understand that the US is too much under the control of the Zionist
+      lobby to act in the interest of the people of the United States. Iran’s demand
+      that the US vacate its bases in the Gulf will be achieved by force… Iran will
+      hit the remaining bases and make them uninhabitable for the US military going
+      forward. The Saudis and the UAE will have to make a choice this week… Seek reconciliation
+      with Iran and survive or side with the US and Israel and face economic destruction.
+      The real action that will put the most pressure on Trump will start on Monday
+      morning when the US stock market takes a nose dive… again… and the price of oil
+      heads back up into triple digit territory. JD Vance actually did Iran a favor
+      by breaking off first and walking away. This paints Iran in a very favorable light
+      in the eyes of the global south, i.e., Iran was willing to negotiate, but the
+      US refused to engage in good faith negotiations and bailed. Here is my chat with
+      Ed DeMarche of the Trends Journal from last Wednesday: I recorded the following
+      Counter Currents commentary Tuesday night, after the announced ceasefire. I think
+      my predictions held up pretty well: I did an interview late Saturday night east
+      coast time with Asia One: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The US-Iran negotiations failed due to Israeli interference,
+      particularly from agents Steve Witkoff and Jared Kushner, who influenced US negotiator
+      JD Vance to reject Iran's proposed deal, which included conditions that the US
+      was unwilling to accept.
+    paragraph_summary: The recent negotiations between the US and Iran ended without
+      an agreement, largely due to external influences, particularly from Israeli agents
+      who allegedly pressured US negotiator JD Vance to reject Iran's proposed deal.
+      The failure was underscored by Vance's accusations against Iran regarding its
+      nuclear ambitions, which many view as a reiteration of Zionist propaganda. Iran's
+      non-negotiable demands included control over the Strait of Hormuz, cessation of
+      Israeli attacks on Lebanon and Hezbollah, unfreezing of its assets, and sovereignty
+      over its enriched uranium supply. Following the breakdown of talks, Iran's government
+      condemned the US as deceitful and expressed its commitment to defending its interests,
+      indicating a strategy of waiting for any aggression before retaliating. The article
+      also speculates on the safety of the Iranian delegation's return flight, hinting
+      at potential threats from Israel and the US.
+    published: '2026-04-12T03:56:14+00:00'
+  - title: Trump Refuses Exit Ramp, War with Iran will Continue
+    url: https://sonar21.com/trump-refuses-exit-ramp-war-with-iran-will-continue/
+    text: 'As I expected, the negotiation between the US and Iran failed to reach an
+      agreement. Although JD Vance headed the US team, he was never in control… I have
+      heard from someone who was directly involved with this circus in Islamabad that
+      Israeli agents — Steve Witkoff and Jared Kushner — made certain that JD Vance
+      would not follow his instincts and accept the deal that Iran had laid on the table.
+      Israel’s role in sabotaging the US delegation was evident in Vance’s statement
+      announcing the failure of the negotiations, when he falsely  accused Iran of refusing
+      to give up its alleged quest for a nuclear weapon. This is just a rehashed piece
+      of Zionist propaganda. There were three Iranian conditions that the US refused
+      to accept: Iranian control of the Strait of Hormuz, an end to Israel’s attack
+      on Lebanon and Hezbollah, unfreezing of Iran’s assets and retaining sovereignty
+      over its supply of enriched uranium. I have said repeatedly this past week during
+      various interviews on the subject that Iran’s position on these issues was non-negotiable.
+      Here is the statement just released by the Iranian government: The American enemy,
+      which is vile, wicked and dishonest — attempted to achieve on the negotiating
+      table what it could not achieve through war. Among these demands are handing over
+      enriched uranium and opening the Strait of Hormuz without confirmed Iranian sovereignty
+      over it. Iran has decided to reject these terms and continue the sacred defense
+      of its fatherland by any means necessary, military or diplomatic.’ So what is
+      next? For starters I hope that the Iranian delegation in Islamabad gets a return
+      flight home on a Russian or Chinese flagged airplane. I do not discount the possibility
+      of Israel and the US trying to destroy the Iranian airliner on its return flight
+      to Tehran. Iran will not initiate new military actions against Israel or the US…
+      They will wait to absorb the first blow and then launch a massive retaliation.
+      I think they now understand that the US is too much under the control of the Zionist
+      lobby to act in the interest of the people of the United States. Iran’s demand
+      that the US vacate its bases in the Gulf will be achieved by force… Iran will
+      hit the remaining bases and make them uninhabitable for the US military going
+      forward. The Saudis and the UAE will have to make a choice this week… Seek reconciliation
+      with Iran and survive or side with the US and Israel and face economic destruction.
+      The real action that will put the most pressure on Trump will start on Monday
+      morning when the US stock market takes a nose dive… again… and the price of oil
+      heads back up into triple digit territory. JD Vance actually did Iran a favor
+      by breaking off first and walking away. This paints Iran in a very favorable light
+      in the eyes of the global south, i.e., Iran was willing to negotiate, but the
+      US refused to engage in good faith negotiations and bailed. Here is my chat with
+      Ed DeMarche of the Trends Journal from last Wednesday: I recorded the following
+      Counter Currents commentary Tuesday night, after the announced ceasefire. I think
+      my predictions held up pretty well: I did an interview late Saturday night east
+      coast time with Asia One: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The US-Iran negotiations failed due to Israeli interference,
+      particularly from agents Steve Witkoff and Jared Kushner, who influenced US negotiator
+      JD Vance to reject Iran's proposed deal, which included conditions that the US
+      was unwilling to accept.
+    paragraph_summary: The recent negotiations between the US and Iran ended without
+      an agreement, largely due to external influences, particularly from Israeli agents
+      who allegedly pressured US negotiator JD Vance to reject Iran's proposed deal.
+      The failure was underscored by Vance's accusations against Iran regarding its
+      nuclear ambitions, which many view as a reiteration of Zionist propaganda. Iran's
+      non-negotiable demands included control over the Strait of Hormuz, cessation of
+      Israeli attacks on Lebanon and Hezbollah, unfreezing of its assets, and sovereignty
+      over its enriched uranium supply. Following the breakdown of talks, Iran's government
+      condemned the US as deceitful and expressed its commitment to defending its interests,
+      indicating a strategy of waiting for any aggression before retaliating. The article
+      also speculates on the safety of the Iranian delegation's return flight, hinting
+      at potential threats from Israel and the US.
+    published: '2026-04-12T03:56:14+00:00'
+  - title: Trump Drains Strategic Petroleum Reserve and Promotes Foreign Oil Sales.
+      Who Pays the Price?
+    url: https://sonar21.com/trump-drains-strategic-petroleum-reserve-and-promotes-foreign-oil-sales-who-pays-the-price/
+    text: 'The conflict in Iran has closed the Strait of Hormuz, halting the seaborne
+      daily flow of 15 to 20 million barrels of oil. This reduction, about 15 percent
+      of global supply, has significantly affected import-dependent countries in Europe
+      and Asia, particularly those relying on just-in-time deliveries and minimal reserves.
+      As a result, gasoline, diesel, and jet fuel supplies are tightening. The US Strategic
+      Petroleum Reserve (SPR) acts as a safety net for the country in an energy crisis.
+      Since the start of the Biden Administration, it has dropped by 260 million barrels,
+      or 45% decline, to help lower oil prices and support the struggling economy. Quickly
+      removing oil can harm the old salt caverns by causing them to shrink or change
+      shape. The current level of the SPR is 413.32 million barrels. Last month, President
+      Trump authorized a SPR drawdown of 172 million barrels over a 120-day period,
+      reducing reserves by 41%. This policy seeks to stabilize both global and domestic
+      energy prices following the shutdown of the Strait of Hormuz. Additionally, President
+      Trump is promoting the international sale of United States crude oil production
+      and reserves.  Relief won’t happen quickly, since supertankers usually travel
+      at 12 knots and the journey to the US and back to Asia takes months. Further,
+      Supertankers (VLCCs and ULCCs) generally cannot pass through the Panama Canal,
+      so they have to circumnavigate South Africa. The initial allocation of Strategic
+      Petroleum Reserve (SPR) reserves involved 45.2 million barrels distributed to
+      eight companies (BP Products North America, Gunvor USA, Marathon Petroleum, Shell
+      Trading, Energy Transfer Crude Marketing, Mercuria Energy America, Trafigura Trading,
+      and Vitol). Under this arrangement, the reserves are loaned with the stipulation
+      that companies must return approximately 55 million barrels, representing an increase
+      of nearly 22 percent, at no cost to the US Treasury. The repayment schedule stipulates
+      that the oil must be returned in tranches between November 1, 2026, and September
+      30, 2028. This arrangement presents a significant arbitrage opportunity for the
+      participating oil companies. Last Thursday, equivalent global physical barrel
+      cargoes were priced at $131.97 per barrel. In contrast, West Texas Intermediate
+      long-dated futures are trading above $96 per barrel. This situation is deep backwardation
+      (wartime price premium), where companies can secure replacement barrels in the
+      future at lower forward prices. If the conflict continues for an extended period,
+      oil prices could hit $200 per barrel. Visual graph of the WTI Crude Oil Futures
+      Curve demonstrating the backwardation: The Trump administration says releasing
+      the SPR will not cost the taxpayers. Still, this move could end up hurting U.S.
+      consumers. If exports are encouraged during a crisis, domestic prices might rise
+      even more. Gas prices are already above $4.00 across the country, with some places
+      seeing even bigger jumps. The SPR release is supposed to help lower these prices,
+      but it may have the opposite effect. In 2026, Congress introduced proposals for
+      a temporary federal gas tax holiday, suspending the 18.4¢ per gallon tax, but
+      none had passed by April. The relief would feel small. “The Cobra Effect is an
+      example of Goodhart’s Law, which says that when a measure becomes a target, it
+      ceases to be a good measure.” ~ Sahil Bloom Bob Bishop is a forensic investigator
+      and retired CPA.'
+    one_sentence_summary: The conflict in Iran has closed the Strait of Hormuz, disrupting
+      the flow of 15-20 million barrels of oil daily and tightening fuel supplies globally,
+      while the US Strategic Petroleum Reserve has been significantly reduced to stabilize
+      energy prices amid the crisis.
+    paragraph_summary: The ongoing conflict in Iran has led to the closure of the Strait
+      of Hormuz, disrupting the daily flow of 15 to 20 million barrels of oil, which
+      constitutes about 15% of global supply, and adversely impacting import-dependent
+      countries in Europe and Asia. This has resulted in tightening supplies of gasoline,
+      diesel, and jet fuel. In response, the U.S. Strategic Petroleum Reserve (SPR)
+      has been significantly reduced by 260 million barrels, or 45%, since the Biden
+      Administration began, with current reserves at 413.32 million barrels. Recently,
+      President Trump authorized a drawdown of 172 million barrels over 120 days to
+      stabilize energy prices amid the crisis. However, relief is expected to be slow
+      due to logistical challenges faced by supertankers, which must navigate around
+      South Africa to reach Asia. The initial distribution of SPR reserves involved
+      45.2 million barrels loaned to eight companies, which are required to return approximately
+      55 million barrels at no cost to the U.S. Treasury.
+    published: '2026-04-11T21:50:59+00:00'
+  - title: Trump Drains Strategic Petroleum Reserve and Promotes Foreign Oil Sales.
+      Who Pays the Price?
+    url: https://sonar21.com/trump-drains-strategic-petroleum-reserve-and-promotes-foreign-oil-sales-who-pays-the-price/
+    text: 'The conflict in Iran has closed the Strait of Hormuz, halting the seaborne
+      daily flow of 15 to 20 million barrels of oil. This reduction, about 15 percent
+      of global supply, has significantly affected import-dependent countries in Europe
+      and Asia, particularly those relying on just-in-time deliveries and minimal reserves.
+      As a result, gasoline, diesel, and jet fuel supplies are tightening. The US Strategic
+      Petroleum Reserve (SPR) acts as a safety net for the country in an energy crisis.
+      Since the start of the Biden Administration, it has dropped by 260 million barrels,
+      or 45% decline, to help lower oil prices and support the struggling economy. Quickly
+      removing oil can harm the old salt caverns by causing them to shrink or change
+      shape. The current level of the SPR is 413.32 million barrels. Last month, President
+      Trump authorized a SPR drawdown of 172 million barrels over a 120-day period,
+      reducing reserves by 41%. This policy seeks to stabilize both global and domestic
+      energy prices following the shutdown of the Strait of Hormuz. Additionally, President
+      Trump is promoting the international sale of United States crude oil production
+      and reserves.  Relief won’t happen quickly, since supertankers usually travel
+      at 12 knots and the journey to the US and back to Asia takes months. Further,
+      Supertankers (VLCCs and ULCCs) generally cannot pass through the Panama Canal,
+      so they have to circumnavigate South Africa. The initial allocation of Strategic
+      Petroleum Reserve (SPR) reserves involved 45.2 million barrels distributed to
+      eight companies (BP Products North America, Gunvor USA, Marathon Petroleum, Shell
+      Trading, Energy Transfer Crude Marketing, Mercuria Energy America, Trafigura Trading,
+      and Vitol). Under this arrangement, the reserves are loaned with the stipulation
+      that companies must return approximately 55 million barrels, representing an increase
+      of nearly 22 percent, at no cost to the US Treasury. The repayment schedule stipulates
+      that the oil must be returned in tranches between November 1, 2026, and September
+      30, 2028. This arrangement presents a significant arbitrage opportunity for the
+      participating oil companies. Last Thursday, equivalent global physical barrel
+      cargoes were priced at $131.97 per barrel. In contrast, West Texas Intermediate
+      long-dated futures are trading above $96 per barrel. This situation is deep backwardation
+      (wartime price premium), where companies can secure replacement barrels in the
+      future at lower forward prices. If the conflict continues for an extended period,
+      oil prices could hit $200 per barrel. Visual graph of the WTI Crude Oil Futures
+      Curve demonstrating the backwardation: The Trump administration says releasing
+      the SPR will not cost the taxpayers. Still, this move could end up hurting U.S.
+      consumers. If exports are encouraged during a crisis, domestic prices might rise
+      even more. Gas prices are already above $4.00 across the country, with some places
+      seeing even bigger jumps. The SPR release is supposed to help lower these prices,
+      but it may have the opposite effect. In 2026, Congress introduced proposals for
+      a temporary federal gas tax holiday, suspending the 18.4¢ per gallon tax, but
+      none had passed by April. The relief would feel small. “The Cobra Effect is an
+      example of Goodhart’s Law, which says that when a measure becomes a target, it
+      ceases to be a good measure.” ~ Sahil Bloom Bob Bishop is a forensic investigator
+      and retired CPA.'
+    one_sentence_summary: The conflict in Iran has closed the Strait of Hormuz, disrupting
+      the flow of 15-20 million barrels of oil daily and tightening fuel supplies globally,
+      while the US Strategic Petroleum Reserve has been significantly reduced to stabilize
+      energy prices amid the crisis.
+    paragraph_summary: The ongoing conflict in Iran has led to the closure of the Strait
+      of Hormuz, disrupting the daily flow of 15 to 20 million barrels of oil, which
+      constitutes about 15% of global supply, and adversely impacting import-dependent
+      countries in Europe and Asia. This has resulted in tightening supplies of gasoline,
+      diesel, and jet fuel. In response, the U.S. Strategic Petroleum Reserve (SPR)
+      has been significantly reduced by 260 million barrels, or 45%, since the Biden
+      Administration began, with current reserves at 413.32 million barrels. Recently,
+      President Trump authorized a drawdown of 172 million barrels over 120 days to
+      stabilize energy prices amid the crisis. However, relief is expected to be slow
+      due to logistical challenges faced by supertankers, which must navigate around
+      South Africa to reach Asia. The initial distribution of SPR reserves involved
+      45.2 million barrels loaned to eight companies, which are required to return approximately
+      55 million barrels at no cost to the U.S. Treasury.
+    published: '2026-04-11T21:50:59+00:00'
+  - title: Iran Negotiating From a Dominant Position… And Melania’s Strange Presser
+      on Epstein
+    url: https://sonar21.com/iran-negotiating-from-a-dominant-position-and-melanias-strange-presser-on-epstein/
+    text: 'The photograph above tells even the casual observer that Iran is entering
+      the next round of negotiations with the United States with its eyes wide open
+      while holding the ultimate trump card… The Strait of Hormuz. The Iranians are
+      shrewd masters of information operations and their skill is on display in this
+      photo… The first 168 seats in the plane are adorned with a photograph of each
+      of the students who were killed by the US missile strike on February 28. The negotiators
+      have not forgotten nor have they forgiven the United States for this heinous act.
+      Despite White House denials, the US has caved to Iran’s demands and a de facto
+      ceasefire is now in effect in Lebanon. Iran is showing no sign of releasing its
+      choke-hold on the Strait of Hormuz, that prohibits any ship associated with the
+      US, Israel or their allies from entering or leaving. That will be one of the critical
+      items on the agenda. I believe that Iran will agree to allow all ships, regardless
+      of national affiliation, to pass thru the Strait provided they pay a fee in Chinese
+      yuan. In exchange, Iran will demand the removal of all US bases from the Gulf
+      states… This is one way to obtain a guarantee that the US will not attack Iran
+      again. While the US wants to confine the talks to bi-lateral issues between the
+      US and Iran, the Iranians are insisting that Israel’s war of genocide in Gaza
+      and invasion of southern Lebanon must also be addressed. This may be a bridge
+      too far for the US team, but I do not see Iran backing down on this issue. I have
+      seen conflicting reports on whether the talks will be direct — i.e., both sides
+      sit in the same room and speak to each other — or indirect — i.e., the Pakistani
+      mediator shuttles between two separate rooms passing on a message from one side
+      to the other. While Iran would prefer to stop the war now, it is not desperate
+      to reach a settlement… That is the position of the Trump team. Opinion polls have
+      moved decisively against Donald Trump and against Israel and lead negotiator,
+      JD Vance, is fully aware of the political bloodbath that awaits the Republicans
+      if this war drags on or, worse, escalates. You know the war is going bad when,
+      out of the blue, First Lady Melania Trump shows up in the Grand Foyer of the White
+      House addressing rumors and delivers a carefully prepared statement challenging
+      allegations linking her to the late convicted sex offender Jeffrey Epstein. She
+      insisted that she never had a relationship with Epstein or his accomplice Ghislaine
+      Maxwell… Yet, there are numerous photos of her with Epstein that undercut her
+      claim that she really did not know him. Why did she do this and why now? Well
+      we may have the answer — just posted on Friday afternoon — for the Diligent Denizen.
+      Amanda Ungaro, an old friend of Melania’s, has done an interview with a Spanish
+      news channel that will air this Sunday. Ungaro reportedly will spill some toxic
+      beans about Melania and Donald’s relationship with Jeffrey Epstein. This whole
+      situation is ripe with irony. Trump is alleged by some to have attacked Iran in
+      order to distract from the Jeffrey Epstein case. And now? Melania resurrects the
+      Epstein case in order to divert attention from Trump surrendering to Iran. I started
+      the day chatting with Nima: Ray McGovern is on the road, so Mr. Scott Ritter filled
+      in on Judge Napolitano’s Friday Intelligence Roundtable : Last, I did a brief
+      interview with a Pakistani friend who is now a citizen of the US — Mr. Waqas Ali,
+      a newly minted lawyer who lives in Oklahoma: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Iran is entering negotiations with the U.S. while leveraging
+      its control over the Strait of Hormuz and using the memory of victims from a U.S.
+      missile strike to assert its position, indicating a potential for a de facto ceasefire
+      in Lebanon but maintaining a stronghold on maritime access.
+    paragraph_summary: The article discusses Iran's strategic positioning as it enters
+      negotiations with the United States, emphasizing its control over the Strait of
+      Hormuz as a significant leverage point. The Iranian negotiators are depicted as
+      astute, using a plane adorned with images of students killed by a US missile strike
+      to remind the US of past grievances. The article suggests that Iran may agree
+      to allow ships to pass through the Strait for a fee in Chinese yuan, while demanding
+      the removal of US bases from Gulf states as a security guarantee against future
+      attacks. Additionally, Iran insists that the ongoing conflicts involving Israel
+      must be part of the discussions, which may complicate the negotiations. The article
+      notes uncertainty regarding the format of the talks, whether direct or mediated,
+      and highlights that while Iran seeks to halt the war, it is not in a desperate
+      position to reach an agreement, reflecting a broader shift in public opinion against
+      both Trump and Israel.
+    published: '2026-04-11T04:32:28+00:00'
+  - title: Iran Negotiating From a Dominant Position… And Melania’s Strange Presser
+      on Epstein
+    url: https://sonar21.com/iran-negotiating-from-a-dominant-position-and-melanias-strange-presser-on-epstein/
+    text: 'The photograph above tells even the casual observer that Iran is entering
+      the next round of negotiations with the United States with its eyes wide open
+      while holding the ultimate trump card… The Strait of Hormuz. The Iranians are
+      shrewd masters of information operations and their skill is on display in this
+      photo… The first 168 seats in the plane are adorned with a photograph of each
+      of the students who were killed by the US missile strike on February 28. The negotiators
+      have not forgotten nor have they forgiven the United States for this heinous act.
+      Despite White House denials, the US has caved to Iran’s demands and a de facto
+      ceasefire is now in effect in Lebanon. Iran is showing no sign of releasing its
+      choke-hold on the Strait of Hormuz, that prohibits any ship associated with the
+      US, Israel or their allies from entering or leaving. That will be one of the critical
+      items on the agenda. I believe that Iran will agree to allow all ships, regardless
+      of national affiliation, to pass thru the Strait provided they pay a fee in Chinese
+      yuan. In exchange, Iran will demand the removal of all US bases from the Gulf
+      states… This is one way to obtain a guarantee that the US will not attack Iran
+      again. While the US wants to confine the talks to bi-lateral issues between the
+      US and Iran, the Iranians are insisting that Israel’s war of genocide in Gaza
+      and invasion of southern Lebanon must also be addressed. This may be a bridge
+      too far for the US team, but I do not see Iran backing down on this issue. I have
+      seen conflicting reports on whether the talks will be direct — i.e., both sides
+      sit in the same room and speak to each other — or indirect — i.e., the Pakistani
+      mediator shuttles between two separate rooms passing on a message from one side
+      to the other. While Iran would prefer to stop the war now, it is not desperate
+      to reach a settlement… That is the position of the Trump team. Opinion polls have
+      moved decisively against Donald Trump and against Israel and lead negotiator,
+      JD Vance, is fully aware of the political bloodbath that awaits the Republicans
+      if this war drags on or, worse, escalates. You know the war is going bad when,
+      out of the blue, First Lady Melania Trump shows up in the Grand Foyer of the White
+      House addressing rumors and delivers a carefully prepared statement challenging
+      allegations linking her to the late convicted sex offender Jeffrey Epstein. She
+      insisted that she never had a relationship with Epstein or his accomplice Ghislaine
+      Maxwell… Yet, there are numerous photos of her with Epstein that undercut her
+      claim that she really did not know him. Why did she do this and why now? Well
+      we may have the answer — just posted on Friday afternoon — for the Diligent Denizen.
+      Amanda Ungaro, an old friend of Melania’s, has done an interview with a Spanish
+      news channel that will air this Sunday. Ungaro reportedly will spill some toxic
+      beans about Melania and Donald’s relationship with Jeffrey Epstein. This whole
+      situation is ripe with irony. Trump is alleged by some to have attacked Iran in
+      order to distract from the Jeffrey Epstein case. And now? Melania resurrects the
+      Epstein case in order to divert attention from Trump surrendering to Iran. I started
+      the day chatting with Nima: Ray McGovern is on the road, so Mr. Scott Ritter filled
+      in on Judge Napolitano’s Friday Intelligence Roundtable : Last, I did a brief
+      interview with a Pakistani friend who is now a citizen of the US — Mr. Waqas Ali,
+      a newly minted lawyer who lives in Oklahoma: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Iran is entering negotiations with the U.S. while leveraging
+      its control over the Strait of Hormuz and using the memory of victims from a U.S.
+      missile strike to assert its position, indicating a potential for a de facto ceasefire
+      in Lebanon but maintaining a stronghold on maritime access.
+    paragraph_summary: The article discusses Iran's strategic positioning as it enters
+      negotiations with the United States, emphasizing its control over the Strait of
+      Hormuz as a significant leverage point. The Iranian negotiators are depicted as
+      astute, using a plane adorned with images of students killed by a US missile strike
+      to remind the US of past grievances. The article suggests that Iran may agree
+      to allow ships to pass through the Strait for a fee in Chinese yuan, while demanding
+      the removal of US bases from Gulf states as a security guarantee against future
+      attacks. Additionally, Iran insists that the ongoing conflicts involving Israel
+      must be part of the discussions, which may complicate the negotiations. The article
+      notes uncertainty regarding the format of the talks, whether direct or mediated,
+      and highlights that while Iran seeks to halt the war, it is not in a desperate
+      position to reach an agreement, reflecting a broader shift in public opinion against
+      both Trump and Israel.
+    published: '2026-04-11T04:32:28+00:00'
+  - title: 'War with Iran: Peace with the US is a Farce, a Mirage'
+    url: https://sonar21.com/war-with-iran-peace-with-the-us-is-a-farce-a-mirage/
+    text: 'The Americans announced victory and negotiations—the Iranians did the same.
+      Israel couldn’t care less and continues its murderous rampage. I’ve never been
+      more skeptical in my life and believe this is all a mirage. I hope I’m wrong.
+      By Peter Hanseler via ForumGeopolitica.com Peace with the US is probably just
+      wishful thinking—a mirage Introduction As a geopolitical observer in today’s world,
+      one shouldn’t be surprised by anything anymore—yet one is nonetheless. Just two
+      days after President Trump announced, “ A whole civilization will die tonight,
+      never to be brought back again ”, it is now reported that during a two-week ceasefire,
+      several unresolved issues are to be discussed and agreed upon in negotiations
+      with Iran, for which Iran’s 10-point plan provides a good working basis. This
+      whole thing reeks to high heaven. The chances are high that the whole affair will
+      turn out to be a grand mirage and that the US will, predictably and once again,
+      prove itself to be an untrustworthy party. Analysis of What Was Said Donald Trump’s
+      Truth Social Post from April 8 You don’t have to look far to find inconsistencies:
+      This will be a mutual CEASEFIRE! However, in addition to the US and Iran, Israel
+      and Lebanon are also involved as the main belligerents. The reason for doing so
+      is taht we have already met and exceeded all Military objectives, and are very
+      far along with a definitive Agreement concerning Longerm PEACE with Iran in teh
+      Middle East No such direct talks have taken place, so how can they be “far along”?
+      We have received a 10-point proposal from Iran and believe it is a workable basis
+      on which to negotiate. That is highly interesting, but there is no indication
+      that these 10 points will be to the Americans’ liking in any way—see my comments
+      on this below. Iran’s Ten-Point Plan There are many different versions circulating
+      on the internet. For the exact wording of the statement by Iran’s National Security
+      Council, please refer to Alastair Crook . Commitment to non-aggression Continuation
+      of Iran’s control over the Strait of Hormuz Acceptance of uranium enrichment Lifting
+      of all primary sanctions Lifting of all secondary sanctions Termination of all
+      UN Security Council resolutions Termination of all Board of Governors resolutions
+      Payment of compensation to Iran Withdrawal of U.S. combat forces from the region
+      Cessation of war on all fronts, including against Hezbollah in Lebanon That is
+      the basis, the preconditions for negotiations, that Iran is demanding. Under these
+      terms, Iran gets everything it wants, and the US loses everything. These are ideal
+      conditions for Iran. I can’t believe the Americans will agree to this. That, too,
+      is a mirage. “The Americans are shot out and need time” This is also a clear indication
+      of who holds the military upper hand: Iran can afford to make maximum demands
+      and can live with the failure of a ceasefire. The Americans have exhausted their
+      resources and need time to regroup. Video clips are circulating—the authenticity
+      of which I have not been able to verify—that show the US moving troops to the
+      Iranian border using numerous helicopters and Ospreys. Американцы перебрасывают
+      к грницам Ирана солдат и военную технику и готовятся к проведению военных операций.
+      США хотят оккупировать Иран военным путем после окончания двухнедельного периода
+      прекращения огня. pic.twitter.com/46CFQngvqv — АЛЬ-ХАКК (@Al_Haqq_Media) April
+      10, 2026 Trump’s Untenable Situation Led to an Agreement The fact that Trump even
+      pretended to negotiate on this basis shows that the Americans find themselves
+      in an untenable situation. It is quite possible that the threatened destruction
+      of Iranian civilization was to be carried out with a nuclear strike, and that
+      American officers simply refused, or that it dawned on the Americans that closing
+      the Strait of Hormuz would plunge the entire world into disaster. I would also
+      like to draw attention to the heroic rescue of the weapons officer from the downed
+      American F-18E fighter jet. The US would have the world believe that a total of
+      155 aircraft were deployed in a rescue operation for a single American soldier.
+      At least that is what the Swiss Neue Zürcher Zeitung (NZZ) reported in its April
+      9 edition , whose journalists uncritically repeat US propaganda. Rather, it appears
+      that this was a covert operation by the Americans to secure uranium in Iran. It
+      was a complete failure, resulting in the loss of a great deal of equipment and
+      human lives. For details, I refer you to my friend Larry C. Johnson’s website
+      Sonar21.com , which includes links to numerous interviews. The result of a US
+      commando operation – Source: NZZ Trump thus appeared to have found himself in
+      a situation beyond the White House’s control—a combination of turmoil within his
+      own ranks and the disastrous events surrounding the aforementioned military operation
+      in Iran, which could not possibly be spun as a success. This forced Donald Trump
+      to release a peace dove—but it didn’t fly for long. The White House is Backtracking
+      White House spokesperson Karoline Leavitt made a spectacular about-face on Wednesday.
+      Although—as noted above—President Trump had described the 10-point plan as a good
+      basis for negotiations, that plan is now deemed unacceptable: It remains unclear
+      which 10-point plan President Trump was referring to in his tweet. According to
+      his spokesperson, it appears that no such plan exists. BREAKING: White House says
+      War criminal Trump rejected Iran''s 10-point plan and threw it in the garbage.
+      pic.twitter.com/1avgSHhfwN — Jackson Hinkle (@jacksonhinklle) April 8, 2026 Israel
+      isn’t Playing Along – It’s All Already Failed Point 10 of Iran’s 10-point plan
+      explicitly calls for a ceasefire between Israel and Lebanon. The Israelis, however,
+      refuse to halt their attacks on Lebanon and are bombing the country more intensely
+      than ever before. More than 300 civilians are reported to have been killed in
+      a single day during the Israeli carpet bombing of Beirut. These are some of the
+      chaotic scenes ravaging the Lebanese capital. The Israeli Carpet Bombing Of Beirut
+      Is Said To Have Killed Over 300 Civilians These are some of the chaotic scenes,
+      devastating the Lebanese Capital. pic.twitter.com/uGl69ZHpGm — MintPress News
+      (@MintPressNews) April 8, 2026 The claims by the US and Israel that Lebanon is
+      exempt from the ceasefire agreement are explicitly refuted by Pakistani Prime
+      Minister Shehbaz Sharif,who brokered the agreement. On April 8, he posted the
+      following tweet: With the greatest humility, I am pleased to announce that the
+      Islamic Republic of Iran and the United States of America, along with their allies,
+      have agreed to an immediate ceasefire everywhere including Lebanon and elsewhere,
+      EFFECTIVE IMMEDIATELY. I warmly welcome the… — Shehbaz Sharif (@CMShehbaz) April
+      7, 2026 United Arab Emirates – Baffling Behavior On Wednesday, theUnited Arab
+      Emirates emerged as a suspected offensive actor—that is, an aggressor—in the escalating
+      Gulf conflict. Several Iranian sources and military analysts with access to open-source
+      intelligence indicate that UAE Air Force Mirage 2000-9 fighter jets attacked the
+      Iranian oil refinery on Lavan Island just hours after a ceasefire brokered by
+      Pakistan and likely China was supposed to have halted hostilities. Abu Dhabi has
+      neither confirmed nor denied the claim, but the evidence circulating in intelligence
+      circles is substantial enough to trigger an immediate Iranian retaliatory strike
+      on Emirati territory. Iran’s response will likely spell disaster for the Emirates,
+      which, with this action, are clearly siding with Israel and the US. Certainly
+      not a decision guided by Eastern wisdom. Note: this was published by the top diplomat
+      of a country—the President of the US—in the run-up to ceasefire negotiations with
+      a country that the US had attacked without any legal basis. In my view, this brings
+      the “ceasefire” chapter to a close. Consequences Israel Israel is “earning” the
+      reputation it seems to be striving for as a state, using all its military and
+      political might: a bunch of Zionist psychopaths who will kill anyone and anything
+      to realize their religiously motivated “Greater Israel” project. Genocide, torture,
+      murder, and war crimes are the tools of these people. The Zionist-controlled media
+      in the US and Europe provide no insight into the actual view held by people in
+      their sphere of influence regarding this state, which exists by the grace of Britain
+      and the U.S. According to ZeroHedge , the goodwill toward Israel among the American
+      public is out of proportion to the support Washington provides to Tel Aviv. AlJazeera
+      reported one day before the war began that more Americans today support the Palestinians
+      than the Israelis.In den westlichen Medien wird auch verschwiegen, dass die Israelis
+      am 7. April eine Synagoge in Teheran bombardiert haben. Photo of the Israeli attack
+      on a Jewish synagogue in Iran on April 7. Source: X Zionists murder Jews. There
+      is no explanation for this, and we do not intend to try to explain it here. It
+      is glaring proof that Zionists will even murder Jews to achieve their criminal
+      goals. In my last article, I accused the Swiss press—and Roger Köppel in particular—of
+      simply smiling away genocide and war crimes. Will people still be smiling after
+      this latest act of barbarism by Israel against Jews? The situation of Israeli
+      troops in Lebanon appears to be growing increasingly dire. Hezbollah is putting
+      the IDF in such a tight spot that the Israelis see no solution other than resorting
+      to ruthless terror against civilians: the bombing of residential buildings throughout
+      Lebanon. When it comes to a ceasefire, one must be careful not to judge the Israelis
+      rationally—they are complete psychopaths and will never honor a ceasefire in Lebanon
+      and Gaza. If the Western media were to report the truth, Israel’s reputation would
+      be on par with that of Nazi Germany—which is exactly where the country’s political
+      leadership belongs—and that also determines where the Western media belong: Nuremberg
+      2.0. Gulf States Without jumping to conclusions, it is becoming increasingly clear
+      with each passing day that the opportunistic Gulf states are choosing sides. It
+      appears that Oman, Qatar, and Bahrain will likely be the first to swing over to
+      the Iranian side. The UAE, Saudi Arabia, and Kuwait still seem to believe that
+      the Americans will win the war. As soon as the outcome becomes clearer, these
+      nations will choose a side: the side of the winners. As for Jordan, there is reason
+      to fear that the country may sooner or later be torn apart by its internal tensions.
+      Should the balance in Lebanon—and possibly also in the Gaza Strip and the West
+      Bank—tip against Israel, the Jordanian royal family is likely to face great hardship—a
+      theory that is not too far-fetched, given that Palestinians make up more than
+      50 percent of the Jordanian population. It is astonishing that this has not yet
+      happened, because the Americans’ security apparatus—purchased at great expense—is
+      ineffective for two reasons: The missile defense shield is useless against Iranian
+      missiles, and the Americans have abandoned their military bases, from which and
+      with which they claimed to protect their Arab partners in exchange for exorbitant
+      sums paid in advance. Technically and morally, the Americans have thus squandered
+      a significant portion of their reputation. US The Americans have not only failed
+      to initiate a peace process; in the Zionist wake of the Israeli leadership, they
+      never intended to do so in the first place. Simply continuing to fight seems very
+      reminiscent of Vietnam—of heavy casualties and unrest in the US. The last few
+      weeks have shown what we were already discussing before the war: Iran cannot be
+      brought to its knees; not with these means, and not given that the US’s Arab “allies”
+      and the Strait of Hormuz are practically being handed to the Iranians on a silver
+      platter. According to Scott Ritter, the Americans would have to deploy at least
+      1.5 million troops to have even the slightest chance of defeating the Iranians:
+      1.5 million highly trained combat troops; there is no point in discussing this,
+      as the Americans simply do not have troops of that magnitude. The war is therefore
+      not only unwinnable—it is already lost. Iran Despite the massive destruction of
+      its own infrastructure and the loss of thousands of lives, Iran has already emerged
+      victorious. In addition to the formidable military reputation the country has
+      earned, its economic future looks brighter. With the Strait of Hormuz, the Iranians
+      control one of the world’s major trade routes. Operating this tollgate is highly
+      lucrative, and controlling who is allowed to pass is a non-kinetic military trump
+      card that every country dreams of. Conclusion The hot desert sand has given rise
+      to a mirage, yet another political illusion that will quickly crumble. Once again,
+      Trump—and by extension the US political class—has proven itself to be completely
+      dishonest, incompetent, and lacking in integrity. Opposition among allies, who
+      seem weary of this circus, is likely to grow. This charade demonstrates that the
+      Americans operate at a level—militarily, diplomatically, and in terms of character—that
+      completely disqualifies them as serious partners—or even as interlocutors. Trump
+      discredits not only enemies but also friends. Witkoff and Kushner, two Zionist
+      wheeler-dealers of the worst sort, who have already pulled the Iranians over the
+      table twice in the name of their master and the Zionist clients who commissioned
+      them, are beyond debate—has Trump realized that yet? Today’s supporters of Israel
+      must face the accusation that they would have sided with Hitler as well. If one
+      compares Israel’s actions—its atrocities, which are almost beyond description,
+      the genocide of the Palestinians, and the war crimes committed in every country
+      Israel has invaded—with the actions of the Nazis, the picture that emerges could
+      not be more strikingly similar. So this senseless death, orchestrated by the West,
+      will continue. I feel sorry for all the people who are losing their lives because
+      of these inhumane policies and their consequences. But, as I said at the beginning—maybe
+      I’m wrong, and peace will come. Peter Hanseler is a geopolitical analyst who reports
+      from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.)
+      and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article expresses skepticism about the recent announcements
+      of victory and negotiations between the US and Iran, suggesting that they may
+      be illusory and that Israel continues its aggressive actions, leading the author
+      to doubt the sincerity of the peace efforts.
+    paragraph_summary: In a recent article by Peter Hanseler, skepticism is expressed
+      regarding the announced ceasefire and negotiations between the U.S. and Iran,
+      following President Trump's alarming statement about impending destruction. Despite
+      claims of progress towards peace, the author doubts the sincerity of these developments,
+      suggesting they may be illusory, especially given Israel's ongoing military actions.
+      Hanseler highlights inconsistencies in the U.S. narrative, particularly regarding
+      the lack of direct talks and the questionable acceptance of Iran's ten-point proposal.
+      Overall, he conveys a sense of mistrust towards the U.S. as a negotiating partner
+      and questions the likelihood of achieving genuine peace in the Middle East.
+    published: '2026-04-10T10:39:50+00:00'
+  - title: 'War with Iran: Peace with the US is a Farce, a Mirage'
+    url: https://sonar21.com/war-with-iran-peace-with-the-us-is-a-farce-a-mirage/
+    text: 'The Americans announced victory and negotiations—the Iranians did the same.
+      Israel couldn’t care less and continues its murderous rampage. I’ve never been
+      more skeptical in my life and believe this is all a mirage. I hope I’m wrong.
+      By Peter Hanseler via ForumGeopolitica.com Peace with the US is probably just
+      wishful thinking—a mirage Introduction As a geopolitical observer in today’s world,
+      one shouldn’t be surprised by anything anymore—yet one is nonetheless. Just two
+      days after President Trump announced, “ A whole civilization will die tonight,
+      never to be brought back again ”, it is now reported that during a two-week ceasefire,
+      several unresolved issues are to be discussed and agreed upon in negotiations
+      with Iran, for which Iran’s 10-point plan provides a good working basis. This
+      whole thing reeks to high heaven. The chances are high that the whole affair will
+      turn out to be a grand mirage and that the US will, predictably and once again,
+      prove itself to be an untrustworthy party. Analysis of What Was Said Donald Trump’s
+      Truth Social Post from April 8 You don’t have to look far to find inconsistencies:
+      This will be a mutual CEASEFIRE! However, in addition to the US and Iran, Israel
+      and Lebanon are also involved as the main belligerents. The reason for doing so
+      is taht we have already met and exceeded all Military objectives, and are very
+      far along with a definitive Agreement concerning Longerm PEACE with Iran in teh
+      Middle East No such direct talks have taken place, so how can they be “far along”?
+      We have received a 10-point proposal from Iran and believe it is a workable basis
+      on which to negotiate. That is highly interesting, but there is no indication
+      that these 10 points will be to the Americans’ liking in any way—see my comments
+      on this below. Iran’s Ten-Point Plan There are many different versions circulating
+      on the internet. For the exact wording of the statement by Iran’s National Security
+      Council, please refer to Alastair Crook . Commitment to non-aggression Continuation
+      of Iran’s control over the Strait of Hormuz Acceptance of uranium enrichment Lifting
+      of all primary sanctions Lifting of all secondary sanctions Termination of all
+      UN Security Council resolutions Termination of all Board of Governors resolutions
+      Payment of compensation to Iran Withdrawal of U.S. combat forces from the region
+      Cessation of war on all fronts, including against Hezbollah in Lebanon That is
+      the basis, the preconditions for negotiations, that Iran is demanding. Under these
+      terms, Iran gets everything it wants, and the US loses everything. These are ideal
+      conditions for Iran. I can’t believe the Americans will agree to this. That, too,
+      is a mirage. “The Americans are shot out and need time” This is also a clear indication
+      of who holds the military upper hand: Iran can afford to make maximum demands
+      and can live with the failure of a ceasefire. The Americans have exhausted their
+      resources and need time to regroup. Video clips are circulating—the authenticity
+      of which I have not been able to verify—that show the US moving troops to the
+      Iranian border using numerous helicopters and Ospreys. Американцы перебрасывают
+      к грницам Ирана солдат и военную технику и готовятся к проведению военных операций.
+      США хотят оккупировать Иран военным путем после окончания двухнедельного периода
+      прекращения огня. pic.twitter.com/46CFQngvqv — АЛЬ-ХАКК (@Al_Haqq_Media) April
+      10, 2026 Trump’s Untenable Situation Led to an Agreement The fact that Trump even
+      pretended to negotiate on this basis shows that the Americans find themselves
+      in an untenable situation. It is quite possible that the threatened destruction
+      of Iranian civilization was to be carried out with a nuclear strike, and that
+      American officers simply refused, or that it dawned on the Americans that closing
+      the Strait of Hormuz would plunge the entire world into disaster. I would also
+      like to draw attention to the heroic rescue of the weapons officer from the downed
+      American F-18E fighter jet. The US would have the world believe that a total of
+      155 aircraft were deployed in a rescue operation for a single American soldier.
+      At least that is what the Swiss Neue Zürcher Zeitung (NZZ) reported in its April
+      9 edition , whose journalists uncritically repeat US propaganda. Rather, it appears
+      that this was a covert operation by the Americans to secure uranium in Iran. It
+      was a complete failure, resulting in the loss of a great deal of equipment and
+      human lives. For details, I refer you to my friend Larry C. Johnson’s website
+      Sonar21.com , which includes links to numerous interviews. The result of a US
+      commando operation – Source: NZZ Trump thus appeared to have found himself in
+      a situation beyond the White House’s control—a combination of turmoil within his
+      own ranks and the disastrous events surrounding the aforementioned military operation
+      in Iran, which could not possibly be spun as a success. This forced Donald Trump
+      to release a peace dove—but it didn’t fly for long. The White House is Backtracking
+      White House spokesperson Karoline Leavitt made a spectacular about-face on Wednesday.
+      Although—as noted above—President Trump had described the 10-point plan as a good
+      basis for negotiations, that plan is now deemed unacceptable: It remains unclear
+      which 10-point plan President Trump was referring to in his tweet. According to
+      his spokesperson, it appears that no such plan exists. BREAKING: White House says
+      War criminal Trump rejected Iran''s 10-point plan and threw it in the garbage.
+      pic.twitter.com/1avgSHhfwN — Jackson Hinkle (@jacksonhinklle) April 8, 2026 Israel
+      isn’t Playing Along – It’s All Already Failed Point 10 of Iran’s 10-point plan
+      explicitly calls for a ceasefire between Israel and Lebanon. The Israelis, however,
+      refuse to halt their attacks on Lebanon and are bombing the country more intensely
+      than ever before. More than 300 civilians are reported to have been killed in
+      a single day during the Israeli carpet bombing of Beirut. These are some of the
+      chaotic scenes ravaging the Lebanese capital. The Israeli Carpet Bombing Of Beirut
+      Is Said To Have Killed Over 300 Civilians These are some of the chaotic scenes,
+      devastating the Lebanese Capital. pic.twitter.com/uGl69ZHpGm — MintPress News
+      (@MintPressNews) April 8, 2026 The claims by the US and Israel that Lebanon is
+      exempt from the ceasefire agreement are explicitly refuted by Pakistani Prime
+      Minister Shehbaz Sharif,who brokered the agreement. On April 8, he posted the
+      following tweet: With the greatest humility, I am pleased to announce that the
+      Islamic Republic of Iran and the United States of America, along with their allies,
+      have agreed to an immediate ceasefire everywhere including Lebanon and elsewhere,
+      EFFECTIVE IMMEDIATELY. I warmly welcome the… — Shehbaz Sharif (@CMShehbaz) April
+      7, 2026 United Arab Emirates – Baffling Behavior On Wednesday, theUnited Arab
+      Emirates emerged as a suspected offensive actor—that is, an aggressor—in the escalating
+      Gulf conflict. Several Iranian sources and military analysts with access to open-source
+      intelligence indicate that UAE Air Force Mirage 2000-9 fighter jets attacked the
+      Iranian oil refinery on Lavan Island just hours after a ceasefire brokered by
+      Pakistan and likely China was supposed to have halted hostilities. Abu Dhabi has
+      neither confirmed nor denied the claim, but the evidence circulating in intelligence
+      circles is substantial enough to trigger an immediate Iranian retaliatory strike
+      on Emirati territory. Iran’s response will likely spell disaster for the Emirates,
+      which, with this action, are clearly siding with Israel and the US. Certainly
+      not a decision guided by Eastern wisdom. Note: this was published by the top diplomat
+      of a country—the President of the US—in the run-up to ceasefire negotiations with
+      a country that the US had attacked without any legal basis. In my view, this brings
+      the “ceasefire” chapter to a close. Consequences Israel Israel is “earning” the
+      reputation it seems to be striving for as a state, using all its military and
+      political might: a bunch of Zionist psychopaths who will kill anyone and anything
+      to realize their religiously motivated “Greater Israel” project. Genocide, torture,
+      murder, and war crimes are the tools of these people. The Zionist-controlled media
+      in the US and Europe provide no insight into the actual view held by people in
+      their sphere of influence regarding this state, which exists by the grace of Britain
+      and the U.S. According to ZeroHedge , the goodwill toward Israel among the American
+      public is out of proportion to the support Washington provides to Tel Aviv. AlJazeera
+      reported one day before the war began that more Americans today support the Palestinians
+      than the Israelis.In den westlichen Medien wird auch verschwiegen, dass die Israelis
+      am 7. April eine Synagoge in Teheran bombardiert haben. Photo of the Israeli attack
+      on a Jewish synagogue in Iran on April 7. Source: X Zionists murder Jews. There
+      is no explanation for this, and we do not intend to try to explain it here. It
+      is glaring proof that Zionists will even murder Jews to achieve their criminal
+      goals. In my last article, I accused the Swiss press—and Roger Köppel in particular—of
+      simply smiling away genocide and war crimes. Will people still be smiling after
+      this latest act of barbarism by Israel against Jews? The situation of Israeli
+      troops in Lebanon appears to be growing increasingly dire. Hezbollah is putting
+      the IDF in such a tight spot that the Israelis see no solution other than resorting
+      to ruthless terror against civilians: the bombing of residential buildings throughout
+      Lebanon. When it comes to a ceasefire, one must be careful not to judge the Israelis
+      rationally—they are complete psychopaths and will never honor a ceasefire in Lebanon
+      and Gaza. If the Western media were to report the truth, Israel’s reputation would
+      be on par with that of Nazi Germany—which is exactly where the country’s political
+      leadership belongs—and that also determines where the Western media belong: Nuremberg
+      2.0. Gulf States Without jumping to conclusions, it is becoming increasingly clear
+      with each passing day that the opportunistic Gulf states are choosing sides. It
+      appears that Oman, Qatar, and Bahrain will likely be the first to swing over to
+      the Iranian side. The UAE, Saudi Arabia, and Kuwait still seem to believe that
+      the Americans will win the war. As soon as the outcome becomes clearer, these
+      nations will choose a side: the side of the winners. As for Jordan, there is reason
+      to fear that the country may sooner or later be torn apart by its internal tensions.
+      Should the balance in Lebanon—and possibly also in the Gaza Strip and the West
+      Bank—tip against Israel, the Jordanian royal family is likely to face great hardship—a
+      theory that is not too far-fetched, given that Palestinians make up more than
+      50 percent of the Jordanian population. It is astonishing that this has not yet
+      happened, because the Americans’ security apparatus—purchased at great expense—is
+      ineffective for two reasons: The missile defense shield is useless against Iranian
+      missiles, and the Americans have abandoned their military bases, from which and
+      with which they claimed to protect their Arab partners in exchange for exorbitant
+      sums paid in advance. Technically and morally, the Americans have thus squandered
+      a significant portion of their reputation. US The Americans have not only failed
+      to initiate a peace process; in the Zionist wake of the Israeli leadership, they
+      never intended to do so in the first place. Simply continuing to fight seems very
+      reminiscent of Vietnam—of heavy casualties and unrest in the US. The last few
+      weeks have shown what we were already discussing before the war: Iran cannot be
+      brought to its knees; not with these means, and not given that the US’s Arab “allies”
+      and the Strait of Hormuz are practically being handed to the Iranians on a silver
+      platter. According to Scott Ritter, the Americans would have to deploy at least
+      1.5 million troops to have even the slightest chance of defeating the Iranians:
+      1.5 million highly trained combat troops; there is no point in discussing this,
+      as the Americans simply do not have troops of that magnitude. The war is therefore
+      not only unwinnable—it is already lost. Iran Despite the massive destruction of
+      its own infrastructure and the loss of thousands of lives, Iran has already emerged
+      victorious. In addition to the formidable military reputation the country has
+      earned, its economic future looks brighter. With the Strait of Hormuz, the Iranians
+      control one of the world’s major trade routes. Operating this tollgate is highly
+      lucrative, and controlling who is allowed to pass is a non-kinetic military trump
+      card that every country dreams of. Conclusion The hot desert sand has given rise
+      to a mirage, yet another political illusion that will quickly crumble. Once again,
+      Trump—and by extension the US political class—has proven itself to be completely
+      dishonest, incompetent, and lacking in integrity. Opposition among allies, who
+      seem weary of this circus, is likely to grow. This charade demonstrates that the
+      Americans operate at a level—militarily, diplomatically, and in terms of character—that
+      completely disqualifies them as serious partners—or even as interlocutors. Trump
+      discredits not only enemies but also friends. Witkoff and Kushner, two Zionist
+      wheeler-dealers of the worst sort, who have already pulled the Iranians over the
+      table twice in the name of their master and the Zionist clients who commissioned
+      them, are beyond debate—has Trump realized that yet? Today’s supporters of Israel
+      must face the accusation that they would have sided with Hitler as well. If one
+      compares Israel’s actions—its atrocities, which are almost beyond description,
+      the genocide of the Palestinians, and the war crimes committed in every country
+      Israel has invaded—with the actions of the Nazis, the picture that emerges could
+      not be more strikingly similar. So this senseless death, orchestrated by the West,
+      will continue. I feel sorry for all the people who are losing their lives because
+      of these inhumane policies and their consequences. But, as I said at the beginning—maybe
+      I’m wrong, and peace will come. Peter Hanseler is a geopolitical analyst who reports
+      from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.)
+      and Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article expresses skepticism about the recent announcements
+      of victory and negotiations between the US and Iran, suggesting that they may
+      be illusory and that Israel continues its aggressive actions, leading the author
+      to doubt the sincerity of the peace efforts.
+    paragraph_summary: In a recent article by Peter Hanseler, skepticism is expressed
+      regarding the announced ceasefire and negotiations between the U.S. and Iran,
+      following President Trump's alarming statement about impending destruction. Despite
+      claims of progress towards peace, the author doubts the sincerity of these developments,
+      suggesting they may be illusory, especially given Israel's ongoing military actions.
+      Hanseler highlights inconsistencies in the U.S. narrative, particularly regarding
+      the lack of direct talks and the questionable acceptance of Iran's ten-point proposal.
+      Overall, he conveys a sense of mistrust towards the U.S. as a negotiating partner
+      and questions the likelihood of achieving genuine peace in the Middle East.
+    published: '2026-04-10T10:39:50+00:00'
+  - title: To Ceasefire or Not Ceasefire, That is the Question
+    url: https://sonar21.com/to-ceasefire-or-not-ceasefire-that-is-the-question/
+    text: 'The only way that there will be a ceasefire in the Israeli/US war against
+      Iran depends on whether or not the US can force Israel to stop its attacks in
+      Lebanon. Iran, despite Trump’s insistent denial, made it clear to the United States
+      and the Pakistani intermediaries that attacks on Lebanon, Yemen and Iraq must
+      cease immediately, otherwise Iran will not attend the talks scheduled for Saturday,
+      11 April. This ain’t complicated. Trump, his administration, and most of the Western
+      media continue to mischaracterize Iran’s 10-points for negotiating a ceasefire.
+      Here again are those 10-points: U.S. commitment to non-aggression — A formal guarantee
+      that the United States (and Israel) will not launch further attacks on Iran, Lebanon,
+      Yemen and Iraq. Continued Iranian control over the Strait of Hormuz — Iran retains
+      sovereignty and primary coordination of maritime traffic through the strait, with
+      a “regulated” or “secure transit protocol” for safe passage of ships. Acceptance
+      of Iran’s nuclear enrichment rights — Explicit US and international recognition
+      of Iran’s right to enrich uranium for its civilian nuclear program. Lifting of
+      all primary U.S. sanctions on Iran — Removal of direct bilateral economic sanctions
+      imposed by the United States. Lifting of all secondary sanctions — Elimination
+      of sanctions on third countries and entities that do business with Iran. Termination
+      of all United Nations Security Council resolutions against Iran — Cancellation
+      of existing UNSC sanctions and resolutions targeting Iran. Termination of all
+      IAEA Board of Governors resolutions against Iran — End to International Atomic
+      Energy Agency resolutions and oversight measures related to Iran’s nuclear program.
+      Payment of compensation / war reparations to Iran — Financial compensation or
+      reconstruction aid for damages caused by the US-Israeli military campaign. Release
+      of all frozen Iranian assets — Unfreezing of Iranian funds and assets held abroad
+      (including those in US or European banks). US military withdrawal from the Middle
+      East (and end to attacks on Iran’s allies) — Withdrawal of US combat forces from
+      regional bases, plus a ceasefire extending to Iran’s “Axis of Resistance” allies
+      (including halting Israeli operations in Lebanon against Hezbollah, and ending
+      hostilities in other regional fronts). These points are NOT, I repeat NOT, up
+      for discussion. That is Iran’s firm position. An Iranian Telegram channel reports:
+      Iran said the reports of the country’s delegation arriving in Islamabad are false,
+      and that until the United States fulfills its commitments regarding Lebanon, the
+      negotiations are suspended. If the US and Israel continue to insist that the ceasefire
+      does not apply to Lebanon, Iran will not show up for the scheduled Saturday negotiations
+      set to take place in Islamabad. The driving force behind the Trump administration’s
+      desperate requests to get negotiations going with Iran is Iran’s control of the
+      Strait of Hormuz. There is no viable military plan or operation that could secure
+      freedom of navigation in the Strait. Why? As long as Iran can fire one missile
+      or drone at a ship trying to pass through the Strait, the insurance rates for
+      those ships will remain exorbitant. While it is theoretically possible to eventually
+      destroy Iran’s ability to launch torpedoes, maritime drones, airborne drones,
+      rockets and missiles, the cost in terms of manpower and lost equipment would be
+      astronomical and could potentially take years… Yes, you read that right. I do
+      not think Iran anticipated the global economic effects that its closure of the
+      Strait of Hormuz would have on supply chains and global inflation. However, Iran
+      now fully grasps that it is in a unique position to free Iran from 46 years of
+      sanctions and rebuild its own economy by exercising full sovereignty over the
+      Strait of Hormuz. This is the game changer and will be Trump’s obsession in the
+      coming months… trying to wrest control of the Strait from Iran. Busy podcast day.
+      Scott Ritter and I appeared with Danny Haiphong. The interview has already racked
+      up 500,000 views: Garland Nixon is back from his recent trip to Russia. We spent
+      some time talking about the rescue operation for the Colonel that reportedly ejected
+      from the F-15 last Thursday: Here is an interview conducted by Nikos Papadatos
+      last week. I am now making appearances on Iran’s Press TV, Greek TV, two stations
+      in Turkey, and three stations in India. Quite busy: I did another set Thursday
+      night with Pyotr Kurzin — i.e., his father is Russian and his mum is a Brit: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: A ceasefire in the Israeli/US conflict with Iran hinges on
+      the US compelling Israel to halt its attacks in Lebanon, as Iran has stated that
+      it will not participate in upcoming negotiations unless these attacks cease.
+    paragraph_summary: The potential for a ceasefire in the ongoing conflict involving
+      Israel and the U.S. against Iran hinges on the U.S. persuading Israel to halt
+      its military actions in Lebanon. Iran has communicated through intermediaries
+      that it will not participate in upcoming negotiations unless attacks on Lebanon,
+      Yemen, and Iraq cease immediately. The article outlines Iran's ten conditions
+      for a ceasefire, which include U.S. commitments to non-aggression, recognition
+      of Iran's rights to nuclear enrichment, lifting of all sanctions, termination
+      of relevant UN and IAEA resolutions, compensation for damages from military actions,
+      and the release of frozen Iranian assets. The author criticizes the misrepresentation
+      of these demands by the Trump administration and Western media, emphasizing the
+      straightforward nature of Iran's position.
+    published: '2026-04-10T05:06:33+00:00'
+  - title: To Ceasefire or Not Ceasefire, That is the Question
+    url: https://sonar21.com/to-ceasefire-or-not-ceasefire-that-is-the-question/
+    text: 'The only way that there will be a ceasefire in the Israeli/US war against
+      Iran depends on whether or not the US can force Israel to stop its attacks in
+      Lebanon. Iran, despite Trump’s insistent denial, made it clear to the United States
+      and the Pakistani intermediaries that attacks on Lebanon, Yemen and Iraq must
+      cease immediately, otherwise Iran will not attend the talks scheduled for Saturday,
+      11 April. This ain’t complicated. Trump, his administration, and most of the Western
+      media continue to mischaracterize Iran’s 10-points for negotiating a ceasefire.
+      Here again are those 10-points: U.S. commitment to non-aggression — A formal guarantee
+      that the United States (and Israel) will not launch further attacks on Iran, Lebanon,
+      Yemen and Iraq. Continued Iranian control over the Strait of Hormuz — Iran retains
+      sovereignty and primary coordination of maritime traffic through the strait, with
+      a “regulated” or “secure transit protocol” for safe passage of ships. Acceptance
+      of Iran’s nuclear enrichment rights — Explicit US and international recognition
+      of Iran’s right to enrich uranium for its civilian nuclear program. Lifting of
+      all primary U.S. sanctions on Iran — Removal of direct bilateral economic sanctions
+      imposed by the United States. Lifting of all secondary sanctions — Elimination
+      of sanctions on third countries and entities that do business with Iran. Termination
+      of all United Nations Security Council resolutions against Iran — Cancellation
+      of existing UNSC sanctions and resolutions targeting Iran. Termination of all
+      IAEA Board of Governors resolutions against Iran — End to International Atomic
+      Energy Agency resolutions and oversight measures related to Iran’s nuclear program.
+      Payment of compensation / war reparations to Iran — Financial compensation or
+      reconstruction aid for damages caused by the US-Israeli military campaign. Release
+      of all frozen Iranian assets — Unfreezing of Iranian funds and assets held abroad
+      (including those in US or European banks). US military withdrawal from the Middle
+      East (and end to attacks on Iran’s allies) — Withdrawal of US combat forces from
+      regional bases, plus a ceasefire extending to Iran’s “Axis of Resistance” allies
+      (including halting Israeli operations in Lebanon against Hezbollah, and ending
+      hostilities in other regional fronts). These points are NOT, I repeat NOT, up
+      for discussion. That is Iran’s firm position. An Iranian Telegram channel reports:
+      Iran said the reports of the country’s delegation arriving in Islamabad are false,
+      and that until the United States fulfills its commitments regarding Lebanon, the
+      negotiations are suspended. If the US and Israel continue to insist that the ceasefire
+      does not apply to Lebanon, Iran will not show up for the scheduled Saturday negotiations
+      set to take place in Islamabad. The driving force behind the Trump administration’s
+      desperate requests to get negotiations going with Iran is Iran’s control of the
+      Strait of Hormuz. There is no viable military plan or operation that could secure
+      freedom of navigation in the Strait. Why? As long as Iran can fire one missile
+      or drone at a ship trying to pass through the Strait, the insurance rates for
+      those ships will remain exorbitant. While it is theoretically possible to eventually
+      destroy Iran’s ability to launch torpedoes, maritime drones, airborne drones,
+      rockets and missiles, the cost in terms of manpower and lost equipment would be
+      astronomical and could potentially take years… Yes, you read that right. I do
+      not think Iran anticipated the global economic effects that its closure of the
+      Strait of Hormuz would have on supply chains and global inflation. However, Iran
+      now fully grasps that it is in a unique position to free Iran from 46 years of
+      sanctions and rebuild its own economy by exercising full sovereignty over the
+      Strait of Hormuz. This is the game changer and will be Trump’s obsession in the
+      coming months… trying to wrest control of the Strait from Iran. Busy podcast day.
+      Scott Ritter and I appeared with Danny Haiphong. The interview has already racked
+      up 500,000 views: Garland Nixon is back from his recent trip to Russia. We spent
+      some time talking about the rescue operation for the Colonel that reportedly ejected
+      from the F-15 last Thursday: Here is an interview conducted by Nikos Papadatos
+      last week. I am now making appearances on Iran’s Press TV, Greek TV, two stations
+      in Turkey, and three stations in India. Quite busy: I did another set Thursday
+      night with Pyotr Kurzin — i.e., his father is Russian and his mum is a Brit: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: A ceasefire in the Israeli/US conflict with Iran hinges on
+      the US compelling Israel to halt its attacks in Lebanon, as Iran has stated that
+      it will not participate in upcoming negotiations unless these attacks cease.
+    paragraph_summary: The potential for a ceasefire in the ongoing conflict involving
+      Israel and the U.S. against Iran hinges on the U.S. persuading Israel to halt
+      its military actions in Lebanon. Iran has communicated through intermediaries
+      that it will not participate in upcoming negotiations unless attacks on Lebanon,
+      Yemen, and Iraq cease immediately. The article outlines Iran's ten conditions
+      for a ceasefire, which include U.S. commitments to non-aggression, recognition
+      of Iran's rights to nuclear enrichment, lifting of all sanctions, termination
+      of relevant UN and IAEA resolutions, compensation for damages from military actions,
+      and the release of frozen Iranian assets. The author criticizes the misrepresentation
+      of these demands by the Trump administration and Western media, emphasizing the
+      straightforward nature of Iran's position.
+    published: '2026-04-10T05:06:33+00:00'
+  - title: Trump Got Played by Israel… And the Game Continues
+    url: https://sonar21.com/trump-got-played-by-israel-and-the-game-continues/
+    text: 'Here is the non-news news flash up front — The alleged ceasefire between
+      the United States and Iran is kaput. While there has been no official announcement
+      stipulating that it is over, trust me, it is over. The copium in the Trump administration
+      in particular, and in Washington, DC in general, is ridiculous… Proclamations
+      of a great military victory over Iran, without one shred of evidence that the
+      US achieved any strategic objectives other than inspiring Iran to take control
+      of the Strait of Hormuz and place the world economy in a supply-chain chokehold.
+      Both Iran and Pakistan, the intermediary in the ceasefire, insist that the Trump
+      administration accepted Iran’s 10-point as a workable basis for negotiation :
+      U.S. commitment to non-aggression — A formal guarantee that the United States
+      (and Israel) will not launch further attacks on Iran, Lebanon, Yemen and Iraq.
+      Continued Iranian control over the Strait of Hormuz — Iran retains sovereignty
+      and primary coordination of maritime traffic through the strait, with a “regulated”
+      or “secure transit protocol” for safe passage of ships. Acceptance of Iran’s nuclear
+      enrichment rights — Explicit US and international recognition of Iran’s right
+      to enrich uranium for its civilian nuclear program. Lifting of all primary U.S.
+      sanctions on Iran — Removal of direct bilateral economic sanctions imposed by
+      the United States. Lifting of all secondary sanctions — Elimination of sanctions
+      on third countries and entities that do business with Iran. Termination of all
+      United Nations Security Council resolutions against Iran — Cancellation of existing
+      UNSC sanctions and resolutions targeting Iran. Termination of all IAEA Board of
+      Governors resolutions against Iran — End to International Atomic Energy Agency
+      resolutions and oversight measures related to Iran’s nuclear program. Payment
+      of compensation / war reparations to Iran — Financial compensation or reconstruction
+      aid for damages caused by the US-Israeli military campaign. Release of all frozen
+      Iranian assets — Unfreezing of Iranian funds and assets held abroad (including
+      those in US or European banks). US military withdrawal from the Middle East (and
+      end to attacks on Iran’s allies) — Withdrawal of US combat forces from regional
+      bases, plus a ceasefire extending to Iran’s “Axis of Resistance” allies (including
+      halting Israeli operations in Lebanon against Hezbollah, and ending hostilities
+      in other regional fronts). The initial reaction among Trump’s Zionist supporters
+      and the Netanyahu government was a combination of shock and fury. The push back
+      started immediately on Tuesday night and by Wednesday morning, the Trump administration
+      insisted that it agreed to a different — yet undefined — set of 10-points. Israel
+      made certain that the negotiations would fail by launching a vicious, murderous
+      bombing of central and southern Lebanon. So how did we get into this mess? The
+      New York Times article, How Trump Took the U.S. to War With Iran , has received
+      a lot of attention because it largely lays the blame at the feet of Bibi Netanyahu
+      and his Mossad chief. The piece portrays Prime Minister Benjamin Netanyahu as
+      the driving force behind US involvement. Netanyahu had lobbied intensively for
+      months for a major joint assault on Iran. A pivotal February 11, 2026, meeting
+      at the White House — featuring a highly classified presentation by Netanyahu in
+      the Situation Room — helped shift Trump from hesitation or limited options toward
+      authorizing large-scale strikes alongside Israel. In the months preceding the
+      February 11 meeting, Netanyahu repeatedly pressed the Trump administration for
+      US support for strikes, framing them as essential to neutralize Iran’s nuclear
+      program, ballistic missiles, and regional influence. Israeli officials conveyed
+      that Israel was prepared to act unilaterally if necessary, creating a sense of
+      urgency or inevitability for the US. On February 11, Netanyahu arrived at the
+      White House for discussions that included a detailed briefing on Iran’s threats.
+      The nearly three-hour session covered potential attack timelines, the risks of
+      ongoing US-Iran diplomatic talks (which Netanyahu sought to undermine), and the
+      benefits of military action. Trump and his team received intelligence and arguments
+      emphasizing the need for decisive force. Now let me read the tea leaves… I think
+      the timing of the publication of this article is part of the Washington ritual
+      of identifying the scapegoat or scapegoats for a policy that has run off the rails.
+      JD Vance and, to a lesser extent, Marco Rubio are presented as the two sane voices
+      that tried to persuade Donald Trump NOT to attack Iran. A close third in this
+      regard was General Dan Caine, but the NY Times report paints him as a relatively
+      weak man, afraid to challenge the President. Who gets the blame? Pete Hegseth.
+      When the US attack ramps back up later this week, and Iran continues to pummel
+      US military bases in the Gulf, the critical economic infrastructure of the Gulf
+      arabs, and Israel, a time of reckoning will come when Trump will be forced to
+      admit that the US cannot defeat Iran and that the cost of continuing the war will
+      be devastating to the US economy and Republican political prospects in the fall.
+      Danny Davis and I discussed the short shelf life of the ceasefire: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The alleged ceasefire between the U.S. and Iran is effectively
+      over, as the Trump administration's claims of military victory lack evidence and
+      have only strengthened Iran's position in the Strait of Hormuz.
+    paragraph_summary: The alleged ceasefire between the United States and Iran is effectively
+      over, despite the lack of an official announcement. The Trump administration's
+      claims of military success against Iran are unfounded, as they have only emboldened
+      Iran's control over the Strait of Hormuz, impacting global supply chains. Both
+      Iran and Pakistan, acting as intermediaries, assert that the U.S. had previously
+      accepted a 10-point negotiation framework proposed by Iran, which includes commitments
+      to non-aggression, recognition of Iran's nuclear rights, lifting of sanctions,
+      and compensation for damages caused by U.S. actions. The situation highlights
+      the complexities and failures in U.S.-Iran relations, with no clear path forward
+      for peace or cooperation.
+    published: '2026-04-09T04:55:50+00:00'
+  - title: Trump Got Played by Israel… And the Game Continues
+    url: https://sonar21.com/trump-got-played-by-israel-and-the-game-continues/
+    text: 'Here is the non-news news flash up front — The alleged ceasefire between
+      the United States and Iran is kaput. While there has been no official announcement
+      stipulating that it is over, trust me, it is over. The copium in the Trump administration
+      in particular, and in Washington, DC in general, is ridiculous… Proclamations
+      of a great military victory over Iran, without one shred of evidence that the
+      US achieved any strategic objectives other than inspiring Iran to take control
+      of the Strait of Hormuz and place the world economy in a supply-chain chokehold.
+      Both Iran and Pakistan, the intermediary in the ceasefire, insist that the Trump
+      administration accepted Iran’s 10-point as a workable basis for negotiation :
+      U.S. commitment to non-aggression — A formal guarantee that the United States
+      (and Israel) will not launch further attacks on Iran, Lebanon, Yemen and Iraq.
+      Continued Iranian control over the Strait of Hormuz — Iran retains sovereignty
+      and primary coordination of maritime traffic through the strait, with a “regulated”
+      or “secure transit protocol” for safe passage of ships. Acceptance of Iran’s nuclear
+      enrichment rights — Explicit US and international recognition of Iran’s right
+      to enrich uranium for its civilian nuclear program. Lifting of all primary U.S.
+      sanctions on Iran — Removal of direct bilateral economic sanctions imposed by
+      the United States. Lifting of all secondary sanctions — Elimination of sanctions
+      on third countries and entities that do business with Iran. Termination of all
+      United Nations Security Council resolutions against Iran — Cancellation of existing
+      UNSC sanctions and resolutions targeting Iran. Termination of all IAEA Board of
+      Governors resolutions against Iran — End to International Atomic Energy Agency
+      resolutions and oversight measures related to Iran’s nuclear program. Payment
+      of compensation / war reparations to Iran — Financial compensation or reconstruction
+      aid for damages caused by the US-Israeli military campaign. Release of all frozen
+      Iranian assets — Unfreezing of Iranian funds and assets held abroad (including
+      those in US or European banks). US military withdrawal from the Middle East (and
+      end to attacks on Iran’s allies) — Withdrawal of US combat forces from regional
+      bases, plus a ceasefire extending to Iran’s “Axis of Resistance” allies (including
+      halting Israeli operations in Lebanon against Hezbollah, and ending hostilities
+      in other regional fronts). The initial reaction among Trump’s Zionist supporters
+      and the Netanyahu government was a combination of shock and fury. The push back
+      started immediately on Tuesday night and by Wednesday morning, the Trump administration
+      insisted that it agreed to a different — yet undefined — set of 10-points. Israel
+      made certain that the negotiations would fail by launching a vicious, murderous
+      bombing of central and southern Lebanon. So how did we get into this mess? The
+      New York Times article, How Trump Took the U.S. to War With Iran , has received
+      a lot of attention because it largely lays the blame at the feet of Bibi Netanyahu
+      and his Mossad chief. The piece portrays Prime Minister Benjamin Netanyahu as
+      the driving force behind US involvement. Netanyahu had lobbied intensively for
+      months for a major joint assault on Iran. A pivotal February 11, 2026, meeting
+      at the White House — featuring a highly classified presentation by Netanyahu in
+      the Situation Room — helped shift Trump from hesitation or limited options toward
+      authorizing large-scale strikes alongside Israel. In the months preceding the
+      February 11 meeting, Netanyahu repeatedly pressed the Trump administration for
+      US support for strikes, framing them as essential to neutralize Iran’s nuclear
+      program, ballistic missiles, and regional influence. Israeli officials conveyed
+      that Israel was prepared to act unilaterally if necessary, creating a sense of
+      urgency or inevitability for the US. On February 11, Netanyahu arrived at the
+      White House for discussions that included a detailed briefing on Iran’s threats.
+      The nearly three-hour session covered potential attack timelines, the risks of
+      ongoing US-Iran diplomatic talks (which Netanyahu sought to undermine), and the
+      benefits of military action. Trump and his team received intelligence and arguments
+      emphasizing the need for decisive force. Now let me read the tea leaves… I think
+      the timing of the publication of this article is part of the Washington ritual
+      of identifying the scapegoat or scapegoats for a policy that has run off the rails.
+      JD Vance and, to a lesser extent, Marco Rubio are presented as the two sane voices
+      that tried to persuade Donald Trump NOT to attack Iran. A close third in this
+      regard was General Dan Caine, but the NY Times report paints him as a relatively
+      weak man, afraid to challenge the President. Who gets the blame? Pete Hegseth.
+      When the US attack ramps back up later this week, and Iran continues to pummel
+      US military bases in the Gulf, the critical economic infrastructure of the Gulf
+      arabs, and Israel, a time of reckoning will come when Trump will be forced to
+      admit that the US cannot defeat Iran and that the cost of continuing the war will
+      be devastating to the US economy and Republican political prospects in the fall.
+      Danny Davis and I discussed the short shelf life of the ceasefire: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The alleged ceasefire between the U.S. and Iran is effectively
+      over, as the Trump administration's claims of military victory lack evidence and
+      have only strengthened Iran's position in the Strait of Hormuz.
+    paragraph_summary: The alleged ceasefire between the United States and Iran is effectively
+      over, despite the lack of an official announcement. The Trump administration's
+      claims of military success against Iran are unfounded, as they have only emboldened
+      Iran's control over the Strait of Hormuz, impacting global supply chains. Both
+      Iran and Pakistan, acting as intermediaries, assert that the U.S. had previously
+      accepted a 10-point negotiation framework proposed by Iran, which includes commitments
+      to non-aggression, recognition of Iran's nuclear rights, lifting of sanctions,
+      and compensation for damages caused by U.S. actions. The situation highlights
+      the complexities and failures in U.S.-Iran relations, with no clear path forward
+      for peace or cooperation.
+    published: '2026-04-09T04:55:50+00:00'
   - title: Statement of Iran’s Supreme National Security Council on the Two-Week Ceasefire
       and Negotiation Conditions
     url: https://sonar21.com/statement-of-irans-supreme-national-security-council-on-the-two-week-ceasefire-and-negotiation-conditions/

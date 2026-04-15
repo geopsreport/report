@@ -7,16 +7,647 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The ongoing Iran War continues to reshape the geopolitical landscape, with significant ramifications for security, the environment, and global supply chains. The conflict’s escalation has not only intensified military confrontations but also exposed the vulnerabilities and contradictions within Western alliances and their strategic objectives.
+  The Middle East remains at the epicenter of global geopolitical instability, with the ongoing Iran War and Israel’s military operations in Lebanon continuing to dominate headlines. Recent developments underscore the deepening humanitarian crises and the persistent disregard for international law by key actors.
   
-  Most recently, the environmental impact of the Iran War has come into sharper focus. **Binoy Kampmark** reports that the conflict has generated approximately 5 million tonnes of CO2 in its first two weeks, underscoring the war’s role as a “great carbon emitter.” This surge in emissions highlights the broader security risks tied to fossil fuel dependency and adds urgency to calls for a transition to renewable energy sources. The environmental degradation is now seen as an additional front in the conflict, compounding the humanitarian and economic crises already underway.
+  The latest reports highlight Israel’s intensified military campaign in Lebanon, which, according to **Binoy Kampmark**, is being carried out “under the guise of a ceasefire” but has resulted in widespread devastation of civilian infrastructure and significant loss of life. Kampmark notes that Israeli actions “show a chilling disregard for international law and humanitarian principles,” with attacks on critical infrastructure and civilian areas becoming routine. This escalation, he argues, perpetuates a cycle of violence and instability, undermining any prospects for durable peace in the region.
   
-  Meanwhile, Israel’s renewed invasion of Lebanon has drawn criticism for repeating aggressive tactics that have failed to resolve underlying security issues. As **Kampmark** notes, these operations are “reminiscent of past conflicts” and risk perpetuating a cycle of violence and instability in the region. The majority of analysts agree that such military actions are unlikely to achieve lasting peace or security, instead deepening regional tensions.
+  Meanwhile, the Trump administration’s rhetoric and strategy towards Iran continue to provoke concern among analysts. **Kampmark** critiques President Trump’s “aggressive and incendiary language,” warning that such discourse not only risks further moral and legal complications for U.S. military personnel but also reflects a broader pattern of American warfare that neglects civilian protections. The administration’s approach appears increasingly isolated, with European allies reluctant to support U.S. military actions, further straining transatlantic relations.
   
-  On the military front, the United States faces growing scrutiny over its operational readiness. **Kampmark** highlights statements from Army Undersecretary Michael Obadal, who points to “significant deficiencies in major weapons systems and maintenance capabilities.” Years of prolonged engagements and insufficient reforms have left the U.S. military ill-prepared to respond effectively to contemporary threats, casting doubt on its ability to sustain current operations or deter adversaries.
+  In a broader context, the environmental and economic consequences of the Iran War are becoming more pronounced. The closure of the Strait of Hormuz has disrupted global supply chains, particularly in energy and agriculture, leading to rising prices and potential crises in countries dependent on imports. The war’s carbon footprint is also significant, with millions of tonnes of CO2 emitted in just weeks, exacerbating global climate risks.
   
-  Looking ahead, the trends indicate a high likelihood that the environmental and logistical costs of the Iran War will continue to mount, with little sign of a decisive resolution. Regional instability is expected to persist, particularly as Israeli operations in Lebanon escalate and U.S. military readiness remains in question. I guarantee that, absent a dramatic shift in strategy or diplomatic engagement, the conflict’s negative impacts—environmental, economic, and security-related—will only intensify in the coming weeks.
+  **Trends and Predictions:**  
+  The majority of independent analysts, including **Kampmark**, foresee a continued escalation of violence in Lebanon and persistent instability in the broader Middle East. There is a high chance that the humanitarian situation will deteriorate further, with little likelihood of meaningful ceasefires or diplomatic breakthroughs in the near term. The rift between the U.S. and its traditional allies is expected to widen, undermining collective security frameworks such as NATO. Given current trajectories, I guarantee that the environmental and economic fallout from the conflict will intensify, with global repercussions for energy markets and food security.
+  
+  In summary, the region is locked in a cycle of military escalation, humanitarian crisis, and international discord, with few signs of de-escalation or resolution on the horizon.
 articles:
+  - title: 'Ceasefire Exemptions and Quarries of Death: Israel’s War on Lebanon'
+    url: https://www.counterpunch.org/2026/04/14/ceasefire-exemptions-and-quarries-of-death-israels-war-on-lebanon/
+    text: 'In the Devil’s Dictionary, Ambrose Bierce defines peace as a period of cheating
+      between two periods of fighting. The Israeli version of a ceasefire might be defined
+      as a moment of war deceptively halted to enable conflict to continue. War as cosplay
+      and camouflage. Under such fragile conditions, military objectives can still be
+      pursued with a ruthlessness offensive to international law, custom and common
+      sense.
+
+
+      Seeing as Israel was a central, if not the central power in pushing the crime
+      of aggression on February 28 against Iran, wooing with seductive voice and lurid
+      promise a deranged egoist in the White House (glory and oil awaits thee, Mr President),
+      not to mention the dedicated thorn in any Middle East peace process that threatens
+      sabotage to any enduring arrangements, the continued attacks on Lebanon seemed
+      quotidian. With a war crimes habit well and truly formed, Israel had already issued
+      displacement orders for some 14% of Lebanon, including areas south of the Zahrani
+      River, a majority chunk of Beirut’s southern suburbs and cuts of the Beqaa region.
+
+
+      With their campaign hitting its strides, the Israeli Defense Forces showed no
+      intention of ceasing operations, despite a Pakistan mediated ceasefire that had
+      paused hostilities between Tehran and Washington. While the parties wrangled over
+      what conditions the Strait of Hormuz would be opened under and what a more lasting
+      peace agreement might look like, Israel exempted itself. While not striking Iran,
+      it would continue its onslaught in Lebanon, despite statements from Pakistan Prime
+      Minister Shehbaz Sharif that the ceasefire would also apply to Lebanon. In the
+      words of Israeli Prime Minister Benjamin Netanyahu, “Israel supports President
+      Trump’s decision to suspend strikes against Iran for two weeks subject to Iran
+      immediately opening the straits and stopping all attacks on the US, Israel and
+      countries in the region.” However, the “ceasefire does not include Lebanon”.
+
+
+      Even homicidal routines can shock with spikes of freakish, callous intensity.
+      These included the 100 strikes within 10 minutes on April 8 that resulted in the
+      deaths of at least 303 people, with 1,150 injured. The Israeli authorities claimed
+      that the majority of those killed were members of Hezbollah, though even a two-third
+      fraction takes it into less than principled territory. The targets lay in the
+      southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley. In
+      justifying the slaughter, the IDF expressed the usual pride akin to tribes seeking
+      scalps: the raids had “eliminated Ali Yusuf Harshi, the personal secretary and
+      nephew of Hezbollah Secretary-General Naim Qassem.” Another official dead, only
+      for another to take his place in due course.
+
+
+      The usual, casual destruction of infrastructure that would rankle most justice
+      departments was also celebrated, with the IDF striking “two key crossings used
+      by Hezbollah terrorists and commanders for movement from north to south of the
+      Litani River in Lebanon to transfer thousands of weapons, rockets, and launchers.”
+      Use of such crossings by civilians was of no interest, though the United Nations
+      Office for the Coordination of Humanitarian Affairs (OCHA) did state on March
+      23 that the destruction of crucial bridges had “significantly [disrupted] movement
+      and humanitarian access”, with certain strikes severing the link between Tyre
+      and Nabatieh, while also limiting “movement between south Lebanon and West Bekaa,
+      including Marjayoun and Hasbaya.”
+
+
+      The previous night, Israeli forces struck a building in front of Hiram Hospital
+      in Al-Aabbassiye, near Tyre. This damaged the hospital and cost the lives of four
+      people. Another strike on the Islamic Health Authority in Qlaileh hit an ambulance,
+      resulting in three deaths. When it comes to targeting and the IDF, categories
+      are highly mutable.
+
+
+      The scale of such killings astonished the United Nations Human Rights Chief Volker
+      Türk. “The scale of the killing and destruction in Lebanon today is nothing short
+      of horrific,” stated the High Commissioner on April 8. “Such carnage, within hours
+      of agreeing to a ceasefire with Iran, defies belief. It places enormous pressure
+      one a fragile peace, which is so desperately needed by civilians.” In truth, they
+      need far more than a fragile peace, and certainly not the targeting pedantry that
+      appears in IDF briefings and justifications, the sort that see corpses as more
+      useful and living civilians. Even in war, Türk states in firm reminder, “Each
+      and every attack must comply with international humanitarian law fundamental principles
+      of distinction, proportionality and precautions to protect civilians.”
+
+
+      The UN official must surely know by now that Israel operates in a vacuum all who
+      have committed crimes in international law inhabit, the quarry of the necropolis,
+      the architectural vision of the Grim Reaper. Even the names for Israel’s military
+      operations are drawn increasingly from the dark – literally. “Operation Eternal
+      Darkness was a very powerful blow to Hezbollah, leaving it stunned and confused
+      by the depth of the penetration and the scale of the track,” glowed Israeli Defence
+      Minister Israel Katz in his video statement. “More than 200 terrorists were eliminated
+      yesterday, bringing the number of those eliminated in this campaign to 1,400.”
+      This was “more than double the number in the Second Lebanon War.” It’s all about
+      thanatotic accounting.
+
+
+      This butchery has taken place in conjunction with the establishment of a four-line
+      security zone in Lebanon. The first is the unimaginative and common destruction
+      of Lebanese villages that might serve as launching posts for Hezbollah attacks
+      and briefing notes for prosecutors of international criminal law; the second constitutes
+      a “defensive line” in Lebanon, currently made up of five forward army posts, and
+      set to bulk to 15. The third comprises the “anti-tank” line and the fourth the
+      Litani River, a goal of security so cherished as to be fetishised in Israeli military
+      objectives. There, according to Katz, the IDF will “prevent further infiltration
+      of terrorists and the return of residents southbound.”
+
+
+      A stunning volte face in these arrangements would be the acceptance of a ceasefire
+      and a genuine affirmation that peace is preferable to war. But the Israeli military-political
+      complex seems to relish the view of US President Theodore Roosevelt, who proudly
+      thundered that the benefits of a prosperous peace would never eclipse or exceed
+      those of war, especially waged with a righteous temper. But budgets for killing
+      and conquest thin over time, as do the support of powers who, for all their abundant
+      hypocrisy, may finally relinquish their backing. The momentum is against Israel,
+      however slow the turning.'
+    one_sentence_summary: The article critiques Israel's military actions in Lebanon,
+      portraying them as a continuation of aggression under the guise of a ceasefire,
+      highlighting the devastating impact on civilians and infrastructure while emphasizing
+      the disregard for international law and humanitarian principles.
+    paragraph_summary: The article critiques Israel's military actions in Lebanon amidst
+      ongoing tensions with Iran, suggesting that Israel's approach to ceasefires is
+      merely a facade to continue its aggressive operations. It highlights the brutal
+      nature of the Israeli Defense Forces (IDF) strikes, which have resulted in significant
+      civilian casualties and infrastructure destruction, despite claims of targeting
+      Hezbollah militants. The UN Human Rights Chief condemned the scale of the violence,
+      emphasizing the need for adherence to international humanitarian law. The piece
+      argues that Israel's military strategy reflects a broader disregard for civilian
+      safety and international norms, framing the conflict as one driven by a relentless
+      pursuit of military objectives rather than a genuine desire for peace. Ultimately,
+      it suggests that the Israeli military-political complex prioritizes warfare over
+      the possibility of a sustainable peace, raising concerns about the long-term consequences
+      of such actions.
+    published: '2026-04-14T05:49:38+00:00'
+  - title: Trump, Hegseth and the Language of War Crimes
+    url: https://www.counterpunch.org/2026/04/10/trump-hegseth-and-the-language-of-war-crimes/
+    text: 'He’s out of ideas, a mind running on empty. Increasingly, he is also short
+      of reason, zapped by geopolitical addling and meddling. Now that US President
+      Donald J. Trump has reached an uneasy understanding with Teheran that a two-week
+      ceasefire should apply to the warring parties (Israel, as usual, has its own elastic
+      interpretation as it continues attacking Lebanon), it is worth considering the
+      warring language he has been using since February 28. Of note is the shrill wording
+      of various ultimata he has directed at Iran.
+
+
+      On April 7, the President seemed to flirt with the notion of genocide in promising
+      that “A whole civilization will die tonight, never to be brought back. I don’t
+      want that to happen, but it probably will.” With biblical promise, he was certain
+      that “one of the most important moments in the long and complex history of the
+      World” was about to befall humanity. “47 years of extortion, corruption, and death,
+      will finally end.”
+
+
+      On Easter Sunday, another message was posted bellowing that “Tuesday will be Power
+      Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing
+      like it!!!” Strong language followed. “Open the Fuckin’ Strait, you crazy bastards,”
+      he railed in making reference to Iran’s restrictive hold on the Strait of Hormuz,
+      “or you’ll be living in Hell – JUST WATCH!” Showing a mind turned to slurry, America’s
+      commander-in-chief then praised Allah.
+
+
+      A few days prior, the President issued another threatening note to his adversaries.
+      “If there is no deal, we are going to hit each and every one of their electric
+      generating plants, very hard and probably simultaneously.” This came after strained
+      suggestions that Iran’s new leadership was seeking a ceasefire but could expect
+      nothing without the reopening of the Strait of Hormuz. “Until then, we are blasting
+      Iran into oblivion, or, as they say, back to the Stone Ages!!!”
+
+
+      No degree of lexical polishing, ducking and adjustment escapes the central tenet
+      of such words. They show a lack of discrimination, a lack of proportion, and can
+      only amount to war crimes, either in terms of promised or ongoing operations.
+      Article 52 of the Geneva Convention Additional Protocol I, for instance, makes
+      it abundantly clear that attacks shall only “be limited strictly to military objectives”.
+      Targeted objects shall only be those that “make an effective contribution to military
+      action and whose total or partial destruction, capture, or neutralization, in
+      the circumstances ruling at the time, offers a definite military advantage.” Article
+      57 affirms that “constant care shall be taken to spare the civilian population,
+      civilians and civilian objects.” A number of precautionary steps to ensure that
+      aim are enumerated, including, for instance, verifying “that the objectives to
+      be attacked are neither civilians nor civilian objects”.
+
+
+      In a measured assessment of Trump’s spray of promised annihilation published in
+      Just Security, Margaret Donovan and Rachel VanLandingham, both former uniformed
+      military lawyers, also consider the grave effects of such statements on serving
+      personnel. “[W]e know the president’s words run counter to decades of legal training
+      of military personnel and risk placing our warfighters [sic] on a path of no return.”
+      Such rhetoric did not merely “undermine US legitimacy and global standing” but
+      posed “a significant risk of moral and psychic injury for servicemembers.” They
+      further imperilled soldiers by placing them at risk of future prosecutions for
+      war crimes that would not fall within the statute of limitations.
+
+
+      To Trump’s chilling language can also be added various sinister remarks from Secretary
+      of Defense (or War, as he prefers) Pete Hegseth, who has soiled the conventions
+      of international humanitarian law by expressly declaring that “no quarter, no
+      mercy for our enemies” will be shown. That’s the Lieber Code, the Hague Conventions,
+      and the Rome Statute of the International Criminal Court out the door, perhaps
+      unsurprising from a man who had claimed that US forces should pursue “maximum
+      lethality, not tepid legality.”
+
+
+      Far from being unbecoming aberrations, these comments from Trump and Hegseth are
+      not out of character in the history of American warfare. The no-quarter logic
+      was habitually demonstrated during the Civil War, notably when it came to killing
+      captured Black American soldiers. Historian George S. Burkhardt goes as far as
+      to suggest that an unofficial policy existed among the Confederates that they
+      could execute Black American soldiers and their white officers captured in combat
+      fighting for the Union. This pattern of no prisoners and no quarter would again
+      assert itself in such theatres of conflict as the Philippines, when, in September
+      1901, Brigadier General Jacob H. Smith demandedof Major Littleton Waller that
+      no prisoners were to be taken in the aftermath of a surprise attack on the island
+      of Samar which left 54 American soldiers dead. “I wish you to kill and burn,”
+      he growled, insisting that the island of Samar be turned into a “howling wilderness”.
+      Ditto the ferocious combat shown in the Pacific during the Second World War, when
+      merciless no-quarterism was manifest as US forces made their way towards Japan.
+
+
+      Having noted all three examples, Ali Sanaei of the University of Chicago observes
+      that such instances are not only unlawful but diagnostic. “It appears when war
+      is not imagined as reciprocal combat but as punitive domination over populations
+      thought incapable of deserving the usual protections.” Whatever gilded rhetoric
+      on notions of freedom issue from the Trump administration when it comes to the
+      Iran War, it has become increasingly clear that distinctions between foe and non-combatant
+      have fogged up and vanished, leaving the sort of stubborn resistance that demands
+      punishment. Yet, even as statute books are blotted and conventions maligned, the
+      stubborn continue to prevail.'
+    one_sentence_summary: The article critiques President Trump's aggressive and incendiary
+      rhetoric towards Iran, arguing that his language not only violates international
+      humanitarian law but also risks moral and legal repercussions for U.S. military
+      personnel, reflecting a troubling historical pattern of American warfare that
+      disregards the protections afforded to civilians and non-combatants.
+    paragraph_summary: The article critiques the alarming rhetoric used by U.S. President
+      Donald Trump regarding military actions against Iran, highlighting his increasingly
+      aggressive and threatening language that suggests potential war crimes. It discusses
+      Trump's promises of devastating attacks on Iranian infrastructure, including a
+      chilling reference to genocide, and emphasizes how such statements undermine international
+      humanitarian law and could endanger U.S. servicemembers by exposing them to future
+      legal repercussions. The piece also draws parallels between Trump's rhetoric and
+      historical instances of brutal military conduct in American warfare, suggesting
+      a troubling pattern of viewing conflict as punitive domination rather than reciprocal
+      combat. Overall, it argues that the blurring of lines between combatants and civilians
+      in Trump's language reflects a dangerous shift in the ethics of warfare.
+    published: '2026-04-10T05:49:54+00:00'
+  - title: 'Omissions on a Cruel Trade: The Neglected Role of African Slavers'
+    url: https://www.counterpunch.org/2026/04/09/omissions-on-a-cruel-trade-the-neglected-role-of-african-slavers/
+    text: 'Last month, the United Nations General Assembly was unimpeachably correct
+      in condemning the hideous practice of slavery in a resolution endorsed by 123
+      votes. Those voting either against the resolution (Argentina, Israel and the United
+      States) or choosing to abstain (52 in all) did, nonetheless, demonstrate why grave
+      breaches of human rights can never be extricated from the political and historical
+      context of their perpetration. Importantly, such resolutions are always relevant
+      for what they omit, susceptible to trends and pressures of the moment.
+
+
+      The resolution emphasised “the trafficking of enslaved Africans and racialized
+      chattel enslavement of Africans as the gravest crime against humanity by reason
+      of the definitive break in world history, scale, duration, systemic nature, brutality
+      and enduring consequences that continue to structure the lives of all people through
+      racialized regimes of labour, property and capital.” It also called on Member
+      States “to engage in inclusive, good-faith dialogue on reparatory justice, including
+      a full and formal apology, measures of restitution, compensation, rehabilitation,
+      satisfaction, guarantees of non-repetition and changes to laws, programmes and
+      services to address racism and systemic discrimination”.
+
+
+      The question of reparatory justice for victims and descendants of the slave trade,
+      most notably in its monetary sense, remains thorny. In September 2025, the UN
+      High Commissioner for Human Rights, Volker Türk, stated that justice in this regard
+      had to be expansive in nature, including “reparations in various forms”. “To be
+      truly effective, this approach must squarely consider the web of links between
+      the past and the present – at the individual and societal levels, in all areas
+      of life – in order to dismantle unjust structures and systems designed and shaped
+      by the past.”
+
+
+      The Office of the UN High Commissioner for Human Rights (OHCHR) report released
+      that same month enumerates some features of reparatory justice, among them pursuing
+      public dialogue; reviewing educational materials, monuments, memorials and markets;
+      emphasising the positive contributions of people of African descent; issuing heartfelt
+      apologies; ditching denialist narratives, and establishing truth commissions.
+
+
+      These features are sound enough but tend to ignore the vital cog in the Atlantic
+      Slave Trade and, more generally, the globalised slave trade. That cog becomes
+      something of a snare on closer inspection, revealing that slavery was not so much
+      a “break in history” as its horrific continuation, globalised by the demand of
+      trade and markets. How is reparatory justice to feature, for instance, without
+      accounting for the critical role of local chieftains and potentates on the African
+      continent in facilitating the slave trade? These figures were hardly motivated
+      by notions of “racial chattel enslavement”, preferring that old, and still very
+      contemporary pursuit of profits by selling those deprived of their freedom. Will
+      truth telling commissions account for the significance of that role in the global
+      slave economy, let alone the memorials, books and educational materials on the
+      subject?
+
+
+      The historical role of slavery in various African kingdoms is an extensive one,
+      continental, sprawling and international. While there was demand in Europe and
+      the Americas, there were more than willing suppliers. There are many instances
+      of this that require and have received scholarly attention over time. To name
+      but a few: the Kanem Bornu Empire spanning the current states of Cameroon, Chad
+      and Niger, engaged in a slave trade lasting from 900 AD to the 15th century; the
+      Aro Confederacy covering present-day South-Eastern Nigeria (participants in the
+      slave trade to Europe and the Americas from 1690 to 1902); and the slavers of
+      the Ashanti Empire, which covered present-day Ghana.
+
+
+      The West African Kingdom of Dahomey, covering the territory of modern Benin, offers
+      a cruel if fascinating study on the role of African powers in the Atlantic Slave
+      Trade. Much of this was occasioned by an expansion of the realminitiated by King
+      Agaja in 1720s, which included taking over the kingdom of Allada in 1724 and the
+      kingdom of Whydah in 1727. The seizure of the former was important for securing
+      the vital port of Porto Nuovo, responsible for West African slave trade; the latter
+      saw the incorporation of Ouidah, a port essential to the Atlantic Slave Trade.
+
+
+      Slavery was, in this sense, an indispensable annex to making war, seizing territory
+      and seizing citizens. The prized booty lay in the enslaved. “The slave trade is
+      the ruling principle of my people,” claimed King Ghezo of Dahomey in the 1840s.
+      “It is the source of glory of their wealth … the mother lulls the child to sleep
+      with notes of triumph over an enemy reduced to slavery”.
+
+
+      Having abolished the Atlantic Slave Trade in 1807 and enslavement in the British
+      Empires in 1833, the British took it upon themselves to affect a policy of broader
+      abolition and impairment of the trade through negotiating with West African kingdoms
+      and targeting the vessels of countries (Spain, Portugal and the United States,
+      for instance) still involved in the market. Naval officer Frederick E. Forbes
+      of the frigate HM Penelope was tasked with abolishing slavery in Dahomey in the
+      late 1840s, hoping to convince King Ghezo to acquiesce.
+
+
+      Ghezo baulked at the demands, given the reliance of his kingdom’s economy on the
+      trade with Europeans. He also faced a domestic faction favouring abolition. Showing
+      how trafficking in human flesh might be substituted for some other product, the
+      monarch suggested a gradual abolition if Britain were to encourage investment
+      in Dahomey palm oil at the expense of the neighbouring Egba state of Abeokuta,
+      against whom a war was being waged at the time. With Forbes refusing to bite,
+      the Royal Navy commenced a blockade of the kingdom’s ports in March 1851. Ghezo,
+      wishing to salvage the situation, offered to end enslavement if restitution for
+      lost income could be provided. Such compensation had, after all, been made to
+      the sum of £20 million for its own slaveholders and administered by the Bank of
+      England.
+
+
+      Might and a contingent morality were the order of the day, and Ghezo acceded to
+      Britain’s wishes in January 1852 by agreeing to terminate the transport of slaves
+      from Dahomey ports though continuing the market by transporting people to neighbouring
+      states from which the slave trade could still continue. A vicious, commercial
+      cunning has always found its way into the slave market, and in the late 1850s
+      Ghezo, feeling less accommodating to the British, would resume the very practices
+      he had eschewed.
+
+
+      Any accounting of slavery and its complex, odious influence would also have to
+      consider the lucrative trans-Saharan slave trade which began in Egypt and its
+      Muslim conquest by the Rashidun caliphate in 641 AD. While the Atlantic Slave
+      Trade remains the foremost target of protest by many African and Caribbean states,
+      the trans-Saharan route transported millions from Egypt to Asia, oiled by the
+      interests of such powers as the Ottoman Empire.
+
+
+      More recently, the neglected dimension of African slavers has received attention
+      in the writings of Nigerian journalist and novelist Adaobi Tricia Nwaubani, whose
+      Igbo great-grandfather, Nwaubani Ogogo Oriaku, traded in tobacco, palm produce
+      and humans. His slaves were purchased through the ports of Calabar and Bonny.
+      The author warns against judging her enterprising ancestor by current standards.
+      “They were simply living the life into which they were raised.” The broader issues
+      of African ambivalence and amnesia on the subject was further discussed by Nwaubani
+      in the Wall Street Journal in September 2019. She noted remarks from the former
+      governor of Calabar, Donald Duke, whose own ancestors profited from the slave
+      trade. “I’m not ashamed of it,” he declared with confidence, “because I personally
+      wasn’t directly involved.”
+
+
+      These are the sorts of arguments, regularly employed by Western countries built
+      on slavery yet eyeing their budgets with miserly concern, that would sink any
+      claim for reparations and financial restitution. The importance, as ever, is in
+      the understanding and the acknowledgment.'
+    one_sentence_summary: The recent UN resolution condemning slavery, while highlighting
+      the need for reparatory justice, overlooks the complex historical role of African
+      powers in facilitating the slave trade, raising questions about how reparations
+      can be effectively addressed without acknowledging this critical context.
+    paragraph_summary: The recent United Nations General Assembly resolution condemning
+      slavery, supported by 123 votes, highlights the ongoing relevance of reparatory
+      justice for the descendants of enslaved Africans, while also revealing the complexities
+      of addressing historical injustices. The resolution emphasizes the systemic nature
+      of racialized chattel enslavement as a grave crime against humanity and calls
+      for inclusive dialogue on reparations, including apologies and measures to combat
+      racism. However, the discussion around reparations is complicated by the historical
+      role of African leaders and kingdoms in the slave trade, who often participated
+      for profit rather than racial motivations. The article discusses various African
+      empires that engaged in the slave trade and the intricate dynamics of local and
+      global markets that perpetuated slavery. It also touches on the trans-Saharan
+      slave trade and the ambivalence within African societies regarding their historical
+      involvement. Ultimately, the article argues that a comprehensive understanding
+      of slavery must acknowledge these complexities to inform discussions on reparations
+      and justice.
+    published: '2026-04-09T05:50:29+00:00'
+  - title: 'Executing with Prejudice: Israel’s Death Penalty Law'
+    url: https://www.counterpunch.org/2026/04/07/executing-with-prejudice-israels-death-penalty-law/
+    text: 'It was celebrated with ghoulish delight. On March 30, the Israeli Knesset
+      passed the Penal Bill (Amendment – Death Penalty for Terrorists), an instrument
+      expanding the use of the death penalty for offences of a terrorist nature. The
+      death penalty had previously existed in Israeli law for war crimes but was abolished
+      in 1954 for ordinary crimes in peacetime. Technically, it remained on the books
+      for crimes against the Jewish people, crimes against humanity and certain cases
+      of martial law.
+
+
+      The law’s purpose is articulated as establishing the death sentence “for the sake
+      of the struggle against terrorism” for those who have carried out lethal attacks
+      for the protection of the Israeli state, citizens and residents, for reasons of
+      enhancing “deterrence”, preventing attacks involving the taking of hostages, for
+      sheer retribution, and for prescribing “arrangements for the execution of this
+      penalty.”
+
+
+      Its purpose is also tellingly and odiously discriminatory, imposing the death
+      penalty for the deliberate killing of a person with the intention of “negating
+      the existence of the State of Israel.” Hanging is mandated, access to legal counsel
+      restricted, and visits from family members for the condemned heavily circumscribed.
+      (The list of those permitted is authoritarian and bleak: prison officers, authorised
+      religious officials, official visitors, those authorised by the Minister, attorneys
+      and physicians.) The bill also limits accountability by minimising external oversight
+      and grants immunity to those responsible for carrying out executions.
+
+
+      The law purposely creates two legal frameworks. The death penalty will apply to
+      the occupied West Bank but exclude the illegally annexed part of East Jerusalem
+      and Israel itself. Military courts with jurisdiction in the West Bank are authorised
+      to impose the death penalty even in the absence of prosecutorial request and only
+      in unspecified special circumstances order a life sentence. A simple majority
+      will be adequate. Israeli citizens responsible for killing Palestinians will continue
+      to be tried in Israel’s civilian court system with scandalous leniency.
+
+
+      This latest development is ominous for Palestinians, given the astonishing conviction
+      rate of some 99.74% of such defendants and the ongoing incarceration of 9,500
+      inmates, including 350 children and 73 women deemed “unlawful combatants” and
+      held without trial. In contrast, between 2005 and 2024, Israelis tried for crimes
+      committed in the West Bank could be assured of a conviction rate barely touching
+      3%.
+
+
+      During the debates on the bill, some members of the Knesset boisterously turned
+      up wearing gold pins shaped in a noose. Members of the Otzma Yehudit party were
+      particularly egregious on this score, with National Security Minister Itamar Ben-Gvir
+      noting their “commitment to the demand for the death penalty for terrorists” and
+      sending “a clear message that terrorists are deserving of death”. He also dismissed
+      opposition to the bill from the Israeli Medical Association as needlessly squeamish,
+      seeing as he had received “100 calls from doctors who said: ‘Itamar, just tell
+      us when.’” That’s the Hippocratic Oath out of the window.
+
+
+      The tasteless display did draw the ire of Opposition Leader Yair Lapid, who lamented
+      in a Yesh Atid faction meeting that images of the “pins with a noose are spreading
+      throughout the world and causing indescribable damage.” Yair Golan, party chief
+      of the Democrats, saw the gesture as obscenely sinister. “When a government uses
+      the imagery of death to project strength, it is no longer fighting terrorism;
+      it’s rehearing dictatorship.” If this was a rehearsal, it has become rather practised.
+
+
+      Adam Coogle, deputy Middle East director at Human Rights Watch, gave his grim
+      assessment about the bill: “Israeli officials argue that […] imposing the death
+      penalty is about security, but in reality, it entrenches discrimination and a
+      two-tiered system of justice, both hallmarks of apartheid. The death penalty is
+      irreversible and cruel. Combined with its severe restrictions on appeals and its
+      90-day execution timeline, this bill aims to kill Palestinian detainees faster
+      and with less scrutiny.”
+
+
+      Erika Guevara-Rosas, Amnesty International’s Senior Director of Research, Advocacy,
+      Policy and Campaigns, also condemned the amending law for not only being cruel,
+      discriminatory and contemptuous of human rights, but for dismantling “fundamental
+      safeguards to prevent the arbitrary deprivation of life and protect the right
+      to a fair trial” while further empowering “Israel’s system of apartheid, which
+      is maintained by scores of discriminatory laws against Palestinians.”
+
+
+      While these surveys of the brutal law are accurate, they ignore the possibility
+      that Israel, in having passed such legislation, is facilitating something even
+      graver. This much was said by Volker Türk, the United Nations human rights chief.
+      “The application to residents of the occupied territory would constitute a war
+      crime.”
+
+
+      This bill is but the start of a series of measures signalling Israel’s intention
+      to further limit Palestinian resistance to its predations with punitive finality.
+      (This beds down previous laws such as the Jewish supremacist Nation-State Law
+      of 2018 and the 2003 Citizenship and Entry into Israel Law). The Knesset’s Constitution,
+      Law and Justice committee on March 24, for instance, advanced the Tribunals’ Law
+      (“Prosecution of Participants in October 7 Massacre events”) bill for a second
+      and third reading that will establish a tribunal approximating to a military court
+      to try individuals who participated in the October 7, 2023 attacks. Such a body
+      will be granted powers not only to impose the death penalty but modify accepted
+      rules of procedure and evidence in cases “deemed necessary for the clarification
+      of the truth and the performance of justice”. Truth and justice, it would seem,
+      read through the clouded prism of race and blood.'
+    one_sentence_summary: On March 30, the Israeli Knesset passed a controversial bill
+      expanding the death penalty for terrorists, which critics argue institutionalizes
+      discrimination and undermines human rights, particularly affecting Palestinians
+      in the occupied territories, while also signaling a broader trend towards punitive
+      measures against Palestinian resistance.
+    paragraph_summary: On March 30, the Israeli Knesset passed the Penal Bill (Amendment
+      – Death Penalty for Terrorists), expanding the death penalty for terrorist offenses,
+      which had been abolished for ordinary crimes since 1954. This law aims to enhance
+      deterrence against terrorism and is notably discriminatory, applying the death
+      penalty to individuals accused of threatening the existence of the Israeli state
+      while creating a two-tiered legal system that treats Palestinians in the occupied
+      West Bank more harshly than Israeli citizens. The bill restricts legal counsel
+      and family visits for those condemned, and military courts can impose the death
+      penalty without a prosecutorial request. Critics, including human rights organizations
+      and opposition leaders, argue that the law entrenches discrimination, undermines
+      fair trial rights, and could constitute a war crime under international law. The
+      legislation is seen as part of a broader trend to suppress Palestinian resistance
+      and further entrench a system of apartheid, raising concerns about the future
+      of justice and human rights in the region.
+    published: '2026-04-07T05:49:14+00:00'
+  - title: 'Closing Air Spaces and Cracking Alliances: Trump’s Growing Problem with
+      Allies'
+    url: https://www.counterpunch.org/2026/04/06/closing-air-spaces-and-cracking-alliances-trumps-growing-problem-with-allies/
+    text: 'With the Iran War groaning along, the Trump administration is getting increasingly
+      indignant. Plumes of childish anger can be seen coming out of the White House
+      and Pentagon. Having joined an illegal, joint enterprise with Israel in attacking
+      Iran, allies are proving increasingly unwilling to play along.
+
+
+      That unwillingness gurgled to the top with Spain’s announcement on March 30 that
+      it had closed its airspace to US aircraft participating in strikes on Iran. This
+      added to Madrid’s decision earlier in the month to deny the US military access
+      to its bases for military operations against Tehran. “We don’t authorise either
+      the use of military bases or the use of airspace for actions related to the war
+      in Iran,” Defence Minister Margarita Robles told reporters. Spain’s Economy Minister
+      Carlos Cuerpo, in an interview with radio Cadena SER, called the move consistent
+      and “part of the decision already made by the Spanish government not to participate
+      in or contribute to a war which was initiated unilaterally and against international
+      law.”
+
+
+      The government of Prime Minister Pedro Sánchez has been singularly pertinacious
+      in its characterisation of the Iran War, and more broadly illustrative of the
+      current bad blood in transatlantic relations. In a piece for The Economist, Sánchez
+      wrote of his country’s misplaced support for Washington in February 2003 when
+      the then US Secretary of State, Colin Powell, told the UN Security Council most
+      gravely that Iraq had weapons of mass destruction, and needed to be attacked.
+      The foolishly credulous Spanish Prime Minister at the time, José María Aznar,
+      was convinced that the regime of Saddam Hussein had such weapons. “Today we face
+      a similar situation, and my government’s position is the same as that voiced by
+      Spanish society two decades ago: NO TO WAR. No to the unilateral violation of
+      international law. No to repeating the mistakes of the past. No to the idea that
+      the world’s problems can be solved with bombs.”
+
+
+      Italian authorities have also expressed displeasure at the presumptuousness of
+      their US allies in taking liberties with their military facilities. In a March
+      31 report by Corriere della Sera, “several US bombers” that had intended to land
+      at Sigonella air base on route to the Middle East were refused as they had not
+      properly requested authorisation or consulted with the Italian military. A statement
+      from Palazzo Chigi, the office of Italian Prime Minister Giorgia Meloni, reiterated
+      that Italy “acts in full compliance with existing international agreements and
+      with the policy guidelines expressed by the Government to Parliament”.
+
+
+      Other allies are openly rebuffing requests by US officials to secure additional
+      military equipment to the Gulf. Critical here are air-defence systems such as
+      the Patriot batteries that have been dramatically depleted since the outbreak
+      of hostilities. In the first 16 days of the war, some 1,285 PAC-3 Patriot missiles
+      were used by the US military and Gulf states.
+
+
+      The Polish Defence Minister, Władysław Kosiniak-Kamysz could not have been clearer
+      in his statement on whether Poland’s complement of Patriot air defence systems
+      would make their way to the Middle East. “Our Patriot batteries and their armaments
+      are used to protect Polish airspace and NATO’s eastern flank. Nothing is changing
+      in this regard, and we have no plans to move them anywhere!” Fellow allies understood
+      “the importance of our tasks here. Poland’s security is an absolute priority.”
+
+
+      As has become customary, US President Donald Trump has led the growls of grievance,
+      billowing with anger on Truth Social about the reluctance of European partners
+      to throw in their lot in what is, at best, a criminal enterprise. On the issue
+      of depleted jet fuel supplies restricted by the closure of the Strait of Hormuz,
+      he brusquely suggested to his allies that they could purchase supplies from the
+      US (“we have plenty”) and “build up some delayed courage, go to the Strait, and
+      just TAKE IT.” With a demented paternalism, he went on to declare that “You’ll
+      have to start learning how to fight for yourself, the USA won’t be there to help
+      you anymore, just like you weren’t there for us.” With typically strained logic,
+      he went on to suggest that any assistance would be minor, in any case, as Iran
+      had been “decimated”. “The hard part is done. Go get your own oil!”
+
+
+      Special mention was made of mulishness on the part of the UK (“which refused to
+      get involved in the decapitation of Iran”) and France. France, for instance, had
+      refused to permit planes carrying military supplies destined for Israel to fly
+      over French territory. “France has been VERY UNHELPFUL with respect to the ‘Butcher
+      of Iran’, who has been successfully eliminated. The U.S.A. will REMEMBER!!!”.
+
+
+      Soon afterwards, a comically crazed and increasingly God loving Pete Hegseth struck
+      a similar note in the Pentagon. “A lot has been laid bare, a lot has been shown
+      to the world about what our allies would be willing to do for the United States
+      of America,” grumbled the Secretary of Defense (he prefers War) to reporters.
+      “When we undertake an effort of this scope on behalf of the free world, these
+      are missiles that don’t even range the United States of America, they range allies
+      and others and yet, when we ask for additional assistance or simple access… we
+      get questions or roadblocks or hesitation.”
+
+
+      In his March 30 interview with Al Jazeera, Secretary of State Marco Rubio was
+      also brimming with complaints. “If NATO is just about us defending Europe if they’re
+      attacked but then denying us basic rights when we need them, that’s not a very
+      good arrangement. That’s a hard one to stay engaged in and say this is good for
+      the United States.” All this called for a reassessment. “All of it’s going to
+      have to be re-examined.” The re-examination, notably judging from the temper of
+      European states, is proving increasingly reciprocal and, in some circles, even
+      welcome.'
+    one_sentence_summary: As the Iran War continues, the Trump administration expresses
+      frustration over the reluctance of European allies like Spain and Italy to support
+      military actions, highlighting a growing rift in transatlantic relations and a
+      call for reassessment of NATO's role.
+    paragraph_summary: As the Iran War continues, the Trump administration is expressing
+      frustration over the reluctance of European allies to support U.S. military actions
+      against Iran, which many perceive as illegal. Spain has notably closed its airspace
+      to U.S. aircraft involved in the conflict and denied access to military bases,
+      with officials emphasizing their refusal to participate in what they view as a
+      unilateral violation of international law. Italy has also rejected U.S. requests
+      for military support, while Poland has firmly stated that its air defense systems
+      will remain in place to protect its own territory. Amidst these rebuffs, President
+      Trump and other U.S. officials have voiced their grievances, suggesting that allies
+      should take more responsibility for their own defense and questioning the value
+      of NATO in light of this lack of support. The situation reflects a growing strain
+      in transatlantic relations, with European countries increasingly resistant to
+      U.S. military initiatives.
+    published: '2026-04-06T05:50:42+00:00'
   - title: 'The Iran War: A Great Carbon Emitter'
     url: https://www.counterpunch.org/2026/04/01/the-iran-war-a-great-carbon-emitter/
     text: 'Truth may well be the first casualty of war, but death, injury and environmental

@@ -7,14 +7,616 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  Tensions between the United States and Iran have reached a critical juncture, with the announcement of a two-week ceasefire marking a significant, if temporary, de-escalation. This follows weeks of heightened rhetoric and military posturing, culminating in what **Caitlin Johnstone** describes as the U.S. "backing down" after being caught off-guard by Iran's unexpectedly forceful retaliation against American and Israeli targets. The ceasefire, which President Trump has presented as a diplomatic win based on Tehran's 10-point proposal, appears instead to be a concession to terms Iran had already made public, suggesting a shift in the balance of leverage.
+  The ongoing confrontation between the US, Israel, and Iran continues to dominate the geopolitical landscape, with recent independent analysis highlighting a growing sense of frustration and calls for a fundamental shift in global power structures. The latest commentary, notably from **Tim Foley**, reflects a rising desire among anti-imperialist voices for a defeat of both the US and Israel in Iran, viewing such an outcome as a potential catalyst for dismantling what is described as the US-led imperial order and the "apartheid state" of Israel. Foley also draws attention to Silicon Valley’s increasing role in suppressing dissent through digital censorship, a trend that is fueling further resentment among critics of Western policy.
   
-  This development comes on the heels of increasingly provocative statements from Trump, who recently threatened further military action on social media. The rapid pivot to ceasefire has led analysts like **Johnstone** to question the coherence of U.S. strategy, noting that the administration is now "claiming victory" for accepting conditions it previously ignored. The broader context, as outlined in recent reports, is a U.S. foreign policy establishment struggling to adapt to realities on the ground, with the Pentagon reportedly surprised by Iran's operational capabilities and willingness to retaliate.
+  In the broader context, **Caitlin Johnstone** underscores the disproportionate harm enabled by Israel’s advanced Western-backed military capabilities, arguing that this support amplifies the impact of Israeli actions compared to other regional actors. This perspective is gaining traction as international scrutiny intensifies over Israel’s conduct, particularly in the wake of its exclusion of Spain from Gaza ceasefire coordination efforts—a move that followed Madrid’s refusal to support Israeli operations in Iran.
   
-  Meanwhile, the media's portrayal of these events continues to draw criticism. **Johnstone** highlights a pattern of misleading coverage in major Western outlets, which often downplays the consequences of U.S. and Israeli actions while amplifying narratives that justify continued intervention. This has contributed to growing skepticism about the official narrative and increased calls, particularly from the anti-imperialist left, for a more honest reckoning with the costs of military engagement in the region.
+  Meanwhile, the ceasefire between the US and Iran, announced as a diplomatic victory by the Trump administration, is increasingly viewed as a tactical retreat. Analysts note that Tehran’s terms for de-escalation had been on the table for weeks, suggesting that the US is responding to mounting pressure rather than dictating the terms of peace. The situation remains volatile, with Israel’s continued military activity in Lebanon threatening to undermine the fragile ceasefire framework.
   
-  Looking ahead, there is a high chance that the ceasefire will hold for its initial two-week period, as both sides appear to be seeking a pause to reassess their positions. However, unless there is a substantive shift in U.S. policy or a genuine engagement with Iran's longstanding demands, the underlying tensions are likely to resurface. As **Johnstone** notes, the U.S. is "most definitely" losing its ability to control the narrative and dictate terms in the Middle East, signaling a potential long-term decline in American influence in the region.
+  Looking ahead, the majority view among independent observers is that the US and its allies are losing their ability to control the narrative and obscure the consequences of their actions. As **Tim Foley** points out, the visible fallout from Western interventions is eroding the effectiveness of traditional propaganda. There is a high chance that, barring a significant policy shift, the current order will face escalating challenges both domestically and internationally. Most definitely, the coming weeks will see increased scrutiny of Western military and information operations, with anti-imperialist sentiment likely to intensify if the status quo persists.
 articles:
+  - title: I Hope The US Loses And The Empire Collapses, And Other Notes
+    url: https://www.caitlinjohnst.one/p/i-hope-the-us-loses-and-the-empire
+    text: 'Reading by Tim Foley : Subscribe now I don’t mind admitting that I hope the
+      US and Israel suffer a crushing, devastating defeat in Iran. I hope this war collapses
+      the entire US empire. My only loyalty is to humanity, and being on Team Human
+      in today’s world means being against the US empire and against Israel. I hope
+      the empire falls. I hope the apartheid state of Israel is dismantled. I hope humanity
+      is able to pry the steering wheel from the fingers of the ghouls who currently
+      rule our world, so that we can create a healthy planet and a harmonious future
+      together. ❖ YouTube has banned the channel that’s been creating viral AI Lego
+      music videos criticizing the US war on Iran. The Google-owned platform claims
+      the Lego videos somehow constituted “violent content”, but we all know it was
+      to facilitate the US propaganda effort by shutting down effective propaganda for
+      the other side. Silicon Valley is a crucial arm of US imperial control. It chooses
+      to advance the interests of the empire at every significant juncture. It’s a branch
+      of imperial soft power in the same way the military is a branch of imperial hard
+      power. ❖ The US and Israel have so normalized the assassination of national leaders
+      that the mainstream press now discuss it as a standard military tactic. The other
+      day The Washington Post ran an article by Marc Thiessen arguing that the US should
+      “carry out a final barrage of leadership strikes, eliminating the Iranian officials
+      who had been spared for the purpose of negotiations.” “Iran’s leaders must be
+      made to understand that their lives literally depend on reaching a negotiated
+      settlement to Trump’s liking. If they refuse to do so, they will be killed,” Thiessen
+      writes. At some point one of America’s enemies is going to assassinate a US official
+      and my replies are going to be full of shrieking, outraged Americans acting like
+      I’m the bad guy when I say Washington had it coming. ❖ Even if the US wasn’t directly
+      responsible for the Strait of Hormuz situation, it would still be the last country
+      on earth with any business whining about it. They’re openly imposing a fuel blockade
+      on Cuba while complaining that nobody should be allowed to block shipping lanes,
+      for Christ’s sake. ❖ The Democratic National Committee voted to reject a resolution
+      denouncing the influence of AIPAC in US politics. Eighty percent of Democrats
+      have a negative view of Israel today. The DNC’s main function is to keep the Democratic
+      Party and its representation on the ballot from reflecting the will of the public.
+      ❖ ❖ Dear Trump supporters, send me all of your money. I have a plan to make America
+      great again. I will end all the wars and drain the swamp. Don’t worry if it looks
+      like I’m not doing any of those things, I’m playing 4d chess, trust the plan.
+      Send me your life savings right now. ❖ It’s important not to let them pin this
+      all on Trump, in the same way it’s important not to let them pin Israel’s crimes
+      on Netanyahu. Everything we are seeing with this disastrous Iran war is the product
+      of the entire power structure which gave rise to it, not one guy’s dopey decisions.
+      The warmongers in the DC swamp have been pushing war with Iran for decades. Trump
+      is just the guy who was chosen by Zionist oligarchs and bloodthirsty empire managers
+      to carry out the deed. He happens to be the face on the operation, but if it wasn’t
+      him it would have been someone else. American warmongering insanity didn’t start
+      with Trump, and it isn’t going to end with him either. Don’t direct your rage
+      merely at the fleeting puppets who come and go from the imperial stage as the
+      US murder machine trudges onward. Direct it at the empire itself. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley expresses a desire for the defeat of the US and
+      Israel in Iran, viewing it as a means to dismantle the US empire and the apartheid
+      state of Israel, while criticizing Silicon Valley's role in suppressing dissenting
+      voices through censorship.
+    paragraph_summary: In an article by Tim Foley, the author expresses a desire for
+      the US and Israel to face a significant defeat in Iran, hoping this would lead
+      to the collapse of the US empire and the dismantling of what he describes as the
+      apartheid state of Israel. Foley emphasizes his loyalty to humanity over national
+      interests, advocating for a future where power is taken from those he views as
+      oppressive rulers. He criticizes Silicon Valley's role in supporting US imperialism,
+      particularly through the banning of a YouTube channel that produced AI Lego music
+      videos opposing the US war on Iran, labeling it as an act of censorship aligned
+      with US propaganda. Additionally, he highlights the normalization of assassination
+      as a military tactic by the US and Israel, referencing a Washington Post article
+      advocating for the elimination of Iranian leaders, and warns that such aggressive
+      actions may provoke retaliation against US officials.
+    published: '2026-04-14T14:33:10+00:00'
+  - title: I Hope The US Loses And The Empire Collapses, And Other Notes
+    url: https://www.caitlinjohnst.one/p/i-hope-the-us-loses-and-the-empire
+    text: 'Reading by Tim Foley : Subscribe now I don’t mind admitting that I hope the
+      US and Israel suffer a crushing, devastating defeat in Iran. I hope this war collapses
+      the entire US empire. My only loyalty is to humanity, and being on Team Human
+      in today’s world means being against the US empire and against Israel. I hope
+      the empire falls. I hope the apartheid state of Israel is dismantled. I hope humanity
+      is able to pry the steering wheel from the fingers of the ghouls who currently
+      rule our world, so that we can create a healthy planet and a harmonious future
+      together. ❖ YouTube has banned the channel that’s been creating viral AI Lego
+      music videos criticizing the US war on Iran. The Google-owned platform claims
+      the Lego videos somehow constituted “violent content”, but we all know it was
+      to facilitate the US propaganda effort by shutting down effective propaganda for
+      the other side. Silicon Valley is a crucial arm of US imperial control. It chooses
+      to advance the interests of the empire at every significant juncture. It’s a branch
+      of imperial soft power in the same way the military is a branch of imperial hard
+      power. ❖ The US and Israel have so normalized the assassination of national leaders
+      that the mainstream press now discuss it as a standard military tactic. The other
+      day The Washington Post ran an article by Marc Thiessen arguing that the US should
+      “carry out a final barrage of leadership strikes, eliminating the Iranian officials
+      who had been spared for the purpose of negotiations.” “Iran’s leaders must be
+      made to understand that their lives literally depend on reaching a negotiated
+      settlement to Trump’s liking. If they refuse to do so, they will be killed,” Thiessen
+      writes. At some point one of America’s enemies is going to assassinate a US official
+      and my replies are going to be full of shrieking, outraged Americans acting like
+      I’m the bad guy when I say Washington had it coming. ❖ Even if the US wasn’t directly
+      responsible for the Strait of Hormuz situation, it would still be the last country
+      on earth with any business whining about it. They’re openly imposing a fuel blockade
+      on Cuba while complaining that nobody should be allowed to block shipping lanes,
+      for Christ’s sake. ❖ The Democratic National Committee voted to reject a resolution
+      denouncing the influence of AIPAC in US politics. Eighty percent of Democrats
+      have a negative view of Israel today. The DNC’s main function is to keep the Democratic
+      Party and its representation on the ballot from reflecting the will of the public.
+      ❖ ❖ Dear Trump supporters, send me all of your money. I have a plan to make America
+      great again. I will end all the wars and drain the swamp. Don’t worry if it looks
+      like I’m not doing any of those things, I’m playing 4d chess, trust the plan.
+      Send me your life savings right now. ❖ It’s important not to let them pin this
+      all on Trump, in the same way it’s important not to let them pin Israel’s crimes
+      on Netanyahu. Everything we are seeing with this disastrous Iran war is the product
+      of the entire power structure which gave rise to it, not one guy’s dopey decisions.
+      The warmongers in the DC swamp have been pushing war with Iran for decades. Trump
+      is just the guy who was chosen by Zionist oligarchs and bloodthirsty empire managers
+      to carry out the deed. He happens to be the face on the operation, but if it wasn’t
+      him it would have been someone else. American warmongering insanity didn’t start
+      with Trump, and it isn’t going to end with him either. Don’t direct your rage
+      merely at the fleeting puppets who come and go from the imperial stage as the
+      US murder machine trudges onward. Direct it at the empire itself. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley expresses a desire for the defeat of the US and
+      Israel in Iran, viewing it as a means to dismantle the US empire and the apartheid
+      state of Israel, while criticizing Silicon Valley's role in suppressing dissenting
+      voices through censorship.
+    paragraph_summary: In an article by Tim Foley, the author expresses a desire for
+      the US and Israel to face a significant defeat in Iran, hoping this would lead
+      to the collapse of the US empire and the dismantling of what he describes as the
+      apartheid state of Israel. Foley emphasizes his loyalty to humanity over national
+      interests, advocating for a future where power is taken from those he views as
+      oppressive rulers. He criticizes Silicon Valley's role in supporting US imperialism,
+      particularly through the banning of a YouTube channel that produced AI Lego music
+      videos opposing the US war on Iran, labeling it as an act of censorship aligned
+      with US propaganda. Additionally, he highlights the normalization of assassination
+      as a military tactic by the US and Israel, referencing a Washington Post article
+      advocating for the elimination of Iranian leaders, and warns that such aggressive
+      actions may provoke retaliation against US officials.
+    published: '2026-04-14T14:33:10+00:00'
+  - title: Despise Israel AND The Entire Western Empire
+    url: https://www.caitlinjohnst.one/p/despise-israel-and-the-entire-western
+    text: 'Reading by Tim Foley : Subscribe now Everyone hates Israel now, which is
+      as it should be. But we all need to understand that Israel has never acted alone.
+      If Israel were acting alone, it would be an asshole with a pointy stick instead
+      of an asshole with an attack helicopter. The west gave it the attack helicopter.
+      An asshole with a pointy stick is not much of a problem. The world is full of
+      assholes with pointy sticks. Get yourself your own pointy stick and you can deter
+      their aggressions without much difficulty. An asshole with an attack helicopter
+      can ruin everyone’s day. He can fuck everything up and kill whoever he wants — even
+      people who have pointy sticks. He doesn’t need to negotiate with anyone. He doesn’t
+      need to be polite or diplomatic. You just have to give him whatever he wants or
+      he’ll fly over there and chain gun you and your family. The US and its allies
+      are responsible for ensuring that Israel remains an asshole with an attack helicopter
+      instead of an asshole with a pointy stick. They’ve created this situation where
+      Israel doesn’t have to get along with its neighbors like any other normal country
+      on the planet, and can instead exist in a perpetual state of war. It is right
+      and good to despise Israel; Israel is a genocidal apartheid state which should
+      not exist and should never have been created in the first place. But political
+      maturity means carrying that disdain forward to the entire western power structure
+      under which we all live. Hating Israel without hating the western empire is nonsensical,
+      because Israel would not exist without western weapons, military support, narrative
+      control, and diplomatic cover. It’s like hating Bonnie without hating Clyde. Like
+      hating Butch Cassidy but not the Sundance Kid. There are laws against being an
+      accomplice to murder because we all understand that if you aid and abet a murderer
+      then you necessarily share moral culpability for the killing. And it’s not like
+      the western power alliance has been a virtuous little cherub apart from its participation
+      in Israeli violence; the US is terrorizing socialist states in Latin America as
+      you read this. The right-wing narrative that the west would be a wholesome and
+      beneficent society without Israeli interference is contradicted by the entire
+      unbroken history of western civilization. We have always been a remarkably tyrannical
+      and genocidal people. We have yet to mature beyond this as a society. That’s why
+      Israel is our partner in crime. Oppose Israel, and also oppose the entire murderous
+      western power structure. The abusiveness of the former is not meaningfully separate
+      or separable from the abusiveness of the latter. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that while Israel is widely criticized
+      for its actions, it is important to recognize that its military power, supported
+      by the West, significantly amplifies its ability to cause harm compared to other
+      nations with less advanced weaponry.
+    paragraph_summary: In his article, Tim Foley argues that while Israel is widely
+      criticized for its actions, it is essential to recognize that it operates within
+      a framework of support from Western powers, particularly the United States. He
+      likens Israel to an "asshole with an attack helicopter," suggesting that its military
+      capabilities, provided by the West, enable it to act aggressively without needing
+      to engage diplomatically with its neighbors. Foley contends that to truly understand
+      and critique Israel's behavior, one must also hold the Western powers accountable
+      for their role in perpetuating the conflict and enabling Israel's actions. He
+      emphasizes that hating Israel without also condemning the Western empire that
+      supports it is illogical, as the latter shares moral responsibility for the violence
+      and oppression that occurs.
+    published: '2026-04-13T12:14:58+00:00'
+  - title: Despise Israel AND The Entire Western Empire
+    url: https://www.caitlinjohnst.one/p/despise-israel-and-the-entire-western
+    text: 'Reading by Tim Foley : Subscribe now Everyone hates Israel now, which is
+      as it should be. But we all need to understand that Israel has never acted alone.
+      If Israel were acting alone, it would be an asshole with a pointy stick instead
+      of an asshole with an attack helicopter. The west gave it the attack helicopter.
+      An asshole with a pointy stick is not much of a problem. The world is full of
+      assholes with pointy sticks. Get yourself your own pointy stick and you can deter
+      their aggressions without much difficulty. An asshole with an attack helicopter
+      can ruin everyone’s day. He can fuck everything up and kill whoever he wants — even
+      people who have pointy sticks. He doesn’t need to negotiate with anyone. He doesn’t
+      need to be polite or diplomatic. You just have to give him whatever he wants or
+      he’ll fly over there and chain gun you and your family. The US and its allies
+      are responsible for ensuring that Israel remains an asshole with an attack helicopter
+      instead of an asshole with a pointy stick. They’ve created this situation where
+      Israel doesn’t have to get along with its neighbors like any other normal country
+      on the planet, and can instead exist in a perpetual state of war. It is right
+      and good to despise Israel; Israel is a genocidal apartheid state which should
+      not exist and should never have been created in the first place. But political
+      maturity means carrying that disdain forward to the entire western power structure
+      under which we all live. Hating Israel without hating the western empire is nonsensical,
+      because Israel would not exist without western weapons, military support, narrative
+      control, and diplomatic cover. It’s like hating Bonnie without hating Clyde. Like
+      hating Butch Cassidy but not the Sundance Kid. There are laws against being an
+      accomplice to murder because we all understand that if you aid and abet a murderer
+      then you necessarily share moral culpability for the killing. And it’s not like
+      the western power alliance has been a virtuous little cherub apart from its participation
+      in Israeli violence; the US is terrorizing socialist states in Latin America as
+      you read this. The right-wing narrative that the west would be a wholesome and
+      beneficent society without Israeli interference is contradicted by the entire
+      unbroken history of western civilization. We have always been a remarkably tyrannical
+      and genocidal people. We have yet to mature beyond this as a society. That’s why
+      Israel is our partner in crime. Oppose Israel, and also oppose the entire murderous
+      western power structure. The abusiveness of the former is not meaningfully separate
+      or separable from the abusiveness of the latter. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that while Israel is widely criticized
+      for its actions, it is important to recognize that its military power, supported
+      by the West, significantly amplifies its ability to cause harm compared to other
+      nations with less advanced weaponry.
+    paragraph_summary: In his article, Tim Foley argues that while Israel is widely
+      criticized for its actions, it is essential to recognize that it operates within
+      a framework of support from Western powers, particularly the United States. He
+      likens Israel to an "asshole with an attack helicopter," suggesting that its military
+      capabilities, provided by the West, enable it to act aggressively without needing
+      to engage diplomatically with its neighbors. Foley contends that to truly understand
+      and critique Israel's behavior, one must also hold the Western powers accountable
+      for their role in perpetuating the conflict and enabling Israel's actions. He
+      emphasizes that hating Israel without also condemning the Western empire that
+      supports it is illogical, as the latter shares moral responsibility for the violence
+      and oppression that occurs.
+    published: '2026-04-13T12:14:58+00:00'
+  - title: Nobody's "Obsessed" With Israel — It's Just A Uniquely Horrible Country
+    url: https://www.caitlinjohnst.one/p/nobodys-obsessed-with-israel-its
+    text: 'Reading by Tim Foley : Subscribe now Israeli Foreign Minister Gideon Sa’ar
+      has accused Spain of an “anti-Israel obsession” for its criticisms of the US-Israeli
+      war on Iran and its refusal to allow its airspace to be used in the onslaught,
+      a perceived slight to which Israel has responded by banning Madrid from participation
+      in a coordination center for the oversight of the so-called “ceasefire” in the
+      Gaza Strip. We’ve been hearing this “obsession” talking point from Israel and
+      its apologists a lot lately. A recent article from the Jewish News Syndicate carries
+      the headline “ Why is the media obsessed with violent Israelis? ”, bizarrely trying
+      to argue that the western press likes to “smear Israelis” in order “to distract
+      attention from Palestinian terror.” The other day right-wing pundit Meghan Murphy
+      had a strange conversation with Tablet Magazine editor Jacob Siegel about our
+      society’s “recent insane obsession with Israel,” speaking as though everyone just
+      randomly began fixating on this genocidal apartheid state out of nowhere a short
+      while ago, for no valid reason. The argument, as I understand it, is that Israel
+      is just a normal small country like any other small country, and any special focus
+      on it suggests a sinister desire to single out Jews for discrimination. But have
+      you ever noticed how the same people who accuse Israel’s critics of “obsession”
+      with a tiny insignificant country will also fall all over themselves to tell you
+      that Israel is an indispensable ally whose interests are inextricably intertwined
+      with the interests of western civilization? When Israel is being criticized they
+      try to frame it as unworthy of special attention; when alliances and military
+      aid for Israel are being criticized they frame it as worthy of all our resources
+      and energy. When Israel’s evil actions are making headlines, its apologists try
+      to frame it as an itty bitty country the size of New Jersey trying to mind its
+      own business while being victimized by obsessive hatred from the entire world
+      because its inhabitants happen to be Jewish. When people question why their tax
+      dollars and military resources need to support that small nation in west Asia,
+      suddenly the argument pivots in the exact opposite direction: Israel is massively
+      important, and is absolutely central to the wellbeing of the west. You can claim
+      Israel is a crucial ally in the middle east, OR you can claim it’s discriminatory
+      to focus more on Israel’s crimes than the abuses of other countries. You can’t
+      claim both are true, because they’re contradictory. Israel can’t be (A) immensely
+      significant and intimately involved in the fate of our own society, and also (B)
+      insignificant and unworthy of special attention. It’s either A or B. It can’t
+      be simultaneously deserving AND undeserving of special treatment. In reality,
+      everyone in the world has every right to focus their attention on Israel — especially
+      right now while its efforts to sabotage the ceasefire with Iran threaten to cause
+      a global fuel crisis . You don’t get to cause a global fuel crisis and then act
+      like you’re just an uwu smol bean who’s being singled out because of your religion.
+      But really Israel has always been worthy of critical attention in the west, exactly
+      because it is so intimately intertwined with western power structures. Its genocide
+      in Gaza is our genocide. Its abuses are our abuses. Its wars directly impact us.
+      The aggressive push from its lobbyists to stomp out free speech throughout our
+      society is taking away our rights. Israel is our business, and it always has been.
+      We are right to spotlight its criminality, and the complicity of our own western
+      governments in those crimes. Israel supporters will tell me “Oh yeah well how
+      come you don’t criticize Egypt’s humanitarian abuses, huh? How come you’re not
+      tweeting every day about the human rights violations of Iran? Something in particular
+      about this one specific middle eastern country that draws your attention, is there?
+      Perhaps you just HATE JEWS??” But the reason I criticize Israel more than Egypt
+      or Iran has nothing to do with religion. Egyptian aggressions aren’t starting
+      wars of immense consequence which directly affect me. Nobody’s trying to make
+      it illegal to criticize Iran in my country. My government is providing material
+      and diplomatic cover for wars and genocides for this one country in particular,
+      and eroding my free speech rights in order to protect its information interests.
+      This would be true regardless of what religion or ethnicity happens to be favored
+      in this one particular nation. I’m not “obsessed” with Israel. Does it look like
+      I’m having a great time talking about this horrible apartheid state every day?
+      Does it look fun having people call me a Nazi in my replies all the time? I wish
+      I could ignore Israel completely. If it were up to me, I would. But because my
+      own society is so complicit in its abuses, and because its abuses affect my society
+      directly, I have an obligation to call out its wrongdoing. And so does every other
+      westerner. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via IDF/Wikimedia Commons (Public Domain).'
+    one_sentence_summary: Israeli Foreign Minister Gideon Sa’ar has criticized Spain
+      for its stance against Israel's actions in Iran and its refusal to allow airspace
+      use, leading to Israel excluding Madrid from a Gaza ceasefire coordination center,
+      amidst broader claims of an "anti-Israel obsession" in media and public discourse.
+    paragraph_summary: Israeli Foreign Minister Gideon Sa’ar has criticized Spain for
+      its opposition to Israel's military actions against Iran and its refusal to permit
+      the use of its airspace, labeling this stance as part of an "anti-Israel obsession."
+      In response, Israel has excluded Spain from a coordination center overseeing the
+      Gaza ceasefire. This accusation of "obsession" towards Israel has been echoed
+      by various media and commentators, who argue that the focus on Israel is unwarranted
+      and distracts from Palestinian violence. Critics of this narrative point out the
+      inconsistency in portraying Israel as a small, insignificant country while simultaneously
+      emphasizing its importance as a key ally of Western civilization, highlighting
+      the complex dynamics surrounding Israel's international image and the discourse
+      around its actions.
+    published: '2026-04-12T13:26:26+00:00'
+  - title: Nobody's "Obsessed" With Israel — It's Just A Uniquely Horrible Country
+    url: https://www.caitlinjohnst.one/p/nobodys-obsessed-with-israel-its
+    text: 'Reading by Tim Foley : Subscribe now Israeli Foreign Minister Gideon Sa’ar
+      has accused Spain of an “anti-Israel obsession” for its criticisms of the US-Israeli
+      war on Iran and its refusal to allow its airspace to be used in the onslaught,
+      a perceived slight to which Israel has responded by banning Madrid from participation
+      in a coordination center for the oversight of the so-called “ceasefire” in the
+      Gaza Strip. We’ve been hearing this “obsession” talking point from Israel and
+      its apologists a lot lately. A recent article from the Jewish News Syndicate carries
+      the headline “ Why is the media obsessed with violent Israelis? ”, bizarrely trying
+      to argue that the western press likes to “smear Israelis” in order “to distract
+      attention from Palestinian terror.” The other day right-wing pundit Meghan Murphy
+      had a strange conversation with Tablet Magazine editor Jacob Siegel about our
+      society’s “recent insane obsession with Israel,” speaking as though everyone just
+      randomly began fixating on this genocidal apartheid state out of nowhere a short
+      while ago, for no valid reason. The argument, as I understand it, is that Israel
+      is just a normal small country like any other small country, and any special focus
+      on it suggests a sinister desire to single out Jews for discrimination. But have
+      you ever noticed how the same people who accuse Israel’s critics of “obsession”
+      with a tiny insignificant country will also fall all over themselves to tell you
+      that Israel is an indispensable ally whose interests are inextricably intertwined
+      with the interests of western civilization? When Israel is being criticized they
+      try to frame it as unworthy of special attention; when alliances and military
+      aid for Israel are being criticized they frame it as worthy of all our resources
+      and energy. When Israel’s evil actions are making headlines, its apologists try
+      to frame it as an itty bitty country the size of New Jersey trying to mind its
+      own business while being victimized by obsessive hatred from the entire world
+      because its inhabitants happen to be Jewish. When people question why their tax
+      dollars and military resources need to support that small nation in west Asia,
+      suddenly the argument pivots in the exact opposite direction: Israel is massively
+      important, and is absolutely central to the wellbeing of the west. You can claim
+      Israel is a crucial ally in the middle east, OR you can claim it’s discriminatory
+      to focus more on Israel’s crimes than the abuses of other countries. You can’t
+      claim both are true, because they’re contradictory. Israel can’t be (A) immensely
+      significant and intimately involved in the fate of our own society, and also (B)
+      insignificant and unworthy of special attention. It’s either A or B. It can’t
+      be simultaneously deserving AND undeserving of special treatment. In reality,
+      everyone in the world has every right to focus their attention on Israel — especially
+      right now while its efforts to sabotage the ceasefire with Iran threaten to cause
+      a global fuel crisis . You don’t get to cause a global fuel crisis and then act
+      like you’re just an uwu smol bean who’s being singled out because of your religion.
+      But really Israel has always been worthy of critical attention in the west, exactly
+      because it is so intimately intertwined with western power structures. Its genocide
+      in Gaza is our genocide. Its abuses are our abuses. Its wars directly impact us.
+      The aggressive push from its lobbyists to stomp out free speech throughout our
+      society is taking away our rights. Israel is our business, and it always has been.
+      We are right to spotlight its criminality, and the complicity of our own western
+      governments in those crimes. Israel supporters will tell me “Oh yeah well how
+      come you don’t criticize Egypt’s humanitarian abuses, huh? How come you’re not
+      tweeting every day about the human rights violations of Iran? Something in particular
+      about this one specific middle eastern country that draws your attention, is there?
+      Perhaps you just HATE JEWS??” But the reason I criticize Israel more than Egypt
+      or Iran has nothing to do with religion. Egyptian aggressions aren’t starting
+      wars of immense consequence which directly affect me. Nobody’s trying to make
+      it illegal to criticize Iran in my country. My government is providing material
+      and diplomatic cover for wars and genocides for this one country in particular,
+      and eroding my free speech rights in order to protect its information interests.
+      This would be true regardless of what religion or ethnicity happens to be favored
+      in this one particular nation. I’m not “obsessed” with Israel. Does it look like
+      I’m having a great time talking about this horrible apartheid state every day?
+      Does it look fun having people call me a Nazi in my replies all the time? I wish
+      I could ignore Israel completely. If it were up to me, I would. But because my
+      own society is so complicit in its abuses, and because its abuses affect my society
+      directly, I have an obligation to call out its wrongdoing. And so does every other
+      westerner. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via IDF/Wikimedia Commons (Public Domain).'
+    one_sentence_summary: Israeli Foreign Minister Gideon Sa’ar has criticized Spain
+      for its stance against Israel's actions in Iran and its refusal to allow airspace
+      use, leading to Israel excluding Madrid from a Gaza ceasefire coordination center,
+      amidst broader claims of an "anti-Israel obsession" in media and public discourse.
+    paragraph_summary: Israeli Foreign Minister Gideon Sa’ar has criticized Spain for
+      its opposition to Israel's military actions against Iran and its refusal to permit
+      the use of its airspace, labeling this stance as part of an "anti-Israel obsession."
+      In response, Israel has excluded Spain from a coordination center overseeing the
+      Gaza ceasefire. This accusation of "obsession" towards Israel has been echoed
+      by various media and commentators, who argue that the focus on Israel is unwarranted
+      and distracts from Palestinian violence. Critics of this narrative point out the
+      inconsistency in portraying Israel as a small, insignificant country while simultaneously
+      emphasizing its importance as a key ally of Western civilization, highlighting
+      the complex dynamics surrounding Israel's international image and the discourse
+      around its actions.
+    published: '2026-04-12T13:26:26+00:00'
+  - title: The World Can Have Peace Or Israel, But Not Both
+    url: https://www.caitlinjohnst.one/p/the-world-can-have-peace-or-israel
+    text: 'Reading by Tim Foley : Subscribe now Israel is already aggressively sabotaging
+      the Trump administration’s two-week ceasefire with Iran by slaughtering huge numbers
+      of civilians in Lebanon, a nation which is explicitly off-limits for any attack
+      under the ceasefire conditions agreed to by Tehran. The US and Israel are trying
+      to claim that Lebanon is not part of the ceasefire agreement, but Pakistan, whom
+      the US appointed to mediate the agreement, says this is false . The New York Times
+      reports that the White House took part in Pakistan’s public messaging which explicitly
+      included Lebanon in the ceasefire conditions, before changing its tune after Israel
+      attacked. Iran has reportedly responded to these violations by again halting traffic
+      through the Strait of Hormuz. This serves as yet another reminder that the world
+      can have peace or it can have Israel — but it cannot have both. Israel is a genocidal
+      apartheid state whose entire existence is premised upon a strategy of unceasing
+      violence and abuse in the middle east. As long as that state continues to exist
+      in its present iteration, peace will never be attainable. ❖ If your job hired
+      a guy who kept getting into fights with your coworkers and saying it’s because
+      they are racist against him, for a week you might believe him. After a month,
+      you’d have doubts. After two months, you’d realize he’s probably just an asshole.
+      Israel has been doing this for eighty years. ❖ ❖ Democrats in the House and Senate
+      are finally moving on a War Powers Act to stop the US president from going to
+      war with Iran, and I’d say better late than never but at this point that would
+      barely even be true. Democrats like Chuck Schumer and Chris Murphy are currently
+      slamming the president not for his horrifying mass atrocities in Iran but for
+      losing the Strait of Hormuz and failing to achieve objectives like completely
+      disarming their conventional missile program. As I have said here previously ,
+      it’s clear that the reason the Democratic Party failed to oppose Trump’s warmongering
+      with Iran was because they supported it too. The actual, official 2024 Democratic
+      Party platform accused Trump of “fecklessness and weakness” for failing to go
+      to war with Iran during his first term. Kamala Harris labeled Iran the #1 enemy
+      of the United States. In their 2024 debate , Harris repeatedly slammed Trump for
+      being too soft on America’s enemies and announced that she “will always give Israel
+      the ability to defend itself, in particular as it relates to Iran and any threat
+      that Iran and its proxies pose to Israel.” I’ve seen a lot of people trying to
+      argue that Trump’s depravity in Iran proves everyone should support Democrats,
+      but it’s clear the Democratic Party is just the more polite-looking face on the
+      same evil power structure. ❖ The Grayzone’s Wyatt Reed has an article out about
+      a freakish BBC article which cited an anonymous Iranian who allegedly told them
+      he supports the US and Israel “hitting energy infrastructure, using an atomic
+      bomb, or leveling Iran.” Following public outcry, the quote was removed and replaced
+      with completely different words — initially without any editor’s note of any kind.
+      Reed documents how the BBC reporter behind the story, Ghoncheh Habibiazad, is
+      a London-based Iranian monarchist with an extensive history of agitating for regime
+      change war against her home country, including with the US government propaganda
+      operation Radio Free Europe/Radio Liberty. Last month The Times ran an article
+      titled “ Some Iranians say one thing’s worse than bombs: no bombs ”. Western powers
+      are always aggressively pushing this self-evidently false claim that people in
+      empire-targeted countries want bombs dropped on them, in much the same way slavery
+      proponents argued that Africans were happiest as slaves because God made it their
+      nature to serve. I’ve said it before and I’ll say it again: it’s impossible to
+      have enough disdain for the western press. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that Israel is undermining a ceasefire
+      agreement with Iran by attacking Lebanon, despite the U.S. and Pakistan affirming
+      Lebanon's inclusion in the ceasefire, highlighting the ongoing conflict and portraying
+      Israel as an aggressive state that prioritizes violence over peace.
+    paragraph_summary: The article by Tim Foley discusses Israel's aggressive actions
+      that undermine a two-week ceasefire agreement with Iran, particularly through
+      attacks on civilians in Lebanon, which is explicitly excluded from the ceasefire
+      terms. Despite the U.S. and Israel's claims that Lebanon is not part of the agreement,
+      Pakistan, the appointed mediator, asserts otherwise, highlighting a shift in U.S.
+      messaging following Israel's attacks. Iran's response includes halting traffic
+      through the Strait of Hormuz, emphasizing the ongoing conflict in the region.
+      The piece critiques Israel as a "genocidal apartheid state" whose existence relies
+      on violence, suggesting that peace is unattainable as long as Israel operates
+      in its current form. Additionally, it notes that Democrats in Congress are attempting
+      to invoke the War Powers Act to limit presidential war powers regarding Iran,
+      but critiques their focus on military strategy rather than addressing humanitarian
+      concerns.
+    published: '2026-04-09T12:46:55+00:00'
+  - title: The World Can Have Peace Or Israel, But Not Both
+    url: https://www.caitlinjohnst.one/p/the-world-can-have-peace-or-israel
+    text: 'Reading by Tim Foley : Subscribe now Israel is already aggressively sabotaging
+      the Trump administration’s two-week ceasefire with Iran by slaughtering huge numbers
+      of civilians in Lebanon, a nation which is explicitly off-limits for any attack
+      under the ceasefire conditions agreed to by Tehran. The US and Israel are trying
+      to claim that Lebanon is not part of the ceasefire agreement, but Pakistan, whom
+      the US appointed to mediate the agreement, says this is false . The New York Times
+      reports that the White House took part in Pakistan’s public messaging which explicitly
+      included Lebanon in the ceasefire conditions, before changing its tune after Israel
+      attacked. Iran has reportedly responded to these violations by again halting traffic
+      through the Strait of Hormuz. This serves as yet another reminder that the world
+      can have peace or it can have Israel — but it cannot have both. Israel is a genocidal
+      apartheid state whose entire existence is premised upon a strategy of unceasing
+      violence and abuse in the middle east. As long as that state continues to exist
+      in its present iteration, peace will never be attainable. ❖ If your job hired
+      a guy who kept getting into fights with your coworkers and saying it’s because
+      they are racist against him, for a week you might believe him. After a month,
+      you’d have doubts. After two months, you’d realize he’s probably just an asshole.
+      Israel has been doing this for eighty years. ❖ ❖ Democrats in the House and Senate
+      are finally moving on a War Powers Act to stop the US president from going to
+      war with Iran, and I’d say better late than never but at this point that would
+      barely even be true. Democrats like Chuck Schumer and Chris Murphy are currently
+      slamming the president not for his horrifying mass atrocities in Iran but for
+      losing the Strait of Hormuz and failing to achieve objectives like completely
+      disarming their conventional missile program. As I have said here previously ,
+      it’s clear that the reason the Democratic Party failed to oppose Trump’s warmongering
+      with Iran was because they supported it too. The actual, official 2024 Democratic
+      Party platform accused Trump of “fecklessness and weakness” for failing to go
+      to war with Iran during his first term. Kamala Harris labeled Iran the #1 enemy
+      of the United States. In their 2024 debate , Harris repeatedly slammed Trump for
+      being too soft on America’s enemies and announced that she “will always give Israel
+      the ability to defend itself, in particular as it relates to Iran and any threat
+      that Iran and its proxies pose to Israel.” I’ve seen a lot of people trying to
+      argue that Trump’s depravity in Iran proves everyone should support Democrats,
+      but it’s clear the Democratic Party is just the more polite-looking face on the
+      same evil power structure. ❖ The Grayzone’s Wyatt Reed has an article out about
+      a freakish BBC article which cited an anonymous Iranian who allegedly told them
+      he supports the US and Israel “hitting energy infrastructure, using an atomic
+      bomb, or leveling Iran.” Following public outcry, the quote was removed and replaced
+      with completely different words — initially without any editor’s note of any kind.
+      Reed documents how the BBC reporter behind the story, Ghoncheh Habibiazad, is
+      a London-based Iranian monarchist with an extensive history of agitating for regime
+      change war against her home country, including with the US government propaganda
+      operation Radio Free Europe/Radio Liberty. Last month The Times ran an article
+      titled “ Some Iranians say one thing’s worse than bombs: no bombs ”. Western powers
+      are always aggressively pushing this self-evidently false claim that people in
+      empire-targeted countries want bombs dropped on them, in much the same way slavery
+      proponents argued that Africans were happiest as slaves because God made it their
+      nature to serve. I’ve said it before and I’ll say it again: it’s impossible to
+      have enough disdain for the western press. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that Israel is undermining a ceasefire
+      agreement with Iran by attacking Lebanon, despite the U.S. and Pakistan affirming
+      Lebanon's inclusion in the ceasefire, highlighting the ongoing conflict and portraying
+      Israel as an aggressive state that prioritizes violence over peace.
+    paragraph_summary: The article by Tim Foley discusses Israel's aggressive actions
+      that undermine a two-week ceasefire agreement with Iran, particularly through
+      attacks on civilians in Lebanon, which is explicitly excluded from the ceasefire
+      terms. Despite the U.S. and Israel's claims that Lebanon is not part of the agreement,
+      Pakistan, the appointed mediator, asserts otherwise, highlighting a shift in U.S.
+      messaging following Israel's attacks. Iran's response includes halting traffic
+      through the Strait of Hormuz, emphasizing the ongoing conflict in the region.
+      The piece critiques Israel as a "genocidal apartheid state" whose existence relies
+      on violence, suggesting that peace is unattainable as long as Israel operates
+      in its current form. Additionally, it notes that Democrats in Congress are attempting
+      to invoke the War Powers Act to limit presidential war powers regarding Iran,
+      but critiques their focus on military strategy rather than addressing humanitarian
+      concerns.
+    published: '2026-04-09T12:46:55+00:00'
   - title: The Empire Backs Down, For Now
     url: https://www.caitlinjohnst.one/p/the-empire-backs-down-for-now
     text: 'Reading by Tim Foley : Subscribe now Trump has announced a two-week ceasefire

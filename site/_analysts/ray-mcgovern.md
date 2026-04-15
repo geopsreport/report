@@ -7,14 +7,691 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  After weeks of escalating tensions in the Persian Gulf, the geopolitical landscape shifted dramatically overnight: the United States and Iran have agreed to a two-week ceasefire, with Iran retaining control over the Strait of Hormuz. This development, confirmed by **Ray McGovern**, comes with Israel’s approval and paves the way for direct U.S.-Iran talks in the coming days.
+  In the context of escalating Middle East tensions and ongoing scrutiny of Western involvement, several new developments have emerged over the past 12 hours.
   
-  This ceasefire marks a significant de-escalation after days of bellicose rhetoric and military posturing. As recently as yesterday, **Joe Lauria** warned that if Donald Trump followed through on his extreme threats against Iran, the consequences could be catastrophic for both the region’s economy and civilian populations. The specter of a ground war was also raised by **Army Colonel Lawrence Wilkerson**, who cautioned that deploying U.S. troops in Iran would likely result in a “significant military disaster” that policymakers were not fully prepared for.
+  Belgian authorities have launched a criminal investigation into two shipments of military components exported to Israel, as reported by **Ray McGovern**. The names of the arms firms involved remain undisclosed, but the move signals increasing European unease over military support for Israel amid its ongoing operations in Gaza and Lebanon. This investigation could mark a turning point in EU member states’ willingness to facilitate arms transfers to conflict zones, especially as public and political pressure mounts.
   
-  The agreement to halt hostilities, even temporarily, is widely seen as a critical opportunity to avert a broader regional conflict. **Jeffrey D. Sachs** recently highlighted the dangers posed by unstable leaders leveraging crisis for political gain, emphasizing the urgent need for restraint and diplomacy. The current ceasefire, therefore, is viewed by most analysts as a necessary, if fragile, step back from the brink.
+  Meanwhile, the influence of the UK arms industry on academia has come under renewed scrutiny. **Martin Williams** highlights that executives from major defense contractors—BAE Systems, Leonardo, and Thales—hold advisory roles shaping the strategic direction of UK university departments. This direct involvement raises concerns about the militarization of academic research and the potential for conflicts of interest, particularly as the UK continues to be a key arms supplier in global conflicts.
   
-  Looking ahead, the consensus among independent analysts is that the next two weeks will be pivotal. There is a high chance that direct talks will either solidify the ceasefire or expose its fragility. If diplomatic momentum is maintained, further de-escalation is likely; however, the situation remains volatile, and any miscalculation could quickly unravel the current calm. Based on the majority of sources, I guarantee that the coming days will be decisive for the future of U.S.-Iran relations and the stability of the Gulf region.
+  On the ground, Israel’s military campaign has intensified. **Vijay Prashad** reports on the “Eternal Darkness” operation, a significant assault on Lebanon, alongside mass evacuations in Gaza and the West Bank. The brutality of these actions is drawing increasing condemnation and could further isolate Israel diplomatically, especially as evidence of civilian suffering mounts.
+  
+  **Trends and Predictions:**  
+  The majority of analysts agree that European governments, under growing domestic and international pressure, are likely to increase scrutiny and potentially restrict arms exports to Israel. There is a high chance that the Belgian investigation will prompt similar actions in other EU countries. The entanglement of the UK arms industry with academia is expected to fuel debate over ethical boundaries and transparency in research funding. On the military front, Israel’s aggressive operations in Lebanon and the Palestinian territories are most definitely set to escalate humanitarian concerns and diplomatic fallout, with a high likelihood of further international calls for ceasefire and accountability.
+  
+  In summary, the geopolitical landscape is shifting toward greater European caution in arms transfers, rising scrutiny of the defense sector’s influence, and intensifying conflict in the Middle East with significant humanitarian implications.
 articles:
+  - title: UK Arms Shipment to Israel Seized in Belgium
+    url: https://consortiumnews.com/2026/04/14/uk-arms-shipment-to-israel-seized-in-belgium/
+    text: Belgian authorities have refused to name the arms firms that exported the
+      goods amid the opening of a criminal investigation into the matter, John McEvoy
+      reports. By John McEvoy Declassified UK Two shipments of military components bound
+      for Israel from the… Read more →
+    one_sentence_summary: Belgian authorities are conducting a criminal investigation
+      into two shipments of military components exported to Israel, but have not disclosed
+      the names of the involved arms firms.
+    paragraph_summary: Belgian authorities are currently under scrutiny as they have
+      declined to disclose the names of the arms companies involved in exporting military
+      components to Israel, coinciding with the initiation of a criminal investigation
+      into these shipments. The situation raises concerns about the legality and transparency
+      of arms exports amid ongoing conflicts.
+    published: '2026-04-15T02:15:14+00:00'
+  - title: UK Arms Shipment to Israel Seized in Belgium
+    url: https://consortiumnews.com/2026/04/14/uk-arms-shipment-to-israel-seized-in-belgium/
+    text: Belgian authorities have refused to name the arms firms that exported the
+      goods amid the opening of a criminal investigation into the matter, John McEvoy
+      reports. By John McEvoy Declassified UK Two shipments of military components bound
+      for Israel from the… Read more →
+    one_sentence_summary: Belgian authorities are conducting a criminal investigation
+      into two shipments of military components exported to Israel, but have not disclosed
+      the names of the involved arms firms.
+    paragraph_summary: Belgian authorities are currently under scrutiny as they have
+      declined to disclose the names of the arms companies involved in exporting military
+      components to Israel, coinciding with the initiation of a criminal investigation
+      into these shipments. The situation raises concerns about the legality and transparency
+      of arms exports amid ongoing conflicts.
+    published: '2026-04-15T02:15:14+00:00'
+  - title: 'Vijay Prashad: Apologies to Gaza & Lebanon'
+    url: https://consortiumnews.com/2026/04/14/vijay-prashad-apologies-to-gaza-lebanon/
+    text: While evacuating more sections of Gaza and ethnically cleaning more towns
+      in the West Bank, Israel has been striking Lebanon. It dubbed its merciless assault
+      on April 8 “Eternal Darkness,” suggesting the kind of barbarity involved. By Vijay
+      Prashad Peoples Dispatch… Read more →
+    one_sentence_summary: The article discusses Israel's military actions, including
+      evacuations in Gaza and the West Bank and a significant assault on Lebanon, which
+      it has termed "Eternal Darkness," highlighting the brutality of these operations.
+    paragraph_summary: The article discusses Israel's military actions in Gaza and the
+      West Bank, highlighting the ongoing evacuations and ethnic cleansing in these
+      areas, while also noting strikes on Lebanon. The operation launched on April 8,
+      referred to as "Eternal Darkness," is characterized by its brutality, reflecting
+      the severe impact of the conflict on the affected populations. The piece, authored
+      by Vijay Prashad for Peoples Dispatch, critiques these actions and underscores
+      the humanitarian crisis resulting from the violence.
+    published: '2026-04-14T18:00:17+00:00'
+  - title: 'Vijay Prashad: Apologies to Gaza & Lebanon'
+    url: https://consortiumnews.com/2026/04/14/vijay-prashad-apologies-to-gaza-lebanon/
+    text: While evacuating more sections of Gaza and ethnically cleaning more towns
+      in the West Bank, Israel has been striking Lebanon. It dubbed its merciless assault
+      on April 8 “Eternal Darkness,” suggesting the kind of barbarity involved. By Vijay
+      Prashad Peoples Dispatch… Read more →
+    one_sentence_summary: The article discusses Israel's military actions, including
+      evacuations in Gaza and the West Bank and a significant assault on Lebanon, which
+      it has termed "Eternal Darkness," highlighting the brutality of these operations.
+    paragraph_summary: The article discusses Israel's military actions in Gaza and the
+      West Bank, highlighting the ongoing evacuations and ethnic cleansing in these
+      areas, while also noting strikes on Lebanon. The operation launched on April 8,
+      referred to as "Eternal Darkness," is characterized by its brutality, reflecting
+      the severe impact of the conflict on the affected populations. The piece, authored
+      by Vijay Prashad for Peoples Dispatch, critiques these actions and underscores
+      the humanitarian crisis resulting from the violence.
+    published: '2026-04-14T18:00:17+00:00'
+  - title: UK Arms Industry’s Direct University Influence
+    url: https://consortiumnews.com/2026/04/14/uk-arms-industrys-direct-university-influence/
+    text: Officials from BAE Systems, Leonardo and Thales sit on advisory committees
+      that oversee the “strategic direction” of academic departments in the U.K., reports
+      Martin Williams. By Martin Williams Declassified UK Arms industry executives have
+      been given direct influence over British university… Read more →
+    one_sentence_summary: Executives from BAE Systems, Leonardo, and Thales are influencing
+      the strategic direction of academic departments in the U.K. through their roles
+      on advisory committees, according to a report by Martin Williams.
+    paragraph_summary: Officials from BAE Systems, Leonardo, and Thales are reportedly
+      serving on advisory committees that guide the strategic direction of academic
+      departments in the U.K., according to a report by Martin Williams for Declassified
+      UK. This involvement allows arms industry executives to exert direct influence
+      over educational institutions, raising concerns about the potential impact on
+      academic independence and the prioritization of military interests within university
+      programs.
+    published: '2026-04-14T16:00:11+00:00'
+  - title: UK Arms Industry’s Direct University Influence
+    url: https://consortiumnews.com/2026/04/14/uk-arms-industrys-direct-university-influence/
+    text: Officials from BAE Systems, Leonardo and Thales sit on advisory committees
+      that oversee the “strategic direction” of academic departments in the U.K., reports
+      Martin Williams. By Martin Williams Declassified UK Arms industry executives have
+      been given direct influence over British university… Read more →
+    one_sentence_summary: Executives from BAE Systems, Leonardo, and Thales are influencing
+      the strategic direction of academic departments in the U.K. through their roles
+      on advisory committees, according to a report by Martin Williams.
+    paragraph_summary: Officials from BAE Systems, Leonardo, and Thales are reportedly
+      serving on advisory committees that guide the strategic direction of academic
+      departments in the U.K., according to a report by Martin Williams for Declassified
+      UK. This involvement allows arms industry executives to exert direct influence
+      over educational institutions, raising concerns about the potential impact on
+      academic independence and the prioritization of military interests within university
+      programs.
+    published: '2026-04-14T16:00:11+00:00'
+  - title: How Many People Have the U.S. & Israel Killed in Iran?
+    url: https://consortiumnews.com/2026/04/14/how-many-people-have-the-u-s-israel-killed-in-iran/
+    text: The fact that our government and institutional media downplay accurate casualty
+      figures only makes it more urgent to find them, write Medea Benjamin and Nicolas
+      J.S. Davies. By Medea Benjamin and Nicolas J. S. Davies Common Dreams After the
+      breakdown of talks in Pakistan,… Read more →
+    one_sentence_summary: Medea Benjamin and Nicolas J.S. Davies argue that the government's
+      and media's minimization of accurate casualty figures highlights the urgent need
+      to uncover the truth about the situation.
+    paragraph_summary: In their article, Medea Benjamin and Nicolas J.S. Davies emphasize
+      the critical need for accurate casualty figures in light of government and media
+      efforts to downplay these statistics. They argue that the lack of transparency
+      regarding casualties, especially following the collapse of peace talks in Pakistan,
+      underscores the urgency of obtaining reliable data to understand the true impact
+      of conflict. The authors advocate for greater accountability and transparency
+      in reporting casualties to ensure that the realities of war are fully acknowledged
+      and addressed.
+    published: '2026-04-14T04:10:28+00:00'
+  - title: How Many People Have the U.S. & Israel Killed in Iran?
+    url: https://consortiumnews.com/2026/04/14/how-many-people-have-the-u-s-israel-killed-in-iran/
+    text: The fact that our government and institutional media downplay accurate casualty
+      figures only makes it more urgent to find them, write Medea Benjamin and Nicolas
+      J.S. Davies. By Medea Benjamin and Nicolas J. S. Davies Common Dreams After the
+      breakdown of talks in Pakistan,… Read more →
+    one_sentence_summary: Medea Benjamin and Nicolas J.S. Davies argue that the government's
+      and media's minimization of accurate casualty figures highlights the urgent need
+      to uncover the truth about the situation.
+    paragraph_summary: In their article, Medea Benjamin and Nicolas J.S. Davies emphasize
+      the critical need for accurate casualty figures in light of government and media
+      efforts to downplay these statistics. They argue that the lack of transparency
+      regarding casualties, especially following the collapse of peace talks in Pakistan,
+      underscores the urgency of obtaining reliable data to understand the true impact
+      of conflict. The authors advocate for greater accountability and transparency
+      in reporting casualties to ensure that the realities of war are fully acknowledged
+      and addressed.
+    published: '2026-04-14T04:10:28+00:00'
+  - title: UK Knew Nato Expansion Could Lead to War With Russia
+    url: https://consortiumnews.com/2026/04/13/uk-knew-nato-expansion-could-lead-to-war-with-russia/
+    text: Mark Curtis reveals that Britain’s Ministry of Defence prepared for war with
+      Russia after expanding NATO – 26 years before Moscow invaded Ukraine. By Mark
+      Curtis Declassified UK Formerly secret U.K. documents show that Britain’s Ministry
+      of Defence (MoD) knew that… Read more →
+    one_sentence_summary: Mark Curtis reports that previously classified UK documents
+      indicate that Britain's Ministry of Defence had been preparing for potential conflict
+      with Russia as early as 1997, following NATO's expansion, long before the invasion
+      of Ukraine.
+    paragraph_summary: Mark Curtis's article reveals that previously classified documents
+      indicate that Britain's Ministry of Defence had been preparing for potential conflict
+      with Russia as early as 1997, following NATO's expansion. This preparation occurred
+      26 years before Russia's invasion of Ukraine, suggesting that the UK government
+      was aware of the risks posed by Russia's actions long before the recent escalation.
+      The findings highlight a long-standing concern within the UK regarding Russian
+      aggression and the implications of NATO's enlargement.
+    published: '2026-04-13T18:00:02+00:00'
+  - title: UK Knew Nato Expansion Could Lead to War With Russia
+    url: https://consortiumnews.com/2026/04/13/uk-knew-nato-expansion-could-lead-to-war-with-russia/
+    text: Mark Curtis reveals that Britain’s Ministry of Defence prepared for war with
+      Russia after expanding NATO – 26 years before Moscow invaded Ukraine. By Mark
+      Curtis Declassified UK Formerly secret U.K. documents show that Britain’s Ministry
+      of Defence (MoD) knew that… Read more →
+    one_sentence_summary: Mark Curtis reports that previously classified UK documents
+      indicate that Britain's Ministry of Defence had been preparing for potential conflict
+      with Russia as early as 1997, following NATO's expansion, long before the invasion
+      of Ukraine.
+    paragraph_summary: Mark Curtis's article reveals that previously classified documents
+      indicate that Britain's Ministry of Defence had been preparing for potential conflict
+      with Russia as early as 1997, following NATO's expansion. This preparation occurred
+      26 years before Russia's invasion of Ukraine, suggesting that the UK government
+      was aware of the risks posed by Russia's actions long before the recent escalation.
+      The findings highlight a long-standing concern within the UK regarding Russian
+      aggression and the implications of NATO's enlargement.
+    published: '2026-04-13T18:00:02+00:00'
+  - title: 'War On Iran: How India Got It Wrong'
+    url: https://consortiumnews.com/2026/04/13/war-on-iran-how-india-got-it-wrong/
+    text: While Modi’s supporters argue the U.S.-Israel war on Iran was never India’s
+      war, Betwa Sharma says the government has undercut its effort to project India
+      as a vishwaguru, or world teacher, in a new era of global influence. By Betwa
+      Sharma… Read more →
+    one_sentence_summary: Betwa Sharma critiques the Indian government's stance on the
+      U.S.-Israel conflict with Iran, suggesting it undermines India's aspiration to
+      be seen as a global leader or "vishwaguru."
+    paragraph_summary: In her article, Betwa Sharma critiques the Indian government's
+      stance on the U.S.-Israel conflict with Iran, noting that while Modi's supporters
+      claim it is not India's battle, this position undermines India's aspirations to
+      be seen as a "vishwaguru" or global leader in a time of increasing international
+      influence.
+    published: '2026-04-13T16:33:35+00:00'
+  - title: 'War On Iran: How India Got It Wrong'
+    url: https://consortiumnews.com/2026/04/13/war-on-iran-how-india-got-it-wrong/
+    text: While Modi’s supporters argue the U.S.-Israel war on Iran was never India’s
+      war, Betwa Sharma says the government has undercut its effort to project India
+      as a vishwaguru, or world teacher, in a new era of global influence. By Betwa
+      Sharma… Read more →
+    one_sentence_summary: Betwa Sharma critiques the Indian government's stance on the
+      U.S.-Israel conflict with Iran, suggesting it undermines India's aspiration to
+      be seen as a global leader or "vishwaguru."
+    paragraph_summary: In her article, Betwa Sharma critiques the Indian government's
+      stance on the U.S.-Israel conflict with Iran, noting that while Modi's supporters
+      claim it is not India's battle, this position undermines India's aspirations to
+      be seen as a "vishwaguru" or global leader in a time of increasing international
+      influence.
+    published: '2026-04-13T16:33:35+00:00'
+  - title: Araghchi Says Deal Was ‘Inches Away’
+    url: https://consortiumnews.com/2026/04/13/agrachi-says-deal-was-inches-away/
+    text: The U.S. and Iran were close to a deal in Islamabad when the Americans shifted
+      the goalposts and walked away, said Iran’s foreign minister. By Jake Johnson Common
+      Dreams Iran’s foreign minister said Sunday that the Trump administration’s representatives
+      derailed marathon… Read more →
+    one_sentence_summary: Iran's foreign minister claimed that the U.S. representatives
+      under the Trump administration disrupted a nearly finalized deal in Islamabad
+      by changing the terms, leading to their withdrawal from negotiations.
+    paragraph_summary: Iran's foreign minister claimed that the U.S. and Iran were on
+      the verge of reaching an agreement in Islamabad when the Trump administration's
+      representatives changed the terms of the negotiations, ultimately causing the
+      U.S. to withdraw from the discussions.
+    published: '2026-04-13T13:02:22+00:00'
+  - title: Araghchi Says Deal Was ‘Inches Away’
+    url: https://consortiumnews.com/2026/04/13/agrachi-says-deal-was-inches-away/
+    text: The U.S. and Iran were close to a deal in Islamabad when the Americans shifted
+      the goalposts and walked away, said Iran’s foreign minister. By Jake Johnson Common
+      Dreams Iran’s foreign minister said Sunday that the Trump administration’s representatives
+      derailed marathon… Read more →
+    one_sentence_summary: Iran's foreign minister claimed that the U.S. representatives
+      under the Trump administration disrupted a nearly finalized deal in Islamabad
+      by changing the terms, leading to their withdrawal from negotiations.
+    paragraph_summary: Iran's foreign minister claimed that the U.S. and Iran were on
+      the verge of reaching an agreement in Islamabad when the Trump administration's
+      representatives changed the terms of the negotiations, ultimately causing the
+      U.S. to withdraw from the discussions.
+    published: '2026-04-13T13:02:22+00:00'
+  - title: 'DAYS 41-44: Trump Overruled on Hormuz Blockade'
+    url: https://consortiumnews.com/2026/04/12/days-41-44-trump-declares-blockade-as-talks-collapse/
+    text: 'UPDATE: Trump’s plan for a naval blockade of the Strait of Hormuz has been
+      dropped as the U.S. will instead block Iranian ports south of Hormuz beginning
+      Monday, writes Joe Lauria.  Thursday, April 9 to Sunday, April 12  By Joe… Read
+      more →'
+    one_sentence_summary: Trump's proposed naval blockade of the Strait of Hormuz has
+      been replaced by a plan to block Iranian ports south of Hormuz starting Monday.
+    paragraph_summary: The article reports that former President Trump's proposed naval
+      blockade of the Strait of Hormuz has been abandoned. Instead, the U.S. plans to
+      implement a blockade of Iranian ports located south of the Strait, starting Monday.
+      This shift in strategy indicates a change in the U.S. approach to managing tensions
+      in the region.
+    published: '2026-04-12T15:02:12+00:00'
+  - title: 'DAYS 41-44: Trump Overruled on Hormuz Blockade'
+    url: https://consortiumnews.com/2026/04/12/days-41-44-trump-declares-blockade-as-talks-collapse/
+    text: 'UPDATE: Trump’s plan for a naval blockade of the Strait of Hormuz has been
+      dropped as the U.S. will instead block Iranian ports south of Hormuz beginning
+      Monday, writes Joe Lauria.  Thursday, April 9 to Sunday, April 12  By Joe… Read
+      more →'
+    one_sentence_summary: Trump's proposed naval blockade of the Strait of Hormuz has
+      been replaced by a plan to block Iranian ports south of Hormuz starting Monday.
+    paragraph_summary: The article reports that former President Trump's proposed naval
+      blockade of the Strait of Hormuz has been abandoned. Instead, the U.S. plans to
+      implement a blockade of Iranian ports located south of the Strait, starting Monday.
+      This shift in strategy indicates a change in the U.S. approach to managing tensions
+      in the region.
+    published: '2026-04-12T15:02:12+00:00'
+  - title: 'WATCH: The World This Week – ‘Will the War End?’'
+    url: https://consortiumnews.com/2026/04/11/watch-the-world-this-week-will-the-war-end/
+    text: Chris Hedges joins The World This Week to examine the prospects of a deal
+      to end the war on Iran and to remake the Middle East. Tonight, Saturday 8 pm EDT.
+      Donald Trump and Benjamin Netanyahu have lost their unprovoked… Read more →
+    one_sentence_summary: Chris Hedges discusses the potential for a peace deal to resolve
+      the conflict in Iran and reshape the Middle East on The World This Week, highlighting
+      the diminishing influence of Donald Trump and Benjamin Netanyahu.
+    paragraph_summary: In a discussion on The World This Week, Chris Hedges analyzes
+      the potential for a peace agreement to conclude the conflict involving Iran and
+      reshape the Middle East landscape. The segment, airing Saturday at 8 pm EDT, highlights
+      the diminishing influence of Donald Trump and Benjamin Netanyahu in the region,
+      suggesting a shift in dynamics that could pave the way for new diplomatic efforts.
+    published: '2026-04-11T12:29:12+00:00'
+  - title: 'WATCH: The World This Week – ‘Will the War End?’'
+    url: https://consortiumnews.com/2026/04/11/watch-the-world-this-week-will-the-war-end/
+    text: Chris Hedges joins The World This Week to examine the prospects of a deal
+      to end the war on Iran and to remake the Middle East. Tonight, Saturday 8 pm EDT.
+      Donald Trump and Benjamin Netanyahu have lost their unprovoked… Read more →
+    one_sentence_summary: Chris Hedges discusses the potential for a peace deal to resolve
+      the conflict in Iran and reshape the Middle East on The World This Week, highlighting
+      the diminishing influence of Donald Trump and Benjamin Netanyahu.
+    paragraph_summary: In a discussion on The World This Week, Chris Hedges analyzes
+      the potential for a peace agreement to conclude the conflict involving Iran and
+      reshape the Middle East landscape. The segment, airing Saturday at 8 pm EDT, highlights
+      the diminishing influence of Donald Trump and Benjamin Netanyahu in the region,
+      suggesting a shift in dynamics that could pave the way for new diplomatic efforts.
+    published: '2026-04-11T12:29:12+00:00'
+  - title: 'PATRICK LAWRENCE: US Diplomacy’s Last Breath'
+    url: https://consortiumnews.com/2026/04/10/patrick-lawrence-us-diplomacys-last-breath/
+    text: Trump, in his regime’s serial dishonesty, has reshaped the conventions of
+      American diplomacy in the Israeli fashion. He has turned the U.S. into the same
+      sort of pariah — never to be trusted. By Patrick Lawrence Special to Consortium
+      News How… Read more →
+    one_sentence_summary: The article argues that Trump's administration has altered
+      American diplomacy to resemble Israel's approach, resulting in the U.S. being
+      viewed as an untrustworthy pariah on the global stage.
+    paragraph_summary: In his article, Patrick Lawrence critiques Donald Trump's approach
+      to American diplomacy, arguing that it has been marked by a pattern of dishonesty
+      reminiscent of Israeli tactics. He contends that Trump's actions have transformed
+      the U.S. into a diplomatic pariah, eroding trust and undermining traditional conventions
+      in international relations. Lawrence suggests that this shift has significant
+      implications for how the U.S. is perceived globally and raises concerns about
+      the future of American diplomacy.
+    published: '2026-04-11T01:49:22+00:00'
+  - title: 'PATRICK LAWRENCE: US Diplomacy’s Last Breath'
+    url: https://consortiumnews.com/2026/04/10/patrick-lawrence-us-diplomacys-last-breath/
+    text: Trump, in his regime’s serial dishonesty, has reshaped the conventions of
+      American diplomacy in the Israeli fashion. He has turned the U.S. into the same
+      sort of pariah — never to be trusted. By Patrick Lawrence Special to Consortium
+      News How… Read more →
+    one_sentence_summary: The article argues that Trump's administration has altered
+      American diplomacy to resemble Israel's approach, resulting in the U.S. being
+      viewed as an untrustworthy pariah on the global stage.
+    paragraph_summary: In his article, Patrick Lawrence critiques Donald Trump's approach
+      to American diplomacy, arguing that it has been marked by a pattern of dishonesty
+      reminiscent of Israeli tactics. He contends that Trump's actions have transformed
+      the U.S. into a diplomatic pariah, eroding trust and undermining traditional conventions
+      in international relations. Lawrence suggests that this shift has significant
+      implications for how the U.S. is perceived globally and raises concerns about
+      the future of American diplomacy.
+    published: '2026-04-11T01:49:22+00:00'
+  - title: The Iranian Billionaire Negotiating With Trump
+    url: https://consortiumnews.com/2026/04/10/the-iranian-billionaire-negotiating-with-trump/
+    text: M.K. Bhadrakumar won’t be surprised if things go well between Trump and Mohammad-Bagher
+      Ghalibaf, the billionaire speaker of Iran’s Majlis, who heads negotiations beginning
+      in Islamabad Saturday. By M.K. Bhadrakumar Indian Punchline Glaring differences
+      between the United States and Iran notwithstanding,… Read more →
+    one_sentence_summary: M.K. Bhadrakumar suggests that despite significant differences,
+      positive developments could arise from the negotiations between Trump and Iran's
+      Majlis speaker, Mohammad-Bagher Ghalibaf, starting in Islamabad.
+    paragraph_summary: M.K. Bhadrakumar expresses optimism about the potential for positive
+      developments in U.S.-Iran relations, particularly during the upcoming negotiations
+      in Islamabad led by Mohammad-Bagher Ghalibaf, the billionaire speaker of Iran's
+      Majlis. Despite the significant differences between the two nations, Bhadrakumar
+      suggests that constructive dialogue could emerge from these discussions, indicating
+      a possible shift in dynamics between the U.S. and Iran.
+    published: '2026-04-11T00:36:45+00:00'
+  - title: The Iranian Billionaire Negotiating With Trump
+    url: https://consortiumnews.com/2026/04/10/the-iranian-billionaire-negotiating-with-trump/
+    text: M.K. Bhadrakumar won’t be surprised if things go well between Trump and Mohammad-Bagher
+      Ghalibaf, the billionaire speaker of Iran’s Majlis, who heads negotiations beginning
+      in Islamabad Saturday. By M.K. Bhadrakumar Indian Punchline Glaring differences
+      between the United States and Iran notwithstanding,… Read more →
+    one_sentence_summary: M.K. Bhadrakumar suggests that despite significant differences,
+      positive developments could arise from the negotiations between Trump and Iran's
+      Majlis speaker, Mohammad-Bagher Ghalibaf, starting in Islamabad.
+    paragraph_summary: M.K. Bhadrakumar expresses optimism about the potential for positive
+      developments in U.S.-Iran relations, particularly during the upcoming negotiations
+      in Islamabad led by Mohammad-Bagher Ghalibaf, the billionaire speaker of Iran's
+      Majlis. Despite the significant differences between the two nations, Bhadrakumar
+      suggests that constructive dialogue could emerge from these discussions, indicating
+      a possible shift in dynamics between the U.S. and Iran.
+    published: '2026-04-11T00:36:45+00:00'
+  - title: 'Jeffrey Sachs: Ending Israel’s War on Peace'
+    url: https://consortiumnews.com/2026/04/10/jeffrey-sachs-ending-israels-war-on-peace/
+    text: To make peace last in the Middle East, the U.S. must end its blank check to
+      Israel’s perpetual wars and join the rest of the world to force Israel to live
+      within its internationally recognized borders of June 4, 1967.… Read more →
+    one_sentence_summary: The article argues that for lasting peace in the Middle East,
+      the U.S. should stop unconditionally supporting Israel's military actions and
+      instead work with the international community to ensure Israel adheres to its
+      1967 borders.
+    paragraph_summary: The article argues that for lasting peace in the Middle East,
+      the U.S. should cease its unconditional support for Israel's ongoing military
+      actions and instead align with the international community to ensure Israel adheres
+      to its recognized borders established on June 4, 1967. This shift in policy is
+      seen as essential for fostering stability and resolving long-standing conflicts
+      in the region.
+    published: '2026-04-10T18:00:47+00:00'
+  - title: 'Jeffrey Sachs: Ending Israel’s War on Peace'
+    url: https://consortiumnews.com/2026/04/10/jeffrey-sachs-ending-israels-war-on-peace/
+    text: To make peace last in the Middle East, the U.S. must end its blank check to
+      Israel’s perpetual wars and join the rest of the world to force Israel to live
+      within its internationally recognized borders of June 4, 1967.… Read more →
+    one_sentence_summary: The article argues that for lasting peace in the Middle East,
+      the U.S. should stop unconditionally supporting Israel's military actions and
+      instead work with the international community to ensure Israel adheres to its
+      1967 borders.
+    paragraph_summary: The article argues that for lasting peace in the Middle East,
+      the U.S. should cease its unconditional support for Israel's ongoing military
+      actions and instead align with the international community to ensure Israel adheres
+      to its recognized borders established on June 4, 1967. This shift in policy is
+      seen as essential for fostering stability and resolving long-standing conflicts
+      in the region.
+    published: '2026-04-10T18:00:47+00:00'
+  - title: Killing & Indifference
+    url: https://consortiumnews.com/2026/04/10/killing-indifference/
+    text: Andrew P. Napolitano has questions about the violations of the U.S. Constitution
+      and established jurisprudence and the conduct of Congress and the Trump administration.
+      By Andrew P. Napolitano Is personal freedom a reality or a myth? Does the government
+      execute… Read more →
+    one_sentence_summary: Andrew P. Napolitano raises concerns about constitutional
+      violations and the actions of Congress and the Trump administration, questioning
+      the reality of personal freedom in the U.S.
+    paragraph_summary: In his article, Andrew P. Napolitano raises critical questions
+      regarding the adherence to the U.S. Constitution and established legal principles
+      by both Congress and the Trump administration. He explores the tension between
+      personal freedom and government authority, questioning whether true personal freedom
+      exists or is merely an illusion. Napolitano's analysis prompts readers to reflect
+      on the implications of governmental actions on individual liberties and the rule
+      of law.
+    published: '2026-04-10T16:00:27+00:00'
+  - title: Killing & Indifference
+    url: https://consortiumnews.com/2026/04/10/killing-indifference/
+    text: Andrew P. Napolitano has questions about the violations of the U.S. Constitution
+      and established jurisprudence and the conduct of Congress and the Trump administration.
+      By Andrew P. Napolitano Is personal freedom a reality or a myth? Does the government
+      execute… Read more →
+    one_sentence_summary: Andrew P. Napolitano raises concerns about constitutional
+      violations and the actions of Congress and the Trump administration, questioning
+      the reality of personal freedom in the U.S.
+    paragraph_summary: In his article, Andrew P. Napolitano raises critical questions
+      regarding the adherence to the U.S. Constitution and established legal principles
+      by both Congress and the Trump administration. He explores the tension between
+      personal freedom and government authority, questioning whether true personal freedom
+      exists or is merely an illusion. Napolitano's analysis prompts readers to reflect
+      on the implications of governmental actions on individual liberties and the rule
+      of law.
+    published: '2026-04-10T16:00:27+00:00'
+  - title: 'Caitlin Johnstone: Israel or Peace'
+    url: https://consortiumnews.com/2026/04/09/caitlin-johnstone-israel-or-peace/
+    text: Israel is a genocidal apartheid state whose entire existence is premised upon
+      a strategy of unceasing violence and abuse in the middle east. As long as that
+      state continues to exist in its present iteration, peace will never be attainable.…
+      Read more →
+    one_sentence_summary: The article argues that Israel operates as a genocidal apartheid
+      state, perpetuating violence and abuse, which it claims prevents the possibility
+      of achieving peace in the region.
+    paragraph_summary: The article argues that Israel operates as a genocidal apartheid
+      state, asserting that its existence is fundamentally based on ongoing violence
+      and oppression in the Middle East. It contends that true peace in the region is
+      unattainable as long as Israel maintains its current structure and policies.
+    published: '2026-04-10T03:21:40+00:00'
+  - title: 'Caitlin Johnstone: Israel or Peace'
+    url: https://consortiumnews.com/2026/04/09/caitlin-johnstone-israel-or-peace/
+    text: Israel is a genocidal apartheid state whose entire existence is premised upon
+      a strategy of unceasing violence and abuse in the middle east. As long as that
+      state continues to exist in its present iteration, peace will never be attainable.…
+      Read more →
+    one_sentence_summary: The article argues that Israel operates as a genocidal apartheid
+      state, perpetuating violence and abuse, which it claims prevents the possibility
+      of achieving peace in the region.
+    paragraph_summary: The article argues that Israel operates as a genocidal apartheid
+      state, asserting that its existence is fundamentally based on ongoing violence
+      and oppression in the Middle East. It contends that true peace in the region is
+      unattainable as long as Israel maintains its current structure and policies.
+    published: '2026-04-10T03:21:40+00:00'
+  - title: 'Craig Murray: The Strait of Hormuz & the Law'
+    url: https://consortiumnews.com/2026/04/09/craig-murray-the-strait-of-hormuz-the-law/
+    text: Tehran has every right under international law to close the Strait of Hormuz
+      to nations with which it is in armed conflict. By Craig Murray CraigMurray.org.uk
+      In international law, Tehran has every right to close the Strait of Hormuz to…
+      Read more →
+    one_sentence_summary: The article argues that under international law, Tehran is
+      justified in closing the Strait of Hormuz to countries it is in armed conflict
+      with.
+    paragraph_summary: The article by Craig Murray argues that under international law,
+      Tehran is justified in closing the Strait of Hormuz to countries with which it
+      is in armed conflict. Murray emphasizes that such actions are permissible within
+      the framework of international legal standards, highlighting the strategic significance
+      of the Strait and the rights of nations to protect their interests during conflicts.
+    published: '2026-04-09T21:50:30+00:00'
+  - title: 'Craig Murray: The Strait of Hormuz & the Law'
+    url: https://consortiumnews.com/2026/04/09/craig-murray-the-strait-of-hormuz-the-law/
+    text: Tehran has every right under international law to close the Strait of Hormuz
+      to nations with which it is in armed conflict. By Craig Murray CraigMurray.org.uk
+      In international law, Tehran has every right to close the Strait of Hormuz to…
+      Read more →
+    one_sentence_summary: The article argues that under international law, Tehran is
+      justified in closing the Strait of Hormuz to countries it is in armed conflict
+      with.
+    paragraph_summary: The article by Craig Murray argues that under international law,
+      Tehran is justified in closing the Strait of Hormuz to countries with which it
+      is in armed conflict. Murray emphasizes that such actions are permissible within
+      the framework of international legal standards, highlighting the strategic significance
+      of the Strait and the rights of nations to protect their interests during conflicts.
+    published: '2026-04-09T21:50:30+00:00'
+  - title: 'Vijay Prashad: Hormuz — Gate to the Great Sea'
+    url: https://consortiumnews.com/2026/04/09/vijay-prashad-hormuz-gate-to-the-great-sea/
+    text: The U.S.-Israeli war on Iran has turned the Strait of Hormuz into a choke
+      point for the world economy, with the gravest consequences falling not on the
+      powerful but on the poorer nations of the Global South. By Vijay Prashad Tricontinental:…
+      Read more →
+    one_sentence_summary: The U.S.-Israeli conflict with Iran has transformed the Strait
+      of Hormuz into a critical economic chokepoint, disproportionately impacting poorer
+      nations in the Global South.
+    paragraph_summary: The article by Vijay Prashad discusses how the U.S.-Israeli conflict
+      with Iran has transformed the Strait of Hormuz into a critical chokepoint for
+      global trade, significantly impacting the world economy. While the repercussions
+      of this geopolitical tension primarily affect poorer nations in the Global South,
+      the powerful nations remain largely insulated from the consequences. The piece
+      highlights the disparity in how economic and political conflicts disproportionately
+      burden less affluent countries, emphasizing the need for awareness and action
+      regarding these inequities.
+    published: '2026-04-09T18:33:20+00:00'
+  - title: 'Vijay Prashad: Hormuz — Gate to the Great Sea'
+    url: https://consortiumnews.com/2026/04/09/vijay-prashad-hormuz-gate-to-the-great-sea/
+    text: The U.S.-Israeli war on Iran has turned the Strait of Hormuz into a choke
+      point for the world economy, with the gravest consequences falling not on the
+      powerful but on the poorer nations of the Global South. By Vijay Prashad Tricontinental:…
+      Read more →
+    one_sentence_summary: The U.S.-Israeli conflict with Iran has transformed the Strait
+      of Hormuz into a critical economic chokepoint, disproportionately impacting poorer
+      nations in the Global South.
+    paragraph_summary: The article by Vijay Prashad discusses how the U.S.-Israeli conflict
+      with Iran has transformed the Strait of Hormuz into a critical chokepoint for
+      global trade, significantly impacting the world economy. While the repercussions
+      of this geopolitical tension primarily affect poorer nations in the Global South,
+      the powerful nations remain largely insulated from the consequences. The piece
+      highlights the disparity in how economic and political conflicts disproportionately
+      burden less affluent countries, emphasizing the need for awareness and action
+      regarding these inequities.
+    published: '2026-04-09T18:33:20+00:00'
+  - title: Top BBC Iran Reporter Revealed as Opposition Activist
+    url: https://consortiumnews.com/2026/04/09/top-bbc-iran-reporter-revealed-as-opposition-activist/
+    text: A senior BBC reporter is a dedicated regime change activist whose career was
+      launched by a C.I.A.-founded propaganda network, raising serious questions about
+      the BBC.  Wyatt Reed reports.   By Wyatt Reed The Grayzone On April 6, horrified
+      social media… Read more →
+    one_sentence_summary: A senior BBC reporter, whose career began with a CIA-funded
+      propaganda network, is revealed to be a committed regime change activist, prompting
+      significant concerns about the BBC's integrity.
+    paragraph_summary: The article by Wyatt Reed in The Grayzone discusses a senior
+      BBC reporter who is portrayed as a committed advocate for regime change, highlighting
+      the reporter's career origins linked to a propaganda network established by the
+      CIA. This connection raises significant concerns about the integrity and impartiality
+      of the BBC as a news organization, particularly in light of the reporter's activism
+      and the potential influence of intelligence agencies on media narratives.
+    published: '2026-04-09T16:00:12+00:00'
+  - title: Top BBC Iran Reporter Revealed as Opposition Activist
+    url: https://consortiumnews.com/2026/04/09/top-bbc-iran-reporter-revealed-as-opposition-activist/
+    text: A senior BBC reporter is a dedicated regime change activist whose career was
+      launched by a C.I.A.-founded propaganda network, raising serious questions about
+      the BBC.  Wyatt Reed reports.   By Wyatt Reed The Grayzone On April 6, horrified
+      social media… Read more →
+    one_sentence_summary: A senior BBC reporter, whose career began with a CIA-funded
+      propaganda network, is revealed to be a committed regime change activist, prompting
+      significant concerns about the BBC's integrity.
+    paragraph_summary: The article by Wyatt Reed in The Grayzone discusses a senior
+      BBC reporter who is portrayed as a committed advocate for regime change, highlighting
+      the reporter's career origins linked to a propaganda network established by the
+      CIA. This connection raises significant concerns about the integrity and impartiality
+      of the BBC as a news organization, particularly in light of the reporter's activism
+      and the potential influence of intelligence agencies on media narratives.
+    published: '2026-04-09T16:00:12+00:00'
+  - title: 'Jonathan Cook: Blaming the Left for Genocide'
+    url: https://consortiumnews.com/2026/04/09/jonathan-cook-blaming-the-left-for-genocide/
+    text: Britain’s former Prime Minister shows there’s no price to be paid for engineering
+      mass slaughter in the service of Western empire. Which is why those crimes not
+      only continue, but grow in scale. By Jonathan Cook Jonathan-Cook.net Tony Blair,
+      the man… Read more →
+    one_sentence_summary: The article argues that former British Prime Minister Tony
+      Blair's actions in facilitating mass violence for Western interests have gone
+      unpunished, leading to a continuation and escalation of such crimes.
+    paragraph_summary: In an article by Jonathan Cook, the author critiques former British
+      Prime Minister Tony Blair, arguing that he has faced no consequences for his role
+      in orchestrating mass violence to further Western imperial interests. This lack
+      of accountability, Cook suggests, perpetuates a cycle of violence and enables
+      such crimes to not only persist but escalate in scale. The piece highlights the
+      broader implications of political leaders evading responsibility for their actions
+      in the context of global power dynamics.
+    published: '2026-04-09T13:59:04+00:00'
+  - title: 'Jonathan Cook: Blaming the Left for Genocide'
+    url: https://consortiumnews.com/2026/04/09/jonathan-cook-blaming-the-left-for-genocide/
+    text: Britain’s former Prime Minister shows there’s no price to be paid for engineering
+      mass slaughter in the service of Western empire. Which is why those crimes not
+      only continue, but grow in scale. By Jonathan Cook Jonathan-Cook.net Tony Blair,
+      the man… Read more →
+    one_sentence_summary: The article argues that former British Prime Minister Tony
+      Blair's actions in facilitating mass violence for Western interests have gone
+      unpunished, leading to a continuation and escalation of such crimes.
+    paragraph_summary: In an article by Jonathan Cook, the author critiques former British
+      Prime Minister Tony Blair, arguing that he has faced no consequences for his role
+      in orchestrating mass violence to further Western imperial interests. This lack
+      of accountability, Cook suggests, perpetuates a cycle of violence and enables
+      such crimes to not only persist but escalate in scale. The piece highlights the
+      broader implications of political leaders evading responsibility for their actions
+      in the context of global power dynamics.
+    published: '2026-04-09T13:59:04+00:00'
+  - title: 'DAY 40: Netanyahu Says Iran War Is Not Over'
+    url: https://consortiumnews.com/2026/04/08/day-40-netanyahu-says-iran-war-is-not-over/
+    text: UPDATED – The Israeli prime minister said his country’s goals in Iran will
+      be achieved by “agreement or by renewing the war.” Meanwhile, Iran says the U.S.
+      and Israel have repeatedly violated the ceasefire. Adds Israeli opposition leader’s
+      comments, new… Read more →
+    one_sentence_summary: The Israeli prime minister stated that Israel will achieve
+      its objectives in Iran either through negotiations or by resuming conflict, while
+      Iran accused the U.S. and Israel of breaching the ceasefire.
+    paragraph_summary: The Israeli prime minister has stated that Israel's objectives
+      regarding Iran will be met either through diplomatic agreements or by escalating
+      military conflict. In response, Iran has accused the U.S. and Israel of consistently
+      breaching the ceasefire. The article also includes remarks from the Israeli opposition
+      leader, highlighting the ongoing tensions and differing perspectives on the situation.
+    published: '2026-04-08T19:00:34+00:00'
+  - title: 'DAY 40: Netanyahu Says Iran War Is Not Over'
+    url: https://consortiumnews.com/2026/04/08/day-40-netanyahu-says-iran-war-is-not-over/
+    text: UPDATED – The Israeli prime minister said his country’s goals in Iran will
+      be achieved by “agreement or by renewing the war.” Meanwhile, Iran says the U.S.
+      and Israel have repeatedly violated the ceasefire. Adds Israeli opposition leader’s
+      comments, new… Read more →
+    one_sentence_summary: The Israeli prime minister stated that Israel will achieve
+      its objectives in Iran either through negotiations or by resuming conflict, while
+      Iran accused the U.S. and Israel of breaching the ceasefire.
+    paragraph_summary: The Israeli prime minister has stated that Israel's objectives
+      regarding Iran will be met either through diplomatic agreements or by escalating
+      military conflict. In response, Iran has accused the U.S. and Israel of consistently
+      breaching the ceasefire. The article also includes remarks from the Israeli opposition
+      leader, highlighting the ongoing tensions and differing perspectives on the situation.
+    published: '2026-04-08T19:00:34+00:00'
+  - title: America’s Moral Suicide
+    url: https://consortiumnews.com/2026/04/08/americas-moral-suicide/
+    text: The United States – the cynosure of Western society — has committed moral
+      suicide in Gaza; and the death certificate was issued in Iran, writes Michael
+      Brenner. By Michael Brenner Collective suicide always is an ugly business to observe
+      —… Read more →
+    one_sentence_summary: Michael Brenner argues that the United States has morally
+      compromised itself in Gaza, with its actions reflecting a broader decline in ethical
+      standards, particularly influenced by its relationship with Iran.
+    paragraph_summary: In his article, Michael Brenner argues that the United States
+      has engaged in a form of moral suicide regarding its actions and stance in Gaza,
+      with Iran symbolically issuing a "death certificate" for this moral failing. He
+      suggests that the U.S. has compromised its ethical standing and responsibility
+      in the region, leading to a troubling and disheartening situation that reflects
+      a broader decline in moral integrity within Western society. Brenner's critique
+      highlights the complexities and consequences of collective actions that undermine
+      humanitarian values.
+    published: '2026-04-08T18:01:08+00:00'
+  - title: America’s Moral Suicide
+    url: https://consortiumnews.com/2026/04/08/americas-moral-suicide/
+    text: The United States – the cynosure of Western society — has committed moral
+      suicide in Gaza; and the death certificate was issued in Iran, writes Michael
+      Brenner. By Michael Brenner Collective suicide always is an ugly business to observe
+      —… Read more →
+    one_sentence_summary: Michael Brenner argues that the United States has morally
+      compromised itself in Gaza, with its actions reflecting a broader decline in ethical
+      standards, particularly influenced by its relationship with Iran.
+    paragraph_summary: In his article, Michael Brenner argues that the United States
+      has engaged in a form of moral suicide regarding its actions and stance in Gaza,
+      with Iran symbolically issuing a "death certificate" for this moral failing. He
+      suggests that the U.S. has compromised its ethical standing and responsibility
+      in the region, leading to a troubling and disheartening situation that reflects
+      a broader decline in moral integrity within Western society. Brenner's critique
+      highlights the complexities and consequences of collective actions that undermine
+      humanitarian values.
+    published: '2026-04-08T18:01:08+00:00'
+  - title: 'Hedges Report:  On the Brink of Apocalyptic'
+    url: https://consortiumnews.com/2026/04/08/hedges-report-on-brink-of-apocalyptic/
+    text: Before the ceasefire, as Trump escalated threats and oil chokepoints tightened,
+      Trita Parsi warned that the U.S.-Israeli war on Iran was entering its most dangerous
+      phase yet. By ScheerPost Staff ScheerPost There are moments when the machinery
+      of war begins… Read more →
+    one_sentence_summary: Trita Parsi cautioned that the U.S.-Israeli conflict with
+      Iran was reaching a critical and perilous stage as tensions escalated and oil
+      chokepoints became increasingly strained.
+    paragraph_summary: In a recent article by ScheerPost, Trita Parsi cautioned that
+      the U.S.-Israeli conflict with Iran was reaching a critical and perilous stage,
+      particularly as tensions heightened with Trump's escalating threats and the tightening
+      of oil chokepoints. The piece highlights the escalating nature of the conflict
+      and the potential for significant consequences as military actions intensify.
+    published: '2026-04-08T13:16:20+00:00'
+  - title: 'Hedges Report:  On the Brink of Apocalyptic'
+    url: https://consortiumnews.com/2026/04/08/hedges-report-on-brink-of-apocalyptic/
+    text: Before the ceasefire, as Trump escalated threats and oil chokepoints tightened,
+      Trita Parsi warned that the U.S.-Israeli war on Iran was entering its most dangerous
+      phase yet. By ScheerPost Staff ScheerPost There are moments when the machinery
+      of war begins… Read more →
+    one_sentence_summary: Trita Parsi cautioned that the U.S.-Israeli conflict with
+      Iran was reaching a critical and perilous stage as tensions escalated and oil
+      chokepoints became increasingly strained.
+    paragraph_summary: In a recent article by ScheerPost, Trita Parsi cautioned that
+      the U.S.-Israeli conflict with Iran was reaching a critical and perilous stage,
+      particularly as tensions heightened with Trump's escalating threats and the tightening
+      of oil chokepoints. The piece highlights the escalating nature of the conflict
+      and the potential for significant consequences as military actions intensify.
+    published: '2026-04-08T13:16:20+00:00'
   - title: 'DAY 39: CEASEFIRE!'
     url: https://consortiumnews.com/2026/04/07/day-39-ceasefire/
     text: The U.S. and Iran agree to a two-week ceasefire in which Iran still manages

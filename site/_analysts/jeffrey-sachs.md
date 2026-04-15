@@ -8,18 +8,164 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  As of April 8, 2026, the geopolitical landscape remains dominated by escalating tensions in the Middle East, persistent US-led hybrid warfare, and Europe’s ongoing security crisis. The most recent analyses highlight the increasingly volatile dynamics between the United States, Israel, and Iran, as well as the broader implications for international law and global stability.
+  The Middle East remains at a precarious crossroads following the recent two-week ceasefire in the Israel-US conflict with Iran. This pause, as **Jeffrey Sachs** notes, has brought only a temporary halt to hostilities, with no substantial progress toward a lasting resolution. Israel’s continued efforts to undermine the ceasefire, in pursuit of what Sachs describes as “regional dominance,” highlight the fragility of the current peace and the persistent risk of renewed escalation.
   
-  The latest reports underscore the personal influence of leaders such as Donald Trump and Benjamin Netanyahu, whose "unchecked power and delusions of grandeur pose a significant threat to global stability," according to **Jeffrey Sachs**. Their aggressive posture toward Iran, fueled by religious and nationalist fervor, has led to a series of military and economic confrontations that risk spiraling into a wider regional conflict. Sachs warns that the current US-Israeli approach is not only destabilizing the Middle East but also undermining the authority of the United Nations and the international legal order.
+  Amid these tensions, Iran has advanced a 10-point peace plan, emphasizing the necessity of recognizing Palestinian sovereignty as a cornerstone for regional stability. Sachs underscores that the United States’ support for this plan is essential if there is to be any hope for a durable settlement. However, the entrenched positions of both the US and Israel—driven by what Sachs characterizes as aggressive and hubristic leadership—continue to impede diplomatic progress.
   
-  On the economic front, the US continues to employ "economic statecraft"—a combination of sanctions, tariffs, and financial pressure—against adversaries such as Iran and Venezuela. **Jeffrey Sachs** argues that these measures constitute a form of "economic warfare," which is both illegal under international law and detrimental to global economic stability. The increasing use of such tactics is prompting affected nations to seek alternatives to the US dollar, potentially accelerating a shift in the global financial system.
+  In parallel, Europe’s ongoing estrangement from Russia, rooted in what Sachs terms “structural Russophobia,” has further complicated the global security environment. The breakdown in diplomatic relations over Ukraine and the broader rejection of Russia’s security concerns have, according to Sachs, led to self-defeating consequences for European security and economic stability.
   
-  In Europe, the enduring conflict with Russia is exacerbated by what Sachs describes as "structural Russophobia" and a failure to address Russia’s legitimate security concerns. This has led to the collapse of diplomatic relations and a deepening security crisis, with Europe remaining heavily dependent on US policy and military support.
-  
-  Looking ahead, the trends suggest a high likelihood of continued instability in the Middle East, with the risk of escalation into a broader conflict if current US and Israeli policies persist. There is also a high chance that economic sanctions and hybrid warfare tactics will further erode trust in US leadership and accelerate the search for alternative global governance and financial systems. In Europe, unless there is a fundamental shift toward recognizing Russian security interests, the current trajectory of confrontation and insecurity is likely to continue.
-  
-  In summary, the prevailing expert consensus is that without a major change in leadership or policy direction—especially from the US and Israel—the prospects for peace and stability in the Middle East and Europe remain bleak. As **Jeffrey Sachs** concludes, "there is a high chance that aggressive policies and disregard for international law will continue to undermine global security and economic order."
+  Looking ahead, the prevailing trend is one of persistent instability. Sachs warns that without a fundamental shift in US and Israeli policy—specifically, a move toward genuine diplomacy and respect for international law—the risk of a wider regional war remains high. He asserts with high confidence that “lasting peace in the Middle East will most definitely require US recognition of Palestinian statehood and a comprehensive diplomatic framework.” In Europe, unless there is a recalibration of relations with Russia, the cycle of conflict and economic hardship is quite likely to continue.
 articles:
+  - title: Ending Israel’s War on Peace
+    url: https://www.commondreams.org/opinion/israel-war-on-peace
+    text: 'A two-week ceasefire has partially halted the Israel-US war on Iran. The
+      war accomplished precisely nothing that a competent diplomat could not have achieved
+      in an afternoon. The Strait of Hormuz was open before the war and it is open again
+      now, but with more Iranian control.
+
+
+      Meanwhile, the chaos continues. Israel is intent on blowing up the ceasefire,
+      as this was Israel’s war from the start. Israel dazzled Trump with the prospect
+      of a one-day decapitation strike that would put Trump in charge of Iran’s oil.
+      Israel, in turn, was out for bigger prey: to bring down the Iranian regime and
+      thereby become the regional hegemon of Western Asia.
+
+
+      The foundation of the ceasefire is Iran''s 10-point plan , which Trump (perhaps
+      unwittingly) called a "workable basis on which to negotiate." The plan makes sense,
+      but it is a major climbdown for the US, and probably a redline for Israel. Among
+      other points, the plan calls for an end to the wars raging in the Middle East,
+      almost all of which have Israel at their root cause. The plan would also resolve
+      the nuclear issue, essentially by going back to the JCPOA that Trump ripped up
+      in 2018.
+
+
+      The Iran War, and the other wars raging across the Middle East, trace back to
+      one core Israeli idea, that Israel will permanently and steadfastly oppose a sovereign
+      Palestinian state and will topple any government in the Middle East that supports
+      armed struggle for national sovereignty. It is crucial to note that the UN General
+      Assembly has passed multiple resolutions, such as Resolution 37/43 (1982), affirming
+      that political self-determination is so vital, that armed struggle in the quest
+      for self-determination is legitimate. The UN was born, in part, out of the determination
+      to end the centuries of European imperial domination over Africa and Asia. Of
+      course, there would be no cause for armed struggle if Israel would accept a political
+      solution, notably the two-state solution that has overwhelming support throughout
+      the world.
+
+
+      The peace is within reach, if the US grasps it.
+
+
+      Netanyahu’s core goal may be summarized as Greater Israel. This means no Palestinian
+      sovereignty, and no clear boundaries for Israel even beyond the boundary of historical
+      Palestine under British rule after WWI. Zionist extremists like Netanyahu’s political
+      allies, Ben-Gvir and Smotrich favor Israeli control over parts of Lebanon and
+      Syria, as well as permanent control over all of what was British Palestine. America’s
+      Christian Zionists, exemplified by the US Ambassador to Israel Mike Huckabee,
+      and a strong voter base of Trump, speak of God’s promise to Israel of the lands
+      between the Nile and the Euphrates. Crazy stuff, but these are real beliefs, nonetheless,
+      and they are conveyed in the White House.
+
+
+      Israel’s strategy is therefore regime change in every country that resists Greater
+      Israel, a plan already foreshadowed in the famous political document " A Clean
+      Break: A New Strategy for Securing the Realm ," written by US Zionist neocons
+      as a platform for Netanyahu’s new government in 1996. We’ve had constant wars
+      in the Middle East since then to implement the Clean Break vision. This has included
+      the war in Libya to overthrow Moammar Qaddafi, the wars in Lebanon, the war to
+      overthrow Syria’s Bashar al-Assad, the war to overthrow Iraq’s Saddam Hussein,
+      and now the war to topple the Iranian regime.
+
+
+      This is not to say that the US lacks its own grandiose ideas. Israel wants regional
+      hegemony, this is not a secret. Netanyahu confirmed these ambitions in his recent
+      remarks about Israel becoming “a regional power, and in certain fields a global
+      power.” On the other hand, American officials dream of global hegemony. And Trump
+      dreams of money. He craves the Iranian oil and repeatedly said so.
+
+
+      In any event, it’s clear that this war was Netanyahu’s creation. He and the Mossad
+      chief came to Washington to sell Trump a bill of goods. It’s not hard. Trump was
+      suckered, while everybody else had their doubts about Netanyahu’s claims of an
+      easy one-day decapitation strike—essentially a replay of the US operation in Venezuela.
+
+
+      It’s pathetic to “listen in” on the White House discussion, as revealed by the
+      New York Times . Netanyahu, a con man, presented rosy scenarios of regime change
+      that US intelligence contradicted, yet Trump foolishly accepted. Trump and Netanyahu
+      were cheered on by Christian Zionists (Hegseth), Jewish Zionists and real-estate
+      developers (Kushner and Witkoff), a faith healer (Franklin Graham), and high-level
+      sycophants (Rubio and Ratcliffe).
+
+
+      While Trump was telling the world that Iran was begging for a ceasefire, it was
+      Trump himself who was begging for a ceasefire.
+
+
+      Until Tuesday evening, it looked like Trump might lead the world blindly to World
+      War III. The vulgarity and brutality of his public rhetoric was unmatched in US
+      presidential history. Now we know that he was desperately seeking an off-ramp
+      and using Pakistan for that purpose. While Trump was telling the world that Iran
+      was begging for a ceasefire, it was Trump himself who was begging for a ceasefire.
+      The Pakistani leader delivered it.
+
+
+      The ceasefire is good, and the 10-point plan is good, even if perhaps Trump didn’t
+      know what was in it when he said that it was a good basis for negotiation. Israel
+      will, in any event, work overtime to break it, and has already started to do so,
+      with carpet bombing of Beirut that is killing hundreds of civilians, and with
+      other strikes. A permanent US-Iran agreement is the last thing that Netanyahu
+      wants. That would end his dream of Greater Israel.
+
+
+      Yet there is a way to peace and that is for the US to face reality. Israel is
+      the real “terror state,” waging perpetual war throughout the Middle East for a
+      wholly indefensible reason—to have unchecked freedom to terrorize and rule over
+      the Palestinian people and to expand its borders as Israel’s zealots see fit.
+      To make lasting peace in the Middle East, the US must end its blank check to Israel’s
+      perpetual wars and join with the rest of the world to force Israel to live within
+      its internationally recognized borders of June 4, 1967. Iran’s 10-point plan can
+      be the basis of a comprehensive regional peace—if the US accepts the reality of
+      a state of Palestine. In that case, Iran would likely agree to stop funding non-state
+      belligerents, and Israel, Palestine, Lebanon, and the entire region could live
+      in mutual security and peace. That outcome should be the basis of a negotiated
+      agreement of the US and Iran in the next two weeks.
+
+
+      Israel is the real “terror state,” waging perpetual war throughout the Middle
+      East for a wholly indefensible reason...
+
+
+      The American people have made their views clear. A 2025 Pew survey finds most
+      Jewish Americans lack confidence in Netanyahu and back the two-state solution.
+      Most Americans now view Israel unfavorably , the highest unfavourability in history.
+      Sympathy for Israel has hit a 25-year low. Now the political class must catch
+      up with the public.
+
+
+      The peace is within reach, if the US grasps it. Iran''s proposal is serious and
+      the ceasefire is a fragile opening for a comprehensive settlement. The question
+      is whether the US will, once again, allow Israel to destroy the peace, or rather
+      this time stand up for America’s interests and the world’s interests in a lasting
+      peace.'
+    one_sentence_summary: A two-week ceasefire has momentarily paused the Israel-US
+      war on Iran, which has achieved nothing substantial, while Israel seeks to undermine
+      the ceasefire to pursue its goal of regional dominance, highlighting the need
+      for the US to support Iran's 10-point peace plan and recognize Palestinian sovereignty
+      to achieve lasting peace in the Middle East.
+    paragraph_summary: A recent two-week ceasefire has temporarily paused the Israel-US
+      war on Iran, which critics argue achieved nothing that could not have been resolved
+      through diplomacy. The conflict, driven by Israel's ambition to eliminate the
+      Iranian regime and assert regional dominance, has roots in Israel's longstanding
+      opposition to Palestinian sovereignty and its broader geopolitical aspirations.
+      The ceasefire is based on Iran's 10-point plan, which includes a return to the
+      nuclear agreement and an end to regional conflicts largely instigated by Israel.
+      Despite the potential for peace, Israel is actively working to undermine the ceasefire,
+      as it conflicts with its goal of a Greater Israel. The article emphasizes that
+      lasting peace is possible if the US acknowledges the need for a Palestinian state
+      and curtails its unconditional support for Israel's military actions, aligning
+      with the growing sentiment among the American public for a two-state solution.
+    published: '2026-04-09T12:29:38+00:00'
   - title: 'Trump and Netanyahu: Two Madmen Playing God'
     url: https://www.commondreams.org/opinion/netanyahu-trump-psychopaths-war-criminals
     text: 'Here is Donald Trump’s Easter message to the world:

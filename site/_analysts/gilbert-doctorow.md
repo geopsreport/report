@@ -7,18 +7,420 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As of April 8, 2026, the geopolitical landscape continues to be shaped by the ongoing Russia-Ukraine conflict, shifting U.S. foreign policy under President Trump, and evolving dynamics within the European Union. The latest developments, as analyzed by **Gilbert Doctorow**, provide new insights into these arenas.
+  In the evolving European political landscape, recent developments in Belgium have drawn significant attention. Belgian Prime Minister Bart De Wever, previously commended for his veto against the confiscation of Russian state assets to fund Ukraine, is now under scrutiny for actions and remarks made during a visit to the Russian Embassy. According to **Gilbert Doctorow**, De Wever’s conduct has sparked a reevaluation of his commitment to human rights and European values, with Doctorow describing it as “a black stain” on the Prime Minister’s record. This shift in perception highlights growing tensions within the EU regarding the balance between principled policy and pragmatic diplomacy, especially as the Russia-Ukraine conflict drags on.
   
-  The Russia-Ukraine war remains a central issue. **Doctorow** highlights the unique perspective gained from his time in Russia during the conflict, emphasizing the lack of Western journalistic presence and the resulting information gap. While no major battlefield shifts have been reported in the past 24 hours, diplomatic channels show tentative movement. A recent visit by Russian parliamentarians to the U.S. marks a rare attempt to reestablish mid-level diplomatic ties after years of near-total isolation. This could signal the beginning of a slow thaw, though substantive negotiations remain distant.
+  Meanwhile, the broader context remains shaped by ongoing debates over Western involvement in the Ukraine war. **Doctorow**’s recent publications continue to emphasize the lack of Western journalistic presence in Russia during the conflict, underscoring the importance of firsthand accounts and alternative perspectives. His latest book, “War Diaries. The Russia-Ukraine War, 2022-2023,” aims to fill this gap and provide nuanced insights into the realities on the ground.
   
-  Meanwhile, U.S. policy under President Trump is drawing increased scrutiny. **Doctorow** notes the psychological and moral analyses of Trump’s leadership style, suggesting that both domestic and international actors are recalibrating their expectations. The administration’s recent pivot on Iran—interpreted by Doctorow as a “surrender masked as negotiation”—has led to a suspension of overt threats, with Iran publicly denying any meaningful talks. This apparent de-escalation is seen as a sign of U.S. retrenchment in the Middle East.
-  
-  Within the European Union, internal divisions are becoming more pronounced. Belgium’s Prime Minister Alexander De Wever’s veto of the European Commission’s plan to confiscate Russian assets for Ukraine aid has forced a shift to alternative strategies. This move underscores the growing assertiveness of smaller EU states and the challenges facing Brussels in maintaining unity on Russia policy.
-  
-  Looking ahead, **Doctorow** assesses with high confidence that the U.S. will continue to reduce its direct involvement in both the Ukraine and Iran conflicts, driven by domestic pressures and shifting global priorities. The reengagement between Russian and U.S. officials, though tentative, is likely to expand, but any breakthrough remains a medium-term prospect at best. In Europe, expect further fragmentation as national leaders assert their interests, complicating coordinated action on Russia and Ukraine.
-  
-  In summary, the prevailing trends point to a gradual U.S. disengagement from Eurasian conflicts, a cautious reopening of Russia-West diplomatic channels, and a more fractured European response to the ongoing crisis. These dynamics are set to define the coming months, with significant policy shifts “most definitely” on the horizon.
+  Looking ahead, the trend in European politics appears to be one of increasing polarization over how to handle relations with Russia and the Ukraine conflict. The controversy surrounding De Wever is symptomatic of deeper divisions within the EU, and it is quite likely that similar disputes will emerge in other member states as the pressure to take decisive stances on Russia intensifies. Based on the current trajectory, there is a high chance that European leaders will face mounting challenges in maintaining unity, both domestically and at the EU level, over the coming months.
 articles:
+  - title: 'A word to J.D. Vance: witness the latest suppression of human rights and
+      ‘European values’ in Belgium!  A black stain on the record of Prime Minister Bart
+      De Wever'
+    url: https://gilbertdoctorow.com/2026/04/15/a-word-to-j-d-vance-witness-the-latest-suppression-of-human-rights-and-european-values-in-belgium-a-black-stain-on-the-record-of-prime-minister-bart-de-wever/
+    text: 'In past months I have tossed bouquets at the feet of Belgian Prime Minister
+      Bart De Wever for his brave and superbly executed veto on plans to confiscate
+      Russian state assets held in Euroclear to extend a non-reimbursable loan to Ukraine
+      for the sake of continuing the war against Russia. With the unanimous support
+      of Belgium’s legislature in his back pocket, De Wever stood up to Commission President
+      Ursula von der Leyen and to German Chancellor Friedrich Merz and delivered a decisive
+      Nyet to their ill-considered plans to violate international law and send European
+      finances into ‘uncharted waters’ as De Wever correctly said to their faces during
+      the monthly gathering of the European Council in Brussels.  His courage attracted
+      support from several other European leaders, in particular Giorgia Melloni of
+      Italy, and the Commission backed down. However, after what I saw and heard at
+      the Russian Embassy to the Kingdom of Belgium last night, I want my flowers back.
+      I was in an audience of about 200 Belgians who came to see a film screening, namely
+      to see a film that has been banned by the Belgian government from public viewing
+      in movie theaters under pressure from the Ukrainian embassy in Brussels. In their
+      overwhelming majority the audience consisted of ordinary French-speaking Belgians
+      who accept invitations to Russian embassy events or to Russia House concerts and
+      language lessons for the sake of hearing interpretations of current events or
+      historical events that are not to be found in mainstream print and electronic
+      media. In short, they want to think for themselves after weighing various sides
+      to a story. The questions posed by members of the audience made it clear that
+      curiosity was the motive for their attendance, nothing more. The film in question
+      entitled “Ukraine-Russia: Behind the Smoke Screen” was made by a Belgian journalist
+      Alexandre Penasse on the basis of a tour of the Donbas that he took last September
+      within a press pool organized by RIA Novosti. The journalists were shown the memorials
+      to children and other civilians murdered by artillery barrages and bombing of
+      residential complexes and other civilian infrastructure from the start of the
+      war on its own Eastern provinces that the extreme nationalist government installed
+      in Kiev in February 2014 following a U.S. backed coup d’etat that overthrew the
+      legitimate elected government. They were taken to schools and given free access
+      to students for one-on-one chats. They were taken to military training grounds
+      to speak to recruits and to veteran defenders of the Donbas. The film “Behind
+      the Smoke Screen” has been banned by the Kingdom of Belgium for no reason whatsoever.
+      The film is hardly propagandistic. It has no particular point to make. Its greatest
+      “sin” is that on the basis of testimony of the people with whom the filmmaker
+      met it says loudly and clearly that the Russia-Ukraine war was not without provocation
+      and did not start on 24 February 2022. It started in 2014 with the vicious attacks
+      of the Ukrainian army on the civilian Russian-speaking population of Donbas to
+      subjugate them and carry out ethnic cleansing. These attacks continued until the
+      very start of President Putin’s Special Military Operation in February 2022 and
+      had led to the deaths of more than 14,000 Russian-speaking civilians living in
+      the still Ukrainian Donbas region. The somewhat surprising other take-away from
+      the film is that so many of the Donbas interviewees openly express their confused
+      feelings about their Ukrainian past and their Russian present. They have a residual
+      sympathy for Ukraine while they abhor the vicious attack on themselves unleashed
+      by the nationalists who took control of the government in 2014.  The most common
+      wish of all the interviewees was for peace and an end to this never-ending war.
+      Now, was this truth something that the Belgian Government had any right to suppress
+      by exercising censorship and forbidding public screening of the film with the
+      unstated but real threats to the film maker of professional sanctions against
+      him?   The answer to these questions is a resounding ‘no’ and it is why I say
+      to Belgian Prime Minister:  “shame on you!” ©Gilbert Doctorow, 2026'
+    one_sentence_summary: Belgian Prime Minister Bart De Wever initially received praise
+      for his veto against confiscating Russian state assets to fund Ukraine, but his
+      recent actions and comments at the Russian Embassy have led to a reevaluation
+      of his stance.
+    paragraph_summary: 'The article discusses Belgian Prime Minister Bart De Wever''s
+      commendable veto against plans to confiscate Russian state assets to fund Ukraine,
+      which he argued would violate international law and destabilize European finances.
+      His stance garnered support from other European leaders, leading to a retreat
+      from the proposal by the European Commission. However, the author expresses disappointment
+      after attending a film screening at the Russian Embassy in Belgium, where a banned
+      film titled "Ukraine-Russia: Behind the Smoke Screen" was shown. The audience,
+      primarily French-speaking Belgians, attended out of curiosity to explore alternative
+      narratives about the conflict, highlighting a desire for independent thought amidst
+      government censorship influenced by Ukrainian pressure.'
+    published: '2026-04-15T06:45:52+00:00'
+  - title: 'A word to J.D. Vance: witness the latest suppression of human rights and
+      ‘European values’ in Belgium!  A black stain on the record of Prime Minister Bart
+      De Wever'
+    url: https://gilbertdoctorow.com/2026/04/15/a-word-to-j-d-vance-witness-the-latest-suppression-of-human-rights-and-european-values-in-belgium-a-black-stain-on-the-record-of-prime-minister-bart-de-wever/
+    text: 'In past months I have tossed bouquets at the feet of Belgian Prime Minister
+      Bart De Wever for his brave and superbly executed veto on plans to confiscate
+      Russian state assets held in Euroclear to extend a non-reimbursable loan to Ukraine
+      for the sake of continuing the war against Russia. With the unanimous support
+      of Belgium’s legislature in his back pocket, De Wever stood up to Commission President
+      Ursula von der Leyen and to German Chancellor Friedrich Merz and delivered a decisive
+      Nyet to their ill-considered plans to violate international law and send European
+      finances into ‘uncharted waters’ as De Wever correctly said to their faces during
+      the monthly gathering of the European Council in Brussels.  His courage attracted
+      support from several other European leaders, in particular Giorgia Melloni of
+      Italy, and the Commission backed down. However, after what I saw and heard at
+      the Russian Embassy to the Kingdom of Belgium last night, I want my flowers back.
+      I was in an audience of about 200 Belgians who came to see a film screening, namely
+      to see a film that has been banned by the Belgian government from public viewing
+      in movie theaters under pressure from the Ukrainian embassy in Brussels. In their
+      overwhelming majority the audience consisted of ordinary French-speaking Belgians
+      who accept invitations to Russian embassy events or to Russia House concerts and
+      language lessons for the sake of hearing interpretations of current events or
+      historical events that are not to be found in mainstream print and electronic
+      media. In short, they want to think for themselves after weighing various sides
+      to a story. The questions posed by members of the audience made it clear that
+      curiosity was the motive for their attendance, nothing more. The film in question
+      entitled “Ukraine-Russia: Behind the Smoke Screen” was made by a Belgian journalist
+      Alexandre Penasse on the basis of a tour of the Donbas that he took last September
+      within a press pool organized by RIA Novosti. The journalists were shown the memorials
+      to children and other civilians murdered by artillery barrages and bombing of
+      residential complexes and other civilian infrastructure from the start of the
+      war on its own Eastern provinces that the extreme nationalist government installed
+      in Kiev in February 2014 following a U.S. backed coup d’etat that overthrew the
+      legitimate elected government. They were taken to schools and given free access
+      to students for one-on-one chats. They were taken to military training grounds
+      to speak to recruits and to veteran defenders of the Donbas. The film “Behind
+      the Smoke Screen” has been banned by the Kingdom of Belgium for no reason whatsoever.
+      The film is hardly propagandistic. It has no particular point to make. Its greatest
+      “sin” is that on the basis of testimony of the people with whom the filmmaker
+      met it says loudly and clearly that the Russia-Ukraine war was not without provocation
+      and did not start on 24 February 2022. It started in 2014 with the vicious attacks
+      of the Ukrainian army on the civilian Russian-speaking population of Donbas to
+      subjugate them and carry out ethnic cleansing. These attacks continued until the
+      very start of President Putin’s Special Military Operation in February 2022 and
+      had led to the deaths of more than 14,000 Russian-speaking civilians living in
+      the still Ukrainian Donbas region. The somewhat surprising other take-away from
+      the film is that so many of the Donbas interviewees openly express their confused
+      feelings about their Ukrainian past and their Russian present. They have a residual
+      sympathy for Ukraine while they abhor the vicious attack on themselves unleashed
+      by the nationalists who took control of the government in 2014.  The most common
+      wish of all the interviewees was for peace and an end to this never-ending war.
+      Now, was this truth something that the Belgian Government had any right to suppress
+      by exercising censorship and forbidding public screening of the film with the
+      unstated but real threats to the film maker of professional sanctions against
+      him?   The answer to these questions is a resounding ‘no’ and it is why I say
+      to Belgian Prime Minister:  “shame on you!” ©Gilbert Doctorow, 2026'
+    one_sentence_summary: Belgian Prime Minister Bart De Wever initially received praise
+      for his veto against confiscating Russian state assets to fund Ukraine, but his
+      recent actions and comments at the Russian Embassy have led to a reevaluation
+      of his stance.
+    paragraph_summary: 'The article discusses Belgian Prime Minister Bart De Wever''s
+      commendable veto against plans to confiscate Russian state assets to fund Ukraine,
+      which he argued would violate international law and destabilize European finances.
+      His stance garnered support from other European leaders, leading to a retreat
+      from the proposal by the European Commission. However, the author expresses disappointment
+      after attending a film screening at the Russian Embassy in Belgium, where a banned
+      film titled "Ukraine-Russia: Behind the Smoke Screen" was shown. The audience,
+      primarily French-speaking Belgians, attended out of curiosity to explore alternative
+      narratives about the conflict, highlighting a desire for independent thought amidst
+      government censorship influenced by Ukrainian pressure.'
+    published: '2026-04-15T06:45:52+00:00'
+  - title: News X World interview this afternoon
+    url: https://gilbertdoctorow.com/2026/04/13/news-x-world-interview-this-afternoon/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by providing
+      insights from the Russian home front during a time when Western journalists were
+      largely absent due to visa restrictions. This work builds on his previous two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries focused on the
+      experiences of expatriate managers in Moscow during the 1990s—an underexplored
+      topic among his contemporaries. With a background in Russian affairs dating back
+      to 1965, Doctorow is an accomplished scholar and professional, holding degrees
+      from Harvard and Columbia, and has a rich career in business and literature, including
+      a tenure as Chairman of the Russian Booker Literary Prize. He currently resides
+      in Brussels.
+    published: '2026-04-13T16:22:25+00:00'
+  - title: This morning’s interview on NewsX World
+    url: https://gilbertdoctorow.com/2026/04/12/this-mornings-interview-on-newsx-world/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      reports from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by documenting
+      his observations from the Russian home front during a period when Western journalists
+      were largely absent due to visa restrictions. This work complements his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences as a professional observer of Russia since 1965, particularly
+      focusing on the expatriate community in Moscow during the 1990s. A Harvard graduate
+      and former Fulbright scholar with a Ph.D. from Columbia University, Doctorow has
+      had a diverse career in business and literature, including serving as the Chairman
+      of the Russian Booker Literary Prize and as a visiting scholar at Columbia's Harriman
+      Institute. He currently resides in Brussels.
+    published: '2026-04-12T11:29:39+00:00'
+  - title: 'Book launch announcement: ‘War Diaries, Volume 2: The Russia-Ukraine War,
+      2024’'
+    url: https://gilbertdoctorow.com/2026/04/10/book-launch-announcement-war-diaries-volume-2-the-russia-ukraine-war-2024/
+    text: 'Gilbert Doctorow Apr 10, 2026 I take pleasure in announcing that Volume 2,
+      2024 has just been placed on sale by Amazon throughout its worldwide websites.
+      Within a week or so an e-book version will be added. Armageddon Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. Volume 2 differs notably from Volume 1 by
+      its inclusion of summaries, extracts from transcripts and several full transcripts
+      of my nearly weekly interviews in 2024 on leading youtube channels, particularly
+      ‘Judging Freedom,’ that regularly attracted the attention of tens of thousands
+      of viewers. Thus, readers can follow closely what U.S. and other Western audiences
+      found newsworthy at the time, and what they sought expert commentary about as
+      the Russia-Ukraine war evolved in 2024. I remind readers that these War Diaries
+      are primary sources. They are history recorded in time present while looking to
+      the still unknowable future. Errors of judgement at the time of writing are left
+      intact. The purpose is to show what my expectations were based on what was known
+      within a day or two of the events described. I imagine that each reader will seek
+      in this volume answers to his or her own questions about the war in general and
+      2024 in particular. Both questions and the evaluation of answers found here will
+      change over the years to come, which is natural to all historical writings. Nonetheless,
+      in the Foreword and Introduction, I share with the reader an overarching view
+      of what I found remarkable in the ‘diaries’ when I prepared this book for publication
+      in January 2026. Note: Volume 2 is set in larger, 12-point typeface and is thus
+      easier to read in paperback format than Volume1. The image of the book cover above
+      dramatizes two important elements of the war that emerged in 2024. The front cover
+      shows the destroyed interior of the Crocus entertainment center in a Moscow suburb
+      where on 22 March 2024 a Ukrainian financed and directed attack killed 149 civilians.
+      This terrorist act enraged Russian society and was a key factor raising pressure
+      on President Putin to harden the language and severity of Russia’s pursuit of
+      the war. The back cover shows a double-amputee Ukrainian soldier in hospital being
+      visited by German Chancellor Scholz. It is meant to direct attention to the human
+      as opposed to material losses in this war. It is widely believed that Ukraine
+      has now lost more than two million soldiers to death and permanent incapacitation
+      as a result of Zelensky’s persisting in a war that they have lost as measured
+      in traditional military terms.'
+    one_sentence_summary: Gilbert Doctorow announces the release of Volume 2 of his
+      War Diaries, which includes summaries and transcripts of his interviews from 2024,
+      providing insights into Western perspectives on the Russia-Ukraine war.
+    paragraph_summary: Gilbert Doctorow has announced the release of Volume 2 of his
+      "War Diaries," which is now available on Amazon and will soon have an e-book version.
+      This volume differs from the first by including summaries, extracts, and full
+      transcripts of his interviews from 2024, particularly on popular YouTube channels
+      like 'Judging Freedom,' which engaged large audiences during the ongoing Russia-Ukraine
+      war. The diaries serve as primary sources, capturing real-time perspectives and
+      expectations during the conflict, while also acknowledging the potential for errors
+      in judgment. Doctorow aims for readers to find their own answers about the war
+      and its developments in 2024, emphasizing that interpretations will evolve over
+      time. Additionally, Volume 2 features a larger, more readable typeface and highlights
+      significant events of the war, including a notable incident in March 2024.
+    published: '2026-04-10T15:00:16+00:00'
+  - title: 'Book launch announcement: ‘War Diaries, Volume 2: The Russia-Ukraine War,
+      2024’'
+    url: https://gilbertdoctorow.com/2026/04/10/book-launch-announcement-war-diaries-volume-2-the-russia-ukraine-war-2024/
+    text: 'Gilbert Doctorow Apr 10, 2026 I take pleasure in announcing that Volume 2,
+      2024 has just been placed on sale by Amazon throughout its worldwide websites.
+      Within a week or so an e-book version will be added. Armageddon Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. Volume 2 differs notably from Volume 1 by
+      its inclusion of summaries, extracts from transcripts and several full transcripts
+      of my nearly weekly interviews in 2024 on leading youtube channels, particularly
+      ‘Judging Freedom,’ that regularly attracted the attention of tens of thousands
+      of viewers. Thus, readers can follow closely what U.S. and other Western audiences
+      found newsworthy at the time, and what they sought expert commentary about as
+      the Russia-Ukraine war evolved in 2024. I remind readers that these War Diaries
+      are primary sources. They are history recorded in time present while looking to
+      the still unknowable future. Errors of judgement at the time of writing are left
+      intact. The purpose is to show what my expectations were based on what was known
+      within a day or two of the events described. I imagine that each reader will seek
+      in this volume answers to his or her own questions about the war in general and
+      2024 in particular. Both questions and the evaluation of answers found here will
+      change over the years to come, which is natural to all historical writings. Nonetheless,
+      in the Foreword and Introduction, I share with the reader an overarching view
+      of what I found remarkable in the ‘diaries’ when I prepared this book for publication
+      in January 2026. Note: Volume 2 is set in larger, 12-point typeface and is thus
+      easier to read in paperback format than Volume1. The image of the book cover above
+      dramatizes two important elements of the war that emerged in 2024. The front cover
+      shows the destroyed interior of the Crocus entertainment center in a Moscow suburb
+      where on 22 March 2024 a Ukrainian financed and directed attack killed 149 civilians.
+      This terrorist act enraged Russian society and was a key factor raising pressure
+      on President Putin to harden the language and severity of Russia’s pursuit of
+      the war. The back cover shows a double-amputee Ukrainian soldier in hospital being
+      visited by German Chancellor Scholz. It is meant to direct attention to the human
+      as opposed to material losses in this war. It is widely believed that Ukraine
+      has now lost more than two million soldiers to death and permanent incapacitation
+      as a result of Zelensky’s persisting in a war that they have lost as measured
+      in traditional military terms.'
+    one_sentence_summary: Gilbert Doctorow announces the release of Volume 2 of his
+      War Diaries, which includes summaries and transcripts of his interviews from 2024,
+      providing insights into Western perspectives on the Russia-Ukraine war.
+    paragraph_summary: Gilbert Doctorow has announced the release of Volume 2 of his
+      "War Diaries," which is now available on Amazon and will soon have an e-book version.
+      This volume differs from the first by including summaries, extracts, and full
+      transcripts of his interviews from 2024, particularly on popular YouTube channels
+      like 'Judging Freedom,' which engaged large audiences during the ongoing Russia-Ukraine
+      war. The diaries serve as primary sources, capturing real-time perspectives and
+      expectations during the conflict, while also acknowledging the potential for errors
+      in judgment. Doctorow aims for readers to find their own answers about the war
+      and its developments in 2024, emphasizing that interpretations will evolve over
+      time. Additionally, Volume 2 features a larger, more readable typeface and highlights
+      significant events of the war, including a notable incident in March 2024.
+    published: '2026-04-10T15:00:16+00:00'
+  - title: How sad! The Israelis are unhappy with Trump!
+    url: https://gilbertdoctorow.com/2026/04/09/how-sad-the-israelis-are-unhappy-with-trump/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the ongoing conflict, featuring
+      insights from his visits to St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which includes diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a career spanning decades as a Russia expert,
+      Doctorow holds a Ph.D. in history and has extensive experience in business and
+      literary circles, including serving as Chairman of the Russian Booker Literary
+      Prize and as a Visiting Scholar at Columbia University. He currently resides in
+      Brussels.
+    published: '2026-04-09T14:16:26+00:00'
+  - title: '‘Judging Freedom’ edition of 8 April 2026: Is President Trump a Madman?'
+    url: https://gilbertdoctorow.com/2026/04/08/judging-freedom-edition-of-8-april-2026-is-president-trump-a-madman/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand experiences in St Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his previous
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds degrees from Harvard and Columbia, has a rich
+      career in business related to the USSR and Eastern Europe, and has served in various
+      academic and literary roles, including as Chairman of the Russian Booker Literary
+      Prize. He currently resides in Brussels.
+    published: '2026-04-08T13:27:00+00:00'
   - title: News X World news bulletin 5 April
     url: https://gilbertdoctorow.com/2026/04/05/news-x-world-news-bulletin-5-april/
     text: 'Published by gilbertdoctorow
