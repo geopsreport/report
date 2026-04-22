@@ -8,20 +8,1016 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The ongoing US-Israeli war against Iran continues to drive profound shifts in the global geopolitical and economic landscape. As of mid-April 2026, the conflict’s repercussions are intensifying, with new developments underscoring the enduring volatility and complexity of the crisis.
+  Amidst the ongoing US-Iran conflict and its global repercussions, recent developments have further intensified the geopolitical and economic landscape. The Trump administration’s announcement of a blockade in the Persian Gulf and Gulf of Oman marks a significant escalation, raising questions about both its feasibility and strategic rationale. As **Michael Hudson** notes, “the newly announced blockade on the Persian Gulf and Gulf of Oman… raises questions about its feasibility and rationale amidst ongoing tensions with Iran.” This maneuver is widely interpreted as an attempt to assert US control over critical energy chokepoints, but analysts doubt its sustainability given the scale of military and logistical resources required.
   
-  **Escalating Economic Fallout**  
-  The most recent analyses, including those by **Michael Hudson**, emphasize the war’s “significant and multifaceted negative impact on the global economy.” The disruption of oil flows from the Persian Gulf, combined with sanctions and military operations, has triggered what Hudson calls “the largest oil shock in history.” This shock is not only inflating energy prices worldwide but also accelerating a shift away from US dollar dominance in global oil markets. According to Hudson, “the war is exacerbating existing unsustainable economic conditions and altering the geopolitical landscape permanently.” There is high confidence that these economic disruptions will persist and deepen, with a strong likelihood of further inflationary pressures and potential for a broader financial crisis.
+  The blockade comes on the heels of the US’s reported military successes against Iran, including the destruction of a large portion of Iran’s naval forces and a reduction in Iranian attacks, according to White House sources. However, **Hudson** and other commentators caution that these tactical gains may not translate into strategic victory, as Iran’s resilience and capacity for asymmetric retaliation remain significant.
   
-  **Geopolitical Realignments and Regional Tensions**  
-  Recent reports highlight the growing complexity of alliances and military agreements in the Eastern Mediterranean. As discussed by **Dimitrios Konstantakopoulos** in conversation with Hudson, Greece’s deepening military ties with both Israel and the United States are reshaping regional dynamics, particularly in relation to Iran and Cyprus. These developments suggest an expanding scope of the conflict, with secondary theaters of tension emerging and increasing the risk of broader regional instability.
+  Economically, the war and the blockade have exacerbated what **Hudson** calls “the largest oil shock in history,” with ripple effects across global markets. The disruption of Persian Gulf shipping routes has already led to soaring energy prices and heightened volatility, further undermining confidence in the US dollar’s dominance in global trade. The situation is compounded by the emergence of multipolar oil markets, as alternative suppliers and trading blocs seek to bypass US-controlled routes and sanctions.
   
-  **Military Developments and Strategic Calculations**  
-  On the military front, US officials continue to tout significant successes, including the reported destruction of a large portion of Iran’s naval forces and a reduction in Iranian attacks. However, independent analysts caution that these tactical victories may not translate into long-term strategic gains. The resilience of Iran’s economic and political structures, as previously noted by Hudson and others, suggests that the conflict is far from resolution.
-  
-  **Trends and Predictions**  
-  Looking ahead, the majority of analysts agree that the war’s economic and geopolitical consequences are likely to intensify. There is a high chance of continued oil market volatility and further erosion of US financial hegemony. Regional alliances are expected to harden, with new security arrangements and military postures emerging in response to the ongoing crisis. As Hudson concludes, “the geopolitical landscape has been altered permanently”—a trend that is most definitely set to continue in the coming months.
+  Looking ahead, the majority of analysts agree that the US’s current strategy is likely to deepen global economic instability. There is a high chance that inflationary pressures will persist in the short term, potentially giving way to deflation or even a broader financial crisis if the blockade endures. As **Hudson** concludes, “the ongoing war against Iran… is exacerbating existing unsustainable economic conditions and altering the geopolitical landscape permanently.” Most definitely, the world is entering a period of heightened systemic risk and multipolar realignment, with no quick resolution in sight.
 articles:
+  - title: The Blockade Bluff
+    url: https://michael-hudson.com/2026/04/the-blockade-bluff/
+    text: 'Radhika Desai and Michael Hudson, ‘The Blockade Stage of Trump’s absurdities,”
+      Geopolitical Hour , April 14, 2026. Radhika: Hello and welcome to the 59th Geopolitical
+      Economy Hour, the conversation that illuminates the fast-changing political economy
+      and geopolitical economy of our times. I’m Radhika Desai, and you are watching
+      Radhika Desai: Geopolitical Economist . The mounting absurdity of Trump’s war
+      on Iran has entered a new, even more rarefied phase with the announcement of a
+      blockade on the Persian Gulf and on the Gulf of Oman by the Trump administration.
+      As with all of Trump’s actions, particularly in recent weeks, the rationale is
+      hard to discern. It’s supposed to be a counter to what the administration sees
+      as Iran’s blockade or rather control over the Strait of Hormuz. But it is an open
+      question whether the United States has the means to impose this blockade and exactly
+      how it is going to ease the supply of oil is anyone’s guess. No wonder the goalposts
+      keep shifting. Initially announced as being a blockade on all traffic, it was
+      then restricted to Iranian ports. All to be enforced by U.S. military assets a
+      thousand miles away. No wonder there are reports emerging of ships, including
+      those linked to Iran, transiting the strait, making the blockade of the United
+      States the laughingstock of the world. No wonder oil prices are not exactly leaping
+      up and no wonder there are further reports emerging of another set of talks being
+      planned between the United States and Iran. This weekend Trump’s search for an
+      off-ramp in this unwinnable war continues. The absurdity of the war on Iran is
+      of course the latest in a series of absurdities that the Trump administration
+      has inflicted on the United States and on the world. They include shouting at
+      world leaders, tariffs portrayed as liberation, followed by a series of flip-flops,
+      particularly over China that earned Trump the acronym TACO: Trump Always Chickens
+      Out. There was also the 12-day war on Iran, and beginning earlier this year, the
+      stunt in Venezuela, the threats about Greenland, the lectures to Europe and whatnot.
+      While few other things are clear, one thing is Trump has lost control over the
+      wall, over his MAGA base, and most meaningfully over the prospects of his party
+      in the midterm elections in November. Israel is getting more and more unruly,
+      Iran won’t budge, U.S. allies are refusing his demands and requests, and in his
+      desperation, Trump has been reduced to having rows with of all people with the
+      Pope. This makes one recall Stalin’s question: “How many divisions does the Pope
+      have?”. With me to discuss all this about the present stage of Trump and Netanyahu’s
+      war on Iran, its economic impacts and many other things besides is, of course,
+      a favorite and regular of geopolitical economy, our professor Michael Hudson.
+      Michael, welcome. Michael: Well, it’s good to be back. Thanks, Radhika. Well,
+      the stock market’s up this morning, and obviously the trillions of dollars of
+      presumably savvy investors think that Trump’s blockage of this oil trade that
+      you’re talking about is going to be merely temporary and that soon it’s going
+      to force Iran to capitulate so that the world is not going to face an energy crisis
+      leading to an economic winter, which is where you and I have seen that it’s really
+      leading to this. The whole hope of the U.S. investors and their faith in when
+      Donald Trump says Iran is begging for a peace and to negotiate-it’s Trump who
+      was begging for the meeting in Pakistan with the leaders, pretending that there
+      was a negotiation. His idea of a negotiation is to say, “Here are our terms. This
+      is our final offer”. Those were, I think, Vice President Vance’s first sentences.
+      When you say, “This is our final offer,” that’s saying there’s nothing to negotiate.
+      Take it or leave it, are you going to surrender or not?. Well, obviously the meeting
+      in Pakistan wasn’t to negotiate any modus vivendi. It was simply to buy time for
+      the United States and for Israel to at least try to restock some of their missiles,
+      some of their armaments that have all been used up and to move this almost the
+      entire American naval armada into the Indian Ocean and the Persian Gulf area,
+      thinking that the very threat of these ships is going to frighten Iran into saying,
+      “Well, we don’t want anymore attacks. You’ve won, we surrender”. Well, that’s
+      obviously not what Iran is doing at all. It sees that the United States has put
+      these ships up as sitting ducks for its small boats, its submarines and the rest
+      of its navy, which Donald Trump has said America’s totally destroyed. So what’s
+      happening? Well, even though the stock market’s up, you’re seeing aluminum prices
+      are soaring today, helium prices already have soared. And the problem is that
+      helium’s used not only in etching computer chips but also in the MRI machinery
+      of hospitals to take pictures of patients and hospitals across the world, I think
+      especially in Indonesia, already have said that they’ve had to cut back all of
+      the medical testing that requires helium for it. And most of all, the stopping
+      of all really all Arab OPEC country’s oil trade is blocking plastic, blocking
+      oil, and oil is used to make fertilizer, it’s used to make chemicals, it’s used
+      to make plastics. And already countries are preparing for this to be a long-term
+      problem and they’re not doing anything about it legally or militarily. Blocking
+      ships, blockading a country is an act of war. But who are we really doing this
+      war against? It’s as much against the oil-importing countries as it is against
+      Iran because the oil importing countries and the exporting countries that are
+      dependent on OPEC oil are the collateral damage. And the U.S. ignoring of international
+      law reflects what Dick Cheney said during the second Iraq war: “We create our
+      own reality”. Well, the reality that Trump has created is that he makes the rules
+      and that the American rules-based order is replacing the United Nations international
+      law and the Law of Nations. So what’s happened today is that any attempt to block
+      an incoming ocean-going vessel by the United States as it leaves the Strait of
+      Hormuz can be regarded as a potential act of piracy legally, and it’s a war crime
+      and it would justify armed resistance. And apparently China has already moved
+      some of its ships into the region, so that as Iran sends its tankers of oil to
+      China, China is willing to shoot down any helicopters or ships that try to block.
+      And that’s the confrontation that’s coming up. Today Russia’s foreign secretary,
+      Lavrov, is in China meeting with President Xi to decide now what’s happening.
+      And President Putin has just yesterday announced that he had a very good meeting
+      with Indonesia to discuss what’s happening. And the reason this is relevant is
+      because Indonesia has just agreed to sell a mercenary army to Saudi Arabia to
+      defend it in case of attack by Iraq. And just to make my context for what’s happening
+      clear, Iraq has said if we’re going to be shut down and sanctioned and attacked
+      by the United States, we’re not going to go down alone. There’s only one defense
+      we have, and that’s to mobilize the whole rest of the world to say that this cessation
+      of the oil trade by the United States, this blocking of it, is your war too. Because
+      if our oil facilities are attacked and our government is attacked, and as Trump
+      says, our civilization itself is attacked, and he’s going to blow up every bridge
+      and every electrical facility in Iran, then we’re going to retaliate against the
+      Arab oil countries that have let the United States use their land as military
+      bases to attack us. And there won’t be any oil for many years. Already Iran has
+      destroyed Qatar’s helium production, which will cost over a billion dollars and
+      five years of construction to put in place. This is drastically cut off, I think
+      30% of the world’s helium trade, causing the crisis. Iran is willing to say, “If
+      we go down, you all go down”. So either you’re going to have new rules that are
+      going to make us all able to trade freely and prosper, or the whole world is going
+      to be forced into a depression that the United States is causing. Radhika: Well,
+      I think there’s so many things that you’ve said, Michael, that I want to respond
+      to. But first of all, let me say that this quote you were mentioning about we
+      making reality, it’s worth reviewing it. I just brought it up here. So this is
+      some unnamed Bush administration official was reported by Ron Suskind in the New
+      York Times Magazine . And so he’s writing a story and he says, the aide said that
+      guys like him, that is Ron Suskind, were in what we call a “reality-based community”.
+      This is a quote which he defined as people who believe that solutions emerge from
+      your judicial study of discernible reality. And then he goes on to say, that’s
+      not the way the world works anymore. He continued, “We are an empire now, and
+      when we act, we create our own reality. And while you are studying that reality
+      judiciously, as you will, we’ll act again and create new realities, which you
+      can then study too. And that’s how things will sort out. We are history’s actors;
+      you, all of you, will be left just to study what we do”. This is so hubristic
+      already, and this is back in the early 2000s. Whatever little credibility such
+      statements had in the early 2000s, the credibility of such statements is completely
+      in tatters now. The Trump administration, not only, like you said, well first
+      of all, the Trump administration was not able to defeat Iran after a 40-day war.
+      It was not able to achieve any of its objectives, whether it is regime change,
+      whether it is stopping Iran’s nuclear enrichment capabilities, whether it is destroying
+      Iran’s missile launching capabilities, and in the end, the Pakistanis had the
+      wit to give at least Trump the beginnings of an off-ramp. But of course, the Trump
+      administration was not able to take that because essentially if they had come
+      to any kind of deal-and of course remember that Iran went to these negotiations
+      with its own red lines saying even a long list of demands, which included things
+      like compensation, the departure of the United States from the region, control
+      over the Strait of Hormuz . A whole list of 10 demands that Iran was in. Iran
+      has no reason to budge. So the Trump administration didn’t really get its off-ramp
+      because any sort of agreement respecting these terms would have been seen for
+      what it is, a defeat for the Trump administration. So he hasn’t got his off-ramp.
+      So he continues this completely ridiculous behaviors and no wonder of course.
+      And this blockade-this blockade is complete bluster. What, as you say, China is
+      moving some military assets to the region because the United States is not at
+      the Strait of Hormuz , the United States military assets are about a thousand
+      miles away. What the idea is that if they detect certain vessels that are supposedly
+      have broken the blockade that the United States wishes to impose, then they could
+      be boarded, searched, et cetera, et cetera. But the moment they do that to a vessel
+      of any sizable country-the moment they do that to Chinese vessels, they’ve got
+      an even bigger war on their hands. And I doubt that they are going to have to-I
+      doubt the Trump administration can take that on. They may try, there will be then
+      further destruction and so on. So anyway, that’s one set of points I wanted to
+      make is that the distance between the hubristic rhetoric and the puny reality
+      of American military capacities is getting wider and wider now. You also said
+      that markets are leaping up and I guess there are two things to say about this.
+      Firstly, Trump has been enjoying his capacity to make markets go up and down.
+      So he says one thing and then the markets crash and then say, “Oh no, everything’s
+      fine. We’ve come up with a deal,” whatever the adversary is, and so markets go
+      up again. So like a bit like a kid who’s learned how to play some or the other
+      thing, he’s amazed at the effects that he can have. So that’s part of it. But
+      the other part of it is that Trump is now having to make more and more shocking
+      statements for markets to go down and then to come back up again so that the effectiveness
+      of the sensitivity of the market is diminishing. That’s another part of it. But,
+      and this is despite the fact, and this is my second point about markets, is that
+      actually, considering that there is so much cash sloshing around in the dollar-denominated
+      system, it has to go somewhere. So some or the other market is going to go up
+      if one market goes down. So to that extent, I think markets doing anything is
+      really not particularly surprising to me. I think that the most important effect
+      of all this will be something I’ve been predicting since the beginning of this
+      Trump administration and the beginning of his tariffs and all that. And I said
+      basically the United States is acting as if its centrality to the world economy
+      is the same as what it was say in 1950. It isn’t. The United States total share
+      of imports is now at about 15% of total world imports. So, it’s not small, but
+      it’s not enormous either. So the rest of the world is increasingly going to learn
+      to live without any contact with the United States, and this is already happening
+      with NATO. Keir Starmer was one of the first European leaders to say, “We are
+      not joining your war on Iran”. So for this historically American poodle or lapdog
+      of the United States, namely Britain, to come out and say this is really saying
+      something about the state of NATO, isn’t it?. Michael: Well, you’ve made a lot
+      of different points. You focus, you mentioned the difference between rhetoric
+      and reality, and that’s really what it’s all about. The conflict between the United
+      States and Iran is not about nuclear enrichment or the fantasy that Iran is developing
+      an atom bomb. But Trump is just too embarrassed to say it’s really about we want
+      to control Iran’s oil. That’s what we’re after. Just as Trump said, “Why don’t
+      we grab Iraq’s oil?”. He wants to grab Iran’s oil. He’s said it explicitly. That’s
+      what it’s all about. He needs a polite scare and Netanyahu was providing him with
+      the public relations rhetoric to say, well, just as Netanyahu’s model, Germany’s
+      Goebbels, said the way to get a population on your side is to say that you’re
+      under a threat. So Trump is saying it’s really Iran that’s attacking America.
+      That’s why we have to destroy every bridge and civilization. That’s why we have
+      to kill its leadership. We’re under attack because our national security is not
+      secure unless we can control the whole world’s trade and finance and deny other
+      countries their own security. That’s the inherent definition of American security
+      is no other country will have security. So the U.S. attempt to control the oil
+      trade is Trump says we’re actually going to come out ahead. He said it may be
+      that we’re not going to be able to conquer Iran, but we’ll blockade it. What we
+      can do is slowly put sanctions on Iran, just like we tried to impose sanctions
+      on Russia, hoping that there would be a regime change and an economic collapse
+      there. So what he’s done is saying, “Well, we’ve gamed it all out”. He said this
+      two days ago, “We don’t need foreign oil”. Yes, there’s going to be an oil crisis
+      and that oil consumer countries all the way from Western Europe to Japan and Korea
+      are the most oil-dependent countries. And he said, “But we’re going to come out
+      ahead because the United States is actually going to be the world’s supplier of
+      liquefied natural gas of last resort”. United States will be a gas and oil exporter,
+      and it will end up with the control of the world’s oil trade that is the center
+      of American foreign policy is one of the most vital choke points in the international
+      economy that America controls, and that’s all America has to do to defend its
+      loss of control that it had in the world it created after 1945. It can cause chaos
+      for other countries. And Trump’s response to everything is, “Well, if we can cause
+      chaos, America’s self-reliant, just as Russia is by the way in energy and other
+      materials, we can come out ahead of other countries”. So it’s going to be your
+      loss. So you other countries, you better back us in supporting our fight against
+      Iran so that we can end up supplying you with oil under our control on our terms,
+      our prices, and our determination of who gets the oil and what they’re going to
+      do with the earnings from all of this oil. Well, that’s basically a declaration
+      of war on the rest of the world. And Iran is calling his bluff. If you want to,
+      if you’re the threat of isolating us, and as I said Iran will then wipe bomb all
+      the oil export facilities from Saudi Arabia to the Arab Emirates, well then the
+      whole world will go without oil. But what is the rest of the world doing? It’s
+      not doing anything and what it needs-the only defense other countries have against
+      this economic and financial winter caused by a breakdown of oil that will lead
+      to a close-down of many major industries. How will Japan and Korea be able to
+      get the energy to make their computer exports and their automobile exports to
+      pay the $550 billion that Japan has offered to pay the United States in order
+      to keep access to the American market for its exports when it can’t even produce
+      the export?. Same thing with Korea’s $350 billion. What are they going to do?
+      Even the Financial Times has been writing articles on how can Korea accept this
+      abject dependency on the United States when the whole threat is that no matter
+      what, even if it cannot produce the exports to raise this 350 billion, it’s going
+      to just have to give its foreign exchange reserves to the United States as if
+      it’s still an occupied country at war with the United States from the Korean War
+      that began. Just as Japan is, it’s as if it’s still at war with the United States
+      under World War II as an occupied territory. They both have military bases there,
+      and it’s really going to be up to Iran to decide who gets the oil that is going
+      to be passing through the Strait of Hormuz. That’s been its Trump card to put
+      it for 50 years. Trump is desperate and he is floundering. And he and his secretary
+      of War, Hegseth, have fired apparently all of the generals that warned him that
+      any fight with Iran is going to be a loss for the United States. That’s really
+      the problem. Trump thought that he could treat Iran like Venezuela. He thought
+      he could knock out the regime’s leaders and somehow replace them with leaders
+      more compliant to U.S. demands, and that’s not the case. He also thought that
+      somehow his NATO allies would support him in the Strait of Hormuz. He asked Europe-he
+      apparently he did talk to the generals and they convinced him that if you try
+      to invade the Strait of Hormuz, you’re going to be wiped out by Iran’s defenses.
+      They’re well sought in. They’re just going to kill any kind of attempt at an invasion.
+      So Trump said, “Okay, we don’t want Americans to die”. He asked Europe to send
+      troops and Spain, Italy, and even Britain refused to send troops. And Trump said,
+      “Well, this is breaking up NATO. You weren’t there when we needed you. We want
+      you to die to the last European, just like you want Ukrainians to die to the last
+      Ukrainian to fight Russia. We want you to do the same fighting Iran”. Well, they
+      refuse to. So, the result is that he’s dead set on leading to the breakdown of
+      oil trade that we’ve talked about and it is-this oil-this is not only an industrial
+      crisis of closing down industries that are dependent on oil. It’s going to be
+      a financial crisis because if companies have to close down their operations because
+      they can’t get enough oil to make the chemicals or to power their factories or
+      governments don’t have enough money to subsidize their homeowners to light and
+      heat their homes, then there’s going to be debt defaults. And these debt defaults,
+      as you and I were speaking about a year ago, are going to spread, including to
+      the United States. That’s what Trump doesn’t see when he says that America’s going
+      to come out on top. The United States is the most highly debt-leveraged economy
+      in the entire world, and just as in 1929, the result of the world financial breakdown
+      of inter-allied debt and German reparations was felt most seriously in the United
+      States leading to the Great Depression here, this is going to happen again. And
+      one element of financial breakdown that we’ve discussed before is how is the global
+      South going to pay for the higher energy prices that it needs as a condition of
+      having its economies function and pay its dollar debts?. It can’t. It will have
+      to politically say, “We cannot pay the dollar debts because the United States
+      in whose currency our debts are denominated has broken up the oil trade and prevented
+      us from doing this”. You’ll see a moratorium there and this kind of moratorium-there’s
+      no such moratorium for private sector debts among countries. And this is going
+      to be where the whole over-leveraged U.S. economy is threatened by the oil crisis
+      as it becomes worldwide and long term. Radhika: So Michael, you raised some really
+      interesting points about financial issues. And we’ve already discussed earlier
+      that there’s all this money sloshing around in U.S. asset markets, all of which
+      are in bubble territory. And so they-all this money-would like to leave it, but
+      there’s nowhere to go. And of course, rising inflation is creating, as we’ve been
+      arguing for a long time going back to the beginnings of our show in 2023, that
+      increasingly the Federal Reserve finds itself in a bind if it reacts to the inflation
+      by raising interest rates. It incurs the danger of pricking all this everything
+      bubble. And if it doesn’t react, of course inflation is bound to eat away at the
+      dollar’s value, making it less attractive. So these processes, in addition to
+      the debt issues that you are talking about, all of these things are threatening
+      the value of the dollar and the role of the dollar. Earlier you were talking about
+      what the consequences of a decline in the supply of oil and generally the gumming
+      up of the Strait of Hormuz are. Well, one thing is clearly that more and more
+      Iran basically has said that it will let those vessels pass which will pay it
+      in Yuan, in Renminbi, in Chinese currency. So that, again, this is going to create
+      a pressure towards moving away from the dollar as well. And this is an interesting
+      thing, by the way, speaking of China. I want to talk about that as well. What
+      Trump is doing-the war on Iran-is already having serious economic effects. But
+      one relatively good thing it’s going to do is it’s going to make all the countries
+      of the world think seriously about moving to non-fossil fuel based energy. And
+      this is where China is going to be the big winner because China’s market-China
+      has already crashed the prices of solar panels and wind turbines and what have
+      you. So China will be-and apparently China has sent a shipload of solar panels
+      to Cuba, which is great. This is exactly what Cuba needs. So I think it should,
+      if it accelerates the transition away from fossil fuels, that will be a good thing-not
+      Trump. What Trump wanted to do-Trump is all for “drill, baby, drill” and expanding
+      fracking and shale oil and drilling in Alaska and what have you-but he will not
+      get what he wants because in the end, as the world turns away from oil, it’ll
+      become systemically less and less important. One final point before handing it
+      over to you: this is going to lead to a lot of scarring in the world economy.
+      As you say, these increases in the prices of all sorts of inputs, not just oil,
+      but things like helium that’s important for high-tech products, things like sulfuric
+      acid that’s important for fertilizers. And all of these things-this is going to
+      put a lot of businesses and farms out of business. And it’s very easy to destroy
+      a business; it is not so easy to pick it up again. So that even if oil prices
+      fall in six months’ time, these businesses that have been forced out of business,
+      these farmers who have been forced out of farming, will not find it easy to get
+      back into it. Which means that there will be a permanent reduction in some sources
+      of whatever it is these businesses are producing and food and whatever farmers
+      produce. So this scarring-the whole world will blame Trump and the United States.
+      And one final point here: it’s finally beginning to sink in that the United States
+      simply cannot be relied on. It doesn’t matter who is the president. Martin Wolf
+      said in the Financial Times a week or two ago-these are almost his words-he said
+      if a country that can elect a man like Trump twice is not to be trusted. So there
+      you go. So it is just going to lead to the displacement of the United States from
+      its position of relative centrality to a position of marginality in the world
+      economy. Michael: Well, I wish we could take one point at a time back and forth.
+      All I can do is deal with one point. And you began by talking about the interest
+      rates and the inflation that is being caused by the rising oil prices. And I want
+      to say something about that. It’s basically junk economics because raising interest
+      rates is not going to lower the international price of oil. It’s not connected
+      at all. And in fact, the problem for the U.S. and for foreign economies is not
+      inflation-it’s deflation of incomes. Because if households have to pay more of
+      their income for electricity and gas to light and heat their homes, they’ll have
+      less money to spend on other goods and services that presumably they’re employed
+      to produce. Demand will go down. There’s a displacement effect, and this is the
+      same effect that higher interest rates cause in raising the debt service that
+      homeowners have to pay and taking out a mortgage at higher interest rates. And
+      the long-term interest rates are soaring. That has pretty much stopped trade in
+      real estate here in the United States. So the financial managers of the United
+      States have no understanding of money banking and the difference between money
+      and credit and what causes inflation. All they know is if wages go up, then we
+      have to raise prices to cause unemployment so that wages won’t go up and workers
+      are going to have to compete more to get jobs. It’s a knee-jerk. And if prices
+      go up, that means that somehow investors won’t have enough control of the debt
+      service they receive to buy goods and services. Well, that’s fantasy too-that’s
+      junk economics. Investors don’t buy goods and services. Well, it is true that
+      the top 10% of the population in America accounts for half of all of the increased
+      consumer spending in the United States. But basically, investors use all of their
+      income to buy more investments, to make more loans, to buy more stocks and bonds.
+      And because the whole economy’s been turned into a Ponzi scheme, that’s the only
+      way to avoid debt defaults and to keep the whole fantasy of financial valuations
+      and prices awake. You did get onto another point-I wish we could just discuss
+      one at a time-but agricultural yields are going to be falling as a result of the
+      lack of fertilizer. Fertilizer doesn’t use sulfuric acid; sulfuric acid is used
+      in mining primarily to leach the basic ores away from what they’re doing. That’s
+      going to be stopping, so causing all sorts of other raw materials prices to go
+      up for purely technological productivity terms. And it’ll cause food prices to
+      go up as the lack of fertilizer reduces agricultural farm yields. So all of this
+      is not a monetary phenomenon, but it has monetary consequences which are not understood
+      by the U.S. and European and other central bankers who were trained in neoliberal
+      economics. Radhika: No, it’s just a small point-I think sulfuric acid is apparently
+      used in fertilizers. It’s basically used in the production of phosphate-based
+      fertilizers. So there you go. I’m not a scientist, but I’m just quoting from something
+      I was reading. But no, coming back to the very serious set of points you raised
+      about interest rates and so on, you’re totally right. The Federal Reserve has
+      historically had only one means to deal with inflation, and that is to raise interest
+      rates to tighten monetary policy in a variety of ways. And that was described
+      by the economist Robert Solow as burning your house in order to roast a pig. That
+      is to say, because raising interest rates-what it does is it doesn’t actually
+      deal with inflation. It causes such a huge recession that eventually the inevitable
+      decline in demand that it will result in will eventually cause inflation to drop.
+      So it’s a bit like killing a patient or making him very ill in order to resolve
+      his or her illness. And of course, this understanding is based on Milton Friedman’s
+      claim that inflation is always and everywhere a monetary phenomenon. But as you
+      rightly point out, inflation is precisely not a monetary phenomenon. It arises
+      out of the real conditions in which production is taking place, whether there
+      are particular bottlenecks as the Strait of Hormuz is right now-the bottleneck
+      or the choke point of the world. And I think that this tends to lead to rises
+      in inflation. And the best way-I have a very simple way of putting it to my students-I
+      say if inflation is too much money chasing too few goods, there are two ways of
+      resolving this. One is reduce the amount of money, but that tends to have the
+      bad effects that we were just talking about, which is causing recessions. So the
+      alternative is to expand supply. If there are too few goods, why are there too
+      few goods? Produce more goods. And expanding supply actually does not involve
+      restricting money supply, but rather in fact expanding it in order that production
+      can increase. You just have to be a bit intelligent about it. But what it then
+      amounts to is that in order to really deal with inflation, you need a planned
+      economy, which is rather close to socialism, which is why capitalist societies
+      typically resist it. One final point: one of the reasons why capitalist societies
+      like dealing with inflation by raising interest rates and causing recessions is
+      that, of course, it weakens the power of labor, which is what they always want.
+      So that’s another reason why they favor it. Michael: Well, you made the point
+      that John Law made in the early 1700s about that more money will put more unemployed
+      labor and industry in motion. He was right and Milton Friedman was wrong. But
+      David Ricardo came up with his bullionist theory that for over 250 years has guided
+      the International Monetary Fund and banks throughout the world. If a country’s
+      running a payments deficit and can’t pay its debts, just pay labor less and squeeze
+      the economy and keep lowering labor until it gets so cheap that you can export
+      enough. This is junk economics with a vicious political orientation, as you and
+      I have spoken about over the years. So the implication of what you’re saying,
+      Radhika, is that not only does the United States not care about creating a financial
+      and economic winter for the rest of the world, it doesn’t have a clue as to how
+      to trace what the effects of its actions are because it has the junk economics
+      that it’s developed. Just really as public relations patter talk to convince the
+      populations that Margaret Thatcher and Ronald Reagan were right in privatizing
+      the economy and just leaving central planning to the commercial banks and the
+      private sector to decide financially who’s going to get the credit and what it’s
+      going to be used for, and just don’t let governments enter the picture at all.
+      So the whole idea is that this is a war against governments, and what can other
+      countries do to stop this almost nuclear economic winter that’s facing them? There
+      has to be government leadership acting together in concert with each other. There
+      has to be a critical mass of countries, and it looks like these countries are
+      going to be China, Russia, and now Iran. And Iran has become a world power, not
+      by being a big investor economy, not by being a financial power or an industrial
+      power, but it’s been the ideological power to explain the political dynamics that
+      are shaping the whole economic environment that is going to determine the next
+      five years that this financial winter is probably going to take. Radhika: No,
+      this is absolutely right, and I think we let’s briefly survey the economic consequences
+      of this war before closing because we should close soon. But this topic of inflation-we
+      should probably come back to it in a future discussion. It’s a really important
+      one, and there are some fundamental things that we could uncover. But for now,
+      I guess what I want to say mainly about the economic consequences of this war
+      is that you started by saying that not only is the Trump administration willing
+      to impose huge economic costs and an economic winter-as you were saying, economic
+      nuclear winter-on the rest of the world. But I would complete that sentence slightly
+      differently from the way you did. Not only is he willing to do that to the rest
+      of the world, he’s willing to do that to ordinary American people on whose votes
+      he got elected, whom he promised that he was going to make America great again.
+      Well, he may be making America great again for a tiny sliver of the topmost sections
+      of the American population-the really 0.1% who is benefiting from all that he’s
+      doing. The overwhelming majority of ordinary Americans are not benefiting from
+      it, and that is why his numbers are low. And as for the rest of the world, I think
+      that the rest of the world is going to find it exceedingly difficult to forgive
+      Trump and forgive the United States for the harm that has been inflicted on the
+      rest of the world, and that consists of some very powerful people. And I think
+      that I would not be surprised if you saw two different things happening as well,
+      which are not so much economic consequences as kind of political economy consequences
+      or geopolitical economy consequences. Number one: no matter what Tsai Ing-wen
+      may say about the belligerent noises she’s been making recently, the reality is
+      that Japan’s economy is deeply intertwined with that of China. And I think that
+      voices will emerge there too to say that, especially given the way in which the
+      United States is behaving, especially given that Japan can decreasingly rely on
+      any kind of defense umbrella of the United States, that the best policy for Japan
+      is to make friends with China rather than make enemies. And also such voices are
+      also beginning to emerge in Europe vis-a-vis Russia. So I think that we are going
+      to see some very new patterns emerging, and so the historic alignments that have
+      governed for the last so many decades are going to shift very rapidly now. Michael:
+      Well, the question is what are other countries going to do about this coming financial
+      winter? For Japan, it’s announced that if there’s any fighting or invasion between
+      China and Taiwan, it’s going to back Taiwan. It says, “We want atomic weapons.
+      We didn’t learn-we were bombed in World War II. We want to use atomic weapons
+      against China. Please, America, use our bases to mount atomic weapons so you can
+      try to attack China and force Taiwan’s independence”. This is suicidal, and the
+      moment that there is any attempt by Japan to industrialize, there will be no more
+      Japan-that seems obvious. The Japanese are willingly committing economic suicide
+      under their rotten Liberal Democratic Party that represents the Yakuza-the gangsters
+      that General MacArthur put in power in 1945 to make armed fighting against the
+      Japanese socialists that were trying to avoid all of this. So Japan now is suffering
+      from the American support of Japanese fascism and the criminal networks after
+      World War II that have controlled Japan ever since. So it’s hard to have sympathy
+      with them. And I can’t even explain Korea’s knuckling under. What Iran says: “We
+      will not permit the exportation of oil through the Strait of Hormuz to countries
+      that permit America’s military bases on their lands to attack us”. Well, the big
+      military bases, after Israel, are Japan and Korea. This looks to me like they
+      are going to be-it’s the economic equivalent of fighting to the last Japanese
+      or Korean. Because the United States has asked Korea, “Please move your shipping
+      industry, one of your most successful industries, to the United States because
+      we can’t make ships anymore”. They’ve asked Japan to move its industries to the
+      United States, and Japan has said, “All right, we no longer are trying to employ
+      Japanese people”. Just as Korea’s not trying to employ its people-they’re using
+      the wealth accumulated by exports to shift their industry to the United States.
+      This is abject economic surrender. This is what the United States would like to
+      do to all of the oil-importing countries-that’s the future of the world as the
+      United States sees it. Iran’s point is, well, you countries had better avoid this
+      future for yourself by stopping America from attacking us and trying to pry control
+      of the Strait of Hormuz out of our hands so that it can determine what Arab OPEC
+      countries can exploit oil and to whom at what price. This is what the future’s
+      going to be all about. Radhika: Exactly, and I think you put the tension very
+      well because essentially what we are going to look at is the discrediting of a
+      generation of elites that have ruled Western Europe, Japan, South Korea, et cetera,
+      for generations on the assumption that the United States can be relied on. And
+      as it becomes more and more manifest that this is not true, there will inevitably
+      be pressure to change the direction of policy in a new direction. And I think
+      that this is what we are going to-the birth of these new forces, these new policies
+      will likely be quite difficult, but it will have to happen. The situation is pregnant
+      with these possibilities. So we will have to see how that pans out. But Michael,
+      thank you so much. I hope that you’ll be back again soon because with Trump doing
+      what he’s doing, there’s always more stuff to discuss. Do you have any last things
+      you want to add? Michael: I want to emphasize your last point that you made in
+      the last sentence. The important thing is that America no longer has the role
+      of protecting the rest of the world militarily or its trade. It is now a threat
+      to the world’s military safety and the world’s prosperity that it claimed to justify
+      the whole Cold War to begin with. Radhika: Fantastic. I couldn’t agree with you
+      more. I think this was to some extent always true, but it is manifestly true today.
+      That’s great. Thanks so much, Michael. Thanks to the audience for listening to
+      this. Please like, please subscribe. Please support Radhika Desai Geopolitical
+      Economist channel in whatever way you can. And see you again soon. Bye-bye. Photo
+      by Dan Meyers on Unsplash The post The Blockade Bluff first appeared on Michael
+      Hudson . The post The Blockade Bluff first appeared on Michael Hudson .'
+    one_sentence_summary: Radhika Desai and Michael Hudson discuss the perplexing escalation
+      of Trump's foreign policy, particularly the newly announced blockade on the Persian
+      Gulf and Gulf of Oman, which raises questions about its feasibility and rationale
+      amidst ongoing tensions with Iran.
+    paragraph_summary: In the latest episode of the Geopolitical Economy Hour, Radhika
+      Desai and Michael Hudson discuss the escalating absurdities of Trump's foreign
+      policy, particularly focusing on the recent announcement of a blockade on the
+      Persian Gulf and Gulf of Oman aimed at countering Iran's influence. The rationale
+      behind this blockade is unclear, as it appears to be a response to Iran's control
+      over the Strait of Hormuz, yet the feasibility and enforcement of such a blockade
+      by U.S. military assets positioned far away raises doubts. Reports indicate that
+      ships, including those linked to Iran, continue to transit the strait, undermining
+      the blockade's credibility and reflecting poorly on the U.S. strategy. The situation
+      is further complicated by shifting objectives and the potential for renewed talks
+      between the U.S. and Iran, highlighting the ongoing challenges and contradictions
+      of Trump's approach to international relations, which has been characterized by
+      erratic decisions and a lack of coherent strategy.
+    published: '2026-04-17T21:06:02+00:00'
+  - title: The Blockade Bluff
+    url: https://michael-hudson.com/2026/04/the-blockade-bluff/
+    text: 'Radhika Desai and Michael Hudson, ‘The Blockade Stage of Trump’s absurdities,”
+      Geopolitical Hour , April 14, 2026. Radhika: Hello and welcome to the 59th Geopolitical
+      Economy Hour, the conversation that illuminates the fast-changing political economy
+      and geopolitical economy of our times. I’m Radhika Desai, and you are watching
+      Radhika Desai: Geopolitical Economist . The mounting absurdity of Trump’s war
+      on Iran has entered a new, even more rarefied phase with the announcement of a
+      blockade on the Persian Gulf and on the Gulf of Oman by the Trump administration.
+      As with all of Trump’s actions, particularly in recent weeks, the rationale is
+      hard to discern. It’s supposed to be a counter to what the administration sees
+      as Iran’s blockade or rather control over the Strait of Hormuz. But it is an open
+      question whether the United States has the means to impose this blockade and exactly
+      how it is going to ease the supply of oil is anyone’s guess. No wonder the goalposts
+      keep shifting. Initially announced as being a blockade on all traffic, it was
+      then restricted to Iranian ports. All to be enforced by U.S. military assets a
+      thousand miles away. No wonder there are reports emerging of ships, including
+      those linked to Iran, transiting the strait, making the blockade of the United
+      States the laughingstock of the world. No wonder oil prices are not exactly leaping
+      up and no wonder there are further reports emerging of another set of talks being
+      planned between the United States and Iran. This weekend Trump’s search for an
+      off-ramp in this unwinnable war continues. The absurdity of the war on Iran is
+      of course the latest in a series of absurdities that the Trump administration
+      has inflicted on the United States and on the world. They include shouting at
+      world leaders, tariffs portrayed as liberation, followed by a series of flip-flops,
+      particularly over China that earned Trump the acronym TACO: Trump Always Chickens
+      Out. There was also the 12-day war on Iran, and beginning earlier this year, the
+      stunt in Venezuela, the threats about Greenland, the lectures to Europe and whatnot.
+      While few other things are clear, one thing is Trump has lost control over the
+      wall, over his MAGA base, and most meaningfully over the prospects of his party
+      in the midterm elections in November. Israel is getting more and more unruly,
+      Iran won’t budge, U.S. allies are refusing his demands and requests, and in his
+      desperation, Trump has been reduced to having rows with of all people with the
+      Pope. This makes one recall Stalin’s question: “How many divisions does the Pope
+      have?”. With me to discuss all this about the present stage of Trump and Netanyahu’s
+      war on Iran, its economic impacts and many other things besides is, of course,
+      a favorite and regular of geopolitical economy, our professor Michael Hudson.
+      Michael, welcome. Michael: Well, it’s good to be back. Thanks, Radhika. Well,
+      the stock market’s up this morning, and obviously the trillions of dollars of
+      presumably savvy investors think that Trump’s blockage of this oil trade that
+      you’re talking about is going to be merely temporary and that soon it’s going
+      to force Iran to capitulate so that the world is not going to face an energy crisis
+      leading to an economic winter, which is where you and I have seen that it’s really
+      leading to this. The whole hope of the U.S. investors and their faith in when
+      Donald Trump says Iran is begging for a peace and to negotiate-it’s Trump who
+      was begging for the meeting in Pakistan with the leaders, pretending that there
+      was a negotiation. His idea of a negotiation is to say, “Here are our terms. This
+      is our final offer”. Those were, I think, Vice President Vance’s first sentences.
+      When you say, “This is our final offer,” that’s saying there’s nothing to negotiate.
+      Take it or leave it, are you going to surrender or not?. Well, obviously the meeting
+      in Pakistan wasn’t to negotiate any modus vivendi. It was simply to buy time for
+      the United States and for Israel to at least try to restock some of their missiles,
+      some of their armaments that have all been used up and to move this almost the
+      entire American naval armada into the Indian Ocean and the Persian Gulf area,
+      thinking that the very threat of these ships is going to frighten Iran into saying,
+      “Well, we don’t want anymore attacks. You’ve won, we surrender”. Well, that’s
+      obviously not what Iran is doing at all. It sees that the United States has put
+      these ships up as sitting ducks for its small boats, its submarines and the rest
+      of its navy, which Donald Trump has said America’s totally destroyed. So what’s
+      happening? Well, even though the stock market’s up, you’re seeing aluminum prices
+      are soaring today, helium prices already have soared. And the problem is that
+      helium’s used not only in etching computer chips but also in the MRI machinery
+      of hospitals to take pictures of patients and hospitals across the world, I think
+      especially in Indonesia, already have said that they’ve had to cut back all of
+      the medical testing that requires helium for it. And most of all, the stopping
+      of all really all Arab OPEC country’s oil trade is blocking plastic, blocking
+      oil, and oil is used to make fertilizer, it’s used to make chemicals, it’s used
+      to make plastics. And already countries are preparing for this to be a long-term
+      problem and they’re not doing anything about it legally or militarily. Blocking
+      ships, blockading a country is an act of war. But who are we really doing this
+      war against? It’s as much against the oil-importing countries as it is against
+      Iran because the oil importing countries and the exporting countries that are
+      dependent on OPEC oil are the collateral damage. And the U.S. ignoring of international
+      law reflects what Dick Cheney said during the second Iraq war: “We create our
+      own reality”. Well, the reality that Trump has created is that he makes the rules
+      and that the American rules-based order is replacing the United Nations international
+      law and the Law of Nations. So what’s happened today is that any attempt to block
+      an incoming ocean-going vessel by the United States as it leaves the Strait of
+      Hormuz can be regarded as a potential act of piracy legally, and it’s a war crime
+      and it would justify armed resistance. And apparently China has already moved
+      some of its ships into the region, so that as Iran sends its tankers of oil to
+      China, China is willing to shoot down any helicopters or ships that try to block.
+      And that’s the confrontation that’s coming up. Today Russia’s foreign secretary,
+      Lavrov, is in China meeting with President Xi to decide now what’s happening.
+      And President Putin has just yesterday announced that he had a very good meeting
+      with Indonesia to discuss what’s happening. And the reason this is relevant is
+      because Indonesia has just agreed to sell a mercenary army to Saudi Arabia to
+      defend it in case of attack by Iraq. And just to make my context for what’s happening
+      clear, Iraq has said if we’re going to be shut down and sanctioned and attacked
+      by the United States, we’re not going to go down alone. There’s only one defense
+      we have, and that’s to mobilize the whole rest of the world to say that this cessation
+      of the oil trade by the United States, this blocking of it, is your war too. Because
+      if our oil facilities are attacked and our government is attacked, and as Trump
+      says, our civilization itself is attacked, and he’s going to blow up every bridge
+      and every electrical facility in Iran, then we’re going to retaliate against the
+      Arab oil countries that have let the United States use their land as military
+      bases to attack us. And there won’t be any oil for many years. Already Iran has
+      destroyed Qatar’s helium production, which will cost over a billion dollars and
+      five years of construction to put in place. This is drastically cut off, I think
+      30% of the world’s helium trade, causing the crisis. Iran is willing to say, “If
+      we go down, you all go down”. So either you’re going to have new rules that are
+      going to make us all able to trade freely and prosper, or the whole world is going
+      to be forced into a depression that the United States is causing. Radhika: Well,
+      I think there’s so many things that you’ve said, Michael, that I want to respond
+      to. But first of all, let me say that this quote you were mentioning about we
+      making reality, it’s worth reviewing it. I just brought it up here. So this is
+      some unnamed Bush administration official was reported by Ron Suskind in the New
+      York Times Magazine . And so he’s writing a story and he says, the aide said that
+      guys like him, that is Ron Suskind, were in what we call a “reality-based community”.
+      This is a quote which he defined as people who believe that solutions emerge from
+      your judicial study of discernible reality. And then he goes on to say, that’s
+      not the way the world works anymore. He continued, “We are an empire now, and
+      when we act, we create our own reality. And while you are studying that reality
+      judiciously, as you will, we’ll act again and create new realities, which you
+      can then study too. And that’s how things will sort out. We are history’s actors;
+      you, all of you, will be left just to study what we do”. This is so hubristic
+      already, and this is back in the early 2000s. Whatever little credibility such
+      statements had in the early 2000s, the credibility of such statements is completely
+      in tatters now. The Trump administration, not only, like you said, well first
+      of all, the Trump administration was not able to defeat Iran after a 40-day war.
+      It was not able to achieve any of its objectives, whether it is regime change,
+      whether it is stopping Iran’s nuclear enrichment capabilities, whether it is destroying
+      Iran’s missile launching capabilities, and in the end, the Pakistanis had the
+      wit to give at least Trump the beginnings of an off-ramp. But of course, the Trump
+      administration was not able to take that because essentially if they had come
+      to any kind of deal-and of course remember that Iran went to these negotiations
+      with its own red lines saying even a long list of demands, which included things
+      like compensation, the departure of the United States from the region, control
+      over the Strait of Hormuz . A whole list of 10 demands that Iran was in. Iran
+      has no reason to budge. So the Trump administration didn’t really get its off-ramp
+      because any sort of agreement respecting these terms would have been seen for
+      what it is, a defeat for the Trump administration. So he hasn’t got his off-ramp.
+      So he continues this completely ridiculous behaviors and no wonder of course.
+      And this blockade-this blockade is complete bluster. What, as you say, China is
+      moving some military assets to the region because the United States is not at
+      the Strait of Hormuz , the United States military assets are about a thousand
+      miles away. What the idea is that if they detect certain vessels that are supposedly
+      have broken the blockade that the United States wishes to impose, then they could
+      be boarded, searched, et cetera, et cetera. But the moment they do that to a vessel
+      of any sizable country-the moment they do that to Chinese vessels, they’ve got
+      an even bigger war on their hands. And I doubt that they are going to have to-I
+      doubt the Trump administration can take that on. They may try, there will be then
+      further destruction and so on. So anyway, that’s one set of points I wanted to
+      make is that the distance between the hubristic rhetoric and the puny reality
+      of American military capacities is getting wider and wider now. You also said
+      that markets are leaping up and I guess there are two things to say about this.
+      Firstly, Trump has been enjoying his capacity to make markets go up and down.
+      So he says one thing and then the markets crash and then say, “Oh no, everything’s
+      fine. We’ve come up with a deal,” whatever the adversary is, and so markets go
+      up again. So like a bit like a kid who’s learned how to play some or the other
+      thing, he’s amazed at the effects that he can have. So that’s part of it. But
+      the other part of it is that Trump is now having to make more and more shocking
+      statements for markets to go down and then to come back up again so that the effectiveness
+      of the sensitivity of the market is diminishing. That’s another part of it. But,
+      and this is despite the fact, and this is my second point about markets, is that
+      actually, considering that there is so much cash sloshing around in the dollar-denominated
+      system, it has to go somewhere. So some or the other market is going to go up
+      if one market goes down. So to that extent, I think markets doing anything is
+      really not particularly surprising to me. I think that the most important effect
+      of all this will be something I’ve been predicting since the beginning of this
+      Trump administration and the beginning of his tariffs and all that. And I said
+      basically the United States is acting as if its centrality to the world economy
+      is the same as what it was say in 1950. It isn’t. The United States total share
+      of imports is now at about 15% of total world imports. So, it’s not small, but
+      it’s not enormous either. So the rest of the world is increasingly going to learn
+      to live without any contact with the United States, and this is already happening
+      with NATO. Keir Starmer was one of the first European leaders to say, “We are
+      not joining your war on Iran”. So for this historically American poodle or lapdog
+      of the United States, namely Britain, to come out and say this is really saying
+      something about the state of NATO, isn’t it?. Michael: Well, you’ve made a lot
+      of different points. You focus, you mentioned the difference between rhetoric
+      and reality, and that’s really what it’s all about. The conflict between the United
+      States and Iran is not about nuclear enrichment or the fantasy that Iran is developing
+      an atom bomb. But Trump is just too embarrassed to say it’s really about we want
+      to control Iran’s oil. That’s what we’re after. Just as Trump said, “Why don’t
+      we grab Iraq’s oil?”. He wants to grab Iran’s oil. He’s said it explicitly. That’s
+      what it’s all about. He needs a polite scare and Netanyahu was providing him with
+      the public relations rhetoric to say, well, just as Netanyahu’s model, Germany’s
+      Goebbels, said the way to get a population on your side is to say that you’re
+      under a threat. So Trump is saying it’s really Iran that’s attacking America.
+      That’s why we have to destroy every bridge and civilization. That’s why we have
+      to kill its leadership. We’re under attack because our national security is not
+      secure unless we can control the whole world’s trade and finance and deny other
+      countries their own security. That’s the inherent definition of American security
+      is no other country will have security. So the U.S. attempt to control the oil
+      trade is Trump says we’re actually going to come out ahead. He said it may be
+      that we’re not going to be able to conquer Iran, but we’ll blockade it. What we
+      can do is slowly put sanctions on Iran, just like we tried to impose sanctions
+      on Russia, hoping that there would be a regime change and an economic collapse
+      there. So what he’s done is saying, “Well, we’ve gamed it all out”. He said this
+      two days ago, “We don’t need foreign oil”. Yes, there’s going to be an oil crisis
+      and that oil consumer countries all the way from Western Europe to Japan and Korea
+      are the most oil-dependent countries. And he said, “But we’re going to come out
+      ahead because the United States is actually going to be the world’s supplier of
+      liquefied natural gas of last resort”. United States will be a gas and oil exporter,
+      and it will end up with the control of the world’s oil trade that is the center
+      of American foreign policy is one of the most vital choke points in the international
+      economy that America controls, and that’s all America has to do to defend its
+      loss of control that it had in the world it created after 1945. It can cause chaos
+      for other countries. And Trump’s response to everything is, “Well, if we can cause
+      chaos, America’s self-reliant, just as Russia is by the way in energy and other
+      materials, we can come out ahead of other countries”. So it’s going to be your
+      loss. So you other countries, you better back us in supporting our fight against
+      Iran so that we can end up supplying you with oil under our control on our terms,
+      our prices, and our determination of who gets the oil and what they’re going to
+      do with the earnings from all of this oil. Well, that’s basically a declaration
+      of war on the rest of the world. And Iran is calling his bluff. If you want to,
+      if you’re the threat of isolating us, and as I said Iran will then wipe bomb all
+      the oil export facilities from Saudi Arabia to the Arab Emirates, well then the
+      whole world will go without oil. But what is the rest of the world doing? It’s
+      not doing anything and what it needs-the only defense other countries have against
+      this economic and financial winter caused by a breakdown of oil that will lead
+      to a close-down of many major industries. How will Japan and Korea be able to
+      get the energy to make their computer exports and their automobile exports to
+      pay the $550 billion that Japan has offered to pay the United States in order
+      to keep access to the American market for its exports when it can’t even produce
+      the export?. Same thing with Korea’s $350 billion. What are they going to do?
+      Even the Financial Times has been writing articles on how can Korea accept this
+      abject dependency on the United States when the whole threat is that no matter
+      what, even if it cannot produce the exports to raise this 350 billion, it’s going
+      to just have to give its foreign exchange reserves to the United States as if
+      it’s still an occupied country at war with the United States from the Korean War
+      that began. Just as Japan is, it’s as if it’s still at war with the United States
+      under World War II as an occupied territory. They both have military bases there,
+      and it’s really going to be up to Iran to decide who gets the oil that is going
+      to be passing through the Strait of Hormuz. That’s been its Trump card to put
+      it for 50 years. Trump is desperate and he is floundering. And he and his secretary
+      of War, Hegseth, have fired apparently all of the generals that warned him that
+      any fight with Iran is going to be a loss for the United States. That’s really
+      the problem. Trump thought that he could treat Iran like Venezuela. He thought
+      he could knock out the regime’s leaders and somehow replace them with leaders
+      more compliant to U.S. demands, and that’s not the case. He also thought that
+      somehow his NATO allies would support him in the Strait of Hormuz. He asked Europe-he
+      apparently he did talk to the generals and they convinced him that if you try
+      to invade the Strait of Hormuz, you’re going to be wiped out by Iran’s defenses.
+      They’re well sought in. They’re just going to kill any kind of attempt at an invasion.
+      So Trump said, “Okay, we don’t want Americans to die”. He asked Europe to send
+      troops and Spain, Italy, and even Britain refused to send troops. And Trump said,
+      “Well, this is breaking up NATO. You weren’t there when we needed you. We want
+      you to die to the last European, just like you want Ukrainians to die to the last
+      Ukrainian to fight Russia. We want you to do the same fighting Iran”. Well, they
+      refuse to. So, the result is that he’s dead set on leading to the breakdown of
+      oil trade that we’ve talked about and it is-this oil-this is not only an industrial
+      crisis of closing down industries that are dependent on oil. It’s going to be
+      a financial crisis because if companies have to close down their operations because
+      they can’t get enough oil to make the chemicals or to power their factories or
+      governments don’t have enough money to subsidize their homeowners to light and
+      heat their homes, then there’s going to be debt defaults. And these debt defaults,
+      as you and I were speaking about a year ago, are going to spread, including to
+      the United States. That’s what Trump doesn’t see when he says that America’s going
+      to come out on top. The United States is the most highly debt-leveraged economy
+      in the entire world, and just as in 1929, the result of the world financial breakdown
+      of inter-allied debt and German reparations was felt most seriously in the United
+      States leading to the Great Depression here, this is going to happen again. And
+      one element of financial breakdown that we’ve discussed before is how is the global
+      South going to pay for the higher energy prices that it needs as a condition of
+      having its economies function and pay its dollar debts?. It can’t. It will have
+      to politically say, “We cannot pay the dollar debts because the United States
+      in whose currency our debts are denominated has broken up the oil trade and prevented
+      us from doing this”. You’ll see a moratorium there and this kind of moratorium-there’s
+      no such moratorium for private sector debts among countries. And this is going
+      to be where the whole over-leveraged U.S. economy is threatened by the oil crisis
+      as it becomes worldwide and long term. Radhika: So Michael, you raised some really
+      interesting points about financial issues. And we’ve already discussed earlier
+      that there’s all this money sloshing around in U.S. asset markets, all of which
+      are in bubble territory. And so they-all this money-would like to leave it, but
+      there’s nowhere to go. And of course, rising inflation is creating, as we’ve been
+      arguing for a long time going back to the beginnings of our show in 2023, that
+      increasingly the Federal Reserve finds itself in a bind if it reacts to the inflation
+      by raising interest rates. It incurs the danger of pricking all this everything
+      bubble. And if it doesn’t react, of course inflation is bound to eat away at the
+      dollar’s value, making it less attractive. So these processes, in addition to
+      the debt issues that you are talking about, all of these things are threatening
+      the value of the dollar and the role of the dollar. Earlier you were talking about
+      what the consequences of a decline in the supply of oil and generally the gumming
+      up of the Strait of Hormuz are. Well, one thing is clearly that more and more
+      Iran basically has said that it will let those vessels pass which will pay it
+      in Yuan, in Renminbi, in Chinese currency. So that, again, this is going to create
+      a pressure towards moving away from the dollar as well. And this is an interesting
+      thing, by the way, speaking of China. I want to talk about that as well. What
+      Trump is doing-the war on Iran-is already having serious economic effects. But
+      one relatively good thing it’s going to do is it’s going to make all the countries
+      of the world think seriously about moving to non-fossil fuel based energy. And
+      this is where China is going to be the big winner because China’s market-China
+      has already crashed the prices of solar panels and wind turbines and what have
+      you. So China will be-and apparently China has sent a shipload of solar panels
+      to Cuba, which is great. This is exactly what Cuba needs. So I think it should,
+      if it accelerates the transition away from fossil fuels, that will be a good thing-not
+      Trump. What Trump wanted to do-Trump is all for “drill, baby, drill” and expanding
+      fracking and shale oil and drilling in Alaska and what have you-but he will not
+      get what he wants because in the end, as the world turns away from oil, it’ll
+      become systemically less and less important. One final point before handing it
+      over to you: this is going to lead to a lot of scarring in the world economy.
+      As you say, these increases in the prices of all sorts of inputs, not just oil,
+      but things like helium that’s important for high-tech products, things like sulfuric
+      acid that’s important for fertilizers. And all of these things-this is going to
+      put a lot of businesses and farms out of business. And it’s very easy to destroy
+      a business; it is not so easy to pick it up again. So that even if oil prices
+      fall in six months’ time, these businesses that have been forced out of business,
+      these farmers who have been forced out of farming, will not find it easy to get
+      back into it. Which means that there will be a permanent reduction in some sources
+      of whatever it is these businesses are producing and food and whatever farmers
+      produce. So this scarring-the whole world will blame Trump and the United States.
+      And one final point here: it’s finally beginning to sink in that the United States
+      simply cannot be relied on. It doesn’t matter who is the president. Martin Wolf
+      said in the Financial Times a week or two ago-these are almost his words-he said
+      if a country that can elect a man like Trump twice is not to be trusted. So there
+      you go. So it is just going to lead to the displacement of the United States from
+      its position of relative centrality to a position of marginality in the world
+      economy. Michael: Well, I wish we could take one point at a time back and forth.
+      All I can do is deal with one point. And you began by talking about the interest
+      rates and the inflation that is being caused by the rising oil prices. And I want
+      to say something about that. It’s basically junk economics because raising interest
+      rates is not going to lower the international price of oil. It’s not connected
+      at all. And in fact, the problem for the U.S. and for foreign economies is not
+      inflation-it’s deflation of incomes. Because if households have to pay more of
+      their income for electricity and gas to light and heat their homes, they’ll have
+      less money to spend on other goods and services that presumably they’re employed
+      to produce. Demand will go down. There’s a displacement effect, and this is the
+      same effect that higher interest rates cause in raising the debt service that
+      homeowners have to pay and taking out a mortgage at higher interest rates. And
+      the long-term interest rates are soaring. That has pretty much stopped trade in
+      real estate here in the United States. So the financial managers of the United
+      States have no understanding of money banking and the difference between money
+      and credit and what causes inflation. All they know is if wages go up, then we
+      have to raise prices to cause unemployment so that wages won’t go up and workers
+      are going to have to compete more to get jobs. It’s a knee-jerk. And if prices
+      go up, that means that somehow investors won’t have enough control of the debt
+      service they receive to buy goods and services. Well, that’s fantasy too-that’s
+      junk economics. Investors don’t buy goods and services. Well, it is true that
+      the top 10% of the population in America accounts for half of all of the increased
+      consumer spending in the United States. But basically, investors use all of their
+      income to buy more investments, to make more loans, to buy more stocks and bonds.
+      And because the whole economy’s been turned into a Ponzi scheme, that’s the only
+      way to avoid debt defaults and to keep the whole fantasy of financial valuations
+      and prices awake. You did get onto another point-I wish we could just discuss
+      one at a time-but agricultural yields are going to be falling as a result of the
+      lack of fertilizer. Fertilizer doesn’t use sulfuric acid; sulfuric acid is used
+      in mining primarily to leach the basic ores away from what they’re doing. That’s
+      going to be stopping, so causing all sorts of other raw materials prices to go
+      up for purely technological productivity terms. And it’ll cause food prices to
+      go up as the lack of fertilizer reduces agricultural farm yields. So all of this
+      is not a monetary phenomenon, but it has monetary consequences which are not understood
+      by the U.S. and European and other central bankers who were trained in neoliberal
+      economics. Radhika: No, it’s just a small point-I think sulfuric acid is apparently
+      used in fertilizers. It’s basically used in the production of phosphate-based
+      fertilizers. So there you go. I’m not a scientist, but I’m just quoting from something
+      I was reading. But no, coming back to the very serious set of points you raised
+      about interest rates and so on, you’re totally right. The Federal Reserve has
+      historically had only one means to deal with inflation, and that is to raise interest
+      rates to tighten monetary policy in a variety of ways. And that was described
+      by the economist Robert Solow as burning your house in order to roast a pig. That
+      is to say, because raising interest rates-what it does is it doesn’t actually
+      deal with inflation. It causes such a huge recession that eventually the inevitable
+      decline in demand that it will result in will eventually cause inflation to drop.
+      So it’s a bit like killing a patient or making him very ill in order to resolve
+      his or her illness. And of course, this understanding is based on Milton Friedman’s
+      claim that inflation is always and everywhere a monetary phenomenon. But as you
+      rightly point out, inflation is precisely not a monetary phenomenon. It arises
+      out of the real conditions in which production is taking place, whether there
+      are particular bottlenecks as the Strait of Hormuz is right now-the bottleneck
+      or the choke point of the world. And I think that this tends to lead to rises
+      in inflation. And the best way-I have a very simple way of putting it to my students-I
+      say if inflation is too much money chasing too few goods, there are two ways of
+      resolving this. One is reduce the amount of money, but that tends to have the
+      bad effects that we were just talking about, which is causing recessions. So the
+      alternative is to expand supply. If there are too few goods, why are there too
+      few goods? Produce more goods. And expanding supply actually does not involve
+      restricting money supply, but rather in fact expanding it in order that production
+      can increase. You just have to be a bit intelligent about it. But what it then
+      amounts to is that in order to really deal with inflation, you need a planned
+      economy, which is rather close to socialism, which is why capitalist societies
+      typically resist it. One final point: one of the reasons why capitalist societies
+      like dealing with inflation by raising interest rates and causing recessions is
+      that, of course, it weakens the power of labor, which is what they always want.
+      So that’s another reason why they favor it. Michael: Well, you made the point
+      that John Law made in the early 1700s about that more money will put more unemployed
+      labor and industry in motion. He was right and Milton Friedman was wrong. But
+      David Ricardo came up with his bullionist theory that for over 250 years has guided
+      the International Monetary Fund and banks throughout the world. If a country’s
+      running a payments deficit and can’t pay its debts, just pay labor less and squeeze
+      the economy and keep lowering labor until it gets so cheap that you can export
+      enough. This is junk economics with a vicious political orientation, as you and
+      I have spoken about over the years. So the implication of what you’re saying,
+      Radhika, is that not only does the United States not care about creating a financial
+      and economic winter for the rest of the world, it doesn’t have a clue as to how
+      to trace what the effects of its actions are because it has the junk economics
+      that it’s developed. Just really as public relations patter talk to convince the
+      populations that Margaret Thatcher and Ronald Reagan were right in privatizing
+      the economy and just leaving central planning to the commercial banks and the
+      private sector to decide financially who’s going to get the credit and what it’s
+      going to be used for, and just don’t let governments enter the picture at all.
+      So the whole idea is that this is a war against governments, and what can other
+      countries do to stop this almost nuclear economic winter that’s facing them? There
+      has to be government leadership acting together in concert with each other. There
+      has to be a critical mass of countries, and it looks like these countries are
+      going to be China, Russia, and now Iran. And Iran has become a world power, not
+      by being a big investor economy, not by being a financial power or an industrial
+      power, but it’s been the ideological power to explain the political dynamics that
+      are shaping the whole economic environment that is going to determine the next
+      five years that this financial winter is probably going to take. Radhika: No,
+      this is absolutely right, and I think we let’s briefly survey the economic consequences
+      of this war before closing because we should close soon. But this topic of inflation-we
+      should probably come back to it in a future discussion. It’s a really important
+      one, and there are some fundamental things that we could uncover. But for now,
+      I guess what I want to say mainly about the economic consequences of this war
+      is that you started by saying that not only is the Trump administration willing
+      to impose huge economic costs and an economic winter-as you were saying, economic
+      nuclear winter-on the rest of the world. But I would complete that sentence slightly
+      differently from the way you did. Not only is he willing to do that to the rest
+      of the world, he’s willing to do that to ordinary American people on whose votes
+      he got elected, whom he promised that he was going to make America great again.
+      Well, he may be making America great again for a tiny sliver of the topmost sections
+      of the American population-the really 0.1% who is benefiting from all that he’s
+      doing. The overwhelming majority of ordinary Americans are not benefiting from
+      it, and that is why his numbers are low. And as for the rest of the world, I think
+      that the rest of the world is going to find it exceedingly difficult to forgive
+      Trump and forgive the United States for the harm that has been inflicted on the
+      rest of the world, and that consists of some very powerful people. And I think
+      that I would not be surprised if you saw two different things happening as well,
+      which are not so much economic consequences as kind of political economy consequences
+      or geopolitical economy consequences. Number one: no matter what Tsai Ing-wen
+      may say about the belligerent noises she’s been making recently, the reality is
+      that Japan’s economy is deeply intertwined with that of China. And I think that
+      voices will emerge there too to say that, especially given the way in which the
+      United States is behaving, especially given that Japan can decreasingly rely on
+      any kind of defense umbrella of the United States, that the best policy for Japan
+      is to make friends with China rather than make enemies. And also such voices are
+      also beginning to emerge in Europe vis-a-vis Russia. So I think that we are going
+      to see some very new patterns emerging, and so the historic alignments that have
+      governed for the last so many decades are going to shift very rapidly now. Michael:
+      Well, the question is what are other countries going to do about this coming financial
+      winter? For Japan, it’s announced that if there’s any fighting or invasion between
+      China and Taiwan, it’s going to back Taiwan. It says, “We want atomic weapons.
+      We didn’t learn-we were bombed in World War II. We want to use atomic weapons
+      against China. Please, America, use our bases to mount atomic weapons so you can
+      try to attack China and force Taiwan’s independence”. This is suicidal, and the
+      moment that there is any attempt by Japan to industrialize, there will be no more
+      Japan-that seems obvious. The Japanese are willingly committing economic suicide
+      under their rotten Liberal Democratic Party that represents the Yakuza-the gangsters
+      that General MacArthur put in power in 1945 to make armed fighting against the
+      Japanese socialists that were trying to avoid all of this. So Japan now is suffering
+      from the American support of Japanese fascism and the criminal networks after
+      World War II that have controlled Japan ever since. So it’s hard to have sympathy
+      with them. And I can’t even explain Korea’s knuckling under. What Iran says: “We
+      will not permit the exportation of oil through the Strait of Hormuz to countries
+      that permit America’s military bases on their lands to attack us”. Well, the big
+      military bases, after Israel, are Japan and Korea. This looks to me like they
+      are going to be-it’s the economic equivalent of fighting to the last Japanese
+      or Korean. Because the United States has asked Korea, “Please move your shipping
+      industry, one of your most successful industries, to the United States because
+      we can’t make ships anymore”. They’ve asked Japan to move its industries to the
+      United States, and Japan has said, “All right, we no longer are trying to employ
+      Japanese people”. Just as Korea’s not trying to employ its people-they’re using
+      the wealth accumulated by exports to shift their industry to the United States.
+      This is abject economic surrender. This is what the United States would like to
+      do to all of the oil-importing countries-that’s the future of the world as the
+      United States sees it. Iran’s point is, well, you countries had better avoid this
+      future for yourself by stopping America from attacking us and trying to pry control
+      of the Strait of Hormuz out of our hands so that it can determine what Arab OPEC
+      countries can exploit oil and to whom at what price. This is what the future’s
+      going to be all about. Radhika: Exactly, and I think you put the tension very
+      well because essentially what we are going to look at is the discrediting of a
+      generation of elites that have ruled Western Europe, Japan, South Korea, et cetera,
+      for generations on the assumption that the United States can be relied on. And
+      as it becomes more and more manifest that this is not true, there will inevitably
+      be pressure to change the direction of policy in a new direction. And I think
+      that this is what we are going to-the birth of these new forces, these new policies
+      will likely be quite difficult, but it will have to happen. The situation is pregnant
+      with these possibilities. So we will have to see how that pans out. But Michael,
+      thank you so much. I hope that you’ll be back again soon because with Trump doing
+      what he’s doing, there’s always more stuff to discuss. Do you have any last things
+      you want to add? Michael: I want to emphasize your last point that you made in
+      the last sentence. The important thing is that America no longer has the role
+      of protecting the rest of the world militarily or its trade. It is now a threat
+      to the world’s military safety and the world’s prosperity that it claimed to justify
+      the whole Cold War to begin with. Radhika: Fantastic. I couldn’t agree with you
+      more. I think this was to some extent always true, but it is manifestly true today.
+      That’s great. Thanks so much, Michael. Thanks to the audience for listening to
+      this. Please like, please subscribe. Please support Radhika Desai Geopolitical
+      Economist channel in whatever way you can. And see you again soon. Bye-bye. Photo
+      by Dan Meyers on Unsplash The post The Blockade Bluff first appeared on Michael
+      Hudson . The post The Blockade Bluff first appeared on Michael Hudson .'
+    one_sentence_summary: Radhika Desai and Michael Hudson discuss the perplexing escalation
+      of Trump's foreign policy, particularly the newly announced blockade on the Persian
+      Gulf and Gulf of Oman, which raises questions about its feasibility and rationale
+      amidst ongoing tensions with Iran.
+    paragraph_summary: In the latest episode of the Geopolitical Economy Hour, Radhika
+      Desai and Michael Hudson discuss the escalating absurdities of Trump's foreign
+      policy, particularly focusing on the recent announcement of a blockade on the
+      Persian Gulf and Gulf of Oman aimed at countering Iran's influence. The rationale
+      behind this blockade is unclear, as it appears to be a response to Iran's control
+      over the Strait of Hormuz, yet the feasibility and enforcement of such a blockade
+      by U.S. military assets positioned far away raises doubts. Reports indicate that
+      ships, including those linked to Iran, continue to transit the strait, undermining
+      the blockade's credibility and reflecting poorly on the U.S. strategy. The situation
+      is further complicated by shifting objectives and the potential for renewed talks
+      between the U.S. and Iran, highlighting the ongoing challenges and contradictions
+      of Trump's approach to international relations, which has been characterized by
+      erratic decisions and a lack of coherent strategy.
+    published: '2026-04-17T21:06:02+00:00'
   - title: The Oil Grab Doctrine
     url: https://michael-hudson.com/2026/04/the-oil-grab-doctrine/
     text: 'April 1, 2026 Glenn Diesen: Welcome back. Today we are joined by Professor

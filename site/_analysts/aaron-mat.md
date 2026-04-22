@@ -7,14 +7,241 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The US-led military campaign against Iran, initiated under the banner of "Operation Epic Fury," continues to escalate with no clear exit strategy in sight. As **Aaron Maté** reports, President Trump’s recent national address confirmed an aggressive approach focused on inflicting long-term damage to Iran’s civilian infrastructure. This follows the assassination of Iran’s Supreme Leader and a series of bombings that have resulted in significant civilian casualties and prompted Iranian retaliatory strikes, further destabilizing the region.
+  The Trump administration’s Middle East policy continues to be defined by escalating military action and uncompromising diplomatic demands, with significant consequences for regional stability and civilian populations.
   
-  The Trump administration’s justification for these actions has shifted, with officials now claiming that Israeli security concerns forced the US hand. **Aaron Maté** notes that Congressional allies are echoing the narrative that Israel’s intentions created an imminent threat to US forces, thus necessitating preemptive strikes. This rationale is seen by many analysts as an attempt to deflect responsibility for the escalation and to frame the conflict as a matter of US-Israeli security alignment rather than unilateral US aggression.
+  Most recently, **Aaron Maté** reports that Vice President JD Vance has reiterated the administration’s so-called “grand bargain” with Iran, which insists that Tehran formally renounce any pursuit of nuclear weapons. This demand comes despite Iran’s longstanding public position that it does not seek nuclear arms. The US position is coupled with ongoing economic sanctions and military operations that have, according to Maté, “resulted in significant suffering in the region.” The administration’s approach shows no sign of softening, even as Iranian officials continue to signal willingness for compromise.
   
-  Meanwhile, the broader regional context remains tense. The US military buildup in the Persian Gulf is the largest since the 2003 Iraq invasion, with a significant portion of the Navy’s fleet positioned for potential further action. Despite early suggestions from President Trump that diplomatic talks might yield a deal, the current trajectory points to a protracted conflict with no diplomatic breakthrough in sight.
+  Meanwhile, the aftermath of Operation Epic Fury—the joint US-Israeli campaign that began with the assassination of Iran’s Supreme Leader and widespread bombing—remains unresolved. The campaign, as detailed by **Aaron Maté**, has led to severe civilian casualties and Iranian retaliatory strikes, further entrenching the cycle of violence. President Trump has not articulated a clear exit strategy, raising concerns about the potential for a prolonged conflict with unpredictable consequences.
   
-  Looking ahead, the prevailing analysis suggests that the US and Israel are committed to a strategy of sustained pressure on Iran, aiming to weaken its government and infrastructure over the long term. Given the absence of an exit plan and the scale of military engagement, I guarantee that the conflict will continue to intensify, with high risk of further regional destabilization and humanitarian fallout. The likelihood of a negotiated settlement in the near term is minimal, and the majority opinion across sources is that the suffering of the Iranian population will most definitely increase as the campaign drags on.
+  On the global stage, the expiration of the New START treaty has heightened the risk of a renewed nuclear arms race between the US and Russia. While there are unconfirmed reports of an informal agreement to temporarily maintain treaty limits and a resumption of military dialogue, the absence of a formal legal framework leaves both nations’ arsenals unconstrained. This development, as noted by **Aaron Maté**, “heighten[s] the risk of a renewed arms race,” though some diplomatic backchannels remain open.
+  
+  **Trends and Predictions:**  
+  The prevailing trend is toward greater militarization and diplomatic rigidity, particularly in US policy toward Iran. The majority of analysts cited by Maté agree that the Trump administration’s actions are likely to prolong instability in the Middle East. With no clear exit plan and continued escalation, I assess with high confidence that the risk of further regional conflict remains acute. On the nuclear front, there is a high chance that, absent a new formal treaty, both the US and Russia will gradually expand their arsenals, though informal understandings may temporarily limit the pace of escalation. Overall, the outlook is for continued volatility, with little prospect of de-escalation in the near term.
 articles:
+  - title: Trump's ‘grand bargain’ rejects Iran's longstanding compromise
+    url: https://www.aaronmate.net/p/trumps-grand-bargain-rejects-irans
+    text: '(Photo by Jacquelyn Martin - Pool/Getty Images) After returning from talks
+      with Iranian counterparts in Islamabad, Vice President JD Vance said this week
+      that the Trump administration is offering Tehran a “grand bargain”: “If you guys
+      commit to not having a nuclear weapon, we are going to make Iran economically
+      thrive.” If this were actually Trump’s offer, there would be nothing left to discuss.
+      In the 2015 JCPOA , and multiple occasions since, the Iranian government has reaffirmed
+      that it will never “seek, develop or acquire any nuclear weapons.” Trump’s response
+      was to shred the pact and impose “maximum pressure” sanctions designed to crush
+      Iran’s economy. This economic warfare, continued by the Biden team in the interregnum,
+      culminated in the current round of US-Israeli aggression that has killed thousands,
+      left hundreds of billions of dollars in damages, pushed millions of Iranians into
+      poverty, and also caused widespread carnage in Lebanon. Vance gave a more honest
+      summation of the US position a few days earlier when he ended the talks in Pakistan:
+      “We just could not get to a situation where the Iranians were willing to accept
+      our terms.” Indeed, the Iranians held the US to Trump’s stated position for accepting
+      the ceasefire, when he called Iran’s 10-point plan “a workable basis on which
+      to negotiate.” Instead, his designated envoy Vance – flanked by serial diplomacy
+      saboteurs Jared Kushner and Steve Witkoff – simply reformulated the same terms
+      for capitulation. Among them, that Iran abandons both peaceful nuclear enrichment
+      and its support for regional groups that resist US-Israeli dominance. For a Tehran
+      government that has so far staved off, at great cost, a US-Israeli military campaign
+      to impose those goals via regime change and Trump’s genocidal threats of ending
+      Iranian civilization, these are non-starters. “The main problem here is that the
+      Americans very mistakenly have been thinking that they have won the war,” a senior
+      Iranian official told me. “So they are going to dictate their will at the negotiation
+      table instead of a deal, which is normally based on a give and take.” If the US
+      insists on extracting a surrender from Iran which “they couldn’t during the war,
+      it is not going to happen.” The Trump administration was forced to enter negotiations
+      after Iran struck US military assets in the region and hindered the global economy
+      by limiting naval passage in the Strait of Hormuz. According to Vance, Iran’s
+      response amounts to “economic terrorism.” In reality, Iran is using its leverage
+      over the Strait to end a campaign of US-Israeli terror, all while charging tolls
+      to fund reconstruction. Trump has responded with a naval blockade of his own,
+      deploying US warships to intercept vessels that enter or exit Iranian ports. But
+      Iran is not completely boxed in. It will try to evade the US siege through land-based
+      shipping routes, all while Trump faces mounting global pressure over his disruption
+      to global supply chains and energy markets. Iran has also threatened to counter
+      Trump by expanding its blockade of the Strait to the Persian Gulf, the Sea of
+      Oman, and the Red Sea. Media accounts of the ongoing negotiations are focused
+      on the issue of uranium enrichment, with both sides offering timelines for the
+      duration of a potential curb on Iran’s nuclear program. Yet as Vance’s disingenuous
+      “grand bargain” underscores, uranium enrichment is ultimately not the issue. At
+      the last round of talks in Geneva, Iran addressed the White House’s professed
+      concerns, ruling out any stockpiling of uranium and thereby closing off any potential
+      path to a bomb. Iranian flexibility was newly confirmed in the New York Times’
+      insider account of how Trump went to war. After meeting their Iranian counterparts
+      in Geneva, Kushner and Witkoff reported to the president that they “could probably
+      negotiate something, but it would take months,” and maybe even “a lot” of effort.
+      A months-long timeline would be a lost faster than the JCPOA, which took nearly
+      two years to finalize before Trump tore it up. Because Trump, yet again, had no
+      patience for diplomacy, he launched a war of aggression instead. The chief obstacle
+      to a grand bargain is Washington’s unfettered support to the main source of all
+      instability in West Asia: Israeli aggression. Just as the ceasefire came into
+      effect last week, Israel launched a new wave of violence in Lebanon that has killed
+      hundreds of civilians, destroyed thousands of homes, and forced over 1.2 million
+      to flee. Israel was aiming to provoke a response from Iran in defense of its ally
+      Hezbollah, thereby undermining the ceasefire and cajoling Trump to resume the
+      regime change war that Benjamin Netanyahu lobbied him to undertake. Iran instead
+      insisted on respecting Lebanon’s inclusion in the ceasefire, which has helped
+      compel Trump to announce a 10-day ceasefire in Lebanon earlier today. Trump says
+      he plans to host additional talks between the Israeli and Lebanese governments.
+      The US will try to compel the pliant Lebanese president Joseph Aoun to reject
+      any linkage with Iran, which could free up Israel to continue terrorizing the
+      Lebanese people and trying to wipe out Hezbollah. While there is indeed a major
+      split inside Lebanon over Hezbollah’s militant activities, a vast majority opposes
+      any normalization with Israel, whose leadership openly fantasizes about expanding
+      “Greater Israel” up to the Litani River. Hezbollah is the only force inside Lebanon
+      that can repel Israel’s colonial designs. Because the Trump administration won’t
+      constrain Israeli expansionism, it won’t acknowledge that the Iranians have long
+      offered a grand bargain to resolve all of these flashpoints. As far back as 2003,
+      the Iranian government floated a sweeping agreement with the US to limit its nuclear
+      program, cooperate against “terrorism”, end “material support” to Palestinian
+      militant groups, and help convert Hezbollah into a strictly “political organization”
+      inside Lebanon. In exchange, Iran wanted respect for its sovereignty, an end to
+      all sanctions, and US-Israeli acceptance of the Saudi peace initiative, which
+      would grant Palestinians a state within the 1967 borders. According to then-senior
+      State Department official and longtime Council on Foreign Relations president
+      Richard Haass, the Bush administration shunned the Iranian proposal because “the
+      bias was toward a policy of regime change.” Subsequent administrations have ignored
+      similar overtures. This includes a December 2017 declaration from the Organization
+      of Islamic Cooperation, endorsed by Iran and Hamas, calling for a “two-state solution
+      with East Jerusalem as the capital of the State of Palestine” alongside a just
+      resolution for Palestinian refugees. Rather than accept the latter, which happens
+      to reflect the consensus of virtually every other state on earth, US-Israeli leaders
+      maintain a status quo of occupation, ethnic cleansing, land theft, and regime
+      change. Because Iran anchors a regional grouping that resists this agenda, the
+      grand bargain that it offered the US more than two decades ago remains a non-starter
+      in Washington. Under this posture, Trump will be limited to walking away and leaving
+      Iranians to rebuild, under crippling sanctions, from the latest wreckage that
+      the president and his Israeli partner have gleefully caused. Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: Vice President JD Vance stated that the Trump administration's
+      proposed "grand bargain" with Iran hinges on the country committing to not pursuing
+      nuclear weapons, despite Iran's longstanding assertion that it does not seek nuclear
+      arms, while criticizing the destructive economic sanctions and military actions
+      that have resulted in significant suffering in the region.
+    paragraph_summary: 'Vice President JD Vance recently returned from talks with Iranian
+      officials in Islamabad, where he indicated that the Trump administration is proposing
+      a "grand bargain" to Iran: a commitment to forgo nuclear weapons in exchange for
+      economic prosperity. However, this offer contradicts the 2015 JCPOA agreement,
+      which Iran has consistently stated it would adhere to by not pursuing nuclear
+      weapons. Instead, the Trump administration withdrew from the pact and imposed
+      severe sanctions that have devastated Iran''s economy, a situation that has continued
+      under the Biden administration. Vance''s discussions ended without agreement,
+      as Iran rejected U.S. demands that included abandoning peaceful nuclear enrichment
+      and support for regional groups opposing U.S.-Israeli influence. An Iranian official
+      remarked that the U.S. mistakenly believes it has won the war, complicating the
+      potential for productive negotiations.'
+    published: '2026-04-16T16:38:28+00:00'
+  - title: Trump's ‘grand bargain’ rejects Iran's longstanding compromise
+    url: https://www.aaronmate.net/p/trumps-grand-bargain-rejects-irans
+    text: '(Photo by Jacquelyn Martin - Pool/Getty Images) After returning from talks
+      with Iranian counterparts in Islamabad, Vice President JD Vance said this week
+      that the Trump administration is offering Tehran a “grand bargain”: “If you guys
+      commit to not having a nuclear weapon, we are going to make Iran economically
+      thrive.” If this were actually Trump’s offer, there would be nothing left to discuss.
+      In the 2015 JCPOA , and multiple occasions since, the Iranian government has reaffirmed
+      that it will never “seek, develop or acquire any nuclear weapons.” Trump’s response
+      was to shred the pact and impose “maximum pressure” sanctions designed to crush
+      Iran’s economy. This economic warfare, continued by the Biden team in the interregnum,
+      culminated in the current round of US-Israeli aggression that has killed thousands,
+      left hundreds of billions of dollars in damages, pushed millions of Iranians into
+      poverty, and also caused widespread carnage in Lebanon. Vance gave a more honest
+      summation of the US position a few days earlier when he ended the talks in Pakistan:
+      “We just could not get to a situation where the Iranians were willing to accept
+      our terms.” Indeed, the Iranians held the US to Trump’s stated position for accepting
+      the ceasefire, when he called Iran’s 10-point plan “a workable basis on which
+      to negotiate.” Instead, his designated envoy Vance – flanked by serial diplomacy
+      saboteurs Jared Kushner and Steve Witkoff – simply reformulated the same terms
+      for capitulation. Among them, that Iran abandons both peaceful nuclear enrichment
+      and its support for regional groups that resist US-Israeli dominance. For a Tehran
+      government that has so far staved off, at great cost, a US-Israeli military campaign
+      to impose those goals via regime change and Trump’s genocidal threats of ending
+      Iranian civilization, these are non-starters. “The main problem here is that the
+      Americans very mistakenly have been thinking that they have won the war,” a senior
+      Iranian official told me. “So they are going to dictate their will at the negotiation
+      table instead of a deal, which is normally based on a give and take.” If the US
+      insists on extracting a surrender from Iran which “they couldn’t during the war,
+      it is not going to happen.” The Trump administration was forced to enter negotiations
+      after Iran struck US military assets in the region and hindered the global economy
+      by limiting naval passage in the Strait of Hormuz. According to Vance, Iran’s
+      response amounts to “economic terrorism.” In reality, Iran is using its leverage
+      over the Strait to end a campaign of US-Israeli terror, all while charging tolls
+      to fund reconstruction. Trump has responded with a naval blockade of his own,
+      deploying US warships to intercept vessels that enter or exit Iranian ports. But
+      Iran is not completely boxed in. It will try to evade the US siege through land-based
+      shipping routes, all while Trump faces mounting global pressure over his disruption
+      to global supply chains and energy markets. Iran has also threatened to counter
+      Trump by expanding its blockade of the Strait to the Persian Gulf, the Sea of
+      Oman, and the Red Sea. Media accounts of the ongoing negotiations are focused
+      on the issue of uranium enrichment, with both sides offering timelines for the
+      duration of a potential curb on Iran’s nuclear program. Yet as Vance’s disingenuous
+      “grand bargain” underscores, uranium enrichment is ultimately not the issue. At
+      the last round of talks in Geneva, Iran addressed the White House’s professed
+      concerns, ruling out any stockpiling of uranium and thereby closing off any potential
+      path to a bomb. Iranian flexibility was newly confirmed in the New York Times’
+      insider account of how Trump went to war. After meeting their Iranian counterparts
+      in Geneva, Kushner and Witkoff reported to the president that they “could probably
+      negotiate something, but it would take months,” and maybe even “a lot” of effort.
+      A months-long timeline would be a lost faster than the JCPOA, which took nearly
+      two years to finalize before Trump tore it up. Because Trump, yet again, had no
+      patience for diplomacy, he launched a war of aggression instead. The chief obstacle
+      to a grand bargain is Washington’s unfettered support to the main source of all
+      instability in West Asia: Israeli aggression. Just as the ceasefire came into
+      effect last week, Israel launched a new wave of violence in Lebanon that has killed
+      hundreds of civilians, destroyed thousands of homes, and forced over 1.2 million
+      to flee. Israel was aiming to provoke a response from Iran in defense of its ally
+      Hezbollah, thereby undermining the ceasefire and cajoling Trump to resume the
+      regime change war that Benjamin Netanyahu lobbied him to undertake. Iran instead
+      insisted on respecting Lebanon’s inclusion in the ceasefire, which has helped
+      compel Trump to announce a 10-day ceasefire in Lebanon earlier today. Trump says
+      he plans to host additional talks between the Israeli and Lebanese governments.
+      The US will try to compel the pliant Lebanese president Joseph Aoun to reject
+      any linkage with Iran, which could free up Israel to continue terrorizing the
+      Lebanese people and trying to wipe out Hezbollah. While there is indeed a major
+      split inside Lebanon over Hezbollah’s militant activities, a vast majority opposes
+      any normalization with Israel, whose leadership openly fantasizes about expanding
+      “Greater Israel” up to the Litani River. Hezbollah is the only force inside Lebanon
+      that can repel Israel’s colonial designs. Because the Trump administration won’t
+      constrain Israeli expansionism, it won’t acknowledge that the Iranians have long
+      offered a grand bargain to resolve all of these flashpoints. As far back as 2003,
+      the Iranian government floated a sweeping agreement with the US to limit its nuclear
+      program, cooperate against “terrorism”, end “material support” to Palestinian
+      militant groups, and help convert Hezbollah into a strictly “political organization”
+      inside Lebanon. In exchange, Iran wanted respect for its sovereignty, an end to
+      all sanctions, and US-Israeli acceptance of the Saudi peace initiative, which
+      would grant Palestinians a state within the 1967 borders. According to then-senior
+      State Department official and longtime Council on Foreign Relations president
+      Richard Haass, the Bush administration shunned the Iranian proposal because “the
+      bias was toward a policy of regime change.” Subsequent administrations have ignored
+      similar overtures. This includes a December 2017 declaration from the Organization
+      of Islamic Cooperation, endorsed by Iran and Hamas, calling for a “two-state solution
+      with East Jerusalem as the capital of the State of Palestine” alongside a just
+      resolution for Palestinian refugees. Rather than accept the latter, which happens
+      to reflect the consensus of virtually every other state on earth, US-Israeli leaders
+      maintain a status quo of occupation, ethnic cleansing, land theft, and regime
+      change. Because Iran anchors a regional grouping that resists this agenda, the
+      grand bargain that it offered the US more than two decades ago remains a non-starter
+      in Washington. Under this posture, Trump will be limited to walking away and leaving
+      Iranians to rebuild, under crippling sanctions, from the latest wreckage that
+      the president and his Israeli partner have gleefully caused. Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: Vice President JD Vance stated that the Trump administration's
+      proposed "grand bargain" with Iran hinges on the country committing to not pursuing
+      nuclear weapons, despite Iran's longstanding assertion that it does not seek nuclear
+      arms, while criticizing the destructive economic sanctions and military actions
+      that have resulted in significant suffering in the region.
+    paragraph_summary: 'Vice President JD Vance recently returned from talks with Iranian
+      officials in Islamabad, where he indicated that the Trump administration is proposing
+      a "grand bargain" to Iran: a commitment to forgo nuclear weapons in exchange for
+      economic prosperity. However, this offer contradicts the 2015 JCPOA agreement,
+      which Iran has consistently stated it would adhere to by not pursuing nuclear
+      weapons. Instead, the Trump administration withdrew from the pact and imposed
+      severe sanctions that have devastated Iran''s economy, a situation that has continued
+      under the Biden administration. Vance''s discussions ended without agreement,
+      as Iran rejected U.S. demands that included abandoning peaceful nuclear enrichment
+      and support for regional groups opposing U.S.-Israeli influence. An Iranian official
+      remarked that the U.S. mistakenly believes it has won the war, complicating the
+      potential for productive negotiations.'
+    published: '2026-04-16T16:38:28+00:00'
   - title: With no exit plan, Trump’s war for US-Israeli dominance seeks long-term Iranian
       suffering
     url: https://www.aaronmate.net/p/with-no-exit-plan-trumps-war-for

@@ -7,14 +7,314 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing confrontation between the US, Israel, and Iran continues to dominate the geopolitical landscape, with recent independent analysis highlighting a growing sense of frustration and calls for a fundamental shift in global power structures. The latest commentary, notably from **Tim Foley**, reflects a rising desire among anti-imperialist voices for a defeat of both the US and Israel in Iran, viewing such an outcome as a potential catalyst for dismantling what is described as the US-led imperial order and the "apartheid state" of Israel. Foley also draws attention to Silicon Valley’s increasing role in suppressing dissent through digital censorship, a trend that is fueling further resentment among critics of Western policy.
+  Tensions remain high across the Middle East in the wake of the recent US-Iran ceasefire announcement, with the broader geopolitical landscape shaped by ongoing disputes over Western narratives, the role of Israel, and contested casualty figures in Iran.
   
-  In the broader context, **Caitlin Johnstone** underscores the disproportionate harm enabled by Israel’s advanced Western-backed military capabilities, arguing that this support amplifies the impact of Israeli actions compared to other regional actors. This perspective is gaining traction as international scrutiny intensifies over Israel’s conduct, particularly in the wake of its exclusion of Spain from Gaza ceasefire coordination efforts—a move that followed Madrid’s refusal to support Israeli operations in Iran.
+  A central development in recent discourse concerns the widely circulated reports of mass casualties among Iranian protesters. **Tim Foley** challenges the credibility of these numbers, arguing that “the widely cited claims of tens of thousands of protesters killed in Iran are unfounded and arbitrary,” with figures often inflated by pro-war advocates lacking credible evidence. This skepticism reflects a broader trend of questioning Western media’s portrayal of events in Iran, suggesting that information warfare remains a key front in the conflict.
   
-  Meanwhile, the ceasefire between the US and Iran, announced as a diplomatic victory by the Trump administration, is increasingly viewed as a tactical retreat. Analysts note that Tehran’s terms for de-escalation had been on the table for weeks, suggesting that the US is responding to mounting pressure rather than dictating the terms of peace. The situation remains volatile, with Israel’s continued military activity in Lebanon threatening to undermine the fragile ceasefire framework.
+  Meanwhile, the portrayal of violence in Western narratives continues to draw criticism. **Caitlin Johnstone** highlights the double standard in how violence is justified or condemned depending on the actor, noting that “the justifications for imperial actions are presented as rational while the violence of those resisting the empire is often depicted as senseless.” This framing, she argues, serves to legitimize Western intervention while delegitimizing resistance, further polarizing international opinion.
   
-  Looking ahead, the majority view among independent observers is that the US and its allies are losing their ability to control the narrative and obscure the consequences of their actions. As **Tim Foley** points out, the visible fallout from Western interventions is eroding the effectiveness of traditional propaganda. There is a high chance that, barring a significant policy shift, the current order will face escalating challenges both domestically and internationally. Most definitely, the coming weeks will see increased scrutiny of Western military and information operations, with anti-imperialist sentiment likely to intensify if the status quo persists.
+  On the diplomatic front, Israel’s exclusion of Spain from a Gaza ceasefire coordination center, following Madrid’s refusal to support Israeli actions in Iran, underscores the deepening rift between Israel and segments of the European Union. Israeli Foreign Minister Gideon Sa’ar’s criticism of Spain’s stance signals a hardening of positions and a potential shift in European involvement in the region.
+  
+  Looking ahead, the majority of independent analysts anticipate that information manipulation and narrative control will remain central to the conflict. There is a high chance that casualty figures and justifications for violence will continue to be contested, fueling further mistrust. As for the ceasefire, while it has temporarily reduced direct hostilities, there is only medium confidence that it will hold, given ongoing provocations and unresolved disputes involving Israel and its neighbors. The broader trend points toward continued instability, with the potential for renewed escalation if diplomatic efforts falter.
 articles:
+  - title: The Number Of Dead Iranian Protesters Keeps Changing Because It's A Fictional
+      Story
+    url: https://www.caitlinjohnst.one/p/the-number-of-dead-iranian-protesters
+    text: 'Reading by Tim Foley : Subscribe now The most common pro-war talking point
+      about Iran is that they massacred tens of thousands of protesters in January of
+      this year — but what’s funny is that they never cite the same number. Because
+      it’s a completely fictional story, they can just make up any number they want.
+      In online discourse with empire apologists these past few months I’ve been told
+      that the number of dead protesters is thirty thousand, forty thousand, fifty thousand,
+      sixty thousand, seventy thousand, eighty thousand, ninety thousand, and a hundred
+      thousand. They really do seem to just throw out whatever number feels believable
+      in a given moment. I recently saw an exasperated Glenn Greenwald ask an interlocutor
+      on Twitter, “How do you decide when to claim that Iran killed 30,000 protesters,
+      or 45,000, or 70,000? Does it depend on the day of the week or lyrical flow or
+      something else?” Iranian regime change muppet Reza Pahlavi claimed in January
+      that 50,000 protesters had been massacred by the Iranian government that month.
+      Notorious Korean propagandist Yeonmi Park put the number at 40,000 . In February,
+      President Trump said it was 32,000 . By April he had inflated that number to 45,000
+      , and then later climbed it up to 60,000 . Last month I saw The Australian’s Cameron
+      Stewart swelling the number to 80,000 . In February there was a viral tweet by
+      a propaganda account called The Persian Jewess asserting that “90,000 protesters
+      have been killed to date,” while right wing influencer Nicholas Lissack said it
+      was actually 100,000 . The other day someone commented on a post of mine telling
+      me “Iran killed over 40k protesters standing up for freedom,” and when I dismissed
+      that claim another empire apologist came in and adjusted the number to 30,000
+      . The reason they can’t settle on a number is because it’s all made up. Nobody
+      denies that thousands of people were killed in the January unrest; the Iranian
+      government itself has stated that 3,117 people were killed in the violent clashes,
+      including large numbers of security forces. Given that the US Treasury Secretary
+      has repeatedly admitted that the US deliberately fomented the unrest in Iran,
+      and given that Trump has admitted to sending weapons into the country with the
+      goal of arming the protesters, and given that Trump’s previous secretary of state
+      has suggested that Mossad was intimately involved in the so-called “peaceful protests”,
+      it was inevitable that people were going to be killed. But the war propagandists
+      couldn’t be content with a few thousand deaths. They needed something more spectacular.
+      Something sensational. So they started circulating thinly-sourced reports by shady
+      individuals claiming the body count was much higher than acknowledged, and then
+      further inflating the numbers in those reports. And when they did this it made
+      it clear that they’ve been lying about the whole thing, because anyone can see
+      the numbers going all over the place depending on who happens to be speaking and
+      what kind of mood they happen to be in. They made a classic blunder in fiction
+      writing, as explained in a viral post that was doing the rounds on Tumblr a few
+      months ago: “speculative fiction writers i am going to give you a really urgent
+      piece of advice: don’t say numbers. don’t give your readers any numbers. how heavy
+      is the sword? lots. how old is that city? plenty. how big is the fort? massive.
+      how fast is the spaceship? not very, it’s secondhand. “the minute you say a number
+      your readers can check your math and you cannot do math better than your most
+      autistic critic. i guarantee. don’t let your readers do any math. when did something
+      happen? awhile ago. how many bullets can that gun fire? trick question, it shoots
+      lasers, and it shoots em HARD. “you are lying to people for fun. if you let them
+      do math at you the lie collapses and it’s no fun anymore.” If you’re going to
+      write fiction, it’s important not to disrupt the illusion and snap the reader
+      out of the imaginary world you are creating for them. The narrative about tens
+      of thousands of dead Iranian protesters is fiction, and everyone’s waking up to
+      the lies. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley argues that the widely cited claims of tens of thousands
+      of protesters killed in Iran are unfounded and arbitrary, as pro-war advocates
+      often provide varying and exaggerated numbers without credible evidence.
+    paragraph_summary: In an article by Tim Foley, he critiques the exaggerated claims
+      made by pro-war advocates regarding the number of protesters allegedly killed
+      by the Iranian government during the January unrest, highlighting the lack of
+      consistency in these figures. Various sources have cited wildly differing numbers,
+      ranging from 30,000 to 100,000, with no clear basis for these claims, suggesting
+      they are fabricated. Foley points out that while it is acknowledged that thousands
+      died, the Iranian government reported a specific figure of 3,117, contrasting
+      sharply with the inflated estimates propagated by critics. He emphasizes the absurdity
+      of these varying claims and questions the motivations behind them, illustrating
+      a broader trend of misinformation in discussions about Iran.
+    published: '2026-04-17T12:02:41+00:00'
+  - title: The Number Of Dead Iranian Protesters Keeps Changing Because It's A Fictional
+      Story
+    url: https://www.caitlinjohnst.one/p/the-number-of-dead-iranian-protesters
+    text: 'Reading by Tim Foley : Subscribe now The most common pro-war talking point
+      about Iran is that they massacred tens of thousands of protesters in January of
+      this year — but what’s funny is that they never cite the same number. Because
+      it’s a completely fictional story, they can just make up any number they want.
+      In online discourse with empire apologists these past few months I’ve been told
+      that the number of dead protesters is thirty thousand, forty thousand, fifty thousand,
+      sixty thousand, seventy thousand, eighty thousand, ninety thousand, and a hundred
+      thousand. They really do seem to just throw out whatever number feels believable
+      in a given moment. I recently saw an exasperated Glenn Greenwald ask an interlocutor
+      on Twitter, “How do you decide when to claim that Iran killed 30,000 protesters,
+      or 45,000, or 70,000? Does it depend on the day of the week or lyrical flow or
+      something else?” Iranian regime change muppet Reza Pahlavi claimed in January
+      that 50,000 protesters had been massacred by the Iranian government that month.
+      Notorious Korean propagandist Yeonmi Park put the number at 40,000 . In February,
+      President Trump said it was 32,000 . By April he had inflated that number to 45,000
+      , and then later climbed it up to 60,000 . Last month I saw The Australian’s Cameron
+      Stewart swelling the number to 80,000 . In February there was a viral tweet by
+      a propaganda account called The Persian Jewess asserting that “90,000 protesters
+      have been killed to date,” while right wing influencer Nicholas Lissack said it
+      was actually 100,000 . The other day someone commented on a post of mine telling
+      me “Iran killed over 40k protesters standing up for freedom,” and when I dismissed
+      that claim another empire apologist came in and adjusted the number to 30,000
+      . The reason they can’t settle on a number is because it’s all made up. Nobody
+      denies that thousands of people were killed in the January unrest; the Iranian
+      government itself has stated that 3,117 people were killed in the violent clashes,
+      including large numbers of security forces. Given that the US Treasury Secretary
+      has repeatedly admitted that the US deliberately fomented the unrest in Iran,
+      and given that Trump has admitted to sending weapons into the country with the
+      goal of arming the protesters, and given that Trump’s previous secretary of state
+      has suggested that Mossad was intimately involved in the so-called “peaceful protests”,
+      it was inevitable that people were going to be killed. But the war propagandists
+      couldn’t be content with a few thousand deaths. They needed something more spectacular.
+      Something sensational. So they started circulating thinly-sourced reports by shady
+      individuals claiming the body count was much higher than acknowledged, and then
+      further inflating the numbers in those reports. And when they did this it made
+      it clear that they’ve been lying about the whole thing, because anyone can see
+      the numbers going all over the place depending on who happens to be speaking and
+      what kind of mood they happen to be in. They made a classic blunder in fiction
+      writing, as explained in a viral post that was doing the rounds on Tumblr a few
+      months ago: “speculative fiction writers i am going to give you a really urgent
+      piece of advice: don’t say numbers. don’t give your readers any numbers. how heavy
+      is the sword? lots. how old is that city? plenty. how big is the fort? massive.
+      how fast is the spaceship? not very, it’s secondhand. “the minute you say a number
+      your readers can check your math and you cannot do math better than your most
+      autistic critic. i guarantee. don’t let your readers do any math. when did something
+      happen? awhile ago. how many bullets can that gun fire? trick question, it shoots
+      lasers, and it shoots em HARD. “you are lying to people for fun. if you let them
+      do math at you the lie collapses and it’s no fun anymore.” If you’re going to
+      write fiction, it’s important not to disrupt the illusion and snap the reader
+      out of the imaginary world you are creating for them. The narrative about tens
+      of thousands of dead Iranian protesters is fiction, and everyone’s waking up to
+      the lies. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: Tim Foley argues that the widely cited claims of tens of thousands
+      of protesters killed in Iran are unfounded and arbitrary, as pro-war advocates
+      often provide varying and exaggerated numbers without credible evidence.
+    paragraph_summary: In an article by Tim Foley, he critiques the exaggerated claims
+      made by pro-war advocates regarding the number of protesters allegedly killed
+      by the Iranian government during the January unrest, highlighting the lack of
+      consistency in these figures. Various sources have cited wildly differing numbers,
+      ranging from 30,000 to 100,000, with no clear basis for these claims, suggesting
+      they are fabricated. Foley points out that while it is acknowledged that thousands
+      died, the Iranian government reported a specific figure of 3,117, contrasting
+      sharply with the inflated estimates propagated by critics. He emphasizes the absurdity
+      of these varying claims and questions the motivations behind them, illustrating
+      a broader trend of misinformation in discussions about Iran.
+    published: '2026-04-17T12:02:41+00:00'
+  - title: They Always Tell You Why The Empire Uses Violence, But Never Why Its Enemies
+      Do
+    url: https://www.caitlinjohnst.one/p/they-always-tell-you-why-the-empire
+    text: 'Reading by Tim Foley : Subscribe now One common feature of western empire
+      propaganda is that we are always given reasons for the empire’s violence, while
+      the violence of those who resist the empire tends to be framed as happening for
+      no reason at all. We’ve all been fed reasons for the US-Israeli war on Iran, and
+      we all know what those reasons are. Even less-informed members of the western
+      public will have heard something about the Iranians being a nuclear threat, having
+      a tyrannical government, and maybe something about sponsoring terrorist groups.
+      But the so-called “peaceful protesters” who were killed in an uprising fomented
+      and facilitated by the United States ? They were killed for no reason, simply
+      because the Iranian government is evil and hates dissent. All the Iranian police
+      officers who died in the uprising perished for no reason, perhaps of natural causes.
+      It is only by pure coincidence that this happened at the exact same time the US
+      empire was making the decision to try to topple the Iranian government. We’ve
+      all been given the official reasons why Israel has spent years blanketing the
+      Gaza Strip with military explosives: Israel was attacked by Hamas on October 7
+      2023, so it needs to get rid of Hamas for its own security. But why did the Hamas
+      attack happen? It happened for no reason. If you look to the propagandists in
+      the western press for answers, October 7 happened solely because Hamas are evil
+      and wanted to kill Jews for belonging to the wrong religion. Absolutely no mention
+      of Israel’s savage treatment of Palestinians for generations, or the dreadful
+      living conditions imposed upon the giant concentration camp that Gaza had become.
+      We’ve been told why the western empire is pouring weapons into Ukraine: Ukraine
+      was invaded by Russia. The empire wants to protect the freedom and democracy of
+      the Ukrainian people, and to deter future expansionism by Vladimir Putin. Why
+      did Russia invade Ukraine? No reason. Putin’s just evil and hates freedom, that’s
+      all. Sure, countless western experts and analysts had been warning for years that
+      NATO aggressions were going to lead to a war on Russia’s border, but they were
+      just rambling lunatics whose forecasts of war were proven correct by pure coincidence.
+      Our entire understanding of history is framed in this way. Fidel Castro killed
+      people in Cuba. Why did he kill them? No reason; he was just a mean jerk. All
+      the violence of the socialist revolutionaries around the world overthrowing the
+      abusive governments which preceded them is framed as causeless genocidal carnage
+      inflicted by murderous tyrants who simply loved killing people. The desperation
+      caused by the capitalist exploitation that had been imposed upon those populations
+      is completely redacted from our history books. A mature understanding of our world
+      begins with a curiosity about why the violence is happening. Violence is not always
+      justified, but there is always a reason why it happens. Western pundits, politicians
+      and newscasters will very seldom tell you what those reasons are unless it advances
+      the interests of the western empire. So if you want to have a truth-based understanding
+      of what’s really going on in our world, you need to actively seek out the answers
+      for yourself. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the biased portrayal of violence in
+      Western narratives, highlighting how the justifications for imperial actions are
+      presented as rational while the violence of those resisting the empire is often
+      depicted as senseless.
+    paragraph_summary: In his article, Tim Foley critiques the narrative surrounding
+      western empire propaganda, highlighting a consistent pattern where the violence
+      of empires is justified with reasons, while the violence of those resisting them
+      is portrayed as senseless. He points out that the U.S.-Israeli narrative surrounding
+      conflicts, such as the war on Iran and the recent Hamas attack, frames the aggressors
+      as justified in their actions while dismissing the underlying causes of resistance
+      and violence. For instance, the Iranian uprising is depicted as a mere reaction
+      to an "evil" government, ignoring the U.S.'s role in destabilizing the region,
+      while the Hamas attack is framed as an unprovoked act of terrorism, neglecting
+      the historical context of Israel's treatment of Palestinians. Similarly, the justification
+      for U.S. involvement in Ukraine overlooks the complexities of Russia's invasion,
+      reducing it to a simplistic portrayal of Putin as an embodiment of evil. Through
+      this analysis, Foley underscores the selective storytelling that shapes public
+      perception of global conflicts.
+    published: '2026-04-16T01:39:52+00:00'
+  - title: They Always Tell You Why The Empire Uses Violence, But Never Why Its Enemies
+      Do
+    url: https://www.caitlinjohnst.one/p/they-always-tell-you-why-the-empire
+    text: 'Reading by Tim Foley : Subscribe now One common feature of western empire
+      propaganda is that we are always given reasons for the empire’s violence, while
+      the violence of those who resist the empire tends to be framed as happening for
+      no reason at all. We’ve all been fed reasons for the US-Israeli war on Iran, and
+      we all know what those reasons are. Even less-informed members of the western
+      public will have heard something about the Iranians being a nuclear threat, having
+      a tyrannical government, and maybe something about sponsoring terrorist groups.
+      But the so-called “peaceful protesters” who were killed in an uprising fomented
+      and facilitated by the United States ? They were killed for no reason, simply
+      because the Iranian government is evil and hates dissent. All the Iranian police
+      officers who died in the uprising perished for no reason, perhaps of natural causes.
+      It is only by pure coincidence that this happened at the exact same time the US
+      empire was making the decision to try to topple the Iranian government. We’ve
+      all been given the official reasons why Israel has spent years blanketing the
+      Gaza Strip with military explosives: Israel was attacked by Hamas on October 7
+      2023, so it needs to get rid of Hamas for its own security. But why did the Hamas
+      attack happen? It happened for no reason. If you look to the propagandists in
+      the western press for answers, October 7 happened solely because Hamas are evil
+      and wanted to kill Jews for belonging to the wrong religion. Absolutely no mention
+      of Israel’s savage treatment of Palestinians for generations, or the dreadful
+      living conditions imposed upon the giant concentration camp that Gaza had become.
+      We’ve been told why the western empire is pouring weapons into Ukraine: Ukraine
+      was invaded by Russia. The empire wants to protect the freedom and democracy of
+      the Ukrainian people, and to deter future expansionism by Vladimir Putin. Why
+      did Russia invade Ukraine? No reason. Putin’s just evil and hates freedom, that’s
+      all. Sure, countless western experts and analysts had been warning for years that
+      NATO aggressions were going to lead to a war on Russia’s border, but they were
+      just rambling lunatics whose forecasts of war were proven correct by pure coincidence.
+      Our entire understanding of history is framed in this way. Fidel Castro killed
+      people in Cuba. Why did he kill them? No reason; he was just a mean jerk. All
+      the violence of the socialist revolutionaries around the world overthrowing the
+      abusive governments which preceded them is framed as causeless genocidal carnage
+      inflicted by murderous tyrants who simply loved killing people. The desperation
+      caused by the capitalist exploitation that had been imposed upon those populations
+      is completely redacted from our history books. A mature understanding of our world
+      begins with a curiosity about why the violence is happening. Violence is not always
+      justified, but there is always a reason why it happens. Western pundits, politicians
+      and newscasters will very seldom tell you what those reasons are unless it advances
+      the interests of the western empire. So if you want to have a truth-based understanding
+      of what’s really going on in our world, you need to actively seek out the answers
+      for yourself. ________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the biased portrayal of violence in
+      Western narratives, highlighting how the justifications for imperial actions are
+      presented as rational while the violence of those resisting the empire is often
+      depicted as senseless.
+    paragraph_summary: In his article, Tim Foley critiques the narrative surrounding
+      western empire propaganda, highlighting a consistent pattern where the violence
+      of empires is justified with reasons, while the violence of those resisting them
+      is portrayed as senseless. He points out that the U.S.-Israeli narrative surrounding
+      conflicts, such as the war on Iran and the recent Hamas attack, frames the aggressors
+      as justified in their actions while dismissing the underlying causes of resistance
+      and violence. For instance, the Iranian uprising is depicted as a mere reaction
+      to an "evil" government, ignoring the U.S.'s role in destabilizing the region,
+      while the Hamas attack is framed as an unprovoked act of terrorism, neglecting
+      the historical context of Israel's treatment of Palestinians. Similarly, the justification
+      for U.S. involvement in Ukraine overlooks the complexities of Russia's invasion,
+      reducing it to a simplistic portrayal of Putin as an embodiment of evil. Through
+      this analysis, Foley underscores the selective storytelling that shapes public
+      perception of global conflicts.
+    published: '2026-04-16T01:39:52+00:00'
   - title: I Hope The US Loses And The Empire Collapses, And Other Notes
     url: https://www.caitlinjohnst.one/p/i-hope-the-us-loses-and-the-empire
     text: 'Reading by Tim Foley : Subscribe now I don’t mind admitting that I hope the

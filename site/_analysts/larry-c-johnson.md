@@ -7,17 +7,502 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The ongoing US-Iran conflict remains at a critical juncture, with recent developments highlighting both the fragility of diplomatic efforts and the shifting narratives emerging from Washington. Over the past 48 hours, the focus has turned to President Donald Trump’s evolving rhetoric and the implications for US policy in the region.
+  The ongoing US-Iran conflict continues to dominate the geopolitical landscape, with recent developments underscoring the widening gap between official US statements and the realities on the ground. Over the past 48 hours, President Donald Trump has publicly claimed that the war is nearing resolution, specifically citing the reopening of the Strait of Hormuz and alleged Iranian concessions. However, these assertions have been categorically denied by Iranian officials and contradicted by independent analysis.
   
-  The latest analysis by **Larry C. Johnson** suggests that President Trump is actively shaping a new “nuclear narrative” as a potential justification for disengaging from the war with Iran. Johnson argues that this narrative, emphasizing exaggerated US military and economic pressure on Iran, is likely intended as “propaganda aimed at creating a narrative for a potential exit from the conflict, driven by his declining poll ratings and internal criticism.” This marks a notable shift from previous weeks, where the administration insisted on military victory and continued escalation.
+  **Larry C. Johnson** highlights that, despite Trump's optimistic rhetoric, there is no evidence that Iran has agreed to US demands or that the Strait of Hormuz has been fully reopened. Instead, Johnson notes, "Trump is pushing a fantasy about Iran’s capitulation, while the facts on the ground show continued military buildup and no substantive diplomatic breakthrough." This disconnect is further evidenced by the recent imposition of new US sanctions on Iran, a move that has effectively ended any immediate prospects for negotiations and is likely to provoke renewed hostilities.
   
-  Meanwhile, the diplomatic front remains stalled. In a recent interview, Professor Seyed Mohammad Marandi told **Larry C. Johnson** that Iran entered the Islamabad negotiations from a position of strength, “maintaining its key preconditions, including a comprehensive ceasefire, rather than relying on American assurances.” This underscores Tehran’s confidence, bolstered by its military successes and continued control over the Strait of Hormuz—a vital chokepoint for global oil supplies.
+  In parallel, the US military presence in the Persian Gulf has been reinforced, with additional troops and naval assets deployed in anticipation of potential strikes against Iran. This escalation comes amid failed ceasefire talks involving Lebanon and Israel, where US negotiators—reportedly influenced by Israeli intermediaries—rejected Iranian proposals that included comprehensive ceasefire conditions.
   
-  On the operational side, the US Navy’s blockade strategy is facing logistical and tactical constraints. As previously reported by **Johnson**, the US is “unlikely to deploy close to Iran’s shores due to past attacks on its ships,” forcing interdictions to take place far from Iranian waters and relying on specific naval assets. This reduces the blockade’s effectiveness and further complicates US efforts to pressure Iran economically.
+  The economic ramifications are also intensifying. The closure of the Strait of Hormuz has disrupted the global oil supply chain, with 15-20 million barrels per day affected. The US has attempted to mitigate the impact by drawing down its Strategic Petroleum Reserve, but this measure is widely seen as a stopgap, with global fuel supplies remaining tight and prices volatile.
   
-  **Trends and Predictions:**  
-  The majority of independent analysis now points to a high likelihood that the Trump administration is seeking an exit strategy, possibly using the threat of nuclear escalation as political cover. Iran’s negotiating position remains robust, with little incentive to concede without a comprehensive ceasefire that includes Israel. Given these dynamics, I assess with high confidence that the current stalemate will persist in the short term, with both sides maneuvering for leverage but no imminent breakthrough expected. The risk of miscalculation remains, but the trend is toward rhetorical escalation rather than immediate military intensification.
+  Looking ahead, the majority of independent analysts, including **Larry C. Johnson**, predict with high confidence that the conflict is set to continue, with little chance of a negotiated settlement in the near term. Johnson concludes, "There is a high chance of renewed US attacks on Iran and further deterioration of the international economic situation." The prevailing trend points toward protracted instability, both militarily and economically, as diplomatic avenues remain blocked and both sides entrench their positions.
 articles:
+  - title: Trump Pushes Fantasy about Iran, Hormuz and Enriched Uranium
+    url: https://sonar21.com/trump-pushes-fantasy-about-iran-hormuz-and-enriched-uranium/
+    text: 'On Friday, April 17, 2026, President Donald Trump posted a flurry of optimistic
+      messages on Truth Social (and referenced in interviews) framing the US-Iran war
+      as largely over or nearing a swift resolution. His claims centered on the reopening
+      of the Strait of Hormuz, progress toward a broader peace deal, and US leverage.
+      Most of what Trump wrote was forcefully denied by Iran (see image above). Here
+      is a summary of the various claims he made on Friday: The “Hormuz Strait situation
+      is over” and Iran has agreed to never close the Strait of Hormuz again . He described
+      it as “completely open and ready for business and full passage.” Iran (with US
+      help) is removing the mines it laid in the strait last month. Iran has agreed
+      to nearly all (or “virtually all”) of his demands , including ending its nuclear
+      program “forever.” The war is “ very close to over ” / “close to being over,”
+      and a final deal should be completed “ very quickly ” (possibly with talks this
+      weekend). He said most points have already been negotiated. He agreed to a two-week
+      double-sided ceasefire (suspended bombing/attacks) after requests from Pakistani
+      leaders, conditional on Iran fully opening the strait. Despite Iran’s announcement
+      that the strait is open, the US naval blockade of Iranian ports will remain in
+      full force until the overall transaction/deal with Iran is “100% complete.” China’s
+      President Xi Jinping is “ very happy ” that the strait is open/rapidly opening.
+      Trump claimed he is doing this “for them, also — and the World,” and that this
+      situation “will never happen again.” China has agreed not to send weapons to Iran
+      . Trump predicted his upcoming trip to China will be “ special ” and “potentially
+      Historic,” and that President Xi will give him a “ big, fat, hug .” He dismissed
+      NATO as a “ Paper Tiger ” that was “useless when needed.” After the strait reopened,
+      NATO reportedly offered help, but Trump told them to stay away unless they just
+      wanted to “load up their ships with oil.” He emphasized that the US has already
+      met and exceeded its military objectives . He claimed Iran now has a “ new regime
+      ” that is “much less radicalized and far more intelligent” than before, making
+      a long-term peace agreement possible. He reiterated that the U.S. will work with
+      Iran “at a leisurely pace” on finalizing the deal. Trump’s flurry of messaging
+      was primarily directed at manipulating the stock and oil markets. He succeeded,
+      with the US stock market soaring while the future price of oil fell significantly.
+      Investors foolishly believed that Trump was telling the truth. He was not… He
+      lied. Trump’s claim that the Strait of Hormuz “situation” was over is false. Iran
+      remains in firm control. Iran announced that the Strait of Hormuz was open to
+      commercial ships that are not tied to the US or Israel. Those ships must still
+      seek permission to pass from the IRGC. Iran also stipulated that no military ships
+      would be allowed into the Persian Gulf. Here’s the marinetraffic.com photo as
+      of 0020 hours eastern on 18 April. Not one US military ship in sight: Trump also
+      insisted that a deal with Iran regarding its enriched uranium was virtually a
+      done deal. He claimed that the US could retrieve Iran’s enriched uranium by going
+      in “with lots of excavators,” claiming Washington would “go in together with Iran”
+      and simply take it back to the United States. Iran quickly rejected this claim
+      with Foreign Ministry spokesman Esmail Baghaei stating that Iran will not transfer
+      its enriched uranium under any circumstances. Trump is doing one of two things:
+      1) Spinning the American public so that he can make a deal to end the war, declare
+      victory and head home, or 2) Or setting up a strawman by insisting a deal is at
+      hand and then, when the US refuses Iran’s demands as laid out in the 10-point
+      plan, blame Iran for refusing to negotiate and launch new attacks on Iran by April
+      26. I believe, based on the continuing flow of US military aircraft into the region,
+      that Trump is going to order new attacks on Iran before the end of April. The
+      Iranians are not backing down one iota from their 10-point plan… The US needs
+      to do two things: end sanctions against Iran and unfreeze Iranian assets. Israel
+      remains the wild card. It appears that Trump and his administration have successfully
+      forced Israel to holster its guns and stand down. If the ceasefire with Hezbollah
+      holds and the US/Israel ceasefire with Iran is extended, then I think Trump is
+      serious about finding an exit ramp. Stay tuned. Colonel Wilkerson and I did our
+      regular Friday chat with Nima: Here is my Counter Current’s chat with the great
+      Robert Barnes: Danny Davis invited me on to discuss the latest developments surrounding
+      Hormuz and the ceasefire with Hezbollah and Israel: Scott Ritter joined Ray and
+      me for Judge Napolitano’s Intel Roundtable : I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On April 17, 2026, President Donald Trump claimed on Truth
+      Social that the US-Iran war was nearing resolution, citing the reopening of the
+      Strait of Hormuz and Iran's agreement to his demands, which Iran vehemently denied.
+    paragraph_summary: On April 17, 2026, President Donald Trump took to Truth Social
+      to announce what he characterized as a significant de-escalation in the US-Iran
+      conflict, claiming the Strait of Hormuz was fully reopened and that Iran had agreed
+      to his demands, including the cessation of its nuclear program. He asserted that
+      the war was nearing an end, with a potential peace deal imminent, and announced
+      a two-week ceasefire contingent on Iran's compliance. Despite Iran's denial of
+      many of Trump's claims, he maintained that the US naval blockade would continue
+      until a complete agreement was reached. Trump also noted China's approval of the
+      situation and expressed optimism about his upcoming visit to China, while dismissing
+      NATO's relevance in the crisis.
+    published: '2026-04-18T04:56:34+00:00'
+  - title: Trump Pushes Fantasy about Iran, Hormuz and Enriched Uranium
+    url: https://sonar21.com/trump-pushes-fantasy-about-iran-hormuz-and-enriched-uranium/
+    text: 'On Friday, April 17, 2026, President Donald Trump posted a flurry of optimistic
+      messages on Truth Social (and referenced in interviews) framing the US-Iran war
+      as largely over or nearing a swift resolution. His claims centered on the reopening
+      of the Strait of Hormuz, progress toward a broader peace deal, and US leverage.
+      Most of what Trump wrote was forcefully denied by Iran (see image above). Here
+      is a summary of the various claims he made on Friday: The “Hormuz Strait situation
+      is over” and Iran has agreed to never close the Strait of Hormuz again . He described
+      it as “completely open and ready for business and full passage.” Iran (with US
+      help) is removing the mines it laid in the strait last month. Iran has agreed
+      to nearly all (or “virtually all”) of his demands , including ending its nuclear
+      program “forever.” The war is “ very close to over ” / “close to being over,”
+      and a final deal should be completed “ very quickly ” (possibly with talks this
+      weekend). He said most points have already been negotiated. He agreed to a two-week
+      double-sided ceasefire (suspended bombing/attacks) after requests from Pakistani
+      leaders, conditional on Iran fully opening the strait. Despite Iran’s announcement
+      that the strait is open, the US naval blockade of Iranian ports will remain in
+      full force until the overall transaction/deal with Iran is “100% complete.” China’s
+      President Xi Jinping is “ very happy ” that the strait is open/rapidly opening.
+      Trump claimed he is doing this “for them, also — and the World,” and that this
+      situation “will never happen again.” China has agreed not to send weapons to Iran
+      . Trump predicted his upcoming trip to China will be “ special ” and “potentially
+      Historic,” and that President Xi will give him a “ big, fat, hug .” He dismissed
+      NATO as a “ Paper Tiger ” that was “useless when needed.” After the strait reopened,
+      NATO reportedly offered help, but Trump told them to stay away unless they just
+      wanted to “load up their ships with oil.” He emphasized that the US has already
+      met and exceeded its military objectives . He claimed Iran now has a “ new regime
+      ” that is “much less radicalized and far more intelligent” than before, making
+      a long-term peace agreement possible. He reiterated that the U.S. will work with
+      Iran “at a leisurely pace” on finalizing the deal. Trump’s flurry of messaging
+      was primarily directed at manipulating the stock and oil markets. He succeeded,
+      with the US stock market soaring while the future price of oil fell significantly.
+      Investors foolishly believed that Trump was telling the truth. He was not… He
+      lied. Trump’s claim that the Strait of Hormuz “situation” was over is false. Iran
+      remains in firm control. Iran announced that the Strait of Hormuz was open to
+      commercial ships that are not tied to the US or Israel. Those ships must still
+      seek permission to pass from the IRGC. Iran also stipulated that no military ships
+      would be allowed into the Persian Gulf. Here’s the marinetraffic.com photo as
+      of 0020 hours eastern on 18 April. Not one US military ship in sight: Trump also
+      insisted that a deal with Iran regarding its enriched uranium was virtually a
+      done deal. He claimed that the US could retrieve Iran’s enriched uranium by going
+      in “with lots of excavators,” claiming Washington would “go in together with Iran”
+      and simply take it back to the United States. Iran quickly rejected this claim
+      with Foreign Ministry spokesman Esmail Baghaei stating that Iran will not transfer
+      its enriched uranium under any circumstances. Trump is doing one of two things:
+      1) Spinning the American public so that he can make a deal to end the war, declare
+      victory and head home, or 2) Or setting up a strawman by insisting a deal is at
+      hand and then, when the US refuses Iran’s demands as laid out in the 10-point
+      plan, blame Iran for refusing to negotiate and launch new attacks on Iran by April
+      26. I believe, based on the continuing flow of US military aircraft into the region,
+      that Trump is going to order new attacks on Iran before the end of April. The
+      Iranians are not backing down one iota from their 10-point plan… The US needs
+      to do two things: end sanctions against Iran and unfreeze Iranian assets. Israel
+      remains the wild card. It appears that Trump and his administration have successfully
+      forced Israel to holster its guns and stand down. If the ceasefire with Hezbollah
+      holds and the US/Israel ceasefire with Iran is extended, then I think Trump is
+      serious about finding an exit ramp. Stay tuned. Colonel Wilkerson and I did our
+      regular Friday chat with Nima: Here is my Counter Current’s chat with the great
+      Robert Barnes: Danny Davis invited me on to discuss the latest developments surrounding
+      Hormuz and the ceasefire with Hezbollah and Israel: Scott Ritter joined Ray and
+      me for Judge Napolitano’s Intel Roundtable : I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: On April 17, 2026, President Donald Trump claimed on Truth
+      Social that the US-Iran war was nearing resolution, citing the reopening of the
+      Strait of Hormuz and Iran's agreement to his demands, which Iran vehemently denied.
+    paragraph_summary: On April 17, 2026, President Donald Trump took to Truth Social
+      to announce what he characterized as a significant de-escalation in the US-Iran
+      conflict, claiming the Strait of Hormuz was fully reopened and that Iran had agreed
+      to his demands, including the cessation of its nuclear program. He asserted that
+      the war was nearing an end, with a potential peace deal imminent, and announced
+      a two-week ceasefire contingent on Iran's compliance. Despite Iran's denial of
+      many of Trump's claims, he maintained that the US naval blockade would continue
+      until a complete agreement was reached. Trump also noted China's approval of the
+      situation and expressed optimism about his upcoming visit to China, while dismissing
+      NATO's relevance in the crisis.
+    published: '2026-04-18T04:56:34+00:00'
+  - title: Donald Trump and Scott Bessent Destroy Any Chance to Negotiate an End to
+      the War with Iran
+    url: https://sonar21.com/donald-trump-and-scott-bessent-destroy-any-chance-to-negotiate-an-end-to-the-war-with-iran/
+    text: 'Let me give you the bottomline up front… Despite positive developments in
+      expanding the ceasefire to include Lebanon and Hezbollah, the Trump administration
+      announced new sanctions on Iran that will end any chance of negotiations with
+      Iran. Unless Trump reverses course, the US is likely to renew its attacks on Iran
+      and will exacerbate the international economic crisis that was ignited by the
+      closing of the Strait of Hormuz. What a crazy day for intense diplomacy and deal
+      making. Initially, there was a glimmer of hope. It started with the announcement
+      of a ceasefire between Lebanon and Israel, but it was unclear whether that included
+      Hezbollah. By 5 pm eastern daylight time, it was affirmed that this applied to
+      Hezbollah and Israel, although the two sides continued firing at each other until
+      the witching hour arrived. Iran’s Foreign Ministry Spokesman, Ismael Baqaei, welcomed
+      the development: The cessation of war in Lebanon was part of the ceasefire understanding
+      between Iran and America. From the very beginning, we emphasized the necessity
+      of establishing a simultaneous ceasefire across the entire region, including Lebanon.
+      We commend the steadfastness of the Lebanese people and the resistance fighters
+      in the face of aggression, and we thank Pakistan for its valuable efforts, especially
+      during the past hours. We express our solidarity with the Lebanese people and
+      government and emphasize the necessity of the complete withdrawal of the Zionist
+      entity from the occupied territories. We stress the need for the release of prisoners,
+      the return of the displaced, and the reconstruction of destroyed areas and infrastructure
+      with the support of the international community.’ While this is a welcome development,
+      the Trump administration is rejecting another critical Iranian prerequisite for
+      negotiations to end the war, i.e., Iran’s demand that sanctions be lifted. Instead
+      of lifting sanctions, the US Secretary of the Treasury announced a new round of
+      sweeping sanctions that are aimed at Iran and China. Scott Bessent made several
+      strong statements in on April 14–15 about intensifying economic pressure on Iran
+      through sanctions, with a direct focus on China as Iran’s main oil buyer. Bessent
+      described the new sanctions push as the “financial equivalent” of the earlier
+      US/Israeli kinetic (military) strikes on Iran. He called it part of “Operation
+      Economic Fury” , aimed at cutting off Iran’s revenue streams, especially from
+      illicit oil sales and smuggling networks. Bessent said that the US would impose
+      secondary sanctions on any countries, companies, or financial institutions that
+      continue buying Iranian oil or that allow Iranian money to flow through their
+      accounts. He described this as a “very stern measure.” He explicitly warned: If
+      Iranian funds are proven to be moving through a bank’s accounts, the US will apply
+      secondary sanctions. In the course of his diatribe, Bessent revealed that two
+      Chinese banks have already received formal letters from the US Treasury. The letters
+      state that if the banks are found processing Iranian transactions, they face the
+      risk of secondary sanctions. He declined to name the banks. This comes alongside
+      broader Treasury letters sent to financial institutions in China, Hong Kong, the
+      UAE, and Oman. Bessent went on to accuse China of hoarding oil during the conflict
+      (instead of helping stabilize global markets), limiting exports of certain goods,
+      and continuing to buy large volumes of Iranian crude (historically over 90% of
+      Iran’s oil exports, accounting for about 8% of China’s energy needs). He compared
+      this to China’s behavior during COVID-19 (hoarding medical supplies) and its past
+      threats on rare earth exports, calling it a pattern of unreliability. Bessent
+      stupidly believes the US naval blockade of the Strait of Hormuz, combined with
+      the sanctions threat, will cause China to pause or stop buying Iranian oil. He
+      stated that China “will no longer be able to obtain oil from Iran” under the new
+      enforcement. To make matters worse, Bessent announced that the Department of the
+      Treasury is canceling sanctions waivers on Iranian (and Russian) oil, targeting
+      Iran’s oil transportation infrastructure and elite smuggling networks (including
+      the Shamkhani family), and working to freeze Iranian leadership funds held abroad.
+      Gulf states are reportedly helping expose hidden Iranian accounts. I want to emphasize
+      that Bessent made these remarks during White House briefings shortly after a fragile
+      ceasefire in the US-Iran conflict. He said that the goal is to maximize economic
+      pain on the Iranian regime without necessarily resuming large-scale kinetic operations
+      — essentially shifting from military strikes to “maximum pressure” via sanctions
+      and blockades. China is the primary target because it has been Iran’s biggest
+      customer for discounted oil. Bessent framed the policy as a coordinated whole-of-government
+      approach under President Trump to cut off Iran’s funding for terrorism and proxies.
+      Unless Bessent reverses himself in the next 24 hours there will be no further
+      negotiations between Iran and the United States. China played a critical role
+      behind the scenes in bringing the US and Iran to Islamabad last Saturday for the
+      first round of negotiations. Bessent’s explicit threats against China has enraged
+      the Chinese and solidified their belief that the US is not a reliable negotiating
+      partner. Nope… We’re the enemy. Any hope that the US could use China to pressure
+      Iran to open the Strait of Hormuz is dashed. This lame, feeble attempt to bully
+      China is backfiring as I write this. Chinese financial analyst, Sean Foo, is gobsmacked
+      by the audacity of Bessent’s threats. China has received the message. Unless the
+      US reverses course, there will be no meeting between Xi Jinping and Trump in China.
+      It was a busy podcast day. I started with Danny Davis: Danny Haiphong, who is
+      in China, stayed up late to interview me: I also did my regular Thursday chat
+      with my buddy, Garland Nixon: I closed out the day with the delightful Sabby Sabs:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite initial hopes for a ceasefire between Lebanon and
+      Israel that included Hezbollah, the Trump administration's announcement of new
+      sanctions on Iran has effectively ended any prospects for negotiations, likely
+      leading to renewed US attacks on Iran and worsening the international economic
+      crisis.
+    paragraph_summary: Despite a recent ceasefire agreement involving Lebanon and Hezbollah,
+      the Trump administration has announced new sanctions on Iran, effectively stalling
+      any potential negotiations with the country. While there was initial optimism
+      regarding the ceasefire, which was confirmed to include Hezbollah, ongoing hostilities
+      persisted between Israel and Hezbollah. Iran's Foreign Ministry welcomed the ceasefire
+      as a positive step but criticized the U.S. for not lifting sanctions, a key Iranian
+      demand for further negotiations. The new sanctions are likely to escalate tensions
+      and could lead to renewed U.S. military actions against Iran, worsening the international
+      economic crisis triggered by the closure of the Strait of Hormuz.
+    published: '2026-04-17T03:21:47+00:00'
+  - title: Donald Trump and Scott Bessent Destroy Any Chance to Negotiate an End to
+      the War with Iran
+    url: https://sonar21.com/donald-trump-and-scott-bessent-destroy-any-chance-to-negotiate-an-end-to-the-war-with-iran/
+    text: 'Let me give you the bottomline up front… Despite positive developments in
+      expanding the ceasefire to include Lebanon and Hezbollah, the Trump administration
+      announced new sanctions on Iran that will end any chance of negotiations with
+      Iran. Unless Trump reverses course, the US is likely to renew its attacks on Iran
+      and will exacerbate the international economic crisis that was ignited by the
+      closing of the Strait of Hormuz. What a crazy day for intense diplomacy and deal
+      making. Initially, there was a glimmer of hope. It started with the announcement
+      of a ceasefire between Lebanon and Israel, but it was unclear whether that included
+      Hezbollah. By 5 pm eastern daylight time, it was affirmed that this applied to
+      Hezbollah and Israel, although the two sides continued firing at each other until
+      the witching hour arrived. Iran’s Foreign Ministry Spokesman, Ismael Baqaei, welcomed
+      the development: The cessation of war in Lebanon was part of the ceasefire understanding
+      between Iran and America. From the very beginning, we emphasized the necessity
+      of establishing a simultaneous ceasefire across the entire region, including Lebanon.
+      We commend the steadfastness of the Lebanese people and the resistance fighters
+      in the face of aggression, and we thank Pakistan for its valuable efforts, especially
+      during the past hours. We express our solidarity with the Lebanese people and
+      government and emphasize the necessity of the complete withdrawal of the Zionist
+      entity from the occupied territories. We stress the need for the release of prisoners,
+      the return of the displaced, and the reconstruction of destroyed areas and infrastructure
+      with the support of the international community.’ While this is a welcome development,
+      the Trump administration is rejecting another critical Iranian prerequisite for
+      negotiations to end the war, i.e., Iran’s demand that sanctions be lifted. Instead
+      of lifting sanctions, the US Secretary of the Treasury announced a new round of
+      sweeping sanctions that are aimed at Iran and China. Scott Bessent made several
+      strong statements in on April 14–15 about intensifying economic pressure on Iran
+      through sanctions, with a direct focus on China as Iran’s main oil buyer. Bessent
+      described the new sanctions push as the “financial equivalent” of the earlier
+      US/Israeli kinetic (military) strikes on Iran. He called it part of “Operation
+      Economic Fury” , aimed at cutting off Iran’s revenue streams, especially from
+      illicit oil sales and smuggling networks. Bessent said that the US would impose
+      secondary sanctions on any countries, companies, or financial institutions that
+      continue buying Iranian oil or that allow Iranian money to flow through their
+      accounts. He described this as a “very stern measure.” He explicitly warned: If
+      Iranian funds are proven to be moving through a bank’s accounts, the US will apply
+      secondary sanctions. In the course of his diatribe, Bessent revealed that two
+      Chinese banks have already received formal letters from the US Treasury. The letters
+      state that if the banks are found processing Iranian transactions, they face the
+      risk of secondary sanctions. He declined to name the banks. This comes alongside
+      broader Treasury letters sent to financial institutions in China, Hong Kong, the
+      UAE, and Oman. Bessent went on to accuse China of hoarding oil during the conflict
+      (instead of helping stabilize global markets), limiting exports of certain goods,
+      and continuing to buy large volumes of Iranian crude (historically over 90% of
+      Iran’s oil exports, accounting for about 8% of China’s energy needs). He compared
+      this to China’s behavior during COVID-19 (hoarding medical supplies) and its past
+      threats on rare earth exports, calling it a pattern of unreliability. Bessent
+      stupidly believes the US naval blockade of the Strait of Hormuz, combined with
+      the sanctions threat, will cause China to pause or stop buying Iranian oil. He
+      stated that China “will no longer be able to obtain oil from Iran” under the new
+      enforcement. To make matters worse, Bessent announced that the Department of the
+      Treasury is canceling sanctions waivers on Iranian (and Russian) oil, targeting
+      Iran’s oil transportation infrastructure and elite smuggling networks (including
+      the Shamkhani family), and working to freeze Iranian leadership funds held abroad.
+      Gulf states are reportedly helping expose hidden Iranian accounts. I want to emphasize
+      that Bessent made these remarks during White House briefings shortly after a fragile
+      ceasefire in the US-Iran conflict. He said that the goal is to maximize economic
+      pain on the Iranian regime without necessarily resuming large-scale kinetic operations
+      — essentially shifting from military strikes to “maximum pressure” via sanctions
+      and blockades. China is the primary target because it has been Iran’s biggest
+      customer for discounted oil. Bessent framed the policy as a coordinated whole-of-government
+      approach under President Trump to cut off Iran’s funding for terrorism and proxies.
+      Unless Bessent reverses himself in the next 24 hours there will be no further
+      negotiations between Iran and the United States. China played a critical role
+      behind the scenes in bringing the US and Iran to Islamabad last Saturday for the
+      first round of negotiations. Bessent’s explicit threats against China has enraged
+      the Chinese and solidified their belief that the US is not a reliable negotiating
+      partner. Nope… We’re the enemy. Any hope that the US could use China to pressure
+      Iran to open the Strait of Hormuz is dashed. This lame, feeble attempt to bully
+      China is backfiring as I write this. Chinese financial analyst, Sean Foo, is gobsmacked
+      by the audacity of Bessent’s threats. China has received the message. Unless the
+      US reverses course, there will be no meeting between Xi Jinping and Trump in China.
+      It was a busy podcast day. I started with Danny Davis: Danny Haiphong, who is
+      in China, stayed up late to interview me: I also did my regular Thursday chat
+      with my buddy, Garland Nixon: I closed out the day with the delightful Sabby Sabs:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Despite initial hopes for a ceasefire between Lebanon and
+      Israel that included Hezbollah, the Trump administration's announcement of new
+      sanctions on Iran has effectively ended any prospects for negotiations, likely
+      leading to renewed US attacks on Iran and worsening the international economic
+      crisis.
+    paragraph_summary: Despite a recent ceasefire agreement involving Lebanon and Hezbollah,
+      the Trump administration has announced new sanctions on Iran, effectively stalling
+      any potential negotiations with the country. While there was initial optimism
+      regarding the ceasefire, which was confirmed to include Hezbollah, ongoing hostilities
+      persisted between Israel and Hezbollah. Iran's Foreign Ministry welcomed the ceasefire
+      as a positive step but criticized the U.S. for not lifting sanctions, a key Iranian
+      demand for further negotiations. The new sanctions are likely to escalate tensions
+      and could lead to renewed U.S. military actions against Iran, worsening the international
+      economic crisis triggered by the closure of the Strait of Hormuz.
+    published: '2026-04-17T03:21:47+00:00'
+  - title: Watch What Trump Does, Ignore What He Says… More War on the Agenda
+    url: https://sonar21.com/watch-what-trump-does-ignore-what-he-says-more-war-on-the-agenda/
+    text: 'Trump is going to attack Iran again — perhaps as early as this weekend —
+      as a prelude to declaring victory and withdrawing US forces from the Persian Gulf
+      area. I say this because Trump, via Secretary of War Hegseth, has dispatched 10,000
+      more US military personnel to the Persian Gulf region, along with the USS George
+      H.W. Bush carrier strike group. In addition, there has been a sizeable fleet of
+      C-17s flowing into Jordan and Saudi Arabia. In other words, while Trump is telling
+      interviewers that the war is over, he is busy prepping for another strike. In
+      preparation for that strike, the Trump team if pushing a frantic information operation
+      that insists that the US has blocked dozen of ships from entering and leaving
+      the Persian Gulf on the first full day of the US embargo. This is a lie. The Pentagon
+      is cooperating with this disinformation campaign… Certainly not the first time
+      that the Department of War and a theater commander have issued false reports in
+      order to persuade the citizens of the US that the war is going our way. The reality
+      is that the US still does not have enough ships in place, along with helicopters,
+      to carryout an effective blockade. Moreover, the US is keeping its ships at least
+      500 miles from the Iranian coast out of fear of being struck by a Close-Range
+      Ballistic Missile (CRMB)  or a Coastal Defense Cruise Missile (CDCM). The fact
+      that the US has failed to crush Iran’s ballistic and cruise missile threats is
+      highlighted by the voyage of the USS George H.W. Bush, which shunned the risk
+      of sailing though the Suez canal and the Red Sea, and chose instead to sail around
+      Africa. I had the privilege of interviewing Robert Barnes this morning — hopefully
+      the video will be posted on Counter Currents by Friday at the latest — and he
+      provided shocking details of what is going on behind the scene at the White House.
+      Donald Trump began exhibiting signs of early dementia in September 2025… He frequently
+      confabulates, he routinely loses his temper and unleashes screaming rants, and
+      he is incapable of doing critical thinking. According to Barnes, Trump’s senior
+      White House staff are behaving like children with an abusive, drug-addled father…
+      i.e., they walk on egg shells fearful of saying anything that might ignite Trump’s
+      rage. Trump genuinely believes that the US has vanquished Iran and he does not
+      comprehend the massive economic damage that the closure of the Strait of Hormuz
+      is doing to the global economy. His declining mental state is dangerous because
+      he is prone to make rash decisions based solely on his emotional state at the
+      time. JD Vance reportedly is working feverishly behind the scenes to arrange a
+      new meeting with the Iranians in Islamabad. Iran is insisting that there must
+      be a ceasefire between the Israelis and Hezbollah in Lebanon before another meeting
+      with Vance. Late Wednesday night in Tel Aviv, the Israeli Security Council rejected
+      the ceasefire and vowed to continue with its invasion of southern Lebanon. I hope
+      I am wrong and that Vance succeeds in getting Israel to agree to the ceasefire
+      with Hezbollah, but I think that Hezbollah must inflict more casualties on the
+      Israelis before they will be ready to call for and accept a ceasefire. Unless
+      Trump orders US military forces in Jordan and Saudi Arabia to end operations and
+      return to the United States, I think we are in for a new round of unnecessary
+      violence. I discussed these issues today with Glenn Diesen: I also had a good
+      session with Mario Nawfal on the same topic: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Trump is reportedly preparing for a military strike against
+      Iran, potentially as soon as this weekend, while simultaneously claiming that
+      the war is over, as evidenced by the deployment of additional US troops and naval
+      assets to the Persian Gulf region.
+    paragraph_summary: The article discusses the possibility of Donald Trump launching
+      an attack on Iran soon, potentially as early as this weekend, as part of a strategy
+      to declare victory and withdraw U.S. forces from the Persian Gulf. Despite publicly
+      stating that the war is over, Trump has increased military presence in the region
+      by sending an additional 10,000 troops and the USS George H.W. Bush carrier strike
+      group. The article criticizes the Trump administration for engaging in a disinformation
+      campaign about the effectiveness of U.S. military operations, claiming that reports
+      of blocking ships in the Persian Gulf are false. It highlights the Pentagon's
+      lack of sufficient naval resources to enforce an effective blockade and notes
+      the risks posed by Iran's missile capabilities. Additionally, the article mentions
+      concerns about Trump's mental health, suggesting he has been showing signs of
+      early dementia.
+    published: '2026-04-16T05:17:37+00:00'
+  - title: Watch What Trump Does, Ignore What He Says… More War on the Agenda
+    url: https://sonar21.com/watch-what-trump-does-ignore-what-he-says-more-war-on-the-agenda/
+    text: 'Trump is going to attack Iran again — perhaps as early as this weekend —
+      as a prelude to declaring victory and withdrawing US forces from the Persian Gulf
+      area. I say this because Trump, via Secretary of War Hegseth, has dispatched 10,000
+      more US military personnel to the Persian Gulf region, along with the USS George
+      H.W. Bush carrier strike group. In addition, there has been a sizeable fleet of
+      C-17s flowing into Jordan and Saudi Arabia. In other words, while Trump is telling
+      interviewers that the war is over, he is busy prepping for another strike. In
+      preparation for that strike, the Trump team if pushing a frantic information operation
+      that insists that the US has blocked dozen of ships from entering and leaving
+      the Persian Gulf on the first full day of the US embargo. This is a lie. The Pentagon
+      is cooperating with this disinformation campaign… Certainly not the first time
+      that the Department of War and a theater commander have issued false reports in
+      order to persuade the citizens of the US that the war is going our way. The reality
+      is that the US still does not have enough ships in place, along with helicopters,
+      to carryout an effective blockade. Moreover, the US is keeping its ships at least
+      500 miles from the Iranian coast out of fear of being struck by a Close-Range
+      Ballistic Missile (CRMB)  or a Coastal Defense Cruise Missile (CDCM). The fact
+      that the US has failed to crush Iran’s ballistic and cruise missile threats is
+      highlighted by the voyage of the USS George H.W. Bush, which shunned the risk
+      of sailing though the Suez canal and the Red Sea, and chose instead to sail around
+      Africa. I had the privilege of interviewing Robert Barnes this morning — hopefully
+      the video will be posted on Counter Currents by Friday at the latest — and he
+      provided shocking details of what is going on behind the scene at the White House.
+      Donald Trump began exhibiting signs of early dementia in September 2025… He frequently
+      confabulates, he routinely loses his temper and unleashes screaming rants, and
+      he is incapable of doing critical thinking. According to Barnes, Trump’s senior
+      White House staff are behaving like children with an abusive, drug-addled father…
+      i.e., they walk on egg shells fearful of saying anything that might ignite Trump’s
+      rage. Trump genuinely believes that the US has vanquished Iran and he does not
+      comprehend the massive economic damage that the closure of the Strait of Hormuz
+      is doing to the global economy. His declining mental state is dangerous because
+      he is prone to make rash decisions based solely on his emotional state at the
+      time. JD Vance reportedly is working feverishly behind the scenes to arrange a
+      new meeting with the Iranians in Islamabad. Iran is insisting that there must
+      be a ceasefire between the Israelis and Hezbollah in Lebanon before another meeting
+      with Vance. Late Wednesday night in Tel Aviv, the Israeli Security Council rejected
+      the ceasefire and vowed to continue with its invasion of southern Lebanon. I hope
+      I am wrong and that Vance succeeds in getting Israel to agree to the ceasefire
+      with Hezbollah, but I think that Hezbollah must inflict more casualties on the
+      Israelis before they will be ready to call for and accept a ceasefire. Unless
+      Trump orders US military forces in Jordan and Saudi Arabia to end operations and
+      return to the United States, I think we are in for a new round of unnecessary
+      violence. I discussed these issues today with Glenn Diesen: I also had a good
+      session with Mario Nawfal on the same topic: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Trump is reportedly preparing for a military strike against
+      Iran, potentially as soon as this weekend, while simultaneously claiming that
+      the war is over, as evidenced by the deployment of additional US troops and naval
+      assets to the Persian Gulf region.
+    paragraph_summary: The article discusses the possibility of Donald Trump launching
+      an attack on Iran soon, potentially as early as this weekend, as part of a strategy
+      to declare victory and withdraw U.S. forces from the Persian Gulf. Despite publicly
+      stating that the war is over, Trump has increased military presence in the region
+      by sending an additional 10,000 troops and the USS George H.W. Bush carrier strike
+      group. The article criticizes the Trump administration for engaging in a disinformation
+      campaign about the effectiveness of U.S. military operations, claiming that reports
+      of blocking ships in the Persian Gulf are false. It highlights the Pentagon's
+      lack of sufficient naval resources to enforce an effective blockade and notes
+      the risks posed by Iran's missile capabilities. Additionally, the article mentions
+      concerns about Trump's mental health, suggesting he has been showing signs of
+      early dementia.
+    published: '2026-04-16T05:17:37+00:00'
   - title: Is Donald Trump Trying to Create a Nuclear Narrative as his Escape ramp from
       the War with Iran?
     url: https://sonar21.com/is-donald-trump-trying-to-create-a-nuclear-narrative-as-his-escape-ramp-from-the-war-with-iran/

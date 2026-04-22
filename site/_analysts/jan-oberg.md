@@ -7,14 +7,130 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As geopolitical tensions continue to dominate headlines, recent analysis from **Jan Oberg** offers a measured perspective on the risks of global conflict and the evolving international order. The latest TFF Peace Pulse initiative, launched on April 13, aims to counter widespread fears of a third world war. In his inaugural message, **Oberg** asserts, “WWIII? Just Doubt It,” emphasizing that while the current era is fraught with danger, the likelihood of a global conflagration remains low. He advocates for constructive alternatives and renewed hope, suggesting that panic-driven narratives often obscure opportunities for peace.
+  As tensions persist in the wake of the recent US-Israel-Iran ceasefire, the broader geopolitical landscape is being shaped by shifting alliances, debates over European security, and reflections on the future of peace advocacy.
   
-  Meanwhile, the ongoing US-Israeli conflict in Iran continues to inflict severe humanitarian consequences. **Oberg** highlights the personal toll of the violence, referencing the devastation experienced by civilians in Tehran. He underscores that the suffering extends beyond immediate casualties, affecting families and communities in profound ways. This perspective aligns with TFF’s broader mission, as detailed in its 40th-anniversary reflections, to prioritize peacebuilding and challenge the prevailing militaristic discourse.
+  The most immediate development centers on the fragile ceasefire between Iran and the US-Israel axis. In a detailed interview, **Farhang Jahanpour** underscores the complexity of the situation, noting that the ceasefire is "not merely a bilateral matter but has profound implications for the entire region and beyond." According to Jahanpour, the agreement is a temporary measure, with underlying issues—such as sanctions, regional rivalries, and nuclear concerns—remaining unresolved. The consensus among analysts is that while open conflict has been paused, the risk of escalation persists unless broader diplomatic engagement is pursued.
   
-  In a broader context, **Oberg** has repeatedly pointed to the decline of the so-called Western Empire, suggesting that its waning influence could create space for more equitable and peaceful global arrangements. He notes that this transition, while destabilizing in the short term, “opens great opportunities for a better world.” The majority opinion across his recent work is that the current moment, though turbulent, is not preordained to spiral into global war.
+  Simultaneously, the concept of collective security among Western allies is being critically reassessed. In a co-authored piece with Li Xing, **Jan Oberg** challenges the prevailing narrative that alliances inherently guarantee security. Oberg argues that "the myth of allies’ security often leads to increased militarization and dependency, rather than genuine safety." This perspective is gaining traction, especially as European nations grapple with their strategic autonomy in a post-American-led order.
   
-  Looking ahead, **Oberg** expresses high confidence that fears of imminent world war are exaggerated, stating that it is “most definitely” possible to avoid such a scenario if alternative, peace-oriented policies are pursued. He predicts that the decline of Western dominance will continue, and with it, new opportunities for peace research and diplomacy will emerge—provided that societies resist the pull of militaristic narratives and invest in constructive dialogue.
+  Within Europe, calls for a renewed debate on the continent's future are intensifying. In the latest TFF Peace Pulse, **Jan Oberg** urges for "an all-European debate about Europe’s future," emphasizing the need for independent, inclusive discussions free from external pressures. Oberg highlights that such a debate is crucial for Europe to chart its own course amid global uncertainties.
+  
+  Looking ahead, the prevailing trend is a gradual but unmistakable shift away from reliance on traditional alliances and militarized security frameworks. There is a growing movement toward diplomatic solutions and regional self-determination. Based on the current trajectory, it is quite likely that Europe will increasingly seek to define its own security and political identity, while the Middle East remains at risk of renewed tensions unless substantive negotiations address the root causes of conflict. As Oberg concludes, the path to lasting peace requires "constructive alternatives and hope for a better future," a sentiment echoed by a majority of independent analysts.
 articles:
+  - title: Allies’ security myth
+    url: https://transnational.live/2026/04/17/allies-security-myth/
+    text: Jan Oberg, TFF director April 17, 2026 Danish-Chinese professor Li Xing –
+      who has been at Aalborg University for many years, but is now in China and is
+      also a new TFF Associate – and I have just published this Europe article in the
+      prestigious China Daily. Towards the end, we also say a few things about what
+      […] The post Allies’ security myth appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg and Danish-Chinese professor Li Xing have published
+      an article in China Daily discussing the myth of allies' security.
+    paragraph_summary: Jan Oberg, director of TFF, and Danish-Chinese professor Li Xing,
+      now based in China, have co-authored an article for China Daily discussing the
+      concept of security among allies. The piece critiques the prevailing myths surrounding
+      allied security, suggesting that these notions may not align with the current
+      geopolitical realities. The article aims to provoke thought and discussion on
+      the effectiveness and implications of traditional security alliances in today's
+      world.
+    published: '2026-04-17T10:17:23+00:00'
+  - title: Allies’ security myth
+    url: https://transnational.live/2026/04/17/allies-security-myth/
+    text: Jan Oberg, TFF director April 17, 2026 Danish-Chinese professor Li Xing –
+      who has been at Aalborg University for many years, but is now in China and is
+      also a new TFF Associate – and I have just published this Europe article in the
+      prestigious China Daily. Towards the end, we also say a few things about what
+      […] The post Allies’ security myth appeared first on The Transnational .
+    one_sentence_summary: Jan Oberg and Danish-Chinese professor Li Xing have published
+      an article in China Daily discussing the myth of allies' security.
+    paragraph_summary: Jan Oberg, director of TFF, and Danish-Chinese professor Li Xing,
+      now based in China, have co-authored an article for China Daily discussing the
+      concept of security among allies. The piece critiques the prevailing myths surrounding
+      allied security, suggesting that these notions may not align with the current
+      geopolitical realities. The article aims to provoke thought and discussion on
+      the effectiveness and implications of traditional security alliances in today's
+      world.
+    published: '2026-04-17T10:17:23+00:00'
+  - title: Unpacking the Iran-USA ceasefire with world expert Farhang Jahanpour
+    url: https://transnational.live/2026/04/17/unpacking-the-iran-usa-ceasefire-with-world-expert-farhang-jahanpour/
+    text: Farhang Jahanpour April 17, 2026 If you only see one video to get the – broader
+      – background to the US-Israel-Iran-ME conflicts and wars, this should be it. Jan
+      Oberg, TFF director I am very pleased to give this in-depth interview with TFF
+      Associate Farhang Jahanpour a reposting boost. Not only because he, based on his
+      tremendous […] The post Unpacking the Iran-USA ceasefire with world expert Farhang
+      Jahanpour appeared first on The Transnational .
+    one_sentence_summary: The article features an in-depth interview with Farhang Jahanpour,
+      who provides valuable insights into the complexities of the US-Israel-Iran conflicts
+      and the recent ceasefire, highlighting the broader geopolitical implications.
+    paragraph_summary: In an insightful interview, Farhang Jahanpour discusses the complexities
+      of the US-Israel-Iran conflicts and the broader Middle Eastern wars, emphasizing
+      the importance of understanding these dynamics for a comprehensive perspective
+      on the ongoing tensions. The conversation, facilitated by Jan Oberg, highlights
+      Jahanpour's expertise and provides valuable context for viewers seeking to grasp
+      the intricacies of the Iran-USA ceasefire and its implications for regional stability.
+      The article serves as a significant resource for those looking to deepen their
+      understanding of these geopolitical issues.
+    published: '2026-04-17T10:04:04+00:00'
+  - title: Unpacking the Iran-USA ceasefire with world expert Farhang Jahanpour
+    url: https://transnational.live/2026/04/17/unpacking-the-iran-usa-ceasefire-with-world-expert-farhang-jahanpour/
+    text: Farhang Jahanpour April 17, 2026 If you only see one video to get the – broader
+      – background to the US-Israel-Iran-ME conflicts and wars, this should be it. Jan
+      Oberg, TFF director I am very pleased to give this in-depth interview with TFF
+      Associate Farhang Jahanpour a reposting boost. Not only because he, based on his
+      tremendous […] The post Unpacking the Iran-USA ceasefire with world expert Farhang
+      Jahanpour appeared first on The Transnational .
+    one_sentence_summary: The article features an in-depth interview with Farhang Jahanpour,
+      who provides valuable insights into the complexities of the US-Israel-Iran conflicts
+      and the recent ceasefire, highlighting the broader geopolitical implications.
+    paragraph_summary: In an insightful interview, Farhang Jahanpour discusses the complexities
+      of the US-Israel-Iran conflicts and the broader Middle Eastern wars, emphasizing
+      the importance of understanding these dynamics for a comprehensive perspective
+      on the ongoing tensions. The conversation, facilitated by Jan Oberg, highlights
+      Jahanpour's expertise and provides valuable context for viewers seeking to grasp
+      the intricacies of the Iran-USA ceasefire and its implications for regional stability.
+      The article serves as a significant resource for those looking to deepen their
+      understanding of these geopolitical issues.
+    published: '2026-04-17T10:04:04+00:00'
+  - title: 'TFF Peace Pulse # 2 – We need an all-European debate about Europe’s future'
+    url: https://transnational.live/2026/04/16/tff-peace-pulse-2-we-need-an-all-european-debate-about-europes-future/
+    text: 'Jan Oberg, TFF director April 16, 2026 These Peace Pulses will only be published
+      here a few times. You will also not find them on YouTube and Vimeo because both
+      platforms have blocked TFF and me; you know, peace is dangerous these days. Later,
+      you will find them, along with many other TFF-created videos, on […] The post
+      TFF Peace Pulse # 2 – We need an all-European debate about Europe’s future appeared
+      first on The Transnational .'
+    one_sentence_summary: Jan Oberg, director of TFF, emphasizes the need for a comprehensive
+      European debate on the continent's future in the second installment of TFF Peace
+      Pulse, which will be published exclusively on their platform due to restrictions
+      from YouTube and Vimeo.
+    paragraph_summary: In the second installment of the TFF Peace Pulse series, Jan
+      Oberg emphasizes the necessity for a comprehensive debate about Europe's future,
+      highlighting the challenges and dangers associated with discussions on peace in
+      contemporary society. He notes that these Peace Pulses will be published infrequently
+      and will not be available on popular platforms like YouTube and Vimeo due to their
+      restrictions on TFF and his content. Oberg suggests that the dialogue surrounding
+      peace is increasingly viewed as a threat in today's world.
+    published: '2026-04-16T09:22:31+00:00'
+  - title: 'TFF Peace Pulse # 2 – We need an all-European debate about Europe’s future'
+    url: https://transnational.live/2026/04/16/tff-peace-pulse-2-we-need-an-all-european-debate-about-europes-future/
+    text: 'Jan Oberg, TFF director April 16, 2026 These Peace Pulses will only be published
+      here a few times. You will also not find them on YouTube and Vimeo because both
+      platforms have blocked TFF and me; you know, peace is dangerous these days. Later,
+      you will find them, along with many other TFF-created videos, on […] The post
+      TFF Peace Pulse # 2 – We need an all-European debate about Europe’s future appeared
+      first on The Transnational .'
+    one_sentence_summary: Jan Oberg, director of TFF, emphasizes the need for a comprehensive
+      European debate on the continent's future in the second installment of TFF Peace
+      Pulse, which will be published exclusively on their platform due to restrictions
+      from YouTube and Vimeo.
+    paragraph_summary: In the second installment of the TFF Peace Pulse series, Jan
+      Oberg emphasizes the necessity for a comprehensive debate about Europe's future,
+      highlighting the challenges and dangers associated with discussions on peace in
+      contemporary society. He notes that these Peace Pulses will be published infrequently
+      and will not be available on popular platforms like YouTube and Vimeo due to their
+      restrictions on TFF and his content. Oberg suggests that the dialogue surrounding
+      peace is increasingly viewed as a threat in today's world.
+    published: '2026-04-16T09:22:31+00:00'
   - title: 'The first of the new TFF Peace Pulse – #1 “WWIII? Just Doubt It”'
     url: https://transnational.live/2026/04/13/the-first-of-the-new-tff-peace-pulse-1-wwiii-just-doubt-it/
     text: 'In contrast to most, we’ll bring alternatives, solutions, hope and strategies

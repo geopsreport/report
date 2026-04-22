@@ -7,14 +7,288 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing conflict between the United States, Israel, and Iran, with ripple effects across the Middle East and the broader Global South. The latest analyses emphasize the intensification of U.S. militarism and its consequences for global stability, sovereignty, and human rights.
+  The geopolitical landscape remains dominated by the ongoing conflict involving Israel, the United States, and Iran, with significant legal, humanitarian, and global security implications. Tensions have escalated sharply since the joint Israeli-U.S. attacks on Iran, which analysts widely characterize as both unprovoked and destabilizing for the region.
   
-  **Richard Falk**’s most recent commentary, “Future No Kings Protests: Weeping and Resisting in Global Solidarity,” underscores a growing wave of international protest against U.S. imperialism, particularly in relation to the Gaza conflict. Falk highlights that these protests are not isolated but part of a broader condemnation of policies that undermine sovereignty and perpetuate violence, especially in the Global South. He draws attention to the erosion of legal and moral accountability, linking current U.S. actions to a wider pattern of oppression, including the role of agencies like ICE.
+  **Richard Falk** highlights that Israel’s recent targeting of civilian infrastructure—including schools and hospitals—constitutes clear violations of international humanitarian law and may amount to war crimes under the Rome Statute. He notes, “Israel has historically disregarded these legal obligations as affirmed by the International Court of Justice’s 2024 Advisory Opinion,” underscoring a pattern of impunity that further complicates prospects for accountability.
   
-  Meanwhile, the “Peace for Iran: Declaration of Global Conscience” article details a significant development: a coalition of international scholars and former officials has issued a declaration demanding an end to U.S. aggression against Iran. This coalition outlines six non-negotiable terms, calling for a global awakening and active resistance to what they describe as imperialism and war crimes. The declaration is gaining traction among civil society groups, signaling a potential shift in public discourse and international advocacy.
+  Global civil society responses are intensifying. A coalition of international scholars and former officials has issued a declaration demanding six non-negotiable terms to end U.S. aggression against Iran, urging a revival of global conscience and resistance to what they describe as imperialism and war crimes. This movement is gaining traction, reflecting a broader condemnation of Western militarism and the erosion of sovereignty in the Global South.
   
-  Looking ahead, the trends suggest a continued escalation of protest movements and calls for accountability, both within the U.S. and globally. The majority of analysts, including **Richard Falk**, agree that unless there is a substantive change in U.S. foreign policy, these movements will intensify. There is a high chance that international pressure will mount, particularly as the humanitarian crisis in Gaza and the broader Middle East deepens. I guarantee that the legitimacy of U.S. actions will face increasing scrutiny, and it is most definitely expected that the demand for legal and moral accountability will remain at the forefront of global debates in the coming weeks.
+  Looking ahead, the majority of analysts agree that the risk of a broader regional war remains high, with significant potential for spillover effects on international travel, energy markets, and global stability. There is a high chance that without a dramatic policy shift from Washington and Tel Aviv, the conflict will intensify, drawing in additional regional actors and deepening the humanitarian crisis. Based on current trends, I guarantee that legal and civil society pressure on the U.S. and Israel will continue to mount, though the immediate prospects for a negotiated settlement remain dim.
 articles:
+  - title: Responses to Questions from Asgar Ghahremanpour, Iran Daily, 4/26; Israel/Iran/IL
+    url: https://richardfalk.org/2026/04/17/responses-to-questions-from-asgar-ghahremanpour-iran-daily-4-26-israel-iran-il/
+    text: '1 . From the perspective of international law and the Geneva Conventions,
+      how do you assess Israel’s targeting of civilian infrastructure, including elementary
+      schools, universities, and hospitals — facilities that enjoy special protection
+      under international humanitarian law? Specifically, how do such actions constitute
+      war crimes under the Rome Statute? Israel has ignored international law since
+      its inception in 1948, including the legal obligations of an Occupying Power in
+      the Palestinian Territories of Gaza, the West Bank, and East Jerusalem. Such an
+      assessment has been validated by the International Court of Justice in its Advisory
+      Opinion of July 19, 2024, Legal Consequences of Israel arising from the policies
+      and practices of Israel in the Occupied Palestinian Territories, including East
+      Jerusalem. This authoritative rendering of international law in a highly professional
+      manner, called for the withdrawal by Israel from these Palestinian territories
+      occupied since 1967 within one years, a judicial determination overwhelmingly
+      endorsed by the UN General Assembly. Several years before the Gaza attack on Israel
+      border villages of October 7, 2023 Israel was widely regarded as guilty of the
+      distinct crime as specified in the 1973 Apartheid Convention on the Suppression
+      and Punishment of the Crime of Apartheid, considered binding on all states. This
+      legal assessment was made in a series of independent studies and reports under
+      the auspices of the UN and leading human rights organizations, including Amnesty
+      International and Human Rights Watch. 2. As a leading scholar of international
+      law, how do you view the systematic nature of Israel’s attacks on civilian infrastructure?
+      Do these actions, particularly the targeting of schools and universities where
+      children and young people were present, meet the legal definition of crimes against
+      humanity? It is a fundamental norm of international law that the targeting of
+      civilian infrastructure is not only unlawful, it is a war crime, if sustained
+      it is a crime against humanity. Israel has repeatedly targeted schools, hospitals,
+      and heritage sites resulting to severe physical damage but also in many deaths
+      and injuries. This unacceptable pattern of war crimes has been aggravated by the
+      blockage of humanitarian aid causing widespread disease, starvation, and malnutrition.
+      There is little doubt that any objective international criminal court would find
+      these combat tactics to constitute crimes against humanity. 3. The United States
+      continues to provide military and political support to Israel. From the standpoint
+      of international law, to what extent is the US complicit in the commission of
+      war crimes and crimes against humanity? Under the principle of “universal jurisdiction”
+      and the doctrine of command responsibility, can American officials be held legally
+      accountable for their support of actions that violate international law? International
+      law is somewhat vague about the degree to which crimes of a perpetrator also produce
+      criminality for governments that act in complicity by the supply of weapons, munitions,
+      funds, and intelligence. The Genocide Convention (1948) and the Apartheid Convention
+      (1973) both impose an obligation on parties to the convention to take steps to
+      prevent such crimes and to punish perpetrators, and seem susceptible to being
+      interpreted as extending accountability to governments and individuals that knowingly
+      lend support, even by way of incitement to commit such crimes. The Gaza Tribunal,
+      the UK Gaza Tribunal, and Canadian Inquiry into Canadian Responsibility all acted
+      on the legal premise that complicity was a crime for which those guilty should
+      be held accountable. 4. You have previously characterized certain actions by Israel
+      as “genocide.” Based on the rulings of the International Court of Justice (ICJ)
+      and the definition of genocide in the 1948 Genocide Convention, do you believe
+      the scale and nature of Israeli attacks on Gaza — including the destruction of
+      civilian infrastructure, the siege, and the prevention of basic necessities —
+      legally satisfy the elements of the crime of genocide? I have no doubt that the
+      behavior of Israel in response to the October 7, 2023 assumed a genocidal character
+      in Gaza (as well as later in the West Bank and South Lebanon) that would produce
+      judicial findings that Israel was guilty of violating the Genocide Convention.
+      The Gaza Tribunal at its public session and in its prior Sarajevo Declaration
+      both occurring in 2024 responded to expert witnesses and survivor testimony with
+      a clear understanding that Israel’s actions as well as those of the complicit
+      Western states constituted genocide. The ICJ is proceeding from its 2025 Decision
+      on Interim Measures that the evidence before supported an inference of ‘plausible
+      genocide,’ but a final judgment will to be rendered within the months ahead to
+      give an authoritative reasoned response on the central question of genocide. 5.
+      What is your assessment of the role and performance of international judicial
+      bodies — particularly the International Criminal Court (ICC) and the ICJ — in
+      addressing Israel’s violations of international law? In light of the ICC’s arrest
+      warrants for Israeli officials, why has the international community failed to
+      enforce these rulings, and what steps are needed to ensure accountability? . Important
+      The ICC is a weaker institution that the ICJ due to it resting on the Rome Statute
+      that provides a treaty framework for its operations. Important countries, including
+      the US, China, Russia, and India, as well as Israel have refused to become parties
+      to the treaty and regard its issuance on November 21, 2024 of arrest warrants
+      for Israel’s Prime Minister,BenjiminNetanyahu and former Minister of Defense Yoav
+      Gallant as without a proper legal foundation. Also, the ICC proceeds only against
+      individuals and was formally established outside the UN system. Nevertheless,
+      the ICC proceeded in a highly professional manner and came to legal conclusions
+      that enjoy the approval of most international law experts. Sadly, there is no
+      way of enforcing its judgments without voluntary compliance or independent UN
+      action. So far, the political will to implement the arrest warrants is lacking.
+      6. You have served as a UN Special Rapporteur. From your experience, why has the
+      United Nations system, particularly the Security Council, been unable to effectively
+      uphold international law regarding Israel’s actions? What structural or political
+      obstacles within the UN prevent meaningful action against powerful states and
+      their allies? There are two main reasons why international law has not been effectively
+      implemented in relation to Israel. First, Israel enjoys the support of the liberal
+      democracies of the West to the extent that the political will to enforce international
+      law even in relation to genocide is not present. Secondly, the UN Security Council
+      is the only political organ with enforcement authority, and its behavior is subject
+      to a veto, which was cast on milder ceasefire resolutions, and was not presented
+      for action to the Security Council in anticipation of a veto. 7. Regarding the
+      future of negotiations: The current ceasefire in Gaza has been announced, but
+      many fear it is fragile and temporary. In your view, what are the prospects for
+      these negotiations? Under what conditions can a ceasefire be transformed into
+      a sustainable and just peace? Do you believe that the current diplomatic efforts
+      in Islamabad and elsewhere have the capacity to produce a legally binding and
+      enforceable outcome? The Trump diplomacy leading to a ceasefire and setting forth
+      a plan for the future of Gaza is a mockery of international law and morality.
+      It rewards the Israel government for committing genocide, while punishing Palestine
+      by inflicting a diplomatic process that denies its right of self-determination.
+      The fact that the UN Security Council endorsed this outcome unanimously (although
+      China and Russia abstained) in SC Resolution 2803 and was applauded by the UN
+      Secretary General for doing so are shameful acts of submission to geopolitical
+      pressures exerted by the US on behalf of Israel. 8. Finally, from the perspective
+      of international law, what are the rights of the Iranian people and other nations
+      in the region to defend themselves against aggression? If Israel violates the
+      ceasefire and renews its attacks, what legal recourses and defensive measures
+      do regional states have under international law, particularly under Article 51
+      of the UN Charter concerning the inherent right to self-defense? These are complex
+      questions that deserve detailed responses that are not possible in this format.
+      Briefly, Iran is the victim of an unprovoked aggression prohibited by Article
+      2(4) of the UN Charter, making Iran entitled to act within the full scope of the
+      right of self-defense as set forth in Article 51. Israel has repeatedly violated
+      the ceasefire to which it agreed upon, and has not been called to account. Palestine
+      as a widely recognized state entity is entitled to act in self-defense, although
+      it lacks the capabilities to do so. Other actors would be entitled to help defend
+      Palestine in the spirit of collective self-defense but none have chosen to do
+      so, except in an indirect way by South Africa through its ICJ initiative to allege
+      Israeli violations of the Genocide Convention. Top of Form Bottom of Form'
+    one_sentence_summary: The article critiques Israel's targeting of civilian infrastructure,
+      such as schools and hospitals, as violations of international humanitarian law
+      and potential war crimes under the Rome Statute, emphasizing that Israel has historically
+      disregarded these legal obligations as affirmed by the International Court of
+      Justice's 2024 Advisory Opinion.
+    paragraph_summary: The article critically examines Israel's targeting of civilian
+      infrastructure, such as schools, universities, and hospitals, under international
+      law and the Geneva Conventions, arguing that these actions constitute war crimes
+      as defined by the Rome Statute. It highlights Israel's long-standing disregard
+      for international legal obligations since 1948, particularly in the context of
+      its occupation of Palestinian territories, a stance supported by the International
+      Court of Justice's Advisory Opinion in 2024. This opinion called for Israel's
+      withdrawal from these territories and was endorsed by the UN General Assembly.
+      Additionally, the article references findings from various human rights organizations
+      that categorize Israel's actions as akin to apartheid, further complicating the
+      legal landscape. The systematic nature of these attacks raises concerns about
+      whether they meet the criteria for crimes against humanity, emphasizing the fundamental
+      norm of international law that prohibits targeting civilian infrastructure.
+    published: '2026-04-17T19:48:35+00:00'
+  - title: Responses to Questions from Asgar Ghahremanpour, Iran Daily, 4/26; Israel/Iran/IL
+    url: https://richardfalk.org/2026/04/17/responses-to-questions-from-asgar-ghahremanpour-iran-daily-4-26-israel-iran-il/
+    text: '1 . From the perspective of international law and the Geneva Conventions,
+      how do you assess Israel’s targeting of civilian infrastructure, including elementary
+      schools, universities, and hospitals — facilities that enjoy special protection
+      under international humanitarian law? Specifically, how do such actions constitute
+      war crimes under the Rome Statute? Israel has ignored international law since
+      its inception in 1948, including the legal obligations of an Occupying Power in
+      the Palestinian Territories of Gaza, the West Bank, and East Jerusalem. Such an
+      assessment has been validated by the International Court of Justice in its Advisory
+      Opinion of July 19, 2024, Legal Consequences of Israel arising from the policies
+      and practices of Israel in the Occupied Palestinian Territories, including East
+      Jerusalem. This authoritative rendering of international law in a highly professional
+      manner, called for the withdrawal by Israel from these Palestinian territories
+      occupied since 1967 within one years, a judicial determination overwhelmingly
+      endorsed by the UN General Assembly. Several years before the Gaza attack on Israel
+      border villages of October 7, 2023 Israel was widely regarded as guilty of the
+      distinct crime as specified in the 1973 Apartheid Convention on the Suppression
+      and Punishment of the Crime of Apartheid, considered binding on all states. This
+      legal assessment was made in a series of independent studies and reports under
+      the auspices of the UN and leading human rights organizations, including Amnesty
+      International and Human Rights Watch. 2. As a leading scholar of international
+      law, how do you view the systematic nature of Israel’s attacks on civilian infrastructure?
+      Do these actions, particularly the targeting of schools and universities where
+      children and young people were present, meet the legal definition of crimes against
+      humanity? It is a fundamental norm of international law that the targeting of
+      civilian infrastructure is not only unlawful, it is a war crime, if sustained
+      it is a crime against humanity. Israel has repeatedly targeted schools, hospitals,
+      and heritage sites resulting to severe physical damage but also in many deaths
+      and injuries. This unacceptable pattern of war crimes has been aggravated by the
+      blockage of humanitarian aid causing widespread disease, starvation, and malnutrition.
+      There is little doubt that any objective international criminal court would find
+      these combat tactics to constitute crimes against humanity. 3. The United States
+      continues to provide military and political support to Israel. From the standpoint
+      of international law, to what extent is the US complicit in the commission of
+      war crimes and crimes against humanity? Under the principle of “universal jurisdiction”
+      and the doctrine of command responsibility, can American officials be held legally
+      accountable for their support of actions that violate international law? International
+      law is somewhat vague about the degree to which crimes of a perpetrator also produce
+      criminality for governments that act in complicity by the supply of weapons, munitions,
+      funds, and intelligence. The Genocide Convention (1948) and the Apartheid Convention
+      (1973) both impose an obligation on parties to the convention to take steps to
+      prevent such crimes and to punish perpetrators, and seem susceptible to being
+      interpreted as extending accountability to governments and individuals that knowingly
+      lend support, even by way of incitement to commit such crimes. The Gaza Tribunal,
+      the UK Gaza Tribunal, and Canadian Inquiry into Canadian Responsibility all acted
+      on the legal premise that complicity was a crime for which those guilty should
+      be held accountable. 4. You have previously characterized certain actions by Israel
+      as “genocide.” Based on the rulings of the International Court of Justice (ICJ)
+      and the definition of genocide in the 1948 Genocide Convention, do you believe
+      the scale and nature of Israeli attacks on Gaza — including the destruction of
+      civilian infrastructure, the siege, and the prevention of basic necessities —
+      legally satisfy the elements of the crime of genocide? I have no doubt that the
+      behavior of Israel in response to the October 7, 2023 assumed a genocidal character
+      in Gaza (as well as later in the West Bank and South Lebanon) that would produce
+      judicial findings that Israel was guilty of violating the Genocide Convention.
+      The Gaza Tribunal at its public session and in its prior Sarajevo Declaration
+      both occurring in 2024 responded to expert witnesses and survivor testimony with
+      a clear understanding that Israel’s actions as well as those of the complicit
+      Western states constituted genocide. The ICJ is proceeding from its 2025 Decision
+      on Interim Measures that the evidence before supported an inference of ‘plausible
+      genocide,’ but a final judgment will to be rendered within the months ahead to
+      give an authoritative reasoned response on the central question of genocide. 5.
+      What is your assessment of the role and performance of international judicial
+      bodies — particularly the International Criminal Court (ICC) and the ICJ — in
+      addressing Israel’s violations of international law? In light of the ICC’s arrest
+      warrants for Israeli officials, why has the international community failed to
+      enforce these rulings, and what steps are needed to ensure accountability? . Important
+      The ICC is a weaker institution that the ICJ due to it resting on the Rome Statute
+      that provides a treaty framework for its operations. Important countries, including
+      the US, China, Russia, and India, as well as Israel have refused to become parties
+      to the treaty and regard its issuance on November 21, 2024 of arrest warrants
+      for Israel’s Prime Minister,BenjiminNetanyahu and former Minister of Defense Yoav
+      Gallant as without a proper legal foundation. Also, the ICC proceeds only against
+      individuals and was formally established outside the UN system. Nevertheless,
+      the ICC proceeded in a highly professional manner and came to legal conclusions
+      that enjoy the approval of most international law experts. Sadly, there is no
+      way of enforcing its judgments without voluntary compliance or independent UN
+      action. So far, the political will to implement the arrest warrants is lacking.
+      6. You have served as a UN Special Rapporteur. From your experience, why has the
+      United Nations system, particularly the Security Council, been unable to effectively
+      uphold international law regarding Israel’s actions? What structural or political
+      obstacles within the UN prevent meaningful action against powerful states and
+      their allies? There are two main reasons why international law has not been effectively
+      implemented in relation to Israel. First, Israel enjoys the support of the liberal
+      democracies of the West to the extent that the political will to enforce international
+      law even in relation to genocide is not present. Secondly, the UN Security Council
+      is the only political organ with enforcement authority, and its behavior is subject
+      to a veto, which was cast on milder ceasefire resolutions, and was not presented
+      for action to the Security Council in anticipation of a veto. 7. Regarding the
+      future of negotiations: The current ceasefire in Gaza has been announced, but
+      many fear it is fragile and temporary. In your view, what are the prospects for
+      these negotiations? Under what conditions can a ceasefire be transformed into
+      a sustainable and just peace? Do you believe that the current diplomatic efforts
+      in Islamabad and elsewhere have the capacity to produce a legally binding and
+      enforceable outcome? The Trump diplomacy leading to a ceasefire and setting forth
+      a plan for the future of Gaza is a mockery of international law and morality.
+      It rewards the Israel government for committing genocide, while punishing Palestine
+      by inflicting a diplomatic process that denies its right of self-determination.
+      The fact that the UN Security Council endorsed this outcome unanimously (although
+      China and Russia abstained) in SC Resolution 2803 and was applauded by the UN
+      Secretary General for doing so are shameful acts of submission to geopolitical
+      pressures exerted by the US on behalf of Israel. 8. Finally, from the perspective
+      of international law, what are the rights of the Iranian people and other nations
+      in the region to defend themselves against aggression? If Israel violates the
+      ceasefire and renews its attacks, what legal recourses and defensive measures
+      do regional states have under international law, particularly under Article 51
+      of the UN Charter concerning the inherent right to self-defense? These are complex
+      questions that deserve detailed responses that are not possible in this format.
+      Briefly, Iran is the victim of an unprovoked aggression prohibited by Article
+      2(4) of the UN Charter, making Iran entitled to act within the full scope of the
+      right of self-defense as set forth in Article 51. Israel has repeatedly violated
+      the ceasefire to which it agreed upon, and has not been called to account. Palestine
+      as a widely recognized state entity is entitled to act in self-defense, although
+      it lacks the capabilities to do so. Other actors would be entitled to help defend
+      Palestine in the spirit of collective self-defense but none have chosen to do
+      so, except in an indirect way by South Africa through its ICJ initiative to allege
+      Israeli violations of the Genocide Convention. Top of Form Bottom of Form'
+    one_sentence_summary: The article critiques Israel's targeting of civilian infrastructure,
+      such as schools and hospitals, as violations of international humanitarian law
+      and potential war crimes under the Rome Statute, emphasizing that Israel has historically
+      disregarded these legal obligations as affirmed by the International Court of
+      Justice's 2024 Advisory Opinion.
+    paragraph_summary: The article critically examines Israel's targeting of civilian
+      infrastructure, such as schools, universities, and hospitals, under international
+      law and the Geneva Conventions, arguing that these actions constitute war crimes
+      as defined by the Rome Statute. It highlights Israel's long-standing disregard
+      for international legal obligations since 1948, particularly in the context of
+      its occupation of Palestinian territories, a stance supported by the International
+      Court of Justice's Advisory Opinion in 2024. This opinion called for Israel's
+      withdrawal from these territories and was endorsed by the UN General Assembly.
+      Additionally, the article references findings from various human rights organizations
+      that categorize Israel's actions as akin to apartheid, further complicating the
+      legal landscape. The systematic nature of these attacks raises concerns about
+      whether they meet the criteria for crimes against humanity, emphasizing the fundamental
+      norm of international law that prohibits targeting civilian infrastructure.
+    published: '2026-04-17T19:48:35+00:00'
   - title: 'Future No Kings Protests: Weeping and Resisting in Global Solidarity'
     url: https://richardfalk.org/2026/04/13/future-no-kings-protests-weeping-and-resisting-in-global-solidarity/
     text: '[ Prefatory Note: My poembelow is intended as a sequel to an earlier poem

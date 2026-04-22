@@ -7,12 +7,189 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  In the evolving European political landscape, recent developments in Belgium have drawn significant attention. Belgian Prime Minister Bart De Wever, previously commended for his veto against the confiscation of Russian state assets to fund Ukraine, is now under scrutiny for actions and remarks made during a visit to the Russian Embassy. According to **Gilbert Doctorow**, De Wever’s conduct has sparked a reevaluation of his commitment to human rights and European values, with Doctorow describing it as “a black stain” on the Prime Minister’s record. This shift in perception highlights growing tensions within the EU regarding the balance between principled policy and pragmatic diplomacy, especially as the Russia-Ukraine conflict drags on.
+  As the Russia-Ukraine conflict continues to reshape European and global geopolitics, recent developments highlight shifting alliances, internal European tensions, and the ongoing recalibration of Western strategies. The context remains one of entrenched confrontation, with Western governments facing both external pressures from Moscow and internal dissent regarding the direction and consequences of their policies.
   
-  Meanwhile, the broader context remains shaped by ongoing debates over Western involvement in the Ukraine war. **Doctorow**’s recent publications continue to emphasize the lack of Western journalistic presence in Russia during the conflict, underscoring the importance of firsthand accounts and alternative perspectives. His latest book, “War Diaries. The Russia-Ukraine War, 2022-2023,” aims to fill this gap and provide nuanced insights into the realities on the ground.
+  **European Political Realignment and Internal Dissent**
   
-  Looking ahead, the trend in European politics appears to be one of increasing polarization over how to handle relations with Russia and the Ukraine conflict. The controversy surrounding De Wever is symptomatic of deeper divisions within the EU, and it is quite likely that similar disputes will emerge in other member states as the pressure to take decisive stances on Russia intensifies. Based on the current trajectory, there is a high chance that European leaders will face mounting challenges in maintaining unity, both domestically and at the EU level, over the coming months.
+  A notable trend is the intensifying debate within Europe over the handling of Russian state assets and the broader approach to the Ukraine war. **Gilbert Doctorow** points to the case of Belgian Prime Minister Bart De Wever, who initially received praise for vetoing the confiscation of Russian assets to fund Ukraine. However, De Wever’s subsequent actions and rhetoric, particularly at the Russian Embassy, have led to a reevaluation of his stance, with Doctorow describing this as a “black stain” on his record. This episode underscores the fragility of consensus within the EU and the growing discomfort among some member states regarding the escalation of economic warfare against Russia.
+  
+  **Western Media and Information Gaps**
+  
+  Another persistent issue is the lack of on-the-ground Western reporting from Russia, a gap that **Gilbert Doctorow**’s firsthand accounts attempt to address. His latest book, "War Diaries. The Russia-Ukraine War, 2022-2023," is cited as providing rare insight during a period when Western journalists were largely absent. This information asymmetry continues to influence Western public opinion and policy debates, with Doctorow’s perspective serving as a counterpoint to prevailing narratives.
+  
+  **Leadership and Policy Uncertainty**
+  
+  Leadership transitions and policy uncertainties are also shaping the geopolitical landscape. The recent focus on Germany’s Chancellor Merz, whom Doctorow controversially labels as a "Nazi chancellor," reflects the heightened rhetoric and polarization within European politics. Meanwhile, the fate of European Commission President Ursula von der Leyen is described as precarious, with speculation about her imminent departure. These leadership dynamics are likely to impact the EU’s cohesion and its approach to the Russia-Ukraine conflict.
+  
+  **Trends and Predictions**
+  
+  Looking ahead, the majority of independent analysts, including **Gilbert Doctorow**, suggest that internal divisions within Europe will persist and may deepen, particularly as the costs of the conflict mount and public skepticism grows. There is a high chance of further political realignment within the EU, with some leaders facing increasing domestic pressure to reconsider confrontational policies toward Russia. The information gap regarding developments inside Russia is expected to remain, continuing to complicate Western decision-making.
+  
+  In summary, the geopolitical situation is marked by growing European unease, leadership uncertainties, and persistent information challenges. The trajectory points toward further internal EU debate and potential policy shifts, though a decisive change in the overall Western approach to Russia and Ukraine is not yet guaranteed.
 articles:
+  - title: Multiple segments on this morning’s interview with News X World (India)
+    url: https://gilbertdoctorow.com/2026/04/17/multiple-segments-on-this-mornings-interview-with-news-x-world-india/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his earlier work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand observations in St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences with the expatriate community in Moscow during the 1990s. With
+      a career spanning decades in Russian affairs and a strong academic background,
+      including a Ph.D. from Columbia University, Doctorow has been deeply engaged in
+      the region's political and cultural landscape. He has also held significant roles,
+      such as Chairman of the Russian Booker Literary Prize, and continues to reside
+      in Brussels.
+    published: '2026-04-17T12:42:21+00:00'
+  - title: An important and far-reaching discussion with News X World (India) this morning
+    url: https://gilbertdoctorow.com/2026/04/16/an-important-and-far-reaching-discussion-with-news-x-world-india-this-morning/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a unique perspective on the conflict through his firsthand reports
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict through his
+      firsthand accounts from the Russian home front during a time when Western journalists
+      were largely absent due to visa restrictions. This work follows his earlier two-volume
+      memoir, "Memoirs of a Russianist," which features diary entries reflecting on
+      his experiences in Russia, particularly focusing on the expatriate community in
+      Moscow during the 1990s. With a background as a professional observer of Russian
+      affairs since 1965, Doctorow holds prestigious academic credentials, including
+      a Ph.D. from Columbia University, and has had a diverse career in business and
+      literature, including serving as Chairman of the Russian Booker Literary Prize.
+      Currently residing in Brussels, he continues to contribute to the discourse on
+      Russian matters.
+    published: '2026-04-16T14:24:20+00:00'
+  - title: 'Judging Freedom: edition of 15 April 2026'
+    url: https://gilbertdoctorow.com/2026/04/15/judging-freedom-edition-of-15-april-2026/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his previous work, "Memoirs of a Russianist," which chronicles the experiences
+      of expatriate managers in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict, drawing
+      from his firsthand observations during visits to St. Petersburg when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries that
+      provide insights into the expatriate community in Moscow during the 1990s, a topic
+      not previously explored by his contemporaries. With a background as a professional
+      observer of Russian affairs since 1965, Doctorow holds degrees from Harvard and
+      Columbia University and has had a diverse career in business and literature, including
+      leadership roles in the Russian Booker Literary Prize and academic positions at
+      Columbia. He currently resides in Brussels.
+    published: '2026-04-15T15:16:27+00:00'
+  - title: A brief interview yesterday afternoon with NewsX about Germany’s Nazi chancellor
+      Merz
+    url: https://gilbertdoctorow.com/2026/04/15/a-brief-interview-yesterday-afternoon-with-newsx-about-germanys-nazi-chancellor-merz/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a rare perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his earlier work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book, "War Diaries. The Russia-Ukraine War,
+      2022-2023," offers a distinctive perspective on the ongoing conflict by documenting
+      his experiences and observations from the Russian home front during a time when
+      Western journalists were largely absent due to visa restrictions. This work builds
+      on his previous two-volume memoir, "Memoirs of a Russianist," which features diary
+      entries reflecting on his experiences in Russia, particularly focusing on the
+      expatriate community in Moscow during the 1990s. With a background as a professional
+      Russia analyst and a rich academic history, including degrees from Harvard and
+      Columbia, Doctorow has been actively engaged in Russian affairs since 1965, combining
+      his expertise in history and business to provide valuable insights into the region.
+    published: '2026-04-15T13:04:44+00:00'
   - title: 'A word to J.D. Vance: witness the latest suppression of human rights and
       ‘European values’ in Belgium!  A black stain on the record of Prime Minister Bart
       De Wever'
@@ -155,6 +332,86 @@ articles:
       narratives about the conflict, highlighting a desire for independent thought amidst
       government censorship influenced by Ukrainian pressure.'
     published: '2026-04-15T06:45:52+00:00'
+  - title: 'Part two: morning News X World interview – Lebanon'
+    url: https://gilbertdoctorow.com/2026/04/14/part-two-morning-news-x-world-interview-lebanon/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict through his firsthand
+      accounts from Russia during a time when Western journalists were largely absent,
+      complementing his previous work on the expatriate community in Moscow during the
+      1990s.
+    paragraph_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the ongoing conflict by providing
+      insights from the Russian home front during a time when Western journalists were
+      largely absent from the country. This work follows his earlier two-volume memoir,
+      "Memoirs of a Russianist," which includes unique diary entries about the expatriate
+      community in Moscow during the 1990s, a topic not previously explored by his contemporaries.
+      With a deep background in Russian affairs dating back to 1965, Doctorow is a Harvard
+      and Columbia University alumnus, a former Fulbright scholar, and has held various
+      roles in business and academia, including serving as Chairman of the Russian Booker
+      Literary Prize. He currently resides in Brussels.
+    published: '2026-04-14T12:19:11+00:00'
+  - title: First part of two-segment interview with News X this morning
+    url: https://gilbertdoctorow.com/2026/04/14/first-part-of-two-segment-interview-with-news-x-this-morning/
+    text: 'Published by gilbertdoctorow
+
+
+      Gilbert Doctorow''s latest book, "War Diaries. The Russia-Ukraine War, 2022-2023"
+      is a unique contribution to literature on the war thanks to the author''s reports
+      on the Russian home front written during his periodic visits to St Petersburg
+      at a time when Russia no longer issued visas and nearly all Western journalists
+      had left the country. Doctorow''s two-volume "Memoirs of a Russianist" published
+      in 2020 also constitutes a category of its own, consisting largely of diary entries
+      rather than reminiscences written decades later.. Volume 2 focuses on the community
+      of 50,000 expatriate managers working and living in Moscow during the 1990s, about
+      which none of his peers has yet to write. Gilbert Doctorow is a professional Russia
+      watcher and actor in Russian affairs going back to 1965. He is a magna cum laude
+      graduate of Harvard College (1967), a past Fulbright scholar, and holder of a
+      Ph.D. with honors in history from Columbia University (1975). After completing
+      his studies, Mr. Doctorow pursued a business career focused on the USSR and Eastern
+      Europe. For twenty-five years he worked for US and European multinationals in
+      marketing and general management with regional responsibility. From 1998-2002,
+      Doctorow served as the Chairman of the Russian Booker Literary Prize in Moscow.
+      During the 2010-2011 academic year, he was a Visiting scholar of the Harriman
+      Institute, Columbia University. Mr. Doctorow is a long-time resident of Brussels.
+      View all posts by gilbertdoctorow'
+    one_sentence_summary: Gilbert Doctorow's "War Diaries. The Russia-Ukraine War, 2022-2023"
+      offers a distinctive perspective on the conflict through his firsthand accounts
+      from Russia during a time when Western journalists were largely absent, complementing
+      his previous work on the expatriate community in Moscow during the 1990s.
+    paragraph_summary: Gilbert Doctorow's book "War Diaries. The Russia-Ukraine War,
+      2022-2023" offers a distinctive perspective on the conflict, drawing from his
+      firsthand experiences in St. Petersburg during a time when Western journalists
+      were largely absent due to visa restrictions. This work complements his earlier
+      two-volume memoir, "Memoirs of a Russianist," which features diary entries reflecting
+      on his experiences in Russia, particularly focusing on the expatriate community
+      in Moscow during the 1990s. A seasoned observer of Russian affairs since 1965,
+      Doctorow holds degrees from Harvard and Columbia, has a background in business
+      related to the USSR and Eastern Europe, and has held notable positions such as
+      Chairman of the Russian Booker Literary Prize. Currently residing in Brussels,
+      he continues to contribute to the discourse on Russian affairs.
+    published: '2026-04-14T09:48:49+00:00'
   - title: News X World interview this afternoon
     url: https://gilbertdoctorow.com/2026/04/13/news-x-world-interview-this-afternoon/
     text: 'Published by gilbertdoctorow

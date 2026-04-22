@@ -7,19 +7,152 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The Middle East remains at the epicenter of global geopolitical instability, with the ongoing Iran War and Israel’s military operations in Lebanon continuing to dominate headlines. Recent developments underscore the deepening humanitarian crises and the persistent disregard for international law by key actors.
+  The ongoing Iran War and Israel’s military operations in Lebanon continue to shape the geopolitical landscape, with ripple effects on global alliances, humanitarian norms, and economic stability. Recent reports highlight an intensification of military actions and growing international unease over the conduct and consequences of these conflicts.
   
-  The latest reports highlight Israel’s intensified military campaign in Lebanon, which, according to **Binoy Kampmark**, is being carried out “under the guise of a ceasefire” but has resulted in widespread devastation of civilian infrastructure and significant loss of life. Kampmark notes that Israeli actions “show a chilling disregard for international law and humanitarian principles,” with attacks on critical infrastructure and civilian areas becoming routine. This escalation, he argues, perpetuates a cycle of violence and instability, undermining any prospects for durable peace in the region.
+  The most recent developments center on Israel’s campaign in Lebanon, which, according to **Binoy Kampmark**, persists under the guise of a ceasefire but is marked by “devastating impact on civilians and infrastructure,” with repeated disregard for international law. Civilian casualties and widespread destruction have prompted renewed calls for accountability, yet there is little sign of de-escalation. The expansion of Israel’s death penalty law, passed on March 30, further signals a hardening stance, particularly against Palestinians, and has drawn criticism for institutionalizing discrimination.
   
-  Meanwhile, the Trump administration’s rhetoric and strategy towards Iran continue to provoke concern among analysts. **Kampmark** critiques President Trump’s “aggressive and incendiary language,” warning that such discourse not only risks further moral and legal complications for U.S. military personnel but also reflects a broader pattern of American warfare that neglects civilian protections. The administration’s approach appears increasingly isolated, with European allies reluctant to support U.S. military actions, further straining transatlantic relations.
+  Meanwhile, the Iran War continues to strain U.S. military resources and alliances. **Kampmark** notes that the Trump administration faces “growing frustration over the reluctance of European allies like Spain and Italy to support military actions,” exposing cracks in transatlantic relations and prompting questions about NATO’s future role. The U.S. military’s readiness is also under scrutiny, with significant deficiencies in weapons systems and maintenance, as highlighted by Army Undersecretary Michael Obadal. This unreadiness, exacerbated by prolonged engagements, undermines U.S. credibility and operational capacity.
   
-  In a broader context, the environmental and economic consequences of the Iran War are becoming more pronounced. The closure of the Strait of Hormuz has disrupted global supply chains, particularly in energy and agriculture, leading to rising prices and potential crises in countries dependent on imports. The war’s carbon footprint is also significant, with millions of tonnes of CO2 emitted in just weeks, exacerbating global climate risks.
+  On the economic front, the closure of the Strait of Hormuz remains a critical issue, disrupting global fertilizer and oil supply chains. This has led to rising prices and potential agricultural crises in countries heavily dependent on imports, such as Brazil and India. The environmental toll of the conflict is also mounting, with millions of tonnes of CO2 emissions reported in the initial weeks alone.
   
   **Trends and Predictions:**  
-  The majority of independent analysts, including **Kampmark**, foresee a continued escalation of violence in Lebanon and persistent instability in the broader Middle East. There is a high chance that the humanitarian situation will deteriorate further, with little likelihood of meaningful ceasefires or diplomatic breakthroughs in the near term. The rift between the U.S. and its traditional allies is expected to widen, undermining collective security frameworks such as NATO. Given current trajectories, I guarantee that the environmental and economic fallout from the conflict will intensify, with global repercussions for energy markets and food security.
-  
-  In summary, the region is locked in a cycle of military escalation, humanitarian crisis, and international discord, with few signs of de-escalation or resolution on the horizon.
+  The majority of independent analysis suggests that the current trajectory—marked by aggressive military posturing, legal and ethical controversies, and alliance fractures—will persist in the near term. There is a high chance that humanitarian crises in Lebanon and the occupied Palestinian territories will worsen, and the Iran War will continue to sap U.S. resources and global standing. Economic disruptions, especially in energy and agriculture, are quite likely to deepen if the Strait of Hormuz remains contested. Without a significant shift in policy or international mediation, further escalation and instability in the region are most definitely expected.
 articles:
+  - title: 'The Travails of Noma: God Chefs, Brutal Kitchens and the Cult of Fine Dining'
+    url: https://www.counterpunch.org/2026/04/16/the-travails-of-noma-god-chefs-brutal-kitchens-and-the-cult-of-fine-dining/
+    text: 'There are an easy bunch to demonise, and to a certain extent, they should
+      be. The God Chef, the collector of Michelin stars; the veteran of the kitchen,
+      with all the cuts, bruises and wounds to show for it; the brute who terrorises
+      the staff, mocking their lack of adeptness, skill and knowledge for overcooking
+      the pigeon or adding a touch too much salt. Hurled crockery, flying language bristling
+      with savagery and filth. And the rituals of hazing and collective shaming.
+
+
+      Copenhagen’s Michelin starred restaurant, Noma, has seen much of this and more
+      besides. It has been at the forefront of fine dining propaganda, holding forth
+      about that fiction called sustainability. (Nothing is sustainable, since entropy
+      and death awaits us all.) Three Michelin stars and earning first place in the
+      World’s 50 Best Restaurants List no fewer than five times, has been put down to
+      the efforts of founding chef René Redzepi. So confident was he that he closed
+      Noma in 2023 to pursue his food laboratory vision (this was aided in no small
+      way by the Covid pandemic), along with an empire of global pop-ups.
+
+
+      History, however, caught up with the head chef. Last month, Redzepi’s past conduct
+      in the kitchen featured prominently and most negatively, the object of much grief
+      from former employees. The signal event was the pop-up restaurant in Los Angeles,
+      costing the pretty sum of $1,500 a seat. Former Noma employee Jason Ignacio White,
+      in collaboration with the worker-advocacy non-profit group One Fair Wage, staged
+      a protest against the venture outside its location in the neighbourhood of Silver
+      Lake on March 11. Righteousness had gripped White, who insisted that “the repercussions
+      of staying silent are worse than me speaking up and standing with my peers against
+      violence.” Saru Jayaraman, a member of One Fair Wage, also posed a few questions
+      to CBS News. “Who wants to eat in any environment of abuse? Who wants to eat food
+      that comes from the tears and sweat of people who are suffering?” Given the customers
+      that pay criminal sums for the jiggery-pokery that is the fine dining experience,
+      these questions are moot.
+
+
+      Following the withdrawal by various sponsors, Redzepi announced he would be resigning.
+      On Instagram, he stated that, “An apology is not enough; I take responsibility
+      for my own actions.” The restaurant had been “open for 23 years and I’m incredibly
+      proud of our people, our creativity, and the direction Noma is heading.”
+
+
+      Last month, The New York Times reported that the work environment at the exclusive
+      restaurant had been one of heightened toxicity. An incident from February 2014
+      was recounted, involving the ritualised tormenting of a sous chef who had dared
+      play techno music in the production kitchen. An enraged Redzepi ordered the entire
+      kitchen staff to follow him and the chef into the cold. A circle of some 40 cooks
+      formed around the two. All the parties were thereby complicit in the scene. Redzepi
+      ranted, punched the chef in the ribs screaming that no one would be permitted
+      to go back inside till the offender confessed to enjoying giving D.J.s oral sex.
+      This was duly done, and the staff returned.
+
+
+      This moment of savaging was but the tip of a rather large iceberg. According to
+      the paper, 35 former employees were interviewed, revealing “a pattern of physical
+      punishment” visited upon the staff by Redzepi. Between 2009 and 2017, employees
+      were punched in the face, assaulted by kitchen implements, slammed against walls.
+      They suffered enduring trauma from “psychological abuse, including intimidation,
+      body shaming and public ridicule.” Redzepi also made it clear he would wield influence
+      over the future employment prospects of the staff by threatening their blacklisting
+      from restaurants, have their families deported, or even have their spouses fired
+      from employment at other businesses.
+
+
+      Redzepi has not been indifferent to the monster within. An essay authored in 2015
+      begins with descriptions of violence in the kitchen. In his culinary pupillage,
+      the future head chef of Noma was the victim. “It wasn’t uncommon for me to be
+      called a worthless cunt or worse.” Pans with handles searingly hot would be placed
+      at his station, a form of kitchen terrorism. He promised to “never be like that.”
+      But behaviour had been learned. The conditioning was too strong. With his own
+      restaurant, investments and expectations, the pattern reasserted itself. “The
+      smallest transgressions sent me into an absolute rage”. He had learned to cook
+      that way, and, importantly, it yielded results. Stress, terror, determination.
+      Noma “succeeded beyond whatever I could have imagined for it.”
+
+
+      What, then, to do? Change, yes, but not at the cost of certain qualities. A martial
+      quality was indispensable. One had to be careful of going soft. “The kitchen needs
+      discipline, codes of conduct, a clear chain of command.” The “boiling points of
+      service” could not be removed. What was needed was finding “tools to handle them
+      better.”
+
+
+      The sense of purging and ecstatic lynching of Redzep did obscure the more recent
+      evolution of Noma. Andreja Lajh, founder of the London-based agency for chefs,
+      restaurants and gourmet food producers called Haut de Gamme, has issued a plea
+      for greater balance in covering the Noma affair. The God Chef should be given
+      a chance. Contrition and change were possible. “The kitchen that exists today
+      is not the kitchen of 2012. That distinction was never made in a single major
+      piece of coverage.” The list of changes is outlined, some of them being the institution
+      of a fully paid programme for interns in 2022; a four-day working week; a vigilant
+      HR section; fourteen weeks of co-parent leave; and full health insurance also
+      covering dental and physiotherapy. (A more comprehensive list of changes is documented
+      in Noma’s Workplace Transparency Review.)
+
+
+      Lajh also makes another claim: that the protests against Redzepi failed to account
+      for the genuine welfare of the workers on whose behalf the campaign had supposedly
+      been waged. Campaigns of redress and retribution can distort. Be it White, One
+      Fair Wage, the media or the “mob”, had the workers, notably the current crop of
+      employees, genuinely benefited? Some 130 had moved to Los Angeles with their families
+      over a year to prepare for the Los pop-up. The kitchen workers “who chose to be
+      there, who crossed the world because they believed in what they were building
+      […] were silenced. Not by Noma but by the people who claimed to be their voice.”
+
+
+      As long as the punters seek the oddly named experience known as fine dining (is
+      there such a thing?) curated by titans of the kitchen, and are willing to pay
+      astronomical amounts for a lining of sauce from a bottle across a barely visible
+      piece of meat with garnish, the God Chef will continue to thrive. To expect that
+      such divinities of the kitchen will be kept in their place, well behaved and sensitive
+      captains of the “team experience” will be expecting much. Food writer and chef
+      Lauren Joseph makes a sensible observation on this score: “Until we rejig how
+      we measure greatness, until the kingmaking awards – Michelin Guide and the World’s
+      50 Best Restaurants – include some basic labour standards in their criteria, there
+      will be no meaningful change.” The problem is in the dining itself.'
+    one_sentence_summary: The article critiques the toxic work environment and abusive
+      practices at Copenhagen's Michelin-starred restaurant Noma, led by chef René Redzepi,
+      highlighting the contrast between the restaurant's celebrated status and the troubling
+      testimonies of former employees, while also discussing recent protests and calls
+      for accountability amidst evolving workplace standards.
+    paragraph_summary: The article critiques the toxic culture within the fine dining
+      industry, particularly focusing on René Redzepi, the chef behind Copenhagen's
+      Michelin-starred restaurant Noma, who has faced backlash for his abusive treatment
+      of staff. Despite Noma's accolades and Redzepi's initial promises to avoid the
+      harsh practices he experienced as a young chef, reports from former employees
+      reveal a pattern of physical and psychological abuse, including intimidation and
+      public humiliation. Following protests against a high-priced pop-up restaurant
+      in Los Angeles, Redzepi announced his resignation, acknowledging the need for
+      accountability. While some argue that Noma has made strides toward a healthier
+      work environment, critics contend that the protests may have overlooked the voices
+      of current employees who chose to work there. The article concludes that without
+      a fundamental reevaluation of how success is measured in the culinary world, particularly
+      by prestigious awards, meaningful change in the treatment of kitchen staff may
+      remain elusive.
+    published: '2026-04-16T05:48:02+00:00'
   - title: 'Ceasefire Exemptions and Quarries of Death: Israel’s War on Lebanon'
     url: https://www.counterpunch.org/2026/04/14/ceasefire-exemptions-and-quarries-of-death-israels-war-on-lebanon/
     text: 'In the Devil’s Dictionary, Ambrose Bierce defines peace as a period of cheating

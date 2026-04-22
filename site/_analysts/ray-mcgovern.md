@@ -7,19 +7,339 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  In the context of escalating Middle East tensions and ongoing scrutiny of Western involvement, several new developments have emerged over the past 12 hours.
+  As the world’s geopolitical landscape continues to shift, recent developments underscore the interconnectedness of conflicts in Iran, Ukraine, and beyond, with profound implications for global power balances and economic systems.
   
-  Belgian authorities have launched a criminal investigation into two shipments of military components exported to Israel, as reported by **Ray McGovern**. The names of the arms firms involved remain undisclosed, but the move signals increasing European unease over military support for Israel amid its ongoing operations in Gaza and Lebanon. This investigation could mark a turning point in EU member states’ willingness to facilitate arms transfers to conflict zones, especially as public and political pressure mounts.
+  The aftermath of the truce in Lebanon has seen Iran declare the Strait of Hormuz fully open, a move with immediate consequences for global energy flows. While former President Trump has floated the possibility of renewed peace talks with Iran, **Joe Lauria** maintains that “U.S. and Israeli war objectives remain unmet,” suggesting that the underlying tensions are far from resolved. The reopening of the strait is a significant development, but the situation remains volatile, with the potential for renewed hostilities if diplomatic efforts falter.
   
-  Meanwhile, the influence of the UK arms industry on academia has come under renewed scrutiny. **Martin Williams** highlights that executives from major defense contractors—BAE Systems, Leonardo, and Thales—hold advisory roles shaping the strategic direction of UK university departments. This direct involvement raises concerns about the militarization of academic research and the potential for conflicts of interest, particularly as the UK continues to be a key arms supplier in global conflicts.
+  Meanwhile, the targeting of Iran’s healthcare infrastructure by U.S. and Israeli forces has drawn international condemnation. According to **Alan Macleod**, over 307 medical facilities have been bombed, continuing a “historical pattern of attacks on hospitals.” This escalation not only exacerbates the humanitarian crisis in Iran but also signals a willingness to target civilian infrastructure as part of broader military strategies.
   
-  On the ground, Israel’s military campaign has intensified. **Vijay Prashad** reports on the “Eternal Darkness” operation, a significant assault on Lebanon, alongside mass evacuations in Gaza and the West Bank. The brutality of these actions is drawing increasing condemnation and could further isolate Israel diplomatically, especially as evidence of civilian suffering mounts.
+  In a related development, the detention of Palestinian-American journalist Ahmed Shihab-Eldin in Kuwait highlights the growing risks faced by reporters in the region. **Chris Hedges** notes that Shihab-Eldin is threatened with imprisonment under new national security laws, reflecting a tightening of press freedoms and increased repression of dissenting voices in the Gulf.
+  
+  Looking at the broader context, **Vijay Prashad** argues that the ongoing U.S.-Israeli actions against Iran are exposing the “interconnectedness of oil, financial markets, and dollar dominance.” The conflict is not confined to military arenas but extends into economic warfare, with the potential to undermine the petrodollar system and reshape global financial dynamics.
   
   **Trends and Predictions:**  
-  The majority of analysts agree that European governments, under growing domestic and international pressure, are likely to increase scrutiny and potentially restrict arms exports to Israel. There is a high chance that the Belgian investigation will prompt similar actions in other EU countries. The entanglement of the UK arms industry with academia is expected to fuel debate over ethical boundaries and transparency in research funding. On the military front, Israel’s aggressive operations in Lebanon and the Palestinian territories are most definitely set to escalate humanitarian concerns and diplomatic fallout, with a high likelihood of further international calls for ceasefire and accountability.
-  
-  In summary, the geopolitical landscape is shifting toward greater European caution in arms transfers, rising scrutiny of the defense sector’s influence, and intensifying conflict in the Middle East with significant humanitarian implications.
+  The consensus among independent analysts is that these theaters—particularly Iran and Ukraine—are part of a larger contest for global parity between the West and the emerging coalition of non-Western powers. The likelihood of a major rebalancing of power is high, with the outcomes in these conflicts set to determine the future shape of international relations. I guarantee that unless there is a significant shift in U.S. and Israeli objectives or strategy, tensions in the Middle East will persist, and the risk of broader confrontation remains acute. The erosion of press freedoms and the targeting of civilian infrastructure are likely to intensify, further complicating prospects for peace and stability in the region.
 articles:
+  - title: 'PATRICK LAWRENCE: Iran & Ukraine — Two Theaters in the Non–West’s Single
+      War for Parity'
+    url: https://consortiumnews.com/2026/04/18/patrick-lawrence-iran-ukraine-two-theaters-of-non-wests-single-war-for-parity/
+    text: In Iran and Ukraine, what is at stake — what is fought for and against — is
+      a rebalancing of power that will prove of world-historical magnitude when it is
+      at last accomplished. By Patrick Lawrence Special to Consortium News First… Read
+      more →
+    one_sentence_summary: The article discusses the significant global implications
+      of the ongoing power struggles in Iran and Ukraine, emphasizing that the outcomes
+      will lead to a major rebalancing of power in the world.
+    paragraph_summary: The article by Patrick Lawrence discusses the significant geopolitical
+      struggles occurring in Iran and Ukraine, emphasizing that these conflicts represent
+      a critical rebalancing of global power dynamics. Lawrence argues that the outcomes
+      of these struggles will have profound historical implications, as they reflect
+      broader tensions and shifts in international relations. The piece suggests that
+      the stakes are high, with both regions embodying larger themes of resistance and
+      the quest for sovereignty against external influences.
+    published: '2026-04-18T04:26:32+00:00'
+  - title: 'PATRICK LAWRENCE: Iran & Ukraine — Two Theaters in the Non–West’s Single
+      War for Parity'
+    url: https://consortiumnews.com/2026/04/18/patrick-lawrence-iran-ukraine-two-theaters-of-non-wests-single-war-for-parity/
+    text: In Iran and Ukraine, what is at stake — what is fought for and against — is
+      a rebalancing of power that will prove of world-historical magnitude when it is
+      at last accomplished. By Patrick Lawrence Special to Consortium News First… Read
+      more →
+    one_sentence_summary: The article discusses the significant global implications
+      of the ongoing power struggles in Iran and Ukraine, emphasizing that the outcomes
+      will lead to a major rebalancing of power in the world.
+    paragraph_summary: The article by Patrick Lawrence discusses the significant geopolitical
+      struggles occurring in Iran and Ukraine, emphasizing that these conflicts represent
+      a critical rebalancing of global power dynamics. Lawrence argues that the outcomes
+      of these struggles will have profound historical implications, as they reflect
+      broader tensions and shifts in international relations. The piece suggests that
+      the stakes are high, with both regions embodying larger themes of resistance and
+      the quest for sovereignty against external influences.
+    published: '2026-04-18T04:26:32+00:00'
+  - title: 'DAYS 45-48: Iran Says Strait Is Open as Trump Spins'
+    url: https://consortiumnews.com/2026/04/17/days-45-48-iran-says-strait-is-open-as-trump-spins/
+    text: After a Lebanon truce was declared, Iran said Friday the Strait of Hormuz
+      is “completely open.” Trump said Iran peace talks could resume. None of the U.S.
+      and Israeli war aims have been achieved, writes Joe Lauria. By Joe Lauria… Read
+      more →
+    one_sentence_summary: Following a truce in Lebanon, Iran announced that the Strait
+      of Hormuz is fully accessible, while Trump indicated that peace talks with Iran
+      might restart, despite Joe Lauria's assertion that the U.S. and Israeli war objectives
+      remain unmet.
+    paragraph_summary: Following the declaration of a truce in Lebanon, Iran announced
+      that the Strait of Hormuz is "completely open," while former President Trump indicated
+      that peace talks with Iran could potentially resume. Joe Lauria notes that despite
+      these developments, the primary war objectives of the U.S. and Israel remain unfulfilled.
+    published: '2026-04-17T19:15:34+00:00'
+  - title: 'DAYS 45-48: Iran Says Strait Is Open as Trump Spins'
+    url: https://consortiumnews.com/2026/04/17/days-45-48-iran-says-strait-is-open-as-trump-spins/
+    text: After a Lebanon truce was declared, Iran said Friday the Strait of Hormuz
+      is “completely open.” Trump said Iran peace talks could resume. None of the U.S.
+      and Israeli war aims have been achieved, writes Joe Lauria. By Joe Lauria… Read
+      more →
+    one_sentence_summary: Following a truce in Lebanon, Iran announced that the Strait
+      of Hormuz is fully accessible, while Trump indicated that peace talks with Iran
+      might restart, despite Joe Lauria's assertion that the U.S. and Israeli war objectives
+      remain unmet.
+    paragraph_summary: Following the declaration of a truce in Lebanon, Iran announced
+      that the Strait of Hormuz is "completely open," while former President Trump indicated
+      that peace talks with Iran could potentially resume. Joe Lauria notes that despite
+      these developments, the primary war objectives of the U.S. and Israel remain unfulfilled.
+    published: '2026-04-17T19:15:34+00:00'
+  - title: 'Chris Hedges: Kuwait Holds American Journalist'
+    url: https://consortiumnews.com/2026/04/17/chris-hedges-kuwait-holds-american-journalist/
+    text: Kuwait has arrested a fearless Palestinian-American reporter for doing his
+      job and is threatening to imprison him under a set of new and harsh national security
+      laws. By Chris Hedges ScheerPost Ahmed Shihab-Eldin, a fearless Palestinian-American
+      journalist whose writing and reports… Read more →
+    one_sentence_summary: Kuwait has detained Palestinian-American journalist Ahmed
+      Shihab-Eldin for his reporting, threatening him with imprisonment under new stringent
+      national security laws.
+    paragraph_summary: Kuwait has detained Palestinian-American journalist Ahmed Shihab-Eldin,
+      citing his journalistic activities as the reason for his arrest, and is threatening
+      him with imprisonment under newly implemented stringent national security laws.
+      The situation highlights concerns over press freedom and the treatment of journalists
+      in the region, as Shihab-Eldin's work has been characterized by a commitment to
+      fearless reporting.
+    published: '2026-04-17T15:53:38+00:00'
+  - title: 'Chris Hedges: Kuwait Holds American Journalist'
+    url: https://consortiumnews.com/2026/04/17/chris-hedges-kuwait-holds-american-journalist/
+    text: Kuwait has arrested a fearless Palestinian-American reporter for doing his
+      job and is threatening to imprison him under a set of new and harsh national security
+      laws. By Chris Hedges ScheerPost Ahmed Shihab-Eldin, a fearless Palestinian-American
+      journalist whose writing and reports… Read more →
+    one_sentence_summary: Kuwait has detained Palestinian-American journalist Ahmed
+      Shihab-Eldin for his reporting, threatening him with imprisonment under new stringent
+      national security laws.
+    paragraph_summary: Kuwait has detained Palestinian-American journalist Ahmed Shihab-Eldin,
+      citing his journalistic activities as the reason for his arrest, and is threatening
+      him with imprisonment under newly implemented stringent national security laws.
+      The situation highlights concerns over press freedom and the treatment of journalists
+      in the region, as Shihab-Eldin's work has been characterized by a commitment to
+      fearless reporting.
+    published: '2026-04-17T15:53:38+00:00'
+  - title: 'Vijay Prashad: The Petrodollar & the War on Iran'
+    url: https://consortiumnews.com/2026/04/17/vijay-prashad-the-petrodollar-the-war-on-iran/
+    text: 'The illegal U.S.-Israeli war on Iran is exposing the Oil-Dollar-Wall Street
+      complex that binds oil, financial markets, and dollar power, with consequences
+      that reach far beyond the region. By Vijay Prashad Tricontinental: Institute for
+      Social Research As you and I worry… Read more →'
+    one_sentence_summary: The article discusses how the illegal U.S.-Israeli military
+      actions against Iran are revealing the interconnectedness of oil, financial markets,
+      and dollar dominance, with implications that extend well beyond the Middle East.
+    paragraph_summary: The article by Vijay Prashad discusses the implications of the
+      U.S.-Israeli military actions against Iran, highlighting how this conflict reveals
+      the interconnectedness of oil, financial markets, and the dominance of the U.S.
+      dollar. It emphasizes that the repercussions of this war extend beyond the immediate
+      region, affecting global economic structures and power dynamics. The piece critiques
+      the underlying motivations of these actions, suggesting that they are driven by
+      a complex relationship between oil interests and financial markets, ultimately
+      raising concerns about the broader impact on international relations and economic
+      stability.
+    published: '2026-04-17T13:23:14+00:00'
+  - title: 'Vijay Prashad: The Petrodollar & the War on Iran'
+    url: https://consortiumnews.com/2026/04/17/vijay-prashad-the-petrodollar-the-war-on-iran/
+    text: 'The illegal U.S.-Israeli war on Iran is exposing the Oil-Dollar-Wall Street
+      complex that binds oil, financial markets, and dollar power, with consequences
+      that reach far beyond the region. By Vijay Prashad Tricontinental: Institute for
+      Social Research As you and I worry… Read more →'
+    one_sentence_summary: The article discusses how the illegal U.S.-Israeli military
+      actions against Iran are revealing the interconnectedness of oil, financial markets,
+      and dollar dominance, with implications that extend well beyond the Middle East.
+    paragraph_summary: The article by Vijay Prashad discusses the implications of the
+      U.S.-Israeli military actions against Iran, highlighting how this conflict reveals
+      the interconnectedness of oil, financial markets, and the dominance of the U.S.
+      dollar. It emphasizes that the repercussions of this war extend beyond the immediate
+      region, affecting global economic structures and power dynamics. The piece critiques
+      the underlying motivations of these actions, suggesting that they are driven by
+      a complex relationship between oil interests and financial markets, ultimately
+      raising concerns about the broader impact on international relations and economic
+      stability.
+    published: '2026-04-17T13:23:14+00:00'
+  - title: 'WATCH: CN Live! – ‘The Pirate State’'
+    url: https://consortiumnews.com/2026/04/16/watch-cn-live-the-pirate-state/
+    text: A broad overview of U.S. military action in Venezuela, Iran, and Russia reveals
+      a U.S. plan to disable its competitors and corner the oil market, says a new film
+      by Richard Medhurst, who joins CN Live! 8 pm EDT Tonight.… Read more →
+    one_sentence_summary: A new film by Richard Medhurst suggests that U.S. military
+      actions in Venezuela, Iran, and Russia are part of a strategy to undermine competitors
+      and dominate the oil market.
+    paragraph_summary: The article discusses a new film by Richard Medhurst that explores
+      U.S. military actions in Venezuela, Iran, and Russia, suggesting that these strategies
+      are part of a broader plan to undermine competitors and dominate the global oil
+      market. Medhurst will be featured on CN Live! to elaborate on these themes and
+      the implications of U.S. foreign policy in these regions.
+    published: '2026-04-16T18:00:09+00:00'
+  - title: 'WATCH: CN Live! – ‘The Pirate State’'
+    url: https://consortiumnews.com/2026/04/16/watch-cn-live-the-pirate-state/
+    text: A broad overview of U.S. military action in Venezuela, Iran, and Russia reveals
+      a U.S. plan to disable its competitors and corner the oil market, says a new film
+      by Richard Medhurst, who joins CN Live! 8 pm EDT Tonight.… Read more →
+    one_sentence_summary: A new film by Richard Medhurst suggests that U.S. military
+      actions in Venezuela, Iran, and Russia are part of a strategy to undermine competitors
+      and dominate the oil market.
+    paragraph_summary: The article discusses a new film by Richard Medhurst that explores
+      U.S. military actions in Venezuela, Iran, and Russia, suggesting that these strategies
+      are part of a broader plan to undermine competitors and dominate the global oil
+      market. Medhurst will be featured on CN Live! to elaborate on these themes and
+      the implications of U.S. foreign policy in these regions.
+    published: '2026-04-16T18:00:09+00:00'
+  - title: American Heresy
+    url: https://consortiumnews.com/2026/04/16/american-heresy/
+    text: Congress defied the plain meaning of the Fourth Amendment when it said data
+      gathered by warrantless surveillance under the Foreign Intelligence Surveillance
+      Act could be used by the F.B.I. for prosecution purposes, writes Andrew P. Napolitano.
+      By Andrew P. Napolitano… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Congress violated the Fourth
+      Amendment by allowing the FBI to use data obtained through warrantless surveillance
+      under the Foreign Intelligence Surveillance Act for prosecution.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Congress has
+      violated the Fourth Amendment by allowing the FBI to use data obtained through
+      warrantless surveillance under the Foreign Intelligence Surveillance Act (FISA)
+      for prosecution purposes. He contends that this practice undermines the constitutional
+      protections against unreasonable searches and seizures, highlighting a significant
+      conflict between national security measures and individual rights.
+    published: '2026-04-16T16:00:16+00:00'
+  - title: American Heresy
+    url: https://consortiumnews.com/2026/04/16/american-heresy/
+    text: Congress defied the plain meaning of the Fourth Amendment when it said data
+      gathered by warrantless surveillance under the Foreign Intelligence Surveillance
+      Act could be used by the F.B.I. for prosecution purposes, writes Andrew P. Napolitano.
+      By Andrew P. Napolitano… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that Congress violated the Fourth
+      Amendment by allowing the FBI to use data obtained through warrantless surveillance
+      under the Foreign Intelligence Surveillance Act for prosecution.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that Congress has
+      violated the Fourth Amendment by allowing the FBI to use data obtained through
+      warrantless surveillance under the Foreign Intelligence Surveillance Act (FISA)
+      for prosecution purposes. He contends that this practice undermines the constitutional
+      protections against unreasonable searches and seizures, highlighting a significant
+      conflict between national security measures and individual rights.
+    published: '2026-04-16T16:00:16+00:00'
+  - title: US & Israel Bomb 307+ Medical Facilities in Iran
+    url: https://consortiumnews.com/2026/04/16/us-israel-bomb-307-medical-facilities-in-iran/
+    text: The carefully planned destruction of Iran’s healthcare infrastructure fits
+      into a long history of deliberate U.S. attacks on hospitals, writes Alan Macleod. 
+      By Alan MacLeod MintPress News The United States and Israel are systematically
+      targeting hospitals in Iran. In one month of… Read more →
+    one_sentence_summary: The article by Alan Macleod discusses how the U.S. and Israel
+      are intentionally targeting Iran's healthcare infrastructure, continuing a historical
+      pattern of attacks on hospitals.
+    paragraph_summary: In an article by Alan Macleod for MintPress News, it is reported
+      that the United States and Israel are intentionally attacking hospitals in Iran
+      as part of a broader strategy to undermine the country's healthcare infrastructure.
+      This systematic targeting reflects a historical pattern of deliberate assaults
+      on medical facilities by the U.S., raising concerns about the humanitarian implications
+      of such actions. The article highlights the potential consequences for the Iranian
+      population and critiques the ongoing military tactics employed by these nations.
+    published: '2026-04-16T10:22:25+00:00'
+  - title: US & Israel Bomb 307+ Medical Facilities in Iran
+    url: https://consortiumnews.com/2026/04/16/us-israel-bomb-307-medical-facilities-in-iran/
+    text: The carefully planned destruction of Iran’s healthcare infrastructure fits
+      into a long history of deliberate U.S. attacks on hospitals, writes Alan Macleod. 
+      By Alan MacLeod MintPress News The United States and Israel are systematically
+      targeting hospitals in Iran. In one month of… Read more →
+    one_sentence_summary: The article by Alan Macleod discusses how the U.S. and Israel
+      are intentionally targeting Iran's healthcare infrastructure, continuing a historical
+      pattern of attacks on hospitals.
+    paragraph_summary: In an article by Alan Macleod for MintPress News, it is reported
+      that the United States and Israel are intentionally attacking hospitals in Iran
+      as part of a broader strategy to undermine the country's healthcare infrastructure.
+      This systematic targeting reflects a historical pattern of deliberate assaults
+      on medical facilities by the U.S., raising concerns about the humanitarian implications
+      of such actions. The article highlights the potential consequences for the Iranian
+      population and critiques the ongoing military tactics employed by these nations.
+    published: '2026-04-16T10:22:25+00:00'
+  - title: 'WATCH: CN LIVE! — ‘War & Deception’'
+    url: https://consortiumnews.com/2026/04/15/watch-cn-live-war-deception/
+    text: 'Former British diplomat and intelligence officer Alastair Crooke speaks to
+      CN Live! about war in the Middle East and the ways Western publics are deceived
+      about it. 8 a.m. EDT Thursday.   Guest: Alastair Crooke. Interviewer: Joe Lauria.
+      Producer: Cathy… Read more →'
+    one_sentence_summary: Former British diplomat Alastair Crooke discusses the Middle
+      East conflict and the misinformation faced by Western audiences in an interview
+      on CN Live! with Joe Lauria.
+    paragraph_summary: In an interview with CN Live!, former British diplomat and intelligence
+      officer Alastair Crooke discusses the ongoing war in the Middle East and critiques
+      how Western media and governments mislead the public regarding the conflict. He
+      emphasizes the importance of understanding the complexities of the situation and
+      the narratives that shape public perception. The conversation, hosted by Joe Lauria
+      and produced by Cathy, aims to shed light on the realities of the war and the
+      misinformation that surrounds it.
+    published: '2026-04-15T18:00:30+00:00'
+  - title: 'WATCH: CN LIVE! — ‘War & Deception’'
+    url: https://consortiumnews.com/2026/04/15/watch-cn-live-war-deception/
+    text: 'Former British diplomat and intelligence officer Alastair Crooke speaks to
+      CN Live! about war in the Middle East and the ways Western publics are deceived
+      about it. 8 a.m. EDT Thursday.   Guest: Alastair Crooke. Interviewer: Joe Lauria.
+      Producer: Cathy… Read more →'
+    one_sentence_summary: Former British diplomat Alastair Crooke discusses the Middle
+      East conflict and the misinformation faced by Western audiences in an interview
+      on CN Live! with Joe Lauria.
+    paragraph_summary: In an interview with CN Live!, former British diplomat and intelligence
+      officer Alastair Crooke discusses the ongoing war in the Middle East and critiques
+      how Western media and governments mislead the public regarding the conflict. He
+      emphasizes the importance of understanding the complexities of the situation and
+      the narratives that shape public perception. The conversation, hosted by Joe Lauria
+      and produced by Cathy, aims to shed light on the realities of the war and the
+      misinformation that surrounds it.
+    published: '2026-04-15T18:00:30+00:00'
+  - title: Iran Blasts YouTube Ban on Lego Mockery Videos
+    url: https://consortiumnews.com/2026/04/15/iran-blasts-youtube-ban-on-lego-mockery-videos/
+    text: While Explosive Media’s content can no longer be viewed on YouTube — which
+      is owned by Google — it appears unaffected on other major platforms such as Instagram,
+      X and TikTok, where it has garnered millions of views. By Stephen… Read more →
+    one_sentence_summary: Explosive Media's content has been removed from YouTube but
+      remains popular on other platforms like Instagram, X, and TikTok, where it continues
+      to attract millions of views.
+    paragraph_summary: Explosive Media's content has been removed from YouTube, a platform
+      owned by Google, but remains accessible and popular on other major social media
+      platforms like Instagram, X, and TikTok, where it continues to attract millions
+      of views.
+    published: '2026-04-15T15:58:54+00:00'
+  - title: Iran Blasts YouTube Ban on Lego Mockery Videos
+    url: https://consortiumnews.com/2026/04/15/iran-blasts-youtube-ban-on-lego-mockery-videos/
+    text: While Explosive Media’s content can no longer be viewed on YouTube — which
+      is owned by Google — it appears unaffected on other major platforms such as Instagram,
+      X and TikTok, where it has garnered millions of views. By Stephen… Read more →
+    one_sentence_summary: Explosive Media's content has been removed from YouTube but
+      remains popular on other platforms like Instagram, X, and TikTok, where it continues
+      to attract millions of views.
+    paragraph_summary: Explosive Media's content has been removed from YouTube, a platform
+      owned by Google, but remains accessible and popular on other major social media
+      platforms like Instagram, X, and TikTok, where it continues to attract millions
+      of views.
+    published: '2026-04-15T15:58:54+00:00'
+  - title: 'US TAX DAY: Each Taxpayer Paid $4K for War Last Year'
+    url: https://consortiumnews.com/2026/04/15/us-tax-day-each-taxpayer-paid-4k-for-war-last-year/
+    text: Americans spent about 50 days working and paying taxes last year just to feed
+      the war machine — with 23 days going to pay Pentagon contractors and their millionaire
+      CEOs, Lindsay Koshgarian and Hanna Homestead report. By Lindsay Koshgarian and…
+      Read more →
+    one_sentence_summary: Americans dedicated approximately 50 days of work and tax
+      payments last year to fund military expenditures, including 23 days specifically
+      for Pentagon contractors and their high-paid executives.
+    paragraph_summary: In a recent report by Lindsay Koshgarian and Hanna Homestead,
+      it was revealed that Americans dedicated approximately 50 days of their work and
+      tax contributions in the previous year to support military expenditures, with
+      23 of those days specifically allocated to compensating Pentagon contractors and
+      their high-earning executives.
+    published: '2026-04-15T08:37:04+00:00'
+  - title: 'US TAX DAY: Each Taxpayer Paid $4K for War Last Year'
+    url: https://consortiumnews.com/2026/04/15/us-tax-day-each-taxpayer-paid-4k-for-war-last-year/
+    text: Americans spent about 50 days working and paying taxes last year just to feed
+      the war machine — with 23 days going to pay Pentagon contractors and their millionaire
+      CEOs, Lindsay Koshgarian and Hanna Homestead report. By Lindsay Koshgarian and…
+      Read more →
+    one_sentence_summary: Americans dedicated approximately 50 days of work and tax
+      payments last year to fund military expenditures, including 23 days specifically
+      for Pentagon contractors and their high-paid executives.
+    paragraph_summary: In a recent report by Lindsay Koshgarian and Hanna Homestead,
+      it was revealed that Americans dedicated approximately 50 days of their work and
+      tax contributions in the previous year to support military expenditures, with
+      23 of those days specifically allocated to compensating Pentagon contractors and
+      their high-earning executives.
+    published: '2026-04-15T08:37:04+00:00'
   - title: UK Arms Shipment to Israel Seized in Belgium
     url: https://consortiumnews.com/2026/04/14/uk-arms-shipment-to-israel-seized-in-belgium/
     text: Belgian authorities have refused to name the arms firms that exported the
