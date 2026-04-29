@@ -7,25 +7,15 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict continues to reshape European and global geopolitics, recent developments highlight shifting alliances, internal European tensions, and the ongoing recalibration of Western strategies. The context remains one of entrenched confrontation, with Western governments facing both external pressures from Moscow and internal dissent regarding the direction and consequences of their policies.
+  The geopolitical landscape remains tense as the Russia-Ukraine conflict continues to shape European and global affairs. Western media coverage, often limited by restricted access, has been complemented by firsthand accounts such as those provided by **Gilbert Doctorow**, whose recent interviews and publications offer a unique perspective from within Russia during the height of the war.
   
-  **European Political Realignment and Internal Dissent**
+  A significant development highlighted in Doctorow’s latest discussions is the shifting stance of Belgian Prime Minister Bart De Wever. Initially lauded for his veto against the confiscation of Russian state assets to fund Ukraine, De Wever’s subsequent actions and comments at the Russian Embassy have led to a reevaluation of his position. This shift, according to Doctorow, signals a broader uncertainty within the European Union regarding its approach to Russia and the ongoing conflict.
   
-  A notable trend is the intensifying debate within Europe over the handling of Russian state assets and the broader approach to the Ukraine war. **Gilbert Doctorow** points to the case of Belgian Prime Minister Bart De Wever, who initially received praise for vetoing the confiscation of Russian assets to fund Ukraine. However, De Wever’s subsequent actions and rhetoric, particularly at the Russian Embassy, have led to a reevaluation of his stance, with Doctorow describing this as a “black stain” on his record. This episode underscores the fragility of consensus within the EU and the growing discomfort among some member states regarding the escalation of economic warfare against Russia.
+  Meanwhile, Doctorow’s commentary on Germany’s political climate draws attention to the controversial leadership of Chancellor Merz, whose policies and rhetoric have sparked debate over the direction of German and EU foreign policy. The implications for European unity and the bloc’s relationship with both Russia and the United States remain under close scrutiny.
   
-  **Western Media and Information Gaps**
+  Looking ahead, the prevailing trend is one of fragmentation within Europe, as member states grapple with diverging interests and external pressures. **Gilbert Doctorow** notes that, “there is high chance” that the EU’s internal divisions will deepen, particularly as economic and political costs of the Ukraine war mount. With Western strategies in flux and leadership under question, the outlook for a cohesive European response appears increasingly uncertain.
   
-  Another persistent issue is the lack of on-the-ground Western reporting from Russia, a gap that **Gilbert Doctorow**’s firsthand accounts attempt to address. His latest book, "War Diaries. The Russia-Ukraine War, 2022-2023," is cited as providing rare insight during a period when Western journalists were largely absent. This information asymmetry continues to influence Western public opinion and policy debates, with Doctorow’s perspective serving as a counterpoint to prevailing narratives.
-  
-  **Leadership and Policy Uncertainty**
-  
-  Leadership transitions and policy uncertainties are also shaping the geopolitical landscape. The recent focus on Germany’s Chancellor Merz, whom Doctorow controversially labels as a "Nazi chancellor," reflects the heightened rhetoric and polarization within European politics. Meanwhile, the fate of European Commission President Ursula von der Leyen is described as precarious, with speculation about her imminent departure. These leadership dynamics are likely to impact the EU’s cohesion and its approach to the Russia-Ukraine conflict.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, the majority of independent analysts, including **Gilbert Doctorow**, suggest that internal divisions within Europe will persist and may deepen, particularly as the costs of the conflict mount and public skepticism grows. There is a high chance of further political realignment within the EU, with some leaders facing increasing domestic pressure to reconsider confrontational policies toward Russia. The information gap regarding developments inside Russia is expected to remain, continuing to complicate Western decision-making.
-  
-  In summary, the geopolitical situation is marked by growing European unease, leadership uncertainties, and persistent information challenges. The trajectory points toward further internal EU debate and potential policy shifts, though a decisive change in the overall Western approach to Russia and Ukraine is not yet guaranteed.
+  In summary, the latest developments underscore a period of political recalibration in Europe, with leadership changes and policy reversals reflecting broader anxieties about the future of the continent’s security architecture. The confidence level for continued EU disunity is high, with Doctorow suggesting that further fragmentation is “quite likely” in the coming months.
 articles:
   - title: Multiple segments on this morning’s interview with News X World (India)
     url: https://gilbertdoctorow.com/2026/04/17/multiple-segments-on-this-mornings-interview-with-news-x-world-india/

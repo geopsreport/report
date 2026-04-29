@@ -7,27 +7,15 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of April 22, 2026, the global security landscape is marked by persistent tensions in the Middle East, shifting balances in military technology, and ongoing repercussions from recent conflicts. The following developments have emerged in the last reporting cycle:
+  Tensions in several global hotspots remain high as military modernization, regional conflicts, and strategic uncertainty continue to shape the geopolitical landscape. The latest developments highlight persistent vulnerabilities, shifting alliances, and unresolved security dilemmas.
   
-  **Iran’s Submarine Fleet: Uncertainty Remains**
+  The aftermath of the U.S.-Venezuela conflict is still being felt across the Caribbean. According to **Daniel L. Davis**, air travel is gradually resuming after months of disruption caused by the U.S. operation that led to the capture of Nicolás Maduro. While destinations like Puerto Rico and Trinidad have reopened, others, notably Barbados, face a slower recovery. This normalization is a positive sign for regional stability, but the uneven pace of recovery underscores lingering logistical and economic challenges.
   
-  The aftermath of the joint U.S.-Israeli operation against Iran’s navy continues to generate debate. While the White House asserts that Iran has “no operational submarines,” **Daniel L. Davis** highlights Defense Secretary Hegseth’s admission that “several North Korean-designed mini-subs may still be unaccounted for.” This lingering uncertainty complicates the regional naval balance and raises concerns about asymmetric threats in the Persian Gulf. The prevailing expert consensus is that while Iran’s conventional submarine threat has been sharply reduced, the potential for covert operations using mini-subs remains a significant risk.
+  In the Middle East, the status of Iran’s naval capabilities remains a source of concern. The White House asserts that Iran’s submarine fleet has been neutralized following a joint U.S.-Israeli operation, but **Daniel L. Davis** notes that “several North Korean-designed mini-subs may still be unaccounted for.” This ambiguity, combined with Iran’s recent reopening of the Strait of Hormuz under U.S. naval pressure, points to a fragile status quo. There is widespread skepticism about the permanence of Iran’s decision, with many analysts warning that the strait could be closed again if U.S. forces withdraw. The situation remains volatile, and the risk of renewed escalation is high.
   
-  **Strait of Hormuz: Stability Tied to U.S. Naval Presence**
+  Meanwhile, the U.S. military’s reliance on aircraft carriers persists despite repeated demonstrations of their vulnerability in exercises. **Daniel L. Davis** highlights that “German diesel subs have repeatedly ‘sunk’ U.S. carriers in war games,” yet these platforms remain central to American power projection, especially in the context of ongoing tensions with Iran. This reliance, despite known risks, suggests institutional inertia and a lack of viable alternatives in the short term.
   
-  Iran’s reopening of the Strait of Hormuz has eased immediate economic pressures, but skepticism persists regarding the durability of this move. **Daniel L. Davis** notes that “the Strait may revert [to closure] once U.S. naval presence diminishes,” reflecting widespread doubts about Iran’s long-term intentions. The situation underscores the fragility of current nuclear negotiations and the critical role of U.S. military assets in maintaining freedom of navigation. The majority view is that any reduction in U.S. naval forces would “most definitely” prompt renewed Iranian brinkmanship, threatening global energy supplies.
-  
-  **Caribbean Airspace Recovery Post-U.S.-Venezuela Conflict**
-  
-  Three and a half months after the U.S. operation that ousted Venezuelan leader Nicolás Maduro, Caribbean air travel is showing signs of recovery. **Daniel L. Davis** reports that “some destinations are resuming flights while others, like Barbados, face longer recovery times.” The normalization of airspace is a positive indicator for regional stability, though the pace of recovery varies. Most analysts believe there is a “high chance” that full normalization will occur within the next quarter, barring unforeseen disruptions.
-  
-  **Trends and Predictions**
-  
-  - The consensus is that Iran’s naval capabilities, though degraded, are not entirely neutralized—mini-sub activity remains a wildcard.
-  - The security of the Strait of Hormuz is “most definitely” contingent on continued U.S. naval engagement.
-  - Caribbean recovery from airspace disruptions is progressing, with “quite likely” prospects for full restoration in the near term.
-  
-  Overall, the geopolitical environment remains tense but manageable, with U.S. military presence acting as a critical stabilizer in multiple regions.
+  Looking ahead, the normalization of Caribbean airspace is expected to continue, though full recovery may take months. In the Persian Gulf, there is a high chance that Iran will test the limits of U.S. resolve as soon as naval pressure eases; I guarantee that the unresolved status of Iran’s mini-subs will remain a wildcard in regional security calculations. The U.S. Navy’s carrier-centric doctrine is likely to persist, but its vulnerabilities will continue to be exposed in both exercises and potential future conflicts. Overall, the trends point to a period of uneasy stability, with the potential for sudden shifts if any of these flashpoints escalate.
 articles:
   - title: 'Sorry, F-35: Why The Waitlist Is Long for the Dassault Rafale Fighter Jet
       That Isn’t Even Stealth'
