@@ -8,16 +8,19 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing US-Iran conflict and its cascading effects on global energy markets, financial stability, and regional alliances. Over the past weeks, the Trump administration’s aggressive posture—most notably the newly announced blockade of the Persian Gulf and Gulf of Oman—has intensified uncertainty and raised critical questions about both feasibility and strategic intent.
+  The ongoing US-led war against Iran, initiated under the Trump administration’s “Operation Blind Fury,” continues to reshape global geopolitics and the world economy. The recent announcement of a US blockade in the Persian Gulf and Gulf of Oman has intensified tensions, raising questions about both its strategic feasibility and broader economic consequences.
   
-  **Michael Hudson** and **Radhika Desai** have emphasized the perplexing nature of the US blockade, noting its limited practicality given the scale of maritime traffic and the risk of direct confrontation with Iran. This escalation comes at a time when, according to **Hudson**, the war against Iran has already produced “significant and multifaceted negative impact on the global economy,” with oil prices surging and supply chains under severe strain.
+  **Escalation in the Persian Gulf:**
+  According to **Michael Hudson**, the newly declared blockade represents a significant escalation in US policy, but its practical implementation is highly questionable. “The rationale behind the blockade is perplexing,” Hudson notes, highlighting that the US Navy is stretched thin and the operation risks further destabilizing global energy markets. The move is widely seen as an attempt to pressure Iran and its regional allies, but analysts doubt its long-term sustainability.
   
-  The economic fallout is not limited to energy. As **Hudson** discussed with **Anne Pettifor** and **Françoise Vergès**, the current crisis is exposing deeper vulnerabilities in the global financial system, particularly the fragility of dollar dominance. The ongoing oil shock, described as the largest in history, is accelerating moves toward multipolarity in global markets, with alternative payment systems and regional alliances gaining traction.
+  **Global Economic Fallout:**
+  The war’s economic repercussions are already severe. As **Hudson** explains, “the largest oil shock in history” is underway, with disruptions in Iranian and Qatari energy exports driving up prices and threatening a systemic crisis. The blockade and ongoing conflict have accelerated inflation globally, while also undermining confidence in the US dollar’s dominance. The situation is exacerbating pre-existing economic vulnerabilities, with Hudson warning that “unsustainable economic conditions” are being pushed to a breaking point.
   
-  Regionally, Greece’s expanding military agreements with both Israel and the United States, highlighted by **Dimitrios Konstantakopoulos**, signal a further polarization of the Eastern Mediterranean, with potential ramifications for Cyprus and broader regional stability.
+  **Regional Realignments:**
+  Amid the conflict, regional actors are recalibrating their alliances. **Dimitrios Konstantakopoulos** points to Greece’s deepening military ties with both Israel and the US, which could further complicate the eastern Mediterranean’s balance of power, especially regarding Cyprus and Iran. This reflects a broader trend of shifting alliances as states seek to hedge against the unpredictable fallout from the US-Iran confrontation.
   
-  **Trends and Predictions:**  
-  There is a high chance that the blockade will prove unsustainable in the medium term, as logistical and diplomatic challenges mount. The economic crisis triggered by the conflict is most definitely set to deepen, with inflationary pressures likely to be followed by deflationary risks, as outlined by **Hudson** and **Steve Keen**. The shift toward a multipolar oil market is now irreversible, and the weakening of US financial hegemony is quite likely to accelerate if current trends persist. I guarantee that the global order will continue to fragment, with new alliances and economic blocs emerging in response to the ongoing instability.
+  **Trends and Predictions:**
+  Looking ahead, the majority of analysts agree that the blockade is unlikely to achieve its stated objectives and may instead accelerate the fragmentation of the global economic order. As Hudson summarizes, “the geopolitical landscape is being altered permanently.” There is a high chance of continued volatility in energy markets and further erosion of US financial hegemony. Most definitely, the conflict will continue to drive inflation and economic instability worldwide, with the risk of a broader systemic crisis increasing as the situation evolves.
 articles:
   - title: The Blockade Bluff
     url: https://michael-hudson.com/2026/04/the-blockade-bluff/

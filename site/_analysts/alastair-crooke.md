@@ -7,23 +7,13 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The geopolitical landscape remains defined by escalating U.S.-Iran tensions, deepening fractures within the Western alliance, and the persistent challenge posed by China and Russia to the Trump administration’s “America First” doctrine. Over the past 24 hours, several new developments have sharpened these trends.
+  As tensions in West Asia continue to escalate, the latest analyses underscore the centrality of Iran’s asymmetric strategy and its impact on U.S. and Israeli ambitions. Over the past two decades, Iran has meticulously developed a doctrine of asymmetric warfare, designed to neutralize the conventional military advantages of its adversaries. According to **Alastair Crooke**, this approach has “posed a significant challenge to the conventional air-strike approach of the U.S. and Israel,” with Iran’s resilience now shaping the regional balance of power.
   
-  **Iran’s Asymmetric Strategy and U.S. Calculations**
+  Recent developments indicate that Iran’s strategy is not only defensive but also aimed at shifting the broader geopolitical landscape. As **Crooke** notes, Iran is “successfully targeting U.S. military infrastructure,” a move that threatens to undermine U.S. influence in the region and disrupt global energy markets. This, in turn, has direct implications for China’s energy security and the wider BRICS bloc, as ongoing instability could “significantly alter geopolitical dynamics and energy markets.”
   
-  Recent reports underscore Iran’s continued reliance on asymmetric warfare, a doctrine honed over two decades to counter U.S. and Israeli military superiority. **Alastair Crooke** notes that Iran’s resilience “poses a significant challenge to the conventional air-strike approach of the U.S. and Israel,” and that Tehran’s strategic patience is shifting the regional balance. Iran’s targeting of U.S. military infrastructure, rather than direct confrontation, is seen as a deliberate effort to undermine American influence while avoiding all-out war. This approach, Crooke argues, is “most definitely” altering the calculus for Washington and Tel Aviv, making a decisive military solution increasingly elusive.
+  Diplomatic efforts remain stalled. The collapse of U.S.-Iran nuclear talks, driven by what **Crooke** describes as “unrealistic demands” from Washington, has left little room for de-escalation. The prevailing view among analysts is that political motivations—rather than strategic calculation—are fueling the current trajectory, increasing the risk of further conflict.
   
-  **Failed Diplomacy and the Risk of Escalation**
-  
-  Diplomatic efforts between the U.S. and Iran have stalled, with the latest round of talks collapsing over what Crooke describes as “unrealistic demands” from Washington regarding nuclear disarmament. The lack of progress has heightened the risk of miscalculation and potential escalation. Crooke points out that the Trump administration’s approach is driven more by domestic political imperatives and psychological posturing than by a coherent strategic vision. The prevailing view among analysts is that, absent a diplomatic breakthrough, the risk of a wider regional conflict remains high.
-  
-  **Shifting Alliances and Internal Western Divisions**
-  
-  Meanwhile, the U.S. push for a Gaza reconstruction plan has exposed growing rifts between Washington and Tel Aviv. Israeli leaders are increasingly wary of Trump’s transactional approach, which prioritizes economic interests over traditional security guarantees. This divergence is compounded by broader Western disunity, as Europe faces pressure to shoulder more responsibility for defense and economic stability. Crooke highlights that “the Trump administration’s ambitions to restore Western dominance are being frustrated by both internal divisions and external resistance from China, Russia, and Iran.”
-  
-  **Trends and Predictions**
-  
-  Looking ahead, the majority of sources agree that Iran’s asymmetric strategy will continue to frustrate U.S. and Israeli objectives in the region. The likelihood of a negotiated settlement with Tehran appears low, given entrenched positions on both sides. The internal divisions within the Western alliance are expected to deepen, particularly as economic pressures mount and public disillusionment with elite-driven policies grows. As Crooke concludes, there is a “high chance” that the current trajectory will lead to further instability, with the potential for sudden escalation if either side miscalculates. The broader trend remains one of fragmentation and uncertainty, with no clear resolution in sight.
+  Looking ahead, the majority consensus is that Iran’s steadfastness will continue to frustrate U.S.-Israeli objectives. There is a **high chance** that the U.S. will struggle to achieve its aims through military means alone, while Iran’s ability to absorb and respond to pressure will most definitely keep the region in a state of heightened volatility. As Crooke concludes, “if Iran survives and stays steadfast,” the broader U.S. strategy to contain China and BRICS through resource wars is likely to falter. This trend is expected to persist, with the risk of escalation remaining elevated in the coming weeks.
 articles:
   - title: Is Having No War Plan Trump’s ‘Plan’? – OpEd
     url: https://www.eurasiareview.com/16032026-is-having-no-war-plan-trumps-plan-oped/
